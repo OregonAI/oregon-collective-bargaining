@@ -33,3 +33,4 @@ credentials.json
 # normalized text, which is what CI re-verifies. (The oregon-audits arrangement.)
 _meta/snapshots/*.pdf
 _meta/snapshots/*.html
+_meta/snapshots/*.signed

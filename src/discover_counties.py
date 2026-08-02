@@ -65,7 +65,8 @@ def _txt(s: str) -> str:
 
 def _term(*texts: str) -> str | None:
     for t in texts:
-        if m := TERM.search(urllib.parse.unquote(t or "")):
+        # WordPress slugs separate with underscores ("2022_-_2027"); normalize first.
+        if m := TERM.search(urllib.parse.unquote(t or "").replace("_", " ")):
             return f"{m.group(1)}-{m.group(2)}"
     return None
 
@@ -216,6 +217,24 @@ def x_coos(t: str) -> list[dict]:
         if "cba" not in (title + m.group(1)).lower():
             continue   # drops e.g. the public-records-request form
         out.append(_mk("coos", "https://co.coos.or.us" + m.group(1), re.sub(r"\.pdf$", "", title, flags=re.I)))
+    return out
+
+
+def x_benton(t: str) -> list[dict]:
+    """Benton's careers-and-benefits page IS the labor index (found on the tranche-2
+    hunt after the survey's not-located): three unit links in the bargaining section —
+    one an intermediate WordPress page (AFSCME), two direct wp-content PDFs."""
+    out = []
+    for m in re.finditer(r'href="(https://hr\.bentoncountyor\.gov/[^"]+)"[^>]*>([^<]{10,120})', t):
+        url, label = m.group(1), _txt(m.group(2))
+        if not re.search(r"Federation of State|Sheriff|Nurses Association", label):
+            continue
+        if url.endswith(".pdf"):
+            out.append(_mk("benton", url, label))
+        else:
+            out.append(_mk("benton", url, label, fmt="html",
+                           notes="Intermediate WordPress page — the wp-content PDF is "
+                                 "resolved out of it at ingest."))
     return out
 
 
@@ -384,6 +403,26 @@ COUNTIES: dict[str, dict] = {
         upstream="Hashed file paths mean upstream updates change URLs — index link-set diff is "
                  "the change signal.",
         header=[]),
+    "benton": dict(
+        employer="benton-county", extractor=x_benton,
+        title="Benton County labor agreements",
+        index="https://hr.bentoncountyor.gov/careers-and-benefits/",
+        crawl=dict(decision="proceed", checked=ARCHIVE_DATE,
+                   basis="hr.bentoncountyor.gov robots.txt is a universal allow "
+                         "(User-agent: * / empty Disallow); no AI-agent rules. Note the "
+                         "counties corpus measured Benton's CODE vendor blocking "
+                         "ClaudeBot — the county's own HR subdomain does not.",
+                   hosts=[_stock_host("hr.bentoncountyor.gov",
+                                      "WordPress. The survey recorded Benton as "
+                                      "not-located; the tranche-2 hunt found the index "
+                                      "IS the careers-and-benefits page. The ONA "
+                                      "2025-2029 contract posted 2026-01 was unknown "
+                                      "to the survey.")]),
+        upstream="No feed; wp-content upload paths are dated by year/month, so new "
+                 "uploads get new URLs — re-fetch the careers page and diff links.",
+        header=["SURVEY CORRECTION: benton was `not-located` in the 2026-08-02 survey; "
+                "this group upgrades it to verified — the index was one navigation "
+                "level below where the search pass looked."]),
     "yamhill": dict(
         employer="yamhill-county", extractor=x_yamhill,
         title="Yamhill County union contracts",

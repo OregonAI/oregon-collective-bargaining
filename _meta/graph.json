@@ -1,9 +1,27 @@
 {
  "corpus": "oregon-collective-bargaining",
- "n_nodes": 171,
- "n_edges": 978,
- "n_edges_external": 942,
+ "n_nodes": 226,
+ "n_edges": 1006,
+ "n_edges_external": 951,
  "nodes": [
+  {
+   "id": "benton-county-american-federation-of-state-county-and-municipal-employees-council-75-afl-cio-local-2064-lab",
+   "title": "Benton County — American Federation of State, County and Municipal Employees Council #75, AFL-CIO, Local 2064 Labor Contract ( 2024 R",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/benton-county/cba/benton-county-american-federation-of-state-county-and-municipal-employees-council-75-afl-cio-local-2064-lab.md"
+  },
+  {
+   "id": "benton-county-benton-county-deputy-sheriff-s-association-july-1-2022-june-30-2027",
+   "title": "Benton County — Benton County Deputy Sheriff’s Association (July 1, 2022 – June 30, 2027)",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/benton-county/cba/benton-county-benton-county-deputy-sheriff-s-association-july-1-2022-june-30-2027.md"
+  },
+  {
+   "id": "benton-county-oregon-nurses-association-july-1-2025-june-30-2029",
+   "title": "Benton County — Oregon Nurses Association (July 1, 2025 – June 30, 2029)",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/benton-county/cba/benton-county-oregon-nurses-association-july-1-2025-june-30-2029.md"
+  },
   {
    "id": "clackamas-county-ccom-central-communications-9-1-1",
    "title": "Clackamas County — CCOM - Central Communications 9-1-1",
@@ -155,6 +173,48 @@
    "path": "agreements/columbia-county/cba/columbia-county-foppo-signed-cba-2024-2026.md"
   },
   {
+   "id": "coos-county-afscme-cba-2025-2028",
+   "title": "Coos County — AFSCME CBA 2025-2028",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/coos-county/cba/coos-county-afscme-cba-2025-2028.md"
+  },
+  {
+   "id": "coos-county-cads-cba-2026-2029",
+   "title": "Coos County — CADS CBA 2026-2029",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/coos-county/cba/coos-county-cads-cba-2026-2029.md"
+  },
+  {
+   "id": "coos-county-coos-foppo-cba-final-2025-2027",
+   "title": "Coos County — COOS FOPPO CBA FINAL 2025-2027",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/coos-county/cba/coos-county-coos-foppo-cba-final-2025-2027.md"
+  },
+  {
+   "id": "coos-county-ona-cba-2024-2027",
+   "title": "Coos County — ONA CBA 2024-2027",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/coos-county/cba/coos-county-ona-cba-2024-2027.md"
+  },
+  {
+   "id": "coos-county-prosecuting-attorneys-cba-2024-2027",
+   "title": "Coos County — Prosecuting Attorneys CBA 2024-2027",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/coos-county/cba/coos-county-prosecuting-attorneys-cba-2024-2027.md"
+  },
+  {
+   "id": "coos-county-roads-union-cba-2024-2027",
+   "title": "Coos County — Roads Union CBA 2024-2027",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/coos-county/cba/coos-county-roads-union-cba-2024-2027.md"
+  },
+  {
+   "id": "coos-county-solid-waste-cba-2024-2027",
+   "title": "Coos County — Solid Waste CBA 2024- 2027",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/coos-county/cba/coos-county-solid-waste-cba-2024-2027.md"
+  },
+  {
    "id": "deschutes-county-afscme-cba-2025-2030-dc-2025-597",
    "title": "Deschutes County — AFSCME CBA 2025-2030 DC 2025-597",
    "doc_type": "collective_bargaining_agreement",
@@ -209,6 +269,30 @@
    "path": "agreements/deschutes-county/cba/deschutes-county-iuoe-local-701-contract-july-22-2023-june-30-2026.md"
   },
   {
+   "id": "deschutes-county-mou-9-1-1-cola-methodology-change-dc-2025-671",
+   "title": "Deschutes County — MOU 9-1-1 COLA Methodology Change DC-2025-671",
+   "doc_type": "letter_of_agreement",
+   "path": "agreements/deschutes-county/loa/deschutes-county-mou-9-1-1-cola-methodology-change-dc-2025-671.md"
+  },
+  {
+   "id": "deschutes-county-mou-9-1-1-dispatcher-and-call-taker-position-incentives-dc-2022-569",
+   "title": "Deschutes County — MOU - 9-1-1 Dispatcher AND Call Taker Position Incentives DC 2022-569",
+   "doc_type": "letter_of_agreement",
+   "path": "agreements/deschutes-county/loa/deschutes-county-mou-9-1-1-dispatcher-and-call-taker-position-incentives-dc-2022-569.md"
+  },
+  {
+   "id": "deschutes-county-mou-9-1-1-regarding-section-16-g-1-dc-2022-576",
+   "title": "Deschutes County — MOU - 9-1-1 Regarding Section 16.g.1 DC 2022-576",
+   "doc_type": "letter_of_agreement",
+   "path": "agreements/deschutes-county/loa/deschutes-county-mou-9-1-1-regarding-section-16-g-1-dc-2022-576.md"
+  },
+  {
+   "id": "deschutes-county-mou-afscme-behavioral-health-clinical-supervision-incentive-program-dc-2023-1035",
+   "title": "Deschutes County — MOU - AFSCME Behavioral Health Clinical Supervision Incentive Program DC-2023-1035",
+   "doc_type": "letter_of_agreement",
+   "path": "agreements/deschutes-county/loa/deschutes-county-mou-afscme-behavioral-health-clinical-supervision-incentive-program-dc-2023-1035.md"
+  },
+  {
    "id": "deschutes-county-mou-afscme-bh-service-area-position-incentives-dc-2025-709",
    "title": "Deschutes County — MOU AFSCME BH Service Area Position Incentives DC-2025-709",
    "doc_type": "letter_of_agreement",
@@ -227,6 +311,12 @@
    "path": "agreements/deschutes-county/loa/deschutes-county-mou-afscme-crisis-program-position-incentives-dc-2025-711.md"
   },
   {
+   "id": "deschutes-county-mou-afscme-high-needs-rural-services-position-pay-differential-dc-2023-341",
+   "title": "Deschutes County — MOU - AFSCME High Needs Rural Services Position Pay Differential DC-2023-341",
+   "doc_type": "letter_of_agreement",
+   "path": "agreements/deschutes-county/loa/deschutes-county-mou-afscme-high-needs-rural-services-position-pay-differential-dc-2023-341.md"
+  },
+  {
    "id": "deschutes-county-mou-afscme-juvenile-community-justice-pay-differentials-dc-2023-720",
    "title": "Deschutes County — MOU AFSCME Juvenile Community Justice Pay Differentials DC-2023-720",
    "doc_type": "letter_of_agreement",
@@ -239,10 +329,28 @@
    "path": "agreements/deschutes-county/loa/deschutes-county-mou-afscme-registration-certification-and-licensure-reimb-dc-2024-334.md"
   },
   {
+   "id": "deschutes-county-mou-afscme-stabilization-center-employees-dc-2021-898",
+   "title": "Deschutes County — MOU AFSCME Stabilization Center Employees DC 2021-898",
+   "doc_type": "letter_of_agreement",
+   "path": "agreements/deschutes-county/loa/deschutes-county-mou-afscme-stabilization-center-employees-dc-2021-898.md"
+  },
+  {
    "id": "deschutes-county-mou-afscme-termination-of-mous-dc-2025-712",
    "title": "Deschutes County — MOU AFSCME Termination of MOUs DC-2025-712",
    "doc_type": "letter_of_agreement",
    "path": "agreements/deschutes-county/loa/deschutes-county-mou-afscme-termination-of-mous-dc-2025-712.md"
+  },
+  {
+   "id": "deschutes-county-mou-dcdaa-cola-fy-22-23-dc-2022-387",
+   "title": "Deschutes County — MOU DCDAA COLA FY 22/23 DC-2022-387",
+   "doc_type": "letter_of_agreement",
+   "path": "agreements/deschutes-county/loa/deschutes-county-mou-dcdaa-cola-fy-22-23-dc-2022-387.md"
+  },
+  {
+   "id": "deschutes-county-mou-dcdaa-pay-period-alignment-transition-plan-dc-2023-212",
+   "title": "Deschutes County — MOU DCDAA Pay Period Alignment Transition Plan DC 2023-212",
+   "doc_type": "letter_of_agreement",
+   "path": "agreements/deschutes-county/loa/deschutes-county-mou-dcdaa-pay-period-alignment-transition-plan-dc-2023-212.md"
   },
   {
    "id": "deschutes-county-mou-dcdaa-retention-bonus-incentive-program-dc-2023-651",
@@ -255,6 +363,90 @@
    "title": "Deschutes County — MOU - DCDAA Tiers Implementation DC 2023-650",
    "doc_type": "letter_of_agreement",
    "path": "agreements/deschutes-county/loa/deschutes-county-mou-dcdaa-tiers-implementation-dc-2023-650.md"
+  },
+  {
+   "id": "deschutes-county-mou-dcsea-lateral-deputy-incentive-package-dc-2021-388",
+   "title": "Deschutes County — MOU - DCSEA Lateral Deputy Incentive Package DC 2021-388",
+   "doc_type": "letter_of_agreement",
+   "path": "agreements/deschutes-county/loa/deschutes-county-mou-dcsea-lateral-deputy-incentive-package-dc-2021-388.md"
+  },
+  {
+   "id": "deschutes-county-mou-dcsea-pay-period-alignment-transition-plan-dc-2023-213",
+   "title": "Deschutes County — MOU DCSEA Pay Period Alignment Transition Plan DC 2023-213",
+   "doc_type": "letter_of_agreement",
+   "path": "agreements/deschutes-county/loa/deschutes-county-mou-dcsea-pay-period-alignment-transition-plan-dc-2023-213.md"
+  },
+  {
+   "id": "deschutes-county-mou-dcsea-retro-salary-range-adjustment-dc-2019-741",
+   "title": "Deschutes County — MOU - DCSEA Retro Salary Range Adjustment DC 2019-741",
+   "doc_type": "letter_of_agreement",
+   "path": "agreements/deschutes-county/loa/deschutes-county-mou-dcsea-retro-salary-range-adjustment-dc-2019-741.md"
+  },
+  {
+   "id": "deschutes-county-mou-dcsea-time-collection-and-pay-periods-dc-2022-220",
+   "title": "Deschutes County — MOU DCSEA Time Collection AND Pay Periods DC-2022-220",
+   "doc_type": "letter_of_agreement",
+   "path": "agreements/deschutes-county/loa/deschutes-county-mou-dcsea-time-collection-and-pay-periods-dc-2022-220.md"
+  },
+  {
+   "id": "deschutes-county-mou-foppo-cola-fy-22-23-dc-2022-389",
+   "title": "Deschutes County — MOU FOPPO COLA FY 22/23 DC-2022-389",
+   "doc_type": "letter_of_agreement",
+   "path": "agreements/deschutes-county/loa/deschutes-county-mou-foppo-cola-fy-22-23-dc-2022-389.md"
+  },
+  {
+   "id": "deschutes-county-mou-foppo-core-correctional-practices-dc-2022-260",
+   "title": "Deschutes County — MOU - FOPPO Core Correctional Practices DC-2022-260",
+   "doc_type": "letter_of_agreement",
+   "path": "agreements/deschutes-county/loa/deschutes-county-mou-foppo-core-correctional-practices-dc-2022-260.md"
+  },
+  {
+   "id": "deschutes-county-mou-foppo-juneteenth-holiday-dc-2022-354",
+   "title": "Deschutes County — MOU FOPPO Juneteenth Holiday DC-2022-354",
+   "doc_type": "letter_of_agreement",
+   "path": "agreements/deschutes-county/loa/deschutes-county-mou-foppo-juneteenth-holiday-dc-2022-354.md"
+  },
+  {
+   "id": "deschutes-county-mou-foppo-pay-period-alignment-transition-plan-dc-2023-214",
+   "title": "Deschutes County — MOU FOPPO Pay Period Alignment Transition Plan DC-2023-214",
+   "doc_type": "letter_of_agreement",
+   "path": "agreements/deschutes-county/loa/deschutes-county-mou-foppo-pay-period-alignment-transition-plan-dc-2023-214.md"
+  },
+  {
+   "id": "deschutes-county-mou-foppo-recognition-of-cola-methodology-change-dc-2025-673",
+   "title": "Deschutes County — MOU FOPPO Recognition of COLA Methodology Change DC-2025-673",
+   "doc_type": "letter_of_agreement",
+   "path": "agreements/deschutes-county/loa/deschutes-county-mou-foppo-recognition-of-cola-methodology-change-dc-2025-673.md"
+  },
+  {
+   "id": "deschutes-county-mou-iuoe-cola-fy22-23-dc-2022-390",
+   "title": "Deschutes County — MOU IUOE COLA FY22/23 DC-2022-390",
+   "doc_type": "letter_of_agreement",
+   "path": "agreements/deschutes-county/loa/deschutes-county-mou-iuoe-cola-fy22-23-dc-2022-390.md"
+  },
+  {
+   "id": "deschutes-county-mou-iuoe-cola-methodology-change-dc-2025-686",
+   "title": "Deschutes County — MOU IUOE COLA Methodology Change DC-2025-686",
+   "doc_type": "letter_of_agreement",
+   "path": "agreements/deschutes-county/loa/deschutes-county-mou-iuoe-cola-methodology-change-dc-2025-686.md"
+  },
+  {
+   "id": "deschutes-county-mou-iuoe-juneteenth-holiday-dc-2022-355",
+   "title": "Deschutes County — MOU IUOE Juneteenth Holiday DC-2022-355",
+   "doc_type": "letter_of_agreement",
+   "path": "agreements/deschutes-county/loa/deschutes-county-mou-iuoe-juneteenth-holiday-dc-2022-355.md"
+  },
+  {
+   "id": "deschutes-county-mou-iuoe-pay-period-alignment-transition-plan-dc-2023-215",
+   "title": "Deschutes County — MOU IUOE Pay Period Alignment Transition Plan DC 2023-215",
+   "doc_type": "letter_of_agreement",
+   "path": "agreements/deschutes-county/loa/deschutes-county-mou-iuoe-pay-period-alignment-transition-plan-dc-2023-215.md"
+  },
+  {
+   "id": "deschutes-county-mou-iuoe-wage-adjustment-dc-2022-365",
+   "title": "Deschutes County — MOU IUOE Wage Adjustment DC-2022-365",
+   "doc_type": "letter_of_agreement",
+   "path": "agreements/deschutes-county/loa/deschutes-county-mou-iuoe-wage-adjustment-dc-2022-365.md"
   },
   {
    "id": "deschutes-county-mou-pesticide-license-stipend-dc-2026-0181",
@@ -341,6 +533,24 @@
    "path": "agreements/lane-county/loa/lane-county-afscme-general-cba-modifications.md"
   },
   {
+   "id": "lane-county-afscme-nurses-cba-modifications",
+   "title": "Lane County — AFSCME Nurses CBA Modifications",
+   "doc_type": "letter_of_agreement",
+   "path": "agreements/lane-county/loa/lane-county-afscme-nurses-cba-modifications.md"
+  },
+  {
+   "id": "lane-county-afscme-physicians-cba-modifications",
+   "title": "Lane County — AFSCME Physicians CBA Modifications",
+   "doc_type": "letter_of_agreement",
+   "path": "agreements/lane-county/loa/lane-county-afscme-physicians-cba-modifications.md"
+  },
+  {
+   "id": "lane-county-foppo-cba-modifications",
+   "title": "Lane County — FOPPO CBA Modifications",
+   "doc_type": "letter_of_agreement",
+   "path": "agreements/lane-county/loa/lane-county-foppo-cba-modifications.md"
+  },
+  {
    "id": "lane-county-paa-cba-modifications",
    "title": "Lane County — PAA CBA Modifications",
    "doc_type": "letter_of_agreement",
@@ -387,6 +597,12 @@
    "title": "Marion County — ONA CBA",
    "doc_type": "collective_bargaining_agreement",
    "path": "agreements/marion-county/cba/marion-county-ona-cba.md"
+  },
+  {
+   "id": "marion-county-mcssa-cba-extension-loa",
+   "title": "Marion County — MCSSA CBA Extension LOA",
+   "doc_type": "letter_of_agreement",
+   "path": "agreements/marion-county/loa/marion-county-mcssa-cba-extension-loa.md"
   },
   {
    "id": "multnomah-county-afscme-local-88-cba-2025-2028",
@@ -887,6 +1103,12 @@
    "path": "agreements/washington-county/cba/washington-county-afscme-cc-mou-4-10-workday-schedule-11-18-2025-pdf.md"
   },
   {
+   "id": "washington-county-afscme-cc-mou-trimet-insurance-pay-period-11-18-2025-pdf",
+   "title": "Washington County — AFSCME CC MOU_TriMet Insurance Pay Period 11-18-2025.pdf",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/washington-county/cba/washington-county-afscme-cc-mou-trimet-insurance-pay-period-11-18-2025-pdf.md"
+  },
+  {
    "id": "washington-county-afscme-collective-bargaining-agreement-2024-2027-agreement",
    "title": "Washington County — AFSCME Collective Bargaining Agreement 2024-2027 Agreement",
    "doc_type": "collective_bargaining_agreement",
@@ -897,6 +1119,12 @@
    "title": "Washington County — AFSCME (Juvenile) Agreement 2025-2027",
    "doc_type": "collective_bargaining_agreement",
    "path": "agreements/washington-county/cba/washington-county-afscme-juvenile-agreement-2025-2027.md"
+  },
+  {
+   "id": "washington-county-afscme-mou-appendix-a-12-3-2024",
+   "title": "Washington County — AFSCME MOU_Appendix A 12.3.2024",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/washington-county/cba/washington-county-afscme-mou-appendix-a-12-3-2024.md"
   },
   {
    "id": "washington-county-foppo-agreement-2022-2026",
@@ -915,6 +1143,18 @@
    "title": "Washington County — FOPPO LOA_Movement to a Higher Classification.pdf",
    "doc_type": "collective_bargaining_agreement",
    "path": "agreements/washington-county/cba/washington-county-foppo-loa-movement-to-a-higher-classification-pdf.md"
+  },
+  {
+   "id": "washington-county-foppo-mou-benefit-plan-design-changes-for-2024-pdf",
+   "title": "Washington County — FOPPO MOU_Benefit Plan Design Changes for 2024.pdf",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/washington-county/cba/washington-county-foppo-mou-benefit-plan-design-changes-for-2024-pdf.md"
+  },
+  {
+   "id": "washington-county-mou-ssg-jst-uniform-6-5-24",
+   "title": "Washington County — MOU_SSG_JST Uniform 6-5-24",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/washington-county/cba/washington-county-mou-ssg-jst-uniform-6-5-24.md"
   },
   {
    "id": "washington-county-oregon-nurses-association-2024-2027-agreement",
@@ -971,6 +1211,12 @@
    "path": "agreements/washington-county/cba/washington-county-wcpoa-moa-enchanced-jail-overtime-extension-8-28-2024.md"
   },
   {
+   "id": "washington-county-wcpoa-mou-military-leave-3-26-2024",
+   "title": "Washington County — WCPOA_MOU_Military Leave_3.26.2024",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/washington-county/cba/washington-county-wcpoa-mou-military-leave-3-26-2024.md"
+  },
+  {
    "id": "washington-county-wcpoa-sergeants-unit-sgt-cba-2025-2028",
    "title": "Washington County — WCPOA Sergeants Unit (SGT) CBA 2025-2028",
    "doc_type": "collective_bargaining_agreement",
@@ -983,16 +1229,70 @@
    "path": "agreements/washington-county/loa/washington-county-foppo-memorandum-of-understanding-t-315.md"
   },
   {
+   "id": "washington-county-memorandum-of-understanding-8-22-2023-2",
+   "title": "Washington County — Memorandum of Understanding 8/22/2023",
+   "doc_type": "letter_of_agreement",
+   "path": "agreements/washington-county/loa/washington-county-memorandum-of-understanding-8-22-2023-2.md"
+  },
+  {
+   "id": "washington-county-memorandum-of-understanding-8-22-2023",
+   "title": "Washington County — Memorandum of Understanding 8/22/2023",
+   "doc_type": "letter_of_agreement",
+   "path": "agreements/washington-county/loa/washington-county-memorandum-of-understanding-8-22-2023.md"
+  },
+  {
+   "id": "washington-county-memorandum-of-understanding-8-7-2023-2",
+   "title": "Washington County — Memorandum of Understanding 8/7/2023",
+   "doc_type": "letter_of_agreement",
+   "path": "agreements/washington-county/loa/washington-county-memorandum-of-understanding-8-7-2023-2.md"
+  },
+  {
+   "id": "washington-county-memorandum-of-understanding-8-7-2023",
+   "title": "Washington County — Memorandum of Understanding 8/7/2023",
+   "doc_type": "letter_of_agreement",
+   "path": "agreements/washington-county/loa/washington-county-memorandum-of-understanding-8-7-2023.md"
+  },
+  {
+   "id": "washington-county-memorandum-of-understanding-9-29-2022",
+   "title": "Washington County — Memorandum of Understanding 9/29/2022",
+   "doc_type": "letter_of_agreement",
+   "path": "agreements/washington-county/loa/washington-county-memorandum-of-understanding-9-29-2022.md"
+  },
+  {
    "id": "washington-county-mou-tools-and-equipment-for-road-maintenance-workers",
    "title": "Washington County — MOU Tools and Equipment for Road Maintenance Workers",
    "doc_type": "letter_of_agreement",
    "path": "agreements/washington-county/loa/washington-county-mou-tools-and-equipment-for-road-maintenance-workers.md"
   },
   {
+   "id": "washington-county-wcpoa-moa-benefits-changes-for-calendar-year-2025",
+   "title": "Washington County — WCPOA MOA Benefits Changes for Calendar Year 2025",
+   "doc_type": "letter_of_agreement",
+   "path": "agreements/washington-county/loa/washington-county-wcpoa-moa-benefits-changes-for-calendar-year-2025.md"
+  },
+  {
+   "id": "washington-county-wcpoa-moa-enhanced-jail-overtime-extension-12-18-2024",
+   "title": "Washington County — WCPOA MOA Enhanced Jail Overtime Extension 12.18.2024",
+   "doc_type": "letter_of_agreement",
+   "path": "agreements/washington-county/loa/washington-county-wcpoa-moa-enhanced-jail-overtime-extension-12-18-2024.md"
+  },
+  {
    "id": "washington-county-wcpoa-moa-jail-in-service-extension-12-4-2024",
    "title": "Washington County — WCPOA MOA Jail In-Service Extension 12.4.2024",
    "doc_type": "letter_of_agreement",
    "path": "agreements/washington-county/loa/washington-county-wcpoa-moa-jail-in-service-extension-12-4-2024.md"
+  },
+  {
+   "id": "washington-county-wcpoa-moa-lateral-hiring-incentive-pay-6-14-2024",
+   "title": "Washington County — WCPOA MOA Lateral Hiring Incentive Pay 6.14.2024",
+   "doc_type": "letter_of_agreement",
+   "path": "agreements/washington-county/loa/washington-county-wcpoa-moa-lateral-hiring-incentive-pay-6-14-2024.md"
+  },
+  {
+   "id": "washington-county-wcpoa-moa-paid-leave-oregon-and-impact-on-qpp-10-19-2023-pdf",
+   "title": "Washington County — WCPOA MOA Paid Leave Oregon and impact on QPP 10/19/2023.pdf",
+   "doc_type": "letter_of_agreement",
+   "path": "agreements/washington-county/loa/washington-county-wcpoa-moa-paid-leave-oregon-and-impact-on-qpp-10-19-2023-pdf.md"
   },
   {
    "id": "washington-county-wcpoa-moa-recruit-deputy-age-mq-10-4-2024",
@@ -1013,10 +1313,40 @@
    "path": "agreements/washington-county/loa/washington-county-wcpoa-mou-21-6-incentive-pay-7-16-2024.md"
   },
   {
+   "id": "washington-county-wcpoa-mou-paid-leave-oregon-8-21-2023",
+   "title": "Washington County — WCPOA MOU Paid Leave Oregon 8.21.2023",
+   "doc_type": "letter_of_agreement",
+   "path": "agreements/washington-county/loa/washington-county-wcpoa-mou-paid-leave-oregon-8-21-2023.md"
+  },
+  {
+   "id": "washington-county-wcpoa-sgt-moa-unused-floating-holiday-11-4-2025",
+   "title": "Washington County — WCPOA SGT MOA Unused Floating Holiday 11.4.2025",
+   "doc_type": "letter_of_agreement",
+   "path": "agreements/washington-county/loa/washington-county-wcpoa-sgt-moa-unused-floating-holiday-11-4-2025.md"
+  },
+  {
+   "id": "washington-county-wcpoa-ssg-moa-jstsup-6-16-2026",
+   "title": "Washington County — WCPOA SSG MOA JSTSUP 6.16.2026",
+   "doc_type": "letter_of_agreement",
+   "path": "agreements/washington-county/loa/washington-county-wcpoa-ssg-moa-jstsup-6-16-2026.md"
+  },
+  {
+   "id": "yamhill-county-2023-to-2026-ycddaa-cba",
+   "title": "Yamhill County — 2023 to 2026 YCDDAA CBA",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/yamhill-county/cba/yamhill-county-2023-to-2026-ycddaa-cba.md"
+  },
+  {
    "id": "yamhill-county-2023-to-2026-ycea-cba",
    "title": "Yamhill County — 2023 to 2026 YCEA CBA",
    "doc_type": "collective_bargaining_agreement",
    "path": "agreements/yamhill-county/cba/yamhill-county-2023-to-2026-ycea-cba.md"
+  },
+  {
+   "id": "yamhill-county-2023-to-2026-ycjdwa-cba",
+   "title": "Yamhill County — 2023 to 2026 YCJDWA CBA",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/yamhill-county/cba/yamhill-county-2023-to-2026-ycjdwa-cba.md"
   },
   {
    "id": "yamhill-county-2024-to-2027-ycso-cba",
@@ -1032,6 +1362,51 @@
   }
  ],
  "edges": [
+  {
+   "from": "benton-county-benton-county-deputy-sheriff-s-association-july-1-2022-june-30-2027",
+   "type": "references_external",
+   "to": "ORS 237.305"
+  },
+  {
+   "from": "benton-county-benton-county-deputy-sheriff-s-association-july-1-2022-june-30-2027",
+   "type": "references_external",
+   "to": "ORS 238A.335"
+  },
+  {
+   "from": "benton-county-benton-county-deputy-sheriff-s-association-july-1-2022-june-30-2027",
+   "type": "references_external",
+   "to": "ORS 243.005"
+  },
+  {
+   "from": "benton-county-benton-county-deputy-sheriff-s-association-july-1-2022-june-30-2027",
+   "type": "references_external",
+   "to": "ORS 243.650"
+  },
+  {
+   "from": "benton-county-benton-county-deputy-sheriff-s-association-july-1-2022-june-30-2027",
+   "type": "references_external",
+   "to": "ORS 243.746"
+  },
+  {
+   "from": "benton-county-benton-county-deputy-sheriff-s-association-july-1-2022-june-30-2027",
+   "type": "references_external",
+   "to": "ORS 260.432"
+  },
+  {
+   "from": "benton-county-oregon-nurses-association-july-1-2025-june-30-2029",
+   "type": "references_external",
+   "to": "ORS 238.005"
+  },
+  {
+   "from": "benton-county-oregon-nurses-association-july-1-2025-june-30-2029",
+   "type": "references_external",
+   "to": "ORS 238.200"
+  },
+  {
+   "from": "benton-county-oregon-nurses-association-july-1-2025-june-30-2029",
+   "type": "references_external",
+   "to": "ORS 653.268"
+  },
   {
    "from": "clackamas-county-ccom-central-communications-9-1-1",
    "type": "references_external",
@@ -1343,6 +1718,11 @@
    "to": "ORS 653.601"
   },
   {
+   "from": "deschutes-county-mou-afscme-behavioral-health-clinical-supervision-incentive-program-dc-2023-1035",
+   "type": "related",
+   "to": "deschutes-county-afscme-cba-2025-2030-dc-2025-597"
+  },
+  {
    "from": "deschutes-county-mou-afscme-bh-service-area-position-incentives-dc-2025-709",
    "type": "related",
    "to": "deschutes-county-afscme-cba-2025-2030-dc-2025-597"
@@ -1363,6 +1743,11 @@
    "to": "deschutes-county-afscme-cba-2025-2030-dc-2025-597"
   },
   {
+   "from": "deschutes-county-mou-afscme-high-needs-rural-services-position-pay-differential-dc-2023-341",
+   "type": "related",
+   "to": "deschutes-county-afscme-cba-2025-2030-dc-2025-597"
+  },
+  {
    "from": "deschutes-county-mou-afscme-juvenile-community-justice-pay-differentials-dc-2023-720",
    "type": "related",
    "to": "deschutes-county-afscme-cba-2025-2030-dc-2025-597"
@@ -1378,9 +1763,84 @@
    "to": "deschutes-county-afscme-cba-2025-2030-dc-2025-597"
   },
   {
+   "from": "deschutes-county-mou-afscme-stabilization-center-employees-dc-2021-898",
+   "type": "related",
+   "to": "deschutes-county-afscme-cba-2025-2030-dc-2025-597"
+  },
+  {
    "from": "deschutes-county-mou-afscme-termination-of-mous-dc-2025-712",
    "type": "related",
    "to": "deschutes-county-afscme-cba-2025-2030-dc-2025-597"
+  },
+  {
+   "from": "deschutes-county-mou-dcsea-lateral-deputy-incentive-package-dc-2021-388",
+   "type": "related",
+   "to": "deschutes-county-dcsea-cba-july-1-2025-june-30-2026"
+  },
+  {
+   "from": "deschutes-county-mou-dcsea-pay-period-alignment-transition-plan-dc-2023-213",
+   "type": "related",
+   "to": "deschutes-county-dcsea-cba-july-1-2025-june-30-2026"
+  },
+  {
+   "from": "deschutes-county-mou-dcsea-retro-salary-range-adjustment-dc-2019-741",
+   "type": "related",
+   "to": "deschutes-county-dcsea-cba-july-1-2025-june-30-2026"
+  },
+  {
+   "from": "deschutes-county-mou-dcsea-time-collection-and-pay-periods-dc-2022-220",
+   "type": "related",
+   "to": "deschutes-county-dcsea-cba-july-1-2025-june-30-2026"
+  },
+  {
+   "from": "deschutes-county-mou-foppo-cola-fy-22-23-dc-2022-389",
+   "type": "related",
+   "to": "deschutes-county-foppo-contract-july-1-2023-june-30-2026"
+  },
+  {
+   "from": "deschutes-county-mou-foppo-core-correctional-practices-dc-2022-260",
+   "type": "related",
+   "to": "deschutes-county-foppo-contract-july-1-2023-june-30-2026"
+  },
+  {
+   "from": "deschutes-county-mou-foppo-juneteenth-holiday-dc-2022-354",
+   "type": "related",
+   "to": "deschutes-county-foppo-contract-july-1-2023-june-30-2026"
+  },
+  {
+   "from": "deschutes-county-mou-foppo-pay-period-alignment-transition-plan-dc-2023-214",
+   "type": "related",
+   "to": "deschutes-county-foppo-contract-july-1-2023-june-30-2026"
+  },
+  {
+   "from": "deschutes-county-mou-foppo-recognition-of-cola-methodology-change-dc-2025-673",
+   "type": "related",
+   "to": "deschutes-county-foppo-contract-july-1-2023-june-30-2026"
+  },
+  {
+   "from": "deschutes-county-mou-iuoe-cola-fy22-23-dc-2022-390",
+   "type": "related",
+   "to": "deschutes-county-iuoe-local-701-contract-july-22-2023-june-30-2026"
+  },
+  {
+   "from": "deschutes-county-mou-iuoe-cola-methodology-change-dc-2025-686",
+   "type": "related",
+   "to": "deschutes-county-iuoe-local-701-contract-july-22-2023-june-30-2026"
+  },
+  {
+   "from": "deschutes-county-mou-iuoe-juneteenth-holiday-dc-2022-355",
+   "type": "related",
+   "to": "deschutes-county-iuoe-local-701-contract-july-22-2023-june-30-2026"
+  },
+  {
+   "from": "deschutes-county-mou-iuoe-pay-period-alignment-transition-plan-dc-2023-215",
+   "type": "related",
+   "to": "deschutes-county-iuoe-local-701-contract-july-22-2023-june-30-2026"
+  },
+  {
+   "from": "deschutes-county-mou-iuoe-wage-adjustment-dc-2022-365",
+   "type": "related",
+   "to": "deschutes-county-iuoe-local-701-contract-july-22-2023-june-30-2026"
   },
   {
    "from": "deschutes-county-mou-pesticide-license-stipend-dc-2026-0181",
@@ -1663,6 +2123,11 @@
    "to": "ORS 657B.010"
   },
   {
+   "from": "lane-county-foppo-cba-modifications",
+   "type": "related",
+   "to": "lane-county-foppo-collective-bargaining-agreement"
+  },
+  {
    "from": "marion-county-foppo-cba",
    "type": "references_external",
    "to": "ORS 236.360"
@@ -1801,6 +2266,11 @@
    "from": "marion-county-ona-cba",
    "type": "references_external",
    "to": "ORS 652.120"
+  },
+  {
+   "from": "marion-county-mcssa-cba-extension-loa",
+   "type": "related",
+   "to": "marion-county-mcssa-cba"
   },
   {
    "from": "multnomah-county-afscme-local-88-cba-2025-2028",

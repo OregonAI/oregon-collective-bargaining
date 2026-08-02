@@ -95,7 +95,7 @@ employers:
   jurisdiction: oregon/benton-county
   source_url: null
   survey_status: not-located
-  built: false
+  built: true
 - slug: polk-county
   name: Polk County
   kind: county
@@ -130,7 +130,7 @@ employers:
   jurisdiction: oregon/coos-county
   source_url: https://co.coos.or.us/union-contracts
   survey_status: verified
-  built: false
+  built: true
 - slug: columbia-county
   name: Columbia County
   kind: county
