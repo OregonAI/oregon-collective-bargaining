@@ -34,6 +34,19 @@ SAME DISCIPLINE AS THE STATE TIER (src/ingest_cbas.py), different publisher shap
 State-library LOAs remain deferred (recorded in the CHANGELOG): they are mostly
 undated and span decades, so their currency needs a per-document curation pass,
 not a mechanical status: current.
+
+OCR POLICY (--ocr): the platform's TWO-ENGINE standard, per the kpm reference
+implementation (src/ocr_corroborate.py here is the same contract). tesseract
+(ocrmypdf) is the primary; PaddleOCR reads the ORIGINAL scan as the cross-check;
+a document ingests only if word-sequence agreement >= 0.80 AND the dictionary
+gate passes (vocabulary built from this corpus's own non-OCR snapshots — never
+from OCR output). Failures are skipped with their scores printed: human review,
+not rejection, but never silent ingestion. Two rules on top:
+  * `references_external` is WITHHELD on OCR documents regardless of score —
+    kpm measured figure agreement 3-9 points below word agreement, and here a
+    misread digit resolves a citation to the WRONG STATUTE while looking cited.
+  * frontmatter carries `text_source: ocr` (the kpm marker), which is also what
+    keeps these extractions OUT of the vocabulary that judges future OCR.
 """
 from __future__ import annotations
 
@@ -53,6 +66,8 @@ REPO_ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(REPO_ROOT / "src"))
 
 from corpus_toolkit.repo import hash_snapshot           # noqa: E402
+
+import ocr_corroborate as occ                           # noqa: E402
 
 SOURCES_DIR = REPO_ROOT / "_meta" / "sources"
 EMPLOYERS = REPO_ROOT / "_meta" / "employers.yml"
@@ -148,10 +163,11 @@ def union_of(title: str) -> str:
 
 
 def html_source(url: str, refetch: bool) -> tuple[str | None, str | None]:
-    """(dochub_pdf_url, page_html) for a Clackamas HTML source: a linked document
-    wins; otherwise the page itself is the document."""
+    """(document_url, page_html) for an HTML source: a linked document wins (Clackamas's
+    dochub uuids, Benton's wp-content uploads); otherwise the page itself is the
+    document (Clackamas publishes several agreements' text inline)."""
     page = fetch(url, None, refetch, expect_pdf=False).decode("utf-8", errors="replace")
-    links = DOCHUB.findall(page)
+    links = DOCHUB.findall(page) or re.findall(r'href="(https?://[^"]+\.pdf)"', page)
     return (links[0] if links else None), page
 
 
@@ -166,13 +182,15 @@ def html_main_text(page: str) -> str:
 
 def write_doc(county: dict, rec: dict, doc_id: str, sha: str, pages: int, text: str,
               today: str, cba_by_union: dict, fetched_url: str,
-              src_fmt: str = "pdf") -> Path:
+              src_fmt: str = "pdf", ocr: dict | None = None) -> Path:
     family = rec["family"]
     title = rec["title"]
     union = union_of(title)
     term, eff, exp = own_dates(text, rec.get("term"))
-    refs = sorted({f"ORS {n}" for n in ORS.findall(text)} |
-                  {f"OAR {n}" for n in OAR.findall(text)})
+    # OCR text never feeds citations: a misread digit resolves to the wrong statute
+    # while looking cited (see the OCR policy note at the top of this file).
+    refs = [] if ocr else sorted({f"ORS {n}" for n in ORS.findall(text)} |
+                                 {f"OAR {n}" for n in OAR.findall(text)})
 
     related = []
     if family == "loa" and union and len(cba_by_union.get(union, [])) == 1:
@@ -204,14 +222,19 @@ def write_doc(county: dict, rec: dict, doc_id: str, sha: str, pages: int, text: 
         "snapshot_policy": "hash-only",
         "status": "current",
         "content_mode": "summary",
+        **({"text_source": "ocr"} if ocr else {}),
         "reproduction_basis": ("jointly-authored contract; summary + official link per "
                                "the class determination in corpus.yml schema.doc_types "
                                "(verbatim: false)"),
-        "conversion_notes": (f"pdftotext -layout; {pages} pages, "
-                             f"{len(text)} characters extracted; NOT human-verified"
-                             if src_fmt == "pdf" else
-                             f"main-content text of the county's HTML page; "
-                             f"{len(text)} characters extracted; NOT human-verified"),
+        "conversion_notes": (
+            occ.notes(ocr) + ("; the source PDF carries a digital signature — OCR ran "
+                              "on a derived copy, the committed original preserves it"
+                              if ocr.get("signed") else "") if ocr else
+            f"pdftotext -layout; {pages} pages, "
+            f"{len(text)} characters extracted; NOT human-verified"
+            if src_fmt == "pdf" else
+            f"main-content text of the county's HTML page; "
+            f"{len(text)} characters extracted; NOT human-verified"),
         "last_verified": "",
         "verified_by": "",
         "maintainer": "@morficflux",
@@ -239,6 +262,13 @@ def write_doc(county: dict, rec: dict, doc_id: str, sha: str, pages: int, text: 
     glance.append(f"- Source document: {pages} pages (PDF)" if src_fmt == "pdf" else
                   "- Source document: an HTML page — the county publishes this "
                   "instrument's text inline rather than as a PDF")
+    if ocr:
+        glance.append(f"- **The source is an image-only scan.** Its committed text is a "
+                      f"machine reading corroborated by two independent OCR engines "
+                      f"({ocr['agreement']:.0%} word-sequence agreement — see "
+                      f"conversion_notes). Dates and terms above come from that reading; "
+                      f"statute citations are deliberately not extracted, because digits "
+                      f"are where engines diverge.")
     if fetched_url != rec["url"]:
         glance.append(f"- Fetched via the county's document CDN: {fetched_url} "
                       f"(the index links an intermediate page; see Curator notes)")
@@ -291,6 +321,9 @@ def main() -> int:
                                  formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--only", metavar="COUNTY")
     ap.add_argument("--limit", type=int, help="first N sources per county (smoke)")
+    ap.add_argument("--ocr", action="store_true",
+                    help="recover image-only scans with ocrmypdf (tesseract) — see the "
+                         "OCR policy note in this docstring")
     ap.add_argument("--refetch", action="store_true")
     args = ap.parse_args()
 
@@ -339,14 +372,63 @@ def main() -> int:
                 else:
                     fetch(fetched_url, pdf, args.refetch)
                     text, pages = extract(pdf, txt)
-                if len(text.strip()) < 200:
-                    skipped.append(f"{doc_id}: extraction under 200 chars (image-only "
-                                   f"scan?) — TODO: OCR pass required, not ingested")
-                    txt.unlink(missing_ok=True)
-                    continue
+                ocr = None
+                if len(text.strip()) < 200 and src_fmt == "pdf":
+                    if not args.ocr:
+                        skipped.append(f"{doc_id}: extraction under 200 chars (image-only "
+                                       f"scan?) — TODO: OCR pass required, not ingested")
+                        txt.unlink(missing_ok=True)
+                        continue
+                    ocr_pdf = SNAPSHOTS / f"{doc_id}.ocr.pdf"
+                    signed = False
+                    if not ocr_pdf.is_file() or args.refetch:
+                        cmd = ["ocrmypdf", "-l", "eng", "--optimize", "0",
+                               "--output-type", "pdf", "--rotate-pages",
+                               "--deskew", "--skip-text", str(pdf), str(ocr_pdf)]
+                        r = subprocess.run(cmd, capture_output=True, text=True)
+                        if r.returncode and "DigitalSignatureError" in r.stderr:
+                            # The source is DIGITALLY SIGNED — a provenance fact worth
+                            # keeping. OCR runs on a derived copy; the committed original
+                            # snapshot preserves the signature untouched, so invalidating
+                            # it on the copy alters nothing anyone verifies.
+                            signed = True
+                            subprocess.run(cmd[:1] + ["--invalidate-digital-signatures"]
+                                           + cmd[1:], check=True, capture_output=True)
+                        elif r.returncode:
+                            raise RuntimeError(f"ocrmypdf failed: {r.stderr.strip()[-200:]}")
+                    else:
+                        signed = "digitally signed" in (
+                            (SNAPSHOTS / f"{doc_id}.signed").read_text()
+                            if (SNAPSHOTS / f"{doc_id}.signed").is_file() else "")
+                    if signed:
+                        (SNAPSHOTS / f"{doc_id}.signed").write_text("digitally signed")
+                    text, pages = extract(ocr_pdf, txt)
+                    if len(text.strip()) < 200:
+                        skipped.append(f"{doc_id}: OCR recovered under 200 chars — "
+                                       f"TODO: human verification required")
+                        txt.unlink(missing_ok=True)
+                        continue
+                    cross = occ.paddle_text(pdf, SNAPSHOTS / ".paddle-work")
+                    if cross is None:
+                        skipped.append(f"{doc_id}: PaddleOCR cross-check unavailable — "
+                                       f"two-engine rule unmet, not ingested")
+                        txt.unlink(missing_ok=True)
+                        continue
+                    s = occ.score(text, cross, occ.vocabulary())
+                    if not (s["gate_ok"] and s["agree_ok"]):
+                        skipped.append(
+                            f"{doc_id}: failed the two-engine gate (agreement "
+                            f"{s['agreement']:.0%}, figures {s['figure_agreement']:.0%}, "
+                            f"dict {s['dict_ratio']:.0%}, {s['words']} words) — human "
+                            f"review required, not ingested")
+                        txt.unlink(missing_ok=True)
+                        continue
+                    if signed:
+                        s["signed"] = True
+                    ocr = s
                 sha = hash_snapshot(doc_id, src_fmt, SNAPSHOTS)
                 out = write_doc(county, rec, doc_id, sha, pages, text, today,
-                                cba_by_union, fetched_url, src_fmt)
+                                cba_by_union, fetched_url, src_fmt, ocr)
                 if rec["family"] == "cba":
                     u = union_of(rec["title"])
                     if u:

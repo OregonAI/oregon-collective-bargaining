@@ -40,7 +40,8 @@ relationships:
   - ORS 243.746
   - ORS 67.005
   related: []
-  supersedes: []
+  supersedes:
+  - state-seiu-non-state-adult-foster-home-providers-2023-2025
 tags:
 - collective-bargaining
 - state

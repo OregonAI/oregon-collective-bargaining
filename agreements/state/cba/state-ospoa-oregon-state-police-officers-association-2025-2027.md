@@ -38,7 +38,8 @@ relationships:
   - ORS 243.808
   - ORS 279.340
   related: []
-  supersedes: []
+  supersedes:
+  - state-ospoa-oregon-state-police-officers-association-2023-2025
 tags:
 - collective-bargaining
 - state

@@ -38,7 +38,8 @@ relationships:
   - ORS 475.005
   - ORS 652.220
   related: []
-  supersedes: []
+  supersedes:
+  - state-aoce-association-of-corrections-employees-2023-2025
 tags:
 - collective-bargaining
 - state

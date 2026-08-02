@@ -6,21 +6,24 @@ Generated 2026-08-02. Non-authoritative; see DISCLAIMER.md.
 
 | doc_type | count |
 |---|---|
-| collective_bargaining_agreement | 104 |
-| letter_of_agreement | 31 |
+| collective_bargaining_agreement | 157 |
+| letter_of_agreement | 69 |
 
-**Total: 135**
+**Total: 226**
 
 ## Source manifest
 
-676 declared source(s) across 11 group(s) in `sources`.
+679 declared source(s) across 12 group(s) in `sources`.
 
 ## Freshness (reverify every 180 days)
 
-135 of 135 document(s) overdue for re-verification.
+226 of 226 document(s) overdue for re-verification.
 
 | id | doc_type | last_verified |
 |---|---|---|
+| benton-county-american-federation-of-state-county-and-municipal-employees-council-75-afl-cio-local-2064-lab | collective_bargaining_agreement | never |
+| benton-county-benton-county-deputy-sheriff-s-association-july-1-2022-june-30-2027 | collective_bargaining_agreement | never |
+| benton-county-oregon-nurses-association-july-1-2025-june-30-2029 | collective_bargaining_agreement | never |
 | clackamas-county-ccom-central-communications-9-1-1 | collective_bargaining_agreement | never |
 | clackamas-county-clackamas-county-peace-officers-association-ccpoa | collective_bargaining_agreement | never |
 | clackamas-county-employee-association-part-time-temporary-eat | collective_bargaining_agreement | never |
@@ -46,6 +49,13 @@ Generated 2026-08-02. Non-authoritative; see DISCLAIMER.md.
 | columbia-county-ccdsa-signed-cba-2026-2028 | collective_bargaining_agreement | never |
 | columbia-county-collective-bargaining-agreement-sergeant-2026-final | collective_bargaining_agreement | never |
 | columbia-county-foppo-signed-cba-2024-2026 | collective_bargaining_agreement | never |
+| coos-county-afscme-cba-2025-2028 | collective_bargaining_agreement | never |
+| coos-county-cads-cba-2026-2029 | collective_bargaining_agreement | never |
+| coos-county-coos-foppo-cba-final-2025-2027 | collective_bargaining_agreement | never |
+| coos-county-ona-cba-2024-2027 | collective_bargaining_agreement | never |
+| coos-county-prosecuting-attorneys-cba-2024-2027 | collective_bargaining_agreement | never |
+| coos-county-roads-union-cba-2024-2027 | collective_bargaining_agreement | never |
+| coos-county-solid-waste-cba-2024-2027 | collective_bargaining_agreement | never |
 | deschutes-county-afscme-cba-2025-2030-dc-2025-597 | collective_bargaining_agreement | never |
 | deschutes-county-dcdaa-contract-changes-memo-2026-2029 | collective_bargaining_agreement | never |
 | deschutes-county-dcdaa-contract-july-1-2026-june-30-2029 | collective_bargaining_agreement | never |
@@ -55,21 +65,11 @@ Generated 2026-08-02. Non-authoritative; see DISCLAIMER.md.
 | deschutes-county-deschutes-9-1-1-supervisors-contract-july-1-2024-june-30-2026 | collective_bargaining_agreement | never |
 | deschutes-county-foppo-contract-july-1-2023-june-30-2026 | collective_bargaining_agreement | never |
 | deschutes-county-iuoe-local-701-contract-july-22-2023-june-30-2026 | collective_bargaining_agreement | never |
+| deschutes-county-mou-9-1-1-cola-methodology-change-dc-2025-671 | letter_of_agreement | never |
+| deschutes-county-mou-9-1-1-dispatcher-and-call-taker-position-incentives-dc-2022-569 | letter_of_agreement | never |
+| deschutes-county-mou-9-1-1-regarding-section-16-g-1-dc-2022-576 | letter_of_agreement | never |
+| deschutes-county-mou-afscme-behavioral-health-clinical-supervision-incentive-program-dc-2023-1035 | letter_of_agreement | never |
 | deschutes-county-mou-afscme-bh-service-area-position-incentives-dc-2025-709 | letter_of_agreement | never |
 | deschutes-county-mou-afscme-crisis-program-employees-dc-2025-710 | letter_of_agreement | never |
-| deschutes-county-mou-afscme-crisis-program-position-incentives-dc-2025-711 | letter_of_agreement | never |
-| deschutes-county-mou-afscme-juvenile-community-justice-pay-differentials-dc-2023-720 | letter_of_agreement | never |
-| deschutes-county-mou-afscme-registration-certification-and-licensure-reimb-dc-2024-334 | letter_of_agreement | never |
-| deschutes-county-mou-afscme-termination-of-mous-dc-2025-712 | letter_of_agreement | never |
-| deschutes-county-mou-dcdaa-retention-bonus-incentive-program-dc-2023-651 | letter_of_agreement | never |
-| deschutes-county-mou-dcdaa-tiers-implementation-dc-2023-650 | letter_of_agreement | never |
-| deschutes-county-mou-pesticide-license-stipend-dc-2026-0181 | letter_of_agreement | never |
-| jackson-county-federation-of-oregon-parole-and-probation-officers-foppo-labor-agreement | collective_bargaining_agreement | never |
-| jackson-county-jackson-county-employees-association-seiu-opeu-labor-agreement | collective_bargaining_agreement | never |
-| jackson-county-jackson-county-sheriff-s-employees-association-jcsea-labor-agreement | collective_bargaining_agreement | never |
-| lane-county-admin-pro-collective-bargaining-agreement | collective_bargaining_agreement | never |
-| lane-county-afscme-general-collective-bargaining-agreement | collective_bargaining_agreement | never |
-| lane-county-afscme-nurses-collective-bargaining-agreement | collective_bargaining_agreement | never |
-| lane-county-afscme-physicians-collective-bargaining-agreement | collective_bargaining_agreement | never |
-| … | *85 more* | |
+| … | *176 more* | |
 

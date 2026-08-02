@@ -42,7 +42,8 @@ relationships:
   - ORS 659A.283
   - ORS 659A.885
   related: []
-  supersedes: []
+  supersedes:
+  - state-aee-association-of-engineering-employees-2023-2025
 tags:
 - collective-bargaining
 - state

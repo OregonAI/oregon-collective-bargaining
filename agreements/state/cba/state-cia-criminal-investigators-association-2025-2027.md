@@ -41,7 +41,8 @@ relationships:
   - ORS 652.220
   - ORS 654.001
   related: []
-  supersedes: []
+  supersedes:
+  - state-cia-criminal-investigators-association-2023-2025
 tags:
 - collective-bargaining
 - state

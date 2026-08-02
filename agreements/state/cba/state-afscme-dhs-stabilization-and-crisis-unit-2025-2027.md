@@ -39,7 +39,8 @@ relationships:
   - ORS 652.220
   - ORS 659A.270
   related: []
-  supersedes: []
+  supersedes:
+  - state-afscme-dhs-stabilization-and-crisis-unit-2023-2025
 tags:
 - collective-bargaining
 - state
