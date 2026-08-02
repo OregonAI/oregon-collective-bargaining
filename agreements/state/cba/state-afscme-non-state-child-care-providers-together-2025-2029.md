@@ -38,7 +38,8 @@ relationships:
   - ORS 329A.500
   - ORS 657A.430
   related: []
-  supersedes: []
+  supersedes:
+  - state-afscme-non-state-childcare-providers-together-2021-2025
 tags:
 - collective-bargaining
 - state

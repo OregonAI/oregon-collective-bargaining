@@ -6,10 +6,10 @@ Generated 2026-08-02. Non-authoritative; see DISCLAIMER.md.
 
 | doc_type | count |
 |---|---|
-| collective_bargaining_agreement | 104 |
+| collective_bargaining_agreement | 140 |
 | letter_of_agreement | 31 |
 
-**Total: 135**
+**Total: 171**
 
 ## Source manifest
 
@@ -17,7 +17,7 @@ Generated 2026-08-02. Non-authoritative; see DISCLAIMER.md.
 
 ## Freshness (reverify every 180 days)
 
-135 of 135 document(s) overdue for re-verification.
+171 of 171 document(s) overdue for re-verification.
 
 | id | doc_type | last_verified |
 |---|---|---|
@@ -71,5 +71,5 @@ Generated 2026-08-02. Non-authoritative; see DISCLAIMER.md.
 | lane-county-afscme-general-collective-bargaining-agreement | collective_bargaining_agreement | never |
 | lane-county-afscme-nurses-collective-bargaining-agreement | collective_bargaining_agreement | never |
 | lane-county-afscme-physicians-collective-bargaining-agreement | collective_bargaining_agreement | never |
-| … | *85 more* | |
+| … | *121 more* | |
 

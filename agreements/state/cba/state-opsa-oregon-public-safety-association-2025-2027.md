@@ -38,7 +38,8 @@ relationships:
   - ORS 292.055
   - ORS 652.220
   related: []
-  supersedes: []
+  supersedes:
+  - state-opsa-oregon-public-safety-association-2023-2025
 tags:
 - collective-bargaining
 - state
