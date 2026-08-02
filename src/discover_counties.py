@@ -79,8 +79,27 @@ def _slug(group: str, text: str) -> str:
     return f"{group}-{s}"[:100]
 
 
+def _norm_url(url: str) -> str:
+    """Unescape entities, then percent-encode the path's hostile characters.
+
+    Two measured failure modes drive this: (1) hrefs arrive entity-escaped
+    (&amp; in Multnomah's slugs) and stored verbatim they 404 in a way that looks
+    like link rot — the oregon-audits lesson, met again; (2) markdown parsers
+    (lychee in CI) read `_..._` in a slug as EMPHASIS and truncate the URL at the
+    first underscore — Multnomah's `/file/_international_...(ibew)_...` scanned as
+    `/file/` and 404'd CI. Underscores are unreserved, so %5F is the same resource
+    to the server and inert to markdown. quote() with '%' safe keeps existing %20s
+    from double-encoding; parentheses and apostrophes encode too."""
+    u = _html.unescape(url)
+    m = re.match(r"(https?://[^/]+)(/[^?]*)?(\?.*)?$", u)
+    if not m:
+        return u
+    path = urllib.parse.quote(m.group(2) or "", safe="/%").replace("_", "%5F")
+    return m.group(1) + path + (m.group(3) or "")
+
+
 def _mk(group: str, url: str, title: str, fmt: str = "pdf", **extra) -> dict:
-    rec = {"id": _slug(group, title), "url": url.replace(" ", "%20"),
+    rec = {"id": _slug(group, title), "url": _norm_url(url),
            "family": extra.pop("family", None) or _family(title, url),
            "format": fmt, "sha256": "", "title": title}
     if t := _term(title, url):

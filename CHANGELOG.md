@@ -7,6 +7,17 @@ Repo-curation dates only — official effective dates live in frontmatter.
 ## [Unreleased]
 
 ### Added
+- 2026-08-02 — County tranche 1: 102 documents across 9 of the 10 approved
+  county publishers (Multnomah 13, Washington 22, Deschutes 18, Clackamas 20,
+  Lane 11, Marion 7, Columbia 5, Jackson 3, Yamhill 3), summary-first, with
+  LOAs/MOUs `related`-linked to their CBA where the union is unambiguous.
+  Measured at ingest: Clackamas publishes agreement text INLINE as HTML pages
+  (ingested with `source_format: html`), not behind its dochub links alone.
+  **Coos has zero documents ingested**: every one of its posted CBAs is an
+  image-only scan, held at the two-engine OCR gate rather than ingested
+  unverifiable — as are Washington's scanned MOU layer, two Yamhill CBAs, two
+  Lane modification files, and one Marion LOA (37 sources total, each a TODO
+  in the ingest log; tracked as a repo issue).
 - 2026-08-02 — Tranche 1: the current-term State of Oregon agreements from the
   DAS Labor Relations CBA library (32 documents: the 2025–2027 state contracts
   posted so far plus the posted non-state units), ingested summary-first per the

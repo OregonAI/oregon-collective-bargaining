@@ -27,7 +27,7 @@ upstream_signal: 'No feed, and the worst change signal in the tier: UNDATED, UNV
   in place. Content hashing is the ONLY update detection; a filename-diff shows nothing, forever.'
 sources:
 - id: lane-local-626-collective-bargaining-agreement
-  url: https://www.lanecounty.org/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/Human%20Resources/Collective%20Bargaining%20Agreements/Local%20626%20Collective%20Bargaining%20Agreement.pdf
+  url: https://www.lanecounty.org/UserFiles/Servers/Server%5F3585797/File/Government/County%20Departments/Human%20Resources/Collective%20Bargaining%20Agreements/Local%20626%20Collective%20Bargaining%20Agreement.pdf
   family: cba
   format: pdf
   sha256: ''
@@ -36,7 +36,7 @@ sources:
   notes: UNDATED filename overwritten in place upstream — the term is only inside the document; content
     hash is the only change signal.
 - id: lane-626-cba-modifications
-  url: https://www.lanecounty.org/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/Human%20Resources/Collective%20Bargaining%20Agreements/626%20CBA%20Modifications.pdf
+  url: https://www.lanecounty.org/UserFiles/Servers/Server%5F3585797/File/Government/County%20Departments/Human%20Resources/Collective%20Bargaining%20Agreements/626%20CBA%20Modifications.pdf
   family: loa
   format: pdf
   sha256: ''
@@ -45,7 +45,7 @@ sources:
   notes: UNDATED filename overwritten in place upstream — the term is only inside the document; content
     hash is the only change signal.
 - id: lane-admin-pro-collective-bargaining-agreement
-  url: https://www.lanecounty.org/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/Human%20Resources/Collective%20Bargaining%20Agreements/Admin-Pro%20Collective%20Bargaining%20Agreement.pdf
+  url: https://www.lanecounty.org/UserFiles/Servers/Server%5F3585797/File/Government/County%20Departments/Human%20Resources/Collective%20Bargaining%20Agreements/Admin-Pro%20Collective%20Bargaining%20Agreement.pdf
   family: cba
   format: pdf
   sha256: ''
@@ -54,7 +54,7 @@ sources:
   notes: UNDATED filename overwritten in place upstream — the term is only inside the document; content
     hash is the only change signal.
 - id: lane-admin-pro-cba-modifications
-  url: https://www.lanecounty.org/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/Human%20Resources/Collective%20Bargaining%20Agreements/Admin-Pro%20CBA%20Modifications.pdf
+  url: https://www.lanecounty.org/UserFiles/Servers/Server%5F3585797/File/Government/County%20Departments/Human%20Resources/Collective%20Bargaining%20Agreements/Admin-Pro%20CBA%20Modifications.pdf
   family: loa
   format: pdf
   sha256: ''
@@ -63,7 +63,7 @@ sources:
   notes: UNDATED filename overwritten in place upstream — the term is only inside the document; content
     hash is the only change signal.
 - id: lane-afscme-general-collective-bargaining-agreement
-  url: https://www.lanecounty.org/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/Human%20Resources/Collective%20Bargaining%20Agreements/AFSCME%20General%20Collective%20Bargaining%20Agreement.pdf
+  url: https://www.lanecounty.org/UserFiles/Servers/Server%5F3585797/File/Government/County%20Departments/Human%20Resources/Collective%20Bargaining%20Agreements/AFSCME%20General%20Collective%20Bargaining%20Agreement.pdf
   family: cba
   format: pdf
   sha256: ''
@@ -72,7 +72,7 @@ sources:
   notes: UNDATED filename overwritten in place upstream — the term is only inside the document; content
     hash is the only change signal.
 - id: lane-afscme-general-cba-modifications
-  url: https://www.lanecounty.org/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/Human%20Resources/Collective%20Bargaining%20Agreements/AFSCME%20General%20CBA%20Modifications.pdf
+  url: https://www.lanecounty.org/UserFiles/Servers/Server%5F3585797/File/Government/County%20Departments/Human%20Resources/Collective%20Bargaining%20Agreements/AFSCME%20General%20CBA%20Modifications.pdf
   family: loa
   format: pdf
   sha256: ''
@@ -81,7 +81,7 @@ sources:
   notes: UNDATED filename overwritten in place upstream — the term is only inside the document; content
     hash is the only change signal.
 - id: lane-afscme-nurses-collective-bargaining-agreement
-  url: https://www.lanecounty.org/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/Human%20Resources/Collective%20Bargaining%20Agreements/AFSCME%20Nurses%20Collective%20Bargaining%20Agreement.pdf
+  url: https://www.lanecounty.org/UserFiles/Servers/Server%5F3585797/File/Government/County%20Departments/Human%20Resources/Collective%20Bargaining%20Agreements/AFSCME%20Nurses%20Collective%20Bargaining%20Agreement.pdf
   family: cba
   format: pdf
   sha256: ''
@@ -90,7 +90,7 @@ sources:
   notes: UNDATED filename overwritten in place upstream — the term is only inside the document; content
     hash is the only change signal.
 - id: lane-afscme-nurses-cba-modifications
-  url: https://www.lanecounty.org/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/Human%20Resources/Collective%20Bargaining%20Agreements/AFSCME%20Nurses%20CBA%20Modifications.pdf
+  url: https://www.lanecounty.org/UserFiles/Servers/Server%5F3585797/File/Government/County%20Departments/Human%20Resources/Collective%20Bargaining%20Agreements/AFSCME%20Nurses%20CBA%20Modifications.pdf
   family: loa
   format: pdf
   sha256: ''
@@ -99,7 +99,7 @@ sources:
   notes: UNDATED filename overwritten in place upstream — the term is only inside the document; content
     hash is the only change signal.
 - id: lane-afscme-physicians-collective-bargaining-agreement
-  url: https://www.lanecounty.org/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/Human%20Resources/Collective%20Bargaining%20Agreements/AFSCME%20Physicians%20Collective%20Bargaining%20Agreement.pdf
+  url: https://www.lanecounty.org/UserFiles/Servers/Server%5F3585797/File/Government/County%20Departments/Human%20Resources/Collective%20Bargaining%20Agreements/AFSCME%20Physicians%20Collective%20Bargaining%20Agreement.pdf
   family: cba
   format: pdf
   sha256: ''
@@ -108,7 +108,7 @@ sources:
   notes: UNDATED filename overwritten in place upstream — the term is only inside the document; content
     hash is the only change signal.
 - id: lane-afscme-physicians-cba-modifications
-  url: https://www.lanecounty.org/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/Human%20Resources/Collective%20Bargaining%20Agreements/AFSCME%20Physicians%20CBA%20Modifications.pdf
+  url: https://www.lanecounty.org/UserFiles/Servers/Server%5F3585797/File/Government/County%20Departments/Human%20Resources/Collective%20Bargaining%20Agreements/AFSCME%20Physicians%20CBA%20Modifications.pdf
   family: loa
   format: pdf
   sha256: ''
@@ -117,7 +117,7 @@ sources:
   notes: UNDATED filename overwritten in place upstream — the term is only inside the document; content
     hash is the only change signal.
 - id: lane-foppo-collective-bargaining-agreement
-  url: https://www.lanecounty.org/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/Human%20Resources/Collective%20Bargaining%20Agreements/FOPPO%20Collective%20Bargaining%20Agreement.pdf
+  url: https://www.lanecounty.org/UserFiles/Servers/Server%5F3585797/File/Government/County%20Departments/Human%20Resources/Collective%20Bargaining%20Agreements/FOPPO%20Collective%20Bargaining%20Agreement.pdf
   family: cba
   format: pdf
   sha256: ''
@@ -126,7 +126,7 @@ sources:
   notes: UNDATED filename overwritten in place upstream — the term is only inside the document; content
     hash is the only change signal.
 - id: lane-foppo-cba-modifications
-  url: https://www.lanecounty.org/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/Human%20Resources/Collective%20Bargaining%20Agreements/FOPPO%20CBA%20Modifications.pdf
+  url: https://www.lanecounty.org/UserFiles/Servers/Server%5F3585797/File/Government/County%20Departments/Human%20Resources/Collective%20Bargaining%20Agreements/FOPPO%20CBA%20Modifications.pdf
   family: loa
   format: pdf
   sha256: ''
@@ -135,7 +135,7 @@ sources:
   notes: UNDATED filename overwritten in place upstream — the term is only inside the document; content
     hash is the only change signal.
 - id: lane-lcpoa-collective-bargaining-agreement
-  url: https://www.lanecounty.org/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/Human%20Resources/Collective%20Bargaining%20Agreements/LCPOA%20Collective%20Bargaining%20Agreement.pdf
+  url: https://www.lanecounty.org/UserFiles/Servers/Server%5F3585797/File/Government/County%20Departments/Human%20Resources/Collective%20Bargaining%20Agreements/LCPOA%20Collective%20Bargaining%20Agreement.pdf
   family: cba
   format: pdf
   sha256: ''
@@ -144,7 +144,7 @@ sources:
   notes: UNDATED filename overwritten in place upstream — the term is only inside the document; content
     hash is the only change signal.
 - id: lane-lcpoa-cba-modifications
-  url: https://www.lanecounty.org/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/Human%20Resources/Collective%20Bargaining%20Agreements/LCPOA%20CBA%20Modifications.pdf
+  url: https://www.lanecounty.org/UserFiles/Servers/Server%5F3585797/File/Government/County%20Departments/Human%20Resources/Collective%20Bargaining%20Agreements/LCPOA%20CBA%20Modifications.pdf
   family: loa
   format: pdf
   sha256: ''
@@ -153,7 +153,7 @@ sources:
   notes: UNDATED filename overwritten in place upstream — the term is only inside the document; content
     hash is the only change signal.
 - id: lane-paa-collective-bargaining-agreement
-  url: https://www.lanecounty.org/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/Human%20Resources/Collective%20Bargaining%20Agreements/PAA%20Collective%20Bargaining%20Agreement.pdf
+  url: https://www.lanecounty.org/UserFiles/Servers/Server%5F3585797/File/Government/County%20Departments/Human%20Resources/Collective%20Bargaining%20Agreements/PAA%20Collective%20Bargaining%20Agreement.pdf
   family: cba
   format: pdf
   sha256: ''
@@ -162,7 +162,7 @@ sources:
   notes: UNDATED filename overwritten in place upstream — the term is only inside the document; content
     hash is the only change signal.
 - id: lane-paa-cba-modifications
-  url: https://www.lanecounty.org/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/Human%20Resources/Collective%20Bargaining%20Agreements/PAA%20CBA%20Modifications.pdf
+  url: https://www.lanecounty.org/UserFiles/Servers/Server%5F3585797/File/Government/County%20Departments/Human%20Resources/Collective%20Bargaining%20Agreements/PAA%20CBA%20Modifications.pdf
   family: loa
   format: pdf
   sha256: ''

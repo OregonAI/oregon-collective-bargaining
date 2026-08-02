@@ -22,7 +22,7 @@ upstream_signal: No feed. Index table lists each unit with its term; re-fetch th
   set, re-hash documents. The best-organized labor page in the state.
 sources:
 - id: multnomah-afscme-local-88-cba-2025-2028
-  url: https://multco.us/file/afscme_local_88_cba_2025_-_2028/download
+  url: https://multco.us/file/afscme%5Flocal%5F88%5Fcba%5F2025%5F-%5F2028/download
   family: cba
   format: pdf
   sha256: ''
@@ -30,7 +30,7 @@ sources:
   term: 2025-2028
   last_checked: '2026-08-02'
 - id: multnomah-dentists-afscme-local-88-5-2023-2026
-  url: https://multco.us/file/dentists_afscme_local_88-5_2023-2026/download
+  url: https://multco.us/file/dentists%5Fafscme%5Flocal%5F88-5%5F2023-2026/download
   family: cba
   format: pdf
   sha256: ''
@@ -38,7 +38,7 @@ sources:
   term: 2023-2026
   last_checked: '2026-08-02'
 - id: multnomah-federation-of-parole-and-probation-officers-2024-2027-contract
-  url: https://multco.us/file/federation_of_parole_and_probation_officers_2024-2027_contract/download
+  url: https://multco.us/file/federation%5Fof%5Fparole%5Fand%5Fprobation%5Fofficers%5F2024-2027%5Fcontract/download
   family: cba
   format: pdf
   sha256: ''
@@ -46,7 +46,7 @@ sources:
   term: 2024-2027
   last_checked: '2026-08-02'
 - id: multnomah-international-brotherhood-of-electrical-workers-ibew-local-48-2023-2027-labor-contract
-  url: https://multco.us/file/_international_brotherhood_of_electrical_workers_(ibew)_local_48_2023-2027_labor_contract/download
+  url: https://multco.us/file/%5Finternational%5Fbrotherhood%5Fof%5Felectrical%5Fworkers%5F%28ibew%29%5Flocal%5F48%5F2023-2027%5Flabor%5Fcontract/download
   family: cba
   format: pdf
   sha256: ''
@@ -54,7 +54,7 @@ sources:
   term: 2023-2027
   last_checked: '2026-08-02'
 - id: multnomah-juvenile-custody-services-specialists-cba-2023-2026
-  url: https://multco.us/file/juvenile_custody_services_specialists_cba_2023_-_2026/download
+  url: https://multco.us/file/juvenile%5Fcustody%5Fservices%5Fspecialists%5Fcba%5F2023%5F-%5F2026/download
   family: cba
   format: pdf
   sha256: ''
@@ -62,7 +62,7 @@ sources:
   term: 2023-2026
   last_checked: '2026-08-02'
 - id: multnomah-multnomah-county-corrections-deputy-association-2025-2028
-  url: https://multco.us/file/multnomah_county_corrections_deputy_association_(2025-2028)/download
+  url: https://multco.us/file/multnomah%5Fcounty%5Fcorrections%5Fdeputy%5Fassociation%5F%282025-2028%29/download
   family: cba
   format: pdf
   sha256: ''
@@ -70,7 +70,7 @@ sources:
   term: 2025-2028
   last_checked: '2026-08-02'
 - id: multnomah-multnomah-county-deputy-sheriff-s-association-dsa-2022-2026
-  url: https://multco.us/file/multnomah_county_deputy_sheriff's_association_(dsa)_(2022-2026)/download
+  url: https://multco.us/file/multnomah%5Fcounty%5Fdeputy%5Fsheriff%27s%5Fassociation%5F%28dsa%29%5F%282022-2026%29/download
   family: cba
   format: pdf
   sha256: ''
@@ -78,7 +78,7 @@ sources:
   term: 2022-2026
   last_checked: '2026-08-02'
 - id: multnomah-operating-engineers-local-701-contract-2022-2027
-  url: https://multco.us/file/operating_engineers_local_701_contract_2022-2027/download
+  url: https://multco.us/file/operating%5Fengineers%5Flocal%5F701%5Fcontract%5F2022-2027/download
   family: cba
   format: pdf
   sha256: ''
@@ -86,7 +86,7 @@ sources:
   term: 2022-2027
   last_checked: '2026-08-02'
 - id: multnomah-oregon-nurses-association-contract-2025-2028
-  url: https://multco.us/file/oregon_nurses_association_contract_2025_-_2028/download
+  url: https://multco.us/file/oregon%5Fnurses%5Fassociation%5Fcontract%5F2025%5F-%5F2028/download
   family: cba
   format: pdf
   sha256: ''
@@ -94,7 +94,7 @@ sources:
   term: 2025-2028
   last_checked: '2026-08-02'
 - id: multnomah-painters-allied-trades-labor-contract-2023-2027
-  url: https://multco.us/file/painters_&amp;_allied_trades_labor_contract_2023-2027-1/download
+  url: https://multco.us/file/painters%5F%26%5Fallied%5Ftrades%5Flabor%5Fcontract%5F2023-2027-1/download
   family: cba
   format: pdf
   sha256: ''
@@ -102,7 +102,7 @@ sources:
   term: 2023-2027
   last_checked: '2026-08-02'
 - id: multnomah-physicians-and-psychiatrists-cba-2025-2028
-  url: https://multco.us/file/physicians_and_psychiatrists_cba_(2025_-_2028)/download
+  url: https://multco.us/file/physicians%5Fand%5Fpsychiatrists%5Fcba%5F%282025%5F-%5F2028%29/download
   family: cba
   format: pdf
   sha256: ''
@@ -110,7 +110,7 @@ sources:
   term: 2025-2028
   last_checked: '2026-08-02'
 - id: multnomah-prosecuting-attorneys-cba-2025-2029
-  url: https://multco.us/file/prosecuting_attorneys_cba_2025_-_2029/download
+  url: https://multco.us/file/prosecuting%5Fattorneys%5Fcba%5F2025%5F-%5F2029/download
   family: cba
   format: pdf
   sha256: ''
@@ -118,7 +118,7 @@ sources:
   term: 2025-2029
   last_checked: '2026-08-02'
 - id: multnomah-pharmacists-2025-2028-cba-final-pdf
-  url: https://multco.us/file/pharmacists_2025-2028_cba_final.pdf/download
+  url: https://multco.us/file/pharmacists%5F2025-2028%5Fcba%5Ffinal.pdf/download
   family: cba
   format: pdf
   sha256: ''
