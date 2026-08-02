@@ -1,0 +1,18 @@
+﻿User-Agent: * 
+Disallow: /LFDATA
+Disallow: /NGSCORS
+Disallow: /ngscors
+Disallow: /mcauthorize
+Disallow: /wsDocumentRetrieval
+Disallow: /WebLink
+Disallow: /wsImageRetrieval
+Disallow: /wsLfImageRetrieval
+Disallow: /JailRosters/mccfi.htm
+Disallow: /JailRosters/shorti.htm
+Disallow: /gis/electionmpbk
+Disallow: /gis/OperationsBook
+Disallow: domains.html
+
+User-agent: Nutch
+Disallow: /
+
