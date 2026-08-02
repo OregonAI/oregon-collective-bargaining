@@ -14,7 +14,7 @@ term: 2022-2026
 effective_date: ''
 expiry_date: ''
 agency_registry_slugs: []
-source_url: https://multco.us/file/multnomah_county_deputy_sheriff's_association_(dsa)_(2022-2026)/download
+source_url: https://multco.us/file/multnomah%5Fcounty%5Fdeputy%5Fsheriff%27s%5Fassociation%5F%28dsa%29%5F%282022-2026%29/download
 source_format: pdf
 retrieved: '2026-08-02'
 source_sha256: 0f04f6a7279520730e5dc56af59b9003000e2b46a4161f841f17137bca19830d
@@ -53,7 +53,7 @@ tags:
 
 > **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated
 > summary, not the agreement's official text. Verify against the official
-> source: https://multco.us/file/multnomah_county_deputy_sheriff's_association_(dsa)_(2022-2026)/download (retrieved 2026-08-02).
+> source: <https://multco.us/file/multnomah%5Fcounty%5Fdeputy%5Fsheriff%27s%5Fassociation%5F%28dsa%29%5F%282022-2026%29/download> (retrieved 2026-08-02).
 
 # Multnomah County — Multnomah County Deputy Sheriff's Association (DSA) (2022-2026)
 

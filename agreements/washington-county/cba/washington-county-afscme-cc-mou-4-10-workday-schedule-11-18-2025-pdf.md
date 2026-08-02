@@ -40,7 +40,7 @@ tags:
 
 > **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated
 > summary, not the agreement's official text. Verify against the official
-> source: https://www.washingtoncountyor.gov/hr/documents/afscme-cc-mou4-10-workday-schedule-11-18-2025pdf/download?inline (retrieved 2026-08-02).
+> source: <https://www.washingtoncountyor.gov/hr/documents/afscme-cc-mou4-10-workday-schedule-11-18-2025pdf/download?inline> (retrieved 2026-08-02).
 
 # Washington County — AFSCME CC MOU_4-10 Workday Schedule 11-18-2025.pdf
 

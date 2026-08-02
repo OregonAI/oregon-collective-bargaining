@@ -5,11 +5,11 @@ jurisdiction: oregon/marion-county
 id: marion-county-mcssa-cba
 title: Marion County — MCSSA CBA
 doc_type: collective_bargaining_agreement
-citation: Marion County MCSSA agreement
+citation: 2024-2026 Marion County MCSSA agreement
 authority_level: contract
 issuing_body: Marion County
 union: MCSSA
-term: ''
+term: 2024-2026
 effective_date: ''
 expiry_date: ''
 agency_registry_slugs: []
@@ -45,15 +45,14 @@ tags:
 
 > **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated
 > summary, not the agreement's official text. Verify against the official
-> source: https://www.co.marion.or.us/HR/Documents/MCSSA%20CBA.pdf (retrieved 2026-08-02).
+> source: <https://www.co.marion.or.us/HR/Documents/MCSSA%20CBA.pdf> (retrieved 2026-08-02).
 
 # Marion County — MCSSA CBA
 
 ## At a glance
 
-Collective bargaining agreement between **Marion County** and **MCSSA**.
+Collective bargaining agreement between **Marion County** and **MCSSA** — **2024-2026** term.
 - Listed on the county's labor agreements index as: “MCSSA CBA” (index archived in `_meta/discovery/`)
-- No term is stated on the index or found in the document's front matter — `term` is left empty rather than inferred; the county presents this as its operative agreement
 - Source document: 66 pages (PDF)
 
 This corpus is **summary-first for agreements**: the contract's text is not

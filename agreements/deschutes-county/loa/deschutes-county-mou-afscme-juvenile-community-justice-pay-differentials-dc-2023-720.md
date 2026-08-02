@@ -41,7 +41,7 @@ tags:
 
 > **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated
 > summary, not the agreement's official text. Verify against the official
-> source: https://www.deschutescounty.gov/DocumentCenter/View/1920/MOU-AFSCME-Juvenile-Community-Justice-Pay-Differentials-DC-2023-720 (retrieved 2026-08-02).
+> source: <https://www.deschutescounty.gov/DocumentCenter/View/1920/MOU-AFSCME-Juvenile-Community-Justice-Pay-Differentials-DC-2023-720> (retrieved 2026-08-02).
 
 # Deschutes County — MOU AFSCME Juvenile Community Justice Pay Differentials DC-2023-720
 

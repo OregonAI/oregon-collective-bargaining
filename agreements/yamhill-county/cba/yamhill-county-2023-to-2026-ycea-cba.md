@@ -40,7 +40,7 @@ tags:
 
 > **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated
 > summary, not the agreement's official text. Verify against the official
-> source: https://www.yamhillcounty.gov/DocumentCenter/View/8608/2023-to-2026-YCEA-CBA-PDF (retrieved 2026-08-02).
+> source: <https://www.yamhillcounty.gov/DocumentCenter/View/8608/2023-to-2026-YCEA-CBA-PDF> (retrieved 2026-08-02).
 
 # Yamhill County — 2023 to 2026 YCEA CBA
 

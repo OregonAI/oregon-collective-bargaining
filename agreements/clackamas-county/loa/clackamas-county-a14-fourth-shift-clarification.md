@@ -41,7 +41,7 @@ tags:
 
 > **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated
 > summary, not the agreement's official text. Verify against the official
-> source: https://www.clackamas.us/des/memorandum-of-agreement-moa-a14-fourth-shift-clarification (retrieved 2026-08-02).
+> source: <https://www.clackamas.us/des/memorandum-of-agreement-moa-a14-fourth-shift-clarification> (retrieved 2026-08-02).
 
 # Clackamas County — A14 - Fourth Shift Clarification
 

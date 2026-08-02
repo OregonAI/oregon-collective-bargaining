@@ -46,7 +46,7 @@ tags:
 
 > **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated
 > summary, not the agreement's official text. Verify against the official
-> source: https://dochub.clackamas.us/documents/drupal/2b7c154d-a9cd-4f15-931d-3b35a9f53192 (retrieved 2026-08-02).
+> source: <https://dochub.clackamas.us/documents/drupal/2b7c154d-a9cd-4f15-931d-3b35a9f53192> (retrieved 2026-08-02).
 
 # Clackamas County — Housing Authority of Clackamas County Employee Association (EAHA)
 

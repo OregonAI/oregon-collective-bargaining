@@ -14,7 +14,7 @@ term: 2025-2028
 effective_date: ''
 expiry_date: ''
 agency_registry_slugs: []
-source_url: https://multco.us/file/multnomah_county_corrections_deputy_association_(2025-2028)/download
+source_url: https://multco.us/file/multnomah%5Fcounty%5Fcorrections%5Fdeputy%5Fassociation%5F%282025-2028%29/download
 source_format: pdf
 retrieved: '2026-08-02'
 source_sha256: abe414946ad0a3bdc76f04463e786a3f5c9d2dc446375e978b7e17600ab86487
@@ -54,7 +54,7 @@ tags:
 
 > **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated
 > summary, not the agreement's official text. Verify against the official
-> source: https://multco.us/file/multnomah_county_corrections_deputy_association_(2025-2028)/download (retrieved 2026-08-02).
+> source: <https://multco.us/file/multnomah%5Fcounty%5Fcorrections%5Fdeputy%5Fassociation%5F%282025-2028%29/download> (retrieved 2026-08-02).
 
 # Multnomah County — Multnomah County Corrections Deputy Association (2025-2028)
 

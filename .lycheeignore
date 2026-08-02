@@ -1,0 +1,6 @@
+# Jackson County's document URLs 302-redirect to its revize CMS with LITERAL
+# SPACES in the Location header — a malformed redirect lychee cannot follow, so
+# it rejects the 302 itself. The links work (browsers and our fetcher follow the
+# sloppy Location), and their rot is still watched: corpus-detect-changes fetches
+# every manifest URL on the weekly schedule, where a real failure surfaces.
+https://jacksoncountyor.gov/Document%20Center/.*

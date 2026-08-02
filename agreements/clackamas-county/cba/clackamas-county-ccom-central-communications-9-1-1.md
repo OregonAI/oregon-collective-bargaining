@@ -46,7 +46,7 @@ tags:
 
 > **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated
 > summary, not the agreement's official text. Verify against the official
-> source: https://www.clackamas.us/des/ccom-central-communications-9-1-1 (retrieved 2026-08-02).
+> source: <https://www.clackamas.us/des/ccom-central-communications-9-1-1> (retrieved 2026-08-02).
 
 # Clackamas County — CCOM - Central Communications 9-1-1
 

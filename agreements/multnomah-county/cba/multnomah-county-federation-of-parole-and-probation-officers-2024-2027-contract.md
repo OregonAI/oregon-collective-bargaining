@@ -14,7 +14,7 @@ term: 2024-2027
 effective_date: '2024-07-01'
 expiry_date: '2027-06-30'
 agency_registry_slugs: []
-source_url: https://multco.us/file/federation_of_parole_and_probation_officers_2024-2027_contract/download
+source_url: https://multco.us/file/federation%5Fof%5Fparole%5Fand%5Fprobation%5Fofficers%5F2024-2027%5Fcontract/download
 source_format: pdf
 retrieved: '2026-08-02'
 source_sha256: 0587bdd757fa85e9636eeaf1d4d0803fc20d329626e4aff4cdf54e335b29a718
@@ -56,7 +56,7 @@ tags:
 
 > **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated
 > summary, not the agreement's official text. Verify against the official
-> source: https://multco.us/file/federation_of_parole_and_probation_officers_2024-2027_contract/download (retrieved 2026-08-02).
+> source: <https://multco.us/file/federation%5Fof%5Fparole%5Fand%5Fprobation%5Fofficers%5F2024-2027%5Fcontract/download> (retrieved 2026-08-02).
 
 # Multnomah County — Federation of Parole and Probation Officers 2024-2027 Contract
 

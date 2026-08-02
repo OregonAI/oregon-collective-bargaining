@@ -40,7 +40,7 @@ tags:
 
 > **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated
 > summary, not the agreement's official text. Verify against the official
-> source: https://dochub.clackamas.us/documents/drupal/944fc26f-a46a-4166-a7e8-9994de20d712 (retrieved 2026-08-02).
+> source: <https://dochub.clackamas.us/documents/drupal/944fc26f-a46a-4166-a7e8-9994de20d712> (retrieved 2026-08-02).
 
 # Clackamas County — 2023-26 Ratification MOA
 

@@ -42,7 +42,7 @@ tags:
 
 > **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated
 > summary, not the agreement's official text. Verify against the official
-> source: https://www.washingtoncountyor.gov/hr/documents/teamsters-contract-2022-2026-agreement/download?inline (retrieved 2026-08-02).
+> source: <https://www.washingtoncountyor.gov/hr/documents/teamsters-contract-2022-2026-agreement/download?inline> (retrieved 2026-08-02).
 
 # Washington County — Teamsters 2022-2026 Agreement
 

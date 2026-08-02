@@ -13,7 +13,7 @@ term: 2022-2027
 effective_date: ''
 expiry_date: ''
 agency_registry_slugs: []
-source_url: https://multco.us/file/operating_engineers_local_701_contract_2022-2027/download
+source_url: https://multco.us/file/operating%5Fengineers%5Flocal%5F701%5Fcontract%5F2022-2027/download
 source_format: pdf
 retrieved: '2026-08-02'
 source_sha256: 55adbea1c6ff21b40dd4618dc9c41eb63997a8cd285b803b7fcf3de018a03994
@@ -50,7 +50,7 @@ tags:
 
 > **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated
 > summary, not the agreement's official text. Verify against the official
-> source: https://multco.us/file/operating_engineers_local_701_contract_2022-2027/download (retrieved 2026-08-02).
+> source: <https://multco.us/file/operating%5Fengineers%5Flocal%5F701%5Fcontract%5F2022-2027/download> (retrieved 2026-08-02).
 
 # Multnomah County — Operating Engineers Local 701 Contract 2022-2027
 

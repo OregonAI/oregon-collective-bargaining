@@ -14,7 +14,7 @@ term: 2023-2026
 effective_date: ''
 expiry_date: ''
 agency_registry_slugs: []
-source_url: https://multco.us/file/juvenile_custody_services_specialists_cba_2023_-_2026/download
+source_url: https://multco.us/file/juvenile%5Fcustody%5Fservices%5Fspecialists%5Fcba%5F2023%5F-%5F2026/download
 source_format: pdf
 retrieved: '2026-08-02'
 source_sha256: 90a98f33b73ffb93e30474f565116b7bdc4c2ec22052ff7a837634ffcdbfc97d
@@ -64,7 +64,7 @@ tags:
 
 > **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated
 > summary, not the agreement's official text. Verify against the official
-> source: https://multco.us/file/juvenile_custody_services_specialists_cba_2023_-_2026/download (retrieved 2026-08-02).
+> source: <https://multco.us/file/juvenile%5Fcustody%5Fservices%5Fspecialists%5Fcba%5F2023%5F-%5F2026/download> (retrieved 2026-08-02).
 
 # Multnomah County — Juvenile Custody Services Specialists CBA 2023 - 2026
 

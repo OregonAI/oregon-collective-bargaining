@@ -247,7 +247,7 @@ def write_doc(county: dict, rec: dict, doc_id: str, sha: str, pages: int, text: 
     body = f"""
 > **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated
 > summary, not the agreement's official text. Verify against the official
-> source: {rec['url']} (retrieved {today}).
+> source: <{rec['url']}> (retrieved {today}).
 
 # {fm['title']}
 
