@@ -13,7 +13,7 @@ term: 2025-2029
 effective_date: ''
 expiry_date: ''
 agency_registry_slugs: []
-source_url: https://multco.us/file/prosecuting_attorneys_cba_2025_-_2029/download
+source_url: https://multco.us/file/prosecuting%5Fattorneys%5Fcba%5F2025%5F-%5F2029/download
 source_format: pdf
 retrieved: '2026-08-02'
 source_sha256: 9df3ff512c5a472002228c78652fc3d6e49757dced66a588bb0de31fa560d74d
@@ -47,7 +47,7 @@ tags:
 
 > **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated
 > summary, not the agreement's official text. Verify against the official
-> source: https://multco.us/file/prosecuting_attorneys_cba_2025_-_2029/download (retrieved 2026-08-02).
+> source: <https://multco.us/file/prosecuting%5Fattorneys%5Fcba%5F2025%5F-%5F2029/download> (retrieved 2026-08-02).
 
 # Multnomah County — Prosecuting Attorneys CBA 2025 - 2029
 

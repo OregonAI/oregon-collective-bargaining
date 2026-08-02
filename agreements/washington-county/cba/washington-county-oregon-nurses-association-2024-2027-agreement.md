@@ -42,7 +42,7 @@ tags:
 
 > **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated
 > summary, not the agreement's official text. Verify against the official
-> source: https://www.washingtoncountyor.gov/support-services/documents/oregon-nurses-association-2024-2027-agreement/download?inline (retrieved 2026-08-02).
+> source: <https://www.washingtoncountyor.gov/support-services/documents/oregon-nurses-association-2024-2027-agreement/download?inline> (retrieved 2026-08-02).
 
 # Washington County — Oregon Nurses Association 2024-2027 Agreement
 

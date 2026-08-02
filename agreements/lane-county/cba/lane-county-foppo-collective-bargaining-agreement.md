@@ -5,15 +5,15 @@ jurisdiction: oregon/lane-county
 id: lane-county-foppo-collective-bargaining-agreement
 title: Lane County — FOPPO Collective Bargaining Agreement
 doc_type: collective_bargaining_agreement
-citation: Lane County FOPPO agreement
+citation: 2024-2027 Lane County FOPPO agreement
 authority_level: contract
 issuing_body: Lane County
 union: FOPPO
-term: ''
+term: 2024-2027
 effective_date: ''
 expiry_date: ''
 agency_registry_slugs: []
-source_url: https://www.lanecounty.org/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/Human%20Resources/Collective%20Bargaining%20Agreements/FOPPO%20Collective%20Bargaining%20Agreement.pdf
+source_url: https://www.lanecounty.org/UserFiles/Servers/Server%5F3585797/File/Government/County%20Departments/Human%20Resources/Collective%20Bargaining%20Agreements/FOPPO%20Collective%20Bargaining%20Agreement.pdf
 source_format: pdf
 retrieved: '2026-08-02'
 source_sha256: 796ee3af73068429af9b6ce1c72c907cf4cacab604d27ff1db40111ee779d7c0
@@ -47,15 +47,14 @@ tags:
 
 > **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated
 > summary, not the agreement's official text. Verify against the official
-> source: https://www.lanecounty.org/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/Human%20Resources/Collective%20Bargaining%20Agreements/FOPPO%20Collective%20Bargaining%20Agreement.pdf (retrieved 2026-08-02).
+> source: <https://www.lanecounty.org/UserFiles/Servers/Server%5F3585797/File/Government/County%20Departments/Human%20Resources/Collective%20Bargaining%20Agreements/FOPPO%20Collective%20Bargaining%20Agreement.pdf> (retrieved 2026-08-02).
 
 # Lane County — FOPPO Collective Bargaining Agreement
 
 ## At a glance
 
-Collective bargaining agreement between **Lane County** and **FOPPO**.
+Collective bargaining agreement between **Lane County** and **FOPPO** — **2024-2027** term.
 - Listed on the county's labor agreements index as: “FOPPO Collective Bargaining Agreement” (index archived in `_meta/discovery/`)
-- No term is stated on the index or found in the document's front matter — `term` is left empty rather than inferred; the county presents this as its operative agreement
 - Source document: 53 pages (PDF)
 
 This corpus is **summary-first for agreements**: the contract's text is not

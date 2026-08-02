@@ -44,7 +44,7 @@ tags:
 
 > **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated
 > summary, not the agreement's official text. Verify against the official
-> source: https://www.columbiacountyor.gov/media/Human%20Resources/Union%20Contracts/AFSCME%201442%20Signed%20CBA%202024-2029.pdf (retrieved 2026-08-02).
+> source: <https://www.columbiacountyor.gov/media/Human%20Resources/Union%20Contracts/AFSCME%201442%20Signed%20CBA%202024-2029.pdf> (retrieved 2026-08-02).
 
 # Columbia County — AFSCME 1442 Signed CBA 2024-2029
 

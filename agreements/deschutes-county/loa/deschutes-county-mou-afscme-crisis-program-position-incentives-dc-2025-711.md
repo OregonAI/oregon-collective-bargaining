@@ -42,7 +42,7 @@ tags:
 
 > **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated
 > summary, not the agreement's official text. Verify against the official
-> source: https://www.deschutescounty.gov/DocumentCenter/View/1929/MOU-AFSCME-Crisis-Program-Position-Incentives-DC-2025-711 (retrieved 2026-08-02).
+> source: <https://www.deschutescounty.gov/DocumentCenter/View/1929/MOU-AFSCME-Crisis-Program-Position-Incentives-DC-2025-711> (retrieved 2026-08-02).
 
 # Deschutes County — MOU AFSCME Crisis Program Position Incentives DC-2025-711
 

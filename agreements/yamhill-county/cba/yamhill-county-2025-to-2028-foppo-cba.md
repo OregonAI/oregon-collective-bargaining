@@ -44,7 +44,7 @@ tags:
 
 > **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated
 > summary, not the agreement's official text. Verify against the official
-> source: https://www.yamhillcounty.gov/DocumentCenter/View/20243/2025-to-2028-FOPPO-CBA-PDF (retrieved 2026-08-02).
+> source: <https://www.yamhillcounty.gov/DocumentCenter/View/20243/2025-to-2028-FOPPO-CBA-PDF> (retrieved 2026-08-02).
 
 # Yamhill County — 2025 to 2028 FOPPO CBA
 

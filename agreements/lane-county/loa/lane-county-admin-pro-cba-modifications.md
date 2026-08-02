@@ -5,15 +5,15 @@ jurisdiction: oregon/lane-county
 id: lane-county-admin-pro-cba-modifications
 title: Lane County — Admin-Pro CBA Modifications
 doc_type: letter_of_agreement
-citation: Lane County Admin-Pro CBA Modifications letter of agreement
+citation: 2025-2028 Lane County Admin-Pro CBA Modifications letter of agreement
 authority_level: contract
 issuing_body: Lane County
 union: ''
-term: ''
+term: 2025-2028
 effective_date: ''
 expiry_date: ''
 agency_registry_slugs: []
-source_url: https://www.lanecounty.org/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/Human%20Resources/Collective%20Bargaining%20Agreements/Admin-Pro%20CBA%20Modifications.pdf
+source_url: https://www.lanecounty.org/UserFiles/Servers/Server%5F3585797/File/Government/County%20Departments/Human%20Resources/Collective%20Bargaining%20Agreements/Admin-Pro%20CBA%20Modifications.pdf
 source_format: pdf
 retrieved: '2026-08-02'
 source_sha256: 9913e9071e228b5813870070ea89d668096810245f19e32df1ae8b839298f844
@@ -40,15 +40,14 @@ tags:
 
 > **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated
 > summary, not the agreement's official text. Verify against the official
-> source: https://www.lanecounty.org/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/Human%20Resources/Collective%20Bargaining%20Agreements/Admin-Pro%20CBA%20Modifications.pdf (retrieved 2026-08-02).
+> source: <https://www.lanecounty.org/UserFiles/Servers/Server%5F3585797/File/Government/County%20Departments/Human%20Resources/Collective%20Bargaining%20Agreements/Admin-Pro%20CBA%20Modifications.pdf> (retrieved 2026-08-02).
 
 # Lane County — Admin-Pro CBA Modifications
 
 ## At a glance
 
-Letter of agreement / MOU under **Lane County** and **the signatory association**.
+Letter of agreement / MOU under **Lane County** and **the signatory association** — **2025-2028** term.
 - Listed on the county's labor agreements index as: “Admin-Pro CBA Modifications” (index archived in `_meta/discovery/`)
-- No term is stated on the index or found in the document's front matter — `term` is left empty rather than inferred; the county presents this as its operative agreement
 - Source document: 1 pages (PDF)
 
 This corpus is **summary-first for agreements**: the contract's text is not

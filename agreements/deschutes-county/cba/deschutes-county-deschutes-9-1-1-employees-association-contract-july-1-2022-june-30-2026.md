@@ -43,7 +43,7 @@ tags:
 
 > **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated
 > summary, not the agreement's official text. Verify against the official
-> source: https://www.deschutescounty.gov/DocumentCenter/View/1936/Deschutes-9-1-1-Employees-Association-Contract-July-1-2022---June-30-2026 (retrieved 2026-08-02).
+> source: <https://www.deschutescounty.gov/DocumentCenter/View/1936/Deschutes-9-1-1-Employees-Association-Contract-July-1-2022---June-30-2026> (retrieved 2026-08-02).
 
 # Deschutes County — Deschutes 9-1-1 Employees Association Contract, July 1, 2022 - June 30, 2026
 

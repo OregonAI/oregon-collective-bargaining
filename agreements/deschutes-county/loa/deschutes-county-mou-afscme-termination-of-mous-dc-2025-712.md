@@ -5,11 +5,11 @@ jurisdiction: oregon/deschutes-county
 id: deschutes-county-mou-afscme-termination-of-mous-dc-2025-712
 title: Deschutes County — MOU AFSCME Termination of MOUs DC-2025-712
 doc_type: letter_of_agreement
-citation: Deschutes County AFSCME letter of agreement
+citation: 2025-2030 Deschutes County AFSCME letter of agreement
 authority_level: contract
 issuing_body: Deschutes County
 union: AFSCME
-term: ''
+term: 2025-2030
 effective_date: ''
 expiry_date: ''
 agency_registry_slugs: []
@@ -41,15 +41,14 @@ tags:
 
 > **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated
 > summary, not the agreement's official text. Verify against the official
-> source: https://www.deschutescounty.gov/DocumentCenter/View/1924/MOU-AFSCME-Termination-of-MOUs-DC-2025-712 (retrieved 2026-08-02).
+> source: <https://www.deschutescounty.gov/DocumentCenter/View/1924/MOU-AFSCME-Termination-of-MOUs-DC-2025-712> (retrieved 2026-08-02).
 
 # Deschutes County — MOU AFSCME Termination of MOUs DC-2025-712
 
 ## At a glance
 
-Letter of agreement / MOU under **Deschutes County** and **AFSCME**.
+Letter of agreement / MOU under **Deschutes County** and **AFSCME** — **2025-2030** term.
 - Listed on the county's labor agreements index as: “MOU AFSCME Termination of MOUs DC-2025-712” (index archived in `_meta/discovery/`)
-- No term is stated on the index or found in the document's front matter — `term` is left empty rather than inferred; the county presents this as its operative agreement
 - Source document: 1 pages (PDF)
 
 This corpus is **summary-first for agreements**: the contract's text is not

@@ -14,7 +14,7 @@ term: 2023-2027
 effective_date: ''
 expiry_date: ''
 agency_registry_slugs: []
-source_url: https://multco.us/file/_international_brotherhood_of_electrical_workers_(ibew)_local_48_2023-2027_labor_contract/download
+source_url: https://multco.us/file/%5Finternational%5Fbrotherhood%5Fof%5Felectrical%5Fworkers%5F%28ibew%29%5Flocal%5F48%5F2023-2027%5Flabor%5Fcontract/download
 source_format: pdf
 retrieved: '2026-08-02'
 source_sha256: 785967b7f4ac823e9c956b3e579706244fdeef9453b6fdd031235251138b9c08
@@ -51,7 +51,7 @@ tags:
 
 > **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated
 > summary, not the agreement's official text. Verify against the official
-> source: https://multco.us/file/_international_brotherhood_of_electrical_workers_(ibew)_local_48_2023-2027_labor_contract/download (retrieved 2026-08-02).
+> source: <https://multco.us/file/%5Finternational%5Fbrotherhood%5Fof%5Felectrical%5Fworkers%5F%28ibew%29%5Flocal%5F48%5F2023-2027%5Flabor%5Fcontract/download> (retrieved 2026-08-02).
 
 # Multnomah County — International Brotherhood of Electrical Workers (IBEW) Local 48 2023-2027 Labor Contract
 

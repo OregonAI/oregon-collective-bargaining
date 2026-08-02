@@ -42,7 +42,7 @@ tags:
 
 > **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated
 > summary, not the agreement's official text. Verify against the official
-> source: https://jacksoncountyor.gov/Document%20Center/Departments/Human%20Resources/Labor%20Agreements/Jackson%20County-SEIU%20CBA%20FINAL%20SIGNED.pdf (retrieved 2026-08-02).
+> source: <https://jacksoncountyor.gov/Document%20Center/Departments/Human%20Resources/Labor%20Agreements/Jackson%20County-SEIU%20CBA%20FINAL%20SIGNED.pdf> (retrieved 2026-08-02).
 
 # Jackson County — Jackson County Employees' Association (SEIU, OPEU) Labor Agreement
 

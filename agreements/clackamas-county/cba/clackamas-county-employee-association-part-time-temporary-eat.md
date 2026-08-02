@@ -44,7 +44,7 @@ tags:
 
 > **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated
 > summary, not the agreement's official text. Verify against the official
-> source: https://dochub.clackamas.us/documents/drupal/27c12dae-6aa7-4df1-bcd1-499c7dc8f654 (retrieved 2026-08-02).
+> source: <https://dochub.clackamas.us/documents/drupal/27c12dae-6aa7-4df1-bcd1-499c7dc8f654> (retrieved 2026-08-02).
 
 # Clackamas County — Employee Association Part-Time/Temporary (EAT)
 

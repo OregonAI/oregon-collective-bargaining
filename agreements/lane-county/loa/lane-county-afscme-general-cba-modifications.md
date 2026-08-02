@@ -5,15 +5,15 @@ jurisdiction: oregon/lane-county
 id: lane-county-afscme-general-cba-modifications
 title: Lane County — AFSCME General CBA Modifications
 doc_type: letter_of_agreement
-citation: Lane County AFSCME letter of agreement
+citation: 2024-2027 Lane County AFSCME letter of agreement
 authority_level: contract
 issuing_body: Lane County
 union: AFSCME
-term: ''
+term: 2024-2027
 effective_date: ''
 expiry_date: ''
 agency_registry_slugs: []
-source_url: https://www.lanecounty.org/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/Human%20Resources/Collective%20Bargaining%20Agreements/AFSCME%20General%20CBA%20Modifications.pdf
+source_url: https://www.lanecounty.org/UserFiles/Servers/Server%5F3585797/File/Government/County%20Departments/Human%20Resources/Collective%20Bargaining%20Agreements/AFSCME%20General%20CBA%20Modifications.pdf
 source_format: pdf
 retrieved: '2026-08-02'
 source_sha256: febf1ed57654ec399f081681a74b1d3258d2284d50045c901852cd6d22da2d1d
@@ -40,15 +40,14 @@ tags:
 
 > **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated
 > summary, not the agreement's official text. Verify against the official
-> source: https://www.lanecounty.org/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/Human%20Resources/Collective%20Bargaining%20Agreements/AFSCME%20General%20CBA%20Modifications.pdf (retrieved 2026-08-02).
+> source: <https://www.lanecounty.org/UserFiles/Servers/Server%5F3585797/File/Government/County%20Departments/Human%20Resources/Collective%20Bargaining%20Agreements/AFSCME%20General%20CBA%20Modifications.pdf> (retrieved 2026-08-02).
 
 # Lane County — AFSCME General CBA Modifications
 
 ## At a glance
 
-Letter of agreement / MOU under **Lane County** and **AFSCME**.
+Letter of agreement / MOU under **Lane County** and **AFSCME** — **2024-2027** term.
 - Listed on the county's labor agreements index as: “AFSCME General CBA Modifications” (index archived in `_meta/discovery/`)
-- No term is stated on the index or found in the document's front matter — `term` is left empty rather than inferred; the county presents this as its operative agreement
 - Source document: 8 pages (PDF)
 
 This corpus is **summary-first for agreements**: the contract's text is not

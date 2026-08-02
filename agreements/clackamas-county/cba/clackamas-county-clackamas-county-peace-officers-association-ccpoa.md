@@ -45,7 +45,7 @@ tags:
 
 > **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated
 > summary, not the agreement's official text. Verify against the official
-> source: https://dochub.clackamas.us/documents/drupal/4cdf1bfa-a792-426f-a63c-b1d09743f663 (retrieved 2026-08-02).
+> source: <https://dochub.clackamas.us/documents/drupal/4cdf1bfa-a792-426f-a63c-b1d09743f663> (retrieved 2026-08-02).
 
 # Clackamas County — Clackamas County Peace Officers Association (CCPOA)
 

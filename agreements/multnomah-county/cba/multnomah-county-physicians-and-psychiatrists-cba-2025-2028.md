@@ -13,7 +13,7 @@ term: 2025-2028
 effective_date: ''
 expiry_date: ''
 agency_registry_slugs: []
-source_url: https://multco.us/file/physicians_and_psychiatrists_cba_(2025_-_2028)/download
+source_url: https://multco.us/file/physicians%5Fand%5Fpsychiatrists%5Fcba%5F%282025%5F-%5F2028%29/download
 source_format: pdf
 retrieved: '2026-08-02'
 source_sha256: 4eba0f6a1648155857096009a74baa146f8f9d0a5141ce39105adaa6dcfab19d
@@ -60,7 +60,7 @@ tags:
 
 > **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated
 > summary, not the agreement's official text. Verify against the official
-> source: https://multco.us/file/physicians_and_psychiatrists_cba_(2025_-_2028)/download (retrieved 2026-08-02).
+> source: <https://multco.us/file/physicians%5Fand%5Fpsychiatrists%5Fcba%5F%282025%5F-%5F2028%29/download> (retrieved 2026-08-02).
 
 # Multnomah County — Physicians and Psychiatrists CBA (2025 - 2028)
 

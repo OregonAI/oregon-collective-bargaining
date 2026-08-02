@@ -13,7 +13,7 @@ term: 2023-2026
 effective_date: ''
 expiry_date: ''
 agency_registry_slugs: []
-source_url: https://multco.us/file/dentists_afscme_local_88-5_2023-2026/download
+source_url: https://multco.us/file/dentists%5Fafscme%5Flocal%5F88-5%5F2023-2026/download
 source_format: pdf
 retrieved: '2026-08-02'
 source_sha256: 9c9f3d080f3fc55868e921edef6aef098001b0ac1398ef4f8f6ef5cc305ccbc6
@@ -52,7 +52,7 @@ tags:
 
 > **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated
 > summary, not the agreement's official text. Verify against the official
-> source: https://multco.us/file/dentists_afscme_local_88-5_2023-2026/download (retrieved 2026-08-02).
+> source: <https://multco.us/file/dentists%5Fafscme%5Flocal%5F88-5%5F2023-2026/download> (retrieved 2026-08-02).
 
 # Multnomah County — Dentists AFSCME Local 88-5 2023-2026
 

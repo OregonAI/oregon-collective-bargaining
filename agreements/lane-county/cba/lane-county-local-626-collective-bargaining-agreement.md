@@ -5,15 +5,15 @@ jurisdiction: oregon/lane-county
 id: lane-county-local-626-collective-bargaining-agreement
 title: Lane County — Local 626 Collective Bargaining Agreement
 doc_type: collective_bargaining_agreement
-citation: Lane County Local 626 agreement
+citation: 2025-2028 Lane County Local 626 agreement
 authority_level: contract
 issuing_body: Lane County
 union: Local 626
-term: ''
+term: 2025-2028
 effective_date: ''
 expiry_date: ''
 agency_registry_slugs: []
-source_url: https://www.lanecounty.org/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/Human%20Resources/Collective%20Bargaining%20Agreements/Local%20626%20Collective%20Bargaining%20Agreement.pdf
+source_url: https://www.lanecounty.org/UserFiles/Servers/Server%5F3585797/File/Government/County%20Departments/Human%20Resources/Collective%20Bargaining%20Agreements/Local%20626%20Collective%20Bargaining%20Agreement.pdf
 source_format: pdf
 retrieved: '2026-08-02'
 source_sha256: 22b62a78a69f0f0e2684f7d5638f840cf39af3a8f3104b24171ef9a9caeef7d1
@@ -44,15 +44,14 @@ tags:
 
 > **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated
 > summary, not the agreement's official text. Verify against the official
-> source: https://www.lanecounty.org/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/Human%20Resources/Collective%20Bargaining%20Agreements/Local%20626%20Collective%20Bargaining%20Agreement.pdf (retrieved 2026-08-02).
+> source: <https://www.lanecounty.org/UserFiles/Servers/Server%5F3585797/File/Government/County%20Departments/Human%20Resources/Collective%20Bargaining%20Agreements/Local%20626%20Collective%20Bargaining%20Agreement.pdf> (retrieved 2026-08-02).
 
 # Lane County — Local 626 Collective Bargaining Agreement
 
 ## At a glance
 
-Collective bargaining agreement between **Lane County** and **Local 626**.
+Collective bargaining agreement between **Lane County** and **Local 626** — **2025-2028** term.
 - Listed on the county's labor agreements index as: “Local 626 Collective Bargaining Agreement” (index archived in `_meta/discovery/`)
-- No term is stated on the index or found in the document's front matter — `term` is left empty rather than inferred; the county presents this as its operative agreement
 - Source document: 65 pages (PDF)
 
 This corpus is **summary-first for agreements**: the contract's text is not

@@ -40,7 +40,7 @@ tags:
 
 > **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated
 > summary, not the agreement's official text. Verify against the official
-> source: https://www.deschutescounty.gov/DocumentCenter/View/1910/MOU---DCDAA-Tiers-Implementation-DC-2023-650 (retrieved 2026-08-02).
+> source: <https://www.deschutescounty.gov/DocumentCenter/View/1910/MOU---DCDAA-Tiers-Implementation-DC-2023-650> (retrieved 2026-08-02).
 
 # Deschutes County — MOU - DCDAA Tiers Implementation DC 2023-650
 
