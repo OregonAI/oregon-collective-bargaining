@@ -1,6 +1,6 @@
 # STATUS — Oregon Collective Bargaining — State and County Labor Agreements
 
-Generated TEMPLATE — not yet regenerated for this corpus; run `corpus-generate-status --config _meta/corpus.yml --output STATUS.md`. Non-authoritative; see DISCLAIMER.md.
+Generated 2026-08-02. Non-authoritative; see DISCLAIMER.md.
 
 ## Documents by type
 
@@ -11,9 +11,9 @@ Generated TEMPLATE — not yet regenerated for this corpus; run `corpus-generate
 
 ## Source manifest
 
-0 declared source(s) across 1 group(s) in `source-manifest.yml`.
+676 declared source(s) across 11 group(s) in `sources`.
 
-## Freshness (reverify every 90 days)
+## Freshness (reverify every 180 days)
 
 0 of 0 document(s) overdue for re-verification.
 
