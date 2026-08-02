@@ -1,8 +1,1538 @@
 {
  "corpus": "oregon-collective-bargaining",
- "n_nodes": 0,
- "n_edges": 0,
- "n_edges_external": 0,
- "nodes": [],
- "edges": []
+ "n_nodes": 33,
+ "n_edges": 266,
+ "n_edges_external": 266,
+ "nodes": [
+  {
+   "id": "state-aee-association-of-engineering-employees-2025-2027",
+   "title": "AEE Association of Engineering Employees 2025-2027",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/state/cba/state-aee-association-of-engineering-employees-2025-2027.md"
+  },
+  {
+   "id": "state-afscme-building-codes-division-2025-2027",
+   "title": "AFSCME Building Codes Division 2025-2027",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/state/cba/state-afscme-building-codes-division-2025-2027.md"
+  },
+  {
+   "id": "state-afscme-construction-contractors-board-2025-2027",
+   "title": "AFSCME Construction Contractors Board 2025-2027",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/state/cba/state-afscme-construction-contractors-board-2025-2027.md"
+  },
+  {
+   "id": "state-afscme-department-of-environmental-quality-2025-2027",
+   "title": "AFSCME Department of Environmental Quality 2025-2027",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/state/cba/state-afscme-department-of-environmental-quality-2025-2027.md"
+  },
+  {
+   "id": "state-afscme-department-of-land-conservation-and-development-2025-2027",
+   "title": "AFSCME Department of Land Conservation and Development 2025-2027",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/state/cba/state-afscme-department-of-land-conservation-and-development-2025-2027.md"
+  },
+  {
+   "id": "state-afscme-department-of-state-lands-2025-2027",
+   "title": "AFSCME Department of State Lands 2025-2027",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/state/cba/state-afscme-department-of-state-lands-2025-2027.md"
+  },
+  {
+   "id": "state-afscme-dhs-stabilization-and-crisis-unit-2025-2027",
+   "title": "AFSCME DHS Stabilization and Crisis Unit 2025-2027",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/state/cba/state-afscme-dhs-stabilization-and-crisis-unit-2025-2027.md"
+  },
+  {
+   "id": "state-afscme-doc-dentists-2025-2027",
+   "title": "AFSCME DOC Dentists 2025-2027",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/state/cba/state-afscme-doc-dentists-2025-2027.md"
+  },
+  {
+   "id": "state-afscme-doc-physicians-2025-2027",
+   "title": "AFSCME DOC Physicians 2025-2027",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/state/cba/state-afscme-doc-physicians-2025-2027.md"
+  },
+  {
+   "id": "state-afscme-doc-security-2025-2027",
+   "title": "AFSCME DOC Security 2025-2027",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/state/cba/state-afscme-doc-security-2025-2027.md"
+  },
+  {
+   "id": "state-afscme-doc-security-plus-2025-2027",
+   "title": "AFSCME DOC Security Plus 2025-2027",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/state/cba/state-afscme-doc-security-plus-2025-2027.md"
+  },
+  {
+   "id": "state-afscme-doj-oregon-department-of-justice-attorneys-2025-2027",
+   "title": "AFSCME DOJ Oregon Department of Justice Attorneys 2025-2027",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/state/cba/state-afscme-doj-oregon-department-of-justice-attorneys-2025-2027.md"
+  },
+  {
+   "id": "state-afscme-non-state-child-care-providers-together-2025-2029",
+   "title": "AFSCME Non State Child Care Providers Together 2025-2029",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/state/cba/state-afscme-non-state-child-care-providers-together-2025-2029.md"
+  },
+  {
+   "id": "state-afscme-oregon-emergency-management-2025-2027",
+   "title": "AFSCME Oregon Emergency Management 2025-2027",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/state/cba/state-afscme-oregon-emergency-management-2025-2027.md"
+  },
+  {
+   "id": "state-afscme-oregon-health-authority-physicians-2025-2027",
+   "title": "AFSCME Oregon Health Authority Physicians 2025-2027",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/state/cba/state-afscme-oregon-health-authority-physicians-2025-2027.md"
+  },
+  {
+   "id": "state-afscme-oregon-long-term-care-ombudsman-2025-2027",
+   "title": "AFSCME Oregon Long Term Care Ombudsman 2025-2027",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/state/cba/state-afscme-oregon-long-term-care-ombudsman-2025-2027.md"
+  },
+  {
+   "id": "state-afscme-oregon-military-department-2025-2027",
+   "title": "AFSCME Oregon Military Department 2025-2027",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/state/cba/state-afscme-oregon-military-department-2025-2027.md"
+  },
+  {
+   "id": "state-afscme-oregon-state-fire-marshal-2025-2027",
+   "title": "AFSCME Oregon State Fire Marshal 2025-2027",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/state/cba/state-afscme-oregon-state-fire-marshal-2025-2027.md"
+  },
+  {
+   "id": "state-afscme-oregon-state-police-support-unit-2025-2027",
+   "title": "AFSCME Oregon State Police Support Unit 2025-2027",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/state/cba/state-afscme-oregon-state-police-support-unit-2025-2027.md"
+  },
+  {
+   "id": "state-afscme-oregon-youth-authority-2025-2027",
+   "title": "AFSCME Oregon Youth Authority 2025-2027",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/state/cba/state-afscme-oregon-youth-authority-2025-2027.md"
+  },
+  {
+   "id": "state-afscme-osh-registered-nurses-2025-2027",
+   "title": "AFSCME OSH Registered Nurses 2025-2027",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/state/cba/state-afscme-osh-registered-nurses-2025-2027.md"
+  },
+  {
+   "id": "state-afscme-real-estate-agency-2025-2027",
+   "title": "AFSCME Real Estate Agency 2025-2027",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/state/cba/state-afscme-real-estate-agency-2025-2027.md"
+  },
+  {
+   "id": "state-aoce-association-of-corrections-employees-2025-2027",
+   "title": "AOCE Association of Corrections Employees 2025-2027",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/state/cba/state-aoce-association-of-corrections-employees-2025-2027.md"
+  },
+  {
+   "id": "state-cia-criminal-investigators-association-2025-2027",
+   "title": "CIA Criminal Investigators Association 2025-2027",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/state/cba/state-cia-criminal-investigators-association-2025-2027.md"
+  },
+  {
+   "id": "state-foppo-federation-of-parole-and-probation-officers-2025-2027",
+   "title": "FOPPO Federation of Parole and Probation Officers 2025-2027",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/state/cba/state-foppo-federation-of-parole-and-probation-officers-2025-2027.md"
+  },
+  {
+   "id": "state-iaff-kingsley-firefighters-association-2025-2027",
+   "title": "IAFF Kingsley Firefighters Association 2025-2027",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/state/cba/state-iaff-kingsley-firefighters-association-2025-2027.md"
+  },
+  {
+   "id": "state-iaff-portland-air-national-guard-firefighters-2025-2027",
+   "title": "IAFF Portland Air National Guard Firefighters 2025-2027",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/state/cba/state-iaff-portland-air-national-guard-firefighters-2025-2027.md"
+  },
+  {
+   "id": "state-opsa-oregon-public-safety-association-2025-2027",
+   "title": "OPSA Oregon Public Safety Association 2025-2027",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/state/cba/state-opsa-oregon-public-safety-association-2025-2027.md"
+  },
+  {
+   "id": "state-oregon-nurses-association-2025-2027",
+   "title": "Oregon Nurses Association 2025-2027",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/state/cba/state-oregon-nurses-association-2025-2027.md"
+  },
+  {
+   "id": "state-ospoa-oregon-state-police-officers-association-2025-2027",
+   "title": "OSPOA Oregon State Police Officers Association 2025-2027",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/state/cba/state-ospoa-oregon-state-police-officers-association-2025-2027.md"
+  },
+  {
+   "id": "state-seiu-2025-2027-blackline-as-of-02202026",
+   "title": "SEIU 2025-2027 Blackline as of 02202026",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/state/cba/state-seiu-2025-2027-blackline-as-of-02202026.md"
+  },
+  {
+   "id": "state-seiu-non-state-adult-foster-home-providers-2025-2026",
+   "title": "SEIU Non State Adult Foster Home Providers 2025-2026",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/state/cba/state-seiu-non-state-adult-foster-home-providers-2025-2026.md"
+  },
+  {
+   "id": "state-seiu-non-state-oregon-home-care-commission-2025-2027",
+   "title": "SEIU Non State Oregon Home Care Commission 2025-2027",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/state/cba/state-seiu-non-state-oregon-home-care-commission-2025-2027.md"
+  }
+ ],
+ "edges": [
+  {
+   "from": "state-aee-association-of-engineering-employees-2025-2027",
+   "type": "references_external",
+   "to": "ORS 240.410"
+  },
+  {
+   "from": "state-aee-association-of-engineering-employees-2025-2027",
+   "type": "references_external",
+   "to": "ORS 243.672"
+  },
+  {
+   "from": "state-aee-association-of-engineering-employees-2025-2027",
+   "type": "references_external",
+   "to": "ORS 292.067"
+  },
+  {
+   "from": "state-aee-association-of-engineering-employees-2025-2027",
+   "type": "references_external",
+   "to": "ORS 408.240"
+  },
+  {
+   "from": "state-aee-association-of-engineering-employees-2025-2027",
+   "type": "references_external",
+   "to": "ORS 408.270"
+  },
+  {
+   "from": "state-aee-association-of-engineering-employees-2025-2027",
+   "type": "references_external",
+   "to": "ORS 652.220"
+  },
+  {
+   "from": "state-aee-association-of-engineering-employees-2025-2027",
+   "type": "references_external",
+   "to": "ORS 654.001"
+  },
+  {
+   "from": "state-aee-association-of-engineering-employees-2025-2027",
+   "type": "references_external",
+   "to": "ORS 659A.199"
+  },
+  {
+   "from": "state-aee-association-of-engineering-employees-2025-2027",
+   "type": "references_external",
+   "to": "ORS 659A.270"
+  },
+  {
+   "from": "state-aee-association-of-engineering-employees-2025-2027",
+   "type": "references_external",
+   "to": "ORS 659A.283"
+  },
+  {
+   "from": "state-aee-association-of-engineering-employees-2025-2027",
+   "type": "references_external",
+   "to": "ORS 659A.885"
+  },
+  {
+   "from": "state-afscme-building-codes-division-2025-2027",
+   "type": "references_external",
+   "to": "ORS 243.712"
+  },
+  {
+   "from": "state-afscme-building-codes-division-2025-2027",
+   "type": "references_external",
+   "to": "ORS 279.011"
+  },
+  {
+   "from": "state-afscme-building-codes-division-2025-2027",
+   "type": "references_external",
+   "to": "ORS 652.220"
+  },
+  {
+   "from": "state-afscme-building-codes-division-2025-2027",
+   "type": "references_external",
+   "to": "ORS 659A.270"
+  },
+  {
+   "from": "state-afscme-construction-contractors-board-2025-2027",
+   "type": "references_external",
+   "to": "ORS 240.086"
+  },
+  {
+   "from": "state-afscme-construction-contractors-board-2025-2027",
+   "type": "references_external",
+   "to": "ORS 240.309"
+  },
+  {
+   "from": "state-afscme-construction-contractors-board-2025-2027",
+   "type": "references_external",
+   "to": "ORS 243.650"
+  },
+  {
+   "from": "state-afscme-construction-contractors-board-2025-2027",
+   "type": "references_external",
+   "to": "ORS 243.666"
+  },
+  {
+   "from": "state-afscme-construction-contractors-board-2025-2027",
+   "type": "references_external",
+   "to": "ORS 243.712"
+  },
+  {
+   "from": "state-afscme-construction-contractors-board-2025-2027",
+   "type": "references_external",
+   "to": "ORS 279.011"
+  },
+  {
+   "from": "state-afscme-construction-contractors-board-2025-2027",
+   "type": "references_external",
+   "to": "ORS 292.055"
+  },
+  {
+   "from": "state-afscme-construction-contractors-board-2025-2027",
+   "type": "references_external",
+   "to": "ORS 652.220"
+  },
+  {
+   "from": "state-afscme-department-of-environmental-quality-2025-2027",
+   "type": "references_external",
+   "to": "ORS 240.087"
+  },
+  {
+   "from": "state-afscme-department-of-environmental-quality-2025-2027",
+   "type": "references_external",
+   "to": "ORS 240.088"
+  },
+  {
+   "from": "state-afscme-department-of-environmental-quality-2025-2027",
+   "type": "references_external",
+   "to": "ORS 243.650"
+  },
+  {
+   "from": "state-afscme-department-of-environmental-quality-2025-2027",
+   "type": "references_external",
+   "to": "ORS 243.712"
+  },
+  {
+   "from": "state-afscme-department-of-environmental-quality-2025-2027",
+   "type": "references_external",
+   "to": "ORS 279.011"
+  },
+  {
+   "from": "state-afscme-department-of-environmental-quality-2025-2027",
+   "type": "references_external",
+   "to": "ORS 292.055"
+  },
+  {
+   "from": "state-afscme-department-of-environmental-quality-2025-2027",
+   "type": "references_external",
+   "to": "ORS 30.275"
+  },
+  {
+   "from": "state-afscme-department-of-environmental-quality-2025-2027",
+   "type": "references_external",
+   "to": "ORS 652.220"
+  },
+  {
+   "from": "state-afscme-department-of-environmental-quality-2025-2027",
+   "type": "references_external",
+   "to": "ORS 654.001"
+  },
+  {
+   "from": "state-afscme-department-of-environmental-quality-2025-2027",
+   "type": "references_external",
+   "to": "ORS 659A.270"
+  },
+  {
+   "from": "state-afscme-department-of-environmental-quality-2025-2027",
+   "type": "references_external",
+   "to": "ORS 659A.885"
+  },
+  {
+   "from": "state-afscme-department-of-land-conservation-and-development-2025-2027",
+   "type": "references_external",
+   "to": "ORS 243.650"
+  },
+  {
+   "from": "state-afscme-department-of-land-conservation-and-development-2025-2027",
+   "type": "references_external",
+   "to": "ORS 243.712"
+  },
+  {
+   "from": "state-afscme-department-of-land-conservation-and-development-2025-2027",
+   "type": "references_external",
+   "to": "ORS 279.011"
+  },
+  {
+   "from": "state-afscme-department-of-land-conservation-and-development-2025-2027",
+   "type": "references_external",
+   "to": "ORS 652.220"
+  },
+  {
+   "from": "state-afscme-department-of-state-lands-2025-2027",
+   "type": "references_external",
+   "to": "ORS 243.712"
+  },
+  {
+   "from": "state-afscme-department-of-state-lands-2025-2027",
+   "type": "references_external",
+   "to": "ORS 279.011"
+  },
+  {
+   "from": "state-afscme-department-of-state-lands-2025-2027",
+   "type": "references_external",
+   "to": "ORS 652.220"
+  },
+  {
+   "from": "state-afscme-dhs-stabilization-and-crisis-unit-2025-2027",
+   "type": "references_external",
+   "to": "ORS 240.086"
+  },
+  {
+   "from": "state-afscme-dhs-stabilization-and-crisis-unit-2025-2027",
+   "type": "references_external",
+   "to": "ORS 240.309"
+  },
+  {
+   "from": "state-afscme-dhs-stabilization-and-crisis-unit-2025-2027",
+   "type": "references_external",
+   "to": "ORS 243.650"
+  },
+  {
+   "from": "state-afscme-dhs-stabilization-and-crisis-unit-2025-2027",
+   "type": "references_external",
+   "to": "ORS 243.712"
+  },
+  {
+   "from": "state-afscme-dhs-stabilization-and-crisis-unit-2025-2027",
+   "type": "references_external",
+   "to": "ORS 279.010"
+  },
+  {
+   "from": "state-afscme-dhs-stabilization-and-crisis-unit-2025-2027",
+   "type": "references_external",
+   "to": "ORS 291.371"
+  },
+  {
+   "from": "state-afscme-dhs-stabilization-and-crisis-unit-2025-2027",
+   "type": "references_external",
+   "to": "ORS 652.220"
+  },
+  {
+   "from": "state-afscme-dhs-stabilization-and-crisis-unit-2025-2027",
+   "type": "references_external",
+   "to": "ORS 659A.270"
+  },
+  {
+   "from": "state-afscme-doc-dentists-2025-2027",
+   "type": "references_external",
+   "to": "ORS 243.650"
+  },
+  {
+   "from": "state-afscme-doc-dentists-2025-2027",
+   "type": "references_external",
+   "to": "ORS 243.712"
+  },
+  {
+   "from": "state-afscme-doc-dentists-2025-2027",
+   "type": "references_external",
+   "to": "ORS 279.011"
+  },
+  {
+   "from": "state-afscme-doc-dentists-2025-2027",
+   "type": "references_external",
+   "to": "ORS 652.220"
+  },
+  {
+   "from": "state-afscme-doc-physicians-2025-2027",
+   "type": "references_external",
+   "to": "ORS 243.650"
+  },
+  {
+   "from": "state-afscme-doc-physicians-2025-2027",
+   "type": "references_external",
+   "to": "ORS 243.712"
+  },
+  {
+   "from": "state-afscme-doc-physicians-2025-2027",
+   "type": "references_external",
+   "to": "ORS 279.011"
+  },
+  {
+   "from": "state-afscme-doc-physicians-2025-2027",
+   "type": "references_external",
+   "to": "ORS 30.260"
+  },
+  {
+   "from": "state-afscme-doc-physicians-2025-2027",
+   "type": "references_external",
+   "to": "ORS 652.220"
+  },
+  {
+   "from": "state-afscme-doc-physicians-2025-2027",
+   "type": "references_external",
+   "to": "ORS 654.001"
+  },
+  {
+   "from": "state-afscme-doc-security-2025-2027",
+   "type": "references_external",
+   "to": "ORS 240.555"
+  },
+  {
+   "from": "state-afscme-doc-security-2025-2027",
+   "type": "references_external",
+   "to": "ORS 243.650"
+  },
+  {
+   "from": "state-afscme-doc-security-2025-2027",
+   "type": "references_external",
+   "to": "ORS 243.698"
+  },
+  {
+   "from": "state-afscme-doc-security-2025-2027",
+   "type": "references_external",
+   "to": "ORS 30.285"
+  },
+  {
+   "from": "state-afscme-doc-security-2025-2027",
+   "type": "references_external",
+   "to": "ORS 475.005"
+  },
+  {
+   "from": "state-afscme-doc-security-2025-2027",
+   "type": "references_external",
+   "to": "ORS 652.220"
+  },
+  {
+   "from": "state-afscme-doc-security-2025-2027",
+   "type": "references_external",
+   "to": "ORS 654.001"
+  },
+  {
+   "from": "state-afscme-doc-security-2025-2027",
+   "type": "references_external",
+   "to": "ORS 659A.150"
+  },
+  {
+   "from": "state-afscme-doc-security-plus-2025-2027",
+   "type": "references_external",
+   "to": "ORS 240.380"
+  },
+  {
+   "from": "state-afscme-doc-security-plus-2025-2027",
+   "type": "references_external",
+   "to": "ORS 240.555"
+  },
+  {
+   "from": "state-afscme-doc-security-plus-2025-2027",
+   "type": "references_external",
+   "to": "ORS 243.650"
+  },
+  {
+   "from": "state-afscme-doc-security-plus-2025-2027",
+   "type": "references_external",
+   "to": "ORS 243.698"
+  },
+  {
+   "from": "state-afscme-doc-security-plus-2025-2027",
+   "type": "references_external",
+   "to": "ORS 243.712"
+  },
+  {
+   "from": "state-afscme-doc-security-plus-2025-2027",
+   "type": "references_external",
+   "to": "ORS 279.011"
+  },
+  {
+   "from": "state-afscme-doc-security-plus-2025-2027",
+   "type": "references_external",
+   "to": "ORS 30.285"
+  },
+  {
+   "from": "state-afscme-doc-security-plus-2025-2027",
+   "type": "references_external",
+   "to": "ORS 652.220"
+  },
+  {
+   "from": "state-afscme-doc-security-plus-2025-2027",
+   "type": "references_external",
+   "to": "ORS 654.001"
+  },
+  {
+   "from": "state-afscme-doc-security-plus-2025-2027",
+   "type": "references_external",
+   "to": "ORS 659A.150"
+  },
+  {
+   "from": "state-afscme-doj-oregon-department-of-justice-attorneys-2025-2027",
+   "type": "references_external",
+   "to": "ORS 180.060"
+  },
+  {
+   "from": "state-afscme-doj-oregon-department-of-justice-attorneys-2025-2027",
+   "type": "references_external",
+   "to": "ORS 180.140"
+  },
+  {
+   "from": "state-afscme-doj-oregon-department-of-justice-attorneys-2025-2027",
+   "type": "references_external",
+   "to": "ORS 243.325"
+  },
+  {
+   "from": "state-afscme-doj-oregon-department-of-justice-attorneys-2025-2027",
+   "type": "references_external",
+   "to": "ORS 243.650"
+  },
+  {
+   "from": "state-afscme-doj-oregon-department-of-justice-attorneys-2025-2027",
+   "type": "references_external",
+   "to": "ORS 243.672"
+  },
+  {
+   "from": "state-afscme-doj-oregon-department-of-justice-attorneys-2025-2027",
+   "type": "references_external",
+   "to": "ORS 243.698"
+  },
+  {
+   "from": "state-afscme-doj-oregon-department-of-justice-attorneys-2025-2027",
+   "type": "references_external",
+   "to": "ORS 243.712"
+  },
+  {
+   "from": "state-afscme-doj-oregon-department-of-justice-attorneys-2025-2027",
+   "type": "references_external",
+   "to": "ORS 243.746"
+  },
+  {
+   "from": "state-afscme-doj-oregon-department-of-justice-attorneys-2025-2027",
+   "type": "references_external",
+   "to": "ORS 652.220"
+  },
+  {
+   "from": "state-afscme-doj-oregon-department-of-justice-attorneys-2025-2027",
+   "type": "references_external",
+   "to": "ORS 654.001"
+  },
+  {
+   "from": "state-afscme-doj-oregon-department-of-justice-attorneys-2025-2027",
+   "type": "references_external",
+   "to": "ORS 9.527"
+  },
+  {
+   "from": "state-afscme-non-state-child-care-providers-together-2025-2029",
+   "type": "references_external",
+   "to": "OAR 414-075-0300"
+  },
+  {
+   "from": "state-afscme-non-state-child-care-providers-together-2025-2029",
+   "type": "references_external",
+   "to": "OAR 414-175-0075"
+  },
+  {
+   "from": "state-afscme-non-state-child-care-providers-together-2025-2029",
+   "type": "references_external",
+   "to": "ORS 243.698"
+  },
+  {
+   "from": "state-afscme-non-state-child-care-providers-together-2025-2029",
+   "type": "references_external",
+   "to": "ORS 243.712"
+  },
+  {
+   "from": "state-afscme-non-state-child-care-providers-together-2025-2029",
+   "type": "references_external",
+   "to": "ORS 243.746"
+  },
+  {
+   "from": "state-afscme-non-state-child-care-providers-together-2025-2029",
+   "type": "references_external",
+   "to": "ORS 329A.500"
+  },
+  {
+   "from": "state-afscme-non-state-child-care-providers-together-2025-2029",
+   "type": "references_external",
+   "to": "ORS 657A.430"
+  },
+  {
+   "from": "state-afscme-oregon-emergency-management-2025-2027",
+   "type": "references_external",
+   "to": "ORS 243.650"
+  },
+  {
+   "from": "state-afscme-oregon-emergency-management-2025-2027",
+   "type": "references_external",
+   "to": "ORS 243.672"
+  },
+  {
+   "from": "state-afscme-oregon-emergency-management-2025-2027",
+   "type": "references_external",
+   "to": "ORS 243.712"
+  },
+  {
+   "from": "state-afscme-oregon-emergency-management-2025-2027",
+   "type": "references_external",
+   "to": "ORS 279.011"
+  },
+  {
+   "from": "state-afscme-oregon-emergency-management-2025-2027",
+   "type": "references_external",
+   "to": "ORS 652.220"
+  },
+  {
+   "from": "state-afscme-oregon-emergency-management-2025-2027",
+   "type": "references_external",
+   "to": "ORS 659A.270"
+  },
+  {
+   "from": "state-afscme-oregon-health-authority-physicians-2025-2027",
+   "type": "references_external",
+   "to": "ORS 243.650"
+  },
+  {
+   "from": "state-afscme-oregon-health-authority-physicians-2025-2027",
+   "type": "references_external",
+   "to": "ORS 243.712"
+  },
+  {
+   "from": "state-afscme-oregon-health-authority-physicians-2025-2027",
+   "type": "references_external",
+   "to": "ORS 279.011"
+  },
+  {
+   "from": "state-afscme-oregon-health-authority-physicians-2025-2027",
+   "type": "references_external",
+   "to": "ORS 441.055"
+  },
+  {
+   "from": "state-afscme-oregon-health-authority-physicians-2025-2027",
+   "type": "references_external",
+   "to": "ORS 652.220"
+  },
+  {
+   "from": "state-afscme-oregon-health-authority-physicians-2025-2027",
+   "type": "references_external",
+   "to": "ORS 654.001"
+  },
+  {
+   "from": "state-afscme-oregon-long-term-care-ombudsman-2025-2027",
+   "type": "references_external",
+   "to": "ORS 243.650"
+  },
+  {
+   "from": "state-afscme-oregon-long-term-care-ombudsman-2025-2027",
+   "type": "references_external",
+   "to": "ORS 243.712"
+  },
+  {
+   "from": "state-afscme-oregon-long-term-care-ombudsman-2025-2027",
+   "type": "references_external",
+   "to": "ORS 279.011"
+  },
+  {
+   "from": "state-afscme-oregon-long-term-care-ombudsman-2025-2027",
+   "type": "references_external",
+   "to": "ORS 652.220"
+  },
+  {
+   "from": "state-afscme-oregon-long-term-care-ombudsman-2025-2027",
+   "type": "references_external",
+   "to": "ORS 659A.275"
+  },
+  {
+   "from": "state-afscme-oregon-military-department-2025-2027",
+   "type": "references_external",
+   "to": "ORS 243.650"
+  },
+  {
+   "from": "state-afscme-oregon-military-department-2025-2027",
+   "type": "references_external",
+   "to": "ORS 243.712"
+  },
+  {
+   "from": "state-afscme-oregon-military-department-2025-2027",
+   "type": "references_external",
+   "to": "ORS 279.011"
+  },
+  {
+   "from": "state-afscme-oregon-military-department-2025-2027",
+   "type": "references_external",
+   "to": "ORS 396.332"
+  },
+  {
+   "from": "state-afscme-oregon-military-department-2025-2027",
+   "type": "references_external",
+   "to": "ORS 652.220"
+  },
+  {
+   "from": "state-afscme-oregon-state-fire-marshal-2025-2027",
+   "type": "references_external",
+   "to": "ORS 240.555"
+  },
+  {
+   "from": "state-afscme-oregon-state-fire-marshal-2025-2027",
+   "type": "references_external",
+   "to": "ORS 243.672"
+  },
+  {
+   "from": "state-afscme-oregon-state-fire-marshal-2025-2027",
+   "type": "references_external",
+   "to": "ORS 243.712"
+  },
+  {
+   "from": "state-afscme-oregon-state-fire-marshal-2025-2027",
+   "type": "references_external",
+   "to": "ORS 279.011"
+  },
+  {
+   "from": "state-afscme-oregon-state-fire-marshal-2025-2027",
+   "type": "references_external",
+   "to": "ORS 652.220"
+  },
+  {
+   "from": "state-afscme-oregon-state-police-support-unit-2025-2027",
+   "type": "references_external",
+   "to": "ORS 240.555"
+  },
+  {
+   "from": "state-afscme-oregon-state-police-support-unit-2025-2027",
+   "type": "references_external",
+   "to": "ORS 243.650"
+  },
+  {
+   "from": "state-afscme-oregon-state-police-support-unit-2025-2027",
+   "type": "references_external",
+   "to": "ORS 243.672"
+  },
+  {
+   "from": "state-afscme-oregon-state-police-support-unit-2025-2027",
+   "type": "references_external",
+   "to": "ORS 243.712"
+  },
+  {
+   "from": "state-afscme-oregon-state-police-support-unit-2025-2027",
+   "type": "references_external",
+   "to": "ORS 279.011"
+  },
+  {
+   "from": "state-afscme-oregon-state-police-support-unit-2025-2027",
+   "type": "references_external",
+   "to": "ORS 652.220"
+  },
+  {
+   "from": "state-afscme-oregon-youth-authority-2025-2027",
+   "type": "references_external",
+   "to": "ORS 240.380"
+  },
+  {
+   "from": "state-afscme-oregon-youth-authority-2025-2027",
+   "type": "references_external",
+   "to": "ORS 240.555"
+  },
+  {
+   "from": "state-afscme-oregon-youth-authority-2025-2027",
+   "type": "references_external",
+   "to": "ORS 240.570"
+  },
+  {
+   "from": "state-afscme-oregon-youth-authority-2025-2027",
+   "type": "references_external",
+   "to": "ORS 243.650"
+  },
+  {
+   "from": "state-afscme-oregon-youth-authority-2025-2027",
+   "type": "references_external",
+   "to": "ORS 243.712"
+  },
+  {
+   "from": "state-afscme-oregon-youth-authority-2025-2027",
+   "type": "references_external",
+   "to": "ORS 279.011"
+  },
+  {
+   "from": "state-afscme-oregon-youth-authority-2025-2027",
+   "type": "references_external",
+   "to": "ORS 291.371"
+  },
+  {
+   "from": "state-afscme-oregon-youth-authority-2025-2027",
+   "type": "references_external",
+   "to": "ORS 652.220"
+  },
+  {
+   "from": "state-afscme-oregon-youth-authority-2025-2027",
+   "type": "references_external",
+   "to": "ORS 654.001"
+  },
+  {
+   "from": "state-afscme-oregon-youth-authority-2025-2027",
+   "type": "references_external",
+   "to": "ORS 659.360"
+  },
+  {
+   "from": "state-afscme-oregon-youth-authority-2025-2027",
+   "type": "references_external",
+   "to": "ORS 659.389"
+  },
+  {
+   "from": "state-afscme-oregon-youth-authority-2025-2027",
+   "type": "references_external",
+   "to": "ORS 659.560"
+  },
+  {
+   "from": "state-afscme-osh-registered-nurses-2025-2027",
+   "type": "references_external",
+   "to": "ORS 243.652"
+  },
+  {
+   "from": "state-afscme-osh-registered-nurses-2025-2027",
+   "type": "references_external",
+   "to": "ORS 243.666"
+  },
+  {
+   "from": "state-afscme-osh-registered-nurses-2025-2027",
+   "type": "references_external",
+   "to": "ORS 243.712"
+  },
+  {
+   "from": "state-afscme-osh-registered-nurses-2025-2027",
+   "type": "references_external",
+   "to": "ORS 279A.010"
+  },
+  {
+   "from": "state-afscme-osh-registered-nurses-2025-2027",
+   "type": "references_external",
+   "to": "ORS 652.220"
+  },
+  {
+   "from": "state-afscme-osh-registered-nurses-2025-2027",
+   "type": "references_external",
+   "to": "ORS 654.001"
+  },
+  {
+   "from": "state-afscme-osh-registered-nurses-2025-2027",
+   "type": "references_external",
+   "to": "ORS 678.301"
+  },
+  {
+   "from": "state-afscme-real-estate-agency-2025-2027",
+   "type": "references_external",
+   "to": "ORS 240.086"
+  },
+  {
+   "from": "state-afscme-real-estate-agency-2025-2027",
+   "type": "references_external",
+   "to": "ORS 240.309"
+  },
+  {
+   "from": "state-afscme-real-estate-agency-2025-2027",
+   "type": "references_external",
+   "to": "ORS 240.555"
+  },
+  {
+   "from": "state-afscme-real-estate-agency-2025-2027",
+   "type": "references_external",
+   "to": "ORS 240.570"
+  },
+  {
+   "from": "state-afscme-real-estate-agency-2025-2027",
+   "type": "references_external",
+   "to": "ORS 243.650"
+  },
+  {
+   "from": "state-afscme-real-estate-agency-2025-2027",
+   "type": "references_external",
+   "to": "ORS 243.666"
+  },
+  {
+   "from": "state-afscme-real-estate-agency-2025-2027",
+   "type": "references_external",
+   "to": "ORS 243.712"
+  },
+  {
+   "from": "state-afscme-real-estate-agency-2025-2027",
+   "type": "references_external",
+   "to": "ORS 279.011"
+  },
+  {
+   "from": "state-afscme-real-estate-agency-2025-2027",
+   "type": "references_external",
+   "to": "ORS 652.220"
+  },
+  {
+   "from": "state-aoce-association-of-corrections-employees-2025-2027",
+   "type": "references_external",
+   "to": "ORS 238A.330"
+  },
+  {
+   "from": "state-aoce-association-of-corrections-employees-2025-2027",
+   "type": "references_external",
+   "to": "ORS 238A.335"
+  },
+  {
+   "from": "state-aoce-association-of-corrections-employees-2025-2027",
+   "type": "references_external",
+   "to": "ORS 243.650"
+  },
+  {
+   "from": "state-aoce-association-of-corrections-employees-2025-2027",
+   "type": "references_external",
+   "to": "ORS 243.698"
+  },
+  {
+   "from": "state-aoce-association-of-corrections-employees-2025-2027",
+   "type": "references_external",
+   "to": "ORS 243.804"
+  },
+  {
+   "from": "state-aoce-association-of-corrections-employees-2025-2027",
+   "type": "references_external",
+   "to": "ORS 475.005"
+  },
+  {
+   "from": "state-aoce-association-of-corrections-employees-2025-2027",
+   "type": "references_external",
+   "to": "ORS 652.220"
+  },
+  {
+   "from": "state-cia-criminal-investigators-association-2025-2027",
+   "type": "references_external",
+   "to": "ORS 181.610"
+  },
+  {
+   "from": "state-cia-criminal-investigators-association-2025-2027",
+   "type": "references_external",
+   "to": "ORS 236.350"
+  },
+  {
+   "from": "state-cia-criminal-investigators-association-2025-2027",
+   "type": "references_external",
+   "to": "ORS 238A.330"
+  },
+  {
+   "from": "state-cia-criminal-investigators-association-2025-2027",
+   "type": "references_external",
+   "to": "ORS 238A.335"
+  },
+  {
+   "from": "state-cia-criminal-investigators-association-2025-2027",
+   "type": "references_external",
+   "to": "ORS 240.309"
+  },
+  {
+   "from": "state-cia-criminal-investigators-association-2025-2027",
+   "type": "references_external",
+   "to": "ORS 243.025"
+  },
+  {
+   "from": "state-cia-criminal-investigators-association-2025-2027",
+   "type": "references_external",
+   "to": "ORS 243.325"
+  },
+  {
+   "from": "state-cia-criminal-investigators-association-2025-2027",
+   "type": "references_external",
+   "to": "ORS 243.650"
+  },
+  {
+   "from": "state-cia-criminal-investigators-association-2025-2027",
+   "type": "references_external",
+   "to": "ORS 652.220"
+  },
+  {
+   "from": "state-cia-criminal-investigators-association-2025-2027",
+   "type": "references_external",
+   "to": "ORS 654.001"
+  },
+  {
+   "from": "state-foppo-federation-of-parole-and-probation-officers-2025-2027",
+   "type": "references_external",
+   "to": "ORS 236.360"
+  },
+  {
+   "from": "state-foppo-federation-of-parole-and-probation-officers-2025-2027",
+   "type": "references_external",
+   "to": "ORS 240.308"
+  },
+  {
+   "from": "state-foppo-federation-of-parole-and-probation-officers-2025-2027",
+   "type": "references_external",
+   "to": "ORS 240.555"
+  },
+  {
+   "from": "state-foppo-federation-of-parole-and-probation-officers-2025-2027",
+   "type": "references_external",
+   "to": "ORS 240.570"
+  },
+  {
+   "from": "state-foppo-federation-of-parole-and-probation-officers-2025-2027",
+   "type": "references_external",
+   "to": "ORS 243.650"
+  },
+  {
+   "from": "state-foppo-federation-of-parole-and-probation-officers-2025-2027",
+   "type": "references_external",
+   "to": "ORS 291.371"
+  },
+  {
+   "from": "state-foppo-federation-of-parole-and-probation-officers-2025-2027",
+   "type": "references_external",
+   "to": "ORS 30.285"
+  },
+  {
+   "from": "state-foppo-federation-of-parole-and-probation-officers-2025-2027",
+   "type": "references_external",
+   "to": "ORS 475.005"
+  },
+  {
+   "from": "state-foppo-federation-of-parole-and-probation-officers-2025-2027",
+   "type": "references_external",
+   "to": "ORS 652.220"
+  },
+  {
+   "from": "state-foppo-federation-of-parole-and-probation-officers-2025-2027",
+   "type": "references_external",
+   "to": "ORS 654.001"
+  },
+  {
+   "from": "state-foppo-federation-of-parole-and-probation-officers-2025-2027",
+   "type": "references_external",
+   "to": "ORS 659A.150"
+  },
+  {
+   "from": "state-iaff-kingsley-firefighters-association-2025-2027",
+   "type": "references_external",
+   "to": "ORS 238A.340"
+  },
+  {
+   "from": "state-iaff-kingsley-firefighters-association-2025-2027",
+   "type": "references_external",
+   "to": "ORS 243.650"
+  },
+  {
+   "from": "state-iaff-kingsley-firefighters-association-2025-2027",
+   "type": "references_external",
+   "to": "ORS 243.698"
+  },
+  {
+   "from": "state-iaff-kingsley-firefighters-association-2025-2027",
+   "type": "references_external",
+   "to": "ORS 243.798"
+  },
+  {
+   "from": "state-iaff-kingsley-firefighters-association-2025-2027",
+   "type": "references_external",
+   "to": "ORS 652.220"
+  },
+  {
+   "from": "state-iaff-portland-air-national-guard-firefighters-2025-2027",
+   "type": "references_external",
+   "to": "ORS 238A.340"
+  },
+  {
+   "from": "state-iaff-portland-air-national-guard-firefighters-2025-2027",
+   "type": "references_external",
+   "to": "ORS 243.698"
+  },
+  {
+   "from": "state-iaff-portland-air-national-guard-firefighters-2025-2027",
+   "type": "references_external",
+   "to": "ORS 652.220"
+  },
+  {
+   "from": "state-iaff-portland-air-national-guard-firefighters-2025-2027",
+   "type": "references_external",
+   "to": "ORS 656.802"
+  },
+  {
+   "from": "state-opsa-oregon-public-safety-association-2025-2027",
+   "type": "references_external",
+   "to": "ORS 240.013"
+  },
+  {
+   "from": "state-opsa-oregon-public-safety-association-2025-2027",
+   "type": "references_external",
+   "to": "ORS 243.650"
+  },
+  {
+   "from": "state-opsa-oregon-public-safety-association-2025-2027",
+   "type": "references_external",
+   "to": "ORS 243.712"
+  },
+  {
+   "from": "state-opsa-oregon-public-safety-association-2025-2027",
+   "type": "references_external",
+   "to": "ORS 243.804"
+  },
+  {
+   "from": "state-opsa-oregon-public-safety-association-2025-2027",
+   "type": "references_external",
+   "to": "ORS 279.011"
+  },
+  {
+   "from": "state-opsa-oregon-public-safety-association-2025-2027",
+   "type": "references_external",
+   "to": "ORS 292.055"
+  },
+  {
+   "from": "state-opsa-oregon-public-safety-association-2025-2027",
+   "type": "references_external",
+   "to": "ORS 652.220"
+  },
+  {
+   "from": "state-oregon-nurses-association-2025-2027",
+   "type": "references_external",
+   "to": "OAR 410-011-0030"
+  },
+  {
+   "from": "state-oregon-nurses-association-2025-2027",
+   "type": "references_external",
+   "to": "ORS 174.100"
+  },
+  {
+   "from": "state-oregon-nurses-association-2025-2027",
+   "type": "references_external",
+   "to": "ORS 238A.330"
+  },
+  {
+   "from": "state-oregon-nurses-association-2025-2027",
+   "type": "references_external",
+   "to": "ORS 238A.335"
+  },
+  {
+   "from": "state-oregon-nurses-association-2025-2027",
+   "type": "references_external",
+   "to": "ORS 243.550"
+  },
+  {
+   "from": "state-oregon-nurses-association-2025-2027",
+   "type": "references_external",
+   "to": "ORS 243.698"
+  },
+  {
+   "from": "state-oregon-nurses-association-2025-2027",
+   "type": "references_external",
+   "to": "ORS 243.712"
+  },
+  {
+   "from": "state-oregon-nurses-association-2025-2027",
+   "type": "references_external",
+   "to": "ORS 279A.010"
+  },
+  {
+   "from": "state-oregon-nurses-association-2025-2027",
+   "type": "references_external",
+   "to": "ORS 408.290"
+  },
+  {
+   "from": "state-oregon-nurses-association-2025-2027",
+   "type": "references_external",
+   "to": "ORS 441.160"
+  },
+  {
+   "from": "state-oregon-nurses-association-2025-2027",
+   "type": "references_external",
+   "to": "ORS 441.162"
+  },
+  {
+   "from": "state-oregon-nurses-association-2025-2027",
+   "type": "references_external",
+   "to": "ORS 441.166"
+  },
+  {
+   "from": "state-oregon-nurses-association-2025-2027",
+   "type": "references_external",
+   "to": "ORS 652.190"
+  },
+  {
+   "from": "state-oregon-nurses-association-2025-2027",
+   "type": "references_external",
+   "to": "ORS 652.220"
+  },
+  {
+   "from": "state-oregon-nurses-association-2025-2027",
+   "type": "references_external",
+   "to": "ORS 654.001"
+  },
+  {
+   "from": "state-oregon-nurses-association-2025-2027",
+   "type": "references_external",
+   "to": "ORS 659A.270"
+  },
+  {
+   "from": "state-oregon-nurses-association-2025-2027",
+   "type": "references_external",
+   "to": "ORS 678.010"
+  },
+  {
+   "from": "state-ospoa-oregon-state-police-officers-association-2025-2027",
+   "type": "references_external",
+   "to": "OAR 259-008-0070"
+  },
+  {
+   "from": "state-ospoa-oregon-state-police-officers-association-2025-2027",
+   "type": "references_external",
+   "to": "ORS 238.335"
+  },
+  {
+   "from": "state-ospoa-oregon-state-police-officers-association-2025-2027",
+   "type": "references_external",
+   "to": "ORS 238A.330"
+  },
+  {
+   "from": "state-ospoa-oregon-state-police-officers-association-2025-2027",
+   "type": "references_external",
+   "to": "ORS 243.650"
+  },
+  {
+   "from": "state-ospoa-oregon-state-police-officers-association-2025-2027",
+   "type": "references_external",
+   "to": "ORS 243.698"
+  },
+  {
+   "from": "state-ospoa-oregon-state-police-officers-association-2025-2027",
+   "type": "references_external",
+   "to": "ORS 243.808"
+  },
+  {
+   "from": "state-ospoa-oregon-state-police-officers-association-2025-2027",
+   "type": "references_external",
+   "to": "ORS 279.340"
+  },
+  {
+   "from": "state-seiu-2025-2027-blackline-as-of-02202026",
+   "type": "references_external",
+   "to": "OAR 125-155-0520"
+  },
+  {
+   "from": "state-seiu-2025-2027-blackline-as-of-02202026",
+   "type": "references_external",
+   "to": "OAR 166-300-0045"
+  },
+  {
+   "from": "state-seiu-2025-2027-blackline-as-of-02202026",
+   "type": "references_external",
+   "to": "OAR 309-035-0135"
+  },
+  {
+   "from": "state-seiu-2025-2027-blackline-as-of-02202026",
+   "type": "references_external",
+   "to": "OAR 437-002-0161"
+  },
+  {
+   "from": "state-seiu-2025-2027-blackline-as-of-02202026",
+   "type": "references_external",
+   "to": "OAR 459-009-0200"
+  },
+  {
+   "from": "state-seiu-2025-2027-blackline-as-of-02202026",
+   "type": "references_external",
+   "to": "ORS 163.165"
+  },
+  {
+   "from": "state-seiu-2025-2027-blackline-as-of-02202026",
+   "type": "references_external",
+   "to": "ORS 179.210"
+  },
+  {
+   "from": "state-seiu-2025-2027-blackline-as-of-02202026",
+   "type": "references_external",
+   "to": "ORS 181.516"
+  },
+  {
+   "from": "state-seiu-2025-2027-blackline-as-of-02202026",
+   "type": "references_external",
+   "to": "ORS 238A.335"
+  },
+  {
+   "from": "state-seiu-2025-2027-blackline-as-of-02202026",
+   "type": "references_external",
+   "to": "ORS 240.200"
+  },
+  {
+   "from": "state-seiu-2025-2027-blackline-as-of-02202026",
+   "type": "references_external",
+   "to": "ORS 240.309"
+  },
+  {
+   "from": "state-seiu-2025-2027-blackline-as-of-02202026",
+   "type": "references_external",
+   "to": "ORS 243.650"
+  },
+  {
+   "from": "state-seiu-2025-2027-blackline-as-of-02202026",
+   "type": "references_external",
+   "to": "ORS 243.698"
+  },
+  {
+   "from": "state-seiu-2025-2027-blackline-as-of-02202026",
+   "type": "references_external",
+   "to": "ORS 243.712"
+  },
+  {
+   "from": "state-seiu-2025-2027-blackline-as-of-02202026",
+   "type": "references_external",
+   "to": "ORS 408.225"
+  },
+  {
+   "from": "state-seiu-2025-2027-blackline-as-of-02202026",
+   "type": "references_external",
+   "to": "ORS 652.220"
+  },
+  {
+   "from": "state-seiu-2025-2027-blackline-as-of-02202026",
+   "type": "references_external",
+   "to": "ORS 653.269"
+  },
+  {
+   "from": "state-seiu-2025-2027-blackline-as-of-02202026",
+   "type": "references_external",
+   "to": "ORS 654.001"
+  },
+  {
+   "from": "state-seiu-2025-2027-blackline-as-of-02202026",
+   "type": "references_external",
+   "to": "ORS 656.202"
+  },
+  {
+   "from": "state-seiu-2025-2027-blackline-as-of-02202026",
+   "type": "references_external",
+   "to": "ORS 659A.270"
+  },
+  {
+   "from": "state-seiu-2025-2027-blackline-as-of-02202026",
+   "type": "references_external",
+   "to": "ORS 659A.283"
+  },
+  {
+   "from": "state-seiu-2025-2027-blackline-as-of-02202026",
+   "type": "references_external",
+   "to": "ORS 659A.885"
+  },
+  {
+   "from": "state-seiu-non-state-adult-foster-home-providers-2025-2026",
+   "type": "references_external",
+   "to": "OAR 410-172-0620"
+  },
+  {
+   "from": "state-seiu-non-state-adult-foster-home-providers-2025-2026",
+   "type": "references_external",
+   "to": "OAR 411-049-0135"
+  },
+  {
+   "from": "state-seiu-non-state-adult-foster-home-providers-2025-2026",
+   "type": "references_external",
+   "to": "ORS 243.650"
+  },
+  {
+   "from": "state-seiu-non-state-adult-foster-home-providers-2025-2026",
+   "type": "references_external",
+   "to": "ORS 243.698"
+  },
+  {
+   "from": "state-seiu-non-state-adult-foster-home-providers-2025-2026",
+   "type": "references_external",
+   "to": "ORS 243.702"
+  },
+  {
+   "from": "state-seiu-non-state-adult-foster-home-providers-2025-2026",
+   "type": "references_external",
+   "to": "ORS 243.712"
+  },
+  {
+   "from": "state-seiu-non-state-adult-foster-home-providers-2025-2026",
+   "type": "references_external",
+   "to": "ORS 243.742"
+  },
+  {
+   "from": "state-seiu-non-state-adult-foster-home-providers-2025-2026",
+   "type": "references_external",
+   "to": "ORS 243.746"
+  },
+  {
+   "from": "state-seiu-non-state-adult-foster-home-providers-2025-2026",
+   "type": "references_external",
+   "to": "ORS 67.005"
+  },
+  {
+   "from": "state-seiu-non-state-oregon-home-care-commission-2025-2027",
+   "type": "references_external",
+   "to": "OAR 411-030-0068"
+  },
+  {
+   "from": "state-seiu-non-state-oregon-home-care-commission-2025-2027",
+   "type": "references_external",
+   "to": "OAR 411-375-0020"
+  },
+  {
+   "from": "state-seiu-non-state-oregon-home-care-commission-2025-2027",
+   "type": "references_external",
+   "to": "ORS 243.650"
+  },
+  {
+   "from": "state-seiu-non-state-oregon-home-care-commission-2025-2027",
+   "type": "references_external",
+   "to": "ORS 243.666"
+  },
+  {
+   "from": "state-seiu-non-state-oregon-home-care-commission-2025-2027",
+   "type": "references_external",
+   "to": "ORS 243.698"
+  },
+  {
+   "from": "state-seiu-non-state-oregon-home-care-commission-2025-2027",
+   "type": "references_external",
+   "to": "ORS 243.702"
+  },
+  {
+   "from": "state-seiu-non-state-oregon-home-care-commission-2025-2027",
+   "type": "references_external",
+   "to": "ORS 243.712"
+  },
+  {
+   "from": "state-seiu-non-state-oregon-home-care-commission-2025-2027",
+   "type": "references_external",
+   "to": "ORS 243.742"
+  },
+  {
+   "from": "state-seiu-non-state-oregon-home-care-commission-2025-2027",
+   "type": "references_external",
+   "to": "ORS 243.746"
+  },
+  {
+   "from": "state-seiu-non-state-oregon-home-care-commission-2025-2027",
+   "type": "references_external",
+   "to": "ORS 410.600"
+  },
+  {
+   "from": "state-seiu-non-state-oregon-home-care-commission-2025-2027",
+   "type": "references_external",
+   "to": "ORS 656.039"
+  }
+ ]
 }

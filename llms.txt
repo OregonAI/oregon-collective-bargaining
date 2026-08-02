@@ -20,6 +20,7 @@
 - `_meta/sources/`: per-employer source groups with recorded robots/access
   determinations — what this corpus ingests and why.
 - `agreements/<employer>/cba/`: collective bargaining agreements, one file per
-  agreement per term. `agreements/<employer>/loa/`: separately-published letters of
-  agreement. (Empty until ingestion passes human gate #1 — the corpus is
-  pre-ingest scaffold at this commit.)
+  agreement per term — SUMMARY-FIRST: metadata, term/expiry, and the official link;
+  the contract's text is not reproduced (see any document's Curator notes).
+  Tranche 1 holds the current-term state agreements; county documents and
+  separately-published letters (`agreements/<employer>/loa/`) are later tranches.

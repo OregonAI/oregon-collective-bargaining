@@ -61,14 +61,33 @@ _EMPLOYER_WORDS = (
 )
 
 
+# The term inside a document id ("...-2025-2027" — also mid-id for the blackline,
+# whose id ends with its as-of date instead). Date fragments like 02202026 have no
+# hyphen and cannot false-match.
+_TERM_IN_ID = re.compile(r"20\d{2}-20\d{2}")
+
+
+def _id_term(doc_id: str) -> str:
+    mm = _TERM_IN_ID.search(doc_id)
+    return mm.group(0) if mm else ""
+
+
 def _resolve_cba(m: re.Match, nodes: dict) -> tuple[list, str | None]:
     union = _UNION_SLUG[m["union"].lower()]
     term = m["term"].replace("–", "-") if m["term"] else None
     employer = m["employer"].lower().replace(" ", "-") + "-county" if m["employer"] else None
 
+    # A document id carries the union as its acronym OR its full name slugified —
+    # DAS names ONA's file "Oregon Nurses Association 2025-2027" with no acronym, so
+    # `state-oregon-nurses-association-2025-2027` must still resolve as ONA. Generic
+    # single words ("nurses") are deliberately NOT fragments: "-nurses-" also appears
+    # in AFSCME's OSH Registered Nurses unit and would cross the union boundary.
+    fragments = {union} | {"ona": {"oregon-nurses-association"},
+                           "iuoe": {"operating-engineers"}}.get(union, set())
     hits = []
     for doc_id in nodes:
-        if f"-{union}-" not in f"-{doc_id}-":
+        padded = f"-{doc_id}-"
+        if not any(f"-{f}-" in padded for f in fragments):
             continue
         if "-loa-" in doc_id:
             continue                       # letters resolve via their own citations
@@ -76,23 +95,55 @@ def _resolve_cba(m: re.Match, nodes: dict) -> tuple[list, str | None]:
             continue
         hits.append(doc_id)
 
-    if term:
-        exact = [d for d in hits if d.endswith(term)]
-        if exact:
-            return exact, None
-        return [], (f"no {m['union']} agreement with term {term} is held; terms present: "
-                    + (", ".join(sorted({d[-9:] for d in hits})) or "none"))
+    # Unit words between the union and the tail word narrow multi-unit unions —
+    # AFSCME signs 24 state units per term, so union+term alone is NOT unique and
+    # returning one silently would be exactly the wrong-answer shape this corpus
+    # exists to prevent. DAS filenames (and so ids) spell units out, so an acronym
+    # qualifier ("DEQ") may not narrow; that case gets a note, never a guess —
+    # the acronym→unit crosswalk is later work, recorded, not improvised here.
+    stop = {"the", "of", "and", "a", "an", "state", "county", "local", "no"}
+    tokens = [t for t in re.findall(r"[a-z0-9]+", (m["unit"] or "").lower())
+              if t not in stop]
+    unit_note = None
+    if tokens:
+        narrowed = [d for d in hits if all(t in d for t in tokens)]
+        if narrowed:
+            hits = narrowed
+        else:
+            unit_note = (f"qualifier {' '.join(tokens)!r} matched no held unit name — "
+                         f"unit names are spelled out (DAS filenames), so an acronym "
+                         f"may not narrow; all {m['union']} matches returned")
 
-    # Bare citation: newest term first, ambiguity stated. Sorting by the trailing
-    # YYYY-YYYY works because the id convention pins the term at the end.
-    hits.sort(key=lambda d: d[-9:], reverse=True)
+    def _drafted(note: str | None, ids: list) -> str | None:
+        # A draft print (the SEIU blackline) resolving without a warning would be
+        # the executed-text assumption this corpus refuses to make.
+        if any("blackline" in d for d in ids):
+            extra = ("includes a blackline/draft print — check the document's "
+                     "status; it is NOT the executed text")
+            return f"{note}; {extra}" if note else extra
+        return note
+
+    if term:
+        exact = [d for d in hits if _id_term(d) == term]
+        if not exact:
+            return [], (f"no {m['union']} agreement with term {term} is held; terms present: "
+                        + (", ".join(sorted(_id_term(d) or "undated" for d in hits)) or "none"))
+        if len(exact) > 1:
+            note = (f"{len(exact)} {m['union']} agreements share term {term} (one per "
+                    f"bargaining unit)" + (f"; {unit_note}" if unit_note else
+                    "; add unit words to pin one"))
+            return exact, _drafted(note, exact)
+        return exact, _drafted(unit_note, exact)
+
+    # Bare citation: newest term first, ambiguity stated.
+    hits.sort(key=_id_term, reverse=True)
     note = None
     if len(hits) > 1:
         note = (f"'{m.group(0).strip()}' names no term"
                 + ("" if employer else " or employer")
                 + f"; {len(hits)} agreements match — newest term first, and expired "
                   "terms may follow. Cite union + term (+ county) to pin one.")
-    return hits, note
+    return hits, _drafted(note, hits)
 
 
 # One scheme, three citation shapes: "[term] [county [County]] <UNION> ... agreement".
@@ -101,7 +152,7 @@ register_scheme(
     "cba-agreement",
     rf"(?i)(?:(?P<term>20\d{{2}}\s*[-–]\s*20\d{{2}})\s+)?"
     rf"(?:(?P<employer>{_EMPLOYER_WORDS})\s+(?:county(?:'s)?\s+)?)?"
-    rf"(?P<union>{_UNION_ALT})\b[^.;]{{0,40}}?"
+    rf"(?P<union>{_UNION_ALT})\b[\s,]*(?P<unit>[^.;]{{0,40}}?)\s*"
     rf"(?:agreement|contract|cba|master)",
     resolver=_resolve_cba,
 )
