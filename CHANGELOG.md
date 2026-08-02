@@ -7,6 +7,14 @@ Repo-curation dates only — official effective dates live in frontmatter.
 ## [Unreleased]
 
 ### Added
+- 2026-08-02 — State history tranche: 36 immediate-predecessor agreements
+  (2023–2025 terms; earlier for the non-state units) as `status: superseded`,
+  and `supersedes` chains linked on 30 current documents (the blackline draft
+  gets `related` — a draft supersedes nothing). The 6 unlinked predecessors
+  are the posting-lag units whose ratified successors DAS has not posted:
+  there, the superseded document is the latest posted executed text and says
+  so. The deep archive back to 2001 stays un-ingested — a decision, recorded
+  in the ingester docstring, not an oversight.
 - 2026-08-02 — County tranche 1: 102 documents across 9 of the 10 approved
   county publishers (Multnomah 13, Washington 22, Deschutes 18, Clackamas 20,
   Lane 11, Marion 7, Columbia 5, Jackson 3, Yamhill 3), summary-first, with

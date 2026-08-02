@@ -35,7 +35,8 @@ relationships:
   - ORS 279.011
   - ORS 652.220
   related: []
-  supersedes: []
+  supersedes:
+  - state-afscme-doc-dentists-2023-2025
 tags:
 - collective-bargaining
 - state

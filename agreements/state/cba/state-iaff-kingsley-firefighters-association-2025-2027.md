@@ -36,7 +36,8 @@ relationships:
   - ORS 243.798
   - ORS 652.220
   related: []
-  supersedes: []
+  supersedes:
+  - state-iaff-kingsley-firefighters-association-2023-2025
 tags:
 - collective-bargaining
 - state

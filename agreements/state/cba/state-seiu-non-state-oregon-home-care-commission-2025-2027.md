@@ -42,7 +42,8 @@ relationships:
   - ORS 410.600
   - ORS 656.039
   related: []
-  supersedes: []
+  supersedes:
+  - state-seiu-non-state-oregon-home-care-commission-2023-2025
 tags:
 - collective-bargaining
 - state

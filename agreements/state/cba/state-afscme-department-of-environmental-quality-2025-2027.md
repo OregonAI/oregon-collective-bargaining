@@ -42,7 +42,8 @@ relationships:
   - ORS 659A.270
   - ORS 659A.885
   related: []
-  supersedes: []
+  supersedes:
+  - state-afscme-department-of-environmental-quality-2023-2025
 tags:
 - collective-bargaining
 - state

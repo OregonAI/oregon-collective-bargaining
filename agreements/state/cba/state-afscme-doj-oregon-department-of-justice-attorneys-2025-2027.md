@@ -42,7 +42,8 @@ relationships:
   - ORS 654.001
   - ORS 9.527
   related: []
-  supersedes: []
+  supersedes:
+  - state-afscme-doj-oregon-department-of-justice-attorneys-2023-2025
 tags:
 - collective-bargaining
 - state
