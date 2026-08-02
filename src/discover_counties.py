@@ -370,19 +370,21 @@ COUNTIES: dict[str, dict] = {
         title="Yamhill County union contracts",
         index="https://www.yamhillcounty.gov/300/Union-Contracts",
         crawl=dict(decision="proceed", checked=ARCHIVE_DATE,
-                   basis="FLAGGED FOR THE GATE-1 REVIEWER, not glossed. yamhillcounty.gov serves "
-                         "the Cloudflare-managed AI robots block: ClaudeBot/GPTBot/CCBot etc. get "
-                         "Disallow: /, and User-agent: * carries Content-Signal: search=yes, "
+                   basis="OPERATOR DECISION, recorded 2026-08-02: include Yamhill while it is "
+                         "technically accessible to an honestly-identified agent. The facts the "
+                         "decision weighed, kept on the record: yamhillcounty.gov serves the "
+                         "Cloudflare-managed AI robots block (ClaudeBot/GPTBot/CCBot etc. get "
+                         "Disallow: /) and User-agent: * carries Content-Signal: search=yes, "
                          "ai-train=no, use=reference (an EU DSM Art. 4 rights reservation). This "
                          "fetcher is none of the named agents and identifies itself honestly; "
-                         "'use=reference' matches what this corpus does (reference with official "
-                         "links, summary-first). The oregon-counties precedent for THIS SAME HOST "
-                         "(its sources/yamhill.yml) was proceed-with-flag for county law; a CBA "
-                         "is a jointly-authored contract rather than county law, so a reviewer "
-                         "may weigh it differently — which is why this paragraph exists. Also "
-                         "measured: the host 403'd the survey's first pass and served the second, "
-                         "same UA — expect intermittent refusals and record each as "
-                         "could-not-verify, never as absence.",
+                         "'use=reference' matches what this corpus does (summary-first, official "
+                         "links); the oregon-counties precedent for this same host was also "
+                         "proceed. The line that bounds the decision: technical access controls "
+                         "are always respected — a WAF challenge or 403 makes that fetch "
+                         "could-not-verify, never retried in disguise (the host 403'd the "
+                         "survey's first pass and served the second, same UA — expect "
+                         "intermittence). If the county ever tightens User-agent: * or names "
+                         "this project, the decision is void and gets re-made, not inherited.",
                    hosts=[{"host": "www.yamhillcounty.gov",
                            "robots_url": "https://www.yamhillcounty.gov/robots.txt",
                            "ai_block": True,
