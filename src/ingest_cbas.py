@@ -322,7 +322,7 @@ def write_doc(rec: dict, row: dict | None, sha: str, pages: int, text: str,
     body = f"""
 > **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated
 > summary, not the agreement's official text. Verify against the official
-> source: {rec['url']} (retrieved {today}).
+> source: <{rec['url']}> (retrieved {today}).
 
 # {title}
 
