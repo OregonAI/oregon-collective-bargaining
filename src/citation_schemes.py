@@ -61,6 +61,17 @@ _EMPLOYER_WORDS = (
 )
 
 
+# The term inside a document id ("...-2025-2027" — also mid-id for the blackline,
+# whose id ends with its as-of date instead). Date fragments like 02202026 have no
+# hyphen and cannot false-match.
+_TERM_IN_ID = re.compile(r"20\d{2}-20\d{2}")
+
+
+def _id_term(doc_id: str) -> str:
+    mm = _TERM_IN_ID.search(doc_id)
+    return mm.group(0) if mm else ""
+
+
 def _resolve_cba(m: re.Match, nodes: dict) -> tuple[list, str | None]:
     union = _UNION_SLUG[m["union"].lower()]
     term = m["term"].replace("–", "-") if m["term"] else None
@@ -103,28 +114,36 @@ def _resolve_cba(m: re.Match, nodes: dict) -> tuple[list, str | None]:
                          f"unit names are spelled out (DAS filenames), so an acronym "
                          f"may not narrow; all {m['union']} matches returned")
 
+    def _drafted(note: str | None, ids: list) -> str | None:
+        # A draft print (the SEIU blackline) resolving without a warning would be
+        # the executed-text assumption this corpus refuses to make.
+        if any("blackline" in d for d in ids):
+            extra = ("includes a blackline/draft print — check the document's "
+                     "status; it is NOT the executed text")
+            return f"{note}; {extra}" if note else extra
+        return note
+
     if term:
-        exact = [d for d in hits if d.endswith(term)]
+        exact = [d for d in hits if _id_term(d) == term]
         if not exact:
             return [], (f"no {m['union']} agreement with term {term} is held; terms present: "
-                        + (", ".join(sorted({d[-9:] for d in hits})) or "none"))
+                        + (", ".join(sorted(_id_term(d) or "undated" for d in hits)) or "none"))
         if len(exact) > 1:
             note = (f"{len(exact)} {m['union']} agreements share term {term} (one per "
                     f"bargaining unit)" + (f"; {unit_note}" if unit_note else
                     "; add unit words to pin one"))
-            return exact, note
-        return exact, unit_note
+            return exact, _drafted(note, exact)
+        return exact, _drafted(unit_note, exact)
 
-    # Bare citation: newest term first, ambiguity stated. Sorting by the trailing
-    # YYYY-YYYY works because the id convention pins the term at the end.
-    hits.sort(key=lambda d: d[-9:], reverse=True)
+    # Bare citation: newest term first, ambiguity stated.
+    hits.sort(key=_id_term, reverse=True)
     note = None
     if len(hits) > 1:
         note = (f"'{m.group(0).strip()}' names no term"
                 + ("" if employer else " or employer")
                 + f"; {len(hits)} agreements match — newest term first, and expired "
                   "terms may follow. Cite union + term (+ county) to pin one.")
-    return hits, note
+    return hits, _drafted(note, hits)
 
 
 # One scheme, three citation shapes: "[term] [county [County]] <UNION> ... agreement".

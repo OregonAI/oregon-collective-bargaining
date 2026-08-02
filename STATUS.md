@@ -6,9 +6,9 @@ Generated 2026-08-02. Non-authoritative; see DISCLAIMER.md.
 
 | doc_type | count |
 |---|---|
-| collective_bargaining_agreement | 32 |
+| collective_bargaining_agreement | 33 |
 
-**Total: 32**
+**Total: 33**
 
 ## Source manifest
 
@@ -16,7 +16,7 @@ Generated 2026-08-02. Non-authoritative; see DISCLAIMER.md.
 
 ## Freshness (reverify every 180 days)
 
-32 of 32 document(s) overdue for re-verification.
+33 of 33 document(s) overdue for re-verification.
 
 | id | doc_type | last_verified |
 |---|---|---|
@@ -50,6 +50,7 @@ Generated 2026-08-02. Non-authoritative; see DISCLAIMER.md.
 | state-opsa-oregon-public-safety-association-2025-2027 | collective_bargaining_agreement | never |
 | state-oregon-nurses-association-2025-2027 | collective_bargaining_agreement | never |
 | state-ospoa-oregon-state-police-officers-association-2025-2027 | collective_bargaining_agreement | never |
+| state-seiu-2025-2027-blackline-as-of-02202026 | collective_bargaining_agreement | never |
 | state-seiu-non-state-adult-foster-home-providers-2025-2026 | collective_bargaining_agreement | never |
 | state-seiu-non-state-oregon-home-care-commission-2025-2027 | collective_bargaining_agreement | never |
 

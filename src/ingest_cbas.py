@@ -9,9 +9,17 @@ summary-mode documents under agreements/state/cba/.
 
 TRANCHE 1 = family `cba` in _meta/sources/state.yml whose term BEGAN in or after the
 roster term's start year (the current biennium plus the non-state units' odd terms).
+
+THE SEIU "BLACKLINE" IS INGESTED AS `status: draft` — an operator decision
+(2026-08-02), reversing the first run's skip. The reasoning both ways, recorded: it
+is a redline print, not the executed agreement (the manifest note stands — it is
+never presented as final text), BUT it is the ONLY state-posted copy of the ratified
+2025-2027 SEIU master terms, and holding nothing while the master is the largest
+agreement in the state was the worse gap. The document says what it is in status,
+title, and body; when DAS posts the executed final, the final ingests as current
+and this document flips to superseded.
+
 Explicitly excluded, each with the reason printed:
-  * the SEIU "Blackline" file — a redline, not the executed agreement (its manifest
-    note says never ingest it as final text);
   * LOAs — separately-published letters are their own family and a later tranche;
   * history — predecessor terms come later, which is why `relationships.supersedes`
     is left EMPTY here rather than pointed at documents that do not exist yet. The
@@ -112,6 +120,11 @@ def roster_row(filename_title: str, roster: dict) -> dict | None:
             if row["match"] in filename_title and not (
                     row.get("exclude") and row["exclude"] in filename_title):
                 return {**row, "non_state": section == "non_state_contracts"}
+    # The blackline's filename carries no "Master Agreement" — but it IS a print of
+    # the SEIU master's ratified terms, so it inherits that chart row.
+    if filename_title.startswith("SEIU") and "Blackline" in filename_title:
+        row = next(r for r in roster["state_contracts"] if "SEIU master" in r["unit"])
+        return {**row, "non_state": False}
     return None
 
 
@@ -155,6 +168,7 @@ def write_doc(rec: dict, row: dict | None, sha: str, pages: int, text: str,
               today: str) -> Path:
     doc_id, term, union = rec["id"], rec["term"], rec.get("union", "")
     title = rec["title"]
+    is_draft = "blackline" in doc_id
     refs = sorted({f"ORS {n}" for n in ORS.findall(text)} |
                   {f"OAR {n}" for n in OAR.findall(text)})
     eff, exp = stated_term_dates(text, term)
@@ -166,7 +180,8 @@ def write_doc(rec: dict, row: dict | None, sha: str, pages: int, text: str,
         "id": doc_id,
         "title": title,
         "doc_type": "collective_bargaining_agreement",
-        "citation": f"{term} {title.replace(term, '').strip()} agreement",
+        "citation": (f"{term} SEIU 503 master agreement (blackline print, not executed)"
+                     if is_draft else f"{term} {title.replace(term, '').strip()} agreement"),
         "authority_level": "contract",
         "issuing_body": "State of Oregon (DAS Labor Relations Unit)",
         "union": union,
@@ -179,7 +194,9 @@ def write_doc(rec: dict, row: dict | None, sha: str, pages: int, text: str,
         "retrieved": today,
         "source_sha256": sha,
         "snapshot_policy": "hash-only",
-        "status": "current",
+        # A blackline is a DRAFT PRINT of ratified terms, never the executed text —
+        # status says so, and it flips to superseded the day DAS posts the final.
+        "status": "draft" if is_draft else "current",
         "content_mode": "summary",
         "reproduction_basis": ("jointly-authored contract; summary + official link per "
                                "the class determination in corpus.yml schema.doc_types "
@@ -201,6 +218,12 @@ def write_doc(rec: dict, row: dict | None, sha: str, pages: int, text: str,
     glance = [f"Collective bargaining agreement between the State of Oregon (DAS Labor "
               f"Relations) and **{union or 'the signatory association'}** for the "
               f"**{term}** term."]
+    if is_draft:
+        glance.insert(0, "**DRAFT PRINT — NOT THE EXECUTED AGREEMENT.** This is DAS's "
+                         "posted *blackline* (redline) of the ratified terms; the "
+                         "executed final has not been posted. It is held because it is "
+                         "the only state-posted copy of these terms, and it will be "
+                         "superseded the day the final appears.")
     if row:
         glance.append(f"- Bargaining unit (LRU chart): {row['unit']}"
                       + (f" — repr. code {row['repr']}" if row.get("repr") else ""))
@@ -287,9 +310,6 @@ def main() -> int:
                 picked.append(rec)
             continue
         if rec["family"] != "cba":
-            continue
-        if "blackline" in rec["id"]:
-            skipped.append(f"{rec['id']}: redline, not the executed agreement")
             continue
         if not rec.get("term") or rec["term"][:4] < floor:
             continue

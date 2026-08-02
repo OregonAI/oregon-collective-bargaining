@@ -1,8 +1,8 @@
 {
  "corpus": "oregon-collective-bargaining",
- "n_nodes": 32,
- "n_edges": 244,
- "n_edges_external": 244,
+ "n_nodes": 33,
+ "n_edges": 266,
+ "n_edges_external": 266,
  "nodes": [
   {
    "id": "state-aee-association-of-engineering-employees-2025-2027",
@@ -183,6 +183,12 @@
    "title": "OSPOA Oregon State Police Officers Association 2025-2027",
    "doc_type": "collective_bargaining_agreement",
    "path": "agreements/state/cba/state-ospoa-oregon-state-police-officers-association-2025-2027.md"
+  },
+  {
+   "id": "state-seiu-2025-2027-blackline-as-of-02202026",
+   "title": "SEIU 2025-2027 Blackline as of 02202026",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/state/cba/state-seiu-2025-2027-blackline-as-of-02202026.md"
   },
   {
    "id": "state-seiu-non-state-adult-foster-home-providers-2025-2026",
@@ -1317,6 +1323,116 @@
    "from": "state-ospoa-oregon-state-police-officers-association-2025-2027",
    "type": "references_external",
    "to": "ORS 279.340"
+  },
+  {
+   "from": "state-seiu-2025-2027-blackline-as-of-02202026",
+   "type": "references_external",
+   "to": "OAR 125-155-0520"
+  },
+  {
+   "from": "state-seiu-2025-2027-blackline-as-of-02202026",
+   "type": "references_external",
+   "to": "OAR 166-300-0045"
+  },
+  {
+   "from": "state-seiu-2025-2027-blackline-as-of-02202026",
+   "type": "references_external",
+   "to": "OAR 309-035-0135"
+  },
+  {
+   "from": "state-seiu-2025-2027-blackline-as-of-02202026",
+   "type": "references_external",
+   "to": "OAR 437-002-0161"
+  },
+  {
+   "from": "state-seiu-2025-2027-blackline-as-of-02202026",
+   "type": "references_external",
+   "to": "OAR 459-009-0200"
+  },
+  {
+   "from": "state-seiu-2025-2027-blackline-as-of-02202026",
+   "type": "references_external",
+   "to": "ORS 163.165"
+  },
+  {
+   "from": "state-seiu-2025-2027-blackline-as-of-02202026",
+   "type": "references_external",
+   "to": "ORS 179.210"
+  },
+  {
+   "from": "state-seiu-2025-2027-blackline-as-of-02202026",
+   "type": "references_external",
+   "to": "ORS 181.516"
+  },
+  {
+   "from": "state-seiu-2025-2027-blackline-as-of-02202026",
+   "type": "references_external",
+   "to": "ORS 238A.335"
+  },
+  {
+   "from": "state-seiu-2025-2027-blackline-as-of-02202026",
+   "type": "references_external",
+   "to": "ORS 240.200"
+  },
+  {
+   "from": "state-seiu-2025-2027-blackline-as-of-02202026",
+   "type": "references_external",
+   "to": "ORS 240.309"
+  },
+  {
+   "from": "state-seiu-2025-2027-blackline-as-of-02202026",
+   "type": "references_external",
+   "to": "ORS 243.650"
+  },
+  {
+   "from": "state-seiu-2025-2027-blackline-as-of-02202026",
+   "type": "references_external",
+   "to": "ORS 243.698"
+  },
+  {
+   "from": "state-seiu-2025-2027-blackline-as-of-02202026",
+   "type": "references_external",
+   "to": "ORS 243.712"
+  },
+  {
+   "from": "state-seiu-2025-2027-blackline-as-of-02202026",
+   "type": "references_external",
+   "to": "ORS 408.225"
+  },
+  {
+   "from": "state-seiu-2025-2027-blackline-as-of-02202026",
+   "type": "references_external",
+   "to": "ORS 652.220"
+  },
+  {
+   "from": "state-seiu-2025-2027-blackline-as-of-02202026",
+   "type": "references_external",
+   "to": "ORS 653.269"
+  },
+  {
+   "from": "state-seiu-2025-2027-blackline-as-of-02202026",
+   "type": "references_external",
+   "to": "ORS 654.001"
+  },
+  {
+   "from": "state-seiu-2025-2027-blackline-as-of-02202026",
+   "type": "references_external",
+   "to": "ORS 656.202"
+  },
+  {
+   "from": "state-seiu-2025-2027-blackline-as-of-02202026",
+   "type": "references_external",
+   "to": "ORS 659A.270"
+  },
+  {
+   "from": "state-seiu-2025-2027-blackline-as-of-02202026",
+   "type": "references_external",
+   "to": "ORS 659A.283"
+  },
+  {
+   "from": "state-seiu-2025-2027-blackline-as-of-02202026",
+   "type": "references_external",
+   "to": "ORS 659A.885"
   },
   {
    "from": "state-seiu-non-state-adult-foster-home-providers-2025-2026",
