@@ -6,18 +6,18 @@ Generated 2026-08-02. Non-authoritative; see DISCLAIMER.md.
 
 | doc_type | count |
 |---|---|
-| collective_bargaining_agreement | 157 |
-| letter_of_agreement | 69 |
+| collective_bargaining_agreement | 160 |
+| letter_of_agreement | 72 |
 
-**Total: 226**
+**Total: 232**
 
 ## Source manifest
 
-679 declared source(s) across 12 group(s) in `sources`.
+680 declared source(s) across 12 group(s) in `sources`.
 
 ## Freshness (reverify every 180 days)
 
-226 of 226 document(s) overdue for re-verification.
+232 of 232 document(s) overdue for re-verification.
 
 | id | doc_type | last_verified |
 |---|---|---|
@@ -71,5 +71,5 @@ Generated 2026-08-02. Non-authoritative; see DISCLAIMER.md.
 | deschutes-county-mou-afscme-behavioral-health-clinical-supervision-incentive-program-dc-2023-1035 | letter_of_agreement | never |
 | deschutes-county-mou-afscme-bh-service-area-position-incentives-dc-2025-709 | letter_of_agreement | never |
 | deschutes-county-mou-afscme-crisis-program-employees-dc-2025-710 | letter_of_agreement | never |
-| … | *176 more* | |
+| … | *182 more* | |
 

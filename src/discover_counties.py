@@ -351,15 +351,37 @@ COUNTIES: dict[str, dict] = {
                    hosts=[{"host": "jacksoncountyor.gov", "robots_url": None, "ai_block": False,
                            "content_signal": None,
                            "notes": "robots.txt 404s. Paths under 'Document Center/' with "
-                                    "spaces; percent-encoded here."}]),
+                                    "spaces; percent-encoded here."},
+                          {"host": "www.oregon.gov",
+                           "robots_url": "https://www.oregon.gov/robots.txt",
+                           "ai_block": False, "content_signal": None,
+                           "notes": "Hosts the JCSSA ERB case-file exhibit — the same "
+                                    "robots determination as the state group (no relevant "
+                                    "disallow, fetched at survey time)."}]),
         upstream="No feed. THE INDEX IS A FLOOR, NOT THE COVERAGE: 3 units listed, >=5 known.",
-        header=["INDEX INCOMPLETE — leads recorded here, deliberately NOT seeded as sources "
-                "until fetched and verified:",
-                "  lead: AFSCME (Courts/County General/Health) CBA 2025-2027 on the county's "
-                "OTHER domain — mijackson.org DocumentCenter (search artifact, unfetched)",
-                "  lead: JCSSA (Sheriff's Sergeants) agreement surfaced only as an ERB case "
-                "exhibit (oregon.gov/erb/Documents/ME-008-26_JCSSA-FOCS.pdf, unfetched)",
-                "Multi-domain crawling is the fix; a records request is the fallback."]),
+        header=["INDEX INCOMPLETE — the two survey leads were fetched and verified "
+                "2026-08-02, with opposite outcomes:",
+                "  FALSE LEAD, rejected: mijackson.org is Jackson County, MICHIGAN — its "
+                "DocumentCenter CBA names 'Michigan Council No. 25 AFSCME'. The search "
+                "artifact conflated the two counties; Oregon Jackson County's AFSCME "
+                "agreement remains publicly unlocated (records request is the path).",
+                "  VERIFIED, seeded below as an extra source: the JCSSA (Sheriff's "
+                "Sergeants) 2023-2026 agreement, whose only public copy is an ERB case "
+                "exhibit — labeled as exactly that, per this corpus's exception rule."],
+        extra=[{
+            "id": "jackson-jcssa-sheriffs-sergeants-2023-2026-erb-exhibit",
+            "url": "https://www.oregon.gov/erb/Documents/ME-008-26_JCSSA-FOCS.pdf",
+            "family": "cba", "format": "pdf", "sha256": "",
+            "title": "Jackson County Sheriff's Sergeants' Association (JCSSA) agreement "
+                     "2023-2026 — ERB case exhibit copy",
+            "union": "JCSSA", "term": "2023-2026", "last_checked": ARCHIVE_DATE,
+            "notes": "THE ONLY PUBLIC COPY, and it is an Oregon ERB case-file exhibit "
+                     "(case ME-008-26), not a county publication — the county's own index "
+                     "does not list this unit. Hand-verified 2026-08-02 (fetched; cover "
+                     "page names the association and the 2023-2026 term). An exhibit copy "
+                     "may lag amendments; treat the county as the source of record the "
+                     "day it publishes one.",
+        }]),
     "deschutes": dict(
         employer="deschutes-county", extractor=x_deschutes,
         title="Deschutes County labor contracts and documents",
@@ -499,6 +521,9 @@ def main() -> int:
             failed += 1
             continue
         sources = cfg["extractor"](page.read_text(encoding="utf-8", errors="replace"))
+        # Hand-verified additions living on OTHER domains than the county's index —
+        # each carries its own provenance note (Jackson's ERB-exhibit JCSSA copy).
+        sources += cfg.get("extra", [])
         if not sources:
             print(f"ABORT {county}: extractor found nothing — the page shape changed or the "
                   f"extractor broke; refusing to write an empty group", file=sys.stderr)

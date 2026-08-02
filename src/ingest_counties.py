@@ -227,7 +227,8 @@ def write_doc(county: dict, rec: dict, doc_id: str, sha: str, pages: int, text: 
                                "the class determination in corpus.yml schema.doc_types "
                                "(verbatim: false)"),
         "conversion_notes": (
-            occ.notes(ocr) + ("; the source PDF carries a digital signature — OCR ran "
+            occ.notes(ocr, ocr.get("engines", occ.ENGINES))
+            + ("; the source PDF carries a digital signature — OCR ran "
                               "on a derived copy, the committed original preserves it"
                               if ocr.get("signed") else "") if ocr else
             f"pdftotext -layout; {pages} pages, "
@@ -404,8 +405,35 @@ def main() -> int:
                         (SNAPSHOTS / f"{doc_id}.signed").write_text("digitally signed")
                     text, pages = extract(ocr_pdf, txt)
                     if len(text.strip()) < 200:
-                        skipped.append(f"{doc_id}: OCR recovered under 200 chars — "
-                                       f"TODO: human verification required")
+                        # Tesseract cannot read this scan at all. The DIFFERENT-PAIR
+                        # fallback (the policy repo's eo recovery pattern): docTR
+                        # becomes the committed text, corroborated by paddle — two
+                        # engines sharing no weights, neither of them tesseract.
+                        dt = occ.doctr_text(pdf)
+                        if dt and len(dt.strip()) >= 200:
+                            cross2 = occ.paddle_text(pdf, SNAPSHOTS / ".paddle-work")
+                            s2 = occ.score(dt, cross2, occ.vocabulary()) if cross2 else None
+                            if s2 and s2["gate_ok"] and s2["agree_ok"]:
+                                txt.write_text(dt, encoding="utf-8")
+                                text = dt
+                                s2["engines"] = ("docTR (DBNet + CRNN)",
+                                                 "paddleocr PP-OCRv6")
+                                s2["extra_note"] = ("different-pair recovery: tesseract "
+                                                    "produced no usable text on this scan")
+                                sha = hash_snapshot(doc_id, src_fmt, SNAPSHOTS)
+                                out = write_doc(county, rec, doc_id, sha, pages, text,
+                                                today, cba_by_union, fetched_url,
+                                                src_fmt, s2)
+                                if rec["family"] == "cba":
+                                    u = union_of(rec["title"])
+                                    if u:
+                                        cba_by_union.setdefault(u, []).append(doc_id)
+                                ok += 1
+                                continue
+                        skipped.append(f"{doc_id}: no engine pair could corroborate this "
+                                       f"scan (tesseract under 200 chars; docTR/paddle "
+                                       f"did not both clear the gate) — TODO: human "
+                                       f"verification required")
                         txt.unlink(missing_ok=True)
                         continue
                     cross = occ.paddle_text(pdf, SNAPSHOTS / ".paddle-work")
@@ -415,12 +443,29 @@ def main() -> int:
                         txt.unlink(missing_ok=True)
                         continue
                     s = occ.score(text, cross, occ.vocabulary())
+                    s["engines"] = occ.ENGINES
+                    if s["gate_ok"] and not s["agree_ok"]:
+                        # TIEBREAK, per the platform stack: docTR votes. Accept only
+                        # when docTR sides with TESSERACT (>= 0.80) — the committed
+                        # text is tesseract's, and a paddle+docTR majority against it
+                        # would corroborate text we are not committing.
+                        dt = occ.doctr_text(pdf)
+                        if dt:
+                            s3 = occ.score(text, dt, occ.vocabulary())
+                            if s3["gate_ok"] and s3["agree_ok"]:
+                                s3["engines"] = ("tesseract (ocrmypdf)",
+                                                 "docTR (DBNet + CRNN)")
+                                s3["extra_note"] = (
+                                    f"docTR tiebreak: paddleocr agreed on only "
+                                    f"{s['agreement']:.0%} of the word sequence and was "
+                                    f"outvoted by the tesseract+docTR pair")
+                                s = s3
                     if not (s["gate_ok"] and s["agree_ok"]):
                         skipped.append(
-                            f"{doc_id}: failed the two-engine gate (agreement "
-                            f"{s['agreement']:.0%}, figures {s['figure_agreement']:.0%}, "
-                            f"dict {s['dict_ratio']:.0%}, {s['words']} words) — human "
-                            f"review required, not ingested")
+                            f"{doc_id}: failed the two-engine gate incl. docTR tiebreak "
+                            f"(agreement {s['agreement']:.0%}, figures "
+                            f"{s['figure_agreement']:.0%}, dict {s['dict_ratio']:.0%}, "
+                            f"{s['words']} words) — human review required, not ingested")
                         txt.unlink(missing_ok=True)
                         continue
                     if signed:

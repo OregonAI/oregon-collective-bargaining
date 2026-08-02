@@ -1,8 +1,8 @@
 {
  "corpus": "oregon-collective-bargaining",
- "n_nodes": 226,
- "n_edges": 1006,
- "n_edges_external": 951,
+ "n_nodes": 232,
+ "n_edges": 1017,
+ "n_edges_external": 960,
  "nodes": [
   {
    "id": "benton-county-american-federation-of-state-county-and-municipal-employees-council-75-afl-cio-local-2064-lab",
@@ -317,6 +317,12 @@
    "path": "agreements/deschutes-county/loa/deschutes-county-mou-afscme-high-needs-rural-services-position-pay-differential-dc-2023-341.md"
   },
   {
+   "id": "deschutes-county-mou-afscme-juneteenth-holiday-section-a-dc-2022-352",
+   "title": "Deschutes County — MOU AFSCME Juneteenth Holiday Section A DC-2022-352",
+   "doc_type": "letter_of_agreement",
+   "path": "agreements/deschutes-county/loa/deschutes-county-mou-afscme-juneteenth-holiday-section-a-dc-2022-352.md"
+  },
+  {
    "id": "deschutes-county-mou-afscme-juvenile-community-justice-pay-differentials-dc-2023-720",
    "title": "Deschutes County — MOU AFSCME Juvenile Community Justice Pay Differentials DC-2023-720",
    "doc_type": "letter_of_agreement",
@@ -473,6 +479,12 @@
    "path": "agreements/jackson-county/cba/jackson-county-jackson-county-sheriff-s-employees-association-jcsea-labor-agreement.md"
   },
   {
+   "id": "jackson-county-jcssa-sheriffs-sergeants-2023-2026-erb-exhibit",
+   "title": "Jackson County — Jackson County Sheriff's Sergeants' Association (JCSSA) agreement 2023-2026 — ERB case exhibit copy",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/jackson-county/cba/jackson-county-jcssa-sheriffs-sergeants-2023-2026-erb-exhibit.md"
+  },
+  {
    "id": "lane-county-admin-pro-collective-bargaining-agreement",
    "title": "Lane County — Admin-Pro Collective Bargaining Agreement",
    "doc_type": "collective_bargaining_agreement",
@@ -521,6 +533,12 @@
    "path": "agreements/lane-county/cba/lane-county-paa-collective-bargaining-agreement.md"
   },
   {
+   "id": "lane-county-626-cba-modifications",
+   "title": "Lane County — 626 CBA Modifications",
+   "doc_type": "letter_of_agreement",
+   "path": "agreements/lane-county/loa/lane-county-626-cba-modifications.md"
+  },
+  {
    "id": "lane-county-admin-pro-cba-modifications",
    "title": "Lane County — Admin-Pro CBA Modifications",
    "doc_type": "letter_of_agreement",
@@ -549,6 +567,12 @@
    "title": "Lane County — FOPPO CBA Modifications",
    "doc_type": "letter_of_agreement",
    "path": "agreements/lane-county/loa/lane-county-foppo-cba-modifications.md"
+  },
+  {
+   "id": "lane-county-lcpoa-cba-modifications",
+   "title": "Lane County — LCPOA CBA Modifications",
+   "doc_type": "letter_of_agreement",
+   "path": "agreements/lane-county/loa/lane-county-lcpoa-cba-modifications.md"
   },
   {
    "id": "lane-county-paa-cba-modifications",
@@ -1143,6 +1167,18 @@
    "title": "Washington County — FOPPO LOA_Movement to a Higher Classification.pdf",
    "doc_type": "collective_bargaining_agreement",
    "path": "agreements/washington-county/cba/washington-county-foppo-loa-movement-to-a-higher-classification-pdf.md"
+  },
+  {
+   "id": "washington-county-foppo-loa-trainer-pay",
+   "title": "Washington County — FOPPO LOA_Trainer Pay",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/washington-county/cba/washington-county-foppo-loa-trainer-pay.md"
+  },
+  {
+   "id": "washington-county-foppo-moa-trimet-workday-insurance",
+   "title": "Washington County — FOPPO MOA_TriMet Workday Insurance",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/washington-county/cba/washington-county-foppo-moa-trimet-workday-insurance.md"
   },
   {
    "id": "washington-county-foppo-mou-benefit-plan-design-changes-for-2024-pdf",
@@ -1748,6 +1784,11 @@
    "to": "deschutes-county-afscme-cba-2025-2030-dc-2025-597"
   },
   {
+   "from": "deschutes-county-mou-afscme-juneteenth-holiday-section-a-dc-2022-352",
+   "type": "related",
+   "to": "deschutes-county-afscme-cba-2025-2030-dc-2025-597"
+  },
+  {
    "from": "deschutes-county-mou-afscme-juvenile-community-justice-pay-differentials-dc-2023-720",
    "type": "related",
    "to": "deschutes-county-afscme-cba-2025-2030-dc-2025-597"
@@ -1899,6 +1940,51 @@
   },
   {
    "from": "jackson-county-jackson-county-sheriff-s-employees-association-jcsea-labor-agreement",
+   "type": "references_external",
+   "to": "ORS 243.808"
+  },
+  {
+   "from": "jackson-county-jcssa-sheriffs-sergeants-2023-2026-erb-exhibit",
+   "type": "references_external",
+   "to": "ORS 181A.620"
+  },
+  {
+   "from": "jackson-county-jcssa-sheriffs-sergeants-2023-2026-erb-exhibit",
+   "type": "references_external",
+   "to": "ORS 206.210"
+  },
+  {
+   "from": "jackson-county-jcssa-sheriffs-sergeants-2023-2026-erb-exhibit",
+   "type": "references_external",
+   "to": "ORS 236.350"
+  },
+  {
+   "from": "jackson-county-jcssa-sheriffs-sergeants-2023-2026-erb-exhibit",
+   "type": "references_external",
+   "to": "ORS 238.205"
+  },
+  {
+   "from": "jackson-county-jcssa-sheriffs-sergeants-2023-2026-erb-exhibit",
+   "type": "references_external",
+   "to": "ORS 238A.335"
+  },
+  {
+   "from": "jackson-county-jcssa-sheriffs-sergeants-2023-2026-erb-exhibit",
+   "type": "references_external",
+   "to": "ORS 243.650"
+  },
+  {
+   "from": "jackson-county-jcssa-sheriffs-sergeants-2023-2026-erb-exhibit",
+   "type": "references_external",
+   "to": "ORS 243.698"
+  },
+  {
+   "from": "jackson-county-jcssa-sheriffs-sergeants-2023-2026-erb-exhibit",
+   "type": "references_external",
+   "to": "ORS 243.706"
+  },
+  {
+   "from": "jackson-county-jcssa-sheriffs-sergeants-2023-2026-erb-exhibit",
    "type": "references_external",
    "to": "ORS 243.808"
   },
@@ -2126,6 +2212,11 @@
    "from": "lane-county-foppo-cba-modifications",
    "type": "related",
    "to": "lane-county-foppo-collective-bargaining-agreement"
+  },
+  {
+   "from": "lane-county-lcpoa-cba-modifications",
+   "type": "related",
+   "to": "lane-county-lcpoa-collective-bargaining-agreement"
   },
   {
    "from": "marion-county-foppo-cba",

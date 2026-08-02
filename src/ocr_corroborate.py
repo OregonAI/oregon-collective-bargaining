@@ -55,6 +55,7 @@ FIGURE = re.compile(r"\$?-?\d[\d,]*(?:\.\d+)?%?")
 
 _VOCAB: set[str] | None = None
 _PADDLE = None
+_DOCTR = None
 
 
 def vocabulary() -> set[str]:
@@ -115,6 +116,33 @@ def paddle_text(pdf_path: Path, workdir: Path) -> str | None:
     return "\n".join(out)
 
 
+def doctr_text(pdf: Path) -> str | None:
+    """docTR (DBNet + CRNN) — the TIEBREAKER, not a default (the kpm measurement:
+    it agrees with tesseract less than Paddle does on every document, 0.747-0.862,
+    so promoting it to default would lower every score). It earns its place in two
+    situations, both used here: breaking a tesseract/paddle disagreement, and
+    forming a DIFFERENT PAIR with paddle when tesseract cannot read the scan at
+    all — it straightens pages itself (the policy repo's eo recovery pattern)."""
+    try:
+        from doctr.io import DocumentFile
+        from doctr.models import ocr_predictor
+    except ImportError:
+        return None
+    global _DOCTR
+    try:
+        if _DOCTR is None:
+            _DOCTR = ocr_predictor(pretrained=True)
+        res = _DOCTR(DocumentFile.from_pdf(str(pdf)))
+    except Exception:                                      # noqa: BLE001
+        return None
+    lines = []
+    for page in res.pages:
+        for block in page.blocks:
+            for line in block.lines:
+                lines.append(" ".join(w.value for w in line.words))
+    return "\n".join(lines)
+
+
 def score(primary: str, cross_check: str, vocab: set[str]) -> dict:
     """Quality of the text that would be committed, and its agreement with the second
     engine. Identical metric set to the kpm reference."""
@@ -137,13 +165,15 @@ def score(primary: str, cross_check: str, vocab: set[str]) -> dict:
             "agree_ok": agreement >= MIN_AGREEMENT}
 
 
-def notes(s: dict) -> str:
-    """The `conversion_notes` string. Wording matches the reference implementations."""
+def notes(s: dict, engines: tuple[str, str] = ENGINES) -> str:
+    """The `conversion_notes` string. Wording matches the reference implementations;
+    `engines` names the pair that actually corroborated the committed text."""
     glued_note = (f"; {s['glued']} heading/letterhead token(s) lost their word spacing in "
                   f"extraction and are left as-is rather than reconstructed"
                   if s["glued"] else "")
+    extra = f"; {s['extra_note']}" if s.get("extra_note") else ""
     return (f"no text layer in the source PDF; text recovered by OCR. Two independent "
-            f"engines ({' + '.join(ENGINES)}) agree on {s['agreement']:.0%} of the word "
+            f"engines ({' + '.join(engines)}) agree on {s['agreement']:.0%} of the word "
             f"sequence and {s['figure_agreement']:.0%} of the {s['figures']} figures, "
-            f"{s['dict_ratio']:.0%} dictionary-recognizable{glued_note}; "
+            f"{s['dict_ratio']:.0%} dictionary-recognizable{glued_note}{extra}; "
             f"NOT human-verified — treat every number as unchecked against the source")
