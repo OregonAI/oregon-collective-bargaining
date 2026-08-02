@@ -1,0 +1,25 @@
+# Oregon Collective Bargaining — State and County Labor Agreements
+
+> Non-authoritative, AI-friendly reference for the collective bargaining agreements
+> of Oregon state government (DAS Labor Relations) and Oregon county governments,
+> plus the letters of agreement that amend them. Summary-first: third-party
+> jointly-authored material is summarized with links to official sources.
+> Always verify against the authoritative source linked in each document.
+
+## Start here
+
+- [AGENTS.md](AGENTS.md): rules for AI agents working in this corpus
+- [STATUS.md](STATUS.md): freshness, coverage, and drift at a glance
+
+## Contents
+
+- `_meta/employers.yml`: the employer universe — the state plus all 36 counties with
+  each one's survey status (verified / could-not-verify / not-located /
+  not-investigated, never summed). Consult it before answering any "does county X
+  have…" question: absence from the corpus is not absence at the employer.
+- `_meta/sources/`: per-employer source groups with recorded robots/access
+  determinations — what this corpus ingests and why.
+- `agreements/<employer>/cba/`: collective bargaining agreements, one file per
+  agreement per term. `agreements/<employer>/loa/`: separately-published letters of
+  agreement. (Empty until ingestion passes human gate #1 — the corpus is
+  pre-ingest scaffold at this commit.)

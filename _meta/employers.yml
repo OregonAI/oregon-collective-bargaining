@@ -1,0 +1,273 @@
+# Employer registry — the issuing-body registry the scoped content root validates
+# against (corpus.yml: issuing_body_registry_key: employers). One entry per employer
+# whose agreements this corpus can hold: the state, plus all 36 counties so that a
+# county's absence from the CONTENT is never mistaken for absence from the UNIVERSE.
+#
+# County slugs are IDENTICAL to oregon-counties' _meta/counties.yml slugs on purpose —
+# the cross-corpus county join depends on it. Generated from that registry plus
+# corpus-seeds/oregon-collective-bargaining.survey.yml; survey_status is the survey's
+# vocabulary (verified / could-not-verify / not-located / not-investigated — kept
+# apart, never summed). source_url is the employer's own labor-agreements index where
+# the survey recorded one — including the two whose index refused the honest fetcher
+# (could-not-verify); check survey_status before trusting it. null means "no index
+# located", NOT "no agreements".
+employers:
+- slug: state
+  name: State of Oregon (DAS Labor Relations Unit)
+  kind: state
+  jurisdiction: oregon
+  source_url: https://www.oregon.gov/das/hr/pages/lru.aspx
+  survey_status: verified
+  built: false
+- slug: multnomah-county
+  name: Multnomah County
+  kind: county
+  jurisdiction: oregon/multnomah-county
+  source_url: https://multco.us/info/labor-contracts
+  survey_status: verified
+  built: false
+- slug: washington-county
+  name: Washington County
+  kind: county
+  jurisdiction: oregon/washington-county
+  source_url: https://www.washingtoncountyor.gov/hr/labor-agreements
+  survey_status: verified
+  built: false
+- slug: clackamas-county
+  name: Clackamas County
+  kind: county
+  jurisdiction: oregon/clackamas-county
+  source_url: https://www.clackamas.us/des/contracts
+  survey_status: verified
+  built: false
+- slug: lane-county
+  name: Lane County
+  kind: county
+  jurisdiction: oregon/lane-county
+  source_url: https://www.lanecountyor.gov/government/county_departments/human_resources/collective_bargaining_agreements
+  survey_status: verified
+  built: false
+- slug: marion-county
+  name: Marion County
+  kind: county
+  jurisdiction: oregon/marion-county
+  source_url: https://www.co.marion.or.us/HR/Pages/payplan.aspx
+  survey_status: verified
+  built: false
+- slug: jackson-county
+  name: Jackson County
+  kind: county
+  jurisdiction: oregon/jackson-county
+  source_url: https://jacksoncountyor.gov/departments/administration/human_resources/labor_agreements.php
+  survey_status: verified
+  built: false
+- slug: deschutes-county
+  name: Deschutes County
+  kind: county
+  jurisdiction: oregon/deschutes-county
+  source_url: https://www.deschutescounty.gov/1095/Labor-Contracts-and-Documents
+  survey_status: verified
+  built: false
+- slug: linn-county
+  name: Linn County
+  kind: county
+  jurisdiction: oregon/linn-county
+  source_url: https://www.linncountyor.gov/administration/page/union-contracts
+  survey_status: could-not-verify
+  built: false
+- slug: douglas-county
+  name: Douglas County
+  kind: county
+  jurisdiction: oregon/douglas-county
+  source_url: https://www.douglascountyor.gov/295/Labor-Contracts
+  survey_status: could-not-verify
+  built: false
+- slug: yamhill-county
+  name: Yamhill County
+  kind: county
+  jurisdiction: oregon/yamhill-county
+  source_url: https://www.yamhillcounty.gov/300/Union-Contracts
+  survey_status: verified
+  built: false
+- slug: benton-county
+  name: Benton County
+  kind: county
+  jurisdiction: oregon/benton-county
+  source_url: null
+  survey_status: not-located
+  built: false
+- slug: polk-county
+  name: Polk County
+  kind: county
+  jurisdiction: oregon/polk-county
+  source_url: null
+  survey_status: not-located
+  built: false
+- slug: josephine-county
+  name: Josephine County
+  kind: county
+  jurisdiction: oregon/josephine-county
+  source_url: null
+  survey_status: not-located
+  built: false
+- slug: umatilla-county
+  name: Umatilla County
+  kind: county
+  jurisdiction: oregon/umatilla-county
+  source_url: null
+  survey_status: not-located
+  built: false
+- slug: klamath-county
+  name: Klamath County
+  kind: county
+  jurisdiction: oregon/klamath-county
+  source_url: null
+  survey_status: not-located
+  built: false
+- slug: coos-county
+  name: Coos County
+  kind: county
+  jurisdiction: oregon/coos-county
+  source_url: https://co.coos.or.us/union-contracts
+  survey_status: verified
+  built: false
+- slug: columbia-county
+  name: Columbia County
+  kind: county
+  jurisdiction: oregon/columbia-county
+  source_url: https://www.columbiacountyor.gov/departments/HumanResources/union-contracts
+  survey_status: verified
+  built: false
+- slug: lincoln-county
+  name: Lincoln County
+  kind: county
+  jurisdiction: oregon/lincoln-county
+  source_url: null
+  survey_status: not-investigated
+  built: false
+- slug: clatsop-county
+  name: Clatsop County
+  kind: county
+  jurisdiction: oregon/clatsop-county
+  source_url: null
+  survey_status: not-investigated
+  built: false
+- slug: malheur-county
+  name: Malheur County
+  kind: county
+  jurisdiction: oregon/malheur-county
+  source_url: null
+  survey_status: not-investigated
+  built: false
+- slug: crook-county
+  name: Crook County
+  kind: county
+  jurisdiction: oregon/crook-county
+  source_url: null
+  survey_status: not-investigated
+  built: false
+- slug: tillamook-county
+  name: Tillamook County
+  kind: county
+  jurisdiction: oregon/tillamook-county
+  source_url: null
+  survey_status: not-investigated
+  built: false
+- slug: wasco-county
+  name: Wasco County
+  kind: county
+  jurisdiction: oregon/wasco-county
+  source_url: null
+  survey_status: not-investigated
+  built: false
+- slug: union-county
+  name: Union County
+  kind: county
+  jurisdiction: oregon/union-county
+  source_url: null
+  survey_status: not-investigated
+  built: false
+- slug: jefferson-county
+  name: Jefferson County
+  kind: county
+  jurisdiction: oregon/jefferson-county
+  source_url: null
+  survey_status: not-investigated
+  built: false
+- slug: hood-river-county
+  name: Hood River County
+  kind: county
+  jurisdiction: oregon/hood-river-county
+  source_url: null
+  survey_status: not-investigated
+  built: false
+- slug: curry-county
+  name: Curry County
+  kind: county
+  jurisdiction: oregon/curry-county
+  source_url: null
+  survey_status: not-investigated
+  built: false
+- slug: baker-county
+  name: Baker County
+  kind: county
+  jurisdiction: oregon/baker-county
+  source_url: null
+  survey_status: not-investigated
+  built: false
+- slug: morrow-county
+  name: Morrow County
+  kind: county
+  jurisdiction: oregon/morrow-county
+  source_url: null
+  survey_status: not-investigated
+  built: false
+- slug: lake-county
+  name: Lake County
+  kind: county
+  jurisdiction: oregon/lake-county
+  source_url: null
+  survey_status: not-investigated
+  built: false
+- slug: wallowa-county
+  name: Wallowa County
+  kind: county
+  jurisdiction: oregon/wallowa-county
+  source_url: null
+  survey_status: not-investigated
+  built: false
+- slug: harney-county
+  name: Harney County
+  kind: county
+  jurisdiction: oregon/harney-county
+  source_url: null
+  survey_status: not-investigated
+  built: false
+- slug: grant-county
+  name: Grant County
+  kind: county
+  jurisdiction: oregon/grant-county
+  source_url: null
+  survey_status: not-investigated
+  built: false
+- slug: sherman-county
+  name: Sherman County
+  kind: county
+  jurisdiction: oregon/sherman-county
+  source_url: null
+  survey_status: not-investigated
+  built: false
+- slug: gilliam-county
+  name: Gilliam County
+  kind: county
+  jurisdiction: oregon/gilliam-county
+  source_url: null
+  survey_status: not-investigated
+  built: false
+- slug: wheeler-county
+  name: Wheeler County
+  kind: county
+  jurisdiction: oregon/wheeler-county
+  source_url: null
+  survey_status: not-investigated
+  built: false

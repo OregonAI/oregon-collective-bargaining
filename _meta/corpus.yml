@@ -1,0 +1,112 @@
+# Corpus configuration — the single source of truth the toolkit reads.
+corpus:
+  id: "oregon-collective-bargaining"
+  name: "Oregon Collective Bargaining — State and County Labor Agreements"
+  jurisdiction: "oregon"             # corpus-level. State documents carry oregon;
+                                     # county documents carry oregon/<slug>-county,
+                                     # which the frontmatter pattern already permits
+                                     # (proven by oregon-counties — no schema change).
+  archetype: "document"
+  # The state tier has a genuine authoritative index — DAS Labor Relations publishes
+  # every state agreement — and it is the largest single publisher here (35 contracts,
+  # ~35k employees, plus 5 non-state units). The counties have no shared repository at
+  # all (measured: ERB does not collect CBAs; corpus-seeds/oregon-collective-bargaining
+  # .survey.yml), so county documents verify at the county's own URL, carried per
+  # employer in _meta/employers.yml — the oregon-counties pattern.
+  authoritative_source: "https://www.oregon.gov/das/hr/pages/lru.aspx"
+  schema_version: 1
+  contract_version: 1
+
+# Employer-scoped: agreements/<employer-slug>/<subdir>/<doc>.md
+#
+# WHY SCOPED (same two purchases as oregon-counties): every path segment validates
+# against the employer registry below (a typo'd slug is a build error, not a new
+# employer), and issuing_body_slug populates the FTS index from the PATH, so
+# search_corpus(issuing_body="multnomah") and issuing_body_profile work for free.
+#
+# The employer axis, not a union axis, because one union signs many employers'
+# agreements (SEIU 503 holds the state master, Marion's MCEA, and Jackson's
+# association) while each document has exactly one employer. Union is frontmatter.
+content_roots:
+  - path: "agreements"
+    scoped: true
+    subdirs:
+      cba: collective_bargaining_agreement   # the agreements themselves
+      loa: letter_of_agreement               # mid-term letters of agreement / amendments
+
+# The corpus-local doc_type declaration (toolkit >= v1.19.0, corpus-toolkit#40).
+# This is the first corpus to exercise it — before v1.19.0 a new instrument family
+# cost a toolkit release plus an org-wide pin bump.
+#
+# verbatim: false ON PURPOSE, and it is a gate, not an oversight. A CBA is jointly
+# authored with private parties; "public record" and "freely reproducible" are not
+# the same claim. The house default (seed, "A copyright question to settle BEFORE
+# ingest") is summary-first with official links, per-document basis recorded in
+# `reproduction_basis` frontmatter, the way federal-reference handled CJIS. If the
+# operator later determines a class reproduces freely, flip that class here — in a
+# PR, with the basis in the message — never silently at ingest time.
+schema:
+  doc_types:
+    - name: collective_bargaining_agreement
+      verbatim: false
+    - name: letter_of_agreement
+      verbatim: false
+
+plugins:
+  # Shared implementation, not a per-repo copy (see oregon-counties for the reasoning).
+  # _meta/embeddings/ is gitignored and mounted at runtime; absent mount degrades to
+  # keyword-only search silently — the compose healthcheck asserts availability.
+  semantic_search_module: "corpus_toolkit.semantic.search"
+  citation_module: "src.citation_schemes"
+  issuing_body_registry: "_meta/employers.yml"
+  # The registry's top-level key is `employers`, not the default `entries`. Getting
+  # this wrong does not error — the toolkit reads an EMPTY registry and silently
+  # enforces no slug validation at all.
+  issuing_body_registry_key: "employers"
+  extra_schema_checks:
+    - path: "_meta/sources/*.yml"
+      schema: "_meta/schema/source-group.schema.json"
+
+# ERF holds the ORS and OAR that agreements CITE — PECBA (ORS 243) in recognition
+# and grievance articles, agency statutes in scope clauses. Cited, not implemented:
+# this corpus sits deliberately OUTSIDE the authority chain (a CBA is a negotiated
+# contract, not an instrument implementing state law) and asserts no implements
+# edge anywhere. references_external only, surfaced as up_cites below.
+siblings:
+  - id: "executive-regulatory-frameworks"
+    index_url: "https://oregonai.github.io/executive-regulatory-frameworks/corpus-index.json"
+    web_base:  "https://github.com/OregonAI/executive-regulatory-frameworks/blob/main/"
+
+disclaimer_marker: "NON-AUTHORITATIVE"
+graph_path: "_meta/graph.json"
+# Directory mode: one group file per employer. The state and ten county publishers
+# update on unrelated schedules (and two counties overwrite files in place without
+# renaming), so a single manifest would make every employer's drift one employer's
+# problem. Loader reads *.yml ONLY — a .yaml file here is silently invisible.
+source_manifest_path: "_meta/sources"
+snapshot_dir: "_meta/snapshots"
+
+mcp:
+  server_name: "oregon-collective-bargaining"
+  # Time is first-class for contracts: a term expires, a successor supersedes, and an
+  # agent must never be served an expired article as the current terms without being
+  # told. expiry_date is not in the base frontmatter schema — this is the supported
+  # surface for it. reproduction_basis records the copyright determination per
+  # document (see schema.doc_types above). agency_registry_slugs (plural: one state
+  # agreement binds many agencies) joins into the ERF agency registry the way the
+  # audits crosswalk does.
+  extra_document_fields: ["union", "term", "effective_date", "expiry_date",
+                          "agency_registry_slugs", "reproduction_basis",
+                          "authority_level"]
+  authority_relations:
+    up:
+      cites: [references_external]
+
+status:
+  # Agreements are biennial instruments, but letters of agreement amend them mid-term
+  # and two county publishers overwrite files in place — 180, not the audits' 365.
+  reverify_days: 180
+
+provenance:
+  coverage_fail_threshold: 0.70
+  coverage_warn_threshold: 0.90

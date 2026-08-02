@@ -1,0 +1,92 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "source-group.schema.json",
+  "title": "Employer source group",
+  "description": "One file per employer under _meta/sources/. Employers are the unit of update checking: the state and the county publishers move at unrelated rates (and two counties overwrite files in place), so a single manifest would make every employer's drift one employer's problem. Adapted from oregon-counties' schema; validated in CI via plugins.extra_schema_checks.",
+  "type": "object",
+  "required": ["group", "title", "employer", "crawl", "last_checked", "upstream_signal", "sources"],
+  "additionalProperties": false,
+  "properties": {
+    "group": {
+      "type": "string",
+      "pattern": "^[a-z][a-z-]*$",
+      "description": "Must equal the filename without .yml, and the employer slug without any -county suffix (state | multnomah | ...)"
+    },
+    "title": { "type": "string" },
+    "employer": {
+      "type": "string",
+      "pattern": "^(state|[a-z][a-z-]*-county)$",
+      "description": "The registry slug in _meta/employers.yml"
+    },
+    "crawl": {
+      "type": "object",
+      "description": "THE ROBOTS/ACCESS DETERMINATION FOR THIS EMPLOYER, recorded so it is reviewable in a PR rather than buried in a fetcher. `decision` records what was concluded and `basis` records why, per source host. The survey measured one host (Yamhill) refusing and then serving the same honest UA hours apart — intermittent blocking is a recorded fact here, not a standing verdict.",
+      "required": ["decision", "checked", "hosts"],
+      "additionalProperties": false,
+      "properties": {
+        "decision": {
+          "enum": ["proceed", "excluded", "unavailable"],
+          "description": "proceed: ingest. excluded: deliberately not ingested. unavailable: the host refused an honestly-identified agent at the HTTP layer, so there is nothing to decide — we do not retry disguised as a browser."
+        },
+        "checked": { "type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}$" },
+        "basis": { "type": "string" },
+        "hosts": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "type": "object",
+            "required": ["host", "robots_url", "ai_block"],
+            "additionalProperties": false,
+            "properties": {
+              "host": { "type": "string" },
+              "robots_url": { "type": ["string", "null"] },
+              "ai_block": {
+                "type": "boolean",
+                "description": "true when robots.txt names an AI crawler and gives it Disallow: /"
+              },
+              "content_signal": { "type": ["string", "null"] },
+              "notes": { "type": "string" }
+            }
+          }
+        }
+      }
+    },
+    "last_checked": { "type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}$" },
+    "upstream_signal": {
+      "type": "string",
+      "description": "Human note: what upstream mechanism announces a change here, and how often it actually moves. For the state, the SharePoint list is enumerable; for counties this is usually 're-fetch the index, diff the link set, re-hash the documents' — mandatory where filenames are undated and overwritten in place (Lane, Marion)."
+    },
+    "sources": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "url", "family", "format", "sha256"],
+        "additionalProperties": false,
+        "properties": {
+          "id": { "type": "string", "pattern": "^[a-z0-9][a-z0-9._-]+$" },
+          "url": { "type": "string", "pattern": "^https?://" },
+          "family": {
+            "enum": ["cba", "loa"],
+            "description": "Determines the subdirectory, and therefore the doc_type (cba -> collective_bargaining_agreement, loa -> letter_of_agreement). LOAs bound into a CBA PDF stay family: cba; only separately-published letters are loa."
+          },
+          "format": { "enum": ["pdf", "html", "xml", "json"] },
+          "sha256": {
+            "type": "string",
+            "pattern": "^([0-9a-f]{64})?$",
+            "description": "Content hash as corpus-detect-changes computes it on a fresh fetch — NOT the document's source_sha256, which hashes our extractor's output. May be empty ONLY before the first refresh_source_hashes run."
+          },
+          "title": { "type": "string" },
+          "citation": { "type": "string" },
+          "union": { "type": "string", "description": "The signatory union/association as the employer's index names it" },
+          "term": {
+            "type": "string",
+            "pattern": "^\\d{4}-\\d{4}$",
+            "description": "Contract term as YYYY-YYYY. OMIT when the index does not state it and the document has not been opened yet (Clackamas shows no terms; Lane and Marion serve undated files) — an inferred term is a fabrication."
+          },
+          "last_checked": { "type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}$" },
+          "notes": { "type": "string" }
+        }
+      }
+    }
+  }
+}
