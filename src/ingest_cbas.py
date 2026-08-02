@@ -3,9 +3,21 @@
 summary-mode documents under agreements/state/cba/.
 
   python3 src/ingest_cbas.py                    # tranche 1: every current-term state CBA
+  python3 src/ingest_cbas.py --history          # history tranche: immediate predecessors
   python3 src/ingest_cbas.py --limit 3          # smoke run
   python3 src/ingest_cbas.py --only state-aee-association-of-engineering-employees-2025-2027
   python3 src/ingest_cbas.py --refetch          # ignore cached snapshots
+
+THE HISTORY TRANCHE (--history) ingests, per roster row, the IMMEDIATE predecessor
+term only — the latest posted term that began before the current roster term. That
+is where the supersedes value lives (an agent asking about a lapsed term gets
+"expired, see successor"); the deep archive back to 2001 adds bulk without that
+payoff and stays un-ingested, recorded here as a decision rather than an oversight.
+Predecessors land as `status: superseded` — including for the posting-lag units
+(OLCC, OPDC, STEA, SEIU master), where the predecessor is the latest posted
+EXECUTED text but the chart shows a ratified successor. After writing them, the
+run LINKS the chain: each current document gets `supersedes: [<predecessor id>]`;
+the blackline (a draft, which supersedes nothing) gets `related` instead.
 
 TRANCHE 1 = family `cba` in _meta/sources/state.yml whose term BEGAN in or after the
 roster term's start year (the current biennium plus the non-state units' odd terms).
@@ -164,8 +176,62 @@ def stated_term_dates(text: str, term: str) -> tuple[str | None, str | None]:
     return eff, exp
 
 
+def matches_row(row: dict, title: str) -> bool:
+    return row["match"] in title and not (row.get("exclude") and row["exclude"] in title)
+
+
+def history_picks(group: dict, roster: dict, floor: str) -> list[dict]:
+    """Per roster row: the latest posted CBA whose term began before the floor."""
+    picked, seen = [], set()
+    for section in ("state_contracts", "non_state_contracts"):
+        for row in roster[section]:
+            preds = [r for r in group["sources"]
+                     if r["family"] == "cba" and r.get("term")
+                     and r["term"][:4] < floor and matches_row(row, r["title"])]
+            if preds:
+                best = max(preds, key=lambda r: r["term"])
+                if best["id"] not in seen:
+                    seen.add(best["id"])
+                    picked.append(best)
+    return picked
+
+
+def link_supersedes(roster: dict, ingested_pred_ids: set[str]) -> int:
+    """Stamp each current document's supersedes with its just-ingested predecessor
+    (the draft blackline gets `related` — a draft supersedes nothing). Pairing runs
+    through the roster rows, the same mapping ingest and enumeration already share."""
+    docs = {}
+    for p in OUT_DIR.glob("*.md"):
+        head = p.read_text(encoding="utf-8").split("---\n", 2)[1]
+        docs[p] = yaml.safe_load(head)
+    linked = 0
+    for section in ("state_contracts", "non_state_contracts"):
+        for row in roster[section]:
+            cur = [p for p, fm in docs.items()
+                   if fm["status"] in ("current", "draft")
+                   and (matches_row(row, fm["title"])
+                        or ("Blackline" in fm["title"] and "SEIU master" in row["unit"]))]
+            pred = [p for p, fm in docs.items()
+                    if fm["status"] == "superseded" and fm["id"] in ingested_pred_ids
+                    and matches_row(row, fm["title"])]
+            if len(cur) != 1 or len(pred) != 1:
+                continue
+            cp, fm = cur[0], docs[cur[0]]
+            pred_id = docs[pred[0]]["id"]
+            key = "related" if fm["status"] == "draft" else "supersedes"
+            if pred_id in fm["relationships"][key]:
+                continue
+            fm["relationships"][key] = sorted(set(fm["relationships"][key]) | {pred_id})
+            _, _, body = cp.read_text(encoding="utf-8").split("---\n", 2)
+            cp.write_text("---\n" + yaml.safe_dump(fm, sort_keys=False,
+                                                   allow_unicode=True, width=88)
+                          + "---\n" + body, encoding="utf-8")
+            linked += 1
+    return linked
+
+
 def write_doc(rec: dict, row: dict | None, sha: str, pages: int, text: str,
-              today: str) -> Path:
+              today: str, history: bool = False) -> Path:
     doc_id, term, union = rec["id"], rec["term"], rec.get("union", "")
     title = rec["title"]
     is_draft = "blackline" in doc_id
@@ -196,7 +262,7 @@ def write_doc(rec: dict, row: dict | None, sha: str, pages: int, text: str,
         "snapshot_policy": "hash-only",
         # A blackline is a DRAFT PRINT of ratified terms, never the executed text —
         # status says so, and it flips to superseded the day DAS posts the final.
-        "status": "draft" if is_draft else "current",
+        "status": "superseded" if history else ("draft" if is_draft else "current"),
         "content_mode": "summary",
         "reproduction_basis": ("jointly-authored contract; summary + official link per "
                                "the class determination in corpus.yml schema.doc_types "
@@ -224,10 +290,19 @@ def write_doc(rec: dict, row: dict | None, sha: str, pages: int, text: str,
                          "executed final has not been posted. It is held because it is "
                          "the only state-posted copy of these terms, and it will be "
                          "superseded the day the final appears.")
+    if history:
+        glance.insert(0, "**SUPERSEDED — an expired term, retained for the record.** "
+                         "A successor for this unit has been ratified per the LRU "
+                         "2025-2027 bargaining chart"
+                         + (f" ({row['ratified']})" if row and row.get("ratified") else "")
+                         + ". If no successor document is linked below, the executed "
+                           "successor text has not yet been posted by DAS and this is "
+                           "the latest posted executed agreement — expired is not "
+                           "absent, and this text is not the current terms.")
     if row:
         glance.append(f"- Bargaining unit (LRU chart): {row['unit']}"
                       + (f" — repr. code {row['repr']}" if row.get("repr") else ""))
-        if row.get("ratified"):
+        if row.get("ratified") and not history:
             glance.append(f"- Ratified {row['ratified']} per the DAS LRU 2025-2027 "
                           f"bargaining chart (rev. 03/19/2026; committed at "
                           f"`_meta/state-roster-2025-2027.yml`)")
@@ -294,6 +369,9 @@ def main() -> int:
                                  formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--limit", type=int)
     ap.add_argument("--only")
+    ap.add_argument("--history", action="store_true",
+                    help="ingest each roster row's immediate predecessor as superseded "
+                         "and link supersedes chains")
     ap.add_argument("--refetch", action="store_true")
     args = ap.parse_args()
 
@@ -304,16 +382,19 @@ def main() -> int:
     OUT_DIR.mkdir(parents=True, exist_ok=True)
 
     picked, skipped = [], []
-    for rec in group["sources"]:
-        if args.only:
-            if rec["id"] == args.only:
-                picked.append(rec)
-            continue
-        if rec["family"] != "cba":
-            continue
-        if not rec.get("term") or rec["term"][:4] < floor:
-            continue
-        picked.append(rec)
+    if args.history:
+        picked = history_picks(group, roster, floor)
+    else:
+        for rec in group["sources"]:
+            if args.only:
+                if rec["id"] == args.only:
+                    picked.append(rec)
+                continue
+            if rec["family"] != "cba":
+                continue
+            if not rec.get("term") or rec["term"][:4] < floor:
+                continue
+            picked.append(rec)
     if args.limit:
         picked = picked[:args.limit]
 
@@ -332,7 +413,7 @@ def main() -> int:
                 continue
             sha = hash_snapshot(doc_id, "pdf", SNAPSHOTS)
             row = roster_row(rec["title"], roster)
-            out = write_doc(rec, row, sha, pages, text, today)
+            out = write_doc(rec, row, sha, pages, text, today, history=args.history)
             print(f"ok  {out.relative_to(REPO_ROOT)}  ({pages}p, "
                   f"{'chart row matched' if row else 'NO chart row'})")
             ok += 1
@@ -343,6 +424,9 @@ def main() -> int:
     print(f"\ningested {ok}, failed {failed}, skipped {len(skipped)}")
     for s in skipped:
         print(f"  skipped: {s}")
+    if args.history and not failed:
+        linked = link_supersedes(roster, {r["id"] for r in picked})
+        print(f"supersedes/related chains linked on {linked} current document(s)")
     return 1 if failed else 0
 
 

@@ -1,9 +1,471 @@
 {
  "corpus": "oregon-collective-bargaining",
- "n_nodes": 33,
- "n_edges": 266,
- "n_edges_external": 266,
+ "n_nodes": 135,
+ "n_edges": 647,
+ "n_edges_external": 641,
  "nodes": [
+  {
+   "id": "clackamas-county-ccom-central-communications-9-1-1",
+   "title": "Clackamas County — CCOM - Central Communications 9-1-1",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/clackamas-county/cba/clackamas-county-ccom-central-communications-9-1-1.md"
+  },
+  {
+   "id": "clackamas-county-clackamas-county-peace-officers-association-ccpoa",
+   "title": "Clackamas County — Clackamas County Peace Officers Association (CCPOA)",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/clackamas-county/cba/clackamas-county-clackamas-county-peace-officers-association-ccpoa.md"
+  },
+  {
+   "id": "clackamas-county-employee-association-part-time-temporary-eat",
+   "title": "Clackamas County — Employee Association Part-Time/Temporary (EAT)",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/clackamas-county/cba/clackamas-county-employee-association-part-time-temporary-eat.md"
+  },
+  {
+   "id": "clackamas-county-employee-association",
+   "title": "Clackamas County — Employee Association",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/clackamas-county/cba/clackamas-county-employee-association.md"
+  },
+  {
+   "id": "clackamas-county-federation-of-probation-and-parole-officers",
+   "title": "Clackamas County — Federation of Probation and Parole Officers",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/clackamas-county/cba/clackamas-county-federation-of-probation-and-parole-officers.md"
+  },
+  {
+   "id": "clackamas-county-housing-authority-of-clackamas-county-employee-association-eaha",
+   "title": "Clackamas County — Housing Authority of Clackamas County Employee Association (EAHA)",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/clackamas-county/cba/clackamas-county-housing-authority-of-clackamas-county-employee-association-eaha.md"
+  },
+  {
+   "id": "clackamas-county-wes-water-environment-services",
+   "title": "Clackamas County — WES - Water Environment Services",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/clackamas-county/cba/clackamas-county-wes-water-environment-services.md"
+  },
+  {
+   "id": "clackamas-county-2023-26-ratification-moa",
+   "title": "Clackamas County — 2023-26 Ratification MOA",
+   "doc_type": "letter_of_agreement",
+   "path": "agreements/clackamas-county/loa/clackamas-county-2023-26-ratification-moa.md"
+  },
+  {
+   "id": "clackamas-county-a1-corrections-division-of-ccso",
+   "title": "Clackamas County — A1 - Corrections Division of CCSO",
+   "doc_type": "letter_of_agreement",
+   "path": "agreements/clackamas-county/loa/clackamas-county-a1-corrections-division-of-ccso.md"
+  },
+  {
+   "id": "clackamas-county-a10-vacation-sell-back-adjustment",
+   "title": "Clackamas County — A10 - Vacation Sell-Back Adjustment",
+   "doc_type": "letter_of_agreement",
+   "path": "agreements/clackamas-county/loa/clackamas-county-a10-vacation-sell-back-adjustment.md"
+  },
+  {
+   "id": "clackamas-county-a14-fourth-shift-clarification",
+   "title": "Clackamas County — A14 - Fourth Shift Clarification",
+   "doc_type": "letter_of_agreement",
+   "path": "agreements/clackamas-county/loa/clackamas-county-a14-fourth-shift-clarification.md"
+  },
+  {
+   "id": "clackamas-county-a28-retire-rehire-leave-accrural",
+   "title": "Clackamas County — A28 - Retire Rehire Leave Accrural",
+   "doc_type": "letter_of_agreement",
+   "path": "agreements/clackamas-county/loa/clackamas-county-a28-retire-rehire-leave-accrural.md"
+  },
+  {
+   "id": "clackamas-county-a31-det-and-evidence-tech-incentive-pay",
+   "title": "Clackamas County — A31- Det. and Evidence Tech Incentive Pay",
+   "doc_type": "letter_of_agreement",
+   "path": "agreements/clackamas-county/loa/clackamas-county-a31-det-and-evidence-tech-incentive-pay.md"
+  },
+  {
+   "id": "clackamas-county-a4-sro-schedule",
+   "title": "Clackamas County — A4 - SRO Schedule",
+   "doc_type": "letter_of_agreement",
+   "path": "agreements/clackamas-county/loa/clackamas-county-a4-sro-schedule.md"
+  },
+  {
+   "id": "clackamas-county-a6-bumping-when-on-leave",
+   "title": "Clackamas County — A6 - Bumping when on Leave",
+   "doc_type": "letter_of_agreement",
+   "path": "agreements/clackamas-county/loa/clackamas-county-a6-bumping-when-on-leave.md"
+  },
+  {
+   "id": "clackamas-county-detective-and-avidence-technician-incentive-pay-program",
+   "title": "Clackamas County — Detective and Avidence Technician Incentive Pay Program",
+   "doc_type": "letter_of_agreement",
+   "path": "agreements/clackamas-county/loa/clackamas-county-detective-and-avidence-technician-incentive-pay-program.md"
+  },
+  {
+   "id": "clackamas-county-ftep-probationary-period",
+   "title": "Clackamas County — FTEP Probationary Period",
+   "doc_type": "letter_of_agreement",
+   "path": "agreements/clackamas-county/loa/clackamas-county-ftep-probationary-period.md"
+  },
+  {
+   "id": "clackamas-county-graveyard-shift-differential",
+   "title": "Clackamas County — Graveyard Shift Differential",
+   "doc_type": "letter_of_agreement",
+   "path": "agreements/clackamas-county/loa/clackamas-county-graveyard-shift-differential.md"
+  },
+  {
+   "id": "clackamas-county-search-and-rescue-coordinators",
+   "title": "Clackamas County — Search and Rescue Coordinators",
+   "doc_type": "letter_of_agreement",
+   "path": "agreements/clackamas-county/loa/clackamas-county-search-and-rescue-coordinators.md"
+  },
+  {
+   "id": "clackamas-county-vacation-sell-back-adjustment",
+   "title": "Clackamas County — Vacation Sell-Back Adjustment",
+   "doc_type": "letter_of_agreement",
+   "path": "agreements/clackamas-county/loa/clackamas-county-vacation-sell-back-adjustment.md"
+  },
+  {
+   "id": "columbia-county-afscme-1442-signed-cba-2024-2029",
+   "title": "Columbia County — AFSCME 1442 Signed CBA 2024-2029",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/columbia-county/cba/columbia-county-afscme-1442-signed-cba-2024-2029.md"
+  },
+  {
+   "id": "columbia-county-afscme-697-signed-cba-2025-2030",
+   "title": "Columbia County — AFSCME 697 Signed CBA 2025-2030",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/columbia-county/cba/columbia-county-afscme-697-signed-cba-2025-2030.md"
+  },
+  {
+   "id": "columbia-county-ccdsa-signed-cba-2026-2028",
+   "title": "Columbia County — CCDSA Signed CBA 2026-2028",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/columbia-county/cba/columbia-county-ccdsa-signed-cba-2026-2028.md"
+  },
+  {
+   "id": "columbia-county-collective-bargaining-agreement-sergeant-2026-final",
+   "title": "Columbia County — collective-bargaining-agreement---sergeant-2026---final",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/columbia-county/cba/columbia-county-collective-bargaining-agreement-sergeant-2026-final.md"
+  },
+  {
+   "id": "columbia-county-foppo-signed-cba-2024-2026",
+   "title": "Columbia County — FOPPO Signed CBA 2024-2026",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/columbia-county/cba/columbia-county-foppo-signed-cba-2024-2026.md"
+  },
+  {
+   "id": "deschutes-county-afscme-cba-2025-2030-dc-2025-597",
+   "title": "Deschutes County — AFSCME CBA 2025-2030 DC 2025-597",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/deschutes-county/cba/deschutes-county-afscme-cba-2025-2030-dc-2025-597.md"
+  },
+  {
+   "id": "deschutes-county-dcdaa-contract-changes-memo-2026-2029",
+   "title": "Deschutes County — DCDAA Contract Changes Memo 2026 - 2029",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/deschutes-county/cba/deschutes-county-dcdaa-contract-changes-memo-2026-2029.md"
+  },
+  {
+   "id": "deschutes-county-dcdaa-contract-july-1-2026-june-30-2029",
+   "title": "Deschutes County — DCDAA Contract July 1, 2026 - June 30, 2029",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/deschutes-county/cba/deschutes-county-dcdaa-contract-july-1-2026-june-30-2029.md"
+  },
+  {
+   "id": "deschutes-county-dcsea-cba-july-1-2025-june-30-2026",
+   "title": "Deschutes County — DCSEA CBA July 1, 2025 - June 30, 2026",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/deschutes-county/cba/deschutes-county-dcsea-cba-july-1-2025-june-30-2026.md"
+  },
+  {
+   "id": "deschutes-county-deschutes-9-1-1-employee-assoc-contract-changes-memo-2022-2026",
+   "title": "Deschutes County — Deschutes 9-1-1 Employee Assoc. Contract Changes Memo 2022-2026",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/deschutes-county/cba/deschutes-county-deschutes-9-1-1-employee-assoc-contract-changes-memo-2022-2026.md"
+  },
+  {
+   "id": "deschutes-county-deschutes-9-1-1-employees-association-contract-july-1-2022-june-30-2026",
+   "title": "Deschutes County — Deschutes 9-1-1 Employees Association Contract, July 1, 2022 - June 30, 2026",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/deschutes-county/cba/deschutes-county-deschutes-9-1-1-employees-association-contract-july-1-2022-june-30-2026.md"
+  },
+  {
+   "id": "deschutes-county-deschutes-9-1-1-supervisors-contract-july-1-2024-june-30-2026",
+   "title": "Deschutes County — Deschutes 9-1-1 Supervisors Contract July 1, 2024 - June 30, 2026",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/deschutes-county/cba/deschutes-county-deschutes-9-1-1-supervisors-contract-july-1-2024-june-30-2026.md"
+  },
+  {
+   "id": "deschutes-county-foppo-contract-july-1-2023-june-30-2026",
+   "title": "Deschutes County — FOPPO Contract July 1, 2023 - June 30, 2026",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/deschutes-county/cba/deschutes-county-foppo-contract-july-1-2023-june-30-2026.md"
+  },
+  {
+   "id": "deschutes-county-iuoe-local-701-contract-july-22-2023-june-30-2026",
+   "title": "Deschutes County — IUOE, Local 701 Contract July 22, 2023 - June 30, 2026",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/deschutes-county/cba/deschutes-county-iuoe-local-701-contract-july-22-2023-june-30-2026.md"
+  },
+  {
+   "id": "deschutes-county-mou-afscme-bh-service-area-position-incentives-dc-2025-709",
+   "title": "Deschutes County — MOU AFSCME BH Service Area Position Incentives DC-2025-709",
+   "doc_type": "letter_of_agreement",
+   "path": "agreements/deschutes-county/loa/deschutes-county-mou-afscme-bh-service-area-position-incentives-dc-2025-709.md"
+  },
+  {
+   "id": "deschutes-county-mou-afscme-crisis-program-employees-dc-2025-710",
+   "title": "Deschutes County — MOU AFSCME Crisis Program Employees DC-2025-710",
+   "doc_type": "letter_of_agreement",
+   "path": "agreements/deschutes-county/loa/deschutes-county-mou-afscme-crisis-program-employees-dc-2025-710.md"
+  },
+  {
+   "id": "deschutes-county-mou-afscme-crisis-program-position-incentives-dc-2025-711",
+   "title": "Deschutes County — MOU AFSCME Crisis Program Position Incentives DC-2025-711",
+   "doc_type": "letter_of_agreement",
+   "path": "agreements/deschutes-county/loa/deschutes-county-mou-afscme-crisis-program-position-incentives-dc-2025-711.md"
+  },
+  {
+   "id": "deschutes-county-mou-afscme-juvenile-community-justice-pay-differentials-dc-2023-720",
+   "title": "Deschutes County — MOU AFSCME Juvenile Community Justice Pay Differentials DC-2023-720",
+   "doc_type": "letter_of_agreement",
+   "path": "agreements/deschutes-county/loa/deschutes-county-mou-afscme-juvenile-community-justice-pay-differentials-dc-2023-720.md"
+  },
+  {
+   "id": "deschutes-county-mou-afscme-registration-certification-and-licensure-reimb-dc-2024-334",
+   "title": "Deschutes County — MOU AFSCME Registration, Certification and Licensure Reimb DC-2024-334",
+   "doc_type": "letter_of_agreement",
+   "path": "agreements/deschutes-county/loa/deschutes-county-mou-afscme-registration-certification-and-licensure-reimb-dc-2024-334.md"
+  },
+  {
+   "id": "deschutes-county-mou-afscme-termination-of-mous-dc-2025-712",
+   "title": "Deschutes County — MOU AFSCME Termination of MOUs DC-2025-712",
+   "doc_type": "letter_of_agreement",
+   "path": "agreements/deschutes-county/loa/deschutes-county-mou-afscme-termination-of-mous-dc-2025-712.md"
+  },
+  {
+   "id": "deschutes-county-mou-dcdaa-retention-bonus-incentive-program-dc-2023-651",
+   "title": "Deschutes County — MOU - DCDAA Retention Bonus Incentive Program DC 2023-651",
+   "doc_type": "letter_of_agreement",
+   "path": "agreements/deschutes-county/loa/deschutes-county-mou-dcdaa-retention-bonus-incentive-program-dc-2023-651.md"
+  },
+  {
+   "id": "deschutes-county-mou-dcdaa-tiers-implementation-dc-2023-650",
+   "title": "Deschutes County — MOU - DCDAA Tiers Implementation DC 2023-650",
+   "doc_type": "letter_of_agreement",
+   "path": "agreements/deschutes-county/loa/deschutes-county-mou-dcdaa-tiers-implementation-dc-2023-650.md"
+  },
+  {
+   "id": "deschutes-county-mou-pesticide-license-stipend-dc-2026-0181",
+   "title": "Deschutes County — MOU Pesticide License Stipend (DC-2026-0181)",
+   "doc_type": "letter_of_agreement",
+   "path": "agreements/deschutes-county/loa/deschutes-county-mou-pesticide-license-stipend-dc-2026-0181.md"
+  },
+  {
+   "id": "jackson-county-federation-of-oregon-parole-and-probation-officers-foppo-labor-agreement",
+   "title": "Jackson County — Federation of Oregon Parole and Probation Officers (FOPPO) Labor Agreement",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/jackson-county/cba/jackson-county-federation-of-oregon-parole-and-probation-officers-foppo-labor-agreement.md"
+  },
+  {
+   "id": "jackson-county-jackson-county-employees-association-seiu-opeu-labor-agreement",
+   "title": "Jackson County — Jackson County Employees' Association (SEIU, OPEU) Labor Agreement",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/jackson-county/cba/jackson-county-jackson-county-employees-association-seiu-opeu-labor-agreement.md"
+  },
+  {
+   "id": "jackson-county-jackson-county-sheriff-s-employees-association-jcsea-labor-agreement",
+   "title": "Jackson County — Jackson County Sheriff's Employees' Association (JCSEA) Labor Agreement",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/jackson-county/cba/jackson-county-jackson-county-sheriff-s-employees-association-jcsea-labor-agreement.md"
+  },
+  {
+   "id": "lane-county-admin-pro-collective-bargaining-agreement",
+   "title": "Lane County — Admin-Pro Collective Bargaining Agreement",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/lane-county/cba/lane-county-admin-pro-collective-bargaining-agreement.md"
+  },
+  {
+   "id": "lane-county-afscme-general-collective-bargaining-agreement",
+   "title": "Lane County — AFSCME General Collective Bargaining Agreement",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/lane-county/cba/lane-county-afscme-general-collective-bargaining-agreement.md"
+  },
+  {
+   "id": "lane-county-afscme-nurses-collective-bargaining-agreement",
+   "title": "Lane County — AFSCME Nurses Collective Bargaining Agreement",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/lane-county/cba/lane-county-afscme-nurses-collective-bargaining-agreement.md"
+  },
+  {
+   "id": "lane-county-afscme-physicians-collective-bargaining-agreement",
+   "title": "Lane County — AFSCME Physicians Collective Bargaining Agreement",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/lane-county/cba/lane-county-afscme-physicians-collective-bargaining-agreement.md"
+  },
+  {
+   "id": "lane-county-foppo-collective-bargaining-agreement",
+   "title": "Lane County — FOPPO Collective Bargaining Agreement",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/lane-county/cba/lane-county-foppo-collective-bargaining-agreement.md"
+  },
+  {
+   "id": "lane-county-lcpoa-collective-bargaining-agreement",
+   "title": "Lane County — LCPOA Collective Bargaining Agreement",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/lane-county/cba/lane-county-lcpoa-collective-bargaining-agreement.md"
+  },
+  {
+   "id": "lane-county-local-626-collective-bargaining-agreement",
+   "title": "Lane County — Local 626 Collective Bargaining Agreement",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/lane-county/cba/lane-county-local-626-collective-bargaining-agreement.md"
+  },
+  {
+   "id": "lane-county-paa-collective-bargaining-agreement",
+   "title": "Lane County — PAA Collective Bargaining Agreement",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/lane-county/cba/lane-county-paa-collective-bargaining-agreement.md"
+  },
+  {
+   "id": "lane-county-admin-pro-cba-modifications",
+   "title": "Lane County — Admin-Pro CBA Modifications",
+   "doc_type": "letter_of_agreement",
+   "path": "agreements/lane-county/loa/lane-county-admin-pro-cba-modifications.md"
+  },
+  {
+   "id": "lane-county-afscme-general-cba-modifications",
+   "title": "Lane County — AFSCME General CBA Modifications",
+   "doc_type": "letter_of_agreement",
+   "path": "agreements/lane-county/loa/lane-county-afscme-general-cba-modifications.md"
+  },
+  {
+   "id": "lane-county-paa-cba-modifications",
+   "title": "Lane County — PAA CBA Modifications",
+   "doc_type": "letter_of_agreement",
+   "path": "agreements/lane-county/loa/lane-county-paa-cba-modifications.md"
+  },
+  {
+   "id": "marion-county-foppo-cba",
+   "title": "Marion County — FOPPO CBA",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/marion-county/cba/marion-county-foppo-cba.md"
+  },
+  {
+   "id": "marion-county-mcdaa-cba",
+   "title": "Marion County — MCDAA CBA",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/marion-county/cba/marion-county-mcdaa-cba.md"
+  },
+  {
+   "id": "marion-county-mcea-cba",
+   "title": "Marion County — MCEA CBA",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/marion-county/cba/marion-county-mcea-cba.md"
+  },
+  {
+   "id": "marion-county-mcjea-cba",
+   "title": "Marion County — MCJEA CBA",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/marion-county/cba/marion-county-mcjea-cba.md"
+  },
+  {
+   "id": "marion-county-mclea-cba",
+   "title": "Marion County — MCLEA CBA",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/marion-county/cba/marion-county-mclea-cba.md"
+  },
+  {
+   "id": "marion-county-mcssa-cba",
+   "title": "Marion County — MCSSA CBA",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/marion-county/cba/marion-county-mcssa-cba.md"
+  },
+  {
+   "id": "marion-county-ona-cba",
+   "title": "Marion County — ONA CBA",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/marion-county/cba/marion-county-ona-cba.md"
+  },
+  {
+   "id": "multnomah-county-afscme-local-88-cba-2025-2028",
+   "title": "Multnomah County — AFSCME Local 88 CBA 2025 - 2028",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/multnomah-county/cba/multnomah-county-afscme-local-88-cba-2025-2028.md"
+  },
+  {
+   "id": "multnomah-county-dentists-afscme-local-88-5-2023-2026",
+   "title": "Multnomah County — Dentists AFSCME Local 88-5 2023-2026",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/multnomah-county/cba/multnomah-county-dentists-afscme-local-88-5-2023-2026.md"
+  },
+  {
+   "id": "multnomah-county-federation-of-parole-and-probation-officers-2024-2027-contract",
+   "title": "Multnomah County — Federation of Parole and Probation Officers 2024-2027 Contract",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/multnomah-county/cba/multnomah-county-federation-of-parole-and-probation-officers-2024-2027-contract.md"
+  },
+  {
+   "id": "multnomah-county-international-brotherhood-of-electrical-workers-ibew-local-48-2023-2027-labor-contract",
+   "title": "Multnomah County — International Brotherhood of Electrical Workers (IBEW) Local 48 2023-2027 Labor Contract",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/multnomah-county/cba/multnomah-county-international-brotherhood-of-electrical-workers-ibew-local-48-2023-2027-labor-contract.md"
+  },
+  {
+   "id": "multnomah-county-juvenile-custody-services-specialists-cba-2023-2026",
+   "title": "Multnomah County — Juvenile Custody Services Specialists CBA 2023 - 2026",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/multnomah-county/cba/multnomah-county-juvenile-custody-services-specialists-cba-2023-2026.md"
+  },
+  {
+   "id": "multnomah-county-multnomah-county-corrections-deputy-association-2025-2028",
+   "title": "Multnomah County — Multnomah County Corrections Deputy Association (2025-2028)",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/multnomah-county/cba/multnomah-county-multnomah-county-corrections-deputy-association-2025-2028.md"
+  },
+  {
+   "id": "multnomah-county-multnomah-county-deputy-sheriff-s-association-dsa-2022-2026",
+   "title": "Multnomah County — Multnomah County Deputy Sheriff's Association (DSA) (2022-2026)",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/multnomah-county/cba/multnomah-county-multnomah-county-deputy-sheriff-s-association-dsa-2022-2026.md"
+  },
+  {
+   "id": "multnomah-county-operating-engineers-local-701-contract-2022-2027",
+   "title": "Multnomah County — Operating Engineers Local 701 Contract 2022-2027",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/multnomah-county/cba/multnomah-county-operating-engineers-local-701-contract-2022-2027.md"
+  },
+  {
+   "id": "multnomah-county-oregon-nurses-association-contract-2025-2028",
+   "title": "Multnomah County — Oregon Nurses Association Contract 2025 - 2028",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/multnomah-county/cba/multnomah-county-oregon-nurses-association-contract-2025-2028.md"
+  },
+  {
+   "id": "multnomah-county-painters-allied-trades-labor-contract-2023-2027",
+   "title": "Multnomah County — Painters & Allied Trades Labor Contract 2023-2027",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/multnomah-county/cba/multnomah-county-painters-allied-trades-labor-contract-2023-2027.md"
+  },
+  {
+   "id": "multnomah-county-pharmacists-2025-2028-cba-final-pdf",
+   "title": "Multnomah County — Pharmacists 2025-2028 CBA Final.pdf",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/multnomah-county/cba/multnomah-county-pharmacists-2025-2028-cba-final-pdf.md"
+  },
+  {
+   "id": "multnomah-county-physicians-and-psychiatrists-cba-2025-2028",
+   "title": "Multnomah County — Physicians and Psychiatrists CBA (2025 - 2028)",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/multnomah-county/cba/multnomah-county-physicians-and-psychiatrists-cba-2025-2028.md"
+  },
+  {
+   "id": "multnomah-county-prosecuting-attorneys-cba-2025-2029",
+   "title": "Multnomah County — Prosecuting Attorneys CBA 2025 - 2029",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/multnomah-county/cba/multnomah-county-prosecuting-attorneys-cba-2025-2029.md"
+  },
   {
    "id": "state-aee-association-of-engineering-employees-2025-2027",
    "title": "AEE Association of Engineering Employees 2025-2027",
@@ -201,9 +663,1859 @@
    "title": "SEIU Non State Oregon Home Care Commission 2025-2027",
    "doc_type": "collective_bargaining_agreement",
    "path": "agreements/state/cba/state-seiu-non-state-oregon-home-care-commission-2025-2027.md"
+  },
+  {
+   "id": "washington-county-afscme-cc-mou-4-10-workday-schedule-11-18-2025-pdf",
+   "title": "Washington County — AFSCME CC MOU_4-10 Workday Schedule 11-18-2025.pdf",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/washington-county/cba/washington-county-afscme-cc-mou-4-10-workday-schedule-11-18-2025-pdf.md"
+  },
+  {
+   "id": "washington-county-afscme-collective-bargaining-agreement-2024-2027-agreement",
+   "title": "Washington County — AFSCME Collective Bargaining Agreement 2024-2027 Agreement",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/washington-county/cba/washington-county-afscme-collective-bargaining-agreement-2024-2027-agreement.md"
+  },
+  {
+   "id": "washington-county-afscme-juvenile-agreement-2025-2027",
+   "title": "Washington County — AFSCME (Juvenile) Agreement 2025-2027",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/washington-county/cba/washington-county-afscme-juvenile-agreement-2025-2027.md"
+  },
+  {
+   "id": "washington-county-foppo-agreement-2022-2026",
+   "title": "Washington County — FOPPO Agreement 2022-2026",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/washington-county/cba/washington-county-foppo-agreement-2022-2026.md"
+  },
+  {
+   "id": "washington-county-foppo-loa-certification-pay-pdf",
+   "title": "Washington County — FOPPO LOA_Certification Pay.pdf",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/washington-county/cba/washington-county-foppo-loa-certification-pay-pdf.md"
+  },
+  {
+   "id": "washington-county-foppo-loa-movement-to-a-higher-classification-pdf",
+   "title": "Washington County — FOPPO LOA_Movement to a Higher Classification.pdf",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/washington-county/cba/washington-county-foppo-loa-movement-to-a-higher-classification-pdf.md"
+  },
+  {
+   "id": "washington-county-oregon-nurses-association-2024-2027-agreement",
+   "title": "Washington County — Oregon Nurses Association 2024-2027 Agreement",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/washington-county/cba/washington-county-oregon-nurses-association-2024-2027-agreement.md"
+  },
+  {
+   "id": "washington-county-ssg-agreement-2025-2028",
+   "title": "Washington County — SSG Agreement 2025-2028",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/washington-county/cba/washington-county-ssg-agreement-2025-2028.md"
+  },
+  {
+   "id": "washington-county-teamsters-2022-2026-agreement",
+   "title": "Washington County — Teamsters 2022-2026 Agreement",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/washington-county/cba/washington-county-teamsters-2022-2026-agreement.md"
+  },
+  {
+   "id": "washington-county-teamsters-loa-cps-pi-4-hour-overtime-shift-pay",
+   "title": "Washington County — Teamsters LOA_CPS PI 4 Hour Overtime Shift Pay",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/washington-county/cba/washington-county-teamsters-loa-cps-pi-4-hour-overtime-shift-pay.md"
+  },
+  {
+   "id": "washington-county-teamsters-loa-cps-pi-assignment-final",
+   "title": "Washington County — Teamsters LOA_CPS PI Assignment Final",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/washington-county/cba/washington-county-teamsters-loa-cps-pi-assignment-final.md"
+  },
+  {
+   "id": "washington-county-teamsters-loa-cps-pi-hcp",
+   "title": "Washington County — Teamsters LOA_CPS PI HCP",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/washington-county/cba/washington-county-teamsters-loa-cps-pi-hcp.md"
+  },
+  {
+   "id": "washington-county-wcpaa-agreement-2025-2027",
+   "title": "Washington County — WCPAA Agreement 2025-2027",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/washington-county/cba/washington-county-wcpaa-agreement-2025-2027.md"
+  },
+  {
+   "id": "washington-county-wcpoa-ecu-agreement-2025-2028",
+   "title": "Washington County — WCPOA ECU Agreement 2025-2028",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/washington-county/cba/washington-county-wcpoa-ecu-agreement-2025-2028.md"
+  },
+  {
+   "id": "washington-county-wcpoa-moa-enchanced-jail-overtime-extension-8-28-2024",
+   "title": "Washington County — WCPOA MOA_Enchanced Jail Overtime Extension 8.28.2024",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/washington-county/cba/washington-county-wcpoa-moa-enchanced-jail-overtime-extension-8-28-2024.md"
+  },
+  {
+   "id": "washington-county-wcpoa-sergeants-unit-sgt-cba-2025-2028",
+   "title": "Washington County — WCPOA Sergeants Unit (SGT) CBA 2025-2028",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/washington-county/cba/washington-county-wcpoa-sergeants-unit-sgt-cba-2025-2028.md"
+  },
+  {
+   "id": "washington-county-foppo-memorandum-of-understanding-t-315",
+   "title": "Washington County — FOPPO Memorandum of Understanding T-315",
+   "doc_type": "letter_of_agreement",
+   "path": "agreements/washington-county/loa/washington-county-foppo-memorandum-of-understanding-t-315.md"
+  },
+  {
+   "id": "washington-county-mou-tools-and-equipment-for-road-maintenance-workers",
+   "title": "Washington County — MOU Tools and Equipment for Road Maintenance Workers",
+   "doc_type": "letter_of_agreement",
+   "path": "agreements/washington-county/loa/washington-county-mou-tools-and-equipment-for-road-maintenance-workers.md"
+  },
+  {
+   "id": "washington-county-wcpoa-moa-jail-in-service-extension-12-4-2024",
+   "title": "Washington County — WCPOA MOA Jail In-Service Extension 12.4.2024",
+   "doc_type": "letter_of_agreement",
+   "path": "agreements/washington-county/loa/washington-county-wcpoa-moa-jail-in-service-extension-12-4-2024.md"
+  },
+  {
+   "id": "washington-county-wcpoa-moa-recruit-deputy-age-mq-10-4-2024",
+   "title": "Washington County — WCPOA MOA Recruit Deputy Age MQ 10.4.2024",
+   "doc_type": "letter_of_agreement",
+   "path": "agreements/washington-county/loa/washington-county-wcpoa-moa-recruit-deputy-age-mq-10-4-2024.md"
+  },
+  {
+   "id": "washington-county-wcpoa-moa-wcda-detective-2-14-2025",
+   "title": "Washington County — WCPOA MOA WCDA Detective 2.14.2025",
+   "doc_type": "letter_of_agreement",
+   "path": "agreements/washington-county/loa/washington-county-wcpoa-moa-wcda-detective-2-14-2025.md"
+  },
+  {
+   "id": "washington-county-wcpoa-mou-21-6-incentive-pay-7-16-2024",
+   "title": "Washington County — WCPOA MOU 21.6 Incentive Pay 7/16/2024",
+   "doc_type": "letter_of_agreement",
+   "path": "agreements/washington-county/loa/washington-county-wcpoa-mou-21-6-incentive-pay-7-16-2024.md"
+  },
+  {
+   "id": "yamhill-county-2023-to-2026-ycea-cba",
+   "title": "Yamhill County — 2023 to 2026 YCEA CBA",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/yamhill-county/cba/yamhill-county-2023-to-2026-ycea-cba.md"
+  },
+  {
+   "id": "yamhill-county-2024-to-2027-ycso-cba",
+   "title": "Yamhill County — 2024 to 2027 YCSO CBA",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/yamhill-county/cba/yamhill-county-2024-to-2027-ycso-cba.md"
+  },
+  {
+   "id": "yamhill-county-2025-to-2028-foppo-cba",
+   "title": "Yamhill County — 2025 to 2028 FOPPO CBA",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/yamhill-county/cba/yamhill-county-2025-to-2028-foppo-cba.md"
   }
  ],
  "edges": [
+  {
+   "from": "clackamas-county-ccom-central-communications-9-1-1",
+   "type": "references_external",
+   "to": "ORS 238.015"
+  },
+  {
+   "from": "clackamas-county-ccom-central-communications-9-1-1",
+   "type": "references_external",
+   "to": "ORS 238.350"
+  },
+  {
+   "from": "clackamas-county-ccom-central-communications-9-1-1",
+   "type": "references_external",
+   "to": "ORS 243.650"
+  },
+  {
+   "from": "clackamas-county-ccom-central-communications-9-1-1",
+   "type": "references_external",
+   "to": "ORS 243.698"
+  },
+  {
+   "from": "clackamas-county-ccom-central-communications-9-1-1",
+   "type": "references_external",
+   "to": "ORS 656.210"
+  },
+  {
+   "from": "clackamas-county-clackamas-county-peace-officers-association-ccpoa",
+   "type": "references_external",
+   "to": "ORS 236.350"
+  },
+  {
+   "from": "clackamas-county-clackamas-county-peace-officers-association-ccpoa",
+   "type": "references_external",
+   "to": "ORS 236.360"
+  },
+  {
+   "from": "clackamas-county-clackamas-county-peace-officers-association-ccpoa",
+   "type": "references_external",
+   "to": "ORS 243.698"
+  },
+  {
+   "from": "clackamas-county-clackamas-county-peace-officers-association-ccpoa",
+   "type": "references_external",
+   "to": "ORS 243.808"
+  },
+  {
+   "from": "clackamas-county-clackamas-county-peace-officers-association-ccpoa",
+   "type": "references_external",
+   "to": "ORS 656.210"
+  },
+  {
+   "from": "clackamas-county-employee-association-part-time-temporary-eat",
+   "type": "references_external",
+   "to": "OAR 839-020-0050"
+  },
+  {
+   "from": "clackamas-county-employee-association-part-time-temporary-eat",
+   "type": "references_external",
+   "to": "ORS 238.015"
+  },
+  {
+   "from": "clackamas-county-employee-association-part-time-temporary-eat",
+   "type": "references_external",
+   "to": "ORS 243.698"
+  },
+  {
+   "from": "clackamas-county-employee-association-part-time-temporary-eat",
+   "type": "references_external",
+   "to": "ORS 656.210"
+  },
+  {
+   "from": "clackamas-county-employee-association",
+   "type": "references_external",
+   "to": "ORS 238.015"
+  },
+  {
+   "from": "clackamas-county-employee-association",
+   "type": "references_external",
+   "to": "ORS 238.350"
+  },
+  {
+   "from": "clackamas-county-employee-association",
+   "type": "references_external",
+   "to": "ORS 243.650"
+  },
+  {
+   "from": "clackamas-county-employee-association",
+   "type": "references_external",
+   "to": "ORS 243.698"
+  },
+  {
+   "from": "clackamas-county-employee-association",
+   "type": "references_external",
+   "to": "ORS 656.210"
+  },
+  {
+   "from": "clackamas-county-federation-of-probation-and-parole-officers",
+   "type": "references_external",
+   "to": "ORS 238.015"
+  },
+  {
+   "from": "clackamas-county-federation-of-probation-and-parole-officers",
+   "type": "references_external",
+   "to": "ORS 654.001"
+  },
+  {
+   "from": "clackamas-county-federation-of-probation-and-parole-officers",
+   "type": "references_external",
+   "to": "ORS 656.210"
+  },
+  {
+   "from": "clackamas-county-housing-authority-of-clackamas-county-employee-association-eaha",
+   "type": "references_external",
+   "to": "ORS 237.350"
+  },
+  {
+   "from": "clackamas-county-housing-authority-of-clackamas-county-employee-association-eaha",
+   "type": "references_external",
+   "to": "ORS 238.015"
+  },
+  {
+   "from": "clackamas-county-housing-authority-of-clackamas-county-employee-association-eaha",
+   "type": "references_external",
+   "to": "ORS 243.650"
+  },
+  {
+   "from": "clackamas-county-housing-authority-of-clackamas-county-employee-association-eaha",
+   "type": "references_external",
+   "to": "ORS 243.698"
+  },
+  {
+   "from": "clackamas-county-housing-authority-of-clackamas-county-employee-association-eaha",
+   "type": "references_external",
+   "to": "ORS 656.210"
+  },
+  {
+   "from": "clackamas-county-wes-water-environment-services",
+   "type": "references_external",
+   "to": "ORS 236.610"
+  },
+  {
+   "from": "clackamas-county-wes-water-environment-services",
+   "type": "references_external",
+   "to": "ORS 238.350"
+  },
+  {
+   "from": "clackamas-county-wes-water-environment-services",
+   "type": "references_external",
+   "to": "ORS 243.650"
+  },
+  {
+   "from": "clackamas-county-wes-water-environment-services",
+   "type": "references_external",
+   "to": "ORS 243.698"
+  },
+  {
+   "from": "clackamas-county-wes-water-environment-services",
+   "type": "references_external",
+   "to": "ORS 656.210"
+  },
+  {
+   "from": "clackamas-county-a1-corrections-division-of-ccso",
+   "type": "references_external",
+   "to": "ORS 243.698"
+  },
+  {
+   "from": "columbia-county-afscme-1442-signed-cba-2024-2029",
+   "type": "references_external",
+   "to": "ORS 106.310"
+  },
+  {
+   "from": "columbia-county-afscme-1442-signed-cba-2024-2029",
+   "type": "references_external",
+   "to": "ORS 243.650"
+  },
+  {
+   "from": "columbia-county-afscme-1442-signed-cba-2024-2029",
+   "type": "references_external",
+   "to": "ORS 243.804"
+  },
+  {
+   "from": "columbia-county-afscme-1442-signed-cba-2024-2029",
+   "type": "references_external",
+   "to": "ORS 475.005"
+  },
+  {
+   "from": "columbia-county-afscme-697-signed-cba-2025-2030",
+   "type": "references_external",
+   "to": "ORS 243.650"
+  },
+  {
+   "from": "columbia-county-afscme-697-signed-cba-2025-2030",
+   "type": "references_external",
+   "to": "ORS 243.804"
+  },
+  {
+   "from": "columbia-county-ccdsa-signed-cba-2026-2028",
+   "type": "references_external",
+   "to": "ORS 237.610"
+  },
+  {
+   "from": "columbia-county-ccdsa-signed-cba-2026-2028",
+   "type": "references_external",
+   "to": "ORS 243.650"
+  },
+  {
+   "from": "columbia-county-ccdsa-signed-cba-2026-2028",
+   "type": "references_external",
+   "to": "ORS 438.010"
+  },
+  {
+   "from": "columbia-county-collective-bargaining-agreement-sergeant-2026-final",
+   "type": "references_external",
+   "to": "OAR 265-005-0030"
+  },
+  {
+   "from": "columbia-county-collective-bargaining-agreement-sergeant-2026-final",
+   "type": "references_external",
+   "to": "OAR 265-015-0035"
+  },
+  {
+   "from": "columbia-county-collective-bargaining-agreement-sergeant-2026-final",
+   "type": "references_external",
+   "to": "ORS 237.610"
+  },
+  {
+   "from": "columbia-county-collective-bargaining-agreement-sergeant-2026-final",
+   "type": "references_external",
+   "to": "ORS 243.650"
+  },
+  {
+   "from": "columbia-county-collective-bargaining-agreement-sergeant-2026-final",
+   "type": "references_external",
+   "to": "ORS 438.010"
+  },
+  {
+   "from": "columbia-county-foppo-signed-cba-2024-2026",
+   "type": "references_external",
+   "to": "ORS 236.360"
+  },
+  {
+   "from": "columbia-county-foppo-signed-cba-2024-2026",
+   "type": "references_external",
+   "to": "ORS 243.303"
+  },
+  {
+   "from": "columbia-county-foppo-signed-cba-2024-2026",
+   "type": "references_external",
+   "to": "ORS 243.650"
+  },
+  {
+   "from": "columbia-county-foppo-signed-cba-2024-2026",
+   "type": "references_external",
+   "to": "ORS 243.698"
+  },
+  {
+   "from": "columbia-county-foppo-signed-cba-2024-2026",
+   "type": "references_external",
+   "to": "ORS 438.010"
+  },
+  {
+   "from": "deschutes-county-afscme-cba-2025-2030-dc-2025-597",
+   "type": "references_external",
+   "to": "ORS 243.650"
+  },
+  {
+   "from": "deschutes-county-afscme-cba-2025-2030-dc-2025-597",
+   "type": "references_external",
+   "to": "ORS 243.698"
+  },
+  {
+   "from": "deschutes-county-afscme-cba-2025-2030-dc-2025-597",
+   "type": "references_external",
+   "to": "ORS 243.798"
+  },
+  {
+   "from": "deschutes-county-afscme-cba-2025-2030-dc-2025-597",
+   "type": "references_external",
+   "to": "ORS 653.601"
+  },
+  {
+   "from": "deschutes-county-dcsea-cba-july-1-2025-june-30-2026",
+   "type": "references_external",
+   "to": "ORS 653.601"
+  },
+  {
+   "from": "deschutes-county-deschutes-9-1-1-employees-association-contract-july-1-2022-june-30-2026",
+   "type": "references_external",
+   "to": "ORS 257.153"
+  },
+  {
+   "from": "deschutes-county-foppo-contract-july-1-2023-june-30-2026",
+   "type": "references_external",
+   "to": "ORS 181.610"
+  },
+  {
+   "from": "deschutes-county-foppo-contract-july-1-2023-june-30-2026",
+   "type": "references_external",
+   "to": "ORS 236.350"
+  },
+  {
+   "from": "deschutes-county-foppo-contract-july-1-2023-june-30-2026",
+   "type": "references_external",
+   "to": "ORS 653.601"
+  },
+  {
+   "from": "deschutes-county-iuoe-local-701-contract-july-22-2023-june-30-2026",
+   "type": "references_external",
+   "to": "ORS 653.601"
+  },
+  {
+   "from": "deschutes-county-mou-afscme-bh-service-area-position-incentives-dc-2025-709",
+   "type": "related",
+   "to": "deschutes-county-afscme-cba-2025-2030-dc-2025-597"
+  },
+  {
+   "from": "deschutes-county-mou-afscme-crisis-program-employees-dc-2025-710",
+   "type": "related",
+   "to": "deschutes-county-afscme-cba-2025-2030-dc-2025-597"
+  },
+  {
+   "from": "deschutes-county-mou-afscme-crisis-program-position-incentives-dc-2025-711",
+   "type": "references_external",
+   "to": "ORS 243.672"
+  },
+  {
+   "from": "deschutes-county-mou-afscme-crisis-program-position-incentives-dc-2025-711",
+   "type": "related",
+   "to": "deschutes-county-afscme-cba-2025-2030-dc-2025-597"
+  },
+  {
+   "from": "deschutes-county-mou-afscme-juvenile-community-justice-pay-differentials-dc-2023-720",
+   "type": "related",
+   "to": "deschutes-county-afscme-cba-2025-2030-dc-2025-597"
+  },
+  {
+   "from": "deschutes-county-mou-afscme-registration-certification-and-licensure-reimb-dc-2024-334",
+   "type": "references_external",
+   "to": "ORS 243.698"
+  },
+  {
+   "from": "deschutes-county-mou-afscme-registration-certification-and-licensure-reimb-dc-2024-334",
+   "type": "related",
+   "to": "deschutes-county-afscme-cba-2025-2030-dc-2025-597"
+  },
+  {
+   "from": "deschutes-county-mou-afscme-termination-of-mous-dc-2025-712",
+   "type": "related",
+   "to": "deschutes-county-afscme-cba-2025-2030-dc-2025-597"
+  },
+  {
+   "from": "deschutes-county-mou-pesticide-license-stipend-dc-2026-0181",
+   "type": "references_external",
+   "to": "ORS 243.672"
+  },
+  {
+   "from": "jackson-county-federation-of-oregon-parole-and-probation-officers-foppo-labor-agreement",
+   "type": "references_external",
+   "to": "ORS 236.350"
+  },
+  {
+   "from": "jackson-county-jackson-county-employees-association-seiu-opeu-labor-agreement",
+   "type": "references_external",
+   "to": "OAR 437-001-0765"
+  },
+  {
+   "from": "jackson-county-jackson-county-employees-association-seiu-opeu-labor-agreement",
+   "type": "references_external",
+   "to": "ORS 238.350"
+  },
+  {
+   "from": "jackson-county-jackson-county-sheriff-s-employees-association-jcsea-labor-agreement",
+   "type": "references_external",
+   "to": "ORS 181A.620"
+  },
+  {
+   "from": "jackson-county-jackson-county-sheriff-s-employees-association-jcsea-labor-agreement",
+   "type": "references_external",
+   "to": "ORS 236.350"
+  },
+  {
+   "from": "jackson-county-jackson-county-sheriff-s-employees-association-jcsea-labor-agreement",
+   "type": "references_external",
+   "to": "ORS 238.205"
+  },
+  {
+   "from": "jackson-county-jackson-county-sheriff-s-employees-association-jcsea-labor-agreement",
+   "type": "references_external",
+   "to": "ORS 238A.335"
+  },
+  {
+   "from": "jackson-county-jackson-county-sheriff-s-employees-association-jcsea-labor-agreement",
+   "type": "references_external",
+   "to": "ORS 243.650"
+  },
+  {
+   "from": "jackson-county-jackson-county-sheriff-s-employees-association-jcsea-labor-agreement",
+   "type": "references_external",
+   "to": "ORS 243.698"
+  },
+  {
+   "from": "jackson-county-jackson-county-sheriff-s-employees-association-jcsea-labor-agreement",
+   "type": "references_external",
+   "to": "ORS 243.706"
+  },
+  {
+   "from": "jackson-county-jackson-county-sheriff-s-employees-association-jcsea-labor-agreement",
+   "type": "references_external",
+   "to": "ORS 243.808"
+  },
+  {
+   "from": "lane-county-admin-pro-collective-bargaining-agreement",
+   "type": "references_external",
+   "to": "OAR 437-001-0765"
+  },
+  {
+   "from": "lane-county-admin-pro-collective-bargaining-agreement",
+   "type": "references_external",
+   "to": "ORS 243.650"
+  },
+  {
+   "from": "lane-county-admin-pro-collective-bargaining-agreement",
+   "type": "references_external",
+   "to": "ORS 243.672"
+  },
+  {
+   "from": "lane-county-admin-pro-collective-bargaining-agreement",
+   "type": "references_external",
+   "to": "ORS 243.698"
+  },
+  {
+   "from": "lane-county-admin-pro-collective-bargaining-agreement",
+   "type": "references_external",
+   "to": "ORS 657B.010"
+  },
+  {
+   "from": "lane-county-afscme-general-collective-bargaining-agreement",
+   "type": "references_external",
+   "to": "ORS 243.650"
+  },
+  {
+   "from": "lane-county-afscme-general-collective-bargaining-agreement",
+   "type": "references_external",
+   "to": "ORS 243.672"
+  },
+  {
+   "from": "lane-county-afscme-general-collective-bargaining-agreement",
+   "type": "references_external",
+   "to": "ORS 243.698"
+  },
+  {
+   "from": "lane-county-afscme-general-collective-bargaining-agreement",
+   "type": "references_external",
+   "to": "ORS 243.702"
+  },
+  {
+   "from": "lane-county-afscme-general-collective-bargaining-agreement",
+   "type": "references_external",
+   "to": "ORS 243.804"
+  },
+  {
+   "from": "lane-county-afscme-general-collective-bargaining-agreement",
+   "type": "references_external",
+   "to": "ORS 243.806"
+  },
+  {
+   "from": "lane-county-afscme-nurses-collective-bargaining-agreement",
+   "type": "references_external",
+   "to": "ORS 243.650"
+  },
+  {
+   "from": "lane-county-afscme-nurses-collective-bargaining-agreement",
+   "type": "references_external",
+   "to": "ORS 243.672"
+  },
+  {
+   "from": "lane-county-afscme-nurses-collective-bargaining-agreement",
+   "type": "references_external",
+   "to": "ORS 243.698"
+  },
+  {
+   "from": "lane-county-afscme-nurses-collective-bargaining-agreement",
+   "type": "references_external",
+   "to": "ORS 243.702"
+  },
+  {
+   "from": "lane-county-afscme-nurses-collective-bargaining-agreement",
+   "type": "references_external",
+   "to": "ORS 243.804"
+  },
+  {
+   "from": "lane-county-afscme-nurses-collective-bargaining-agreement",
+   "type": "references_external",
+   "to": "ORS 243.806"
+  },
+  {
+   "from": "lane-county-afscme-physicians-collective-bargaining-agreement",
+   "type": "references_external",
+   "to": "ORS 243.650"
+  },
+  {
+   "from": "lane-county-afscme-physicians-collective-bargaining-agreement",
+   "type": "references_external",
+   "to": "ORS 243.672"
+  },
+  {
+   "from": "lane-county-afscme-physicians-collective-bargaining-agreement",
+   "type": "references_external",
+   "to": "ORS 243.698"
+  },
+  {
+   "from": "lane-county-afscme-physicians-collective-bargaining-agreement",
+   "type": "references_external",
+   "to": "ORS 243.702"
+  },
+  {
+   "from": "lane-county-afscme-physicians-collective-bargaining-agreement",
+   "type": "references_external",
+   "to": "ORS 243.806"
+  },
+  {
+   "from": "lane-county-afscme-physicians-collective-bargaining-agreement",
+   "type": "references_external",
+   "to": "ORS 657B.010"
+  },
+  {
+   "from": "lane-county-foppo-collective-bargaining-agreement",
+   "type": "references_external",
+   "to": "ORS 236.360"
+  },
+  {
+   "from": "lane-county-foppo-collective-bargaining-agreement",
+   "type": "references_external",
+   "to": "ORS 243.650"
+  },
+  {
+   "from": "lane-county-foppo-collective-bargaining-agreement",
+   "type": "references_external",
+   "to": "ORS 243.672"
+  },
+  {
+   "from": "lane-county-foppo-collective-bargaining-agreement",
+   "type": "references_external",
+   "to": "ORS 243.698"
+  },
+  {
+   "from": "lane-county-foppo-collective-bargaining-agreement",
+   "type": "references_external",
+   "to": "ORS 243.742"
+  },
+  {
+   "from": "lane-county-foppo-collective-bargaining-agreement",
+   "type": "references_external",
+   "to": "ORS 243.806"
+  },
+  {
+   "from": "lane-county-foppo-collective-bargaining-agreement",
+   "type": "references_external",
+   "to": "ORS 657B.010"
+  },
+  {
+   "from": "lane-county-lcpoa-collective-bargaining-agreement",
+   "type": "references_external",
+   "to": "OAR 115-040-0034"
+  },
+  {
+   "from": "lane-county-lcpoa-collective-bargaining-agreement",
+   "type": "references_external",
+   "to": "ORS 237.121"
+  },
+  {
+   "from": "lane-county-lcpoa-collective-bargaining-agreement",
+   "type": "references_external",
+   "to": "ORS 237.610"
+  },
+  {
+   "from": "lane-county-lcpoa-collective-bargaining-agreement",
+   "type": "references_external",
+   "to": "ORS 243.005"
+  },
+  {
+   "from": "lane-county-lcpoa-collective-bargaining-agreement",
+   "type": "references_external",
+   "to": "ORS 243.650"
+  },
+  {
+   "from": "lane-county-lcpoa-collective-bargaining-agreement",
+   "type": "references_external",
+   "to": "ORS 243.703"
+  },
+  {
+   "from": "lane-county-lcpoa-collective-bargaining-agreement",
+   "type": "references_external",
+   "to": "ORS 243.706"
+  },
+  {
+   "from": "lane-county-lcpoa-collective-bargaining-agreement",
+   "type": "references_external",
+   "to": "ORS 243.808"
+  },
+  {
+   "from": "lane-county-lcpoa-collective-bargaining-agreement",
+   "type": "references_external",
+   "to": "ORS 30.285"
+  },
+  {
+   "from": "lane-county-lcpoa-collective-bargaining-agreement",
+   "type": "references_external",
+   "to": "ORS 657B.010"
+  },
+  {
+   "from": "lane-county-local-626-collective-bargaining-agreement",
+   "type": "references_external",
+   "to": "ORS 243.650"
+  },
+  {
+   "from": "lane-county-local-626-collective-bargaining-agreement",
+   "type": "references_external",
+   "to": "ORS 243.672"
+  },
+  {
+   "from": "lane-county-local-626-collective-bargaining-agreement",
+   "type": "references_external",
+   "to": "ORS 243.698"
+  },
+  {
+   "from": "lane-county-local-626-collective-bargaining-agreement",
+   "type": "references_external",
+   "to": "ORS 657B.010"
+  },
+  {
+   "from": "marion-county-foppo-cba",
+   "type": "references_external",
+   "to": "ORS 236.360"
+  },
+  {
+   "from": "marion-county-foppo-cba",
+   "type": "references_external",
+   "to": "ORS 243.698"
+  },
+  {
+   "from": "marion-county-foppo-cba",
+   "type": "references_external",
+   "to": "ORS 292.055"
+  },
+  {
+   "from": "marion-county-foppo-cba",
+   "type": "references_external",
+   "to": "ORS 652.120"
+  },
+  {
+   "from": "marion-county-foppo-cba",
+   "type": "references_external",
+   "to": "ORS 654.001"
+  },
+  {
+   "from": "marion-county-mcdaa-cba",
+   "type": "references_external",
+   "to": "ORS 243.698"
+  },
+  {
+   "from": "marion-county-mcdaa-cba",
+   "type": "references_external",
+   "to": "ORS 438.010"
+  },
+  {
+   "from": "marion-county-mcdaa-cba",
+   "type": "references_external",
+   "to": "ORS 653.616"
+  },
+  {
+   "from": "marion-county-mcea-cba",
+   "type": "references_external",
+   "to": "ORS 243.650"
+  },
+  {
+   "from": "marion-county-mcea-cba",
+   "type": "references_external",
+   "to": "ORS 243.736"
+  },
+  {
+   "from": "marion-county-mcea-cba",
+   "type": "references_external",
+   "to": "ORS 243.782"
+  },
+  {
+   "from": "marion-county-mcea-cba",
+   "type": "references_external",
+   "to": "ORS 652.120"
+  },
+  {
+   "from": "marion-county-mcjea-cba",
+   "type": "references_external",
+   "to": "ORS 243.650"
+  },
+  {
+   "from": "marion-county-mcjea-cba",
+   "type": "references_external",
+   "to": "ORS 243.736"
+  },
+  {
+   "from": "marion-county-mcjea-cba",
+   "type": "references_external",
+   "to": "ORS 243.782"
+  },
+  {
+   "from": "marion-county-mclea-cba",
+   "type": "references_external",
+   "to": "ORS 131.930"
+  },
+  {
+   "from": "marion-county-mclea-cba",
+   "type": "references_external",
+   "to": "ORS 236.360"
+  },
+  {
+   "from": "marion-county-mclea-cba",
+   "type": "references_external",
+   "to": "ORS 243.808"
+  },
+  {
+   "from": "marion-county-mclea-cba",
+   "type": "references_external",
+   "to": "ORS 438.010"
+  },
+  {
+   "from": "marion-county-mclea-cba",
+   "type": "references_external",
+   "to": "ORS 659A.043"
+  },
+  {
+   "from": "marion-county-mcssa-cba",
+   "type": "references_external",
+   "to": "ORS 131.930"
+  },
+  {
+   "from": "marion-county-mcssa-cba",
+   "type": "references_external",
+   "to": "ORS 236.360"
+  },
+  {
+   "from": "marion-county-mcssa-cba",
+   "type": "references_external",
+   "to": "ORS 243.808"
+  },
+  {
+   "from": "marion-county-mcssa-cba",
+   "type": "references_external",
+   "to": "ORS 438.010"
+  },
+  {
+   "from": "marion-county-mcssa-cba",
+   "type": "references_external",
+   "to": "ORS 659A.043"
+  },
+  {
+   "from": "marion-county-ona-cba",
+   "type": "references_external",
+   "to": "ORS 243.650"
+  },
+  {
+   "from": "marion-county-ona-cba",
+   "type": "references_external",
+   "to": "ORS 243.782"
+  },
+  {
+   "from": "marion-county-ona-cba",
+   "type": "references_external",
+   "to": "ORS 652.120"
+  },
+  {
+   "from": "multnomah-county-afscme-local-88-cba-2025-2028",
+   "type": "references_external",
+   "to": "OAR 437-001-0700"
+  },
+  {
+   "from": "multnomah-county-afscme-local-88-cba-2025-2028",
+   "type": "references_external",
+   "to": "OAR 437-002-0134"
+  },
+  {
+   "from": "multnomah-county-afscme-local-88-cba-2025-2028",
+   "type": "references_external",
+   "to": "ORS 2328A.350"
+  },
+  {
+   "from": "multnomah-county-afscme-local-88-cba-2025-2028",
+   "type": "references_external",
+   "to": "ORS 236.610"
+  },
+  {
+   "from": "multnomah-county-afscme-local-88-cba-2025-2028",
+   "type": "references_external",
+   "to": "ORS 238.205"
+  },
+  {
+   "from": "multnomah-county-afscme-local-88-cba-2025-2028",
+   "type": "references_external",
+   "to": "ORS 238.350"
+  },
+  {
+   "from": "multnomah-county-afscme-local-88-cba-2025-2028",
+   "type": "references_external",
+   "to": "ORS 238.680"
+  },
+  {
+   "from": "multnomah-county-afscme-local-88-cba-2025-2028",
+   "type": "references_external",
+   "to": "ORS 238A.330"
+  },
+  {
+   "from": "multnomah-county-afscme-local-88-cba-2025-2028",
+   "type": "references_external",
+   "to": "ORS 238A.335"
+  },
+  {
+   "from": "multnomah-county-afscme-local-88-cba-2025-2028",
+   "type": "references_external",
+   "to": "ORS 243.650"
+  },
+  {
+   "from": "multnomah-county-afscme-local-88-cba-2025-2028",
+   "type": "references_external",
+   "to": "ORS 243.712"
+  },
+  {
+   "from": "multnomah-county-afscme-local-88-cba-2025-2028",
+   "type": "references_external",
+   "to": "ORS 243.804"
+  },
+  {
+   "from": "multnomah-county-afscme-local-88-cba-2025-2028",
+   "type": "references_external",
+   "to": "ORS 279B.030"
+  },
+  {
+   "from": "multnomah-county-afscme-local-88-cba-2025-2028",
+   "type": "references_external",
+   "to": "ORS 408.290"
+  },
+  {
+   "from": "multnomah-county-afscme-local-88-cba-2025-2028",
+   "type": "references_external",
+   "to": "ORS 475.035"
+  },
+  {
+   "from": "multnomah-county-afscme-local-88-cba-2025-2028",
+   "type": "references_external",
+   "to": "ORS 475.525"
+  },
+  {
+   "from": "multnomah-county-afscme-local-88-cba-2025-2028",
+   "type": "references_external",
+   "to": "ORS 475.752"
+  },
+  {
+   "from": "multnomah-county-afscme-local-88-cba-2025-2028",
+   "type": "references_external",
+   "to": "ORS 652.120"
+  },
+  {
+   "from": "multnomah-county-afscme-local-88-cba-2025-2028",
+   "type": "references_external",
+   "to": "ORS 653.268"
+  },
+  {
+   "from": "multnomah-county-afscme-local-88-cba-2025-2028",
+   "type": "references_external",
+   "to": "ORS 653.601"
+  },
+  {
+   "from": "multnomah-county-afscme-local-88-cba-2025-2028",
+   "type": "references_external",
+   "to": "ORS 659.043"
+  },
+  {
+   "from": "multnomah-county-afscme-local-88-cba-2025-2028",
+   "type": "references_external",
+   "to": "ORS 659A.040"
+  },
+  {
+   "from": "multnomah-county-afscme-local-88-cba-2025-2028",
+   "type": "references_external",
+   "to": "ORS 659A.069"
+  },
+  {
+   "from": "multnomah-county-afscme-local-88-cba-2025-2028",
+   "type": "references_external",
+   "to": "ORS 659A.270"
+  },
+  {
+   "from": "multnomah-county-afscme-local-88-cba-2025-2028",
+   "type": "references_external",
+   "to": "ORS 659A.290"
+  },
+  {
+   "from": "multnomah-county-dentists-afscme-local-88-5-2023-2026",
+   "type": "references_external",
+   "to": "OAR 437-001-0700"
+  },
+  {
+   "from": "multnomah-county-dentists-afscme-local-88-5-2023-2026",
+   "type": "references_external",
+   "to": "OAR 437-001-0765"
+  },
+  {
+   "from": "multnomah-county-dentists-afscme-local-88-5-2023-2026",
+   "type": "references_external",
+   "to": "OAR 437-002-0134"
+  },
+  {
+   "from": "multnomah-county-dentists-afscme-local-88-5-2023-2026",
+   "type": "references_external",
+   "to": "ORS 236.610"
+  },
+  {
+   "from": "multnomah-county-dentists-afscme-local-88-5-2023-2026",
+   "type": "references_external",
+   "to": "ORS 238.205"
+  },
+  {
+   "from": "multnomah-county-dentists-afscme-local-88-5-2023-2026",
+   "type": "references_external",
+   "to": "ORS 238.350"
+  },
+  {
+   "from": "multnomah-county-dentists-afscme-local-88-5-2023-2026",
+   "type": "references_external",
+   "to": "ORS 238A.225"
+  },
+  {
+   "from": "multnomah-county-dentists-afscme-local-88-5-2023-2026",
+   "type": "references_external",
+   "to": "ORS 243.650"
+  },
+  {
+   "from": "multnomah-county-dentists-afscme-local-88-5-2023-2026",
+   "type": "references_external",
+   "to": "ORS 475.035"
+  },
+  {
+   "from": "multnomah-county-dentists-afscme-local-88-5-2023-2026",
+   "type": "references_external",
+   "to": "ORS 475.525"
+  },
+  {
+   "from": "multnomah-county-dentists-afscme-local-88-5-2023-2026",
+   "type": "references_external",
+   "to": "ORS 653.601"
+  },
+  {
+   "from": "multnomah-county-dentists-afscme-local-88-5-2023-2026",
+   "type": "references_external",
+   "to": "ORS 656.005"
+  },
+  {
+   "from": "multnomah-county-federation-of-parole-and-probation-officers-2024-2027-contract",
+   "type": "references_external",
+   "to": "OAR 259-008-0010"
+  },
+  {
+   "from": "multnomah-county-federation-of-parole-and-probation-officers-2024-2027-contract",
+   "type": "references_external",
+   "to": "OAR 437-002-0134"
+  },
+  {
+   "from": "multnomah-county-federation-of-parole-and-probation-officers-2024-2027-contract",
+   "type": "references_external",
+   "to": "ORS 237.051"
+  },
+  {
+   "from": "multnomah-county-federation-of-parole-and-probation-officers-2024-2027-contract",
+   "type": "references_external",
+   "to": "ORS 238.205"
+  },
+  {
+   "from": "multnomah-county-federation-of-parole-and-probation-officers-2024-2027-contract",
+   "type": "references_external",
+   "to": "ORS 238.350"
+  },
+  {
+   "from": "multnomah-county-federation-of-parole-and-probation-officers-2024-2027-contract",
+   "type": "references_external",
+   "to": "ORS 238.680"
+  },
+  {
+   "from": "multnomah-county-federation-of-parole-and-probation-officers-2024-2027-contract",
+   "type": "references_external",
+   "to": "ORS 238A.335"
+  },
+  {
+   "from": "multnomah-county-federation-of-parole-and-probation-officers-2024-2027-contract",
+   "type": "references_external",
+   "to": "ORS 243.698"
+  },
+  {
+   "from": "multnomah-county-federation-of-parole-and-probation-officers-2024-2027-contract",
+   "type": "references_external",
+   "to": "ORS 30.260"
+  },
+  {
+   "from": "multnomah-county-federation-of-parole-and-probation-officers-2024-2027-contract",
+   "type": "references_external",
+   "to": "ORS 475.005"
+  },
+  {
+   "from": "multnomah-county-federation-of-parole-and-probation-officers-2024-2027-contract",
+   "type": "references_external",
+   "to": "ORS 475.035"
+  },
+  {
+   "from": "multnomah-county-federation-of-parole-and-probation-officers-2024-2027-contract",
+   "type": "references_external",
+   "to": "ORS 475.525"
+  },
+  {
+   "from": "multnomah-county-federation-of-parole-and-probation-officers-2024-2027-contract",
+   "type": "references_external",
+   "to": "ORS 653.268"
+  },
+  {
+   "from": "multnomah-county-federation-of-parole-and-probation-officers-2024-2027-contract",
+   "type": "references_external",
+   "to": "ORS 653.601"
+  },
+  {
+   "from": "multnomah-county-federation-of-parole-and-probation-officers-2024-2027-contract",
+   "type": "references_external",
+   "to": "ORS 659A.043"
+  },
+  {
+   "from": "multnomah-county-international-brotherhood-of-electrical-workers-ibew-local-48-2023-2027-labor-contract",
+   "type": "references_external",
+   "to": "OAR 437-002-0134"
+  },
+  {
+   "from": "multnomah-county-international-brotherhood-of-electrical-workers-ibew-local-48-2023-2027-labor-contract",
+   "type": "references_external",
+   "to": "ORS 236.605"
+  },
+  {
+   "from": "multnomah-county-international-brotherhood-of-electrical-workers-ibew-local-48-2023-2027-labor-contract",
+   "type": "references_external",
+   "to": "ORS 236.610"
+  },
+  {
+   "from": "multnomah-county-international-brotherhood-of-electrical-workers-ibew-local-48-2023-2027-labor-contract",
+   "type": "references_external",
+   "to": "ORS 238.205"
+  },
+  {
+   "from": "multnomah-county-international-brotherhood-of-electrical-workers-ibew-local-48-2023-2027-labor-contract",
+   "type": "references_external",
+   "to": "ORS 238.350"
+  },
+  {
+   "from": "multnomah-county-international-brotherhood-of-electrical-workers-ibew-local-48-2023-2027-labor-contract",
+   "type": "references_external",
+   "to": "ORS 475.005"
+  },
+  {
+   "from": "multnomah-county-international-brotherhood-of-electrical-workers-ibew-local-48-2023-2027-labor-contract",
+   "type": "references_external",
+   "to": "ORS 475.035"
+  },
+  {
+   "from": "multnomah-county-international-brotherhood-of-electrical-workers-ibew-local-48-2023-2027-labor-contract",
+   "type": "references_external",
+   "to": "ORS 475.525"
+  },
+  {
+   "from": "multnomah-county-international-brotherhood-of-electrical-workers-ibew-local-48-2023-2027-labor-contract",
+   "type": "references_external",
+   "to": "ORS 653.601"
+  },
+  {
+   "from": "multnomah-county-international-brotherhood-of-electrical-workers-ibew-local-48-2023-2027-labor-contract",
+   "type": "references_external",
+   "to": "ORS 659.043"
+  },
+  {
+   "from": "multnomah-county-juvenile-custody-services-specialists-cba-2023-2026",
+   "type": "references_external",
+   "to": "OAR 437-001-0700"
+  },
+  {
+   "from": "multnomah-county-juvenile-custody-services-specialists-cba-2023-2026",
+   "type": "references_external",
+   "to": "OAR 437-002-0134"
+  },
+  {
+   "from": "multnomah-county-juvenile-custody-services-specialists-cba-2023-2026",
+   "type": "references_external",
+   "to": "ORS 2328A.350"
+  },
+  {
+   "from": "multnomah-county-juvenile-custody-services-specialists-cba-2023-2026",
+   "type": "references_external",
+   "to": "ORS 236.605"
+  },
+  {
+   "from": "multnomah-county-juvenile-custody-services-specialists-cba-2023-2026",
+   "type": "references_external",
+   "to": "ORS 236.610"
+  },
+  {
+   "from": "multnomah-county-juvenile-custody-services-specialists-cba-2023-2026",
+   "type": "references_external",
+   "to": "ORS 238.205"
+  },
+  {
+   "from": "multnomah-county-juvenile-custody-services-specialists-cba-2023-2026",
+   "type": "references_external",
+   "to": "ORS 238.350"
+  },
+  {
+   "from": "multnomah-county-juvenile-custody-services-specialists-cba-2023-2026",
+   "type": "references_external",
+   "to": "ORS 238.680"
+  },
+  {
+   "from": "multnomah-county-juvenile-custody-services-specialists-cba-2023-2026",
+   "type": "references_external",
+   "to": "ORS 238A.330"
+  },
+  {
+   "from": "multnomah-county-juvenile-custody-services-specialists-cba-2023-2026",
+   "type": "references_external",
+   "to": "ORS 238A.335"
+  },
+  {
+   "from": "multnomah-county-juvenile-custody-services-specialists-cba-2023-2026",
+   "type": "references_external",
+   "to": "ORS 279B.030"
+  },
+  {
+   "from": "multnomah-county-juvenile-custody-services-specialists-cba-2023-2026",
+   "type": "references_external",
+   "to": "ORS 408.290"
+  },
+  {
+   "from": "multnomah-county-juvenile-custody-services-specialists-cba-2023-2026",
+   "type": "references_external",
+   "to": "ORS 475.005"
+  },
+  {
+   "from": "multnomah-county-juvenile-custody-services-specialists-cba-2023-2026",
+   "type": "references_external",
+   "to": "ORS 475.035"
+  },
+  {
+   "from": "multnomah-county-juvenile-custody-services-specialists-cba-2023-2026",
+   "type": "references_external",
+   "to": "ORS 475.525"
+  },
+  {
+   "from": "multnomah-county-juvenile-custody-services-specialists-cba-2023-2026",
+   "type": "references_external",
+   "to": "ORS 653.268"
+  },
+  {
+   "from": "multnomah-county-juvenile-custody-services-specialists-cba-2023-2026",
+   "type": "references_external",
+   "to": "ORS 653.269"
+  },
+  {
+   "from": "multnomah-county-juvenile-custody-services-specialists-cba-2023-2026",
+   "type": "references_external",
+   "to": "ORS 653.601"
+  },
+  {
+   "from": "multnomah-county-juvenile-custody-services-specialists-cba-2023-2026",
+   "type": "references_external",
+   "to": "ORS 659A.040"
+  },
+  {
+   "from": "multnomah-county-juvenile-custody-services-specialists-cba-2023-2026",
+   "type": "references_external",
+   "to": "ORS 659A.043"
+  },
+  {
+   "from": "multnomah-county-juvenile-custody-services-specialists-cba-2023-2026",
+   "type": "references_external",
+   "to": "ORS 659A.069"
+  },
+  {
+   "from": "multnomah-county-juvenile-custody-services-specialists-cba-2023-2026",
+   "type": "references_external",
+   "to": "ORS 659A.270"
+  },
+  {
+   "from": "multnomah-county-juvenile-custody-services-specialists-cba-2023-2026",
+   "type": "references_external",
+   "to": "ORS 659A.290"
+  },
+  {
+   "from": "multnomah-county-multnomah-county-corrections-deputy-association-2025-2028",
+   "type": "references_external",
+   "to": "ORS 169.005"
+  },
+  {
+   "from": "multnomah-county-multnomah-county-corrections-deputy-association-2025-2028",
+   "type": "references_external",
+   "to": "ORS 181.610"
+  },
+  {
+   "from": "multnomah-county-multnomah-county-corrections-deputy-association-2025-2028",
+   "type": "references_external",
+   "to": "ORS 181.652"
+  },
+  {
+   "from": "multnomah-county-multnomah-county-corrections-deputy-association-2025-2028",
+   "type": "references_external",
+   "to": "ORS 236.610"
+  },
+  {
+   "from": "multnomah-county-multnomah-county-corrections-deputy-association-2025-2028",
+   "type": "references_external",
+   "to": "ORS 237.051"
+  },
+  {
+   "from": "multnomah-county-multnomah-county-corrections-deputy-association-2025-2028",
+   "type": "references_external",
+   "to": "ORS 238.205"
+  },
+  {
+   "from": "multnomah-county-multnomah-county-corrections-deputy-association-2025-2028",
+   "type": "references_external",
+   "to": "ORS 238.350"
+  },
+  {
+   "from": "multnomah-county-multnomah-county-corrections-deputy-association-2025-2028",
+   "type": "references_external",
+   "to": "ORS 238A.335"
+  },
+  {
+   "from": "multnomah-county-multnomah-county-corrections-deputy-association-2025-2028",
+   "type": "references_external",
+   "to": "ORS 243.650"
+  },
+  {
+   "from": "multnomah-county-multnomah-county-corrections-deputy-association-2025-2028",
+   "type": "references_external",
+   "to": "ORS 243.698"
+  },
+  {
+   "from": "multnomah-county-multnomah-county-corrections-deputy-association-2025-2028",
+   "type": "references_external",
+   "to": "ORS 243.968"
+  },
+  {
+   "from": "multnomah-county-multnomah-county-corrections-deputy-association-2025-2028",
+   "type": "references_external",
+   "to": "ORS 653.268"
+  },
+  {
+   "from": "multnomah-county-multnomah-county-corrections-deputy-association-2025-2028",
+   "type": "references_external",
+   "to": "ORS 656.005"
+  },
+  {
+   "from": "multnomah-county-multnomah-county-deputy-sheriff-s-association-dsa-2022-2026",
+   "type": "references_external",
+   "to": "ORS 236.610"
+  },
+  {
+   "from": "multnomah-county-multnomah-county-deputy-sheriff-s-association-dsa-2022-2026",
+   "type": "references_external",
+   "to": "ORS 237.051"
+  },
+  {
+   "from": "multnomah-county-multnomah-county-deputy-sheriff-s-association-dsa-2022-2026",
+   "type": "references_external",
+   "to": "ORS 238.205"
+  },
+  {
+   "from": "multnomah-county-multnomah-county-deputy-sheriff-s-association-dsa-2022-2026",
+   "type": "references_external",
+   "to": "ORS 238.350"
+  },
+  {
+   "from": "multnomah-county-multnomah-county-deputy-sheriff-s-association-dsa-2022-2026",
+   "type": "references_external",
+   "to": "ORS 238.680"
+  },
+  {
+   "from": "multnomah-county-multnomah-county-deputy-sheriff-s-association-dsa-2022-2026",
+   "type": "references_external",
+   "to": "ORS 238A.335"
+  },
+  {
+   "from": "multnomah-county-multnomah-county-deputy-sheriff-s-association-dsa-2022-2026",
+   "type": "references_external",
+   "to": "ORS 243.742"
+  },
+  {
+   "from": "multnomah-county-multnomah-county-deputy-sheriff-s-association-dsa-2022-2026",
+   "type": "references_external",
+   "to": "ORS 243.808"
+  },
+  {
+   "from": "multnomah-county-multnomah-county-deputy-sheriff-s-association-dsa-2022-2026",
+   "type": "references_external",
+   "to": "ORS 408.290"
+  },
+  {
+   "from": "multnomah-county-multnomah-county-deputy-sheriff-s-association-dsa-2022-2026",
+   "type": "references_external",
+   "to": "ORS 652.750"
+  },
+  {
+   "from": "multnomah-county-multnomah-county-deputy-sheriff-s-association-dsa-2022-2026",
+   "type": "references_external",
+   "to": "ORS 656.005"
+  },
+  {
+   "from": "multnomah-county-multnomah-county-deputy-sheriff-s-association-dsa-2022-2026",
+   "type": "references_external",
+   "to": "ORS 659.840"
+  },
+  {
+   "from": "multnomah-county-operating-engineers-local-701-contract-2022-2027",
+   "type": "references_external",
+   "to": "ORS 236.605"
+  },
+  {
+   "from": "multnomah-county-operating-engineers-local-701-contract-2022-2027",
+   "type": "references_external",
+   "to": "ORS 236.610"
+  },
+  {
+   "from": "multnomah-county-operating-engineers-local-701-contract-2022-2027",
+   "type": "references_external",
+   "to": "ORS 238.205"
+  },
+  {
+   "from": "multnomah-county-operating-engineers-local-701-contract-2022-2027",
+   "type": "references_external",
+   "to": "ORS 238.350"
+  },
+  {
+   "from": "multnomah-county-operating-engineers-local-701-contract-2022-2027",
+   "type": "references_external",
+   "to": "ORS 238A.335"
+  },
+  {
+   "from": "multnomah-county-operating-engineers-local-701-contract-2022-2027",
+   "type": "references_external",
+   "to": "ORS 475.005"
+  },
+  {
+   "from": "multnomah-county-operating-engineers-local-701-contract-2022-2027",
+   "type": "references_external",
+   "to": "ORS 475.035"
+  },
+  {
+   "from": "multnomah-county-operating-engineers-local-701-contract-2022-2027",
+   "type": "references_external",
+   "to": "ORS 475.525"
+  },
+  {
+   "from": "multnomah-county-operating-engineers-local-701-contract-2022-2027",
+   "type": "references_external",
+   "to": "ORS 653.601"
+  },
+  {
+   "from": "multnomah-county-operating-engineers-local-701-contract-2022-2027",
+   "type": "references_external",
+   "to": "ORS 659.043"
+  },
+  {
+   "from": "multnomah-county-oregon-nurses-association-contract-2025-2028",
+   "type": "references_external",
+   "to": "OAR 839-001-0420"
+  },
+  {
+   "from": "multnomah-county-oregon-nurses-association-contract-2025-2028",
+   "type": "references_external",
+   "to": "ORS 236.610"
+  },
+  {
+   "from": "multnomah-county-oregon-nurses-association-contract-2025-2028",
+   "type": "references_external",
+   "to": "ORS 237.051"
+  },
+  {
+   "from": "multnomah-county-oregon-nurses-association-contract-2025-2028",
+   "type": "references_external",
+   "to": "ORS 238.205"
+  },
+  {
+   "from": "multnomah-county-oregon-nurses-association-contract-2025-2028",
+   "type": "references_external",
+   "to": "ORS 238.335"
+  },
+  {
+   "from": "multnomah-county-oregon-nurses-association-contract-2025-2028",
+   "type": "references_external",
+   "to": "ORS 238.350"
+  },
+  {
+   "from": "multnomah-county-oregon-nurses-association-contract-2025-2028",
+   "type": "references_external",
+   "to": "ORS 238A.335"
+  },
+  {
+   "from": "multnomah-county-oregon-nurses-association-contract-2025-2028",
+   "type": "references_external",
+   "to": "ORS 475.005"
+  },
+  {
+   "from": "multnomah-county-oregon-nurses-association-contract-2025-2028",
+   "type": "references_external",
+   "to": "ORS 475.035"
+  },
+  {
+   "from": "multnomah-county-oregon-nurses-association-contract-2025-2028",
+   "type": "references_external",
+   "to": "ORS 475.525"
+  },
+  {
+   "from": "multnomah-county-oregon-nurses-association-contract-2025-2028",
+   "type": "references_external",
+   "to": "ORS 653.601"
+  },
+  {
+   "from": "multnomah-county-oregon-nurses-association-contract-2025-2028",
+   "type": "references_external",
+   "to": "ORS 656.005"
+  },
+  {
+   "from": "multnomah-county-oregon-nurses-association-contract-2025-2028",
+   "type": "references_external",
+   "to": "ORS 659A.043"
+  },
+  {
+   "from": "multnomah-county-painters-allied-trades-labor-contract-2023-2027",
+   "type": "references_external",
+   "to": "OAR 437-002-0134"
+  },
+  {
+   "from": "multnomah-county-painters-allied-trades-labor-contract-2023-2027",
+   "type": "references_external",
+   "to": "ORS 236.605"
+  },
+  {
+   "from": "multnomah-county-painters-allied-trades-labor-contract-2023-2027",
+   "type": "references_external",
+   "to": "ORS 236.610"
+  },
+  {
+   "from": "multnomah-county-painters-allied-trades-labor-contract-2023-2027",
+   "type": "references_external",
+   "to": "ORS 238.205"
+  },
+  {
+   "from": "multnomah-county-painters-allied-trades-labor-contract-2023-2027",
+   "type": "references_external",
+   "to": "ORS 238.350"
+  },
+  {
+   "from": "multnomah-county-painters-allied-trades-labor-contract-2023-2027",
+   "type": "references_external",
+   "to": "ORS 238A.335"
+  },
+  {
+   "from": "multnomah-county-painters-allied-trades-labor-contract-2023-2027",
+   "type": "references_external",
+   "to": "ORS 475.005"
+  },
+  {
+   "from": "multnomah-county-painters-allied-trades-labor-contract-2023-2027",
+   "type": "references_external",
+   "to": "ORS 475.035"
+  },
+  {
+   "from": "multnomah-county-painters-allied-trades-labor-contract-2023-2027",
+   "type": "references_external",
+   "to": "ORS 475.525"
+  },
+  {
+   "from": "multnomah-county-painters-allied-trades-labor-contract-2023-2027",
+   "type": "references_external",
+   "to": "ORS 653.601"
+  },
+  {
+   "from": "multnomah-county-painters-allied-trades-labor-contract-2023-2027",
+   "type": "references_external",
+   "to": "ORS 659.043"
+  },
+  {
+   "from": "multnomah-county-pharmacists-2025-2028-cba-final-pdf",
+   "type": "references_external",
+   "to": "OAR 437-001-0700"
+  },
+  {
+   "from": "multnomah-county-pharmacists-2025-2028-cba-final-pdf",
+   "type": "references_external",
+   "to": "OAR 437-002-0134"
+  },
+  {
+   "from": "multnomah-county-pharmacists-2025-2028-cba-final-pdf",
+   "type": "references_external",
+   "to": "ORS 236.610"
+  },
+  {
+   "from": "multnomah-county-pharmacists-2025-2028-cba-final-pdf",
+   "type": "references_external",
+   "to": "ORS 238.205"
+  },
+  {
+   "from": "multnomah-county-pharmacists-2025-2028-cba-final-pdf",
+   "type": "references_external",
+   "to": "ORS 238.350"
+  },
+  {
+   "from": "multnomah-county-pharmacists-2025-2028-cba-final-pdf",
+   "type": "references_external",
+   "to": "ORS 238A.225"
+  },
+  {
+   "from": "multnomah-county-pharmacists-2025-2028-cba-final-pdf",
+   "type": "references_external",
+   "to": "ORS 243.650"
+  },
+  {
+   "from": "multnomah-county-pharmacists-2025-2028-cba-final-pdf",
+   "type": "references_external",
+   "to": "ORS 408.290"
+  },
+  {
+   "from": "multnomah-county-pharmacists-2025-2028-cba-final-pdf",
+   "type": "references_external",
+   "to": "ORS 475.035"
+  },
+  {
+   "from": "multnomah-county-pharmacists-2025-2028-cba-final-pdf",
+   "type": "references_external",
+   "to": "ORS 475.525"
+  },
+  {
+   "from": "multnomah-county-pharmacists-2025-2028-cba-final-pdf",
+   "type": "references_external",
+   "to": "ORS 659A.040"
+  },
+  {
+   "from": "multnomah-county-pharmacists-2025-2028-cba-final-pdf",
+   "type": "references_external",
+   "to": "ORS 659A.069"
+  },
+  {
+   "from": "multnomah-county-pharmacists-2025-2028-cba-final-pdf",
+   "type": "references_external",
+   "to": "ORS 659A.270"
+  },
+  {
+   "from": "multnomah-county-pharmacists-2025-2028-cba-final-pdf",
+   "type": "references_external",
+   "to": "ORS 659A.272"
+  },
+  {
+   "from": "multnomah-county-pharmacists-2025-2028-cba-final-pdf",
+   "type": "references_external",
+   "to": "ORS 659A.290"
+  },
+  {
+   "from": "multnomah-county-physicians-and-psychiatrists-cba-2025-2028",
+   "type": "references_external",
+   "to": "OAR 437-001-0700"
+  },
+  {
+   "from": "multnomah-county-physicians-and-psychiatrists-cba-2025-2028",
+   "type": "references_external",
+   "to": "OAR 437-001-0765"
+  },
+  {
+   "from": "multnomah-county-physicians-and-psychiatrists-cba-2025-2028",
+   "type": "references_external",
+   "to": "OAR 437-002-0134"
+  },
+  {
+   "from": "multnomah-county-physicians-and-psychiatrists-cba-2025-2028",
+   "type": "references_external",
+   "to": "ORS 236.610"
+  },
+  {
+   "from": "multnomah-county-physicians-and-psychiatrists-cba-2025-2028",
+   "type": "references_external",
+   "to": "ORS 238.205"
+  },
+  {
+   "from": "multnomah-county-physicians-and-psychiatrists-cba-2025-2028",
+   "type": "references_external",
+   "to": "ORS 238.350"
+  },
+  {
+   "from": "multnomah-county-physicians-and-psychiatrists-cba-2025-2028",
+   "type": "references_external",
+   "to": "ORS 238A.225"
+  },
+  {
+   "from": "multnomah-county-physicians-and-psychiatrists-cba-2025-2028",
+   "type": "references_external",
+   "to": "ORS 238A.330"
+  },
+  {
+   "from": "multnomah-county-physicians-and-psychiatrists-cba-2025-2028",
+   "type": "references_external",
+   "to": "ORS 238A.350"
+  },
+  {
+   "from": "multnomah-county-physicians-and-psychiatrists-cba-2025-2028",
+   "type": "references_external",
+   "to": "ORS 243.650"
+  },
+  {
+   "from": "multnomah-county-physicians-and-psychiatrists-cba-2025-2028",
+   "type": "references_external",
+   "to": "ORS 408.290"
+  },
+  {
+   "from": "multnomah-county-physicians-and-psychiatrists-cba-2025-2028",
+   "type": "references_external",
+   "to": "ORS 475.005"
+  },
+  {
+   "from": "multnomah-county-physicians-and-psychiatrists-cba-2025-2028",
+   "type": "references_external",
+   "to": "ORS 475.035"
+  },
+  {
+   "from": "multnomah-county-physicians-and-psychiatrists-cba-2025-2028",
+   "type": "references_external",
+   "to": "ORS 475.525"
+  },
+  {
+   "from": "multnomah-county-physicians-and-psychiatrists-cba-2025-2028",
+   "type": "references_external",
+   "to": "ORS 653.601"
+  },
+  {
+   "from": "multnomah-county-physicians-and-psychiatrists-cba-2025-2028",
+   "type": "references_external",
+   "to": "ORS 656.005"
+  },
+  {
+   "from": "multnomah-county-physicians-and-psychiatrists-cba-2025-2028",
+   "type": "references_external",
+   "to": "ORS 659A.040"
+  },
+  {
+   "from": "multnomah-county-physicians-and-psychiatrists-cba-2025-2028",
+   "type": "references_external",
+   "to": "ORS 659A.069"
+  },
+  {
+   "from": "multnomah-county-physicians-and-psychiatrists-cba-2025-2028",
+   "type": "references_external",
+   "to": "ORS 659A.270"
+  },
+  {
+   "from": "multnomah-county-physicians-and-psychiatrists-cba-2025-2028",
+   "type": "references_external",
+   "to": "ORS 659A.290"
+  },
+  {
+   "from": "multnomah-county-prosecuting-attorneys-cba-2025-2029",
+   "type": "references_external",
+   "to": "ORS 238.205"
+  },
+  {
+   "from": "multnomah-county-prosecuting-attorneys-cba-2025-2029",
+   "type": "references_external",
+   "to": "ORS 238.350"
+  },
+  {
+   "from": "multnomah-county-prosecuting-attorneys-cba-2025-2029",
+   "type": "references_external",
+   "to": "ORS 238A.335"
+  },
+  {
+   "from": "multnomah-county-prosecuting-attorneys-cba-2025-2029",
+   "type": "references_external",
+   "to": "ORS 243.698"
+  },
+  {
+   "from": "multnomah-county-prosecuting-attorneys-cba-2025-2029",
+   "type": "references_external",
+   "to": "ORS 243.736"
+  },
+  {
+   "from": "multnomah-county-prosecuting-attorneys-cba-2025-2029",
+   "type": "references_external",
+   "to": "ORS 243.742"
+  },
+  {
+   "from": "multnomah-county-prosecuting-attorneys-cba-2025-2029",
+   "type": "references_external",
+   "to": "ORS 8.610"
+  },
   {
    "from": "state-aee-association-of-engineering-employees-2025-2027",
    "type": "references_external",
@@ -1533,6 +3845,211 @@
    "from": "state-seiu-non-state-oregon-home-care-commission-2025-2027",
    "type": "references_external",
    "to": "ORS 656.039"
+  },
+  {
+   "from": "washington-county-afscme-collective-bargaining-agreement-2024-2027-agreement",
+   "type": "references_external",
+   "to": "ORS 30.260"
+  },
+  {
+   "from": "washington-county-foppo-agreement-2022-2026",
+   "type": "references_external",
+   "to": "ORS 243.650"
+  },
+  {
+   "from": "washington-county-foppo-agreement-2022-2026",
+   "type": "references_external",
+   "to": "ORS 243.698"
+  },
+  {
+   "from": "washington-county-foppo-agreement-2022-2026",
+   "type": "references_external",
+   "to": "ORS 292.055"
+  },
+  {
+   "from": "washington-county-foppo-agreement-2022-2026",
+   "type": "references_external",
+   "to": "ORS 30.260"
+  },
+  {
+   "from": "washington-county-oregon-nurses-association-2024-2027-agreement",
+   "type": "references_external",
+   "to": "ORS 243.698"
+  },
+  {
+   "from": "washington-county-oregon-nurses-association-2024-2027-agreement",
+   "type": "references_external",
+   "to": "ORS 279.340"
+  },
+  {
+   "from": "washington-county-ssg-agreement-2025-2028",
+   "type": "references_external",
+   "to": "ORS 236.350"
+  },
+  {
+   "from": "washington-county-ssg-agreement-2025-2028",
+   "type": "references_external",
+   "to": "ORS 243.650"
+  },
+  {
+   "from": "washington-county-ssg-agreement-2025-2028",
+   "type": "references_external",
+   "to": "ORS 243.698"
+  },
+  {
+   "from": "washington-county-ssg-agreement-2025-2028",
+   "type": "references_external",
+   "to": "ORS 243.702"
+  },
+  {
+   "from": "washington-county-ssg-agreement-2025-2028",
+   "type": "references_external",
+   "to": "ORS 243.808"
+  },
+  {
+   "from": "washington-county-ssg-agreement-2025-2028",
+   "type": "references_external",
+   "to": "ORS 30.260"
+  },
+  {
+   "from": "washington-county-ssg-agreement-2025-2028",
+   "type": "references_external",
+   "to": "ORS 652.220"
+  },
+  {
+   "from": "washington-county-teamsters-2022-2026-agreement",
+   "type": "references_external",
+   "to": "ORS 243.650"
+  },
+  {
+   "from": "washington-county-teamsters-2022-2026-agreement",
+   "type": "references_external",
+   "to": "ORS 243.698"
+  },
+  {
+   "from": "washington-county-wcpaa-agreement-2025-2027",
+   "type": "references_external",
+   "to": "ORS 238.205"
+  },
+  {
+   "from": "washington-county-wcpaa-agreement-2025-2027",
+   "type": "references_external",
+   "to": "ORS 238.350"
+  },
+  {
+   "from": "washington-county-wcpaa-agreement-2025-2027",
+   "type": "references_external",
+   "to": "ORS 238A.335"
+  },
+  {
+   "from": "washington-county-wcpaa-agreement-2025-2027",
+   "type": "references_external",
+   "to": "ORS 243.736"
+  },
+  {
+   "from": "washington-county-wcpaa-agreement-2025-2027",
+   "type": "references_external",
+   "to": "ORS 243.742"
+  },
+  {
+   "from": "washington-county-wcpaa-agreement-2025-2027",
+   "type": "references_external",
+   "to": "ORS 8.610"
+  },
+  {
+   "from": "washington-county-wcpoa-sergeants-unit-sgt-cba-2025-2028",
+   "type": "references_external",
+   "to": "ORS 131.930"
+  },
+  {
+   "from": "washington-county-wcpoa-sergeants-unit-sgt-cba-2025-2028",
+   "type": "references_external",
+   "to": "ORS 243.650"
+  },
+  {
+   "from": "washington-county-wcpoa-sergeants-unit-sgt-cba-2025-2028",
+   "type": "references_external",
+   "to": "ORS 243.698"
+  },
+  {
+   "from": "washington-county-wcpoa-sergeants-unit-sgt-cba-2025-2028",
+   "type": "references_external",
+   "to": "ORS 243.702"
+  },
+  {
+   "from": "washington-county-wcpoa-sergeants-unit-sgt-cba-2025-2028",
+   "type": "references_external",
+   "to": "ORS 243.808"
+  },
+  {
+   "from": "washington-county-wcpoa-sergeants-unit-sgt-cba-2025-2028",
+   "type": "references_external",
+   "to": "ORS 243.812"
+  },
+  {
+   "from": "washington-county-wcpoa-sergeants-unit-sgt-cba-2025-2028",
+   "type": "references_external",
+   "to": "ORS 652.220"
+  },
+  {
+   "from": "yamhill-county-2024-to-2027-ycso-cba",
+   "type": "references_external",
+   "to": "ORS 243.808"
+  },
+  {
+   "from": "yamhill-county-2024-to-2027-ycso-cba",
+   "type": "references_external",
+   "to": "ORS 408.290"
+  },
+  {
+   "from": "yamhill-county-2024-to-2027-ycso-cba",
+   "type": "references_external",
+   "to": "ORS 475.005"
+  },
+  {
+   "from": "yamhill-county-2024-to-2027-ycso-cba",
+   "type": "references_external",
+   "to": "ORS 475.035"
+  },
+  {
+   "from": "yamhill-county-2024-to-2027-ycso-cba",
+   "type": "references_external",
+   "to": "ORS 653.268"
+  },
+  {
+   "from": "yamhill-county-2024-to-2027-ycso-cba",
+   "type": "references_external",
+   "to": "ORS 653.269"
+  },
+  {
+   "from": "yamhill-county-2024-to-2027-ycso-cba",
+   "type": "references_external",
+   "to": "ORS 659.360"
+  },
+  {
+   "from": "yamhill-county-2024-to-2027-ycso-cba",
+   "type": "references_external",
+   "to": "ORS 659A.159"
+  },
+  {
+   "from": "yamhill-county-2025-to-2028-foppo-cba",
+   "type": "references_external",
+   "to": "ORS 106.300"
+  },
+  {
+   "from": "yamhill-county-2025-to-2028-foppo-cba",
+   "type": "references_external",
+   "to": "ORS 187.020"
+  },
+  {
+   "from": "yamhill-county-2025-to-2028-foppo-cba",
+   "type": "references_external",
+   "to": "ORS 408.290"
+  },
+  {
+   "from": "yamhill-county-2025-to-2028-foppo-cba",
+   "type": "references_external",
+   "to": "ORS 659A.159"
   }
  ]
 }

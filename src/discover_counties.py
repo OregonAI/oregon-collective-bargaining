@@ -80,7 +80,10 @@ def _slug(group: str, text: str) -> str:
 
 
 def _mk(group: str, url: str, title: str, fmt: str = "pdf", **extra) -> dict:
-    rec = {"id": _slug(group, title), "url": url.replace(" ", "%20"),
+    # hrefs arrive entity-escaped from the HTML (&amp; in Multnomah's slugs) — unescape
+    # BEFORE storing, or the manifest URL 404s in a way that looks like link rot
+    # (the oregon-audits Additional_x0020_Documents lesson, met again here).
+    rec = {"id": _slug(group, title), "url": _html.unescape(url).replace(" ", "%20"),
            "family": extra.pop("family", None) or _family(title, url),
            "format": fmt, "sha256": "", "title": title}
     if t := _term(title, url):

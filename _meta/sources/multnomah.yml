@@ -94,7 +94,7 @@ sources:
   term: 2025-2028
   last_checked: '2026-08-02'
 - id: multnomah-painters-allied-trades-labor-contract-2023-2027
-  url: https://multco.us/file/painters_&amp;_allied_trades_labor_contract_2023-2027-1/download
+  url: https://multco.us/file/painters_&_allied_trades_labor_contract_2023-2027-1/download
   family: cba
   format: pdf
   sha256: ''

@@ -1,0 +1,75 @@
+---
+schema_version: 1
+corpus: oregon-collective-bargaining
+jurisdiction: oregon/washington-county
+id: washington-county-teamsters-2022-2026-agreement
+title: Washington County — Teamsters 2022-2026 Agreement
+doc_type: collective_bargaining_agreement
+citation: 2022-2026 Washington County Teamsters agreement
+authority_level: contract
+issuing_body: Washington County
+union: Teamsters
+term: 2022-2026
+effective_date: ''
+expiry_date: ''
+agency_registry_slugs: []
+source_url: https://www.washingtoncountyor.gov/hr/documents/teamsters-contract-2022-2026-agreement/download?inline
+source_format: pdf
+retrieved: '2026-08-02'
+source_sha256: 6c2eaf632b166f60462b36b0d22172d37d2bb34708bbcb95097d9fc44a9cd9dc
+snapshot_policy: hash-only
+status: current
+content_mode: summary
+reproduction_basis: 'jointly-authored contract; summary + official link per the class determination
+  in corpus.yml schema.doc_types (verbatim: false)'
+conversion_notes: pdftotext -layout; 51 pages, 172703 characters extracted; NOT human-verified
+last_verified: ''
+verified_by: ''
+maintainer: '@morficflux'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+  - ORS 243.650
+  - ORS 243.698
+  related: []
+  supersedes: []
+tags:
+- collective-bargaining
+- county
+- washington-county
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated
+> summary, not the agreement's official text. Verify against the official
+> source: https://www.washingtoncountyor.gov/hr/documents/teamsters-contract-2022-2026-agreement/download?inline (retrieved 2026-08-02).
+
+# Washington County — Teamsters 2022-2026 Agreement
+
+## At a glance
+
+Collective bargaining agreement between **Washington County** and **Teamsters** — **2022-2026** term.
+- Listed on the county's labor agreements index as: “Teamsters 2022-2026 Agreement” (index archived in `_meta/discovery/`)
+- Source document: 51 pages (PDF)
+
+This corpus is **summary-first for agreements**: the contract's text is not
+reproduced here (see Curator notes), and nothing on this page states or
+paraphrases the agreement's terms. Read the agreement itself at the official
+source link above.
+
+## Curator notes
+
+Summary-first is the recorded class determination (`corpus.yml
+schema.doc_types`, `verbatim: false`). `status: current` records that this
+document sits on the county's own operative labor-agreements index at ingest
+time — county pages, unlike the DAS library, publish no history, so currency
+rests on the index and on content-hash drift detection.
+
+Extraction: pdftotext -layout; 51 pages, 172703 characters extracted; NOT human-verified.
+
+## Cross-references
+
+Statutes and rules the document's text cites are recorded in frontmatter
+`relationships.references_external` (2 citation(s)) and resolve into
+`executive-regulatory-frameworks` as cites — this corpus asserts no
+`implements` edge anywhere.

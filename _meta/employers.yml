@@ -18,56 +18,56 @@ employers:
   jurisdiction: oregon
   source_url: https://www.oregon.gov/das/hr/pages/lru.aspx
   survey_status: verified
-  built: false
+  built: true
 - slug: multnomah-county
   name: Multnomah County
   kind: county
   jurisdiction: oregon/multnomah-county
   source_url: https://multco.us/info/labor-contracts
   survey_status: verified
-  built: false
+  built: true
 - slug: washington-county
   name: Washington County
   kind: county
   jurisdiction: oregon/washington-county
   source_url: https://www.washingtoncountyor.gov/hr/labor-agreements
   survey_status: verified
-  built: false
+  built: true
 - slug: clackamas-county
   name: Clackamas County
   kind: county
   jurisdiction: oregon/clackamas-county
   source_url: https://www.clackamas.us/des/contracts
   survey_status: verified
-  built: false
+  built: true
 - slug: lane-county
   name: Lane County
   kind: county
   jurisdiction: oregon/lane-county
   source_url: https://www.lanecountyor.gov/government/county_departments/human_resources/collective_bargaining_agreements
   survey_status: verified
-  built: false
+  built: true
 - slug: marion-county
   name: Marion County
   kind: county
   jurisdiction: oregon/marion-county
   source_url: https://www.co.marion.or.us/HR/Pages/payplan.aspx
   survey_status: verified
-  built: false
+  built: true
 - slug: jackson-county
   name: Jackson County
   kind: county
   jurisdiction: oregon/jackson-county
   source_url: https://jacksoncountyor.gov/departments/administration/human_resources/labor_agreements.php
   survey_status: verified
-  built: false
+  built: true
 - slug: deschutes-county
   name: Deschutes County
   kind: county
   jurisdiction: oregon/deschutes-county
   source_url: https://www.deschutescounty.gov/1095/Labor-Contracts-and-Documents
   survey_status: verified
-  built: false
+  built: true
 - slug: linn-county
   name: Linn County
   kind: county
@@ -88,7 +88,7 @@ employers:
   jurisdiction: oregon/yamhill-county
   source_url: https://www.yamhillcounty.gov/300/Union-Contracts
   survey_status: verified
-  built: false
+  built: true
 - slug: benton-county
   name: Benton County
   kind: county
@@ -137,7 +137,7 @@ employers:
   jurisdiction: oregon/columbia-county
   source_url: https://www.columbiacountyor.gov/departments/HumanResources/union-contracts
   survey_status: verified
-  built: false
+  built: true
 - slug: lincoln-county
   name: Lincoln County
   kind: county
