@@ -27,3 +27,8 @@ site/
 credentials.json
 
 .DS_Store
+
+# Source PDFs are NOT committed; frontmatter declares snapshot_policy: hash-only.
+# The pdftotext extraction (.txt) IS committed — hash_snapshot() hashes its
+# normalized text, which is what CI re-verifies. (The oregon-audits arrangement.)
+_meta/snapshots/*.pdf

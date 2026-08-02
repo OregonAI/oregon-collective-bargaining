@@ -115,11 +115,11 @@ PR. See toolkit `docs/replication-guide.md`.
 
 ## Setting up this corpus (delete this section once done)
 
-> Status at instantiation (2026-08-02): steps 1–3, 5–8 done. Step 4 (the
-> ingester) is deliberately NOT done — ingestion waits on human gate #1
-> (source-manifest PR approval) and the class copyright determination.
-> `src/enumerate_cbas.py` (state-tier enumeration) exists; the fetch/extract
-> ingester does not yet.
+> Status (2026-08-02): all 8 steps done. Gate #1 (source manifests) merged as
+> PR #1; `src/ingest_cbas.py` ingests the state tier summary-first (tranche 1 =
+> current term). Remaining before this section can be deleted: county-tier
+> ingestion and the per-class verbatim/copyright determination (currently
+> summary-first by configuration).
 
 1. **Fill every placeholder.** `grep -rno '{{[A-Z_]*}}' .` must come back empty.
 2. **Name the content root.** Rename `documents/` to whatever this corpus holds
