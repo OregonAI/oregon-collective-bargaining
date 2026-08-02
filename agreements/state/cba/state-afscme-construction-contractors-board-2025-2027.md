@@ -39,7 +39,8 @@ relationships:
   - ORS 292.055
   - ORS 652.220
   related: []
-  supersedes: []
+  supersedes:
+  - state-afscme-construction-contractors-board-2023-2025
 tags:
 - collective-bargaining
 - state

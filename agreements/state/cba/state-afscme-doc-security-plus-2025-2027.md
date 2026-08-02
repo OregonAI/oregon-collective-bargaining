@@ -41,7 +41,8 @@ relationships:
   - ORS 654.001
   - ORS 659A.150
   related: []
-  supersedes: []
+  supersedes:
+  - state-afscme-doc-security-plus-2023-2025
 tags:
 - collective-bargaining
 - state

@@ -35,7 +35,8 @@ relationships:
   - ORS 652.220
   - ORS 659A.270
   related: []
-  supersedes: []
+  supersedes:
+  - state-afscme-building-codes-division-2023-2025
 tags:
 - collective-bargaining
 - state

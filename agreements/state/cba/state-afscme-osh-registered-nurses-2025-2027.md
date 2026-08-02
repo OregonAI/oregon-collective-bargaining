@@ -38,7 +38,8 @@ relationships:
   - ORS 654.001
   - ORS 678.301
   related: []
-  supersedes: []
+  supersedes:
+  - state-afscme-osh-registered-nurses-2023-2025
 tags:
 - collective-bargaining
 - state

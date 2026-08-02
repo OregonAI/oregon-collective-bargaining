@@ -43,7 +43,8 @@ relationships:
   - ORS 659.389
   - ORS 659.560
   related: []
-  supersedes: []
+  supersedes:
+  - state-afscme-oregon-youth-authority-2023-2025
 tags:
 - collective-bargaining
 - state

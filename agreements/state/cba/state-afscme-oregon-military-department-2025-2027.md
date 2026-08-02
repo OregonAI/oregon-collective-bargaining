@@ -36,7 +36,8 @@ relationships:
   - ORS 396.332
   - ORS 652.220
   related: []
-  supersedes: []
+  supersedes:
+  - state-afscme-oregon-military-department-2023-2025
 tags:
 - collective-bargaining
 - state

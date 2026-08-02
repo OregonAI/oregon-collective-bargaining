@@ -48,7 +48,8 @@ relationships:
   - ORS 659A.270
   - ORS 678.010
   related: []
-  supersedes: []
+  supersedes:
+  - state-ona-oregon-nurses-association-2023-2025
 tags:
 - collective-bargaining
 - state

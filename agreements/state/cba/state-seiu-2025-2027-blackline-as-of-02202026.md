@@ -52,7 +52,8 @@ relationships:
   - ORS 659A.270
   - ORS 659A.283
   - ORS 659A.885
-  related: []
+  related:
+  - state-seiu-master-agreement-collective-bargaining-agreement-2023-2025
   supersedes: []
 tags:
 - collective-bargaining
