@@ -1,0 +1,65 @@
+# The state tier's COVERAGE FLOOR: the DAS Labor Relations Unit 2025-2027 Bargaining
+# Chart, transcribed from the chart PDF (rev. 03/19/2026) and verified against a
+# pdftotext extraction of the archived fetch (corpus-seeds/.cba-survey/
+# fetches-2026-08-02/ratification.pdf). This is the enumerable "should exist" list
+# the way oregon-audits uses its report list: src/enumerate_cbas.py reconciles the
+# document library against it and NAMES every roster row with no current-term file.
+#
+# `match` is a case-sensitive substring of the library FILENAME for this unit's
+# agreements — hand-recorded once, because DAS filenames are not derivable from the
+# chart (chart "DHS SACU" vs filename "DHS Stabilization and Crisis Unit"; chart
+# "IAFF KFFA Klamath Falls" vs filename "IAFF Kingsley Firefighters" — Kingsley
+# Field IS the Klamath Falls air base; chart "OHA RN" vs filename "AFSCME OSH
+# Registered Nurses" — the Oregon State Hospital nurses bargain under OHA).
+# `exclude` disambiguates prefix collisions (DOC Security vs DOC Security Plus).
+#
+# The chart counts 12 unions / 36 state units / 35 contracts: SEIU's two rows
+# (strike-permitted and strike-prohibited units) share ONE master agreement, so the
+# roster below carries them as one contract entry covering both rows.
+source: https://www.oregon.gov/das/HR/Documents/2025-2027-Ratification-Dates.pdf
+chart_revision: "03/19/2026"
+term: 2025-2027
+
+state_contracts:
+- {unit: AEE Assn. of Engineering Employees,              repr: E,        ratified: 2026-01-06, match: "AEE Association of Engineering Employees"}
+- {unit: AFSCME BCD Building Codes Division,              repr: AT,       ratified: 2025-08-29, match: "AFSCME Building Codes Division"}
+- {unit: AFSCME CCB Construction Contractors Board,       repr: AB,       ratified: 2025-08-11, match: "AFSCME Construction Contractors Board"}
+- {unit: AFSCME DEQ Dept. of Environmental Quality,       repr: AD,       ratified: 2025-08-29, match: "AFSCME Department of Environmental Quality"}
+- {unit: AFSCME DHS SACU Stabilization and Crisis Unit,   repr: AMG,      ratified: 2025-08-11, match: "AFSCME DHS Stabilization and Crisis Unit"}
+- {unit: AFSCME DLCD Land Conservation and Development,   repr: AG,       ratified: 2025-08-11, match: "AFSCME Department of Land Conservation and Development"}
+- {unit: AFSCME DSL Department of State Lands,            repr: AX,       ratified: 2025-08-25, match: "AFSCME Department of State Lands"}
+- {unit: AFSCME ODOC Dentists,                            repr: AE,       ratified: 2025-08-25, match: "AFSCME DOC Dentists"}
+- {unit: AFSCME ODOC Physicians,                          repr: AH,       ratified: 2025-08-26, match: "AFSCME DOC Physicians"}
+- {unit: AFSCME ODOC Security,                            repr: AAOS,     ratified: 2026-02-25, match: "AFSCME DOC Security", exclude: "Plus"}
+- {unit: AFSCME ODOC Security Plus,                       repr: "AAON, AP", ratified: 2026-02-11, match: "AFSCME DOC Security Plus"}
+- {unit: AFSCME OAJA DOJ Attorneys,                       repr: AJ,       ratified: 2025-08-11, match: "AFSCME DOJ Oregon Department of Justice Attorneys"}
+- {unit: AFSCME OEM Dept. of Emergency Management,        repr: AV,       ratified: 2025-08-11, match: "AFSCME Oregon Emergency Management"}
+- {unit: AFSCME OHAP OHA Physicians,                      repr: AMP,      ratified: 2025-08-29, match: "AFSCME Oregon Health Authority Physicians"}
+- {unit: AFSCME OHA RN OHA Nurses,                        repr: AMH,      ratified: 2025-08-11, match: "AFSCME OSH Registered Nurses"}
+- {unit: AFSCME OLCC Liquor and Cannabis Commission,      repr: AL,       ratified: 2025-08-16, match: "AFSCME Oregon Liquor"}
+- {unit: AFSCME OLTCO Long Term Care Ombudsman,           repr: AI,       ratified: 2025-08-25, match: "AFSCME Oregon Long Term Care Ombudsman"}
+- {unit: AFSCME OMD Oregon Military Department,           repr: AU,       ratified: 2025-08-11, match: "AFSCME Oregon Military Department"}
+- {unit: AFSCME OPDC Administrative Services,             repr: WDR,      ratified: 2025-08-22, match: "AFSCME Oregon Public Defense Commission Administrative Services"}
+- {unit: AFSCME OPDC Attorneys,                           repr: WDR,      ratified: 2025-08-22, match: "AFSCME Oregon Public Defense Commission Attorneys"}
+- {unit: AFSCME OPDC Legal Support,                       repr: WDR,      ratified: 2025-08-22, match: "AFSCME Oregon Public Defense Commission Legal Support"}
+- {unit: AFSCME OSFM State Fire Marshal,                  repr: AF,       ratified: 2025-08-18, match: "AFSCME Oregon State Fire Marshal"}
+- {unit: AFSCME OSPSU OSP Support Unit,                   repr: AO,       ratified: 2025-08-29, match: "AFSCME Oregon State Police Support Unit"}
+- {unit: AFSCME OYA Juvenile Parole and Probation,        repr: ACC,      ratified: 2025-08-25, match: "AFSCME Oregon Youth Authority"}
+- {unit: AFSCME REA Real Estate Agency,                   repr: AR,       ratified: 2025-08-11, match: "AFSCME Real Estate Agency"}
+- {unit: AOCE Assn. of Oregon Corrections Employees,      repr: "CP, CS", ratified: 2026-01-12, match: "AOCE Association of Corrections Employees"}
+- {unit: CIA Criminal Investigators Association,          repr: IJ,       ratified: 2026-01-05, match: "CIA Criminal Investigators Association"}
+- {unit: FOPPO Fed. of Oregon Parole and Probation (DOC), repr: F,        ratified: 2025-12-17, match: "FOPPO Federation of Parole and Probation Officers"}
+- {unit: IAFF KFFA Klamath Falls Airport Fire Fighters,   repr: "IK, IKA", ratified: 2025-08-18, match: "IAFF Kingsley Firefighters Association"}
+- {unit: IAFF PANG Local 1660,                            repr: IP,       ratified: 2025-10-06, match: "IAFF Portland Air National Guard Firefighters"}
+- {unit: ONA Oregon Nurses Association,                   repr: "NMG, NMP", ratified: 2025-09-23, match: "Oregon Nurses Association"}
+- {unit: OPSA Oregon Public Safety Association,           repr: AS,       ratified: 2026-01-13, match: "OPSA Oregon Public Safety Association"}
+- {unit: SEIU master (strike-permitted + strike-prohibited rows), repr: "OAH OAI OAO OAS OBO OBS XAO XAOQ / OXNH OXNI OXNO OXSO", ratified: 2025-10-03, match: "SEIU Master Agreement", note: "one master agreement covers both chart rows; a '2025-2027 Blackline' file is posted but is a redline, not the executed final"}
+- {unit: OSPOA Oregon State Police Officers Association,  repr: "SC, SU, SS", ratified: 2025-11-17, match: "OSPOA Oregon State Police Officers Association"}
+- {unit: STEA State Teachers Education Association,       repr: RE,       ratified: 2025-12-16, match: "STEA State Teachers Education Association"}
+
+non_state_contracts:
+- {unit: SEIU Homecare Workers (OHCC),                    ratified: 2025-09-20, match: "SEIU Non State Oregon Home Care Commission"}
+- {unit: SEIU Adult Foster Care and Relative Care,        ratified: 2026-01-27, match: "SEIU Non State Adult Foster"}
+- {unit: SEIU Child Care Providers,                       ratified: 2026-01-13, match: "SEIU Non State Child Care Providers"}
+- {unit: AFSCME Health Care Interpreters,                 ratified: null,       match: "Interpreter", note: "no ratification date on the chart as of rev. 03/19/2026 — still open; expected ABSENT from the library"}
+- {unit: AFSCME Child Care Providers Together,            ratified: 2025-11-22, match: "AFSCME Non State Child"}

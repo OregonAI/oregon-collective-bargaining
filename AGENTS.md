@@ -157,6 +157,8 @@ PR. See toolkit `docs/replication-guide.md`.
 |---|---|---|
 | `_meta/graph.json` | `src/build_graph.py` | `generated` job, every PR |
 | `STATUS.md` | `corpus-generate-status` | `generated` job, every PR (plus a weekly repair in the `drift` job) |
+| `_meta/sources/state.yml` | `src/enumerate_cbas.py` (live SharePoint REST) | `state-enumeration` job in scheduled.yml — network, so weekly, not per-PR |
+| `_meta/sources/<county>.yml` | `src/discover_counties.py` (from `_meta/discovery/` archives) | `generated` job, every PR — deterministic, no network |
 
 Regenerate at the source and commit the result.
 

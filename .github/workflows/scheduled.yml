@@ -37,3 +37,20 @@ jobs:
     with:
       # Pin the CODE, not just the workflow file above — separate knobs.
       toolkit-ref: v1.20.1
+
+  # The state source group is generated from a LIVE SharePoint enumeration
+  # (src/enumerate_cbas.py), so its staleness check needs network and runs here,
+  # not in the PR gate — the oregon-audits arrangement. A failure means the DAS
+  # library changed (new agreements posted — the 7 known posting lags landing is
+  # the expected first cause) and the group file needs a re-run + PR.
+  state-enumeration:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pyyaml
+      - name: DAS CBA library must match the committed state group
+        run: python3 src/enumerate_cbas.py --check
