@@ -7,6 +7,23 @@ Repo-curation dates only — official effective dates live in frontmatter.
 ## [Unreleased]
 
 ### Added
+- 2026-08-02 — docTR joins the OCR stack as the tiebreaker (and as PaddleOCR's
+  partner in the different-pair recovery for scans tesseract cannot read at
+  all — the policy repo's EO pattern). 6 more scans recovered: Lane's two CBA
+  modification files, three Washington MOUs, Deschutes' Juneteenth MOU. 5
+  genuine holds remain (agreement 32–71% across three engines) — human review,
+  tracked on issue #5.
+- 2026-08-02 — Jackson: the JCSSA Sheriff's Sergeants 2023–2026 agreement,
+  whose only public copy is an Oregon ERB case exhibit — seeded as a
+  hand-verified extra source, labeled as an exhibit copy. The survey's other
+  Jackson lead was a FALSE MATCH: mijackson.org is Jackson County, MICHIGAN
+  (its CBA names Michigan Council 25 AFSCME); rejected, recorded in the group
+  header and the survey. Oregon Jackson County's AFSCME agreement remains
+  publicly unlocated (records-request path: issue #8).
+- 2026-08-02 — A real Pages site (src/build_site.py via corpus_toolkit.site),
+  replacing publish-index.yml per the audits precedent — corpus-index.json
+  keeps its URL; the site root stops 404ing. Coverage rendered honestly:
+  verified / could-not-verify / not-located / not-investigated, never summed.
 - 2026-08-02 — Benton County: 3 agreements, upgraded same day from the survey's
   not-located (the careers-and-benefits page IS the index; the ONA 2025–2029
   contract was unknown to the survey). Linn and Douglas refused a third

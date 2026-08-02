@@ -1,33 +1,33 @@
 ---
 schema_version: 1
 corpus: oregon-collective-bargaining
-jurisdiction: oregon/deschutes-county
-id: deschutes-county-mou-9-1-1-dispatcher-and-call-taker-position-incentives-dc-2022-569
-title: Deschutes County — MOU - 9-1-1 Dispatcher AND Call Taker Position Incentives DC 2022-569
+jurisdiction: oregon/lane-county
+id: lane-county-lcpoa-cba-modifications
+title: Lane County — LCPOA CBA Modifications
 doc_type: letter_of_agreement
-citation: Deschutes County MOU - 9-1-1 Dispatcher AND Call Taker Position Incentives DC 2022-569
-  letter of agreement
+citation: 2025-2028 Lane County LCPOA letter of agreement
 authority_level: contract
-issuing_body: Deschutes County
-union: ''
-term: ''
+issuing_body: Lane County
+union: LCPOA
+term: 2025-2028
 effective_date: ''
 expiry_date: ''
 agency_registry_slugs: []
-source_url: https://www.deschutescounty.gov/DocumentCenter/View/1932/MOU---9-1-1-Dispatcher-AND-Call-Taker-Position-Incentives-DC-2022-569
+source_url: https://www.lanecounty.org/UserFiles/Servers/Server%5F3585797/File/Government/County%20Departments/Human%20Resources/Collective%20Bargaining%20Agreements/LCPOA%20CBA%20Modifications.pdf
 source_format: pdf
 retrieved: '2026-08-02'
-source_sha256: e0c2f3060fed4f68483a0ee2a4daafe55e1309fa7614290d648cb1463ab6aac0
+source_sha256: 5669c391121631a4a0a5627459988943665745b69f716bd3d5654d5eae936675
 snapshot_policy: hash-only
 status: current
 content_mode: summary
 text_source: ocr
 reproduction_basis: 'jointly-authored contract; summary + official link per the class determination
   in corpus.yml schema.doc_types (verbatim: false)'
-conversion_notes: no text layer in the source PDF; text recovered by OCR. Two independent
-  engines (tesseract (ocrmypdf) + paddleocr PP-OCRv6) agree on 95% of the word sequence and
-  87% of the 137 figures, 100% dictionary-recognizable; NOT human-verified — treat every number
-  as unchecked against the source
+conversion_notes: 'no text layer in the source PDF; text recovered by OCR. Two independent
+  engines (docTR (DBNet + CRNN) + paddleocr PP-OCRv6) agree on 95% of the word sequence and
+  90% of the 49 figures, 97% dictionary-recognizable; different-pair recovery: tesseract produced
+  no usable text on this scan; NOT human-verified — treat every number as unchecked against
+  the source'
 last_verified: ''
 verified_by: ''
 maintainer: '@morficflux'
@@ -35,26 +35,26 @@ relationships:
   implements: []
   implemented_by: []
   references_external: []
-  related: []
+  related:
+  - lane-county-lcpoa-collective-bargaining-agreement
   supersedes: []
 tags:
 - collective-bargaining
 - county
-- deschutes-county
+- lane-county
 ---
 
 > **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated
 > summary, not the agreement's official text. Verify against the official
-> source: <https://www.deschutescounty.gov/DocumentCenter/View/1932/MOU---9-1-1-Dispatcher-AND-Call-Taker-Position-Incentives-DC-2022-569> (retrieved 2026-08-02).
+> source: <https://www.lanecounty.org/UserFiles/Servers/Server%5F3585797/File/Government/County%20Departments/Human%20Resources/Collective%20Bargaining%20Agreements/LCPOA%20CBA%20Modifications.pdf> (retrieved 2026-08-02).
 
-# Deschutes County — MOU - 9-1-1 Dispatcher AND Call Taker Position Incentives DC 2022-569
+# Lane County — LCPOA CBA Modifications
 
 ## At a glance
 
-Letter of agreement / MOU under **Deschutes County** and **the signatory association**.
-- Listed on the county's labor agreements index as: “MOU - 9-1-1 Dispatcher AND Call Taker Position Incentives DC 2022-569” (index archived in `_meta/discovery/`)
-- No term is stated on the index or found in the document's front matter — `term` is left empty rather than inferred; the county presents this as its operative agreement
-- Source document: 4 pages (PDF)
+Letter of agreement / MOU under **Lane County** and **LCPOA** — **2025-2028** term.
+- Listed on the county's labor agreements index as: “LCPOA CBA Modifications” (index archived in `_meta/discovery/`)
+- Source document: 2 pages (PDF)
 - **The source is an image-only scan.** Its committed text is a machine reading corroborated by two independent OCR engines (95% word-sequence agreement — see conversion_notes). Dates and terms above come from that reading; statute citations are deliberately not extracted, because digits are where engines diverge.
 
 This corpus is **summary-first for agreements**: the contract's text is not
@@ -69,8 +69,8 @@ schema.doc_types`, `verbatim: false`). `status: current` records that this
 document sits on the county's own operative labor-agreements index at ingest
 time — county pages, unlike the DAS library, publish no history, so currency
 rests on the index and on content-hash drift detection.
-
-Extraction: no text layer in the source PDF; text recovered by OCR. Two independent engines (tesseract (ocrmypdf) + paddleocr PP-OCRv6) agree on 95% of the word sequence and 87% of the 137 figures, 100% dictionary-recognizable; NOT human-verified — treat every number as unchecked against the source.
+Source-manifest note: UNDATED filename overwritten in place upstream — the term is only inside the document; content hash is the only change signal.
+Extraction: no text layer in the source PDF; text recovered by OCR. Two independent engines (docTR (DBNet + CRNN) + paddleocr PP-OCRv6) agree on 95% of the word sequence and 90% of the 49 figures, 97% dictionary-recognizable; different-pair recovery: tesseract produced no usable text on this scan; NOT human-verified — treat every number as unchecked against the source.
 
 ## Cross-references
 

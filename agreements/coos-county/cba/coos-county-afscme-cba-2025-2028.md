@@ -25,7 +25,7 @@ reproduction_basis: 'jointly-authored contract; summary + official link per the 
   in corpus.yml schema.doc_types (verbatim: false)'
 conversion_notes: no text layer in the source PDF; text recovered by OCR. Two independent
   engines (tesseract (ocrmypdf) + paddleocr PP-OCRv6) agree on 99% of the word sequence and
-  86% of the 746 figures, 100% dictionary-recognizable; 25 heading/letterhead token(s) lost
+  86% of the 746 figures, 99% dictionary-recognizable; 25 heading/letterhead token(s) lost
   their word spacing in extraction and are left as-is rather than reconstructed; NOT human-verified
   — treat every number as unchecked against the source
 last_verified: ''
@@ -71,7 +71,7 @@ document sits on the county's own operative labor-agreements index at ingest
 time — county pages, unlike the DAS library, publish no history, so currency
 rests on the index and on content-hash drift detection.
 
-Extraction: no text layer in the source PDF; text recovered by OCR. Two independent engines (tesseract (ocrmypdf) + paddleocr PP-OCRv6) agree on 99% of the word sequence and 86% of the 746 figures, 100% dictionary-recognizable; 25 heading/letterhead token(s) lost their word spacing in extraction and are left as-is rather than reconstructed; NOT human-verified — treat every number as unchecked against the source.
+Extraction: no text layer in the source PDF; text recovered by OCR. Two independent engines (tesseract (ocrmypdf) + paddleocr PP-OCRv6) agree on 99% of the word sequence and 86% of the 746 figures, 99% dictionary-recognizable; 25 heading/letterhead token(s) lost their word spacing in extraction and are left as-is rather than reconstructed; NOT human-verified — treat every number as unchecked against the source.
 
 ## Cross-references
 
