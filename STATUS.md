@@ -7,9 +7,9 @@ Generated 2026-08-02. Non-authoritative; see DISCLAIMER.md.
 | doc_type | count |
 |---|---|
 | collective_bargaining_agreement | 160 |
-| letter_of_agreement | 72 |
+| letter_of_agreement | 77 |
 
-**Total: 232**
+**Total: 237**
 
 ## Source manifest
 
@@ -17,7 +17,7 @@ Generated 2026-08-02. Non-authoritative; see DISCLAIMER.md.
 
 ## Freshness (reverify every 180 days)
 
-232 of 232 document(s) overdue for re-verification.
+237 of 237 document(s) overdue for re-verification.
 
 | id | doc_type | last_verified |
 |---|---|---|
@@ -66,10 +66,10 @@ Generated 2026-08-02. Non-authoritative; see DISCLAIMER.md.
 | deschutes-county-foppo-contract-july-1-2023-june-30-2026 | collective_bargaining_agreement | never |
 | deschutes-county-iuoe-local-701-contract-july-22-2023-june-30-2026 | collective_bargaining_agreement | never |
 | deschutes-county-mou-9-1-1-cola-methodology-change-dc-2025-671 | letter_of_agreement | never |
+| deschutes-county-mou-9-1-1-continued-admin-and-supervisor-floor-coverage-dc-2022-999 | letter_of_agreement | never |
 | deschutes-county-mou-9-1-1-dispatcher-and-call-taker-position-incentives-dc-2022-569 | letter_of_agreement | never |
 | deschutes-county-mou-9-1-1-regarding-section-16-g-1-dc-2022-576 | letter_of_agreement | never |
 | deschutes-county-mou-afscme-behavioral-health-clinical-supervision-incentive-program-dc-2023-1035 | letter_of_agreement | never |
-| deschutes-county-mou-afscme-bh-service-area-position-incentives-dc-2025-709 | letter_of_agreement | never |
-| deschutes-county-mou-afscme-crisis-program-employees-dc-2025-710 | letter_of_agreement | never |
-| … | *182 more* | |
+| deschutes-county-mou-afscme-bh-cadc-incentive-program-dc-2022-744 | letter_of_agreement | never |
+| … | *187 more* | |
 
