@@ -182,11 +182,15 @@ def html_main_text(page: str) -> str:
 
 def write_doc(county: dict, rec: dict, doc_id: str, sha: str, pages: int, text: str,
               today: str, cba_by_union: dict, fetched_url: str,
-              src_fmt: str = "pdf", ocr: dict | None = None) -> Path:
+              src_fmt: str = "pdf", ocr: dict | None = None,
+              stub: dict | None = None) -> Path:
     family = rec["family"]
     title = rec["title"]
     union = union_of(title)
-    term, eff, exp = own_dates(text, rec.get("term"))
+    # A stub commits no text, so nothing text-derived is trusted: term only as the
+    # county's index stated it, no dates, no citations.
+    term, eff, exp = ((rec.get("term"), None, None) if stub
+                      else own_dates(text, rec.get("term")))
     # OCR text never feeds citations: a misread digit resolves to the wrong statute
     # while looking cited (see the OCR policy note at the top of this file).
     refs = [] if ocr else sorted({f"ORS {n}" for n in ORS.findall(text)} |
@@ -223,10 +227,21 @@ def write_doc(county: dict, rec: dict, doc_id: str, sha: str, pages: int, text: 
         "status": "current",
         "content_mode": "summary",
         **({"text_source": "ocr"} if ocr else {}),
+        **({"content_exception": "image-only scan whose machine readings failed "
+            "three-engine corroboration; no extraction committed, so the raw-byte "
+            "hash cannot be re-verified from a committed .txt"} if stub else {}),
+        **({"content_exception": "image-only scan whose machine readings failed "
+            "three-engine corroboration; no extraction committed, so the raw-byte "
+            "hash cannot be re-verified from a committed .txt"} if stub else {}),
         "reproduction_basis": ("jointly-authored contract; summary + official link per "
                                "the class determination in corpus.yml schema.doc_types "
                                "(verbatim: false)"),
         "conversion_notes": (
+            f"image-only scan; text WITHHELD — three OCR engines (tesseract, "
+            f"paddleocr, docTR) disagree ({stub['agreement']:.0%} best word-sequence "
+            f"agreement, {stub['figure_agreement']:.0%} on figures), so no machine "
+            f"reading earned the snapshot; source_sha256 hashes the raw PDF bytes; "
+            f"awaiting human transcription (issue #5)" if stub else
             occ.notes(ocr, ocr.get("engines", occ.ENGINES))
             + ("; the source PDF carries a digital signature — OCR ran "
                               "on a derived copy, the committed original preserves it"
@@ -263,6 +278,18 @@ def write_doc(county: dict, rec: dict, doc_id: str, sha: str, pages: int, text: 
     glance.append(f"- Source document: {pages} pages (PDF)" if src_fmt == "pdf" else
                   "- Source document: an HTML page — the county publishes this "
                   "instrument's text inline rather than as a PDF")
+    if stub:
+        glance.insert(0, "**METADATA-ONLY RECORD — no text is held.** This is an "
+                         "image-only scan whose machine readings failed three-engine "
+                         "corroboration (see conversion_notes). Everything on this page "
+                         "comes from the county's index listing; read the document "
+                         "itself at the official source link.")
+    if stub:
+        glance.insert(0, "**METADATA-ONLY RECORD — no text is held.** This is an "
+                         "image-only scan whose machine readings failed three-engine "
+                         "corroboration (see conversion_notes). Everything on this page "
+                         "comes from the county's index listing; read the document "
+                         "itself at the official source link.")
     if ocr:
         glance.append(f"- **The source is an image-only scan.** Its committed text is a "
                       f"machine reading corroborated by two independent OCR engines "
@@ -322,6 +349,11 @@ def main() -> int:
                                  formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--only", metavar="COUNTY")
     ap.add_argument("--limit", type=int, help="first N sources per county (smoke)")
+    ap.add_argument("--stubs", action="store_true",
+                    help="ingest scans that fail the OCR gate as METADATA-ONLY stubs "
+                         "(content_exception; no text committed) — issue #5's terminal "
+                         "state for all-engine disagreements, upgradeable by human "
+                         "transcription later")
     ap.add_argument("--ocr", action="store_true",
                     help="recover image-only scans with ocrmypdf (tesseract) — see the "
                          "OCR policy note in this docstring")
@@ -461,6 +493,23 @@ def main() -> int:
                                     f"outvoted by the tesseract+docTR pair")
                                 s = s3
                     if not (s["gate_ok"] and s["agree_ok"]):
+                        if args.stubs:
+                            # METADATA-ONLY STUB (the ERF image-only-EO arrangement):
+                            # the document exists, its index facts and official link
+                            # serve, and NO machine reading is committed — three
+                            # engines disagreeing means none of their texts earns the
+                            # hash. Raw-byte hash of the PDF; content_exception says
+                            # why CI cannot re-verify it; a human transcription
+                            # upgrades this in place later.
+                            txt.unlink(missing_ok=True)
+                            sha = hash_snapshot(doc_id, src_fmt, SNAPSHOTS)
+                            out = write_doc(county, rec, doc_id, sha, pages, "",
+                                            today, cba_by_union, fetched_url,
+                                            src_fmt, None, stub=s)
+                            print(f"stub {out.relative_to(REPO_ROOT)}  (agreement "
+                                  f"{s['agreement']:.0%} — text withheld)")
+                            ok += 1
+                            continue
                         skipped.append(
                             f"{doc_id}: failed the two-engine gate incl. docTR tiebreak "
                             f"(agreement {s['agreement']:.0%}, figures "

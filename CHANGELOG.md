@@ -7,6 +7,14 @@ Repo-curation dates only — official effective dates live in frontmatter.
 ## [Unreleased]
 
 ### Added
+- 2026-08-02 — The 5 remaining OCR holds ingest as METADATA-ONLY stubs
+  (issue #5's terminal state): the document, its index-stated term, and the
+  official link serve; NO machine reading is committed, because three engines
+  disagree (32–71%) and none of their texts earned the hash. Each carries
+  `content_exception`, a raw-PDF-bytes `source_sha256`, and an At a glance
+  that leads with what it is. A human transcription upgrades a stub in place.
+  Every approved source in every county group is now accounted for: ingested,
+  stubbed, or (nothing remaining) — the OCR ledger closes.
 - 2026-08-02 — docTR joins the OCR stack as the tiebreaker (and as PaddleOCR's
   partner in the different-pair recovery for scans tesseract cannot read at
   all — the policy repo's EO pattern). 6 more scans recovered: Lane's two CBA

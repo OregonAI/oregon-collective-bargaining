@@ -1,7 +1,7 @@
 {
  "corpus": "oregon-collective-bargaining",
- "n_nodes": 232,
- "n_edges": 1017,
+ "n_nodes": 237,
+ "n_edges": 1019,
  "n_edges_external": 960,
  "nodes": [
   {
@@ -275,6 +275,12 @@
    "path": "agreements/deschutes-county/loa/deschutes-county-mou-9-1-1-cola-methodology-change-dc-2025-671.md"
   },
   {
+   "id": "deschutes-county-mou-9-1-1-continued-admin-and-supervisor-floor-coverage-dc-2022-999",
+   "title": "Deschutes County — MOU - 9-1-1 Continued Admin AND Supervisor Floor Coverage DC-2022-999",
+   "doc_type": "letter_of_agreement",
+   "path": "agreements/deschutes-county/loa/deschutes-county-mou-9-1-1-continued-admin-and-supervisor-floor-coverage-dc-2022-999.md"
+  },
+  {
    "id": "deschutes-county-mou-9-1-1-dispatcher-and-call-taker-position-incentives-dc-2022-569",
    "title": "Deschutes County — MOU - 9-1-1 Dispatcher AND Call Taker Position Incentives DC 2022-569",
    "doc_type": "letter_of_agreement",
@@ -291,6 +297,12 @@
    "title": "Deschutes County — MOU - AFSCME Behavioral Health Clinical Supervision Incentive Program DC-2023-1035",
    "doc_type": "letter_of_agreement",
    "path": "agreements/deschutes-county/loa/deschutes-county-mou-afscme-behavioral-health-clinical-supervision-incentive-program-dc-2023-1035.md"
+  },
+  {
+   "id": "deschutes-county-mou-afscme-bh-cadc-incentive-program-dc-2022-744",
+   "title": "Deschutes County — MOU AFSCME BH CADC Incentive Program DC 2022-744",
+   "doc_type": "letter_of_agreement",
+   "path": "agreements/deschutes-county/loa/deschutes-county-mou-afscme-bh-cadc-incentive-program-dc-2022-744.md"
   },
   {
    "id": "deschutes-county-mou-afscme-bh-service-area-position-incentives-dc-2025-709",
@@ -347,6 +359,12 @@
    "path": "agreements/deschutes-county/loa/deschutes-county-mou-afscme-termination-of-mous-dc-2025-712.md"
   },
   {
+   "id": "deschutes-county-mou-amendments-to-section-20-time-management-9-1-1-employees-association-mou-dc-2025-1163",
+   "title": "Deschutes County — MOU Amendments to Section 20 (Time Management) 9-1-1 Employees Association MOU DC-2025-1163",
+   "doc_type": "letter_of_agreement",
+   "path": "agreements/deschutes-county/loa/deschutes-county-mou-amendments-to-section-20-time-management-9-1-1-employees-association-mou-dc-2025-1163.md"
+  },
+  {
    "id": "deschutes-county-mou-dcdaa-cola-fy-22-23-dc-2022-387",
    "title": "Deschutes County — MOU DCDAA COLA FY 22/23 DC-2022-387",
    "doc_type": "letter_of_agreement",
@@ -369,6 +387,12 @@
    "title": "Deschutes County — MOU - DCDAA Tiers Implementation DC 2023-650",
    "doc_type": "letter_of_agreement",
    "path": "agreements/deschutes-county/loa/deschutes-county-mou-dcdaa-tiers-implementation-dc-2023-650.md"
+  },
+  {
+   "id": "deschutes-county-mou-dcsea-cola-modification-dc-2022-388",
+   "title": "Deschutes County — MOU DCSEA COLA Modification DC-2022-388",
+   "doc_type": "letter_of_agreement",
+   "path": "agreements/deschutes-county/loa/deschutes-county-mou-dcsea-cola-modification-dc-2022-388.md"
   },
   {
    "id": "deschutes-county-mou-dcsea-lateral-deputy-incentive-package-dc-2021-388",
@@ -1325,6 +1349,12 @@
    "path": "agreements/washington-county/loa/washington-county-wcpoa-moa-lateral-hiring-incentive-pay-6-14-2024.md"
   },
   {
+   "id": "washington-county-wcpoa-moa-longevity-and-education-pay-3-1-2024",
+   "title": "Washington County — WCPOA MOA Longevity and Education Pay 3/1/2024",
+   "doc_type": "letter_of_agreement",
+   "path": "agreements/washington-county/loa/washington-county-wcpoa-moa-longevity-and-education-pay-3-1-2024.md"
+  },
+  {
    "id": "washington-county-wcpoa-moa-paid-leave-oregon-and-impact-on-qpp-10-19-2023-pdf",
    "title": "Washington County — WCPOA MOA Paid Leave Oregon and impact on QPP 10/19/2023.pdf",
    "doc_type": "letter_of_agreement",
@@ -1759,6 +1789,11 @@
    "to": "deschutes-county-afscme-cba-2025-2030-dc-2025-597"
   },
   {
+   "from": "deschutes-county-mou-afscme-bh-cadc-incentive-program-dc-2022-744",
+   "type": "related",
+   "to": "deschutes-county-afscme-cba-2025-2030-dc-2025-597"
+  },
+  {
    "from": "deschutes-county-mou-afscme-bh-service-area-position-incentives-dc-2025-709",
    "type": "related",
    "to": "deschutes-county-afscme-cba-2025-2030-dc-2025-597"
@@ -1812,6 +1847,11 @@
    "from": "deschutes-county-mou-afscme-termination-of-mous-dc-2025-712",
    "type": "related",
    "to": "deschutes-county-afscme-cba-2025-2030-dc-2025-597"
+  },
+  {
+   "from": "deschutes-county-mou-dcsea-cola-modification-dc-2022-388",
+   "type": "related",
+   "to": "deschutes-county-dcsea-cba-july-1-2025-june-30-2026"
   },
   {
    "from": "deschutes-county-mou-dcsea-lateral-deputy-incentive-package-dc-2021-388",

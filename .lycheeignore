@@ -4,3 +4,10 @@
 # sloppy Location), and their rot is still watched: corpus-detect-changes fetches
 # every manifest URL on the weekly schedule, where a real failure surfaces.
 https://jacksoncountyor.gov/Document%20Center/.*
+
+# co.coos.or.us's TLS certificate EXPIRED 2026-08-03 (observed the moment it
+# happened: ingest succeeded 2026-08-02, the link check failed at 00:07 the next
+# day). The documents are still there behind the broken cert. Remove this block
+# when the county renews — tracked in an issue; the weekly drift job will also
+# complain until then, which is correct.
+https://co.coos.or.us/.*
