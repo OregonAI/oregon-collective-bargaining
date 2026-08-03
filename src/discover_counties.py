@@ -421,7 +421,9 @@ COUNTIES: dict[str, dict] = {
                                       "Hashed-directory static files (/files/<hash>/<name>.pdf) — "
                                       "a re-upload gets a NEW hash directory, so link-set diffs "
                                       "detect updates here. The old www.co.coos.or.us index URL "
-                                      "404s; not seeded.")]),
+                                      "404s; not seeded. TLS CERT EXPIRED 2026-08-03 (the day "
+                                      "after ingest) — documents intact behind the broken cert; "
+                                      "link checks ignore the host until renewal.")]),
         upstream="Hashed file paths mean upstream updates change URLs — index link-set diff is "
                  "the change signal.",
         header=[]),
