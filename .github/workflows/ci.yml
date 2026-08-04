@@ -26,9 +26,31 @@ jobs:
       # _meta/snapshots/ is excluded because a large corpus's snapshots would drag
       # hundreds of upstream URLs into a per-PR gate; upstream availability is what
       # the scheduled drift job is for.
+      #
+      # agreements/ JOINED THAT LIST AT THE VERBATIM FLIP, for exactly the snapshot
+      # reason: the bodies are now the contracts themselves, so every URL an employer
+      # and a union wrote into an agreement is inside them. The first run after the
+      # flip failed on nine — a county intranet page (web1.clackamas.us/des/
+      # drugtesting.html) cited by two 2020-era agreements, and a DHS form whose TLS
+      # chain lychee will not trust. NONE OF THOSE ARE ACTIONABLE HERE. A dead URL
+      # inside a ratified contract is a historical fact about that contract; editing
+      # it would alter the mirrored text, which is the one thing this corpus must
+      # never do, and provenance would reject the edit anyway. The set only grows as
+      # agreements are added.
+      #
+      # What this does NOT give up: source_url reachability, which is frontmatter and
+      # was never lychee's job — the weekly `drift` job in scheduled.yml fetches every
+      # source_url, which is the same "upstream availability lives in the scheduled
+      # job" split the snapshot exclusion above already makes. Relationship integrity
+      # is still gated here, by the workflow's own corpus-validate-frontmatter step.
+      #
+      # A surgical alternative — exclude by URL pattern rather than by path — is not
+      # available: the reusable workflow exposes only exclude-paths and accept-codes.
+      # Filed as corpus-toolkit#51.
       exclude-paths: |
         _meta/snapshots
         _meta/templates
+        agreements
 
   # EVERY COMMITTED GENERATED ARTIFACT MUST BE CURRENT, checked on every PR.
   #
