@@ -39,6 +39,7 @@ tags:
 - collective-bargaining
 - county
 - benton-county
+content_exception: 'extraction is not usable text (raw PDF, not an extraction (starts with %PDF-)); no verbatim text can be published from it, so this document stays metadata-only until the source is re-extracted'
 ---
 
 > **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated

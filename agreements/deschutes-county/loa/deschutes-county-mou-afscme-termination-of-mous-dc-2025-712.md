@@ -19,9 +19,8 @@ retrieved: '2026-08-02'
 source_sha256: 34454299fe8470dc98ba379fcbdc85d4ad0b3eed6022bdcdfe744cb387cda57a
 snapshot_policy: hash-only
 status: current
-content_mode: summary
-reproduction_basis: 'jointly-authored contract; summary + official link per the class determination
-  in corpus.yml schema.doc_types (verbatim: false)'
+content_mode: 'verbatim'
+reproduction_basis: 'public record of a public body (ORS 192.311-192.478); the employer publishes the executed agreement in full at source_url; a ratified agreement is an official act (Georgia v. Public.Resource.Org, 590 U.S. 255 (2020)) — mirrored in full per the class determination in corpus.yml schema.doc_types (verbatim: true)'
 conversion_notes: pdftotext -layout; 1 pages, 1299 characters extracted; NOT human-verified
 last_verified: ''
 verified_by: ''
@@ -39,8 +38,8 @@ tags:
 - deschutes-county
 ---
 
-> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated
-> summary, not the agreement's official text. Verify against the official
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a non-authoritative
+> mirror of the agreement's text, not the official record. Verify against the official
 > source: <https://www.deschutescounty.gov/DocumentCenter/View/1924/MOU-AFSCME-Termination-of-MOUs-DC-2025-712> (retrieved 2026-08-02).
 
 # Deschutes County — MOU AFSCME Termination of MOUs DC-2025-712
@@ -51,10 +50,6 @@ Letter of agreement / MOU under **Deschutes County** and **AFSCME** — **2025-2
 - Listed on the county's labor agreements index as: “MOU AFSCME Termination of MOUs DC-2025-712” (index archived in `_meta/discovery/`)
 - Source document: 1 pages (PDF)
 
-This corpus is **summary-first for agreements**: the contract's text is not
-reproduced here (see Curator notes), and nothing on this page states or
-paraphrases the agreement's terms. Read the agreement itself at the official
-source link above.
 
 ## Curator notes
 
@@ -72,3 +67,43 @@ Statutes and rules the document's text cites are recorded in frontmatter
 `relationships.references_external` (0 citation(s)) and resolve into
 `executive-regulatory-frameworks` as cites — this corpus asserts no
 `implements` edge anywhere.
+
+## Full text
+
+Deschutes County (the "County") and the American Federation of State, County and Municipal
+Employees Local 3997 ("AFSCME") completed negotiations for the 2025-2030 Collective
+Bargaining Agreement. As a result of those negotiations, the parties agreed to terminate the
+following Memorandum Understandings that were previously agreed to between the parties
+effective upon execution of this document.
+
+
+
+   1. Deschutes County Document# 202 1-896
+   2. Deschutes County Document# 2021-897
+   3. Deschutes County Document# 2022-351
+   4 . Deschutes County Document# 2022-353
+   5. Deschutes County Document# 2022-385
+   6. Deschutes County Document# 2022-386
+   7. Deschutes County Document # 2022-549
+   8. Deschutes County Document# 2023-211
+
+
+Agreed to this _ _
+                 / _day of        JvLy        •' 2025.
+
+
+
+  IJ irk--- ~                 -------
+                                                                      ~
+Nick Lelack                                         Brenda Johnson
+for Deschutes County                                for Oregon AFSC
+
+
+                                                    _6.3025_ _ _ __ _ _ _ __
+Date                                                Date
+
+
+
+
+                                                                         D,t · 2025 • 7 ··1 2
+

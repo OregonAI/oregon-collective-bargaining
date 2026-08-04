@@ -100,8 +100,8 @@ This document is available in accessible format upon request
 
 
 
-ARTICLE 1 PREAMBLE                                                -1-
-ARTICLE 2 DEFINITIONS                                             -2-
+### ARTICLE 1 PREAMBLE                                                -1-
+### ARTICLE 2 DEFINITIONS                                             -2-
      I.      Full-Time Employee                                   -2-
      II.     FTE, or Full-Time Equivalency                        -2-
      III.    Part-Time Employee                                   -2-
@@ -113,13 +113,13 @@ ARTICLE 2 DEFINITIONS                                             -2-
      IX.     On-Call Employee                                     -4-
      X.      Limited Duration Employee                            -4-
      XI.     Supervisor                                           -5-
-ARTICLE 3 RECOGNITION                                             -6-
+### ARTICLE 3 RECOGNITION                                             -6-
      I.      Definition of Unit                                   -6-
      II.     Temporary Employees and Temporary List               -6-
      III.    Certification of Union Officers                      -6-
      IV.     Certification of County Designee                     -6-
-ARTICLE 4 MANAGEMENT RIGHTS                                       -7-
-ARTICLE 5 UNION SECURITY, REPRESENTATION AND BUSINESS             -8-
+### ARTICLE 4 MANAGEMENT RIGHTS                                       -7-
+### ARTICLE 5 UNION SECURITY, REPRESENTATION AND BUSINESS             -8-
      I.      Rights of Bargaining Unit Employees                  -8-
      II.     Union Security and Check-off                         -8-
              A.      Deduction of Union Dues                      -8-
@@ -140,13 +140,13 @@ ARTICLE 5 UNION SECURITY, REPRESENTATION AND BUSINESS             -8-
             E.     Union Business                                                         - 12 -
             F.     Union Business Leave – Employment Status                               - 15 -
             G.     Visits by Union Representatives                                        - 15 -
-ARTICLE 6 NO STRIKE OR LOCKOUT                                                            - 16 -
+### ARTICLE 6 NO STRIKE OR LOCKOUT                                                            - 16 -
      I.     No Strike                                                                     - 16 -
      II.    Crossing of Picket Lines                                                      - 16 -
      III.   Employee Disciplinary Action                                                  - 16 -
      IV.    No Lockout                                                                    - 16 -
      V.     Informational Picketing                                                       - 17 -
-ARTICLE 7 HOLIDAYS                                                                        - 18 -
+### ARTICLE 7 HOLIDAYS                                                                        - 18 -
      I.     Holidays                                                                      - 18 -
             A.     Recognized and Observed Holidays                                       - 18 -
             B.     Hours of Paid Leave on Observed Holidays                               - 19 -
@@ -158,7 +158,7 @@ ARTICLE 7 HOLIDAYS                                                              
             Five Consecutive Day Work Week                                                - 21 -
      III.   Holiday Pay                                                                   - 21 -
      IV.    Holiday During Leave                                                          - 21 -
-ARTICLE 8 VACATION LEAVE                                                                  - 22 -
+### ARTICLE 8 VACATION LEAVE                                                                  - 22 -
      I.     Accrual                                                                       - 22 -
      II.    Table of Vacation Accrual Rates                                               - 22 -
      III.   Charging                                                                      - 23 -
@@ -166,7 +166,7 @@ ARTICLE 8 VACATION LEAVE                                                        
      V.     Use and Scheduling of Accrued Vacation                                        - 23 -
      VI.    Use of Accrued Vacation for Sick Leave and Other Purposes                     - 23 -
      VII.   Conversion of Sick Leave                                                      - 23 -
-ARTICLE 9 SICK LEAVE, FITNESS FOR DUTY, AND DISABILITY INSURANCE                          - 25 -
+### ARTICLE 9 SICK LEAVE, FITNESS FOR DUTY, AND DISABILITY INSURANCE                          - 25 -
      I.     Paid Sick Leave                                                               - 25 -
             A.     Definition and Allowable Use                                           - 25 -
             B.     Accrual                                                                - 26 -
@@ -187,7 +187,7 @@ ARTICLE 9 SICK LEAVE, FITNESS FOR DUTY, AND DISABILITY INSURANCE                
      IV.    Disability Insurance and Catastrophic Leave                                - 31 -
             A.     Disability Insurance                                                - 31 -
             B.     Catastrophic Leave Program                                          - 32 -
-ARTICLE 10 OTHER LEAVES                                                                - 34 -
+### ARTICLE 10 OTHER LEAVES                                                                - 34 -
      I.     Unpaid Leaves of Absence                                                   - 34 -
             A.     Use of Leave                                                        - 34 -
             B.     Failure to Return from Leave                                        - 34 -
@@ -201,7 +201,7 @@ ARTICLE 10 OTHER LEAVES                                                         
      VI.    Immigration Leave                                                          - 37 -
      VII.   Inclement Weather and Natural Disasters Policy                             - 37 -
             A.     Inclement Weather and Natural Disasters                             - 37 -
-ARTICLE 11 HEALTH AND WELFARE                                                          - 38 -
+### ARTICLE 11 HEALTH AND WELFARE                                                          - 38 -
      I.     Medical and Dental Insurance                                               - 38 -
             A.     Definitions and Contributions Toward Insurance Premiums             - 38 -
             B.     Health Care Plan Changes During the Term of Agreement               - 42 -
@@ -233,7 +233,7 @@ III.                52ARTICLE 12 WORKERS’ COMPENSATION AND SUPPLEMENTAL BENEFI
        V.     Denied Claims                                                           - 56 -
        VI.    Benefits                                                                - 56 -
        VII.   Borrowing of Sick Leave                                                 - 56 -
-ARTICLE 13 WORK SCHEDULES                                                             - 57 -
+### ARTICLE 13 WORK SCHEDULES                                                             - 57 -
        I.     Posting of Work Schedules                                               - 57 -
        II.    Right to Compensation for Regularly Scheduled Hours                     - 57 -
        III.   Work Days and Days Off                                                  - 57 -
@@ -254,7 +254,7 @@ ARTICLE 13 WORK SCHEDULES                                                       
 
 
              B.      Applications                                                     - 62 -
-ARTICLE 14 COMPENSATION                                                               - 63 -
+### ARTICLE 14 COMPENSATION                                                               - 63 -
      I.      Wage Adjustments                                                         - 63 -
              A.      July 1, 2023                                                     - 63 -
              B.      July 1, 2024                                                     - 63 -
@@ -284,7 +284,7 @@ ARTICLE 14 COMPENSATION                                                         
      XIV.    Training Pay                                                             - 71 –
      XV.     Essential Employee Pay                                                   - 71 -
      XVI.    Longevity Pay                                                            - 71 -
-ARTICLE 15 CLASSIFICATIONS AND PAY RANGES                                             - 72 -
+### ARTICLE 15 CLASSIFICATIONS AND PAY RANGES                                             - 72 -
      I.      Wage Schedule                                                            - 72 -
      II.     Step Placement and Seniority Dates                                       - 72 -
 
@@ -300,7 +300,7 @@ ARTICLE 15 CLASSIFICATIONS AND PAY RANGES                                       
             A.     Work Out of Class                                       - 74 -
             B.     Temporary Appointments                                  - 75 -
             C.     Training Positions                                      - 76 -
-ARTICLE 16 PENSIONS                                                        - 78 -
+### ARTICLE 16 PENSIONS                                                        - 78 -
      I.     PERS Membership                                                - 78 -
      II.    Sick Leave in Application to Final Average Salary (PERS)       - 78 -
      III.   PERS Pick-up                                                   - 78 -
@@ -316,7 +316,7 @@ ARTICLE 16 PENSIONS                                                        - 78 
             G.     Part-Time Prorating                                     - 81 -
             H.     Requirement to Continuously Participate                 - 81 -
             I.     State and Federal Tax Offset                            - 82 -
-ARTICLE 17 DISCIPLINARY ACTION                                             - 83 -
+### ARTICLE 17 DISCIPLINARY ACTION                                             - 83 -
      I.     Forms of Discipline for Cause and Notice Requirements          - 83 -
      II.    Definition of Cause                                            - 83 -
      III.   Appeal Rights                                                  - 83 -
@@ -325,7 +325,7 @@ ARTICLE 17 DISCIPLINARY ACTION                                             - 83 
             C.     Other                                                   - 84 -
      IV.    Manner of Accomplishing Reprimands                             - 84 -
      V.     No Abridgement of Rights                                       - 84 -
-ARTICLE 18 SETTLEMENT OF DISPUTES                                          - 85 -
+### ARTICLE 18 SETTLEMENT OF DISPUTES                                          - 85 -
 
                             TABLE OF CONTENTS
 7
@@ -342,7 +342,7 @@ ARTICLE 18 SETTLEMENT OF DISPUTES                                          - 85 
              A.       The Union as Exclusive Representative                                  - 89 -
              B.       Stewards                                                               - 89 -
      V.      Unfair Labor Practices                                                          - 90 -
-ARTICLE 19 MODIFICATION OF WORK PERFORMED BY THE BARGAINING UNIT:
+### ARTICLE 19 MODIFICATION OF WORK PERFORMED BY THE BARGAINING UNIT:
 CONTRACTING, INTERGOVERNMENTAL AGREEMENTS, AND USE OF VOLUNTEERS                             - 91 -
      I.      Contracting                                                                     - 91 -
              A.       Limitations on Contracting                                             - 91 -
@@ -352,13 +352,13 @@ CONTRACTING, INTERGOVERNMENTAL AGREEMENTS, AND USE OF VOLUNTEERS                
      III.    Rights and Benefits of Employees Involved in Consolidation, Merger, and Acquisition of
              Positions                                                                       - 92 -
      IV.     Volunteers                                                                      - 92 -
-ARTICLE 20 WORKLOADS AND STANDARDS, TRAINING, AND PERFORMANCE
+### ARTICLE 20 WORKLOADS AND STANDARDS, TRAINING, AND PERFORMANCE
 EVALUATION                                                                                   - 94 -
      I.      Workloads and Standards                                                         - 94 -
      II.     Employee Development and Training                                               - 94 -
      III.    Performance Evaluation                                                          - 95 -
      IV.     95
-ARTICLE 21 SENIORITY AND LAYOFFS                                                             - 96 -
+### ARTICLE 21 SENIORITY AND LAYOFFS                                                             - 96 -
      I.      Definition of Seniority                                                         - 96 -
      II.     Computation of Seniority                                                        - 96 -
              A.       Seniority at contract signing                                          - 96 -
@@ -384,7 +384,7 @@ ARTICLE 21 SENIORITY AND LAYOFFS                                                
              A.       Seniority List Posting                                              - 101 -
              B.       Seniority List Appeal Process: Errors on new lists                  - 101 -
      IX.     Special Provisions to Save Employees From Layoff                             - 102 -
-ARTICLE 22 SHIFT AND WORK ASSIGNMENT                                                      - 103 -
+### ARTICLE 22 SHIFT AND WORK ASSIGNMENT                                                      - 103 -
      I.      Vacancy Defined                                                              - 103 -
      II.     Temporary Assignments                                                        - 103 -
      III.    Permanent Assignments                                                        - 103 -
@@ -393,13 +393,13 @@ ARTICLE 22 SHIFT AND WORK ASSIGNMENT                                            
              C.       Vacancies Following the Biennial Signup                             - 103 -
              D.       Pod Closure                                                         - 103 -
      IV.     Change of Work Scheduling/Shift System and Signup                            - 105 -
-ARTICLE 23 PERSONNEL RULES AND RECORDS                                                    - 106 -
+### ARTICLE 23 PERSONNEL RULES AND RECORDS                                                    - 106 -
      I.      Personnel Rules                                                              - 106 -
      II.     Personnel Records and Information                                            - 106 -
              A.       Definition                                                          - 106 -
              B.       Access to Personnel File Materials                                  - 106 -
              C.       Removal of File Materials                                           - 106 -
-ARTICLE 24 HEALTH & SAFETY                                                                - 108 -
+### ARTICLE 24 HEALTH & SAFETY                                                                - 108 -
      I.      Policy Statement                                                             - 108 -
      II.     Reporting Unsafe Conditions and Employee Rights to Refuse Work               - 108 -
      III.    Safety Records and Disclosure to Employees                                   - 109 -
@@ -410,7 +410,7 @@ ARTICLE 24 HEALTH & SAFETY                                                      
 
 
      V.      Staffing                                                           - 109 -
-ARTICLE 25 GENERAL PROVISIONS                                                   - 110 -
+### ARTICLE 25 GENERAL PROVISIONS                                                   - 110 -
      I.      No Discrimination                                                  - 110 -
              A.       Contractually Prohibited Discrimination                   - 110 -
      II.     Legally Prohibited Discrimination and County Complaint Procedure   - 110 -
@@ -424,7 +424,7 @@ ARTICLE 25 GENERAL PROVISIONS                                                   
      VIII.   Loss of Personal Property                                          - 113 -
              A.       Procedure for Advancing Claims                            - 113 -
              B.       Exclusion of Personal Vehicles                            - 113 -
-ARTICLE 26 ON-CALL & TEMPORARY EMPLOYEES                                         -114-
+### ARTICLE 26 ON-CALL & TEMPORARY EMPLOYEES                                         -114-
      I.      Hours for On-Call Employees                                        - 114 -
      II.     Hours for Temporary Employees                                      - 114 -
      III.    Mandatory Training                                                 - 115 -
@@ -440,7 +440,7 @@ ARTICLE 26 ON-CALL & TEMPORARY EMPLOYEES                                        
      XIII.   Subpoenas                                                          - 118 -
      XIV.    Drug and Alcohol Policy                                            - 118 -
      XV.     Settlement of Disputes                                             - 118 -
-ARTICLE 27 SAVINGS CLAUSE AND FUNDING                                           - 119 -
+### ARTICLE 27 SAVINGS CLAUSE AND FUNDING                                           - 119 -
      I.      Savings Clause                                                     - 119 -
      II.     Funding                                                            - 119 -
 
@@ -448,9 +448,9 @@ ARTICLE 27 SAVINGS CLAUSE AND FUNDING                                           
 10
 
 
-ARTICLE 28 ENTIRE AGREEMENT                                                             - 120 -
-ARTICLE 29 PUBLIC SERVICE LOAN FORGIVENESS                                              - 121 -
-ARTICLE 30 TERMINATION                                                                  - 122 -
+### ARTICLE 28 ENTIRE AGREEMENT                                                             - 120 -
+### ARTICLE 29 PUBLIC SERVICE LOAN FORGIVENESS                                              - 121 -
+### ARTICLE 30 TERMINATION                                                                  - 122 -
 SIGNATURE PAGE                                                                          - 123 -
 ADDENDUM A CLASSIFICATION INCLUDED IN THE BARGAINING UNIT WITH PAY RANGE - 124 -
      Table I Juvenile Custody Services Specialist Contract 07/01/2023 rates             - 124 -
@@ -504,8 +504,8 @@ ADDENDUM D DRUG AND ALCOHOL POLICY                                              
               M.     Under the Influence of Drugs                                            - 139 -
         V.    Sample Last Chance Agreement                                                   - 139 -
 ADDENDUM E SENIORITY LISTING AS OF DATE OF CONTRACT SIGNING                                  - 143 -
-Memorandum of Understanding: Floaters                                                        - 146 -
-Memorandum of Agreement: Investigation Notices                                               - 148 -
+### Memorandum of Understanding: Floaters                                                        - 146 -
+### Memorandum of Agreement: Investigation Notices                                               - 148 -
 INDEX                                                                                        -151 -
 
 
@@ -526,7 +526,7 @@ INDEX                                                                           
 
 
 
-                                            ARTICLE 1
+### ARTICLE 1
                                            PREAMBLE
 
 
@@ -551,7 +551,7 @@ follows:
 
 
 
-                                         ARTICLE 2
+### ARTICLE 2
                                         DEFINITIONS
 
 
@@ -675,7 +675,7 @@ under the PECBA. Neither contractors nor community partners supervise employees.
 
 
 
-                                      ARTICLE 3
+### ARTICLE 3
                                     RECOGNITION
 
 
@@ -715,7 +715,7 @@ administration.
 
 
 
-                                      ARTICLE 4
+### ARTICLE 4
                                MANAGEMENT RIGHTS
 
 
@@ -739,7 +739,7 @@ or general law, are not subject to the grievance procedure.
 
 
 
-                                      ARTICLE 5
+### ARTICLE 5
                        UNION SECURITY, REPRESENTATION
                                      AND BUSINESS
 
@@ -1022,7 +1022,7 @@ The Union agrees that such visits will cause no disruptions or interruptions of 
 
 
 
-                                        ARTICLE 6
+### ARTICLE 6
                                NO STRIKE OR LOCKOUT
 
 
@@ -1077,7 +1077,7 @@ work rules of the County organization to which they are assigned.
 
 
 
-                                       ARTICLE 7
+### ARTICLE 7
                                        HOLIDAYS
 
 
@@ -1217,7 +1217,7 @@ occurs, such holiday shall not be charged against such leave.
 
 
 
-                                         ARTICLE 8
+### ARTICLE 8
                                        VACATION LEAVE
 
 
@@ -1317,7 +1317,7 @@ leave into their vacation bank.
 
 
 
-                                     ARTICLE 9
+### ARTICLE 9
                          SICK LEAVE, FITNESS FOR DUTY,
                            AND DISABILITY INSURANCE
 
@@ -1625,7 +1625,7 @@ ARTICLE 9, SICK LEAVE, FITNESS FOR DUTY, AND DISABILITY INSURANCE
 
 
 
-                                      ARTICLE 10
+### ARTICLE 10
                                     OTHER LEAVES
 
 
@@ -1775,7 +1775,7 @@ personal or saved holiday or vacation leave.
 
 
 
-                                        ARTICLE 11
+### ARTICLE 11
                                    HEALTH AND WELFARE
 
 
@@ -2368,7 +2368,7 @@ coverage upon retirement.
 
 
 
-                                      ARTICLE 12
+### ARTICLE 12
                          WORKERS’ COMPENSATION AND
                              SUPPLEMENTAL BENEFITS
 
@@ -2475,7 +2475,7 @@ ARTICLE 12, WORKERS’ COMPENSATION AND SUPPLEMENTAL BENEFITS
 
 
 
-                                       ARTICLE 13
+### ARTICLE 13
                                   WORK SCHEDULES
 
 
@@ -2693,7 +2693,7 @@ ending time.
 
 
 
-                                     ARTICLE 14
+### ARTICLE 14
                                   COMPENSATION
 
 
@@ -3031,7 +3031,7 @@ premium or incentive pay.
 
 
 
-                                      ARTICLE 15
+### ARTICLE 15
                         CLASSIFICATIONS AND PAY RANGES
 
 
@@ -3253,7 +3253,7 @@ Union the opportunity to comment.
 
 
 
-                                    ARTICLE 16
+### ARTICLE 16
                                      PENSIONS
 
 
@@ -3428,7 +3428,7 @@ percent (40%) of premium so that net County costs will remain unchanged.)
 
 
 
-                                      ARTICLE 17
+### ARTICLE 17
                                  DISCIPLINARY ACTION
 
 
@@ -3496,7 +3496,7 @@ employee so desires, they shall be afforded Union representation.
 
 
 
-                                      ARTICLE 18
+### ARTICLE 18
                              SETTLEMENT OF DISPUTES
 
 
@@ -3716,7 +3716,7 @@ excused, but may occur after the filing of the charge.
 
 
 
-                                       ARTICLE 19
+### ARTICLE 19
                         MODIFICATION OF WORK PERFORMED
                               BY THE BARGAINING UNIT:
                 CONTRACTING, INTERGOVERNMENTAL AGREEMENTS,
@@ -3803,7 +3803,7 @@ not replace a Juvenile Custody Services Specialist.
 
 
 
-                                     ARTICLE 20
+### ARTICLE 20
                          WORKLOADS AND STANDARDS,
                    TRAINING, AND PERFORMANCE EVALUATION
 
@@ -3880,7 +3880,7 @@ notices, which may impact their employment opportunities.
 
 
 
-                                       ARTICLE 21
+### ARTICLE 21
                                SENIORITY AND LAYOFFS
 
 
@@ -4129,7 +4129,7 @@ affected employees.
 
 
 
-                                      ARTICLE 22
+### ARTICLE 22
                           SHIFT AND WORK ASSIGNMENT
 
 
@@ -4225,7 +4225,7 @@ suggest alternatives.
 
 
 
-                                      ARTICLE 23
+### ARTICLE 23
                            PERSONNEL RULES AND RECORDS
 
 
@@ -4282,7 +4282,7 @@ For the purposes of this subsection "letter" includes all attachments.
 
 
 
-                                     ARTICLE 24
+### ARTICLE 24
                                HEALTH AND SAFETY
 
 
@@ -4360,7 +4360,7 @@ public.
 
 
 
-                                        ARTICLE 25
+### ARTICLE 25
                                  GENERAL PROVISIONS
 
 
@@ -4501,7 +4501,7 @@ damage to employees' personal vehicles is the sole responsibility of the employe
 
 
 
-                                      ARTICLE 26
+### ARTICLE 26
                       ON-CALL & TEMPORARY EMPLOYEES
 
 
@@ -4685,7 +4685,7 @@ and IX of this Agreement.
 119
 
 
-                                       ARTICLE 27
+### ARTICLE 27
                           SAVINGS CLAUSE AND FUNDING
 
 
@@ -4725,7 +4725,7 @@ precluded by State or Federal law or administrative regulation.
 
 
 
-                                     ARTICLE 28
+### ARTICLE 28
                                 ENTIRE AGREEMENT
 
 
@@ -4760,7 +4760,7 @@ concerning matters of contract administration.
 
 
 
-                                    ARTICLE 29
+### ARTICLE 29
                PUBLIC SERVICE LOAN FORGIVENESS PROGRAM
 
 
@@ -4793,7 +4793,7 @@ by this Agreement.
 
 
 
-                                       ARTICLE 30
+### ARTICLE 30
                                      TERMINATION
 
 
@@ -5710,7 +5710,7 @@ Footnotes:
 146
 
 
-                          MEMORANDUM OF UNDERSTANDING
+### MEMORANDUM OF UNDERSTANDING
 
 
                                          I. The Parties
@@ -5756,7 +5756,7 @@ modify or terminate this Agreement for any reason.
 
 
 
-               MEMORANDUM OF UNDERSTANDING, FLOATERS
+### MEMORANDUM OF UNDERSTANDING, FLOATERS
 147
 
 
@@ -5772,11 +5772,11 @@ AFSCME Council Representative                 Labor Relations Manager
 
 
 
-             MEMORANDUM OF UNDERSTANDING, FLOATERS
+### MEMORANDUM OF UNDERSTANDING, FLOATERS
 148
 
 
-                           MEMORANDUM OF AGREEMENT
+### MEMORANDUM OF AGREEMENT
 
 
                                         I. The Parties
@@ -5822,7 +5822,7 @@ A.     Administrative investigations
           respondent a written summary of the outcome of the investigation. Such
           summary shall be provided within fourteen (14) calendar days of the
           completion of the investigation.
-        MEMORANDUM OF AGREEMENT, INVESTIGATION NOTICES
+### MEMORANDUM OF AGREEMENT, INVESTIGATION NOTICES
 149
 
 
@@ -5874,7 +5874,7 @@ Agreed to this ________ date of ____________, 2019
 For the Union:                                             For the County:
 
 
-        MEMORANDUM OF AGREEMENT, INVESTIGATION NOTICES
+### MEMORANDUM OF AGREEMENT, INVESTIGATION NOTICES
 150
 
 
@@ -5886,7 +5886,7 @@ AFSCME Council Representative          Labor Relations Manager
 
 
 
-       MEMORANDUM OF AGREEMENT, INVESTIGATION NOTICES
+### MEMORANDUM OF AGREEMENT, INVESTIGATION NOTICES
 151
 
 

@@ -341,7 +341,7 @@ endeavor to:
 
 
 PREAMBLE                                               7
-                                               ARTICLE 1
+### ARTICLE 1
 
                                              RECOGNITION
 
@@ -372,9 +372,9 @@ supervisor may perform limited bargaining unit duties as part of their regular w
 
 
 
-ARTICLE 1
+### ARTICLE 1
 RECOGNITION                                         8
-                                                ARTICLE 2
+### ARTICLE 2
 
                                          MANAGEMENT RIGHTS
 
@@ -423,9 +423,9 @@ deems necessary, provided that:
 
 
 
-ARTICLE 2
+### ARTICLE 2
 MANAGEMENT RIGHTS                                     9
-                                                 ARTICLE 3
+### ARTICLE 3
 
                                             DUES DEDUCTION
 
@@ -485,9 +485,9 @@ UNION to the COUNTY by the second (2nd) Wednesday of the second (2nd) pay period
 
 
 
-ARTICLE 3
+### ARTICLE 3
 DUES DEDUCTION                                        10
-                                                ARTICLE 4
+### ARTICLE 4
 
                                              UNION RIGHTS
 
@@ -546,7 +546,7 @@ Section 1.     UNION Activity
                purpose of any such discussion will be to provide the UNION an opportunity to clarify or
                modify its request as well as for the parties to agree to charges that are reflective of
                operative COUNTY regulations or standard procedures.
-ARTICLE 4
+### ARTICLE 4
 UNION RIGHTS                                         11
         (4)     Likewise similar procedures would be applied to the COUNTY for any information request
                 submitted to the UNION, but in no event shall the UNION assess rates that exceed the
@@ -607,9 +607,9 @@ designated representative. The UNION shall notify the Labor Relations Manager, o
 representative, of changes to this listing in a timely manner.
 
 
-ARTICLE 4
+### ARTICLE 4
 UNION RIGHTS                                        12
-                                                  ARTICLE 5
+### ARTICLE 5
 
                                     DISCIPLINE AND DISCHARGE
 
@@ -668,7 +668,7 @@ Section 1.     Causes for Discipline
        disciplinary action shall be provided to the employee within seven (7) calendar days from the date
        the COUNTY determines the investigation is complete. Calendar days shall not include any paid
        leave days. When the Department notifies the individual that a formal investigation is being
-ARTICLE 5
+### ARTICLE 5
 DISCIPLINE AND DISCHARGE                             13
         conducted which may result in discipline, the Department will also notify the UNION and advise
         the UNION of anticipated length of the investigation. This notification requirement shall not apply
@@ -729,7 +729,7 @@ Section 6.      Expedited Written Reprimand Process
 
         (2)     The facts upon which the discipline shall be based;
 
-ARTICLE 5
+### ARTICLE 5
 DISCIPLINE AND DISCHARGE                               14
        (3)     A date on which the employee and a UNION Representative must be present for receipt
                of this discipline, provided that date is no sooner than seven (7) days from service of this
@@ -738,9 +738,9 @@ DISCIPLINE AND DISCHARGE                               14
 
 
 
-ARTICLE 5
+### ARTICLE 5
 DISCIPLINE AND DISCHARGE                            15
-                                               ARTICLE 6
+### ARTICLE 6
 
                                        GRIEVANCE PROCEDURE
 
@@ -797,7 +797,7 @@ Section 2.      Grievance Steps
                 Relations Manager shall meet with the grievant and the designated representative no
                 later than fourteen (14) calendar days from receipt of the Step 2 appeal. In addition, they
                 may investigate and/or review as needed.
-ARTICLE 6
+### ARTICLE 6
 GRIEVANCE PROCEDURE                                 16
         (3)      The Department Director, or designee, shall provide the COUNTY’s written response
                  within fourteen (14) calendar days from the date of the Step 2 meeting.
@@ -858,7 +858,7 @@ Section 4.       General
 
 (D)     All grievance proceedings and reasonable investigation time, where practicable, shall be held
         during the regular business hours when county facilities are open, on COUNTY premises and
-ARTICLE 6
+### ARTICLE 6
 GRIEVANCE PROCEDURE                                    17
        without loss of pay or recrimination to the aggrieved party and/or a designated representative. It is
        understood that the COUNTY shall not incur overtime liability as a result of such proceedings or
@@ -884,9 +884,9 @@ Section 5.     Time Limits
 
 
 
-ARTICLE 6
+### ARTICLE 6
 GRIEVANCE PROCEDURE                                 18
-                                              ARTICLE 7
+### ARTICLE 7
 
                                        GENERAL PROVISIONS
 
@@ -945,7 +945,7 @@ Chapter 2, Section 7.
 
 
 
-ARTICLE 7
+### ARTICLE 7
 GENERAL PROVISIONS                                 19
 Section 6.      Work Rules
 
@@ -968,9 +968,9 @@ interest and is in accordance with COUNTY and Department policies.
 
 
 
-ARTICLE 7
+### ARTICLE 7
 GENERAL PROVISIONS                                 20
-                                               ARTICLE 8
+### ARTICLE 8
 
                                        SELECTION/PROMOTION
 
@@ -1029,9 +1029,9 @@ Section 2.      Probationary Period
         employee shall be entitled to all benefits under this Agreement except that they may not grieve
         termination.
 
-ARTICLE 8
+### ARTICLE 8
 SELECTION/PROMOTION                                 21
-                                                ARTICLE 9
+### ARTICLE 9
 
                                   HOURS OF WORK AND OVERTIME
 
@@ -1090,7 +1090,7 @@ employee shall normally receive two (2) consecutive days off, but not necessaril
                 responding to such exigent circumstances shall report to the employee’s supervisor at
                 the earliest reasonable opportunity.
 
-ARTICLE 9
+### ARTICLE 9
 HOURS OF WORK AND OVERTIME                           22
                If circumstances do not permit the flexing of time within the eighty (80) hour pay period,
                and with prior supervisory approval, the employee shall be paid or may, with mutual
@@ -1151,7 +1151,7 @@ Section 3.     Overtime
 (B)    Any compensatory time off over forty (40) hours not taken by the first (1st) pay period of April and
        the first (1st) pay period of October of each year shall be paid out at the employee's current
        straight time rate of pay.
-ARTICLE 9
+### ARTICLE 9
 HOURS OF WORK AND OVERTIME                          23
 (C)     Any unused accumulated compensatory time off shall be paid out at the time of termination,
         death or transfer to another department.
@@ -1212,7 +1212,7 @@ response to law enforcement inquiries outside of normal operating hours.
         (15) minute period shall be considered part of the fifteen (15) minute minimum. Overtime pay is
         subject to the provisions of Article 9, Section 3.
 
-ARTICLE 9
+### ARTICLE 9
 HOURS OF WORK AND OVERTIME                             24
 (B)    Assignment as after-hours duty officer will be made according to bargaining unit seniority with the
        most senior officer given the choice of which week to be after-hours duty officer. Once the entire
@@ -1247,9 +1247,9 @@ HOURS OF WORK AND OVERTIME                             24
 
 
 
-ARTICLE 9
+### ARTICLE 9
 HOURS OF WORK AND OVERTIME                          25
-                                                ARTICLE 10
+### ARTICLE 10
 
                                                   WAGES
 
@@ -1308,7 +1308,7 @@ Section 3.      New or Revised Classifications
 
 Should the COUNTY establish a new, or substantially modify an old or existing classification in the
 bargaining unit, the following shall apply:
-ARTICLE 10
+### ARTICLE 10
 WAGES                                                 26
 (A)     A proposed wage rate shall be established by the COUNTY and provided to the UNION.
 
@@ -1369,7 +1369,7 @@ include the following protocols:
         said Friday.
 
 
-ARTICLE 10
+### ARTICLE 10
 WAGES                                                 27
 Section 7.        Survival Skills Instructor Incentive
 
@@ -1426,9 +1426,9 @@ Section 10.       Recoupment of Overpayments
 
 
 
-ARTICLE 10
+### ARTICLE 10
 WAGES                                                     28
-                                              ARTICLE 11
+### ARTICLE 11
 
                                      LEAVE TIME AND HOLIDAYS
 
@@ -1487,7 +1487,7 @@ the purposes of this Article, an eligible and qualified employee shall mean any 
                follows:
 
 
-ARTICLE 11
+### ARTICLE 11
 LEAVE TIME AND HOLIDAYS                             29
                 (a)      During the week of a holiday, the COUNTY may permit part-time employees an
                          opportunity for modification of their work schedule so as to work additional hours
@@ -1548,7 +1548,7 @@ due to COUNTY requirements, the time off will be granted within the following th
 
 
 
-ARTICLE 11
+### ARTICLE 11
 LEAVE TIME AND HOLIDAYS                              30
 (E)     Holiday During Leave
 
@@ -1608,7 +1608,7 @@ Eligible, part time employees shall accrue and use time off under this program o
 the percentage of full-time the employee was paid in the previous two (2) pay periods as a base.
 
 
-ARTICLE 11
+### ARTICLE 11
 LEAVE TIME AND HOLIDAYS                               31
 (E)     Usage
 
@@ -1669,7 +1669,7 @@ shall be paid to the employee's personal representative at the current rate of p
                 than two (2) weeks ahead. All leave requests after January 15 shall be on a first come
                 first serve basis.
 
-ARTICLE 11
+### ARTICLE 11
 LEAVE TIME AND HOLIDAYS                             32
         (3)     Leave shall be scheduled by the COUNTY based primarily upon the needs of efficient
                 operation, the availability of relief, and being responsive to the needs of the employee to
@@ -1730,7 +1730,7 @@ request Time Management Donations through the following procedure:
                 see if other options are available. If it is found that no leave is available, the request will
                 be forwarded to the Department Director. If the Department Director concurs, the request
                 is forwarded to the HR Director for approval.
-ARTICLE 11
+### ARTICLE 11
 LEAVE TIME AND HOLIDAYS                              33
         (3)     Employees of the Department are notified of need and given an opportunity to donate. In
                 order for this policy to be most effective, employees should be given a specific period of
@@ -1791,7 +1791,7 @@ Section 4.      Paid Family Medical Leave
         otherwise prescribed by law. See the COUNTY's APM for more information.
 
 
-ARTICLE 11
+### ARTICLE 11
 LEAVE TIME AND HOLIDAYS                              34
 Section 5.     Non-Occupational Disability Leave
 
@@ -1852,7 +1852,7 @@ Section 6.     Bereavement
 
 (A)    Employees shall receive pay for lost work as a result of a death in the employee's immediate
        family to a maximum of three (3) days (need not be consecutive) pay, or if out of state travel is
-ARTICLE 11
+### ARTICLE 11
 LEAVE TIME AND HOLIDAYS                             35
         required, one (1) week’s pay, at the regular straight time hourly rate. The COUNTY may require
         verification of the family status. Immediate family shall be defined as parent (biological, adoptive,
@@ -1913,7 +1913,7 @@ Absence of an employee from duty, including any absence for a single day or part
 authorized by a specific grant or leave of absence under the provisions of this Agreement, shall be
 deemed to be an unexcused absence without pay and subject to disciplinary action up to and including
 discharge as provided for in Article 5 of this Agreement.
-ARTICLE 11
+### ARTICLE 11
 LEAVE TIME AND HOLIDAYS                               36
 Section 10.     Subrogation
 
@@ -1928,9 +1928,9 @@ seek reimbursement of disability wages.
 
 
 
-ARTICLE 11
+### ARTICLE 11
 LEAVE TIME AND HOLIDAYS                              37
-                                               ARTICLE 12
+### ARTICLE 12
 
                                       INSURANCE AND RELATED
 
@@ -1989,7 +1989,7 @@ Section 2.      Health Insurance Plans
                 business days following January 1 for each year of this Agreement.
 
 
-ARTICLE 12
+### ARTICLE 12
 INSURANCE AND RELATED                                38
        (6)       For all employees who elect the HDHP the employee’s monthly contribution is as follows:
                  Employee Only = $20; Employee + Other = $20.
@@ -2050,7 +2050,7 @@ The COUNTY agrees to enroll each eligible and qualified employee in the followin
 
 
 Section 4.       Retiree Benefits
-ARTICLE 12
+### ARTICLE 12
 INSURANCE AND RELATED                                39
 (A)    For employees who were transferred into COUNTY positions as part of the 1996 transfer of
        Parole and Probation from the State Department of Corrections to the COUNTY, the employee’s
@@ -2111,7 +2111,7 @@ Loss or damage to personal property shall be compensated for by the COUNTY, prov
 
 Section 6.     Employee Assistance Program
 
-ARTICLE 12
+### ARTICLE 12
 INSURANCE AND RELATED                                40
 The COUNTY shall continue to provide the voluntary, confidential counseling services of an Employee
 Assistance Program to employees covered by this Agreement. All information gathered through the
@@ -2128,9 +2128,9 @@ reopen the bargaining for this benefit.
 
 
 
-ARTICLE 12
+### ARTICLE 12
 INSURANCE AND RELATED                              41
-                                              ARTICLE 13
+### ARTICLE 13
 
                                                 SAFETY
 
@@ -2189,7 +2189,7 @@ Section 4.     Protective Clothing and Equipment
        issued item. Exceptions may be pre-approved at the discretion of the Division Manager.
        Employees must provide proof of purchase to the COUNTY to receive reimbursement.
 
-ARTICLE 13
+### ARTICLE 13
 SAFETY                                             42
 Section 5.     Firearms
 
@@ -2203,9 +2203,9 @@ SAFETY                                             42
 
 
 
-ARTICLE 13
+### ARTICLE 13
 SAFETY                                              43
-                                               ARTICLE 14
+### ARTICLE 14
 
                                                 TRAINING
 
@@ -2245,9 +2245,9 @@ Section 3.      Training Proposals
 
 
 
-ARTICLE 14
+### ARTICLE 14
 TRAINING                                             44
-                                                ARTICLE 15
+### ARTICLE 15
 
                                                 SENIORITY
 
@@ -2306,9 +2306,9 @@ seniority from the date of hire with Lane County.
 
 
 
-ARTICLE 15
+### ARTICLE 15
 SENIORITY                                             45
-                                               ARTICLE 16
+### ARTICLE 16
 
                                          LAYOFF AND RECALL
 
@@ -2367,7 +2367,7 @@ Section 3.     Opportunity for Work During Layoff
        source.
 
 
-ARTICLE 16
+### ARTICLE 16
 LAYOFF AND RECALL                                    46
 (B)     The COUNTY shall offer employment as temporary positions to employees on layoff within the
         employees' classifications on the basis of seniority as such positions become available. However,
@@ -2408,9 +2408,9 @@ the job.
 
 
 
-ARTICLE 16
+### ARTICLE 16
 LAYOFF AND RECALL                                    47
-                                                 ARTICLE 17
+### ARTICLE 17
 
                                               RELATIONSHIPS
 
@@ -2469,7 +2469,7 @@ Section 5.       Labor Relations Committee
         Committee to be held at a mutually convenient time and place and such meeting shall, if at all
         practicable, be scheduled within fourteen (14) days. Topics for discussion shall be exchanged
 
-ARTICLE 17
+### ARTICLE 17
 RELATIONSHIPS                                          48
        prior to any meeting and either party may refuse to discuss any matter. The Committee shall have
        no authority to amend the terms of this Agreement.
@@ -2480,9 +2480,9 @@ RELATIONSHIPS                                          48
 
 
 
-ARTICLE 17
+### ARTICLE 17
 RELATIONSHIPS                                      49
-                                                ARTICLE 18
+### ARTICLE 18
 
                                               TERMINATION
 
@@ -2527,9 +2527,9 @@ Labor Relations Manager                                    FOPPO Vice President
 
 
 
-ARTICLE 18
+### ARTICLE 18
 TERMINATION                                          50
-                                              APPENDIX A
+### APPENDIX A
 
                                     Flex-Staffed Classification Series
 
@@ -2541,7 +2541,7 @@ F023   Parole/Probation Officer 2
 
 
 
-ARTICLE 18
+### ARTICLE 18
 TERMINATION                                         51
                                                   SCHEDULE A
 

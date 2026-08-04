@@ -57,7 +57,7 @@ ARTICLE 17 - SETTLEMENT OF DISPUTES .....ccccccesssscssesseeeessenseneeneees 32
 ARTICLE 18 - MISCELLANEOUS PROVISIONS.......c:ccscstscteeesseseeesees 34
 
 ARTICLE 19 - TERMINATION AND CONTRACT NEGOTIATIONS                                           ........ 38
-                                           ARTICLE 1 - PREAMBLE
+### ARTICLE 1 - PREAMBLE
 
                 This Agreement is entered into by Coos County, a political subdivision of the State of Oregon,
 
@@ -77,7 +77,7 @@ Public Employee Collective Bargaining Act (PECBA).
 
 
 
-                                         ARTICLE 2 - RECOGNITION
+### ARTICLE 2 - RECOGNITION
 
                 Section 1.      The County recognizes the Union as the sole and exclusive bargaining
 
@@ -200,7 +200,7 @@ stepparent or stepchild of the individual, unless otherwise provided by law.
 
 
 
-                                  ARTICLE 3 - MANAGEMENT              RIGHTS
+### ARTICLE 3 - MANAGEMENT              RIGHTS
 
                The County shall retain the exclusive right to exercise the customary rights and functions of
 
@@ -211,7 +211,7 @@ reserved as County rights.
 
 
 
-                             ARTICLE 4 - UNION SECURITY AND CHECKOFF
+### ARTICLE 4 - UNION SECURITY AND CHECKOFF
 
                Section 1 — Union Security and Checkoff
 
@@ -453,7 +453,7 @@ matters pertinent to maintaining good employer/employee relationships; the annua
 mutual agreement. The meeting(s) will occur at a mutually convenient time and place.
 
 
-                                           ARTICLE 5 - WAGE RATES
+### ARTICLE 5 - WAGE RATES
 
                Section 1. Current Wage Rates and Classifications. The wage rates as shown in Exhibit A,
 
@@ -610,7 +610,7 @@ in which any such work is performed.
        fabric, shall be paid a hazardous duty premium of five percent (5%) of their base wage for all hours
 
        worked, rounded to the highest full hour.
-                         ARTICLE 6 - EMPLOYEES BENEFIT PLAN
+### ARTICLE 6 - EMPLOYEES BENEFIT PLAN
 
                 Section La,   Health Insurance.
 
@@ -736,7 +736,7 @@ the cash-outs, the employees accept responsibility for their decisions and the i
 PERS provides resources for employees on its website that may be useful in making an informed decision.”
 
 
-                                              ARTICLE 7 - HOLIDAYS
+### ARTICLE 7 - HOLIDAYS
 
                    All Employees shall be entitled to take the following legal and floating holidays with pay:
 
@@ -782,7 +782,7 @@ holiday.
 Roadmaster and the Employee will schedule a mutually convenient time for observance of the floating holidays.
 
 
-                                           ARTICLE 8 - VACATIONS
+### ARTICLE 8 - VACATIONS
 
                Section J. All Employees who have worked for the County for less than five (5) continuous
 
@@ -845,7 +845,7 @@ for.accrued vacation hours.
 counted for the purpose of determining the employee's accrual rate. The employee shall accrue vacation leave
 
 when on paid leave, providing that the employee returns to work at the end of such leave.
-                                            ARTICLE 9 - SICK LEAVE
+### ARTICLE 9 - SICK LEAVE
 
                 Section 1. Accrual. Employees shall accrue sick leave at the regular rates of pay, and at the rate
 
@@ -900,7 +900,7 @@ soon as practical after they schedule the appointment.   Failure to follow the n
 disciplinary action.
 
 
-                                         ARTICLE 10 - OTHER LEAVES
+### ARTICLE 10 - OTHER LEAVES
 
                 Section |. Unpaid Leaves of Absence.      The Roadmaster may, in his sole discretion and upon
 
@@ -1054,7 +1054,7 @@ and Procedures,        Leave in excess of that allowed by statute may be granted
 
 
 
-                                     ARTICLE 11 - WORK DAY —- WORK WEEK
+### ARTICLE 11 - WORK DAY —- WORK WEEK
 
                   Section 1. Work Week. The basic work week shall be 12:01 AM Monday through the following
 
@@ -1123,7 +1123,7 @@ operational needs of the County.     All time off requests shall be approved on 
 the event that two or more employees request the same time off on the same day, the senior employee(s) shall
 
 have preference for the time off.
-                                          ARTICLE 12 - OVERTIME
+### ARTICLE 12 - OVERTIME
 
                Section 2. Overtime Assignment
 
@@ -1184,7 +1184,7 @@ hours that an employee may have on June 15 of each year shall be paid to the emp
 regular rate of pay with the June paycheck.
 
 
-                                            ARTICLE 13 - SENIORITY
+### ARTICLE 13 - SENIORITY
 
                 Section 1. Definition.    Seniority is defined as the Employee's length of continuous paid service
 
@@ -1223,7 +1223,7 @@ make known to the Office Manager any corrections necessary.
 
 
 
-                                   ARTICLE 14 - FILLING OF VACANCIES
+### ARTICLE 14 - FILLING OF VACANCIES
 
                Section 1, Regular Vacancy.     A regular vacancy is created when the County creates a new
 
@@ -1280,7 +1280,7 @@ rate shall remain the same except that it will be capped at the maximum rate for
 
 
 
-                                             ARTICLE 15 - LAYOFFS
+### ARTICLE 15 - LAYOFFS
 
                 If the County determines the need for a reduction in its work force, at least four (4) weeks prior
 
@@ -1412,7 +1412,7 @@ actual or likely impact the misconduct has or would have on the County's operati
 the severity of the act.
 
 
-                                   ARTICLE 17 - SETTLEMENT OF DISPUTES
+### ARTICLE 17 - SETTLEMENT OF DISPUTES
 
                  Section 1. Grievance and Arbitration Procedure. The grievance and arbitration procedure shall
 
@@ -1542,7 +1542,7 @@ the absence of a Union official if the Employee requests Union representation,
 
 
 
-                               ARTICLE 18 - MISCELLANEOUS PROVISIONS
+### ARTICLE 18 - MISCELLANEOUS PROVISIONS
 
                 Section 1, Bulletin Boards.   Announcements, all new and existing work rules and work policies,
 
@@ -1712,7 +1712,7 @@ court order or as otherwise required by law.
 
 
 
-                    ARTICLE 19 - TERMINATION AND CONTRACT NEGOTIATIONS
+### ARTICLE 19 - TERMINATION AND CONTRACT NEGOTIATIONS
 
                Unless otherwise agreed, the effective date of this Agreement shail be July 1,2024. This
 

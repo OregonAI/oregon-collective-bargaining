@@ -89,7 +89,7 @@ affecting members of the bargaining unit as certified by the Employment Relation
 
 NOW, THEREFORE, IT IS AGREED AS FOLLOWS:
 
-                                                        ARTICLE 1 - RECOGNITION
+### ARTICLE 1 - RECOGNITION
 
 The Employer and the Agency recognize the Association as the sole and exclusive bargaining
 agent for: All classified employees of the State of Oregon, Department of Public Safety
@@ -109,7 +109,7 @@ duly executed by the parties.
                                                                                                  REV: 2017, 2019
 
 
-                                                ARTICLE 2 - MANAGEMENT RIGHTS
+### ARTICLE 2 - MANAGEMENT RIGHTS
 
 The parties agree that the Employer and the Agency have the right to operate and manage the
 Agency, including, but not limited to, the right: to maintain order and efficiency; to direct
@@ -127,7 +127,7 @@ specific provisions of this Agreement.
 
 
 2023-2025 Department of Public Safety Standards & Training      3                 Collective Bargaining Agreement
-                                   ARTICLE 3 - LAWS, REGULATIONS AND SAVINGS
+### ARTICLE 3 - LAWS, REGULATIONS AND SAVINGS
 
 This Agreement is subject to all applicable existing and future State and federal laws and
 regulations.
@@ -142,7 +142,7 @@ matters is not reached within a reasonable period of time and the proposed modif
 mandatory subject of bargaining, then the provision of Article 24 (Strikes, Lockouts and Picket
 Lines) shall not apply.
 
-       ARTICLE 4 - EQUAL EMPLOYMENT OPPORTUNITY AND AFFIRMATIVE ACTION
+### ARTICLE 4 - EQUAL EMPLOYMENT OPPORTUNITY AND AFFIRMATIVE ACTION
 
 Section 1.
 The provisions of this Agreement shall apply equally to all employees in the bargaining unit
@@ -168,7 +168,7 @@ Administrative Services, Labor Relations Unit will review the complaint, attempt
 and/or issue its findings to the employee and the Association. These complaints will not be
 subject to the grievance procedure.
 
-                                              ARTICLE 5 - ASSOCIATION SECURITY
+### ARTICLE 5 - ASSOCIATION SECURITY
 
 Section 1. Dues Deductions.
 On the first pay period of each month, the Agency shall deduct from the wages of employees
@@ -263,7 +263,7 @@ organization charts showing management positions and the positions they supervis
 
 
 
-                ARTICLE 6 - DISCIPLINE, DISCHARGE AND GRIEVANCE PROCEDURE
+### ARTICLE 6 - DISCIPLINE, DISCHARGE AND GRIEVANCE PROCEDURE
 
 Section 1.
 Grievances are defined as acts, omissions, applications or interpretation alleged to be
@@ -439,7 +439,7 @@ completion of the investigation.
                                                                                          REV: 2017, 2021,2023
 
 
-                                               ARTICLE 7 - PERSONNEL RECORDS
+### ARTICLE 7 - PERSONNEL RECORDS
 
 Section 1.
 The Chief Human Resources Office (CHRO) human resource information system is the system
@@ -503,7 +503,7 @@ excluding prohibited material.
                                                                                                        REV: 2021
 
 
-                                               ARTICLE 8 - FILLING OF VACANCIES
+### ARTICLE 8 - FILLING OF VACANCIES
 
 Section 1.
 The Agency desires to fill vacancies with the best qualified applicants available. The Agency is
@@ -533,7 +533,7 @@ Employer further agrees to notify employees if their application has been accept
 
 
 2023-2025 Department of Public Safety Standards & Training   11                   Collective Bargaining Agreement
-                                                       ARTICLE 9 - TRIAL SERVICE
+### ARTICLE 9 - TRIAL SERVICE
 
 Section 1.
 All employees appointed to a position shall serve an initial trial service period with the Agency
@@ -586,7 +586,7 @@ shall not have rights to appeal the Agency's decision.
                                                                                                REV: 2017, 2019
 
 
-                    ARTICLE 10 - CLASSIFICATION AND CLASSIFICATION CHANGES
+### ARTICLE 10 - CLASSIFICATION AND CLASSIFICATION CHANGES
 
 Section 1. Work Out of Classification
 A.    When an employee is assigned, in writing, by the Agency for a limited time period to
@@ -656,7 +656,7 @@ E.          Work Out-of-Classification Pending Upward Reclassification
                        resources information system as Work out of Classification – Pending Upward
                        Reclassification.
 
-           Article 10 Initiated Work Out-of-Classification Pending Upward Reclassification
+### Article 10 Initiated Work Out-of-Classification Pending Upward Reclassification
            1.      Work out of classification pending upward reclassification as a result of a request
                    for classification review under Article 10 shall be effective the date the
                    reclassification request was received by the Agency.
@@ -841,7 +841,7 @@ See LOA: Review of Classification and Compensation Plan
                                                                                              REV: 2017, 2021,2023
 
 
-                                                             ARTICLE 11 - LAYOFF
+### ARTICLE 11 - LAYOFF
 
 Section 1. Alternate to Layoff
 A.    When the Agency believes that a lack of funds requires a layoff, the Agency will notify
@@ -1104,7 +1104,7 @@ and retain their eligibility to be on the Agency Layoff list for recall.
 See LOA’s: Layoff – Pilot Program Voluntary Medical Separation
                                                                                                       REV: 2017
 
-                                                    ARTICLE 12 - HOURS OF WORK
+### ARTICLE 12 - HOURS OF WORK
 
 Section 1.
 The workweek shall begin at 12:01 a.m. Sunday and shall end at 12:00 midnight the following
@@ -1182,7 +1182,7 @@ appropriate rate of pay for all time worked over forty (40) hours in that workwe
 
 
 2023-2025 Department of Public Safety Standards & Training   24                Collective Bargaining Agreement
-                                                             ARTICLE 13 - HOLIDAYS
+### ARTICLE 13 - HOLIDAYS
 
 Section 1.
 The following compensable holidays shall be recognized:
@@ -1231,7 +1231,7 @@ basis which shall preclude the closure of state facilities.
 
 
 2023-2025 Department of Public Safety Standards & Training          25               Collective Bargaining Agreement
-                                                   ARTICLE 14 - VACATION LEAVE
+### ARTICLE 14 - VACATION LEAVE
 
 Section 1. Vacation Leave for Full-Time Employees.
 Vacation leave shall be accrued or prorated on the appropriate schedule below. Employees
@@ -1344,7 +1344,7 @@ Section 10.
                                                                                        REV: 2017, 2019, 2021,2023
 
 
-                                                         ARTICLE 15 - SICK LEAVE
+### ARTICLE 15 - SICK LEAVE
 
 Section 1. Accrual Rate of Sick Leave With Pay Credits.
 Full-time employees shall accrue eight (8) hours of sick leave with pay credits for each full
@@ -1448,7 +1448,7 @@ for in the DAS statewide Paid Leave Oregon Policy (60.000.04).
                                                                                                 REV: 2019, 2023
 
 
-                                                     ARTICLE 16 - OTHER LEAVES
+### ARTICLE 16 - OTHER LEAVES
 
 Section 1. Leaves With Pay.
 A.    Personal Leave. After completion of initial trial service, all regular, permanent, full-time
@@ -1591,7 +1591,7 @@ D.         Parental Leave. A parent shall be granted a leave of absence for a re
            parental leave.
                                                                                            REV: 2017, 2019, 2021
 
-                                         ARTICLE 17 - PERFORMANCE APPRAISAL
+### ARTICLE 17 - PERFORMANCE APPRAISAL
 
 Section 1. Quarterly Check-Ins.
 Supervisory managers shall conduct check-ins with their employees on a quarterly basis. If a
@@ -1606,7 +1606,7 @@ used for purposes of disciplinary action.
                                                                                                        REV: 2023
 
 
-                                           ARTICLE 18 - SALARY ADMINISTRATION
+### ARTICLE 18 - SALARY ADMINISTRATION
 
 Section 1. Step Increase.
 Employees shall be eligible for step increases following:
@@ -1699,7 +1699,7 @@ C.         The parties agree that pay advances will be kept to an absolute minim
            8.    Moving due to transfer or promotion
 SEE LOA: Bi-Weekly Pay Period
                                                                                                           REV: 2021
-                                                             ARTICLE 19 - OVERTIME
+### ARTICLE 19 - OVERTIME
 
 Section 1.
 This Article is intended only to provide a basis for the calculation of overtime and none of its
@@ -1779,7 +1779,7 @@ change with the employee.
 Sections 1-6 of this Article do not apply to employees exempt from FLSA.
                                                                                           REV: 2017,2023
 
-                                  ARTICLE 20 - HEALTH AND WELFARE INSURANCE
+### ARTICLE 20 - HEALTH AND WELFARE INSURANCE
 
 Section 1.
 An Employer contribution will be made for each eligible employee who has at least eighty (80)
@@ -1831,7 +1831,7 @@ savings.
                                                                                       REV: 2017, 2019, 2021,2023
 
 
-          ARTICLE 21 - TRAVEL, MILEAGE AND MOVING EXPENSE REIMBURSEMENT
+### ARTICLE 21 - TRAVEL, MILEAGE AND MOVING EXPENSE REIMBURSEMENT
 
 Section 1. Travel and Mileage Allowance.
 Reimbursements, requests to use personally owned vehicles for travel and procedures will be
@@ -1857,7 +1857,7 @@ Reimbursements and procedures will be in accordance with Department of Administr
 Services, Chief Human Resource Office Policy 40.055.10, and its successors. Changes in this
 policy will be automatically incorporated into this contract Article.
 
-                                                             ARTICLE 22 - SALARIES
+### ARTICLE 22 - SALARIES
 
 Section 1. Public Employees Retirement System (“PERS”) Members.
 For purposes of this Article, a PERS participating member is an employee who has established
@@ -1912,7 +1912,7 @@ See LOA: One-Time Payment COLA, Salary Range Truncation.
                                                                                       REV: 2017, 2019, 2021,2023
 
 
-                             ARTICLE 23 - STRIKES, LOCKOUTS AND PICKET LINES
+### ARTICLE 23 - STRIKES, LOCKOUTS AND PICKET LINES
 
 The Association agrees that during the life of this Agreement, the Association or its bargaining
 unit members will not authorize, instigate, aid or engage in any work stoppage, slowdown,
@@ -1931,7 +1931,7 @@ Any alleged violation of this Article by either party may be referred to the Emp
 Relations Board, the grievance arbitration procedure or may be pursued in the Courts at the
 discretion of the moving party as appropriate.
 
-                                                ARTICLE 24 - LEGISLATIVE ACTION
+### ARTICLE 24 - LEGISLATIVE ACTION
 
 Section 1.
 Provisions of this Agreement not requiring legislative funding or statutory changes before they
@@ -1952,7 +1952,7 @@ Should the legislature not be in session at the time agreement is reached, all o
 necessary for the implementation of this Agreement shall be submitted to the next session
 (whether regular or special) of the Legislative Assembly.
 
-                                         ARTICLE 25 - SUCCESSOR NEGOTIATIONS
+### ARTICLE 25 - SUCCESSOR NEGOTIATIONS
 
 Section 1.
 If one of the parties desires to modify the Agreement, either shall notify the other party in
@@ -1979,7 +1979,7 @@ may be paid to attend negotiations to inform particular discussions.
                                                                                                       REV: 2017
 
 
-                                               ARTICLE 26 - TERM OF AGREEMENT
+### ARTICLE 26 - TERM OF AGREEMENT
 
 Unless otherwise noted in the Agreement, this Agreement becomes effective on the date of
 ratification and expires on June 30, 2025. The Association shall send a letter informing the
@@ -1988,7 +1988,7 @@ specific ratification date of the Tentative Agreement.
                                                                                      REV: 2017, 2019, 2021,2023
 
 
-                                                         ARTICLE 27 - LEADWORK
+### ARTICLE 27 - LEADWORK
 
 Section 1.
 Leadwork duties shall be formally assigned in writing by the supervisor to employees who are
@@ -2014,7 +2014,7 @@ duties over two (2) or more employees for ten (10) consecutive calendar days or 
 provided the leadwork duties are not included in the classification specification for the
 employee’s position.
 
-                                   ARTICLE 28 - LABOR-MANAGEMENT COMMITTEE
+### ARTICLE 28 - LABOR-MANAGEMENT COMMITTEE
 
 Section 1. Purpose.
 In order to facilitate communication between the parties and to promote cooperative
@@ -2063,7 +2063,7 @@ Committee concept and shall determine whether to continue, modify or terminate i
 Labor/Management training offered by the Employer shall be provided to no more than three
 (3) DPSST Association representatives at no cost.
 
-                                                 ARTICLE 29 - CONTRACTING OUT
+### ARTICLE 29 - CONTRACTING OUT
 
 Section 1.
 The Association recognizes that the Employer has the management right, during the term of
@@ -2146,7 +2146,7 @@ work are not subject to the grievance procedure.
                                                                                                        REV: 2017
 
 
-                                                ARTICLE 31 - HEALTH AND SAFETY
+### ARTICLE 31 - HEALTH AND SAFETY
 
 
 
@@ -2167,7 +2167,7 @@ and shall make such equipment available to employees required to use such equipm
 Protective clothing and safety devices shall remain the property of the Agency and shall be
 returned to the Agency upon termination of employment.
 
-                          ARTICLE 32 - EDUCATION, TRAINING AND DEVELOPMENT
+### ARTICLE 32 - EDUCATION, TRAINING AND DEVELOPMENT
 
 Section 1.
 Employees who are directed in writing to attend educational courses or training sessions shall
@@ -2206,7 +2206,7 @@ offered training sufficient to maintain their certification.
                                                                                                      REV: 2023
 
 
-                                            ARTICLE 33 - INCLEMENT CONDITIONS
+### ARTICLE 33 - INCLEMENT CONDITIONS
 
 Section 1.
 The Employer/Agency will announce closures, delayed openings and/or curtailment to
@@ -2320,7 +2320,7 @@ compensated according to the approved leave.
                                                                                            REV: 2017, 2021,2023
 
 
-                                            ARTICLE 34 - POSITION DESCRIPTIONS
+### ARTICLE 34 - POSITION DESCRIPTIONS
 
 Position descriptions shall be in writing and will delineate the specific duties assigned to the
 position. A dated copy of the position description shall be given to the employee upon
@@ -2332,7 +2332,7 @@ employee's immediate supervisor.
 Nothing contained herein shall compromise the right or responsibility of the Agency to assign
 work consistent with class specifications.
 
-                                                   ARTICLE 35 - HARDSHIP LEAVE
+### ARTICLE 35 - HARDSHIP LEAVE
 
 Section 1.
 As used in this Article:
@@ -2391,7 +2391,7 @@ legitimate business reasons.
                                                                                                           REV: 2019
 
 
-                                                             ARTICLE 36 - UNIFORMS
+### ARTICLE 36 - UNIFORMS
 
 Section 1. Uniforms.
 If uniforms are required, the Employer agrees to the following:
@@ -2414,7 +2414,7 @@ Division.
 
 
 
-                                   ARTICLE 37 - LIMITED DURATION APPOINTMENT
+### ARTICLE 37 - LIMITED DURATION APPOINTMENT
 
 Section 1.
 Persons may be hired for special studies or projects of uncertain or limited duration which are
@@ -2443,7 +2443,7 @@ notification shall include the following:
                       classified regular status State employees are entitled to rights under the layoff
                       procedure starting from the prior class.
 
-                                                     ARTICLE 38 - DIFFERENTIALS
+### ARTICLE 38 - DIFFERENTIALS
 
 Section 1. Shift Differential.
 All employees required to work between 6:00 p.m. and 6:00 a.m. or Saturday or Sunday shall
@@ -2475,7 +2475,7 @@ hour that high work is performed.
                                                                                                  REV: 2017,2023
 
 
-              ARTICLE 39 - RECOUPMENT OF WAGE AND BENEFIT OVERPAYMENTS/
+### ARTICLE 39 - RECOUPMENT OF WAGE AND BENEFIT OVERPAYMENTS/
                                     UNDERPAYMENTS
 
 Section 1. Overpayments.
@@ -2532,7 +2532,7 @@ necessitated by a discrepancy between actual hours of paid time versus hours pro
 payroll purposes from one (1) pay period to another. The employee's pay and benefit
 entitlements may be adjusted on the following month's paycheck.
 
-                                        ARTICLE 40 – CALL BACK COMPENSATION
+### ARTICLE 40 – CALL BACK COMPENSATION
 
 Section 1.
 Call back is an occasion where an employee has been released from duty and is called back
@@ -2556,7 +2556,7 @@ employees for information not requiring call back.
 
 
 2023-2025 Department of Public Safety Standards & Training   51               Collective Bargaining Agreement
-                                                   ARTICLE 41 – REPORTING TIME
+### ARTICLE 41 – REPORTING TIME
 
 Section 1.
 Reporting time is the time designated or recognized as the start of the daily work shift or
@@ -2572,7 +2572,7 @@ reporting time pay and shift differential associated with the changed schedule s
                                                                                                       REV: 2017
 
 
-            ARTICLE 42 - IMPLEMENTATION OF NEW CLASSES—APPEALS PROCESS
+### ARTICLE 42 - IMPLEMENTATION OF NEW CLASSES—APPEALS PROCESS
 
 The appeals process is designed to allocate employees into new classes. Employees in
 positions allocated to a new classification, who dispute their placement within the new class,
@@ -2656,7 +2656,7 @@ F.         This process terminates upon completion of the allocation process.
 
 
 2023-2025 Department of Public Safety Standards & Training   53                Collective Bargaining Agreement
-                  ARTICLE 43 – COMMERCIAL DRIVERS LICENSES – DRUG TESTING
+### ARTICLE 43 – COMMERCIAL DRIVERS LICENSES – DRUG TESTING
 
 The Parties agree to the following:
 
@@ -2790,7 +2790,7 @@ reasonable suspicion testing of an employee only when:
                        negative, the Agency may review to determine if the supervisors acted in good
                        faith.
 
-                                                       ARTICLE 44 – JOB SHARING
+### ARTICLE 44 – JOB SHARING
 
 The Parties agree to the following provisions, pursuant to ORS 240.013:
 
@@ -2832,7 +2832,7 @@ approval of the immediate supervisor, the remaining employee may elect to transf
 vacant part-time position in the same classification or to voluntary demote. If the above
 conditions are not available or not acceptable, the employee agrees to resign.
 
-                       ARTICLE 45 – TEMPORARY INTERRUPTION OF EMPLOYMENT
+### ARTICLE 45 – TEMPORARY INTERRUPTION OF EMPLOYMENT
 
 When the Employer declares that a temporary interruption of employment should be
 considered because of lack of funds, either party may provide the other with written notice to
@@ -2843,7 +2843,7 @@ discussions that take place under this Section shall not be subject to the Compl
 articles of any of the agreements or constitute interim negotiations under PECBA. In addition,
 the parties will not be required to use the dispute resolution process contained in the PECBA.
 
-   ARTICLE 46 – RETURN TO CLASSIFIED SERVICE FROM EXEMPT OR CLASSIFIED
+### ARTICLE 46 – RETURN TO CLASSIFIED SERVICE FROM EXEMPT OR CLASSIFIED
                                           SERVICE
 Section 1.
 Voluntary demotion of a Management Service employee to a position in a bargaining unit will
@@ -2857,7 +2857,7 @@ purposes of seniority based layoff procedures.
 
 
 2023-2025 Department of Public Safety Standards & Training   57            Collective Bargaining Agreement
-                                                      ARTICLE 47 - ON-CALL DUTY
+### ARTICLE 47 - ON-CALL DUTY
 
 Section 1. On-Call Duty.
 A.    Employees shall be paid one (1) hour of pay at the regular straight time rate for each six
@@ -2925,7 +2925,7 @@ would prevent them from being available and able to respond, with Supervisors ap
 
 
 2023-2025 Department of Public Safety Standards & Training   59        Collective Bargaining Agreement
-     LETTER OF AGREEMENT – ARTICLE 11 – PILOT PROGRAM VOLUNTARY MEDICAL
+### LETTER OF AGREEMENT – ARTICLE 11 – PILOT PROGRAM VOLUNTARY MEDICAL
                                 SEPARATION
 
 Section 1.
@@ -2972,7 +2972,7 @@ This Letter of Agreement is renewed for the 2023-2025Collective Bargaining Agree
 
 
 2023-2025 Department of Public Safety Standards & Training   60               Collective Bargaining Agreement
-                      LETTER OF AGREEMENT - ARTICLE 22 - PAY LINE EXCEPTION
+### LETTER OF AGREEMENT - ARTICLE 22 - PAY LINE EXCEPTION
 
 This Letter of Agreement is entered into between the State of Oregon Department of
 Administrative Services (Employer) on behalf of the Department of Public Safety Standards
@@ -3002,7 +3002,7 @@ the parties. Renewed and affirmed for the 2023-2025 term of agreement.
 
 
 2023-2025 Department of Public Safety Standards & Training   61                  Collective Bargaining Agreement
-                                            LETTER OF AGREEMENT – PAY EQUITY
+### LETTER OF AGREEMENT – PAY EQUITY
 
 This Agreement is between the State of Oregon, acting through its Department of
 Administrative Services (Employer) on behalf the Department of Public Safety Standards
@@ -3132,7 +3132,7 @@ The Parties agree to the following:
 
 
 2023-2025 Department of Public Safety Standards & Training   64                   Collective Bargaining Agreement
-            LETTER OF AGREEMENT – ESSENTIAL WORKER INCLEMENT WEATHER /
+### LETTER OF AGREEMENT – ESSENTIAL WORKER INCLEMENT WEATHER /
                             HAZARDOUS CONDITIONS PAY
 
 This Agreement is between the State of Oregon, acting through its Department of
@@ -3155,7 +3155,7 @@ state offices are otherwise closed.
 
 
 2023-2025 Department of Public Safety Standards & Training   65        Collective Bargaining Agreement
-                             LETTER OF AGREEMENT – NATURAL DISASTER LEAVE
+### LETTER OF AGREEMENT – NATURAL DISASTER LEAVE
 
 This Agreement is between the State of Oregon, acting through its Department of
 Administrative Services (Employer) and the Oregon Public Safety Association (Association).
@@ -3187,7 +3187,7 @@ agreement.
 
 
 2023-2025 Department of Public Safety Standards & Training   66             Collective Bargaining Agreement
-                                LETTER OF AGREEMENT – BI-WEEKLY PAY PERIOD
+### LETTER OF AGREEMENT – BI-WEEKLY PAY PERIOD
 
 
 This Letter of Agreement is between the State of Oregon, acting through its Department of
@@ -3266,7 +3266,7 @@ outlined in Article 6.
 
 
 2023-2025 Department of Public Safety Standards & Training   68              Collective Bargaining Agreement
-                              LETTER OF AGREEMENT - ONE TIME PAYMENT COLA
+### LETTER OF AGREEMENT - ONE TIME PAYMENT COLA
 
 This Agreement is entered into between the State of Oregon, acting through its Department of
 Administrative Services (DAS), and the Oregon Public Safety Association (Association).
@@ -3286,7 +3286,7 @@ This Letter of Agreement will sunset on June 30, 2025.
 
 
 2023-2025 Department of Public Safety Standards & Training   69               Collective Bargaining Agreement
-                          LETTER OF AGREEMENT – SALARY RANGE TRUNCATION
+### LETTER OF AGREEMENT – SALARY RANGE TRUNCATION
 
 This Agreement is entered into between the State of Oregon, acting through its Department of
 Administrative Services (DAS), and the Oregon Public Safety Association (Association).
@@ -3346,7 +3346,7 @@ Administrative Services (DAS), and the Oregon Public Safety Association (Associa
 
 
 2023-2025 Department of Public Safety Standards & Training   71               Collective Bargaining Agreement
-                                               APPENDIX A - COMPENSATION PLAN
+### APPENDIX A - COMPENSATION PLAN
 
 
                                                    7/1/2023    4/1/2024    Office Specialist 2                          15C          15C
@@ -3398,7 +3398,7 @@ Administrative Services (DAS), and the Oregon Public Safety Association (Associa
 
 
 2023-2025 Department of Public Safety Standards & Training            72                                   Collective Bargaining Agreement
-                                                APPENDIX B – SALARY SCHEDULE
+### APPENDIX B – SALARY SCHEDULE
 
 
                                                         SALARY SCHEDULE AS OF JULY 1, 2023

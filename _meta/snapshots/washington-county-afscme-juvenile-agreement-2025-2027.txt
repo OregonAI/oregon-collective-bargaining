@@ -47,7 +47,7 @@ APPENDIX A – WAGES ...........................................................
 
 
 Washington County – AFSCME (Juvenile) CBA (2025-2027)                                                                           ii
-                                  ARTICLE 1 – PREAMBLE
+### ARTICLE 1 – PREAMBLE
 1.1.   This Agreement is entered into between Washington County, Oregon, hereinafter referred
        to as the "County," and American Federation of State, County and Municipal Employees
        (AFSCME) Council 75. hereinafter referred to as the "Union," for the purpose of fixing the
@@ -56,7 +56,7 @@ Washington County – AFSCME (Juvenile) CBA (2025-2027)                         
        and peaceful procedure for the resolution of differences and conditions affecting the fringe
        benefits and other conditions of employment.
 
-                                ARTICLE 2 – RECOGNITION
+### ARTICLE 2 – RECOGNITION
 2.1.   The County recognizes the Union as the exclusive representative of all full-time and part-
        time employees in Washington County’s Juvenile Department, excluding Senior
        Accounting Assistants, Administrative Assistants, Administrative Specialist IIs, Financial
@@ -82,7 +82,7 @@ Washington County – AFSCME (Juvenile) CBA (2025-2027)                         
        as managerial, supervisory or confidential, in which case the employee will not be allowed
        to remain a member of the bargaining unit pending resolution of the issue.
 
-                          ARTICLE 3 – PROBATIONARY PERIOD
+### ARTICLE 3 – PROBATIONARY PERIOD
 3.1.   Initial Probationary Period. All persons newly hired into a position covered by this
        agreement shall be considered probationary until they complete a probationary period.
        The probationary period for regular full and part time employees is defined as twelve (12)
@@ -111,7 +111,7 @@ Washington County – AFSCME (Juvenile) CBA (2025-2027)                         
        for a period not to exceed twelve (12) months as provided in County Personnel Rules and
        Regulations (14.2.7).
 
-                          ARTICLE 4 – SCOPE OF AGREEMENT
+### ARTICLE 4 – SCOPE OF AGREEMENT
 4.1.   The parties acknowledge that during the negotiations which preceded this Agreement
        each had the unlimited right and opportunity to make demands and proposals with respect
        to any subject or matter, and that the understanding and agreements arrived at by the
@@ -135,7 +135,7 @@ Washington County – AFSCME (Juvenile) CBA (2025-2027)                         
        practices, and other understandings whether written or oral among or between the Union,
        the County, and the employees.
 
-                           ARTICLE 5 – MANAGEMENT RIGHTS
+### ARTICLE 5 – MANAGEMENT RIGHTS
 5.1.   The parties agree that all rights and decision-making prerogatives incident or in any way
        related to management of the department are retained by the County unless modified by
        a specific provision of this Agreement and are not subject to bargaining or to the grievance
@@ -204,7 +204,7 @@ Washington County – AFSCME (Juvenile) CBA (2025-2027)                         
 
 
 Washington County – AFSCME (Juvenile) CBA (2025-2027)                                              3
-                             ARTICLE 6 – EMPLOYEE RIGHTS
+### ARTICLE 6 – EMPLOYEE RIGHTS
 6.1.   It is agreed that employees represented by the Union shall have the right to form, join and
        participate in the activities of employee organizations of their own choosing for the purpose
        of representation on matters of employee relations. Employees covered by this Agreement
@@ -213,7 +213,7 @@ Washington County – AFSCME (Juvenile) CBA (2025-2027)                         
        discriminated against by the County or by the Union because of their exercise of these
        rights.
 
-                  ARTICLE 7 – EQUAL EMPLOYMENT OPPORTUNITY
+### ARTICLE 7 – EQUAL EMPLOYMENT OPPORTUNITY
 7.1.   The County and the Union agree that the provisions of this Agreement shall be applied
        equally to all employees of the bargaining unit without discrimination as to race, color,
        religion, gender, national origin. age. mental or physical disability, sexual orientation or
@@ -231,7 +231,7 @@ Washington County – AFSCME (Juvenile) CBA (2025-2027)                         
 
 7.4.   All references to employees in this Agreement are intended to be gender neutral.
 
-                         ARTICLE 8 – UNION DUES DEDUCTION
+### ARTICLE 8 – UNION DUES DEDUCTION
 8.1.   Employees who are members of the Union shall make dues payments to the Union in an
        amount equal to that certified by the Union in writing. The County agrees to deduct from
        each paycheck of each employee each month the payments for regular dues, as
@@ -260,7 +260,7 @@ Washington County – AFSCME (Juvenile) CBA (2025-2027)                         
        making PEOPLE and/or AVIP contributions and amount deducted per employee on a
        monthly basis in the same report it provides to the County for dues deduction.
 
-                                   ARTICLE 9 – HOLIDAYS
+### ARTICLE 9 – HOLIDAYS
 9.1.   Holidays. The following days shall be recognized and observed as paid holidays:
 
           •   New Year’s Day
@@ -318,7 +318,7 @@ Washington County – AFSCME (Juvenile) CBA (2025-2027)                         
 9.5.    Less than full time regular employees shall receive prorated pay in lieu of time off. Full-
         time employees will be paid for eight (8) hours for each of the holidays listed.
 
-                                  ARTICLE 10 – SICK LEAVE
+### ARTICLE 10 – SICK LEAVE
 10.1.   Accrual. Employees shall accumulate sick leave at the rate of 0.0462 hours per each hour
         paid. The maximum accrual of sick leave for any employee shall be ninety-six (96) hours
         per calendar year. Any unused sick leave may be carried over and used in the following
@@ -368,7 +368,7 @@ Washington County – AFSCME (Juvenile) CBA (2025-2027)                         
         income due to incapacitating illness or injury. No compensation for accrued sick leave
         shall be provided to any employee separating from County service.
 
-                                ARTICLE 11 – OTHER LEAVES
+### ARTICLE 11 – OTHER LEAVES
 11.1.   Leave of Absence. A regular employee shall not be authorized a leave of absence without
         pay until all accumulated vacation accruals shall have been applied toward payment for
         the absence.
@@ -453,7 +453,7 @@ Washington County – AFSCME (Juvenile) CBA (2025-2027)                         
                 taken for the death of an individual other than a family member. The County agrees
                 to abide by any change in the law regarding bereavement leave.
 
-                                    ARTICLE 12 – WAGES
+### ARTICLE 12 – WAGES
 12.1.   Wage Increase. Within sixty (60) days of the execution of this Agreement, all employees
         employed at the time the Union ratifies the Agreement will receive a one-time, first contract
         ratification bonus of three thousand dollars ($3,000) before taxes and withholdings.
@@ -563,7 +563,7 @@ Washington County – AFSCME (Juvenile) CBA (2025-2027)                         
                 either a class demotion or a salary demotion, the employee shall retain the same
                 anniversary date.
 
-                                 ARTICLE 13 – RETIREMENT
+### ARTICLE 13 – RETIREMENT
 13.1.   Public Employees Retirement System. The County shall continue to participate in the
         Public Employees Retirement System (PERS) for employees eligible to participate in the
         system. The County shall participate in the Oregon Public Service Retirement Plan
@@ -585,7 +585,7 @@ Washington County – AFSCME (Juvenile) CBA (2025-2027)                         
         body having competent jurisdiction, the remaining provisions shall remain valid and in full
         force and effect.
 
-                                     ARTICLE 14 – SAFETY
+### ARTICLE 14 – SAFETY
 14.1.   Safe Working Conditions. The County will make good faith efforts to resolve employee
         safety concerns and will make reasonable efforts to maintain safe working conditions and
         equipment for all employees. The County shall not discipline or in any manner discriminate
@@ -606,7 +606,7 @@ Washington County – AFSCME (Juvenile) CBA (2025-2027)                         
 14.4.   Tools. The county will provide the necessary tools and equipment to efficiently and safely
         complete the roles and responsibilities of their positions.
 
-                       ARTICLE 15 – DISCIPLINE AND DISCHARGE
+### ARTICLE 15 – DISCIPLINE AND DISCHARGE
 15.1.   An oral warning may be the first step taken for minor issues and shall be considered non
         disciplinary and not subject to the grievance procedure. Nothing herein shall be construed
         as requiring a verbal warning prior to formal discipline. The County may also support
@@ -673,7 +673,7 @@ Washington County – AFSCME (Juvenile) CBA (2025-2027)                         
         the policy violations or misconduct determined to have occurred, and the level of discipline
         being considered.
 
-                         ARTICLE 16 – GRIEVANCE PROCEDURE
+### ARTICLE 16 – GRIEVANCE PROCEDURE
 16.1.   Any grievance or dispute which may arise between the parties regarding the application,
         meaning or interpretation of this Agreement shall be settled in the following manner:
 
@@ -745,7 +745,7 @@ Washington County – AFSCME (Juvenile) CBA (2025-2027)                         
 16.3.   The time periods described in this Article shall be suspended for the duration of an
         emergency or may be extended by mutual agreement of the parties.
 
-                              ARTICLE 17 – HOURS OF WORK
+### ARTICLE 17 – HOURS OF WORK
 17.1.   Regular Hours. The regular hours of work each day shall be consecutive except for
         interruptions for lunch period, and as may be required for emergencies.
 
@@ -861,7 +861,7 @@ Washington County – AFSCME (Juvenile) CBA (2025-2027)                         
        same work week is not applicable, then the employee must draw from their accrued leave,
        such as compensatory time, vacation leave, administrative leave, and/or floating holiday.
 
-                             ARTICLE 18 – FILLING VACANCIES
+### ARTICLE 18 – FILLING VACANCIES
 18.1.   Definitions.
 
         18.1.1. A “transfer” is an appointment to another position within the same job classification.
@@ -944,7 +944,7 @@ Washington County – AFSCME (Juvenile) CBA (2025-2027)                         
 
 
 Washington County – AFSCME (Juvenile) CBA (2025-2027)                                            17
-                                    ARTICLE 19 – VACATION
+### ARTICLE 19 – VACATION
 19.1.   Accruals. All regular full time employees shall accrue vacation leave as follows:
 
                             Years of Service          Hours per Pay Period
@@ -964,7 +964,7 @@ Washington County – AFSCME (Juvenile) CBA (2025-2027)                         
         Director must approve any vacation request greater than two (2) calendar weeks. Vacation
         requests will not be unreasonably denied.
 
-                                    ARTICLE 20 – SENIORITY
+### ARTICLE 20 – SENIORITY
 20.1.   Definition. Seniority in the bargaining unit shall be defined as the total length of service
         in the AFSCME Juvenile bargaining unit with Washington County for employees hired after
         ratification. Employees who are employed prior to ratification shall have their seniority
@@ -1025,7 +1025,7 @@ Washington County – AFSCME (Juvenile) CBA (2025-2027)                         
         The County may recall the next person on the layoff list if a laid off employee is not
         available to work within ten (10) working days of their notification to return to work.
 
-                                ARTICLE 21 – UNION BUSINESS
+### ARTICLE 21 – UNION BUSINESS
 21.1.   Bulletin Boards. The County agrees to authorize the use of bulletin board space in
         convenient places to be used by the Union in communicating with employees. The Union
         shall limit its posting of notices and bulletins to such bulletin boards and contents of such
@@ -1137,13 +1137,13 @@ Washington County – AFSCME (Juvenile) CBA (2025-2027)                         
         appropriate bargaining unit, and, every one hundred twenty (120) calendar days for
         employees in the bargaining unit who are not newly hired employees.
 
-                       ARTICLE 22 – STIKES AND LOCKOUTS BARRED
+### ARTICLE 22 – STIKES AND LOCKOUTS BARRED
 22.1.   There shall be no lockouts on the part of the County nor suspension of work on the part
         of the employees. This Agreement is guarantee that for its duration, there will be neither
         strikes nor lockouts and that all complaints, grievances or disputes arising under its
         provisions will be settled pursuant to its grievance procedure.
 
-                                ARTICLE 23 – PERSONNEL FILE
+### ARTICLE 23 – PERSONNEL FILE
 23.1.   Each employee shall have the right, upon request, to review and obtain copies of the
         contents of his/her personnel file, exclusive of materials received prior to the date of their
         employment by the County. The official file shall be maintained by the Human Resources
@@ -1172,7 +1172,7 @@ Washington County – AFSCME (Juvenile) CBA (2025-2027)                         
         will retain any reprimand removed from the employee’s personnel and supervisory file in
         accordance with state law.
 
-                                ARTICLE 24 – SAVINGS CLAUSE
+### ARTICLE 24 – SAVINGS CLAUSE
 24.1.   Should any part hereof or any provision herein contained be rendered or declared invalid
         by reason of any existing or subsequently enacted legislation or by a decree of a court of
         competent jurisdiction, such as invalidation of such part or portion of this Agreement shall
@@ -1180,7 +1180,7 @@ Washington County – AFSCME (Juvenile) CBA (2025-2027)                         
         the parties agree immediately to meet and negotiate such parts or provision affected. The
         remaining parts or provisions shall remain in full force and effect.
 
-                                   ARTICLE 25 – INSURANCE
+### ARTICLE 25 – INSURANCE
 25.1.   Medical. The County will provide health insurance options for regular full-time employees.
 
         Each plan will have its own established rate based on actuarial cost of the plan. The
@@ -1246,10 +1246,10 @@ Washington County – AFSCME (Juvenile) CBA (2025-2027)                         
         dependent children to be covered by such insurance. Beneficiary designation shall be
         limited by any applicable law or policy.
 
-                         ARTICLE 26 – RESERVED FOR FUTURE USE
+### ARTICLE 26 – RESERVED FOR FUTURE USE
                                       [intentionally left blank]
 
-                     ARTICLE 27 – LABOR MANAGEMENT COMMITTEE
+### ARTICLE 27 – LABOR MANAGEMENT COMMITTEE
 27.1.   Labor Management. The parties agree to establish a joint labor-management committee
         as mutually agreed to consider issues on a topical basis and shall meet monthly unless
         mutually agreed to meet more or less often.
@@ -1277,7 +1277,7 @@ Washington County – AFSCME (Juvenile) CBA (2025-2027)                         
         prepare for meetings during normal working hours without a loss of pay. Time to prepare
         for LMC meetings will not interfere with an employee's work duties.
 
-                                    ARTICLE 28 – TRAINING
+### ARTICLE 28 – TRAINING
 28.1.   Authorized Travel, Training and Conference Attendance. Food, lodging and travel
         expenses, or any of them, shall be paid by the County according to an approved per diem
         schedule and receipt of the properly detailed County expense form, to any employee
@@ -1305,7 +1305,7 @@ Washington County – AFSCME (Juvenile) CBA (2025-2027)                         
 
 
 Washington County – AFSCME (Juvenile) CBA (2025-2027)                                            24
-                                           APPENDIX A – WAGES
+### APPENDIX A – WAGES
 
 
 

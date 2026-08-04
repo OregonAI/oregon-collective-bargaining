@@ -16,12 +16,11 @@ agency_registry_slugs: []
 source_url: https://www.oregon.gov/das/HR/CBA/STEA%20State%20Teachers%20Education%20Association%202023-2025.pdf
 source_format: pdf
 retrieved: '2026-08-02'
-source_sha256: 7bfab2f451d8a4e029b9f4b0c3775fe7f5a310c9337a4a6c54b0b5bbebaf83d5
+source_sha256: ed83c18c58d484eb6730c88ede5bce4ca69ca53379d88609ab4d70ec0b8acace
 snapshot_policy: hash-only
 status: superseded
-content_mode: summary
-reproduction_basis: 'jointly-authored contract; summary + official link per the class determination
-  in corpus.yml schema.doc_types (verbatim: false)'
+content_mode: 'verbatim'
+reproduction_basis: 'public record of a public body (ORS 192.311-192.478); the employer publishes the executed agreement in full at source_url; a ratified agreement is an official act (Georgia v. Public.Resource.Org, 590 U.S. 255 (2020)) — mirrored in full per the class determination in corpus.yml schema.doc_types (verbatim: true)'
 conversion_notes: pdftotext -layout; 50 pages, 146292 characters extracted; NOT human-verified
 last_verified: ''
 verified_by: ''
@@ -48,8 +47,8 @@ tags:
 - state-workforce
 ---
 
-> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated
-> summary, not the agreement's official text. Verify against the official
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a non-authoritative
+> mirror of the agreement's text, not the official record. Verify against the official
 > source: https://www.oregon.gov/das/HR/CBA/STEA%20State%20Teachers%20Education%20Association%202023-2025.pdf (retrieved 2026-08-02).
 
 # STEA State Teachers Education Association 2023-2025
@@ -61,18 +60,11 @@ Collective bargaining agreement between the State of Oregon (DAS Labor Relations
 - Bargaining unit (LRU chart): STEA State Teachers Education Association — repr. code RE
 - Source document: 50 pages (PDF, DAS CBA library)
 
-This corpus is **summary-first for agreements**: the contract's text is not
-reproduced here (see Curator notes), and nothing on this page states or
-paraphrases the agreement's terms. Read the agreement itself at the official
-source link above.
 
 ## Curator notes
 
-Summary-first is the recorded class determination (`corpus.yml
-schema.doc_types`, `verbatim: false`): a CBA is jointly authored with private
-parties, and "public record" and "freely reproducible" are not the same claim.
-If the operator later flips the class, full text lands in a follow-up PR — the
-committed snapshot extraction already carries what would be diffed.
+The full executed text is mirrored below from the committed extraction; the
+official PDF at the source link above remains the authoritative record.
 
 Letters of agreement bound into this PDF by DAS are part of this source
 snapshot; separately-published LOAs are their own documents in a later tranche.
@@ -87,3 +79,2234 @@ Statutes and rules the agreement's text cites are recorded in frontmatter
 `relationships.references_external` (10 citation(s)) and resolve into
 `executive-regulatory-frameworks` as cites — this corpus asserts no
 `implements` edge anywhere.
+
+## Full text
+
+            between
+
+            DAS
+        THE DEPARTMENT OF
+      ADMINISTRATIVE SERVICES
+          on behalf of the
+ OREGON DEPARTMENT OF EDUCATION
+
+                and
+
+
+
+
+           STEA
+ MID-VALLEY BARGAINING COUNCIL AND
+STATE TEACHER EDUCATION ASSOCIATION
+TABLE OF CONTENTS
+ARTICLE 1 - RECOGNITION AND STATUS OF AGREEMENT ................................................................ 3
+ARTICLE 2 - MANAGEMENT RIGHTS ....................................................................................................... 5
+ARTICLE 3 - ASSOCIATION RIGHTS AND PRIVILEGES ......................................................................... 5
+ARTICLE 4 - CONTRACTING OUT ............................................................................................................. 7
+ARTICLE 5 - NEGOTIATION PROCEDURES ............................................................................................. 7
+ARTICLE 6 - PERSONNEL RECORDS ....................................................................................................... 8
+ARTICLE 7 - RIGHTS OF PROFESSIONAL TEACHERS .......................................................................... 9
+ARTICLE 8 - POSITION DESCRIPTIONS ................................................................................................. 11
+ARTICLE 9 - EVALUATION PROCEDURES ............................................................................................ 11
+ARTICLE 10 - PLAN OF ASSISTANCE .................................................................................................... 11
+ARTICLE 11 - FILLING OF VACANCIES .................................................................................................. 12
+ARTICLE 12 - REDUCTION IN FORCE ..................................................................................................... 14
+ARTICLE 13 - TRIAL SERVICE ................................................................................................................. 16
+ARTICLE 14 - GRIEVANCE PROCEDURE ............................................................................................... 16
+ARTICLE 15 - NO STRIKE OR LOCKOUT ............................................................................................... 19
+ARTICLE 16 - WORK YEAR ...................................................................................................................... 19
+ARTICLE 17 - WORK DAY ........................................................................................................................ 21
+ARTICLE 18 - IN-SERVICE, EDUCATIONAL TRAINING AND DEVELOPMENT ................................... 21
+ARTICLE 19 - TUITION REIMBURSEMENT ............................................................................................. 22
+ARTICLE 20 - STUDENT MANAGEMENT ................................................................................................ 23
+ARTICLE 21 - SAFETY AND HEALTH ...................................................................................................... 24
+ARTICLE 22 - SICK LEAVE ....................................................................................................................... 25
+ARTICLE 23 - PAID LEAVES OF ABSENCE............................................................................................ 27
+ARTICLE 24 - UNPAID LEAVES OF ABSENCE ...................................................................................... 28
+ARTICLE 25 - COMPENSATION ............................................................................................................... 29
+ARTICLE 26 - INSURANCE AND FRINGE BENEFITS ............................................................................ 31
+ARTICLE 27 - PERS ................................................................................................................................... 31
+ARTICLE 28 - TRAVEL EXPENSES ......................................................................................................... 32
+ARTICLE 29 - INCLEMENT CONDITIONS ................................................................................................ 32
+ARTICLE 30 - DONATED LEAVE ............................................................................................................. 32
+ARTICLE 31 – ESSENTIAL WORKER PAY ............................................................................................. 33
+APPENDIX A-1 SALARY SCHEDULE JULY 1, 2023 ............................................................................... 34
+APPENDIX A-2 SALARY SCHEDULE DECEMBER 1, 2023 ................................................................... 35
+APPENDIX A-3 SALARY SCHEDULE JANUARY 1, 2025 ....................................................................... 36
+APPENDIX B……. ...................................................................................................................................... 37
+APPENDIX C -- Official Grievance Form ................................................................................................. 38
+APPENDIX D -- Guidelines for OSD Teacher Evaluation ...................................................................... 40
+LETTER OF AGREEMENT #1 ................................................................................................................... 44
+LETTER OF AGREEMENT #2 – ASLPI Subcommittee .......................................................................... 45
+LETTER OF AGREEMENT #3 – School Psychologist Recruitment and Retention Differential ........ 46
+LETTER OF AGREEMENT #4 – ONE-TIME COLA PAYMENT ............................................................... 47
+LETTER OF AGREEMENT #5 – Work Year ............................................................................................. 48
+Signature Page…. ..................................................................................................................................... 49
+
+
+2023-2025 State Teacher Education Association Collective Bargaining Agreement                                                                    -2–
+### ARTICLE 1 - RECOGNITION AND STATUS OF AGREEMENT
+
+Section A.
+       This Agreement is between the Mid-Valley Bargaining Council of the Oregon
+Education Association on behalf of the State Teachers Education Association, hereinafter
+referred to as the Council or Association, and the Oregon Department of Administrative
+Services, hereinafter referred to as the Employer, on behalf of the Oregon Department of
+Education, hereinafter referred to as the Agency, for the Oregon School for the Deaf.
+
+Section B.
+        The Employer recognizes the Council as the exclusive bargaining representative
+of all unclassified teachers at the School for the Deaf, except supervisory, confidential,
+managerial, substitute, and exempt employees.
+
+Section C.
+      This Agreement sets forth the basic and full agreement between the parties on
+those matters pertaining to wages, hours, terms, and other conditions of employment.
+
+Section D.
+1.    This Agreement takes effect upon final acceptance by both sides and expires on
+      June 30, 2025. This Agreement shall not be opened during the term of this
+      Agreement except by mutual agreement of the parties, by proper use of Article 1,
+      Section F or as otherwise specified in this Agreement.
+2.    Notwithstanding Section D.1 of this Article, the Employer or the Association may
+      elect to reopen this Agreement by written notice to the other party between the
+      dates of February 1 through February 28, 2025 for the express purpose of
+      negotiating a successor agreement. Parties agree to meet in 2024 for a limited
+      mid-term reopener on select non-economic language issues.
+3.    The Parties agree to a one-hundred and twenty (120) calendar day period of
+      bargaining. At the initiation of either party on or after June 1, 2025, there may be
+      a joint request for mediation. Article 14 (No Strike/No Lockout) of this Agreement
+      shall not apply after exhaustion of the dispute resolution procedures outlined in
+      ORS 243.712 through 243.726.
+
+Section E. Maintenance of Standards.
+      This Agreement shall not be interpreted or applied to deprive teachers of
+professional advantages and responsibilities.
+1.    Professionalism. Teachers shall be treated as professionals: As such, all
+      appropriate Oregon Revised Statutes, rules, rights, and regulations that pertain to
+      licensed teachers shall apply.
+2.    During the life of this contract all existing conditions of employment in mandatory
+      subjects of bargaining shall be maintained, subject to the following:
+      a.      In the event that management in its discretion determines that changes (not
+              inconsistent with any other term of this agreement) in said conditions of
+              employment are necessary or appropriate for purposes of program delivery
+              or more efficient services, management shall provide the Association with
+              written notice of the same.
+      b.      In the event such notice is provided, the Association shall have fifteen (15)
+              days to demand good faith bargaining over said changes.
+
+
+2023-2025 State Teacher Education Association Collective Bargaining Agreement         -3–
+          c.        Both sides shall bargain in good faith over the proposed change for ninety
+                    (90) calendar days from the first bargaining meeting. At the option of either
+                    party, the dispute shall be submitted to advisory arbitration provided the
+                    arbitrator must agree to render her/his decision within said ninety (90) day
+                    period.
+          d.        In the event management makes a final decision on the disputed change
+                    which is not agreeable to the Association, the parties shall have all the
+                    options available for resolving their dispute provided by law under ORS
+                    243.698 including unilateral implementation and the right to strike
+                    (notwithstanding any other provision of the Agreement).
+Section F.
+       If any provision of this Agreement is held to be invalid by operation of Federal or
+State law, or by any court of record, or by the Employment Relations Board, or if
+compliance with or enforcement of any provision should be restrained by any such court,
+the remainder of the agreement shall not be affected thereby and, upon request of either
+the Oregon Department of Administrative Services or the Association, the parties shall
+enter into negotiations within a reasonable period of time.
+
+Section G.
+       In order to facilitate communication between the parties and to promote
+cooperative employer-employee relations, the Agency and MVBC/STEA agree to form a
+joint Labor/Management Committee which shall, subject to having an agenda for a
+meeting, meet at least six (6) times (per calendar year) to discuss matters of mutual
+concern. However, if there are no agreed upon agenda items, the meeting will be
+cancelled.
+       The Committee shall be composed of up to four (4) members appointed by the
+Association and up to four (4) members appointed by the Agency. Representatives from
+the Labor Relations Unit, the Association, or other individuals may be invited, who may
+provide information or act as advisors.
+       Meeting agendas shall be prepared in advance. Items for inclusion on an agenda
+shall be provided to all members in advance of the scheduled meeting. The parties shall
+attempt to compile a mutually agreeable agenda which will include notice of invited guest.
+       Committee meetings shall be conducted in good faith. The parties shall alternate
+responsibility for chairing the meetings; the chair shall be responsible for preparation and
+distribution of meeting minutes. Decision-making shall be by consensus.
+       The Committee shall have no power to contravene any provision of this Agreement,
+nor to enter into any Letter of Agreement; negotiate, or to resolve disputes concerning the
+interpretation or application of any provision of this Agreement. The Committee shall be
+empowered to make joint recommendations on issues which are brought before it. Such
+recommendations approved by the Committee shall be presented to the Agency (or other
+appropriate designee) and the Council for response and/or action.                      Such
+recommendations are not binding on the Department of Education or Council, but rather
+are advisory and are to be considered in good faith by the Agency and the Council. The
+response shall be in writing and shall be submitted to the Committee and all concerned
+parties. No discussion or review of any matter by the Committee shall forfeit or affect the
+time frames of the settlement or dispute procedures (Article 13 - Grievance Procedure).
+       At the conclusion of each calendar year, the parties shall discuss the Committee
+concept and shall determine whether to continue, modify or terminate it.
+                                                                                 REV: 2019, 2021,2023
+
+
+
+
+2023-2025 State Teacher Education Association Collective Bargaining Agreement                  -4–
+### ARTICLE 2 - MANAGEMENT RIGHTS
+
+        Except as specifically modified by the terms of this Agreement, the Department of
+Administrative Services and the Agency retain all rights of management in the direction
+of their work force. Rights of management shall include, but not be limited to, the right to:
+        1.     Direct teachers.
+        2.     Hire, promote, transfer, assign and retain teachers.
+        3.     Suspend, discharge or take other proper disciplinary action against
+               teachers.
+        4.     Reassign teachers.
+        5.     Relieve teachers from duty because of lack of work or other reasons.
+        6.     Schedule work.
+        7.     Determine methods, means, and personnel by which operations are to be
+               conducted.
+
+### ARTICLE 3 - ASSOCIATION RIGHTS AND PRIVILEGES
+
+Section A.
+        Upon timely request, the Employer shall make available at no cost to the
+Association the latest copy of any Association bargaining unit teachers statistical and
+expenditure reports relative to employment and benefits currently produced by the
+Employer which do not require manual or machine editing to remove confidential data or
+non-Association bargaining unit employee data. Such a request must be made in
+advance of the preparation of the reports. If new and appropriate employee statistical
+and expenditure reports are produced by the Employer, the Agency and the Association
+may mutually agree in advance to provide such reports at no cost.
+        Upon request, the Employer shall make available to the Association at cost any
+bargaining unit teacher statistical and expenditure data relative to employment and
+benefits which is possible to produce, although not normally produced, by the Employer.
+Data that are not normally produced, but possible to produce, include manual or machine
+editing of existing reports to remove confidential data or data on non-bargaining unit
+employees or data or reports that require new development.
+        The Agency shall furnish monthly to the Association a list of new teachers hired
+into positions represented by the Association. The list shall contain the name,
+classification, date of employment, transfer if known, and work sites of the new teachers.
+
+Section B.
+      Teachers covered by the Agreement are at all times entitled to act through an
+Association representative in taking any action or following any procedure under this
+Agreement.
+      Once a teacher files a grievance, the teacher shall not be required to discuss the
+subject matter of the grievance without the presence of the Association UniServ
+Consultant if the teacher elects to be represented by the Association.
+
+Section C.
+      Association UniServ Consultants shall be allowed reasonable contact with
+teachers on Agency facilities, after appropriate notifications and approval of the on-site
+supervisor.
+
+
+2023-2025 State Teacher Education Association Collective Bargaining Agreement           -5–
+Section D.
+       Agency equipment and facilities may be used for Association activities according
+to current policies when such facilities are available, and prior approval has been obtained
+from the responsible manager. Arrangement for such use shall be made directly with the
+Agency's designated site administrator, and the Association shall designate an
+Association member responsible for the equipment. The Association shall pay for the
+actual cost for use of equipment and facilities.
+
+Section E.
+        The Association shall have the right to post notices of activities and matters of
+Association concern on teacher bulletin boards. All such posted material shall be clearly
+identified as originating from the Association.
+
+Section F.
+1.    Inter-school courier facilities and teacher boxes may be used for distribution of
+      Association communications.
+2.    Once a month, the Association may use up to a maximum of fifteen (15) minutes
+      after the regularly scheduled staff meeting for the Association to share information.
+
+Section G.
+      The Agency agrees to deduct Association dues (local, state, national) from the pay
+check of each teacher member in equal monthly installments.
+
+Section H.
+        The Agency and the Association agree to fair share, and in accordance with such,
+it is agreed that each teacher who is a member of the bargaining unit herein defined, but
+is not a member of the Association, shall pay an in-lieu-of dues amount to the Association.
+This amount shall be equivalent to the full, regular dues (including STEA, OEA, and NEA)
+paid by the Association members and deducted from the teacher's paycheck.
+        In accordance with the intent of ORS 243.666(1), if a teacher certifies to the
+Association in writing the presence of bona fide religious tenets or teachings in a church
+or religious body of which such a teacher is a member, the provisions of Article 3, Section
+G shall not apply. Such teacher shall pay an amount equal to the full, regular dues to the
+United Way or a charity or charitable organization mutually agreed upon by the teacher
+and the Association. The teacher shall provide written proof to the Agency and the
+Association that this has been done.
+        The Association agrees to hold the Agency harmless against any and all claims,
+suits, orders, or judgments brought against the Agency as a result of the Agency's
+compliance with the provisions of this Section.
+
+Section I.
+      The Agency agrees there shall exist a Building Representative system for teachers
+covered by this Agreement.
+1.    The Association shall provide the Agency with a list of the names of authorized
+      Building Representatives and duty locations, and shall update that list as
+      necessary.
+2.    The Agency agrees that there shall be no reprisal, coercion, intimidation or
+      discrimination against any Building Representative for any authorized activities.
+3.    The Building Representatives shall be selected by the Association.
+
+
+2023-2025 State Teacher Education Association Collective Bargaining Agreement          -6–
+### ARTICLE 4 - CONTRACTING OUT
+
+Section A.
+      The Association recognizes that the Agency has the management right, during the
+term of this Agreement, to decide to contract out work performed by bargaining unit
+members.*
+      *(See Appendix E – LOA #1)
+
+Section B.
+       Should any full-time bargaining unit member become displaced as a result of
+contracting out, the Agency and the Association shall meet to negotiate the impact on
+bargaining unit members. The Agency’s obligation to discuss the impact of such
+contracting does not obligate it to secure the agreement of the Association or to exhaust
+the dispute resolution procedure of ORS 243.712, 243.722 or 243.742, concerning the
+decision or the impact.
+
+Section C.
+If the decision will result in contracting out, the Employer will:
+1.      Offer the teacher placement in OSD program run by the Agency in an available
+        vacant position for which he/she is qualified, as determined by the Agency, and
+        such placement is not in violation of another collective bargaining Agreement; or
+2.      Should the contractor be agreeable and need the services of the teacher, place
+        the teacher with the contractor; or
+3.      The teacher may exercise his/her layoff rights pursuant to Article 12. The teacher
+        must select layoff within five (5) calendar days pursuant to notification.
+4.      The Agency agrees that it will strongly encourage any public body to which STEA
+        unit jobs may be contracted to give preferential consideration to STEA members
+        submitting job applications including the right to interview.
+
+### ARTICLE 5 - NEGOTIATION PROCEDURES
+
+Section A.
+      The Agency shall grant leave with pay for up to forty (40) hours each for five (5)
+teachers to represent the Association for actual negotiating time including caucuses.
+Negotiations shall begin no later than the first working day in February in the year in which
+bargaining occurs, or other mutually agreeable time. The Agency shall bill the Union for
+one-half (1/2) of the actual substitute costs when teachers representing the Union are
+using Agency time for negotiations.
+
+Section B.
+      Additional paid leave may be granted at management's discretion if negotiations
+are not concluded by the expiration of this Agreement.
+
+Section C.
+      It is understood that all tentative agreements at the table are subject to ratification
+by both parties.
+
+
+
+
+2023-2025 State Teacher Education Association Collective Bargaining Agreement           -7–
+### ARTICLE 6 - PERSONNEL RECORDS
+
+Section A.
+        The Chief Human Resources Office (CHRO) human resource information systems
+is the system of record for all employee records and official employee personnel file
+documents for which there are appropriate document categories in the system.
+        The Agency stores paper documents of the official employee personnel file and
+paper documents that are not yet able to be kept in the human resource information
+system. The Agency also stores paper documents of the official employee personnel file
+that predate January 1, 2019.
+        A teacher shall have the opportunity, upon request, to inspect the contents of
+his/her official personnel files except for confidential reports from previous employers. If
+the files are kept at a separate facility, the teacher shall be, as determined the more
+feasible, either allowed time to go to where the file is kept or an arrangement shall be
+made to bring the file to the teacher within five (5) working days. Upon a teacher's written
+request, his/her Association representative may inspect the teacher's personnel file. The
+teacher and/or his/her Association representative shall receive a copy of items in the
+personnel file upon request.
+
+Section B.
+      Information reflecting critically upon a teacher shall not be placed in the teacher's
+personnel files unless it either bears the signature of the teacher or a certified mail receipt.
+The following disclaimer shall be attached:
+       "Teacher's signature confirms only that the supervisor has discussed and
+       given a copy of the material to the teacher. The teacher's signature does
+       not indicate agreement or disagreement with the contents of this material."
+
+Section C.
+       If any material reflecting critically on a teacher is proven to be incorrect, it shall be
+corrected or removed. Teachers shall be entitled to prepare a written explanation or
+opinion regarding any critical material placed in his/her personnel file. The teacher's
+explanation or opinion shall be attached to the critical material and shall be included as
+part of the teacher's personnel record until the critical material is removed.
+
+Section D.
+      A teacher may include in his/her personnel file relevant material he/she wishes,
+such as letters of favorable comment, licenses, certificates, college course credits or other
+material which relates creditably on the teacher.
+
+Section E.
+       Material reflecting caution, consultation, warning, admonishment and reprimand
+shall be retained for a maximum of three (3) years, unless related disciplinary actions
+have been taken and sustained during that period. Earlier removal will be permitted when
+requested by a teacher and approved by his/her supervisor.
+
+Section F.
+       Material relating to grievances, or disciplinary action recommended but not taken,
+or disciplinary actions which have been overturned on appeal shall not be retained in any
+teacher personnel file.
+
+2023-2025 State Teacher Education Association Collective Bargaining Agreement              -8–
+Section G.
+       Personnel records (administrative working files), including anecdotal notes
+pertaining to the supervision and evaluation of employees may be maintained by the
+supervising administrator at the school site. Teachers will have the right upon request to
+review the contents of the administrative working file and to obtain a copy of any
+documents contained therein, or authorize such a request by their representative(s).
+                                                                                   REV:, 2021
+
+
+### ARTICLE 7 - RIGHTS OF PROFESSIONAL TEACHERS
+
+Section A. Discipline.
+      No member of the bargaining unit shall be disciplined, discharged, reprimanded,
+reduced in rank or compensation without just cause and due process.
+
+Section B. Complaint Investigation.
+1.    When the Agency receives a non-criminal complaint against a teacher, the Agency
+      shall fully discuss the complaint with the complainant(s). If, after initial review, a
+      comprehensive investigation is undertaken, the teacher shall be given first
+      opportunity to provide information he/she deems relevant. The Agency will provide
+      the teacher with updates on the status of the non-criminal complaint every ten (10)
+      school days and the disposition of the non-criminal complaint within a reasonable
+      amount of time.
+2.    If the teacher has reason to believe that such a discussion might adversely affect
+      his/her employment, he/she shall have the right to have a representative of his/her
+      choice present for that discussion. If the parties deem that further interaction with
+      the complainant could result in additional complaints, they shall have the option of
+      removing the complainant from the classroom, or place the teacher on leave with
+      pay status until the determination of the pre-suspension hearing.
+3.    If the Agency chooses to remove the accused teacher from his/her work
+      assignment during the investigation, the teacher may be assigned other duties
+      without loss of pay.
+4.    If discipline action is taken, the Agency must comply with the Discipline Section A.
+5.    A copy of the written report of the results of the Agency investigation shall be
+      provided to the teacher and to any involved party at the teacher's request, except
+      material confidential under either state or federal laws.
+6.    Disclosures to the teacher of a complaint alleging criminal conduct is not required
+      if there is a reasonable basis to believe the disclosure may jeopardize evidence,
+      provided that disclosure is required promptly after passage of such jeopardy.
+
+Section C. Student Evaluation.
+       Within the systems and standards adopted by the school, the teacher shall have
+the authority and responsibility to determine the individual grades and other evaluations
+of students within his/her classes. No grade or evaluations shall be changed without
+consultation with the teacher except when such consultation is not practicable because
+of the absence of one (1) or both parties. If a grade is changed and the teacher disagrees
+with the changed grade, the teacher can attach a written explanation of his/her reason for
+the grade he/she assigned to the student.
+
+
+
+
+2023-2025 State Teacher Education Association Collective Bargaining Agreement          -9–
+Section D. Non Discrimination.
+1.    It is the policy of the Employer, the Agency and the Association to continue their
+      policies of nondiscrimination against any teacher or employee applicant for
+      employment because of race, color, marital status, religion, sex, national origin,
+      age, mental or physical disability, sexual orientation, political affiliation, gender
+      identity or Association membership. Grievances alleging unlawful discrimination
+      will be filed under Subsections 3 and 4 of Section D of this Article.
+2.    Sexual harassment is considered a form of sex discrimination. No teacher shall
+      be subjected to sexual harassment by the Employer, the Agency, Association or
+      Agency employees. Unwelcome sexual advances, requests for sexual favors and
+      other forms of deliberate or repeated unsolicited verbal or physical conduct of a
+      sexual nature constitutes sexual harassment when:
+      a.       Submission to such conduct is made either explicitly or implicitly a term or
+               condition of an individual's employment;
+      b.       Submission to or rejection of such conduct by an individual is used as the
+               basis for employment decisions affecting such individual, or;
+      c.       Such conduct has the purpose or effect of unreasonably interfering with an
+               individual's work performance or creating an intimidating, hostile, or
+               offensive environment. The Agency will abide by all applicable statutes.
+3.
+      a.      Grievances alleging any form of discrimination as listed in Subsection D.1
+               of this Article shall be submitted in writing within thirty (30) calendar days of
+               the date the aggrieved or the Union knows or by reasonable diligence
+               should have known of the alleged grievance. The grievance shall be
+               submitted by personal delivery to the Supervising Teacher or designee
+               unless the Supervising Teacher or designee is involved and then it shall be
+               submitted to the School Director. If the Supervising Teacher, designee or
+               School Director are not available, the grievance shall be submitted to a staff
+               person in the administration office to be date stamped as received and,
+               upon request, a copy of the date stamped grievance will be provided to the
+               Association. Such grievance shall be filed on the Official Statement of
+               Grievance Form (Appendix C). The Supervising Teacher or designee shall
+               respond within fifteen (15) calendar days after receipt of the grievance. Any
+               grievance alleging violation of Subsection D.1 of this Article shall not be
+               arbitrable.
+      b.       Discrimination grievances may be submitted by the Union or the aggrieved
+               to the Bureau of Labor and Industries or the EEOC for resolution.
+      c.      If a grievance alleging unlawful discrimination based on Association
+               membership is not satisfactorily resolved, the teacher or the Association
+               may file a complaint with the Employment Relations Board.
+
+Section E.
+       Teachers shall use materials that are consistent with Agency Program Guidelines
+and Agency Content Standards. All criticism of materials, etc., will be handled by referral
+to the Supervising Teacher. Where the Supervising Teacher determines there may be
+merit to the criticism, the Supervising Teacher will conduct a review of the materials
+including but not limited to consulting with the involved teacher prior to making a decision.
+
+
+
+
+2023-2025 State Teacher Education Association Collective Bargaining Agreement             - 10 –
+Section F.
+      If a manager or supervisor has reason to discipline, scold or correct a teacher's
+work performance, it shall not be done in front of other employees/students.
+                                                                                      REV: 2023
+
+
+### ARTICLE 8 - POSITION DESCRIPTIONS
+
+       Individual position descriptions shall be reduced to writing and delineate the duties
+currently assigned to any teacher's position. A dated copy of the position description shall
+be given to the teacher upon assuming the position and at such time the position
+description is amended. The individual position description shall be subject to at least an
+annual review with the teacher, or within ninety (90) days of assuming a new position,
+and any changes shall be discussed with the teacher. Nothing contained herein shall
+compromise the right or the responsibility of the Agency to assign work consistent with
+the classification specification. No changes shall be made to a position description with
+the specific intent to eliminate the employee’s ability to do the job. Changes in the position
+description shall not be for reprisal or disciplinary reasons.
+
+### ARTICLE 9 - EVALUATION PROCEDURES
+
+Section A.
+       A program of evaluation and assessment of all teachers is hereby established. The
+purpose of this program is to measure and improve the competence of the teaching staff,
+thereby improving the quality of education for students, not for discipline. The procedural
+aspects of the program will be implemented consistent with Appendix D. The program
+shall contain the following elements:
+       1.      All evaluations will be conducted openly and with full knowledge of the
+               teacher by a TSPC licensed supervisor of the Education Program.
+       2.      Evaluation shall be based upon the duties outlined in the position
+               description.
+       3.      Timelines for evaluation will be established which guarantee teachers in
+               their first through third year of teaching in positions represented under this
+               contract will be evaluated annually. Teachers in their fourth year and
+               beyond of teaching in positions represented under this contract will be
+               evaluated at least every other year.
+       4.      Conducted in accordance with ORS 342.856 (SB 290).
+
+Section B.
+      The Teacher can attach a written statement to the annual performance evaluation
+and that statement shall be attached to the evaluation and remain with the evaluation for
+the duration of the time the evaluation is in the Teacher’s in his/her personal file.
+
+### ARTICLE 10 - PLAN OF ASSISTANCE
+
+Section A.
+      Plans of Assistance will only be used for identified teaching deficiencies.
+
+Section B.
+      Plans of Assistance will be placed in the supervisor’s working file.
+
+2023-2025 State Teacher Education Association Collective Bargaining Agreement            - 11 –
+Section C.
+       For identified deficiencies, a Plan of Assistance will be mutually developed. The
+teacher’s supervisor will normally develop the plan of assistance; at the discretion of the
+administration, however, other administrators may be involved in the development and
+administration of the plan of assistance as necessary and appropriate. The plan of
+assistance will be in effect for the period outlined in Subsection D of this Article and will
+provide time needed for improvement before taking additional action. The Plan shall
+include specific recommendations for means of improvement and suggestions of
+available sources of assistance.
+
+Section D.
+       The Plan of Assistance is a formal process of supervision to focus on improvement
+needed because of deficient performance as indicated by the most recent observation or
+evaluation report. A written Plan of Assistance is not a disciplinary document. The
+timelines for improvement shall not be less seventy-five (75) calendar days, excluding
+holidays, as defined in Article 16 of this Agreement, winter break, spring break, summer
+break and Thanksgiving break.
+1.     A conference between the teacher and his/her supervisor will be conducted to
+       discuss the Plan of Assistance. The Plan shall be in writing and will include:
+       a.      A description of the deficiency.
+       b.      The specific correction that is expected to take place.
+       c.      A plan for correcting the deficiency, criteria which will be used to measure
+               the correction, and a timeline.
+       d.      The specific assistance to be provided by the Agency.
+       e.      Schedule of conferences with written progress reports.
+       f.      The date by which the plan must be completed.
+2.     For purposes of coaching to improve performance, a teacher may invite a peer
+       evaluator, administrator or other supervisor to participate in any of the scheduled
+       observations and conferences, and provide personal or written feedback for the
+       conference and/or report.
+3.     Upon completion of the Plan of Assistance, follow-up observations will occur.
+       Unless the Plan has been revised and/or the observation schedule altered, the
+       teacher will, when the specified time for completion is reached, be notified that one
+       (1) of four (4) actions will be taken:
+       a.      Return to regular evaluation procedure.
+       b.      The Agency will continue to monitor the teacher in those areas listed as
+               deficient for an additional specified period of time. A Plan of Assistance can
+               be ended at the discretion of the Agency.
+       c.      Implement a new or revised Plan of Assistance.
+       d.      Initiate disciplinary action.
+
+### ARTICLE 11 - FILLING OF VACANCIES
+
+Section A. Vacancies and Transfers.
+Definition of Terms:
+        a.    Vacancy - A position in the Bargaining Unit which has become vacated or
+               one which has been newly created.
+        b.    Voluntary transfer - A request initiated by the teacher for a change in
+               assignment to another Agency position in the same or in a different location.
+
+2023-2025 State Teacher Education Association Collective Bargaining Agreement           - 12 –
+          c.       Involuntary transfer - An administratively initiated change in assignment to
+                    another Agency position in the same or into a different location.
+          d.       "Seniority," for the purpose of vacancies and transfer shall mean length of
+                    service measured from the initial employment in the classification of
+                    Institution Teacher represented by the Association. Seniority shall not be
+                    broken by unpaid leaves of absence except as provided for in the
+                    Agreement.
+          e.       “Location,” for the purpose of vacancies and transfers, shall mean campus.
+          f.       “Qualified,” for the purposes of vacancies and transfer shall mean related
+                    experience, licensure, and educational experience.
+
+Section B. Posting and Filling of Vacancies.
+1.    Any bargaining unit vacancy within the Agency which is to be filled shall be first
+      filled by means of voluntary transfer according to Section C of this Article.
+2.    Vacancy posting will be sent via email to all bargaining unit members.
+3.    No such vacancy shall be filled for at least seven (7) calendar days following the
+      emailing of the vacancy.
+4.    Administrative or supervisory position vacancies shall be posted in the same
+      manner as vacancies in the teacher bargaining unit.
+5.    When a mid-year vacancy occurs, the Agency may assign a temporary teacher for
+      the remainder of the work year. All vacancies for the succeeding work year will be
+      posted prior to the end of the applicable work year. Bargaining Unit members will
+      be given the opportunity to apply for voluntary transfer to the vacant positions as
+      provided in Section C below for the succeeding work year.
+6.    During periods when the majority of bargaining unit members are not on duty,
+      specifically during periods in excess of two (2) weeks or breaks in excess of two
+      (2) weeks, the Agency will ensure that vacancy notices are sent in a timely manner
+      to each bargaining unit member who has identified himself/herself in writing to
+      Human Resources as desiring to receive vacancy notices. The bargaining unit
+      member may request the vacancy notices be sent 1) via the U.S. Postal Service
+      to the home address of the member or 2) by e-mail to the e-mail address provided
+      in the written request to Human Resources.
+
+Section C. Voluntary Transfers.
+1.    Teachers who wish to apply for voluntary transfer to a posted vacancy for which
+      they are qualified and licensed shall make a written request to the Director and
+      Human Resources not later than the seventh (7th) calendar day following the
+      posting of such vacancy.
+2.    Teachers with specific interests in possible vacancies which may occur should
+      notify the Director and Human Resources of their interest. Should such a vacancy
+      occur, such teachers shall be contacted and notified of the vacancy. Teachers
+      notified shall contact the Director and Human Resources within five (5) working
+      days of receiving such notice to indicate their interest in said position.
+3.    The Director and Human Resources may deny a voluntary transfer to an employee
+      on a plan of assistance provided issues on that plan are related to the new position.
+4.    If the request is denied, the Director or Human Resources shall provide the teacher
+      with a written statement of the reasons for the denial.
+5.    If there is more than one (1) request, preference in assignment or transfer will be
+      given to the applicant with the most seniority.
+
+
+2023-2025 State Teacher Education Association Collective Bargaining Agreement             - 13 –
+Section D. Involuntary Transfers.
+1.    When a teacher is involuntarily transferred, he/she will have the opportunity to
+      make known to the appropriate administrator his/her wishes regarding a new
+      assignment.
+2.    Notice of an involuntary transfer will be given to the teacher no later than August
+      10. If changes happen after this date and before the contract year, during in
+      service, or if during the school year the teacher is involuntarily transferred, the
+      teacher may use up to two (2) school days to prepare for the new assignment.
+3.    When an involuntary transfer or reassignment is necessary, and when two (2)
+      candidates are equally qualified for the position to which one will be transferred,
+      the teacher with the least seniority will be transferred.
+4.    An involuntary transfer will be made only after a meeting between the teacher and
+      the Director or designee, at which time he/she will be given reasons for the transfer.
+      The teacher will be permitted to visit the new assignment prior to transfer.
+5.    Teachers being involuntarily transferred will be informed of vacancies known at the
+      time the transfer decision is being made which the Agency intends to fill. The
+      teacher will be able to indicate a preference of assignment and, if the teacher is
+      qualified, shall be placed in the preferred vacant position.
+6.    When it becomes necessary for a teacher to transfer because of changes in
+      enrollment or programs, the Agency will give the transferred teacher priority over
+      new hires in filling any vacancy for which the teacher is qualified.
+7.    An involuntary transfer shall not be made for the purpose of discipline.
+
+Section E. Other Provisions.
+1.    Transfer may not be used as a means of discipline.
+2.    If the agency changes a teacher’s assignment and that change requires the
+      teacher to use special knowledge/skills they don’t currently possess, the Employer
+      will determine the need for training if such training is needed, the Agency will
+      provide the training at no cost to the employee.
+3.    The Agency shall maintain an Affirmative Action plan.
+
+### ARTICLE 12 - REDUCTION IN FORCE
+
+Section A. Layoff.
+       The parties agree on the following job security provisions for teachers in the event
+of layoffs or reduction in force. When any teacher is laid off, this Section shall apply.
+1.     Notice.
+       a.      When considering a reduction in force the Agency shall give notice to the
+               Association that such reduction in force is under consideration and provide
+               the Association with an opportunity to present its respective views.
+       b.      Before laying off a teacher(s) the Agency shall make every reasonable effort
+               to transfer teachers whose assignments are eliminated to any other vacant
+               position within the bargaining unit for which they are certified or for which
+               they may qualify following a reasonable period of time and training.
+       c.      The Employer shall notify each teacher to be laid off at least thirty (30) days,
+               whenever possible, before the actual layoff.
+       d.      A teacher notified of a pending layoff shall select one (1) of the following
+               options and communicate such choice in writing to the Agency within five
+               (5) calendar days from the date the teacher is notified in writing.
+
+2023-2025 State Teacher Education Association Collective Bargaining Agreement            - 14 –
+                    (1)  The teacher may displace a teacher in the campuses with the lowest
+                          service credits in the same classification for which he/she is licensed.
+                 (2) The teacher may demote to the lowest service credit position in any
+                          classification in the bargaining unit for which he/she is qualified.
+                 (3) The teacher may elect to be laid off. A teacher who elects to be laid
+                          off shall be placed on the layoff list.
+          e.     The Agency shall notify the person on layoff of all vacancies the Agency
+                 intends to fill.
+2.        Layoff Order.
+          a.     When current teachers cannot be transferred to other positions for which
+                 they are qualified or may be trained for within the bargaining unit, the
+                 Agency shall lay off teachers in the inverse order of seniority (least service,
+                 first released; longest service, last released) subject to the following: (a)
+                 Retained teachers shall be currently licensed for the position available; (b)
+                 less than full time teachers shall not displace teachers holding a position
+                 with greater full time equivalency.
+          b.     Computation of service credits shall be as follows:
+                 (1) Credit one (1) point for each full month of unbroken service (except
+                          as a temporary appointee) within the Agency and classification.
+                 (2) Unpaid leaves of less than six (6) months and educational leaves of
+                          up to a year shall be counted in-service credit.
+                 (3) A break in service is a separation or interruption of employment
+                          without pay of more than one (1) year, unless the break is due to
+                          layoff status.
+3.        Layoff Benefits. The Agency shall permit the teacher to continue his/her insurance
+          benefits on a self-pay basis as prescribed by Consolidated Omnibus Budget
+          Reconciliation Act (1986) (COBRA).
+
+Section B. Recall.
+1.    Recall Rights.
+      a.      For a period of twenty-seven (27) months any teacher laid off or choosing
+              to accept a non-teaching position under this Section shall have the right of
+              recall to any teaching position created or vacated for which he/she is
+              qualified and appropriately licensed, and/or eligible for a Restricted license.
+              Continued employment is subject to conditions of the Restricted license.
+      b.      When a teacher is laid off because of being separated from State service
+              per Section A.1.d(3) of this Article, moving expenses will be paid once by
+              the Agency. (In other words, moving expenses will be reimbursed only
+              when that teacher has, in fact, left State service and is called back from the
+              layoff list to a location over fifty (50) miles from the original campus or
+              camp.) Moving expenses will not be paid by the Agency for any other
+              moves associated with displacement, demotion or return from a layoff list.
+2.    Recall Order. Teachers shall be recalled in inverse order of layoff (last released,
+      first recalled; first released, last recalled) consistent with Section B.1.a.
+3.    Notice.
+      a.      Notice of an offer of recall shall be by telephone or certified mail to the
+              teacher's mailing address officially registered with the Agency. The teacher
+              shall indicate acceptance of recall within five (5) working days of receiving
+              the offer of recall.
+
+
+2023-2025 State Teacher Education Association Collective Bargaining Agreement               - 15 –
+          b.        Refusal by the teacher to accept an offer of recall to a particular position
+                    during the twenty-seven (27) month recall period shall not affect the
+                    teacher's rights to be offered recall for subsequent positions.
+
+Section C. Displacement.
+       Any teacher displaced by another teacher exercising options under Section
+A.1.d.(1) and (2) may also exercise any option available under Section A.1.d.
+
+### ARTICLE 13 - TRIAL SERVICE
+
+Section A.
+      Each teacher appointed to a position in the bargaining unit by initial appointment
+or promotion shall, with each appointment, serve a trial service period.
+
+Section B.
+       The trial service period is recognized as an extension of the selection process and
+is the time immediately following appointment. Full-time teachers employed by the
+Agency before or during the 2014-2015 school year shall have a trial service period of
+nine (9) full teaching months. Teachers who are employed after the end of the 2014-
+2015 school year shall have trial service period not to exceed twenty-seven (27) full
+consecutive and full teaching months.
+
+Section C.
+      Trial service may be extended in instances where a trial service teacher has been
+on a cumulative leave without pay for fifteen (15) days or more and then only by the
+number of days the teacher was on such leave.
+
+Section D.
+      When, in the judgment of the Appointing Authority, performance has been
+adequate to clearly demonstrate the competence and fitness of the trial service teacher,
+the Appointing Authority may, at any time, appoint the teacher to regular status.
+
+Section E.
+       A trial service teacher may be removed from service when, in the judgment of the
+Appointing Authority, the teacher is unable or unwilling to perform his/her duties
+satisfactorily or his/her habits and dependability do not merit continuance in the service.
+Removals under this Article shall be well documented, including coaching if appropriate,
+but are not subject to the Grievance and Arbitration Procedure.
+
+### ARTICLE 14 - GRIEVANCE PROCEDURE
+
+Section A. Definitions.
+1.    A "grievance" is a claim by a teacher, a group of teachers, or the Association based
+      upon the interpretation, alleged inequitable application, or alleged violation of a
+      term or condition of this Agreement. A claim of inequitable treatment affecting a
+      teacher, a group of teachers, or the Association may be dealt with in accordance
+      with Article 3, Association Rights and Privileges, of this Agreement and Section C,
+      herein.
+2.    Aggrieved Person - the person or persons or the Association making the claim.
+
+2023-2025 State Teacher Education Association Collective Bargaining Agreement              - 16 –
+3.        Party in Interest - the person or persons making the claim and any person who
+          might be required to take action or against whom action might be taken in order to
+          resolve the claim.
+
+Section B. Rights of Teachers to Representation.
+      Any aggrieved person may be represented at all stages of the grievance procedure
+by himself/herself or, at his/her option, by a representative selected or approved by the
+Association. The Association shall have the right to be present and to state its view at all
+stages of the grievance procedure.
+
+Section C. Grievance Processing.
+1.    Step 1. Grievances shall be initiated within thirty (30) calendar days of the time
+      the aggrieved or the Association knows or by reasonable diligence should have
+      known of the alleged grievance. Grievances shall be reduced in writing, stating
+      the specific Article(s) alleged to have been violated and clear explanation of the
+      alleged violation sufficient to allow processing of the grievance. Grievances shall
+      be submitted on the form identified as the Official Statement of Grievance Form
+      (Appendix C). Teachers shall informally pursue resolution of the grievance with
+      their immediate supervisor outside the bargaining unit during this time. The
+      aggrieved, with or without the Association representation, shall submit the
+      grievance to his/her immediate excluded educational supervisor. If the on-site
+      supervisor is not the immediate educational supervisor then a grievance shall be
+      submitted to both the educational supervisor and the on-site supervisor. The final
+      decision shall rest with the educational supervisor within the time limits. The
+      supervisor shall respond in writing within fourteen (14) calendar days from the
+      receipt of the grievance, unless the grievance was filed prior to a scheduled
+      vacation period, in this event, an extension may be requested, per Section C.6.
+2.    Step 2. If the grievance is not settled in Section C.1. (Step 1), the grievance shall
+      be submitted to the Agency Head or designee in writing within fourteen (14)
+      calendar days from the receipt of the supervisor's response. The Agency Head or
+      designee shall respond in writing to the grievance within fourteen (14) calendar
+      days from the receipt of the grievance.
+3.    Step 3. If the grievance is not resolved at the Agency (Step 2), the Association
+      may file the grievance with the Labor Relations Unit of the Department of
+      Administrative Services within fourteen (14) calendar days after receiving the
+      response from the Agency. The Labor Relations Unit shall respond to the
+      grievance within fourteen (14) calendar days.
+4.    If the grievance is not satisfactorily resolved in Section C.3. (Step 3), the
+      Association may, except for grievances involving claims of unlawful discrimination,
+      submit the issue to arbitration within fourteen (14) calendar days after receiving
+      the response. However, by mutual agreement the parties may attempt to mediate
+      the dispute. Additional articles will not be added to the grievance past the Labor
+      Relations Unit Level (Step 3).
+5.    Arbitration.
+      a.     The parties shall request a list of five (5) arbitrators from the Employment
+             Relations Board and meet within five (5) working days, after the receipt of
+             the list, to select an arbitrator by the method of alternately striking names.
+             The coin toss will determine which side strikes first. Whichever side loses
+             the coin toss will strike first.
+      b.     Bench Awards.
+
+2023-2025 State Teacher Education Association Collective Bargaining Agreement          - 17 –
+                    (1)  If all of the Parties, including the arbitrator, agree, the arbitrator shall,
+                          prior to the close of the hearing, render a bench award, stating the
+                          reasons for reaching that award.
+                 (2) Such award and reasons therefore must be reduced to writing and
+                          mailed to the parties within seven (7) days from the close of the
+                          hearing.
+          c.     When a bench decision will not be made, each party may submit a brief
+                 written summary of the issues raised at the hearing and arguments
+                 supporting its position within a mutually acceptable time period after the
+                 hearing. The arbitrator will be required to render an award within fifteen
+                 (15) calendar days, and to reduce his award to writing within thirty (30)
+                 calendar days after the close of the hearing and shall state the reasons for
+                 reaching that award.
+          d.     The parties agree that the decision or award of the arbitrator shall be final
+                 and binding on each of the parties and that they will abide thereby. The
+                 arbitrator shall have no authority to add to, subtract from, or change any of
+                 the terms of this Agreement.
+          e.     The arbitrator's fee and expenses shall be equally shared by the parties.
+6.        Time Limits.
+          a.     Time limits specified in this procedure must be strictly observed, unless
+                 either party requests a specific extension of time, which, if agreed to, must
+                 be stipulated in writing and shall become part of the grievance record.
+          b.     If at any step of the grievance procedure the Employer fails to issue a
+                 response within the time limits set forth in this Article, the grievance shall
+                 automatically advance to the next step of the grievance procedure unless
+                 withdrawn and it cannot be resubmitted. Time limits referred to in this
+                 Article, as per Section C.6(a), may be waived by mutual agreement in
+                 writing.
+          c.     In the event a grievance is filed at such time that it cannot be processed
+                 through all the steps in this grievance procedure within the school calendar
+                 (i.e., vacation periods), and if left unresolved until school resumes could
+                 result in irreparable harm to a party of interest, the time limits set forth herein
+                 shall be reduced so that the grievance procedure may be exhausted prior
+                 to the interruption.
+7.        Any time spent by a teacher required to attend meetings during regular working
+          hours with the supervisor, Agency Head or designee or other appropriate persons
+          to investigate the grievance, shall be considered as work time.
+8.        The parties agree to meet personally or through authorized representatives at
+          reasonable intervals and at reasonable times and places at the request of either
+          party for the purpose of discussing employment relations and problems.
+
+Section D. Group Grievance.
+      If, in the judgment of the Association, a grievance affects a group or class of
+teachers, the Association may submit such grievance in writing to the Agency Head or
+designee directly and the processing of such grievance shall be commenced at Section
+C.2 (Step 2). The Association may process such a grievance through all levels of the
+grievance procedure even though the aggrieved person does not wish to do so.
+      If a grievance arises from action or inaction on the part of a member of the
+administration at a level above the immediate supervisor, the aggrieved will submit such
+grievance in writing to the Agency Head or designee directly and the processing of such
+
+2023-2025 State Teacher Education Association Collective Bargaining Agreement                   - 18 –
+grievance will be commenced at Section C.2 (Step 2). The Association may process such
+a grievance through all levels of the grievance procedure even though the aggrieved
+person does not wish to do so.
+Section E. Reprisals.
+       No reprisals of any kind shall be taken by the teacher or any member of the
+Administration against any party in interest, any representative, any member of the
+Association, or any other participant in the grievance procedure by reason of such
+participation.
+
+Section F. Separate Grievance File.
+        All documents, communications and records dealing with the processing of a
+grievance shall be filed in a separate grievance file and shall not be kept in the personnel
+file of any of the participants.
+
+### ARTICLE 15 - NO STRIKE OR LOCKOUT
+
+       The Association agrees not to participate in or sanction any strike, slowdown,
+walkout, refusal to report to work or interruptions of work during the term of this
+Agreement. In the event of an unauthorized work stoppage the Association, upon request
+of the Employer, shall immediately advise in writing the involved bargaining unit teachers
+to return to work. The Employer will not lock out teachers as a consequence of a dispute
+arising during the period of this Agreement.
+       Pursuant to ORS 243.698, if bargaining takes place during the term of this
+Agreement over mandatory subjects, the Employer may exercise its right to unilaterally
+implement and the Association preserves its right to strike.
+
+### ARTICLE 16 - WORK YEAR
+
+Section A.
+1.    The number of paid days in an individual teacher’s contract will normally not
+      exceed one hundred and ninety-two (192) days per academic year. Teachers new
+      to the Agency shall work one hundred and ninety-three (193) days; such teachers
+      will report to work one (1) work day before fall in-service for training and orientation.
+      A resource list containing general topics of information and the person who is best
+      suited to provide that information will be available at the orientation. The first two
+      (2) duty days for a teacher hired after the school year begins shall be a non-
+      teaching day for the purpose of training and orientation. The academic year may
+      be extended for teachers, subject to legislatively approved funding and the
+      teacher's agreement, not to exceed two hundred and twenty (220) days provided
+      the following conditions are met or unless otherwise agreed by the parties:
+      a.      Work year schedules may be individualized to meet specific program needs
+              as identified by a teacher or management. Such individualized schedules
+              (departures from the basic work year calendar) must be mutually agreed
+              upon in writing by the teacher and the Agency prior to implementation. This
+              should be done each year
+      b.      The teacher receives, at the beginning of the school year, notice that he/she
+              will have an extended school year with the exact number of days specified.
+      c.      Payment for any work beyond one hundred and ninety-two (192) days shall
+              be on a per diem basis of 1/192nd of annual salary.
+
+2023-2025 State Teacher Education Association Collective Bargaining Agreement            - 19 –
+2.        The Association and any individual teacher shall have the right to submit calendar
+          suggestions to the School Director by March 1 of each year.
+3.        The School Director shall employ a system for staff input on the calendar
+          procedure which shall be returned to him/her by March 15.
+4.        Subject to the requirements of OAR 581-022-1620, the school year will normally
+          be composed of one hundred and ninety-two (192) paid days for the teachers as
+          follows:
+          a.    One hundred and eighty-five (185) classroom and in-service days of which
+                 at least twelve (12) days shall be used for in-service, grading or IEP
+                 updating.
+                 (1)     Five (5) of the twelve (12) days shall be used for grading, (IEP
+                         updates) and non-student contact days as follows: One (1) grading
+                         day shall be scheduled to coincide with the twelfth (12th) week of
+                         each semester; one (1) IEP update day shall be scheduled at the end
+                         of each semester; and one (1) additional non-student contact day will
+                         be scheduled at administrative discretion during the school year. No
+                         meetings or professional development will be scheduled on grading
+                         days, IEP update days, or the one (1) non-student contact day. Of
+                         the twelve (12) days, two (2) days may be scheduled during the
+                         school year for staff development with topics to be determined by the
+                         supervisor. Staff may submit suggestions to the Agency on subjects
+                         that could be part of professional development training. These days
+                         are subject to the requirements of OAR 581-022-1620.
+          b.    The administration will provide teachers with a minimum of four (4)
+                 consecutive hours of time during the in-service week at the beginning of the
+                 year during which no mandatory meetings or trainings will be scheduled.
+          c.    Eight (8) holidays:
+                 (1) Labor Day
+                 (2) Veterans' Day
+                 (3) Thanksgiving
+                 (4) Day immediately following Thanksgiving (Friday)
+                 (5) Martin Luther King, Jr.'s Birthday
+                 (6) Presidents Day
+                 (7) Memorial Day
+                 (8) Juneteenth on June 19th.
+          d.     Teachers whose contracts are extended may receive other paid holiday(s)
+                 if such holidays fall during their contract extension.
+          e.     When a holiday specified in this Article falls on Saturday, the preceding
+                 Friday shall be recognized as the holiday. When a holiday specified in this
+                 Article falls on Sunday, the following Monday shall be recognized as the
+                 holiday.
+          f.     When Veterans Day falls on Tuesday or Wednesday, the holiday will be
+                 observed on the preceding Monday. When Veterans Day falls on Thursday,
+                 the holiday will be observed on the following Friday. In these instances,
+                 teachers will be required to work on the Tuesday, Wednesday, or Thursday
+                 and will work on November 11 without additional pay. Teachers will not
+                 work and will receive holiday pay for the Monday/Friday (whichever is
+                 applicable) designated as Veteran’s Day. This provision shall only be
+                 effective upon similar agreements being signed between the Employer and
+                 Union for all other represented employees employed at the schools.
+
+2023-2025 State Teacher Education Association Collective Bargaining Agreement           - 20 –
+          g.        With the consent of the immediate supervisor, teachers may choose to
+                    attend workshops, conferences, etc. on a non-contract day (including a
+                    Saturday), rather than the Statewide in-service day in October. The teacher
+                    will receive pay for the Statewide in-service day, but not additional pay for
+                    the non-contract day used.
+          h.        At any time, management may offer additional work days for teachers.
+                    Teachers who choose to accept these duties on a voluntary basis will be
+                    compensated at the per diem rate.
+                                                                                     REV:, 2021,2023
+
+
+### ARTICLE 17 - WORK DAY
+
+       The work day shall consist of eight (8) hours with one-half (1/2) hour of this time
+for duty free lunch. The work day shall be eight (8) consecutive hours between the hours
+of 7 a.m. and 5 p.m.
+       With mutual consent of the teacher and supervisor, an exception to the starting
+and ending times, and/or number of hours in a day, may be altered, provided the work
+week does not exceed forty (40) hours.
+       It is not the intent of either party to modify current provisions or practices with
+respect to preparation time. Teachers who teach all periods of the school day, thereby
+foregoing the preparation period, shall be paid, in addition to regular teaching pay, the
+teacher’s hourly rate for teaching during the preparation period.
+       At the School for the Deaf, teachers will be assigned a minimum of forty-five (45)
+consecutive minutes of daily preparation time within the student contact day. Teachers
+who are required by the Agency to give up part or all of the above-described preparation
+time shall be paid, in addition to regular teaching pay, a pro-rated amount of their hourly
+rate for the actual time spent on Agency-directed activities in lieu of the preparation time.
+
+### ARTICLE 18 - IN-SERVICE, EDUCATIONAL TRAINING AND DEVELOPMENT
+
+Section A.
+       New teachers shall be provided orientation to the Agency and to their specific job
+functions within thirty (30) days of employment.
+
+Section B.
+       Teachers who are directed to attend courses, whether during working hours or not,
+shall have all cost and travel allowances paid by the Agency. It is recognized that training
+cannot always be conducted at times convenient to all teachers involved. If a teacher is
+directed to attend a class or seminar beyond the teacher’s regular daily work hours or
+work week, the teacher will receive his or her per diem pay for the actual time spent at
+the class or seminar. The scheduling of training sessions conducted by the Agency shall
+consider the personal circumstances of the teacher to be involved as far as is practicable
+and will provide affected teachers with five (5) working days advance notice of training if
+the training will be outside the teacher's normal working hours. Teachers will be provided
+professional training for which the Agency is budgeted. Notice of availability of
+conferences shall be posted sufficiently in advance to allow teachers to plan and apply
+for such opportunities.
+       Subject to operating requirements, teachers may be granted time off without loss
+of pay or benefits for classes or conferences related to the teacher's current classification
+or promotional opportunity, for which the Agency may pay tuition, fees and charges.
+
+2023-2025 State Teacher Education Association Collective Bargaining Agreement                - 21 –
+Where attendance must, due to operating requirements, be limited, such opportunities
+shall be distributed as equitably as possible among teachers requesting such opportunity.
+
+Section C.
+1.    Teacher’s requesting approval of in-service training days shall submit the request
+      in writing to the immediate supervisor not less than five (5) working days prior to
+      the date of the in-service training activity. Such request shall include the time,
+      location, topic, sponsor, presenter, and relationship of the activity to the teaching
+      assignment. Release of teachers for in-service training will be at the discretion of
+      the supervisor. The supervisor will notify the requesting teacher of approval or
+      disapproval (and the reason(s) for disapproval) in writing within two (2) working
+      days of receipt of the request.
+2.    Costs shall be borne by the Agency in accordance with Article 28, Travel
+      Expenses.
+
+Section D.
+       The Agency may allow time off with pay with the approval of the immediate
+supervisor to visit other schools. If a teacher is denied time for school visitations, he/she
+will be informed in writing regarding the reason for a denial of the visitation request.
+
+Section E. Developmental Opportunities.
+        The Agency may provide developmental assignments and job rotation
+assignments.      Teachers in these assignments retain their permanent position
+classification, remain on the Agency payroll, retain the representation status of their
+permanent positions while on the assignments, except for assignments in supervisory or
+confidential positions, and return to their permanent positions on completion of the
+assignments.
+        Teachers participating in developmental and job rotation assignments will continue
+to receive compensation at the rate of their permanent position and shall continue to
+accrue rights and benefits related to their permanent position.
+
+Section F. Professional Memberships.
+       Upon request by a teacher, and subject to Agency budgetary constraints and
+operating requirements, the Agency may pay up to one hundred fifty dollars ($150.00)
+per year for membership(s) in professional organization(s). Memberships must be related
+to the teacher’s current work assignment.
+
+### ARTICLE 19 - TUITION REIMBURSEMENT
+
+Section A.
+      To increase the quality of teaching, the Agency supports the principle of continuing
+education for teachers.
+
+Section B.
+        Teachers wishing to attend credit or non-credit courses which they are not directed
+to attend, may apply in writing for approval to attend and be reimbursed for their actual
+tuition cost, exclusive of books and other expenses. Tuition reimbursement shall be
+conditional upon receipt of prior approval in writing from the Director. The Director shall
+have the discretion to approve or deny such requests based on budgeting and staffing
+needs of the Agency and relevance to the subject matter taught by the teacher.
+2023-2025 State Teacher Education Association Collective Bargaining Agreement          - 22 –
+Reimbursement will be made when satisfactory evidence of successful completion is
+submitted to the Director.
+
+Section C.
+      The Agency, in conjunction with the Association, shall publish and disseminate
+materials describing special courses offered in the immediate area for teachers.
+
+Section D.
+1.    To the extent prior approval to attend such courses or training and be reimbursed
+      therefore is received, days used for professional development shall be considered
+      regular days of employment with full salary and benefits for teachers, if it is during
+      the employee’s recognized work day. Accordingly, there will be paid release time
+      to take classes as specified in this Article without any deductions for substitute
+      costs.
+2.    If the teacher takes approved classes during times outside the work day, work
+      year, or extended work year, then the teacher will not receive any additional salary
+      for that time.
+
+Section E.
+        The Agency will reimburse teachers for testing fees they incur to obtain specific
+certifications required by the Agency. To obtain reimbursement teachers must, after
+obtaining the certification, provide the Agency a copy of the certification and proof of
+testing fees paid. This Section does not apply to certifications teachers are required to
+have as a condition of employment either at the time of hire or within a specified period
+of time pursuant to the terms of hire.
+
+### ARTICLE 20 - STUDENT MANAGEMENT
+
+Section A.
+      The Agency, and members of the Association, via the Labor-Management
+Committee, shall jointly develop recommendations for a written procedure for handling
+student discipline. Such procedure shall include:
+1.    Provision for an individual teacher's in-class expectations, rules, and plans for
+      student management.
+2.    Provision for a teacher to remove a student from class who is disrupting the
+      educational program and send the student to a location designated by the
+      Supervising Teacher.
+3.    Provision for the supervisor or his/her designee to communicate with the teacher
+      prior to returning the student to class.
+4.    When there is actual or threatened harassment or actual or threatened assault
+      upon the person of the teacher and the student is removed from the classroom in
+      order to seek a resolution to the situation, the student shall be returned to the
+      classroom only after a face-to-face conference that includes at least the teacher,
+      the student and the Supervising Teacher or his designee.
+5.    Provision for removing students from class when the supervisor or licensed
+      professional designee is not available.
+
+
+
+
+2023-2025 State Teacher Education Association Collective Bargaining Agreement         - 23 –
+Section B.
+       Printed copies of these specific school procedures shall be distributed to school
+staff as procedures are revised. Lockdown procedures and the crisis plan will also be
+reviewed annually by the Safety Committee and Leadership Team. The school discipline
+procedure shall be reviewed by the licensed teaching staff annually.
+
+Section C.
+       IEP information will be made available through Synergy and the Student Records
+Section of the School no later than the first (1st) day of school for students if available. If
+the information is not electronically available, teachers may obtain a paper copy of the
+IEP before students start school if the IEP is available.
+       Except for unforeseen student ‘drop ins’ and ‘add/drop week’, when the Student
+Records Section of the School receives approval for a student placement, the School will
+email all staff of the new student and the start date. Prior to students being assigned to
+a class, the administration shall notify appropriate teachers in writing, and within the limits
+of state and federal requirements for release of information, concerning students who
+have severe medical or emotional disorders or are identified as potentially hazardous to
+themselves or others. If the student is currently in class, the teacher will be notified of
+any new information reaching the administration.
+
+Section D.
+1.    If a teacher suffers physical or verbal abuse from a student, the teacher will report
+      the incident to his/her supervisor with a referral form, following the written
+      procedure.
+2.    The supervisor shall take appropriate action as soon as possible.
+3.    The teacher shall be notified of the results of the referral of the incident and any
+      discipline imposed by no more than five (5) working days. If the student must be
+      reported to an outside agency because of the incident, the teacher will receive
+      notification of that fact within five (5) working days. The teacher will not be
+      disciplined for reporting the incident.
+
+### ARTICLE 21 - SAFETY AND HEALTH
+
+Section A.
+      The Agency agrees to abide by standards of safety and health in accordance with
+the Oregon Safe Employment Act (ORS 654.001 to 654.295 and 654.991) and related
+Administrative Rules.
+
+Section B.
+       Required equipment, proper safety devices and clothing shall be provided at no
+cost to the teacher by the Agency for all teachers engaged in work where such devices
+are required by the Act. Such equipment, where provided, must be used.
+
+Section C.
+      Teachers may at any time submit written suggestions to their immediate supervisor
+and safety committee representatives concerning the maintenance of safe and secure
+working conditions. Upon receipt of such a suggestion an investigation shall be
+conducted and a mutually agreeable solution shall be reached.
+
+
+
+2023-2025 State Teacher Education Association Collective Bargaining Agreement            - 24 –
+Section D.
+       If a teacher claims that an assigned job, work area, vehicle or equipment is unsafe,
+or might endanger his/her health, or that of his/her students, and for that reason refuses
+to do the job or use the vehicle or equipment, the teacher shall give specific reason(s) in
+writing to his/her supervisor. The supervisor shall meet with the affected teacher(s) and
+a representative(s) of the Association as soon as practicable.
+       Pending determination, the teacher may be given related work elsewhere. If no
+related work is available the teacher may be placed on Miscellaneous Paid Leave.
+
+Section E.
+       If, in the conduct of official duties, a teacher is exposed to serious communicable
+diseases which would require immunization against or testing, or if required by the
+Agency, the teacher shall be provided immunization against or testing for such
+communicable diseases without cost to the teacher and without deduction from accrued
+sick leave. Where immunization or testing shall prevent or help prevent such disease
+from occurring, teachers shall be granted accrued sick leave for the time off from work
+required for immunization or testing.
+
+### ARTICLE 22 - SICK LEAVE
+
+Section A. Sick Leave with Pay.
+Sick leave with pay for teachers shall be determined in the following manner:
+1.     Eligibility for sick leave with pay. Teachers shall be eligible for sick leave with pay
+       immediately upon accrual.
+2.     Full time employees shall accrue seventy-two (72) hours of sick leave per school
+       year at a rate of eight (8) hours per month for September through May. An
+       additional twenty-four (24) hours shall be credited to each employee at the
+       beginning of the school year. New full time employees shall accrue fifty-six (56)
+       hours sick leave upon employment. Additional sick leave shall not accrue until
+       after the fourth month of employment. Part time employees shall accrue sick leave
+       on a pro rata basis. Sick leave not taken shall accumulate and may be used at a
+       future time. The employee’s sick leave balance shall be provided monthly and
+       available on request.
+
+Section B. Utilization of Sick Leave with Pay.
+      Teachers who have accrued sick leave shall be eligible for sick leave for any period
+of absence from employment during the applicable work year, which is due to the
+teacher's illness, bodily injury, disability resulting from pregnancy, necessity for medical
+or dental care, exposure to contagious disease, attendance upon members of the
+teacher's immediate family (teacher's parent, wife, husband, children, brother, sister,
+grandmother, grandfather, mother-in-law, father-in-law, daughter-in-law, son-in-law, or
+other member of the immediate household) where the teacher's presence is required
+because of illness or death in the immediate family of the teacher or the teacher's spouse.
+The Agency has the duty to require that the teacher make other arrangements, within a
+reasonable period of time, for the attendance upon children or other persons in the
+teacher's care. Certification of an attending physician or practitioner may be required by
+the Agency to support the teacher's claim for sick leave if the teacher is absent in excess
+of seven (7) consecutive days, or if the Agency has evidence that the teacher is abusing
+
+
+
+2023-2025 State Teacher Education Association Collective Bargaining Agreement           - 25 –
+       sick leave privileges. The Agency may also require such certificate from a teacher
+to determine whether the teacher should be allowed to return to work where the Agency
+has reason to believe that the teacher's return to work would be a health hazard to either
+the teacher or to others. In cases of pregnancy, the Agency may require a certificate from
+the attending physician to determine if the teacher should be allowed to work.
+
+* Definition of a member of the employee’s immediate household includes where the
+person lives in the employee’s home and whether the person is a legal dependent or the
+employee has legal custody of the person.
+
+Section C. Sick Leave Without Pay.
+        After earned sick leave has been exhausted, the Agency shall grant sick leave
+without pay for any job-incurred injury or illness for a period which shall terminate upon
+demand by the teacher for reinstatement accompanied by a certificate issued by the duly
+licensed attending physician that the teacher is physically and/or mentally able to perform
+the duties of the position. After earned sick leave has been exhausted, the Agency may
+grant sick leave without pay for any non-job-incurred injury or illness to any teacher upon
+request for a period up to one (1) year. Extensions of sick leave without pay for a
+non-job-incurred injury or illness beyond one (1) year must be approved by the Agency
+and the administrator. The Agency or the administrator may require that the teacher
+submit a certificate from the attending physician or practitioner in verification of disability
+resulting from a job-incurred or non-job-incurred injury or illness. Any cost associated
+with the supplying of a certificate concerning a job-incurred injury or illness that is not
+covered by Workers' Compensation benefits shall be borne by the Agency. Any cost
+associated with the supplying of a certificate concerning a non-job-incurred injury or
+illness shall be borne by the teacher. In the event of a failure or refusal to supply such a
+certificate, or if the certificate does not clearly show sufficient disability to preclude that
+teacher from the performance of duties, such sick leave may be canceled and the
+teacher's service terminated.
+
+Section D. Restoration of Sick Leave Credit.
+      Teachers who have been separated from the State service and return to a position
+(except as temporary teachers) within two (2) years shall have unused sick leave credits
+accrued during previous employment restored.
+
+Section E.
+      A teacher shall have all of his/her accrued sick leave credits transferred when the
+teacher is transferred to a different State agency.
+
+Section F. Workers' Compensation Payment.
+      Salary paid for a period of sick leave resulting from a condition incurred on the job
+and also covered by Workers' Compensation, shall be equal to the difference between
+the Workers' Compensation for lost time and the teacher's regular salary rate. The
+teacher may elect to use or not use sick leave.
+      If the teacher elects to use sick leave, prorated charges will be made against
+accrued sick leave.
+
+
+
+
+2023-2025 State Teacher Education Association Collective Bargaining Agreement            - 26 –
+### ARTICLE 23 - PAID LEAVES OF ABSENCE
+
+      In addition to all other types of leave, teachers shall be entitled to the following
+leaves of absence with full pay and benefits:
+Section A. Types of Leave.
+1.
+      a.     Personal Leave Days. After the completion of six (6) months of service with
+             the Agency, regular, permanent, full-time teachers shall be entitled to
+             twenty-four (24) hours of personal leave with pay each fiscal year. Part-time
+             teachers shall be granted such leave in a prorated amount of twenty-four
+             (24) hours based on the same percentage or fraction of month they are
+             hired to work provided if it is anticipated that they will work one thousand
+             forty (1,040) hours for the fiscal year. Should a part-time teacher fail to work
+             one thousand forty (1,040) hours for the fiscal year, the value of personal
+             leave time used may be recovered from the teacher. Personal leave shall
+             not be cumulative from year to year. A teacher may use such leave for any
+             purpose he/she desires, and may be taken at times mutually agreeable to
+             the Agency and the teacher. One (1) day of personal leave may be used
+             as an emergency day, limited to situations that require immediate attention
+             by the teacher during a work day. Immediate notice by face to face meeting,
+             phone or text must be given to a supervisor, or the supervisor’s designee,
+             before the teacher may leave the campus or worksite. Teachers will be
+             compensated for unused personal leave days at the end of the school year
+             at a rate of one hundred dollars ($100) per unused eight (8) hour-day.
+             Compensation for unused personal leave of less than eight (8) hours shall
+             be on a pro-rata basis, for one (1) hour increments. Unused increments of
+             less than one (1) hour will not be compensable.
+      b.     Military Leave. A teacher who has served with the State of Oregon or its
+             counties, municipalities or other political subdivisions for six (6) months or
+             more immediately preceding an application for military leave, and who is a
+             member of the National Guard or of any reserve components of the armed
+             forces of the United States is entitled to a leave of absence with pay for a
+             period not exceeding fifteen (15) calendar days or eleven (11) workdays in
+             any training year. If the training time for which the teacher is called to active
+             duty is no longer than fifteen (15) calendar days, the teacher may be paid
+             for the first fifteen (15) days only if such time is served for the purpose of
+             discharging an obligation of annual active duty for training in the military
+             reserve or National Guard.
+      c.     Pre-retirement Counseling.
+             (1) Teachers shall be entitled to take up to twenty-eight (28) hours leave
+                     with pay to pursue bona fide pre-retirement counseling programs.
+             (2) Teachers shall request the use of leave provided in this Article at least
+                     five (5) days prior to the intended date of use. Authorization for the
+                     use of pre-retirement counseling leave shall not be withheld unless
+                     the Agency determines that the use of such leave shall hinder the
+                     efficiency of the teacher's work unit.
+             (3) When the dates requested for pre-retirement counseling leave cannot
+                     be granted for the above reason, the Agency will work with the
+                     employee to find an alternate date.
+
+2023-2025 State Teacher Education Association Collective Bargaining Agreement           - 27 –
+2.        Jury Duty. Service on a jury will be considered time worked.
+3.        Floating Day.
+          a.     Teachers will be eligible to use up to eight (8) hours of paid leave time for
+                 the sole purpose of paid time off when there are hazardous road conditions
+                 resulting from adverse weather (such as ice, snow or weather-caused
+                 flooding) that preclude or delay the teacher from reporting to work. Nothing
+                 precludes the Agency from verifying that inclement conditions exist.
+          b.     This leave time is neither compensable upon separation from employment
+                 nor cumulative year to year.
+          c.     The teacher must contact his/her immediate supervisor in the manner
+                 established by the Agency at least one (1) hour before the scheduled work
+                 day or delay in reporting to work.
+          d.     Under no circumstances will a teacher be paid twice for the same hours.
+                                                                                       REV: 2021
+
+
+### ARTICLE 24 - UNPAID LEAVES OF ABSENCE
+
+Section A. Additional Leaves Without Pay.
+1.    A permanent teacher may be granted a leave of absence without pay, for
+      educational travel, or educational leave without pay for up to one (1) year (an
+      extension may be granted). Any authorized leave of absence without pay does
+      not constitute separation from State service. A teacher who is granted leave during
+      their applicable work year shall have that year counted as a full year of experience
+      on the salary schedule if the teacher has taught at least one half (1/2) of the work
+      year.
+2.    A permanent teacher shall be granted leave of absence for involuntary military
+      service, Peace Corps, ACTION, or VISTA Service. A permanent teacher shall be
+      granted leave of absence for advanced study for the purpose of completing not
+      less than forty-five (45) quarter hours of collegiate work. These teachers shall be
+      returned at the step on the prevailing salary schedule that they would have attained
+      had they not taken leave.
+3.    The Agency may grant leaves to teachers for the purpose of attending professional
+      development workshops sponsored by the Association or an Association affiliate.
+
+Section B.
+       Teachers on a leave of absence without pay of less than fifteen (15) calendar days
+shall continue to accrue and receive all benefits and protections under this Agreement.
+During such leaves which exceed fifteen (15) days in duration, the teacher shall not
+continue to accrue any benefits. Arrangements may be made with the Agency to defer
+upon the teacher the cost of group insurance benefits for the duration of such leaves.
+Such leaves shall be considered to be a break in service.
+
+Section C. Military Leave Without Pay.
+       Leaves of absence without pay shall be granted all regular teachers who enter the
+military service of the United States. Such teachers shall be returned to State service in
+compliance with the Veteran's Reemployment Rights Law, Title 38, U.S.C. Chapter 43.
+
+Section D. Peace Corps Leave Without Pay.
+      Upon completion of his/her service in the Peace Corps, a regular teacher shall
+have the right to return to a position in the same classification as his/her last held position
+
+2023-2025 State Teacher Education Association Collective Bargaining Agreement            - 28 –
+and return at the step on the prevailing salary schedule that they would have attained
+had they not taken leave, without loss of seniority or other teacher rights.
+
+Section E. Court Appearance Leave Without Pay.
+        A teacher may request and shall be granted leave without pay for the time required
+to make an appearance as a plaintiff or defendant in a civil or criminal court proceeding
+that is not connected with the teacher's officially assigned duties.
+### ARTICLE 25 - COMPENSATION
+
+Section A.
+1.    Effective December 1, 2023, Compensation Plan salary rates shall be increased
+      by six and five tenths percent (6.5%). Effective January 1, 2025 Compensation
+      Plan salary rates shall be increased by six and fifty five hundredths percent
+      (6.55%)*.
+      *If the legislature appropriates new funding of at least thirteen million dollars
+      ($13,000,000) in calendar year 2024, the 2025 cost-of-living adjustment will be
+      effective January 1, 2025. If the legislature does not appropriate at least thirteen
+      million dollars ($13,000,000) in calendar year 2024, the 2025 cost-of-living
+      adjustment will be effective February 1, 2025.
+2.    Special Education Differential.
+             All employees shall receive a Special Education differential of five percent
+      (5%) above their base rate of pay.
+3.    Teachers shall be awarded full credit for teaching experience in a public school or
+      state-operated or state-supported education program to a maximum of fifteen (15)
+      years. Any portion of a public school year beyond one hundred and forty (140)
+      contract days shall be considered one (1) year of teaching experience.
+4.    From date of implementation of this contract, movement on the salary schedule,
+      horizontally and vertically, shall be in accordance with experience and training as
+      of the beginning of each applicable work year. Teachers not at the top of the salary
+      schedule shall be eligible for a salary increase at the beginning of each applicable
+      work year.       Teachers shall be responsible for providing the necessary
+      documentation by September 15 for consideration for salary adjustments due to
+      additional education/training experience received.
+5.    Teachers shall be paid no less than the minimum rate of pay for their classification
+      upon appointment to a position in State service. An entrance salary rate may
+      exceed the minimum rate when the Appointing Authority believes it is in the best
+      interest of the State to do so.
+
+Section B.
+       Lead work differential shall be defined as a differential for teachers who have been
+formally assigned by their supervisor, in writing, "lead work" duties over five (5) other
+teachers for fifteen (15) consecutive calendar days or longer. Lead work is where, on a
+recurring daily basis, the teacher has been directed to perform substantially all of the
+following functions: orient new teachers, if appropriate; assign and reassign tasks to
+accomplish prescribed work efficiently; give direction to workers concerning work
+procedures; transmit established standards of performance to workers; review work of
+teachers for conformance of standards.
+       The differential shall be five percent (5%) beginning from the first day the duties
+were formally assigned in writing for the full period of the assignment.
+
+2023-2025 State Teacher Education Association Collective Bargaining Agreement        - 29 –
+Section C.
+      Once each year and no later than August 1, each teacher shall have the
+opportunity to designate that he/she shall be paid in nine (9), ten (10), or twelve (12)
+regular monthly amounts.
+
+Section D.
+        Teachers shall be paid not later than the first day of the month, when a payday
+occurs on Monday through Friday, payroll checks shall be released to teachers that day.
+When payday falls on a Saturday, Sunday or banking holiday, teacher's paychecks shall
+be made available after 1:00 p.m. on the last working day of the month. When a teacher
+is not scheduled to work on the payday, the paycheck may be released prior to payday if
+the paycheck is available and the teacher has completed the "Request for Release of
+Payroll Check" Form AD20. However, the teacher may not cash or deposit the check
+prior to the normal release time. Any violation of this provision may be cause for
+disciplinary action. All checks released early under this Article shall be accompanied by
+written notice from the Employer as to the normal release time and date for that teacher
+and a statement that early cashing or depositing of the check may be cause for
+disciplinary action. However, this shall not apply to appropriate 10th of month payroll.
+The release day for December paychecks dated January 1 shall be the first working day
+in January to avoid the risk of December's paychecks being included in the prior year's
+earnings for tax purposes.
+        During any month a teacher is not at the campus, checks shall be mailed on the
+regular pay date to the designated address of the teacher.
+
+Section E.
+      Upon appropriate written request from the teacher, the State shall deduct from the
+salary of any teacher and make appropriate remittance for the following approved
+deductions:
+       a.   STEA/OEA/NEA
+       b.   Savings Bonds
+       c.   Charitable Fund Drive
+       d.   Approved Insurance Programs
+       e.   Credit Union
+       f.   Tax Sheltered Annuity
+       g.   OEA Foundation
+
+Section F.
+1.    Extra Duty Pay shall be in accordance with Appendix B.
+      a.     Extra Duties shall be those school related activities authorized in writing
+             which extend beyond the normal school day.
+      b.     For athletic team activities, the annual pay shall be prorated on a monthly
+             basis during the seasonal period. For all other activities payment shall be
+             made in monthly increments.
+      c.     A market study to compare the compensation of extra duty stipends with
+             established comparators shall be completed no later than January 31, 2022.
+Section G.
+      A differential of five percent (5%) over base rate will be paid to all School for the
+Deaf employees whose assignments require the use of sign language. Use of sign
+
+
+
+2023-2025 State Teacher Education Association Collective Bargaining Agreement        - 30 –
+language must be assigned and contained in an employee’s individual position
+description.
+                                                                                REV: 2017,2019, 2021,2023
+
+
+### ARTICLE 26 - INSURANCE AND FRINGE BENEFITS
+
+Section A.
+       An Employer contribution will be made for each eligible employee who has at least
+eighty (80) paid regular hours in the month or as required by law. Teachers completing
+their applicable work year shall receive twelve (12) months insurance coverage.
+
+Section B.
+       For Plan Years 2023, 2024 and 2025 the Employer will pay ninety-five percent
+(95%) and the employee will pay five percent (5%) of the monthly premium rate as
+determined by PEBB. For employees who enroll in a medical plan that is at least ten
+percent (10%) lower in cost than the monthly premium rate for the highest cost plan
+available to the majority employees, the Employer shall pay ninety-nine percent (99%) of
+the monthly premium for PEBB health, vision, dental and basic life insurance benefits and
+the employee shall pay one percent (1%).
+
+Section C.
+      A teacher may purchase additional insurance if available to this bargaining unit
+and so permitted by PEBB.
+                                                                                    REV: 2017, 2021,2023
+
+
+### ARTICLE 27 - PERS
+
+Section A. Public Employees Retirement System (“PERS”) Members.
+       For purposes of this Article, PERS participating member is an employee who has
+established membership in PERS (Tier 1, Tier 2, or OPSRP) and who is presently
+employed in a qualifying position.
+
+Section B. PERS Participating Member Contributions.
+       Effective February 1, 2019, Compensation Plan salary rates for PERS participating
+members were increased by six and ninety-five one-hundredths percent (6.95%) and the
+Stated ceased “picking up” the six percent (6%) employee contribution to their PERS
+account or Individual Account Program (“IAP”) account, as applicable, on behalf of such
+member, pursuant to a reduction of the member’s compensation under ORS
+238A.335(2)(a) and OAR 459-009-0200(3). No PERS participating member will have an
+option to receive any part of that six percent (6%) contribution directly, as cash or
+otherwise. The intent of the Parties is for the employee contributions described under
+this Section to qualify for treatment as Employer contributions under Section 414(H)(2) of
+the Internal Revenue Code and to be included in members’ salary and defined by ORS
+238.005(26) and ORS 238A.005(17).
+
+Section C.
+       The Parties acknowledge that various challenges have been filed that contest the
+lawfulness, including the constitutionality, of various aspects of PERS reform legislation
+enacted by the 2003 Legislative Assembly, including Chapters 67 (HB 2003) and 68 (HB
+2004) of Oregon Laws 2003 (“PERS Litigation”). The Parties acknowledge that
+
+2023-2025 State Teacher Education Association Collective Bargaining Agreement                     - 31 –
+challenges have been or may be filed that contest the legislation enacted by the 2019
+Legislative Assembly, including SB 1049. Nothing in this Agreement shall constitute a
+waiver of any party’s rights, claims or defenses with respect to the above.
+                                                                                     REV: 2019
+
+
+### ARTICLE 28 - TRAVEL EXPENSES
+
+      All rates and provisions shall be consistent with the Oregon Department of
+Administrative Services Accounting Division policy #40.01 00 PO.
+
+### ARTICLE 29 - INCLEMENT CONDITIONS
+
+Section A.
+        When, in the judgment of the Institution, weather conditions require the closing or
+curtailing of operations after the teacher reports to work, the teacher shall be paid for the
+remainder of his/her work day.
+
+Section B.
+        Teachers unable to report due to verified inclement weather conditions may be
+authorized to use personal leave, leave without pay, or the floating day as provided in
+Article 23.A.5 (Paid Leaves of Absence) during the period in which the teacher's work is
+curtailed due to the inclement weather or hazardous conditions.
+
+Section C.
+      Teachers who arrive for work and are unable to leave because of verified
+hazardous road conditions resulting from inclement weather or road closures shall be
+allowed to stay inside a building.
+
+### ARTICLE 30 - DONATED LEAVE
+
+Section A.
+       This Article shall apply for the purpose of allowing bargaining unit members to
+donate accrued personal leave for use by other eligible bargaining unit members as sick
+leave. The Agency will allow STEA-represented employees to make donations of accrued
+personal leave, not to exceed the hours necessary to cover for the qualifying absence as
+provided in this Article, to a co-worker in the STEA bargaining unit. Donated personal
+leave shall retain its status as not cumulative from year to year.
+
+Section B.
+       For purposes of this Agreement, donated leave donations will be administered
+under the following stipulations and terms of this Agreement and shall be strictly enforced
+with no exceptions:
+1.     The recipient and donor must be regular status employees of the Agency and
+       members of the STEA bargaining unit.
+2.     The Employer and the Agency shall not assume any tax liabilities that would
+       otherwise accrue to this employee.
+3.     Use of donated leave shall be consistent with those provisions found in Article 22
+       (Sick Leave).
+4.     Applications for donated leave shall be in writing, sent to the Agency’s Human
+       Resources Manager and accompanied by a treating physician’s written statement
+2023-2025 State Teacher Education Association Collective Bargaining Agreement          - 32 –
+          certifying (1) that an illness or injury will continue for at least fifteen (15) days
+          beyond the donee’s projected exhaustion of accrued leave and (2) that the total
+          leave period is at least thirty (30) days. Donated leave may be used intermittently.
+5.        Donations shall be credited at the recipient’s current regular hourly rate of pay.
+6.        Employees receiving workers compensation, PERS retirement benefits, short-term
+          disability insurance benefits, or on parental leave will not be considered eligible to
+          receive donations under this Agreement.
+
+### ARTICLE 31 – ESSENTIAL WORKER PAY
+
+When a situation exists that would otherwise curtail or close state offices, essential
+workers having to report to work, in-person, shall receive the Essential Worker Inclement
+Weather/Hazardous Conditions Pay differential.
+
+The Essential Worker Inclement Weather/Hazardous Conditions Pay differential shall be
+three ($3.00) dollars per hour for all hours worked on a designated closure or curtailment
+day, regardless of the starting or ending time of the designated closure or curtailment.
+
+DAS or ODOT will determine if a closure would have occurred on a weekend and/or a
+holiday when state offices are otherwise closed.
+                                                                                        NEW:2023
+                                                                                        \\\\\\\\\\\\
+
+
+
+
+2023-2025 State Teacher Education Association Collective Bargaining Agreement               - 33 –
+                          APPENDIX A-1 SALARY SCHEDULE JULY 1, 2023
+   Step         BA Only        BA + 24 Hrs       BA + 45 Hrs      BA + 69 Hrs   MA Only   Ma + 24 Hrs   Ma + 45 Hrs
+                52,524          54,084            55,716           57,372       59,100     60,876        62,700
+     1           4,377           4,507             4,643            4,781        4,925     5,073         5,225
+                 273.56          281.69            290.19           298.81       307.81    317.06        326.56
+                54,084          55,716            57,372           59,100       60,876     62,700        64,572
+     2           4,507           4,643             4,781            4,925        5,073     5,225         5,381
+                 281.69          290.19            298.81           307.81       317.06    326.56        336.31
+                55,716          57,372            59,100           60,876       62,700     64,572        66,516
+     3           4,643           4,781             4,925            5,073        5,225     5,381         5,543
+                 290.19          298.81            307.81           317.06       326.56    336.31        346.44
+                 57,372          59,100            60,876           62,700       64,572    66,516        68,496
+     4           4,781           4,925             5,073            5,225        5,381     5,543         5,708
+                 298.81          307.81            317.06           326.56       336.31    346.44        356.75
+                 59,100          60,876            62,700           64,572       66,516    68,496        70,560
+     5           4,925           5,073             5,225            5,381        5,543     5,708         5,880
+                 307.81          317.06            326.56           336.31       346.44    356.75        367.50
+                 60,876          62,700            64,572           66,516       68,496    70,560        72,672
+     6           5,073           5,225             5,381            5,543        5,708     5,880         6,056
+                 317.06          326.56            336.31           346.44      356.75     367.50        378.50
+                 62,700          64,572            66,516           68,496      70,560     72,672        74,868
+     7           5,225           5,381             5,543            5,708        5,880     6,056         6,239
+                 326.56          336.31            346.44           356.75      367.50     378.50        389.94
+                 64,572          66,516            68,496           70,560      72,672     74,868        77,100
+     8           5,381           5,543             5,708            5,880        6,056     6,239         6,425
+                 336.31          346.44            356.75           367.50      378.50     389.94        401.56
+                 66,516          68,496            70,560           72,672      74,868     77,100        79,416
+     9           5,543           5,708             5,880            6,056        6,239     6,425         6,618
+                 346.44          356.75            367.50           378.50      389.94     401.56        413.63
+                 68,496          70,560            72,672           74,868      77,100     79,416        81,804
+     10          5,708           5,880             6,056            6,239        6,425     6,618         6,817
+                 356.75          367.50            378.50           389.94      401.56     413.63        426.06
+                 70,560          72,672            74,868           77,100      79,416     81,804        84,264
+     11          5,880           6,056             6,239            6,425        6,618     6,817         7,022
+                 367.50          378.50            389.94           401.56      413.63     426.06        438.88
+                72,672           74,868            77,100           79,416      81,804     84,264        86,772
+     12          6,056           6,239             6,425            6,618        6,817     7,022         7,231
+                378.50           389.94            401.56           413.63      426.06     438.88        451.94
+                74,868           77,100            79,416           81,804      84,264     86,772        89,376
+     13          6,239           6,425             6,618            6,817        7,022     7,231         7,448
+                389.94           401.56            413.63           426.06      438.88     451.94        465.50
+                                                                                86,772     89,376        92,052
+     14                                                                          7,231     7,448         7,671
+                                                                                451.94     465.50        479.44
+                                                                                                         94,824
+     15                                                                                                  7,902
+                                                                                                         493.88
+
+
+
+
+2023-2025 State Teacher Education Association Collective Bargaining Agreement                                 - 34 –
+                    APPENDIX A-2 SALARY SCHEDULE DECEMBER 1, 2023
+
+   Step         BA Only        BA + 24 Hrs       BA + 45 Hrs      BA + 69 Hrs   MA Only   Ma + 24 Hrs   Ma + 45 Hrs
+                55,944          57,600            59,340           61,104       62,940     64,836        66,780
+     1           4,662           4,800             4,945            5,092        5,245     5,403          5,565
+                 291.38          300.00            309.06           318.25       327.81    337.69         347.81
+                57,600          59,340            61,104           62,940       64,836     66,780        68,772
+     2           4,800           4,945             5,092            5,245        5,403     5,565          5,731
+                 300.00          309.06            318.25           327.81       337.69    347.81         358.19
+                59,340          61,104            62,940           64,836       66,780     68,772        70,836
+     3           4,945           5,092             5,245            5,403        5,565     5,731          5,903
+                 309.06          318.25            327.81           337.69       347.81    358.19         368.94
+                 61,104          62,940            64,836           66,780       68,772    70,836         72,948
+     4           5,092           5,245             5,403            5,565        5,731     5,903          6,079
+                 318.25          327.81            337.69           347.81       358.19    368.94         379.94
+                 62,940          64,836            66,780           68,772       70,836    72,948         75,144
+     5           5,245           5,403             5,565            5,731        5,903     6,079          6,262
+                 327.81          337.69            347.81           358.19       368.94    379.94         391.38
+                 64,836          66,780            68,772           70,836       72,948    75,144         77,400
+     6           5,403           5,565             5,731            5,903        6,079     6,262          6,450
+                 337.69          347.81            358.19           368.94      379.94     391.38         403.13
+                 66,780          68,772            70,836           72,948      75,144     77,400         79,740
+     7           5,565           5,731             5,903            6,079        6,262     6,450          6,645
+                 347.81          358.19            368.94           379.94      391.38     403.13         415.31
+                 68,772          70,836            72,948           75,144      77,400     79,740         82,116
+     8           5,731           5,903             6,079            6,262        6,450     6,645          6,843
+                 358.19          368.94            379.94           391.38      403.13     415.31        427.69
+                 70,836          72,948            75,144           77,400      79,740     82,116        84,576
+     9           5,903           6,079             6,262            6,450        6,645     6,843          7,048
+                 368.94          379.94            391.38           403.13      415.31     427.69        440.50
+                 72,948          75,144            77,400           79,740      82,116     84,576        87,120
+     10          6,079           6,262             6,450            6,645        6,843     7,048          7,260
+                 379.94          391.38            403.13           415.31      427.69     440.50        453.75
+                 75,144          77,400            79,740           82,116      84,576     87,120        89,736
+     11          6,262           6,450             6,645            6,843        7,048     7,260          7,478
+                 391.38          403.13            415.31           427.69      440.50     453.75        467.38
+                77,400           79,740            82,116           84,576      87,120     89,736        92,412
+     12          6,450           6,645             6,843            7,048        7,260     7,478          7,701
+                403.13           415.31            427.69           440.50      453.75     467.38        481.31
+                79,740           82,116            84,576           87,120      89,736     92,412        95,184
+     13          6,645           6,843             7,048            7,260        7,478     7,701          7,932
+                415.31           427.69            440.50           453.75      467.38     481.31        495.75
+                                                                                92,412     95,184        98,040
+     14                                                                          7,701     7,932          8,170
+                                                                                481.31     495.75        510.63
+                                                                                                         100,992
+     15                                                                                                   8,416
+                                                                                                         526.00
+
+
+
+
+2023-2025 State Teacher Education Association Collective Bargaining Agreement                                 - 35 –
+                      APPENDIX A-3 SALARY SCHEDULE JANUARY 1, 2025
+   Step         BA Only        BA + 24 Hrs       BA + 45 Hrs      BA + 69 Hrs   MA Only   Ma + 24 Hrs   Ma + 45 Hrs
+                59,604          61,368            63,228           65,112       67,068     69,084        71,160
+     1           4,967           5,114             5,269            5,426        5,589      5,757         5,930
+                 310.44          319.63            329.31           339.13       349.31     359.81        370.63
+                61,368          63,228            65,112           67,068       69,084     71,160        73,272
+     2           5,114           5,269             5,426            5,589        5,757      5,930         6,106
+                 319.63          329.31            339.13           349.31       359.81     370.63        381.63
+                63,228          65,112            67,068           69,084       71,160     73,272        75,480
+     3           5,269           5,426             5,589            5,757        5,930      6,106         6,290
+                 329.31          339.13            349.31           359.81       370.63     381.63        393.13
+                 65,112          67,068            69,084           71,160       73,272     75,480        77,724
+     4           5,426           5,589             5,757            5,930        6,106      6,290         6,477
+                 339.13          349.31            359.81           370.63       381.63     393.13        404.81
+                 67,068          69,084            71,160           73,272       75,480     77,724        80,064
+     5           5,589           5,757             5,930            6,106        6,290      6,477         6,672
+                 349.31          359.81            370.63           381.63       393.13     404.81        417.00
+                 69,084          71,160            73,272           75,480       77,724     80,064        82,464
+     6           5,757           5,930             6,106            6,290        6,477      6,672         6,872
+                 359.81          370.63            381.63           393.13      404.81      417.00        429.50
+                 71,160          73,272            75,480           77,724      80,064      82,464        84,960
+     7           5,930           6,106             6,290            6,477        6,672      6,872         7,080
+                 370.63          381.63            393.13           404.81      417.00      429.50        442.50
+                 73,272          75,480            77,724           80,064      82,464      84,960        87,492
+     8           6,106           6,290             6,477            6,672        6,872      7,080         7,291
+                 381.63          393.13            404.81           417.00      429.50     442.50        455.69
+                 75,480          77,724            80,064           82,464      84,960     87,492        90,120
+     9           6,290           6,477             6,672            6,872        7,080      7,291         7,510
+                 393.13          404.81            417.00           429.50      442.50     455.69        469.38
+                 77,724          80,064            82,464           84,960      87,492     90,120        92,832
+     10          6,477           6,672             6,872            7,080        7,291      7,510         7,736
+                 404.81          417.00            429.50           442.50      455.69     469.38        483.50
+                 80,064          82,464            84,960           87,492      90,120     92,832        95,616
+     11          6,672           6,872             7,080            7,291        7,510      7,736         7,968
+                 417.00          429.50            442.50           455.69      469.38     483.50        498.00
+                82,464           84,960            87,492           90,120      92,832     95,616        98,460
+     12          6,872           7,080             7,291            7,510        7,736      7,968         8,205
+                429.50           442.50            455.69           469.38      483.50     498.00        512.81
+                84,960           87,492            90,120           92,832      95,616     98,460        101,424
+     13          7,080           7,291             7,510            7,736        7,968      8,205         8,452
+                442.50           455.69            469.38           483.50      498.00     512.81        528.25
+                                                                                98,460     101,424       104,460
+     14                                                                          8,205      8,452         8,705
+                                                                                512.81     528.25        544.06
+                                                                                                         107,604
+     15                                                                                                   8,967
+                                                                                                         560.44
+
+
+
+
+2023-2025 State Teacher Education Association Collective Bargaining Agreement                                 - 36 –
+### APPENDIX B
+
+1.        Extra duties shall be those school related activities authorized in writing by the
+          Employer which extend beyond a normal school day. The purpose of these
+          activities is to meet the immediate needs and interests of students. Each teacher
+          assigned to one (1) of the activities below shall be paid a percentage of the annual
+          salary as identified in Article 25 (Compensation) based on step 1 of the Masters
+          only degree column using the following percentages:
+
+          OSD Athletic Director                                                 10.00%
+          M.S. Sports Coordinator                                                6.69%
+          Athletic Coach                                                         7.50%
+          Assistant Athletic Coach                                               5.28%
+          All Extracurricular Advisor Positions                                 5.78%
+
+2.        For athletic team activities, the annual pay shall be prorated on a monthly basis
+          during the seasonal period. For all other activities, payment shall be made in
+          monthly increments. If any of the extra duties listed in Section 1 above are
+          disbanded or eliminated, the teacher assigned to the duty will be paid on a
+          prorated basis for the portion of the season completed.
+
+3.        Coaches will not be required to drive buses to their respective athletic events
+          except for unforeseen emergencies.
+
+4.        Coaches may begin regular coaching duties ten (10) minutes after the last class
+          of the day, except when staff meetings are scheduled. On those days coaches will
+          begin their coaching duties at the end of the staff meetings.
+
+5.        Management retains the right to fill or not fill the Extra-duty assignments. When
+          management intends to fill an Extra-duty assignment, they will post the Extra-duty
+          assignment at the end of the school year for the following school year.
+          Represented employees will have the first opportunity to fill an Extra-duty
+          assignment.
+
+6.        Subject to Subsection 5 above Extracurricular Advisors include, but are not limited
+          to: All Class Advisors, Student Body Government, Student Council, and Deaf
+          Academic Bowl. Each position may have more than one (1) Advisor. If this occurs,
+          the stipend is split between the Advisors for that activity.
+                                                                                         REV: 2019
+
+
+
+
+2023-2025 State Teacher Education Association Collective Bargaining Agreement              - 37 –
+### APPENDIX C -- Official Grievance Form
+
+
+Grievant:                                                                       School:
+
+Home Address:                                                                   Home Phone:
+
+Immediate Supervisor:
+
+
+                                    Type of Grievance (check one):
+                             _____Contract _____Policy _____Administrative
+
+
+LEVEL ONE:
+A. Grievance Statement (include facts upon which claim is made, contract articles
+violated, and why informal decision is unacceptable):
+
+
+
+
+Remedy Sought:
+
+
+
+
+Grievant Signature:                                                                   Date:
+
+B. Date Received by Supervisor:
+
+C. Decision by Supervisor:
+
+
+
+
+Supervisor Signature                                                                  Date
+
+Date Received by Grievant:
+
+
+
+
+2023-2025 State Teacher Education Association Collective Bargaining Agreement                 - 38 –
+LEVEL TWO:
+A. Appeal to Labor Level (include reasons for appeal):
+
+
+
+
+Grievant Signature:                                                             Date:
+
+B: Decision by Agency Head:
+
+
+
+
+Agency Head Signature:                                                          Date:
+
+C. Date Received by Grievant and Initials:
+
+LEVEL THREE:
+A. Appeal to Labor Relations Unit (LRU), Department of Administrative Services
+(include reasons for appeal):
+
+
+
+
+Grievant Signature:                                                             Date:
+
+B. Decision by LRU:
+
+
+
+
+Signature of Grievance Supervisor at LRU:                                               Date:
+
+C. Date Received by Grievant and Initials:
+
+LEVEL FOUR:
+Arbitration (Mediation may be attempted at this time if mutually agreeable):
+
+
+
+
+2023-2025 State Teacher Education Association Collective Bargaining Agreement                   - 39 –
+### APPENDIX D -- Guidelines for OSD Teacher Evaluation
+
+
+I.        The primary purpose of this evaluation is the improvement of instruction at OSD.
+
+II.       Schedule of Evaluation Activities for Certified Staff:
+          (A)  An orientation program for all staff for whom the evaluation procedure is new
+               shall be scheduled during in-service prior to the opening of school.
+          (B)  Teachers in 1st-3rd year of teaching at OSD in positions represented by this
+               Agreement and teachers who have had a significant change in their
+               assigned duties will be evaluated annually:
+               (1)     Before September 30, the following shall occur between the teacher
+                       and his/her supervisor:
+                       (a)    Identify one (1) professional practice goal, one (1)
+                              professional responsibilities goal, and two (2) student learning
+                              growth goals.
+                       (b)    The goal plan shall be a collaborative effort between the
+                              teacher and his/her supervisor, using Sections III, IV, V and
+                              VI of this appendix as a guide.
+               (2)     Before October 15, the following shall occur between the teacher and
+                       his/her supervisor:
+                       (a)    Review the teacher’s position description and identify
+                              teaching goals for formal observation.
+                       (b)    The first formal observation of the teacher by his/her
+                              supervisor.
+                       (c)    A conference to review the observation.
+               (3) Before February 15, the following shall occur between the teacher
+                       and supervisor:
+                       (a)    A second formal observation of the teacher by his/her
+                              supervisor.
+                       (b)    An observation conference shall be held to discuss
+                              observation and to review goal plan. The conference shall
+                              include positive recommendations for changes in the
+                              teacher’s original goals as required and constructive feedback
+                              regarding performance and progress toward the original
+                              goals.
+                       (c)    The supervisor will write a mid-year appraisal report.
+               (3) Before June 7, the following shall occur between the teacher and
+                       his/her supervisor:
+                       (a)    A third formal observation of the teacher by the supervisor.
+                       (b)    An observation conference shall be held to discuss
+                              observation and to review the goal plan.
+                       (c)    The supervisor shall write a collaborative mid course data
+                              review of goals.
+          (C)  Teachers in 4th year and beyond of teaching at OSD in positions
+               represented by this Agreement will be evaluated at least every other year:
+               (1)     Before September 30, the following shall occur between the teacher
+                       and his/her supervisor:
+
+
+
+2023-2025 State Teacher Education Association Collective Bargaining Agreement           - 40 –
+                              (a)    Identify one (1) professional practice goal, one (1)
+                                     professional responsibilities goal, and two (2) student learning
+                                     growth goals.
+                              (b)    The goal plan shall be a collaborative effort between the
+                                     teacher and his/her supervisor, using Section III, IV, V and VI
+                                     of this appendix as a guide.
+                    (2)       Before November 15, the following shall occur between the teacher
+                              and his/her supervisor:
+                              (a)    The review of the teacher’s position description.
+                              (b)    The first formal observation of the teacher by his/her
+                                     supervisor.
+                              (c)    A conference to review the observation and to write a “goal
+                                     plan.” The goal plan will be a collaborative effort between the
+                                     teacher and his/her supervisor, using the Guidelines for
+                                     Effective Performance as a guide.
+                              (d)    Teacher may request a complete evaluation cycle (same as
+                                     1-3 year teachers).
+                    (3)      Before February 15, the following shall occur between the teacher
+                              and his/her supervisor.
+                              (a)    An informal goal plan review shall occur between the teacher
+                                     and his/her supervisor.
+                              (b)    A written report shall not be required. The supervisor shall
+                                     write a collaborative mid course data review of goals.
+                              (c)    At the discretion of the supervisor, he/she may inform the
+                                     teacher of his/her intention to waive the requirement for the
+                                     second formal observation.
+                    (4)      Before June 7, the following shall occur between the teacher and
+                              his/her supervisor.
+                              (a)    A second formal observation of the teacher by his/her
+                                     supervisor, unless notification of this requirement being
+                                     waived occurred at the mid-year conference.
+                              (b)    Conference shall be held to discuss observation, unless
+                                     notification of this requirement being waived occurred at the
+                                     mid-year conference, and/or to review the goal plan.
+                              (c)    The supervisor shall write a summative review.
+
+III.      Observation Guidelines:
+          (A)  A preconference will be held before any formal observation occurs. A formal
+                observation of the teacher shall be scheduled in advance and be conducted
+                for a minimum of thirty (30) minutes. The schedule shall be agreed upon
+                by the teacher and his/her supervisor. However, this does not preclude
+                other informal observations for evaluations.
+                (1) A teacher shall have the option of asking not to be observed on a
+                       particular day.
+                (2) A teacher may invite a peer evaluator, administrator, or other
+                       supervisor to participate in any of the scheduled observations and
+                       conferences, and provide personal or written feedback for the
+                       conference and/or report.
+                (3) All formal evaluations and observations will be reviewed with the
+                       teacher in a post-evaluation conference at a mutually agreeable
+
+2023-2025 State Teacher Education Association Collective Bargaining Agreement                  - 41 –
+                              time, generally within five (5) working days of the formal observation.
+                              During the conference, the supervisor should review and make
+                              comments concerning the observation and include any constructive
+                              feedback regarding performance and a progress toward the goals.
+                              The teacher may request additional evaluations.
+                    (4)      Teachers shall have a right to respond in writing to any evaluation or
+                              observation and have the response attached to the evaluation.
+
+IV.       Conference/Report Guidelines:
+          (A)   The observation conference should occur within five (5) work days of the
+                 formal observation.
+          (B)   During the conference the supervisor should review and make comments
+                 concerning the observation, and include any constructive feedback
+                 regarding performance and progress toward the teaching performance
+                 goals.
+          (C) The summary report should be completed within five (5) work days of the
+                 observation conference. The teacher is encouraged to add written
+                 comments to the appraisal report.
+          (D) The evaluator shall discuss the summary report with the teacher. The
+                 teacher shall have the opportunity to provide his/her comments to be
+                 attached to the evaluation form. The teacher shall sign the evaluation and
+                 that signature shall indicate only that the teacher has read the evaluation.
+                 When requested, a copy shall be provided to the teacher prior to his/her
+                 signature and again when finalized.
+          (E)   If there are changes made in the evaluation after discussion with the
+                 teacher, the revised evaluation will be rediscussed with the teacher. The
+                 teacher shall have the opportunity to comment on and shall sign the revised
+                 evaluation. That signature shall indicate only that the teacher has read the
+                 evaluation. A copy shall be provided to the teacher at this time. Any written
+                 comments of the teacher shall be attached to the evaluation.
+
+V.        Goal Setting Guidelines
+          (A)   The supervisor shall schedule an initial conference for goals writing.
+          (B)   Student Learning Goals (SLG) must be written in the SMART format.
+          (C) The supervisor and the teacher shall have a collaborative mid course data
+                review of four (4) goals and determine adjustments.
+          (D) The supervisor and the teacher shall meet to review the end of year data
+                and evaluate effectiveness of two (2) SLGs, and the six (6) domains of job
+                performance as specified in Marshall Teacher Evaluation Rubrics.
+          (E)   The supervisor shall write a summative review.
+          (F)   The routing of the summative review for signatures shall be: supervisor,
+                teacher, director and appointing authority.
+          (G) The teacher shall receive copies of all appraisal reports.
+
+VI.       Guidelines for Educator Effectiveness
+          (A)   Marshall Teacher Evaluation Rubric shall be sued to provide detailed
+                guidance on how to improve, including the following categories of
+                effectiveness:
+                (1)     Planning and Preparation for Learning
+                (2)     Classroom Management
+
+2023-2025 State Teacher Education Association Collective Bargaining Agreement                  - 42 –
+                    (3)       Delivery of Instruction
+                    (4)       Monitoring, Assessment, and Follow Up
+                    (5)       Family and Community Outreach
+                    (6)       Professional Responsibilities
+
+
+
+
+2023-2025 State Teacher Education Association Collective Bargaining Agreement   - 43 –
+### LETTER OF AGREEMENT #1
+
+      This agreement is between the State of Oregon, acting through its Department of
+Administrative Services (Employer), on behalf of the Department of Education (Agency)
+and the Mid-Valley Bargaining Council, acting on behalf of the State Teachers Education
+Association (Association).
+
+          This agreement shall apply to the bargaining unit employees in the School for the
+Deaf.
+
+       The Agency will not contract out the education program at the School for the Deaf
+during the life of the parties’ 2019-2021 collective bargaining agreement.
+
+
+
+
+2023-2025 State Teacher Education Association Collective Bargaining Agreement        - 44 –
+### LETTER OF AGREEMENT #2 – ASLPI Subcommittee
+
+This Letter of Agreement is entered into between the Department of Administrative
+Services, Labor Relations Unit (Employer), on behalf of the Department of Education and
+the State Teacher Education Association (STEA).
+
+The Parties agree to establish a subcommittee of three (3) labor representatives and
+three (3) management representatives to discuss and solicit input to inform future ASLPI
+testing for new and existing members. The subcommittee will develop goals and
+objectives to recommend to the Labor Management Committee no later than January 31,
+2020, unless mutually agreed otherwise.
+
+
+
+
+2023-2025 State Teacher Education Association Collective Bargaining Agreement     - 45 –
+### LETTER OF AGREEMENT #3 – School Psychologist Recruitment and Retention
+                             Differential
+
+This Agreement is between the State of Oregon, acting through its Department of
+Administrative Services (DAS) and the State Teacher Education Association (STEA).
+
+The Parties agree to the following:
+
+Effective upon ratification, the School Psychologist at the Oregon School for the Deaf
+shall receive a five percent (5%) recruitment and retention differential above their
+current base rate of pay pending a market study. Interim bargaining will begin within
+thirty (30) days of written notification to the Union of the finalization of the market
+
+
+
+
+2023-2025 State Teacher Education Association Collective Bargaining Agreement        - 46 –
+### LETTER OF AGREEMENT #4 – ONE-TIME COLA PAYMENT
+
+
+This Agreement is between the State of Oregon, acting through its Department of
+Administrative Services (DAS) and STEA (Union).
+
+In recognition of the high rate of inflation, the parties agree to the following:
+
+All employees as of July 1, 2023, that are still employed as of August 24, 2023 including
+seasonals who return on or after July 2, 2023 and are still employed through August 24th,
+will receive a one-time one-thousand five hundred dollar ($1500) cost of living payment
+with their September 1, 2023 paycheck.
+
+Payments issued through this Letter of Agreement will be considered wages for tax
+purposes and are PERS subject.
+
+This Letter of Agreement will sunset on June 30, 2025.
+
+
+
+
+2023-2025 State Teacher Education Association Collective Bargaining Agreement       - 47 –
+### LETTER OF AGREEMENT #5 – Work Year
+
+
+This Agreement is between the State of Oregon, acting through its Department of
+Administrative Services (DAS) and the State Teacher Education Association (STEA).
+
+The State and STEA understand the importance of face-to-face interactions between
+students’ parents and their teachers.
+
+In the spirt of that understanding, the Parties agree to the following:
+
+For the 2024-2025 school year, teachers can elect the following option:
+   • Option 1: The teacher’s Friday, August 30, 2024 in-service day will be a four (4)
+       hour block of time. The remaining four (4) hour block of time will be scheduled on
+       Monday, September 2, 2024 from noon – 4 pm for participation in the
+       parent/student Back-to-School BBQ. This will provide opportunity for parents,
+       students and teachers to interact. Teachers will be compensated at the appropriate
+       holiday pay for the four (4) hours worked on September 2, 2024.
+
+     •    Option 2: The teacher will complete all eight (8) hours of the in-service day on
+          August 30, 2024. The teacher will not be scheduled to attend the Monday,
+          September 2, 2024 parent/student Back-to-School BBQ
+
+Effective on signing of this LOA, The parties agree the language in Article 16, Section h.
+will be removed from the CBA:
+
+          h. As part of their regular work year and without additional pay, teachers will attend
+          one (1) activity per year that lasts no more than four (4) hours, that involves
+          parents, and that is held outside of the teachers’ normal work day.
+
+The deletion shall be reflected in the 2024-2025 STEA Collective Bargaining Agreement.
+
+This LOA is entered into for the 2024-2025 school year. Parties agree to further
+bargaining this issue during negotiations in the 2025-2027 CBA.
+
+
+
+
+2023-2025 State Teacher Education Association Collective Bargaining Agreement             - 48 –
+                                                      Signature Page
+
+
+
+
+2023-2025 State Teacher Education Association Collective Bargaining Agreement   - 49 –
+                  Department of Administrative Services
+                     Chief Human Resources Office
+                          Labor Relations Unit
+                         155 Cottage Street NE
+                         Salem, OR 97301-3971
+                         LRU@das.oregon.gov
+
+
+The official version of this Agreement is held by the Department of Administrative
+Services Labor Relations Unit on its electronic files at the website below. The
+Department of Administrative Services does not recognize any other copies or
+publications of this Agreement.
+             Electronic version of the Agreement located at:
+              http://www.oregon.gov/das/HR/Pages/LRU.aspx
+

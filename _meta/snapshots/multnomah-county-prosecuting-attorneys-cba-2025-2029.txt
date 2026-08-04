@@ -39,9 +39,9 @@ MULTNOMAH COUNTY PROSECUTING ATTORNEYS
  This document is available in accessible format upon request
                         TABLE OF CONTENTS
                                                              PAGE
-ARTICLE 1   PREAMBLE                                           1
+### ARTICLE 1   PREAMBLE                                           1
 
-ARTICLE 2   RECOGNITION AND ASSOCIATION SECURITY               2
+### ARTICLE 2   RECOGNITION AND ASSOCIATION SECURITY               2
             A. Recognition                                     2
             B. Association Security/Check Off                  2
             C. Definition of Deputy District Attorney          3
@@ -50,11 +50,11 @@ ARTICLE 2   RECOGNITION AND ASSOCIATION SECURITY               2
                Program
             F. Limited Duration Employees                      4
 
-ARTICLE 3   MANAGEMENT RIGHTS                                  5
+### ARTICLE 3   MANAGEMENT RIGHTS                                  5
 
-ARTICLE 4   NO STRIKE CLAUSE                                   6
+### ARTICLE 4   NO STRIKE CLAUSE                                   6
 
-ARTICLE 5   SETTLEMENT OF DISPUTES                             7
+### ARTICLE 5   SETTLEMENT OF DISPUTES                             7
             A. Grievance Procedure                             7
                1. Step I                                       7
                2. Step II                                      7
@@ -65,9 +65,9 @@ ARTICLE 5   SETTLEMENT OF DISPUTES                             7
             D. Processing Grievances                           10
             E. Interpretation                                  10
 
-ARTICLE 6   NO DISCRIMINATION                                  11
+### ARTICLE 6   NO DISCRIMINATION                                  11
 
-ARTICLE 7   COMPENSATION AND BENEFITS                         12
+### ARTICLE 7   COMPENSATION AND BENEFITS                         12
             A. Compensation                                   12
                  1. Intent                                    12
                  2. Salaries                                  12
@@ -95,7 +95,7 @@ ARTICLE 7   COMPENSATION AND BENEFITS                         12
                     17. Bilingual Pay                                    25
                     18. Call Out Pay                                     25
 
-ARTICLE 8    HEALTH AND WELFARE                                          26
+### ARTICLE 8    HEALTH AND WELFARE                                          26
              A. Medical and Dental Insurance                             26
                    1. Contribution Toward Insurance Premium              26
                    2. Mandated Changes and Carrier Changes in Plan       28
@@ -114,16 +114,16 @@ ARTICLE 8    HEALTH AND WELFARE                                          26
                    1. Short Term Disability                              37
                    2. Long Term Disability                               37
 
-ARTICLE 9    PROFESSIONAL RECOGNITION LEAVE                              39
-ARTICLE 10   PERSONNEL FILE                                              40
+### ARTICLE 9    PROFESSIONAL RECOGNITION LEAVE                              39
+### ARTICLE 10   PERSONNEL FILE                                              40
                1.   File Review                                          40
                2.   Written Response                                     40
                3.   Association Copy                                     40
-ARTICLE 11   ENTIRE AGREEMENT                                            41
-ARTICLE 12   SAVINGS CLAUSE AND FUNDING                                  42
+### ARTICLE 11   ENTIRE AGREEMENT                                            41
+### ARTICLE 12   SAVINGS CLAUSE AND FUNDING                                  42
                1.    Savings Clause                                      42
                2.    Funding                                             42
-ARTICLE 13   SENIORITY AND LAYOFF                                        43
+### ARTICLE 13   SENIORITY AND LAYOFF                                        43
                A. Layoff                                                 43
                B. Meet and Confer                                        43
                C. Order of Layoff                                        43
@@ -131,11 +131,11 @@ ARTICLE 13   SENIORITY AND LAYOFF                                        43
                E. Bumping Process                                        44
                F. Recall From Layoff                                     45
 
-ARTICLE 14   DISCIPLINE                                                  46
+### ARTICLE 14   DISCIPLINE                                                  46
 
-ARTICLE 15   PROBATION SERVICE PERIOD                                    47
+### ARTICLE 15   PROBATION SERVICE PERIOD                                    47
 
-ARTICLE 16   TERMINATION                                                 48
+### ARTICLE 16   TERMINATION                                                 48
 
              SIGNATURE PAGE                                              49
 
@@ -161,7 +161,7 @@ ADDENDUM B   RESPONSIBILITY LEVELS   51
        ___________________________________________________________
 
 
-                                       ARTICLE 1
+### ARTICLE 1
                                       PREAMBLE
 
 
@@ -182,7 +182,7 @@ County.
 2
 
 
-                                          ARTICLE 2
+### ARTICLE 2
                       RECOGNITION AND ASSOCIATION SECURITY
 
 
@@ -297,7 +297,7 @@ exceed thirty (30) days.
 5
 
 
-                                        ARTICLE 3
+### ARTICLE 3
                                  MANAGEMENT RIGHTS
 
 
@@ -317,7 +317,7 @@ to the grievance procedure.
 6
 
 
-                                         ARTICLE 4
+### ARTICLE 4
                                     NO STRIKE CLAUSE
 
 
@@ -344,7 +344,7 @@ consequence of any dispute arising during the life and duration of this Agreemen
 7
 
 
-                                        ARTICLE 5
+### ARTICLE 5
                               SETTLEMENT OF DISPUTES
 
 
@@ -493,7 +493,7 @@ this contract.
 11
 
 
-                                       ARTICLE 6
+### ARTICLE 6
 
                                  NO DISCRIMINATION
 
@@ -515,7 +515,7 @@ under its terms.
 12
 
 
-                                        ARTICLE 7
+### ARTICLE 7
                             COMPENSATION AND BENEFITS
 
 
@@ -1041,7 +1041,7 @@ expected to respond to crime scenes after hours as needed by the Office.
 26
 
 
-                                         ARTICLE 8
+### ARTICLE 8
                                   HEALTH AND WELFARE
 
 
@@ -1537,7 +1537,7 @@ will not be eligible for continued County-paid coverage under this subsection.
 39
 
 
-                                        ARTICLE 9
+### ARTICLE 9
                         PROFESSIONAL RECOGNITION LEAVE
 
 
@@ -1574,7 +1574,7 @@ Attorney.
 40
 
 
-                                       ARTICLE 10
+### ARTICLE 10
                                     PERSONNEL FILE
 
 
@@ -1600,7 +1600,7 @@ withheld from disclosure to the Association or the employee.
 41
 
 
-                                      ARTICLE 11
+### ARTICLE 11
                                  ENTIRE AGREEMENT
 
 
@@ -1626,7 +1626,7 @@ parties at the time that they negotiated and signed this Agreement.
 42
 
 
-                                        ARTICLE 12
+### ARTICLE 12
                            SAVINGS CLAUSE AND FUNDING
 
 
@@ -1665,7 +1665,7 @@ otherwise precluded by State or Federal law or administrative regulation.
 43
 
 
-                                       ARTICLE 13
+### ARTICLE 13
 
                                   SENIORITY AND LAYOFF
 
@@ -1770,7 +1770,7 @@ the period of layoff, the County will adjust the employee’s pay rate according
 
 
 
-                                       ARTICLE 14
+### ARTICLE 14
 
                                        DISCIPLINE
 
@@ -1794,7 +1794,7 @@ out in Article 5 - Settlement of Disputes.
 47
 
 
-                                      ARTICLE 15
+### ARTICLE 15
                             PROBATION SERVICE PERIOD
 
 
@@ -1812,7 +1812,7 @@ regarding probationary employee discharge or discipline may not be grieved.
 48
 
 
-                                       ARTICLE 16
+### ARTICLE 16
                                      TERMINATION
 
 

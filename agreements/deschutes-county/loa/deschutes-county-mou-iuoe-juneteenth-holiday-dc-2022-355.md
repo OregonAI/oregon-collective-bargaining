@@ -19,10 +19,9 @@ retrieved: '2026-08-02'
 source_sha256: 5d349b11af9de19cf415d6410a8744d4f60142851d45527d9720b58c9224a8fd
 snapshot_policy: hash-only
 status: current
-content_mode: summary
+content_mode: 'verbatim'
 text_source: ocr
-reproduction_basis: 'jointly-authored contract; summary + official link per the class determination
-  in corpus.yml schema.doc_types (verbatim: false)'
+reproduction_basis: 'public record of a public body (ORS 192.311-192.478); the employer publishes the executed agreement in full at source_url; a ratified agreement is an official act (Georgia v. Public.Resource.Org, 590 U.S. 255 (2020)) — mirrored in full per the class determination in corpus.yml schema.doc_types (verbatim: true)'
 conversion_notes: no text layer in the source PDF; text recovered by OCR. Two independent
   engines (tesseract (ocrmypdf) + paddleocr PP-OCRv6) agree on 83% of the word sequence and
   65% of the 19 figures, 96% dictionary-recognizable; NOT human-verified — treat every number
@@ -43,8 +42,8 @@ tags:
 - deschutes-county
 ---
 
-> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated
-> summary, not the agreement's official text. Verify against the official
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a non-authoritative
+> mirror of the agreement's text, not the official record. Verify against the official
 > source: <https://www.deschutescounty.gov/DocumentCenter/View/1911/MOU-IUOE-Juneteenth-Holiday-DC-2022-355> (retrieved 2026-08-02).
 
 # Deschutes County — MOU IUOE Juneteenth Holiday DC-2022-355
@@ -57,10 +56,6 @@ Letter of agreement / MOU under **Deschutes County** and **IUOE**.
 - Source document: 1 pages (PDF)
 - **The source is an image-only scan.** Its committed text is a machine reading corroborated by two independent OCR engines (83% word-sequence agreement — see conversion_notes). Dates and terms above come from that reading; statute citations are deliberately not extracted, because digits are where engines diverge.
 
-This corpus is **summary-first for agreements**: the contract's text is not
-reproduced here (see Curator notes), and nothing on this page states or
-paraphrases the agreement's terms. Read the agreement itself at the official
-source link above.
 
 ## Curator notes
 
@@ -78,3 +73,54 @@ Statutes and rules the document's text cites are recorded in frontmatter
 `relationships.references_external` (0 citation(s)) and resolve into
 `executive-regulatory-frameworks` as cites — this corpus asserts no
 `implements` edge anywhere.
+
+## Full text
+
+LEGAL ‘cqunMemorandum of Understanding Between Deschutes County and
+             Tre international Union of Operating Engineers, Local 701
+                      -- Recognition of Paid Juneteenth Holiday --
+                                   Document Number: 2022-355
+
+ Deschutes County, hereinafter referred to as “the County,” and the international Union of Operating
+ Engineers, Loca! 701 hereinafter referred to as “IUOE,” agree to the following modification of Article 10
+ of the Collective Bargaining Agreement between the County and IUOE, dated July 18, 2018 ("CBA"),
+effective immediately upon execution of this Memorandum of Understanding ("MOU"):
+
+ARTICLE 10 - HOLIDAYS, Section 10:01 will be amended as follows (amendment in bold italics):
+
+ 10:01            Observed Holidays.
+
+The follawing shall be observed as holidays:
+
+                         New Year's Day                           Veteran's Day
+                         President's Day                          Thanksgiving Day
+                         Memorial Day                             Christmas Day
+                         Labor Day                                 Independence Day
+                         Martin Luther King’s Day                 (1) Floating Holiday
+                         Juneteenth
+
+Any dispute concerning this agreement will be resolved under the terms of Article 6 -
+Grievance Procedures, of the CBA.
+
+Except as specifically modified by this MOU, all terms and conditions of the CBA shall remain in full
+force and effect. To the extent any of the terms of this MOU conflict with those in the CBA, the terms
+and conditions of this MOU shall prevail for so long as it is in effect,
+                25 n&                      :
+Agreedtoonthis_”     day of       Frpn         [   2022
+
+SIGNATURES
+IUOE Local 701;                                    Deschutes County:
+
+BY:                                                BY:
+
+         <Zaxe
+ Signature                                          ignature
+ James Anderson                                    Nick Lelack
+ Business Manager/Financial Secretary
+                                                   County Administrator
+
+
+
+
+                                                                                         Oc- 2022-355
+

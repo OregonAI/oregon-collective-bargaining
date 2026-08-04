@@ -112,7 +112,7 @@ Employees, Local 3581-2 (hereinafter the "Union"), for the purpose of fixing wag
 benefits, conditions of employment and other matters affecting members of the bargaining
 unit as certified by the Employment Relations Board.
 
-                                 ARTICLE 1 – SCOPE OF AGREEMENT
+### ARTICLE 1 – SCOPE OF AGREEMENT
 
 Section 1.
        The Employer and the Agency recognize the Union as the sole and exclusive
@@ -125,7 +125,7 @@ Section 2.
 of the Union. Likewise, this Agreement binds the Employer and the Agency and any
 person designated by it to act on its behalf.
 
-                                  ARTICLE 2 – TERM OF AGREEMENT
+### ARTICLE 2 – TERM OF AGREEMENT
 
 Section 1.
        Unless otherwise noted in a specific article in the Agreement, this Agreement
@@ -144,7 +144,7 @@ Negotiations for a successor agreement will start between February 15, 2027 and 
                                                               Rev: 2015, 2017, 2019, 2021,2023,2025
 
 
-            ARTICLE 3 – COMPLETE AGREEMENT/SEPARABILITY/SAVINGS
+### ARTICLE 3 – COMPLETE AGREEMENT/SEPARABILITY/SAVINGS
 
 Section 1. Complete Agreement.
        This Agreement is the full and complete Agreement between the Employer and the
@@ -189,7 +189,7 @@ by the Employment Relations Board.
                                                                                            REV: 2025
 
 
-                                ARTICLE 4 – NO STRIKE OR LOCKOUT
+### ARTICLE 4 – NO STRIKE OR LOCKOUT
 
       The Union agrees that during the term of this Agreement, the Union or its
 bargaining unit members will not authorize, instigate, aid or engage in any work stoppage,
@@ -213,7 +213,7 @@ not constitute an admission that it has caused or counseled such strike activity
 arbitration procedure or may be pursued in the Courts at the discretion of the moving
 party.
 
-                                  ARTICLE 5 – EQUAL OPPORTUNITY
+### ARTICLE 5 – EQUAL OPPORTUNITY
 
 Section 1.
        The provisions of this Agreement shall apply equally to all employees in the
@@ -237,7 +237,7 @@ Section 3.
         Discrimination complaints will not be subject to the grievance procedure contained
 in this Agreement.
 
-                                  ARTICLE 6 – MANAGEMENT RIGHTS
+### ARTICLE 6 – MANAGEMENT RIGHTS
 
        The Union agrees that the Employer and the Agency retain all inherent rights of
 management and hereby recognize the sole and exclusive right of the State of Oregon,
@@ -259,7 +259,7 @@ employees; and to promulgate rules, regulations and personnel policies, provided
 such rights shall not be exercised so as to violate any of the specific provisions of th is
 Agreement.
 
-                                    ARTICLE 7 – CONTRACTING OUT
+### ARTICLE 7 – CONTRACTING OUT
 
 Section 1.
         The Union recognizes that the Employer has the management right, during the
@@ -353,7 +353,7 @@ reviewing of contracted work are not subject to the grievance procedure.
 
 
 2025-2027 Oregon Long Term Care Ombudsman   8                   Collective Bargaining Agreement
-     ARTICLE 8 – IMPLEMENTATION OF NEW CLASSES – APPEALS PROCESS
+### ARTICLE 8 – IMPLEMENTATION OF NEW CLASSES – APPEALS PROCESS
 
        The appeals process is designed to allocate employees into new classes.
 Employees in positions allocated to a new classification, who dispute their placement
@@ -430,7 +430,7 @@ within the new class, can appeal their placement using the following process:
                   to refilling the position.
          f.        This process terminates upon completion of the allocation process.
 
-              ARTICLE 9 – TEMPORARY INTERRUPTION OF EMPLOYMENT
+### ARTICLE 9 – TEMPORARY INTERRUPTION OF EMPLOYMENT
 
        When the Employer declares that a temporary interruption of employment should
 be considered because of lack of funds, either party may provide the other with written
@@ -442,7 +442,7 @@ Complete Agreement articles of any of the agreements or constitute interim negot
 under PECBA. In addition, the parties will not be required to use the dispute resolution
 process contained in the PECBA.
 
-                                       ARTICLE 10 – OTHER LEAVES
+### ARTICLE 10 – OTHER LEAVES
 
 Section 1. Leaves With Pay.
       a.    Pre-Retirement Planning Leave. Employees shall be granted up to
@@ -621,7 +621,7 @@ Section 2. Leaves Without Pay.
                                                                              Rev: 2015, 2019, 2021,2025
 
 
-              ARTICLE 11 – CLASSIFICATION AND CLASSIFICATION CHANGES
+### ARTICLE 11 – CLASSIFICATION AND CLASSIFICATION CHANGES
 
 Section 1. Work Out of Classification.
       a.      Temporary Work Out of Classification (WOC) Assignment. When an
@@ -859,7 +859,7 @@ Article.
                                                                                       Rev: 2015,2023,2025
 
 
-          ARTICLE 12 – MILEAGE, TRAVEL, AND MOVING REIMBURSEMENT
+### ARTICLE 12 – MILEAGE, TRAVEL, AND MOVING REIMBURSEMENT
 
 Section 1. Travel and Mileage Allowance.
       Reimbursements and procedures will be in accordance with Oregon Accounting
@@ -872,7 +872,7 @@ Administrative Services, Chief Human Resource Office Policy 40.055.10, and its
 successors. Changes in this policy will be automatically incorporated into this contract
 Article.
 
-                                            ARTICLE 13 – HOLIDAYS
+### ARTICLE 13 – HOLIDAYS
 
 Section 1.
        The following compensable holidays shall be recognized:
@@ -928,7 +928,7 @@ time accrual limits established in Article 28 (Overtime) shall apply.
                                                                                   Rev: 2015, 2021,2023,2025
 
 
-                                     ARTICLE 14 – VACATION LEAVE
+### ARTICLE 14 – VACATION LEAVE
 
 Section 1.
        Full-time classified employees shall accrue vacation leave in accordance with the
@@ -1039,7 +1039,7 @@ leave is not appropriate.
                                                                                    REV: 2017, 2021,2023
 
 
-                                     ARTICLE 15 – HARDSHIP LEAVE
+### ARTICLE 15 – HARDSHIP LEAVE
 
 Section 1. As used in this Article:
       a.    “Accumulated Leave” includes but is not limited to sick, vacation, and
@@ -1093,7 +1093,7 @@ the applicable process as outlined in the Human Resource Information System (HRI
                                                                                       Rev: 2015,2025
 
 
-                               ARTICLE 16 – PERSONAL LEAVE DAYS
+### ARTICLE 16 – PERSONAL LEAVE DAYS
 
 Section 1.
        All employees after completion of six (6) months of service shall be entitled to
@@ -1122,7 +1122,7 @@ Section 4.
       Such leave may be used by an employee for any purpose they desire and may be
 taken at times mutually agreeable to the Agency and the employee.
 
-                                            ARTICLE 17– SICK LEAVE
+### ARTICLE 17– SICK LEAVE
 
          Sick leave, with pay, shall be determined as follows:
 
@@ -1221,7 +1221,7 @@ Section 8. Non-Job Related Sick Leave Without Pay
                                                                                                  REV: 2025
 
 
-                                     ARTICLE 18 – UNION SECURITY
+### ARTICLE 18 – UNION SECURITY
 
 Section 1. Union Activities.
        The Agency shall furnish each new employee with a notice provided by the Union
@@ -1393,7 +1393,7 @@ AFSCME International Conventions, the following provisions apply:
 
 
 
-      ARTICLE 19 – COMPLAINT/INVESTIGATION PROCEDURE SAFEGUARDS
+### ARTICLE 19 – COMPLAINT/INVESTIGATION PROCEDURE SAFEGUARDS
 
       Employees who are the subject of a formal Agency complaint or investigation shall
 be assured the following rights:
@@ -1437,7 +1437,7 @@ be assured the following rights:
 
 
 
-                                ARTICLE 20 – PERSONNEL RECORDS
+### ARTICLE 20 – PERSONNEL RECORDS
 
 Section 1.
        The Chief Human Resources Office human resource information system is the
@@ -1530,7 +1530,7 @@ in writing by the subject employee.
                                                                                           Rev: 2019, 2021
 
 
-                              ARTICLE 21 – GRIEVANCE PROCEDURES
+### ARTICLE 21 – GRIEVANCE PROCEDURES
 
 Section 1.
        The Parties agree to resolve issues at the most informal level possible.
@@ -1656,7 +1656,7 @@ Section 8. Expedited Grievance Arbitration.
 
 
 2025-2027 Oregon Long Term Care Ombudsman   34                  Collective Bargaining Agreement
-                            ARTICLE 22 – DISCIPLINE AND DISCHARGE
+### ARTICLE 22 – DISCIPLINE AND DISCHARGE
 
 Section 1.
        The principles of progressive discipline shall be used except when the nature of
@@ -1725,7 +1725,7 @@ occurring related to the duty station status will occur during the employee's re
 hours.
                                                                                            Rev: 2015,2023
 
-                                       ARTICLE 23 – TRIAL SERVICE
+### ARTICLE 23 – TRIAL SERVICE
 
 Section 1.
         All new employees appointed to a position shall serve an initial trial service period
@@ -1787,7 +1787,7 @@ Section 5. Outside Agency Transfer or Promotional Trial Service
                                                                                               Rev: 2017
 
 
-                               ARTICLE 24 – QUARTERLY CHECK-INS
+### ARTICLE 24 – QUARTERLY CHECK-INS
 
 Section 1.
         Supervisory managers shall conduct check-ins with their employees on a quarterly
@@ -1807,7 +1807,7 @@ cannot be used for discipline.
 
 
 2025-2027 Oregon Long Term Care Ombudsman   37                   Collective Bargaining Agreement
-     ARTICLE 25 – RECOUPMENT OF WAGE AND BENEFIT OVERPAYMENTS/
+### ARTICLE 25 – RECOUPMENT OF WAGE AND BENEFIT OVERPAYMENTS/
                           UNDERPAYMENTS
 
 Section 1. Overpayments.
@@ -1869,7 +1869,7 @@ Section 2. Underpayments.
                                                                                                   REV: 2023
 
 
-                           ARTICLE 26 – PAYDAY AND PAY ADVANCES
+### ARTICLE 26 – PAYDAY AND PAY ADVANCES
 
          a.        All employees shall normally be paid no later than the first of the month.
                    When a payday occurs on Monday through Friday, payroll checks shall be
@@ -1894,7 +1894,7 @@ Section 2. Underpayments.
                                                                                                   REV: 2025
 
 
-                                            ARTICLE 27 – SALARIES
+### ARTICLE 27 – SALARIES
 
 Section 1. PERS Pickup
        Effective February 1, 2019 compensation plan salary rates for PERS participating
@@ -1947,7 +1947,7 @@ See LOA: Salary and Benefit Report
                                                                          REV: 2017, 2019, 2021,2023,2025
 
 
-                                            ARTICLE 28 – OVERTIME
+### ARTICLE 28 – OVERTIME
 
 Section 1.
       This Article is intended only to provide a basis for the calculation of overtime and
@@ -2008,7 +2008,7 @@ overtime is to be worked without the prior authorization of Management.
 
 
 2025-2027 Oregon Long Term Care Ombudsman     41                   Collective Bargaining Agreement
-                             ARTICLE 29 – LEADWORK DIFFERENTIAL
+### ARTICLE 29 – LEADWORK DIFFERENTIAL
 
 Section 1.
        Leadwork duties shall be defined as a differential for employees who have been
@@ -2037,7 +2037,7 @@ Section 4.
 purposes which are mutually agreed to in writing between the supervisor and the
 employee.
 
-                      ARTICLE 30 – HEALTH AND WELFARE INSURANCE
+### ARTICLE 30 – HEALTH AND WELFARE INSURANCE
 
 Section 1.
        An Employer contribution will be made for each eligible employee who has at least
@@ -2106,7 +2106,7 @@ See LOA: PMAC
 
 
 2025-2027 Oregon Long Term Care Ombudsman      43                   Collective Bargaining Agreement
-                              ARTICLE 31 – SALARY ADMINISTRATION
+### ARTICLE 31 – SALARY ADMINISTRATION
 
 Section 1. Step Salary Increase.
       Employees shall be eligible for consideration for step salary increases following:
@@ -2217,7 +2217,7 @@ See Appendix A – Salary Administration Examples
                                                                               Rev: 2015, 2017, 2021,2025
 
 
-      ARTICLE 32 – INCLEMENT WEATHER/HAZARDOUS CONDITIONS LEAVE
+### ARTICLE 32 – INCLEMENT WEATHER/HAZARDOUS CONDITIONS LEAVE
 
 Section 1.
       a.            The Employer/Agency designated official(s) may close or curtail offices,
@@ -2376,7 +2376,7 @@ Pay differential under Article 50.
                                                                                 Rev: 2017, 2021,2023,2025
 
 
-                                  ARTICLE 33 – SAFETY AND HEALTH
+### ARTICLE 33 – SAFETY AND HEALTH
 
 Section 1.
       a.           It is further the intent of this Agreement that the parties will mutually strive
@@ -2470,7 +2470,7 @@ employer/employee’s permission.
                                                                                            Rev: 2017,2023
 
 
-                                ARTICLE 34 – FILLING OF VACANCIES
+### ARTICLE 34 – FILLING OF VACANCIES
 
 Section 1.
          The Agency desires to fill vacancies with the best qualified applicants available.
@@ -2528,7 +2528,7 @@ time.
                                                                                            Rev: 2023
 
 
-                ARTICLE 35 – EDUCATION, TRAINING AND DEVELOPMENT
+### ARTICLE 35 – EDUCATION, TRAINING AND DEVELOPMENT
 
 Section 1.
        The Agency recognizes that employee participation in training, education and
@@ -2562,7 +2562,7 @@ training opportunities on a pro-rated basis.
                                                                                                Rev: 2023
 
 
-                                     ARTICLE 36 – HOURS OF WORK
+### ARTICLE 36 – HOURS OF WORK
 
 Section 1.
        The standard workweek shall begin at 12:01 a.m. Sunday and shall end at 12:00
@@ -2662,7 +2662,7 @@ forty (40) hours in that workweek.
                                                                                                 Rev: 2015
 
 
-                       ARTICLE 37 – LIMITED DURATION APPOINTMENT
+### ARTICLE 37 – LIMITED DURATION APPOINTMENT
 
 Section 1.
        Persons may be hired for special studies or projects of uncertain or limited duration
@@ -2685,7 +2685,7 @@ conditions. Such notification shall include the following:
              classified regular status State employees from this bargaining unit are
              entitled to rights under the layoff procedure starting from the prior class.
 
-                                        ARTICLE 38 – JOB SHARING
+### ARTICLE 38 – JOB SHARING
 
          The Parties agree to the following provisions, pursuant to ORS 240.13:
 
@@ -2739,7 +2739,7 @@ determined by averaging the scores of the two individuals and the two individual
 be treated as one. Regular status employees who are filling a job sharing position and
 who elect not to be treated as one full-time equivalent shall be considered permanent
 part-time employees.
-                                 ARTICLE 39 – LAYOFF
+### ARTICLE 39 – LAYOFF
 
 Section 1. Alternate to Layoff
       1.    When the Agency believes that a lack of funds requires a layoff, the Agency
@@ -2980,7 +2980,7 @@ Section 8. Secondary Recall Rights.
                                                                                                         Rev: 2015
 
 
-                             ARTICLE 40 – WORKERS’ COMPENSATION
+### ARTICLE 40 – WORKERS’ COMPENSATION
 
 Section 1.
        All on-the-job accidents or exposure to serious communicable diseases are to be
@@ -3068,11 +3068,11 @@ status during the period in which Workers' Compensation is being received.
         An employee on FMLA due to a Workers’ Compensation claim shall be able to
 exercise the above options.
 
-                          ARTICLE 41 – AGENCY PERSONNEL POLICIES
+### ARTICLE 41 – AGENCY PERSONNEL POLICIES
 
          Upon request, the Agency shall provide the Union a copy of its personnel policies.
 
-                            ARTICLE 42 – SUCCESSOR NEGOTIATIONS
+### ARTICLE 42 – SUCCESSOR NEGOTIATIONS
 
       The Agency will allow up to two (2) employees to attend collective bargaining
 sessions as members of the Union’s negotiation team. The Employer agrees to grant
@@ -3083,7 +3083,7 @@ responsible for travel, overtime, per diem, other benefits or compensation beyon
 which the employees would have received had the affected employees not attended
 bargaining sessions.
 
-                                  ARTICLE 43 – WORKING REMOTELY
+### ARTICLE 43 – WORKING REMOTELY
 
 Section 1.
        Oregon state government encourages working remotely where it is a viable
@@ -3244,7 +3244,7 @@ Section 13. Other Provisions.
                                                                     NEW: 2019 REV: 2021,2023,2025
 
 
-                       ARTICLE 44 - VOLUNTARY MEDICAL SEPARATION
+### ARTICLE 44 - VOLUNTARY MEDICAL SEPARATION
 
 Section 1.
         A regular status employee with a serious health condition who has exhausted all
@@ -3286,7 +3286,7 @@ following conditions are met:
 
 
 
-                                     ARTICLE 45 – EXIT INTERVIEWS
+### ARTICLE 45 – EXIT INTERVIEWS
 
          a.        If a regular status employee provides timely notice that they are voluntarily
                    separating from Agency service, the Agency will offer an exit interview that
@@ -3302,7 +3302,7 @@ following conditions are met:
 
 
 2025-2027 Oregon Long Term Care Ombudsman       67                 Collective Bargaining Agreement
-                                            ARTICLE 46 – AIR QUALITY
+### ARTICLE 46 – AIR QUALITY
 
 Section 1.
        The Air Quality Index (AQI) was developed by the US Environmental Protection
@@ -3325,7 +3325,7 @@ a Hazardous Condition.
                                                                                                   NEW: 2021
 
 
-    ARTICLE 47 – LABOR MANAGEMENT COMMITTEE OFFICE OF LONG TERM
+### ARTICLE 47 – LABOR MANAGEMENT COMMITTEE OFFICE OF LONG TERM
                           CARE OMBUDSMAN
 
 Section 1.
@@ -3353,7 +3353,7 @@ appropriate.
 
 
 2025-2027 Oregon Long Term Care Ombudsman            68                Collective Bargaining Agreement
-  ARTICLE 48 – ON-CALL – OREGON PUBLIC GUARDIAN AND CONSERVATOR
+### ARTICLE 48 – ON-CALL – OREGON PUBLIC GUARDIAN AND CONSERVATOR
                                (OPGC)
 
 Section 1.
@@ -3386,7 +3386,7 @@ Program Manager retains the right to assign the on -call status as needed.
                                                                                          NEW: 2023
 
 
-                                  ARTICLE 49 - PAID LEAVE OREGON
+### ARTICLE 49 - PAID LEAVE OREGON
 
        Paid Leave Oregon is administered by the Oregon Employment Department. The
 State of Oregon, as an employer, shall comply with the provisions of Paid Leave Oregon,
@@ -3406,7 +3406,7 @@ accordance with any existing contract language relating to FMLA/OFLA.
 
 
 2025-2027 Oregon Long Term Care Ombudsman     69              Collective Bargaining Agreement
-                               ARTICLE 50 - ESSENTIAL WORKER PAY
+### ARTICLE 50 - ESSENTIAL WORKER PAY
 
         When a situation exists that would otherwise close or curtail state offices, essential
 workers having to report to work, in -person, shall receive the Essential Worker Inclement
@@ -3433,7 +3433,7 @@ offices are otherwise closed.
 
 
 2025-2027 Oregon Long Term Care Ombudsman    70                 Collective Bargaining Agreement
-    LETTER OF AGREEMENT – ARTICLE 7, CONTRACTING OUT - FEASIBILITY
+### LETTER OF AGREEMENT – ARTICLE 7, CONTRACTING OUT - FEASIBILITY
                                STUDY
 
       This Letter of Agreement is entered into between the State of Oregon Department
@@ -3452,7 +3452,7 @@ This Agreement is effective through June 30, 2027.
 
 
 2025-2027 Oregon Long Term Care Ombudsman   71                   Collective Bargaining Agreement
-    LETTER OF AGREEMENT – ARTICLE 27 - SALARY AND BENEFIT REPORT
+### LETTER OF AGREEMENT – ARTICLE 27 - SALARY AND BENEFIT REPORT
 
 This Agreement is between the State of Oregon, acting through its Department of
 Administrative Services (DAS) and the AFSCME Local 75, (Union).
@@ -3477,7 +3477,7 @@ agreement.
 
 
 2025-2027 Oregon Long Term Care Ombudsman   72              Collective Bargaining Agreement
-LETTER OF AGREEMENT – ARTICLE 30 PEBB MEMBER ADVISORY COMMITTEE
+### LETTER OF AGREEMENT – ARTICLE 30 PEBB MEMBER ADVISORY COMMITTEE
 
      This Agreement is between the State of Oregon, acting through its Department of
 Administrative Services (Employer) and AFSCME Council 75 (Union).
@@ -3517,7 +3517,7 @@ in health and wellness.
 
 
 2025-2027 Oregon Long Term Care Ombudsman   73                Collective Bargaining Agreement
-        LETTER OF AGREEMENT – NEW EMPLOYEE NOTICE/UNION ACCESS
+### LETTER OF AGREEMENT – NEW EMPLOYEE NOTICE/UNION ACCESS
 
     1. Notice
           a. The Employer shall provide the Union, in an editable digital file format, the
@@ -3559,7 +3559,7 @@ in health and wellness.
 
 
 2025-2027 Oregon Long Term Care Ombudsman   74                 Collective Bargaining Agreement
-LETTER OF AGREEMENT – OREGON UNIONS STATE WORKER TRAINING FUND
+### LETTER OF AGREEMENT – OREGON UNIONS STATE WORKER TRAINING FUND
 
 The Parties recognize that both the State and its workers benefit from workers
 understanding their different health care options, understanding their retirement benefits
@@ -3606,7 +3606,7 @@ The State Worker Training Fund will develop a plan to deliver trainings and prog
 
 
 2025-2027 Oregon Long Term Care Ombudsman   75                   Collective Bargaining Agreement
-                     LETTER OF AGREEMENT – CONTRACT SPECIALIST
+### LETTER OF AGREEMENT – CONTRACT SPECIALIST
 
 This Agreement is between the State of Oregon, acting through its Department of
 Administrative Services (Employer) on behalf of all Agencies covered under the
@@ -3736,7 +3736,7 @@ This Agreement becomes effective on the date of the last signature and ends on J
 
 
 2025-2027 Oregon Long Term Care Ombudsman   78                 Collective Bargaining Agreement
-   LETTER OF AGREEMENT – STATE POLICY 50.050.01 WORKING REMOTELY
+### LETTER OF AGREEMENT – STATE POLICY 50.050.01 WORKING REMOTELY
                             UPDATES
 
 This Letter of Agreement is between the State of Oregon, acting through its Department
@@ -3754,7 +3754,7 @@ This Agreement becomes effective on the date of the last signature below and end
 
 
 2025-2027 Oregon Long Term Care Ombudsman   79              Collective Bargaining Agreement
-                               LETTER OF AGREEMENT – EQUAL PAY
+### LETTER OF AGREEMENT – EQUAL PAY
 
 This Agreement is entered into by the State of Oregon, acting through its Department of
 Administrative Services, Labor Relations Unit (Employer), on behalf of the Agencies
@@ -3887,7 +3887,7 @@ The Parties agree to the following:
 
 
 2025-2027 Oregon Long Term Care Ombudsman   82                  Collective Bargaining Agreement
-  LETTER OF AGREEMENT – STATEWIDE LABOR MANAGEMENT COMMITTEE
+### LETTER OF AGREEMENT – STATEWIDE LABOR MANAGEMENT COMMITTEE
 
 This Agreement is entered into by the State of Oregon, acting through its Department of
 Administrative Services, Labor Relations Unit (Employer), on behalf of the Agencies
@@ -3920,7 +3920,7 @@ This Agreement becomes effective on the date of the last signature and expires J
 
 
 2025-2027 Oregon Long Term Care Ombudsman   83                Collective Bargaining Agreement
-   LETTER OF AGREEMENT – ADMINISTRATIVE LEAVE/DUTY STATIONED AT
+### LETTER OF AGREEMENT – ADMINISTRATIVE LEAVE/DUTY STATIONED AT
                 HOME INVESTIGATION COMMUNICATION
 
 This Agreement is between the State of Oregon, acting through its Department of
@@ -3938,7 +3938,7 @@ duty stationed. Either Party may request a change to that communication at any t
 
 
 2025-2027 Oregon Long Term Care Ombudsman   84            Collective Bargaining Agreement
-                   LETTER OF AGREEMENT – UNDERFILL DIFFERENTIAL
+### LETTER OF AGREEMENT – UNDERFILL DIFFERENTIAL
 
 
 This Agreement is between the State of Oregon, acting through its Department of
@@ -4027,7 +4027,7 @@ will remain in effect through June 30, 2027.
 
 
 2025-2027 Oregon Long Term Care Ombudsman      86                     Collective Bargaining Agreement
-      LETTER OF AGREEMENT – BILINGUAL DIFFERENTIAL AMERICAN SIGN
+### LETTER OF AGREEMENT – BILINGUAL DIFFERENTIAL AMERICAN SIGN
                               LANGUAGE
 
 This Agreement is between the State of Oregon, acting through its Department of
@@ -4054,7 +4054,7 @@ June 30, 2027.
 
 
 2025-2027 Oregon Long Term Care Ombudsman   87                  Collective Bargaining Agreement
-    LETTER OF AGREEMENT – STRUCTURAL CHANGES TO PAY PRACTICES
+### LETTER OF AGREEMENT – STRUCTURAL CHANGES TO PAY PRACTICES
 
 This Letter of Agreement is between the State of Oregon, acting through its Department
 of Administrative Services (Employer), and the AFSCME Council 75 (Union).
@@ -4259,7 +4259,7 @@ Attachments:
 
 
 2025-2027 Oregon Long Term Care Ombudsman   92          Collective Bargaining Agreement
-                     APPENDIX A - SALARY ADMINISTRATION EXAMPLES
+### APPENDIX A - SALARY ADMINISTRATION EXAMPLES
 
 Salary on Promotion or Upward Reclassification
 
@@ -4289,7 +4289,7 @@ followed by an additional step increase — not to exceed the top step of the ra
 
 
 2025-2027 Oregon Long Term Care Ombudsman   93                   Collective Bargaining Agreement
- APPENDIX B – AFSCME OLTCO CLASS NUMBER, TITLE AND SALARY RANGE
+### APPENDIX B – AFSCME OLTCO CLASS NUMBER, TITLE AND SALARY RANGE
 
 
                                             Classification                SR
@@ -4308,7 +4308,7 @@ followed by an additional step increase — not to exceed the top step of the ra
 
 
 2025-2027 Oregon Long Term Care Ombudsman                94                     Collective Bargaining Agreement
-                    APPENDIX C – AFSCME OLTCO SALARY SCHEDULES
+### APPENDIX C – AFSCME OLTCO SALARY SCHEDULES
 
 
                                        SALARY SCHEDULE AS OF JULY 1, 2025

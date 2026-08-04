@@ -61,7 +61,7 @@ This Agreement is entered into by Washington County, hereinafter referred to as 
 “Employer,” and the Federation of Oregon Parole and Probation Officers, hereinafter referred to
 as the “Federation.”
 
-                                    ARTICLE 1 – DEFINITIONS
+### ARTICLE 1 – DEFINITIONS
 
 1.1    “Employee” means any person employed by the County who fills a position in one of the
        classifications listed in the Recognition Article.
@@ -99,7 +99,7 @@ as the “Federation.”
 
 
 Washington County / FOPPO (2022-2026)               1
-                                 ARTICLE 2 – RECOGNITION
+### ARTICLE 2 – RECOGNITION
 
 The Employer recognizes the Federation as the exclusive bargaining representative for
 employees of the Department of Community Corrections in the classifications of Probation and
@@ -110,7 +110,7 @@ temporary appointments as defined in County personnel rules, supervisory employe
 confidential employees as defined by the Collective Bargaining Act.
 
 
-                           ARTICLE 3 – MANAGEMENT RIGHTS
+### ARTICLE 3 – MANAGEMENT RIGHTS
 
 3.1    The parties agree that all rights and decision-making prerogatives incident or in any way
        related to management of the department are retained by the County unless modified by a
@@ -160,7 +160,7 @@ Washington County / FOPPO (2022-2026)           2
              and the assignment of offenders for supervision.
 
 
-                              ARTICLE 4 – HOURS OF WORK
+### ARTICLE 4 – HOURS OF WORK
 
 4.1   It is recognized by both parties that employees in the bargaining unit may work irregular
       hours in the performance of their duties. The official pay period shall consist of a
@@ -309,7 +309,7 @@ Washington County / FOPPO (2022-2026)         5
       will reopen this section for bargaining.
 
 
-                                  ARTICLE 5 – OVERTIME
+### ARTICLE 5 – OVERTIME
 
 5.1   Employees covered by this Agreement will be compensated for overtime on hours
       worked in excess of 80 hours worked (paid leave counts as hours worked) in a pay
@@ -330,7 +330,7 @@ Washington County / FOPPO (2022-2026)         5
       work schedule.
 
 
-                                  ARTICLE 6 – HOLIDAYS
+### ARTICLE 6 – HOLIDAYS
 
 6.1   Legal Holidays: The following days are legal holidays to be paid (eight (8) hours) at the
       regular straight-time rate of pay:
@@ -392,7 +392,7 @@ Washington County / FOPPO (2022-2026)          6
 
 
 Washington County / FOPPO (2022-2026)          7
-                            ARTICLE 7 – VACATION LEAVE
+### ARTICLE 7 – VACATION LEAVE
 
 7.1   Vacation Accumulation: Full-time employees shall be credited with vacation leave as
       follows:
@@ -454,7 +454,7 @@ Washington County / FOPPO (2022-2026)         8
       negotiating with the Federation.
 
 
-                                 ARTICLE 8 – SICK LEAVE
+### ARTICLE 8 – SICK LEAVE
 
 8.1   Accumulation: Sick leave shall be earned by each employee at the rate of 0.0462 hours
       for each hour paid. The maximum accrual of sick leave for any employee shall be ninety-
@@ -554,7 +554,7 @@ Washington County / FOPPO (2022-2026)           10
        costs incurred by the employee in this instance will be the employee’s responsibility.
 
 
-                               ARTICLE 9 – OTHER LEAVES
+### ARTICLE 9 – OTHER LEAVES
 
 9.1    Other Leaves of Absence With Pay: An employee holding a position in the County shall
        be granted a leave of absence with pay for:
@@ -660,7 +660,7 @@ Washington County / FOPPO (2022-2026)          12
        under any workers’ compensation law shall participate in the County’s MCO program.
 
 
-               ARTICLE 10 – HEALTH AND WELFARE AND DISABILITY
+### ARTICLE 10 – HEALTH AND WELFARE AND DISABILITY
 
 10.1   The County agrees to provide employees a choice between a standard PPO option and a
        standard HMO option, which as of 2022 are the standard medical insurance plans for the
@@ -773,7 +773,7 @@ Washington County / FOPPO (2022-2026)                   14
        representative on the committee, without loss of pay.
 
 
-                                 ARTICLE 11 – RETIREMENT
+### ARTICLE 11 – RETIREMENT
 
 11.1   The County shall continue to participate in the Public Employees Retirement System
        (PERS) for employees eligible to participate in the system. The County shall participate
@@ -810,7 +810,7 @@ Washington County / FOPPO (2022-2026)            15
        programs.
 
 
-                                    ARTICLE 12 – WAGES
+### ARTICLE 12 – WAGES
 
 12.1   Salary Schedules: Compensation shall be in accordance with the Salary Schedule
        attached hereto as Appendix A.
@@ -914,7 +914,7 @@ Washington County / FOPPO (2022-2026)         17
               2.5% of their base pay.
 
 
-                                    ARTICLE 13 – SAFETY
+### ARTICLE 13 – SAFETY
 
 13.1   General Policy: The County believes that safe working conditions for each employee can
        be attained through use of safety equipment, by proper job instruction, frequent review of
@@ -987,7 +987,7 @@ Washington County / FOPPO (2022-2026)           18
 
 
 Washington County / FOPPO (2022-2026)           19
-                      ARTICLE 14 – DISCIPLINE AND DISCHARGE
+### ARTICLE 14 – DISCIPLINE AND DISCHARGE
 
 14.1   General Principles: Corrective and/or disciplinary action shall only be imposed on
        Career Employees for just cause. Progressive disciplinary action shall be employed,
@@ -1089,7 +1089,7 @@ Washington County / FOPPO (2022-2026)          20
 
 
 Washington County / FOPPO (2022-2026)           21
-                          ARTICLE 15 – GENERAL PROVISIONS
+### ARTICLE 15 – GENERAL PROVISIONS
 
 15.1   Nondiscrimination: The provisions of this Agreement shall be applied equally to all
        employees in the bargaining unit without discrimination as to age, marital status, race,
@@ -1144,7 +1144,7 @@ Washington County / FOPPO (2022-2026)          22
        polo or sport shirt upon hire.
 
 
-             ARTICLE 16 – GRIEVANCE AND ARBITRATION PROCEDURE
+### ARTICLE 16 – GRIEVANCE AND ARBITRATION PROCEDURE
 
 16.1   Scope of Grievance Procedure: Any grievance or dispute which may arise between the
        parties, regarding the application, meaning or interpretation of this Agreement, may be
@@ -1235,7 +1235,7 @@ Washington County / FOPPO (2022-2026)          23
 
 
 Washington County / FOPPO (2022-2026)            24
-                            ARTICLE 17 – LAYOFF AND RECALL
+### ARTICLE 17 – LAYOFF AND RECALL
 
 17.1   A layoff is defined as a separation from the service for involuntary reasons, other than
        resignation. The Employer may lay off an employee when the Employer determines it is
@@ -1336,7 +1336,7 @@ Washington County / FOPPO (2022-2026)            25
 
 
 Washington County / FOPPO (2022-2026)            26
-                          ARTICLE 18 – OUTSIDE EMPLOYMENT
+### ARTICLE 18 – OUTSIDE EMPLOYMENT
 
 18.1   Approval of Outside Work: No employee shall perform outside compensated work
        whether part-time, temporary, or permanent, without prior written approval of the
@@ -1349,13 +1349,13 @@ Washington County / FOPPO (2022-2026)            26
        interest, or is a discredit to the County.
 
 
-                           ARTICLE 19 – TRAVEL ALLOWANCES
+### ARTICLE 19 – TRAVEL ALLOWANCES
 
 Travel allowances, per diem, travel reimbursement and mileage allowance shall be in accordance
 with County policy as determined by the County.
 
 
-                           ARTICLE 20 – JOB REPRESENTATION
+### ARTICLE 20 – JOB REPRESENTATION
 
 20.1   Selection: The employees in the bargaining unit shall be allowed job representatives.
        The Federation shall notify the Employer of the employee who will act as job
@@ -1385,7 +1385,7 @@ with County policy as determined by the County.
 
 
 Washington County / FOPPO (2022-2026)           27
-                           ARTICLE 21 – PERSONNEL RECORDS
+### ARTICLE 21 – PERSONNEL RECORDS
 
 21.1   Record Maintained: The Human Resources Division shall maintain a personnel record of
        each employee in the County service. This record shall be the official record of the
@@ -1420,7 +1420,7 @@ Washington County / FOPPO (2022-2026)           27
        limit the authority of an arbitrator to order the removal of a specific item or items from a
        grievant’s personnel record as part of the remedy in a particular case.
 
-                                    ARTICLE 22 – PAYDAY
+### ARTICLE 22 – PAYDAY
 
 22.1   General Policy: Payday and pay practices shall be in accordance with general County
        policy.
@@ -1432,7 +1432,7 @@ Washington County / FOPPO (2022-2026)           27
 
 
 Washington County / FOPPO (2022-2026)           28
-            ARTICLE 23 – EDUCATION, TRAINING, TUITION ASSISTANCE
+### ARTICLE 23 – EDUCATION, TRAINING, TUITION ASSISTANCE
 
 23.1   General Policy: The County shall encourage and promote training opportunities which
        are of direct benefit to the County.
@@ -1462,7 +1462,7 @@ Washington County / FOPPO (2022-2026)           28
        location.
 
 
-                        ARTICLE 24 – BARGAINING UNIT LISTING
+### ARTICLE 24 – BARGAINING UNIT LISTING
 
 24.1   Present Employees: Upon request by the Federation, the Employer shall furnish to the
        Federation an alphabetical listing of names, class, salary range, date of hire, appointment
@@ -1478,7 +1478,7 @@ Washington County / FOPPO (2022-2026)           28
 
 
 Washington County / FOPPO (2022-2026)           29
-                           ARTICLE 25 – PAYROLL DEDUCTION
+### ARTICLE 25 – PAYROLL DEDUCTION
 
 25.1   The Employer agrees to deduct the regular Federation membership dues as provided by
        ORS 292.055. The aggregate deductions of all member employees shall be remitted
@@ -1496,7 +1496,7 @@ Washington County / FOPPO (2022-2026)           29
        The Federation will inform the Employer, in writing, when any change in dues occurs.
 
 
-                    ARTICLE 26 – PROMOTIONS AND ASSIGNMENTS
+### ARTICLE 26 – PROMOTIONS AND ASSIGNMENTS
 
 26.1   An employee who has obtained DPSST certification will be promoted from Parole and
        Probation Officer I to Parole and Probation Officer II. The employee will continue in
@@ -1537,7 +1537,7 @@ Washington County / FOPPO (2022-2026)           30
         procedure.
 
 
-                          ARTICLE 27 – WORKLOAD COMMITTEE
+### ARTICLE 27 – WORKLOAD COMMITTEE
 
 A Workload Review and Monitor Committee will meet a minimum of six times per year, or
 more frequently as mutually agreed. The Committee will consist of three (3) line staff appointed
@@ -1565,7 +1565,7 @@ Operations Team meeting to present issues related to items discussed by the Work
 Committee. Participation shall be scheduled through the Assistant Director.
 
 
-                               ARTICLE 28 – SAVINGS CLAUSE
+### ARTICLE 28 – SAVINGS CLAUSE
 
 28.1    Should any section or portion thereof of this Agreement be held unlawful and
         unenforceable by any court of competent jurisdiction or upon mutual agreement of the
@@ -1580,7 +1580,7 @@ Committee. Participation shall be scheduled through the Assistant Director.
 
 
 Washington County / FOPPO (2022-2026)            31
-                                ARTICLE 29 - TERMINATION
+### ARTICLE 29 - TERMINATION
 
  29.1   This Agreement shall be effective as of the date hereof unless otherwise specified and
         shall remain in full force and effect through June 30, 2026. This Agreement will
@@ -1609,7 +1609,7 @@ of June, 2022.
 
 
 Washington County/ FOPPO (2022-2026)           32
-                                                                          APPENDIX A
+### APPENDIX A
 
 
 Effective the first full pay period following July 1, 2022, or following ratification if later, adjust the straight time hourly rate of pay by a percentage equal

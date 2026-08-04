@@ -95,7 +95,7 @@ statutes.
 
 The parties agree as follows:
 
-ARTICLE 1 – UNION RECOGNITION
+### ARTICLE 1 – UNION RECOGNITION
 
 The Employer recognizes the SEIU Local 503, OPEU/MCEA, Local 294 as the sole and exclusive
 bargaining representative for ALL regular and temporary employees in
@@ -105,7 +105,7 @@ considered prohibited from striking within the definition of ORS 243.736.
 
 
 
-ARTICLE 2 – MANAGEMENT’S RIGHTS
+### ARTICLE 2 – MANAGEMENT’S RIGHTS
 
 Except as may be specifically modified by the terms of this agreement, the county retains all
 rights of management in the direction of its work force. It is recognized that the responsibilities
@@ -138,7 +138,7 @@ These rights of management shall include, but not be limited to, the following:
         schedules of work; the right to purchase, dispose and assign equipment or supplies.
 
 
-ARTICLE 3 – UNION SECURITY
+### ARTICLE 3 – UNION SECURITY
 
 Section 1. Requests for Union membership, Union deductions, and Union cancellations shall
 first come to the Union. The Union will submit electronically all verified Union membership
@@ -185,7 +185,7 @@ Nothing in this section is intended to conflict with Oregon law. To the extent t
 provided for in this section conflicts with Oregon law, the provision of Oregon law shall prevail.
 
 
-ARTICLE 4 – HOURS OF WORK
+### ARTICLE 4 – HOURS OF WORK
 This article does not apply to temporary employees.
 
 Section 1. Except where current practice is contrary, the regular hours of work each day shall
@@ -274,7 +274,7 @@ agree to the change.
 
 
 
-ARTICLE 5 – REST PERIODS AND LUNCH BREAKS
+### ARTICLE 5 – REST PERIODS AND LUNCH BREAKS
 
 Section 1. A rest period of fifteen (15) minutes shall be permitted for all employees for each full
 half work shift. Such rest periods shall normally be on a scheduled basis so that activities of the
@@ -295,7 +295,7 @@ county, and whenever possible, employees shall be provided with lunchroom facili
                          Marion County Employees Association Collective Bargaining Agreement
                                                                                    2024-2026
 
-ARTICLE 6 – HOLIDAYS
+### ARTICLE 6 – HOLIDAYS
 
 Section 1. Holidays. The following days are legal holidays for regular employees in the county
 service:
@@ -386,7 +386,7 @@ article apply to temporary employees.
                         Marion County Employees Association Collective Bargaining Agreement
                                                                                   2024-2026
 
-ARTICLE 7 – VACATION LEAVE
+### ARTICLE 7 – VACATION LEAVE
 This article does not apply to temporary employees.
 
 Section 1. Vacation Accumulation. After having served in the county service for six (6)
@@ -527,7 +527,7 @@ in this program, an employee may not return to receiving compensation credits an
 lower salary schedule.
 
 
-ARTICLE 8 – SICK LEAVE
+### ARTICLE 8 – SICK LEAVE
 Sections 2 through 11 of this article do not apply to temporary employees.
 
 Section 1. The county will follow any and all Oregon State sick time laws and regulations. The
@@ -690,7 +690,7 @@ of family member will be as defined by the appropriate Oregon State and/or feder
 
 
 
-ARTICLE 9 – OTHER LEAVES
+### ARTICLE 9 – OTHER LEAVES
 This article does not apply to temporary employees.
 
 Section 1. Other Leaves of Absence with Pay. An employee holding a position in county
@@ -776,7 +776,7 @@ declared vacant and the employee terminated.
 
 
 
-ARTICLE 10 – HEALTH AND WELFARE
+### ARTICLE 10 – HEALTH AND WELFARE
 
 Section 1. Marion County Benefits Plan. Marion County shall, within the maximum
 contribution provided by the county, attempt to provide the best value, most effective health,
@@ -848,7 +848,7 @@ Section 4. Employer Health Insurance Contributions.
        plan year January 1, 2026, to December 31, 2026.
 
 
-ARTICLE 11 – WAGE ADJUSTMENT
+### ARTICLE 11 – WAGE ADJUSTMENT
 Sections 7 through 13 of this article do not apply to temporary employees.
 
 Section 1. Retirement. The county agrees to continue its participation in the PERS and OPSRP
@@ -1038,7 +1038,7 @@ five percent (5%) differential to compensate for the irregularity of the schedul
 
 
 
-ARTICLE 12 – ADMINISTRATION OF PAY PLAN
+### ARTICLE 12 – ADMINISTRATION OF PAY PLAN
 Section 2 of this article does not apply to temporary employees.
 
 Section 1. Compensation Plan. The county has adopted a compensation plan under which
@@ -1180,7 +1180,7 @@ J. Recoupment of Wage and Benefit Overpayments and Underpayments.
 
 
 
-ARTICLE 13 – OVERTIME
+### ARTICLE 13 – OVERTIME
 This article does not apply to temporary employees.
 
 Section 1. The following shall be regarded as hours worked for the purpose of computing
@@ -1240,7 +1240,7 @@ assignment.
                          Marion County Employees Association Collective Bargaining Agreement
                                                                                    2024-2026
 
-ARTICLE 14 – TRAVEL ALLOWANCES
+### ARTICLE 14 – TRAVEL ALLOWANCES
 This article does not apply to temporary employees.
 
 Section 1. Cost of In-State Transportation. All in-state travel bookings must be approved in
@@ -1291,7 +1291,7 @@ than the minimum required by state law. Employees who use a private vehicle for 
 business are required to provide the county with proof of insurance.
 
 
-ARTICLE 15 – HEALTH AND SAFETY REGULATIONS
+### ARTICLE 15 – HEALTH AND SAFETY REGULATIONS
 
 Section 1. The county shall make reasonable provisions and exercise due consideration
 regarding the health and safety of its employees during the hours of their employment.
@@ -1335,7 +1335,7 @@ Section 6. The county will provide for ergonomic standards to be established.
 
 
 
-ARTICLE 16 – ANNUAL PERFORMANCE EVALUATIONS
+### ARTICLE 16 – ANNUAL PERFORMANCE EVALUATIONS
 This article does not apply to temporary employees.
 
 Section 1. Employees shall be given a performance evaluation at least annually. This article is
@@ -1388,7 +1388,7 @@ identify weaknesses in the current system, and recommend improvements. The Emplo
 agrees to implement mutually agreeable changes in a timely fashion.
 
 
-ARTICLE 17 – GENERAL PROVISIONS
+### ARTICLE 17 – GENERAL PROVISIONS
 
 Section 1. Non-Discrimination. The provisions of this agreement shall be applied equally to all
 employees in the bargaining unit without discrimination as to age, marital status, race, color,
@@ -1495,7 +1495,7 @@ involvement of the employees in the budget process.
 
 
 
-ARTICLE 18 – EDUCATIONAL ASSISTANCE
+### ARTICLE 18 – EDUCATIONAL ASSISTANCE
 This article does not apply to temporary employees.
 
 Section 1. Tuition aid is defined as full or partial payment or reimbursement for the costs of
@@ -1526,7 +1526,7 @@ writing. Leave granted under this section will normally not exceed one (1) year.
 
 
 
-ARTICLE 19 – RELEASE TIME FOR UNION ACTIVITIES
+### ARTICLE 19 – RELEASE TIME FOR UNION ACTIVITIES
 
 Section 1. New Employee Orientation. A representative of the Union shall be granted time off
 with pay for a presentation on behalf of the Union during the Employer’s new employee
@@ -1628,7 +1628,7 @@ steward for the conduct of the function described herein.
 
 
 
-ARTICLE 20 – DISCIPLINE AND DISCHARGE
+### ARTICLE 20 – DISCIPLINE AND DISCHARGE
 This article does not apply to temporary employees.
 
 Section 1. Disciplinary action may be imposed upon an employee only for just cause using the
@@ -1744,7 +1744,7 @@ administrative leave will include a list of current MCEA stewards.
 
 
 
-ARTICLE 21 – GRIEVANCE AND ARBITRATION PROCEDURE
+### ARTICLE 21 – GRIEVANCE AND ARBITRATION PROCEDURE
 
 Section 1. Definitions.
 
@@ -1874,7 +1874,7 @@ grievance procedure may be waived by mutual written consent of the parties.
                           Marion County Employees Association Collective Bargaining Agreement
                                                                                     2024-2026
 
-ARTICLE 22 – PERSONNEL FILE
+### ARTICLE 22 – PERSONNEL FILE
 Section 5 of this article does not apply to temporary employees.
 
 Section 1. Human resources shall maintain a personnel file of each employee in county service.
@@ -1918,7 +1918,7 @@ request of the employee.
                          Marion County Employees Association Collective Bargaining Agreement
                                                                                    2024-2026
 
-ARTICLE 23 – RECLASSIFICATION/DESK AUDIT PROCEDURE
+### ARTICLE 23 – RECLASSIFICATION/DESK AUDIT PROCEDURE
 This article does not apply to temporary employees.
 
 Section 1. Any employee may submit a request for a change in the classification of a position to
@@ -1980,7 +1980,7 @@ the Union organizer.
 
 
 
-ARTICLE 24 – LAYOFF
+### ARTICLE 24 – LAYOFF
 This article does not apply to temporary employees.
 
 Section 1. Definition. A layoff is defined as any separation from county service not for cause
@@ -2096,7 +2096,7 @@ sent to the employee’s last known address for up to two (2) years from the dat
                           Marion County Employees Association Collective Bargaining Agreement
                                                                                     2024-2026
 
-ARTICLE 25 – FILLING OF VACANCIES
+### ARTICLE 25 – FILLING OF VACANCIES
 
 Section 1. Vacancies that are to be filled shall be posted on the county website and sent by
 electronic mail to all county employees at least five (5) working days prior to closing.
@@ -2122,7 +2122,7 @@ Employer’s internal recruitments.
 
 
 
-ARTICLE 26 – TRIAL SERVICE PERIOD
+### ARTICLE 26 – TRIAL SERVICE PERIOD
 This article does not apply to temporary employees.
 
 Section 1. All definitions contained in the Marion County Personnel Rules shall apply to this
@@ -2186,7 +2186,7 @@ the date of hire or placement.
                         Marion County Employees Association Collective Bargaining Agreement
                                                                                   2024-2026
 
-ARTICLE 27 – EFFECT OF LAW AND RULES
+### ARTICLE 27 – EFFECT OF LAW AND RULES
 
 Section 1. This agreement is subject to all existing and future laws of the State of Oregon.
 
@@ -2195,7 +2195,7 @@ rules in all matters which are not addressed in this agreement. Any violation of
 shall be addressed through the grievance procedure.
 
 
-ARTICLE 28 – SCOPE OF AGREEMENT
+### ARTICLE 28 – SCOPE OF AGREEMENT
 
 This document constitutes the sole and complete agreement between the Union and the county
 and embodies all the terms and conditions governing the employment of employees in the
@@ -2205,7 +2205,7 @@ or unwritten commitment or agreement between the county and the Union or any ind
 employee covered by this agreement is hereby superseded by the terms of this agreement.
 
 
-ARTICLE 29 – SAVINGS CLAUSE
+### ARTICLE 29 – SAVINGS CLAUSE
 
 Should any of the provisions of this agreement be found by a court of competent jurisdiction to
 be unlawful, unenforceable, or made illegal through enactment of state or federal law, all other
@@ -2214,7 +2214,7 @@ agreement.
 
 
 
-ARTICLE 30 – NOTICES
+### ARTICLE 30 – NOTICES
 
 Section 1. Prior to planned adoption, the county shall provide to the Union president and
 organizer a copy of any new or proposed modification to an existing rule, policy, and/or
@@ -2240,7 +2240,7 @@ to those issues brought by the Union to the labor-management committee for comme
 clarification pursuant to the terms of this article.
 
 
-ARTICLE 31 – JOB SHARING
+### ARTICLE 31 – JOB SHARING
 This article does not apply to temporary employees.
 
 Section 1. Any employee who wishes to work in a job share position may make a written
@@ -2265,7 +2265,7 @@ will be responsible for fulfilling all of the duties and FTE requirements of the
 
 
 
-ARTICLE 32 – CONTRACTING OUT
+### ARTICLE 32 – CONTRACTING OUT
 This article does not apply to temporary employees.
 
 Section 1. Definition. “Contracting out” is defined as follows: Entering into an
@@ -2323,7 +2323,7 @@ County under that contract, their department, their classification, and their st
                           Marion County Employees Association Collective Bargaining Agreement
                                                                                     2024-2026
 
-ARTICLE 33 – LIFE OF AGREEMENT AND TERMINATION
+### ARTICLE 33 – LIFE OF AGREEMENT AND TERMINATION
 
 Section 1. This agreement shall take effect July 1, 2024, and shall be in full force and effect
 through June 30, 2026. If either party wishes to renew or modify the agreement as of
@@ -2346,7 +2346,7 @@ invalid.
 
 
 
-ARTICLE 34 – TEMPORARY EMPLOYEES
+### ARTICLE 34 – TEMPORARY EMPLOYEES
 
 Section 1. Definitions.
 
@@ -2414,7 +2414,7 @@ not apply to temporary employees unless specifically stated in the letter(s) of 
                         Marion County Employees Association Collective Bargaining Agreement
                                                                                   2024-2026
 
-ARTICLE 35 – DRUG AND ALCOHOL FREE WORKPLACE
+### ARTICLE 35 – DRUG AND ALCOHOL FREE WORKPLACE
 
 Section 1. The Union and the county agree that the terms and conditions of federal regulations
 as applied to employees under CDL and Coast Guard licensing will continue to apply for drug

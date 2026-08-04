@@ -60,7 +60,7 @@ Washington County / WCPOA v2 – Sergeants CBA 2025-2028 – i
 
 
 Washington County / WCPOA – Sergeants CBA 2025-2028 – ii
-                                    ARTICLE 1 – RECOGNITION
+### ARTICLE 1 – RECOGNITION
 
 1.1     The County recognizes the Association as the exclusive collective bargaining agent for
         all full-time employees in the following classifications:
@@ -121,7 +121,7 @@ Washington County / WCPOA – Sergeants CBA 2025-2028 – 1
 
 
 Washington County / WCPOA – Sergeants CBA 2025-2028 – 2
-                                     ARTICLE 2 – DEFINITIONS
+### ARTICLE 2 – DEFINITIONS
 
 2.1     The following definitions shall be applicable to this Agreement:
 
@@ -161,7 +161,7 @@ Washington County / WCPOA – Sergeants CBA 2025-2028 – 2
 
 
 Washington County / WCPOA – Sergeants CBA 2025-2028 – 3
-                              ARTICLE 3 – EXISTING CONDITIONS
+### ARTICLE 3 – EXISTING CONDITIONS
 
 3.1     Standards of employment related to wages, hours and working conditions that constitute
         mandatory subjects of bargaining shall be continued at not less than the level in effect at
@@ -171,7 +171,7 @@ Washington County / WCPOA – Sergeants CBA 2025-2028 – 3
 
 
 Washington County / WCPOA – Sergeants CBA 2025-2028 – 4
-                      ARTICLE 4 – LABOR MANAGEMENT COMMITTEE
+### ARTICLE 4 – LABOR MANAGEMENT COMMITTEE
 
 4.1     The County and the Association shall establish a Labor-Management Committee to
         advance communications on matters of concern to either party. The purpose of the Labor-
@@ -201,7 +201,7 @@ Washington County / WCPOA – Sergeants CBA 2025-2028 – 4
 
 
 Washington County / WCPOA – Sergeants CBA 2025-2028 – 5
-                           ARTICLE 5 – ELECTRONIC TECHNOLOGY
+### ARTICLE 5 – ELECTRONIC TECHNOLOGY
 
 5.1     Electronic Technology (E-Tech) used by the County and Sheriff’s Office encompasses
         and includes, but is not limited to Body-Worn Camera (BWC), Global Positioning
@@ -291,7 +291,7 @@ Washington County / WCPOA – Sergeants CBA 2025-2028 – 6
 
 
 Washington County / WCPOA – Sergeants CBA 2025-2028 – 7
-                     ARTICLE 6 – EQUAL EMPLOYMENT OPPORTUNITY
+### ARTICLE 6 – EQUAL EMPLOYMENT OPPORTUNITY
 
 6.1     The County and the Association agree that the provisions of this Agreement shall be
         applied equally to all employees of the bargaining unit without discrimination as to race,
@@ -316,7 +316,7 @@ Washington County / WCPOA – Sergeants CBA 2025-2028 – 7
 
 
 Washington County / WCPOA – Sergeants CBA 2025-2028 – 8
-                              ARTICLE 7 – SCOPE OF AGREEMENT
+### ARTICLE 7 – SCOPE OF AGREEMENT
 
 7.1     The parties acknowledge that during negotiations which preceded this Agreement, each
         had the unlimited right and opportunity to make demands and proposals with respect to
@@ -333,7 +333,7 @@ Washington County / WCPOA – Sergeants CBA 2025-2028 – 8
 
 
 Washington County / WCPOA – Sergeants CBA 2025-2028 – 9
-                      ARTICLE 8 – EMPLOYEE & ASSOCIATION RIGHTS
+### ARTICLE 8 – EMPLOYEE & ASSOCIATION RIGHTS
 
 8.1     Employees shall have the right to form, join and participate in the activities of employee
         organizations of their own choosing, for the purpose of representation on matters of
@@ -455,7 +455,7 @@ Washington County / WCPOA – Sergeants CBA 2025-2028 – 11
 
 
 Washington County / WCPOA – Sergeants CBA 2025-2028 – 12
-                              ARTICLE 9 – MANAGEMENT RIGHTS
+### ARTICLE 9 – MANAGEMENT RIGHTS
 
 9.1     It is recognized that an area of responsibility must be reserved to the employer if the
         County is to effectively serve the public. Except to the extent expressly abridged by a
@@ -498,7 +498,7 @@ Washington County / WCPOA – Sergeants CBA 2025-2028 – 12
 
 
 Washington County / WCPOA – Sergeants CBA 2025-2028 – 13
-                                  ARTICLE 10 – HOURS OF WORK
+### ARTICLE 10 – HOURS OF WORK
 
 10.1    The workweek shall be from 0001 (12:01 a.m.) Saturday through 0000 (midnight) Friday
         night. The regular hours of each workday shall be consecutive. The workday shall consist
@@ -598,7 +598,7 @@ Washington County / WCPOA – Sergeants CBA 2025-2028 – 14
 
 
 Washington County / WCPOA – Sergeants CBA 2025-2028 – 15
-                                      ARTICLE 11 – OVERTIME
+### ARTICLE 11 – OVERTIME
 
 11.1    Time and one-half (1.5) the employee’s regular hourly rate of pay shall be paid for
         authorized work under any of the following conditions, but compensation shall not be
@@ -718,7 +718,7 @@ Washington County / WCPOA – Sergeants CBA 2025-2028 – 17
 
 
 Washington County / WCPOA – Sergeants CBA 2025-2028 – 18
-                         ARTICLE 12 – CALL BACK AND COURT TIME
+### ARTICLE 12 – CALL BACK AND COURT TIME
 
 12.1    Call-Back. Any employee who is approved and required to report to work from off-duty
         status on a regularly scheduled day off shall receive four (4) hours minimum and if it is
@@ -824,7 +824,7 @@ Washington County / WCPOA – Sergeants CBA 2025-2028 – 20
 
 
 Washington County / WCPOA – Sergeants CBA 2025-2028 – 21
-                   ARTICLE 13 – WORKING IN HIGHER CLASSIFICATION
+### ARTICLE 13 – WORKING IN HIGHER CLASSIFICATION
 
 13.1    When an employee is assigned to fulfill the duties and responsibilities of a position in a
         classification higher than their own for a continuous period of more than four (4)
@@ -838,7 +838,7 @@ Washington County / WCPOA – Sergeants CBA 2025-2028 – 21
 
 
 Washington County / WCPOA – Sergeants CBA 2025-2028 – 22
-                                      ARTICLE 14 – SENIORITY
+### ARTICLE 14 – SENIORITY
 
 14.1    Definitions of Seniority.
 
@@ -894,7 +894,7 @@ Washington County / WCPOA – Sergeants CBA 2025-2028 – 23
 
 
 Washington County / WCPOA – Sergeants CBA 2025-2028 – 24
-                                      ARTICLE 15 – UNIFORMS
+### ARTICLE 15 – UNIFORMS
 
 15.1    If an employee is required to wear a uniform, such uniform shall be furnished to the
         employee by the County. The cost of the uniform including initial tailoring to make the
@@ -920,7 +920,7 @@ Washington County / WCPOA – Sergeants CBA 2025-2028 – 24
 
 
 Washington County / WCPOA – Sergeants CBA 2025-2028 – 25
-                       ARTICLE 16 – TIME OFF IN LIEU OF HOLIDAYS
+### ARTICLE 16 – TIME OFF IN LIEU OF HOLIDAYS
 
 16.1    Through June 30, 2025, employees shall accrue 4.0001 hours per regular payroll period
         of Time Off In Lieu of Holidays (ILH). Effective the first regular pay period after July 1,
@@ -943,7 +943,7 @@ Washington County / WCPOA – Sergeants CBA 2025-2028 – 25
 
 
 Washington County / WCPOA – Sergeants CBA 2025-2028 – 26
-                                 ARTICLE 17 – VACATION LEAVE
+### ARTICLE 17 – VACATION LEAVE
 
 17.1    Upon hire, all full-time employees shall accrue vacation on the following basis:
 
@@ -1038,7 +1038,7 @@ Washington County / WCPOA – Sergeants CBA 2025-2028 – 27
 
 
 Washington County / WCPOA – Sergeants CBA 2025-2028 – 28
-                                     ARTICLE 18 – SICK LEAVE
+### ARTICLE 18 – SICK LEAVE
 
 18.1    Employees shall accumulate sick leave at the rate of 0.0462 hours for each hour worked.
         Sick leave accumulated prior to the date of execution of this Agreement shall be credited
@@ -1147,7 +1147,7 @@ Washington County / WCPOA – Sergeants CBA 2025-2028 – 30
 
 
 Washington County / WCPOA – Sergeants CBA 2025-2028 – 31
-                                   ARTICLE 19 – OTHER LEAVES
+### ARTICLE 19 – OTHER LEAVES
 
 19.1    Leave of Absence Without Pay.
 
@@ -1412,7 +1412,7 @@ Washington County / WCPOA – Sergeants CBA 2025-2028 – 36
 
 
 Washington County / WCPOA – Sergeants CBA 2025-2028 – 37
-                  ARTICLE 20 – ADMINISTRATION OF THE SALARY PLAN
+### ARTICLE 20 – ADMINISTRATION OF THE SALARY PLAN
 
 20.1    The following rules shall govern the use of the salary ranges set forth in Schedule A,
         which is made a part thereof.
@@ -1578,7 +1578,7 @@ Washington County / WCPOA – Sergeants CBA 2025-2028 – 40
 
 
 Washington County / WCPOA – Sergeants CBA 2025-2028 – 41
-                                   ARTICLE 21 – INCENTIVE PAY
+### ARTICLE 21 – INCENTIVE PAY
 
 21.1    DPSST Incentive Program. Employees covered by the bargaining unit who are certified
         by the Oregon Department of Public Safety Standards and Training (DPSST) shall
@@ -1665,7 +1665,7 @@ Washington County / WCPOA – Sergeants CBA 2025-2028 – 42
 
 
 Washington County / WCPOA – Sergeants CBA 2025-2028 – 43
-         ARTICLE 22 – TRANSITIONAL (LIGHT) DUTY ASSIGNMENT AND PAY
+### ARTICLE 22 – TRANSITIONAL (LIGHT) DUTY ASSIGNMENT AND PAY
 
 22.1    An employee who is unable to perform the regular duties of their position because of a
         compensable work-related injury or illness may be assigned by the County to other work
@@ -1697,7 +1697,7 @@ Washington County / WCPOA – Sergeants CBA 2025-2028 – 43
 
 
 Washington County / WCPOA – Sergeants CBA 2025-2028 – 44
-                          ARTICLE 23 – RESERVED FOR FUTURE USE
+### ARTICLE 23 – RESERVED FOR FUTURE USE
 
 
                                          [intentionally left blank]
@@ -1706,7 +1706,7 @@ Washington County / WCPOA – Sergeants CBA 2025-2028 – 44
 
 
 Washington County / WCPOA – Sergeants CBA 2025-2028 – 45
-                      ARTICLE 24 – ASSOCIATION REPRESENTATIVES
+### ARTICLE 24 – ASSOCIATION REPRESENTATIVES
 
 
 24.1    Members of the bargaining unit selected to serve as authorized representatives (E-Board
@@ -1782,7 +1782,7 @@ Washington County / WCPOA – Sergeants CBA 2025-2028 – 46
 
 
 Washington County / WCPOA – Sergeants CBA 2025-2028 – 47
-                        ARTICLE 25 – OVERPAYMENT & REPAYMENT
+### ARTICLE 25 – OVERPAYMENT & REPAYMENT
 
 25.1    In the event an employee is either overpaid or underpaid by the County, each party has an
         obligation to report the error to the other party as soon as it is discovered., WCPOA will
@@ -1849,7 +1849,7 @@ Washington County / WCPOA – Sergeants CBA 2025-2028 – 48
 
 
 Washington County / WCPOA – Sergeants CBA 2025-2028 – 49
-                  ARTICLE 26 – MENTAL HEALTH & PHYSICAL FITNESS
+### ARTICLE 26 – MENTAL HEALTH & PHYSICAL FITNESS
 
 26.1    The Washington County Sheriff’s Office (WCSO) recognizes that the health and fitness
         of its employees is essential and is committed to fostering a culture of wellness to best
@@ -2072,7 +2072,7 @@ Washington County / WCPOA – Sergeants CBA 2025-2028 – 53
 
 
 Washington County / WCPOA – Sergeants CBA 2025-2028 – 54
-                                     ARTICLE 27 – TRAVEL PAY
+### ARTICLE 27 – TRAVEL PAY
 
 27.1    Whenever an employee is required to report to work at any location other than their
         established place of work, or whenever any employee, as a part of their regular work, is
@@ -2101,7 +2101,7 @@ Washington County / WCPOA – Sergeants CBA 2025-2028 – 54
 
 
 Washington County / WCPOA – Sergeants CBA 2025-2028 – 55
-                              ARTICLE 28 – MANDATED BENEFITS
+### ARTICLE 28 – MANDATED BENEFITS
 
 
 28.1    Public Employees’ Retirement System.
@@ -2128,7 +2128,7 @@ Washington County / WCPOA – Sergeants CBA 2025-2028 – 55
 
 
 Washington County / WCPOA – Sergeants CBA 2025-2028 – 56
-                                     ARTICLE 29 – INSURANCE
+### ARTICLE 29 – INSURANCE
 
 29.1    Medical, Dental and Vision. The County agrees to provide employees a choice between
         the standard medical insurance plans for Providence or Kaiser Permanente; or a choice of
@@ -2293,7 +2293,7 @@ Washington County / WCPOA – Sergeants CBA 2025-2028 – 59
 
 
 Washington County / WCPOA – Sergeants CBA 2025-2028 – 60
-                                 ARTICLE 30 – PERSONNEL FILE
+### ARTICLE 30 – PERSONNEL FILE
 
 
 30.1    If derogatory material is placed in an employee’s personnel file, a copy of such material
@@ -2323,7 +2323,7 @@ Washington County / WCPOA – Sergeants CBA 2025-2028 – 60
 
 
 Washington County / WCPOA – Sergeants CBA 2025-2028 – 61
-                         ARTICLE 31 – DISCIPLINE AND DISCHARGE
+### ARTICLE 31 – DISCIPLINE AND DISCHARGE
 
 31.1    A.      Discipline shall be limited to oral reprimand, written reprimand, demotion,
                 suspension and discharge or an alternative form of disciplinary sanction. Removal
@@ -2548,7 +2548,7 @@ Washington County / WCPOA – Sergeants CBA 2025-2028 – 65
 
 
 Washington County / WCPOA – Sergeants CBA 2025-2028 – 66
-                            ARTICLE 32 – GRIEVANCE PROCEDURE
+### ARTICLE 32 – GRIEVANCE PROCEDURE
 
 32.1    Any grievance or dispute which may arise between the parties, regarding the application,
         meaning or interpretation of this agreement, may be settled as set forth below. For
@@ -2645,7 +2645,7 @@ Washington County / WCPOA – Sergeants CBA 2025-2028 – 67
 
 
 Washington County / WCPOA – Sergeants CBA 2025-2028 – 68
-                               ARTICLE 33 – LAYOFF AND RECALL
+### ARTICLE 33 – LAYOFF AND RECALL
 
 33.1    Layoff.
 
@@ -2781,7 +2781,7 @@ Washington County / WCPOA – Sergeants CBA 2025-2028 – 70
 
 
 Washington County / WCPOA – Sergeants CBA 2025-2028 – 71
-                         ARTICLE 34 – NO STRIKE AND NO LOCKOUT
+### ARTICLE 34 – NO STRIKE AND NO LOCKOUT
 
 34.1    The Association agrees that during the life of this Agreement there shall be neither strike
         nor work slowdowns.
@@ -2797,7 +2797,7 @@ Washington County / WCPOA – Sergeants CBA 2025-2028 – 71
 
 
 Washington County / WCPOA – Sergeants CBA 2025-2028 – 72
-                                  ARTICLE 35 – SAVINGS CLAUSE
+### ARTICLE 35 – SAVINGS CLAUSE
 
 35.1    If any Article or Section of this Agreement or any addition thereto shall be held invalid
         by operation of law, or by any lawful tribunal having jurisdiction, or if compliance with
@@ -2814,7 +2814,7 @@ Washington County / WCPOA – Sergeants CBA 2025-2028 – 72
 
 
 Washington County / WCPOA – Sergeants CBA 2025-2028 – 73
-                                       ARTICLE 36 – TRAINING
+### ARTICLE 36 – TRAINING
 
 36.1    For classifications that have mandatory training, the Sheriff’s Office and the County will
         maintain a mandatory training schedule for each fiscal year during the life of this
@@ -2862,7 +2862,7 @@ Washington County / WCPOA – Sergeants CBA 2025-2028 – 73
 
 
 Washington County / WCPOA – Sergeants CBA 2025-2028 – 74
-                         ARTICLE 37 – DRUG AND ALCOHOL TESTING
+### ARTICLE 37 – DRUG AND ALCOHOL TESTING
 
 37.1    Statements of Principle.
 

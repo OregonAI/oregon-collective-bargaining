@@ -6,16 +6,16 @@ Federation of Parole and Probation Officers
 2022 – 2025 agreement between Clackamas County, Oregon and Federation of Oregon Parole and Probation Officers
 Preamble
 This Agreement is entered into by Clackamas County, Oregon, hereinafter referred to as the County, and the Federation of Oregon Parole and Probation Officers, hereinafter referred to as the Federation.
-Article 1 - Recognition
+### Article 1 - Recognition
 Section 1. The County recognizes the Federation as the exclusive bargaining agent for the purpose of establishing wages, hours and other conditions of employment for all County employees classified as Probation and Parole Officer I, II, and Probation and Parole Specialist and Probation and Parole Officer, Senior; except supervisory and confidential employees, temporary employees (those hired for a period of time not to exceed 1600 hours in a twelve (12) month period based on the County's Affordable Care Act look back period of November 1 through October 31 and every twelve (12) months period thereafter) and employees regularly working a schedule of less than 20 hours per week.
 Section 2. The Federation and Community Corrections agree to meet twice a year, if needed, regarding the utilization of temporary employees by Community Corrections. The meetings will be staffed by a representative from Human Resources. The purpose of the meetings will be to assess Community Correction's use of temporary employees, the duration of their assignments and whether or not the positions should be converted to full time positions.
-Article 2 - Preservation of Public Rights
+### Article 2 - Preservation of Public Rights
 The Federation recognizes that an area of responsibility must be reserved to the County if County government is to effectively serve the public. Therefore, the County shall have the full and complete right to manage and direct its business and it is recognized that the following responsibilities of management are exclusively functions to be exercised by the County and are not subject to negotiation insofar as this right does not affect the meaning, interpretation or application of any other terms of this Agreement:
 The determination of the governmental services to be rendered to the citizens of Clackamas County.
 The determination of the County's financial, budgetary and accounting procedures.
 The management and direction of the work force including, but not limited to, the right to determine the methods, processes and manner of performing work; the right to hire, promote, transfer within the same pay range and retain employees; the right to discipline or discharge for just cause; the right to lay off for lack of funds; the right to establish or abolish positions or reorganize the departments or division; the right to determine schedules of work; the right to purchase, dispose of and assign equipment or supplies; and the right to contract or subcontract any work.
 The County, in exercise of the above-mentioned functions, will not discriminate against any employee because of their membership in the Federation.
-Article 3 - Hours of Work
+### Article 3 - Hours of Work
 1. Work Period.
 Both parties agree that the members of this bargaining unit are law enforcement personnel under the meaning of the Fair Labor Standards Act and are therefore subject to Section 7k of that act. Overtime will be paid to employees covered by this agreement for any hours worked exceeding the maximum number of hours permitted within the specified work period. The work period shall be determined by the county. However, the work period shall be no less than fourteen (14) days nor more than twenty-eight (28) days.
 2. Irregular Hours.
@@ -26,7 +26,7 @@ The Federation acknowledges that from time to time overtime work will be require
 Schedules shall be arranged in accordance with current work rules (See Appendix A) and the work day shall begin no earlier than 6:30 a.m. and end no later than 10:00 p.m. In light of the requirement that Adult Parole and Probation Officers must often work irregular hours and must also be flexible in the hours they work in order to meet caseload demands, it is recognized that Parole and Probation Officers may adjust or flex their work hours within the 80-hour, 14-day period referenced in Section 3 above, provided such flexing of hours does not create an overtime liability. Examples of situations that may require flexing of schedules include: caseload demands, planned medical/dental appointments, etc. When such action results in a work schedule change, the employee must notify their supervisor, and when practicable, receive prior permission from their supervisor to work those hours. It is understood that evening and weekend work is a recognized part of the PPO's irregular work schedule.
 5. Hours of Operation.
 The office shall be open and staffed to give service to the public during regular business hours Monday through Friday. However, these hours may be modified to meet the needs of clients and the public.
-Article 4 - Holidays
+### Article 4 - Holidays
 1. Holidays.
 The following days shall be recognized and observed as paid holidays:
 New Year's Day (January 1st)
@@ -49,7 +49,7 @@ If any such holidays fall on Sunday, the succeeding Monday shall be deemed to be
 Should an employee be on authorized leave when a holiday occurs, such holiday shall not be charged against such leave.
 4. Holiday Work.
 If an employee works on any of the holidays listed above, they shall, in addition to their holiday pay, receive time off at one and one-half times provided in Article III Section 3 above.
-Article 5 - Sick Leave
+### Article 5 - Sick Leave
 1. Accrual.
 Employees shall accrue unlimited sick leave at the rate of eight (8) hours for each month worked, to be used in the event of their illness or illness of a member of their immediate family or as permitted by applicable law.
 Employees in a paid status for 88 hours (prorated for FTE status) or more in any month shall accrue sick leave for the next month on the first day of that month.
@@ -82,7 +82,7 @@ If an employee is on authorized sick leave for more than 30 days, the agency sha
 Employees who are absent on sick leave for a period in excess of their accrued sick leave shall use their accrued vacation time to cover such time off. At the option of the employee on approved FMLA/OFLA, the employee may retain up to 40 hours of vacation time prior to being placed on leave without pay.
 12. Leave Donation.
 Leave Donation will be granted in accordance with County Policy.
-Article 6 - Vacation Leave
+### Article 6 - Vacation Leave
 1. Accrual.
 A. Employees having served in the County service for six (6) consecutive full-calendar months, shall be credited with 52.2 hours of vacation leave, and thereafter, vacation leave shall be accrued in accordance with the following:
 Less than five (5) years of unbroken service, 104.4 hours per year, accrued at the rate of 8.7 hours per month.
@@ -106,7 +106,7 @@ After six (6) months of service, upon the termination of any employee for any re
 For employees working a standard eight (8)-hour workday, for each full day taken as vacation, eight (8)-hours will be charged against accrued vacation leave. For employees working a flexible schedule, each day of vacation shall be charged as the number of hours the employee is scheduled to work.
 5. Retiring Employees.
 In the last year of employment prior to retirement, an employee who was hired prior to July 1, 2000, will be able to sell back up to fifty (50) hours of vacation. The employee will be responsible to notify the County of intent to retire in order to exercise this provision. This is a one-time option.
-Article 7 - Other Leaves
+### Article 7 - Other Leaves
 1. Leave of Absence.
 Leaves of absence without pay for a limited period, not to exceed ninety (90) consecutive calendar days, shall be granted for any reasonable purpose subject to the approval of the Department Director or Appointing Authority. Leaves shall be granted consistent with the needs of the County, and may be renewed or extended for any reasonable period by the Board of County Commissioners or its designee. No leave will be granted to an employee to accept employment in any other capacity unless authorized by the Department Director in advance. Exceptions may be granted where other employment is incidental to or a necessary requisite for the purposes for which the leave was granted. After seven (7) years of employment, leaves of absence without pay for a limited period, not to exceed twelve (12) months, may be granted for any reasonable purpose, with the approval of the Department Director. Such leaves may be renewed for any reasonable period.
 2. Jury Duty.
@@ -115,7 +115,7 @@ Employees shall be granted leave with full pay any time they are required to rep
 After completing three (3) years of service, an employee may request a leave-of-absence without pay for educational purposes subject to approval of the Department Director or Appointing Authority. Educational Leave is for enrollment at an accredited school, when it is related to their employment. The period of such leave-of-absence shall not exceed one (1) year, but it may be renewed or extended subject to approval of the Department Director or Appointing Authority, at the request of the employee. One (1) year leaves-of-absence with any requested extension, for education purposes, may not be provided more than once in any three (3) year period. Employees may also be granted leaves-of-absence with or without pay for educational purposes, for additional lengths of time, to attend conferences, seminars, briefing sessions, or other functions of a similar nature that are intended to improve or upgrade the individual skill or professional ability, provided it does not interfere with the operation of the County.
 4. Military and Peace Corps.
 Military and Peace Corps leave shall be granted to the employee in accordance with Federal Law and/or Oregon Revised Statutes.
-Article 8 - Health and Welfare
+### Article 8 - Health and Welfare
 1. County Contribution.
 The County agrees to contribute toward the monthly composite premium for each medical coverage to fulltime eligible employees and their eligible family members who elect coverage, effective on the first day of the month following the benefit-waiting period described in Section 9. The design of the medical plans shall be determined by the Benefits Review Committee as described in Section 8.
 Effective January 1, 2023, the County agrees to contribute an amount equivalent to 95% of the monthly composite premium for each medical plan up to a maximum of 105% of the 2022 County contribution.
@@ -159,7 +159,7 @@ The County shall act to update any mandated coverage or changes caused by Federa
 The County shall provide each employee covered by this agreement the opportunity to enroll in a Health Reimbursement Account (HRA).
 The County shall pay the account fee up to $1.50 per account per month for each active employee enrolled in a HRA/VEBA. The participating employee shall be responsible for the third party annualized investment fee.
 Participating employees who have used at least forty (40) hours of vacation in the prior calendar year shall have all vacation time up to eighty (80) hours in excess of the annual cap, as referenced in Article 6, paid into their HRA/VEBA account.
-Article 9 - Wages
+### Article 9 - Wages
 1. Wages and Classification Schedule.
 Effective the first full pay period after July 1, 2022, or ratification by the Board of County Commissioners, whichever occurs later, employees shall receive a 4.5% cost of living increase. In lieu of retroactive pay, employees shall receive a lump sum payment based on an employee's gross pay earnings (base pay, overtime, longevity, and incentives) from July 1, 2022. The lump sum payment would appear in the paycheck 3 full pay periods after the effective date of the cost of living.
 Effective the first full pay period after July 1, 2023, employees shall receive a cost of living increase equal to the percentage increase in the US Consumer Price Index, CPI-W: West Urban Annual Average, as reported by the U.S. Department of Labor, with a minimum of 0% and a maximum of 4.5%. In the event the established CPI exceeds the 4.5% maximum for the second year of this Agreement, the parties will engage in bargaining limited to the difference between the established 4.5% maximum and the established CPI reported for that year. Negotiations are to start no later than February 1, 2023.
@@ -222,7 +222,7 @@ Employees who obtain a DPSST Advanced Certificate in parole and probation will b
 The above amounts will increase by an amount equal to the pay plan increases provided in Article 9.
 Certification pay will commence effective the first day of the pay period following proof of certification by DPSST to the Director.
 This incentive pay is not cumulative and members are eligible for one level only.
-Article 10 Discipline and Discharge
+### Article 10 Discipline and Discharge
 1. Disciplinary Measures.
 Disciplinary action for regular employees shall be for just cause. Discipline includes the following steps and shall normally be progressive as outlined below but the disciplinary process may be entered at any step and every step need not be utilized, depending upon the severity of the incident causing the disciplinary action:
 Verbal reprimand, which may be documented in writing;
@@ -248,7 +248,7 @@ A probationary employee and/or FOPPO shall be afforded the opportunity to grieve
 7. Employee Status Definitions.
 Probation: The probationary period is a working test period during which classified employees are required to demonstrate fitness by actual performance of the duties of the position to which they are appointed.
 Regular employee: Means a classified employee who has successfully completed a probationary period for a position.
-Article 11 - Layoff and Recall
+### Article 11 - Layoff and Recall
 1. Reason for Layoff.
 The department head may lay off an employee because the employee is medically unable to perform the job, and there is no other job the employee can perform. The department head may also lay off an employee because of shortage of funds or work or reorganization of the unit, if, in the opinion of the department head, there is no satisfactory alternative to lay off such as voluntary demotion, furlough, or reduced work week. Discussions regarding layoffs may be initiated by either the employer or the Federation. The County retains the final authority to determine whether layoffs should occur. Bumping does not apply to medical layoffs.
 2. Layoff.
@@ -261,7 +261,7 @@ When an employee is laid off due to a reduction in the work force, the employee 
 Those employees who are laid off shall be eligible before new hires for recall to their classification for a period of two (2) years without loss of seniority or benefits subject to contract limitations. Recall shall be on the basis of seniority or merit as described in Section 3 above.
 6. Alternatives.
 The parties agree that the Federation may fully raise alternatives to layoff that the County will fully consider.
-Article 12 - Settlement of Disputes
+### Article 12 - Settlement of Disputes
 1. Grievance Procedure.
 A. Grievances are defined as alleged violations of this Agreement and must be initiated within twenty-one (21) calendar days of their alleged occurrence. For purposes of calculating the twenty-one (21) calendar days, all days that an affected employee is on leave shall not count. Grievances filed in a timely manner shall be processed according to this Article. Upon mutual written agreement by the County or their designee and the Federation or their designee, when the nature of the grievance is such that it would be perfunctory or ineffectual to proceed at a lower step, the grievance may be initiated at the lowest step where successful solution may be reasonably expected. Employees are encouraged to resolve their problems informally at the immediate supervisor level. If such a problem cannot be resolved, the following procedure shall be followed:
 B. Step 1. Any employee, with notice to the Federation, or the Federation on an employee's behalf, may file a grievance in writing with the Community Corrections Manager within twenty-one (21) calendar days from the date of the alleged breach of this Agreement. The Community Corrections Manager or designated representative shall schedule a meeting with the Federation and the Grievant within ten (10) calendar days after receipt of the grievance. The Community Corrections Manager or designated representative shall respond in writing to the grievance within ten (10) calendar days of the Step 1 meeting. The Step 1 response shall be provided to the Federation and the affected employee(s).
@@ -280,7 +280,7 @@ B. If the arbitrator is faced with a question of arbitrability at the arbitratio
 An employee alleging any form of discrimination may file a complaint with the Department Director or their designated representative for processing according to Community Corrections Division policy governing investigation and resolution of alleged discrimination complaints. An employee may also file a written complaint with the Director of Human Resources as provided by the County's policy and may also file a grievance.
 4. Release Time.
 The Federation President, a Grievance Committee member, or a Federation Executive Board member, shall be allowed reasonable time and opportunity, without loss of pay, to assist an employee to pursue a grievance or dispute through the steps of the grievance procedure as outlined in Section 1 above.
-Article 13 - Workers'Compensation
+### Article 13 - Workers'Compensation
 Section 1 . All County employees will be insured under the provisions of the Oregon State Workers Compensation Act for injuries that arise out of and occur in the course of employment for the County. The County is self-insured for worker's compensation claims. The County and Federation acknowledge the right of employees to receive worker's compensation benefits as provided by state law and this article.
 Section 2.
 The County will compensate the employee for injuries that arise out of and occur in the course of employment where the claim has been accepted in an amount equal to the injured employee's regular pay, including any regular additional pay, such as longevity, that the employee was receiving at the time of the injury for up to and including 180 days from the date of injury. This wage continuation provision will continue for up to and including 180 calendar days from the date of injury, and is subject to the following conditions:
@@ -295,12 +295,12 @@ Section 4.
 Full medical and dental insurance coverage shall be provided for employees for a minimum of twelve (12) months from the date of injury as long as employee remains employed during this period. Employees are responsible for any applicable insurance premium cost share as provided for in Article 11. Further coverage shall be at the discretion of the Board.
 Section 5.
 The County may request the employee to return to modified or light duty, subject to medical release. An injured employee that refuses to return to modified or light duty may be subject to loss of reinstatement rights.
-Article 14 - Federation Security, Checkoff and Dues
+### Article 14 - Federation Security, Checkoff and Dues
 1. All employees covered by the terms and conditions of this Agreement shall have the voluntary choice whether to become members of the Federation. The County agrees to deduct dues in the amount determined by the Federation from the wages of each employee who is a member of the Federation. Federation members hired on or after June 26, 2018, shall provide the County with written authorization to deduct dues. Dues shall be deducted each pay period from each member's compensation and remitted monthly to the Treasurer of the Federation.
 2. Such uniform amounts as the Federation Treasurer certifies to the County as the dues approved by the members of the Federation shall remain as the reasonable amount to be deducted hereunder.
 3. Federation Members terminating with less than ten (10) working days in any calendar month will not be subject to dues deduction.
 4. The County will not be held liable for check-off errors, but will make proper adjustments with the Federation for errors as soon as is practicable if notified within ten (10) days of the error. In no case shall such an adjustment extend beyond the following pay period. In order for both parties to have adequate information on dues check-off, an updated list of eligible members of the bargaining unit will be delivered by the Federation to the County Payroll Division.
-Article 15 Federation Rights
+### Article 15 Federation Rights
 1. Access to Workers.
 Authorized representatives of the Federation may visit the work locations of employees covered by this agreement at reasonable times, provided that such visitations will not interfere with the work of the employees.
 2. Notification to County.
@@ -311,7 +311,7 @@ Employees selected by the Federation to act as Federation representatives for th
 The provisions of this Agreement shall be applied equally to all employees in the bargaining unit without discrimination as to age, sex, marital status, race, color, religion, national origin, disability, gender identity, sexual orientation, or political affiliation or as otherwise provided by applicable law. The Federation shall share equally with the County, the responsibility for applying this provision of the Agreement. The County agrees not to interfere with the rights of employees to become members of the Federation, and there shall be no discrimination, interference, restraint, or coercion by the County, or any County representative, against any employee because of Federation membership or because of any employee activity in an official capacity on behalf of the Federation, or for any other cause. Nothing in this section shall be construed to limit the County's right to effectively and efficiently run the County's operations.
 5. Federation Business.
 Elected officers and negotiators will be allowed a reasonable amount of work hours to handle labor relations matters. This will include that time necessary to attend Labor-Management meetings when scheduled by mutual agreement. The Federation representative must record any time more than fifteen (15) minutes involved in Federation business during paid County time on their department's timekeeping system with the exception of approved vacation or compensatory time (and with the exception of unpaid lunch or breaks, depending on department policy).
-Article 16 - Miscellaneous
+### Article 16 - Miscellaneous
 1. Existing Conditions.
 All future work rules and benefits that are mandatory subjects of collective bargaining shall be subject to mutual agreement before becoming effective. Changes in all existing conditions that are mandatory subjects of collective bargaining shall be negotiated with the Federation consistent with PECBA.
 Whenever such conditions or changes or new conditions are finalized, they shall be provided electronically to all bargaining unit employees.
@@ -357,7 +357,7 @@ If the overpayment amount to be repaid is more than twenty-five ($25) dollars, t
 An employee who has a factual disagreement with the County's determination that the overpayment has been made to the employee may grieve the determination through the grievance procedure.
 This article/section does not waive the County's right to pursue other legal procedures and processes to recoup an overpayment made to former employees.
 Employees can elect to either establish a payment plan through payroll deductions as described under Section 9 (C)(4) or may elect to pay overpayment in one lump sum. In the event the employee chooses to make a lump sum payment to the County, the County will adjust the amount owed for any tax paid, and will reduce the amount of employees' wages for the year on the employee's W-2 form by the amount repaid.
-Article 17 - Safety and Health
+### Article 17 - Safety and Health
 1. Facility Standards Maintenance.
 The County agrees to abide by and maintain in its facilities and work operations standards of safety and health in accordance with the State of Oregon Safe Employment Act (ORS 654.001 to 654.295 and 654.991).
 2. Safe Place of Employment.
@@ -385,11 +385,11 @@ The County shall provide all ammunition for department on duty and approved fire
 The County will allow employees to register their personal automobiles at the Community Corrections Division address if provided by law and provide adequate parking.
 11. Traumatic Incidents.
 Any employee whose actions result in the receipt of or witness to a serious threat of injury, serious injury or death of another person in the performance of their duties shall be given, at the discretion of the Sheriff or their designee, with input from the employee's Peer Support member if applicable, up to three (3) consecutive working days of paid administrative leave for the traumatic incident. In addition, the County will provide paid administrative leave for up to six (6) EAP visits related to the traumatic incident. The decision whether an event is traumatic for the purposes of this section shall be at the sole discretion of the County.
-Article 18 - Transfers
+### Article 18 - Transfers
 In the event a position becomes vacant within the division, eligible employees within the classification will be notified in writing and will be allowed to request transfer into said position. Selection and final approval of any transfer will rest with the division head.
-Article 19 - Savings Clause
+### Article 19 - Savings Clause
 Should any Article, Section, or portion thereof, of this Agreement be held unlawful and unenforceable by any Court of competent jurisdiction, such decision of the Court shall apply only to the specific Article, Section or portion thereof, directly specified in the decisions; upon the issuance of such a decision, the parties agree immediately to negotiate a substitute, if possible, for the invalidated Article, Section or portion thereof.
-Article 20 - Legal Fees
+### Article 20 - Legal Fees
 Section 1. The County agrees to reimburse bargaining unit members (employees) for the reasonable, usual, and customary legal fees and costs charged by an attorney as a direct result of criminal charges, investigation of use of deadly force, or a grand jury appearance against the employee arising out of the employee's involvement in the scope of the regular performance of their duty as an employee for the County. The County's obligation of reimbursement is subject to the following:
 A. To receive reimbursement under this Article, the employee must select an attorney from a list of attorneys that have been mutually agreed upon by the Federation and the County Counsel. Neither party shall unreasonably oppose the inclusion of an attorney on the list. Within sixty (60) days of the execution of this agreement, the Federation shall submit to the County Counsel, the names and professional biographies of the attorneys the Federation proposes for inclusion on the list. If the County Counsel does not object in writing to an attorney on the list within twenty (20) working days, the attorney shall be included on this list.
 The names on the list shall be reviewed every six (6) months upon the request of either party. If no attorney on the list is available to represent the employee, the employee may obtain another attorney of their choosing; however, the County's obligation to reimburse will arise only if the County Counsel receives written notice of the selected attorney from the Federation within five (5) working days of the employee or Federation learning of the lack of availability of an attorney from the predetermined list. Following the initial meeting between the employee and the attorney, the Federation shall arrange for the attorney to provide the County at no cost to the County a preliminary estimate of the anticipated legal fees, costs, and expenses. This preliminary estimate shall be directed to the County Counsel, the Sheriff, Risk Management, and the Federation.
@@ -403,7 +403,7 @@ E. Any reimbursement required by the County shall be made only at the conclusion
 Legal fees relating to a grand jury investigation and/or appearance: $5000.
 Legal fees relating to post-grand jury indictment or other charging instrument: $10,000.
 Section 2. The County recognizes that it is not entitled to the work product of the attorneys involved in this program. The County recognizes there exists an attorney/client privilege between the attorney and the employee.
-Article 21 - Termination
+### Article 21 - Termination
 1. A. This Agreement shall become effective July 1, 2022 or ratification by the Board of County Commissioners, whichever occurs later, and shall remain in full force and effect until the 30th day of June, 2025. This agreement shall automatically reopen for negotiations for a successor agreement on January 1 of the expiring year. The parties shall strive to commence negotiations for a successor agreement by February 1 of the expiring year. This Agreement shall remain in full force and effect during the period of negotiations for a successor agreement.
 B. The County will submit this Agreement for ratification by the Board of County Commissioners as soon as practicable following ratification of this Agreement by FOPPO.
 2. This Agreement may be amended at any time by mutual agreement of the Federation and County; such amendments shall be in writing and signed by both parties.
@@ -427,7 +427,7 @@ Negotiation Team:
 Jenna Morrison, Undersheriff
 Malcolm McDonald, Director
 Sherryl Childers, HR
-Appendix A - Work Rules
+### Appendix A - Work Rules
 An employee shall submit their work schedule by the end of the 3rd week of each month for the following month to their supervisor for approval.
 One employee's work schedule shall not be so extraordinary as to burden another employee's work schedule.
 To insure adequate coverage at all times, each employee must notify their supervisor weekly of any change in their approved work schedule and where practicable, must receive prior approval

@@ -58,7 +58,7 @@ WASHINGTON COUNTY POLICE OFFICERS' ASSOCIATION
 
 
 Washington County / WCPOA SHERIFF’S SUPPORT GROUP (2025-2028)                                                                     pg. ii
-                                 ARTICLE 1 – RECOGNITION
+### ARTICLE 1 – RECOGNITION
 
 1.1.   The County recognizes the Association as the exclusive representative and collective
        bargaining agent for all full-time, part-time, seasonal, variable hour and/or temporary
@@ -127,7 +127,7 @@ Washington County / WCPOA SHERIFF’S SUPPORT GROUP (2025-2028)                 
        the classification will be made whole and provided all CBA benefits retroactively to their
        date of hire.
 
-                                 ARTICLE 2 – DEFINITIONS
+### ARTICLE 2 – DEFINITIONS
 
 2.1.   The following definitions shall be applicable to this Agreement:
 
@@ -200,7 +200,7 @@ Washington County / WCPOA SHERIFF’S SUPPORT GROUP (2025-2028)                 
               To the extent that policies of the County related to Variable Hour employees
               conflict with the terms of this Agreement, the County's policies shall control.
 
-                           ARTICLE 3 – EXISTING CONDITIONS
+### ARTICLE 3 – EXISTING CONDITIONS
 
 3.1.   Standards of employment related to wages, hours and working conditions and safety that
        constitute mandatory subjects of bargaining shall be continued at not less than the level in
@@ -209,7 +209,7 @@ Washington County / WCPOA SHERIFF’S SUPPORT GROUP (2025-2028)                 
 Washington County / WCPOA SHERIFF’S SUPPORT GROUP (2025-2028)                                  pg. 5
        effect at the time of the execution of this Agreement.
 
-                   ARTICLE 4 – LABOR-MANAGEMENT COMMITTEE
+### ARTICLE 4 – LABOR-MANAGEMENT COMMITTEE
 
 4.1.   The County and the Association shall establish a Labor-Management Committee to
        advance communications on matters of concern to either party. The purpose of the Labor-
@@ -235,7 +235,7 @@ Washington County / WCPOA SHERIFF’S SUPPORT GROUP (2025-2028)                 
        be County-paid time. The parties mutually agree to utilize a consensus method involving
        all recommendations of the committee.
 
-                        ARTICLE 5 – ELECTRONIC TECHNOLOGY
+### ARTICLE 5 – ELECTRONIC TECHNOLOGY
 
 5.1    Electronic Technology (E-Tech) used by the County and Sheriff’s Office encompasses
        and includes, but is not limited to, Body-Worn Camera (BWC), Global Positioning
@@ -326,7 +326,7 @@ Washington County / WCPOA SHERIFF’S SUPPORT GROUP (2025-2028)                 
        to an E-Tech system without prior consent from the Sheriff or Sheriff’s designee.
 
 
-                   ARTICLE 6 – EQUAL EMPLOYMENT OPPORTUNITY
+### ARTICLE 6 – EQUAL EMPLOYMENT OPPORTUNITY
 
 6.1.   The County and the Association agree that the provisions of this Agreement shall be
        applied equally to all employees of the bargaining unit without discrimination as to race,
@@ -349,7 +349,7 @@ Washington County / WCPOA SHERIFF’S SUPPORT GROUP (2025-2028)                 
        All references to employees in this Agreement designate all gender identities. Whenever
        gender is used it shall be construed to include all employees.
 
-                           ARTICLE 7 – SCOPE OF AGREEMENT
+### ARTICLE 7 – SCOPE OF AGREEMENT
 
 7.1.   The parties acknowledge that during negotiations which preceded this Agreement, each
        had the unlimited right and opportunity to make demands and proposals with respect to
@@ -364,7 +364,7 @@ Washington County / WCPOA SHERIFF’S SUPPORT GROUP (2025-2028)                 
        within the knowledge or contemplation of either or both the parties at the time of the
        negotiation or signing of this Agreement.
 
-                   ARTICLE 8 – EMPLOYEE & ASSOCIATION RIGHTS
+### ARTICLE 8 – EMPLOYEE & ASSOCIATION RIGHTS
 
 8.1.   Employees shall have the right to form, join and participate in the activities of employee
        organizations of their own choosing, for the purpose of representation on matters of
@@ -497,7 +497,7 @@ Washington County / WCPOA SHERIFF’S SUPPORT GROUP (2025-2028)                 
         the County notifying them of any revisions and will be responsible for reading all such
         revision emails.
 
-                            ARTICLE 9 – MANAGEMENT RIGHTS
+### ARTICLE 9 – MANAGEMENT RIGHTS
 
 9.1.    It is recognized that an area of responsibility must be reserved to the employer if the
         County is to effectively serve the public. Except to the extent expressly abridged by a
@@ -537,7 +537,7 @@ Washington County / WCPOA SHERIFF’S SUPPORT GROUP (2025-2028)                 
                negotiations, the County shall be obligated to bring proposed changes to policies
                or proposed new policies to the bargaining table in accordance with PECBA.
 
-                              ARTICLE 10 – HOURS OF WORK
+### ARTICLE 10 – HOURS OF WORK
 
 10.1.   The workweek shall be from 0001 (12:01 a.m.) Saturday through 0000 (midnight) Friday
         night. The regular hours of each workday shall be consecutive. The workday shall consist
@@ -639,7 +639,7 @@ Washington County / WCPOA SHERIFF’S SUPPORT GROUP (2025-2028)                 
         leaves of absence, regardless of what they are called, that are paid by and through the
         County shall count as hours of work.
 
-                                   ARTICLE 11 – OVERTIME
+### ARTICLE 11 – OVERTIME
 
 11.1.   Time and one-half (1.5x) the employee's regular hourly rate of pay shall be paid for
         authorized work under the following conditions, but compensation shall not be paid twice
@@ -766,7 +766,7 @@ Washington County / WCPOA SHERIFF’S SUPPORT GROUP (2025-2028)                 
 
         Sufficient time shall be defined as half (1/2) of the available time for overtime sign up.
 
-                       ARTICLE 12 – CALL BACK AND COURT TIME
+### ARTICLE 12 – CALL BACK AND COURT TIME
 
 12.1.   Call-Back.
 
@@ -863,7 +863,7 @@ Washington County / WCPOA SHERIFF’S SUPPORT GROUP (2025-2028)                 
 12.3.   Employees who are on off-duty status shall not be required to do work upon the
         completion of a specific call back or court appearance.
 
-                  ARTICLE 13 – WORKING IN HIGHER CLASSIFICATION
+### ARTICLE 13 – WORKING IN HIGHER CLASSIFICATION
 
 13.1.   When an employee is assigned to fulfill the duties and responsibilities of a position in a
         classification higher than their own for a continuous period of more than four (4)
@@ -877,7 +877,7 @@ Washington County / WCPOA SHERIFF’S SUPPORT GROUP (2025-2028)                 
         training assignment. Employees may not be assigned to a higher classification for
         training purposes when a vacancy exists in the classification.
 
-                                    ARTICLE 14 – SENIORITY
+### ARTICLE 14 – SENIORITY
 
 14.1.   Definitions of Seniority.
 
@@ -932,7 +932,7 @@ Washington County / WCPOA SHERIFF’S SUPPORT GROUP (2025-2028)                 
 14.9.   Lateral Hires: The County will follow the Oregon Equal Pay Law, which recognizes
         experience and education, when establishing the pay rate for lateral hires.
 
-                          ARTICLE 15 – UNIFORMS & EQUIPMENT
+### ARTICLE 15 – UNIFORMS & EQUIPMENT
 
 15.1.   Employees in the Criminal Records Specialist and Jail Services Technician
         classifications are required to wear a Sheriff’s Office uniform in compliance with
@@ -988,7 +988,7 @@ Washington County / WCPOA SHERIFF’S SUPPORT GROUP (2025-2028)                 
         Attorney's office in writing seeking restitution for such property to qualify for the
         reimbursement benefits of this Section.
 
-                     ARTICLE 16 – TIME OFF IN LIEU OF HOLIDAYS
+### ARTICLE 16 – TIME OFF IN LIEU OF HOLIDAYS
 
 16.1.   Employees shall accrue 4.31 hours per payroll period of Time Off In Lieu of holiday(s)
         (“ILH”).
@@ -1005,7 +1005,7 @@ Washington County / WCPOA SHERIFF’S SUPPORT GROUP (2025-2028)                 
         by the County shall automatically be provided to employees represented by the
         Association.
 
-                              ARTICLE 17 – VACATION LEAVE
+### ARTICLE 17 – VACATION LEAVE
 
 Washington County / WCPOA SHERIFF’S SUPPORT GROUP (2025-2028)                                 pg. 21
 17.1.   Upon hire, all full-time employees shall accrue vacation on the following basis:
@@ -1111,7 +1111,7 @@ Washington County / WCPOA SHERIFF’S SUPPORT GROUP (2025-2028)                 
         accruals, for any non-represented hourly employees, bargaining unit employees will
         receive the same improvements.
 
-                                  ARTICLE 18 – SICK LEAVE
+### ARTICLE 18 – SICK LEAVE
 
 18.1.   Employees shall accumulate sick leave at the rate of 0.0462 hours for each hour worked.
         Sick leave accumulated prior to the date of execution of this Agreement shall be credited
@@ -1235,7 +1235,7 @@ Washington County / WCPOA SHERIFF’S SUPPORT GROUP (2025-2028)                 
         communicable diseases without cost to the employee where immunization may prevent
         such disease from occurring.
 
-                                ARTICLE 19 – OTHER LEAVES
+### ARTICLE 19 – OTHER LEAVES
 
 19.1.   Leave of Absence without Pay.
 
@@ -1528,7 +1528,7 @@ Washington County / WCPOA SHERIFF’S SUPPORT GROUP (2025-2028)                 
                President a list of the names of Association-represented employees that have been
                enrolled in the MCO program.
 
-                 ARTICLE 20 – ADMINISTRATION OF THE SALARY PLAN
+### ARTICLE 20 – ADMINISTRATION OF THE SALARY PLAN
 
 20.1.   The following rules shall govern the use of the salary ranges set forth in Schedule A,
         which is made a part thereof.
@@ -1693,7 +1693,7 @@ Washington County / WCPOA SHERIFF’S SUPPORT GROUP (2025-2028)                 
                3.     In case an employee is laid off, quits or is discharged, the employee shall
                       receive their pay in compliance with state law.
 
-                                ARTICLE 21 – INCENTIVE PAY
+### ARTICLE 21 – INCENTIVE PAY
 
 21.1.   All incentive pays will be governed by the provisions of the Oregon Equal Pay Law as
         referenced in Article 20 of this Agreement.
@@ -1720,7 +1720,7 @@ Washington County / WCPOA SHERIFF’S SUPPORT GROUP (2025-2028)                 
         will be inapplicable to any period during which the recruit/trainee is assigned to another
         employee and will not be duplicated during any period of a recruit/trainee's training.
 
-         ARTICLE 22 – TRANSITIONAL (LIGHT) DUTY ASSIGNMENT AND PAY
+### ARTICLE 22 – TRANSITIONAL (LIGHT) DUTY ASSIGNMENT AND PAY
 
 22.1.   An employee who is unable to perform the regular duties of their position because of a
         compensable work-related injury or illness may be assigned by the County to other work
@@ -1747,11 +1747,11 @@ Washington County / WCPOA SHERIFF’S SUPPORT GROUP (2025-2028)                 
         work-related or non-work-related injuries shall be documented in writing and provided to
         the Association upon request.
 
-                                      ARTICLE 23 – XXXX
+### ARTICLE 23 – XXXX
 
                                           [RESERVED]
 
-                     ARTICLE 24 – ASSOCIATION REPRESENTATIVES
+### ARTICLE 24 – ASSOCIATION REPRESENTATIVES
 
 24.1.   Members of the bargaining unit selected to serve as authorized representatives (E-Board
         members) shall be certified in writing to the Sheriff by the President of the Association.
@@ -1822,7 +1822,7 @@ Washington County / WCPOA SHERIFF’S SUPPORT GROUP (2025-2028)                 
                will not have such leave accruals denied if the leave request is made at least sixty
                (60) days in advance.
 
-       ARTICLE 25 – WAGE & REIMBURSEMENT OVERPAYMENT & REPAYMENT
+### ARTICLE 25 – WAGE & REIMBURSEMENT OVERPAYMENT & REPAYMENT
 
 25.1    In the event an employee is either overpaid or underpaid by the County, each party has an
         obligation to report the error to the other party as soon as it is discovered. WCPOA will
@@ -1883,7 +1883,7 @@ Washington County / WCPOA SHERIFF’S SUPPORT GROUP (2025-2028)                 
         amount. All other underpayment adjustments will be made in accordance with the regular
         pay schedule.
 
-                    ARTICLE 26 – MENTAL HEALTH & PHYSICAL FITNESS
+### ARTICLE 26 – MENTAL HEALTH & PHYSICAL FITNESS
 
  26.1    The Washington County Sheriff’s Office (WCSO) recognizes that the health and fitness
          of its employees is essential and is committed to fostering a culture of wellness to best
@@ -2005,7 +2005,7 @@ Washington County / WCPOA SHERIFF’S SUPPORT GROUP (2025-2028)                 
 Washington County / WCPOA SHERIFF’S SUPPORT GROUP (2025-2028)                                pg. 41
                not to participate.
 
-                                     ARTICLE 27 – TRAVEL PAY
+### ARTICLE 27 – TRAVEL PAY
 
 27.1.   Whenever an employee is required to report to work at any location other than their
         established place of work, or whenever any employer, as part of their regular work, is
@@ -2023,7 +2023,7 @@ Washington County / WCPOA SHERIFF’S SUPPORT GROUP (2025-2028)                 
                required action outside of regular work hours shall be compensated per this
                Agreement.
 
-                            ARTICLE 28 – MANDATED BENEFITS
+### ARTICLE 28 – MANDATED BENEFITS
 
 28.1.   Public Employees' Retirement System.
 
@@ -2045,7 +2045,7 @@ Washington County / WCPOA SHERIFF’S SUPPORT GROUP (2025-2028)                 
         The County will provide social security, unemployment insurance and workers'
         compensation insurance coverage as required by state and/or federal law.
 
-                                     ARTICLE 29 – INSURANCE
+### ARTICLE 29 – INSURANCE
 
 29.1.   Medical, Dental and Vision.
 
@@ -2241,7 +2241,7 @@ Washington County / WCPOA SHERIFF’S SUPPORT GROUP (2025-2028)                 
         employees, bargaining unit employees will participate in the same Deferred
         Compensation Plan.
 
-                                ARTICLE 30 – PERSONNEL FILE
+### ARTICLE 30 – PERSONNEL FILE
 
 30.1.   If derogatory material is placed in an employee's personnel file, a copy of such material
         shall be furnished to the employee within seventy-two (72) hours. Each employee may
@@ -2269,7 +2269,7 @@ Washington County / WCPOA SHERIFF’S SUPPORT GROUP (2025-2028)                 
         portable "thumb/jump" drive furnished at no cost to the employee and the Association if
         the cost of reproduction is less than fifty dollars ($50).
 
-                         ARTICLE 31 – DISCIPLINE AND DISCHARGE
+### ARTICLE 31 – DISCIPLINE AND DISCHARGE
 
 31.1.   A.       Discipline shall be limited to oral reprimand, written reprimand, demotion,
                  suspension and discharge or, with the written concurrence of the employee and
@@ -2485,7 +2485,7 @@ Washington County / WCPOA SHERIFF’S SUPPORT GROUP (2025-2028)                 
        information or evidence into the DROPBOX link/account provided and established by
        the WCPOA for use by the County/WCSO.
 
-                         ARTICLE 32 – GRIEVANCE PROCEDURE
+### ARTICLE 32 – GRIEVANCE PROCEDURE
 
 32.1.   Any grievance or dispute which may arise between the parties, regarding the application,
         meaning or interpretation of this Agreement, may be settled as set forth below.
@@ -2577,7 +2577,7 @@ Washington County / WCPOA SHERIFF’S SUPPORT GROUP (2025-2028)                 
 32.4.   Time lines specified in this Article may be waived or extended only upon mutual written
         agreement of the parties.
 
-                               ARTICLE 33 – LAYOFF AND RECALL
+### ARTICLE 33 – LAYOFF AND RECALL
 
 33.1.   Layoff.
 
@@ -2699,7 +2699,7 @@ Washington County / WCPOA SHERIFF’S SUPPORT GROUP (2025-2028)                 
                the time spent on layoff or in a lower level classification will not count toward
                merit increases.
 
-                       ARTICLE 34 – NO STRIKE AND NO LOCKOUT
+### ARTICLE 34 – NO STRIKE AND NO LOCKOUT
 
 34.1.   The Association agrees that during the term of this Agreement there shall be neither
 
@@ -2713,7 +2713,7 @@ Washington County / WCPOA SHERIFF’S SUPPORT GROUP (2025-2028)                 
         complaints, grievances or disputes arising under its provisions will be settled pursuant to
         this Agreement’s grievance procedure and/or PECBA dispute resolution processes.
 
-                               ARTICLE 35 – SAVINGS CLAUSE
+### ARTICLE 35 – SAVINGS CLAUSE
 
 35.1.   If any Article or Section of this Agreement or any addition thereto shall be held invalid
         by operation of law, or by any lawful tribunal having jurisdiction, or if compliance with
@@ -2726,7 +2726,7 @@ Washington County / WCPOA SHERIFF’S SUPPORT GROUP (2025-2028)                 
         serve to restrict the County's obligation to comply with federal and state law concerning
         its duty to reasonably accommodate individuals with disabilities.
 
-                                    ARTICLE 36 – TRAINING
+### ARTICLE 36 – TRAINING
 
 36.1.   For classifications that have mandatory training, the Sheriff’s Office and the County will
         establish a training schedule for each fiscal year during the term of this Agreement. It is
@@ -2771,7 +2771,7 @@ Washington County / WCPOA SHERIFF’S SUPPORT GROUP (2025-2028)                 
         may be considered in periodic performance evaluations which may lead to loss of
         incentive pay.
 
-                       ARTICLE 37 – DRUG AND ALCOHOL TESTING
+### ARTICLE 37 – DRUG AND ALCOHOL TESTING
 
 37.1.   Statements of Principle.
 

@@ -25,28 +25,28 @@ COLUMBIA COUNTY DEPUTY SHERIFFS' ASSOCIATION
 
 
 PREAMBLE                                           Page 6
-ARTICLE 1 – DEFINITIONS                            Page 6
-ARTICLE 2 – BARGAINING UNIT AND RECOGNITION        Page 8
+### ARTICLE 1 – DEFINITIONS                            Page 6
+### ARTICLE 2 – BARGAINING UNIT AND RECOGNITION        Page 8
       2.1      The Bargaining Unit                 Page 8
       2.2      Recognition                         Page 8
       2.3      New Classifications                 Page 9
-ARTICLE 3 – ASSOCIATION RIGHTS                     Page 10
+### ARTICLE 3 – ASSOCIATION RIGHTS                     Page 10
       3.1      Association Membership              Page 10
       3.2      Checkoff                            Page 10
       3.3      Rights of the Parties               Page 10
-ARTICLE 4 – HOLIDAY                                Page 10
+### ARTICLE 4 – HOLIDAY                                Page 10
       4.1      Days Recognized                     Page 10
       4.2      Observed Holidays                   Page 11
       4.3      Floating Holidays                   Page 11
       4.4      Holiday Pay                         Page 12
       4.5      Holiday Pay During Leave            Page 12
       4.6      Holiday Work                        Page 12
-ARTICLE 5 – VACATIONS                              Page 13
+### ARTICLE 5 – VACATIONS                              Page 13
       5.1      Accrual                             Page 13
       5.2      Maximum Accrual and Payment         Page 13
       5.3      Utilization                         Page 14
       5.4      Separation from Employment          Page 15
-ARTICLE 6 – SICK LEAVE                             Page 15
+### ARTICLE 6 – SICK LEAVE                             Page 15
       6.1      Accrual                             Page 15
       6.2      Maximum Accrual and Payment         Page 15
       6.3      Scope                               Page 15
@@ -57,7 +57,7 @@ ARTICLE 6 – SICK LEAVE                             Page 15
       6.8      Illness During Leave                Page 17
       6.9      Layoff or Death                     Page 17
       6.10 Retirement                              Page 17
-ARTICLE 7 – OTHER LEAVES                           Page 18
+### ARTICLE 7 – OTHER LEAVES                           Page 18
       7.1      Leaves of Absence                   Page 18
       7.2      Jury Duty/Witness Appearance        Page 18
       7.3      Association Business                Page 19
@@ -71,15 +71,15 @@ ARTICLE 7 – OTHER LEAVES                           Page 18
       7.9     General                                                     Page 20
       7.10 Administrative Leave                                           Page 21
       7.11 Critical Incident Leave                                        Page 21
-ARTICLE 8 – SEVERANCE PAY                                                 Page 21
-ARTICLE 9 – HEALTH/WELFARE/RETIREMENT BENEFITS                            Page 21
+### ARTICLE 8 – SEVERANCE PAY                                                 Page 21
+### ARTICLE 9 – HEALTH/WELFARE/RETIREMENT BENEFITS                            Page 21
       9.1     Medical, Dental and Vision Benefits                         Page 21
       9.2     Life Insurance                                              Page 23
       9.3     Workers’ Compensation                                       Page 23
       9.4     Unemployment Insurance                                      Page 24
       9.5     Continuation of Benefits                                    Page 24
       9.6     Public Employees Retirement System (PERS)                   Page 24
-ARTICLE 10 – WAGES                                                        Page 24
+### ARTICLE 10 – WAGES                                                        Page 24
       10.1 Wages and Classification Schedule                              Page 24
       10.2 Temporary Assignments                                          Page 24
       10.3 Pay Periods                                                    Page 25
@@ -94,7 +94,7 @@ ARTICLE 10 – WAGES                                                        Page
       10.12 Training                                                      Page 31
       10.13 Oregon Physical Abilities Test                                Page 31
       10.14 Longevity Pay                                                 Page 31
-ARTICLE 11 – SENIORITY                                                    Page 32
+### ARTICLE 11 – SENIORITY                                                    Page 32
       11.1 Definition of Seniority                                        Page 32
       11.2 Acquisition of Seniority                                       Page 32
       11.3 Promotion Outside the Bargaining Unit                          Page 32
@@ -103,7 +103,7 @@ ARTICLE 11 – SENIORITY                                                    Page
       11.6 Posting and Filling of Vacancies                               Page 32
       11.7 Shift-Work Assignment                                          Page 33
       11.8 Layoff and Recall                                              Page 35
-ARTICLE 12 – DISCIPLINE AND DISMISSAL                                     Page 36
+### ARTICLE 12 – DISCIPLINE AND DISMISSAL                                     Page 36
       12.1 Discipline                                                     Page 36
       12.2 Written Reprimand, Suspension Without Pay, Demotion and
               Dismissal                                                   Page 37
@@ -113,14 +113,14 @@ ARTICLE 12 – DISCIPLINE AND DISMISSAL                                     Page
       12.6 General Procedures                                             Page 38
 
                                                                               3|Page
-ARTICLE 13 – SETTLEMENT OF DISPUTES                Page 41
+### ARTICLE 13 – SETTLEMENT OF DISPUTES                Page 41
       13.1 Grievance and Arbitration Procedure     Page 41
       13.2 Representatives                         Page 42
       13.3 County-Association Meetings             Page 42
       13.4 Processing Grievances                   Page 43
       13.5 Time Periods                            Page 43
       13.6 Civil Service Commission Appeals        Page 43
-ARTICLE 14 – GENERAL PROVISIONS                    Page 43
+### ARTICLE 14 – GENERAL PROVISIONS                    Page 43
       14.1 No Discrimination                       Page 43
       14.2 Bulletin Boards                         Page 43
       14.3 Visits By Association Representatives   Page 43
@@ -130,11 +130,11 @@ ARTICLE 14 – GENERAL PROVISIONS                    Page 43
       14.7 Health and Safety                       Page 45
       14.8 Negotiations                            Page 46
       14.9 Outside Employment                      Page 46
-ARTICLE 15 – STRIKES AND LOCKOUTS                  Page 46
+### ARTICLE 15 – STRIKES AND LOCKOUTS                  Page 46
       15.1 Lockouts                                Page 46
       15.2 Strikes                                 Page 47
       15.3 Performance of Duties                   Page 47
-ARTICLE 16 – WORKING CONDITIONS                    Page 47
+### ARTICLE 16 – WORKING CONDITIONS                    Page 47
       16.1 Work Week                               Page 47
       16.2 Work Week Schedule                      Page 47
       16.3 Optional Hours and Optional Work Week   Page 49
@@ -143,7 +143,7 @@ ARTICLE 16 – WORKING CONDITIONS                    Page 47
       16.6 Rest Periods                            Page 50
       16.7 Meal Periods and Meals                  Page 50
       16.8 Safety Release                          Page 51
-ARTICLE 17 – USE OF ALCOHOL AND DRUGS              Page 51
+### ARTICLE 17 – USE OF ALCOHOL AND DRUGS              Page 51
       17.1 Statement of Principle                  Page 51
       17.2 Definitions                             Page 51
       17.3 Prohibited Conduct                      Page 52
@@ -156,14 +156,14 @@ ARTICLE 17 – USE OF ALCOHOL AND DRUGS              Page 51
       17.10 Searches                               Page 55
       17.11 Interference with Policy               Page 55
       17.12 Employee Rights                        Page 55
-ARTICLE 18 – RESERVES/POSSE/VOLUNTEERS             Page 56
+### ARTICLE 18 – RESERVES/POSSE/VOLUNTEERS             Page 56
 
                                                        4|Page
-ARTICLE 19 – MANAGEMENT RIGHTS          Page 56
-ARTICLE 20 – SAVINGS CLAUSE             Page 56
-ARTICLE 21 – TERM AND TERMINATION       Page 57
-APPENDIX A – WAGE SCALE                 Page 58
-APPENDIX B – HIGH ABSENTEEISM PROGRAM   Page 61
+### ARTICLE 19 – MANAGEMENT RIGHTS          Page 56
+### ARTICLE 20 – SAVINGS CLAUSE             Page 56
+### ARTICLE 21 – TERM AND TERMINATION       Page 57
+### APPENDIX A – WAGE SCALE                 Page 58
+### APPENDIX B – HIGH ABSENTEEISM PROGRAM   Page 61
 
 
 
@@ -180,7 +180,7 @@ promotion of harmonious relations between the County and the Association; the es
 of an equitable peaceful procedure for the resolution of differences; and the establishment of
 rates of pay, hours of work and other conditions of employment.
 
-                                    ARTICLE 1 – DEFINTIONS
+### ARTICLE 1 – DEFINTIONS
 
 ADMINISTRATIVE LEAVE: A directed leave with pay from regularly scheduled employment, which
 is not a form of discipline.
@@ -274,7 +274,7 @@ the essential job functions.
 WORK: Work as defined in this Agreement includes hours of work and also paid leaves such as
 vacation leave, sick leave, holidays and compensatory time.
 
-                        ARTICLE 2 – BARGAINING UNIT AND RECOGNITION
+### ARTICLE 2 – BARGAINING UNIT AND RECOGNITION
 
 2.1      The Bargaining Unit
 
@@ -357,7 +357,7 @@ however, the County is not contractually obligated by this Article to refrain fr
 agree, the dispute will be resolved under Public Employee Collective Bargaining Act procedures
 before the Employee Relations Board.
 
-                               ARTICLE 3 – ASSOCIATION RIGHTS
+### ARTICLE 3 – ASSOCIATION RIGHTS
 
 3.1    Association Membership
 
@@ -388,7 +388,7 @@ should have been made.
 The Association and the County agree not to discriminate unlawfully or to act in an arbitrary,
 capricious or unfair manner in the application and interpretation of the terms of this Agreement.
 
-                                     ARTICLE 4 – HOLIDAY
+### ARTICLE 4 – HOLIDAY
 
 4.1    Days Recognized
 
@@ -491,7 +491,7 @@ off limitations established in Article 10.
 
 
                                                                                           12 | P a g e
-                                     ARTICLE 5 – VACATIONS
+### ARTICLE 5 – VACATIONS
 
 5.1    Accrual
 
@@ -593,7 +593,7 @@ unused vacation leave shall be paid either to the employee or to the employee’
 employee who separates from employment prior to the completion of six (6) months of service
 shall not receive vacation pay.
 
-                                     ARTICLE 6 – SICK LEAVE
+### ARTICLE 6 – SICK LEAVE
 
 6.1    Accrual
 
@@ -728,7 +728,7 @@ using the employee’s last hourly rate of pay. In addition, fifty percent (50%)
 accrued, unpaid sick leave shall be reported and credited to the Public Employees Retirement
 System (PERS), pursuant to ORS 237.610 et seq.
 
-                                   ARTICLE 7 – OTHER LEAVES
+### ARTICLE 7 – OTHER LEAVES
 
 7.1    Leaves of Absence
 
@@ -881,7 +881,7 @@ Employees may be placed, at the discretion of the Sheriff, on critical incident 
 to receive their pay and accrue benefits during their critical incident leave off from regularly
 scheduled employment.
 
-                                  ARTICLE 8 – SEVERENCE PAY
+### ARTICLE 8 – SEVERENCE PAY
 
 Any employee who has completed twelve (12) months of service with the County, and who is laid
 off as a result of causes other than discharge, retirement, or resignation, shall receive two (2)
@@ -892,7 +892,7 @@ However, should the employee be offered and refuse transfer within the same clas
 reclassification within the same pay scale, or retraining for a class within the same pay scale or
 higher, the employee’s refusal shall be considered as a resignation.
 
-                    ARTICLE 9 – HEALTH/WELFARE/RETIREMENT BENEFITS
+### ARTICLE 9 – HEALTH/WELFARE/RETIREMENT BENEFITS
 
 9.1    Medical, Dental and Vision Benefits
 
@@ -1025,7 +1025,7 @@ The County will pay the employee’s contributions to PERS or OPSRP (whichever i
 an employee) in accordance with the rules and regulations of the Public Employee Retirement
 Board.
 
-                                       ARTICLE 10 – WAGES
+### ARTICLE 10 – WAGES
 
 10.1   Wages and Classification Schedule
 
@@ -1369,7 +1369,7 @@ completed fifteen (15) years of County service shall receive, as part of their r
 years of County service shall receive, as part of their regular rate of pay, a longevity incentive
 payment of six percent (6%).
 
-                                     ARTICLE 11 – SENIORITY
+### ARTICLE 11 – SENIORITY
 
 11.1    Definition of Seniority
 
@@ -1571,7 +1571,7 @@ F. Special Assignments, Part-time Employees and Probationary Employees
        If the employee is not recalled to a bargaining unit position within twenty-four (24)
        months, the employee’s seniority is forfeited.
 
-                            ARTICLE 12 – DISCIPLINE AND DISMISSAL
+### ARTICLE 12 – DISCIPLINE AND DISMISSAL
 
 12.1   Discipline
 
@@ -1779,7 +1779,7 @@ B. Use of Deadly Force Situations. Employees involved in the use of deadly force
 
 
                                                                                    40 | P a g e
-                            ARTICLE 13 – SETTLEMENT OF DISPUTES
+### ARTICLE 13 – SETTLEMENT OF DISPUTES
 
 A grievance is defined as a dispute over the meaning, interpretation or application of any portion
 of this Agreement. Grievances shall be processed in the following manner:
@@ -1891,7 +1891,7 @@ Association may advance it to the next step.
 
 Employees shall have no right to appeal discipline to the Civil Service Commission.
 
-                                ARTICLE 14 – GENERAL PROVISIONS
+### ARTICLE 14 – GENERAL PROVISIONS
 
 14.1   No Discrimination
 
@@ -2048,7 +2048,7 @@ employee and the part-time employer.
 If denied, the Association shall have the right to file a grievance at Step III of the grievance
 procedure with notice to the Sheriff and the Human Resources Director.
 
-                             ARTICLE 15 – STRIKES AND LOCKOUTS
+### ARTICLE 15 – STRIKES AND LOCKOUTS
 
 15.1   Lockouts
 
@@ -2068,7 +2068,7 @@ taken by the County against any employee engaged in a violation of this Article,
 including dismissal. The Association and the County will take immediate action to correct any
 violation of the provisions of this Article.
 
-                              ARTICLE 16 – WORKING CONDITIONS
+### ARTICLE 16 – WORKING CONDITIONS
 
 16.1   Work Week
 
@@ -2266,7 +2266,7 @@ does not apply to tactical team members responding to a tactical event, detectiv
 to a major crime investigation, and/or a County emergency as determined by the Sheriff or the
 Sheriff’s designee.
 
-                          ARTICLE 17 – USE OF ALCOHOL AND DRUGS
+### ARTICLE 17 – USE OF ALCOHOL AND DRUGS
 
 17.1   Statement of Principle
 
@@ -2468,7 +2468,7 @@ testing process, the chain of custody of the specimen, and the accuracy rate of 
 
 
                                                                                           55 | P a g e
-                          ARTICLE 18 – RESERVES/POSSE/VOLUNTEERS
+### ARTICLE 18 – RESERVES/POSSE/VOLUNTEERS
 
 Except in emergencies or when accompanied by a sworn officer, a full-time deputy shall be on
 duty at all times a reserve is on patrol and/or responding to calls for service.
@@ -2482,7 +2482,7 @@ they must be immediately separated from the reserves/posse/volunteer program and
 rejoin said organization for thirty (30) days from the date of receipt of their last payment from
 the County.
 
-                               ARTICLE 19 – MANAGEMENT RIGHTS
+### ARTICLE 19 – MANAGEMENT RIGHTS
 
 The parties recognize that the Sheriff and Board of County Commissioners are directly
 responsible to the public and to the citizens of the County, for the funding and performance of
@@ -2499,7 +2499,7 @@ the terms of this Agreement, consistent with their respective authority under la
 Nothing in this Article will preclude the right of the Association to utilize the provisions of Article
 13, Settlement of Disputes.
 
-                                  ARTICLE 20 – SAVINGS CLAUSE
+### ARTICLE 20 – SAVINGS CLAUSE
 
 Should any Article, Section, or portion thereof, of this Agreement be held unlawful or
 unenforceable by an opinion of the Attorney General of the State of Oregon or by any court of
@@ -2514,7 +2514,7 @@ hereof.
 
 
                                                                                           56 | P a g e
-                             ARTICLE 21— TERM AND TERMINATION
+### ARTICLE 21— TERM AND TERMINATION
 
 Except where other effective dates are set forth, this Agreement shall be effective as of its
 execution, and shall remain in full force and effect until the 30th day of June 30, 2028.
@@ -2562,7 +2562,7 @@ By:
 
 
                                                                                       57IPage
-APPENDIX A
+### APPENDIX A
 
 Columbia County Sheriff’s Association
 Effective July 1, 2025 – June 30, 2026
@@ -2591,7 +2591,7 @@ COLA = 3%
 
 
                                          60 | P a g e
-APPENDIX B – HIGH ABSENTEEISM PROGRAM
+### APPENDIX B – HIGH ABSENTEEISM PROGRAM
 
 The ability to attend work regularly and with reliability is regarded as a job requirement. The
 County may examine the total sick leave usage of each employee periodically, as reported on the

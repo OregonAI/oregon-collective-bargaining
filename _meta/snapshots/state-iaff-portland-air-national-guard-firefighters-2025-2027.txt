@@ -70,7 +70,7 @@ to as the "Employer", on behalf of the Military Department, hereinafter referred
 "Agency" and the International Association of Firefighters, Local 1660, herei nafter
 referred to as the "Union" and is the full and complete agreement between the parties.
 
-                                    ARTICLE 1 - RECOGNITION
+### ARTICLE 1 - RECOGNITION
 
 The Employer recognizes the Union as the exclusive bargaining representative for all
 full-time, air craft crash/rescue technicians and officers, excluding all military personnel
@@ -78,7 +78,7 @@ and all part-time, temporary, casual, management and confidential employees. Whe
 the changes in the mission of the Agency impact the bargaining unit, the parties agree
 to meet and discuss the impact of those changes.
 
-                               ARTICLE 2 - NON-DISCRIMINATION
+### ARTICLE 2 - NON-DISCRIMINATION
 
 The Employer and the Union agree that each will fully comply with all applicable laws
 and regulations regarding discrimination against any employee or applicant for
@@ -88,7 +88,7 @@ the agreement include both genders. Claims for violations of this article would 
 subject to the grievance and arbitration process, but an employee may make claims with
 the Oregon Bureau of Labor and Industry (BOLI) or the US EEOC.
 
-                               ARTICLE 3 - MANAGEMENT RIGHTS
+### ARTICLE 3 - MANAGEMENT RIGHTS
 
 Except as otherwise specifically limited by the terms of this agreement, the Employer/
 Agency retains all of the customary, usual and exclusive rights, prerogatives, functions
@@ -116,7 +116,7 @@ prerogatives, functions and rights of the Employer/Agency shall include the foll
         e)       To implement new and to revise or discard, wholly or in part, old methods,
                  procedures, materials, equipment, facilities and standards.
 
-                                      ARTICLE 4 - STRIKES
+### ARTICLE 4 - STRIKES
 
 Section 1. No Strike.
 The Union and its members, as individuals or as a group, will not initiate, cause,
@@ -138,7 +138,7 @@ Section 3. Lockout.
 There will be no lockout of employees in the unit by the State during the term of this
 Agreement.
 
-                              ARTICLE 5 - GENERAL PROVISIONS
+### ARTICLE 5 - GENERAL PROVISIONS
 
 Section 1. Seniority Definition.
 Seniority shall mean a permanent employee's length of continuous service with the
@@ -206,7 +206,7 @@ determines to be required.
                                                                                           Rev: 2019
 
 
-                            ARTICLE 6 - PERSONNEL RECORDS
+### ARTICLE 6 - PERSONNEL RECORDS
 
 Section 1. Files.
 Employees may inspect the contents of their personnel file, except for confidential
@@ -224,7 +224,7 @@ Upon request of the employee, disciplinary actions shall be removed from their
 personnel file after three (3) years, so long as no warnings or discipline occur within that
 time period.
 
-                              ARTICLE 7 - LEAVE OF ABSENCE
+### ARTICLE 7 - LEAVE OF ABSENCE
 
 Section 1. Without Pay.
 The Agency will consider a written application for leave of absence without pay. The
@@ -265,7 +265,7 @@ employee is granted one hundred twenty (120) hours of paid military leave per fe
 fiscal year. To qualify for military leave, the employee must present military orders that
 specify “annual active duty training.”
 
-                               ARTICLE 8 - UNION BUSINESS
+### ARTICLE 8 - UNION BUSINESS
 
 Section 1. Representatives.
 The Union will notify the Fire Chief, in writing, of the names of its representatives.
@@ -285,7 +285,7 @@ Section 4. Bulletin Boards.
 Bulletin board space will be provided the Union for the posting of meeting notices and
 other information of interest to its members.
 
-                               ARTICLE 9 - HOURS OF WORK
+### ARTICLE 9 - HOURS OF WORK
 
 Section 1. Work Shifts.
 All employees shall be scheduled to work on a regular work shift, which shall have
@@ -360,7 +360,7 @@ into PTO.
                                                                               Rev: 2019,2023,2025
 
 
-                                     ARTICLE 10 - WAGES
+### ARTICLE 10 - WAGES
 
 Section 1. Salary Adjustment.
 Effective February 1, 2026, or the first of the month following receipt of an interest
@@ -458,7 +458,7 @@ Captain                                27
                                                                                  Rev: 2017, 2019, 2022,2023,2025
 
 
-                            ARTICLE 11 - HEALTH AND WELFARE
+### ARTICLE 11 - HEALTH AND WELFARE
 
 Section 1.
 Notwithstanding any past practice to the contrary, an Employer contribution will be made
@@ -504,7 +504,7 @@ each month it is sufficiently funded by the savings.
                                                                       Rev: 2017, 2019,2023,2025
 
 
-                                 ARTICLE 12 - RETIREMENT
+### ARTICLE 12 - RETIREMENT
 
 Section 1. Public Employees Retirement System (PERS) Members.
 For purposes of this Section 1, ‘employee’ means an employee who is employed by the
@@ -565,7 +565,7 @@ income.
                                                                                Rev: 2017, 2021,2023
 
 
-                        ARTICLE 13 - DISCIPLINE AND DISCHARGE
+### ARTICLE 13 - DISCIPLINE AND DISCHARGE
 
 Section 1. Disciplinary Action.
 Disciplinary action may be imposed by the Employer on any employee covered by this
@@ -688,7 +688,7 @@ the following guidelines:
 
         f)       The employee's past employment record shall be considered, if
                  appropriate, based on the severity of the act.
-                            ARTICLE 14 - GRIEVANCE PROCEDURE
+### ARTICLE 14 - GRIEVANCE PROCEDURE
 
 Section 1. Definition
 Grievances are defined as acts, omissions, applications, meaning or interpretation
@@ -799,7 +799,7 @@ incurring the costs.
                                                                                             Rev: 2023
 
 
-                              ARTICLE 15 – PAID LEAVES
+### ARTICLE 15 – PAID LEAVES
 
 Section 1. Planned Time Off – PTO
 Effective January 1, 2024, a PTO Leave bank will be established in lieu of traditional
@@ -883,7 +883,7 @@ Military leave shall be granted in accordance with applicable Law and DAS policy
 
 
 
-                               ARTICLE 16 - SICK LEAVE
+### ARTICLE 16 - SICK LEAVE
 
 Section 1. Accrual.
 It is agreed that the Employer will provide sick leave as insurance for its employees in
@@ -986,7 +986,7 @@ An employee may, at their option, be placed on leave without pay and maintain a
 balance of no more than seventy-two (72) hours of sick leave while receiving short term
 disability insurance benefits provided through Public Employees’ Benefit Board.
 
-                                     ARTICLE 17 - LAY-OFFS
+### ARTICLE 17 - LAY-OFFS
 
 Section 1.
 A layoff is defined as a separation from service for involuntary reasons not reflecting
@@ -1115,7 +1115,7 @@ as: voluntary reductions in hours; voluntary leaves of absence without pay; othe
 voluntary programs and/or temporary interruptions of employment. Such alternatives
 shall be subject to mutual agreement by the Union and the Employer.
 
-                                    ARTICLE 18 - TRADE TIME
+### ARTICLE 18 - TRADE TIME
 
 The State will allow employees to trade work time for each other so long as:
       a)      It does not result in any additional financial burden to the Agency.
@@ -1125,7 +1125,7 @@ The State will allow employees to trade work time for each other so long as:
         c)       The practice of trading time does not affect an employee's training
                  requirements or ability to do the work assigned to his position.
 
-                         ARTICLE 19 - EDUCATION REIMBURSEMENT
+### ARTICLE 19 - EDUCATION REIMBURSEMENT
 
 Section 1.
 The Agency shall make 100% tuition and a 50% book reimbursement to any employee
@@ -1148,14 +1148,14 @@ Credit transfers are not reimbursable.
 
 
 2025 - 2027 IAFF/PANG                       24                         Collective Bargaining Agreement
-           ARTICLE 20 - CONVERSION OF WAGE & BENEFIT ACCRUALS
+### ARTICLE 20 - CONVERSION OF WAGE & BENEFIT ACCRUALS
 
 Employees transferring from the 56-hour shift to a 40-hour schedule will have their hours
 and benefits converted to assure the same total dollar value for a given benefit or time.
 A reverse conversion of hours and benefits will be made for employees converting from
 the 40-hour workweek to the 56-hour shift.
 
-                              ARTICLE 21 - SAVINGS CLAUSE
+### ARTICLE 21 - SAVINGS CLAUSE
 
 Should any provision of this agreement be found by a court of competent jurisdiction, or
 any administration agency having jurisdiction, to be in violation of any federal or state
@@ -1164,7 +1164,7 @@ and remain in full force and effect for the duration of this agreement. The part
 to meet and negotiate as soon as reasonably possible for a substitute to any provision
 declared in violation of federal or state law, if substitution is possible.
 
-                        ARTICLE 22 - TERM OF AGREEMENT
+### ARTICLE 22 - TERM OF AGREEMENT
 
 This Agreement shall be modified only in writing upon the written approval of both
 parties. Such modification, if any, shall become part of this Agreement on the agreed
@@ -1185,7 +1185,7 @@ this Agreement shall be binding upon that successor only to the extent required 
                                                                             Rev: 2019,2023,2025
 
 
-                             ARTICLE 23 - PROMOTIONS
+### ARTICLE 23 - PROMOTIONS
 
 Section 1 - Promotion
 a)    Application for promotion within the bargaining unit shall be made within the fire
@@ -1205,14 +1205,14 @@ a)    Application for promotion within the bargaining unit shall be made within 
 c)      In the event there is a vacancy in a Captain’s position, it will not be a requirement
         to be a Lieutenant in order to take the examination.
 
-                    ARTICLE 24 - LABOR/MANAGEMENT COMMITTEE
+### ARTICLE 24 - LABOR/MANAGEMENT COMMITTEE
 
 The parties agree to form a labor/management committee and to meet at regularly
 scheduled intervals on a quarterly basis. The Committee shall be composed of up to
 five (5) bargaining unit members appointed by the Union. Agency employees appointed
 to the committee shall be in pay status during time spent in committee meetings.
 
-               ARTICLE 25 – DRUG AND ALCOHOL FREE WORKPLACE
+### ARTICLE 25 – DRUG AND ALCOHOL FREE WORKPLACE
 
 The Parties agree that they have a responsibility to provide an alcohol -free service
 environment and the employees with an alcohol-free workplace. The illegal use of
@@ -1395,7 +1395,7 @@ or continuing work.
                                                                                            REV: 2023
 
 
-                        ARTICLE 26 – WORK OUT OF CLASSIFICATION
+### ARTICLE 26 – WORK OUT OF CLASSIFICATION
 
 Section 1.
 Short-Term assignments.
@@ -1454,7 +1454,7 @@ the administration of this article.
                                                                                           REV: 2025
 
 
-                  ARTICLE 27 – SAFETY EQUIPMENT AND UNIFORMS
+### ARTICLE 27 – SAFETY EQUIPMENT AND UNIFORMS
 
 Section 1.
 Safety Equipment. Adequate and safe equipment shall be provided for all employees.
@@ -1503,7 +1503,7 @@ the purpose of providing sweatshirts, hats, socks, T-shirts, and work out gear (
 Agency does not provide). All clothing articles will meet applicable safety specifications,
 color and department insignia requirements as set by the Fire Chief.
 
- ARTICLE 28 – ANNUAL FIREFIGHTER PHYSICALS AND CANCER SCREENING
+### ARTICLE 28 – ANNUAL FIREFIGHTER PHYSICALS AND CANCER SCREENING
 
 The Agency will provide bargaining members with annual NFPA 1582 Physical at a
 qualified occupational health provider. Bargaining members will have their blood test
@@ -1512,7 +1512,7 @@ for PFAS/POFA and Oregon presumptive cancer screening, as referenced in ORS
                                                                                          NEW: 2023
 
 
-                        ARTICLE 29 – SALARY ADMINISTRATION
+### ARTICLE 29 – SALARY ADMINISTRATION
 
 Section 1. Pay.
 a)    Pay for employees in the bargaining unit shall be in accordance with the
@@ -1790,7 +1790,7 @@ d)      For purposes of recovering overpayments of more than fifty dollars ($50.
 
 
      2025 - 2027 IAFF/PANG                        37                        Collective Bargaining Agreement
-                        LETTER OF AGREEMENT - FITNESS/WELLNESS
+### LETTER OF AGREEMENT - FITNESS/WELLNESS
 
 All fire personnel have a responsibility of servicing the public with a level of physical
 fitness that enables employees to respond safely to a host of unforeseen emergencies.
@@ -1809,7 +1809,7 @@ up to four (4) Peer Fitness Trainers.
 
 
 2025 - 2027 IAFF/PANG                     38                        Collective Bargaining Agreement
-                        LETTER OF AGREEMENT – EQUAL PAY
+### LETTER OF AGREEMENT – EQUAL PAY
 
 This Letter of Agreement (Agreement) is between the State of Oregon, acting through
 its Department of Administrative Services (Employer) on behalf of the Oregon Military
@@ -1935,7 +1935,7 @@ The Parties agree to the following:
 
 
 2025 - 2027 IAFF/PANG                       41                       Collective Bargaining Agreement
-          LETTER OF AGREEMENT – CLASS AND COMP MARKET STUDY
+### LETTER OF AGREEMENT – CLASS AND COMP MARKET STUDY
 
 This Agreement is between the State of Oregon, acting through its Department of
 Administrative Services (Employer), on behalf of the Oregon Military Department
@@ -1962,7 +1962,7 @@ This Letter of Agreement will automatically sunset on June 30, 2025.
 
 
 2025 - 2027 IAFF/PANG                        42                        Collective Bargaining Agreement
-                    LETTER OF AGREEMENT – PAID LEAVE OREGON
+### LETTER OF AGREEMENT – PAID LEAVE OREGON
 
 This Agreement is between the State of Oregon, acting through its Department of
 Administrative Services (Employer) and IAFF Local 1660 Portland Air National Guard
@@ -1985,7 +1985,7 @@ any existing contract language relating to FMLA/OFLA.
 
 
 2025 - 2027 IAFF/PANG                  43                       Collective Bargaining Agreement
-                 LETTER OF AGREEMENT — BI-WEEKLY PAY PERIOD
+### LETTER OF AGREEMENT — BI-WEEKLY PAY PERIOD
 
 This Letter of Agreement is between the State of Oregon, acting through its Department
 of Administrative Services (Employer), and the IAFF Local 1660 Portland Air National
@@ -2057,7 +2057,7 @@ outlined in Article 14.
 
 
 2025 - 2027 IAFF/PANG                       45                       Collective Bargaining Agreement
-LETTER OF AGREEMENT – MQ TRANSITION PLAN FOR CURRENT EMPLOYEES
+### LETTER OF AGREEMENT – MQ TRANSITION PLAN FOR CURRENT EMPLOYEES
 
 This Agreement is between the State of Oregon, acting through its Department of
 Administrative Services (Employer) and the International Association of Firefighters,
@@ -2080,7 +2080,7 @@ final signature below.
 
 
 2025 - 2027 IAFF/PANG                    46                        Collective Bargaining Agreement
-          LETTER OF AGREEMENT – ESSENTIAL WORKER INCLEMENT
+### LETTER OF AGREEMENT – ESSENTIAL WORKER INCLEMENT
                   WEATHER/HAZARDOUS CONDITIONS PAY
 
 This Letter of Agreement is between the State of Oregon, acting through its Department
@@ -2107,7 +2107,7 @@ Policy 60.015.01 within the county of their worksite.
 
 
 2025 - 2027 IAFF/PANG                     47                        Collective Bargaining Agreement
-   LETTER OF AGREEMENT - STRUCTURAL CHANGES TO PAY PRACTICES
+### LETTER OF AGREEMENT - STRUCTURAL CHANGES TO PAY PRACTICES
 
 
 This Letter of Agreement is between the State of Oregon, acting through its Department
@@ -2171,7 +2171,7 @@ arbitration procedure outlined in Article 51.
 
 
 2025 - 2027 IAFF/PANG                       49                         Collective Bargaining Agreement
-                  LETTER OF AGREEMENT – MEDICAL RESIGNATION
+### LETTER OF AGREEMENT – MEDICAL RESIGNATION
 
 This Agreement is between the State of Oregon, acting through its Department of
 Administrative Services (Employer) and the International Association of Firefighters,

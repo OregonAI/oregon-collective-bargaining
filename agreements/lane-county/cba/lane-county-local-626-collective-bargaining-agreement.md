@@ -16,12 +16,11 @@ agency_registry_slugs: []
 source_url: https://www.lanecounty.org/UserFiles/Servers/Server%5F3585797/File/Government/County%20Departments/Human%20Resources/Collective%20Bargaining%20Agreements/Local%20626%20Collective%20Bargaining%20Agreement.pdf
 source_format: pdf
 retrieved: '2026-08-02'
-source_sha256: 22b62a78a69f0f0e2684f7d5638f840cf39af3a8f3104b24171ef9a9caeef7d1
+source_sha256: 6ae5c6ca0bccff51453649df139bf73839f74355d5dc5a8b79b6db4363cc2b31
 snapshot_policy: hash-only
 status: current
-content_mode: summary
-reproduction_basis: 'jointly-authored contract; summary + official link per the class determination
-  in corpus.yml schema.doc_types (verbatim: false)'
+content_mode: 'verbatim'
+reproduction_basis: 'public record of a public body (ORS 192.311-192.478); the employer publishes the executed agreement in full at source_url; a ratified agreement is an official act (Georgia v. Public.Resource.Org, 590 U.S. 255 (2020)) — mirrored in full per the class determination in corpus.yml schema.doc_types (verbatim: true)'
 conversion_notes: pdftotext -layout; 65 pages, 185664 characters extracted; NOT human-verified
 last_verified: ''
 verified_by: ''
@@ -42,8 +41,8 @@ tags:
 - lane-county
 ---
 
-> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated
-> summary, not the agreement's official text. Verify against the official
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a non-authoritative
+> mirror of the agreement's text, not the official record. Verify against the official
 > source: <https://www.lanecounty.org/UserFiles/Servers/Server%5F3585797/File/Government/County%20Departments/Human%20Resources/Collective%20Bargaining%20Agreements/Local%20626%20Collective%20Bargaining%20Agreement.pdf> (retrieved 2026-08-02).
 
 # Lane County — Local 626 Collective Bargaining Agreement
@@ -54,10 +53,6 @@ Collective bargaining agreement between **Lane County** and **Local 626** — **
 - Listed on the county's labor agreements index as: “Local 626 Collective Bargaining Agreement” (index archived in `_meta/discovery/`)
 - Source document: 65 pages (PDF)
 
-This corpus is **summary-first for agreements**: the contract's text is not
-reproduced here (see Curator notes), and nothing on this page states or
-paraphrases the agreement's terms. Read the agreement itself at the official
-source link above.
 
 ## Curator notes
 
@@ -75,3 +70,3076 @@ Statutes and rules the document's text cites are recorded in frontmatter
 `relationships.references_external` (4 citation(s)) and resolve into
 `executive-regulatory-frameworks` as cites — this corpus asserts no
 `implements` edge anywhere.
+
+## Full text
+
+                                           AGREEMENT
+
+                                             between
+
+                                     LANE COUNTY, OREGON
+
+                                                and
+
+                            LANE COUNTY ASSOCIATION LOCAL 626
+
+                                             2025-2028
+
+
+
+
+THIS COLLECTIVE BARGAINING AGREEMENT is entered into by and between Lane County Board of
+Commissioners, hereinafter referred to as COUNTY and Lane County Association Local 626, hereinafter
+referred to as UNION, and constitutes the sole and complete agreement between the parties.
+                                                                                                                                       626 Agreement
+                                                                                                                                           2025-2028
+
+
+                                                            TABLE OF CONTENTS
+
+
+DEFINITIONS ............................................................................................................................................... 5
+PREAMBLE ................................................................................................................................................... 8
+ Section 1 - Purpose ................................................................................................................................... 8
+ Section 2 - Applicability.............................................................................................................................. 8
+ARTICLE 1 RECOGNITION.......................................................................................................................... 9
+ Section 1 - Recognition ............................................................................................................................. 9
+ Section 2 - Division of Labor ..................................................................................................................... 9
+ARTICLE 2 MANAGEMENT RIGHTS ......................................................................................................... 10
+ Section 1 - Retention of Rights ................................................................................................................ 10
+ Section 2 - Uniform Application ............................................................................................................... 10
+ Section 3 - Contracting Out ..................................................................................................................... 10
+ Section 4 - Sheriff’s Work Crews and Volunteer Programs ..................................................................... 11
+ Section 5 - Exercise of Rights ................................................................................................................. 11
+ARTICLE 3 DUES DEDUCTION................................................................................................................. 12
+ Section 1 - Deduction of Dues ................................................................................................................. 12
+ Section 2 - Dues Transmittal/Hold Harmless........................................................................................... 12
+ Section 3 – Orientation of UNION Employees ........................................................................................ 12
+ Section 5 – Timely Deductions ................................................................................................................ 13
+ Section 6 – Monthly Audit ........................................................................................................................ 13
+ARTICLE 4 UNION RIGHTS ...................................................................................................................... 14
+ Section 1 - Union Activity ......................................................................................................................... 14
+ Section 2 – County-Union Meetings ........................................................................................................ 15
+ Section 3 - Information ............................................................................................................................ 15
+ Section 4 - Union Business ..................................................................................................................... 15
+ Section 5 - Protection of Rights ............................................................................................................... 16
+ Section 6 - Officers and Stewards ........................................................................................................... 16
+ARTICLE 5 DISCIPLINE AND DISCHARGE .............................................................................................. 17
+ Section 1 - Causes for Discipline ............................................................................................................ 17
+ Section 2 - Pre-disciplinary Hearing ........................................................................................................ 18
+ Section 3 - Effective Date of Discipline ................................................................................................... 18
+ Section 4 - Extension of Time .................................................................................................................. 18
+ARTICLE 6 GRIEVANCE PROCEDURE .................................................................................................... 19
+ Section 1 - Purpose ................................................................................................................................. 19
+ Section 2 - Grievance Steps .................................................................................................................... 19
+ Section 3 - Arbitration .............................................................................................................................. 20
+ Section 4 - General Provisions ................................................................................................................ 21
+ Section 5 - Time Limits ............................................................................................................................ 21
+ARTICLE 7 GENERAL PROVISIONS ........................................................................................................ 23
+ Section 1 - Employee Information ........................................................................................................... 23
+ Section 2 - Personnel File ....................................................................................................................... 23
+ Section 3 - Expense Reimbursement ...................................................................................................... 23
+ Section 4 - Work Rules ............................................................................................................................ 24
+ Section 5 - Personal Gear ....................................................................................................................... 24
+ Section 6 - COUNTY Provided Gear ....................................................................................................... 25
+ Section 7 - Uniform Allowance................................................................................................................. 25
+ Section 8 - Hand Tools ............................................................................................................................ 25
+ Section 9 - Licenses ................................................................................................................................ 25
+ARTICLE 8 SELECTION/PROMOTION ..................................................................................................... 26
+ Section 1 - Job Posting............................................................................................................................ 26
+ Section 2 - Veteran Preference ............................................................................................................... 26
+ Section 3 - Legal Requirements .............................................................................................................. 26
+ Section 4 - Promotional Preference ........................................................................................................ 26
+ Section 5 - Internal Recruitment .............................................................................................................. 27
+
+
+TABLE OF CONTENTS                                                             2
+                                                                                                                                   626 Agreement
+                                                                                                                                       2025-2028
+
+
+ Section 6 - Outside Recruitment/Referral................................................................................................ 28
+ Section 7 - Probationary Period .............................................................................................................. 28
+ Section 8 – Flex Staff Series ................................................................................................................... 29
+ARTICLE 9 HOURS OF WORK AND OVERTIME ..................................................................................... 31
+ Section 1 - Workday/Workweek .............................................................................................................. 31
+ Section 2 - Normal Work Schedule ......................................................................................................... 31
+ Section 3 - Employee Work Schedule/Reporting Place .......................................................................... 31
+ Section 4 - Alternate Work Schedules ..................................................................................................... 31
+ Section 5 – Vegetation Operations During Fire Season .......................................................................... 32
+ Section 6 - Overtime ................................................................................................................................ 32
+ Section 7 - Meal/Rest Periods ................................................................................................................. 33
+ Section 8 - Cleanup Time ........................................................................................................................ 34
+ Section 9 - Call Back/Reporting Time ...................................................................................................... 34
+ Section 10 - Shift Differential ................................................................................................................... 35
+ Section 11 - On-Call Time ........................................................................................................................ 35
+ARTICLE 10 WAGES .................................................................................................................................. 37
+ Section 1 - Salary Range Adjustments .................................................................................................... 37
+ Section 2 – Steps in Compensation Plan ................................................................................................ 37
+ Section 3 - New or Revised Classifications ............................................................................................. 37
+ Section 4 - Salary Protection ................................................................................................................... 38
+ Section 5 - Out of Class........................................................................................................................... 38
+ Section 6 – Direct Deposit ....................................................................................................................... 39
+ Section 7 – Deferred Compensation ....................................................................................................... 39
+ Section 8 – Minor Payroll Adjustments .................................................................................................... 39
+ Section 9 – Extra Help Premium Pay for CDL Use ................................................................................. 40
+ARTICLE 11 LEAVE TIME AND HOLIDAYS ............................................................................................... 41
+ Section 1 - Holidays................................................................................................................................. 41
+ Section 2 - Time Management ................................................................................................................ 42
+ Section 3 - Occupational Illness or Injury ................................................................................................ 45
+ Section 4 – Paid Family Medical Leave .................................................................................................. 46
+ Section 5 - Substantiation........................................................................................................................ 46
+ Section 6 - Bereavement ......................................................................................................................... 46
+ Section 7 - Jury Duty ............................................................................................................................... 47
+ Section 8 - Leave of Absence .................................................................................................................. 47
+ Section 9 - Unexcused Absence ............................................................................................................. 48
+ Section 10 - Subrogation ......................................................................................................................... 48
+ARTICLE 12 INSURANCE AND RELATED ................................................................................................ 49
+ Section 1 - Types of Insurance ................................................................................................................ 49
+ Section 2 - Health Insurance Plan ........................................................................................................... 50
+ Section 3 - Retirement Enrollment .......................................................................................................... 51
+ Section 4 - Retiree Benefits ..................................................................................................................... 52
+ Section 5 - Personal Property ................................................................................................................. 52
+ Section 6 - Interstate Commerce Commission (ICC) Physical Examinations ......................................... 53
+ARTICLE 13 SAFETY ................................................................................................................................. 54
+ Section 1 - Safety Policy.......................................................................................................................... 54
+ Section 2 - Safety Committee .................................................................................................................. 54
+ Section 3 - Committee Functions ............................................................................................................ 54
+ Section 4 - Meeting Schedule.................................................................................................................. 54
+ Section 5 - Employee Responsibility ....................................................................................................... 54
+ Section 6 - Personal Protective Equipment ............................................................................................. 55
+ARTICLE 14 TRAINING .............................................................................................................................. 56
+ Section 1 - Support .................................................................................................................................. 56
+ Section 2 - Required Training .................................................................................................................. 56
+ Section 3 - Employee Interest ................................................................................................................. 56
+ Section 4 - Training Committee ............................................................................................................... 56
+ Section 5 - Trainee Selection................................................................................................................... 56
+
+
+TABLE OF CONTENTS                                                           3
+                                                                                                                                      626 Agreement
+                                                                                                                                          2025-2028
+
+
+  Section 6 - Division Training .................................................................................................................... 56
+  Section 7 - Compensation and Benefits While Training .......................................................................... 56
+  Section 8 - Transfer After Training ........................................................................................................... 57
+  Section 9 - Commercial Driver's License (CDL) Training ........................................................................ 57
+  Section 10 - Training Proposals .............................................................................................................. 57
+ARTICLE 15 SENIORITY ............................................................................................................................ 58
+  Section 1 - Definition ............................................................................................................................... 58
+  Section 2 - Continuous Service ............................................................................................................... 58
+  Section 3 - Seniority List .......................................................................................................................... 58
+ARTICLE 16 LAYOFF AND RECALL .......................................................................................................... 59
+  Section 1 - Layoff ..................................................................................................................................... 59
+  Section 2 - Bumping Rights ..................................................................................................................... 59
+  Section 3 - Recall .................................................................................................................................... 59
+  Section 4 - Protection/Rights During Layoff ............................................................................................ 60
+  Section 5 - Termination for Exhaustion of Non-Occupational Disability Leave ....................................... 60
+ARTICLE 17 RELATIONSHIPS .................................................................................................................. 61
+  Section 1 - Entire Agreement .................................................................................................................. 61
+  Section 2 - Change in Conditions ............................................................................................................ 61
+  Section 3 - Savings Clause ..................................................................................................................... 61
+  Section 4 - Individual Agreements ........................................................................................................... 61
+  Section 5 – Joint Labor Management Committee ................................................................................... 61
+ARTICLE 18 TERMINATION....................................................................................................................... 62
+  Section 1 - Duration ................................................................................................................................. 62
+  Section 2 - Notice .................................................................................................................................... 62
+  Section 3 - Force of Agreement ............................................................................................................... 62
+ATTACHMENT A ......................................................................................................................................... 63
+ATTACHMENT B ......................................................................................................................................... 64
+ATTACHMENT C ......................................................................................................................................... 65
+
+
+
+
+TABLE OF CONTENTS                                                            4
+                                                                                              626 Agreement
+                                                                                                  2025-2028
+
+
+                                               DEFINITIONS
+For purposes of this Agreement, the following definitions will apply:
+
+Agreement: The term "Agreement" will mean this Agreement or any memorandum of understanding
+between the UNION and the COUNTY adopted pursuant to this Agreement or entered into or made
+effective during the term of this Agreement.
+
+Bargaining Unit Employee: The term "bargaining unit employee" will mean any COUNTY employee who
+is a member of the bargaining unit as described in Article 1, RECOGNITION, Section 1.
+
+COBRA: The term "COBRA" will mean the Consolidated Omnibus Budget Reconciliation Act of 1986.
+
+Days: The term "days" will mean calendar days. The time in which an act provided for in this Agreement
+is to be done is computed by excluding the first day, and including the last, unless the last day is a holiday
+on which the COUNTY is not regularly open for business, and then it is also excluded.
+
+Demotion: The term demotion, voluntary or involuntary, will mean a change from one classification to
+another classification with a salary range lower than that of the previous classification.
+
+Designated UNION Representative: The term "designated UNION representative" will mean any UNION
+officer (President, Vice-President, Secretary, or Treasurer) or any other person who has been designated
+in writing by a UNION officer as an official UNION representative.
+
+Eligible and Qualified: The term "eligible and qualified" will mean that any specific requirements of this
+Agreement, any legal requirements and any other requirements which are binding on the COUNTY, and
+which are applicable, must be satisfied before a bargaining unit employee will receive a benefit of this
+Agreement.
+
+Employee: The term "employee" will mean bargaining unit employee.
+
+Extra Help: The term "extra help" will mean employees who are appointed to COUNTY service on a
+temporary and/or intermittent basis to cover emergency workloads of limited duration, necessary vacation
+relief, or other situations involving fluctuating workloads, not to exceed 520 hours in a fiscal year.
+
+Just Cause: The term "Just Cause" will mean any act of misconduct on the part of an employee, which
+will reasonably justify the imposition of discipline and further justifies the penalty imposed.
+
+Labor Relations Manager: The term "Labor Relations Manager" will mean the individual in the position
+with that name or in a subsequent independent position who serves as the COUNTY's chief labor
+negotiator. In the event that the COUNTY eliminates the independent position of a chief labor negotiator,
+this term will refer to the person designated by the COUNTY's Administrator to perform this function.
+
+Limited Duration Employee: The term "Limited Duration" will mean employees who are appointed to
+COUNTY service on temporary limited basis for periods in excess of three (3) months, but not more than
+two (2) years in duration.
+
+
+
+
+DEFINITIONS                                           5
+                                                                                              626 Agreement
+                                                                                                  2025-2028
+
+
+### Memorandum of Understanding: The term "Memorandum of Understanding" will mean any written
+agreement between the UNION and the COUNTY entered into or specifically made effective during the
+term of this Agreement.
+
+Non-Probationary Employee: The term "non-probationary employee" will mean a bargaining unit
+employee who is serving in a regular position and who has been awarded regular status following
+successful completion of a probationary period.
+
+Paid Time: The term "paid time" will mean all time for which an employee receives compensation,
+including work time and paid leave time.
+
+Part time Employee: The term "part time employee" will mean an employee whose normal workweek is
+less than forty (40) hours.
+
+Regular Position: The term "regular position" will mean positions which have been approved by the
+COUNTY Board of Commissioners; which are included in the adopted COUNTY budget; which are
+budgeted in excess of six (6) months duration and which are for work in excess of twenty (20) hours per
+week.
+
+Position: The term "position" will mean a group of duties and responsibilities assigned to a single
+employee.
+
+Probationary Employee: The term "probationary employee" will mean a bargaining unit employee who is
+serving in a regular position and who is in the process of serving a probationary period.
+
+Probationary Period: The term "probationary period" will mean the length of time a newly hired or
+promoted employee is on probation.
+
+Promotion: The term "promotion" will mean a change from one classification to another classification
+which has a maximum salary higher than that of the previous classification.
+
+Qualified: The term "qualified" will mean satisfaction of the minimum qualifications for the classification
+for which promotional candidates are being sought. It also includes “special skills” required.
+
+Retire or Retirement: The term "retire or retirement" will refer to an employee of Lane County who retires
+for service or disability, and who immediately upon leaving active employment begins receiving retirement
+benefits under the Public Employee's Retirement System applicable to employees of Lane County.
+
+Section: The term "Section" will refer to the next smaller recognized work unit than a Division.
+
+Temporary Employee: The term "temporary employee" will mean any bargaining unit employee who is
+appointed to COUNTY service on a temporary and/or intermittent basis which is budgeted for not less
+than 520 hours nor more than 1040 hours in a fiscal year.
+
+Work Time: The term "work time" will mean the time the employee actually spends on compensated work
+activities.
+
+
+
+
+DEFINITIONS                                           6
+                                                                                            626 Agreement
+                                                                                                2025-2028
+
+
+Writing and/or Written: The term writing or written will mean documentation in either electronic or paper
+format.
+
+Vacancy: The term "vacancy" will mean a position within the bargaining unit, which is to be filled on a
+regular basis through promotion or outside recruitment.
+
+
+
+
+DEFINITIONS                                          7
+                                                                                            626 Agreement
+                                                                                                2025-2028
+
+
+                                               PREAMBLE
+Section 1 - Purpose
+
+The purpose of this Agreement is to promote mutual agreement and understanding between the parties
+and to set forth those matters pertaining to rates of pay, hours of work, fringe benefits and other
+employment relations matters pertaining to employment consistent with the COUNTY's objective of
+providing maximized efficiency and services to the public of Lane County.
+
+Section 2 - Applicability
+
+(A) This Agreement is applicable inclusively to bargaining unit employees in the unit heretofore known as
+    Lane County Association Local 626.
+
+(B) It is agreed and understood that this Agreement will be limited and applicable only to bargaining unit
+    employees, and only in connection with the performance of work within classifications covered by this
+    Agreement.
+
+
+
+
+PREAMBLE                                             8
+                                                                                            626 Agreement
+                                                                                                2025-2028
+
+
+### ARTICLE 1
+                                              RECOGNITION
+
+
+Section 1 - Recognition
+
+(A) For the purposes of collective bargaining with respect to wages, hours, benefits and other
+    employment relations matters, the COUNTY recognizes the UNION as the sole and exclusive
+    representative of all employees classified as indicated in Attachments A and B, exclusive of persons
+    so employed and classified but in a supervisory or confidential capacity.
+
+(B) Further, part-time employees who work on a year-round basis, but who are regularly scheduled to
+    work 520 hours or less per year will be considered “extra help” and not be eligible for regular status.
+    Such employees will also not be eligible and qualified for any rights or benefits under the Agreement
+    which are reserved for regular probationary or non-probationary employees.
+
+Section 2 - Division of Labor
+
+(A) Work historically performed by bargaining unit members will not normally be performed by non-
+    bargaining unit employees. This is not to be construed to change existing practice where, for
+    example, a supervisor or lead worker may perform bargaining unit duties as part of their regular work
+    assignment. Supervisors and managers will not perform bargaining work in excess of five (5) hours
+    per week. Non-bargaining unit Lead workers will not perform bargaining unit work more than fifty
+    percent (50%) of their time within a pay period and will be documented. Any work performed for
+    training purposes in excess of five (5) hours per week will be documented. Supervisors performing
+    bargaining unit work will be proficient in processes and equipment.
+
+(B) Nothing in this Section will be construed as to limit the COUNTY from utilizing other persons to deal
+    with emergency situations.
+
+
+
+
+### ARTICLE 1
+RECOGNITION                                          9
+                                                                                               626 Agreement
+                                                                                                   2025-2028
+
+
+### ARTICLE 2
+                                          MANAGEMENT RIGHTS
+Section 1 - Retention of Rights
+
+(A) The COUNTY retains all rights respecting decisions and actions affecting the operation and
+    management of its business where not specifically in conflict with this Agreement.
+
+(B) It is agreed that the management of the COUNTY and the direction of the working forces, including
+    but not limited to the right to hire, promote, transfer, assign, suspend, demote, to discharge or
+    otherwise discipline employees; to increase or decrease the working force; to determine the methods,
+    means, personnel and schedules by which the efficiency of government operations entrusted to the
+    COUNTY are to be maintained; to establish, revise and implement safety and health standards; to
+    discontinue all or any part of its operations; to transfer work from the bargaining unit; to determine the
+    need for additional educational courses, training programs, on-the-job training, and cross-training,
+    and to assign employees to such duties for periods to be determined by the COUNTY; to establish
+    new jobs, or eliminate or modify existing job classifications; to adopt and enforce rules, regulations,
+    policies and procedures governing the conduct of its work forces; and to take whatever other action is
+    deemed appropriate by the COUNTY, is vested exclusively in the COUNTY except when specifically
+    in conflict with this Agreement.
+
+Section 2 - Uniform Application
+
+(A) Any rule or procedure issued under Section 1 above will be uniformly applied to all affected
+    employees who are similarly situated.
+
+(B) It is recognized that COUNTY may be required to take employment actions pursuant to the
+    Americans with Disabilities Act (ADA), Workers’ Compensation, or other federal or state laws,
+    regulations or rules that require exceptions to COUNTY’s basic employment standards. Such
+    required exceptions will not establish a general employee standard requiring uniform application
+    under these provisions and will only apply to employees who meet the requirements or standards of
+    the applicable laws, regulations or rules.
+
+Section 3 - Contracting Out
+
+(A) It is the general policy of the COUNTY to utilize its employees to perform work within their current job
+    classifications. However, the COUNTY reserves the right to contract out any work that in its sole
+    discretion it deems necessary. Prior to making its final determination, the COUNTY will notify the
+    UNION in writing, and upon timely written request of the UNION (within 14 days), the COUNTY will
+    negotiate with the UNION pursuant to the provisions of ORS 243.698. In cases of emergencies ORS
+    243.698 will apply to the extent possible.
+
+(B) Notice will be provided to the UNION as soon as possible in an emergency, but within twenty-four
+    (24) hours. After such notice, there will be no obligation to bargain if the emergency lasts no more
+    than forty-eight (48) hours.
+
+(C) For the purposes of this Article, “emergency” is a situation involving actual or potential injury to
+    persons or property that cannot be remedied within normal work schedules.
+
+
+### ARTICLE 2
+MANAGEMENT RIGHTS                                     10
+                                                                                                 626 Agreement
+                                                                                                     2025-2028
+
+
+(D) No employee will be laid off as a direct result of contracting out bargaining unit work until this process
+    has been completed.
+
+Section 4 - Sheriff’s Work Crews and Volunteer Programs
+
+The COUNTY may utilize the services of the Sheriff’s work crew labor and volunteers to perform
+bargaining unit work subject to the following conditions:
+
+(A) No layoff or attrition will occur in the bargaining unit for the duration of this contract due to the use of
+    the Sheriff’s Work Crew Program, volunteer groups, or similar programs of these types.
+
+(B) There will be no reduction of COUNTY funds available to the bargaining unit because of any
+    programs of these types.
+
+(C) No bargaining unit employee will be required to supervise, be supervised by, or work with any inmate
+    labor or volunteer groups involved in a program of these types. Exceptions may be made upon
+    mutual agreement.
+
+(D) Sheriff’s Work Crew Programs may be expanded beyond bridge cleaning, guard rail clean-up,
+    roadside litter cleanup, median strips, clean-up in roadside plantings, and cleanup in all COUNTY
+    Parks after the procedure specified in Article 17, Section 2 has been completed.
+
+(E) The parties agree that volunteer groups interested in performing work historically performed by the
+    bargaining unit will have their activities subject to prior approval of the COUNTY and the UNION. The
+    COUNTY will notify the UNION of the volunteer groups’ proposed scope of work and adequate detail
+    of proposed activities. The UNION will respond to the inquiry within fourteen (14) days of receipt of
+    notice. Exceptions to the timeline may be made upon mutual agreement.
+
+Section 5 - Exercise of Rights
+
+The COUNTY will not exercise its rights set forth above for the sole purpose of avoiding the terms of this
+Agreement.
+
+
+
+
+### ARTICLE 2
+MANAGEMENT RIGHTS                                      11
+                                                                                               626 Agreement
+                                                                                                   2025-2028
+
+
+### ARTICLE 3
+                                            DUES DEDUCTION
+Section 1 - Deduction of Dues
+
+(A) The UNION will notify the COUNTY of the current rate of dues in a timely manner, which will enable
+    the COUNTY to make necessary payroll deductions as specified below.
+
+(B) The COUNTY will deduct from the second pay period of each month, not to exceed twelve (12) times
+    per year, of all dues paying members in the bargaining unit, a uniform amount for the payment of
+    UNION membership dues to the UNION.
+
+(C) The COUNTY will provide, upon request, to the UNION a list of all members who are having dues
+    deducted.
+
+(D) The UNION shall provide to the COUNTY a list within the timeframe identified in Section 5 below
+    identifying the employees who have provided authorization for the COUNTY to make payroll
+    deductions from the employee’s wages for the purposes authorized under the Public Employer’s
+    Collective Bargaining Act (PECBA). The COUNTY will rely on the list to make the authorized
+    deductions and remit payment to the UNION.
+
+Section 2 - Dues Transmittal/Hold Harmless
+
+(A) The COUNTY agrees to remit the aggregate deductions, together with an itemized statement to the
+    UNION, by the first day of the succeeding month after such deductions are made.
+
+(B) The UNION agrees to fully defend and indemnify the COUNTY and hold the COUNTY harmless from
+    any liability, claims, suits or proceedings whatsoever in performing its obligations as specified in this
+    Article. Any costs, including attorney fees, expert witness fees, fines or judgments, incurred in the
+    defense of the COUNTY in any legal action or proceeding brought against the COUNTY for
+    implementing or carrying out the provisions of this Article will be borne by the UNION, including, but
+    not limited to, claims with the Bureau of Labor and Industry, Equal Employment Opportunity
+    Commission, civil litigation and wage claims. Nothing in this Section will be construed as to limit the
+    COUNTY's obligation to deduct and transmit dues to the UNION.
+
+Section 3 – Orientation of UNION Employees
+
+The COUNTY agrees to notify the UNION monthly of all new employees hired into bargaining unit
+positions and to provide reasonable time for the UNION representatives to meet with new employees.
+
+Section 4 – New Employee Notifications
+
+The COUNTY will furnish within ten (10) calendar days of the date of hire to the UNION an electronic list,
+in Excel or similar spreadsheet, of new employees, who have accepted positions represented by the
+UNION, along with anticipated start dates, or notification of no new bargaining unit employees, by the
+close of business each Friday. The list will contain the name, employee ID number, classification, position
+number, department, position status, date of employment, bargaining unit designation and any other
+employee information in the COUNTY’s records that the COUNTY is legally obligated to provide.
+
+
+### ARTICLE 3
+DUES DEDUCTION                                        12
+                                                                                         626 Agreement
+                                                                                             2025-2028
+
+
+Section 5 – Timely Deductions
+
+A file listing new authorizations or changes in authorizations for employee UNION deductions will be
+submitted by the UNION to the COUNTY electronically by close of business on the business day
+immediately following the end of the second (2nd) pay period of each month. The COUNTY agrees that
+new or changed UNION payroll deduction authorizations submitted within the timeliness above will be
+deducted from the next issued paycheck for the previous applicable pay period.
+
+Section 6 – Monthly Audit
+
+The COUNTY agrees to run an audit comparing the full list of all represented bargaining unit employees
+with the list of employees who have authorized UNION deductions as provided for electronically by the
+UNION to the COUNTY by the second (2nd) Wednesday of the second (2nd) pay period of each month.
+
+
+
+
+### ARTICLE 3
+DUES DEDUCTION                                    13
+                                                                                              626 Agreement
+                                                                                                  2025-2028
+
+
+### ARTICLE 4
+                                              UNION RIGHTS
+Section 1 - Union Activity
+
+(A) The UNION or its representatives will have the right to conduct official UNION business on COUNTY
+    property at such times and in a manner which does not interrupt COUNTY operations or efficiency.
+    Nothing herein is to be construed as a right of an employee to leave their station without supervisory
+    approval. The UNION will conduct all business on other than COUNTY time except as expressly
+    authorized elsewhere in this Agreement.
+
+(B) The COUNTY agrees to furnish bulletin boards to be placed in designated places in each work area.
+    The UNION will limit the use of such bulletin boards to the posting of notices of general interest and
+    UNION meetings, exclusive of objectionable material, and will maintain the bulletin boards in good
+    order.
+
+(C) The COUNTY agrees that the designated UNION Representative(s) will have reasonable access to
+    the premises of the COUNTY for the purpose of ascertaining whether this Agreement is being
+    observed. The UNION Representative will first report their presence and intentions to the Department
+    Director, or designated representative and will conduct their activities in a manner which avoids loss
+    of time or disruption of operation. All expenses incurred in the application of this provision will be
+    borne by the UNION unless other arrangements are made with the Department Director.
+
+(D) Employee members of the UNION bargaining team will not suffer loss in pay while participating in
+    bona fide negotiation sessions between the UNION and the COUNTY, provided, however, that the
+    number of such employees will be limited to four (4) at any one time.
+
+(E) The UNION will have access to COUNTY duplication equipment, upon appropriate prior approval, at
+    such times as it is available, at the applicable COUNTY rate. It is understood that COUNTY use will
+    take priority over UNION use of such equipment. Use will be by UNION members on their own time.
+
+(F) COUNTY employees have the right to join and participate in the activities of the UNION for the
+    purposes of representation and collective bargaining with the COUNTY on matters concerning
+    employment relations as long as a loss of time or disruption of COUNTY business is not incurred.
+
+(G) The COUNTY agrees that where, in the judgment of the COUNTY, its operations will not be seriously
+    disrupted, it will allow four (4) UNION Executive Board members to attend UNION Executive Board
+    Meetings. It will be understood that this will be limited to no more than six (6) meetings per year with a
+    maximum duration of one hundred twenty (120) minutes per meeting.
+
+(H) Any employee subpoenaed as a witness in any Employee Relations Board proceeding will not suffer
+    any loss of pay or benefits as a result of attending such proceeding.
+
+(I) In accordance with Article 6, Section 3 (E), any employee called as a witness by the UNION in an
+    arbitration proceeding under this Agreement will not suffer any loss of pay or benefits as a result of
+    participating in such proceeding. However, the COUNTY will not incur overtime or change an
+    employee’s schedule to be a UNION witness as a result of the proceeding.
+
+
+
+### ARTICLE 4
+UNION RIGHTS                                         14
+                                                                                                626 Agreement
+                                                                                                    2025-2028
+
+
+Section 2 – County-Union Meetings
+
+From time to time issues of mutual concern will arise which may need discussion between the COUNTY
+and the UNION. Such discussion, when practicable, will be held during regular working hours on
+COUNTY premises and without loss of pay to participating employees, provided that such employees will
+not exceed two (2) in number unless otherwise agreed to by the COUNTY. Notice of the prospective
+topics of discussion will be furnished with the request for a meeting.
+
+Section 3 - Information
+
+(A) The COUNTY agrees to furnish to the UNION, at no cost, an electronic copy of all regulations, and
+    copies of the Lane Code, Administrative Procedures Manual, Lane Manual and classification
+    specifications, including amendments and additions. Printed copies will be provided upon request at
+    no cost.
+
+(B) In response to reasonable written requests by the UNION, the COUNTY agrees to furnish information
+    related to employees represented by the UNION, provided the information is readily and reasonably
+    available to COUNTY Administration in the regular course of business and not exempt from public
+    disclosure.
+
+    (1) When the UNION submits to the COUNTY or any agent thereof a request for information, the
+        COUNTY shall quickly estimate the staff time required to obtain the requested information and
+        the number of copied pages that could be produced as a result of the request.
+
+    (2) If it is estimated that the information request will require a total of less than one (1) hour of staff
+        time to research, retrieve and/or compile the information as well as require one hundred (100) or
+        less copied pages, the UNION will not be charged for the information request.
+
+    (3) If it is estimated that the request will require one (1) hour or more of staff time to research,
+        retrieve and/or compile or require more than one hundred (100) copied pages, any response to
+        said information request will be suspended until such time as representatives of the COUNTY
+        and the UNION can meet to discuss the matter. The purpose of any such discussion will be to
+        provide the UNION an opportunity to clarify or modify its request as well as for the parties to
+        agree to charges that are reflective of operative COUNTY regulations or standard procedures.
+
+    (4) Likewise similar procedures would be applied to the COUNTY for any information request
+        submitted to the UNION, but in no event shall the UNION assess rates that exceed the
+        COUNTY's.
+
+Section 4 - Union Business
+
+(A) The COUNTY will grant one (1) UNION officer two (2) days off per month to conduct UNION business
+    during normal work hours. Such time will be in either full or one-half (1/2) day increments, scheduled
+    in advance and will be scheduled in such a manner as not to disrupt the normal operations of the
+    Department. The UNION will notify the Department Director, in writing, which UNION Officer is
+    authorized time off to conduct UNION business.
+
+
+
+
+### ARTICLE 4
+UNION RIGHTS                                          15
+                                                                                              626 Agreement
+                                                                                                  2025-2028
+
+
+(B) All costs associated with this time will be borne by the UNION, provided however:
+
+    (1) The UNION officer will remain on the COUNTY payroll for the hours spent in conducting UNION
+        business, and
+
+    (2) The UNION hereby authorizes the COUNTY, prior to transmittal, to reduce the monthly dues
+        deduction transmittal pursuant to Article 3 of this Agreement an amount equal to 150% of the
+        regular hourly rate of the UNION Officer for each hour the UNION Officer is conducting UNION
+        business pursuant to this Section.
+
+Section 5 - Protection of Rights
+
+(A) The parties will not interfere with, restrain or coerce employees in or because of the exercise of rights
+    guaranteed under ORS 243.650 to 243.782 or this Agreement and the COUNTY further agrees not to
+    dominate or interfere with or assist in the formation, existence or administration of the UNION or any
+    successor employee organization.
+
+(B) The parties agree that any acts described within this Section constitute Unfair Labor Practices under
+    ORS 243.672 and are subject to appeal and review by the Employment Relations Board pursuant to
+    Oregon Administrative Rules, Chapter 115, Division 35. Therefore, this Section is not subject to the
+    Arbitration Provisions (Step 4) of Article 6 GRIEVANCE PROCEDURE of this Agreement and further,
+    if an Unfair Labor Practice charge is filed, any grievance over the issue becomes null and void and
+    the issue will become subject exclusively to the applicable Oregon Revised Statutes and Oregon
+    Administrative Procedures.
+
+Section 6 - Officers and Stewards
+
+The UNION will provide a current list of its officers and stewards to the Labor Relations Manager, or
+designated representative. The UNION will notify the Labor Relations Manager, or designated
+representative, of changes to this listing in a timely fashion. The COUNTY will have no obligation to
+recognize or deal with any individual as an official representative of the UNION until five (5) days after any
+notification pursuant to this Section.
+
+
+
+
+### ARTICLE 4
+UNION RIGHTS                                         16
+                                                                                               626 Agreement
+                                                                                                   2025-2028
+
+
+### ARTICLE 5
+                                       DISCIPLINE AND DISCHARGE
+Section 1 - Causes for Discipline
+
+(A) An employee who has completed the probationary period as defined in Article 8 of this Agreement will
+    not be disciplined or discharged without just cause. In determining whether just cause exists, the
+    following seven tests must be met:
+
+    (1) Did the COUNTY forewarn the employee of possible consequences of misconduct?
+
+    (2) Was the rule or order involved reasonably related to the orderly, efficient, and safe operation of
+        the COUNTY?
+
+    (3) Before administering discipline, did the COUNTY make an effort to discover whether the
+        employee did, in fact, violate or disobey the rule or order?
+
+    (4) Was the COUNTY's investigation conducted fairly and objectively?
+
+    (5) In the investigation, did the COUNTY obtain a preponderance of evidence of the employee’s
+        misconduct?
+
+    (6) Has the COUNTY applied its rules, orders, and penalties evenhandedly and without
+        discrimination?
+
+    (7) Was the degree of discipline reasonably related to the seriousness of the offense and the
+        employee's record?
+
+(B) Disciplinary action will be accomplished in a manner which affords the employee the most protection
+    possible from embarrassment before other employees or the public.
+
+(C) Discipline will consist of one of the following:
+
+    (1) Documented Oral warning
+    (2) Written Reprimand
+    (3) Suspension
+    (4) Discharge
+
+(D) Disciplinary action will only be imposed upon an employee in relation to activities related to the
+    employee's ability to perform duties. Disciplinary action may be taken for activities that take place
+    outside of COUNTY premises on off-duty time only when the employee's ability and effectiveness to
+    perform duties is impaired.
+
+(E) Notice of disciplinary action shall normally be provided to the employee within fourteen (14) calendar
+    days from the date the COUNTY had, or should reasonably have had, knowledge of the occurrence
+    for which action is being taken. If, at the Department's discretion, an investigation is necessary, it shall
+    be initiated within fourteen (14) calendar days from the date the COUNTY had, or should reasonably
+    have had, knowledge of the occurrence and notice of charges and intended disciplinary action shall
+    be provided to the employee within fourteen (14) calendar days from the date the COUNTY
+
+### ARTICLE 5
+DISCIPLINE AND DISCHARGE                               17
+                                                                                                  626 Agreement
+                                                                                                      2025-2028
+
+
+    determines the investigation is complete. Calendar days shall not include any paid leave days. When
+    the Department notifies the individual that a formal investigation is being conducted which may result
+    in discipline, the Department will also notify the UNION and advise the UNION of anticipated length of
+    the investigation.
+
+(F) All documentation must be dated before inclusion in the official personnel file. Coaching and
+    counseling will be documented in the supervisory file.
+
+Section 2 - Pre-disciplinary Hearing
+
+When the COUNTY intends to take disciplinary action involving discharge or suspension, the COUNTY
+will notify the non-probationary employee and the UNION in writing of the charges against the employee
+and the proposed disciplinary action and will provide the employee with the opportunity to respond to the
+charges at a hearing with the person or person having authority to impose the proposed disciplinary
+action. In the event this proceeding is recorded, the COUNTY will provide a copy of the recording and/or
+transcript to the UNION.
+
+(A) The non-probationary employee whose discipline involving discharge or suspension is being
+    considered will be granted fourteen (14) calendar days or more by mutual agreement to prepare for
+    the disciplinary hearing.
+
+(B) The employee will be entitled to have a representative of their choosing at the pre-disciplinary
+    hearing.
+
+Section 3 - Effective Date of Discipline
+
+Once an employee has received official notification of any disciplinary action, such action will be final
+subject to the grievance procedure, Article 6 of this Agreement.
+
+Section 4 - Extension of Time
+
+Extensions to the time limits will be permitted under the following circumstances:
+
+(A) The time limits set forth in this article may be extended by mutual agreement in writing or via
+    electronic communication.
+
+(B) If the employee, the supervisor or any other directly involved individual is unavailable to properly
+    investigate or deliver disciplinary action the incident due to illness or vacation, the time limits specified
+    herein will be extended by the number of days the individual(s) specified are unavailable.
+
+(C) If the incident(s) giving rise to the potential disciplinary action involves alleged criminal activity or an
+    external regulatory agency initiates an investigation, the time limits specified in this article will
+    commence at the close of any related criminal investigation and/or legal action.
+
+
+
+
+### ARTICLE 5
+DISCIPLINE AND DISCHARGE                                18
+                                                                                            626 Agreement
+                                                                                                2025-2028
+
+
+### ARTICLE 6
+                                       GRIEVANCE PROCEDURE
+Section 1 - Purpose
+
+(A) The purpose of this procedure is to secure, at the lowest possible level, mutually acceptable solutions
+    to grievances which may arise from time to time affecting bargaining unit employees.
+
+(B) Should a disagreement arise concerning the interpretation or application of the provisions of this
+    Agreement, or as to the performance of the obligations herein, such disagreement will be settled
+    according to the terms hereinafter provided. An employee may request to be represented by the
+    UNION at any step in the procedure. Nothing in this Article shall preclude an employee from
+    representing themself at Steps 1, 2 and 3 of the grievance procedure, provided that the UNION is
+    notified by the COUNTY that a grievance has been filed and will provide copies of all grievances and
+    responses to the UNION. A matter shall be submitted to arbitration only by the UNION, and individual
+    employees shall have no right under this Agreement to proceed independently to arbitration.
+
+(C) "Date of occurrence" herein will mean the date the aggrieved party had or should reasonably have
+    had knowledge of the occurrence.
+
+(D) Notwithstanding the provisions of Step 1 below, it is understood that the aggrieved party is obligated
+    to attempt to resolve the matter informally; however, for the purpose of preserving time limits, the
+    aggrieved party may formally submit the particulars of the grievance to the applicable supervisor
+    pending conclusion of the informal attempt. Applicable supervisor will mean the first supervisory
+    person with the authority to respond with a proposed resolution on behalf of the COUNTY.
+
+Section 2 - Grievance Steps
+
+(A) STEP 1
+
+    (1) In accordance with Section 1 (D) of this article, the aggrieved party or designated representative
+        will first attempt to informally resolve the issue with the applicable supervisor. In the event such
+        attempt is unsuccessful, the aggrieved party or designated representative will refer the grievance,
+        in writing, to the supervisor within fourteen (14) calendar days of the occurrence of the grievance.
+
+    (2) The written grievance will include:
+
+        (a) A statement of the grievance and relevant facts;
+        (b) Applicable provisions of the contract; and
+        (c) Remedy sought.
+
+    (3) The supervisor will respond within fourteen (14) calendar days.
+
+(B) STEP 2
+
+    If the grievance cannot be resolved in Step 1 above, or the supervisor has not responded within
+    fourteen (14) calendar days, the grievance may be referred in writing no later than fourteen (14)
+    calendar days following the date of the Step 1 response or lack thereof to the applicable Division
+    Manager or designated representative. The Division Manager or designated representative will
+
+### ARTICLE 6
+GRIEVANCE PROCEDURE                                 19
+                                                                                               626 Agreement
+                                                                                                   2025-2028
+
+
+    investigate the particulars of the grievance and will attempt to resolve the issue or will furnish a
+    written reply within fourteen (14) calendar days.
+
+(C) STEP 3
+
+    (1) If, after proceeding through Step 2 above, the grievance is still unresolved, the aggrieved party or
+        designated representative may refer it to the Department Director no later than fourteen (14)
+        calendar days from the date of the Step 2 response or date when said response is due.
+
+    (2) The COUNTY's Labor Relations Manager and the Department Director or their designees, will
+        meet with the grievant and UNION representatives within fifteen (15) calendar days from the date
+        of referral to Step 3.
+
+    (3) Should the COUNTY be the aggrieved party, the matter will be introduced at this step.
+
+    (4) Any grievance which involves discharge, or is of a class action nature, may be introduced at this
+        step. For purposes of this Section, "class action nature" will refer only to those grievances that
+        directly impact a significant group or class of employees and which the employees' immediate
+        supervisor(s) does not have the authority to adjust.
+
+    (5) The COUNTY or the UNION will furnish a written response within fifteen (15) calendar days from
+        the Step 3 meeting.
+
+(D) STEP 4
+
+    If the Step 3 response from the COUNTY or the UNION is not acceptable, the UNION or the
+    COUNTY may submit the matter for arbitration and request a list of arbitrators from the State
+    Employment Relations Board within thirty (30) days of the COUNTY’s or UNION’s Step 3 response.
+
+Section 3 - Arbitration
+
+(A) In the event the respective representatives of the COUNTY and the UNION cannot agree to the
+    selection of an arbitrator within eight (8) calendar days, final selection will be accomplished with one
+    (1) party, to be determined by lot, first striking off one (1) of the seven (7) names submitted by the
+    State Mediation and Conciliation Service and thereafter the parties alternately striking names until
+    one name remains.
+
+(B) The arbitrator will have no authority to add to, subtract from, alter, modify, amend, vacate or change
+    any terms or conditions of this Agreement, to substitute their judgment for that of either party in any
+    instance where the parties have exercised their rights under the terms of this Agreement, nor will the
+    arbitrator decide on any condition which is not specifically treated in this Agreement.
+
+(C) The Award of the Arbitrator may or may not include back pay provided, however, that any back pay
+    award will not be in excess of the amount of salary actually lost during the period from fourteen (14)
+    days prior to the filing of the grievance and the date of implementation of the arbitrator's award less
+    any compensation that the employee actually received. The back pay limitations provided for in this
+    paragraph will not apply, if the cause of the back pay liability is the COUNTY's failure to provide the
+    information required pursuant to Article 4, Section 3 of this Agreement.
+
+### ARTICLE 6
+GRIEVANCE PROCEDURE                                   20
+                                                                                                626 Agreement
+                                                                                                    2025-2028
+
+
+(D) The decision of the arbitrator will be submitted within thirty (30) calendar days following the
+    presentation of the case, and such decision will be final and binding on both parties.
+
+(E) The COUNTY and the UNION agree that the loser of the arbitration will pay the full expenses and
+    arbitration fees of the arbitrator only; the COUNTY and the UNION will assume individual liability for
+    the cost of their respective witnesses.
+
+(F) The arbitrator will identify the losing party in the arbitration hearing and so state in the written decision
+    to both parties.
+
+(G) Whenever possible, the UNION will provide at least seventy-two (72) hours advance notice to the
+    Division Manager whenever an employee will be called to testify for the UNION in arbitration or
+    Employee Relations Board proceedings.
+
+(H) Unless mutually agreed by the parties, arbitration hearings will be conducted on other than normal
+    work hours.
+
+Section 4 - General Provisions
+
+(A) All meetings and hearings under this procedure will be kept informal and private and will include only
+    such parties in interest and/or designated representatives as referred to in this Article.
+
+(B) All information relative to the grievance and resolutions accomplished via the procedure will be
+    considered exempt from public disclosure to the extent allowed by law.
+
+(C) The UNION will designate authorized representatives as provided in Article 4, Section 6 to act as
+    Stewards in the investigation and processing of grievances on behalf of the UNION and will notify the
+    COUNTY of any changes in such authorization.
+
+(D) All grievance proceedings and reasonable investigation time, where practicable, will be held during
+    regular work hours, on COUNTY premises and without loss of pay or recrimination to the aggrieved
+    party and one (1) designated representative. It is understood that the COUNTY will not incur overtime
+    liability as a result of such proceedings or investigation. Time used for investigation of grievances
+    must be requested in advance and approved by the employee's immediate supervisor. The supervisor
+    will not unreasonably deny any such request.
+
+(E) A grievance may be terminated at any time by a written request from the aggrieved party, or duly
+    designated representative. A grievance settlement without UNION concurrence will not prejudice any
+    position taken by the UNION during the grievance proceedings. The parties agree to document any
+    grievance settlement.
+
+Section 5 - Time Limits
+
+(A) Any time limit in this Article may be extended for reasonable cause by mutual agreement and be
+    binding on both parties. Such agreement, when practicable, will be done via email. Failure by the
+    aggrieved party and/or designated representative to properly observe time limits as stated without
+    such agreement will cause the grievance to become null and void. A grievance settled pursuant to this
+
+
+
+### ARTICLE 6
+GRIEVANCE PROCEDURE                                    21
+                                                                                         626 Agreement
+                                                                                             2025-2028
+
+
+    paragraph will not constitute a precedent for any future grievance.
+
+(B) Should an aggrieved party or grievance respondent be absent from the workplace, time limits will be
+    extended by the same number of days the individual is absent.
+
+(C) Should the appropriate management personnel fail to respond to the grievance at any level within the
+    time limits prescribed, exclusive of the provisions of paragraph (A) above, the grievant may
+    immediately appeal to the next higher step in the procedure.
+
+
+
+
+### ARTICLE 6
+GRIEVANCE PROCEDURE                                 22
+                                                                                            626 Agreement
+                                                                                                2025-2028
+
+
+### ARTICLE 7
+                                         GENERAL PROVISIONS
+Section 1 - Employee Information
+
+(A) The COUNTY agrees to furnish each new employee of the bargaining unit pertinent information
+    regarding benefits.
+
+(B) The COUNTY agrees to make readily accessible to employees copies of Departmental Manuals.
+
+Section 2 - Personnel File
+
+(A) The COUNTY will maintain records relative to each employee's performance, promotion, discipline,
+    substantiated, unfounded or exonerated complaints and other matters relative to the status of an
+    employee, such records collectively to be referred to as the Personnel File. There will only be one (1)
+    official Personnel File and that file will be maintained in Human Resources. The official Personnel File
+    will be available to the employee and their designated representative for review and copying. Upon
+    request, the employee will be furnished with a copy of documents in the Personnel File and will be
+    charged the current established rate for copies in excess of ten (10) pages.
+
+(B) Employees will be made aware of all documents placed in their Personnel File. Any member of the
+    bargaining unit who disagrees with the content of a document which is critical of the employee placed
+    in said Personnel file may prepare a written rebuttal and have such rebuttal document placed in their
+    Personnel File provided that such documentation be submitted to Human Resources via the
+    Department Director within fourteen (14) calendar days of the date stated on such negative
+    document. Employees will further have the right to add job-related documents pertinent to their
+    employment to their Personnel File provided that such documentation is submitted to Human
+    Resources via the Department Director. The Department Director must submit said documentation to
+    Human Resources within five (5) days of receipt.
+
+(C) It will be understood that any document added to an employee's official Personnel File, without the
+    employee's knowledge, will not be considered against the employee in any action affecting said
+    employee.
+
+Section 3 - Expense Reimbursement
+
+(A) Employees required by the COUNTY to remain overnight outside their immediate area of residence
+    will receive reasonable reimbursement of actual expenses incurred for lodging and meals, provided
+    however, that reimbursement for meals will not normally exceed the rate granted in the Administrative
+    Procedures Manual, unless prior approval is secured from the Department Director.
+
+(B) Receipts for lodging expenses are to be turned in with the report of expenses incurred.
+
+(C) Employees required to use personal vehicles in the performance of job duties, or who are required to
+    work at a location other than their established reporting place, will be reimbursed mileage expenses
+    at the then current rate as established by the Board of County Commissioners.
+
+(D) Employees required to attend conferences, seminars or training sessions, outside the COUNTY, will
+    be entitled to reimbursement of meal expenses when such meals are not provided as part of the
+
+### ARTICLE 7
+GENERAL PROVISIONS                                  23
+                                                                                           626 Agreement
+                                                                                               2025-2028
+
+
+    conferences, seminars or training sessions subject to the following:
+
+    (1) Breakfast: When the employee must travel to a conference, seminar or training session location
+        more than one (1) hour in advance of normal departure time.
+
+    (2) Lunch: When the conference, seminar or training session spans the employee's normal lunch
+        break or when the conference, seminar or training session ends immediately before or starts
+        immediately after the employee's normal lunch break.
+
+    (3) Dinner: When the employee must travel from the conference, seminar or training session located
+        more than two (2) hours after normal quitting time.
+
+(E) Employees will exercise good judgment and particular regard for economy while traveling or incurring
+    reimbursable expenses in connection with COUNTY business. Any expense for which an employee
+    requests reimbursement will be accompanied by a receipt and should directly and clearly relate to the
+    conduct of COUNTY business.
+
+(F) The amounts provided for as expense reimbursement under this Article will not be less than those
+    established by the Board of County Commissioners and listed in the Administrative Procedures
+    Manual.
+
+Section 4 - Work Rules
+
+The COUNTY will furnish the UNION a copy of all work rules and regulations in writing in a timely manner,
+including but not limited to, Administrative Procedures Manual (APM), Public Works Employee Handbook,
+Safety Policies and Procedures, and Lane County Public Works Policies and Procedures. The COUNTY
+will make copies available to all employees.
+
+Section 5 - Personal Gear
+
+(A) The COUNTY will reimburse non-probationary regular and promotional probationary regular
+    employees up to four hundred dollars ($400) in a fiscal year (July 1 – June 30) for work-related
+    personal gear, such as gloves, boots and rain gear.
+
+(B) The COUNTY will reimburse probationary regular employees up to four hundred dollars ($400) in a
+    fiscal year for work-related personal gear, such as gloves, boots and rain gear. If an employee
+    voluntarily separates prior to the completion of the probationary period, the employee will reimburse
+    the COUNTY a prorated amount of the expenditure, based on the length of service after receiving the
+    funds. Employees receiving this reimbursement will authorize the COUNTY to deduct the
+    reimbursement amount from their final paycheck deduction and/or seek reimbursement by other
+    means in accordance with Oregon wage law.
+
+(C) The COUNTY may require that employees wear such work-related personal gear.
+
+(D) Questions concerning the adequacy of work-related personal gear will be referred to the
+    Department’s Safety Committee. The decision of the Department’s Safety Committee will be binding
+    on the COUNTY and the employee.
+
+
+
+### ARTICLE 7
+GENERAL PROVISIONS                                  24
+                                                                                          626 Agreement
+                                                                                              2025-2028
+
+
+(E) Employees must submit proof of purchase for reimbursement no later than July 15 of each year to
+    receive reimbursement for the items purchased in the previous fiscal year period.
+
+Section 6 - COUNTY Provided Gear
+
+(A) The COUNTY will provide any required special gear, such as hip boots, chest waders, rubber gloves,
+    and metatarsal guards, which is required for special work activities. The COUNTY will maintain at all
+    times the functional quality of protective gear or equipment furnished by the COUNTY.
+
+(B) All special gear must be returned to the COUNTY in reasonable condition following use. Employees
+    will be charged the then-current replacement rate for equipment or gear not returned.
+
+Section 7 - Uniform Allowance
+
+When the COUNTY requires employees to wear uniforms, the COUNTY will provide the employee with
+the uniform.
+
+Section 8 - Hand Tools
+
+The COUNTY will continue to issue appropriate hand tools as deemed necessary by the COUNTY for the
+performance of the job, provided, however, that such tools will be used for COUNTY business only and
+that the employee will be charged the then current replacement rate for tools not returned in reasonable
+condition.
+
+Section 9 - Licenses
+
+(A) Employees will provide and maintain any licenses required as a general condition of employment in
+    their classification at their own expense. The COUNTY will reimburse employees who are required to
+    hold a Commercial Drivers’ License (CDL) for the cost of renewal.
+
+(B) The cost of any licenses or endorsements required of employees for their job, but not normally
+    required of their classification, will be borne by the COUNTY.
+
+(C) An employee who fails to maintain a license that is required as a general condition of employment of
+    their classification or who has a license suspended will be subject to applicable loss of license
+    procedures in the Public Works Policies and Procedures and Administrative Procedures Manual. If
+    the employee’s license in revoked, suspended or becomes otherwise invalid for a period of ninety
+    (90) calendar days or less, the employee may use any and all applicable earned leave, if available,
+    for the time the employee is off the job, if any.
+
+
+
+
+### ARTICLE 7
+GENERAL PROVISIONS                                 25
+                                                                                             626 Agreement
+                                                                                                 2025-2028
+
+
+### ARTICLE 8
+                                        SELECTION/PROMOTION
+Section 1 - Job Posting
+
+Each vacant bargaining unit position, except those filled by lateral transfer, will be posted for employment
+applications.
+
+Section 2 - Veteran Preference
+
+The UNION and the COUNTY agree that veteran preference applies to all positions represented by
+UNION when a competitive process is being followed, whether a job is posted internally or externally.
+Further, the UNION and the COUNTY agree that all veterans who meet the minimum qualifications and
+any special qualifications will receive an employment interview.
+
+Section 3 - Legal Requirements
+
+The COUNTY and the UNION both recognize that there may be a legal requirement to place an
+employee into a position due to the reinstatement rights of an injured worker, an employee returning from
+military or other protected leave, a court order, an accommodation under the Americans with Disability
+Act, or similar mandated rights that may take precedence over the provisions of this Article.
+
+Section 4 - Promotional Preference
+
+Regular, non-probationary, bargaining unit employees who complete an official employment application
+during the internal posting period and who meet the minimum qualifications for the classification will be
+eligible for promotional preference for all bargaining unit positions, subject to the following:
+
+(A) A minimum of three (3) eligible applicants apply for the position during the internal recruitment period
+    below.
+
+(B) If an internal applicant is offered a promotional position and declines, they cannot apply for the same
+    classification for which they declined for a period of twelve (12) months.
+
+(C) Promotional preference eligibility will be based on: (a) meeting the minimum qualifications for the
+    classification and (b) scoring at least seventy (70) points on an examination and/or questionnaire as
+    determined by the COUNTY to be appropriate for the vacant position. The weight of a questionnaire
+    and/or examination will be one hundred (100) points.
+
+(D) All employees who achieve a score of at least seventy (70) points will receive seniority points at the
+    rate of two (2) points for each full six (6) months of employment up to a maximum of sixty (60) points
+    (15 years of service).
+
+(E) All employees on layoff status will be given an opportunity to apply for any bargaining unit vacancy in
+    any classification which has a salary range above that of their previous classification and for which
+    they are qualified. When applying for the vacant bargaining unit position, the employee on layoff
+    status will be eligible as an in-house candidate, subject to the provisions above.
+
+
+
+### ARTICLE 8
+SELECTION/PROMOTION                                  26
+                                                                                                626 Agreement
+                                                                                                    2025-2028
+
+
+(F) The examination will be offered for each vacant, posted position. Any bargaining unit employee who
+    has taken the examination for a previous vacancy in the same classification and Division as the
+    current vacancy within the previous six (6) months may elect to submit their previous score to
+    compete for the current vacancy.
+
+(G) All internal applicants that meet the promotional preference as specified above in Section 4 (B) and
+    all internal veterans who meet the minimum qualifications and special qualifications will be referred to
+    the appointing authority for an employment interview.
+
+(H) When an employee is promoted they will be placed at the appropriate step as determined by a wage
+    analysis, or at the step in the higher classification that would constitute at least a five percent (5%)
+    increase over the employee’s current salary, whichever is greater.
+
+Section 5 - Internal Recruitment
+
+(A) Human Resources will send a notice to all employees each week with information on the current
+    Internal Job Opportunities. The notice will be sent electronically; however, in sections of the County
+    where employees do not have access to computers, supervisors will post the notices in a central
+    location within two (2) business days. Employees who will be absent from work for more than one (1)
+    week have a responsibility to notify Human Resources in writing or via e-mail of where they may be
+    reached if they want to be considered for any transfer or promotional position.
+
+(B) Lateral transfers may generally only be made from one authorized position to another within the same
+    salary grade.
+
+(C) Lateral transfers for probationary and non-probationary regular employees will only be considered
+    when a position becomes vacant unless there are two (or more) transfer candidates who can "trade"
+    positions.
+
+(D) An employee may submit a written request for lateral transfer or voluntary demotion, clearly
+    explaining the employee's interests, to the manager of the Division to which transfer is desired. The
+    request must be received before a position is posted in order for a transfer to be considered.
+
+(E) When an opening occurs in the appropriate salary grade, transfer or voluntary demotion candidates
+    will be interviewed for the position before the position is posted outside.
+
+(F) When a vacancy occurs, order of internal recruitment will occur as follows:
+
+    (1) Lateral Transfer: Human Resources will contact eligible employees in accordance with paragraph
+        (B) above to determine employees’ interest in lateral transfer to the specific position. All
+        employees indicating interest within five (5) business days will be referred to the department for
+        an informal interview.
+
+    (2) Promotion: If no eligible employees are selected for lateral transfer, Human Resources will post
+        the position internally and notify employees as described in paragraph (A) above. All employees
+        indicating interest in the position within the posting period will be referred to the hiring authority.
+        The posting period will be no less than seven (7) and no more than fourteen (14) days,
+        determined at the time of posting. Lateral transfer, promotional and veteran’s preference
+        candidates will be referred for interview before posting the vacancy for Outside Recruitment. If
+### ARTICLE 8
+SELECTION/PROMOTION                                    27
+                                                                                                 626 Agreement
+                                                                                                     2025-2028
+
+
+        three (3) or more bargaining unit candidates qualify for promotional preference and express
+        interest in a vacant position, only bargaining unit candidates will be referred for an employment
+        interview up to a maximum of five (5) candidates.
+
+    (3) Recall: If no eligible employees are selected for lateral transfer or promotion, Human Resources
+        will contact persons eligible for recall per the provisions of Article 16, Section 3.
+
+(G) Divisions are not required to fill a position with a transfer, promotional or voluntary demotion
+    candidate. They may elect to post the position pursuant to Section 6 of this Article.
+
+Section 6 - Outside Recruitment/Referral
+
+(A) Outside recruitment means solicitation of applications through a public posting open to any qualified
+    person.
+
+(B) If no candidates are selected through the process outlined under Internal Recruitment or fewer than
+    three (3) qualified employees apply for promotion and receive a score of seventy (70) points on the
+    examination or Supplemental Questionnaire, the COUNTY will be free to recruit candidates from
+    outside the bargaining unit. For each outside recruitment, candidates from all sources, including all
+    promotional candidates who scored a minimum of seventy (70) points on the examination and/or
+    supplemental questionnaire will be referred to the hiring authority in the order of their total score as
+    determined by Section 2 (C), above. Other promotional candidates who meet the minimum
+    qualifications for the classification will be placed in the list of potential candidates in the order of their
+    score on the examination and/or supplemental questionnaire only. The top five (5) candidates from all
+    sources and all veterans who meet the minimum qualifications and special qualifications will be
+    referred to the appointing authority for an employment interview.
+
+(C) If one (1) or more candidates for an authorized, budgeted 1040-hour temporary position served in the
+    same position within the preceding twelve (12) months, AND if the performance was considered
+    successful by COUNTY and documented as such, THEN the COUNTY may fill the position directly
+    with the candidate without posting a recruitment announcement and without a competitive process.
+
+(D) The appointing authority may select any one of the candidates referred.
+
+Section 7 - Probationary Period
+
+(A) The probationary period is an integral part of the employee selection process and provides the
+    COUNTY and the probationer an equal opportunity to observe each other to determine the desirability
+    of a continued working relationship. As part of the selection process it likewise provides each with an
+    equal opportunity to discontinue that working relationship at any time during the established
+    probationary period.
+
+(B) The COUNTY reserves the right, as part and parcel of the selection process, to reject any
+    probationary employee during the initial probationary period without recourse, if in the COUNTY's
+    opinion such rejection is in the best interest of the COUNTY. In the event of the rejection of a
+    probationary employee, the COUNTY will notify such employee two (2) weeks prior to the effective
+    date of such rejection, or at the option of the COUNTY, will provide two (2) weeks' pay in lieu of such
+    notice.
+
+### ARTICLE 8
+SELECTION/PROMOTION                                    28
+                                                                                             626 Agreement
+                                                                                                 2025-2028
+
+
+
+
+(C) New employees employed in regular classifications represented by the UNION will serve a
+    probationary period of twelve (12) continuous months worked in that classification. Limited
+    Duration employees will serve a continuous probationary period for the duration of the appointment.
+
+(D) This Section will apply to part-time bargaining unit employees as follows:
+
+    (1) Part-time bargaining unit employees who are regularly scheduled to work year-round between
+        520 and 1040 hours per year in positions which otherwise meet the definition of “regular
+        employee” under the terms of this Agreement will serve a probationary period of 520 hours
+        worked or six (6) months, whichever is longer.
+
+    (2) After completion of the probationary period, such employees will be considered non- probationary
+        employees for the purpose of determining rights and benefits under this Agreement, except that
+        they will not be considered eligible and qualified for insurance benefits provided under Article 12,
+        Sections 1 and 4 of this Agreement.
+
+(E) Employees who are transferred from one position to another, but do not change classification, or
+    moved to a different classification due to a layoff will not serve a probationary period.
+
+(F) Notwithstanding paragraph E above, employees who are promoted, demoted, or transferred to
+    another classification they have not previously held will serve a new six (6) month probationary
+    period. Such employees, who fail, as determined by the COUNTY, to satisfactorily meet the
+    requirements of the new position or classification, at any time during the probationary period, will be
+    returned to the previously held position or classification. Employees rejected during probation will not
+    be eligible to compete for a position in the same classification for a period of eighteen (18) months.
+
+(G) Notwithstanding (F) above, employees who transfer into the Road Maintenance Trainee or the Solid
+    Waste Trainee classification will serve a new twelve (12) month probationary period. If an employee
+    obtains their CDL prior to the twelve (12) month probationary period, they will have completed their
+    probationary period as a Road Maintenance Trainee or Solid Waste Trainee, provided they completed
+    the initial twelve (12) month probationary period as a Road Maintenance Worker or Solid Waste
+    Worker. Such employees who fail, as determined by the COUNTY, to satisfactorily meet the
+    requirements of the new position or classification, at any time during the probationary period, will be
+    returned to the previously held position or classification, so long as the employee met the
+    probationary period of the previously held position.
+
+(H) Any probationary employee not notified of performance deficiencies noted during the first one-half
+    (1/2) of the probationary period may assume such performance has been acceptable to date. It is
+    understood that such acceptable performance does not presume continued employment for the
+    balance of the probationary period.
+
+Section 8 – Flex Staff Series
+
+After an employee has been employed at the entry level in a flexibly staffed classification for a period of
+one (1) year, the employee will be advanced to the journey level subject to the following:
+
+(A) The employee remains in the same position number.
+
+### ARTICLE 8
+SELECTION/PROMOTION                                  29
+                                                                                             626 Agreement
+                                                                                                 2025-2028
+
+
+(B) The employee meets the minimum qualifications for the journey level.
+
+(C) The employee has successfully completed training necessary to perform the duties of the journey
+    level.
+
+(D) Upon moving from the entry level to the journey level, an employee shall be placed at the appropriate
+    step in the journey level pay grade as determined by a wage analysis, or at the step on the new
+    salary grade that results in at least a five percent (5%) increase, whichever is greater.
+
+(E) Flexibly staffed classifications are those classifications identified in Attachment B.
+
+
+
+
+### ARTICLE 8
+SELECTION/PROMOTION                                   30
+                                                                                             626 Agreement
+                                                                                                 2025-2028
+
+
+### ARTICLE 9
+                                   HOURS OF WORK AND OVERTIME
+Section 1 - Workday/Workweek
+
+The workday is defined as twenty-four (24) hours commencing at 0000 hours. The workweek is defined
+as seven (7) consecutive workdays in the calendar week commencing at 0000 hours on Saturday and
+ending at 2359 hours on the following Friday.
+
+Section 2 - Normal Work Schedule
+
+An employee will normally receive two (2) consecutive days off, but not necessarily in the same
+workweek.
+
+Section 3 - Employee Work Schedule/Reporting Place
+
+(A) It is recognized that the COUNTY may, from time to time, find that changes in individual or
+    operational work schedules and\or reporting place are in the best interest of governmental operations.
+    It is agreed that the COUNTY may make such changes, provided that except in the case of
+    emergency, the COUNTY will notify the affected employee ten (10) calendar days prior to
+    implementation of such changes. An employee may waive the ten (10) day notice requirement. Such
+    waiver will be in writing.
+
+(B) Temporary work schedule and\or reporting place changes for the purpose of meeting statutory
+    requirements will not be subject to the provisions of this Section. Emergency is defined as any
+    unforeseeable circumstance or situation requiring the presence of personnel to conduct COUNTY
+    business as deemed necessary by the COUNTY.
+
+(C) Work schedules and\or reporting place will not be temporarily changed for the purpose of avoiding the
+    wage provisions of this Agreement.
+
+(D) It is understood that employees will not have the privilege of selecting work schedules and\or
+    reporting place; however, the COUNTY will make a good faith attempt to avoid making changes to
+    work schedules which result in an expressed undue hardship to affected employees and will, within
+    operational limitations, consider requests for shift and\or reporting place preference. The COUNTY
+    will have the final decision in all cases.
+
+(E) Employees will report to their regular place of reporting so as to begin work at the designated starting
+    time and will return to their reporting place so as to be off work by the designated quitting time.
+
+Section 4 - Alternate Work Schedules
+
+(A) In the event the COUNTY initiates work schedule changes resulting in a change in the number of
+    days per week or hours per day to be worked the COUNTY will include with the notice an explanation
+    of any changes in overtime calculations.
+
+(B) Employees may submit a written request to their supervisor for a permanent or semi-permanent
+    change in work hours and/or workdays of their work schedule. Such requests may provide for a four
+    (4), ten (10) hour day or a four (4), nine (9) hour day and one (1), four (4) hour day, or other
+
+### ARTICLE 9
+HOURS OF WORK AND OVERTIME                           31
+                                                                                               626 Agreement
+                                                                                                   2025-2028
+
+
+    schedules so long as the alternate schedule does not reduce or exceed the regular budgeted hours of
+    the position in a workweek.
+
+(C) When an employee works an alternate work schedule pursuant to (A) or (B) above, all hours worked
+    pursuant to the schedule will be considered regular hours and not subject to the overtime provisions
+    of this Agreement. It is agreed that in no event will an employee be required to work more than forty
+    (40) straight time hours in the workweek.
+
+(D) Supervisors will consult with managers and shall make a good faith effort to accommodate requests
+    for an alternate work schedule and will respond in writing within fourteen (14) days of the request and
+    if denied will include the reason. If an employee appeals a denial, the final decision to grant or deny
+    any request for an alternate work schedule will be at the sole discretion of the Department Director
+    and will not be subject to the grievance and arbitration provisions of this Agreement.
+
+Section 5 – Vegetation Operations During Fire Season
+
+(A) Staff working on vegetation management activities will be required to work early shifts to ensure
+    compliance with fire safety standards set by the State of Oregon Department of Forestry to perform
+    work including, but not limited to, safety strip mowing, full width mowing and roadside brush mowing
+    work.
+
+(B) All staff scheduled to perform this work will be assigned shifts commencing at 4:00 a.m. and
+    concluding at 2:30 p.m. Monday through Thursday.
+
+(C) Staff will be notified by the end of their shift on the day prior to the shift change when assigned to
+    vegetation work for these purposes.
+
+(D) Staff will be assigned to vegetation work based on their normal duties to provide as little disruption as
+    possible, but staff not normally assigned to these activities may be required to perform them under
+    the modified work schedule as needed to complete these activities.
+
+(E) This temporary scheduling will only be required during State regulated fire seasons, typically the
+    months of June through September.
+
+Section 6 - Overtime
+
+(A) When the COUNTY requires employees to work overtime, the following will apply:
+
+    (1) Authorized overtime work will be compensated by payment at the rate of one and one-half (1-1/2)
+        times the regular hourly rate. If the employee and the department agree, an equivalent credit of
+        compensatory time off may be given in lieu of the paid overtime.
+
+    (2) Except as modified by Section 4 above for full-time employees, except those who go into a leave
+        without pay status during the workweek, all paid time in excess of eight (8) hours in any one
+        workday, or forty (40) hours in any workweek, will be considered overtime work. Overtime will be
+        paid for all hours worked beyond the normal scheduled work hours.
+
+
+
+
+### ARTICLE 9
+HOURS OF WORK AND OVERTIME                            32
+                                                                                               626 Agreement
+                                                                                                   2025-2028
+
+
+    (3) For part-time employees and full-time employees who are not in a paid status for forty (40) hours
+        in a workweek, all additional hours worked will be paid on a one-to-one (1:1) basis up to forty (40)
+        hours per week. Hours over forty (40) will be considered overtime. Additionally, except as
+        modified by Section 4 above, all time worked in excess of eight (8) hours in a workday will be
+        considered overtime work.
+
+    (4) The COUNTY will be the sole judge as to the necessity, requirement and qualifications of
+        personnel to work overtime. The COUNTY agrees to recognize and consider seniority in regards
+        to overtime assignments.
+
+    (5) It is understood that for the purposes of overtime calculations, employees working shifts, which
+        overlap workdays, will be assumed to have completed their shift on the day in which it
+        commenced.
+
+    (6) Overtime will be compensated only once for the same hours worked.
+
+    (7) Overtime will be calculated based on actual time worked.
+
+    (8) Any employee, having worked on each of seven (7) consecutive days, will be paid at the rate of
+        two (2) times the regular straight time for all work performed on such seventh (7th) day.
+
+(B) Compensatory time off will generally be approved at the mutual convenience of the employee and the
+    COUNTY with the intent to avoid extensive accumulations of compensatory time.
+
+(C) If, in the opinion of the Department Director, an employee is not exercising good judgment and is
+    building excessive compensatory time accumulations, the employee may be scheduled to take the
+    accumulated time off and be required to use any additional compensatory time earned within the pay
+    period in which it is earned.
+
+(D) In order to maintain reasonable compensatory time off balances, on the first paycheck in December
+    of each calendar year, any compensatory time greater than forty (40) hours will be paid out, the
+    Department Director may review all balances and may elect to pay out excessive balances rather
+    than scheduling the employee to take time off pursuant to paragraph (C) above. At other times, an
+    employee may request payment for earned compensatory time off. All such payment will be one (1)
+    hour pay for each hour of compensatory time converted, at the employee's normal straight time rate.
+
+(E) Any unused accumulated compensatory time off will be paid out at the time of termination or transfer
+    to another division.
+
+(F) At the request of the UNION, three (3) UNION representatives will meet with an equal number of
+    COUNTY representatives to make a good faith effort to resolve overtime issues regarding six (6) and
+    seven (7) day per week operational schedules.
+
+Section 7 - Meal/Rest Periods
+
+(A) Employees will be allowed one (1) rest period of fifteen (15) minutes' duration in each one-half (1/2)
+    shift, which insofar as is practicable, will be in the middle of each half-shift, such time to begin when
+    the employee leaves their workstation and to end when the employee returns to their workstation.
+
+### ARTICLE 9
+HOURS OF WORK AND OVERTIME                            33
+                                                                                               626 Agreement
+                                                                                                   2025-2028
+
+
+(B) Employees who are required to work beyond their regular quitting time will be allowed a fifteen (15)
+    minute rest period before commencing overtime work provided that it can be reasonably foreseen that
+    such overtime will exceed two (2) hours' duration.
+
+(C) Unpaid meal periods will not be less than thirty (30) minutes, nor more than one (1) hour in duration.
+
+(D) Employees whose work schedule requires one-half (1/2) or more of their shift to be during the night
+    shift will receive a paid meal period not to exceed one-half (1/2) hour in duration and will be subject to
+    call by the COUNTY.
+
+(E) Employees required to work in excess of two (2) hours beyond their regular scheduled shift will be
+    granted a minimum of one-half (1/2) but not more than one (1) hour paid meal period. It is understood
+    that the duration of such periods will be determined by the COUNTY.
+
+(F) When the COUNTY has taken all possible steps to schedule deliveries to work with scheduled lunch
+    breaks and needs related to the proper application of chip seal and other paving materials, and
+    cannot ensure scheduled unpaid meal and break times as required by this Agreement without
+    severely impacting paving operations, employees will be paid for lunch and/or break time at the
+    applicable straight or overtime rate in accordance with this Agreement.
+
+Section 8 - Cleanup Time
+
+Employees will be afforded fifteen (15) minutes prior to the conclusion of the workday for the purpose of
+clean-up and preparation of personal work gear for the next day.
+
+Section 9 - Call Back/Reporting Time
+
+(A) Except as follows in this Section, an employee who is called back to work prior to their next
+    scheduled shift will be guaranteed a minimum of four (4) hours' work.
+
+(B) With regard to weather-related and/or "emergency" situations where the need to change schedules
+    cannot be predicted in advance, including sanding/snowplowing operations, the procedures below will
+    apply. Supervisors will make every effort to provide notice of shift change prior to the end of the
+    employee's previous shift:
+
+    (1) For purposes of this provision, the term "emergency" is defined as an unforeseeable
+        circumstance or situation requiring the presence of personnel to conduct COUNTY business as
+        deemed necessary by the COUNTY.
+
+    (2) If an employee is notified prior to the end of their regular shift that their schedule is to be changed
+        for their next shift, it will be considered a shift change for emergency reasons and will not result in
+        standby or call out pay. Overtime pay will only apply if the employee was assigned to work
+        beyond the end of the newly scheduled shift.
+
+    (3) If an employee is called out after the end of their shift and more than three (3) hours prior to their
+        next scheduled shift, it will be considered call out and the employee will be guaranteed three (3)
+        hours of pay.
+
+
+### ARTICLE 9
+HOURS OF WORK AND OVERTIME                            34
+                                                                                               626 Agreement
+                                                                                                   2025-2028
+
+
+    (4) If an employee is called out three (3) hours or less before the start of their next shift, the
+        employee will work the call out hours in addition to their regular shift and be eligible for overtime.
+        An employee who has been called out may request a shift change in order to leave work before
+        the end of their regular shift, in which case they will only be paid for the actual hours worked.
+        However, if a supervisor sends an employee home prior to the end of their regular shift, the
+        employee will receive their regular pay including overtime, through the end of their regular shift.
+
+(C) An employee who reports for work as scheduled and upon reporting finds no work available will be
+    guaranteed a minimum of four (4) hours' pay at the applicable straight or overtime rate. It is
+    understood that this provision will not apply if such employee has previously been told not to report
+    for work.
+
+(D) It is also understood that the provisions of this Section are applicable only to the extent that such
+    employees accept any work available.
+
+Section 10 - Shift Differential
+
+(A) Day shift will be any shift starting at or after 6:00 a.m. and ending prior to 6:00 p.m.; and the night
+    shift will be any shift starting at or after 6:00 p.m. and ending prior to 6:00 a.m.
+
+(B) Probationary and Non-Probationary regular employees will receive an additional three percent (3%)
+    differential over their regular hourly rate of pay for all time worked within the night shift.
+
+Section 11 - On-Call Time
+
+No bargaining unit employee will be required to accept work-related phone calls after normal working
+hours; nor be available for work or assignment on a standby basis, except as follows:
+
+(A) Any bargaining unit employee may be required to be available for work or assignment on an
+    occasional standby basis for expected emergency conditions or for effective COUNTY operations.
+    When requiring employees to be on standby, the COUNTY will pay such employees one (1) hour
+    regular wage per scheduled workday and two (2) hours per non-scheduled workdays as
+    compensation for standby time. If the individual is called to work, they will be paid for the actual hours
+    worked at the applicable straight or overtime rate in addition to the wage per day as compensation for
+    standby time.
+
+(B) As an alternative to Section 10 (A), when requiring an employee to be on standby, the COUNTY may
+    pay the employee out-of-class pay as a Lead Worker for all hours worked for the duration of the
+    assignment, not to exceed fourteen (14) consecutive days or fourteen (14) days in a twenty-eight (28)
+    day period, and provide the employee with an appropriately equipped COUNTY take home vehicle for
+    the duration of the assignment. Under this alternative to Section 10 (A), the employee will not receive
+    the one (1) hour regular wage per day as compensation for standby time and will be paid only the
+    actual hours worked at the applicable straight or overtime rate beginning with phone contact calling
+    the employee to work. Prior to any out-of-class assignment, the Division manager will, in cooperation
+    with the Human Resources Analyst, ensure the employee meets the minimum requirements for the
+    higher classification.
+
+
+
+
+### ARTICLE 9
+HOURS OF WORK AND OVERTIME                            35
+                                                                                           626 Agreement
+                                                                                               2025-2028
+
+
+(C) Except for calls or digital communication received from a supervisor or manager in response to an
+    oversight of the employee or being offered or notified of work, an employee who receives a phone call
+    or digital communication during off duty hours for the purpose of questions or inquiries on work-
+    related subjects will be compensated for a minimum of one-half (1/2) hour at the applicable straight or
+    overtime rate. If a phone call or digital communication exceeds one-half (1/2) hour in duration, the
+    employee will be compensated for the actual time of the call or digital communication exchange.
+
+
+
+
+### ARTICLE 9
+HOURS OF WORK AND OVERTIME                          36
+                                                                                             626 Agreement
+                                                                                                 2025-2028
+
+
+### ARTICLE 10
+                                                WAGES
+Section 1 - Salary Range Adjustments
+
+(A) The salary range for each presently established job classification is set forth in Schedule B.
+
+(B) Effective the first full pay period following July 1, 2025, current bargaining unit employees who are on
+    the payroll the first full pay period following ratification and approval by the Board of County
+    Commissioners, will receive a two point eight percent (2.8%) cost of living adjustment and the pay
+    ranges will be changed to reflect the increase.
+
+(C) Effective the first full pay period following July 1, 2026, compensation for each presently established
+    job classification will be increased by an amount equivalent to the CPI-U West region (Annual
+    Average) percentage for calendar year 2025, by no less than two percent (2.0%) and no more than
+    five percent (5.0%) rounded to the nearest tenth.
+
+(D) Effective the first full pay period following July 1, 2027, compensation for each presently established
+    job classification will be increased by an amount equivalent to the CPI-U West region (Annual
+    Average) percentage for calendar year 2026, by no less than two percent (2.0%) and no more than
+    five percent (5.0%) rounded to the nearest tenth.
+
+(E) Employees on the payroll on the date of the Board of County Commissioners’ approval of this
+    Agreement by the COUNTY will move to the new salary ranges and retain the step they held at the
+    time of the adjustment(s).
+
+Section 2 – Steps in Compensation Plan
+
+(A) The compensation plan will be based on an eight (8) Step schedule in the manner shown on
+    Schedule B.
+
+(B) The anniversary date for any employee to move between steps of the compensation plan will occur at
+    twelve (12) month intervals provided the employee has achieved a “competent” (“satisfactory”) or
+    better rating on their performance evaluation.
+
+(C) In the event an employee's evaluation is not completed within thirty (30) calendar days of when due,
+    the following pay period the employee will advance to the next higher step.
+
+(D) Employees in Extra Help positions will be placed on a step within the 626 Extra Help Salary Schedule
+    (Attachment D) using a wage analysis based solely on their experience working for Lane County.
+    Extra Help employees will advance one (1) step for each year they return if they worked a minimum
+    of two hundred eighteen (218) hours within the previous twelve (12) month period (since last hire date
+    or last step increase).
+
+Section 3 - New or Revised Classifications
+
+Should the COUNTY establish a new, or substantially modify an old or existing classification, the following
+will apply:
+
+
+### ARTICLE 10
+WAGES                                                37
+                                                                                                 626 Agreement
+                                                                                                     2025-2028
+
+
+(A) A proposed wage rate will be established by the COUNTY, and provided to the UNION.
+
+(B) The rate proposed by the COUNTY will be deemed as agreeable to the UNION at the end of two (2)
+    calendar weeks from the date of notice above unless the UNION requests negotiations for over the
+    proposed wage rate within that same period.
+
+(C) Should the UNION request to negotiate over the proposed wage rate, the procedures established in
+    Article 17, Section 2 will apply.
+
+(D) No new or modified classification will become effective until such time as both the UNION and the
+    Board of County Commissioners ratify the regular wage rate.
+
+Section 4 - Salary Protection
+
+No employee will incur a salary reduction because of the establishment of a new or by substantially
+modifying an existing classification pursuant to Section 3 of this Article.
+
+Section 5 - Out of Class
+
+(A) An employee temporarily assigned by a supervisor from a job at a lower rate of pay to a job
+    classification at a higher rate of pay for a period of no less than one (1) hour will be paid one-half (1/2)
+    of their shift at the higher rate, or if assigned by a supervisor for a period of no less than one-half (1/2)
+    of the employee’s shift (4 hours for an 8-hour shift, 5 hours for a 10-hour shift) will be paid for an
+    entire shift at the higher rate in accordance with normal promotional policy for all work performed in
+    the higher classification, provided that the employee is qualified to perform the higher classified work
+    and that such assignment is not for training purposes. It is agreed that employees will not be
+    assigned in a trainee status solely for the purpose of avoiding the provisions of this Section.
+
+(B) Employees will not be entitled to out of class claims while training.
+
+(C) All assignments in training will be as provided for in the Operator Training Program as provided for in
+    Article 14, TRAINING, of this Agreement.
+
+(D) It will be understood that whenever the COUNTY identifies the need to employ extra help, the current
+    regular staff will be given the opportunity to work out of class in the position identified for extra help. In
+    this case, working out of class assignments will be made subject to the following:
+
+    (1) Assignments will only be made within the division.
+
+    (2) Employee qualifications, including certification, will be determined by the COUNTY.
+
+    (3) Employees may reject the assignment.
+
+    (4) The COUNTY is not required to provide a ten (10) day notice of change of the reporting place.
+
+    (5) The COUNTY may terminate the working out-of-class assignment for inability to perform.
+
+
+
+
+### ARTICLE 10
+WAGES                                                  38
+                                                                                                626 Agreement
+                                                                                                    2025-2028
+
+
+    (6) Working out-of-class assignments will be for the duration of the project; however, if an employee
+        terminates assignment, the COUNTY may fill the position with extra help.
+
+    (7) Eligibility for these assignments will apply only to regular, non-probationary employees.
+
+    (8) No significant disruption of COUNTY operations.
+
+(E) When a County, State or Federal emergency is declared, or during an emergency as determined by
+    the Division Manager, employees who are assigned by a supervisor to perform associated duties
+    such as, but not limited to, winter events response, snow plowing, ice response or flooding response,
+    will receive a three percent (3%) differential for the duration of the assignment.
+
+(F) Any Mechanic 1 or Mechanic 2 working in the field without direct supervision will receive five percent
+    (5%) differential.
+
+(G) Employees in Solid Waste assigned lead responsibilities when a supervisor and/or Lead Worker are
+    offsite for one (1) hour or more will receive five percent (5%) differential for the duration of the onsite
+    assignment.
+
+Section 6 – Direct Deposit
+
+(A) All employees will have their payroll transmitted via direct deposit. Employees may view their payroll
+    information on Employee Self-Service.
+
+(B) Employees may continue to receive a printed payroll advice.
+
+(C) Direct deposit may be made to an unlimited number of financial institutions at any one time.
+
+(D) Payroll subject to direct deposit will normally be available in the morning of the Friday on which the
+    payroll is disbursed to employees.
+
+Section 7 – Deferred Compensation
+
+(A) For employees in regular positions the COUNTY will continue to contribute three percent (3%) of the
+    employee’s PERS subject wages into the COUNTY-sponsored deferred compensation account.
+
+(B) Effective January 1, 2026, each eligible and qualified new employee will be auto-enrolled in the
+    COUNTY’s deferred compensation program with an employee contribution of one percent (1%) of
+    their wage. Employees can choose to opt out of the contribution or increase the contribution amount.
+
+(C) It will be the responsibility of the employee to assure that their account does not exceed the maximum
+    allowed under IRS rules.
+
+Section 8 – Minor Payroll Adjustments
+
+When an employee receives an overpayment of wages in error, the COUNTY may deduct the amount of
+the overpayment from wages earned by the employee provided that:
+
+
+### ARTICLE 10
+WAGES                                                  39
+                                                                                         626 Agreement
+                                                                                             2025-2028
+
+
+(A) The deduction is for an overpayment that occurred during the 364-day period immediately preceding
+    the date on which the COUNTY provides to the employee the written statements as described below:
+
+    (1) The COUNTY provides the following to the employee at least ten (10) calendar days before
+        making the deduction;
+
+    (2) The COUNTY provides a written statement itemizing the overpayment amount and purpose of
+        each deduction;
+
+    (3) The written statement provides that in no event may the total amount of a deduction exceed five
+        percent (5%) of the employee’s gross pay each pay period, unless the employee otherwise
+        requests and specifies that a greater percentage or amount be deducted; and
+
+    (4) The written statement informs the employee that, if the employee is terminated or otherwise
+        separates from employment, the COUNTY can recoup the balance owed from the employee’s
+        final paycheck.
+
+(B) In the event Oregon law prescribes a different process than outlined above, the COUNTY will follow
+    the provisions of the law.
+
+Section 9 – Extra Help Premium Pay for CDL Use
+
+When the COUNTY employs an Extra Help employee who holds a Commercial Driver’s License (CDL),
+the employee will receive five percent (5%) premium pay for all hours worked.
+
+
+
+
+### ARTICLE 10
+WAGES                                              40
+                                                                                              626 Agreement
+                                                                                                  2025-2028
+
+
+### ARTICLE 11
+                                      LEAVE TIME AND HOLIDAYS
+Section 1 - Holidays
+
+(A) The following days will be recognized and observed as paid holidays subject to the provisions of
+    paragraphs (A) and (B) of this Section:
+
+         New Year's Day                        Martin Luther King's Birthday
+         President's Day                        (3rd Monday in January)
+           (3rd Monday in February)            Labor Day
+         Memorial Day                           (1st Monday in September)
+           (Last Monday in May)                Veteran's Day
+         Juneteenth                              (November 11)
+            (June 19)                          Thanksgiving Day
+         Independence Day                      Christmas Day
+
+(B) Qualifications
+
+    The above COUNTY holidays are to be paid holidays, but only for eligible and qualified employees.
+    For the purposes of this Article, an eligible and qualified employee will mean any non-probationary or
+    probationary regular employee who is in a County-paid status on their last scheduled workday prior to
+    and first scheduled workday following the holiday; and
+
+(C) Holiday Pay
+
+    (1) Full time eligible bargaining unit employees will be compensated for each holiday as follows:
+
+        (a) When a bargaining unit employee has requested and is regularly working on an alternate
+            work schedule while other employees within the same division are working a five (5) day,
+            eight (8) hour work schedule will have the option of reverting to a five (5) day, eight (8) hour
+            schedule on a week including a holiday or of remaining on the alternate schedule and using
+            two (2) hours of accrued Time Management or compensatory time to supplement the eight
+            hours of holiday time off.
+
+        (b) When bargaining unit employees are required by the COUNTY to work a four (4) day, ten (10)
+            hour work schedule or all of the bargaining unit employees within the Division are on a four
+            (4) day, ten (10) hour schedule, the eligible employees will receive ten (10) hours
+            compensation for the holiday.
+
+    (2) Part time eligible bargaining unit employees will be compensated for holidays on a pro rata basis
+        using the percentage of full time the employees’ hours paid in the previous two (2) pay periods as
+        a base.
+
+    (3) Compensation for holidays will be as per the following:
+
+        (a) Pay for each holiday which falls on a day the employee otherwise would work.
+
+
+
+
+### ARTICLE 11
+LEAVE TIME AND HOLIDAYS                              41
+                                                                                             626 Agreement
+                                                                                                 2025-2028
+
+
+         (b) In addition to compensation under (a) above, an employee required to work on a holiday will
+             receive one and one-half (1-1/2) times the regular straight time rate for all work performed on
+             the holiday. If the employee requests, alternate time off with pay at a mutually convenient
+             time will be granted in lieu of (a) above.
+
+    (4) Employees called to work on the holiday, but who do not report, will forfeit holiday pay unless
+        such absence is excused.
+
+(D) Holidays on Day off
+
+    Whenever a holiday will fall on an employees scheduled day off, the last normal workday before the
+    holiday or the first normal workday following the holiday (whichever is closer) will be designated as
+    the holiday. Whenever the holiday falls equally between workdays, the last workday before the
+    Holiday will be designated as the holiday.
+
+(E) Holiday During Leave
+
+    Should an employee be on authorized paid leave when a holiday occurs, such holiday will not be
+    charged against such leave or vacation.
+
+(F) Friday Following Thanksgiving
+
+    The Friday following Thanksgiving, though not to be construed as a holiday for pay purposes, will be
+    considered a day off with pay except for those employees required by the COUNTY to report for
+    work. Employees so required to work will be given an alternate day off at the mutual convenience of
+    the COUNTY and the affected employee. The alternate day must be taken between the Friday
+    following Thanksgiving and the end of the fiscal year.
+
+Section 2 - Time Management
+
+(A) Purpose
+
+    It is the purpose of the employee time management program to provide employees with a leave with
+    pay program that is easy to understand, minimizes impact to COUNTY operations, is responsive to
+    individual needs, and easy to administer.
+
+(B) Eligibility
+
+    This program covers all regular probationary and non-probationary employees in the bargaining unit.
+    Employees covered by these provisions will not be eligible for separate leave benefits covering the
+    following:
+
+    (1) Family Emergency
+    (2) Vacation Leave
+    (3) Sick Leave (non-occupational illness or injury leave, excluding disability leave)
+    (4) Personal Holidays
+
+
+
+
+### ARTICLE 11
+LEAVE TIME AND HOLIDAYS                              42
+                                                                                          626 Agreement
+                                                                                              2025-2028
+
+
+(C) Accumulation
+
+   (1) Eligible employees whose most recent hire date is on or before December 31, 2015 will
+       accumulate earned leave, based on full-time status, at the following rates:
+
+
+                                               Bi-Weekly Earned Leave
+          Months of Service
+                                               Accumulation
+          0-24 mos. (0-2 yrs.)                 7.077 hrs./pay period
+          25-48 mos. (2 to 4 yrs.)             8.000 hrs./pay period
+          49-108 mos. (4 to 9 yrs.)            8.923 hrs./pay period
+          109-168 mos. (9 to 14 yrs.)          9.846 hrs./pay period
+          169-228 mos. (14 to 19 yrs.)         10.769 hrs./pay period
+          229-288 mos. (19 to 24 yrs.)         11.692 hrs./pay period
+          289 mos. + (24 + yrs.)               12.615 hrs./pay period
+
+   (2) Eligible employees whose most recent hire date is on or after January 1, 2016 will accumulate
+       earned leave based on full time status, at the following rates:
+
+
+                                               Bi-Weekly Earned Leave
+          Months of Service
+                                               Accumulation
+          0 - 12 mos. (0 to 1 yr.)             6.154 hrs./pay period
+          13 - 24 mos. (1 to 2 yrs.)           7.077 hrs./pay period
+          25 - 48 mos. (2 to 4 yrs.)           8.000 hrs./pay period
+          49 - 108 mos. (4 to 9 yrs.)          8.923 hrs./pay period
+          109 - 168 mos. (9 to 14 yrs.)        9.846 hrs./pay period
+          169 - 228 mos. (14 to 19 yrs.)       10.769 hrs./pay period
+          229 - 288 mos. (19 to 24 yrs.)       11.692 hrs./pay period
+          289 mos. + (24 + yrs.)               12.615 hrs./pay period
+
+(D) Part Time Employees
+
+   Eligible, part-time employees will accrue and use time off under this program on a pro rata basis,
+   based upon the percent of full time equivalence authorized for the position.
+
+   (1) Usage
+
+       During the course of the year, absences from work for any reason other than on-the-job illness or
+       injury covered by Worker's Compensation, disability leave as provided for in Section 4 of this
+       Article, or paid holiday will be charged against the employee's accrued leave balance. Earned
+       leave will accrue whenever an employee is on pay status with the COUNTY. Employees do not
+       accrue earned leave when on leave without pay.
+
+   (2) All accrued time management and compensatory time will be used prior to requesting leave
+       without pay, this includes approved FMLA and/or OFLA leaves.
+
+
+### ARTICLE 11
+LEAVE TIME AND HOLIDAYS                            43
+                                                                                            626 Agreement
+                                                                                                2025-2028
+
+
+(E) Maximum Accumulation
+
+   An employee may accumulate earned leave, excluding the separate vacation balance, if any, to a
+   maximum of twice (2x) their current annual time management accrual. As of the end of the pay period
+   in which March 31 falls in each year, any employee credited with accrued leave greater than twice
+   (2x) their current annual leave accrual will forfeit that amount above their maximum accrual. An
+   employee who has acquired the maximum allowable accrual of earned leave may continue to
+   accumulate earned leave for the balance of the year in which the maximum accrual was reached,
+   provided, however, that the employee must take sufficient earned leave to reduce the accumulation to
+   the maximum allowable prior to the following March 31 or forfeit the excess.
+
+(F) Termination
+
+   After six (6) months of service, upon termination of an employee the employee's accrued time
+   management leave balance as of the date of termination will be paid out at fifty percent (50%) of the
+   balance at the current rate of pay.
+
+(G) Death
+
+   After six (6) months of service, in the event of the death of an employee, all accumulated earned
+   leave will be paid to the employee's personal representative at the current rate of pay.
+
+(H) Scheduling
+
+   (1) Employees will, whenever possible, request time-off in advance by at least fifty percent (50%) of
+       the requested time off. Use of such leave must be scheduled between the employee and the
+       COUNTY. When an employee is sick or an emergency occurs requiring their presence
+       elsewhere, the employee must notify their supervisor prior to the start of the employee’s shift,
+       unless circumstances prevent the employee from doing so. If there is a situation that requires the
+       employee to leave their worksite after the start of their scheduled shift, the employee shall notify
+       their supervisor prior to leaving the workplace as appropriate per workgroup (examples include,
+       but are not limited to: in-person, phone call, email, or text message).
+
+   (2) Substantiation of illness, injury or emergency may be required by the COUNTY when a pattern of
+       excessive use of time management without prior supervisor approval interfering with operations
+       has been documented. Failure to provide satisfactory substantiation may result in disciplinary
+       action pursuant to Article 5, DISCIPLINE AND DISCHARGE, of this Agreement.
+
+   (3) Supervisors shall respond in a timely fashion to written requests for leave. Requests for leave
+       shall be deemed to be approved if not denied within fourteen (14) days of receipt for requests
+       submitted more than two (2) months ahead, within seven (7) days for requests submitted two (2)
+       weeks to two (2) months ahead, and within fifty percent (50%) of advance time for requests
+       submitted less than two (2) weeks ahead. All leave requests shall be on a first come, first served
+       basis.
+
+   (4) Leave shall be scheduled by the COUNTY based primarily upon the needs of efficient operation,
+       the availability of relief, and being responsive to the needs of the employee to use earned leave.
+       Employees shall be responsible for planning and initiating requests for leave. Supervisors will
+       make a good faith effort to accommodate all leave requests. Requests made more than one (1)
+### ARTICLE 11
+LEAVE TIME AND HOLIDAYS                             44
+                                                                                             626 Agreement
+                                                                                                 2025-2028
+
+
+        week in advance or fifty percent (50%) of the time off requested, whichever is greater, will be
+        granted under normal circumstances, provided that the number of employees gone
+        simultaneously is not excessive. For purposes of the Section, the phrase “normal circumstances”
+        is not intended to apply to periodic times of high workload demands, but intended to apply to
+        consistent workloads that are quite heavy as result of layoffs or other general staffing shortages.
+
+(I) Conversion
+
+    (1) After six (6) months of service, employees may sell accrued time management hours subject to
+        the following restrictions:
+
+        (a) The maximum number of time management hours that can be paid out in a calendar year
+            cannot be greater than (80) hours.
+
+        (b) Funding must be available.
+
+    (2) Subsection (1) above notwithstanding, during the last three (3) years prior to PERS retirement
+        eligibility, employees may sell up to two hundred (200) hours per year of their annual leave
+        accrual at the current rate of pay. Extensions of an employee's scheduled retirement date
+        notwithstanding, no employee will be entitled to this benefit in more than three (3) years.
+
+(J) Layoff/Recall
+
+    (1) Employees laid off may sell back up to a maximum of eighty (80) hours of time management on a
+        one to one basis, including any time management they may have already sold back in that year.
+    (2) Employees who are recalled from layoff may buy back, within six (6) months of recall, all or part
+        of their previous time management balance at the rate in effect at the time they are recalled at the
+        same ratio at which they were paid out.
+
+Section 3 - Occupational Illness or Injury
+
+In the event of a leave of absence due to an illness or injury covered by Workers’ Compensation, the
+following will apply:
+
+(A) Employees in regular positions who sustain an injury or illness compensable by Workers’
+    Compensation and are unable to perform their assigned duties will be paid their regular salary, minus
+    any applicable employee contributions, for lost time the first ninety (90) calendar days of the
+    employee’s on the job illness or injury; thereafter as prescribed by Oregon Workers’ Compensation
+    Law. Such time shall not be charged against any earned leave balance.
+
+(B) In addition to employees serving in regular positions, Section 3 (A) will apply to part- time bargaining
+    unit employees who are regularly scheduled to work year round between 520 and 1040 hours per
+    year in positions which otherwise meet the definition of “regular employee” under the terms of this
+    Agreement.
+
+(C) In addition to employees serving in regular positions, Section 3 (A) will apply to Employees working in
+    an extra help or temporary capacity, up to a maximum of three (3) days per occurrence.
+
+
+
+### ARTICLE 11
+LEAVE TIME AND HOLIDAYS                              45
+                                                                                                   626 Agreement
+                                                                                                       2025-2028
+
+
+Section 4 – Paid Family Medical Leave
+
+(A) An employee who has a qualifying life event and is eligible, as defined by ORS 657B.010, or their
+    designee, must notify the COUNTY of the need to take Paid Family Medical Leave (PFML) leave
+    thirty (30) days before a foreseeable qualifying reason. In an emergency, an employee, or their
+    designee, must notify the COUNTY of the need to take PFML within twenty-four (24) hours of the
+    commencement of the leave and must provide written notice within three (3) days of starting leave.
+
+(B) As outlined in the Administrative Procedures Manual (APM) Chapter 3, Section 35, employee’s may
+    be eligible for a maximum of twelve (12) weeks of PFML per benefit year, with an additional two (2)
+    weeks for limitation related to pregnancy.
+
+(C) Replacement wages will be paid by the third-party absence manager. If the replacement wages do
+    not equal the employee’s gross base wage, the employee may choose to offset the reduction from
+    their regular pay by charging time to their accrued leaves.
+
+(D) Employees who are on PFML leave shall not accrue Time Management, however if employees
+    supplement PFML payments, they will accrue TM only on used accrued leave hours.
+
+(E) PFML and FMLA/OFLA leaves run concurrently, unless otherwise prescribed by law. See the
+    COUNTY’s APM for more information.
+
+(F) An employee who has been employed for at least ninety (90) calendar days is entitled to return to the
+    position they held prior to the start of leave if that position still exists. If the position no longer exists,
+    the employee must be restored to any available equivalent position with equivalent benefits, pay and
+    other terms and conditions of employment. If an equivalent position does not exist, layoff and recall
+    provisions under Article 16 of this Agreement will apply.
+
+Section 5 - Substantiation
+
+It is understood that any time off on disability leave pursuant to Section 4 of this Article may require
+substantiation to the satisfaction of the COUNTY prior to compensation. Failure to provide satisfactory
+substantiation will result in denying compensation and may result in disciplinary action pursuant to Article
+5, DISCIPLINE AND DISCHARGE, of this Agreement.
+
+Section 6 - Bereavement
+
+All regular employees will be paid for lost work as a result of a death in the employee's immediate family
+to a maximum of three (3) workdays (need not be consecutive), or if out-of-state travel is required, one (1)
+workweek, at the regular straight time hourly rate. The COUNTY may require verification of the family
+status. Immediate family will be defined as parent (biological, adoptive, step-parent, foster parent, or legal
+guardian), spouse, Domestic Partner, , parent of a domestic partner, sibling (biological, adoptive, step-
+sibling, foster sibling) child (biological, miscarriage or stillbirth, adopted, foster, step-child, or the child of
+an employee’s domestic partner), grandparent, grandparent in-law, great-grandparent, step-grandparent,
+grandchild, stepmother, stepfather, father-in-law, mother-in-law, son-in-law, daughter-in-law, brother-in-
+law, sister-in-law, grandparent-in-law, great-grandparent-in-law, parent of domestic partner, a person with
+whom the employee is or was in a relationship of in loco parentis, any other relative residing in the
+employee's immediate household, or any other relationships as identified in the Administrative
+
+### ARTICLE 11
+LEAVE TIME AND HOLIDAYS                                 46
+                                                                                             626 Agreement
+                                                                                                 2025-2028
+
+
+Procedures Manual. Leave must be taken within thirty twelve (12) months of death. An employee may
+also be entitled to OFLA bereavement leave. This OFLA bereavement runs consecutively to COUNTY
+paid bereavement leave and is unpaid unless the employee elects to use time management. OFLA
+bereavement leave must be taken within sixty (60) days of the date on which the employee receives
+notice of the death and only for those individuals recognized by OFLA as immediate family.
+
+Section 7 - Jury Duty
+
+An employee called for jury duty, or subpoenaed as a third party or state's witness in any municipal,
+County, state or Federal Court will, upon receipt by the COUNTY of all fees paid to the employee for such
+service, be reimbursed for loss of wages incurred as a result of such service. Employees called for jury
+duty on a day when they are not scheduled to work will be allowed to retain fees paid to the employee by
+the court for such service. The COUNTY will not change an employee's normal work shift because of jury
+duty. If an employee is released from jury duty at least two (2) hours before the end of their regular shift,
+they will be required to report to work or use accrued leave if requested and supervisor approved.
+
+Section 8 - Leave of Absence
+
+(A) Leave of absence for good cause may be granted by the COUNTY provided that such leaves do not
+    significantly disrupt normal COUNTY operations. Good cause will include, but will not be limited to,
+    the following reasons:
+
+    (1) Jury Duty
+    (2) Death in the Family
+    (3) Military Service
+    (4) Medical Reasons
+    (5) Peace Corps Service
+    (6) Union Business
+
+(B) Leaves of absence will be without pay except as specified elsewhere in this Agreement.
+
+(C) No payment for any leave of absence will be made until such leave has been properly approved.
+    Requests for such leaves will be in writing and applicable upon written receipt of approval from the
+    appropriate appointing authority stating the terms and conditions of the leave.
+
+(D) With the exception of military active duty, Peace Corps, and UNION leave granted in accordance with
+    Article 4, Section 1(F), a leave of absence without pay may not exceed ninety (90) calendar days,
+    subject to extension on approval of the County Administrator.
+
+(E) An employee who has been granted a leave of absence and who, for any reason, fails to return to
+    work at the expiration of said leave of absence, will be considered as having resigned, and the
+    position will thereupon be declared vacated; except and unless the employee, prior to the expiration
+    of the leave of absence, has furnished evidence of inability to return to work by reasons of sickness,
+    physical disability, or any other legitimate reason acceptable to the COUNTY beyond the control of
+    the employee and has received approval for an extension of such leave.
+
+
+
+
+### ARTICLE 11
+LEAVE TIME AND HOLIDAYS                              47
+                                                                                            626 Agreement
+                                                                                                2025-2028
+
+
+(F) Military Leave
+
+    (1) A regular status employee, or any other employee who has been employed by the COUNTY for
+        six (6) months or more, who is a member of the National Guard or of any reserve component of
+        the Armed Forces, is entitled to a leave of absence for a period not to exceed twenty-one (21)
+        workdays in any training year for annual active duty training. The training year coincides with the
+        Federal fiscal year (October 1 – September 30). The leave shall be granted without loss of pay or
+        other leave, and without impairment of other rights or benefits to which the employee is entitled,
+        provided the employee received bona fide orders to active or training duty for a temporary period,
+        provides them to the COUNTY, and returns to the COUNTY position immediately upon expiration
+        of the period for which the employee was ordered to duty. Employees may use accrued leave or
+        leave without pay to cover additional National Guard or reserve training leave, including weekend
+        training.
+
+    (2) Employees called for active duty will be granted leave without pay in accordance with State and
+        Federal law. See the COUNTY’s Administrative Procedures Manual for more information.
+
+    (3) If State or Federal law change during the life of the Agreement, notwithstanding (1) and (2)
+        above, the COUNTY will grant military leave in accordance with the updated law.
+
+Section 9 - Unexcused Absence
+
+Absence of an employee from duty, including any absence for a single day or part of a day, which is not
+authorized by a specific grant or leave of absence under the provisions of this Agreement, will be deemed
+to be an unexcused absence without pay and subject to disciplinary action, including discharge.
+
+Section 10 - Subrogation
+
+Any employee who sustains any illness or injury and continues to receive their regular wages from the
+COUNTY will be obligated to return to the COUNTY any payment they may receive reimbursing them for
+lost wages from a third party(ies). For example, if the employee is a victim in a motor vehicle accident and
+recovers lost wages from a third party(ies) or the third party's(ies) insurance carrier, the employee must
+reimburse the COUNTY for the disability wages paid to them by the COUNTY. In addition, it is recognized
+that the COUNTY has a right to initiate or join any proceedings against a third party(ies) to seek
+reimbursement of disability wages.
+
+
+
+
+### ARTICLE 11
+LEAVE TIME AND HOLIDAYS                             48
+                                                                                            626 Agreement
+                                                                                                2025-2028
+
+
+### ARTICLE 12
+                                      INSURANCE AND RELATED
+Section 1 - Types of Insurance
+
+(A) The COUNTY agrees to cover its eligible and qualified regular probationary and non-probationary
+    employees with certain insurance protection and related programs. Should the costs of such
+    programs increase during the life of this Agreement, or if new or improved benefits are instituted as a
+    result of legislative action, such cost increase will be covered by the COUNTY whenever such
+    charges become effective. The COUNTY agrees to notify the UNION at least thirty (30) days prior to
+    implementing any changes in any insurance or related benefit, unless such change is beyond the
+    COUNTY's control. Upon request, the COUNTY will meet with the UNION to explain such changes.
+    For the purposes of this Article, Employee + Other shall be defined as family including children,
+    spouse or domestic partner.
+
+    (1) Employee and dependent health insurance, with major medical services, also known herein as
+        the “Co-Pay” plan, or, at the option of the employee, a “High Deductible Health Plan”, with a
+        Health Savings Account (HSA) or a Health Reimbursement Arrangement via a voluntary
+        employees’ beneficiary association (HRA-VEBA), known herein as the “HDHP" for employees
+        whose most recent hire date is on or before December 31st, 2015.
+
+    (2) Employee and dependent health insurance, with major medical services, also know herein as the
+        Plus Plan, or, at the option of the current employee, High Deductible Health Plan known herein as
+        the “HDHP” for employees whose most recent hire date is on or after January 1, 2016.
+
+(B) Employee and dependent dental insurance.
+
+(C) Employee accidental death and dismemberment insurance in the amount of $25,000 or one times
+    annual salary, whichever is the greater. Employee term life insurance in the amount of $25,000 or one
+    times annual salary, whichever is the greater.
+
+(D) Employee long-term disability insurance to provide sixty-six and two thirds percent (66-2/3%) of gross
+    income after ninety (90) days of disability, not to exceed the limits of the plan, ten thousand dollars
+    ($10,000) gross or six thousand six hundred sixty seven dollars ($6,667) net per month.
+
+(E) The employee and dependent vision plan includes one vision examination per year annually for those
+    eighteen (18) and under and every other year for those nineteen (19) and older.
+
+(F) Eligible and qualified regular part-time employees hired after July 1, 2003, who are regularly
+    scheduled to work between twenty (20) and thirty (30) hours per week will receive Employee Only
+    health, dental and vision exam insurance. Such employees may elect to self-pay for purchase of
+    dependent coverage under COUNTY’s group plan.
+
+(G) Eligible and qualified Limited Duration employees who are regularly scheduled to work twenty (20)
+    hours per week or more will receive Employee Only health, dental and vision exam insurance under
+    the High Deductible Health Plan (HDHP) with a Health Savings Account (HSA) or Health
+    Reimbursement Arrangement (HRA). Such employees may elect to self-pay for purchase of
+    dependent coverage under COUNTY’s group plan.
+
+
+
+### ARTICLE 12
+INSURANCE AND RELATED                               49
+                                                                                           626 Agreement
+                                                                                               2025-2028
+
+
+(H) Eligible and qualified Limited Duration employees will receive employee accidental death and
+    dismemberment insurance provided at $25,000 or one times annual salary, whichever is the greater.
+    Eligible and qualified Limited Duration employees will receive term life insurance in the amount of
+    $25,000 or one times annual salary, whichever is the greater.
+
+Section 2 - Health Insurance Plan
+
+(A) The following health insurance plans are available:
+
+    (1)   Employees whose most recent hire date is on or before December 31, 2015 will have the choice
+          between the Co-Pay Plan, the Plus Plan and a high deductible health medical plan with a health
+          savings account or health reimbursement arrangement (the “HDHP Plan”).
+
+    (2)   Employees whose most recent hire date is on or after January 1, 2016 have the choice between
+          the Plus Plan, or a high deductible major medical plan with a health savings account or health
+          reimbursement arrangement via a voluntary employees’ beneficiary association (the “HDHP
+          Plan”).
+
+    (3)   For all employees who complete the annual “Live Well” Health Risk Assessment (LWHRA) by
+          November 30 each calendar year, which includes a biometric screening and health history and
+          risk assessment questionnaire, offered by the COUNTY, the COUNTY will provide a “Live Well”
+          credit of twenty dollars ($20.00) monthly to the employees’ health contribution cost for the
+          following calendar year. Employees who complete the LWHRA mid-year will have the credit
+          effective beginning the month following submission of documentation.
+
+    (4)   For all employees who elect the “HDHP” plan the employee’s monthly contribution is twenty
+          dollars ($20.00) per month.
+
+    (5)   For all employees who elect the Prime Plan, the employee’s monthly contribution is as follows:
+          Employee Only = thirty dollars ($30.00); Employee + Other = fifty dollars ($50.00).
+
+    (6)   For all employees who elect the Co-Pay Plan, the employee’s monthly contribution is as follows:
+          Employee Only = fifty dollars ($50.00); Employee + Other = seventy dollars ($70.00).
+
+    (7)   For all employees who elect the HDHP plan for 2026, the COUNTY will deposit amount
+          equivalent to the annual deductible, based on their enrollment as Employee Only, one thousand
+          seven hundred ($1,700) or Employee + Other, three thousand four hundred dollars ($3,400), into
+          the employee’s HSA or HRA-VEBA.
+
+    (8)   Effective January 1, 2027 the deductible for the HDHP will be two thousand dollars ($2,000) for
+          Employee Only and four thousand dollars ($4,000) for Employee + Other. For all employees who
+          elect the HDHP plan, the COUNTY will deposit, based on employee enrollment, one thousand
+          six hundred dollars ($1,600) for Employee Only or three thousand two hundred dollars ($3,200)
+          for Employee + Other into the employee’s HSA or HRA-VEBA, at the employee’s option.
+
+    (9)   Effective January 1, 2027 for all employees who elect the HDHP and participate in the LWHRA,
+          as described in paragraph 3 above, by November 30 each calendar year, the COUNTY will
+          deposit in the next calendar year, based on employee enrollment, four hundred dollars ($400) for
+          Employee Only or eight hundred dollars ($800) for Employee + Other into the employee’s HSA
+### ARTICLE 12
+INSURANCE AND RELATED                               50
+                                                                                             626 Agreement
+                                                                                                 2025-2028
+
+
+        or HRA-VEBA, at the employee’s option.
+
+   (10) Applicable deposits for employees who elect the HDHP will occur within the first five (5)
+        business days following January 1 for each year of this Agreement.
+
+   (11) For all new hires who elect the HDHP, the COUNTY will deposit a prorated amount, equivalent
+        to the deductible, in the employee’s HSA/HRA-VEBA upon eligibility in their first year of
+        employment. The prorated adjustments under this paragraph will be effective the first (1st) pay
+        period of the month following the date of eligibility. New employees must meet requirements for
+        eligibility in (8) and (9) to receive continued HSA/HRA-VEBA contributions in subsequent years.
+
+   (12) The HSA/HRA-VEBA contributions will be adjusted and prorated for employees moving from
+        Employee to Employee + Other enrollment during the year if the employee met the LWHRA
+        eligibility requirements under paragraph (9) for the Employee Only contribution. The prorated
+        amounts under this paragraph will be effective the first (1st) pay period of the month following
+        enrollment as Employee + Other.
+
+   (13) For employees who are recalled to a regular position and are eligible for benefits, the
+        employee’s most recent hire date prior to layoff will be used to determine which benefit plans
+        they are eligible to enroll in.
+
+(B) Opt Out
+
+   (1) The COUNTY will offer an “opt out” provision for employees who determine that they do not
+       require medical and vision insurance coverage through the COUNTY plans.
+
+   (2) The monthly amount that an employee would receive is three hundred fifty dollars ($350.00) in
+       lieu of medical and vision insurance coverage. This amount will be one hundred seventy-five
+       dollars ($175.00) for eligible part time employees hired on or after July 1, 2019 or ratification and
+       approval by the Board of County Commissioners of this Agreement. Employees who are already
+       covered under COUNTY insurance through another eligible participant will not be eligible for the
+       opt-out provision.
+
+   (3) The employee will be required to provide proof of other coverage at the time of the declination of
+       County medical and vision exam insurance, and is required to have continuous medical
+       coverage.
+
+   (4) UNION agrees to maintain an assertive duty to support plan design changes as may be
+       necessary to keep the highest year to year premiums increases at or below ten percent (10%)
+       during the term of this Agreement.
+
+Section 3 - Retirement Enrollment
+
+The COUNTY agrees to enroll each eligible and qualified employee in the following programs:
+
+(A) The Public Employees Retirement System (PERS) or the Oregon Public Service Retirement Plan
+    (OPSRP) and the COUNTY will pay the employer’s contribution. The COUNTY will pay the
+    employee’s required six percent (6%) contribution.
+
+### ARTICLE 12
+INSURANCE AND RELATED                               51
+                                                                                             626 Agreement
+                                                                                                 2025-2028
+
+
+(B) The Social Security System (FICA) for enrollment purposes only.
+
+Section 4 - Retiree Benefits
+
+(A) Upon retirement, all employees hired on or before July 1, 1987 and who have worked ten (10) full,
+    continuous years prior to age seventy (70) will be eligible for COUNTY-paid health insurance and
+    may transfer from the active group to the retired group.
+
+(B) Upon retirement, all employees hired after July 1, 1987 and before July 1, 1997, and who have
+    worked twenty (20) full, continuous years prior to age seventy (70) will be eligible for COUNTY-paid
+    health insurance and may transfer from the active group to the retired group.
+
+(C) Retired employees eligible for COUNTY health insurance under this provision either on a COUNTY-
+    paid or self-pay basis are also eligible to purchase COUNTY health insurance in the retired group for
+    their dependents.
+
+(D) To qualify for retirement and be eligible for COUNTY-paid medical insurance, an employee must meet
+    the COUNTY service requirement in subsection (A) or (B) above and be receiving a PERS pension,
+    or meet COUNTY service requirements and be eligible for and receiving disability benefits under
+    PERS or Social Security.
+
+(E) An employee who has otherwise qualified for health benefits pursuant to this section, but is between
+    the ages of 54 and 55, and is laid off pursuant to Article 16 of this Agreement, will be entitled to
+    immediately begin receiving the retiree health insurance benefits otherwise entitled pursuant to this
+    Section.
+
+(F) Employees hired on or after July 1, 1997, will not be eligible for COUNTY-paid retiree health
+    insurance benefits.
+
+(G) In order to provide an early retirement alternative to employees who have met the length of service
+    requirement, but who do not meet the age requirement for PERS retirement benefits, such employees
+    must continuously self-pay their Lane County medical insurance premium for the period of time until
+    age eligible and drawing PERS. Upon eligibility for PERS retirement, the employee will be eligible for
+    COUNTY paid Retiree Medical benefits. Failure to collect PERS benefits as soon as eligible will
+    disqualify the employee from COUNTY paid benefits and will terminate this option.
+
+Section 5 - Personal Property
+
+Loss or damage to personal property will be compensated for by the COUNTY, provided that:
+
+(A) the employee would reasonably be expected to be wearing or carrying the property in question in the
+    performance of duties;
+
+(B) such loss or damage occurs during the course of employment;
+
+(C) the loss was not the fault of the employee;
+
+(D) this provision does not apply to personal vehicles, jewelry, personal cell phones or similar items.
+
+### ARTICLE 12
+INSURANCE AND RELATED                                52
+                                                                                         626 Agreement
+                                                                                             2025-2028
+
+
+Section 6 - Interstate Commerce Commission (ICC) Physical Examinations
+
+An employee required to maintain a Commercial Driver's License (CDL) will have the option of going to a
+provider designated by the COUNTY at no expense to the employee or of going to a provider of the
+employee's own choice at their own expense, as mandated by law for legally required Interstate
+Commerce Commission (ICC) Physical Examinations.
+
+
+
+
+### ARTICLE 12
+INSURANCE AND RELATED                             53
+                                                                                           626 Agreement
+                                                                                               2025-2028
+
+
+### ARTICLE 13
+                                                SAFETY
+Section 1 - Safety Policy
+
+The COUNTY acknowledges an obligation to provide a safe and healthy environment for its employees.
+Likewise, the UNION recognizes an obligation on behalf of employees to conform to established safety
+rules and regulations and that failure to conform to such rules and regulations will be subject to
+disciplinary action, which may include discharge.
+
+Section 2 - Safety Committee
+
+The COUNTY will maintain a Public Works and a COUNTY-wide Safety Committee. The chairperson of
+the Public Works Safety Committee will be appointed by the Director of the Department of Public Works.
+The Chairperson will vote only in case(s) of a tie. The UNION will be represented on the Public Works
+Committee by two (2) representatives and on the COUNTY-wide Committee by one (1) representative,
+appointed by the UNION. For the Public Works Safety Committee, the Director of Public Works will
+appoint departmental representatives equal in number to the total number of UNION representatives for
+all affected bargaining units.
+
+Section 3 - Committee Functions
+
+The Committee will perform the following primary functions:
+
+(A) The Committee will recommend minimum health and safety standards regarding working conditions
+    to the Director of Public Works.
+
+(B) The Committee will recommend appropriate training programs on safety.
+
+(C) The Committee will be empowered to make recommendations on safety issues.
+
+(D) The Committee will form a sub-committee, the Accident Review Committee (ARC). The ARC will have
+    the authority to investigate accidents and make appropriate recommendations.
+
+Section 4 - Meeting Schedule
+
+The Committee will meet at least once per month during regular work hours. Meetings will be scheduled
+at such times and in a manner that all business can be conducted during regular work hours. At no time
+will the Committee have authority to alter, modify, amend, vacate, supersede or change any terms or
+conditions of this Agreement.
+
+Section 5 - Employee Responsibility
+
+It is further understood that employees have an obligation not to perform an unsafe act which may cause
+injury to the employee or another. Employees will suffer no disciplinary action as a result of refusing to
+perform such unsafe acts.
+
+
+
+
+### ARTICLE 13
+SAFETY                                              54
+                                                                                         626 Agreement
+                                                                                             2025-2028
+
+
+Section 6 - Personal Protective Equipment
+
+(A) The COUNTY will provide necessary personal protective equipment, including coveralls, hardhats,
+    hearing protectors, gloves and safety vests. When such protective equipment is provided, the
+    COUNTY may require that employees use the equipment.
+
+(B) The COUNTY will provide non-prescription safety glasses where required. The COUNTY will pay up
+    to one hundred fifty dollars ($150.00) once every two (2) years toward prescription safety glasses.
+
+(C) Any personal protective equipment or special gear must be returned to the COUNTY in reasonable
+    condition following use. Employees will be charged the then current replacement rate for equipment
+    or gear not so returned. Any COUNTY-issued personal protective equipment with reasonable wear
+    may be returned to the COUNTY for replacement.
+
+
+
+
+### ARTICLE 13
+SAFETY                                             55
+                                                                                              626 Agreement
+                                                                                                  2025-2028
+
+
+### ARTICLE 14
+                                                 TRAINING
+Section 1 - Support
+
+The COUNTY understands and supports the concept of training for bargaining unit employees. Training
+may include operator training, safety training, first-aid training, supervisory training, seminars, classroom
+courses and other types of training, which meets COUNTY needs.
+
+Section 2 - Required Training
+
+When an employee is required by the COUNTY to take work-related training, the employee will be
+granted release time with pay for such training if it occurs during working hours. When a non-exempt
+employee is required to take work-related training during non-working hours, the employee will be granted
+overtime pay or compensating time off subject to Article 9, HOURS OF WORK AND OVERTIME. For the
+purposes of this provision, overtime will include authorized time spent in travel. Appropriate costs for such
+training will be borne by the COUNTY.
+
+Section 3 - Employee Interest
+
+The COUNTY will provide an opportunity for bargaining unit employees to express a written interest in
+training. COUNTY needs and employee interest will be considered as training programs are developed.
+
+Section 4 - Training Committee
+
+After a new training program is initiated, the Training Committee will meet at least annually to review
+program status and consider the need for program adjustments. Either UNION or COUNTY may request
+additional meetings of the Training Committee which will be scheduled at a mutually convenient time by
+the Training Coordinator, provided that neither party will be obligated to participate in meetings more often
+than quarterly unless mutually agreed by the parties. Meetings of the Training Committee will be held
+during regular COUNTY business hours.
+
+Section 5 - Trainee Selection
+
+The selection of employees for training will be based on the needs of the COUNTY and the desires and
+seniority of the employees.
+
+Section 6 - Division Training
+
+Any COUNTY division can furnish its employees additional training as the division management deems
+necessary, provided that, whenever possible, seniority will be considered.
+
+Section 7 - Compensation and Benefits While Training
+
+Employees will not be entitled to out-of-class claims while training. Employees must provide their own
+transportation to the training location and any change to work location or schedule for training will not be
+considered a change of conditions requiring a written ten (10) day notice.
+
+
+
+### ARTICLE 14
+TRAINING                                              56
+                                                                                             626 Agreement
+                                                                                                 2025-2028
+
+
+Section 8 - Transfer After Training
+
+Employees who request and are provided training by the COUNTY may be required by the COUNTY to
+transfer to a position where the employee's new job skills will be effectively utilized.
+
+Section 9 - Commercial Driver's License (CDL) Training
+
+(A) The COUNTY will cover the costs of training through an outside CDL training vendor for employees
+    required to obtain a CDL, consistent with their classification, subject to the provisions below. The
+    COUNTY will cover the cost, or reimburse employees, for required permit fees, passing Department
+    of Motor Vehicles (DMV) testing fees and associated endorsements only for the initial test(s) through
+    the DMV.
+
+(B) If an employee voluntarily separates within two (2) years of obtaining their CDL, the employee will
+    reimburse the COUNTY a prorated amount of the cost of the training, based on the length of service
+    after receiving the CDL. Employees receiving this training will authorize the COUNTY to deduct the
+    reimbursement amount from their final paycheck deduction and/or seek reimbursement by other
+    means.
+
+(C) If the employee fails to obtain their CDL during the course of the training, any costs associated with
+    retaking the test will be borne by the employee.
+
+Section 10 - Training Proposals
+
+(A) An employee, group of employees, or the UNION on behalf of the members of the bargaining unit
+    may present a training proposal to the applicable Training Coordinator.
+
+(B) The COUNTY's Training Coordinator will review and consider all proposals submitted pursuant to this
+    Section.
+
+(C) Upon request of the UNION, the Training Coordinator will meet with the UNION and a reasonable
+    number of affected employees to discuss the training proposal. Such meeting will be held at a time
+    and place mutually agreeable to the Training Coordinator and the UNION.
+
+(D) The Training Coordinator will respond in writing to the UNION regarding the training proposal.
+
+
+
+
+### ARTICLE 14
+TRAINING                                             57
+                                                                                               626 Agreement
+                                                                                                   2025-2028
+
+
+### ARTICLE 15
+                                                 SENIORITY
+Section 1 - Definition
+
+Seniority is defined as the relative position of an employee in relation to other employees based on most
+recent date of continuous classified employment within the Bargaining Unit, uninterrupted by voluntary
+quit, discharge or resignation, provided that in the event of an unpaid leave of absence beyond ninety
+(90) calendar days other than military, Peace Corps, or UNION leave granted in accordance with this
+Agreement, the actual time of leave will be deducted from the employee's length of continuous service.
+
+Section 2 - Continuous Service
+
+Continuous service will be employment unbroken by separation from the COUNTY service, other than by
+military, Peace Corps, vacation, paid disability leave or UNION Leave in accordance with Article 4,
+Section 1 (F). Time spent on other types of authorized leave will not count as time of continuous service,
+except that employees returning from such leave, or employees who were laid off, will be entitled to credit
+for service prior to the leave or layoff. The application of Seniority will be as provided for in Section 1 of
+this Article.
+
+Section 3 - Seniority List
+
+Employees will be added to the seniority list upon completion of the probationary period, indicating
+seniority as provided in Section 1, above, from the date of hire with Lane County.
+
+(A) The COUNTY will furnish to the UNION, upon request, a current seniority list quarterly.
+
+(B) In the event of a tie in length of service, seniority will be established by using month of birth. The
+    employee born in the earlier month of the year will receive seniority preference.
+
+
+
+
+### ARTICLE 15
+SENIORITY                                             58
+                                                                                                626 Agreement
+                                                                                                    2025-2028
+
+
+### ARTICLE 16
+                                           LAYOFF AND RECALL
+Section 1 - Layoff
+
+(A) Employees with the least seniority within the job classification and series will be subject to layoff first.
+    It will be understood that initial probationary, extra help and temporary employees within the affected
+    classification series will be removed from COUNTY employment before a layoff of regular employees
+    occurs. If approved by the COUNTY, an employee may elect to be subject to layoff even though their
+    seniority may be greater than that of an employee scheduled for layoff.
+
+(B) Notwithstanding Paragraph (A), above, in the case of layoffs in the Fleet Services Division,
+    employees in Mechanic 2 and Senior Mechanic positions will be subject to layoff without
+    consideration of job classification on the basis of seniority only.
+
+(C) Employees subject to layoff will be given written notification at least fourteen (14) calendar days in
+    advance of the effective date of layoff.
+
+Section 2 - Bumping Rights
+
+(A) Should a layoff or elimination of a position occur, the employee with the least seniority within the
+    affected classification will move to a lesser classification in the same series provided that the
+    employee's seniority is greater than that of any employee in the lesser classification. Then the least
+    senior employee or employees displaced would have the same right to move to the next lower
+    classification in the same series.
+
+(B) In the case of layoffs, employees will have bumping rights as per Attachment A on the basis of
+    seniority.
+
+Section 3 - Recall
+
+(A) Layoff status employees will be recalled in order of seniority within the job classification and series
+    from which they were laid off, provided that such recall will not result in a promotion from the position
+    the employee held at the time of layoff.
+
+(B) Prior to any outside recruitment, employees on layoff status will be given preference in filling
+    bargaining unit vacancies not filled by promotion. Employees will be recalled pursuant to this Section
+    in accordance with their seniority provided they possess the necessary skills, ability and fitness to
+    perform the requirements of the vacant position, and such recall does not result in a promotion.
+
+(C) Order of recall preference will be as follows:
+
+    (1) Recall to former classification (primary recall).
+    (2) Recall to lower position in same classification series (primary series recall).
+    (3) Recall pursuant to 3 (B) above (secondary recall).
+    (4) Compete for positions as per Article 8 of this Agreement.
+
+
+
+
+### ARTICLE 16
+LAYOFF AND RECALL                                      59
+                                                                                               626 Agreement
+                                                                                                   2025-2028
+
+
+(D) An employee who accepts recall to a lower classification will retain recall rights to their original
+    classification or original budgeted hours in accordance with Sections 3 (A) and 3 (B) of this Article.
+
+(E) An employee who accepts recall to a classification with a lower salary range will be placed at the
+    appropriate step based on a wage analysis review and approved by the Director of Human
+    Resources.
+
+(F) An employee who accepts recall to a non-bargaining unit position will retain recall rights in
+    accordance with Section 3 (A) of this Article.
+
+(G) An employee will not be required to accept recall to a position located more than twenty-five (25)
+    miles from their previous reporting place.
+
+(H) The COUNTY will furnish the UNION with a current list of all bargaining unit employees on layoff
+    status with recall rights.
+
+(I) An employee will not be required to accept recall to a part-time or temporary position in order to
+    maintain recall rights, and the COUNTY will not be required to recall employees to a temporary
+    position on the basis of seniority. It is understood that the COUNTY will offer employment to those on
+    the bargaining unit recall list before filling a temporary bargaining unit level position from a non-recall
+    source.
+
+Section 4 - Protection/Rights During Layoff
+
+(A) Recall rights and seniority of an employee who has completed probation will be protected for a period
+    of twenty-four (24) calendar months during layoff, provided that such employee has not been given an
+    opportunity to return to work in their same classification, and further provided the employee will notify
+    the COUNTY of their current physical or email address and phone number. Failure to give notice will
+    result in the employee relinquishing all rights to recall. This notice requirement will not apply to
+    employees working for the COUNTY in other positions.
+
+(B) Employees on layoff status will have the option of paying for continued health insurance coverage, as
+    provided for in COBRA. The COUNTY will administer all such payments.
+
+Section 5 - Termination for Exhaustion of Non-Occupational Disability Leave
+
+Employees who have terminated upon exhaustion of non-occupational disability leave benefits provided
+under Article 11, Section 4, will be deemed to have been laid-off and will have recall rights provided that
+within one (1) year of such termination a written request to be placed on the recall list is made to the
+Human Resources office. The request must include the employee's statement of willingness to accept
+regular employment under the terms of this Article and it must be accompanied by a full doctor's release
+stating clearly and in writing that disability has been corrected to the point where the employee is fully
+capable of performing the regular duties of the job. The recall provisions set forth above will apply as if the
+employee had been laid off as of the date of request for reinstatement.
+
+
+
+
+### ARTICLE 16
+LAYOFF AND RECALL                                     60
+                                                                                               626 Agreement
+                                                                                                   2025-2028
+
+
+### ARTICLE 17
+                                              RELATIONSHIPS
+Section 1 - Entire Agreement
+
+The parties herein agree that the relationship between them will be governed by the terms of this
+Agreement.
+
+Section 2 - Change in Conditions
+
+If the COUNTY proposes to change or implement matters within the scope of representation as defined
+by ORS 243.650(7) and not specifically mentioned in this Agreement, and more than a de minimis impact,
+the COUNTY will notify the UNION in writing prior to implementing the proposed change. Upon timely
+request of the UNION (within 14 days), the COUNTY will negotiate with the UNION pursuant to ORS
+243.698.
+
+Section 3 - Savings Clause
+
+Should any Article, Section or portion thereof of this Agreement be held unlawful and unenforceable by
+any tribunal of competent jurisdiction, such decision of the tribunal will apply only to the specific Article,
+Section or portion thereof, directly specified in the decisions. Upon the issuance of such a decision, the
+parties may agree immediately to negotiate a substitute, if possible, for the invalidated Article, Section or
+portion thereof.
+
+Section 4 - Individual Agreements
+
+The COUNTY agrees not to enter into any agreement or contract with its employees, individually or
+collectively, which in any way conflicts with the terms and provisions of this Agreement. Any such
+agreement will be null and void.
+
+Section 5 – Joint Labor Management Committee
+
+(A) The parties agree to participate in a Joint Labor Management Committee (JLMC) to discuss in good
+    faith on-going labor-management issues and to provide input to the COUNTY on matters of mutual
+    interest that would serve constructive purposes including, but not limited to, increased productivity,
+    operational trends, employee morale, mutual problem-solving and further the shared goal of
+    COUNTY and UNION cooperation.
+
+(B) The Committee shall consist of an equal number of participants, not to exceed four (4) on each side.
+    Each side shall select its own representatives, provided, however, that one of the UNION’s
+    representatives shall be the UNION’s President and one of management’s representatives shall be
+    the COUNTY’s Labor Relations Manager or designee.
+
+(C) The Committee shall meet by mutual agreement. Either party may request a meeting of the
+    Committee to be held at a mutually convenient time and place and such meeting shall, if at all
+    practicable, be scheduled within fourteen (14) days. Topics for discussion shall be exchanged prior to
+    any meeting and either party may refuse to discuss any matter. The Committee shall have no
+    authority to amend the terms of this Agreement.
+
+
+### ARTICLE 17
+RELATIONSHIPS                                         61
+                                                                                              626 Agreement
+                                                                                                  2025-2028
+
+
+### ARTICLE 18
+                                               TERMINATION
+Section 1 - Duration
+
+Unless otherwise specifically stated, this Agreement will become effective upon ratification and will remain
+effect until and including June 30, 2028, and thereafter will continue in effect from year to year, unless one
+(1) party gives notice in writing to the other party of its desire to terminate, or modify the Agreement by
+April 1, 2028, or if no such notice is given at such time, before April 1, of any subsequent anniversary.
+
+Section 2 - Notice
+
+If either party serves written notice of its desire to terminate or modify provisions of the Agreement, such
+notice will set forth the specific item or items the party wishes to terminate or modify, and the parties wilt
+commence negotiations at least ninety (90) calendar days prior to the expiration of the Agreement except
+by mutual consent.
+
+Section 3 - Force of Agreement
+
+During the period of negotiations, this Agreement will remain in full force and effect.
+
+IN WITNESS WHEREOF the parties hereto have set their hand this         'Zl \�day of YVt)ru.A.rt{
+2026.
+
+                                                           F��
+
+
+s                                                          'Rob Winters
+County Administrator                                        President Local 626
+
+��                               2/191/'U                  �.;:r:� ;z-11-;).h
+Dan Hurley                                                 Aclrian Cave
+Public Works Director                                      Vice President
+
+
+                                                           �).J..A,l�;l-._���......,.L-./ 12./lb
+      ood                                                  Whitney Sc ·m
+      Relations Manager                                    Secretary
+
+
+                                                            ���£-
+                                                           AickKeene,
+                                                           Chief Steward
+
+
+
+
+### ARTICLE 18
+TERMINATION                                           62
+                                                            ATTACHMENT A
+                                                  Classification Series & Bumping Order
+
+
+
+
+Job Code    Primary Classification/Series                          Secondary Classification
+I004        Road Maintenance Sr Operator
+I003/I036   Road Maintenance Operator/Trainee                      Solid Waste Operator/ Park Maintenance 2
+I002        Road Maintenance Worker                                Solid Waste Wrkr/Park Maintenance 1
+I001        General Laborer                                        Shop Utility Wrkr
+
+I034        Solid Waste Sr Operator
+I033/I037   Solid Waste Operator/Trainee                           Road Maintenance Operator /Park Maintenance 2
+I032        Solid Waste Worker                                     Road Maintenance Wrkr / Park Maintenance 1
+I001        General Laborer                                        Shop Utility Wrkr
+
+I007        Sr. Park Maintenance
+I028        Park Maintenance 2
+I006        Park Maintenance 1                                     Road Maintenance Wrkr/Solid Waste Wrkr
+I001        General Laborer                                        Shop Utility Wrkr
+
+I012-I011   Sr. Mechanic – Mechanic 2
+I010        Mechanic 1                                             Roads Operator/Waste Operator/Park Maintenance 2
+I031        Shop Utility Worker                                    Roads Wrkr/Waste Wrkr/Park Maintenance 1
+I001        General Laborer
+
+C044        Sr. Fleet Services Purchasing Specialist
+C039        Fleet Services Purchasing Specialist
+
+
+
+
+ATTACHMENT A                                                       63
+                                   ATTACHMENT B
+                         FLEXIBLY STAFFED CLASSIFICATIONS
+
+
+
+        1. Road Maintenance Trainee/Operator
+        2. Solid Waste Trainee/Operator
+
+
+
+
+ATTACHMENT B                              64
+                                               ATTACHMENT C
+
+
+
+
+                                               Lane County
+                                       HUMAN RESOURCES DEPARTMENT
+                                 COMPENSATION PLAN EFFECTIVE 07/05/2025
+                                       SALARY ADMIN PLAN: 626/626E
+                                      SORTED BY JOBCODE DESCRIPTION
+    SAL        JOB
+BGU PLAN GRADE CODE   TITLE                        STEP 1 STEP 2 STEP 3 STEP 4 STEP 5 STEP 6 STEP 7 STEP 8
+
+03   626 026    C039 Fleet Svcs Purchasing Spec     24.94     25.83   26.80   27.80   28.86   29.91   31.01   32.15
+03   626 031    C044 Fleet Svcs Purchasing Spec, Sr 28.23     29.27   30.34   31.46   32.59   33.80   35.09   36.35
+03   626 014    I001 General Laborer                18.55     19.24   19.93   20.65   21.43   22.23   23.03   23.91
+03   626 026    I010 Mechanic 1                     24.94     25.83   26.80   27.80   28.86   29.91   31.01   32.15
+03   626 031    I011 Mechanic 2                     28.23     29.27   30.34   31.46   32.59   33.80   35.09   36.35
+03   626 035    I012 Mechanic, Sr                   31.13     32.28   33.46   34.71   35.98   37.35   38.71   40.15
+03   626 016    I006 Park Maintenance 1             19.44     20.19   20.93   21.69   22.51   23.35   24.20   25.10
+03   626 020    I028 Park Maintenance 2             21.50     22.27   23.10   23.97   24.84   25.75   26.72   27.69
+03   626 024    I007 Park Maintenance, Sr           23.73     24.59   25.51   26.45   27.44   28.41   29.47   30.58
+03   626 028    I003 Road Maintenance Operator      26.21     27.17   28.20   29.23   30.31   31.41   32.57   33.77
+03   626 034    I035 Road Maintenance Specialist    30.40     31.54   32.66   33.88   35.14   36.45   37.78   39.17
+03   626 032    I004 Road Maintenance Sr Operator   28.92     29.98   31.09   32.23   33.41   34.64   35.94   37.28
+03   626 021    I037 Road Maintenance Trainee       22.05     22.86   23.70   24.57   25.48   26.40   27.42   28.39
+03   626 021    I002 Road Maintenance Worker        22.05     22.86   23.70   24.57   25.48   26.40   27.42   28.39
+03   626 018    I031 Shop Utility Worker            20.49     21.24   22.04   22.85   23.69   24.56   25.46   26.39
+03   626 028    I033 Solid Waste Operator           26.21     27.17   28.20   29.23   30.31   31.41   32.57   33.77
+03   626 032    I034 Solid Waste Sr Operator        28.92     29.98   31.09   32.23   33.41   34.64   35.94   37.28
+03   626 021    I036 Solid Waste Trainee            22.05     22.86   23.70   24.57   25.48   26.40   27.42   28.39
+03   626 021    I032 Solid Waste Worker             22.05     22.86   23.70   24.57   25.48   26.40   27.42   28.39
+03   626E 014   Y010W Extra Help (626)              18.58     18.76   18.95   19.13   19.33   19.52   19.72   19.91
+
+
+
+
+       ATTACHMENT C                                 65
+

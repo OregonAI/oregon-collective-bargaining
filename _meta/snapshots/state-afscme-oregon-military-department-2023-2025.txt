@@ -113,7 +113,7 @@ affecting members of the bargaining unit as certified by the Employment Relation
 
 NOW, THEREFORE, IT IS AGREED AS FOLLOWS:
 
-                                       ARTICLE 1 - SCOPE OF AGREEMENT
+### ARTICLE 1 - SCOPE OF AGREEMENT
 
 Section 1.
 The Employer and the Department recognize the Union as the sole and exclusive bargaining
@@ -131,7 +131,7 @@ by it to act on its behalf.
                                                                                                   REV: 2017
 
 
-                                       ARTICLE 2 - TERM OF AGREEMENT
+### ARTICLE 2 - TERM OF AGREEMENT
 
 Section 1.
 Unless otherwise noted in a specific article in the Agreement, this Agreement becomes effective
@@ -148,7 +148,7 @@ a successor agreement will start between February 15, 2025 and March 15, 2025.
                                                                            REV: 2015, 2017, 2019, 2021,2023
 
 
-                                         ARTICLE 3 - UNION SECURITY
+### ARTICLE 3 - UNION SECURITY
 
 Section 1.
 The Department agrees to allow duly certified Union Officer/Union Representatives thirty (30)
@@ -361,7 +361,7 @@ Conventions, the following provisions apply:
 
 
 2023-2025 Oregon Military Department             8                         Collective Bargaining Agreement
-                              ARTICLE 4 - UNION/MANAGEMENT MEETINGS
+### ARTICLE 4 - UNION/MANAGEMENT MEETINGS
 
 Section 1. Purpose.
 In order to facilitate communication between the Parties and to promote cooperative
@@ -412,7 +412,7 @@ three (3) Union representatives at no cost.
 
 
 2023-2025 Oregon Military Department            9                        Collective Bargaining Agreement
-                 ARTICLE 5 - COMPLETE AGREEMENT/SEPARABILITY/SAVINGS
+### ARTICLE 5 - COMPLETE AGREEMENT/SEPARABILITY/SAVINGS
 
 Section 1. Complete Agreement.
 This Agreement is the full and complete Agreement between the Employer and the Union
@@ -453,7 +453,7 @@ over sixty (60) days after notification unless extended by mutual agreement.
 Any dispute or question concerning bargaining unit composition shall be resolved by the
 Employment Relations Board.
 
-                                       ARTICLE 6 - NO STRIKE OR LOCKOUT
+### ARTICLE 6 - NO STRIKE OR LOCKOUT
 
 The Union agrees that, during the term of this Agreement, the Union or its bargaining unit
 members will not authorize, instigate, aid or engage in any work stoppage, slowdown, sickout,
@@ -477,7 +477,7 @@ it has caused or counseled such strike activity.
 Any alleged violation of this Article by either party may be referred to the grievance arbitration
 procedure or may be pursued in the Courts at the discretion of the moving party.
 
-                                       ARTICLE 7 - EQUAL OPPORTUNITY
+### ARTICLE 7 - EQUAL OPPORTUNITY
 
 Section 1.
 The provisions of this Agreement shall apply equally to all employees in the bargaining unit
@@ -497,7 +497,7 @@ the Union may submit such complaint to the Bureau of Labor and Industries or Equ
 Employment Opportunity Commission (EEOC) for resolution. For complaints involving sexual
 orientation, the Employer shall apply and adhere to applicable federal and state laws.
 
-                                       ARTICLE 8 - MANAGEMENT RIGHTS
+### ARTICLE 8 - MANAGEMENT RIGHTS
 
 The Union agrees that the Employer and Department retain all inherent rights of management
 and hereby recognize the sole and exclusive right of the State of Oregon, as the Employer, to
@@ -514,7 +514,7 @@ employees; and to promulgate rules, regulations and personnel policies, provided
 rights shall not be exercised so as to violate any of the specific provisions of this Agreement.
 
 2023-2025 Oregon Military Department                 11                   Collective Bargaining Agreement
-                                       ARTICLE 9 - CONTRACTING OUT
+### ARTICLE 9 - CONTRACTING OUT
 
 Section 1.
 The Union recognizes that the Employer has the management right, during the term of this
@@ -607,7 +607,7 @@ efficient way to accomplish the work in the future for Agency initiated contract
 around reviewing of contracted work are not subject to the grievance procedure.
 See LOA: Contracting Out
 
-                                       ARTICLE 10 - PERSONNEL RECORDS
+### ARTICLE 10 - PERSONNEL RECORDS
 
 Section 1.
 The Chief Human Resources Office human resource information system is the system of record
@@ -701,7 +701,7 @@ Resource Director, and anyone specifically authorized in writing by the subject 
                                                                                             REV: 2019, 2021
 
 
-                                       ARTICLE 11 - EMPLOYEE RIGHTS
+### ARTICLE 11 - EMPLOYEE RIGHTS
 
 Section 1.
 Off-duty activities of employees will not subject them to disciplinary action by the Department
@@ -722,7 +722,7 @@ assured of the following rights:
                   proven shall not be recorded and placed in the employee's personnel file or used
                   in any subsequent performance evaluation.
 
-                                ARTICLE 12 - DISCIPLINE AND DISCHARGE
+### ARTICLE 12 - DISCIPLINE AND DISCHARGE
 
 Section 1.
 The principles of progressive discipline (written reprimand, salary reduction, suspension without
@@ -792,7 +792,7 @@ shall be forwarded electronically to the Union on the same day as the employee i
                                                                                                 REV:2019
 
 
-                                   ARTICLE 13 - GRIEVANCE PROCEDURE
+### ARTICLE 13 - GRIEVANCE PROCEDURE
 
 Section 1.
 Grievances are defined as acts, omissions, applications, meaning or interpretation alleged to be
@@ -946,7 +946,7 @@ j.       The arbitration award shall not establish a precedent for any current o
                                                                                          REV: 2015,2019, 2021
 
 
-                                       ARTICLE 14 - INSURANCE
+### ARTICLE 14 - INSURANCE
 
 Section 1.
 An employer contribution will be made for each eligible employee who has at least eighty (80)
@@ -1003,7 +1003,7 @@ See LOA: PMAC
                                                                               REV: 2015, 2017, 2019, 2021,2023
 
 
-                           ARTICLE 15 – RETIREMENT, SALARY AND WAGES
+### ARTICLE 15 – RETIREMENT, SALARY AND WAGES
 
 Section 1. Cost of Living Adjustment.
 a.    Effective December 1, 2023 or on the first of the month following receipt of an interest
@@ -1055,7 +1055,7 @@ See LOA: Salary and Benefit Report, Salary Range Truncation, One-Time Payment CO
                                                                              REV: 2015, 2017, 2019, 2021,2023
 
 
-                                  ARTICLE 16 - SALARY ADMINISTRATION
+### ARTICLE 16 - SALARY ADMINISTRATION
 
 Section 1. Step Salary Increase.
 Employees shall be eligible for consideration for step salary increases following:
@@ -1173,7 +1173,7 @@ processes to recoup an overpayment made to an employee at any time.
                                                                                               REV: 2015,2023
 
 
-                        ARTICLE 17 - PAYROLL COMPUTATION PROCEDURES
+### ARTICLE 17 - PAYROLL COMPUTATION PROCEDURES
 
 Section 1.
 All employees shall normally be paid no later than the first of the month. When a payday occurs
@@ -1268,7 +1268,7 @@ payroll office by the 15th of the month. If any employee requests more than two 
 in the state fiscal year, management has the right to deny it, if a valid emergency does not exist
 as determined by the Director of State Personnel.
 
-                                             ARTICLE 18 - OVERTIME
+### ARTICLE 18 - OVERTIME
 
 Section 1.
 This Article is intended only to provide a basis for the calculation of overtime and none of its
@@ -1342,7 +1342,7 @@ b.       The rate of compensation shall be one (1) hour off for one (1) hour of 
                                                                                             REV: 2019, 2021
 
 
-               ARTICLE 19 - MILEAGE, TRAVEL, AND MOVING REIMBURSEMENT
+### ARTICLE 19 - MILEAGE, TRAVEL, AND MOVING REIMBURSEMENT
 
 Section 1. Travel and Mileage Allowance.
 Reimbursements and procedures will be in accordance with Oregon Accounting Manual, Policy
@@ -1354,7 +1354,7 @@ Reimbursements and procedures will be in accordance with the Department of Admin
 Services, Chief Human Resource Office Policy 40.055.10, and its successors. Changes in this
 policy will be automatically incorporated into this contract Article.
 
-                                       ARTICLE 20 - DIFFERENTIALS
+### ARTICLE 20 - DIFFERENTIALS
 
 Section 1. Night Shift Differential.
 a.    Night shift differential shall apply to all bargaining union members except part-time
@@ -1409,7 +1409,7 @@ differential.
                                                                                                     REV: 2023
 
 
-                                       ARTICLE 21 - PENALTY PAY
+### ARTICLE 21 - PENALTY PAY
 
 Section 1. Call Back Compensation.
 a.    Call back is an occasion where an employee has been released from duty and is called
@@ -1491,7 +1491,7 @@ all forms of penalty pay shall be waived by the employee.
 
 
 2023-2025 Oregon Military Department                30                       Collective Bargaining Agreement
-                                       ARTICLE 22 - FILLING OF VACANCIES
+### ARTICLE 22 - FILLING OF VACANCIES
 
 Section 1.
 The Department desires to fill vacancies with the best qualified applicants available. Within that
@@ -1530,7 +1530,7 @@ See LOA: Filling of Vacancies
                                                                                       REV: 2017,2019, 2021
 
 
-                                          ARTICLE 24 - TRIAL SERVICE
+### ARTICLE 24 - TRIAL SERVICE
 
 Section 1.
 Each employee appointed to a position in the bargaining unit by initial appointment or promotion
@@ -1615,7 +1615,7 @@ d.       This Subsection applies to employees beginning their promotional trial 
                                                                                                REV: 2017,2023
 
 
-                           ARTICLE 25 - LIMITED DURATION APPOINTMENTS
+### ARTICLE 25 - LIMITED DURATION APPOINTMENTS
 
 Section 1.
 A limited duration appointment may be made for special studies or projects of uncertain or limited
@@ -1673,7 +1673,7 @@ employee has served at least six (6) months in the same classification.
                                                                                                 REV: 2017,2019
 
 
-                                       ARTICLE 26 - JOB SHARING
+### ARTICLE 26 - JOB SHARING
 
 Section 1.
 "Job sharing position" means a full-time position that may be held by more than one (1) individual
@@ -1710,7 +1710,7 @@ may elect to transfer to a vacant part-time position in the same classification 
 demote, if a vacancy exists. If the above conditions are not available or acceptable, the
 employee agrees to resign.
 
-                                       ARTICLE 27 - VOLUNTARY DEMOTION
+### ARTICLE 27 - VOLUNTARY DEMOTION
 
 An employee may make a request in writing to the Appointing Authority for a demotion from a
 position in one (1) classification to a vacant position in a classification of a lower rank for which
@@ -1718,7 +1718,7 @@ the employee is qualified. If the Appointing Authority approves the request, the
 demoted may, at a later date, request that their name be placed on an appropriate list for
 reemployment to the higher classification.
 
-                                       ARTICLE 28 - PERSONAL LEAVE DAYS
+### ARTICLE 28 - PERSONAL LEAVE DAYS
 
 Section 1.
 All employees after completion of initial trial service shall be entitled to receive personal leave
@@ -1742,7 +1742,7 @@ in any other manner.
 Section 4.
 Such leave may be used by an employee for any purpose the employee desires.
 
-                                            ARTICLE 29 - SICK LEAVE
+### ARTICLE 29 - SICK LEAVE
 
 Section 1. Sick Leave With Pay.
 Sick leave with pay for employees shall be determined in the following manner:
@@ -1923,7 +1923,7 @@ shall be strictly enforced with no exceptions:
                                                                                     REV: 2015, 2017, 2021,2023
 
 
-                                        ARTICLE 30 - HOLIDAYS
+### ARTICLE 30 - HOLIDAYS
 
 Section 1.
 The following compensable holidays shall be recognized:
@@ -1999,7 +1999,7 @@ during the employee's work-out-of-classification assignment.
                                                                                          REV: 2015, 2021,2023
 
 
-                                       ARTICLE 31 - OTHER LEAVES
+### ARTICLE 31 - OTHER LEAVES
 
 Section 1. Leaves With Pay.
 a.    Pre-Retirement Counseling Leave. Employees shall be granted up to twenty-eight (28)
@@ -2117,7 +2117,7 @@ f.       Election Day. Work and travel will be arranged to allow employees the o
                                                                                                     REV:2019
 
 
-                                       ARTICLE 32 - VACATION LEAVE
+### ARTICLE 32 - VACATION LEAVE
 
 Section 1. Vacation Leave for Full-Time Employees.
 Full-time employees shall accrue vacation leave in accordance with the schedule below.
@@ -2288,7 +2288,7 @@ appropriate.
                                                                                    REV: 2017,2019, 2021,2023
 
 
-                                        ARTICLE 33 - LAYOFF
+### ARTICLE 33 - LAYOFF
 
 Section 1. Alternatives to Layoff
 a.    When the Agency believes that a lack of funds requires a layoff, the Agency will notify the
@@ -2622,7 +2622,7 @@ selected by seniority within classification.
 
 
 2023-2025 Oregon Military Department                    52                         Collective Bargaining Agreement
-                ARTICLE 34 - CLASSIFICATION AND CLASSIFICATION CHANGES
+### ARTICLE 34 - CLASSIFICATION AND CLASSIFICATION CHANGES
 
 Section 1. Work Out of Classification.
 a.    Temporary Work Out of Classification (WOC) Assignment. When an employee is
@@ -2841,7 +2841,7 @@ Should the matter not be submitted to the Employment Relations Board within the 
                                                                                             REV: 2021,2023
 
 
-                                  ARTICLE 35 - LEADWORK DIFFERENTIAL
+### ARTICLE 35 - LEADWORK DIFFERENTIAL
 
 Section 1.
 Leadwork differential will be paid to employees who are formally assigned in writing to perform
@@ -2880,7 +2880,7 @@ resolution through the grievance process.
 
 
 2023-2025 Oregon Military Department              57                        Collective Bargaining Agreement
-                ARTICLE 36 - POSITION DESCRIPTIONS/QUARTERLY CHECK-INS
+### ARTICLE 36 - POSITION DESCRIPTIONS/QUARTERLY CHECK-INS
 
 Section 1. Position Descriptions.
 Individual position descriptions shall be in writing and delineate the specific duties currently
@@ -2906,7 +2906,7 @@ for discipline.
                                                                                          REV: 2021,2023
 
 
-                  ARTICLE 37 - WORKWEEK, WORKDAY AND WORK SCHEDULE
+### ARTICLE 37 - WORKWEEK, WORKDAY AND WORK SCHEDULE
 
 Section 1. Workweek Defined.
 a.    The workweek is defined as seven (7) consecutive calendar days beginning on 12:01
@@ -3077,7 +3077,7 @@ Employer will provide COBRA notification pursuant to federal law.
                                                                                      REV: 2015, 2017, 2019, 2021
 
 
-                       ARTICLE 38 - SCHEDULING COMPENSATORY TIME OFF
+### ARTICLE 38 - SCHEDULING COMPENSATORY TIME OFF
 
 Section 1.
 Subject to the operating requirements of the Department, an employee shall have their choice
@@ -3119,7 +3119,7 @@ unused compensatory time hours to the employee in the last paycheck.
                                                                              REV: 2015, 2019, 2021,2023
 
 
-                                       ARTICLE 39 - CAREER DEVELOPMENT
+### ARTICLE 39 - CAREER DEVELOPMENT
 
 Section 1.
 The Department will provide a career path resource person to provide a normal promotional path
@@ -3130,7 +3130,7 @@ Section 2.
 Two (2) Union representatives and two (2) Employer representatives will meet, if requested by
 either party, to discuss utilization and results of the service provided by this Article.
 
-                                        ARTICLE 40 - SAFETY AND HEALTH
+### ARTICLE 40 - SAFETY AND HEALTH
 
 Section 1.
 The Employer agrees to abide by standards of safety and health in accordance with the Oregon
@@ -3237,7 +3237,7 @@ g.       No employee shall be subject to retaliation for reporting or filing a c
 
 
 2023-2025 Oregon Military Department                 64                        Collective Bargaining Agreement
-                                  ARTICLE 41 - EDUCATION AND TRAINING
+### ARTICLE 41 - EDUCATION AND TRAINING
 
 Section 1.
 The Department will, as far as it is reasonably practicable to do so, provide training and
@@ -3261,7 +3261,7 @@ Section 4.
 If a regular status employee desires reimbursement for course registration for training outside of
 the Department, the employee must receive written approval from the Department.
 
-                        ARTICLE 42 - UNIFORMS AND PROTECTIVE CLOTHING
+### ARTICLE 42 - UNIFORMS AND PROTECTIVE CLOTHING
 
 Section 1.
 The Department shall continue current practice, based on Agency policy relevant to the location
@@ -3308,7 +3308,7 @@ Boot repairs include but are not limited to: resoles and boot rebuilds.
                                                                                            REV: 2015,2023
 
 
-           ARTICLE 43 - INCLEMENT WEATHER/HAZARDOUS CONDITIONS LEAVE
+### ARTICLE 43 - INCLEMENT WEATHER/HAZARDOUS CONDITIONS LEAVE
 
 Section 1.
 a.    The Employer/Agency designated official(s) may close or curtail offices, facilities, or
@@ -3455,11 +3455,11 @@ hazardous conditions.
                                                                                             REV: 2021,2023
 
 
-                                 ARTICLE 44 - WORKERS' COMPENSATION
+### ARTICLE 44 - WORKERS' COMPENSATION
 
 Injured workers’ return to work shall be in accordance to State Policy 50.020.05.
 
-                                       ARTICLE 45 - SEASONAL EMPLOYEES
+### ARTICLE 45 - SEASONAL EMPLOYEES
 
 Section 1.
 Positions represented by the Union which occur, terminate (unscheduled) and recur periodically
@@ -3531,7 +3531,7 @@ the employee had not accepted other state employment between seasons.
                                                                                       REV: 2015, 2017,2023
 
 
-                        ARTICLE 46 - COMMERCIAL DRIVER'S LICENSE (CDL)
+### ARTICLE 46 - COMMERCIAL DRIVER'S LICENSE (CDL)
 
 Section 1. Application.
 This Agreement covers all AFSCME-represented employees who are required to possess a
@@ -3652,7 +3652,7 @@ Wherever practicable, the concurrence of two (2) supervisors is necessary to req
 suspicion testing of an employee. If the test results are negative, the agency Labor/
 Management Committee may review to determine if the supervisors acted in good faith.
 
-                               ARTICLE 47 - LICENSES AND CERTIFICATION
+### ARTICLE 47 - LICENSES AND CERTIFICATION
 
 Section 1.
 An employee, in a position that requires a license, certification or specialized training as a
@@ -3677,7 +3677,7 @@ licenses/certifications required after hire and will in the future be required t
 those license/certifications the Agency shall continue the practice of payment for those
 employees.
 
-         ARTICLE 48 - IMPLEMENTATION OF NEW CLASSES—APPEALS PROCESS
+### ARTICLE 48 - IMPLEMENTATION OF NEW CLASSES—APPEALS PROCESS
 
 The appeals process is designed to allocate employees into new classes. Employees in
 positions allocated to a new classification, who dispute their placement within the new class, can
@@ -3754,7 +3754,7 @@ appeal their placement using the following process:
 
          f.       This process terminates upon completion of the allocation process.
 
-                   ARTICLE 49 - TEMPORARY INTERRUPTION OF EMPLOYMENT
+### ARTICLE 49 - TEMPORARY INTERRUPTION OF EMPLOYMENT
 
 When the Employer declares that a temporary interruption of employment should be considered
 because of lack of funds, either party may provide the other with written notice to meet and
@@ -3765,14 +3765,14 @@ take place under this Section shall not be subject to the Complete Agreement art
 the agreements or constitute interim negotiations under PECBA. In addition, the Parties will not
 be required to use the dispute resolution process contained in the PECBA.
 
-                               ARTICLE 50 – DRUG AND ALCOHOL TESTING
+### ARTICLE 50 – DRUG AND ALCOHOL TESTING
 
 One employee per quarter will be randomly selected for the drug and alcohol testing will be
 conducted in accordance with AGP Policy 99.100.02 for the following classifications.
                                                                                                   REV: 2023
 
 
-                           ARTICLE 51 - VOLUNTARY MEDICAL SEPARATION
+### ARTICLE 51 - VOLUNTARY MEDICAL SEPARATION
 
 Section 1.
 A regular status employee with a serious health condition who has exhausted all of their own
@@ -3815,7 +3815,7 @@ g.       If the employee rejects a recall offer for their former work location, 
                                                                                                   NEW: 2019
 
 
-                                       ARTICLE 52 – EXIT INTERVIEWS
+### ARTICLE 52 – EXIT INTERVIEWS
 
 a.       If a regular status employee provides timely notice that they are voluntarily separating
          from Agency service, the Agency will offer an exit interview that focuses on the reason(s)
@@ -3829,7 +3829,7 @@ c.       Upon request, but no more than two (2) times a year, the Union can rece
          feedback on their Agency experience.
                                                                                                   NEW: 2019
 
-                             ARTICLE 53 - WORKING REMOTELY
+### ARTICLE 53 - WORKING REMOTELY
 Section 1.
 Oregon state government encourages working remotely where it is a viable option that
 benefits both the employee and the agency. Use of remote work options promote the health
@@ -3973,7 +3973,7 @@ f.       The Agency shall not compel an employee to work remotely. Employees who
 
 
 
-                                       ARTICLE 54 – AIR QUALITY
+### ARTICLE 54 – AIR QUALITY
 
 Section 1.
 The Air Quality Index (AQI) was developed by the US Environmental Protection Agency as an
@@ -3997,7 +3997,7 @@ Weather/Hazardous Conditions apply for elevated AQI which falls under a Hazardou
 
 
 
-                                ARTICLE 55 – CRIMINAL RECORDS CHECK
+### ARTICLE 55 – CRIMINAL RECORDS CHECK
 
 Section 1. Authority
 In compliance with ORS 396.332 (Authority of Oregon Military Department to require fingerprints
@@ -4022,7 +4022,7 @@ agency will proceed under Article 12 – Discipline and Discharge, the employee 
                                                                                                NEW: 2023
 
 
-                                       ARTICLE 56 - PAID LEAVE OREGON
+### ARTICLE 56 - PAID LEAVE OREGON
 
 Paid Leave Oregon is administered by the Oregon Employment Department. The State of
 Oregon, as an employer, shall comply with the provisions of Paid Leave Oregon, as provided for
@@ -4045,7 +4045,7 @@ to FMLA/OFLA.
 
 
 2023-2025 Oregon Military Department                 80                    Collective Bargaining Agreement
-     LETTER OF AGREEMENT - ARTICLE 9, CONTRACTING OUT FEASIBILITY STUDY
+### LETTER OF AGREEMENT - ARTICLE 9, CONTRACTING OUT FEASIBILITY STUDY
 
 This Letter of Agreement is entered into between the State of Oregon Department of
 Administrative Services, on behalf of all State Agencies covered by the State of Oregon and
@@ -4062,7 +4062,7 @@ This Agreement is effective through June 30, 2025.
 
 
 2023-2025 Oregon Military Department              81                         Collective Bargaining Agreement
-    LETTER OF AGREEMENT – ARTICLE 14, PEBB MEMBER ADVISORY COMMITTEE
+### LETTER OF AGREEMENT – ARTICLE 14, PEBB MEMBER ADVISORY COMMITTEE
 
 This Agreement is between the State of Oregon, acting through its Department of Administrative
 Services (Employer) and AFSCME Council 75 (Union).
@@ -4107,7 +4107,7 @@ This Agreement will sunset on June 30, 2025.
 
 
 2023-2025 Oregon Military Department                  82                        Collective Bargaining Agreement
-          LETTER OF AGREEMENT – ARTICLE 15 - SALARY AND BENEFIT REPORT
+### LETTER OF AGREEMENT – ARTICLE 15 - SALARY AND BENEFIT REPORT
 
 This Agreement is between the State of Oregon, acting through its Department of Administrative
 Services (DAS) and the AFSCME Local 75, (Union).
@@ -4123,7 +4123,7 @@ This Letter of Agreement will sunset on June 30, 2025, unless extended by mutual
 
 
 2023-2025 Oregon Military Department          83                       Collective Bargaining Agreement
-           LETTER OF AGREEMENT – ARTICLE 15 - SALARY RANGE TRUNCATION
+### LETTER OF AGREEMENT – ARTICLE 15 - SALARY RANGE TRUNCATION
 
 This Agreement is entered into between the State of Oregon, acting through its Department of
 Administrative Services (DAS), on behalf of the Agencies covered by this Agreement (Agency)
@@ -4267,7 +4267,7 @@ and the AFSCME Council 75 (Union).
 
 
 2023-2025 Oregon Military Department                86                         Collective Bargaining Agreement
-             LETTER OF AGREEMENT – ARTICLE 15 – ONE-TIME PAYMENT COLA
+### LETTER OF AGREEMENT – ARTICLE 15 – ONE-TIME PAYMENT COLA
 
 This Agreement is entered into between the State of Oregon, acting through its Department of
 Administrative Services (DAS), and the AFSCME Local 75 (Union).
@@ -4288,7 +4288,7 @@ This Letter of Agreement will sunset on June 30, 2025.
 
 
 2023-2025 Oregon Military Department               87                         Collective Bargaining Agreement
-             LETTER OF AGREEMENT – NEW EMPLOYEE NOTICE/UNION ACCESS
+### LETTER OF AGREEMENT – NEW EMPLOYEE NOTICE/UNION ACCESS
 
     1. Notice
           a. The Employer shall provide the Union, in an editable digital file format, the following
@@ -4329,7 +4329,7 @@ This Letter of Agreement will sunset on June 30, 2025.
 
 
 2023-2025 Oregon Military Department              88                        Collective Bargaining Agreement
-     LETTER OF AGREEMENT – OREGON UNIONS STATE WORKER TRAINING FUND
+### LETTER OF AGREEMENT – OREGON UNIONS STATE WORKER TRAINING FUND
 
 The Parties recognize that both the State and its workers benefit from workers understanding
 their different health care options, understanding their retirement benefits and finding solutions
@@ -4369,7 +4369,7 @@ The State Worker Training Fund will develop a plan to deliver trainings and prog
     After a program is developed for the first three (3) stated goals, the Board of Trustees will
       discuss other programs that potentially meet goals identified by the State and the Unions.
 
-                          LETTER OF AGREEMENT – CONTRACT SPECIALIST
+### LETTER OF AGREEMENT – CONTRACT SPECIALIST
 
 This Agreement is between the State of Oregon, acting through its Department of Administrative
 Services (Employer) on behalf of all Agencies covered under the jurisdiction of the AFSCME
@@ -4479,7 +4479,7 @@ unless renewed by the Parties or the Parties agree to amend its provisions.
 
 
 2023-2025 Oregon Military Department               91                        Collective Bargaining Agreement
-       LETTER OF AGREEMENT – WILDLAND FIRE FIGHTER AND FOREST OFFICER
+### LETTER OF AGREEMENT – WILDLAND FIRE FIGHTER AND FOREST OFFICER
                                   TRAINING
 
 The Parties agree to establish a Labor Management Committee to explore and prioritize the
@@ -4504,7 +4504,7 @@ ratification of the Contract. Meetings shall begin within sixty (60) days of tha
 
 
 2023-2025 Oregon Military Department             92                        Collective Bargaining Agreement
-        LETTER OF AGREEMENT – WILDLAND FIRE FIGHTER FITNESS STANDARD
+### LETTER OF AGREEMENT – WILDLAND FIRE FIGHTER FITNESS STANDARD
 
 This Agreement applies to permanent, part-time, seasonal and limited duration Wildland Fire
 Fighters, Entry Level Wildland Fire Fighters and Forest Officers of the Oregon Military
@@ -4582,7 +4582,7 @@ This Agreement is in effect from the date of signing through June 30, 2025.
 
 
 2023-2025 Oregon Military Department                94                        Collective Bargaining Agreement
-          LETTER OF AGREEMENT – FORCE PROTECTION PHYSICAL STANDARDS
+### LETTER OF AGREEMENT – FORCE PROTECTION PHYSICAL STANDARDS
                        REQUIREMENTS AND IMPLEMENTATION
 
 This Agreement is executed by AFSCME Council 75 on behalf of the local AFSCME Oregon
@@ -4642,7 +4642,7 @@ This Letter of Agreement will sunset June 30, 2025.
 
 
 2023-2025 Oregon Military Department              96                      Collective Bargaining Agreement
-                   LETTER OF AGREEMENT – EXTENDED LEAVE WITHOUT PAY
+### LETTER OF AGREEMENT – EXTENDED LEAVE WITHOUT PAY
 
 
 This Agreement is between the State of Oregon, acting through its Department of Administrative
@@ -4685,7 +4685,7 @@ continue in effect unless a new agreement is reached during successor negotiatio
 
 
 2023-2025 Oregon Military Department              97                        Collective Bargaining Agreement
-LETTER OF AGREEMENT – ESSENTIAL WORKER INCLEMENT WEATHER/HAZARDOUS
+### LETTER OF AGREEMENT – ESSENTIAL WORKER INCLEMENT WEATHER/HAZARDOUS
                            CONDITIONS PAY
 
 This Agreement is between the State of Oregon, acting through its Department of Administrative
@@ -4712,7 +4712,7 @@ Conditions Pay.
 
 
 2023-2025 Oregon Military Department            98                        Collective Bargaining Agreement
-                       LETTER OF AGREEMENT – NATURAL DISASTER LEAVE
+### LETTER OF AGREEMENT – NATURAL DISASTER LEAVE
 
 This Agreement is between the State of Oregon, acting through its Department of Administrative
 Services (Employer) and AFSCME Council 75 (Union).
@@ -4744,7 +4744,7 @@ agreement.
 
 
 2023-2025 Oregon Military Department                99                       Collective Bargaining Agreement
-LETTER OF AGREEMENT – STATE POLICY 50.050.01 WORKING REMOTELY UPDATES
+### LETTER OF AGREEMENT – STATE POLICY 50.050.01 WORKING REMOTELY UPDATES
 
 This Letter of Agreement is between the State of Oregon, acting through its Department of
 Administrative Services (Employer on behalf of the Agencies covered under the jurisdiction of
@@ -4761,7 +4761,7 @@ This Agreement becomes effective on the date of the last signature below and end
 
 
 2023-2025 Oregon Military Department           100                      Collective Bargaining Agreement
-         LETTER OF AGREEMENT – CHILDCARE AND ELDERCARE EXPLORATORY
+### LETTER OF AGREEMENT – CHILDCARE AND ELDERCARE EXPLORATORY
                                   COMMITTEE
 
 This Agreement is between the State of Oregon, acting through its Department of Administrative
@@ -4793,7 +4793,7 @@ The committee will complete their work by January 31, 2025.
 
 
 2023-2025 Oregon Military Department             101                       Collective Bargaining Agreement
-                                   LETTER OF AGREEMENT – PAY EQUITY
+### LETTER OF AGREEMENT – PAY EQUITY
 
 This Agreement is entered into by the State of Oregon, acting through its Department of
 Administrative Services, Labor Relations Unit (Employer), on behalf of the Agencies covered by
@@ -4905,7 +4905,7 @@ The Parties agree to the following:
 
 
 2023-2025 Oregon Military Department           104                     Collective Bargaining Agreement
-                 LETTER OF AGREEMENT—BI-WEEKLY PAY PERIOD/WORKDAY
+### LETTER OF AGREEMENT—BI-WEEKLY PAY PERIOD/WORKDAY
 
 This Letter of Agreement is between the State of Oregon, acting through its Department of
 Administrative Services (Employer), and the AFSCME Local 75 (Union).

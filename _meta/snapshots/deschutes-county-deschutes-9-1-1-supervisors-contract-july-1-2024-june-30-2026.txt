@@ -73,7 +73,7 @@ Page 2 of 4 1
         That certain Agreement by and between Deschutes County 9-1- l Service District, a
         County Service District, and Deschutes 9-1-1 Employees Association.
 
-        1.     PREAMBLE AND SCOPE
+### 1.     PREAMBLE AND SCOPE
         A.     This Agreement is entered into by and between the Deschutes County 9-1-1 Service
                District, a County Service District, ("District"), and the Deschutes 9-1-1 Employees
                Association, ("Association"). As used in this Agreement, the term "Director" shall
@@ -82,7 +82,7 @@ Page 2 of 4 1
         B.     This Agreement shall apply to all regular full-time Deschutes County 9-1-1 Service
                District supervisors
 
-        2.      RECOGNITION
+### 2.      RECOGNITION
         A.     The District recognizes the Association as the sole and exclusive representative with
                respect to wages, hours and specified conditions of employment, for all regular full-
                time employees included in the bargaining unit, as set out below.
@@ -96,7 +96,7 @@ Page 2 of 4 1
                will utilize the statutory mid-contract bargaining process, which shall not last longer
                than 30 days.
 
-        3.     CHECK-OFF AND SERVICE FEES
+### 3.     CHECK-OFF AND SERVICE FEES
         A.      Employees within the bargaining unit may at any time choose to become a member of
                 the Association and sign and deliver to the District a written authorization allowing the
                 deduction of the Association's monthly dues from the employee's pay. Employees
@@ -153,7 +153,7 @@ Page 3 of30
 Deschutes 9- 1- 1 Employees Association
 July I, 2024 - June 30, 2026
 Page 4 of 30
-        4.      MANAGEMENT RIGHTS
+### 4.      MANAGEMENT RIGHTS
         A.      The rights of the Association and employees are limited to those specifi ed by the
                 terms of this Agreement. The District retains all the customary, usual and exclusive
                 rights, decision-making prerogatives, functions, and authority connected with, or in
@@ -213,7 +213,7 @@ Page 5 of30
                       on-the-job training and cross-training, and to assign employees to such duties
                       for periods to be determined by the District.
 
-        5.      NO STRIKES AND NO LOCKOUTS
+### 5.      NO STRIKES AND NO LOCKOUTS
         A.      The Association and employees within the bargaining unit, as individuals or a group,
                 will not initiate, cause, promote, permit, participate in or join in any strike, work
                 stoppage, or slow-down, picketing or any other restrictions of work at any location.
@@ -236,7 +236,7 @@ Page 5 of30
                 involved in the dispute giving rise to the stoppage, or by whether such subject matter
                 is or is not subject to the provisions of this Agreement.
 
-        6.      ASSOCIATION BUSINESS AND AGREEMENT RENEWAL
+### 6.      ASSOCIATION BUSINESS AND AGREEMENT RENEWAL
         A.     Employees elected to serve as authorized representatives of the Association shall
                perform their duties as representatives of the Association on their own time, except
                as provided in subsection B of this Section.
@@ -262,12 +262,12 @@ Page 6 of 30
                 at any time during worlcing hours for the purpose of assisting the administration of
                 this Agreement.
 
-         7.     BULLETIN BOARD
+### 7.     BULLETIN BOARD
                 The District agrees to maintain a minimwn of four (4) square feet of bulletin board
                 space in each separate division and/or building used by District personnel to be used
                 by the Association.
 
-         8.     OUTSIDE EMPLOYMENT
+### 8.     OUTSIDE EMPLOYMENT
          A.     An employee who wishes to work for another employer shall request approval from
                 the Director. Authorization for an employee to engage in outside employment shall
                 be granted by the Director if the employment meets the following conditions:
@@ -295,7 +295,7 @@ Page 7 of 30
                 forth in Subsection A above.
 
 
-         9.     SENIORITY AND LAYOFF
+### 9.     SENIORITY AND LAYOFF
          A.     Seniority, as used in this Agreement, is determined by the length of an employee's
                 continuous full-time service with the District as a Supervisor, 9-1-1. Unless leave is
                 protected leave under FMLA or OFLA, an employee will cease accruing seniority
@@ -343,7 +343,7 @@ Page 8 of30
                 date, the employee with the most overall time as an employee of the District shall
                 prevail.
 
-        10.     HOURS OF WORK
+### 10.     HOURS OF WORK
 
         A.      The regular hours of work each day shall be consecutive and shall include a one-
                 half ( l/2) hour paid lunch period.
@@ -406,7 +406,7 @@ Page 9 of 30
                 employee-initiated schedule change if the business or operational needs of the
                 District require it.
 
-         11.    COMPENSATION
+### 11.    COMPENSATION
          A.     Wages for employees in the bargaining unit shall be in accordance w ith the sala ry
                 schedule in the Appendixes which are attached hereto and by this reference
                 incorporated herein.
@@ -478,7 +478,7 @@ Page 11 of 30
                 in on-call activities, employees shall be entitled to four (4) hours of base pay per
                 month to be paid in the first pay period of each month.
 
-         12.    TRAVEL AND TRAINING TIME
+### 12.    TRAVEL AND TRAINING TIME
         A.      Out-of-town travel is covered by two sets of rules, depending on whether the
                 assignment is for one day or requires an overnight stay. If an employee is given a
                 one-day assignment in another city that does not require an overnight stay, all the
@@ -500,13 +500,13 @@ Page 11 of 30
                 worked in excess of their normally scheduled hours for the week. In cases where
                 training exceeds the normally scheduled hours for the week, overtime will be paid.
 
-         13.     WORKING OUT OF CLASSIFICATION
+### 13.     WORKING OUT OF CLASSIFICATION
                 Any employee assigned to perform the functions of a higher classification for more
                 than three continuous working shifts shall receive the pay for the higher
                 classification or a I 0% pre mium of the employee's regular wage, whichever is
                 greater.
 
-         14.    MILEAGE AND EXPENSES
+### 14.    MILEAGE AND EXPENSES
                 Reimbursement for travel and other incidental expenses will be made by the District
                 as provided in the then-current Travel and/or Miscellaneous Expense policies of
                 Deschutes County.
@@ -517,7 +517,7 @@ Page 11 of 30
 Deschutes 9- 1-1 Employees Association
 July l, 2024 - June 30, 2026
 Page 12 of 30
-       15.     PAY STEPS
+### 15.     PAY STEPS
        A.      An employee is eligible for a step increase on the first of the month following the
                employee's anniversary date in their current classification. An employee is eligible
                for step increases annually thereafter, until the employee reaches the top of the
@@ -530,7 +530,7 @@ Page 12 of 30
                increase may be grieved by the Association.
 
 
-        16.    FLEX TIME
+### 16.    FLEX TIME
 
                If employees are required to attend mandatory supervisory staff meetings, pre-
                approved training, fulfill short-term, unforeseen staffing or operational needs, or
@@ -545,7 +545,7 @@ Page 12 of 30
                after it accrues.
 
 
-        17.    COURT TIME
+### 17.    COURT TIME
         A.     Court time, as defined in this Agreement, is any legal, equitable, or administrative
                proceeding arising as a result of the performance of the employee's duties with the
                District, where the employee is subpoenaed to appear in court on a civil or criminal
@@ -563,7 +563,7 @@ Page 12 of 30
 Deschutes 9-1-1 Employees Association
 July 1, 2024 - June 30, 2026
 Page 13 of 30
-        18.     HOLIDAYS
+### 18.     HOLIDAYS
         A.      Employees will accrue 8.66 hours per month for personal time off in lieu of
                 holidays. Time off in lieu of holidays taken by employees will be deducted on an
                 hour-for-hour basis. In the event of death, termination or resignation of an employee
@@ -577,7 +577,7 @@ Page 13 of 30
                 Employees who have accrued more than 96 hours of personal (holiday) time as of July l of
                 the current fiscal year will forfeit any time above that 96-hour limit.
 
-        19.      TIME MANAGEMENT
+### 19.      TIME MANAGEMENT
                  The specific application of this section will be governed by the 9-1-1 Employee's
                  Association Time Management Supervisors Program (Appendix B of this
                  Agreement).
@@ -673,13 +673,13 @@ Page 15 of 30
         K.     Unused sick leave credits shall be converted to retirement benefits in accordance
                with ORS 257. I 53.
 
-        20.    WORKERS' COMPENSATION
+### 20.    WORKERS' COMPENSATION
                All employees will be insured through the State Accident Insurance Fw1d, a private
                insurer, or through self-insurance by the District, under the Oregon State Workers'
                Compensation Act for occupational disabilities while at work for the District.
 
 
-        21.     LEAVE OF ABSENCE WITH PAY
+### 21.     LEAVE OF ABSENCE WITH PAY
                 Employees may request the following types of leave of absence with pay:
 
          A.     An employee shall be granted two (2) shifts of bereavement leave with regular
@@ -712,7 +712,7 @@ Page 16 of30
                tired as to be unfit for duty. In those instances, the employee may utilize time
                management leave.
 
-        22.     LEAVE OF ABSENCE WITHOUT PAY
+### 22.     LEAVE OF ABSENCE WITHOUT PAY
         A.     Upon written application by an employee, leave without pay and other employee
                benefits may be granted by the Director after all accrued leave has been exhausted.
 
@@ -751,7 +751,7 @@ Page 17 of 30
                of both the leave of absence and the continuation of the employee's employee
                benefits.
 
-        23.    OTHER LEAVES
+### 23.    OTHER LEAVES
                Parental leave may be granted upon the request of an employee according to OFLA
                and FMLA. Parental leave may be extended or renewed for an additional period, at
                the discretion of the Director. Employees may be granted time off with pay for
@@ -760,11 +760,11 @@ Page 17 of 30
                intended to improve or upgrade the skill and professional ability of the employee in
                the Director's sole discretion.
 
-        24.    RETIREMENT
+### 24.    RETIREMENT
                The District shall be a participant in the Oregon Public Service Retirement Plan
                (OPSRP) and/or the Public Employee's Retirement System (PERS).
 
-        25.     INSURANCE
+### 25.     INSURANCE
         A.     Health insurance is to include the fo llowing:
 
                1.    Medical insurance
@@ -836,7 +836,7 @@ Page 18 of 30
 Deschutes 9-1-1 Employees Association
 July I, 2024 - June 30, 2026
 Page 19 of 30
-       26.     GRIEVANCE PROCEDURE
+### 26.     GRIEVANCE PROCEDURE
 
         A.         A grievance for the purpose of this Agreement is defined as an alleged violation of
                    a specific tenn of this Agreement. A day is defined as a calendar day.
@@ -922,7 +922,7 @@ Page 20 of 30
                 step of this procedure. If the parties agree in writing, Steps I, II and III may be
                 waived.
 
-        27.     DISCIPLINE AND DISCHARGE
+### 27.     DISCIPLINE AND DISCHARGE
         A.      Disciplinary actions shall include the following:
 
                 I.      Oral reprimand
@@ -964,7 +964,7 @@ Page 21 of30
                 of the investigative reports to respond either in writing or in person as to why the
                 proposed discipline would be inappropriate.
 
-        28.     PROBATIONARY PERIOD
+### 28.     PROBATIONARY PERIOD
         A.      Every new employee shall serve a probationary period of six (6) consecutive
                 months. If an employee takes leave greater than thirty (30) days during his or her
                 probationary period, the District may extend the employee's probationary period for
@@ -992,7 +992,7 @@ Page 22 of 30
                promotional probationary employees are subject to discipline consistent with
                Section 27.
 
-       29.     PERSONNEL FILE
+### 29.     PERSONNEL FILE
         A.     All of an employee's personnel files will be available for the employee's inspection
                during normal working hours by appointment with the Director. Should an
                employee desire a copy of any item in the files, such copy shall be provided to the
@@ -1011,7 +1011,7 @@ Page 22 of 30
                oral reprimands shall be deemed stale after twenty-four (24) months.
 
 
-        30.     RULES
+### 30.     RULES
                The parties jointly recognize the District's Governing Board and the Director are
                responsible to the citizens of the County and the public generally for the
                performance of the functions and services performed by the District. These
@@ -1030,7 +1030,7 @@ Page 23 of 30
                which have been or shall be reduced to writing, will be furnished to the Association.
 
 
-        31.    LABOR/MANAGEMENT COMMITTEE
+### 31.    LABOR/MANAGEMENT COMMITTEE
 
         A.     The Director shall meet at mutually convenient times with the Association
                Labor/Management Committee, ifsuch a committee exists. The Labor/Management
@@ -1046,7 +1046,7 @@ Page 23 of 30
                meetings shall be furnished by each party to the other. Matters of on-the-job safety
                may be raised at the meetings of the Labor/Management Committee.
 
-        32.     FUNDING
+### 32.     FUNDING
         A.     The parties recognize that revenue needed to fund the wages and benefits provided
                by the Agreement must be approved annually by established procedures, and in
                certain circumstances by vote of the citizens of Deschutes County. The level of
@@ -1079,7 +1079,7 @@ Page 24 of 30
                 the passage of such budget requests or voter approval thereof.
 
 
-         33.     SAVINGS CLAUSE
+### 33.     SAVINGS CLAUSE
                  Should a section, paragraph or portion thereof of this Agreement be held unlawful
                  and unenforceable by a court of competent jurisdiction over the subject matter, such
                  decision shall apply only to the specific section, paragraph or portion thereof
@@ -1093,7 +1093,7 @@ Page 24 of 30
 Deschutes 9-1- 1 Employees Association
 July I, 2024 - June 30, 2026
 Page 25 of 30
-         34.    DURATION
+### 34.    DURATION
                 This Agreement shall be effective July I, 2024, and shall remain in full force and
                 effective through June 30, 2026. After June 30, 2026, this Agreement shall be
                 automatically renewed from year to year, unless either the District or the
@@ -1141,7 +1141,7 @@ Page 25 of 30
 Deschutes 9-1-1 Employees Association
 July I , 2024 - June 30, 2026
 Page 26 of 30
-         34.     DURATION
+### 34.     DURATION
                  This Agreement shall be effective July I, 2024, and shall remain in full force and
                  effective through June 30, 2026. After June 30, 2026, this Agreement shall be
                  automatically renewed from year to year, unless either the District or the

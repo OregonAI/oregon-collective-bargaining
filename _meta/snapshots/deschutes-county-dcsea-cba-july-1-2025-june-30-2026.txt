@@ -123,7 +123,7 @@ Page 3 of 44
                DESCHUTES COUNTY SHERIFF EMPLOYEES ASSOCIATION
 
 
-    1.        PREAMBLE AND SCOPE
+### 1.        PREAMBLE AND SCOPE
 
          A.      This Agreement is entered into this 1st day of July, 2025, by and
                  between DESCHUTES COUNTY, a political subdivision of the
@@ -138,7 +138,7 @@ Page 3 of 44
                  elected officials, supervisors, confidential employees, and
                  volunteers.
 
-    2.        RECOGNITION
+### 2.        RECOGNITION
 
          A.      The County recognizes the Association as the sole and exclusive
                  representative with respect to wages, hours and specified
@@ -203,7 +203,7 @@ Page 4 of 44
                  Agreement. Negotiations under the above provisions shall last no
                  longer than 30 days.
 
-    3.        ASSOCIATION DUES AND FAIR SHARE PAYMENTS
+### 3.        ASSOCIATION DUES AND FAIR SHARE PAYMENTS
 
          A.      When an employee provides written authorization to the County,
                  the County will deduct from the employee’s salary an amount equal
@@ -237,7 +237,7 @@ Page 5 of 44
                 County shall be responsible for any claims related to its failure to
                 comply with that request.
 
-    4.        MANAGEMENT RIGHTS
+### 4.        MANAGEMENT RIGHTS
 
          A.     The County retains all the customary, usual and exclusive rights,
                 decision-making, prerogatives, functions, and authority connected
@@ -320,7 +320,7 @@ Page 7 of 44
                                cross training and to assign employees to such duties
                                for periods to be determined by the County.
 
-    5.        EMPLOYEE RIGHTS
+### 5.        EMPLOYEE RIGHTS
 
          A.      Employees shall have the right to form, join and participate in the
                  activities or matters of their own choosing, for the purpose of
@@ -336,7 +336,7 @@ Page 7 of 44
                  physical or mental disability, union affiliation or political affiliation,
                  except for bona fide job requirements.
 
-    6.        NO STRIKES AND NO LOCKOUTS
+### 6.        NO STRIKES AND NO LOCKOUTS
 
          A.      The Association and its members, as individuals or a group, will not
                  initiate, cause, promote, permit, participate in or join in any strike,
@@ -363,7 +363,7 @@ Page 8 of 44
                   stoppage, or by whether such subject matter is or is not subject to
                   the provisions of the Agreement.
 
-    7.        ASSOCIATION BUSINESS
+### 7.        ASSOCIATION BUSINESS
 
          A.       Members of the bargaining unit elected to serve as authorized
                   representatives of the Association shall perform their duties as
@@ -386,14 +386,14 @@ Page 8 of 44
                   Association shall reimburse the Sheriff’s Office for expenses
                   exceeding $250 per fiscal year.
 
-    8.        BULLETIN BOARD
+### 8.        BULLETIN BOARD
 
               The County agrees to maintain a minimum of four (4) square feet of
               bulletin board space in each separate division and/or building used by
               Sheriff personnel to be used by the Association, not to exceed a total of
               six (6) bulletin boards.
 
-    9.        OUTSIDE EMPLOYMENT
+### 9.        OUTSIDE EMPLOYMENT
 
          A.       Authorization for an employee to engage in outside employment
                   shall be granted by the Sheriff if, in the reasonable judgment of the
@@ -420,7 +420,7 @@ Page 9 of 44
                   if the employee or employment violates any of the conditions set
                   forth in Section A above.
 
-    10.        SENIORITY AND LAYOFF
+### 10.        SENIORITY AND LAYOFF
 
           A.      Seniority, as used in this Agreement, is determined by the length of
                   an employee’s continuous full-time service with the Sheriff’s Office.
@@ -480,7 +480,7 @@ Page 10 of 44
                  bidding and vacation bidding within the part-time classifications
                  only.
 
-    11.        HOURS OF WORK
+### 11.        HOURS OF WORK
 
           A.     A normal workday is defined as a twenty-four (24) hour period
                  commencing with the beginning of the employee’s scheduled shift
@@ -536,7 +536,7 @@ Page 11 of 44
                   situation, changes in work schedules shall be posted fourteen (14)
                   days prior to the effective date of the change.
 
-    12.        WORKING OUT OF CLASSIFICATION
+### 12.        WORKING OUT OF CLASSIFICATION
 
           A.      An employee designated to work temporarily for a period of forty
                   (40) consecutive hours or more in a higher classification shall be
@@ -558,7 +558,7 @@ Page 12 of 44
                      benefits covered by this Agreement. Association dues will
                      continue to be deducted during the temporary assignment.
 
-    13.        COMPENSATION
+### 13.        COMPENSATION
 
           A.     Effective July 1, 2025, the wage schedule shall be amended to
                  reflect a COLA equal to the “average 12-month CPI percentage”
@@ -660,7 +660,7 @@ Page 14 of 44
                   Compensation:
                     x 50 hours Compensatory Bank issued upon hire date.
 
-    14.        MILEAGE AND EXPENSE REIMBURSEMENT
+### 14.        MILEAGE AND EXPENSE REIMBURSEMENT
 
           A.      An employee authorized and directed to utilize their own vehicle in
                   the performance of official County duties shall be compensated at
@@ -680,7 +680,7 @@ Page 14 of 44
                   made with the Division Commander. If using your POV, no
                   reimbursement of fuel or mileage will occur.
 
-    15.        PAY STEPS
+### 15.        PAY STEPS
 
           A.      An employee shall advance to the next step of their pay range upon
                   completion of the first 12 months of their probationary period and
@@ -707,13 +707,13 @@ Page 15 of 44
                   increase, or if the performance evaluation includes criticism of an
                   employee for which progressive discipline has never been utilized,
                   then the performance evaluation may be grieved through Step 2 of
-                  Article 35. However, if the Sheriff uses the performance evaluation
+### Article 35. However, if the Sheriff uses the performance evaluation
                   process for other than evaluating the performance of employees in
                   order to deny employees step increases, a pattern of improper
                   evaluations may be grieved by the Association through Step 3 of
                   Article 35.
 
-    16.        OVERTIME & COMPENSATORY TIME
+### 16.        OVERTIME & COMPENSATORY TIME
 
           A.      Overtime, as used in this Agreement, shall mean that time an
                   employee is authorized and directed to work in excess of their
@@ -735,7 +735,7 @@ Page 15 of 44
 
           E.      Sergeants are not eligible for compensatory time.
 
-    17.        COURT TIME
+### 17.        COURT TIME
 
           A.      Court time, as defined in this Agreement, is any legal, equitable, or
                   administrative proceeding arising as a result of the performance of
@@ -763,7 +763,7 @@ Page 16 of 44
                    scheduled shift, or for which the employee is entitled to
                    compensation by the County, shall be turned over to the County.
 
-    18.        CALL BACK TIME
+### 18.        CALL BACK TIME
 
           A.       When the employees are recalled by the County to active duty, they
                    shall be compensated at the overtime rate for a minimum of four (4)
@@ -777,7 +777,7 @@ Page 16 of 44
                    If no bargaining unit personnel are available from the list to work,
                    then reserve personnel may be used.
 
-    19.        LONGEVITY
+### 19.        LONGEVITY
 
                Full-time employees who have worked continuously for the County shall
                receive additional pay per pay period for each five years of continuous
@@ -793,7 +793,7 @@ Page 16 of 44
 
 
 Page 17 of 44
-    20.        PROFESSIONAL CERTIFICATION
+### 20.        PROFESSIONAL CERTIFICATION
 
                Each employee who qualifies for payment under this Section shall be
                paid for professional certification as follows:
@@ -835,7 +835,7 @@ Page 17 of 44
                   to payment under only one paragraph.           Premiums are not
                   cumulative.
 
-    21.        EDUCATION EXPENSES
+### 21.        EDUCATION EXPENSES
 
           A.      The County will supplement State and Federal police education
                   funding with County funds, if necessary, to provide partial
@@ -880,7 +880,7 @@ Page 18 of 44
                            definition of “highly compensated individual” are not
                            eligible for such reimbursement.
 
-    22.        HOLIDAYS
+### 22.        HOLIDAYS
 
           A.     Except for sergeants, each employee in the bargaining unit shall be
                  entitled to receive one hundred four (104) hours per year of
@@ -907,7 +907,7 @@ Page 19 of 44
           D.      Accrued holiday time may be paid to an employee or their
                   beneficiary in the event of death or separation of employment.
 
-    23.        VACATION TIME
+### 23.        VACATION TIME
 
           A.      Sergeants are not eligible for vacation time under this Article 23.
                   Instead, sergeants will accrue time management leave pursuant to
@@ -1038,7 +1038,7 @@ Page 22 of 44
                         payment for the cash value of the amount of such leave they
                         elected to sell back in their paycheck for November of 2026.
 
-    24.        SICK LEAVE
+### 24.        SICK LEAVE
 
           A.      Sergeants are not eligible for sick leave under this Article 24.
                   Instead, Sergeants shall accrue time management leave pursuant
@@ -1158,7 +1158,7 @@ Page 24 of 44
                employee leaves work or loses wages as a result of a compensable
                injury.
 
-    27.        LEAVE OF ABSENCE WITH PAY
+### 27.        LEAVE OF ABSENCE WITH PAY
 
           A.       Employees shall be granted not more than three (3) days funeral
                    leave with regular salary in the event of death in the immediate
@@ -1190,7 +1190,7 @@ Page 25 of 44
                   employee provides confirming documentation (military orders,
                   training/drill schedule or other official documents) for the absence.
 
-    28.        LEAVE OF ABSENCE WITHOUT PAY
+### 28.        LEAVE OF ABSENCE WITHOUT PAY
 
           A.      Except as otherwise required by law, requests for leaves of
                   absence without pay may be approved in accordance with the
@@ -1211,7 +1211,7 @@ Page 25 of 44
           E.      Failure of an employee to pay the premiums for benefits in advance
                   shall result in the termination of the leave of absence.
 
-    29.        OTHER LEAVES
+### 29.        OTHER LEAVES
 
           A.      Parental leave, not to exceed six months, may be granted without
                   pay upon request of the employee. Parental leave may be
@@ -1280,7 +1280,7 @@ Page 26 of 44
 
 
 Page 27 of 44
-    30.        JURY DUTY
+### 30.        JURY DUTY
 
                Employees shall be granted leave with pay for service upon a jury,
                provided, however, that any money, other than mileage for personal
@@ -1290,7 +1290,7 @@ Page 27 of 44
                contact his or her supervisor for assignment for the remainder of their
                regular work day.
 
-    31.        RETIREMENT
+### 31.        RETIREMENT
 
                The County shall be a participant in the Public Employees Retirement
                System (PERS)/Oregon Public Service Retirement Plan (OPSRP), or its
@@ -1318,7 +1318,7 @@ Page 27 of 44
                monthly insurance premiums until eligible for Medicare, in accordance
                with a schedule approved by the County.
 
-    32.         INSURANCE
+### 32.         INSURANCE
 
           A.       Health insurance is to include the following:
                          (1) Medical Insurance
@@ -1394,7 +1394,7 @@ Page 29 of 44
                  family or designee. This payment shall not be in lieu of any other
                  benefit.
 
-    33.        UNIFORMS AND EQUIPMENT
+### 33.        UNIFORMS AND EQUIPMENT
 
           A.     If an employee is required to wear a uniform, protective clothing, or
                  any type of protective device, such uniform shall be provided,
@@ -1426,7 +1426,7 @@ Page 30 of 44
                    result of being promoted, shall not be required to repay the unused
                    portion of their allowance.
 
-    34.        FIREARMS AND FIREARMS TRAINING
+### 34.        FIREARMS AND FIREARMS TRAINING
 
           A.       The Sheriff’s Office will issue required firearms to all sworn
                    deputies.
@@ -1448,7 +1448,7 @@ Page 30 of 44
                    outside of an employee’s regularly scheduled shift, employees shall
                    be paid an additional hour of wages at their overtime rate of pay.
 
-    35.        GRIEVANCE PROCEDURE
+### 35.        GRIEVANCE PROCEDURE
 
           A.       A grievance for the purpose of this Agreement is defined as a
                    dispute regarding the alleged violation of this Agreement.
@@ -1554,7 +1554,7 @@ Page 32 of 44
                        g. If the parties agree in writing, Steps I, and II, may be
                           waived.
 
-    36.    DISCIPLINE AND DISCHARGE
+### 36.    DISCIPLINE AND DISCHARGE
 
           A.    Disciplinary actions include the following:
 
@@ -1620,7 +1620,7 @@ Page 34 of 44
           H.    The employee is entitled to a complete copy of the investigative
                 report prior to any pre-disciplinary hearing.
 
-    37.    PROBATIONARY PERIOD
+### 37.    PROBATIONARY PERIOD
 
           A.    Every new employee shall serve a probationary period of eighteen
                 (18) consecutive months. Once the employee has successfully
@@ -1642,14 +1642,14 @@ Page 34 of 44
                 make available to the employee the next open position in the
                 employee’s former classification.
 
-    38.    DRUG AND ALCOHOL POLICY
+### 38.    DRUG AND ALCOHOL POLICY
 
            The Deschutes County Sheriff’s Office drug and alcohol policy is
            applicable to all employees of the agency. Any policy will have the
            approval of Sheriff’s management and Association before becoming
            effective.
 
-    39.    GRIEVANCE COMMITTEE
+### 39.    GRIEVANCE COMMITTEE
 
           A.    The Sheriff shall meet at mutually convenient times with the
                 Association Grievance Committee, if such a committee exists. The
@@ -1669,7 +1669,7 @@ Page 35 of 44
                 parties. Prior notice of topics for discussion at such meetings shall
                 be furnished by each party to the other.
 
-    40.    ASSOCIATION REPRESENTATIVE
+### 40.    ASSOCIATION REPRESENTATIVE
 
            Employees selected by the Association to act as Association
            Representatives shall be known as Association Representatives. The
@@ -1684,7 +1684,7 @@ Page 35 of 44
            Association Representatives and employees, except for the
            aforementioned meetings, shall be made outside working hours.
 
-    41.    PERSONNEL FILE
+### 41.    PERSONNEL FILE
 
            All of an employee’s personnel files will be available for the employee’s
            inspection during normal working hours. Should an employee desire a
@@ -1697,7 +1697,7 @@ Page 35 of 44
            affected employee except where such release is compelled by either an
            order of a court or by State law.
 
-    42.    RULES
+### 42.    RULES
 
            The parties jointly recognize that as elected officials, the County
            Commissioners and the Sheriff of Deschutes County are directly
@@ -1718,7 +1718,7 @@ Page 36 of 44
                be paramount. All work rules which have been or shall be reduced to
                writing, will be furnished to the Association.
 
-    43.        FUNDING
+### 43.        FUNDING
 
           A.       The parties recognize that revenue needed to fund the wages and
                    benefits provided by the Agreement must be approved annually by
@@ -1752,7 +1752,7 @@ Page 36 of 44
                    Agreement but makes no guarantee as to the passage of such
                    budget requests or voter approval thereof.
 
-    44.        TRANSFERS
+### 44.        TRANSFERS
 
                Employees shall be eligible to apply for any job openings in the Sheriff’s
                Office for which they meet the minimum entry requirements for the job.
@@ -1763,7 +1763,7 @@ Page 36 of 44
 
 
 Page 37 of 44
-    45.        SAVINGS CLAUSE
+### 45.        SAVINGS CLAUSE
 
                Should any section, paragraph or portion thereof of this Agreement be
                held unlawful and unenforceable by a court of competent jurisdiction, or
@@ -1775,7 +1775,7 @@ Page 37 of 44
                immediately to enter into negotiations for a substitute, if possible, for the
                invalidated section, paragraph or portion thereof.
 
-    46.        COMPLETE AGREEMENT
+### 46.        COMPLETE AGREEMENT
 
                This document is the complete agreement between the parties. By
                acceptance of this Agreement, the parties agree that the statements
@@ -1787,7 +1787,7 @@ Page 37 of 44
                Office agrees to bargain those changes which constitute or impact
                mandatory subjects of bargaining pursuant to ORS. Chapter 243.
 
-    47.        DURATION
+### 47.        DURATION
 
           A.       This Agreement shall be effective beginning July 1, 2025, and shall
                    remain in full force and effect through June 30, 2026, when it
@@ -1871,7 +1871,7 @@ OFFICE
 
 
        Page 40 of 44
-                                                 APPENDIX B
+### APPENDIX B
 
 
 

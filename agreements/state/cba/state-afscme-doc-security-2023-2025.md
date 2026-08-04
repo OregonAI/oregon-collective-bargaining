@@ -16,12 +16,11 @@ agency_registry_slugs: []
 source_url: https://www.oregon.gov/das/HR/CBA/AFSCME%20DOC%20Security%202023-2025.pdf
 source_format: pdf
 retrieved: '2026-08-02'
-source_sha256: 4a60accd1bbc82c296674a3d345572d04e3b0fa7b21cfefd9afeb5efe74f888a
+source_sha256: ad3f95415ead667648b03e974ce2940e26287e2d65383487352c4a858362dda9
 snapshot_policy: hash-only
 status: superseded
-content_mode: summary
-reproduction_basis: 'jointly-authored contract; summary + official link per the class determination
-  in corpus.yml schema.doc_types (verbatim: false)'
+content_mode: 'verbatim'
+reproduction_basis: 'public record of a public body (ORS 192.311-192.478); the employer publishes the executed agreement in full at source_url; a ratified agreement is an official act (Georgia v. Public.Resource.Org, 590 U.S. 255 (2020)) — mirrored in full per the class determination in corpus.yml schema.doc_types (verbatim: true)'
 conversion_notes: pdftotext -layout; 205 pages, 607121 characters extracted; NOT human-verified
 last_verified: ''
 verified_by: ''
@@ -46,8 +45,8 @@ tags:
 - state-workforce
 ---
 
-> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated
-> summary, not the agreement's official text. Verify against the official
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a non-authoritative
+> mirror of the agreement's text, not the official record. Verify against the official
 > source: https://www.oregon.gov/das/HR/CBA/AFSCME%20DOC%20Security%202023-2025.pdf (retrieved 2026-08-02).
 
 # AFSCME DOC Security 2023-2025
@@ -59,18 +58,11 @@ Collective bargaining agreement between the State of Oregon (DAS Labor Relations
 - Bargaining unit (LRU chart): AFSCME ODOC Security — repr. code AAOS
 - Source document: 205 pages (PDF, DAS CBA library)
 
-This corpus is **summary-first for agreements**: the contract's text is not
-reproduced here (see Curator notes), and nothing on this page states or
-paraphrases the agreement's terms. Read the agreement itself at the official
-source link above.
 
 ## Curator notes
 
-Summary-first is the recorded class determination (`corpus.yml
-schema.doc_types`, `verbatim: false`): a CBA is jointly authored with private
-parties, and "public record" and "freely reproducible" are not the same claim.
-If the operator later flips the class, full text lands in a follow-up PR — the
-committed snapshot extraction already carries what would be diffed.
+The full executed text is mirrored below from the committed extraction; the
+official PDF at the source link above remains the authoritative record.
 
 Letters of agreement bound into this PDF by DAS are part of this source
 snapshot; separately-published LOAs are their own documents in a later tranche.
@@ -85,3 +77,9832 @@ Statutes and rules the agreement's text cites are recorded in frontmatter
 `relationships.references_external` (8 citation(s)) and resolve into
 `executive-regulatory-frameworks` as cites — this corpus asserts no
 `implements` edge anywhere.
+
+## Full text
+
+             between
+
+             DAS
+         THE DEPARTMENT OF
+       ADMINISTRATIVE SERVICES
+           on behalf of the
+ OREGON DEPARTMENT OF CORRECTIONS
+
+                 and
+
+
+
+        AFSCME
+            COUNCIL 75,
+AMERICAN FEDERATION OF STATE, COUNTY,
+ AND MUNICIPAL EMPLOYEES (AFL-CIO)
+TABLE OF CONTENTS
+
+ARTICLE 1 - SCOPE OF AGREEMENT .................................................................................. 5
+ARTICLE 2 - TERM OF AGREEMENT .................................................................................... 7
+ARTICLE 3 - UNION SECURITY .............................................................................................. 7
+ARTICLE 4 - UNION/MANAGEMENT MEETINGS ................................................................ 13
+ARTICLE 5 - LEGISLATIVE ACTION .................................................................................... 13
+ARTICLE 6 - EFFECT OF LAWS AND RULES ..................................................................... 14
+ARTICLE 7 - SEPARABILITY OF PROVISIONS ................................................................... 14
+ARTICLE 9 - EQUAL OPPORTUNITY ................................................................................... 14
+ARTICLE 10 - MANAGEMENT RIGHTS ................................................................................ 15
+ARTICLE 11 - CONTRACTING OUT ..................................................................................... 15
+ARTICLE 12 - INSURANCE ................................................................................................... 15
+ARTICLE 13 - SALARY AND WAGES .................................................................................. 16
+ARTICLE 14 - SALARY ADMINISTRATION .......................................................................... 18
+ARTICLE 15 - OVERTIME ...................................................................................................... 21
+ARTICLE 16 - DIFFERENTIALS ............................................................................................ 23
+ARTICLE 17 - CALL-BACK TIME .......................................................................................... 25
+ARTICLE 18 - REPORTING PAY ........................................................................................... 26
+ARTICLE 19 - ON-CALL ........................................................................................................ 26
+ARTICLE 20 - WORK OUT OF CLASSIFICATION................................................................ 27
+ARTICLE 21 - LEADWORK DIFFERENTIAL......................................................................... 28
+ARTICLE 22 - TRAVEL AND MOVING EXPENSE ................................................................ 29
+ARTICLE 23 - EMERGENCIES .............................................................................................. 29
+ARTICLE 24 – USE OF ALCOHOL AND DRUGS ................................................................. 30
+ARTICLE 25 - WORKING CONDITIONS ............................................................................... 35
+Coffee Creek Correctional Facility ....................................................................................... 43
+Columbia River Correctional Institution.............................................................................. 51
+Deer Ridge Correctional Institution ..................................................................................... 57
+Eastern Oregon Correctional Institution ............................................................................. 63
+OSP Minimum Facility* ......................................................................................................... 71
+Powder River Correctional Facility ...................................................................................... 73
+Santiam Correctional Institution .......................................................................................... 81
+Shutter Creek Correctional Institution ................................................................................ 86
+Snake River Correctional Institution ................................................................................... 91
+Transport ............................................................................................................................... 98
+Two Rivers Correctional Institution ................................................................................... 101
+Warner Creek Correctional Facility ................................................................................... 106
+ARTICLE 26 - UNIFORMS AND PROTECTIVE CLOTHING ............................................... 112
+ARTICLE 27 - EMPLOYEE FACILITIES .............................................................................. 113
+ARTICLE 28 - INCLEMENT CONDITIONS .......................................................................... 113
+ARTICLE 29 - SAFETY AND HEALTH ................................................................................ 114
+ARTICLE 30 – BEREAVEMENT LEAVE ............................................................................. 115
+ARTICLE 31 - HOLIDAYS .................................................................................................... 115
+                                                           ii                                               Collective Bargaining Agreement
+ARTICLE 32 - VACATION LEAVE ....................................................................................... 117
+CCCF…............................................................................................................................. …120
+CRCI…. ................................................................................................................................. 121
+DRCI…. ................................................................................................................................. 123
+EOC….I ................................................................................................................................. 123
+PRCF… ................................................................................................................................. 124
+SCCI…. ................................................................................................................................. 125
+SCI…… ................................................................................................................................. 126
+SRCI…. ................................................................................................................................. 126
+Transport ............................................................................................................................. 126
+TRCI….. ................................................................................................................................ 127
+WCCF… ................................................................................................................................ 128
+ARTICLE 33 - SICK LEAVE WITH PAY............................................................................... 128
+ARTICLE 34 - SICK LEAVE WITHOUT PAY ....................................................................... 132
+ARTICLE 35 - FAMILY LEAVE ............................................................................................ 133
+ARTICLE 36 - LEAVES WITH PAY ...................................................................................... 134
+ARTICLE 37 - LEAVE OF ABSENCE WITHOUT PAY ........................................................ 135
+ARTICLE 38 - PRE-RETIREMENT COUNSELING LEAVE ................................................. 136
+ARTICLE 39.......................................................................................................................... 137
+ARTICLE 40 - PROMOTIONS/ADVANCEMENT ................................................................. 137
+ARTICLE 41 - TRIAL SERVICE ........................................................................................... 138
+ARTICLE 42 - TRAINING/EDUCATION ............................................................................... 138
+ARTICLE 43 - JOB SHARING .............................................................................................. 139
+ARTICLE 44 - LAYOFF PROCEDURE ................................................................................ 140
+ARTICLE 45 - REVIEW OF CLASSIFICATION SERIES ..................................................... 145
+ARTICLE 46 - RECLASSIFICATION PROCEDURE ............................................................ 145
+ARTICLE 47 - EMPLOYEE RIGHTS .................................................................................... 148
+ARTICLE 48 - LIMITED DURATION APPOINTMENT ......................................................... 151
+ARTICLE 49 - PERSONNEL FILES ..................................................................................... 152
+ARTICLE 50 - DISCIPLINE AND DISCHARGE ................................................................... 152
+ARTICLE 51 - GRIEVANCE AND ARBITRATION ............................................................... 154
+ARTICLE 52 - GENERAL PROVISIONS .............................................................................. 157
+ARTICLE 53 - STRESS/CAREER COUNSELING ............................................................... 157
+ARTICLE 54 – PAYMENT OF LEGAL DEFENSE EXPENSES FOR CRIMINAL CASES ... 158
+ARTICLE 55 – FIRE ASSIGNMENTS .................................................................................. 158
+ARTICLE 56 – CHECK-INS .................................................................................................. 161
+ARTICLE 57 – LETTERS OF EXPECTATION ..................................................................... 162
+ARTICLE 58 – AIR QUALITY ............................................................................................... 162
+LETTER OF AGREEMENT #1 – PEBB MEMBER ADVISORY COMMITTEE (PMAC) ....... 163
+LETTER OF AGREEMENT #2 – IMPLEMENTATION OF NEW CLASSIFICATIONS
+APPEALS PROCESS ........................................................................................................... 164
+LETTER OF AGREEMENT #3 – VETERANS’ PREFERENCE............................................ 166
+LETTER OF INTERPRETATION #4 - ARTICLE 3, SECTION 4 (UNION RIGHTS) ............. 167
+LETTER OF AGREEMENT #5 – SURVIVOR INSURANCE................................................. 168
+
+                                                           iii                                              Collective Bargaining Agreement
+LETTER OF AGREEMENT # 6 – SRCI HOSPITAL WATCH MEALS ................................. 170
+LETTER OF AGREEMENT #7 – SALEM TRANSPORT OFFICE SECURITY STAFF
+WORKING MANDATORY OVERTIME AT SCI .................................................................... 171
+LETTER OF AGREEMENT #8 – LEDS CERTIFIED WARRANT DIFFERENTIAL SANTIAM
+CORRECTIONAL INSTITUTION .......................................................................................... 172
+LETTER OF AGREEMENT #9 – TRCI SECURITY UNIT TOOL AND KEY SERGEANT
+EXEMPT POST..................................................................................................................... 173
+LETTER OF AGREEMENT #10 – PRCF SECURITY POSITIONS ...................................... 174
+LETTER OF AGREEMENT #11 – PRCF SEASONAL ADULT IN CUSTODY WORK CREW
+SUPERVISOR....................................................................................................................... 175
+LETTER OF AGREEMENT #12 – MANDATORY OVERTIME ASSIGNMENTS AT SRCI .. 177
+LETTER OF AGREEMENT #13 – TRANSPORT SECURITY STAFF WORKING
+VOLUNTARY OVERTIME AT CCCF ................................................................................... 178
+LETTER OF AGREEMENT #14 - SEXUAL ABUSE RESPONSE TEAM (SART) MEMBER
+DIFFERENTIAL PILOT ......................................................................................................... 179
+LETTER OF AGREEMENT #15 – PAY EQUITY .................................................................. 180
+LETTER OF AGREEMENT #16 – CONTRACT SPECIALIST ............................................. 183
+LETTER OF AGREEMENT #17 - TRCI VOLUNTARY OVERTIME SIGNUPS .................... 186
+LETTER OF AGREEMENT # 18 – PILOT BIANNUAL VACATION BIDDING DEER RIDGE
+CORRECTIONAL FACILITY ................................................................................................ 188
+LETTER OF AGREEMENT #19 – ESSENTIAL WORKER INCLEMENT
+WEATHER/HAZARDOUS CONDITIONS PAY .................................................................... 189
+LETTER OF AGREEMENT #20 – NATURAL DISASTER LEAVE ...................................... 190
+LETTER OF AGREEMENT #21 – COMPENSATION – WAGE AND BENEFITS – ‘ME TOO’
+.............................................................................................................................................. 191
+LETTER OF AGREEMENT #22 – CRCI BIDDING ............................................................... 192
+LETTER OF AGREEMENT # 23 - STAFF HEALTH, WELLNESS, AND RECRUITMENT AND
+RETENTION PILOT (DRCI) .................................................................................................. 194
+LETTER OF AGREEMENT #24 - OPSRP EMPLOYEE SICK LEAVE CONVERSION PILOT
+PROGRAM ........................................................................................................................... 196
+LETTER OF AGREEMENT #25 — BI-WEEKLY PAY PERIOD ........................................... 197
+LETTER OF AGREEMENT #26 – ONE-TIME COLA PAYMENT ........................................ 199
+LETTER OF AGREEMENT #27 – SALARY RANGE TRUNCATION .................................. 200
+APPENDIX A DEPARTMENT OF ADMINISTRATIVE SERVICES ...................................... 201
+HUMAN RESOURCES DIVISION POLICIES APPLICABLE TO BARGAINING UNIT ........ 201
+APPENDIX B - CLASSIFICATION PLAN ............................................................................ 202
+APPENDIX C - SALARY SCHEDULE .................................................................................. 203
+SIGNATURE PAGE .............................................................................................................. 204
+
+
+
+
+                                                              iv                                                Collective Bargaining Agreement
+### ARTICLE 1 - SCOPE OF AGREEMENT
+
+Section 1.
+This Agreement is made and entered into by and between the State of Oregon (hereinafter the
+"Employer"), acting through its Department of Administrative Services, Labor Relations Unit on
+behalf of the Department of Corrections (hereinafter the "Agency"), and the American
+Federation of State, County, and Municipal Employees Council 75 (AFL-CIO) (hereinafter the
+"Union"), and is binding upon the Union Agency and the Employer and all designated
+representatives of the Union, Agency and the Employer.
+
+Section 2.
+The Employer and Agency recognize the Union as the sole and exclusive bargaining agent for
+the employees within the certified or recognized bargaining units. All aspects of the
+employees' wages, hours, and other terms and conditions of employment shall be determined
+by this Agreement, except in regard to recruitment and selection of applicants for initial
+appointment to State service. The terms and conditions of employment set forth in this
+Agreement shall apply to all classified positions (except temporary positions and those
+positions excludable by ORS 243.650) within the appropriate bargaining units within the
+Department of Corrections which are:
+
+All employees in the strike prohibited classifications of Correctional Officer, Correctional
+Corporal and Correctional Sergeant within the Department of Corrections, excluding
+supervisory, managerial and confidential employees as defined in ORS 243.650, temporary
+employees and employees represented by the Association of Oregon Corrections Employees
+at Oregon State Penitentiary, Oregon State Correction Institution, South Fork Forest Camp
+and Mill Creek Correctional Facility.
+
+Section 3.
+If the Agency establishes a new position which is not clearly excluded from the bargaining unit
+under ORS 243.650 or reclassifies an existing bargaining unit position, the Agency shall notify
+the Union in writing within seven (7) days following the action, as to whether or not it believes
+the classification to be within the bargaining unit. The Union must notify the Employer in
+writing within ten (10) days from receipt of the notification if it disagrees about the inclusion or
+exclusion of the classification in the bargaining unit or the matter becomes closed. If notice of
+the disagreement is received within the ten (10)-day period, the Parties shall meet within
+fourteen (14) days of above notification to discuss the matter. If an agreement is not reached
+within thirty (30) days, the Union may submit the matter to the Employment Relations Board.
+Should the matter not be submitted to the Employment Relations Board within the specified
+thirty (30)-day period, the matter shall be considered resolved.
+
+Section 4.
+This contract incorporates the sole and complete Agreement between the Agency and the
+Union resulting from negotiations held pursuant to the provisions of ORS 243.650 et seq and
+supersedes all prior labor contracts. It is acknowledged that during negotiations which
+resulted in this Agreement, each party had the unlimited right and opportunity to make
+demands and proposals with respect to any subject or matter appropriate for collective
+bargaining and that the understandings and agreements arrived at by the Parties after the
+exercise of that right and opportunity are set forth in this Agreement. It shall not be modified in
+whole or in part except by another written instrument duly executed by the Parties.
+
+                                          5                                  Collective Bargaining Agreement
+Section 5.
+a.    This agreement will prevail whenever there is a conflict with applicable Employer Chief
+      Human Resource Office Personnel Policies and Agency Procedures relating to their
+      implementation, consistent with Appendix A.
+
+b.    Other policies, procedures, and rules of the Agency which directly relate to mandatory
+      subjects of bargaining as defined by statute and which affect bargaining unit members
+      on the day this Agreement becomes effective shall be continued, unless modified or
+      deleted elsewhere in this Agreement. Should the Agency wish to change such a policy,
+      procedure, or rule, or to issue a new one, notice will be given to the Union. If the Union
+      believes the policy, procedure, or rule to be unreasonable, then within seven (7) days of
+      the date upon which the Union knows, or by reasonable diligence should have known,
+      of the subject action, the Union shall request that the Agency meet to discuss the issue.
+
+c.    Such meeting shall occur within fifteen (15) days of:
+      1.   Agreement that the issue is a mandatory subject, or
+
+      2.    An Employment Relations Board ruling that the issue is a mandatory subject of
+            bargaining.
+
+      If agreement which alters the policy, procedure or rule is reached, it shall be reduced to
+      writing and signed by both Parties. If the Parties are unable to reach an agreement
+      within fourteen (14) days following the Level C meeting and the Union continues to
+      believe the policy, procedure, or rule to be unreasonable, it shall notify the Agency in
+      writing of its intent to submit the matter to interest arbitration. Such written notification
+      must be made during the fifteen (15)-day period immediately following the above
+      mentioned fourteen (14)-day period. Failure to file such written notification within the
+      prescribed time shall be understood by both Parties to waive the Union's right to any
+      further objection.
+
+d.    The Parties shall meet within the five (5) days immediately following receipt of
+      notification of the Union's desire to arbitrate and select an arbitrator. Selection of an
+      arbitrator shall be as prescribed in Article 51, Grievance and Arbitration.
+
+e.    The Parties agree that the decision or award of the arbitrator shall be final and binding
+      on each of the Parties and that they will abide thereby, unless the award is vacated
+      pursuant to statute. The power of the arbitrator in this process shall be limited to
+      determine whether the policy, procedure, or rule is unreasonable.
+
+      If the arbitrator's ruling is that the policy, procedure, or rule is unreasonable, the Agency
+      shall immediately withdraw the policy, procedure or rule.
+
+f.    The arbitrator's fee and expenses shall be paid by the losing party. If, in the opinion of
+      the arbitrator, neither party can be considered the losing party, then such expenses
+      shall be apportioned as in the arbitrator's judgment is equitable. All other expenses
+      shall be borne exclusively by the party requiring the service or item for which payment
+      is to be made.
+
+g.    Time limits specified in this procedure must be observed, unless either party requests a
+
+                                         6                                  Collective Bargaining Agreement
+      specific extension of time, which, if agreed to, must be stipulated in writing and shall
+      become part of the record.
+
+### ARTICLE 2 - TERM OF AGREEMENT
+
+Section 1.
+This Agreement, and attachments hereto, shall be in full force and effect from the date of
+signing of this Agreement, unless otherwise indicated in this Agreement, through June 30,
+2025.
+
+Section 2.
+The bargaining team shall consist of one (1) member from each local covered by the terms of
+this Agreement. The Union may utilize up to one hundred (100) hours leave with pay per
+designated bargaining team representative for the purpose of actual negotiations. The one
+hundred (100) hours may be increased by mutual agreement of the employer and union.
+
+Reasonable travel time to and from bargaining will be allowed on regular paid time if on an
+employee’s regular work hours and will not be included in the above bargaining time.
+
+Section 3.
+Negotiations for a successor agreement will commence between January 2, 2025, and
+February 15, 2025, or sooner upon mutual agreement of the Parties.
+                                                                        Rev: 2015, 2017, 2019, 2021,2024
+
+
+### ARTICLE 3 - UNION SECURITY
+
+Section 1. New Employees.
+a.    The Agency agrees to inform all new employees hired into positions included in the
+      bargaining unit of the Union's exclusive recognition, and shall provide all present and
+      future employees in the bargaining unit with a copy of its Agreement, provided the
+      Parties shall share equally in the costs of preparation and distribution of the Agreement.
+
+b.    Union Reports.
+      1.       The Employer shall provide the Union, in an editable digital file format the
+               following information:
+            i.        Employees name, date of hire, EIN;
+           ii.        Contact information including cell, home and work telephone numbers
+                      when available
+          iii.        Means of electronic communications, including work, personal electronic
+                      mail address;
+          iv.         Home address or personal mailing address, and,
+           v.         Department/Agency/Office, position classifications, job title, base salary
+                      and worksite location.
+
+      2.     Each business day the Employer shall provide a report of newly hired AFSCME
+             represented employees as long as the new hire business process has been
+             successfully completed in the business day prior.
+
+      3.     The Employer CHRO information unit will provide the Union with a report of new,
+
+                                         7                                Collective Bargaining Agreement
+             terminated, retired or transferring employees in AFSCME covered positions no
+             later than the 10th of the month.
+
+c.    New Employee Orientation.
+      1.   During the initial onboarding process within days of hiring new employees, the
+           Union Representative shall be granted up to thirty (30) minutes of paid time to
+           meet with the new employee without loss of pay or benefits.
+
+      2.     Employees within their first ninety (90) calendar days from the employee’s first
+             day of work shall be allowed an additional sixty (60) minutes of paid time to meet
+             with a Union Representative for follow-up orientation issues without loss of pay
+             or benefits.
+
+      3.     The Agency shall not be liable for any overtime or other premium pay for the
+             activities in this Subsection that occur outside of their regular assigned schedule.
+
+      4.     Before carrying out the duties in this Subsection, the employee shall contact
+             their immediate supervisor and request time off. If the permitted activities would
+             interfere with either the employee’s or Union Representative’s duties, Agency
+             management shall, within the next working day, arrange a mutually satisfactory
+             time for the requested activity.
+
+      5.     Duly certified and designated Union Representative shall account for their time
+             by submitting a leave request to their ISDS Coordinator.
+
+Section 2. Union Access.
+a.    For purposes of this Agreement, a duly certified and designated Union Representative
+      shall be defined as Agency employees who are official Union Officers in the positions of
+      Local President, Vice President, Secretary, Treasurer, Local Executive Board Member
+      or the authorized steward(s) for the functional unit in which they are employed. The
+      Union shall send the Agency a list of duly certified Union representatives and the
+      authorized stewards for each functional unit after each biennial election and shall
+      update when there are changes or upon request.
+
+b.    Accredited representatives of the Local, Council 75, or International American
+      Federation of State, County and Municipal Employees, AFL-CIO, upon proper
+      introduction and notice, shall have reasonable access to the premises of the Agency
+      during all working hours to conduct Union business (with appropriate observation of the
+      security regulations of the Agency). During periods of bona fide emergency, this
+      provision may be temporarily suspended by the Agency as required for the duration of
+      the emergency.
+
+Section 3.
+Unless otherwise provided in this Agreement, the internal business of the Union shall be
+conducted by the employees during non-duty time.
+
+All policies, procedures, and rules, and all provisions of this Agreement shall be applied
+equitably among employees to whom they apply.
+
+
+                                        8                                 Collective Bargaining Agreement
+Section 4. Stewards.
+a.    The Union may select, and shall certify in writing to the Agency, employees to act as
+      Union Stewards. The Union will provide an updated list when authorized stewards are
+      added or removed.
+
+b.    With prior approval by management, local officers described in Section 2a of this Article
+      and stewards shall have authority to investigate and resolve grievances, alleged
+      violations of the agreement before a grievance is filed (Step 1 of the grievance
+      process), attend investigatory and pre-discipline due process meetings and to distribute
+      Union informational material provided that such activity does not interfere with the
+      regular work routine.
+
+c.    The investigation and processing of employee grievances and reasonable time to
+      investigate alleged violations of the agreement before a grievance is filed and attend
+      investigatory and pre-discipline due process meetings will be permitted during working
+      hours without loss of pay or benefits. Local officers and Stewards shall account for
+      time performing authorized Union duties by submitting a leave request to their ISDS
+      Coordinator. If the permitted activities would interfere with either the Local officers,
+      Steward's or the grievant's duties, management shall, within the next working day,
+      arrange a mutually satisfactory time for the requested activities. Time spent in
+      grievance activities without the proper notification and release by an appropriate
+      supervisor involved will be considered unauthorized leave without pay for both the
+      Steward and the grievant.
+
+d.    An employee may request and have present a Steward or duly certified and designated
+      Union Representative as defined in Section 2(a) of this Article at any formal discussion
+      on disciplinary actions, or grievance proceedings, or any other matter that might
+      adversely and substantially affect their future employment, pay, or chances for
+      promotion. Stewards or duly certified and designated Union Representatives, as
+      defined in Section 2(a) of this Article, will not answer questions posed to the subject
+      employee but may offer any relevant additional information or ask clarifying questions
+      to protect the contractual rights of the employee in investigatory meetings.
+
+e.    The employee, at their request, shall be given a reasonable opportunity to select a
+      representative from the list of authorized AFSCME stewards within the bargaining unit
+      at their functional unit. When there is a potential conflict between the employee and a
+      steward, or a steward within the bargaining unit is unavailable, then the designated
+      Council Representative or the local unit President shall be contacted to assist in
+      determining alternative representation.
+
+f.    Management will provide written notification to an officer of the Local Union and the
+      Union Business Agent of an impending disciplinary action (suspension, reduction,
+      demotion or dismissal) against an employee. The Agency will also send to the Union
+      Local President letters of reprimand and letters of expectation it has issued to
+      employees.
+
+
+
+
+                                        9                                Collective Bargaining Agreement
+Section 5. Union Business Leave.
+a.    Union Business Leave does not constitute a break in service.
+
+b.    AFSCME shall indemnify and hold the State and Agency harmless against any and all
+      claims, damages, suits, or other forms of liability which may arise out of any action
+      taken or not taken by the Employer and/or Agency for the purpose of complying with
+      this provision.
+
+c.    For Short and Long Term leave, AFSCME shall, within thirty (30) days of receipt of
+      specific billing, reimburse the Agency for payment of appropriate salary, benefits, paid
+      leave time, pension, and all other employer-related costs.
+
+d.    Short Term
+      Upon written request from the Executive Director of AFSCME Council 75 to the Agency
+      Director or designee and DAS Labor Relations Unit, members shall be given release
+      time from their position for the performance of Union duties.
+
+      Within seven (7) or more calendar days’ advance notice by the Union, not to exceed a
+      maximum of six (6) employees at any one time, selected by the Union to conduct Union
+      business that takes them away from their employment may, at the employee’s option,
+      be granted leave without pay or leave with pay reimbursed by AFSCME Council 75, to
+      the Agency upon receipt of specific billings. Where the Union reimburses the Agency,
+      reimbursement shall include salary, benefits, paid leave time, pensions and all other
+      Agency related costs including the cost to the Agency for overtime caused solely by the
+      need to replace the employee taking time off to perform Union duties. Short term leave
+      shall not exceed thirty (30) calendar days. The determination for granting such leave
+      shall be made by the Agency based on operational needs of the Agency.
+
+      Long Term
+      Upon written request from the Executive Director of AFSCME Council 75 to DAS Labor
+      Relations Unit, one (1) Local Security President or designee shall be given release time
+      from their position for a period of time up to one (1) year for the performance of Union
+      duties directly related and central to the collective bargaining relationship. Such
+      requests will be granted unless the affected Functional Unit can demonstrate that the
+      employee’s absence would adversely impact the operating needs of the employee’s
+      work unit.
+
+      If the Agency cannot grant such leave based on lack of funding, the Union may offer to
+      reimburse, within thirty (30) days of receipt of billing, the Agency for required overtime
+      costs (including: salary, benefits, paid leave time, pensions and all other employer-
+      related costs) including the cost to the Agency for overtime caused solely by the need
+      to replace the employee taking time off to perform Union duties to allow the designated
+      employee to take Union business leave. The Agency and the Union agree to meet and
+      discuss and clarify if any overtime costs are to be paid by the Union prior to the
+      requested leave. If no agreement is reached the employee’s request may be denied.
+
+
+
+
+                                        10                               Collective Bargaining Agreement
+e.    Contract Administration
+      1.    The Agency agrees to the attendance by the President or designee without loss
+            of pay at any meeting where their presence is requested by Agency
+            management or in other instances in accordance with past practice.
+
+      2.     Duly certified and designated Union Representatives as defined in Subsection
+             2(a) of this Article shall be given reasonable time during the employee’s regular
+             scheduled work hours without loss of pay or benefits to participate in or prepare
+             for proceedings under PECBA involving grievance arbitration and Employment
+             Relations Board hearing. Duly certified and designated Union Representatives
+             as defined in Section 2(a) of this Article who are assigned to work the shift prior
+             to or after the standard or actual hours of a hearing will be released from that
+             shift in order to attend the hearing without loss of pay.
+
+      3.     Union appointed employees who are members of a local labor/management
+             committee meeting and participate during their regular work schedule shall not
+             suffer any loss of pay or benefits. Membership on the committee shall be
+             consistent with the local labor/management committee’s charter, rules or past
+             practice.
+
+      4.     Employees released to participate in the above activities shall request time off
+             from their immediate supervisor before taking such leave. If the time requested
+             is not feasible because of work requirements, then the immediate supervisor
+             shall work with the employee to establish another date and time on the following
+             workday.
+
+      5.     The Agency shall not incur any overtime liability or penalty payments as a result
+             of employee participation in the activities listed in this Subsection.
+
+Section 6. Communications.
+a.    The Agency agrees to furnish and maintain bulletin boards in convenient places to be
+      used by Union for the posting of official Union approved notices only. The Union shall
+      keep the bulletin boards neat and orderly.
+      1.    In addition, the Agency agrees to furnish and maintain one (1) locking encased
+            bulletin board at each Institution in a convenient place to be used by the Union
+            for posting official Union approved notices only. If the bulletin board that is
+            selected happens to be in a common area and is already shared with Security
+            Plus then that arrangement may continue. The Union shall keep the bulletin
+            board neat and orderly.
+
+      2.     A Union Local will be allowed to replace a currently assigned unencased bulletin
+             board with an Institution approved locking bulletin board. These enclosed
+             bulletin boards shall remain the property of the Institution. The Local shall
+             reimburse the Institution for reasonable cost of labor for the installation and
+             repairs, if any. The Union shall reimburse the Institution upon receipt of invoice.
+
+      3.     The key will be the same for all locking enclosed bulletin boards and will be
+             maintained by the Local Union President.
+
+
+                                        11                               Collective Bargaining Agreement
+      4.     If there are any issues with what is posted or any other issue pertaining to these
+             encased bulletin boards, Institution management shall contact the Local Union
+             President and both Parties will work in good faith to resolve the issue(s).
+
+b.    AFSCME may use the DOC internal mail system to communicate with AFSCME
+      represented employees at no cost to the employer. AFSCME will use its own supplies
+      and equipment. Distribution will be on their own time.
+
+      Use of the Internal Mail System must be consistent with DOC mail rules. Content shall
+      conform to standards for official business.
+
+      Monitoring of the Agreement will be reviewed at local labor/management meetings.
+
+c.    Upon written request, the Union may be allowed the use of the facilities of the Agency
+      for meetings in accordance with the past practices when available.
+
+d.    Where access to the DOC computer systems exist, the Union may communicate with
+      bargaining unit employees regarding: Collective Bargaining including administration of
+      the Agreement, grievance investigations and matters involving the governance of
+      business of the Union. Personal use as defined in the Agency’s policy may include
+      Union business. Use of the Agency’s computer systems and email system shall be
+      consistent with Agency policies.
+
+Section 7. Dues Deduction.
+a.    The Employer agrees to deduct the monthly fees from the pay of those employees the
+      Union has certified to the Employer as having authorized in writing such deduction be
+      made from their paychecks. This deduction shall begin on the first (1st) payroll period
+      following the Union’s written notice to the Employer that such authorization start and
+      shall continue from month to month until notified by the Union, pursuant to the
+      membership card.
+
+b.    The Union agrees it will indemnify, defend and save the Employer and
+      Department/Agency harmless from all suits, actions, proceedings and claims against
+      the Employer and Department/Agency) or person(s) acting on their behalf of the
+      Employer and the Department/Agency whether for damage, compensation,
+      reinstatement, or combination thereof arising out of the Department/Agency
+      implementation of this Article. This Provision do not limit, waive, or in any way impact
+      the State’s liability to AFSCME if the State fails to withhold and remit lawful dues to
+      AFSCME as obligated under the Agreement.
+
+c.    Employees whose employment begins or ends after working less than ten (10) working
+      days in any calendar month will not be subject to having a dues deduction in that
+      month.
+
+Section 8. Employee Statistics.
+The Labor Relations Unit and the Agency will, upon request of the Union, provide any
+regularly produced computer runs containing non-confidential statistics of the Union's
+bargaining unit members. This will include one (1) printout annually showing names and
+addresses of all bargaining unit employees and monthly information currently furnished. Any
+
+                                       12                                Collective Bargaining Agreement
+costs incurred in compiling and photocopying these statistical reports under this Agreement
+shall be billed to the Local Union making the request. During January of each year, the
+Agency will provide the Union a report showing the total number of current bargaining unit
+employees by gender, age and race.
+
+Section 9. Names of Security Unit Retirees.
+The Agency shall send a monthly report to the Union of the names of individuals that have
+retired the previous month. For purposes of this agreement, a retiree shall be defined as a
+person who has given the Agency written notice that they are separating from state service by
+retirement and that person has actually separated from state service.
+
+Section 10. Reports.
+Upon request, and no more than once a calendar quarter the Agency shall provide to the
+Union a report without cost containing the names, classification and functional unit of any
+temporary and limited duration appointments.
+                                                                                    Rev: 2015,2019, 2021
+
+
+### ARTICLE 4 - UNION/MANAGEMENT MEETINGS
+
+Section 1. Purpose.
+The purpose of this Article is to promote harmonious relations between the Parties.
+
+Section 2. Meetings.
+Either the Agency Head/Functional Unit Manager or the Union President may request a
+meeting. Each party may designate desired representation to the extent that such absences
+from duty do not cause a disruption of work or otherwise create a short staff situation. Off duty
+personnel participating in such meetings must do so on their own time. The actual meeting
+time will be established through mutual agreement. Refusal of either party to meet on a given
+subject does not constitute a contract violation.
+
+Section 3. Scope of Authority.
+Meetings will be held for purpose of discussion only. This committee will not enter into a
+binding agreement of any sort. The Committee may recommend agreements for signature to
+the Parties, which are defined as The Department of Administrative Services and AFSCME
+Council 75. The Committee discussion may include all manner of local working conditions
+and non-disciplinary grievance issues.
+
+### ARTICLE 5 - LEGISLATIVE ACTION
+
+Provisions of this Agreement not requiring statutory changes or funding by the full legislature
+before they can be put into effect shall be implemented on the effective date of this Agreement
+or the date otherwise specified in this Agreement. Necessary bills for implementation of the
+other provisions shall be submitted promptly by the Department of Administrative Services to
+the Legislative Assembly and both Parties shall jointly recommend passage of the funding and
+statutory changes.
+
+Nothing in this provision shall be construed as to require the Governor to call a special session
+of the Legislature.
+
+
+                                         13                               Collective Bargaining Agreement
+If the Legislature fails to act or approve bills submitted under this Article, the Parties shall
+reconvene immediately to renegotiate an alternative provision.
+
+### ARTICLE 6 - EFFECT OF LAWS AND RULES
+
+Section 1.
+This Agreement is subject to all applicable existing and future laws of the State of Oregon. In
+the event of a conflict between a provision of this Agreement and a rule or regulation of the
+Department of Administrative Services or any of its Divisions, the terms of this Agreement
+shall prevail.
+
+Section 2. Liability in Civil Suits.
+In accordance with ORS 30.285, any employee who has any civil action suit or proceeding
+brought against the employee for causes resulting from acting in the employee's official
+capacity, duties or employment in good faith and without malice, shall be given legal defense
+by the State of Oregon. The Agency further agrees to provide written procedures which will
+outline the proper methods for requesting this legal defense.
+
+### ARTICLE 7 - SEPARABILITY OF PROVISIONS
+
+If any provision of this Agreement shall be found to be invalid by any court having jurisdiction
+in respect, thereof, such findings as to such provision shall not affect the remainder of this
+Agreement, and all other terms and provisions hereof shall continue in full force and effect as
+set forth herein. In such event, the Parties shall enter into immediate negotiations for the
+purpose of arriving at a mutually satisfactory replacement for such term or provision.
+
+### ARTICLE 9 - EQUAL OPPORTUNITY
+
+Section 1.
+The Agency and the Union agree to continue their policies of not unlawfully discriminating
+against any employee because of race, color, religion, sex, national origin, age, mental or
+physical disability, marital status, sexual orientation, political affiliation, or union activity.
+Unlawful discrimination based on union activity shall be addressed through procedures
+identified in Section 3 of this article.
+
+Section 2.
+Any complaint alleging unlawful discrimination based on race, color, religion, sex, national
+origin, age, mental or physical disability, sexual orientation, marital status or political affiliation
+which is brought to the Union for processing may be submitted directly to the functional unit
+manager within thirty (30) days of the date the employee knew of the alleged violations. The
+functional unit manager or designee shall respond within thirty (30) days of its submission.
+Allegations of unlawful discrimination are not subject to the grievance procedure.
+
+Section 3.
+Complaints alleging unlawful discrimination based on union activity, may be submitted directly
+to the functional unit manager within thirty (30) days of the date the Union knew of the alleged
+violations. The functional unit manager or designee shall respond within thirty (30) days of its
+submission. If unresolved via that process or if the Union chooses not to submit the complaint
+
+
+                                           14                                  Collective Bargaining Agreement
+to the functional unit manager, the Employment Relations Board shall be the venue to resolve
+such complaints.
+                                                                                                Rev: 2021
+### ARTICLE 10 - MANAGEMENT RIGHTS
+
+The Union agrees that the Employer retains all inherent rights of management and hereby
+recognizes the sole and exclusive right of the State of Oregon, as the Employer, to operate
+and manage its affairs in accordance with its responsibilities to maintain efficient governmental
+operations. The Employer retains all rights to direct the work of its employees, including, but
+not limited to, the right to hire, promote, assign, transfer, demote, suspend, or discharge
+employees for proper cause; to schedule work; determine the processes for accomplishing
+work; to relieve employees from duties because of lack of work or for other legitimate reasons;
+to take action as necessary to carry out the missions of the State; or determine the methods,
+means, and personnel by which operations are to be carried on, except as modified or
+circumscribed by the terms of this Agreement. The retention of these rights does not preclude
+any employee from filing a grievance, pursuant to Article 51, Grievance and Arbitration, or
+seeking a review of the exercise of these rights, when it is alleged such exercise violates
+provisions of this Agreement.
+
+### ARTICLE 11 - CONTRACTING OUT
+
+The Agency may determine to contract or subcontract work provided that, as to work which is
+presently and regularly performed by employees in the bargaining unit, the Agency agrees to
+notify the Union and negotiate the decision and impact of the pending action. It is specifically
+understood that such negotiations are not required in 1) emergency situations, 2) where the
+impact is minimal (and not mandatory), or 3) where the assignment of work currently being
+performed by the bargaining unit members is transferred to other State facilities.
+
+### ARTICLE 12 - INSURANCE
+
+Section 1.
+An Employer contribution will be made for each eligible employee who has at least eighty (80)
+paid regular hours in the month or as required by law.
+
+Section 2.
+The contribution for eligible participating part-time employees with eighty (80) or more hours
+paid time for the month the Employer shall contribute a prorated amount of the contribution for
+full-time employees in the employee’s tier coverage prorated based on the ratio of paid regular
+hours to full time hours to the nearest full percent. “Regular hours” means all hours of work or
+paid leave except overtime hours, i.e., those above eight (8 hours in a day or forty (40) hours
+in a week. Thus, “regular hours” shall include additional non-overtime hours worked above an
+employee’s regular work schedule. In the event that a less-than-full-time employee, who is
+regularly scheduled to work half-time or more, fails to maintain at least half-time paid regular
+hours because of the effect of prorated holiday time or other paid or unpaid time off, they shall
+be allowed to use available vacation or compensatory time to ;maintain their eligibility for
+benefits and the Employer’s contribution for such benefits.
+
+
+
+
+                                         15                               Collective Bargaining Agreement
+Section 3. Plan Years 2023, 2024 and 2025.
+a.    For Plan Years 2023, 2024 and 2025 the Employer will pay ninety-five percent (95%)
+      and the employee will pay five percent (5%) of the monthly premium rate for PEBB
+      health, vision, dental and basic life insurance benefits.
+
+b.    For employees who enroll in a medical plan that is at least ten percent (10%) lower in
+      cost than the monthly premium rate for the highest cost plan available to the majority of
+      employees, the Employer shall pay ninety-nine percent (99%) of the monthly premium
+      for PEBB health, vision, dental and basic life insurance benefits and the employee will
+      pay one percent (1%).
+
+Section 4. Less-Than-Full-Time Employees
+a. For part-time employees electing part-time insurance, the formula to calculate the
+    Employer’s contribution shall be:
+
+     Part-time premium rate x Employer contribution percentage (as defined in Section 2) x
+     the ratio of paid regular hours to full time hours to the nearest full percent = Employer
+     contribution.
+
+     In addition, there shall be a subsidy based on the employee’s enrollment tier, for the Plan
+     Years covered in this Article. The part time subsidy shall be determined by PEBB for
+     each plan year.
+
+b.   For part-time employees electing full-time insurance, the formula to calculate the
+     Employer’s contribution shall be:
+
+     Full-time premium rate x the Employer contribution percentage (as defined in Section 2)
+     x the ratio of paid regular hours to full-time hours to the nearest full percent = Employer
+     contribution.
+
+Section 5.
+If the Collective Bargaining Agreement provides for a COLA with an effective date of the
+second (2nd) year of a biennium and the difference in the projected increase in the PEBB
+composite rate for the following calendar year falls below three point four percent (3.4%), then
+the COLA will be moved up by one (1) full month for each month it is sufficiently funded by the
+savings.
+                                                                        Rev: 2015, 2017,2019, 2021,2023
+
+
+### ARTICLE 13 - SALARY AND WAGES
+
+Section 1.
+Effective February 1, 2019 compensation plan salary rates for PERS participating members
+were increased by six and ninety five hundredths percent (6.95%). At that time bargaining unit
+employees began making their own six percent (6%) contributions to their PERS account or
+the Individual Account Program as applicable. Employees’ contributions shall be treated as
+‘pretax’ contributions pursuant to Internal Revenue Code Section 414(h)(2).
+
+
+
+
+                                        16                                Collective Bargaining Agreement
+Section 2. Salary Adjustments.
+a.    Effective December 01, 2023 all pay rates shall be increased by six and five tenths
+      percent (6.5%).
+
+b.     Salary Step 9 shall be maintained as six percent (6%) higher than Salary Step 8 in all
+       classifications in this bargaining unit. The Step 10 shall be four and three quarters
+       percent (4.75%) above Step 9.
+
+c.     Effective January 01, 2025* all pay rates shall be increased by six and fifty-five
+       hundredths percent (6.55%).
+
+       *If the legislature appropriates new funding of at least thirteen million dollars
+       ($13,000,000) in calendar year 2024, the 2025 cost of living adjustment will be effective
+       January 1, 2025. If the legislature does not appropriate at least thirteen million dollars
+       ($13,000,000) in calendar year 2024, the 2025 cost of living adjustment will be effective
+       February 1, 2025.
+
+Section 3. Elimination of DPSST Differential.
+a.    An employee who receives either the DPSST three percent (3%) Intermediate
+      certification differential or six percent (6%) Advanced certification differential and is not
+      at step 9 of the salary range for their classification as of December 31, 2018 received,
+      in lieu of the DPSST certification differential, a three percent (3%) or six percent (6%)
+      salary adjustment, whichever was applicable, and was placed into the new salary range
+      effective January 1, 2019. For an employee whose rate was within the new salary
+      range, but not a corresponding salary step, their salary shall remain off step and they
+      will continue to receive annual step increases until they have reached the ninth (9th)
+      step of the range. (The intent is that an employee will continue to receive the
+      differential until they reach Step 9 and suffer no loss in compensation.)
+
+b.     By this adjustment, the DPSST certification differential in Article 16, Section 5 ends
+       December 31, 2018 for those not already receiving it until they reach step 9.
+
+Section 4. Recoupment of Wage and Benefit Overpayments/Underpayments.
+a.    Overpayments. In the event that an employee receives wages or benefits from the
+      Agency to which the employee is not entitled, regardless of whether the employee
+      knew or should have known of the overpayment, the Agency shall notify the employee
+      in writing of the overpayment which will include information supporting that an
+      overpayment exists and the amount of wages and/or benefits to be repaid. For
+      purposes of recovering overpayments by payroll deduction, the following shall apply.
+      1.     The employee with or without Union representation and the Agency shall meet
+             and attempt to reach mutual agreement on a repayment schedule within thirty
+             (30) calendar days following receipt of written notification. For purposes of this
+             section, the Agency sending a certified letter to the employee at their last known
+             home address and email to the employee’s work address shall constitute
+             ‘receipt of written notice’.
+
+       2.     If there is no mutual agreement at the end of the thirty (30) calendar day period
+              the Agency shall implement the repayment schedule stated in subsection 3
+              below.
+
+                                         17                                 Collective Bargaining Agreement
+      3.     If the overpayment amount to be repaid is more than five percent (5%) of the
+             employee’s regular monthly base salary, the overpayment shall be recovered in
+             monthly amounts not exceeding five percent (5%) of the employee’s regular
+             base salary. If an overpayment is less than five percent (5%) of the employee’s
+             regular monthly base salary, the overpayment shall be recovered in a lump sum
+             deduction from the employee’s paycheck. If an employee leaves Agency service
+             before the Agency fully recovers the overpayment, the remaining amount may
+             be deducted from the employee’s final check(s).
+
+      4.     Subsections 1-3 of this Section shall not apply to payroll adjustments
+             necessitated by a discrepancy between actual hours of paid time versus hours
+             projected for payroll purposes from one pay period to another. For example, if
+             an employee utilizes leave without pay near the end of a month but is paid for
+             such time because such leave without pay was not anticipated at the payroll
+             cutoff date for that month, the employee’s pay and benefit entitlements may be
+             adjusted on the following month’s paycheck. The Agency shall send a letter by
+             regular mail to the home of the affected employee and email whenever an
+             immediate recoupment is triggered. In the case of SAIF leave without pay, the
+             Agency shall also call the employee
+
+      5.     The Agency shall not attempt to correct any overpayment to employees
+             discovered older than two (2) years from notification.
+
+b.    Underpayments. In the event the employee does not receive the wages or benefits to
+      which the record/documentation has for all times indicated the employer agreed the
+      employee was entitled, the Agency shall notify the employee in writing of the
+      underpayment. This notification will include information showing that an underpayment
+      exists and the amount of wages and/or benefits to be repaid. The Agency shall correct
+      any such underpayment made within a maximum period of two (2) years before the
+      notification.
+
+c.    This provision shall not apply to claims disputing eligibility for payments which result
+      from this agreement. Employees claiming eligibility for such things as leadwork, work
+      out-of- classification pay or reclassification must pursue those claims pursuant to the
+      timelines elsewhere in this Agreement.
+                                                                      Rev: 2015, 2017, 2019, 2021,2023
+
+
+### ARTICLE 14 - SALARY ADMINISTRATION
+
+Section 1.
+Benefit Service Date (BSD) is defined as the date an employee is eligible for an annual step
+increase. The BSD is computed from the date of hire. Employees shall be eligible for annual
+step increases on their BSD provided the employee is not at the top step of the salary range
+of their classification.
+
+Section 2.
+Any employee requiring an emergency draw shall be authorized once during the term of this
+Agreement to make such a draw without explanation. Additional draws may be requested in
+accord with existing policy and will be considered on a case-by-case basis.
+
+                                       18                               Collective Bargaining Agreement
+Section 3. Submission of Salary Increases.
+a.    For employees initially hired to state service, the BSD shall be set one (1) year from
+      date of hire. However, an employee’s BSD may only change because of employment
+      actions as a result of reallocations, trial service extensions as provided in Article 41
+      promotions, demotions, reemployments, reclassifications or leaves without pay in
+      excess of thirty (30) days except those leaves protected by federal or state law (FMLA,
+      military, workers compensation).
+
+b.    Salary increases to correct errors or oversights and retroactive payments resulting from
+      grievance settlements will be authorized. In no event shall any retroactivity exceed two
+      (2) years from the date upon which the oversight or error is brought to management’s
+      attention in writing, or, in the case of a grievance settlement, the date the grievance
+      was filed in writing.
+
+Section 4. Salary on Lateral Transfer
+a.    An employee who transfers into the security bargaining unit from another bargaining
+      unit inside of the Agency or from another executive branch state agency in the same
+      salary range will at least retain their base salary rate and BSD. However, where the
+      employee’s current base pay rate is below Step 1 of the security bargaining unit base
+      pay rate the employee’s base rate will be moved to Step 1 of the same salary range. If
+      an employee’s straight time pay rate is above the top step of the range, the employee
+      will be placed at the top step of the range.
+
+b.    If an employee’s base pay rate caused them to be placed off step in the new
+      classification and salary range, then at their next BSD, if qualified, the employee shall
+      be granted an annual step increase plus the dollar amount that their current salary is
+      below the next higher step not to exceed the top step of the range.
+
+Section 5. Salary on Promotion.
+An employee shall be given an increase no less than to the next higher rate in the new salary
+range effective on the date of the promotion and the employee’s BSD shall be set for six (6)
+calendar months after the date of promotion. Upon successful completion of promotional trial
+service, the employee will receive a salary increase and annually thereafter until the employee
+reaches the top step of the range.
+
+Section 6. Salary on Demotion.
+Whenever an employee demotes to a job classification in a lower range that has a salary rate
+the same as the previous step, the employee's salary shall at least be maintained at that step
+in the lower range.
+
+Whenever an employee demotes to a job classification in a salary range which does not have
+salary steps corresponding with the employee's previous salary but is within the new salary
+range, the employee's salary shall be maintained at the current rate until the next eligibility
+date. At the employee's next BSD, if qualified, the employee shall be granted a salary rate
+increase of one (1) full step within the new salary range plus that amount that their current
+salary is below the next higher rate in the salary range. This increase shall not exceed the
+highest rate in the new salary range.
+
+
+
+                                        19                               Collective Bargaining Agreement
+Whenever an employee demotes to a job classification in a lower range, but the employee's
+previous salary is above the highest step for that range, the employee shall be paid at the
+highest step in the new salary range.
+
+This Section shall not apply to demotions resulting from official disciplinary actions.
+
+Section 7. Effect of Break in Service.
+When an employee separates from State service and subsequently returns to the State
+service (except as a temporary employee), the employee's BSD shall be determined by the
+Agency as follows:
+
+a.     Return from Layoff List. When a former employee who was laid off is recalled, the
+       employee will be paid at the step they were at the time of layoff. Employee's previous
+       BSD adjusted by the amount of break in service shall be restored.
+
+b.     Return from Reemployment. When a former employee is reemployed to a position in
+       the same class in which the employee was previously employed or in a related class
+       with the same salary range, the employee may be paid at or below the step at which
+       the employee was being paid at the time of termination. If an employee is reemployed
+       in a position in a class with a lower salary range than that of the employee's previous
+       position, the employee may be paid at any step in the lower salary range not exceeding
+       the rate the employee was being paid in the higher class, except where exceptional
+       circumstances justify payment of a higher rate. The previous eligibility date adjusted by
+       the amount of break in service shall represent the BSD following return.
+
+Section 8. Salary Underpayments.
+a.    In the event the Agency determines an employee has not received wages/benefits to
+      which they are lawfully entitled pursuant to the Fair Labor Standards Act or state law,
+      the Agency shall pay the employee within three (3) business days the amount of money
+      the employee is owed if such underpayment is equal to or more than five percent (5%)
+      of the employee’s base pay rate.
+
+b.     In the event the Agency determines an employee has not received wages/benefits to
+       which they are lawfully entitled, the Agency shall pay the employee at the next first (1st)
+       of the month payday the amount of money the employee is owed if such underpayment
+       is less than five percent (5%) of the employee’s base pay rate. If the Agency
+       determines there is an underpayment obligation after the normal payroll cutoff date and
+       before the mid month cutoff date, the Agency shall pay the employee on the mid month
+       check.
+
+c.     This Section shall not apply to claims disputing eligibility for payments which result from
+       this Agreement. Employees claiming eligibility for leadwork differential, work out of
+       classification, reclassification or any differential pay shall pursue those claims pursuant
+       to Article 51 (Grievance Procedure).
+
+Section 9.
+Overtime, holiday and all differentials may be paid on the fifteenth (15th) of the month at the
+employee’s discretion. Once an employee designates they want to have overtime, holiday
+and differentials paid on the fifteenth (15th) of each month, the designation will continue for six
+
+                                          20                                Collective Bargaining Agreement
+(6) consecutive calendar months without change. The employee will follow all processes
+necessary to ensure their request is properly implemented.
+
+Section 10.
+a.    Daylight Savings to Standard Time Change. An employee who is eligible for
+      overtime compensation and whose scheduled shift includes one (1) additional hour due
+      to change from daylight savings to standard time shall be compensated for one (1) hour
+      at the overtime rate for the additional hour.
+
+b.    Standard to Daylight Savings Time Change. An employee whose scheduled shift is
+      short one (1) hour due to the change of time, may, upon request, work the final hour of
+      the regular shift, use vacation, compensatory time off or other appropriate leave to
+      cover the final hour or use approved leave without pay to cover the final hour.
+      Employee’s missed time will be recorded as LWOP which will have no disciplinary
+      consequences.
+                                                                         Rev: 2015, 2017, 2019, 2021,2023
+
+
+### ARTICLE 15 - OVERTIME
+
+Section 1.
+All time for which an employee is compensated at the regular straight time rate of pay, except
+on-call time but including holiday time off, compensatory time off, and other paid leave, shall
+be counted as time worked.
+
+Section 2.
+Overtime for employees working a regular workweek is time worked in excess of eight (8)
+hours per day or forty (40) hours per week within the employee's basic workweek.
+
+Overtime for employees working an irregular work schedule four/ten (4/10) is time worked in
+excess of the scheduled hours per day or forty (40) hours per week within the employee's
+basic workweek.
+
+Time worked beyond regular schedule by employees scheduled for less than eight (8) hours
+per day or forty (40) hours per week is additional straight time worked rather than overtime
+until work exceeds eight (8) hours per day or forty (40) hours per week within the employee's
+basic workweek.
+
+Section 3. Shift Change Penalty.
+a.    Except for shift changes requested by the employee, if a shift change requires that an
+      employee work more than five (5) consecutive days, the employee will be compensated
+      at the rate of time and one-half (1-1/2) for all hours worked in excess of forty (40) hours
+      within the employee's prior work- week.
+
+b.    Except for shift changes requested by an employee or agreed upon between a
+      supervisor and employee, if a shift change causes an employee to be required to work
+      more than eight (8) hours in any twenty-four (24)-hour period, the employee shall be
+      paid at the overtime rate for all hours in excess of eight (8) during that same twenty-four
+      (24)-hour period. Employee workweek is defined as the seven (7)-day period
+      beginning with the employee's first scheduled workday.
+
+                                         21                                Collective Bargaining Agreement
+Section 4.
+Overtime shall be paid at the rate of time and one-half (1-1/2). The form of compensation for
+overtime shall be pay or compensatory time off by employee choice. If compensatory time is
+chosen, it shall be credited at the appropriate overtime rate. The employee must inform the
+Agency they wish to accrue compensatory time when initially hired or mandatorily assigned
+overtime until employees begin entering their own time in Workday. Any compensatory time
+accrued in excess of one hundred (100) hours will be paid off within the pay period of the
+month following the month in which it is accrued. Management will approve requests to cash
+out compensatory time up to two (2) times a calendar year. Such cash outs will occur on
+regular pay schedules.
+
+No application of this Article shall be construed or interpreted to provide for compensation for
+overtime at a rate exceeding time and one-half (1-1/2), or to effect a "pyramiding" of overtime,
+i.e., time and one-half (1-1/2). All overtime worked on a reimbursable event will only be paid
+in cash, not compensatory time off, at the rate specified in this Article when it is known in
+advance by both Parties to be an approved reimbursable event at the time the work is
+performed. Reimbursable events will be identified by specific and unique cost centers.
+
+Overtime shall be voluntary except during periods of bona fide declared emergency or unless
+management is unable to fill a work assignment by voluntary means.
+
+Any overtime assigned and worked beyond two hundred and forty (240) hours in a month will
+cause a positive proration of additional sick leave hours accrued in that month at a thirty (30)
+to one (1) ratio and employees in this bargaining unit will not have an annual maximum
+accrual cap.
+
+Section 5.
+Any employee assigned to escort Adults In Custody out of State will be compensated eight (8)
+hours per day at the straight time rate, and one and one-half (1-1/2) times the straight time
+rate for any hours actually worked over eight (8) hours per day, unless escorting on the
+employee's regular day off, where the employee shall receive overtime for the first eight (8)
+hours also.
+
+Section 6.
+Shift changes as a direct result of job bidding requiring the bidding employee to work more
+than five (5) consecutive days will be compensated at the regular straight time rate of pay.
+
+Section 7.
+The Parties agree that an employee's compensatory time is payment for work already
+accomplished and will be available for use the month following its accrual. Compensatory
+time may be used by the employee in lieu of sick leave according to Article 33. Compensatory
+time may also be used by the employee in lieu of vacation and other leaves where identified
+within this Agreement.
+
+Section 8. Distribution of Voluntary Overtime.
+Volunteers will be sought according to the process outlined in Article 25 for each
+Institution/Functional Unit. No employee shall be required to work more than sixteen (16)
+hours of overtime (voluntary and/or mandatory combined) per week unless there is an
+emergency as outlined in Article 23 of this CBA or there is no other staff to mandate.
+
+                                        22                                Collective Bargaining Agreement
+Voluntary overtime may be denied for valid cause. Mandatory overtime lists will be posted.
+The changes to this Section for the 2023-2025 contract period shall be a pilot and shall
+terminate with the expiration of the Agreement, unless the Parties mutually agree to extend.
+
+Section 9. Mandatory Overtime Exceptions.
+Submission of medical ordered temporary exemptions of hours of work or exclusions from
+overtime.
+Medical Exceptions:
+       1.   Correctional Series staff may be exempt from mandatory overtime assignment
+            due to a documented medical condition. Such an exemption shall ‘normally’ be
+            limited to a thirty (30) day period with extensions possible not to exceed a total of
+            ninety (90) days following continued improvement toward return to full
+            unrestricted duty (full release from the attending physician).
+
+      2.     Staff exempted from the mandatory overtime list due to medical restrictions shall
+             not work overtime (Voluntary or Mandatory) in accordance with their specific
+             restriction and only while it is in effect.
+
+      3.     The Security Manager or Management designee will review the status of staff
+             exempted consistent with DOC Policy 20.5.17.
+
+      4.     Notwithstanding this Section, the Agency will administer FMLA/OFLA in
+             accordance with the law and this agreement.
+                                                                                      Rev: 2019, 2021,2023
+
+
+### ARTICLE 16 - DIFFERENTIALS
+
+Section 1. Shift Differentials.
+a.    Night shift differential shall apply to all bargaining unit members except part-time
+      employees working less than thirty-two (32) hours per month.
+
+b.    In order to qualify for night shift differential, an employee must be in a job classification
+      which is eligible for overtime compensation.
+
+c.    Effective October 1, 2023, all AFSCME Security bargaining unit employees shall be
+      paid a differential of one dollar and fifty cents ($1.50) per hour for all hours of any shift
+      which starts between the hours of 12:00 noon and 3:00 a.m. A major portion of an hour
+      is a period of thirty (30) minutes or greater.
+
+Section 2. Commercial Driver's License (CDL) Differential.
+In recognition of the Agency’s past practice, the Agency shall reimburse employees for the
+equivalent cost of an Oregon Class B Commercial Drivers License which shall include initial
+and renewal licensing and examination fees who are required by the Agency to have a CDL
+for performing duties. In addition, the Agency shall also reimburse an employee’s insurance
+co-payment/fees for the required physical examination to obtain the license.
+
+Section 3. Institution Staff Deployment (ISD) Differential.
+Employees assigned as staff relief (old RFM) will receive a differential of six percent (6%) of
+base pay in lieu of other penalty pay. Penalty pay, for purposes of this agreement, refers to
+
+                                         23                                 Collective Bargaining Agreement
+work out-of-class compensation and Article 15, Section 3 Shift Change Penalty Pay. Except
+for emergency situations or as mutually agreed, the employee assigned as staff relief will be
+given seven (7) days advance notice of shift and/or days off changes.
+
+Section 4. Bilingual Pay.
+a.    When the Agency formally assigns in writing bilingual duties to a certified employee, the
+      employee shall receive a five percent (5%) differential above their base pay. The
+      assignment start/end dates (if any) noted on the written assignment form. However, at
+      no time shall an employee be expected to provide bilingual translation or interpretation
+      unless assigned in writing and provided the differential. Bilingual duties shall include to
+      read, speak, translate and interpret from English to another language or from another
+      language to English. Employees officially assigned in writing will be required to pass a
+      standardized test to be eligible for this differential.
+
+b.    Employees who fail to take the test and employees who fail the test will no longer
+      receive the differential.
+
+c.    The Agency will pay the cost for the employee taking the initial test. If the employee
+      does not pass the test and the employee wishes to retake the test, the employee will
+      pay for the cost of the test.
+
+Section 5. SWAT / Crisis Negotiation Differential
+Members of the SWAT Team shall have a premium of four percent (4%) per month added to
+their base wages. Staff assigned as Crisis Negotiators will be eligible for the SWAT/CNT
+Team four-percent 4%) premium differential. Newly selected members will serve as alternates
+until such time they have completed the SWAT Operators Course or the Basic Negotiation
+Course and are appointed as a permanent member of the team. Alternates are not eligible for
+the premium.
+
+Section 6. Field Training Officer Differential
+a.    Filling Field Training Officer Assignments at Shift/Days Off Bid.
+      1.      The number of Field Training Officer assignments will be identified in the bidding
+              instructions by each shift (EOCI post) and employees shall bid for a Field
+              Training Officer assignment by shift. Institution management will assign Field
+              Training Officers by Field Training Officer seniority. Field Training Officer
+              seniority shall be defined as the date of DPSST certification as a Field Training
+              Officer. If there is a tie between two (2) employees with the same certification
+              date, the employee with the most Agency seniority shall be selected. If there is
+              still a tie, it will be broken by a one time lottery draw. The Institution’s Human
+              Resources Office will maintain and update the list as needed with a copy to the
+              Union.
+
+      2.        Filling Field Training Officer Assignments During the Bid Cycle.
+            i.         Within seven (7) calendar days after the regular shift/days off bid (EOCI
+                        post), the Institution may post any unfilled Field Training Officer
+                        assignments. Assignment shall be made by seniority.
+            ii.        If a Field Training Officer assignment becomes vacant during the bid cycle
+                        and the Institution chooses to make an assignment, qualified employees
+                        may submit a memorandum to the Institution expressing interest in the
+
+                                         24                               Collective Bargaining Agreement
+                        assignment. The Institution will select an employee for the assignment
+                        pursuant to Agency Policy 20.7.1. Qualified employees are those who
+                        possess the DPSST Field Training Officer (FTO) Training certification.
+
+           iii.         If there are unfilled Field Training Officer assignments that remain which
+                         the Agency chooses to fill and no qualified employees submit a
+                         memorandum expressing interest, the Agency may choose to solicit
+                         employees who may be interested in becoming a DPSST Field Training
+                         Officer certified pursuant to Agency Policy 20.7.1.
+
+      3.          Employees selected for the Field Training Officer Assignment who possesses a
+                  DPSST certification to perform the authorized, official duties of Field Training
+                  Officer shall be eligible to receive four percent (4%) above the employee’s base
+                  salary rate.
+
+      4.          The Field Training Officer assignment shall have a start/end dates noted on the
+                  written assignment form which will normally correspond to a bid cycle. At no
+                  time shall an employee be expected to perform Field Training Officer duties
+                  unless assigned in writing and provided the differential.
+
+Section 7. Transport Unit Differentials.
+a.    CDL Differential
+      Full time regular status Corrections Officers, Corporals and Sergeants hired into the
+      Transport Unit of the Agency who, as a condition of employment, are required to obtain
+      and maintain a commercial driver license (CDL) in order to carry out assigned duties,
+      shall receive a five percent (5%) pay differential above their base pay rate. If the
+      employee leaves the Transport Unit to work in another section of the Agency, the
+      employee will not receive this differential.
+
+b.    Transport Unit Trainers Differential.
+      Effective July 1, 2020, an employee who is assigned in writing by the Agency to train
+      staff on Transport Unit approved courses shall be eligible to receive a four percent (4%)
+      differential above employee’s base salary rate. The Transport Unit Trainer assignment
+      shall have start/stop dates noted on the written assignment form.
+                                                                           Rev: 2015, 2017, 2019, 2021,2023
+
+
+### ARTICLE 17 - CALL-BACK TIME
+
+Section 1.
+An employee who is called back to work outside the employee's regular shift, will receive
+overtime compensation in accordance with the Overtime Article of this Agreement for hours
+actually worked; but in no event will the employee be paid less than four (4) hours at the
+straight time rate of pay.
+
+Section 2. Off-Duty Telephone Calls or Text Messages.
+An employee who responds to a telephone call or text message outside of their schedule
+hours that is directly from Agency management or authorized by Agency management will be
+compensated at the appropriate rate of pay for no less than thirty (30) minutes or actual time
+whichever is greater. However, the employee will not receive additional compensation if the
+
+                                            25                               Collective Bargaining Agreement
+employee receives multiple telephone calls or texts during the same thirty (30) minute period.
+This Subsection shall not apply to overtime which is essentially a continuation of the
+scheduled work shift. This Subsection shall not apply to telephone calls or text messages
+where Agency management directs the employee to report for work which then engages
+Section 1 of this Article instead of this Section. This Section shall not apply to employees
+assigned to on-call duty or standby duty status or when the Agency calls or texts an employee
+to work overtime who has given prior authorization.
+
+Section 3.
+This Article shall not apply when phone calls or texts are a result of employee oversight (i.e.
+taking home necessary keys, equipment necessary at the Institution etc.) or when the Agency
+calls or texts the employee to share information not requiring call back or responding to
+questions.
+                                                                                          Rev: 2017, 2019
+
+
+### ARTICLE 18 - REPORTING PAY
+
+An employee who is scheduled for work and reports to work and there is no work available
+may be excused from duty, but shall be paid at their regular rate for the shift of work
+scheduled.
+
+### ARTICLE 19 - ON-CALL
+
+Section 1.
+Employees shall be paid one (1) hour of pay at second step of the correctional officer range
+for every two (2) hours of assigned on-call duty.
+
+Section 2.
+Employees shall be on call when specifically assigned and required to be available for work
+outside their normal working hours. Criteria for this status shall include the following
+conditions:
+
+      Restriction of movement (geographic)
+      Specified response time upon notification
+      Limits on actual use of on-call time
+      Disciplinary consequences for failing to respond
+
+Pagers or similar technology does not trigger on-call status.
+
+Section 3.
+When a work site or duty station is also an employee's private residence during off duty hours,
+time spent at home shall be considered on-call only when the following conditions exist:
+      a.      The Agency Appointing Authority or designated representative requires that an
+              employee be restricted to a work site or duty station for a specific period of time;
+              and
+
+      b.      The employee is required and must be prepared to commence full-time work if
+              the need arises.
+
+
+                                         26                                Collective Bargaining Agreement
+Section 4.
+An employee shall not be on call once the employee actually commences performing
+assigned duties and receive the appropriate rate of pay for time worked.
+
+Section 5.
+No employee is eligible for any premium pay compensation while on call except as expressly
+stated in this Article.
+
+Section 6.
+Employees who are exempt from overtime compensation shall be ineligible for on-call pay.
+
+Section 7.
+On-call time shall not be counted as time worked in the computation of overtime
+compensation.
+                                                                                         Rev: 2015 ,2019
+
+
+
+
+### ARTICLE 20 - WORK OUT OF CLASSIFICATION
+
+Section 1.
+When an employee is assigned in writing for a limited period to perform the duties of a position
+at a higher level classification for five (5) consecutive calendar days or forty (40) consecutive
+straight time hours, the employee shall be compensated for all hours worked beginning from
+the first day of the assignment at a rate which is five percent (5%) above the employee’s base
+pay rate or the first step of the higher range, whichever is greater.
+
+Section 2.
+Developmental assignments will only be used if bargaining unit employees are assigned
+duties in a classification that is outside of the security bargaining unit.
+An employee performing duties out of classification for training or developmental purposes
+shall be informed in writing of the purpose and length of the assignment during which there
+shall be no extra pay for the work. A copy of the notice shall be placed in the employee's file.
+
+Section 3.
+Assignments of work out-of-classification shall not be made in a manner which will subvert or
+circumvent the administration of this Article. This higher class work will be entered into the
+employee's personnel file and shall be used for annual performance appraisals and will be
+taken into consideration by supervisors during promotional merit ratings.
+
+Section 4.
+When a functional unit chooses to offer a work out of classification assignment, it will use a
+competitive process within that functional unit. The functional unit will post the opportunity on
+institution email for a minimum of ten (10) calendar days to allow qualified employees to
+express their interest in writing. The work out of classification assignment will be limited to
+twelve (12) months at which point the functional unit will initiate a new competitive process.
+All interested employees, including the incumbent, may participate in the new competitive
+process.
+
+
+
+                                         27                               Collective Bargaining Agreement
+Section 5. Work Out of Classification Pending Reclassification
+a.     If an Agency wishes to reclassify a position upward, the Agency will gain approval from
+       DAS CHRO if the higher classification is appropriate. When an Agency receives
+       approval from DAS CHRO agreeing a reclassification upward is appropriate,
+       the Agency will pay work out-of-classification pending reclassification effective the first
+       of the month following the date the Agency requested approval from DAS CHRO.
+
+b.     If Labor initiates a work out-of-classification pending upward reclassification under
+       Article 46, Section 2, the Agency will pay work out-of-classification pending
+       reclassification effective the first of the month following the date the reclassification
+       request was received by the Agency.
+
+c.     The amount of work out-of-class pending reclassification will be determined by the
+       internal pay assessment.
+
+d.     The internal pay assessment shall be conducted using those performing work of a
+       comparable character in the higher classification.
+
+e.     The differential will be a dollar amount.
+
+f.     The differential shall place the employee on the next higher step in the higher
+       classification or on an appropriate higher step as determined by the internal pay
+       assessment, whichever is greater.
+
+g.     Employees at the top step of their current job classification will have the differential
+       adjusted to the next step in the higher salary range annually on their Salary Eligibility
+       Date until their base salary plus the work-out-of-classification pending reclassification
+       reaches the top step of the higher salary range.
+
+h.     Employees will have the differential adjusted due to changes to the base salary (e.g.,
+       COLA or step increase).
+
+i.     Agencies will designate the reason for the work out-of-class in the state human
+       resources information system as Work Out-of-Classification – Pending Upward
+       Reclassification.
+                                                                                           Rev: 2019,2023
+
+
+### ARTICLE 21 - LEADWORK DIFFERENTIAL
+
+Section 1.
+Leadwork differential shall be defined as a differential for employees who have been formally
+assigned by their supervisor, in writing, "leadwork" duties over three (3) or more employees in
+their classification or salary range for ten (10) consecutive calendar days or longer. Leadwork
+is where, on a recurring daily basis, while performing essentially the same duties as the
+workers led, the employee has been directed to perform substantially all of the following
+functions: to orient new employees, if appropriate; assign and reassign tasks to accomplish
+prescribed work efficiently; give direction to workers concerning work procedures; transmit
+established standards of performance to workers; review work of employees for conformance
+to standards; and provide informal assessment of workers' performance to the supervisor.
+
+                                         28                                Collective Bargaining Agreement
+Section 2.
+The differential shall be five percent (5%) beginning from the first day the duties were formally
+assigned in writing for the full period of the assignment.
+
+Section 3.
+Leadwork differential shall not be computed at the rate of time and one-half (1-1/2) for the time
+worked in an overtime or holiday work situation, or to effect a "pyramiding" of work out-of-
+classification payment.
+
+Section 4.
+Leadwork differential shall not apply for voluntary training and development purposes which
+are mutually agreed to in writing between the supervisor and the employee.
+
+Section 5.
+The employee who believes they are performing the duties of a leadworker as defined in
+Section 1, may request a review of the duties as follows:
+      a.     The employee shall notify their supervisor and appropriate Personnel Officer, in
+             writing for a review.
+
+      b.      The supervisor, on behalf of the Agency, will respond to the employee in writing,
+              within fifteen (15) calendar days from the date of notification.
+
+      c.      If it is the Agency's determination that the leadwork duties were assigned, the
+              leadwork differential will be effective the date the employee notified the
+              supervisor.
+
+      d.      If the Agency determines that the duties are not leadworker or wishes to remove
+              the duties, the employee will be notified as noted in "b" of this Article.
+
+### ARTICLE 22 - TRAVEL AND MOVING EXPENSE
+Section 1.
+Travel, mileage and moving expenses shall be reimbursed as per the Department of
+Administrative Services Accounting Manual rate adjustments.
+
+Section 2.
+If the per diem rates are adjusted upward, the rates of this Article will be adjusted likewise.
+
+Section 3. Reimbursement of Expenses Incurred in Rescinded Transfer.
+An employee who is given written notice of transfer that is later rescinded shall be
+compensated for all expenses incurred which are reimbursable under Section 1 of this Article.
+The employee shall furnish the Agency with normally required receipts of expenses claimed
+when requesting compensation.
+
+### ARTICLE 23 - EMERGENCIES
+
+Section 1.
+a.    During periods of bona fide emergency, provisions of this agreement regarding work
+      assignments and scheduling, job posting, and overtime scheduling may be temporarily
+
+
+                                          29                                Collective Bargaining Agreement
+b.    suspended by the Agency as required for the duration of the emergency up to a
+      maximum of thirty (30) calendar days. Should a declared emergency be expected to
+      continue beyond thirty (30) calendar days, the Employer will provide notice to the Union
+      and an opportunity to meet at its request to discuss any specifics, modifications, or
+      ongoing temporary suspensions of the above aspect of this Agreement.
+
+c.    The Parties acknowledge that the notification of the emergency and/or the length of a
+      declared emergency does not waive their rights under PECBA or ORS 243.698.
+
+d.    Appropriate notification of the emergency status will be made to the Union Council
+      Representatives and Security Presidents.
+
+Section 2.
+Emergency is defined as an unforeseen circumstance which may threaten the safety and
+security of the public, Adults in Custody, employees and/or property. Emergencies requiring
+suspension of the contract will be declared as such by either the Governor, the Agency Head
+of the Department of Administrative Services or the Agency Head of the Department of
+Corrections as may be delegated to the Deputy Director or Assistant Directors. Nothing in this
+Article is intended to prevent management from taking immediate action to protect life and
+safety of the general public, employees, Adults In Custody or property, recognizing reasonable
+time and circumstances for notifications and declarations under this Article.
+
+Section 3.
+This Article shall not be used by management to justify suspension of the above described
+contract rights to meet the daily operational needs in filling unexpected shift vacancies due to
+absences of scheduled staff which occur from time to time.
+                                                                                                Rev: 2021
+
+
+### ARTICLE 24 – USE OF ALCOHOL AND DRUGS
+
+Section 1. Policy.
+The Department of Corrections and AFSCME agree the purpose of this Agreement on alcohol
+and drug testing is to help ensure the work place is free from the effects of drug and alcohol
+abuse, and to do so in a way as to protect each employee’s constitutional and statutory rights.
+The Department of Corrections is committed to assisting regular status employees to
+overcome drug and alcohol problems through appropriate treatment programs and, if
+necessary, disciplinary action. The presence or treatment of a substance use problem will not
+excuse an employee from meeting performance, safety or attendance standards or following
+other DOC instructions. Trial service employees are not subject to the provisions of this
+Section.
+
+Section 2. Prohibited Conduct.
+The following conduct is prohibited:
+       a.    The buying, selling, or providing, or possession for the purpose of buying,
+             selling, or providing controlled substances including marijuana while on Agency
+             property or in Agency vehicles or equipment, or during work hours, including
+             paid rest and meal periods.
+
+
+
+                                        30                                Collective Bargaining Agreement
+      b.     Being under the influence of alcoholic intoxicants, or consuming alcoholic
+             intoxicants while in Agency vehicles or equipment at any time, or on Agency
+             property, including rest and meal periods.
+
+      c.     Being at work with a blood alcohol content that reaches or exceeds .02% by
+             volume/weight of alcohol in the blood.
+
+      d.     Possession of any controlled substance including marijuana while on Agency
+             property or in Agency vehicles or equipment at any time, including rest and meal
+             periods. However, this excludes substances that have been legally prescribed
+             for an employee’s own use.
+
+      e.     Being at work under the influence of any controlled substance, including
+             marijuana, or having such substances present in the body while on Agency
+             property or in Agency vehicles or equipment at any time, including rest and meal
+             periods. An employee has controlled substance present in the body when the
+             employee tests positive in blood or urine tests administered by the Agency for
+             drug and alcohol testing. An employee shall be deemed to test positive for
+             cannabinoids (marijuana or hashish) if his or her urine test indicates fifty (50) or
+             more nanograms’ THC metabolites/ml. However, this excludes substances that
+             have been prescribed for an employee’s own use.
+
+      f.     Abusing any substance which is lawfully prescribed by regularly taking it in
+             excessive quantities or by unlawfully obtaining it for purposes of abuse.
+
+      g.     For purposes of this Agreement, the term controlled substance shall be defined
+             in accordance with ORS 475.005(6).
+
+Section 3. Under the Influence.
+The term under the influence of controlled substances including marijuana or alcoholic
+intoxicants covers not only all the well-known and easily recognized conditions and degrees of
+impairment and intoxication, but any perceptible abnormal mental or physical condition which
+is the result of indulging to any degree in controlled substances, marijuana or alcoholic
+intoxicants which perceptibly tend to deprive the use of that clearness of intellect and control
+the employee would otherwise possess.
+
+Section 4. Discipline and Other Action.
+Prohibited conduct described in Sections 2a and 2d above shall result in termination.
+Prohibited conduct described in Sections 2b, 2c, 2e and 2f shall result in actions specified in
+Section 6 below.
+
+Section 5. Reasonable Suspicion Testing.
+a.    Where the Agency has a reasonable suspicion that en employee is under the influence
+      of any alcoholic intoxicants or controlled substances, including marijuana, or has a
+      controlled substance, including marijuana, present in the body, the Agency may require
+      that the employee immediately consent and submit to field and impairment tests and
+      sampling (blood, urine or Breathalyzer test) at an approved laboratory. The Agency
+      shall pay for the costs of the tests. A refusal to consent and submit to any of these
+      tests shall be deemed the same as a positive test result.
+
+                                        31                                Collective Bargaining Agreement
+b.   When the employee is notified he or she is required to consent and submit to such test,
+     or to searches as described in Section 8 of this Article, he or she may request the
+     presence of a Union representative to witness the tests or searches. The tests or
+     searches may not be unduly delayed in order to wait for a representative. The absence
+     of a representative shall not be grounds for the employee to refuse to consent and
+     submit to such tests or searches, however the Agency shall make every reasonable
+     effort to provide a Union representative. The presence of a representative shall not
+     disrupt or interfere with the tests or searches.
+
+c.   Before a supervisor, acting on behalf of the Agency under this policy, may require an
+     employee to consent and submit to any test(s) specified in this section, the supervisor
+     must first obtain concurrence from the supervisor’s department head or his designee
+     that the information available to the Agency about the subject employee is sufficient to
+     determine reasonable suspicion that prohibited conduct will be established as a result
+     of such test(s).
+
+d.   The employee shall give consent to a blood, urine or Breathalyzer test by signing a
+     consent form. The form shall contain the following information:
+     1.    Employees consent to release test results to the Agency;
+
+     2.    The procedure for confirming an initial positive test result for a controlled
+           substance, including marijuana;
+
+     3.    The consequences of a confirmed positive test result for a controlled substance,
+           including marijuana;
+
+     4.    The consequences of a positive test for alcohol, including one at or above .02%
+           by volume/weight of alcohol in the blood;
+
+     5.    A listing provided by the employee of legally prescribed and over-the-counter
+           medications which may be in the employee’s body. At the employee’s option,
+           this information may be submitted in a sealed envelope to be opened only by the
+           Medical Review Officer if the test result is positive;
+
+     6.    The right to explain a confirmed positive test result for a controlled substance,
+           including marijuana, or a positive test for alcohol to the Medical Review Officer;
+
+     7.    The right to have a Union representative present during the preliminary interview
+           and any follow-up investigation;
+
+     8.    The consequences of refusing to consent to the blood, urine, or Breathalyzer
+           test.
+
+e.   The drug testing process shall be one that is scientifically proven to be at least as
+     accurate and valid as urinalysis using an immunoassay screening test, with all positive
+     screening results being confirmed utilizing gas chromatography/mass spectrometry
+     before a sample is considered positive. The alcohol testing process shall be one that is
+     scientifically proven to be at least as accurate and valid as (1) urinalysis using an
+     enzymatic assay screening test, with the positive screening results being confirmed
+
+                                      32                               Collective Bargaining Agreement
+       using gas chromatography before a sample is considered positive, or (2) breath sample
+       testing using breath analyzing instruments which meet NIDA/SAMSHA testing
+       standards.
+
+f.     If a blood or urine test is confirmed as positive, the Agency will instruct the laboratory to
+       retain the blood or urine sample for a period of not less than thirty (30) calendar days
+       from the date the test results are communicated to the employee for the purpose of
+       allowing the employee to conduct an independent test of the sample at his or her own
+       expense at a laboratory approved by the State of Oregon.
+
+g.     The procedure followed under this Agreement to obtain, handle and store blood and
+       urine samples and to conduct laboratory tests shall be documented to establish
+       procedural integrity and chain of evidence. Such procedures shall be administered with
+       due regard for the employee’s privacy and the need to maintain confidentiality of test
+       results to an extent which is not inconsistent with the needs of this policy. The
+       employee shall be notified of the results of all tests conducted pursuant to this policy.
+       Additionally, all facts and circumstances upon which the reasonable suspicion testing is
+       based, shall be documented and given to the employee when he or she is notified of
+       the test results.
+
+Section 6. Consequences of Test Results.
+a.    Test results which do not positively establish the employee has engaged in prohibited
+      conduct as described in Sections 2b, 2c, 2e or 2f of this Article shall result in no further
+      action against the employee related to an alleged violation of those sections. The
+      employee shall be informed of such test results in writing. Persons who do not test
+      positive shall not have any record of the test placed in his or her official personnel file.
+      Working files may contain records of the observations which led to the reasonable
+      suspicion testing but not records of the test itself. If the employee subsequently
+      demonstrates similar behaviors, these records may be relied upon by the employer in
+      disciplinary proceedings.
+
+b.     If an employee who tests positive and has not previously committed prohibited conduct
+       specified in Sections 2b, 2c, 2e or 2f of this Article, the employee shall immediately
+       submit to a medical evaluation by a doctor selected and paid for by the Agency. The
+       evaluation will determine the extent of the employee’s use of, and dependence on, the
+       applicable substance(s) and, if necessary, recommend an appropriate program of
+       treatment, including but not limited to rehabilitation and counseling to prevent future
+       use. If a program of treatment is recommended by the doctor, the employee shall
+       enroll in it immediately. Failure by the employee to enroll in the recommended program
+       or to complete it successfully shall result in his or her termination from employment.
+       The cost of such treatment shall be at the employee’s expense except as it may be
+       covered by insurance. The employee may take paid leave or leave without pay for the
+       period of treatment.
+
+c.     The first instance of an alcohol test result of .02% to .039% shall not be considered a
+       positive test result for alcohol for the purpose of requiring a medical evaluation by a
+       doctor. An employee may use vacation and/or sick leave benefits for this time period.
+       It will, however, require that the employee be removed from duty until their next
+
+
+                                          33                                 Collective Bargaining Agreement
+      scheduled shift. An alcohol test result of a .04% or greater will subject the employee to
+      all provisions of this Agreement.
+
+d.    If an employee who tests positive and has previously committed prohibited conduct
+      specified in Sections 2b, 2c, 2e or 2f, and subsequently is found to have committed
+      such prohibited conduct a second time within three (3) years, he or she shall be subject
+      to discipline up to and including termination. The level of discipline imposed for
+      subsequent instances of such prohibited conduct beyond three (3) years may be
+      termination but shall be determined on a case-by-case basis.
+
+Section 7. Voluntary Rehabilitation.
+a.    The primary objectives of the Agency’s drug and alcohol policy are to maintain
+      employee performance and good health and a safe work environment. If, prior to a
+      requirement by the Agency that the employee submit to any of the tests specified in
+      Section 5 of this Article, the employee notifies a supervisor he or she has drug or
+      alcohol problems that require treatment, then in that event the employee shall
+      immediately submit to a medical evaluation by a doctor selected and paid for by the
+      Agency and shall enroll in a treatment program recommended by the doctor. An
+      employee may seek such evaluation and treatment from the employee’s own doctor, at
+      the employee’s expense. The employee shall notify the employer of the name of the
+      doctor.      An employee who enters rehabilitation and successfully completes
+      rehabilitation under the terms of this paragraph shall not be subject to discipline. The
+      cost of such treatment shall be at the employee’s expense except as it may be covered
+      by insurance. The employee may take paid leave or leave without pay for the period of
+      treatment.
+
+b.    If an employee has previously enrolled in a voluntary rehabilitative treatment described
+      in subsection a and subsequently again volunteers for such treatment in advance of
+      being required to submit to any of these tests specified in Section 5 of this Article, then
+      the employee shall immediately submit to a medical evaluation by a doctor selected
+      and paid for by the Agency and shall successfully complete the treatment program
+      recommended by the doctor. An employee may seek such evaluation and treatment
+      from the employee’s own doctor, at the employee’s expense. The employee shall
+      notify the employer of the name of the doctor. If the employee fails to complete the
+      treatment program successfully, he or she shall be subject to discipline up to and
+      including termination. The cost of such treatment shall be at the employee’s expense
+      except as it may be covered by insurance. The employee may take paid leave or leave
+      without pay for the period of treatment.
+
+Section 8. Searches.
+The Agency reserves the right to conduct searches for any reason of Agency equipment or
+facilities generally, and may search anything or area in which the employee has an
+expectation of privacy (i.e., desk, locker, outer garment clothing or personal property) to the
+extent permitted by law. Refusal by the employee to submit to a lawful search shall result in
+termination.
+
+Strip searches and frisk searches will be undertaken in the event of a criminal investigation
+and only for probable cause as determined by the investigating law enforcement agency.
+
+
+                                        34                                Collective Bargaining Agreement
+Section 9. Consequences of Search Results.
+a.    Reasonable suspicion searches which do not reveal the presence of alcohol or
+      controlled substances, including marijuana (but excluding any substance lawfully
+      prescribed for the employee’s use which has not been obtained for the purpose of
+      abuse), shall result in no further action against the employee related to an alleged
+      violation of Section 2d. The employee shall be informed of such search results in
+      writing.
+
+b.    Searches which reveal the presence of alcohol or controlled substances, including
+      marijuana (but excluding any substance prescribed for the employee’s use which has
+      not been obtained for the purpose of abuse), shall result in those consequences
+      specified in Section 4 as though a positive blood or confirmed urine test had been
+      administered.
+
+Section 10. Training.
+The Agency recognizes that, in order to administer the standards and procedures set forth in
+this Agreement fairly and to minimize the possibility of unwarranted testing and searches,
+supervisory personnel shall receive training in how to recognize and deal effectively with
+substance abuse in the work place. Accordingly, the Agency will provide such training to
+supervisors and designated Union representatives before the requirements of this Agreement
+are implemented and enforced. Annual in-service training and an updating program will be
+developed and administered to supervisory personnel within the Agency and designated
+Union Officers and Stewards.
+
+Section 11. Emergencies.
+In the event of emergency the Agency wishes to call back an off duty employee to perform
+additional duties and the employee has consumed intoxicants, the employee will notify his or
+her supervisor that he or she has consumed intoxicants and is impaired and therefore is
+unable to report for duty and suffer no discipline or other consequences.
+                                                                                               Rev: 2015
+
+
+### ARTICLE 25 - WORKING CONDITIONS
+
+The Parties recognize their joint responsibility to ensure and maintain safe and secure
+operations of the facilities within the AFSCME Security bargaining unit. Communication and
+collaborative efforts are therefore expected and encouraged in general terms as well as
+through the processes that are provided for within the parameters of this Agreement (CBA)
+and the Public Employees Collective Bargaining Act (PECBA).
+
+Outside of temporarily declared Article 23 – Emergency situations, before an Institution
+implements contingency plans related to the addition of emergency beds, the institution will
+notify the Local Union President and provide the opportunity to discuss and offer input as time
+and circumstances permit.
+
+Section 1. Work Week.
+a.    Workweek Defined. The workweek for the Institutions shall begin at 12:01 a.m. Sunday
+      and end at 12:00 Midnight the following Saturday.
+
+
+
+                                        35                               Collective Bargaining Agreement
+b.    Work Scheduled Defined. A work schedule is defined as the time of day and the days
+      of the week the employee is assigned to work. All permanent full-time employees in
+      the unit shall be scheduled for five (5) shifts of eight (8) hours and two (2) consecutive
+      days off within each workweek, or four (4) shifts of ten (10) hours and three (3)
+      consecutive days off within each workweek. Saturday and Sunday will be considered
+      as consecutive days off within the workweek.
+
+c.    Workweek Adjustments. If a variance from this paragraph is required in order to
+      accomplish the mission of the Institution, the Agency shall notify the Union of the
+      reasons for the change prior to its effective date and the Union Local President and
+      Council Representative shall be afforded an opportunity to comment and offer
+      alternative suggestions. If the Union feels the change is unreasonable, the matter may
+      be processed as a grievance.
+
+Section 2. Working Hours.
+a.    Work Hours Defined. The standard workday shall be a period of twenty-four (24)
+      hours, containing eight (8) or ten (10) consecutive hours of work interrupted by rest and
+      meal periods.
+
+b.    Rest Periods. Rest periods will normally consist of two (2), fifteen (15) minute breaks.
+      Rest periods preferably will occur between the second (2nd) and third (3rd) hours and
+      the fifth (5th) and sixth (6th) hours of the employee's shift. Management agrees to
+      make every reasonable effort to allow rest breaks. However, the Parties recognize that
+      not every break can be granted on every shift or that breaks will occur on regular and
+      recurring intervals. It is expected that employees will notify their shift supervisor in a
+      timely manner if a break is missed.
+
+c.    Security & Recreation staff. Where security and recreation staff have a past practice
+      allowing informal breaks to occur, that practice shall continue on a reasonable basis
+      consistent with Section 2b above.
+
+d.    Split Shifts. Computer generated work schedules will be reviewed and a good faith
+      effort made to minimize the number of schedules which contain split shifts.
+
+e.     Safety Release Time (SRT)
+       No employee should be required to work eighteen (18) or more hours in a continuous
+       twenty-four (24) hour period. In the unavoidable circumstance that it occurs, then the
+       following guidelines will be followed:
+       1. The employee shall be released from duty by the OIC as soon as feasible.
+
+       2. No employee shall be expected or required to report back to work for their next
+          regularly scheduled shift within an eight (8) hour window of time from the time they
+          are released from work.
+
+       3. The employee shall be given SRT (administrative paid leave) as necessary to avoid
+          any decrease in compensation related to the need for adequate rest and
+          recuperation time between shifts.
+
+
+
+                                        36                               Collective Bargaining Agreement
+       4. This Provision does not require the Employer to pay for normal time off.
+
+       5. This Provision does not waive mandatory court obligations.
+
+Section 3. Meal Periods at Institutions.
+a.    Scheduling. A meal period shall be scheduled for each employee at approximately the
+      mid-period of the workday, as work permits. This period shall begin upon the
+      employee being relieved and shall end upon the employee's return to the work station.
+
+b.    Overtime. A reasonable meal period shall be allowed within the confines of the regular
+      scheduled shift (after the sixth (6th) hour or during the overtime shift up to the second
+      (2nd) hour) when a security employee works overtime shifts of at least four (4) hours
+      beyond the employee's regular shift. The Agency shall furnish the meal, and the time
+      shall count as time worked. If an employee is called back to work a full four (4)-hour
+      overtime shift with less than two (2) hours notice, the employee's meal will be furnished
+      by the Agency.
+
+c.    Work Performed During Meal. A meal period shall be allowed each employee as work
+      permits. Employees who are not relieved from the employees' shift, and are required
+      to remain in their work area while eating, shall have such time counted as time worked.
+      In no instance shall an employee be required to use a meal period in excess of one (1)
+      hour.
+
+d.    Cost of Meals. Meals are at the employee's expense. The Department shall provide
+      adequate dry and refrigerated storage for employees' meals.
+
+e.
+      1.     If an employee purchases a meal at the Institution during their regular unpaid
+             meal period, and during that unpaid meal break Institution management directs
+             the employee to respond or return to work before their purchased meal is
+             consumed, they shall report the matter to their OIC on shift within two (2) hours
+             of the incident occurring in order to resolve it.
+
+      2.     If there are unresolved issues surrounding a Security Unit employee being
+             directed by Institution management to respond during their unpaid meal break
+             where they have purchased an Institution meal, it will be addressed at the
+             Institution’s local labor/management committee. Any resolution shall not create
+             any new benefit or right for Security staff. Any local resolution will be on a case
+             by case basis and shall be Institution specific.
+
+Section 4. Clean-Up Time in Institution.
+Except in emergencies, employees in the unit shall be allowed a reasonable amount of
+clean-up time during duty hours, prior to meal breaks and completion of shift. Abuses of
+clean-up time may be subject to disciplinary action.
+
+Section 5. Vacation Relief.
+The Agency will continue to use Correctional Officers to relieve other security staff on vacation
+without penalty.
+
+
+                                         37                               Collective Bargaining Agreement
+Section 6. Security Briefings.
+Where security staff are required to attend security briefings prior to commencement of their
+shift, it shall be counted as time worked and paid in accordance with Article 15, Overtime.
+
+Section 7. Time Trades.
+a.    Employees may agree to time trades with other employees who are qualified to perform
+      the duties required in the course of the trade. Such agreement shall be in writing and
+      signed by the affected employees and shall contain specific dates of the trade.
+      Supervisors shall not withhold approval of time trades without valid cause.
+
+b.    Time trades are voluntary agreements between employees and shall not cause
+      financial liability to the Agency. Employees are individually responsible to ensure the
+      time trade occurs as approved. The employee who fails to complete the trade as
+      approved shall be charged with leave without pay, unless other leave is approved by
+      the employee’s supervisor.
+
+c.    If an employee reports for duty on a time trade and the Officer in Charge (OIC)
+      determines staff are able to be relieved from work, the employee on time trade will be
+      eligible to request vacation leave using the same Institution process for relieving staff
+      as any other employee on duty. Use of vacation leave under this Subsection shall not
+      count as hours worked for the purpose of overtime calculation.
+
+d.    Time trade requests may not be changed unless agreed to by the Parties through
+      submission of a new request.
+
+e.    Employees shall submit their trade requests seven (7) days in advance of the trade
+      date. If a trade is denied a brief explanation shall be provided on the form which will
+      then be returned to the employee.
+
+f.    All time trades shall be completed within a ninety (90) day time period.
+
+g.    The notification deadline and/or the completion period may be extended or reduced at
+      individual functional units by mutual agreement between the local Union and the
+      functional unit Manager via the labor/management meeting process.
+
+h.    Initial trial service employees are restricted from time trades the first six (6) months of
+      employment. Emergent issues may be considered on a case by case basis by working
+      with their Institution Staff Deployment and Institution Security management to secure
+      the time off. This Subsection supersedes any other Provision in this Agreement on the
+      subject of time trades for initial trial service employees.
+
+i.    When an employee misses a trade, they will submit an explanation in writing on their
+      next scheduled shift identifying any mitigating factors, to initiate a conversation between
+      management and the employee. Management will determine if any trade restrictions
+      are appropriate using the guidelines below:
+      a.     First unmitigated occurrence of a late or missed Time Trade will result in a one
+             (1) month trade restriction.
+
+
+
+                                        38                                Collective Bargaining Agreement
+      b.     Second unmitigated occurrence in six (6) months will result in a three (3) month
+             trade restriction.
+
+      c.     Third unmitigated occurrence within one (1) year will result in a six (6) month
+             trade restriction.
+
+      d.     Parts a, b, and c above do not limit management from appropriately assigning
+             leave codes for missed trades or taking corrective action as necessary.
+
+      e.     In cases where the employee on restriction already has pre-approved trades
+             pending, and the trade has been half worked, the remaining trade obligation will
+             be honored. All other trades within the restriction period will be canceled.
+             Employees under restriction may request to honor other pre-approved trades
+             from the assistant superintendent/ISM or designee. Employees impacted by the
+             trade partner’s restriction may work with the assistant superintendent/ISM or
+             designee to address the matter.
+
+             Assistant Superintendent of Security or designee, may reduce the minimum
+             notification deadline or extend the completion period at their discretion and with
+             the agreement of the affected employee.
+                                                                                               Rev: 2023
+
+
+Section 8. Seniority.
+a.    For purposes of bidding under Article 25, Working Conditions, seniority is defined as
+      time in classification in the AFSCME security bargaining unit, except that employees in
+      the bargaining unit on July 1, 1994, shall retain the seniority date they have in their
+      current position until such time as the employee leaves that position.
+
+      The intent is that an employee in the AFSCME security series on July 1, 1994, keeps
+      the seniority date negotiated in the 1992-94 Agreement for as long as the employee
+      remains in the classification and functional unit the employee was in on that date.
+      Once the employee leaves that position by promoting to a higher classification in the
+      security series, transferring to a position in the same classification in another AFSCME-
+      represented functional unit, or leaves the bargaining unit security series for any reason
+      and then returns, the employee's seniority date will be recomputed to meet the
+      definition of "time in class in the security bargaining unit." Seniority not sanctioned by
+      this Agreement will not be recognized.
+
+      If AOCE represented employees employed by the Agency elect AFSCME as their
+      exclusive bargaining agent, the definition of seniority, for the purpose of shift bidding,
+      shall be Agency Time in Classification for all bargaining unit employees. As a result, all
+      of Section 8 (a) of this article shall become null and void. This provision will become
+      effective on the next shift/days off bid cycle after the Employment Relations Board
+      certifies the bargaining unit. The Agency shall recalculate employee job bidding
+      seniority and provide the Union a copy of this report.
+
+b.    Seniority for bargaining unit employees who experience breaks in service shall be
+      calculated as follows:
+
+
+                                       39                                Collective Bargaining Agreement
+      A bargaining unit members who leaves the bargaining unit and then return, shall be
+      credited with their previous AFSCME bargaining unit seniority in classification which
+      is only the days earned while in that classification upon their return (Subject to the
+      provisions listed below).
+      1.     An employee who leaves Agency service and return within one hundred eighty
+             (180) days, shall be credited with their previous AFSCME in class seniority
+             which is only the days earned while in that classification upon their return or
+             within two (2) years if the separation was a result of lay off.
+
+      2.     An employee who leaves Agency service, for a period longer than one hundred
+             eighty (180) days for any reason other than lay off then return, shall lose all
+             seniority for the purpose of bidding.
+
+      3.     An employee who transfers within classification between AFSCME represented
+             bargaining units, shall maintain their classification seniority.
+
+      4.     An employee who promotes or demotes into represented classifications within
+             the Agency and then return to a previously held classification shall have their
+             previous AFSCME in classification seniority reinstated by crediting only the
+             days earned while in that classification.
+
+      5.     An employee who promotes into management classifications within the Agency
+             and then returns within one (1) year to a previously held classification shall
+             have their previous AFSCME in classification seniority reinstated crediting only
+             the days earned while in that classification. An employees who remains in a
+             management classification more than one (1) year shall lose all previously
+             earned AFSCME in classification time.
+
+c.   Institution Specific Bidding Seniority will be determined as follows, except where there
+     is a conflict between Section C and a local Article 25 provision, this section shall
+     prevail.
+     1.      New Hires – Newly hired employees with the same date of hire will have their
+             seniority determined by lottery drawing with a Union representative present.
+
+     2.    Transfers – When a staff member transfers within the AFSCME Security
+           represented bargaining unit with the same AFSCME classification seniority date
+           of hire as an existing staff member, the existing staff member shall be granted
+           the higher seniority within the classification. On occasions when an employee
+           returns to an institution they were previously employed, they shall be returned to
+           seniority placement originally obtained through lottery bid for employees hired or
+           promoted on the same date providing the AFSCME in classification time remains
+           the same.
+
+     3.    Promotional Hires – When newly promoted staff have the same promotional hire
+           date their seniority will be first determined by total bargaining unit seniority. If
+           bargaining unit seniority is equal, total Agency time in the security series will be
+           utilized to determine the higher seniority. If seniority would still be the same,
+           seniority will be determined by lottery drawing with a union representative
+           present.
+
+                                      40                                Collective Bargaining Agreement
+4.   Employees who retire and who continue as a temporary employee for a limited
+     period of up to one thousand and thirty nine (1,039) hours, without a break in
+     service, may maintain their current work assignment on the same shift and days
+     off under the same parameters as relevant in Section 9 of this Article unless and
+     until the next Bid rotation occurs when they are subject to being assigned by
+     management as needed.
+
+d.   Administration of Lists
+     1.    Six weeks before a Post or Shift and Days off bid at an institution, the
+           ISDS coordinator will post the current job bidding seniority list.
+
+     2.    If an employee’s seniority date has been changed or reinstated after
+           promotion or demotion to a previously held classification and the
+           employee disputes their seniority date, they shall submit the issue in
+           writing to the local Institution Human Resources Manager within ten (10)
+           calendar days of the date they become aware of the matter. The Human
+           Resources Manager will forward a copy to the Local President and Local
+           Oregon AFSCME Council Representative.
+
+           Functional Units where the question or issue regarding seniority
+           originates, the Local President or Vice President will serve as a labor
+           representative and voting member of the Seniority Panel to be formed.
+           Additionally, Management will select their one (1) representative from the
+           following positions: Superintendent, Assistant Superintended of Security
+           (or Security Manager) or Operations Capitan who will serve as a
+           Management representative and voting member on the Seniority Panel to
+           be formed.
+
+           Those two (2) individuals, together with that Functional Unit’s Oregon
+           AFSCME Council 75 staff Representative and an individual from
+           Department of Corrections Labor Relations or that Functional Unit’s
+           Human Resources Manager, will observe the selection of the remaining
+           members of the panel. Names of the remaining AFSCME Correctional
+           Functional Units including the Transport Unit will be placed into a ‘hat’.
+           The two (2) voting panel members will alternatively draw names out of the
+           ‘hat’. To designate the labor voting representatives, there will be three (3)
+           names drawn. The President of the Functional Units drawn will be
+           assigned to serve as voting members on the panel. Should the President
+           be unavailable then the Vice President shall serve. The Functional Unit
+           names will be reinserted into the ‘hat’ and two (2) names will be
+           alternatively drawn to serve as the designated Management voting
+           representatives.    The Superintendent, Assistant Superintendent of
+           Security (or Security Manager) or Operations Captain will be assigned to
+           serve as the additional Management voting members of the panel.
+
+           ISDS Coordinators, Oregon AFSCME Council 75 Staff Representative
+           and Department of Corrections Labor Relations will serve as non-voting
+           members or resources to the panel to assist in ensuring that panel
+           members have sufficient data and understand the relevant language in
+
+                               41                                Collective Bargaining Agreement
+                    the Agreement. The purpose of the panel is to evaluate questions and
+                    circumstances in order to determine the correct job bidding seniority for a
+                    specific employee and ensure consistent application of the seniority
+                    definition in the Agreement. Any panel decision shall be final and binding
+                    on all Parties.
+
+                    Neither the Employer nor the Agency will be liable for any travel expenses
+                    for any Union panel members who must travel for any panel meetings. In
+                    addition, neither the Employer nor the Agency will be liable for any
+                    overtime costs as result of the Union’s panel members attending panel
+                    meetings including travel time. The Agency shall not change an
+                    employee’s shift/days off so the employee can participate in the panel.
+                    Where feasible, the Parties can agree to use Skype or telephone
+                    conference calls when the panel meets.
+                                                                                               Rev: 2017
+
+
+Section 9. Procedure for Changes to Shift/Days Off for Bidding.
+a.    When the Institution seeks a schedule change to start/stop times and days off, the
+      Institution’s Assistant Superintendent/Security Manager or designee will provide the
+      Union’s local Union President written notice of proposed schedule changes before the
+      bid.
+
+b.    If, after fifteen (15) calendar days of bargaining there is no agreement, then within
+      seven (7) calendar day counting from the end of the fifteen (15) calendar day period of
+      bargaining the Union may submit a written demand to bargaining with the Department
+      of Administrative Service Labor Relations Unit with a copy to the Institution’s
+      Superintendent.
+
+c.    The Parties agree to waive the ninety (90) day period of bargaining and use of
+      mediation under ORS 243.698 et.seq. and reduce the period of bargaining with the
+      Department of Administrative Services Labor Relations Unit to fifteen (15) calendar
+      days on the single issue of start/stop times and days off for the proposed schedule
+      changes. The Institution will not implement the proposed schedule change until receipt
+      of the arbitration award or if there is an agreement reached at some point during this
+      process.
+
+Section 10. Employee and Union Access to Daily Rosters and Exception Sheets.
+To help avoid inadvertent errors and facilitate the ability to address any issues at the lowest
+level while ensuring compliance with contractual provisions of position and overtime
+assignments, the Daily Rosters and Exception Sheets will be posted electronically for each
+shift at each facility.
+        a.      These reports will be posted in a mutually agreed manner by each location via
+                the Labor/Management meeting process.
+             i.         It must be readily accessible to employees.
+
+            ii.     Employees will be notified of the location or method of accessing the
+                    information.
+
+
+
+                                        42                               Collective Bargaining Agreement
+      b.     These reports will be posted after they have been processed by ISDS.
+
+      c.     These reports will be maintained in that location or viewable for a minimum of
+             thirty (30) days.
+
+      d.     If an employee reports an overtime error while the report is still posted, the
+             Institution will review the matter and verify if an error has occurred. The
+             Institution will afford the employee another overtime opportunity within twenty-
+             one (21) calendar days from the date of the verification of the error. Overtime
+             opportunities developed will not impact the voluntary overtime process in Section
+             11 of this Article.
+
+      e.     The Institution will not correct errors if any employee has not reported any
+             verifiable error while the report is still posted and shall not be eligible for
+             overtime pay for the time not worked unless an alternate opportunity has been
+             found.
+
+            (The intent of this Section is that if you are skipped/missed for Overtime.
+            Management will find something for you to do on overtime. Inventory property,
+            searches, filling an open post after voluntary process has been unsuccessful and
+            in lieu of mandatory).
+Section 10. Local Working Conditions by Functional Unit.
+
+                             Coffee Creek Correctional Facility
+
+Section 1. Working Schedule Bid Procedure.
+1.    Employees who have completed initial trial service by the time the rotation starts may
+      bid for shift and days off in order of seniority as defined by Article 25, Section 8.
+
+2.    Employees whose trial service will be completed prior to the effective date of the shift
+      and days off change (first Sunday of April and October) shall be allowed to participate
+      in the shift and days off bidding process. Newly promoted employees shall bid in the
+      classification that they are in on the effective date of the shift and days off change (first
+      Sunday of April and October).
+
+3.    Employees who fail to successfully bid, or who do not apply to bid, will be assigned at
+      the discretion of the institution’s Management.
+
+4.    The bid schedule will be correct and finalized at least fourteen (14) days prior to the
+      start of the bid.
+
+5.    The labor/management team will determine the mechanics of the bidding process. The
+      Parties agree to review the mechanics and make necessary changes after each bid.
+      Any agreed changes to the mechanics of the bidding process will be provided to staff
+      no later than thirty (30) days prior to the bid.
+
+      The Parties agree that the intent of this Section is to provide as many work and training
+      opportunities as possible for all security staff, regardless of seniority, while recognizing
+      the importance of seniority and the individual choice of staff.
+
+                                         43                                 Collective Bargaining Agreement
+     The institution’s management team will make the specific daily work schedules and
+     may only remove or deny an employee from their bid for valid cause.
+     a.    Mechanics of the Bidding Process
+           i.      Coffee Creek Correctional Facility will use a Line Bid Shift process. On
+                   the Shift Bid materials Management will include the names of the post
+                   assignments associated with each shift and days off assignments.
+
+          ii.     Bids will address shift, days off, and post assignments. A qualified
+                  employee will place their name on the bid sheet next to their desired post
+                  assignment for their corresponding shift and days off based on seniority.
+                  The employee will not be denied their desired post assignment unless
+                  they are not qualified for the post or for a valid cause but will retain their
+                  shift and days off.
+
+         iii.     The employee will not be moved from their post assignment unless
+                  “bumped” for mandatory overtime as provided in this Article or their post
+                  assignment requires a specific, mandatory, rank assignment to the
+                  position and there are no other alternatives, or their post assignment is
+                  altered in accordance with ODOC Policy 40.2.1.
+
+         iv.      All shift and days off assignments that are able to be adjusted will rotate
+                  every two (2) years. Management will work with the union to make any
+                  changes to the schedule when necessary.
+
+          v.      If an employee is on shift during their assigned time to bid, Management
+                  will make arrangements to have that employee relieved so they may
+                  participate in the bid process and hold the bid until that employee has
+                  been       provided     an     opportunity     to     place     a    bid.
+
+
+6.   Bidding will occur every six (6) months, becoming effective on the first Sunday of April
+     and October. The Security Office shall post work schedules thirty (30) calendar days
+     prior to the rotation date. Proxy bids must be received prior to the start of the bid
+     process.
+
+
+7.   Exempt Posts: Will not be bumped for overtime (Tool and Key Sergeant Group Living
+     Officer and Special Housing (MHI, MHU, SHU).
+     a.     The Tool and Key Control Sergeant is designated as an exempt post. No
+            employee may fill that assignment for more than two (2) consecutive years. To
+            fill/backfill this post, Management will seek memos from interested sergeants
+            and make a selection. The sergeant backfilling this post will train with the
+            current Tool and Key Control Sergeant as staffing allows and will become the
+            new Tool and Key Control Sergeant when the current individual’s assignment is
+            concluded.
+
+
+
+
+                                      44                                 Collective Bargaining Agreement
+       b.     The Group Living Officer is designated as an exempt post. To fill/backfill this
+              post, Management will seek memos from interested officers and make a
+              selection. The selected officer will fill the post for two (2) years. At least thirty
+              (30) days prior to the end of that year, Management will again seek memos of
+              interest for the position. If there are no memos of interest submitted by other
+              officers, the current Group Living Officer may remain in that post for another
+              year.
+
+       c.     Special Housing (MHI, MHU, SHU) are designated as exempt post. To
+              fill/backfill these posts, management will seek memos from interested employees
+              at least one (1) month in advance of the regular bidding. Once management
+              selects the successful candidates those employees shall bid shifts and days off
+              from the available positions in those areas. Once that process has concluded,
+              those employees who have selected a shift and days off assignment in these
+              areas will be removed from the regular shift bid and will not participate in the
+              regular shift and days off bid and shall remain in these Special Housing exempt
+              posts until the next bid.
+
+Section 2. Mid Shift Rotation Bid Assignment Process.
+Shift and days off slots that are vacated within one-hundred and twenty (120) days of rotation
+date will be offered to interested staff using the following procedure. This shall be done as
+soon as is practical when an employee permanently leaves for any reason that vacates the
+post for the remainder of the bid cycle. In addition, job rotations or work out of classification
+opportunities that create open posts within one hundred and twenty days (120) of rotation date
+and whose duration lasts the remainder of the bid cycle shall also use this process.
+Employees will revert back to original posts when or if the assignment ends. Shift/days off
+slots opening sixty (60) days or less from the end of rotation will be assigned by management.
+The available slot will be posted and all employees can notify management of their interest
+within seven (7) days. The assignment will be awarded to the staff member based on
+seniority as defined in Article 25, Section 8 of the Agreement.
+
+Secondary shift/days off slots that are vacated through the above process will be offered to
+interested staff. To minimize the ‘domino effect’, back filling will stop after the third (3rd) staff
+member that is reassigned as a result of the original vacant shift/days off slot. Management
+will then use its right to assign to make any necessary adjustments to rosters to cover
+workload. (Staff that retire before the bid/shift/post rotation ends will be allowed to maintain
+their post until the next rotation starts, if selected as a temporary employee.)
+
+Section 3. Sergeant Preferred Posts.
+There are five (5) Preferential Sergeant Preferred Posts on dayshift. SHU, R/D, Master
+Control, Vehicle Gate, and Minimum Sergeant. On swing shift there are three (3), SHU,
+Master Control, and Minimum Sergeant. On graveyard there are two (2), Master Control and
+Minimum Sergeant. None of these are listed as “pull post”.
+
+If the voluntary overtime list and the radio call fail to produce relief for the vacant post, the OIC
+may then contact qualified Corporals who are signed up for voluntary overtime to fill the
+vacancy. A qualified Corporal means a Corporal with two (2) or more years of security
+experience. At no time will an Officer be utilized to work a Sergeant Preferred Post.
+
+
+                                          45                                 Collective Bargaining Agreement
+If no qualified Corporal takes the overtime voluntarily, a Sergeant can be moved into the
+Sergeant Preferred Post from their line bid post. If there are no Sergeants available to be
+moved a Sergeant will be mandated.
+
+If a Sergeant is voluntarily hired or mandated to a vacant Sergeant Preferred Post, they can
+split that overtime, but must be with another Sergeant/Corporal.
+
+The above language only applies to Sergeant Preferred Posts, all other Sergeant posts will be
+filled in accordance with Article 25 of the Collective Bargaining Agreement.
+
+Section 4. Seniority.
+1.    Lateral Transfer – All employees that laterally transfer to CCCF from another State
+      agency will have their seniority determined in accordance with Article 25, Section 8 of
+      the 2009-2011 collective bargaining agreement. When an employee transfers into
+      CCCF with the same hire date as an existing staff member, the existing staff member
+      shall be granted the higher seniority within the classification.
+
+2.     New Hires – All employees with the same hire date, will have their seniority determined
+       by lottery with a labor representative present (i.e., individual employees from each
+       affected new hire grouping will draw a number).
+
+3.     Promotional Hires – All employees with the same hire date will have their seniority
+       determined by their total Agency security service. (Agency non-security time will not
+       count toward seniority for the purpose of bidding shift and days off.) If two (2) or more
+       employees have the same Agency security date, their seniority will be determined by
+       lottery with a labor representative present.
+
+4.     Upon completion of the three (3) prior elements, the Agency agrees to provide the
+       Union with a seniority list. The Agency agrees to update this information as necessary
+       to include new transfers, hires and promotions.
+
+Section 5. Distribution of Voluntary and Mandatory Overtime
+Definitions:
+Order of Classification:
+a.      If a vacant officer post cannot be filled by someone in their classification, the
+        classification considered next will be corporal followed by sergeant.
+
+b.     If a vacant corporal post cannot be filled by someone in their classification, the
+       classification considered next will be an officer (if qualified) followed by a sergeant.
+
+c.     If a vacant sergeant post cannot be filled by someone in their classification, the
+       classification considered next will be a corporal followed by an officer if qualified (two
+       (2) years of correctional security experience). This excludes Sergeant Preferred posts.
+
+The Bucket List:
+A mandatory overtime list set up at the start of each bid cycle by shift and will rotate by the last
+date and time an employee fulfills their mandatory overtime obligation. This list shall be
+maintained by the Security Manager or Management Designee and employees shall be
+rotated in the specific order in which their obligation was met.
+
+                                          46                                 Collective Bargaining Agreement
+After the OIC determines that overtime is needed the OIC will determine the number of
+overtime posts available prior to assigning flex positions. Flexes will be assigned in their
+classification, whenever possible, to maintain rank integrity before hiring outside of the
+classification for overtime. Management will use flexes in a one up, one down, of
+classification before mandating staff for overtime.
+
+Hiring of overtime for open/vacated posts can be done up to 24 hours in advance of the shift
+at the OIC’s discretion. Employees on the bucket list will not bump staff who have already
+accepted an open overtime post.
+
+Section 6. Overtime Assignment Procedures.
+Overtime Subsection 1. Voluntary Overtime:
+a.    At the beginning of shift all vacant overtime post assignments will first be offered to the
+      first three (3) employees at the top of the bucket list, in order of one (1) to three (3).
+      The first three (3) employees must first choose from a vacant post within their
+      classification, if a vacant post in their classification does not exist then they may choose
+      a vacant post following the order of classification that they are qualified for.
+
+b.     The OIC will then activate the voluntary overtime list and attempt to fill the vacant posts
+       from the list, in seniority order. Staff must be qualified to accept the overtime, if they
+       are not qualified, then they will be skipped on the Voluntary Overtime list. Employees
+       interested in voluntary overtime will indicate on the voluntary signup sheets which
+       classification they are interested and/or qualified to work. If an employee chooses to
+       split voluntary overtime, they must work at least two (2) hours of the shift.
+
+c.     Employees will provide the Employer with no more than two (2) accurate contact phone
+       numbers in writing. Each phone number listed for the employee will be attempted
+       before continuing down the overtime list. A message will be left, but the OIC will
+       continue calling staff for the overtime assignment.
+
+d.     Once the OIC has exhausted the voluntary overtime list for a specified classification
+       needed for a vacant post, Management has the right to go up or down in classifications
+       in order to fill the post.
+
+e.     Management maintains the right to adjust the daily rosters for legitimate operational
+       needs.
+
+f.     Employees who are not Armed Post Qualified regardless of classification cannot
+       volunteer or be assigned to a post that requires APQ.
+
+g.     If activation of the voluntary overtime list fails to produce a relief for the vacant post, the
+       OIC will notify all staff on duty that overtime is available via a radio call.
+
+       If the voluntary overtime list and the radio call fail to produce relief for the vacant post,
+       the OIC will go to the top name on the bucket list and it will be mandatory for that
+       employee to cover the vacant post.
+
+h.     If staff are working in an out of classification capacity, they are permitted to sign up for
+       overtime in their hard position rank, according to their seniority, as well as sign up in
+
+                                           47                                  Collective Bargaining Agreement
+      their work out of classification position. When signing up for overtime for the work out
+      of classification rank, they will sign up in the last position. If there are more than one
+      (1) staff in the work out of classification rank, they will sign up in the last place
+      according to their state time.
+
+Overtime Subsection 2. Mandatory Overtime:
+a.    When the use of the voluntary overtime list and the all call is exhausted the OIC will
+      activate the bucket list.
+
+b.    The employee at the top of the mandatory list shall be selected. It is the responsibility
+      of the OIC or AOIC to contact the staff as early as possible in their shift when it is
+      known that the staff will be required to work mandatory overtime.
+
+c.    This employee shall be able to select an open post or bump into any biddable post
+      within their classification. If the employee selects the option of bumping within
+      classification, they are not able to give away their ‘bucket’ and would be required to
+      work that shift in that post. The employee bumped will be assigned by the OIC.
+
+d.    Once an employee has been mandated for overtime, they shall remain mandated until
+      the oncoming OIC has determined they are no longer needed, or they have found
+      another employee to work that shift. Whether the employee works the mandated shift,
+      or is released by the oncoming OIC, they will be moved to the bottom of the mandate
+      list regardless of the amount of time worked prior to being relieved.
+
+e.    If an employee was number one (1) at the beginning of the shift on the bucket list, and
+      is not mandated, they have fulfilled their bucket obligation and their name will be moved
+      to the bottom of the bucket list
+
+f.    In the event an individual is mandated and is able to find another employee to work the
+      entire overtime shift, the mandated employee will be moved to the bottom of the bucket
+      list and the employee taking the bucket will be considered voluntary overtime and will
+      only be able to select from the open posts.
+
+g.    Employees who work mandatory overtime shall be moved to the bottom of the
+      mandatory overtime list.
+
+h.    Employees who volunteer to work a minimum of two (2) hours of overtime shift will be
+      moved to the bottom of the mandatory overtime list. Employees who volunteer to work
+      an overtime shift in order to meet their bucket obligation may not volunteer prior to the
+      official activation of the bucket list at the start of each shift (i.e. you may not volunteer
+      twenty-four (24) hours in advance of the bucket list being activated and ask that your
+      bucket obligation be met).
+
+i.    If an employee reports an error in the assignment of voluntary overtime within forty-
+      eight (48) hours, the Institution will review the matter and verify if an error has occurred.
+      The Institution will then work with the employee to find another overtime opportunity
+      outside of the regular roster assignments within twenty-one (21) calendar days from the
+      date of the verification of the error. The Institution will not correct errors if any
+      employee has not reported any verifiable error within forty-eight (48) hours and shall
+
+                                         48                                 Collective Bargaining Agreement
+      not be eligible for any overtime pay for time not worked. (The intention of the language
+      of this Section is that if you are skipped/missed for OT Management will find something
+      for you to do on overtime i.e., inventory property, searches, etc.).
+
+      Employees returning to work after an approved vacation or approved trades in
+      conjunction with their vacation or long-term medical leave will not be required to work
+      mandatory overtime on their Monday.
+
+j.     Volunteers will be sought according to the process outlined in Article 25 for each
+       Institution/Functional Unit. No employee shall be required to work more than sixteen
+       (16) hours of overtime (voluntary and/or mandatory combined) per week unless there is
+       an emergency as outlined in Article 23 of this CBA, or there is no other staff to
+       mandate.
+
+k.     However, staff will not be required to work back-to-back sixteen (16) hours shifts,
+       unless they choose to.
+
+l.     Mandatory overtime will not be required on the employee’s Friday. An employee’s
+       Friday includes the employee’s regularly scheduled Friday, or the day prior to an
+       approved absence, such as a trade, scheduled sick day or scheduled vacation.
+
+m.     Staff will not be mandated to work overtime while attending Agency-assigned training,
+       unless an emergency recall has been initiated.
+
+n.     Employees who are scheduled to work an approved time trade on the following shift or
+       a shift on the following day will be exempt from the Mandatory Overtime (Bucket) List.
+
+o.     New hire employees will be placed on the top of the Mandatory Overtime (bucket) List
+       upon completion of their initial five (5) week of Agency training and two (2) weeks of
+       institution orientation and on-the-job-training.
+
+p.     If the need for overtime no longer exists management will release the last staff hired. If
+       the selected staff does not want to be released, management shall continue seeking a
+       volunteer in reverse order of overtime hired. Employees working in the 6% Flex
+       Sergeant, Flex Corporal and Flex Officer assignments will not be included in the bucket
+       while on coverage assignment. The employee will be included in the bucket list while
+       on their base assignment.
+
+q.    Employees who are assigned to training due to voluntary, collateral duties and incur
+      overtime will not be moved down in the bucket list. (Included but not limited to SWAT,
+      CISM, FTO, SART, Safety Committee, Range Masters, Fire Crew is exempt from this
+      Section).
+
+Overtime Subsection 3. Overtime Splits.
+a.    The employee who has been bucketed is allowed to split the overtime if they have not
+      elected to bump another staff. No more than two (2) employees can split a shift. The
+      employees must be qualified to perform the work assigned. If the bucketed employee
+      chooses to split overtime it is the employee’s responsibility to find another person to
+      split it with and the bucketed employee is responsible for coverage of the complete shift
+
+                                        49                                Collective Bargaining Agreement
+      (i.e. if the staff with whom the overtime is split does not come in, the bucketed staff
+      person needs to finish the shift themselves or find someone else to come in). The
+      bucketed employee must notify the OIC of the split, including the other staff member’s
+      name and the hours to be worked by both employees.
+
+b.    The employee who has volunteered for voluntary overtime is allowed to split the
+      overtime. No more than two (2) employees can split a shift. The employees must be
+      qualified to perform the work assigned. If the employee volunteering to work overtime
+      chooses to split overtime, it is the employee’s responsibility to find another person to
+      split it with and the employee volunteering is responsible for coverage of the complete
+      shift (i.e. the staff with whom the overtime is split does not come in, the employee
+      volunteering for the overtime needs to finish the shift themselves or find someone else
+      to come in). The employee volunteering for overtime work must notify the OIC of the
+      split, including the other staff member’s name and the hours to be worked by both
+      employees.
+
+c.    Trial Service Staff. Trial service staff will not be able to accept Voluntary Overtime if
+      they are not qualified for the post. If a trial service staff is assigned mandatory
+      overtime, they will fill the open position (if qualified). If the trial service staff bumps a
+      regular status employee in a housing unit, they may split the shift in that unit only.
+
+Section 6. Trades
+The following practices are identified regarding time trades:
+       1.    Shift trade request will be in writing and signed by the affected employees and
+             shall contain specific dates of the trade. Supervisors shall not withhold approval
+             of shift trades without valid cause. Trade requests must be received in the
+             security office at least seven (7) days in advance. Trades will be for specific day
+             shift and post. Staff can only be moved if bumped for Mandatory OT unless
+             operationally necessary.
+
+      2.     Staff must be qualified for the position to agree to do a shift trade.
+
+      3.     Shift trade requests may not be changed unless mutually agreed to by the
+             Parties through submission of a revised request.
+
+      4.     Shift trades must be completed within the shift/days off bid rotation in which they
+             are initiated.
+
+      5.     The Assistant Superintendent of Security or designee may extend the
+             completion period at their discretion and with the agreement of the affected
+             employee(s).
+
+      6.     The OIC may approve trades initiated within the seven (7) day window.
+
+      7.     Trial Service employees are restricted from shift trades for their first six (6)
+             months of employment. However, they may trade one (1) shift per week after
+             completion of their first six (6) months of employment. Emergent issues may be
+             considered on a case by case basis by working with their Field Training
+
+
+                                         50                                 Collective Bargaining Agreement
+             Supervisor, Institution Staff Deployment and Institution Security Management to
+             secure the time off.
+
+      8.     Staff in a work out of class assignment, excluding work out of class as a
+             lieutenant, may trade shifts with staff in the same position or hard rank.
+
+Section 7. Leave Requests.
+After the security office receives a leave request, an approval or denial will be sent to the
+employee within three (3) business days. This applies to the requests submitted no more than
+six (6) weeks in advance.
+
+Section 8. Hospital Watch Meals.
+1.    DOC will work with hospitals or medical centers to make billing arrangements where an
+      employee who works an eight (8) hour shift will be eligible to receive one (1) meal not
+      to exceed ten dollars ($10.00).
+
+2.    If there is no agreement between DOC and a hospital or medical center and the
+      employee works an eight (8) hour shift, the employee shall be reimbursed by the
+      Institution for the cost of a meal purchased by the employee not to exceed ten dollars
+      ($10.00).
+
+3.    Emergency Medical Trips & Hospital Break Staff: An employee who works at least one
+      half (1/2) of their regular shift shall be reimbursed by the Institution for the cost of a
+      meal purchased by the employee not to exceed the ten dollars ($10.00).
+                                                                                           Rev: 2021,2023
+
+
+                          Columbia River Correctional Institution
+
+a.    Bidding Process. Employees who have completed initial trial service may bid shifts and
+      days off in order of seniority as defined in Section 8 of this Article. Employees whose
+      trial service will be completed prior to the effective date of the shift and days off change
+      (first Sunday of April and October) shall be allowed to participate in the shift and days
+      off bidding process. Employees who fail to successfully bid, or who do not apply or bid,
+      will be assigned at the discretion of the institution's management.
+
+      Bids will address only shift and days off. Bidding will occur every six (6) months,
+      becoming effective on the first Sunday of April and October. The Security Manager
+      shall post work schedules thirty (30) calendar days before the rotation date. The
+      mechanics of the bidding procedure shall be determined in consultation with the Union
+      at labor/management meetings. All bids shall be submitted in writing, signed by the
+      bidding employee, and numbered by preference, if placing more than one (l) bid.
+      Employees may submit up to three (3) bids. The new schedule will be posted no less
+      than seven (7) calendar days prior to the effective date.
+
+      The institution's management will make the specific daily work schedules and may
+      remove or deny an employee from a bid for valid cause.
+
+b.    Security of Personal Property. The Agency agrees to continue reasonable efforts to
+      provide security for employees authorized personal property.
+
+                                        51                                 Collective Bargaining Agreement
+c.   Seniority. Shift and days off bidding will be in conformance with Section 8 of this
+     Article. The following clarifications are as follows:
+
+     New Hires – Newly hired employees with the same date of hire will have their seniority
+     determined by lottery drawing with a Union representative present.
+
+     Transfers – When a staff member transfers into CRCI with the same date of hire as an
+     existing staff member, the existing staff member shall be granted the higher seniority
+     within the classification.
+
+     Promotional Hires – When newly promoted staff have the same promotional hire date
+     their seniority will first be determined by total bargaining unit seniority. If bargaining
+     unit seniority is equal, total Agency time in the security series will be utilized to
+     determine the higher seniority. If seniority would still be the same, seniority will be
+     determined by lottery drawing with a union representative present.
+
+     Overtime:
+     Assignment of work to security series staff which exceeds their normal work schedule
+     or as defined by Article 15 of this Agreement.
+
+     Voluntary Overtime - Assignment of overtime based upon a voluntary request by
+     individual staff to work beyond their normal schedule.
+
+     Voluntary Overtime List - A list of all correctional series staff requesting to work
+     voluntary overtime, which is maintained by the Security Manager or management
+     designee.
+
+           Mandatory Overtime - Assignment of overtime by the Security Manager or
+           management designee by which staff are required to work beyond their normal
+           work schedule.
+
+           Mandatory Overtime Bucket List- A perpetual list of all correctional series staff in
+           inverse order of the last date of overtime worked, maintained by the Security
+           Manager or management designee.
+           Unscheduled Overtime - Overtime assignments made as a result of unexpected
+           absences, vacancies, or additional work that is known less than twenty-four (24)
+           hours in advance.
+
+           Seniority - Total length of continuous Agency (DOC) service in the security
+           series unbroken by separation of employment of more than one-hundred and
+           eighty (180) days.
+
+           Overtime Hours Calculation - Voluntary overtime assignments accepted and/or
+           worked, plus assessed overtime hours, rounded up or down to the nearest hour
+           for the purpose of assigning overtime. Mandatory overtime hours worked will not
+           be counted as overtime worked for the purpose of calculating voluntary overtime
+           requests. Staff compensated for missed overtime opportunities will have those
+
+
+
+                                      52                                Collective Bargaining Agreement
+             hours added to their overtime calculation for the month in which the work
+             opportunity occurred upon written notification to the staff member and the local
+             union.
+
+             Assessed Overtime Hours - Overtime hours counted against an employee when
+             they accept an overtime assignment and subsequently voluntarily choose to not
+             work the assignment.
+
+It is recognized that the assignment of overtime will be made consistent with the requirement
+to maintain safety and security of the institution and the community. The intent is to assign
+overtime to all staff equitably.
+
+      Voluntary Overtime Sign Up Sheet/List
+      1.    The Security Manager or Officer in Charge will maintain an overtime list showing
+            who has worked or been assessed overtime hours with the date and number of
+            hours worked. The overtime list will be updated continually and recalculated
+            from zero at the beginning of each calendar month.
+
+      2.     The Officer-In-Charge (OIC) will possess and make available the Voluntary
+             Overtime List for staff to request overtime assignments at each shift briefing and
+             throughout the work day in the OIC’s office. Staff may contact the OIC by phone
+             to add their name to the list.
+
+      3.     Correctional series staff may add or delete their names from the Voluntary
+             Overtime List in person at any time. Staff members and the OIC will place their
+             initials on all deletions as evidence of removal.
+
+      4.     When the Overtime list is activated the OIC will draw a line in red pen under the
+             last name listed and write the date, time and initial it legibly. Any further names
+             added below the line will be considered only after all of the names above the line
+             have been called. However, the staff member may request to add their name
+             under the red line of the signup sheet and be contacted in accordance with the
+             procedures in place for names under the red line. Any staff signed up under the
+             red line will be contacted in the order that they signed up, if staff decline an
+             overtime position they will not be allowed to sign up again under that red line.
+             Once the list has been exhausted, an all call will be made, and staff will have
+             another opportunity to work an overtime position.
+
+      5.     Voluntary Overtime Lists will be retained a minimum of sixty (60) days and will
+             be available for staff to review.
+
+      6.     Temporary hires will not be placed on the Voluntary Overtime Sign Up
+             Sheet/List.
+
+      Unscheduled Voluntary Overtime– When required to fill unscheduled absences or
+      unexpected workload, the Officer-In-Charge (OIC) will:
+      1.   When the OIC becomes aware of the overtime opportunity, they will activate the
+           Voluntary Overtime List and award the overtime opportunity to the most senior
+           staff member who has signed up with the least amount of overtime hours for the
+
+                                        53                               Collective Bargaining Agreement
+     calendar month no more than twenty-four (24) hours in advance of the need. If
+     staff requesting assignment have worked an equal amount of overtime, the most
+     senior staff will be granted the assignment. Staff will be allowed thirty (30)
+     minutes response time to accept or decline overtime opportunities prior to the
+     OIC calling the next person on the Voluntary Overtime List. In all instances, as
+     long as time allows, the OIC will wait thirty (30) minutes from the first attempted
+     contact, whether contact was made or not, before calling the next person on the
+     Voluntary Overtime List. The OIC will call the primary phone number designated
+     by staff. If there is no answer, the OIC will leave a message. If unable to
+     contact the staff member after thirty (30) minutes has passed, the OIC will
+     continue to the next volunteer on the list and allow the same opportunity until a
+     volunteer is found or the list is exhausted of volunteers. This process will
+     happen in all instances as long as time allows. The OIC will document the
+     results of all contacts for each staff member that is contacted or attempted to be
+     contacted. In the event overtime becomes available within four (4) hours prior to
+     the scheduled work assignment, OICs may fill the overtime assignment with the
+     first person to accept the assignment from the overtime list waiving the thirty (30)
+     minute response time for staff to respond.
+
+2.   If no volunteers are located through the use of the Voluntary Overtime List, or
+     the overtime is needed on the next shift, or if there is a no call no show situation
+     at or during shift change – the OIC will skip section 1 above and, the OIC shall
+     contact all staff on shift for volunteers as early as possible upon notice of
+     overtime availability. If two (2) or more employees request the overtime, the
+     staff member who has worked the least amount of overtime for the calendar
+     month will be selected. If the amount of overtime is equal, the most senior staff
+     will be assigned. In a no call no show situation at or during shift change that an
+     all call from the previous shift does not produce a volunteer, the OIC will activate
+     the mandatory overtime bucket list for the previous shift in accordance to the
+     mandatory overtime procedures in this Article.
+
+3.   On-duty staff who volunteers for unscheduled overtime assignments will be
+     notified of a decision thirty (30) minutes after the original announcement, or as
+     soon as time permits after the thirty (30) minutes has expired. Any additional
+     request from staff following the granting of the overtime assignment will not be
+     considered.
+
+4.   If there are no volunteers from the shift within thirty (30) minutes, the OIC will
+     inform the staff member who is on top of the Mandatory Overtime List they are
+     required to remain until a staff member is located.
+
+5.   Once an OIC has notified a staff member they have been mandated, the OIC
+     must attempt to contact all off duty staff to find a volunteer. A perpetual list, in
+     seniority order, will be kept documenting calling attempts. Staff may submit an
+     email to the Operations Lieutenant requesting to be placed on the overtime call
+     list. A staff member who is mandated to work overtime will be moved
+     automatically to the bottom of the mandatory overtime list after their mandatory
+     time.
+
+
+                                54                                Collective Bargaining Agreement
+6.    Staff may decline to work voluntary overtime.
+
+7.    Unscheduled overtime may not be assigned more than twenty-four (24) hours in
+      advance of the shift to be worked. The intent is to allow as many staff as
+      possible the opportunity to be considered for the available shift.
+
+8.    Once a staff member is contacted for overtime, they will not be contacted again
+      until the list is exhausted.
+
+Mandatory Overtime – All overtime shifts will first be assigned by the means of
+volunteers. If there are no volunteers, staff will be assigned to overtime from the
+Mandatory Overtime List as follows:
+1.     The OIC will announce in Muster and note on the Daily Roster, who is on top of
+       the Mandatory Overtime (Bucket) List.
+
+2.    If the OIC is unable to cover a vacant work assignment with a volunteer, they
+      may require the employee at the top of the Mandatory Overtime (Bucket) List to
+      work the overtime.
+
+3.    Correctional Series staff will not be required to work a mandatory overtime on
+      their last work day before their scheduled days off or before any scheduled
+      leave, including trades. An employee, upon the first day of work after a
+      scheduled bid vacation or scheduled bid vacation in conjunction with trades, will
+      be exempt for the Mandatory Overtime (Bucket) List for that day.
+
+4.    When staff are awarded voluntary overtime, they may split the overtime with
+      another staff member.
+      a.    The staff member accepting the overtime will work at least the first two (2)
+            hours of the overtime shift.
+
+      b.     The employee splitting the overtime will also work at least two (2) hours of
+             the overtime shift.
+
+      c.     It is the responsibility of the staff member accepting the voluntary
+             overtime shift to find and/or make arrangements to split the overtime with
+             another staff member and the employee volunteering is responsible for
+             the coverage of the entire shift (i.e. the staff with whom the overtime is
+             split does not come in, the employee volunteering for the overtime needs
+             to finish the shift themselves or find someone else to work the overtime).
+
+      d.     The employee volunteering for the overtime work must notify the OIC of
+             the split, including the other staff member’s name and the hours to be
+             worked by both employees.
+
+      e.     The other employee will not be able to trade or split the voluntary
+             overtime they have agreed to work. The other employee must be able to
+             fulfill all of the duties of the post and must not be on light/modified duty.
+
+
+
+                                 55                                Collective Bargaining Agreement
+      5.     Employees who work thirty (30) minutes or more of voluntary overtime will be
+             moved to the bottom of the Mandatory Overtime List. The dates of all overtime
+             worked will be recorded.
+
+      6.     The OIC will keep a list of who has worked overtime with the date and how many
+             hours worked.
+
+      7.     New hire employees will be placed on the top of the Mandatory Overtime
+             (Bucket) List upon completion of their initial five (5) week of Agency training and
+             two (2) weeks of institution orientation and on-the-job-training.
+
+      8.     Temporary hires will not be placed on the Mandatory Overtime (Bucket) List.
+
+      9.     Staff who are compensated for missed overtime opportunities will have the hours
+             credited as being worked in regards to their placement on the Mandatory
+             Overtime (Bucket) List.
+
+      10.    When two or more staff has been mandated to work and a volunteer has been
+             located the last person mandated to work will be the first person to be released
+             from duty unless mutually agreed otherwise between staff.
+
+Mandatory Overtime Exceptions.
+     Submission of medical ordered temporary exemptions of hours of work or exclusions
+     from overtime.
+     Medical Exceptions:
+     1.    Correctional Series staff may be exempted from mandatory overtime assignment
+           due to documented medical conditions. Such an exemption shall “normally be
+           limited to a thirty (30) day period with extensions possible not to exceed a total of
+           ninety (90) days following continued improvement toward return to full
+           unrestricted duty (full release from the attending physician).
+
+      2.     Staff exempted from the mandatory overtime list due to medical restrictions shall
+             not work overtime (Voluntary or Mandatory) in accordance with their specific
+             restriction and only while it is in effect.
+
+      3.     The Security Manager or Management designee will review the status of staff
+             exempted consistent with DOC Policy 20.5.17.
+
+      4.     Notwithstanding this Section, the Agency will administer FMLA/OFLA in
+             accordance with the law and this Agreement.
+
+      Trades – The following current practices at CRCI are identified regarding time trades:
+      1.    Failure to complete a trade may result in trade restriction guidelines as set forth
+            below:
+            a.     First time a trade is missed the person missing the trade will be given a
+                   warning.
+
+             b.     Second occurrence in six (6) months will result in a one (1) month trade
+                    restriction.
+
+                                        56                                Collective Bargaining Agreement
+              c.     Third occurrence within six (6) months will result in a six (6) month trade
+                     restriction.
+
+       2.     Institution management has the discretion to approve time trades within the
+              seven (7) day window for non-routine situations.
+
+       3.     Employees who are scheduled to work an approved time trade on the following
+              shift or the following day will be exempt from the Mandatory Overtime (Bucket)
+              List.
+
+Hospital Watch Meals
+      1.     DOC will work with hospitals or medical centers to make billing arrangements
+             where an employee who works an eight (8) hour shift will be eligible to receive
+             one (1) meal not to exceed ten ($10.00) dollars. If there is no agreement
+             between DOC and a hospital or medical center and the employee works an eight
+             (8) hour shift, the employee shall be reimbursed by the Institution for the cost of
+             a meal purchased by the employee not to exceed ten ($10.00) dollars.
+      2.     Emergency Medical Trips: An employee who works at least one half (1/2) of
+             their regular shift shall be reimbursed by the Institution for the cost of a meal
+             purchased by the employee not to exceed ten ($10.00) dollars.
+                                                                                     Rev: 2017, 2021, 2023
+
+
+                             Deer Ridge Correctional Institution
+
+Employees who will have completed initial trial service by the rotation date and transfers who
+will begin working at DRCI prior to the rotation date, may bid shift and days off in order of
+seniority as defined by Article 25, Section 8. Employees who fail to successfully bid, or who
+do not submit a bid, will be assigned at the discretion of the Institution’s Management.
+
+Bids will address only shift and days off. Bidding will occur every six months, becoming
+effective on the first Sunday of March and September. The Assistant Superintendent of
+Security will post all available shift and days off at least thirty (30) calendar days prior to the
+rotation date. The list of employee assigned bid times will be posted fourteen (14) days prior
+to the actual bid.
+
+The following mechanics will be utilized for shift and days off bidding:
+1.     Employees with time in class with AOCE Security shall not be granted such time for the
+       purposes of their seniority in accordance with Article 25 Section 8 but will be placed
+       ahead of new hires hired on the same date without any ODOC experience.
+
+2.     The Tool and Key Control duties will be assigned by management. This selection
+       process of the Tool and Key position will be decided with Local input and will occur
+       every two (2) years. Interested candidates will submit a memo of interest to the
+       Assistant Superintendent of Security or designee.
+
+Section 1. DRCI Shift Bid Process
+Until the medium facility is activated, the process and the order of bidding positions shall be as
+follows:
+
+                                         57                                 Collective Bargaining Agreement
+       1.     Bidding shall occur in the following order: Sergeants shall bid according to their
+              time in classification seniority.
+
+       2.     Management will establish designated training posts to ensure newly hired staff
+              are adequately trained on basic security practices.
+
+The mechanics of the bidding procedure will be determined at labor/management. All bids
+must be in writing, signed by the bidding employee, and numbered by preference, if placing
+more than one (1) bid. The results of the bids with seniority prevailing will be arranged into the
+master roster template that generates the daily work schedules and will be posted no less
+than fourteen (14) calendar days prior to the rotation date.
+
+The Institution’s management team will make the specific daily work schedules and may only
+remove or deny an employee from their specific daily work schedule for valid cause.
+
+Security of Personal Property – The agency agrees to continue reasonable efforts to provide
+security for employees authorized personal property.
+
+Section 2. Mid Shift Rotation Bid Assignment Process.
+Shift and Days off slots that are vacated within one-hundred and twenty (120) days of rotation
+date will be offered to interested staff using the following procedure. This will be done as soon
+as is practical after Management believes a slot will be vacant (i.e. after incumbent accepts
+another position, job rotation, submits a notice of retirement, etc.) Slots opening sixty (60)
+days or less from the end of rotation will be assigned by Management.
+
+For efficiency and to allow staff the longest possible opportunity to work in the available slot,
+Management may begin recruiting letters of interest prior to the slot actually being vacated.
+Should unforeseen circumstances cause the slot not to open up as anticipated, Management
+will simply rescind the recruitment (or award).
+
+Management will request responses from interested staff by sending out an email to all
+Security staff. The recruitment will remain open for a minimum of seven (7) days and a close
+date will be specified.
+
+The intent is to award the open shift and days off slot to the highest senior employee that
+submits their interest within the classification created by the vacancy. If no one in that
+classification submits interest, then management may make the open shift and days off
+opportunity available to other classifications if appropriate.
+
+The assignment will be awarded to the staff member with the highest Bargaining Unit seniority
+using the seniority list effective on the close date of the recruitment notice.
+
+Secondary Shift/Days Off slots that are vacated through the above process will be offered to
+interested staff using the same process. To minimize the “domino effect” back filling will stop
+after the third (3rd) staff member that is re-assigned as a result of the original vacancy (i.e. the
+initial recruitment is # one (1), back fill for them is # two (2), back fill for the # two (2) is the
+third (3rd) and final of the process). Management will then use its right to assign to make any
+necessary adjustments to daily rosters to cover workload.
+
+
+                                          58                                 Collective Bargaining Agreement
+Section 3. Assignment of Overtime
+This Section supersedes Article 15, Section 9.
+
+Voluntary Overtime Assignment Process
+      Subsection 1. Overtime on Next Shift.
+      a.    During each shift briefing, as well as during the shift, employees may indicate
+            their willingness to work voluntary overtime on the following shift for any
+            unexpected openings (i.e., Call Ins, Medical Trips, or Hospital Watches).
+
+      b.     Should unexpected openings occur on the next shift, the OIC will contact the
+             AFSCME security bargaining unit employee with the highest seniority that has
+             signed up to work voluntary overtime on the next shift. If no employee has
+             signed up or accepted, then the same process of Section 2 above will apply.
+
+      c.     If no employee signed up for unexpected openings or none accept the
+             assignment then the current and prefilled out at home call list process will be
+             used. If there are still no employees who accept the unexpected opening, the
+             OIC will proceed to the mandatory overtime process.
+
+      Subsection 2. The Voluntary Overtime List.
+      a.   The Voluntary Overtime List will be the primary means of assigning Overtime
+           and will be comprised of Sergeants, Corporals and Officers.
+
+      b.     This list will be a signup sheet for Voluntary Overtime for the following month
+             broken up by days and shifts. The Voluntary Overtime sign up List shall be
+             placed in the ISDS Office seven (7) days prior to the start of the next month to
+             provide reasonable opportunity for employees to indicate their availability and/or
+             interest. The list shall be kept in the ISDS Office for the remainder of the
+             applicable time period.
+
+      c.     Additionally, employees will have access to a resource list of employees who are
+             willing to be contacted by other employees to split an overtime shift. Employees
+             shall be responsible for securing another employee to work the other half of the
+             shift or they will be responsible for working the entire shift. The accuracy of the
+             list will not be subject to the grievance procedure.
+
+      d.     When management becomes aware of the need to fill a vacancy on the roster by
+             assigning Overtime seventy-two (72) hours in advance, they will utilize the
+             Voluntary Overtime list to offer the opportunity to the highest AFSCME Security
+             bargaining unit employee on the specific day and/or shift. When an opening
+             occurs within seventy-two (72) hours of the shift, but before the prior shift,
+             management may utilize the same method.
+
+      e.     Management retains the right assign, schedule and determine the processes for
+             accomplishing work pursuant to the Collective Bargaining Agreement.
+
+      f.     Represented Security employees working in represented Job Rotation or Work
+             out of Classification assignments outside of the DRCI Local 745 will not be
+             eligible to sign up on the voluntary overtime list. Except for instances where no
+
+                                        59                               Collective Bargaining Agreement
+             other volunteers are available, these employees may volunteer to work overtime
+             with the supervisor’s advance approval.
+
+      g.     Voluntary overtime may be denied for valid cause.
+
+      Subsection 3.
+      Employees will have access to a resource list of employees who are willing to be
+      contacted by other employees to split an overtime shift. That list shall be kept together
+      with the voluntary overtime list. Employees shall be responsible for securing another
+      employee to work the other half of the shift or they will be responsible for working the
+      entire shift. The accuracy of the list will not be subject to the grievance procedure.
+
+      Subsection 4.
+      If an employee reports an error in the assignment of voluntary overtime within forty-
+      eight (48) hours, the Institution will review the matter and verify if an error has occurred.
+      The Institution will then work with the employee to find another overtime opportunity
+      outside of the regular roster assignments within twenty-one (21) calendar days from the
+      date of the verification of the error. The Institution will not correct errors if any
+      employee has not reported any verifiable error within forty-eight (48) hours and shall
+      not be eligible for any overtime pay for time not worked. (The intention of the language
+      of this section is that if you are skipped/missed for OT Management will find something
+      for you to do on overtime i.e., inventory property, searches, etc.)
+
+      Subsection 5.
+      Represented Security employees working in represented Job Rotation or Work Out of
+      Classification assignments outside of the DRCI Local 745 will not be eligible to sign up
+      on the voluntary overtime list. Except for instances where no other volunteers are
+      available, these employees may volunteer to work overtime with the supervisor’s
+      advance approval.
+      a.     Security employee working on a work crew, hospital watch or any other crew
+             outside the institution will not be precluded from signing up on the voluntary
+             overtime list or entering into a split shift arrangement with a co-worker to fill an
+             overtime shift once they return to the institution.
+
+      b.     Management retains the right to assign, schedule and determine the processes
+             for accomplishing work pursuant to the Collective Bargaining Agreement.
+
+      c.     Voluntary overtime may be denied for valid cause.
+
+The Mandatory Overtime List
+     a.    There will be two (2) Mandatory Overtime Lists. The first list shall be comprised
+           of all Sergeants and all Corporals and the second list will be comprised of all
+           Officers. Mandatory overtime will be assigned to the classification of the post
+           that created the overtime on the roster. (i.e., a Sergeant post assignment
+           opening will be assigned to a Sergeant or Corporal. An Officer post assignment
+           will be assigned to an Officer). If the Institution exhausts a security unit
+           mandatory overtime list the Institution will then use the other security unit
+           mandatory overtime list to fill the assignment(s).
+
+
+                                         60                                 Collective Bargaining Agreement
+b.   The applicable Mandatory Overtime List(s) will be used only after the Voluntary
+     Overtime List has been exhausted and management has failed to find a
+     volunteer to fill a required slot.
+
+c.   The Mandatory Overtime Lists shall be created at the start of each shift bid
+     rotation and shall be in Inverse seniority order defined by total AFSCME
+     bargaining unit time.
+
+d.   The OIC will review and maintain the Mandatory Overtime Lists on each shift.
+     The OIC shall notify the top two (2) Officers and the top one (1) of the
+     Corporal/Sergeants on the respective Mandatory Overtime Lists who are at
+     work, at the start of each shift, or reach that status during a shift.
+
+e.   Staff move to the bottom of the mandatory overtime list when any of the
+     following circumstances occur:
+     1.     They have reached number one (1) on the list and were assigned
+            mandatory overtime or they were not required to work mandatory
+            overtime.
+
+     2.     They volunteered and worked three and a half (3.5) hours or more of
+            overtime.
+
+     3.     When they find another employee to act as a replacement for their
+            mandatory overtime shift.
+
+f.   Exceptions to being bucketed or assigned mandatory overtime include:
+      1.    Employees shall not be placed on the Mandatory Overtime (Bucket) List
+            on any day preceding their scheduled days off (their ‘Friday’), the day
+            before a scheduled bid vacation period, or a previously approved vacation
+            or sick leave day off.
+
+     2.     Those employees who are working a trade comprised of two consecutive
+            shifts (a double).
+
+     3.     Those employees who are on their first day back from scheduled vacation
+            or their last day prior to their scheduled trades which are adjacent to their
+            scheduled vacation or five (5) or more consecutive trade days off (false
+            Friday).
+
+     4.     An employee who is assigned on a work crew, hospital watch or any other
+            crew outside the institution will not be bucketed for that respective day.
+
+     5.     Employees working in the 6% Flex Sergeant, Flex Corporal and Flex
+            Officer assignments will not be included in the bucket.
+
+g.   No employee shall be required to work more than sixteen (16) hours of overtime
+     per week unless there is an emergency or valid cause.
+
+
+
+                                61                                Collective Bargaining Agreement
+       h.     Time Trade Pilot. For the 2023 – 2025 contract period, effective the date of
+              Local ratification. Time trades will not be regularly scheduled in a manner to
+              circumvent mandatory overtime. Examples include frequent or repetitive
+              schedule modifications which may circumvent mandatory overtime. This pilot
+              will automatically cease with the expiration for the CBA, unless the Parties
+              mutually agree to modify or extend the pilot.
+
+Section 4. DRCI Fire Crew
+1.    Eligibility.
+      a.       Employees must be off initial trial service to participate in the fire program.
+
+       b.     Employees who volunteer for fire assignments shall be required to complete all
+              fire related trainings including to pass a pre-seasonal test prior to the start of the
+              fire season.
+
+       c.     The Institution will solicit interest from all security staff. The Institution will
+              establish a list of up to ten (10) active fire crew participants from those on last
+              season’s list and if needed any new applicants for the upcoming fire season.
+              Additional employees who expressed interest will form an inactive fire crew list in
+              order of AFSCME bargaining unit seniority. The Institution will provide training to
+              active and inactive participants as needed.
+
+       d.     The Institution will utilize and rotate through the active list throughout the fire
+              season. Employees on the inactive list will not be activated unless needed to
+              replace an active fire crew participant that has been removed (voluntarily or for
+              cause) or it is necessary to activate beyond the ten (10) member active list.
+
+2.     Deployment.
+       a.    Employees on the active fire crew list shall provide the Institution one (1)
+             telephone number they can be reached at any time day or night. If the employee
+             does not answer the phone call from the Institution or return the call within fifteen
+             (15) minutes the Institution will move to the next employee on the list. If the
+             employee who was passed over calls later, the Institution will assign this
+             employee provided the assignment has not yet been filled.
+
+       b.     As a condition of accepting a fire crew assignment the employee must be able to
+              arrive at the facility within one (1) hour or at a later time determined by the
+              Institution.
+
+       c.     At the request of the wild land fire representative an employee, fire line, camp
+              support officers may be moved to different locations after initial deployment. As
+              determined by the wild land fire representative deployed employees/fire crew
+              supervisor may be housed at the facility or in the field. This shall not affect the
+              employee’s ability to remain out with their initial assignment. In the event a fire
+              line, camp support officer is moved to a different location within the current fire
+              complex, the officer will have the option to stay on the assignment or be
+              replaced.
+
+
+
+                                          62                                  Collective Bargaining Agreement
+     d.        If an employee turns down three (3) offers of assignment within a season, the
+               employee’s name will be removed from the active fire crew list and placed in
+               seniority order on the inactive fire crew list.
+
+     e.        Employees unavailable for deployment because of vacation, consecutive time
+               trades of five (5) or more days or DOC work related assignments can notify the
+               Institution in writing of the time period in which they will not be available for
+               deployment. When they become available for deployment they will again notify
+               the Institution in writing and they will remain in the same relative position on the
+               list until they return.
+
+3.   Time Trades.
+     Employees with time trade agreements scheduled prior to the deployment, must obtain
+     agreement from all parties to change the trade dates or cancel the trades. If an
+     employee fails to rectify pending time trade agreements within thirty (30) minutes of
+     accepting a fire assignment, the employee will forfeit their turn to be deployed and be
+     moved to the bottom of the list.
+
+4.   Cancellation of a Fire Assignment.
+     a.   In the event an employee is contacted and accepts a fire assignment and the
+          employee is notified the fire assignment has been cancelled prior to arriving to
+          the fire location, the appropriate voluntary fire call list will resume with the
+          employee whose assignment was cancelled.
+
+     b.        Removal from the list.
+          I.        An employee will be removed from the active fire crew list for the following
+                    reasons:
+                    (1)    Staff may remove themselves from the list by notifying the
+                           Institution in writing.
+
+                      (2)    When an employee removes themselves from the list and have not
+                             been deployed, they will return any issued equipment.
+
+                      (3)    Staff removing themselves will have the option of being placed on
+                             the inactive fire crew list in seniority order or total removal.
+
+                      (4)    The Institution may remove an employee from the active fire
+                             assignment list for disciplinary reasons or inability to perform the
+                             assigned duties.
+                                                                                Rev: 2017, 2019,2021,2023
+
+                            Eastern Oregon Correctional Institution
+
+1.   Bidding Process.
+     a.    All security posts, except those specified as exempt, shall be included in the bid
+           system with seniority prevailing.
+
+     b.        All security section posts, that are not exempt, shall have an established rotation
+               period of six (6) months as existed on July 1, 2001. A rotation period can be
+               changed to three (3) months at the discretion of the Institution, however the
+                                          63                                Collective Bargaining Agreement
+     Union can grieve the reasonableness of the decision under paragraph e below.
+     The mechanics of the bidding procedure shall be determined by the Agency.
+     The affected post shall then be assigned to the senior employee placing a bid,
+     and such employee must remain on such post until the next rotation date occurs.
+     All affected employees must bid each time their respective post rotates. An
+     employee cannot use seniority to secure a post for more than two (2)
+     consecutive bids nor use seniority to secure a bid for the same post during a two
+     (2)-year period. Seniority will prevail on every bid, but the post an employee
+     may bid by seniority will vary as per above. An employee who has not
+     successfully bid a post or an employee who did not bid a post may be assigned
+     by the Institution until such employee is able to make a successful bid.
+
+c.   A senior employee may be denied or removed from a post for valid cause only.
+
+d.   If an employee is assigned for Institution convenience to an exempt post herein
+     specified, the Institution will provide adequate training prior to assignment. The
+     posts exempt from bidding are:
+     •      Control Relief-One Year Post (must rotate out for six months before
+            returning)
+                                                                  Control Center Staff on All Shifts
+            Tool and Key Sergeant Post                Two (2) Year Exempt
+            Assignment Office                         241-2
+            Segregation Property Officer
+            Property Corporal
+
+     Control Center Officers must rotate after one (1) year, but Control Center staff
+     will not rotate out at the same time. Rotations shall be staggered to ensure that
+     an experienced staff member is working in Control at all times. All exempt posts
+     listed above shall be held for a maximum period of one (1) year, with the
+     exception of Tool and Key, at which time the incumbent employee must return to
+     a bid position or apply for another exempt post. In the event of circumstances
+     beyond the control of the Institution, management may temporarily hold an
+     employee in one (1) of these positions not to exceed six (6) months.
+
+e.   The Recreation Sergeant (Post #62-2) and the Adult in Custody Activities Officer
+     (Post #205-2), both on second shift, will be one (1) year bid posts. In an effort to
+     ensure continuity, these posts will not rotate on the same bid cycle whenever
+     possible.
+
+f.   The following posts will be designated as Training Posts:
+            First Shift-          RDO 9 (F3, F4, G2)
+                                       Flex 1
+                                       Flex 4
+
+            Second Shift -           Flex 15
+                                          Flex 18
+                                          Flex 22
+                                          Flex 23
+                                          Flex 24
+
+                                64                                Collective Bargaining Agreement
+     Should the Oregon Department of Corrections implement a security hiring
+     freeze, all of the above posts will be available for Seniority bid for the following,
+     and any subsequent Post Bid Rotation as long as the security hiring freeze
+     remains in effect. No employee on initial trial service will be placed in an armed
+     post.
+
+g.   When a Bid Post becomes open for a reason such as retirement, promotion,
+     transfer, or other separation of employment with the security bargaining unit of
+     the agency it will be filled by seniority, or by being made available to the person
+     next in seniority who desires it by memorandum of interest. If an employee
+     submits a memorandum of interest, they will be required to accept the post
+     unless they withdraw their interest prior to the end of the filing deadlines as
+     noted in the solicitation. This process will be initiated with notice to the
+     applicable classification within ten (10) business days of a vacancy and
+     completed within thirty (30) days of a Bid Post vacancy unless the vacancy
+     occurs in the last thirty (30) days of the rotation. Any subsequent Bid Post
+     vacancy created as a result will also be filled with this process up to a maximum
+     total of two (2) times unless no employee submits interest. This process does
+     not include Exempt. When an employee receives a memo post, the employee
+     cannot memo into another post during that bid cycle.
+
+h.   Temporary vacancies will be put out for memo of interest at the discretion of
+     management. When the employee returns, then anyone awarded a temporary
+     vacancy will return to their original post. The employer will suffer no adverse
+     impact of short notice and employees who participate will not receive any shift
+     change penalty pay. Should the institution wish to remove a security post from
+     the bid list or wish to establish a post outside the bid list, notice will be given to
+     the Union. If the Union believes the specified removal to be unreasonable, then
+     within seven (7) days of the date upon which the Union knows, or by reasonable
+     diligence, should have known of the subject action, the Union shall request the
+     Institution meet to discuss the issue. Failure to reach agreement on the disputed
+     post shall allow the Union to proceed to arbitration under the provisions of Article
+     1, Section 5. Timelines established in Article 1, Section 5 shall apply to
+     meetings and appeals under this section.
+
+i.   Work Schedules. Schedules showing each employee's shift, workdays, and
+     hours shall be posted in the appropriate department at all times. Changes in
+     work schedules, from shift to shift, may occur for valid cause or as mutually
+     agreed.
+
+j.   Employees who extend their bid for a back-to-back assignment may not use
+     their seniority to bid the same assignment until two (2) years from the date they
+     were scheduled to vacate the post. Where an employee gets bumped from their
+     current post, the employee may bid the post again, but can’t bid the post more
+     than twice in a two (2) year period.
+
+k.   Transfers. When a staff member transfers into Eastern Oregon Correctional
+     Institution with the same date of hire as an existing staff member, the existing
+     staff member shall be granted the higher seniority within the classification.
+
+                                 65                                 Collective Bargaining Agreement
+l.   Employees may work in Disciplinary Segregation Unit, Hearings Officer or
+     Hospital Watch Post Assignments (except for the Graveyard shift) for up to two
+     (2) years but must rotate out for no less than six (6) months before returning.
+
+m.   The Union shall be notified of any special assignments within the institution prior
+     to implementation.
+
+n.   All posts not specified as exempt will be bid posts and any posts that are left
+     open from the bid can be filled at the discretion of the Institution.
+
+o.   Time trades shall be completed within a ninety (90) day time period as per
+     Section 7 time Trades of the General Article 25. If both dates fall within the
+     same bid rotation, the time limit will be extended to up to one hundred eighty
+     days (180).
+     1.    Time Trade Pilot: For the 2023-2025 contract period, effective the date of
+           Local ratification, Time trades will not be regularly scheduled in a manner
+           to circumvent mandatory overtime. Examples include, frequent or
+           repetitive schedule modifications to 16/16/8, which may circumvent
+           mandatory overtime. This pilot will automatically cease with the expiration
+           of the CBA, unless the Parties mutually agree to modify or extend the
+           pilot.
+
+p.   Before the Institution implements its contingency plan related to the addition of
+     emergency beds, the institution will notify the local union president and provide
+     the opportunity to discuss and offer input.
+
+q.   Security staff who bid a five (5) day a week or a relief armed observation tower
+     post (Post #77-2, 78-2, 77-3, 78-3, RDO 13-2 and RDO 33-3) will be assigned a
+     scoped rifle at the start of each rotation. Each rifle will be properly sighted in by
+     a qualified range master prior to assignment and rechecked monthly.
+
+r.   After employees successfully bid their posts per Article 25 (EOCI), or failing to
+     successfully bid, are assigned a post, the following conditions apply:
+     1.     Change in Shift/Days Off
+            a.     The Assistant Superintendent of Security or designee may change
+                   an employee’s shift and days off for valid cause only. When
+                   practical, the employee shall receive a seven (7) day notice of
+                   change.
+
+            b.     If the employee believes the change of bid shift and days off was
+                   not for valid cause, the employee may appeal the decision to the
+                   Labor/Management Resolution Committee.
+
+            c.     Should the Committee determine that a change of shift and days
+                   off was not for valid cause, the employee shall receive RFM
+                   differential for the entire period of the assignment.
+
+            d.     The decision of this committee will be final and binding on both
+                   Parties.
+
+                                66                                 Collective Bargaining Agreement
+            2.     Change in Job Assignment
+                   a.   The Employer retains the right and discretion to change an
+                        employee’s job assignment within the employee’s bid shift/days off.
+                        However, employees may not be removed from bid fixed posts
+                        within their shift, except for valid cause. If an employee is so
+                        removed, the employee may request review following the chain of
+                        command (i.e. shift lieutenant, captain, security manager and
+                        assistant superintendent). If the matter is not resolved, the
+                        employee may refer the matter to the Labor/Management
+                        Resolution Committee.
+
+                   b.     Should the committee determine that this change of assignment is
+                          not valid cause, the superintendent shall take appropriate action as
+                          necessary.
+
+            3.     Labor/Management       Resolution   Committee.         The     above
+                   Labor/Management Resolution Committee shall consist of five (5)
+                   members. Two (2) management members will be selected by the
+                   AFSCME Council 75 representing. Two (2) Labor members will be
+                   selected by the DAS Labor Relations Manager. The Superintendent will
+                   be a permanent member of the committee. The decisions of this
+                   committee are final and binding on both Parties and can’t be pursued
+                   through the grievance procedure.
+
+     s.     The Institution will attempt to ensure that staff who bid flex will be left on their bid
+            shift and days off the week of vacation and the week following. In no case will
+            the vacation be shortened as a result of unavoidable assignment changes.
+
+     t.     Effective as of the September 2021 bid rotation. Employees assigned to Armed
+            Post Qualified (APQ) flex posts shall have annual APQ training. Employees
+            shall not be permitted to bid or cover for APQ flex posts unless they have current
+            APQ training.
+
+2.   Overtime Assignments.
+     a.    When there is a need for overtime work, the following steps will be followed:
+           1.   The weekly overtime list will be given first (1st) priority to fill any overtime.
+
+            2.     Daily overtime list will be assigned second (2nd) priority to fill any overtime
+                   assignments. As with voluntary overtime, Sergeant posts will be filled by
+                   Sergeants/Corporals first (1st) and Officer posts will be filled by Officers
+                   first (1st). The first (1st) staff on the list will have the first (1st) pick of
+                   available posts. The second (2nd) staff on the list will have second (2nd)
+                   pick of the available posts and so on until all posts are filled.
+
+            3.     On the job training Officers (OJT) can be pulled from their assigned post
+                   and placed in another post in order to allow the post to be used to fill an
+                   overtime assignment that other staff may want to work.
+
+            4.     Staff assigned as ‘Flex’ can be pulled from their assigned posts and
+
+                                        67                                  Collective Bargaining Agreement
+                 placed in another post in order to allow the post to be used to fill an
+                 overtime opportunity that other staff may want to work.
+
+     5.          Corrections Officers, Corporals and Sergeants can voluntarily relinquish
+                 their post and be placed in another post in order to allow the post to be
+                 filled by another staff member.
+
+     6.          Corrections Officers may trade with Corporals and Sergeants provided
+                 they are qualified to perform the duties. (Any MOT assignments do not
+                 matter).
+
+     7.          Correctional Officers cannot be assigned to work as a Corporal or
+                 Sergeant when there is MOT, but employees not on shift still can
+                 volunteer to work these posts (except for number 6 above).
+
+     8.          When there is sufficient staff available to work overtime on a shift, staff
+                 will be sent home in the following order (the last staff assigned will be the
+                 first (1st) staff relieved in each category’s below):
+
+           i.           Employees assigned mandatory overtime;
+
+          ii.           Employees from solicited overtime;
+
+          iii.          Employees assigned overtime from the daily overtime signup;
+
+          iv.           Employees on the weekly overtime signup.
+
+b.   Mandatory Overtime (Bucket Procedure)
+     The updated bucket list will be maintained on the computer. The OIC or AOIC is
+     the person responsible to update the Bucket List, and will confirm the identity of
+     the bucket person for their shift within one (1) hour of the beginning of their shift.
+     In the event that more than one (1) person is needed, the OIC or AOIC will notify
+     the second bucket staff as soon as number one is assigned. The OIC or AOIC
+     will record the appropriate information on the bucket list immediately following
+     Roll Call and at the end of their shift when necessary.
+
+     1st Shift OIC will determine the 1st Shift bucket and 6:10 a.m. – 2:40 p.m. bucket.
+     •       The Parties have agreed that the AM- East and West Dining room posts
+             5:15 am to 1:45 pm, and the AM – Kitchen Security 3:30 am to 12 –Noon,
+             will be included in the 6:10 am to 2:40 pm Bucket Lists. However, neither
+             can be worked more than eight (8) additional hours past their regular shift,
+             not over sixteen (16) hours total, and they will not be placed into the
+             bucket on their regularly scheduled Friday or the day before or after their
+             vacation.
+
+     2nd Shift OIC or AOIC will determine the 2nd Shift bucket.
+     •      The Parties have agreed that the PM – East and West Dining room posts
+            1:45 pm to 10:15 pm, and the PM – Kitchen Security 12 – Noon to 8:30
+            pm, will be included in the 4:10 pm Bucket. However, neither can be
+
+                                     68                                Collective Bargaining Agreement
+        worked more than eight (8) additional hours past their regular shift, not
+        over sixteen (16) hours total, and they will not be placed into the bucket
+        on their regularly scheduled Friday or the day before or after their
+        vacation.
+
+3rd Shift OIC or AOIC will determine the 3rd Shift bucket (the 2:30 p.m. – 11:00
+p.m. and 4:10 p.m. – 12:10 a.m. bucket lists have been combined).
+
+In an effort to allow staff the opportunity to better control when they work
+overtime, staff that volunteer to work overtime will have that date placed in their
+column to count as their bucket day. If two (2) or more staff have the same
+bucket day, then the staff that last worked overtime will be placed at the bottom
+of the list for that day unless the Institution needs a staff member who is APQ
+qualified. This will serve the same purpose as if they had been placed into the
+bucket on that day.
+
+As such, they will not be considered for the bucket again until all others have
+had their turn in the bucket.
+
+This applies to staff that sign up for overtime and are not needed. This does not
+apply to the hospital watch sign-up when available. When volunteering as a
+result of solicitation, no minimum time worked is required.
+
+Flex staff assigned to long term assignments (two (2) or more weeks in a row)
+will receive notice seven (7) days in advance of their assignment. They will be
+exempt from being assigned in the bucket list the first (1st) seven (7) day period
+of the assignment. When Flex staff is returned to their bid post or if their next
+assignment continues with the same shift and days off, they will be eligible for
+the bucket list.
+
+Staff will not be placed into the bucket on their regularly scheduled Friday or the
+day prior to a scheduled vacation day, or the day before or after their vacation. If
+a staff member is notified they are in the bucket, and one of these situations
+apply, they will notify the OIC or AOIC within one hour so they can be removed
+from the bucket and the next person can be notified.
+
+It is the responsibility of the OIC or AOIC to contact the staff as early as possible
+in their shift when the staff will be required to work mandatory overtime.
+
+ A volunteer overtime list shall be developed and maintained on a daily basis by
+ the OIC or AOIC. This list will be on a first come, first served basis. This will not
+ count towards the bucket if no work is available. If an employee volunteers for
+ an overtime opportunity and:
+1.      Within two (2) hours before the actual overtime opportunity is to start the
+        employee notifies the Institution they will not work, and,
+
+2.      Where such notice requires the institution to assign an employee
+        mandatory overtime for that post, and,
+
+
+                            69                                 Collective Bargaining Agreement
+           3.     There is no bona fide emergency or no OFLA/FMLA qualifying event,
+                  then,
+
+           4.     The employee not working the voluntary overtime will not be assigned
+                  voluntary overtime for thirty (30) calendar days from the date of notice.
+
+     When a shift change occurs, the date of the staff member’s last bucket day, regardless
+     of their previous shift will be transferred to the new list.
+
+     The OIC or AOIC will make a reasonable attempt to contact all staff on shift to solicit
+     overtime. When it is discovered that a staff member will be held MOT, the OIC or AOIC
+     will make a radio announcement to all staff, and a phone call to DSU soliciting OT due
+     to the use of a bucket.
+
+     One hour is the minimum amount of time required to work overtime to qualify for the
+     bucket list exemption. This will include institutional emergencies (lock downs) and
+     hospital watch. Time in training and attending Institution meetings will not count toward
+     the bucket list exemption.
+
+     A staff member is accountable to the bucket until the end of their scheduled shift.
+
+     Staff will only be held in the bucket within their job classification, unless there are no
+     reasonable alternatives. Corporals will be considered the same classification as
+     Sergeants for the bucket list.
+
+     When updating the bucket list, a color system will be used. Black will indicate bucket
+     day, red indicates MOT, and blue indicates VOT. When determining the order of the
+     next bucket day, staff are identified using the following: Bucket Day (Black), MOT
+     (Red), and VOT (Blue).
+
+C.   Voluntary Overtime (Overtime Sign-up)
+     •     The overtime sign-up rotates shifts in order for every shift to have the first
+           opportunity to sign up. Therefore, staff who bid the shift the sign-up is on will
+           have first priority for forty-five (45) minutes.
+
+     •     An employee can sign up for a partial shift, but if no one signs up to fill the
+           remainder of the shift, forty-eight (48) hours before the overtime starts, the
+           employee may be subject to being bumped by someone who wants the whole
+           shift.
+
+     •     It is the responsibility of the OIC or AOIC to contact staff who have signed up for
+           overtime if that staff member will not be needed. This contact must be made at
+           least four (4) hours prior to the start of the scheduled shift, to account for travel
+           and prep time. If unforeseen events create the need for less than four (4) hours’
+           notice, then the employee will be offered placement at the top of the daily
+           overtime list. If more than one employee is canceled they will be placed on the
+           daily overtime list in seniority order. If called in, the employee(s) shall be offered
+           the choice of the original planned overtime post or the other vacancy.
+
+
+                                       70                                 Collective Bargaining Agreement
+      •      The OIC or AOIC will use the updated contact number on file. If a staff member
+             will not be available to receive this call, they must contact the OIC or AOIC prior
+             to reporting for work.
+
+      •      When a staff member signs up for overtime in a classification other than theirs,
+             they are subject to being “bumped” by a staff of that classification up to 48-hours
+             prior to the scheduled shift. For this purpose, Corporal and Sergeants are
+             considered to be in the same classification.
+
+      •      The OIC or AOIC in control of the sign-up will notify the staff that has been
+             bumped by phone and Institution email.
+
+      For purposes of planned overtime, if a Flex is assigned to work a shift, other than their
+      bid shift, for more than five (5) days they will be considered as bidding that shift.
+
+D.    Employees who work an overtime shift before or after their regularly scheduled shift will
+      be provided a paid meal period consistent with Article 25, Section 3b.
+                                                                            Rev: 2017, 2019,2021, 2023
+
+
+                                  OSP Minimum Facility*
+
+*This language is not operative while the facility is deactivated.
+1.     Bidding Procedure.
+       Correctional Series Staff who have completed trial service may bid shifts and days off
+       in order of seniority as defined in Section 9 of this Article. Employees who fail to
+       successfully bid, or who do not bid, will be assigned at the discretion of Facility
+       Management.
+
+      Bids will be for posts, shifts and days off. Bidding will occur every six (6) months,
+      becoming effective with the first Sunday of April and October. The Facility Manager
+      shall post work schedules forty-five (45) calendar days before the rotation date.
+      Bidding will commence in order of seniority by appointment approximately thirty (30)
+      calendar days prior to rotation date. Staff may bid in person, by telephone, or they may
+      submit up to three (3) bids in order of preference in writing. The new schedule will be
+      posted no less than seven (7) calendar days prior to the rotation date. Facility
+      Management may make specific daily assignment changes base upon operational
+      needs and may remove or deny an employee from a bid for valid cause.
+
+      The following posts are exempted from job bidding:
+      1.     Tool and Key
+
+      2.     Up to three (3) shift and day off assignments may be designated on each bid
+             cycle for training.
+
+      3.     At the time the bid schedule is posted, management will give notice of exempt
+             and training post selection and assignments.
+
+2.    Security of Personal Property. The Agency agrees to continue reasonable efforts to
+      provide security for employees authorized personal property.
+
+                                        71                               Collective Bargaining Agreement
+3.   Scheduled and Unscheduled Overtime
+     a.   When management determines that overtime is needed, the OIC will offer the
+          overtime to the first two people on the bucket list with the number one person on
+          the bucket list having first choice. If neither employee chooses to accept the
+          OIC will attempt to contact employees on the voluntary overtime call list
+          beginning with the most senior staff person on the list. For the purpose of
+          overtime, Sergeants, Corporals, and Correctional Officers shall be considered on
+          classification and can work any post.
+
+     b.    One attempt per employee will be made utilizing the contact phone number(s)
+           until an employee accepts the voluntary overtime assignment.
+
+     c.    Employees will only be allowed to secure one (1) overtime assignment when
+           initially contacted. This process will continue until all overtime assignments have
+           been filled.
+
+     d.    When contacted the employee will be required to accept or deny the entire
+           overtime assignment.
+
+     e.    Once the voluntary overtime call list has been exhausted and the overtime
+           assignment has not been filled, the OIC will notify staff on duty via the
+           institutional radio system that there is overtime available. If there are interested
+           Parties, the overtime will be issued to the first staff member to respond to the
+           OIC’s request. If there are no interested Parties on shift, then the OIC will notify
+           the designated bucket person on the shift prior to the overtime assignment that
+           they will be required to work a mandatory overtime assignment.
+
+     f.    In the event a vacancy is not known until the end of a shift and time does not
+           permit the initiation of the Voluntary Overtime List prior to the end of the shift, the
+           bucket employee will be required to remain on duty until such time the voluntary
+           overtime distribution process may be completed if time allows for the OIC.
+
+     i.    The completed Voluntary Overtime Call List Log shall be attached to the Security
+           Series Attendance Roster and maintained in accordance with the Department’s
+           rent ion schedule.
+
+4.   Mandatory Overtime List (the Bucket):
+     a.   The Bucket List is intended to be a fair way of allocating mandatory overtime
+          among employees.
+
+     b.    The order of the names of the employees on the bucket list will be organized by
+           date of last worked overtime. Whoever has not worked OT in the longest time
+           will be listed first.
+
+     c.    When an employee is bucketed to work overtime and overtime is shared
+           between employees, it is the responsibility of the bucket employee to
+           immediately notify the OIC as to who will be reporting to work the remaining
+           overtime assignment.
+
+
+                                       72                                 Collective Bargaining Agreement
+     d.    Employee will not be required to work mandatory overtime on their last work day
+           before their scheduled days off or before any scheduled leave, except in an
+           emergency.
+
+     e.    The OIC will notify the employee’s designated as the number one and number
+           two bucket employee at the beginning of their shift.
+
+     f.    OIC’s will log and complete the Mandatory Overtime List when the Employee
+           has worked one (1) hour or more of mandatory overtime or three (3) hours or
+           more of voluntary overtime. Any employee that has worked the one (1) hour or
+           more of mandatory or three (3) hours or more of voluntary will be moved to the
+           bottom on the mandatory list.
+
+5.   Voluntary overtime call list.
+     a.    Voluntary overtime will be assigned based upon seniority. The voluntary
+           overtime list will be put out for employees to sign up on the first Tuesday of
+           every month at the beginning of second shift. It will be placed in the OTC’s
+           office for three days and then posted. A copy will be maintained in the ISDS
+           office, the Union president and the officer-in-charge. Staff have to sign up
+           physically themselves. At no time will other staff be allowed to sign up other
+           staff on the list. Employees may delete their names from the voluntary overtime
+           list at anytime. The employee will be required to notify the OIC in writing when
+           withdrawing their name from the voluntary overtime list. Employees on the
+           Voluntary overtime call list will be listed in DOC seniority order with the most
+           senior person being listed first.
+
+     b.    Employees may provide the employer with no more than two (2) accurate
+           contract phone numbers. The employee will provide the contact phone numbers.
+           The employee will provide the contact numbers to the OIC in writing. Each
+           phone number listed for the employee will be attempted before continuing down
+           the overtime list. A message may be left, but the OIC will continue calling staff
+           for the overtime assignment.
+
+                           Powder River Correctional Facility
+
+a.   Work Schedule Bidding.
+     1.    Regular status employees may submit their bid for a shift and days off work
+           schedule following the posting of the work schedule by the Agency.             The
+           Agency will post the work schedule for bidding twenty-five (25) calendar days
+           prior to the rotation date. Following the posting of the work schedule for each bid
+           rotation period, the process for bidding will commence on the Monday following
+           the posting as specified in this Article. The Agency will post a list of times and
+           dates for each staff member to bid. The new work schedule for each bid period
+           shall be posted no less than seven (7) calendar days prior to the rotation date.
+           a.      Employees will submit their bid to the Institution Staff Deployment
+                   Coordinator (ISDS) or designee in seniority order each fifteen (15)
+                   minutes until all eligible employees have had the opportunity to bid.
+                   Employees who have completed six (6) months of their initial Trial Service
+                   before a bid rotation date may bid shift and days off, in order of seniority
+
+                                       73                               Collective Bargaining Agreement
+            as defined. The Parties shall meet to review the mechanics of the bidding
+            procedure.
+
+     b.     Employees may bid in person, by telephone, or by proxy and may submit
+            their bid form to the ISDS Coordinator prior to their bid window, however
+            once a bid form has been submitted it cannot be changed.
+
+     c.     The proxy bid sheet will provide a space for the employees first, second
+            and third choice. If the employees first choice has been taken by another
+            more senior employee the second choice will be used. If the employees
+            second choice has been taken by another more senior employee the third
+            choice will be used. If all of the choices listed on the proxy have been
+            taken by other employees the bid will continue as if the employee missed
+            their bid window. At the conclusion of bidding, but before the bid is
+            posted the employee will have a choice of any vacant posts left rather
+            than being assigned by management.
+
+     d.     Any staff member who misses their bid window will be afforded the
+            opportunity to bid between the next available time slots after reporting to
+            bid. However, they will not be allowed to bump another staff member
+            from a posted bid. No bids will be accepted after the last time slot
+            available to bid.
+
+2.   Bids will address start and stop times for all shifts and days off work schedules.
+     Employees shall submit a bid for one shift and days off work schedule the
+     employee is eligible to bid. Employees may bid in person, by telephone, or by
+     proxy. Employees shall secure a shift and days off work schedule in order of
+     seniority as defined in Section 8 of this Article along with the exceptions as noted
+     in subsection b of this Article. All work schedules will be interrupted only by rest
+     periods as defined in Article 25-Section 2b. Employees may exercise the option
+     to move down from their designated seniority slot in order to bid later in the bid
+     process. Employees desiring to exercise this option shall notify the ISDS
+     Coordinator in writing prior to the commencement of the bid process and identify
+     the bid slot number where they will bid.
+
+3.   With the approval of local labor/management split shifts may include a work
+     schedule wherein an employee works more than eight (8) hours in a twenty-four
+     (24) period without any shift change penalty. Employees who successfully bid or
+     are assigned to a Flex position shall secure a shift through the bid process and
+     shall revert back to the shift when not assigned by the Agency to relieve other
+     security employees. The Parties recognize the contractual requirement for
+     seven (7) days’ notice when moving assigned flex staff. However, management
+     will make a good faith effort to provide a minimum of fourteen (14) days advance
+     notice when flex staff are being assigned off their normal bid shift. (The intent of
+     this Section is that employees who successfully bid or are assigned to a Flex
+     Variable Position will primarily provide relief to other security employees on the
+     shift the position is assigned to.)
+
+
+
+                                74                                Collective Bargaining Agreement
+     4.    Bidding shall occur every four (4) as months becoming effective on the second
+           Sunday of March, July and November. The Parties agree to meet and confer if a
+           six (6)-month rotation system is being considered.
+
+     5.    Shift and days off schedules that become vacant within ninety (90) days of the
+           rotation due to retirements, transfers, job rotations, new security positions, etc.
+           will be filled with the following process:
+           a.      Upon notice of a vacancy the ISDS Coordinator will notify all lesser senior
+                   employees of the vacancy, via email, that there will be a rebid for the
+                   upcoming vacancy and the date the rebid will occur. The rebid date will
+                   be within fourteen (14) calendar days of receiving notice of the vacancy.
+                   This process excludes retiree positions that continue to work as a
+                   temporary employee.
+
+           b.     The rebid will be conducted the same as a regular scheduled bid. Except
+                  that each staff will be given ten (10) minutes to bid.
+
+     6.    Employees who retire may retain and utilize their seniority for securing a shift
+           and days off work schedule for only the bid cycle immediately following the
+           employee’s retirement date.
+
+     7.    Employees on unprotected leave without pay status as defined by Article 34 and
+           37 shall not be eligible to bid a shift and days off work schedule.
+
+b.   Holiday Off Procedure
+     1.    Employees may submit leave requests for holidays off. Unassigned flex staff
+           and work crew officers on their assigned shifts may be utilized to relieve other
+           employees who have requested the holiday off. Holidays off will be awarded on
+           a first come first serve basis.
+
+     2.    Veterans Day will be the exception to the holiday off process. After the facility
+           has first accommodated veterans request for time off section b(1) will be
+           followed to accommodate other holiday off requests.
+
+c.   Time Trades
+     1.    Employees who submit time trade forms with inaccuracies or fail to work a time
+           trade will be subject to but not limited to time trade restrictions.
+
+     2.    Employees with documented medical restrictions will not be allowed to enter into
+           time trade agreements until the employee has received a full medical release.
+
+     3.    If the OIC has reviewed the facility’s operational needs and determines there is
+           sufficient staffing to make a vacation day off available to staff, the staff on shift
+           and not working a trade will be given the opportunity to take an unscheduled
+           vacation day pursuant to Article 32, Section 14(j)(PRCF) at subsections (e) and
+           (f). The employee will submit a leave request time stamped by the OIC or ISDS
+           Coordinator and the opportunity will be offered on a first come first served basis.
+
+
+
+                                      75                                 Collective Bargaining Agreement
+             If, after the above process is completed, there are available unscheduled
+             vacation time available, then the employee working a trade will be considered
+             using the same process as above.
+
+d.    Adult in Custody Work Crew Supervisors.
+      1.     Employees assigned as full-time Adult in Custody work crew supervisors will be
+             required to alternate between the following work schedules according to the
+             contractual needs of the Adult in Custody Work Crew Program: a five (5) shifts of
+             eight (8) hours and two (2) consecutive days off within each workweek and a
+             four (4) shifts of ten (10) hours and three (3) consecutive days off within each
+             work week.
+
+      2.     Employees assigned as full time Adult in Custody work crew supervisors may
+             volunteer to flex their bid work schedule. A flex work schedule for the purpose of
+             this section is defined as follows: “A flex schedule for a full time Adult in Custody
+             work crew supervisor is a schedule which may vary the number of hours worked
+             on a daily basis, but do not exceed ten (10) hours per day and do not exceed
+             forty (40) hours in the employee’s work week.”
+
+e.    Breaking Ties in Seniority.
+      1.    Transfers – When an employee transfers into PRCF with the same date of hire
+            as a current PRCF employee, the current PRCF employee shall be granted the
+            higher seniority within the classification.
+
+f.    Security of Personal Property.
+      The Agency shall provide access to a locker for employees securing personal property.
+
+Distribution of Voluntary and Mandatory Overtime:
+g. Scheduled and Unscheduled Overtime:
+       1.      When it is determined that overtime is needed the Officer in Charge (OIC) will
+               attempt to contact employees on the appropriate Voluntary Overtime Call List
+               beginning with the next employee below the last employee contacted and
+               worked the previous overtime opportunity.
+
+      2.     One attempt per employee will be made utilizing the contact phone number(s)
+             until an employee is identified to fill the voluntary overtime assignment.
+
+      3.     Employees will only be allowed to secure one (1) overtime assignment when
+             initially contacted. This process will continue until all overtime assignments have
+             been filled.
+
+      4.     When contacted the employee will be required to accept or deny the entire
+             overtime assignment.
+
+      5.     Employees accepting a voluntary overtime assignment must complete a
+             minimum of two (2) hours of the overtime they accepted. Employees accepting
+             a voluntary overtime assignment may contact other employees to cover any
+
+
+
+                                        76                                 Collective Bargaining Agreement
+           portion of the remaining overtime. Employees on a mandatory overtime
+           assignment may contact other employees to cover any portion or all of the
+           mandatory overtime assignment.
+
+     6.    Once the Voluntary Overtime Call List has been exhausted and the overtime
+           assignment has not been filled, the OIC will notify the designated bucket person
+           on the shift prior to the overtime assignment that they will be required to work a
+           mandatory overtime assignment.
+
+     7.    When a voluntary overtime assignment is shared between employees, it is the
+           responsibility of the employee who accepts the entire overtime assignment or
+           any portion thereof will immediately notify the OIC as to who will be reporting to
+           work the remaining overtime assignment.
+
+     8.    In the event a vacancy is not known until the end of a shift and time does not
+           permit the initiation of the Voluntary Overtime List prior to the end of the shift, the
+           bucket employee will be required to remain on duty until such time the voluntary
+           overtime distribution process has been completed.
+
+     9.    The completed Voluntary Overtime Call List Log shall be attached to the Security
+           Series Attendance Roster and maintained in accordance with the department’s
+           retention schedule.
+
+     10.   If an administrative error occurs in the assignment of overtime by the OIC, the
+           Institution Security Manager will work with the impacted employee to provide
+           another overtime opportunity independent of the regular overtime opportunities
+           for filling vacant assignments at a designated time agreeable to both parties.
+
+j.   Mandatory Overtime List (The Bucket):
+     1.   The Bucket List is intended to be a fair way of allocating mandatory overtime
+          among employees.
+
+     2.    The OIC will notify the employee designated as the bucket employee being on
+           shift/duty.
+
+     3.    When an employee is bucketed to work overtime and the overtime is shared
+           between employees, it is the responsibility of the bucket employee to
+           immediately notify the OIC as to who will be reporting to work the remaining
+           overtime assignment.
+
+     4.    Employees will not be required to work mandatory overtime on their last work
+           day before their scheduled days off, before any scheduled leave excluding time
+           trades, or on their first day back from vacation except in an emergency.
+
+     5.    The Bucket List will be sent via the “Daily Briefing” and will be updated daily, to
+           show the top two (2) in the bucket for each shift.
+
+
+
+
+                                       77                                 Collective Bargaining Agreement
+k.    Voluntary Overtime Call List
+      1.    Employees may add or delete their names from the identified Voluntary
+            Overtime Call List at anytime. The employee will be required to make such
+            notifications in writing to the OIC.
+
+      2.     The employer shall maintain three (3) voluntary overtime call lists, one for each
+             shift.
+
+      3.     The Voluntary Overtime Call List will be updated each Shift and Days Off
+             Rotation Period. Employees shall be required to notify the employer as to which
+             overtime list(s) they wish to have their name added to in writing.
+
+      4.     Employees may provide the employer with no more than one (1) accurate
+             contact phone numbers. The employee will provide the contact numbers(s) to
+             the OIC in writing. Each phone number will be attempted before continuing
+             down the overtime list.
+
+      5.     Employees on the Voluntary Overtime Call List will be listed in seniority order.
+
+l.    Short Extension of Shift
+      In the event a short extension of a shift is required to complete a task (not to exceed
+      one and one half (11/2) hours) the OIC will first offer the short assignment to the
+      designated bucket employee. If the bucket employee declines the short assignment,
+      the OIC will contact employees on shift with an announcement over the radio that
+      overtime of a short duration is available and if interested, to contact the OIC. If no
+      employee on shift accepts the short assignment, the OIC will follow the normal process
+      to complete the work.
+
+m.    Definitions.
+      1.      Seniority for the purposes of this agreement is defined as total time in the
+              AFSCME Bargaining Unit in the Security Series.
+
+      2.     Employee(s) for the purposes of this agreement is defined as PRCF Correctional
+             Officers and Correctional Sergeants.
+
+      3.     A proxy bid form/sheet for the purposes of this Agreement is a form to be utilized
+             by employees who choose to forgo their designated bid window to select a bid
+             shift and days off work schedule.
+
+PRCF Wild Land Fire Support Program
+n.   Eligibility
+     1.       Participation in the PRCF fire program is voluntary. Employees must be in good
+              standing at all times in order to participate in the fire program. Employees who
+              would like to be considered for PRCF forest fire program shall submit a letter of
+              interest to the PRCF Fire Program Manager or designee at the designated time.
+
+      2.     Employees must be off initial trial service to participate in the fire program. This
+             provision may be waived by the PRCF Fire Program Manager or designee.
+
+
+                                        78                                Collective Bargaining Agreement
+     3.    Permanent employees are required to have been assigned to PRCF for a
+           minimum of six (6) months to be eligible to participate in the fire program. This
+           provision may be waived by the PRCF Fire Program Manager or designee.
+
+     4.    Employees who volunteer for fire assignments shall be required to complete all
+           fire related trainings and to pass a preseasonal pack test prior to the start of the
+           fire season. The successful completion of the pack test is for the purpose of
+           ensuring staff safety and accommodating potential emergent and temporary
+           deployment needs that may occur. Employees assigned to Camp Support who
+           are temporarily used for emergent Fire Suppression duties will be relieved by an
+           employee from the designated Fire Suppression list at the earliest opportunity.
+
+o.   Fire Crew/Camp and Lunch Delivery Assignment Call Lists.
+     1.     Employees who have completed required training may request to have their
+            name removed or added to the appropriate voluntary fire assignment call lists at
+            any time. An employee will be required to make such notifications in writing to
+            the PRCF Fire Operations Manager or designee. The PRCF Fire Program
+            Manager or designee will have five (5) calendar days to complete the
+            employee’s request.
+
+     2.    Employees will be listed in seniority order on the appropriate voluntary lists.
+
+     3.    When a fire crew, fire camp supervisor or lunch delivery assignment is
+           requested, the OIC will attempt to contact employees on the appropriate
+           voluntary fire assignment list starting with the next employee below the last
+           employee contacted and who accepted the previous fire assignment.
+           a. There will be two (2) primary lists that employees may sign up for:
+                 i.  Fire Suppression.
+                ii.  Camp Support.
+
+           b. The primary list related to the ODF request for a crew type or operational
+              need will be utilized first and employees will only be moved on the list by
+              accepting or declining deployment.
+
+           c. Upon exhaustion of the primary list, the OIC may seek volunteers from the
+              other list but will be completely voluntary so that accepting or declining will
+              not cause any movement on the alternate primary list.
+
+     4.    Employees may provide the employer with no more than two (2) contact phone
+           numbers. The employee will provide contact number(s) to the PRCF Fire
+           Operations manager or designee in writing. Each phone number will be
+           attempted once before continuing down the list.
+
+     5.    When contacted an employee must accept or refuse the fire assignment.
+
+p.   Deployment
+     1.    Employees who accept a fire assignment will have forty-five (45) minutes to
+           report to the facility and be prepared to depart. Failure to report to the facility
+
+
+                                      79                                 Collective Bargaining Agreement
+            within the designated timeframe shall result in the assignment being re-assigned
+            to another employee.
+
+      2.    At the request of the wild land fire representative an employee/fire line, camp
+            and mobile kitchen crew officers may be moved to different locations after initial
+            deployment. As determined by the wild land fire representative deployed
+            employees/fire crew supervisor may be housed at the facility or in the field. This
+            shall not affect the employee’s ability to remain out with their initial fire line
+            assignment.
+
+      3.    In the event a fire line, camp or mobile kitchen crew officer is moved to a
+            different location the officer will have the option to move with the camp/kitchen or
+            be replaced.
+
+      4.    Employees may remain on a fire assignment up to twenty-eight (28) days
+            provided any scheduled vacation time is returned within fourteen (14) days prior
+            to their scheduled vacation time. (Clarification: An employee may remain on a
+            fire assignment for up to twenty-eight (28) days, however, an employee who has
+            a vacation scheduled within fourteen (14) days of being deployed on a fire
+            assignment (fire-line, camp, mobile kitchen) will not be deployed and if an
+            employee has vacation scheduled while on a fire assignment, the employee is
+            required to turn-in said vacation within fourteen (14) days of the start of the
+            vacation).
+
+      5.    In the event a mobile kitchen support crew assignment is needed the voluntary
+            fire camp supervisor call list will be utilized.
+
+ q.   Cancellation of a Fire Assignment
+      In the event an employee is contacted and accepts a fire assignment and the employee
+      is notified the fire assignment has been cancelled prior to the employee departing the
+      facility, the appropriate voluntary fire call list will resume with the employee whose
+      assignment was cancelled.
+
+r.    Staff Relief for Standalone Fire Line Crew
+      When it’s determined that a standalone fire line crew will remain out overnight the
+      employer will dispatch an employee utilizing the fire camp supervisor call list to provide
+      relief to allow for the crew supervisor(s) the ability to acquire adequate rest prior to
+      returning to the facility or to continue fire related work.
+
+s.    Camp Leader for Standalone Fire Line Crew
+      When it’s determined that PRCF will maintain a standalone camp, the employee with
+      the most total time at the institution shall be designated as the camp leader, however, it
+      is understood that all employees will work together to accomplish and support the
+      mission of the agency.
+
+t.    Time Trades
+      Employees who have time trade agreements pending prior to the deployment both
+      Parties must agree to change the trade dates or cancel the trade. If an employee fails
+
+
+                                        80                               Collective Bargaining Agreement
+      to rectify pending time trade agreements within fifteen (15) minutes of being contacted
+      about a fire assignment, the employee will forfeit their turn to be deployed.
+
+u.    Definitions
+      1.      Seniority for the purpose of the fire crew/camp and mobile kitchen assignments
+              is defined as total time in the AFSCME Security Bargaining Unit.
+
+      2.     Seniority for the purpose of the fire lunch delivery assignment is defined as total
+             time in an AFSCME DOC Bargaining Unit.
+
+      3.     Employee(s) for the purpose of this procedure is defined as PRCF Correctional
+             Officers and Sergeants.
+
+      4.     An employee will not be considered in good standing when an employee is
+             under formal investigation, an employee is issued a letter of statement for
+             violations specifically involving wild land fire post orders, policies or procedures
+             or an employee has an active letter of reprimand or higher discipline for any
+             reason.
+                                                                             Rev: 2017, 2019, 2021, 2023
+
+                              Santiam Correctional Institution
+
+Employees who have completed initial trial service may bid shift and days off in order of
+seniority as defined in Section 9 of this Article. Employees, who fail to successfully bid, or
+who do not apply or bid, will be assigned at the discretion of the Institution's Management.
+
+Bids will address shift and days off and potential assignments. Bidding will occur every six (6)
+months, becoming effective on the first Sunday of March and September except for the Tool
+and Key Corporal assignment which will normally be for one (1) year recognizing the need for
+training and experience to become effective. The Security Manager will post all available shift
+and days off bid positions at least thirty (30) calendar days prior to the rotation date.
+
+The mechanics of the bidding procedure will be determined at labor/management. Employees
+may bid in person, by telephone, or by proxy submitting their bid form to the ISM or designee
+prior to their bid slot; however, their proxy bid may not be changed after the completion of the
+employee’s bid slot. All proxy bids must be in writing, signed by the bidding employee, and
+numbered by preference, if placing more than one (1) bid. The results of the bids will be
+arranged into the master roster template that generates the daily work schedules and will be
+posted no less than seven (7) calendar days prior to the rotation date.
+
+The Parties agree to pilot for one (1) year, the ten (10) minute time slot bid window, unless the
+Parties agree to mutually modify or extend. Implementation of the pilot will commence after
+Local ratification of the Agreement, beginning with the March 2023 bid. If an employee fails to
+bid during their designated ten (10) minute time slot, the bid will proceed. An employee will be
+able to submit a belated bid, which will be considered at the time it is received. However, it
+will only be considered after the employee who is presently bidding has made their selection.
+The belated bid shall not bump less senior employees who have already bid at their proper
+time during the intervening time period.
+
+
+
+                                         81                               Collective Bargaining Agreement
+Three (3) shift and day off assignments may be designated as exempt for training as needed.
+
+The Institution's Management may only remove or deny an employee from a daily work
+schedule for valid cause.
+
+Overtime Assignment
+Definitions:
+        Overtime: Assignment of work to security series staff which exceeds their normal work
+        schedule as defined in Article 15 of this agreement.
+
+      Voluntary Overtime: Assignment of work based upon a voluntary request by an
+      employee to work beyond their normal work schedule.
+
+      Voluntary Overtime List: A list of all correctional series staff regardless of classification
+      who are requesting to work voluntary overtime, which is maintained by the Security
+      Manager or designee.
+
+      Mandatory Overtime: Assignment of overtime by management by which staff are
+      required to work beyond their normal shift that was unable to be filled by voluntary
+      means.
+
+      Mandatory Overtime List: A perpetual list of all correctional series staff regardless of
+      classification in inverse order of the last date of overtime worked, maintained by the
+      Security Manager or designee.
+
+      Scheduled Overtime: Planned absences or special assignments known in advance.
+
+      Unscheduled Overtime: Overtime assignments as a result of unexpected absences,
+      vacancies or work that is unknown that is one (1) shift in advance.
+
+      Seniority: Seniority for the purpose of assignment of voluntary overtime hours shall be
+      the same as the definition of seniority under Article 44, Section 4 of the Agreement.
+
+      Opportunity: Opportunity means an employee is asked in person by the Institution or is
+      called by telephone and offered an overtime assignment.
+
+Voluntary Overtime
+a.    Employees are encouraged to sign up for voluntary overtime in advance of its
+      occurrence to facilitate planning. The Agency will maintain voluntary overtime lists
+      upon which employees must designate their eligibility in writing. Thirty days of overtime
+      list will be made available to employees for each shift and then in the Lieutenant’s
+      office. The voluntary overtime list will also be viewable on the P: Drive. Employees will
+      indicate if they are available to volunteer for overtime during the period(s) covered by
+      the voluntary overtime list(s). Employees may also indicate which days and shifts they
+      will be available to work. The Agency may begin assigning people from the voluntary
+      overtime list one (1) workday or thirty (30) hours prior to the shift being assigned.
+      Employees may continue to sign up for overtime after this time, but may not displace an
+      assignment once it is made. Staff themselves must add or remove their name from the
+      overtime list. No other staff or shift OIC can do this for a staff member. If a staff
+
+                                         82                                 Collective Bargaining Agreement
+      member removes their own name, they must personally put their initial beside their
+      removed name. If the Agency determines there is a need for overtime on any shift the
+      overtime will be first offered to the employees who are signed up on the voluntary
+      overtime list. Once the employee has accepted, worked or declined a voluntary
+      overtime opportunity, they will be moved to the bottom of the voluntary overtime list.
+      Employees returning from deployment on a Fire Crew will be rotated to the bottom of
+      the voluntary overtime list. If the employees signed up on the voluntary overtime list
+      are not interested in the overtime, or if there is a valid reason for denial of the
+      opportunity to those employees, then the employer will make the overtime opportunity
+      available to other post qualified employees on shift who didn’t sign up on the voluntary
+      overtime list.
+
+b.    Once an employee has worked one (1) hour or more of voluntary overtime they will be
+      move to the bottom of the voluntary overtime list. A staff member cannot work or be
+      assigned another overtime until everyone on the voluntary list has had an opportunity to
+      work an overtime shift. If a staff member works or declines an overtime assignment; it
+      will still serve as an afforded opportunity to work. In all cases where a staff had a
+      voluntary overtime opportunity they will be rotated to the bottom of the voluntary list.
+
+c.    Correctional Officer Series employees have to have either the experience or the ability
+      to be able to perform the specialized security tasks. OICs shall exercise good
+      judgement to adjust the roster when necessary depending on the job descriptions of
+      vacant posts and the qualifications of the employees who are hired to work overtime.
+
+d.    If circumstances require a short extension of the shift to complete a task, the Agency
+      may involuntarily require the effected employee(s) to stay and finish the assignment.
+      Such extensions shall not affect the employee’s placement on the mandatory overtime
+      list unless the employee is required to work one (1) hour or more.
+
+e.    Trial Service employees shall complete the initial two (2)-week institutional training
+      period before being added to the voluntary or mandatory overtime lists.
+
+Mandatory Overtime:
+a.   The Agency will announce the top three (3) employees who are on the mandatory
+     overtime list within one (1) hour of the start of the shift from the employees able to be
+     assigned mandatory overtime. When an overtime opportunity arises and management
+     is unable to find a volunteer to fill that assignment, the Agency may draft employees for
+     the overtime opportunity from a mandatory overtime list on a rotating basis of last
+     overtime worked and based on inverse classification seniority. Any overtime of one (1)
+     hour or more will move the affected employee to the bottom of the mandatory overtime
+     list. Employees returning from deployment on a Fire Crew will be rotated to the bottom
+     of the mandatory overtime list. Staff will not be required to work mandatory overtime on
+     their Friday, their scheduled days off, or if they have already worked a mandatory
+     overtime assignment within the previous twenty-four (24) hours, except during periods
+     of declared emergency. Prior to holding staff for mandatory overtime, an announcement
+     will be made by the OIC over the Institution radio asking for any volunteers for the open
+     post. When two (2) or more staff have been mandated to work and a volunteer has
+     been located or the roster schedule has resolved itself, the last person mandated to
+     work will be the first person to be released from their mandatory responsibility.
+
+                                       83                               Collective Bargaining Agreement
+     Employees shall not be placed on the mandatory overtime list on any day before a
+     previously scheduled vacation day, sick leave, time trade day that management has
+     approved.
+
+     Mandatory Medical Exceptions:
+     Submission of medical ordered temporary exemptions of hours of work or exclusions
+     from overtime.
+     1.    Correctional Series staff may be exempted from mandatory overtime assignment
+           due to documented medical conditions. Such an exemption shall “normally be
+           limited to a thirty (30) day period with extensions possible not to exceed a total of
+           ninety (90) days following continued improvement toward return to full
+           unrestricted duty (full release from the attending physician).
+
+     2.     Staff exempted from the mandatory overtime list due to medical restrictions shall
+            not work overtime (Voluntary or Mandatory) in accordance with their specific
+            restriction and only while it is in effect.
+
+     3.     The Security Manager or Management designee will review the status of staff
+            exempted consistent with DOC Policy 20.5.17.
+
+     4.     Notwithstanding this Section, the Agency will administer FMLA/OFLA in
+            accordance with the law and this Agreement.
+
+b.   Meals During Overtime: Employees working four (4) hours or more beyond the
+     employee’s regular shift will receive a meal ticket. Only one (1) employee is entitled to
+     a meal ticket when two (2) or more staff split an overtime shift.
+
+c.   Splitting Overtime Shifts:
+     1.      Employees can split both voluntary and mandatory overtime assignments. No
+             more than three (3) staff members can split a shift.
+
+     2.     A list of staff who are willing to work a split overtime shift shall be maintained by
+            the OIC. This will be an ongoing list and need not be signed every day. The list
+            will be kept on the voluntary overtime board.
+
+     3.     It will be the responsibility of the employee wishing to split a shift to add or
+            remove their name from the list. When they sign the list, they will indicate half
+            shifts they will be willing to work.
+
+     4.     When a staff member is held for overtime, they can ask, at their choice, the OIC
+            for the names of the staff on the overtime split list. It is then their responsibility
+            to contact the Control Center and have them contact the employee. The Control
+            Center will then forward the call to the on duty staff member.
+
+     5.     If staff member(s) is found for the split, the OIC will be notified immediately. If
+            any staff member does not report to work, the staff member will be required to
+            finish the shift.
+
+
+
+                                        84                                 Collective Bargaining Agreement
+       6.     The employee initiating the split voluntary overtime shift request shall work at
+              least one (1) hour of the overtime.
+
+
+Filling of Open Post Guidelines:
+An open post is defined as a post that becomes open between bid cycles because the person
+resigned, transferred, promoted, was approved for long term medical leave, military
+deployment, work out of class or a new work crew assignment is established.
+
+Any open post that will be vacant for more than ninety (90) days the ISM will use the following
+process to fill the position:
+   • The ISDS Coordinator will send an email to all security staff and will identify the
+      classification, post, shift, days off and the SSD (Security Seniority Date) of the vacating
+      staff.
+
+   •   Staff in the assigned classification will respond within seven (7) days with a Memo of
+       Interest.
+
+   •   Any open posts will first (1st) be offered to employees with an SSD below the vacating
+       staff member’s SSD. Seniority will apply starting with the staff member immediately
+       below the vacated post.
+
+   •   This process will continue until no further request to fill the subsequent open posts in
+       that classification occurs.
+
+   •   If the employee who created the open post returns unexpectedly during the bid cycle
+       they will retain their bid position and any employee who changed positions during the
+       bid cycle will return to their original bid position.
+
+Any open post that occurs during a bid cycle and the opening is expected to last less than
+ninety (90) days; the position will be filled using the daily fill process.
+
+Secondary shift/days off slots that are vacated through the above process will be offered to
+interested staff using the same process. To minimize the ‘domino effect’ back filling will stop
+after the second (2nd) staff member that is reassigned as a result of the original vacancy
+unless the subsequent vacancy is attached to a weekend. Management will then use its right
+to assign to make any necessary adjustments to daily rosters to cover workload.
+
+Filling of Fire Crew Positions:
+The procedure for assigning personnel to the temporary fire crew(s) dispatched from Santiam
+Correctional Institution (SCI) during the yearly fire season or in the event of a natural disaster
+is as follows:
+
+The Agency will notify employees of the opportunity to volunteer for fire camp and natural
+disaster support in writing once a year. A voluntary fire crew list will be made available and
+posted for volunteers to sign up. Fire camp and fire crew duties are voluntary assignments
+and by volunteering, the employee agrees to deviate from their normal work schedule without
+
+                                         85                                Collective Bargaining Agreement
+advanced notice. The employee additionally understands and waives Article 15 – Overtime
+Section 3 Shift Change Penalty does not apply.
+
+The Agency will select from a list of volunteers who have signed up in advance and have been
+organized based upon seniority date as defined in Article 25 Working Conditions Section 8
+Seniority. The employee cannot have any pending shift trades at the time of assignment. If
+so, the Agency will go to the next person on the list. The hiring of fire crew staff will follow the
+same rotation process as hiring of staff for voluntary overtime under subsection (b).
+
+Standard length of assignment and other guidelines will be according to Article 55 Fire
+Assignments. However, upon completion of the standard fourteen (14) day assignment the
+employee will be replaced by the next eligible employee that is signed upon the voluntary
+signup sheet. If the list is depleted, then the Agency will revert to the top of the list and repeat
+the process.
+                                                                                Rev: 2017, 2019, 2021, 2023
+
+
+                            Shutter Creek Correctional Institution
+
+Section 1. Shift / Days Off Bidding
+a.    Employees who have completed initial trial service may bid shifts and days off in order
+      of seniority as defined in Section 8 of this Article.
+
+b.     Bids will address only shift and days off. The institution’s management will make the
+       specific daily work assignments and may remove an employee from any work
+       assignment for valid cause.
+
+c.     Employees who fail to successfully bid or who do not bid will be assigned at the
+       discretion of the institution’s management.
+
+d.     Bidding will occur every six (6) months, becoming effective on the first (1st) Sunday of
+       April and October. The Security Manager shall post work schedules thirty (30)
+       calendar days before the rotation date. Employees shall have ten (10) calendar days
+       following the posting of the work schedules to place bids.
+
+e.     The Parties will agree upon a process of bidding based on scheduled appointments
+       and current bid status. The new assignment schedule will be posted no less than
+       seven (7) calendar days prior to the effective date.
+
+f.     The Employer agrees that as long as final ERB order on Remand for UP-33-03 issued
+       July 23, 2009 is settled case law, the Employer will bargain, upon demand, changes to
+       eight (8) or ten (10) hour start/stop times for shifts.
+
+Section 2. Mid Shift Rotation Bid Assignment Process
+a.    If a shift / days off slot is vacated during a shift bid rotation, the following procedure will
+      be used:
+      1.      Institution management will post the vacant slot within seven (7) calendar days
+              from the date the Institution management receives notice of an employee
+              vacating the slot.
+      2.      The vacant slot will be posted by email to all security staff employees for at least
+
+                                          86                                 Collective Bargaining Agreement
+             seven (7) calendar days with a specific close date after the Institution receives
+             notice the slot will be vacated as a result of the current employee’s resignation,
+             submits retirement notice, transfer, promotion, demotion or death.
+
+      3.     Institution management will assign the most senior employee to the vacant slot
+             who has the same classification as the slot that has been vacated. Seniority
+             shall be applied under Article 25, Section 8 of this Agreement.
+
+      4.     If, after seven (7) calendar days after the close of the posting, no employee has
+             bid for the slot, Institution management may assign the vacant slot to another
+             employee or choose not to fill the slot.
+
+      5.     An employee may only be granted one (1) reassignment under this section per
+             shift / days off rotation.
+
+      6.     Notwithstanding the above, slots opened ninety (90) calendar days or less from
+             the end of the rotation will be assigned by Institution management if the
+             Institution plans to fill the slot.
+
+      7.     If the slot is not vacated as anticipated, Institution management will rescind the
+             posting.
+
+b.    If the Institution chooses to fill the remaining slot, the Institution will follow the above
+      process and offer the secondary shift / days off slot that are vacated to interested
+      security staff using the same process in subsection (a) of this section to minimize the
+      “domino effect” back filling will stop the second (2nd) staff member reassigned as a
+      result of the original vacant slot.
+
+Section 3. Assignment of Overtime
+(a)   Unscheduled Overtime
+      a.    In no instance will a represented staff member be bucketed to cover an absence
+            created by a management service staff member. Out of class and developmental
+            management positions will be exempt.
+
+      b.     Overtime to cover minimum required staffing level to meet operational needs will
+             be offered first to the person in the bucket list before being put out for volunteers.
+             If that person is not immediately available to respond, the overtime will be
+             offered to volunteers on a conditional basis until the person in the bucket list can
+             respond.
+
+      c.     If the person in the bucket list does not want the overtime, the Officer in Charge
+             (OIC) will ask the on –duty staff for volunteers to cover the minimum portion of
+             the shift necessary.
+
+      d.     If more than one person volunteers for the unscheduled overtime, the staff
+             member with the least amount of overtime for the month will be selected. If more
+             than one person is tied for the least amount of overtime for the month, a random
+             drawing will be used for selection.
+
+
+                                         87                                 Collective Bargaining Agreement
+      e.    Staff working a voluntary overtime of two (2) hours or more may elect to have
+            their names moved to the bottom of the bucket list; this must be done at the time
+            they work the voluntary overtime.
+
+      f.    If no one on shift volunteers for the overtime, the OIC will inform the staff
+            member on the bucket list of the overtime requirement. The staff member on the
+            bucket list may, at their choosing, use their scheduled break time to call off duty
+            staff to fulfill their portion of the mandatory overtime. It is not the responsibility of
+            OIC to find relief for the staff member in the bucket.
+
+(b)   Scheduled Overtime
+      a.   Opportunities will be indicated on the weekly shift schedule when possible.
+
+      b.    Employee sign up will be on a first come first serve basis subject to the
+            restrictions listed below.
+
+      c.    When a person signs up for scheduled overtime they will annotate on the
+            Voluntary Overtime Sign Up Form how many hours of overtime they currently
+            have for that month. Any staff member can place their name and number of
+            hours of overtime worked for the month, on the next slot below the original staff
+            member‘s name, if done at least twenty four (24) hours prior to the beginning of
+            the scheduled overtime.
+
+      d.    If more than one person signs up for the overtime with the same number of
+            recorded hours of overtime for the month, a lottery draw will be initiated between
+            the staff members tied for the least amount of overtime for the month.
+
+      e.    Staff working at least two (2) hours of voluntary overtime may elect to have their
+            name moved to the bottom of the bucket list; this must be done at the time they
+            work the voluntary overtime.
+
+      f.    It is the employee’s responsibility to contact the OIC within the twenty four (24)
+            hour period prior to the start of the scheduled overtime to verify they are still
+            needed for overtime.
+
+      g.    If scheduled overtime is not filled, it will be handled as unscheduled overtime.
+
+      h.    Cancellation: Scheduled overtime may be cancelled by the Institution with a
+            minimum of twenty four (24) hour notice to the employee. Acceptable notice will
+            include message phone numbers and employee answering machines. It is the
+            employee’s responsibility to contact the OIC within twenty four (24) hour period
+            prior to the start of the scheduled overtime to verify they are still needed for
+            overtime.
+
+      i.    If, for some reason, the person who is awarded the scheduled overtime is unable
+            to perform the scheduled overtime, at that time scheduled overtime will be
+            treated as unscheduled overtime.
+
+
+
+                                         88                                  Collective Bargaining Agreement
+(c)   Mandatory Overtime (Bucket List):
+      a.   The bucket list is intended to be a fair way of allocating mandatory overtime
+           among Correctional Officers and Sergeants in the event that no staff member
+           volunteers as described above for overtime.
+
+      b.    The shift Lieutenant shall be responsible for maintaining the bucket list daily for
+            their assigned shift.
+
+      c.    The bucket list for each shift will be created every six (6) months at shift change.
+            The initial order of the list will be by shift position number from lowest to highest.
+            If a new person is added to the shift after the list has been created, that person
+            will be added to the bottom of the current list. If a person was inadvertently left
+            off the bucket list, they will go to the top of the bucket list effective the day of the
+            discovery. Staff on variable assignment will be given the option of whether or not
+            to have their name placed on the bucket list. However, their choice will be in
+            effect for the entire bid cycle.
+
+      d.    The bucket list shall reflect, on a daily basis for each shift, who shall be assigned
+            mandatory overtime. The top name on the bucket list for each shift will be the
+            staff member in the bucket list for that day on their shift. However, if the person
+            whose name is at the top of the bucket list is not scheduled to work the next day
+            (i.e. regular day off, approved leave, time trade etc.) or if placement in the bucket
+            and subsequent assignment of overtime would cause the person to work three
+            (3) successive shifts, that person’s name will be skipped and the next name on
+            the list will be considered in the same manner. If a person’s name is skipped,
+            their name will be reconsidered each day until they fulfill their obligation for
+            assignment for the bucket list. The first person who is named as being in the
+            bucket for the shift will have their name moved to the bottom of the list. If other
+            staff volunteer to work at least two (2) hours overtime, thereby saving a staff
+            member from being immediately bucketed, they will have the option of also
+            moving their name to the bottom of the bucket list by notifying the OIC by the
+            completion of their overtime.
+
+      e.    The OIC will, by the same method, determine who else will be required to work if
+            more staff is needed to fill required posts.
+
+      f.    If, during the assignment of mandatory overtime, the OIC is unable to fill a
+            vacant position through voluntary means by staff on shift, and the person
+            assigned mandatory overtime is successful in getting an off duty staff person to
+            fill the overtime, they will have fulfilled their bucket obligations and then be
+            placed a the bottom of the bucket list. When the first bucket person has been
+            utilized, either by having to work mandatory overtime or having found a staff
+            member to cover their overtime, reasonable attempts will be made to inform the
+            next person on the bucket list that they are now in the bucket. If additional
+            bucket situations arise during the same shift, the next person on the list will be
+            notified and responsible to cover the mandatory overtime as outlined above and
+            will be placed at the bottom of the list at the end of their shift, regardless of time
+            left on shift.
+
+
+                                        89                                  Collective Bargaining Agreement
+      g.    Staff members shall not be placed on the bucket list on the last day of their
+            workweek (i.e. their Friday), except in an emergency, but may still volunteer.
+
+      h.    Staff who are working a shift as a result of a time trade do not take the regular
+            staff member’s place on the bucket list.
+
+      i.    If the OIC is unable to fill a mandatory overtime position, due to no staff on shift
+            being eligible per the conditions of this article of the agreement, the OIC will
+            review the amount of overtime for each person on shift and the person with the
+            least amount of overtime for the month, will be assigned the mandatory
+            overtime. If there is a tie for the least amount of overtime for the month, a
+            random drawing will be used for the selection. The exemption from this practice
+            will be if a person is working their Friday before a scheduled (block) bid vacation.
+
+(d)   Overtime Conditions and Restrictions:
+      a.    Staff working mandatory and voluntary overtime, may be expected to work the
+            entire duration of the announced overtime. The OIC and employee will take
+            reasonable steps to ensure that the employee does not exceed more than
+            sixteen (16) hour workday unless authorized by the OIC. Therefore, the OIC may
+            also release an employee from hours in excess of sixteen (16) hours once
+            staffing standards or shift coverage requirements are met as determined by the
+            OIC.
+
+      b.    Staff who are filling unscheduled overtime may make their own arrangements
+            with their peers to cover the second half of the shift. If a person volunteers for
+            the whole shift, the person will be dismissed as soon as no longer needed. If the
+            unscheduled overtime is split between two (2) staff, the person working the last
+            part of the shift may be allowed to work until the start of their regular scheduled
+            shift if their shift is consecutive to the overtime being worked.
+
+      c.    There may be occasions where staff is required to work more than sixteen (16)
+            continuous hours. However, OIC’s will take reasonable steps to limit mandatory
+            and voluntary overtime so that the employee will not exceed sixteen (16) hours
+            in a work day. Staff who work overtime either mandatory or voluntary are not
+            guaranteed to exceed a sixteen (16) hour work day.
+
+      d.    There may be occasions when due to operational necessity, the OIC may post
+            for volunteer overtime with less than twenty four (24) hours notice (i.e. staff
+            needed to come in at 5:30a.m. the following day for two (2) hours overtime on
+            shift 4 or when filling a vacancy). This language is to clarify that under section
+            3(Assignment of Overtime), subsection (b) Scheduled Overtime, (a)
+            Opportunities will be indicated on the weekly shift schedule when possible.
+
+      e.    The OIC may post for volunteer overtime to fill a vacancy with less than twenty
+            four (24) hour notice when the vacancy or operational need was not identified at
+            the time the weekly work schedule was posted.
+                                                                                        Rev: 2017, 2019
+
+
+
+
+                                       90                                Collective Bargaining Agreement
+                            Snake River Correctional Institution
+
+Section 1.
+Work Schedule Bidding. Each security staff member may submit their bid for a shift and days
+off work schedule following the posting of the work schedule by the Assistant Superintendent
+of Security or designee. Employees shall have ten (10) working days following the posting of
+the work schedule to make their bid selections. The employer will post the work schedule for
+bidding twenty-five (25) calendar days prior to the rotation date.
+
+Security staff may submit three (3) selections. Such selections must be submitted in priority
+order. Officers who have completed trial service may bid shifts and days off in order of
+seniority as defined in Section 8 of this Article. Employees who fail to successfully bid, or who
+do not apply for bid, will be assigned at the discretion of the Assistant Superintendent of
+Security or designee. Security staff hired in between bid periods will be assigned by the
+Assistant Superintendent of Security or designee.
+
+Security staff will bid every six (6) months for rotation effective the first (1st) Sunday of
+October and April.
+If an employee has completed trial service before the rotation date, the employee will be
+eligible to bid by seniority as defined in Section 8 of this Article.
+
+In the event staff members cannot bid for themselves, they may elect a proxy to place their bid
+for them. At the assigned bid time, the proxy must produce the official proxy form, signed by
+the person for whom they are bidding.
+
+Staff may choose to defer their bid in order to bid with another person. In that instance, both
+staff members will bid at the time assigned to the lower senior person of the two.
+Any staff member who misses their bid window will be afforded the opportunity to bid between
+the next available time slots after reporting to bid. However, they will not be allowed to bump
+another staff member from a posted bid. No bids will be accepted after the last time slot
+available to bid.
+
+All bids are final, staff will be expected to work the shift and day off schedule they have
+selected.
+
+At the conclusion of the workday, bids will be posted outside the Staff Deployment Office
+throughout the bid process in order to ensure staff will have the most current information
+available for placing their bid. An electronic copy will also be made available to the Union
+designee so that it can be posted on the computer system.
+
+Section 2. Critical Incident Trauma Management Assignments.
+If an assignment becomes available, the institution will post the opportunity for no less than
+five (5) calendar days. The agency will determine the method of selection and determine the
+individuals to fill the assignment.
+
+Section 3. Fire Crew Assignments.
+a.    Crew members assigned during the prior fire season will be assigned to work a
+      subsequent new fire season except when:
+      1.     staffing requirements are substantially different from the prior fire season;
+
+                                         91                               Collective Bargaining Agreement
+      2.     budgeted funds are not available;
+
+      3.     the employee separates from the SRCI Security local or Agency service;
+
+      4.     where the employee has identified performance deficiencies/misconduct;
+
+      5.     the employee chooses not to work the fire assignment;
+
+      6.     the employee is unable to carry out assigned responsibility due to an injury or
+             unable to pass the pre-seasonal “Pack Test”;
+
+      7.     employees returning from approved leaves (Military/FMLA/OFLA) will be
+             reviewed on a case-by-case basis by Management to determine eligibility for the
+             current season. Once these employees are identified to work fire assignments,
+             the Parties will determine the distribution of the fire assignments and review the
+             training/testing requirements.
+
+      8.     Employees with approved time trades pending during a deployment both Parties
+             must agree to change the trade dates or cancel the trade. If the employee fails
+             to rectify pending time trade agreements within one (1) hours of being contacted
+             about a fire crew assignment they will forfeit their turn to be deployed and will be
+             moved to the bottom of the list.
+
+b.    Filling Assignment Opportunities. When there is a need to assign new or different staff,
+      the Agency will publicize the assignment opportunity and distribute an email to all SRCI
+      represented employees (via the DOC email system), notifying them of the opening(s).
+      Postings will be for a minimum of ten (10) calendar days in order to give employees an
+      opportunity to apply for the vacant position(s). After consulting with the Union, the
+      Agency will determine the examination process to follow and select the employees for
+      the assignments. If an employee is a candidate for the fire crew, and the interviews
+      include examination questions regarding Agency policies, the Agency will list the
+      policies, procedures and rules that may be covered in the interview.
+      Fire Crew candidates that are not currently fire crew assigned but possess the training
+      required by ODF will be included in the selection process.
+
+Section 4. Distribution of Mandatory and Voluntary Overtime.
+
+The Mandatory Overtime (Bucket) List
+1.   A mandatory overtime (bucket) list will be created to include all represented employees
+     with the exception of those employees exempt from overtime. Beginning at the next
+     rotation following ratification of the 2021 – 2023 contract, the mandatory overtime
+     (bucket) list will start with a drawing to select a new letter in the alphabet and continue
+     alphabetically from that point.
+
+2.    The Employer shall create three (3) separate Mandatory Overtime (Bucket) Lists,
+      following each semi-annual bid rotation. These separate lists shall be maintained by
+      the basic shifts. The lists that will be created are:
+      a.     First Shift - Includes all shifts beginning after 10:00 PM each day and ending by
+             9:00 AM the following day.
+
+                                        92                                Collective Bargaining Agreement
+     b.     Second Shift – Includes all shifts beginning after 5:00 AM and ending prior to
+            6:00 PM.
+
+     c.     Third Shift – Includes all shifts beginning after 10:00 AM and ending prior to 1:00
+            AM.
+
+3.   Employee’s names will appear on the Mandatory Overtime (Bucket) List in alphabetical
+     order with each letter further prioritized or ordered based on the least number of bucket
+     credits first.
+     a.     Employees added to the Mandatory Overtime (Bucket) List during the rotation
+            period shall have their names added to the computerized list in alphabetical
+            order.
+
+4.   The Mandatory Overtime (Bucket) List will be updated each shift by the Officer-in-
+     Charge (OIC) (Lieutenant or Working Out of Class Lieutenant). Two (2) lists shall be
+     maintained. The OIC (Lieutenant or Working Out of Class Lieutenant) shall maintain
+     the primary list in the OIC’s (Lieutenant or Working Out of Class Lieutenant) office. The
+     primary list will be used to settle any and all disputes. A secondary list for informational
+     purposes only shall be posted electronically on the briefing, which may be accessed
+     from any computer.
+
+5.   For each shift the OIC (Lieutenant or Working Out of Class Lieutenant) shall publish,
+     via the electronic shift briefing and “Sally port’ Information portal, the top three (3)
+     Sergeants/Corporals and the top fifteen (15) Correctional Officers who will be on the
+     Mandatory Overtime (Bucket) List for that shift.
+     a.     Corporals and Sergeants will be considered one (1) classification for the
+            purposes of filling vacancies using the Voluntary Overtime and Mandatory
+            Overtime (Bucket) List.
+
+6.   An employee shall receive credit (date placed by their name) on the Mandatory
+     Overtime (Bucket) List as follows:
+      a.   Being assigned by the OIC (Lieutenant or Working Out of Class Lieutenant) to
+           work any part of the following shift on mandatory overtime.
+
+     b.     Being relieved late on post that results in the employee being paid overtime.
+
+     c.     Being listed as number one (1) on the Mandatory Overtime (Bucket) List for the
+            day regardless if you worked overtime the following shift or not.
+
+     d.     Having an OIC assign mandatory overtime to an employee and then later
+            releasing them regardless of whether they end up working overtime or not.
+             i.    The only employee who shall receive credit for being number one (1) on
+                   the Mandatory Overtime (Bucket) List and not working overtime is the
+                   person in the number one (1) spot at the beginning of the shift and
+                   completes their regular shift and was not required to work mandatory
+                   overtime.
+
+
+
+
+                                       93                                 Collective Bargaining Agreement
+     e.    Being assigned Voluntary Overtime when signed up on the Voluntary On-shift
+           Overtime list and being one of the top three (3) Sergeants/Corporals or top
+           fifteen (15) Correctional Officers on the Mandatory Overtime (Bucket) List.
+
+     f.    An employee whose name reaches number one (1) on the computerized
+           mandatory overtime list, they will be considered to have caught up and not be
+           required to make up missed overtime obligations under the following conditions:
+           a.     An employee returns from pre-approved leave (excluding time trades) that
+                  is fifteen (15) calendar days or more, or
+
+           b.    Any management initiated actions excluding flex assignments that are
+                 fifteen (15) calendar days or more.
+
+           c.    Any changes in working classification that is fifteen (15) days or more
+                 such as Job Rotation or Work Out of Classification.
+
+7.   Exemptions from Mandatory Overtime (Bucket) List:
+     a.   Employees who are on Modified or Light Duty are not permitted to work overtime
+          are therefore exempted from being placed on the Mandatory Overtime (Bucket)
+          List.
+
+     b.    Employees once cleared for full duty shall have their name placed back on the
+           mandatory overtime list.
+
+     c.     Employee’s who are scheduled to attend agency training or other approved
+            training, are exempt from being on the Mandatory Overtime (Bucket) List when
+            doing so would not allow the employee to have eight (8) consecutive hours off
+            duty prior to the training.
+           i.      This applies only for the day or days attending training.
+
+     d.    Employees shall not be placed on the Mandatory Overtime (Bucket) List on any
+           day preceding their scheduled days off (their “Friday”) or the day before a
+           scheduled bid vacation period or a previously approved vacation/bereavement
+           day off.
+
+     e.    Employees shall not be placed on the Mandatory Overtime (Bucket) List on any
+           day preceding a full eight (8) hour scheduled sick leave/bereavement day that
+           has been previously requested and approved by Staff Deployment.
+
+     f.     Employee Time Trades:
+           i.    Employees who are scheduled to work a time trade on the following shift
+                 or a shift on the following day will be exempt from the Mandatory
+                 Overtime (Bucket) List.
+
+          ii.    Employees shall not be placed on the Mandatory Overtime (Bucket) List if
+                 working mandatory overtime prevents the employee from having less than
+                 eight (8) consecutive hours of time off duty before their next scheduled
+                 shift or working an approved traded shift.
+
+
+                                    94                              Collective Bargaining Agreement
+            iii.     Employees can be placed on mandatory overtime on a day preceding a
+                     “trade day off”.
+
+8.     Employees will be required to work mandatory overtime when assigned.
+
+9.     If a mandatory overtime position is no longer needed during a shift, the last staff
+       mandatoried (bucketed) will be the first offered to be relieved.
+
+10.    Officers will not be used to fill a Corporal or Sergeant position when Officers are being
+       placed on mandatory overtime in their own classification. If this happens, a Corporal or
+       a Sergeant will be assigned to fill the position with mandatory overtime.
+
+11.    Corporals or Sergeants will not be used to fill Officer positions when Corporals or
+       Sergeants are being placed on mandatory overtime in their own classification. If this
+       happens, an Officer will be assigned to fill the position with mandatory overtime.
+
+On-Shift Voluntary Overtime
+The intent of this section is to distribute overtime in a consistent and equitable manner.
+
+A Voluntary Overtime list, one (1) for each shift, will be created by ISDS to include all
+represented employees (with the exception of those employees exempt from overtime) at the
+beginning of each rotation. Employees added to the Voluntary Overtime List during the
+rotation period shall have their names added to the computerized list.
+       1.     The Officer-In-Charge (OIC) (Lieutenant/Working Out of Class Lieutenant) shall
+              post Voluntary Overtime Sign-up sheets seven (7) days in advance. These
+              sheets will be consistent with the documents currently in use for roster
+              management. These rosters will generally be available at major shift change
+              times. If the OIC (Lieutenant/Working Out of Class Lieutenant) is unavailable,
+              then the employee will have to wait to sign up. Employees can only sign
+              themselves up on the On Shift Voluntary Overtime List and are not allowed to
+              sign up other employee names.
+
+       2.     If an employee volunteers and is offered overtime and refuses, the employee will
+              be credited as if the employee had worked the overtime.
+
+       3.     In preparing the following shift’s roster, the OIC (Lieutenant/Working Out of
+              Class Lieutenant) will know how many positions will need to be filled with
+              overtime and then generate a list of available overtime positions. At the time of
+              an overtime offer, the OIC will offer all available overtime posts to each staff
+              member in successive order of the Voluntary Overtime List for which the
+              employee is qualified to work.
+
+       4.     Using the Voluntary Overtime List. The OIC (Lieutenant/Working Out of Class
+              Lieutenant) shall offer overtime to the staff on the Voluntary Overtime list in
+              alphabetical order, in the same order as the Mandatory Overtime (Bucket) List
+              for that day. Employees having the least credits on the Voluntary Overtime List
+              will first (1st) be offered the overtime.
+
+
+
+                                         95                                Collective Bargaining Agreement
+5.    The OIC (Lieutenant/Working Out of Class Lieutenant) shall prepare the next
+      shifts roster at their convenience based on their workload and time available. If
+      the OIC (Lieutenant/Working Out of Class Lieutenant) offers an employee on the
+      Voluntary List an overtime position and they accept or decline it, and another
+      position becomes available later, the initial overtime assignment or rejection
+      stands An employee will not be moved from a post assignment solely for the
+      purpose of making an overtime assignment more desirable.
+
+6.    The OIC (Lieutenant/Working Out of Class Lieutenant) shall continue down the
+       voluntary list alphabetically by least number of credits first until the list is
+       exhausted.
+
+7.    The OIC (Lieutenant/Working Out of Class Lieutenant) will then have an All Call
+      announcement made, announcing overtime positions are available.
+
+8.    After exhausting the Voluntary Overtime List and conducting the Institution “All
+      Call” for the vacant positions, the OIC (Lieutenant/Working Out of Class
+      Lieutenant) shall resort to the Mandatory Overtime (Bucket) List to fill the
+      positions needed.
+
+9.    Any Employees working overtime who are called from home OR who agree to
+      work a split, will not be credited on the Voluntary Overtime List.
+
+10.   Out-Of-Classification Overtime Assignments:
+      a.     Once the Corporal/Sergeant On Shift Voluntary Overtime List has been
+             exhausted and an “All-Call” has been made announcing the
+             Corporal/Sergeant          overtime      position available, the   vacant
+             Corporal/Sergeant position can be offered to the next Correctional Officer
+             on the On Shift Voluntary Overtime List as long as the OIC
+             (Lieutenant/Working Out of Class Lieutenant) determines that the Officer
+             is qualified to fulfill the duties of that post.
+
+      b.     Officers will not be used to fill a Corporal or Sergeant position when
+             officers are being placed on mandatory overtime in their own
+             classification. If this happens, a Corporal or a Sergeant will be assigned
+             to fill the position with mandatory overtime.
+      c.     Corporals and Sergeants can be used to fill vacant officer positions on
+             overtime prior to using the Officer Mandatory Overtime (Bucket) List, as
+             long as the Officer’s On Shift Voluntary List has been exhausted.
+
+11.   Employee Agreed Upon “Split Shifts” – An employee who successfully obtains
+      an overtime assignment as a result of this Agreement can agree with another
+      employee to split part of that shift. The other employee must be able to fulfill the
+      duties of that post and must be otherwise available to work in an overtime
+      capacity (not light/modified duty).
+
+12.   All mandatory and voluntary overtime is subject to cancellation at any time by
+      the OIC (Lieutenant/Working Out of Class Lieutenant), based on institution need
+      and in the interests of budgetary constraints. If the need for overtime no longer
+
+                                 96                                Collective Bargaining Agreement
+            exists, the order in which employees are sent home will be the reverse order in
+            which they overtime was hired (i.e. bucketed employees, then voluntary overtime
+            employees in order of last hired, first sent home). The only exception to this is if
+            the OIC (Lieutenant/Working Out of Class Lieutenant) tells the employee, “You
+            are hired for eight (8) hours (or some other specified length of time.)” Then the
+            employee will work for that amount of time and they are paid according to Article
+            15 for time worked. Without the OIC (Lieutenant/Working Out of Class
+            Lieutenant) stating “A full shift” or “eight (8) hours” (or some other specified
+            time), the overtime is subject to cancellation. This includes employees who
+            volunteer to come in from home on voluntary overtime.
+
+      13.   Employees who are required to provide certification for an attending physician to
+            support the employee’s claim for sick leave under Article 33, Section 6, will not
+            be eligible to volunteer for overtime during the time frame they are required to
+            provide such certification.
+
+      14.   Escorted Adult in Custody transports and hospital watches are exempt from
+            voluntary overtime credits. Overtime will not generally be used to fill actual
+            hospital watches. Staff shall be reassigned to the Hospital watch by the OIC
+            (Lieutenant/Working Out of Class Lieutenant) and the vacant position created
+            from this reassignment shall be filled using the above agreed upon language.
+            a.     Ongoing hospital watches shall be considered voluntary assignments
+                   unless an emergency exists (i.e. unscheduled medical need).
+
+            b.     In the event that no volunteers want to accept an assignment for hospital
+                   watch, the OIC will assign an employee to work.
+
+      15.   It is the responsibility of the employee who signs up for voluntary overtime to
+            check with the OIC (Lieutenant/Working Out of Class Lieutenant) before they
+            leave their shift to ask questions and to review the Mandatory Lists and On Shift
+            Voluntary Overtime lists as needed.
+
+      16.   If an employee reports an error in the assignment of voluntary overtime within
+            three (3) working days for the employee, the Institution will review the matter and
+            verify if an error has occurred. The Institution will then work with the employee
+            to find another overtime opportunity within twenty-one (21) calendar days from
+            the date of the verification of the error. The Institution will not correct any errors
+            if the employee has not reported any verifiable error within three (3) working
+            days for the employee and shall not be eligible for any overtime pay.
+
+      17.   Meals During Overtime: Employees working four (4) hours or more beyond the
+            employee’s regular shift will receive a meal or coffee ticket of up to two ($2.00)
+            dollar value. Only one (1) employee is entitled to a meal or coffee ticket when
+            two (2) or more staff split an overtime shift.
+
+Section 5. Time Trades
+Trial Service employees are restricted from time trades for their first six (6) months of
+employment. Emergent issues may be considered on a case by case basis by working with
+the Institution Security Management to secure the time off.
+
+                                        97                                 Collective Bargaining Agreement
+Section 6. Hospital Watch Meals
+When a SRCI Security employee is assigned to perform in and out of state hospital watch
+duties, the employee shall be reimbursed by the institution for the cost of a meal purchased by
+the employee not to exceed eight ($8.00) dollars.
+
+Section 7. Time Off Requests
+ISDS will respond no later than ten (10) days prior to the requested leave time period starting,
+provided the employee submits the request fourteen (14) days in advance.
+                                                                                     Rev: 2017, 2019, 2021
+
+
+                                              Transport
+
+Section 1
+a.    Duty Station. The Transport Unit maintains offices throughout the State of Oregon.
+      The employee’s assigned office will be determined at the time of hire.
+
+b.    Overnight Travel. For the purpose of escorting Adults in Custody to and from the state
+      of Oregon the agency will first seek volunteers using the out-of-state list. If no
+      employee volunteers the employee at the top of the out-of-state list will be assigned the
+      trip. Assigned staff may be flexed to accommodate flight schedules.
+
+      When assigned duties requiring overnight travel, there will be no out of pocket
+      expenses incurred by employees. Covered expenses will be in accordance with the
+      Department of Administrative Services travel policy and distributed by cash advance.
+      Unforeseen covered expenses will be processed for reimbursement at the completion
+      of the duty assignment.
+
+      If return travel plans are delayed due to circumstances beyond the control of the
+      agency, the employee will be considered on-call. There will be an eight (8) hour break
+      between the end of one (1) day and the beginning of the next workday except in
+      emergencies, or unforeseen circumstances. This will be in accordance with the
+      restrictions of Article 19 of this collective bargaining agreement. The employee has the
+      option of receiving compensatory time equal to their regularly scheduled shift in lieu of
+      the on-call pay.
+
+c.    Schedule Bidding. Due to variable start times and operational needs of the separate
+      offices, each office retains the right to operate with or without a bid system. Employees
+      assigned to Transportation can bid their regular start time and days off in order of
+      seniority. Seniority, for the purpose of bidding will be calculated by time in classification
+      according to Article 25, Section 8 (Seniority) of the Agreement except for Transport Unit
+      employees hired before October 1, 2015 shall maintain their current seniority time. The
+      Agency will post start time and day off schedules thirty (30) calendar days before the
+      rotation date. Employees will have ten (10) working days following the posting of the
+      work schedules to submit their bids. Selections will be submitted in priority order.
+      Employees who do not submit a bid will be assigned by the agency.
+
+      Schedule bidding and rotations will occur every six (6) months effective on the first
+      Sunday in July and January.
+
+
+                                         98                                 Collective Bargaining Agreement
+Section 2.
+a.    Flexible Work Schedule. Staff may work a flexible work schedule. A flexible work
+      schedule is a work schedule which may vary the start and stop times up to two (2)
+      hours on a daily basis, and four (4) hours for night armed post qualification, but does
+      not exceed the number of total normal duty hours previously scheduled for that day.
+
+      Employees assigned long distance transports will be permitted to eat their meal while
+      on duty; time will count as time worked. There will be an eight (8)-hour break between
+      the end of one (1) day and the beginning of the next work day except in emergencies,
+      or unforeseen circumstances while on out-of-state trips, or when requested by the
+      employee and where safety and security is not compromised.
+
+b.    Overtime Meals. Employees that work four (4) hours of overtime beyond their regularly
+      scheduled shift will receive reimbursement for a meal at the per diem rate set by the
+      Department of Administrative Services.
+
+c.    Schedules.
+      1.   All Transportation Unit staff will be scheduled for four (4) shifts of ten (10) hours.
+           The scheduled workweek will consist of four (4) shifts with ten (10) hours and
+           three (3) consecutive days off. If management determines there is an
+           operational need for a different schedule, then Article 25, Section 9, will be
+           followed.
+
+      2.     For schedule changes initiated by management which require an employee to
+             arrive earlier than their regularly scheduled start time, the employee will be
+             eligible for Early Start Time Premium Pay (ETPP). If an employee works part of
+             the shift and uses paid leave to account for the balance of the shift, the
+             employee will be eligible for Early Start Time Premium Pay (ETPP) if the
+             employee is called in early the next day to work.
+
+      3.     Early Start Time Premium Pay shall be at time and one half (1/2) of the
+             employee’s straight time pay rate.
+
+      4.     Employees receiving Early Start Time Premium Pay (ETPP) shall not be eligible
+             for Call Back Pay (Article 17), ISD Differential (Article 16:3) or Turnaround Pay
+             (Article 15:3).
+
+Section 3.
+The purpose of this Section is to provide assistance to institutions with hospital watches, as
+the Transportation Unit’s workload permits. It is not the intent of this Agreement to provide the
+institutions with additional post relief. The Transportation Manager and/or Transport Office
+Lieutenant will coordinate the staff assignment with either the Institution Security Manager or
+the Shift Officer or the Shift Officer-in-Charge to facilitate the working assignments.
+
+When workload permits, Transportation Security staff will be assigned the duties and
+responsibilities of Adult in Custody hospital watch on second shift. This assignment will be
+based on areas of responsibility assigned to each of the regional Transportation offices within
+the State of Oregon.
+
+
+                                         99                               Collective Bargaining Agreement
+Assignment to a hospital watch will be accomplished by using the following protocol:
+     i.      General Operational Process
+            1.     This ISDS Coordinator will develop and maintain a list for the purpose of
+                   selecting and assigning staff to cover hospital watches.
+
+                 2.     The area of responsibility for the Salem office will be Salem and Portland
+                        Metro area hospitals. The area of responsibility for the Umatilla Office will
+                        be Hermiston, Umatilla, Pendleton and Southeast Washington. The area
+                        of responsibility for the Ontario Transport Office will be Ontario and
+                        Southwest Idaho.
+
+     ii.          Salem Office Operation Process
+                 1.    Monday-Friday (dayshifts): Transport will fill any straight time hospital
+                       watch positions that are still open and in need of staffing.
+
+                 2.     AFSCME staff on hospital watch will provide updates to the institution OIC
+                        on the disposition of the Adult in Custody and potential release time. The
+                        institution OIC will be responsible for any coordination necessary between
+                        these facilities that may result from these updates.
+
+                 3.     If there is need for a specialized vehicle, Transport will be notified and the
+                        Transport OIC will coordinate with the Institution OIC.
+
+                 4.     If overtime becomes necessary, it will be allocated to staff from where the
+                        Adult in Custody was last housed after all straight time hospital watch
+                        positions at both facilities have been utilized.
+
+                 5.     If mandated overtime is needed, the mandated overtime will be the
+                        responsibility of the facility from where the Adult in Custody was last
+                        housed.
+
+Section 4. Voluntary Overtime (all offices)
+1.    The Agency will continue its voluntary overtime list for each office for Monday or Friday
+      overtime. The list shall be monitored and maintained by the Transport Unit Lieutenant.
+
+2.         It is the responsibility of the staff member to request to be placed on the overtime list.
+           Staff members can remove or add their name to the list at their discretion. If a staff
+           member does not ask to have his name placed on the overtime list, the Agency will not
+           contact him except in case of an emergency.
+
+3.         If an employee declines or the employee works an overtime opportunity, their name will
+           be placed at the bottom of the list.
+
+4.         If the staff member has scheduled time off, it is the employee’s responsibility to remove
+           their name from the list if they do not want to be contacted.
+
+5.         If there is a medical trip opportunity on Monday or Friday, the Transport Unit shall: 1)
+           contact Transport Unit employees on the list who have volunteered to work voluntary
+           overtime on Monday or Friday; 2) If there are no volunteers from the Transport Unit, the
+
+                                            100                                Collective Bargaining Agreement
+      Transport Unit will contact the Institution where the medical trip is originating to arrange
+      staffing to cover the medical trip assignment.
+
+Section 5. Northwest Shuttle Assignment Process
+1.    A list of qualified and interested employees will be maintained by the Transport
+      Lieutenant.
+
+2.    Employees will be assigned from the NW Shuttle list in order and once assigned will
+      rotate to the bottom of the list.
+                                                                                            Rev: 2017,2021
+
+
+                            Two Rivers Correctional Institution
+
+Bidding Process.
+1.    Each security staff member who has completed trial service may bid shifts, and days off
+      in order of seniority. Shift/Days off bidding will allow employees to designate their
+      assignment and employees will not be moved from their chosen line on the bid without
+      valid cause. Seniority is defined in Section 8 of this Article. Employees whose trial
+      service will be completed prior to the effective date of the shift and days off change
+      shall be allowed to participate in the bidding process. Employees who fail to
+      successfully bid or who do not apply to bid, will be assigned at the discretion of the
+      institution’s management.
+
+2.    Security staff that retire between bid cycles will retain their bid assignment for the
+      duration of that bid if they continue working as a retiree temporary employee up to one
+      thousand and thirty-nine (1,039) hours. Staff who have continued as a retiree
+      temporary employee will not be able to bid should a bid cycle change occur after
+      transitioning to that status. Retiree temporary employees may select from the available
+      shifts, days off and posts that remain unbid.
+
+DSU Bidding Process:
+     1.     Approximately, but no less than thirty (30) calendar days prior to the normally
+            scheduled bid process, TRCI management will solicit letters of interest from all
+            security staff that have an interest in working in DSU. All letters of interest must
+            be received prior to the announced closing date. The Letters will be reviewed by
+            the Special Housing Manager, and security staff members (equal to the number
+            of positions) will be offered a position in DSU.
+
+      2.     Returning DSU Staff: Approximately, but no less than seven (7) calendar days
+             prior to the institution bid process, returning DSU staff members will bid shift and
+             days off for all positions to be filled in DSU using seniority as defined in Article
+             25. If the security staff member accepts the result of their bid, they will voluntarily
+             forego the normal institution scheduled bid process.
+
+      3.     New DSU Staff: Immediately after the internal DSU bid process has concluded,
+             Management will assign all new DSU staff members to the remaining open shift
+             and days off positions in DSU. If the security staff member accepts the
+             assignment, they will voluntarily forego the normal institution scheduled bid
+             process. If the employee who has been assigned to DSU chooses not to accept
+
+                                        101                                 Collective Bargaining Agreement
+              their assignment and another employee is selected for the DSU assignment,
+              there shall not be an Institution wide rebid. However, the vacant assignment
+              shall be filled under the conditions outlined for the midshift rotation bid process.
+
+       4.     If the new DSU security staff member declines the DSU assignment offered,
+              they will then be allowed to proceed with the normal bid process utilizing their
+              seniority.
+
+       5.     Those Security staff who request to be assigned to DSU will be required to bid
+              out of DSU after working two (2) years consecutively for one (1) bid rotation
+              before requesting to work in DSU again.
+
+       6.     If the security staff member is removed from segregation, management will
+              attempt to maintain the employee on the same shift and days off until the next
+              normal scheduled bid.
+
+In DSU, trial service staff will not be available for cell extraction teams. When trial service staff
+are assigned to DSU, every effort will be made to partner them to a permanent DSU staff.
+
+At least fourteen (14) days prior to shift and vacation bids, management and the union will
+meet to review the process, give comment and help alleviate any foreseeable problems to the
+bid through dialogue that arises. At this meeting the Institution will provide bid sheets, post
+lists, bid times, call in number and seniority list. If there are any changes to these documents
+from the last bid the Institution will highlight those changes. The Institution will continue to
+authorize the local Union President or designee to attend and monitor the bid. The bid
+processes shall be done through a mutual consultation of management and the union with the
+knowledge that management maintains all of its rights of Article 10 pertaining to this process.
+
+If an employee is on shift during their bid time, management will make arrangements to have
+that employee relieved so they may participate in the bid process and hold the bid until that
+employee has placed a bid.
+
+Bids will address only shifts and days off. Bidding will occur every six (6) months, becoming
+effective on the first Sunday of April and October.
+        a.     For shifts and days off assignments that are identified to a specific post an
+               employee cannot use seniority to secure that assignment for more than two (2)
+               consecutive bids. Management will rotate the schedule at least every year to
+               help staff achieve this, with the exception of Visiting Staff, Gatehouse, and Work
+               Crew Supervisors.
+
+       b.     Institution management will make the specific daily work schedules and may
+              only remove or deny an employee from a work schedule for valid cause.
+
+       c.     Trial Service employees will not be assigned to a single medical trip/hospital
+              watch or armed hospital watch.
+
+       d.     For purpose of filling a vacant assignment the Institution will announce the
+              opening to all qualified staff via email as soon as possible with a copy going to
+              the president and vice president. Staff must submit a hardcopy memo of interest
+
+                                          102                                Collective Bargaining Agreement
+            or otherwise a reply email will be considered sufficient documentation to be
+            considered for that assignment. Once the Institution fills the original vacant
+            assignment, there will be no more than two (2) subsequent changes to
+            assignments. An announcement is only required during the first four (4) months
+            after a regular bid. The employee with the most seniority in class shall be
+            selected for the position.
+
+Mandatory Overtime
+a.   The mandatory overtime list is kept electronically and maintained by the officer in
+     charge (O.I.C.) and will be accessible for viewing by all employees.
+
+b.    The mandatory overtime list will be updated at the end of each shift by the O.I.C. for all
+      individuals who have either worked any time as mandatory overtime, or a qualifying
+      voluntary overtime of at least four (4) hours. Each OIC will place their initials next to
+      the staff name as they are moved from the bucket list.
+
+c.    An individual must work a minimum of twenty (20) minutes mandatory overtime to be
+      moved on the mandatory overtime list.
+
+d.    Employees on the mandatory overtime list will be moved in the following priority:
+      1.   An employee who was placed “In the Bucket”, or next on the list for mandatory
+           overtime, but did not work will go at the top of the mandatory overtime list, for
+           that shift, and that day.
+
+      2.    An employee who has worked qualifying voluntary overtime of at least four (4)
+            hours will be placed directly below the individual “In the Bucket”, in the order that
+            they were hired.
+
+      3.    An employee who was “bucketed”, or forced into mandatory overtime will be
+            placed directly below the voluntary overtime(s) hired in the order they were
+            forced into overtime.
+
+e.    All employees required to work mandatory overtime will be released before any
+      employees volunteering for overtime are released.
+
+f.    Mandatory overtime will be released in the reverse order that they were hired (i.e., last
+      one hired, first one released).
+
+g.    An employee is exempt from the mandatory overtime list for that day if one of the
+      following conditions exist:
+      1.     It is the employee’s day prior to his regular days off (RDO’s)
+
+      2.    It is the employee’s day prior to scheduled leave
+
+      3.    It is the employee’s day prior to a scheduled time-trade day off.
+
+      4.    An employee, upon the first day of work after a scheduled bid vacation or
+            scheduled bid vacation in conjunction with Time Trades, will be exempt from the
+            mandatory overtime list (bucket list).
+
+                                       103                                Collective Bargaining Agreement
+h.     If an employee locates a volunteer that agrees to replace them on mandatory overtime,
+       then both employees will be moved on the mandatory overtime list. In no event shall
+       the agency attempt to utilize an employee more than once during the shift for
+       mandatory overtime, nor place an employee “in the bucket” more than once during the
+       shift.
+
+i.     An employee who works first shift mandatory overtime will be credited for the date on
+       the mandatory overtime list that the overtime ended on.
+
+j.     If an employee completes a minimum of four hours voluntary overtime prior to the
+       beginning of the employee’s assigned shift, they will be moved to the bottom of the
+       mandatory overtime list.
+
+k.     At shift rotation, the mandatory overtime list for each shift will be reordered by the date
+       of the last overtime worked.
+
+l.     Employees on an assigned hospital watch during swing or graveyard shift may be
+       mandated and placed in the bucket.
+
+Voluntary Overtime
+a.    Step one of the voluntary overtime hiring process will be first come-first serve sign up
+      process, thirty (30) minutes* in advance of each shift. All available assignments
+      including all positions filled by Flex staff shift relief, will be offered to staff in order they
+      sign up without consideration of rank. Flex staff may be moved from their assignment
+      to meet Institution operating needs. Staff will have the option to accept or decline.
+
+       *Staff may begin to sign up on the quarter sheet ‘tickler list’ for voluntary overtime
+       beginning thirty (30) minutes prior to each shift except for the second shift where
+       voluntary overtime sign up begins at 5:30 am for all staff including those who work
+       irregular shifts. Staff will be allowed to sign up in the order in which they arrive or call at
+       the location of staff check in. Staff may sign up in person or by calling from an
+       Institution telephone on Institution grounds.
+
+b.     Step two of the voluntary overtime hiring process will be an all call to all staff on duty
+       announcing the availability of overtime. Staff who respond will be offered all available
+       assignments in the order the call is received until all overtime assignments are filled or
+       there is no more volunteers. Staff will have the option to accept or decline voluntary
+       overtime offered.
+
+c.     Step three of the voluntary overtime hiring process will use the volunteer overtime book
+       for all staff that are off duty and express a willingness to work overtime. Staff will be
+       called in order they signed up until all overtime assignments are filled or there are no
+       more volunteers. Staff will have the option to accept or decline voluntary overtime
+       offered.
+
+d.     If there are no volunteers, the Institution will use the following procedure to seek
+       volunteers to work voluntary overtime from Transport Unit and the EOCI:
+        i.    EOCI/Transport staff interested in working voluntary overtime at the Institution
+              will notify the on shift OIC by a telephone call of their availably to work
+
+                                           104                                 Collective Bargaining Agreement
+                  designated days and hours. The Institution shall log this information into a
+                  notebook separately from the Institution security staff voluntary overtime list
+                  located in the OIC’s office.
+
+            ii.   When voluntary overtime work is available, the Institution will contact
+                  EOCI/Transport security staff who have volunteered. The Institution will note
+                  each call made to the security staff employee made and the status of the
+                  employee response to the call.
+
+        iii.      EOCI/Transport security staff will not be able to trade or split the voluntary
+                  overtime work they have agreed to work.
+
+e.          If there remains no volunteers to work overtime, the Institution will use the mandatory
+            overtime process outlined in Article 25 of the Agreement.
+
+f.
+      i.          Notwithstanding any other provision of this Section, the Institution will establish a
+                  voluntary overtime sign up list for special events and known open overtime
+                  assignments two (2) weeks in advance. The list will be offered on a rotating
+                  schedule starting with first (1st) shift. Staff members on shift will be allowed to
+                  sign up for no more than one (1) of the available overtime opportunities. Upon
+                  completion of first (1st) shift, second (2nd) shift staff will be able to sign up for no
+                  more than one (1) overtime opportunities. Upon completion of second (2nd) shift,
+                  third (3rd) shift will be able to sign up for no more than one (1) overtime
+                  opportunities. Upon completion of third (3rd) shift, the entire list is opened to all
+                  staff members to sign up for the remainder of the opportunities. The next
+                  overtime sign up will begin on second (2nd) shift and rotate in the same manner
+                  as the aforementioned. Once all employees and shifts have had the opportunity
+                  to volunteer for an overtime opportunity to volunteer for one (1) overtime
+                  opportunities, an employee may return and volunteer for any remaining overtime
+                  opportunities. Staff must be working on the shift to sign up for overtime.
+
+     ii.          If an employee volunteers for an overtime opportunity and fails to report to work
+                  for that overtime work, the employee shall not be allowed to sign up for voluntary
+                  overtime for thirty (30) calendar days from the date of the incident in conjunction
+                  with the same two (2) week sign up list.
+
+     iii.         If an employee chooses to cancel the overtime, they shall do it prior to the
+                  scheduled overtime.
+
+     iv.          If the overtime is no longer needed, a manager shall call the employee listed
+                  phone number prior to the scheduled overtime.
+
+Hospital Watch Meals
+a.    DOC will work with hospitals or medical centers to make billing arrangements where an
+      employee who works an eight (8) hour shift will be eligible to receive one (1) dinner
+      meal not to exceed twelve dollars ($12.00).If there is no agreement between DOC and
+      a hospital or medical center and the employee works an eight (8) hour shift, the
+
+
+                                              105                                 Collective Bargaining Agreement
+      employee shall be reimbursed, by the Institution, for the cost of a meal purchased by
+      the employee not to exceed twelve dollars ($12.00).
+
+b.    Emergency Medical Trips: An employee who works at least one half (1/2) of their
+      regular shift shall be reimbursed, by the Institution, for the cost of a meal purchased by
+      the employee not to exceed twelve dollars ($12.00).
+
+Time Trades
+1.    This Subsection supplements the time trade language located in Article 25, Section 7 of
+      the State of Oregon/AFSCME Security Unit Agreement. If there is a conflict in the
+      language between Article 25, Section 7 and this Subsection, Article 25, Section 7 shall
+      prevail.
+
+2.    Security staff on initial trial service must have either satisfactorily complete the
+      DPSST/BCC Academy or six (6) calendar months of continuous state service to be
+      eligible to time trade with another employee.
+
+3.    The Institution will adjust shift rosters to accommodate time trades.
+
+4.    Time Trade Pilot: The Parties have agreed to pilot the following language for the 2023
+      – 2025 contract period, effective the date that Local Labor and management determine
+      after successful ratification of the TRCI Article 25. The pilot shall automatically cease
+      with the expiration of the CBA, unless the Parties mutually agree to modify or extend
+      the pilot. A reopener shall be conducted at the request of Local 974 at approximately
+      the one (1) year period of time to evaluate effectiveness and determine whether to
+      continue, modify or cease the pilot.
+
+      Time trades will not be regularly scheduled in a manner to circumvent mandatory
+      overtime. Examples include frequent or repetitive schedule modifications to 16/16/8,
+      which may constitute valid cause for Time Trade denial when used to circumvent
+      mandatory overtime.
+
+5.    Missed Trades: In the event a time trade is missed, the following will occur:
+            a.    First occurrence of a missed Time Trade management will discuss the
+                  situation with the employee who missed the Time Trade to determine if a
+                  verbal warning is appropriate.
+            b.    Second unmitigated occurrence in six (6) months will result in a one (1)
+                  month trade restriction.
+            c.    Third unmitigated occurrence within six (6) months will result in a six (6)
+                  month trade restriction.
+            d.    Parts, a, b, and c above do not limit management from appropriately
+                  assigning leave codes for missed trades or taking corrective action when
+                  necessary.
+                                                                              Rev: 2017,2019, 2021, 2023
+
+
+                            Warner Creek Correctional Facility
+
+Section 1. Bidding: Process.
+Employees who have completed initial trial service may bid shifts and days off in order of
+
+                                       106                                Collective Bargaining Agreement
+seniority as defined in Section 8 of this Article. Employees who fail to successfully bid, or who
+do not bid, will be assigned at the discretion of the Institution’s Security Management. Bids
+will address only shift and days off. Bidding will occur every six (6) months, becoming
+effective on the first Sunday of April and October. The Security Manager shall post work
+schedules thirty (30) calendar days before the rotation date. The mechanics of the bidding
+procedure shall be determined by the labor/management team. All bids must be in writing,
+signed by the biding employee, and numbered by preference, if placing more than one (1) bid.
+Employees may submit up to three (3) bids. The new schedule will be posted no less than
+seven (7) calendar days prior to the effective date.
+
+Effective April 2017 bid cycle, all Sergeant, Corporals and Officer schedules will bid every six
+(6) months.
+
+Section 2. Seniority.
+Shift and days off bidding will be in conformance with Section 8 of the Article. The following
+clarifications are as follows:
+        New Hires – Newly hired employees with the same date of hire will have their seniority
+        determined by lottery drawing with a Union representative present.
+
+      Transfers – When a staff member transfers into WCCF with the same date of hire as an
+      existing staff member, the existing staff member shall be granted the higher seniority
+      within the classification.
+
+      Promotional Hires – When newly promoted employees have the same promotional hire
+      date, their seniority shall be determined by total bargaining unit seniority. If the affected
+      employees have the same promotional hire date and the same total bargaining unit
+      seniority, the employee who will have higher seniority will be established by lottery
+      drawing (i.e., draw a number from a hat with a local union officer present).
+      Institution’s Security Management will make the specific daily work schedule and may
+      only remove or deny an employee from their bid or post for valid cause.
+
+      Security staff assigned to a Flex position may be assigned to various shifts and days off
+      in order to provide relief to other staff (i.e., general, compensatory time, training, sick
+      leave). When not assigned to relieve another staff member, the staff assigned to a Flex
+      position will be assigned to a shift and days off as determined by the Security Manger.
+
+      For the purpose of filling a permanently vacant assignment, the institution will announce
+      the opening to all Security staff. Staff must submit a memo of interest to the Institution
+      Security Manager to be considered for that assignment. If two (2) or more employees
+      are deemed to possess equal knowledge, skills and abilities, the employee with the
+      most seniority in class shall be selected for the position.
+
+Section 3. Assignment of Overtime.
+1. Unscheduled Overtime
+      At the time when mandatory overtime is required on a shift, a review of all shift
+      absences will be conducted, without consideration of which absence was created first,
+      to determine the proper assignment of overtime, starting with the Lieutenant position
+      and working down the chain of command. No represented staff member will cover an
+      absence created by a management service member, except out of class lieutenants.
+
+                                        107                                 Collective Bargaining Agreement
+      The person assigned as the “Bucket person” shall have the option of accepting the
+      overtime prior to unscheduled overtime being announced to all staff on duty, if the
+      overtime immediately follows their current shift. Refusing the overtime does not satisfy
+      the bucket obligation. However, accepting the overtime and working the overtime or
+      finding a staff member to share part of the shift does satisfy their bucket obligation. The
+      intent is to allow the Bucket person the first (1st) opportunity at overtime because they
+      are interested in working the overtime.
+
+      Otherwise, volunteers will be sought by contact with all staff on shift by announcement
+      over the radio followed by contacting volunteers on the volunteer list. Transport and
+      Work Crew Officers will need to notify the OIC at the beginning of their shift or before
+      they depart WFFC for their assigned duties if they are interested in any possible
+      overtime.
+
+      The Officer in Charge (OIC) asks on-duty staff for volunteers to cover the whole shift. If
+      two or more security staff are interested in the voluntary overtime it will be decided by a
+      lottery draw which will be conducted at least 10 minutes after the announcement of
+      overtime and in the presence of at least two (2) staff and one (1) security management
+      staff.
+      If no one volunteers for the overtime, and time permitting, the OIC calls at home those
+      staff members who previously indicated their wish to be contacted for voluntary
+      overtime by placing and maintaining their name on the voluntary overtime list
+      maintained by the OIC.
+
+      If still not covered, the OIC informs the staff member on the bucket list of the overtime
+      requirement.
+
+      The OIC will allow the staff member a brief opportunity to call peers to cover all or part
+      of the shift if requested by the staff member. In this instance, if the bucketed person is
+      successful in finding a replacement for all or part of the shift, their bucket obligation
+      shall be satisfied.
+
+2. Scheduled Overtime
+      Opportunities will be indicated on the weekly shift overtime schedule board when
+      deemed necessary (Posted in Security Admin). The ISDS Coordinator or OIC will
+      announce over the radio that “scheduled overtime has been posted”. The ISDS
+      Coordinator or Institution Security Management shall post it on rotating shifts each
+      week so different shifts have equal opportunity. The announcement and posting shall
+      happen at least thirty (30) minutes after the beginning of the shift. Any posting of
+      overtime, including additional overtime added after the initial posting, must allow for the
+      two (2)-hour sign up period and subsequent lottery draw for the designated shift or
+      otherwise not be added or posted until the next day on the appropriate shift.
+
+      Within the first two (2) hours of the announcement, all security staff interested in
+      overtime may sign up for as many of the posted shifts as they desire and work a one (1)
+      hour minimum for each shift they signed up for, or the overtime will be
+      reposted/announced over the radio if the staff cancels before the twenty-four (24) hour
+      cancelation notice. They must be qualified to work the desired shift (e.g. does not result
+      in more than a sixteen (16)-hour shift, does not conflict with previous trades). If two (2)
+
+                                        108                               Collective Bargaining Agreement
+      (or more) persons are interested in the same posted shift, a lottery draw will determine
+      the winner. If only one (1) person signs up for a posted shift during the first two (2)
+      hours, that person is awarded that overtime. Any posted overtime remaining unfilled
+      after two (2) hours may be filled on a first come, first served basis until filled.
+
+      It is the responsibility of the potential overtime recipient to be present and sign up in
+      person during the sign up period, with the exception of “on duty staff” that may be away
+      from the institution (e.g. on the transport, hospital watch, work crew). If “on duty staff”,
+      who are away from the institution express a desire for overtime to the OIC prior to their
+      departure, the OIC or his designee will make a legitimate effort to contact that
+      employee. The Management will not be burdened with contacting off duty staff about
+      scheduled overtime. The lottery draws will be conducted after the two (2)-hour sign up
+      period in the presence of the one (1) manager and two (2) represented staff. The
+      process will not interfere with the orderly operation of the shift as the intent is to allow all
+      on duty staff and/or staff present at the institution a fair opportunity to sign up and
+      receive overtime.
+
+      Availability of overtime opportunities may be included on the e-mail shift briefing.
+
+      If scheduled overtime is not filled in advance, it will be handled as unscheduled
+      overtime.
+
+      Cancellation: Scheduled overtime may be cancelled by the employer or employee with
+      a minimum of twenty-four (24)-hour notice to the employer or employee. Acceptable
+      notice will include message phone numbers, employee answering machines or contact
+      with the OIC.
+
+Bucket List:
+     The Bucket List is intended to be a fair way to allocate mandatory overtime among
+     Correctional Security Staff in the event that no staff member volunteers as described
+     above for overtime.
+
+      The OIC shall be responsible for maintaining the Bucket List daily for their assigned
+      shift.
+
+      The Bucket List for each shift will be created every six month at shift change. The initial
+      order of the list will be by shift position number from lowest to highest. If a new person
+      is added to the shift after the list has been created, that person will be added to the
+      bottom of the current list. Staff on flex assignment will be given the option of whether or
+      not to have their name placed on the bucket list; however, their choice will be in effect
+      for the entire bid cycle.
+
+      The Bucket List shall reflect on a daily basis, for each shift, who shall be assigned
+      mandatory overtime if the OIC is unable to find volunteers. The top name on the
+      Bucket List for each shift will be the staff member in the bucket for the day on their shift.
+      However, if the person whose name is at the top of the Bucket List is not scheduled to
+      work the next day (i.e. regular day off, approved leave, time trade, etc.) or if placement
+      in the bucket and subsequent assignment of overtime would cause a person to three
+      successive shifts or over 16 hours, that person’s name will be skipped and the next
+
+                                          109                                 Collective Bargaining Agreement
+      name on the list will be considered in the same manner. If a person’s name is skipped,
+      their name will be reconsidered each day until they are actually assigned to the bucket
+      for a shift. Only the person who is named as being in the bucket for the shift will have
+      their name moved automatically to the bottom of the list. If others are required to work
+      overtime, they will also have their names automatically moved to the bottom of the
+      Bucket List.
+
+      The OIC will, by the same method, determine who else will be required to work if more
+      staff are needed to fill all required posts.
+
+      If additional bucket situations arise during the same shift, and the first bucket person
+      satisfied their bucket obligation, the next person on the list will be responsible to cover
+      the mandatory overtime as outlined above.
+
+      In the event that two (2) or more staff are on mandatory overtime and management
+      locates a staff to volunteer to work part or all of one (1) of the overtime shifts, the last
+      person bucketed will be the first (1st) person released. All bucketed staff will have the
+      option to locate a staff member to work part or all of their overtime in accordance with
+      “Overtime Conditions and Restrictions” paragraph 2.
+
+      Staff members shall not be placed on the Bucket List on the last day of their work week
+      (i.e. their Friday) except in an emergency, but may still volunteer.
+      Staff members shall not be placed on the Bucket List if they have already signed up for
+      the overtime or are scheduled for overtime for a shift which would cause that staff
+      member to work more than 16 hours in a 24-hour period.
+
+      Staff who are working a shift as a result of a time trade do not take the regular staff
+      member’s place on the Bucket List.
+
+      Employees who are on Modified or Light duty, who are not permitted to work overtime,
+      are therefore exempted from being placed on the Mandatory Overtime (Bucket) List.
+
+      Any Staff who works any amount of voluntary overtime will have their name
+      automatically placed at the bottom of the bucket list unless they notify the OIC not to
+      move their name to the bottom. The staff assigned as first in the bucket and any
+      additional staff that are mandatorily bucketed will have their names moved to the
+      bottom of the bucket list with the option to remain at the top. Such request must be
+      made on the same day that the overtime is worked.
+
+      Institution Security Management shall provide staff with at least one (1) hour notice prior
+      to being bucketed, except for last minute call-ins or declared emergency situations.
+
+Overtime Conditions and Restrictions:
+      Staff working overtime, either voluntary or mandatory, are expected to cover the entire
+      shift of overtime.
+
+      Staff who are filling overtime may make their own arrangements with their peers to
+      cover part of the shift. The OIC will provide the staff member a brief opportunity to
+      contact peers for partial coverage if they request and time is reasonably available.
+
+                                        110                                Collective Bargaining Agreement
+      Staff will not be mandated to work overtime as a result of the mandatory overtime list
+      while on approved vacation or while attending Agency-assigned training, unless an
+      emergency recall has been initiated.
+
+      All medical trips will be scheduled in advance when possible, and the bucket list shall
+      only be used for emergency medical trips. Voluntary overtime for medical trips will be
+      posted in a timely manner to ensure staff are aware of the availability of this overtime.
+
+Voluntary List:
+     The voluntary overtime list shall be maintained by the OIC and it will also be viewable
+     on the P: drive.
+
+      Staff that volunteer or refuse voluntary overtime shall be moved to the bottom of the
+      voluntary overtime list.
+
+Section 4. Fire Crew Assignments.
+a.    Eligibility: Participation in the WCCF fire program is voluntary. Employees must be in
+      good standing to participate in the fire program. Employees who would like to be
+      considered for WCCF fire program shall submit a letter of interest to the WCCF Fire
+      Program Manager or designee at the designated time. Fire camp and fire crew duties
+      are voluntary assignments, and by volunteering, the employees agree to deviate from
+      normal work schedules without any shift changes penalty to the Agency. This includes
+      participation in additional fire training requirements.
+
+b.    Employees must be off initial trial service to participate in the fire program.                  This
+      provision may be waived by the WCCF Fire Program Manager or designee.
+
+c.    Permanent employees are required to have been assigned to WCCF for a minimum of
+      six (6) months to be eligible to participate in the fire program. This provision may be
+      waived by the WCCF Fire Program Manager or designee.
+
+d.    Employees who volunteer for fire assignments shall be required to complete all fire
+      related trainings and if applicable, pass a pre-seasonal pack test prior to participation in
+      the fire season assignments.
+
+Section 5. Fire Crew and Camp Support Seniority Lists.
+a.    Once all qualified applicants are identified, one (1) list will be compiled by the Fire
+      Program Manager based on State seniority. Qualified Employees may request to have
+      their name added to (or removed from) the voluntary fire assignment call list at any
+      time. An employee will be required to make such notifications in writing to the WCCF
+      Fire Program Manager or designee. The WCCF Fire Program Manager or designee will
+      have five (5) calendar days to complete the employee’s request.
+
+b.    Employees will be initially listed by State seniority order on the voluntary list.
+
+c.    An employee’s name moves to the bottom of the list once they have accepted an
+      assignment. Employees on the list may decline an assignment when their name
+      reaches the top. In such cases, the employee’s name will remain at the top of the list
+      until they accept an assignment. However, all staff who sign up must be certified for
+
+                                         111                                 Collective Bargaining Agreement
+      suppression. In the event that there are not enough staff to fulfill support contracts, the
+      Superintendent (or designee) may solicit staff to volunteer for the camp support
+      positions.
+
+d.    When a fire crew or camp support supervisor is requested, the OIC will attempt to
+      contact employees on the voluntary fire assignment list starting with the first employee
+      that previously followed the last employees who were assigned to the previous fire
+      assignment. When contacted, an employee must accept or refuse the fire assignment.
+      If contact is not made but a message is delivered, the OIC will continue down the list
+      until someone accepts. If a previously called employee calls back before the
+      assignment is filled, they can accept the assignment. In all cases, the seniority list will
+      be notated with the results (i.e.: No answer/left message, message undeliverable,
+      refused assignment or accepted assignment). Leaving a message counts as being
+      contacted. An undeliverable message counts as being contacted.
+
+e.    Employees will provide the employer with no more than two (2) contact phone numbers.
+      The employee will provide contact number(s) to the WCCF Fire Program manager or
+      designee in writing. Each phone number will be attempted once before continuing
+      down the list. The employees will have access to the list and are responsible for the
+      accuracy of their phone numbers on the call list.
+
+f.    Employee accepting a fire or camp assignment must be able to cancel or adjust any
+      previously approved time trades that fall within the assignments expected duration (up
+      to 14 days). Employee with previously approved vacation within the expected duration
+      must be willing to cancel the vacation with the understanding that if the duration is cut
+      short, they have the option of resuming the original vacation bid.
+                                                                              Rev: 2015, 2017,2021,2023
+
+
+### ARTICLE 26 - UNIFORMS AND PROTECTIVE CLOTHING
+
+Section 1. Institutional Uniforms.
+a.    Security Staff uniforms and protective clothing as provided and maintained, or both, by
+      the Agency shall be continued. Where uniforms are furnished, the Agency shall
+      provide a complete uniform including overcoats, trousers, shirts, belts, ties, and
+      appropriate weather gear for those security staff whose duties require extended
+      exposure to inclement weather. The Agency shall not be responsible for replacing
+      uniforms and protective clothing damaged due to employee negligence.
+
+b.    At the Union’s request, the functional unit’s labor/management committee will form a
+      subcommittee consisting of equal numbers of management and labor where a
+      recommendation for the selection of appropriate weather gear for each institution will
+      be developed.
+
+c.    The Parties will select their own representatives. The committee will submit their
+      recommendations to the Assistant Director of Operations or designee who, within their
+      discretion, may approve the recommendation. If the recommendation is rejected, the
+      reasons for the rejection shall be given.
+
+
+
+                                        112                               Collective Bargaining Agreement
+Section 2. Damage to Personal Clothing.
+Employees suffering damage to personal property in the performance of their official duties
+will be reimbursed as subject to Department of Administrative Services Rules 125-7-101 and
+any subsequent amendments thereto.
+
+Section 3. Footwear Allowance
+Employees shall receive an allowance of three hundred dollars ($300.00) at the beginning
+2022 and thereafter in each even numbered calendar year for the purchase of footwear. This
+allowance will be paid on the first pay period in January. New employees hired will receive the
+allowance on their first pay period after hire and then biennially in even numbered calendar
+years thereafter.
+                                                                                        Rev: 2015, 2021
+
+
+### ARTICLE 27 - EMPLOYEE FACILITIES
+
+Management shall maintain physical plant facilities provided for employees (including parking
+and existing motorcycle and bicycle parking with adequate accommodations for seasonal
+usage) at the Institutions, and elsewhere where authority exists.
+
+Upon request, the Labor/Management committee for a functional unit will review and discuss
+parking spots for employees and shower or changing facility needs for that specific functional
+unit.
+
+### ARTICLE 28 - INCLEMENT CONDITIONS
+
+Section 1.
+When, in the judgment of the Agency Head/Functional Unit Manager or designee, weather
+conditions require the curtailing of institutions operations within the employees regularly
+scheduled work day and the employees are ordered home, the employees will be paid for the
+remainder of their regularly scheduled shift.
+
+Section 2.
+The Agency Head/Functional Unit Manager or designee may direct employees to remain at
+home prior to the beginning of the work shift because of inclement weather or hazardous
+conditions. If announcement is provided by telephone, television, or radio prior to the
+employee leaving home, the employee will be authorized the optional use of accrued vacation,
+compensatory time, or leave without pay during the period in which the employee's work is
+curtailed due to the inclement or hazardous condition.
+
+Section 3.
+If notice is not given as set forth above, and an employee reports to their regularly scheduled
+shift of work, the employee shall be assigned work and paid for the full shift of work.
+
+Section 4.
+Except as provided in section 2 of this Article, where the Institution/functional unit remains
+open and an employee notifies their supervisor that they are unable to or will be late in
+reporting to work due to inclement or hazardous conditions, the employee shall use accrued
+vacation leave, compensatory time off or leave without pay.
+
+
+                                       113                               Collective Bargaining Agreement
+### ARTICLE 29 - SAFETY AND HEALTH
+
+Section 1.
+The Agency agrees to abide by and maintain in its facilities and work operations standards of
+safety and health in accordance with the Oregon Safe Employment Act (ORS 654.001 to
+654.991).
+
+Section 2.
+Proper safety devices and clothing shall be provided by the Agency for all employees engaged
+in work where such devices are necessary. Such equipment, where provided, must be used.
+
+Section 3.
+a.    If an employee claims that an assigned job or equipment is unsafe or might unduly
+      endanger the employee's health and, for that reason refuses to do the job, the
+      employee shall immediately report the specific reason(s) to their supervisor. The
+      supervisor may correct the situation immediately or the employee and/or the local
+      immediate supervisor shall refer the issue to the Functional Unit Manager/Designee or
+      may refer the issue to a safety representative of the Oregon Occupational Safety and
+      Health Division (OR-OSHA), as to whether the job or equipment is safe or unsafe. At
+      the discretion of the Union, a Union staff member and/or authorized Union
+      Representative shall accompany the agency OR-OSHA representative conducting the
+      safety inspection.
+
+b.    Pending determination provided for in this Section, the employee shall be given suitable
+      work elsewhere, if such work is available. If no suitable work is available, the employee
+      shall be sent home with pay for that day only.
+
+c.    Time lost by the employee as a result of any refusal to perform work on the grounds
+      that it is unsafe or might unduly endanger the employee's health, shall not be paid for
+      by the Agency unless the employee's claim is upheld.
+
+Section 4.
+Employees may report specific problems, in writing, regarding safety and health in their
+assigned job or working with this equipment to their supervisors. The Agency will investigate
+such complaints, and where this investigation reveals that legitimate problems exist, the
+Agency will take steps to remedy these problems. Upon written request to the Agency Head
+or designee, where concern remains, the Agency is willing to meet with a Union
+Representative for further clarification and discussion of the specific safety or health concern.
+
+Section 5.
+It is agreed that if, in the conduct of official duties, an employee is exposed to serious
+communicable diseases which would require immunization or testing, as determined by the
+Institution Chief Medical Officer or Public Health Officer in charge, the employee shall be
+provided immunization against or testing for such communicable disease, without cost to the
+employee, where immunization will prevent such disease from occurring. The employee shall
+be granted required time off with pay for the immunization or testing, at a medical facility of the
+Agency's choosing.
+
+
+
+                                         114                                Collective Bargaining Agreement
+Section 6.
+If in the conduct of official duties the employee has potential for contact with toxic and harmful
+substances, the employee will be provided regular medical monitoring as required by
+Administrative Rule under the Oregon Safe Employment Act at no cost to the employee, and
+without deduction from accrued sick leave for leave time taken.
+                                                                                                 Rev: 2015
+
+
+### ARTICLE 30 – BEREAVEMENT LEAVE
+
+Section 1.
+Notwithstanding the hardship leave and the sick leave eligibility criteria, employees shall be
+eligible for twenty-four (24) hours of paid bereavement leave per event prorated for part time
+employees to discharge the customary obligations arising from a death in the immediate
+family. The Agency may request documentation. In addition, up to twenty-four (24) hours of
+paid bereavement may be taken for aunt, uncle, niece or nephew.
+
+Section 2.
+If additional leave is needed, an employee may, with prior authorization, request use of
+accrued sick leave, vacation leave, compensatory time off or leave without pay.
+
+Section 3.
+Regular and trial service employees may be eligible to receive up to forty (40) hours of
+donated leave, to be used consecutively. The employee must have exhausted all available
+accumulated leave and qualify for hardship leave.
+
+Section 4.
+For the purposes of this article, immediate family shall be defined in Article 33 Section 6 (Sick
+Leave).
+
+Section 5.
+Paid bereavement leave under this article shall run concurrently with OFLA when applicable.
+The Agency shall notify the employee when OFLA is running concurrently with bereavement
+leave.
+                                                                                                 Rev: 2015
+
+
+### ARTICLE 31 - HOLIDAYS
+
+Section 1.
+The following holidays will be recognized and paid for at the regular straight time rate of pay:
+       a.    New Year's Day on January 1;
+       b.    Martin Luther King, Jr.'s Birthday on the third Monday in January;
+       c.    President's Birthday on the third Monday in February;
+       d.    Memorial Day on the last Monday in May;
+       e.    Juneteenth, on June 19;
+       f.    Independence Day on July 4;
+       g.    Labor Day on the first Monday in September;
+       h.    Veterans' Day on November 11;
+       i.    Thanksgiving Day on the fourth Thursday in November;
+
+
+
+                                         115                               Collective Bargaining Agreement
+      j.     Christmas Day on December 25;
+      k.     Every day appointed by the Governor of the State of Oregon as a holiday and
+             every day appointed by the President of the United States as a day of mourning,
+             rejoicing, or other special observance only when the Governor also appoints that
+             day as a holiday.
+
+             In addition to the above paid holidays, bargaining unit employees shall receive
+             each November 1, if on the active payroll, twelve (12) hours added to their
+             vacation leave balance.
+
+A full-time employee receives eight (8) hours of holiday pay for each paid holiday. A full-time
+employee who uses unprotected leave without pay in the month the holiday occurs, receives
+holiday pay on a prorated basis for each paid holiday.
+
+Section 2.
+For all employees who work in positions that are staffed five (5) days a week, Monday through
+Friday, when a holiday falls on Saturday, the previous Friday shall be recognized as the
+holiday. When a holiday falls on Sunday, the following Monday shall be recognized as the
+holiday.
+
+For all employees who work in positions that are staffed seven (7) days a week, the
+recognized holiday will be the actual day specified in Section 1 above.
+
+Section 3.
+Employees who are required to work on days recognized as holidays which fall within their
+regular work schedules shall be entitled, in addition to their regular salary, to compensatory
+time off for the time worked or to be paid in cash for time worked at the discretion of the
+Agency. Compensatory time off or cash paid for all time worked shall be at the rate of time
+and one-half (1-1/2). The additional compensation which an employee shall be paid for
+working on a holiday shall not exceed the rate of time and one-half (1-1/2) of the employee's
+straight time pay. Any compensatory time earned may be converted to cash payment by the
+Agency. Holiday benefits shall be prorated for part-time employees.
+
+Section 4.
+Where an employee has been approved to work an alternate work schedule such as a four (4)
+day, ten (10)-hour workweek, management shall either revert the schedule to a five (5) day,
+eight (8)- hour workweek or allow the employee to utilize other available paid leave for the
+balance of the holiday off. Where management decides to continue the employee’s alternate
+work schedule during a holiday week, the employee can request to work the hours needed to
+complete a forty (40) hour workweek at the straight time pay rate for the hours worked
+including any hours on paid holiday time off. The supervisor will review the request and either
+approve or deny the request. The supervisor shall provide an explanation to the employee if
+the request is denied.
+
+Section 5.
+Holidays which occur during vacation or sick leave shall not be charged against such leave.
+                                                                                        Rev: 2015, 2021
+
+
+
+
+                                       116                               Collective Bargaining Agreement
+### ARTICLE 32 - VACATION LEAVE
+
+Section 1.
+The Parties agree that an employee's vacation accrual is an earned benefit to which the
+employee is entitled. Therefore, at no time shall accrued vacation time be utilized without
+specific authorization of the employee or contract.
+Section 2.
+Effective July 1, 2023, vacation leave shall be accrued on the appropriate schedule below.
+Employees who are new to state service may use accrued vacation leave during the first six
+(6) months, any accumulated vacation time not utilized will be lost and is not compensable
+upon separation.
+
+       Initial appointment through 5th year      15 work days for each 12 full calendar
+                                                 months of service (10 hours per month)
+       After 5th year through 10th year          18 work days for each 12 full calendar
+                                                 months of service (12 hours per month)
+       After 10th year through 15th year         21 workdays for each 12 full calendar
+                                                 months of service (14 hours per month)
+       After 15th year through 20th year         24 workdays for each 12 full calendar
+                                                 months of service (16 hours per month)
+       After 20th year                           27 workdays for each 12 full calendar
+                                                 months of service (18 hours per month)
+       After 25th year                           30 workdays for each 12 full calendar
+                                                 months of service (20 hours per month)
+
+An additional eight (8) hours of vacation leave, on July 1 of each year, shall be accrued by
+each full-time employee if the employee is employed as of July 1 of each year.
+
+Section 3.
+Compensation for use of accrued vacation shall be at the employee's prevailing straight time
+rate of pay.
+
+Section 4.
+In the event of an employee's death, all monies due the employee for accumulated vacation
+and salary shall be paid as provided by law.
+
+Section 5.
+Vacation credits shall continue to be earned while an employee is using paid leave.
+
+Section 6.
+If an employee has a break in service and that break does not exceed two (2) years, the
+employee shall be given credit for the time worked prior to the break in service in determining
+accrual rate.
+
+Section 7.
+a.    Time spent in actual State service or on military leave, educational leave, or
+      job-incurred disability leave without pay shall be considered as time in the State service
+      in determining length of service for vacation accrual rate.
+
+
+                                        117                               Collective Bargaining Agreement
+b.    Vacation bidding seniority shall be defined as all time in state service. Vacation state
+      service seniority shall be defined as encompassing all time as an employee working for
+      the State of Oregon with the only deduction being day to day subtraction for any
+      periods of time totally separated from employment and excluding time spent as a
+      temporary employee. Seniority shall begin on the employee’s date of initial hire into
+      state employment. A break in service is a separation from state service that shall be
+      limited to dismissal, retirement or resignation.
+
+Section 8.
+Vacation hours may accumulate to a maximum of three hundred and fifty (350) hours. Only
+three hundred (300) hours of vacation may be cashed out upon termination of employment.
+
+Section 9.
+Upon reasonable notice to and approval of the Agency, employees shall be permitted to use
+any portion of, or all of the employees' accrued vacation credits in any segment, except:
+      a.      That employees shall have their vacation time paid in full when the employees
+              are laid off, terminated, or take educational leave without pay in excess of thirty
+              (30) days;
+
+      b.      As provided for set-off of damages or misappropriation of State property or
+              equipment on termination;
+
+      c.      To avoid losing vacation accruals, the Agency may schedule the employee,
+              through mutual agreement, who has accrued between three hundred (300)
+              hours and three hundred and fifty (350) hours to take vacation leave to lower the
+              balance or make cash payment in lieu of scheduling not to exceed forty (40)
+              hours.
+
+      d.      If two (2) or more employees request the same period of time and the matter
+              cannot be resolved by agreement of the Parties concerned, the employee
+              having the greatest length of State service shall be granted the time; however,
+              seniority may be exercised only once in any calendar year.
+
+Section 10.
+Employees that transfer within the Agency shall be allowed to transfer all accrued vacation
+credits.
+
+Section 11.
+Employee vacations will start on the first day following the employee's regularly scheduled two
+(2) days off.
+
+Section 12. Reimbursement for Cancelled Vacation.
+Vacation that has been scheduled and approved may not be cancelled by the Agency except
+in the event of an emergency. When unrecoverable vacation costs are incurred by the
+employee, the Agency shall pay the unrecoverable deposits; receipts will be required.
+
+Section 13. Annual Vacation Bidding.
+Employees shall select their vacation based upon their seniority in State service with
+Sergeants, Corporals, and Officers being considered as one (1) classification for this purpose.
+
+                                        118                               Collective Bargaining Agreement
+Consistent with Section 14(d), during the annual vacation bid process, employees may place
+bids for as many one (1) week blocks of time as they desire. However, employees will not be
+allowed to bid for vacation slots if they will not have the necessary accrued vacation hours at
+the time of the requested days off. Compensatory time or any other paid leave shall not be
+used in the calculation of the annual vacation bid. Those blocks of time requested can be
+non-consecutive weeks.
+
+The Agency and the Union will work cooperatively where the Agency will rearrange the
+vacation slots so there is a reasonable amount of additional slots during prime vacationing
+time.
+
+Section 14. Vacation Scheduling.
+a.    This Section shall apply to all functional units.
+
+b.     If there is a conflict between the provisions of this subsection and any unwritten past
+       practice of a functional unit on the subject of vacation scheduling, this subsection shall
+       prevail. If there is a conflict between this section and section 13, this section shall
+       prevail.
+
+c.     Initial trial service employee can only bid for weeks that occur after they have
+       completed six (6) full calendar months of their initial trial service.
+
+d.     Institution management will establish the vacation slots available for the calendar year
+       allowing for required training time for security employees.
+
+e.     Bargaining unit employees will initially bid by seniority for available vacation slots in
+       accordance with the following matrix:
+
+              Years of Service            Up To This Number of Weeks
+              15 or more                           8 weeks
+              From 10 until 15                        4 weeks
+              From 3 until 10                         3 weeks
+              From 0 until 3                          2 weeks
+
+       If an employee reaches the third (3rd), tenth (10th) or fifteenth (15th) year on or prior to
+       December 31st, they shall be allowed to bid the higher number of weeks during that
+       annual bid process for vacations starting on or after January 01. If open slots exist
+       after the initial bid cycle, those slots will be available for a second round of bidding by
+       seniority.
+
+       During the second round of bidding, employees may bid as many one (1) week blocks
+       of time as are available based on State service seniority in Section 7(b). If open
+       vacation slots exist after the second round of bidding cycle, those slots may be utilized
+       at management’s discretion.
+
+f.     The Institution will ensure there will be enough open vacation slots to accomplish the
+       bid. However, the Institution is not obligated to provide a vacation slot for employees
+       who can bid but can not secure any vacant vacation slots because they will not have
+
+
+                                         119                                Collective Bargaining Agreement
+       sufficient accrued vacation or to employees who can not bid on vacant vacation slots
+       because their trial service period has not been completed.
+
+g.     Except for PRCF which has specific language in Section (j), full and partial weeks that
+       are returned because an employee has voluntarily separated, retired, terminated or
+       died, or where the employee has voluntarily turned weeks that is less than thirty (30)
+       calendar days of the scheduled time off will be used by the functional unit as it chooses.
+       Full and Partial weeks that are returned because an employee has voluntarily
+       separated, retired, terminated or died, or the employee has voluntarily turned in weeks
+       thirty (30) calendar days or more in advance of the scheduled time off will use the
+       processes in Section (i). For Institutions where there is no Section (i), the Institution will
+       notify employees of that unit to submit their interest for a minimum of ten (10) working
+       days. The vacation time off will be awarded as provided in Section I-Specific Institution
+       Vacation Scheduling Provisions.
+
+h.     An employee, upon the first day of work after a scheduled bid vacation or scheduled bid
+       vacation in conjunction with trades, will be exempt from the mandatory overtime list
+       (bucket list).
+
+i.      In addition to Article 32, Section (9)(c) of the Agreement, security staff may cash out up
+        to one hundred and twenty (120) hours of accrued vacation under the following
+        conditions:
+       I.      Employees must have regular status at the time of the request to cash out
+               vacation.
+
+      II.     Employees may cash out either forty (40) hours, eighty (80) hours or one
+              hundred and twenty (120) hours. No other increments of time are allowed.
+              Employees may make multiple requests per year.
+
+     III.     Employees must have at least forty (40) hours of accrued leave after cash out.
+
+     IV.      Request to cash out must be submitted between January 1 and October 15.
+              Payments may be scheduled through December of each year if those requests
+              are received prior to October 15. Cash outs will occur on regular pay schedules.
+
+     V.       Payment shall be at the employee’s straight time rate of pay.
+
+     VI.      Employees on unprotected leave without pay status at the time the cash is
+              requested are not eligible to cash out accrued vacation hours.
+
+j.     Specific Institution Vacation Scheduling Provisions:
+
+                                              CCCF
+       1.     The Institution shall provide bid vacation slots fifteen (15) slots per week.
+              However, the Institution shall provide seventeen (17) slots during the last two (2)
+              weeks of March, the entire months of June, July and August, and the weeks of
+              Independence Day, Thanksgiving and Christmas weeks holiday with the
+              following conditions:
+
+
+                                          120                                Collective Bargaining Agreement
+     a.    If open vacation slots exist after the initial bid, open slots will go back out
+           to bid for a second (2nd) round of bidding by seniority without restriction of
+           the vacation matrix.
+
+     b.    If staff do not have enough vacation leave to cover the bid vacation, the
+           employee may choose to use accrued compensatory time to cover the bid
+           vacation time. If the employee does not have accrued compensatory time
+           or chooses not to use it, then the full week of vacation is cancelled. Staff
+           are no required to exhaust vacation time before using compensatory time
+           for their bid vacation.
+
+     c.    If open vacation slots exist after the initial bid cycle, a second round of
+           vacation bidding will occur. If open vacation slots exist after the second
+           bid cycle, those slots will be utilized at management’s discretion.
+
+           If vacation weeks become available throughout the year, the institution
+           will place those weeks back out to staff via the following process: The
+           ISDS Coordinator will send out an email to all security staff announcing
+           the returned full week bid vacation week(s). Employees will have ten (10)
+           days to send a reply email indicating they would like to use that week. At
+           the end of the ten (10) days, the employee with the highest state seniority
+           will be awarded the additional week(s) of vacation. If no reply emails are
+           received within the ten (10) days period, the vacation week can be used
+           by the Employer as it chooses. Full weeks turned in within thirty (30)
+           days of the scheduled time off will be used by the Employer as it chooses.
+
+     d.    An employee, upon the first day of work after a scheduled bid vacation or
+           scheduled bid vacation in conjunction with trades, will be exempt from the
+           Mandatory Overtime List (bucket list).
+
+Vacation Bidding.
+1.    Employees on trial service may bid for weeks that occur after they have
+      completed six (6) full calendar months of their initial trial service.
+
+2.   Management will provide current vacation accruals to the bid proctors prior to
+     the start of the bid process.
+
+3.   Bid schedules and seniority lists will be correct and finalized at least seven (7)
+     days prior to the start of the bid process.
+
+4.   Proxy bids must be received prior to the start of the bid process.
+                                                                                         Rev: 2023
+
+                                    CRCI
+a.   A vacation calendar identifying all vacation periods shall be posted at the end of
+     each business day throughout the annual vacation scheduling process.
+
+b.   Annual in-service training periods shall not be established during holiday weeks
+     and the months of June through September. Attempts shall be made not to
+     schedule in-service training in May or during school district spring break periods.
+                               121                                 Collective Bargaining Agreement
+c.   Annual vacation scheduling shall commence in November and last up to two (2)
+     weeks as determined between Parties. Staff will be notified at least two weeks
+     prior to the annual vacation scheduling process. Notification shall include the
+     specific day and time period in which staff shall submit their bid. Vacation bids
+     become final at the close of the time slot assigned to each individual. Failure to
+     submit a bid as scheduled causes the staff member to lose bidding rights by
+     seniority. These staff may submit vacation requests subsequently for available
+     time periods, but shall not displace any staff who has previously submitted a bid.
+
+d.   Security staff will have the option to submit bids for additional weeks during the
+     second round of bidding. Waiting weeks may be bid any time a week is no
+     longer available, in any round. All vacation “back bid” time slots shall be
+     awarded just like the yearly bid, by seniority and projected vacation accrual. If a
+     staff member will not have enough projected vacation accrual to bid on available
+     vacation ,they will not be awarded the vacation time slot. This does not prevent
+     staff from using their comp time to cover the vacation when it comes time to take
+     it, just when securing it for bid.
+
+e.   Weeks returned prior to thirty (30) days out will initiate the back bid process.
+     These weeks are offered to those who have established themselves on the
+     waiting lists. Notifications are sent via e-mail to staff from the Security office and
+     must be accepted within ten (10) calendar days. If the waiting list is vacant, it is
+     distributed to all staff for interest. Waiting weeks and back bid weeks may only
+     be awarded to staff who have sufficient vacation accruals at the time it is offered.
+
+f.   Vacation bids may be submitted telephonically, in person, or via emails on a bid
+     request sheet up to two (2) weeks prior to the start of the bid process. The
+     Security Manager shall determine what information shall be included on the bid
+     request sheet.
+
+g.   Staff may give back scheduled vacation time anytime up to one (1) month prior
+     to their schedule time, unless an emergency occurs. Staff may give back
+     vacation time within one (1) month prior to scheduled vacation time, only if the
+     Institution Security Manager or designee accepts the time back.
+
+h.   The planned leave calendar shall be kept current by the Institution Staff
+     Deployment Coordinator (ISDC) and posted as changes occur. Staff may
+     request to meet with the ISDC to schedule leave.
+
+i.   All requests for leave shall be returned to the requester by ten (10) working days
+     prior to the date requested and shall be denoted as approved or denied in
+     Workday.
+
+j.   If a staff member’s annual leave accrual is not sufficient to cover the requested
+     time off at the time of the scheduled vacation, they will be required to adjust their
+     leave time accordingly or use leave without pay (LWOP).
+
+
+
+
+                                122                                 Collective Bargaining Agreement
+                                      DRCI
+Bidding at DRCI will occur according to the DRCI Biannual Vacation bidding LOA.
+1.    Employees will not be allowed to bid for vacation slots if they will not have the
+      necessary accrued hours at the time of the requested days off. Compensatory
+      time shall not be used in the scheduling of annual vacation leave.
+
+2.          If any vacation weeks remain unbid, the Institution will use these weeks at its
+            discretion.
+
+3.       If any scheduled weeks are turned in by bargaining unit employees, those weeks
+         will be utilized by the following process:
+      i.         This vacation slot will be returned to management once it is clear the
+                 employee will not have the necessary accruals.
+
+     ii.          If the vacation slot is returned within thirty (30) days of the first day of the
+                  vacation start date, its use will be at management’s discretion.
+
+     iii.         If, during the year employees return vacation weeks back to the
+                  Institutions, these slots will be awarded based on a lottery draw
+                  conducted by the Local Union President or designee and a member of
+                  management.
+
+     iv.          The ISDS Coordinator will send out an email to all security staff
+                  announcing the vid vacation week(s) returned. Employees will have
+                  seven (7) days to express their interest. If no reply emails are received
+                  within the seven (7) day period, the vacation week can be used by the
+                  Employer as it chooses.
+
+     v.           The Institution will ensure that staff who bid in six percent (6%) flex will be
+                  left on their bid days off the week prior to their bid vacation week and the
+                  week following their bid vacation week.
+
+                                        EOCI
+Bidding will occur at the normally scheduled times at EOCI. All annual vacation bid
+information will be distributed in employee’s mailbox at least fourteen (14) calendar
+days prior to the start of the annual vacation bid process.
+
+If open slots exist after the initial bid cycle, those slots will be available for a second
+round of bidding by seniority. In this cycle, employees may bid for as many of the
+remaining vacation slots as the employee wishes to have. If open vacation slots exist
+after the second bid cycle, those slots may be utilized at management’s discretion.
+
+At the completion of the bidding process, EOCI management will create a waiting list.
+This list will be created utilizing the following guidelines:
+        a.      Within seven (7) days of the completion of the vacation bid process,
+                management will meet with the union and establish a time for the creation
+                of the waiting list.
+
+
+
+                                      123                                 Collective Bargaining Agreement
+       b.     A list of all weeks that were on the original bid will be established.
+
+       c.     Once the list is created, management will notify all staff that the waiting list
+              will be available for signup on the agreed upon date and time.
+
+       d.     Staff will be able to place their name (and up to two (2) other people’s
+              request) on a waiting list for up to three (3) weeks that may become
+              available when vacation weeks become available.
+
+If there are twenty (20) or less vacation slots per week, any scheduled vacation slots
+that are turned in by EOCI security bargaining unit members, the EOCI security
+employees will have the opportunity to use these vacation slots on the following basis:
+(If there are more than twenty (20) slots available for a week management may be able
+to utilize any slots turned back in at their discretion until there are twenty (20) slots per
+week.)
+         a.    Any week that becomes available, regardless of the reason, will be filled
+               first (1st) from the waiting list.
+
+       b.     If no staff has placed their name on the list for the vacant week, then
+              management will be able to use the week at its discretion.
+                                                                                            Rev: 2017
+
+
+                                       PRCF
+a.     Bidding will occur at the normally scheduled times at PRCF. All annual vacation
+       bid information will be distributed in employee’s mailbox at least fourteen (14)
+       calendar days prior to the start of the annual vacation bid process.
+
+b.     Employees may bid in person, by telephone, by proxy and may submit their bid
+       form to the ISDS Coordinator prior to their bid window, however, once a vacation
+       bid form has been submitted it cannot be changed.
+
+c.     Employees will bid for vacation in seniority order during their designated fifteen
+       (15) minute bid window. Any staff member who misses their bid window will be
+       afforded the opportunity to bid between the next available time slots after
+       reporting to bid. However, they will not be allowed to bump another staff
+       member from a posted bid.
+
+d.     If open vacation slots exist after the initial bid cycle, those slots will be available
+       for a second round of bidding by seniority. In this cycle, security employees may
+       bid for as many of the remaining vacation slots as the employee wishes to have,
+       subject to having the necessary accrued vacation hours at the time of the
+       requested days off. The second round of bidding will occur as soon as practical
+       following the first round.
+
+e.     Employees may exercise the option to move down from their designated
+       seniority slot in order to bid later in the bid process. Employees desiring to
+       exercise this option shall notify the ISDS Coordinator in writing prior to the
+       commencement of the bid process.
+
+
+                                   124                                Collective Bargaining Agreement
+f.   At the conclusion of the annual vacation bid process employees may submit
+     leave request forms for vacation time for the calendar year. Vacation leave
+     forms must be signed and time stamped by the OIC or ISDS as received.
+     Employees leave request forms will be kept on file. If an employee’s vacation
+     request is denied a brief explanation will be written on the form and returned to
+     the employee.
+
+g.   The Institution will attempt to allow employees in the six percent (6%) flex
+     positions be left on their bid shift and days off the week prior to their bid vacation
+     week and the week following their bid vacation week. However, due to
+     operational constraints, management reserves the right to utilize six percent
+     (6%) flex positions as per contract.
+
+h.   Employees may give back scheduled vacation time at any time up to fourteen
+     (14) calendar days prior to their scheduled time. Scheduled vacation time may
+     be returned at any time an employee is eligible to utilize bereavement leave.
+
+i.   If vacation weeks go unbid at the conclusion of the annual vacation bid process,
+     those vacation weeks will be awarded on a first come-first serve basis for the
+     remainder of the calendar year.
+
+j.   If any scheduled vacation time becomes available up to fourteen (14) days
+     before the scheduled vacation date, including any scheduled vacation time that
+     becomes available due to an employee’s promotion or other departure from the
+     bargaining unit at PRCF, bargaining unit employees will be awarded those
+     vacation weeks/days by the following process:
+     1.     The ISDS Coordinator will send an email to all security staff announcing
+            the available vacation weeks/days. Employees will have five (5) days to
+            send a reply email indicating they would like to use those weeks/days. At
+            the end of the five (5) days, all email replies will be placed into a hat and a
+            lottery draw will occur. All names will be drawn and listed in order drawn
+            so that the vacation weeks/days can be claimed by the order drawn. The
+            lottery draw will be conducted in the presence of the ISDS Coordinator (or
+            designee) and the Local 1878 President (or designee).
+
+     2.     Whole vacation weeks awarded in the draw will be scheduled from the
+            employee’s days off to days off.
+
+     3.     Employees awarded vacation time via the lottery process will be allowed
+            to turn lottery vacation time back at any time. Management shall not be
+            required to put the returned time back through the lottery process outlined
+            above if returned within the fourteen (14) day period.
+                                                                                          Rev: 2023
+
+
+                                      SCCI
+a.   If open vacation slots exist after the initial bid cycle, those slots will be available
+     for a second round of bidding by seniority. IN this cycle, security employees may
+     bid for as many of the remaining vacation slots as the employee wishes to have.
+
+
+                                 125                                Collective Bargaining Agreement
+      This second round of bidding will occur no later than 10 working days after
+      completion of the first round. SCCI will bid by seniority for the second round.
+
+b.    Any scheduled vacation slots that become available the SCCI security
+      employees will have the opportunity to use these vacation slots on the following
+      basis:
+      i.     All slots that are made available will be posted via email to all bargaining
+             unit members.
+
+       ii.    All e-mail replies will be placed into a hat and a lottery draw will occur.
+
+       iii.   The use of this vacation time is contingent on the employee having the
+              necessary accrued hours at the time of the requested day off.
+
+                                       SCI
+If any scheduled vacation weeks become available, bargaining unit employees will have
+the opportunity to use those vacation weeks via the following process:
+        a.    All returned weeks will be submitted to the Institution Security Manager.
+              The ISDS Coordinator will send out an email to all security staff
+              announcing the bid vacation week(s) returned. Employees shall have
+              seven (7) calendar days to send a reply email indicating they would like to
+              use that week.
+
+      b.      At the end of the seven (7) calendar days, all email replies will be placed
+              into a hat and a lottery draw will occur. The lottery draw will be conducted
+              in the presence of the ISDS Coordinator or designee and the Local 3943
+              Union President or designee. If no reply emails are received within the
+              seven (7) calendar day period, the vacation week(s) can be used by the
+              Institution as it chooses. Week(s) turned in within thirty (30) days or less
+              of the scheduled time off shall be used by the Institution as it chooses.
+
+                                      SRCI
+If any scheduled vacation weeks become available, the bargaining unit employees will
+have the opportunity to use those vacation weeks via the following process:
+       a.    The ISDS Coordinator will send out an email to all security staff
+             announcing the bid vacation week(s) returned. Employees shall have ten
+             (10) days to send a reply email indicating they would like to use that week.
+
+      b.      At the end of the ten (10) days, all email replies will be placed into a hat
+              and a lottery draw will occur. The lottery draw will be conducted in the
+              presence of the ISDS Coordinator (or designee) and the Local 3940 Union
+              President (or designee). If no reply emails are received within the ten (10)
+              day period, the vacation week(s) can be used by the Institution as it
+              chooses. Week(s) turned in within thirty (30) days or less of the
+              scheduled time off shall be used by the Institution as it chooses.
+
+                                  Transport
+Prior to December 1, 2021, each Transport Office shall conduct a vote which will be
+determined by a majority of respondents whether they will use a once a year or twice a
+
+                                  126                                 Collective Bargaining Agreement
+year Vacation Bidding system. Subsequent to this vote, a Transport Office can conduct
+a majority vote to change this selection but no more than once per year.
+
+Section 1. Annual Vacation Bid.
+Vacation Bidding will occur on the first Thursday of December each year. The
+Management team will establish the vacation slots available for the calendar year
+allowing for required training time for security employees.
+a.     If open vacation slots exist after the initial bid cycle, those slots will be available
+       for a second round of bidding by seniority. In this cycle, security employees may
+       bid for as many of the remaining vacation slots as the employee wishes to have.
+       This second round of bidding will occur no later than ten (10) working days after
+       completion of the first round. Transport will bid by seniority for the second round.
+
+b.     Any scheduled vacation slots that become available for Transport security
+       employees will have the opportunity to use these vacation slots on the following
+       basis:
+       i.     All slots turned in will be posted via email to all bargaining unit members.
+
+       ii.    All email replies will be placed into a hat and a lottery draw will occur.
+
+       iii.   The use of this vacation time is contingent on the employee having the
+              necessary accrued hours at the time of the requested day off.
+
+Section 2. Biannual or Six (6) Month Bid.
+Vacation Bidding will occur in conjunction with the twice-yearly Job Bidding which
+occurs in preparation of the rotation occurring on the first Sunday in July and January of
+each year.
+
+The Vacation Bid will be scheduled immediately following the Job Bid or rotation that
+each Transport Office determines they will use and will use similar processes as is used
+for the above Annual Vacation Bid.
+
+                                            TRCI
+Bidding will occur during the first week of December and the Agency shall provide at
+least fourteen (14) days’ notice of employee bid time, process and location.
+a.      Management team will establish the vacation slots available for the calendar
+        year allowing for required training time for security employees. If open vacation
+        slots exist after the initial bid cycle, a second round of vacation bidding will occur
+        by seniority. During the second round, employees may place bids for as many
+        one (1) week blocks of times as are available. If open vacation slots exist after
+        the second bid cycle, those slots will be utilized at management’s discretion.
+
+b.     If any scheduled vacation weeks become available, those weeks will be utilized
+       by the following process:
+       i.     If a Security member has submitted a Leave Request Form in advance
+              they will be given first opportunity to utilize the vacation week turned in.
+              This will be on a first come, first serve basis. If no Security member has
+              turned in an advanced Leave Request Form for the week vacated, then
+              the vacation week may be utilized at management’s discretion.
+
+                                   127                                Collective Bargaining Agreement
+                                              WCCF
+      If open vacation slots exist after the initial bid cycle, a second round of vacation bidding
+      will occur. During the second round, employees may place bids for as many one (1)
+      week blocks of time as are available. If open vacation slots exist after the second bid
+      cycle, those slots will be utilized at management’s discretion.
+
+      Vacation Bid:
+      a.     Employee will bid for vacation biannually in April and October of each year.
+
+      b.     Biannual vacation bidding shall take place within fourteen (14) calendar days
+             after the completion of the shift/days off bid.
+
+      c.     The matrix outlined in Article 32, Section 14(e), of the Agreement will be applied
+             for the entire year.
+
+      d.     Each employee will be allotted a five (5) minute bid window to bid for vacation
+             time off.
+                                                                              Rev: 2015, 2017,2019, 2023
+
+
+### ARTICLE 33 - SICK LEAVE WITH PAY
+
+Sick leave, with pay, shall be determined as follows:
+
+Section 1.
+a.    Employees shall ‘normally’ accrue eight (8) hours of sick leave for each full month
+      worked except as noted in Section 1(b).
+
+b.    Employees working less than a full month shall accrue sick leave on a pro rata basis.
+      Subject to state law, employees working in excess of two hundred and forty (240) hours
+      per month will receive an additional proration of sick leave hours according to Article
+      15, Section 4.
+
+Section 2.
+Temporary employees who are subsequently appointed to permanent positions covered by
+this Agreement, in the same class in which they were employed as a temporary, without a
+break in service of fifteen (15) days or more shall be credited with sick leave from their most
+recent temporary appointment date.
+
+Section 3.
+Whenever an employee accepts an appointment in another agency of State service covered
+by this Agreement, the employee's accrued sick leave in the former agency shall be assumed
+by the new employing agency.
+
+Section 4.
+Employees who have been separated from the State service and return to a position, except
+as a temporary, within two (2) years shall have unused sick leave hours accrued during
+previous employment restored.
+
+
+
+                                        128                                Collective Bargaining Agreement
+Section 5.
+Actual time worked and all leave with pay, except for educational leave, shall be included in
+determining the pro rata accrual of sick leave credits each month. Employees shall be eligible
+to utilize sick leave immediately upon accrual.
+
+Section 6.
+Employees who have earned sick leave credits shall be eligible for sick leave for any period of
+absence from employment which is due to the employee's illness, bodily injury, disability
+resulting from pregnancy, necessity for medical or dental care, exposure to contagious
+disease, attendance upon members of the employee's and their spouse’s or domestic
+partner’s immediate family (parents, wife, husband, children, brother, sister, grandmother,
+grandfather, grandchild, son-in-law, daughter-in-law, or another member of the immediate
+household including the PEBB definition of domestic partners (Rule 101-015-0026)) where
+employee's presence is required because of illness or death, in the immediate family of the
+employee and the employee's spouse, or domestic partner. The Agency has the duty to
+require that the employee make other arrangements, within a reasonable period of time, for
+the attendance upon children or other persons in the employee's care. Certification of an
+attending physician or practitioner may be required by the Agency to support the employee's
+claim for sick leave, if the employee is absent in excess of seven (7) consecutive calendar
+days, or if the Agency has evidence that the employee is abusing sick leave privileges. The
+Agency may also require such certificate from an employee to determine whether the
+employee should be allowed to return to work where the Agency has reason to believe that
+the employee's return to work would be a health hazard to either the employee or to others.
+Any cost associated with the supplying of a certificate concerning a job-incurred injury or
+illness that is not covered by Workers' Compensation benefits shall be borne by the Agency.
+
+Section 7.
+a.    Unprotected Leave. If an employee whose absence is not covered by FMLA/OFLA
+      exhausts their accrued sick leave hours, and has a need for taking time off on their next
+      regularly scheduled work day due to a situation covered under Section 6 of this Article,
+      they shall notify their supervisor according to the prescribed method in place that they
+      are taking sick leave time off on their next scheduled work day. The employee will
+      submit a leave request to use any accrued vacation, which will not be denied, except
+      for valid cause such as the employee is on a prior written notice for attendance
+      problems. If the employee does not submit a leave request within three (3) working
+      days at the facility following their return to work or the employee may be charged with
+      leave without pay.
+
+      Under this subsection, compensatory time may be used in lieu of sick leave when the
+      employees sick leave balance has been exhausted.
+
+b.    Protected Leave Without Pay. Employees on authorized FMLA/OFLA leave may elect
+      to use leave without pay if they are covered by short-term or long-term disability
+      insurance. Employees not electing to use short-term or long-term disability insurance
+      or employees without that coverage shall use accrued paid leave (sick leave, vacation
+      leave, compensatory time off) until such accrued leave is exhausted For all other
+      FMLA/OFLA block of time leaves, the following applies.
+      1.     Choice of Leave. Employees will notify the Agency which paid leave will be
+             used. The employee may choose which specific accrued leave to use in a
+
+                                       129                               Collective Bargaining Agreement
+             consecutive block of time and, once selected, the employee must exhaust that
+             particular accrued paid leave amount before being able to use other accrued
+             paid leave. Employees may elect to leave or maintain up to forty (40) total hours
+             in their sick leave and/or vacation account for use following their return to work
+             or for intermittent FMLA/OFLA usage situations. However, an employee may be
+             approved to leave or maintain up to eighty (80) hours of vacation leave to cover
+             preapproved vacation. Employees may not reserve accrued paid leave when on
+             intermittent or reduced schedule leave.
+
+      2.     Consecutive Block of Time. A consecutive block of time shall be either all paid
+             leave in that account (sick, vacation or compensatory time off) or the designation
+             of a specified number of hours, in increments of no less than forty (40) hours.
+             The employee may select which accrued paid leave to use down to the
+             allowable reserve banks in subsection b1 at the employee’s option. If the
+             employee does not inform the Agency within seven (7) days which type of
+             accrued paid leave they wish to use, the Agency shall designate the employee to
+             use accrued sick leave consistent with state and federal law until that paid leave
+             is exhausted or down to the allowable reserve banks in subsection (b1) at the
+             employee’s option.
+
+c.    Exhaustion of Leave. Upon exhausting all accrued paid leave, or at the employee’s
+      option down to the reserve banks in Subsection (b1) above, the employee will be
+      placed on leave without pay until FMLA/OFLA ends.
+
+Section 8.
+Salary paid for a period of sick leave resulting from a condition incurred on the job and also
+covered by Workers' Compensation, shall be equal to the difference between the Workers'
+Compensation for lost time and the employee's regular salary rate. In such instances,
+prorated charges will be made against accrued sick leave.
+
+Should an employee who has exhausted earned sick leave elect to use vacation leave or
+compensatory time during a period in which Workers' Compensation is being received, the
+salary paid for such period shall be equal to the difference between the Workers'
+Compensation for lost time and the employee's regular salary rate. In such instances,
+prorated charges will be made against accrued vacation leave.
+
+Staff Assaults:
+Subsection 1.
+An employee who is off duty and on approved Worker’s Compensation time lost because of
+an Adult in Custody committing a Staff Assault regardless of the outcome of the Adult in
+Custody hearing process shall:
+       1.     Continue vacation and sick leave accrual while on time loss. Accrued vacation
+              leave shall not exceed three hundred fifty (350) hours. If an employee accrues
+              between two hundred and sixty (260) and three hundred (300) hours, the
+              Agency shall make a cash payment not to exceed forty (40) hours.
+
+      2.     Where the employee is off work due to a serious physical injury directly inflicted
+             by an Adult in Custody and the employee’s attending physician certifies that the
+
+
+                                       130                               Collective Bargaining Agreement
+             employee cannot perform their regular duties or modified work, the DOC Director
+             or designee, shall approve the employee to receive supplemental pay in addition
+             to the employee’s worker’s comp benefit which shall be equal to the regular
+             salary rate (i.e., the step in the salary range at which the employee is paid) for
+             the first thirty (30) days of such leave. The DOC Director or designee, at their
+             discretion, may continue approving the employee to receive supplemental pay in
+             addition to the employee’s worker’s comp benefit which shall be equal to the
+             regular salary rate (i.e., the step in the salary range at which the employee is
+             paid) for the next one hundred fifty (150) days. After the first one hundred eighty
+             (180) calendar days of such time loss in any rolling twelve month period, the
+             supplemental pay shall end and the employee shall have the option of sick leave
+             proration use as noted under Section 8. To be approved for this supplemental
+             pay benefit, the employee must have been acting within the course and scope of
+             their assignment when assaulted. Time loss resulting from stress related
+             disabilities shall not be eligible for this supplemental benefit. Where the time
+             loss exceeds thirty (30) calendar days, the department may require the
+             employee be evaluated by the department’s independent medical examiner to
+             assess the ongoing need for the time off.
+
+      3.     The Agency will pay up to three (3) days of administrative paid leave for the
+             employee following an injury under the following conditions:
+             a.    The employee seeks medical care within forty-eight (48) hours of being
+                   injured or there is a doctor’s certificate the medical treatment was a result
+                   of the injury.
+
+             b.     The employee applies for and is approved for workers compensation.
+                    The claim must be for a period of less than fourteen (14) days.
+
+             c.     The employee’s attending physician certifies that the employee cannot
+                    work.
+
+Should the employee’s claim be denied or if the SAIF claim is approved and the employee
+receives time loss payments for a period of time that lasts fourteen (14) or more days then the
+Agency shall recoup those monies if already paid. The Union may chose to submit the denial
+to the Agency’s Assistant Director for Human Resources for review and reconsideration.
+
+Subsection 2.
+The Agency shall notify the Local President of all instances of an employee being injured
+during an Adult in Custody staff assault which may qualify for time loss. Methods of
+notification shall be arranged at each facility’s labor/management committee.
+
+Section 9. Hardship Leave.
+The Agency will allow employees to make irrevocable donations of accumulated vacation
+leave to a co-worker who has exhausted accumulated leave while recuperating from an
+extended illness or injury or attending an immediate family member suffering from illness or
+injury. Hardship leave donations will be administered under the following stipulations and the
+terms of this Agreement shall be strictly enforced with no exceptions.
+       a.     The donor must be a regular status employee of the Agency.
+
+
+                                       131                               Collective Bargaining Agreement
+      b.      The Agency shall not assume any tax liabilities that would otherwise accrue to
+              the employee.
+
+      c.      Use of donated leave shall be consistent with the other Sections of this Article.
+
+      d.      Applications for hardship leave shall be in writing and sent to the Agency's
+              Personnel Section and accompanied by the treating physician's written
+              statement certifying the illness or injury. Donated leave may be used
+              intermittently.
+
+      e.      Accumulated leave includes, but is not limited to, sick, vacation, and
+              compensatory leave accruals.
+
+      f.      Donations shall be credited at the recipient's current regular hourly rate of pay.
+              Donations shall be in amounts of no less than two (2) hours. In FMLA situations,
+              the Agency will continue to pay for the employee’s health insurance contribution
+              until the employee’s qualifying FMLA period ends. Donees will be allowed to
+              keep forty (40) hours of donated leave for future use after they return to work.
+              All other unused donated leave will be returned to donors per Agency policy.
+
+      g.      Employees otherwise eligible for or receiving workers compensation or on
+              parental leave will not be considered eligible to receive donations under this
+              Agreement.
+
+      h.      Time spent by the recipient on donated hardship leave shall not count toward
+              completion of the employee’s initial trial service period, nor towards salary
+              eligibility dates for a step increase. When the recipient is released to return to
+              duty, the end of the initial trial service and salary eligibility date will be adjusted
+              by the period of the donated hardship leave taken.
+Section 10.
+If, while performing assigned duties during their assigned shift, the employee has an on the
+job injury, and such injury requires immediate medical treatment, the employee will not be
+required to use accrued sick leave while obtaining medical treatment. Once immediate
+medical treatment is completed, the employee will immediately return to work to complete their
+assigned shift, or, shall become subject to the workers compensation regulations.
+                                                                                Rev: 2015, 2017, 2021,2023
+
+
+### ARTICLE 34 - SICK LEAVE WITHOUT PAY
+
+Section 1.
+After earned sick leave has been exhausted, the Appointing Authority shall grant sick leave
+without pay for any job-incurred injury or illness for a period which shall terminate upon
+demand by the employee for reinstatement accompanied by a certificate issued by the duly
+licensed attending physician that the employee is physically and/or mentally able to perform
+the duties of the position.
+
+After earned sick leave has been exhausted, the Appointing Authority shall grant sick leave
+without pay for any non-job-incurred injury or illness to any employee upon request for a
+period up to one (1) year subject to the provider’s medical certification provided such leave will
+
+                                         132                                 Collective Bargaining Agreement
+not seriously handicap the work of the Agency. Extensions of sick leave without pay for any
+non-job-incurred injury or illness beyond one (1) year must be approved by the Appointing
+Authority.
+
+The Appointing Authority may require that the employee submit a certificate from the attending
+physician or practitioner in verification of disability resulting from job-incurred or non-job-
+incurred injury or illness.
+
+Any cost associated with the supplying of a certificate concerning a job-incurred injury or
+illness that is not covered by Workers' Compensation benefits shall be borne by the Agency.
+
+Section 2.
+In the event of a failure or refusal by an employee on a non-job related sick leave without pay
+to supply such a certificate, or if the certificate does not clearly show sufficient disability to
+preclude that employee from the performance of duties, such sick leave may be canceled by
+registered letter to the last known address with a copy to the Local President. Failure to return
+to work or supply a certificate within five (5) days of delivery or attempted delivery shall be
+deemed a voluntary resignation. However, such absence may be covered by a subsequent
+grant of leave with or without pay when extenuating circumstances exist.
+                                                                                           Rev: 2015,2019
+
+### ARTICLE 35 - FAMILY LEAVE
+
+Employees determined to be eligible in accordance with provisions of federal and State leave
+laws shall have all the rights, and be subject to all of the requirements of those laws. Such
+laws include, but are not limited to, the Federal Family and Medical Leave Act of 1993 (FMLA)
+and the Oregon Family Medical Leave Act (OFLA) (ORS 659A.150-186). FMLA/OFLA shall
+be administered in accordance with State HR Policy 60.000.15 – Family and Medical Leave,
+unless otherwise modified by this Agreement.
+
+Paid Leave Oregon:
+Paid Leave Oregon is administered by the Oregon Employment Department. The State of
+Oregon, as an employer, shall comply with the provisions of Paid Leave Oregon, as provided
+for in the DAS statewide Paid Leave Oregon Policy (60.000.04), including but not limited to the
+following section on Use of Paid Leave:
+
+Section 1.
+Employees may choose and will be allowed to use sick, vacation, or comp time leave to make
+up any difference between Paid Leave Oregon benefits and their average weekly wage, as
+determined by the Oregon Employment Department. An employee receiving Paid Leave
+Oregon benefits and who is protected by Family and Medical Leave or Oregon Family Leave
+(FMLA/OFLA) will use accrued leave in accordance with any existing contract language
+relating to FMLA/OFLA.
+                                                                                            Rev: 20212023
+
+
+
+
+                                         133                               Collective Bargaining Agreement
+### ARTICLE 36 - LEAVES WITH PAY
+
+Employees shall be granted a leave of absence with pay in accordance with the following:
+     a.    Service with a jury.
+           1.      Actual hours served on a jury, including travel time to and from the
+                   institution, during the employee’s scheduled shift shall be coded as jury
+                   duty leave and compensated at the employee’s regular rate of pay as
+                   time worked.
+                   Time serving on a jury outside of the employee’s scheduled shift shall not
+                   be considered time worked.
+
+                    The employee may keep any money paid by the court for serving on jury.
+
+             2.     When requested by the employee and subject to Agency operating
+                    requirements, employees selected by proper authority for jury duty will be
+                    placed on day shift for the affected shifts/days for which they are
+                    obligated to serve on a jury. The Agency shall not suffer any overtime or
+                    other penalty payments for the change in work schedule for the employee
+                    on jury duty. If the Agency is unable to make the schedule change
+                    requested by the employee, hours served on the jury that would have
+                    occurred during the requested changed schedule shall be considered
+                    time worked.
+
+                    If, an employee does not request to change their shift and days off for jury
+                    service, time spent on jury service outside of the employee’s regularly
+                    scheduled shift shall not be considered time worked.
+
+             3.     An employee who is dismissed early from jury duty will contact their
+                    supervisor to report the end of jury duty and to determine the employee’s
+                    remaining shift.
+
+      b.     Appearances before a court, legislative committee, or judicial body as a witness
+             in response to a subpoena or other direction by proper authority for matters
+             relating to the employee's officially assigned duties. The employee may keep
+             any money paid in connection with the appearance.
+
+      c.     An employee who is not a plaintiff or defendant, shall be granted leave with pay
+             for appearances before a court, legislative committee or judicial or quasi judicial
+             body as a witness in response to a subpoena or other direction by proper
+             authority for matters other than the employee’s assigned duties. When the
+             employee is granted leave with pay, the employee shall return into the Agency
+             any money paid in connection with the appearance.
+
+      d.     A leave of absence shall be granted to an employee for taking part without pay
+             in a search and rescue operation at the specific request of any law enforcement
+             agency, the Administrator of the Board of Aeronautics, the United States Forest
+             Service, or any local organization of civil defense, for a period of no more than
+
+
+
+                                       134                               Collective Bargaining Agreement
+             five (5) working days. The employee will be placed on leave with pay only when
+             or if participation in a search and rescue operation is during the employee’s
+             regularly scheduled shift.
+
+      e.     Other authorized duties in connection with State business.
+
+      f.     An employee who has been employed in State service for six (6) months or
+             more, and who is a member of the National Guard or any reserve components of
+             the armed forces of the United States, is entitled to a leave of absence with pay
+             from the employee's duties for a period of one hundred and twenty (120) hours
+             per year. Vacation and sick leave accruals shall continue to be earned without
+             proration at the rates noted in Article 32, Section 2 and Article 33, Section 1, if
+             an employee is using unpaid military leave for the shifts missed during time
+             physically worked on weekend drills or annual training.
+
+      g.    An employee may be granted educational leave in which the Agency may defray
+            a part or all of the cost, either through allotment or payment of salary. Such
+            leave shall be granted only when the benefits to be realized by the State will
+            outweigh the cost and inconvenience to the State. Each request for leave must
+            be approved by the Agency Head or designee, who normally shall not approve
+            such leave for more than one (1) year. Vacation leave shall not accrue during an
+            educational leave with pay, the duration of which exceeds fifteen (15) calendar
+            days.
+
+      h.     Leave with pay for job interviewing and testing for employment opportunities in
+             state government may be arranged by the Appointing Authority, who will
+             determine the amount of time that is appropriate.
+
+      i.    An employee who is a volunteer firefighter for a fire protection district or
+            volunteer firefighter for a city may request, subject to the operating needs of the
+            Agency and with prior management approval, to use vacation leave,
+            compensatory time off or leave without pay to volunteer and respond to an
+            emergency summons issued by the Fire Chief of the fire district/department. An
+            employee, at their option, may use authorized leave without pay or any accrued
+            vacation hours or compensatory time off. The employee shall provide the
+            Agency a written statement from the Chief of the employee’s local fire
+            department/fire district verifying the time, date and duration of the employee’s
+            volunteer activities.
+                                                                                   Rev: 2015, 2017, 2021
+
+
+### ARTICLE 37 - LEAVE OF ABSENCE WITHOUT PAY
+
+Section 1.
+Applying for leave of absence without pay will be in writing and submitted to the immediate
+supervisor. Leave of absence requests must establish reasonable justification for approval.
+Such leave will not exceed one (1) year and shall be in a continuous block of time.
+Acceptance of outside employment is not reasonable justification for approval.
+
+
+
+                                       135                                Collective Bargaining Agreement
+If an employee is approved to take leave of absence without pay, the employee will first use
+any accrued vacation and compensatory time off leave balances before being placed on leave
+without pay status. However employees may elect to maintain up to forty (40) hours in their
+vacation account for use following their return to work. An employee may request and will be
+approved to maintain up to a total of eighty (80) hours of vacation leave to cover pre approved
+vacation. Under this Section, employees will not be required to exhaust their sick leave
+balance.
+
+Section 2.
+In instances where the work of an Agency shall not be genuinely handicapped by the
+temporary absence of an employee, the employee shall be granted a leave of absence without
+pay or educational leave without pay.
+
+Section 3.
+Time spent on leave without pay in excess of thirty (30) consecutive days shall not be
+considered as service in determining the employee's eligibility date for a salary increase
+unless such time has been spent on leave resulting from job-incurred disability.
+
+Section 4.
+When an employee has not returned from an approved leave of absence without pay, and has
+not communicated with the institution, the institution shall send a certified letter directing the
+employee to engage with the Employer or return to work. The institution may proceed with
+separation after seven (7) calendar days from the date the certified letter was sent if the
+employee has not communicated with the institution.
+
+Section 5. Military Leave.
+An employee who has received official orders from any Reserve component of the armed
+forces of the United States shall be given such military leave without pay as may be provided
+by law.
+                                                                                           Rev:,2021,2023
+
+
+### ARTICLE 38 - PRE-RETIREMENT COUNSELING LEAVE
+
+At any time after reaching forty (40) years of age and within ten (10) years of the employee’s
+chosen retirement date, each employee shall be granted up to three and one-half (3-1/2) days
+leave with pay to pursue bona fide pre-retirement counseling programs. Employees shall
+request the use of leave provided in this Article at least seven (7) days prior to the intended
+date of use.
+
+Authorization for the use of pre-retirement counseling leave shall not be withheld unless the
+Agency determines that the use of such leave shall handicap the efficiency of the employee's
+work unit.
+
+When the dates requested for pre-retirement leave cannot be granted for the above reason,
+the Agency shall offer the employee a choice from three (3) other sets of dates. The leave
+herein discussed may be used to investigate and assemble the employee's retirement
+program, including PERS, Social Security, insurance and other retirement income.
+                                                                                                 Rev: 2017
+
+
+
+
+                                         136                               Collective Bargaining Agreement
+### ARTICLE 39
+
+Deleted this Article (Elections) in 2015-2017.
+
+### ARTICLE 40 - PROMOTIONS/ADVANCEMENT
+
+Section 1.
+The Agency intends to ensure, subject to the requirements of Affirmative Action and Equal
+Employment Opportunity, that employees may apply and be considered for all vacancies the
+Agency intends to fill permanently utilizing the open-competitive process. The Agency will
+determine the individuals to fill a vacancy. The Agency will consider transfer requests in
+conjunction with other lists used to fill a vacant position. The Agency will determine the
+method of selection and may take into consideration such factors as, but not limited to work
+out of classification, military service, certifications, corrective actions, dependability,
+references, test scores, other information provided on the application’s Workday job history
+and educational profile, etc.
+
+Section 2.
+a.    A Security represented employee, selected at the discretion of management, will serve
+      as a panelist for at least the initial interviews for corporal and sergeant vacancies at
+      each functional unit.
+
+b.    Lateral Transfers from the AFSCME Security bargaining unit shall automatically be
+      advanced into the final level of the interview process.
+
+c.    The Agency shall notify an employee in writing or by verbal communication if the
+      employee is not selected for the vacancy for which they were a candidate.
+
+d.    Within ten (10) working days after notification, the employee may request to receive
+      feedback from the Agency’s Interview Panel Chair for the purpose of future
+      advancement opportunities which shall be provided within ten (10) working days unless
+      the Parties mutually agree to extend the time frames. Employees may also request
+      and will be provided with their scores for any written testing and for scored interviews.
+
+e.    If the employee requests feedback, the Agency shall not suffer any financial obligation
+      including but not limited to travel time, meals, lodging, mileage or overtime.
+
+Section 3.
+Employees are responsible for preparation for advancement and qualification for promotion
+within the Agency.
+
+Section 4.
+Employees will be notified of vacancies the Agency intends to fill using the open-competitive
+process by posting a list of such vacancies on the Department of Correction’s Job Web Page
+and email in the Agency public folders. Postings will be for a minimum of ten (10) calendar
+days in order to give employees an opportunity to apply for the vacant positions.
+
+
+
+
+                                        137                              Collective Bargaining Agreement
+Section 5.
+If an employee is a candidate for promotion to a position inside the bargaining unit, and the
+interview includes examination questions regarding Agency policies, the Agency will list the
+policies, procedures or rules that may be covered in the interview.
+                                                                                        RevV: 2019, 2021
+
+
+### ARTICLE 41 - TRIAL SERVICE
+
+Section 1.
+Each employee appointed to a position in the bargaining unit by initial appointment to the
+Agency or promotion shall, with each appointment, work the equivalent of twelve (12) full
+calendar months before achieving regular status. The time period, known as initial trial
+service, is an extension of the hiring process. An employee who has been on cumulative
+leave without pay for fifteen (15) days or more during initial trial service, or who has used
+donated hardship leave during initial trial service will have the trial service period completion
+date adjusted until the employee has actually performed their regularly assigned duties for
+their position and classification an equivalent of twelve (12) full calendar months. The initial
+trial service completion date will be adjusted only by the number of days the employee was on
+leave without pay or using donated hardship leave or on modified duty assignment.
+
+Section 2. Promotional Trial Service.
+Promotional Trial Service shall not exceed the equivalent of six (6) full calendar months after
+the effective date of the promotion. An employee who is removed from the promotional
+position during promotional trial service from any Union represented position in the executive
+branch of state government or the Oregon Corrections Enterprises shall be reinstated to the
+employee’s former position providing the employee was on regular status in another position
+in the AFSCME bargaining unit immediately prior to the appointment and provided the
+employee has not been charged under ORS 240.555.
+
+An employee on cumulative leave without pay for fifteen (15) days or more, or has used
+donated hardship leave during promotional trial service will have the trial service completion
+date adjusted until the employee has actually performed their regularly assigned duties for
+their position and classification for six (6) full calendar months. The promotional trial service
+completion date will be adjusted only by the number of days the employee was on leave
+without pay or using donated hardship leave or on modified duty assignment.
+
+Section 3.
+Initial trial service employees may be removed from service when, in the judgment of the
+Agency, the employee does not demonstrate the competence and/or fitness for the position.
+Such removals under this Article are not subject to appeal or the grievance procedure.
+                                                                                    Rev: 2015, 2017,2019
+
+
+### ARTICLE 42 - TRAINING/EDUCATION
+
+Section 1. Training.
+The Agency will pay incurred tuition/registration and allowable travel, per diem, and salary
+when the Agency directs employees to attend training.              Employees may request
+agency-sponsored training and will be considered based on job and workload needs and on
+funding. Available training and educational opportunities will be posted on employee bulletin
+boards and maintained current.
+                                        138                               Collective Bargaining Agreement
+Section 2. Developmental Opportunities.
+The Agency may provide developmental assignments and job rotation assignments by written
+agreement with the Union and employees who volunteer. Employees volunteering for these
+assignments retain their permanent position classifications, remain on the Agency payroll,
+retain the representation (AFSCME) status of their permanent positions while on the
+assignment, and return to their permanent positions on completion of the assignment.
+Employees participating in developmental and job rotation assignments will continue to
+receive compensation at the rate of their permanent position and shall continue to accrue
+rights and benefits related to their permanent position.
+
+Section 3.
+Employees may be granted time off with pay to take job-related educational courses or
+training sessions.
+
+Section 4.
+Employees directed to complete Agency computer-based training will be relieved for the time
+period to complete the training.
+
+Section 5.
+Employees who may have missed annual Firearms and/or Self Defense Training provided
+shall have that training rescheduled by the Agency. The Agency will ensure that all
+employees assigned to Special Housing will receive annual Cell Extraction Training within
+thirty (30) days of assignment.
+
+### ARTICLE 43 - JOB SHARING
+
+Section 1.
+"Job sharing position" means a full-time position in the classified service that may be held by
+more than one (1) individual on a shared time basis whereby the individuals holding the
+position work less than full-time.
+
+Section 2.
+Job sharing is a voluntary program. Any employee who wishes to participate in job sharing
+may submit a written request to the Functional Unit Manager to be considered for job share
+positions. The Functional Unit Manager shall determine if job sharing is appropriate for a
+specific position and will recruit and select employees for job share positions. Where the
+Functional Unit Manager determines job sharing is appropriate, the management agrees to
+provide written notification to all job share applicants of available job share positions in their
+office in the Agency.
+
+Section 3.
+Job share employees shall accrue vacation leave, sick leave and holiday pay based on a pro
+rate of hours worked in a month during which the employee has worked thirty-two (32) hours
+or more. Individual salary review dates will be established for job share employees.
+
+Section 4.
+Job sharing employees shall be entitled to share the full Agency paid insurance benefits for
+one (1) full-time position based on a pro rate of regular hours scheduled per week or per
+month whatever is appropriate. In any event, the Agency contribution for insurance benefits in
+
+                                         139                               Collective Bargaining Agreement
+a job share position is limited to the amount authorized for one (1) full-time employee. Each
+job share employee shall have the right to pay the difference between the Agency paid
+insurance benefits and the full premium amount through payroll deduction.
+
+Section 5.
+For purpose of layoff, individuals filling a job share position which totals a full-time equivalent
+shall be considered as part-time employees at the time the position has been affected by a
+layoff.
+
+Section 6.
+If a vacancy exists and if the Functional Unit Manager determines that job sharing is not
+appropriate for the position or if the Functional Unit Manager performs a recruitment and is
+unable to hire qualified employees for the job share position, the remaining employee shall
+have the right to assume the position on a full-time basis. Upon approval of the Functional
+Unit Manager, the remaining employee may elect to transfer to a vacant part-time position in
+the same classification or to voluntarily demote. If the above conditions are not available or
+acceptable to the employee, the employee agrees to resign.
+
+### ARTICLE 44 - LAYOFF PROCEDURE
+
+Section 1.
+When the Agency declares that a lack of funds necessitates a layoff, the Parties will meet, at
+the request of either Party, to consider alternatives to layoffs such as: voluntary reduction of
+hours, voluntary paid leave of absence, other voluntary programs and/or temporary
+interruptions of employment. Such alternatives shall be subject to mutual agreement of the
+Parties. In the absence of such mutual agreement, the Agency may implement layoff
+procedures consistent with this Agreement. The Parties agree all discussions that take place
+under this section are not bargaining and do not require the use of dispute resolution
+procedures contained in the PECBA.
+
+A layoff is defined as a separation from service for involuntary reasons not reflecting discredit
+on an employee. An employee shall be given written notice of a pending layoff at least fifteen
+(15) days before the effective date stating the reason for the layoff.
+
+Section 2.
+Employees shall be laid off and service credits calculated within the following mutually
+exclusive categories:
+      a.     Full-time,
+
+      b.     Part-time (including job share).
+
+Section 3.
+a.    Layoff shall be by classification and geographic as defined in Section 11 of this article.
+      The affected geographic area, functional units and classifications shall be identified by
+      the Agency and provided to the Union thirty (30) days prior to the layoff being declared.
+      Order of layoff within the designated classification, functional unit, and geographic area
+      shall be determined by identifying the required number of positions with the lowest
+      service credit.
+
+
+                                         140                                Collective Bargaining Agreement
+     1.     Effective upon layoff, the Agency will terminate temporary employees who are
+            filling vacant positions in the affected classification and functional unit and
+            include those vacant positions as available zero service credit positions during
+            the process in Section 5 of this article. Temporary employees who are
+            backfilling employees on long term leave may be displaced by full time
+            employees who are laid off and elect to accept temporary employment. Full time
+            employees who are on Job Rotation or Work Out of Classification assignments
+            behind vacant positions will be returned to their permanent position if another
+            employee exercises their option in lieu of layoff to the vacant position which
+            would be designated as having zero service credits. If full time employees are
+            backfilling another person on long term leave then the original employee’s
+            service credits shall apply to the position.
+
+     2.     Prior to implementing layoffs, the Agency will notify all employees in the affected
+            geographic area of the impending layoffs and solicit volunteers to elect to be laid
+            off; volunteers will be solicited in numbers equal to those positions being laid off
+            by classification. If more employees in a specific classification volunteer than
+            are required, layoff will be granted by seniority with the higher seniority
+            prevailing.
+
+     3.     Employees laid off in a specific section or program within one or more functional
+            units shall be notified fifteen (15) days prior to the date designated to declare
+            options in lieu of layoff under Section 5 of this article. Simultaneously, the
+            Agency will notify an equivalent number of least service credit employees in the
+            same classification at that worksite of the potential they may be bumped and
+            should begin exploring possible options in lieu of layoff applicable under Section
+            5 of this article.
+
+     4.     If the Agency is ‘deactivating’ or closing a functional unit it shall notify all
+            employees within that functional unit thirty (30) days prior to the date designated
+            to declare options in lieu of layoff under Section 5 of this article. Simultaneously,
+            the Agency will notify an equivalent number of least service credit employees in
+            the same classifications within the Geographic Area of the potential they may be
+            bumped and should begin exploring possible options in lieu of layoff as may or
+            may not be applicable under Section 5 of this Article.
+
+     5.    All impacted employees will be given an opportunity to meet with the Agency
+           and Union and will be provided information regarding the layoff process and their
+           rights including but not limited to: a copy of this Article, an explanation of their
+           options in lieu of layoff, the specifics of the layoff and recall process, various
+           options when applying for the layoff list, other information regarding the
+           administration of the lists, unemployment and other relevant subjects.
+
+b.   If an employee is underfilling a position, the employee will be considered in the higher
+     classification for the purposes of this Article.
+
+c.   If it is found that two (2) or more employees in the Agency in which the layoff is to be
+     made have equal service credits, the order of layoff shall be in inverse order of the
+     greatest length of continuous State service.
+
+                                       141                                Collective Bargaining Agreement
+d.    If ties between employees still exist, the order of layoff shall be determined by using a
+      lottery process as a final tie breaker to determine the order of layoff. The lottery
+      process will include the following elements:
+      1.       Agency and Union representatives will be present to witness the lottery process.
+
+      2.     A double blind selection process will be used. There will be one container with
+             employee names and another container with the number of employees in the
+             first container or drawn at that time.
+
+      3.     Simultaneously, one (1) representative shall pull names and another
+             representative will pull numbers.
+
+      4.     Service credit score ties broken through this double blind process shall result in
+             employees being added to the layoff list in inverse order from one (1) through
+             the last number drawn.
+
+      5.     The results of the above lottery process shall also be used to determine the
+             order of recall from the layoff list for those employees.
+
+Section 4. Service Credit.
+a.    Service credit score is defined as total length of continuous Agency service. Leave
+      without pay shall not be considered a separation from Agency or bargaining unit
+      service. One (1) point shall be allowed for each full month of unbroken service. An
+      employee's seniority shall be computed from the date of the employee's employment by
+      the Agency in any capacity within the Division/Department, except that a new employee
+      shall be on trial service for the appropriate period. A new employee shall be placed on
+      the seniority list and given seniority ratings as of the first day the employee was hired
+      by the Agency.
+
+b.    Agency time considered to establish an employee’s service credit score shall be
+      forfeited if an employee has a break in service from the Agency of more than one
+      hundred eighty (180) calendar days, other than layoff, or fails to respond within five (5)
+      consecutive work days after receiving notice by registered letter mailed to the last
+      address on the Agency's records, unless prevented from responding by conditions
+      beyond the employee's control. An employee who separates from the Agency for one
+      hundred and eighty (180) calendar days or less and returns to the Agency shall retain
+      their previously accrued Agency time, minus the time the employee was not an
+      employee of the Agency. Agency time considered to establish an employee’s service
+      credit score shall be forfeited if a member of management service returns to the
+      AFSCME Security bargaining unit after one (1) year.
+
+c.    A Seniority Report shall be prepared by the Agency, during January, updated
+      periodically, and posted on bulletin boards in the Agency. Time with the Board of
+      Parole and the Department of Corrections shall be interchangeable. Time spent by
+      former employees of the EOH&TC who were employed at that facility and transferred to
+      EOCI within six (6) months of EOH&TC's closure, shall count toward the calculation of
+      Department of Corrections seniority in that geographic area only.
+
+
+
+                                       142                               Collective Bargaining Agreement
+Section 5. Options in Lieu of Layoff.
+Any employee who is given notice of layoff may file a written request to exercise an option in
+lieu of layoff with the Appointing Authority within five (5) work days of receipt of such notice.
+Options in lieu of layoff available to each employee shall be dependent on the employee’s
+service credit score. Starting with the highest service credit score employee in the highest
+classification identified. The employee's options shall include one (1) of the following:
+        a.     Displace one (1) of the least service credit positions in the worksite of the same
+               classification.
+
+      b.     Displace one (1) of the least service credit position in the geographic area in the
+             same classification.
+
+      c.     Demote within the functional unit to a lower classification for which the employee
+             held and/or is qualified, if a position exists which is not already identified for
+             layoff and where the incumbent has the least seniority.
+
+      d.     If no such option exists within the functional unit, the employee may elect to
+             demote to displace the least service credit score position in the geographic area
+             in a lower classification for which the employee is qualified.
+
+      e.     If all of the above options have been exhausted an employee may voluntarily
+             accept or reject vacant positions in the other geographic area in the same or
+             lower classification. If they accept the vacant position they will not be placed on
+             the layoff list but will be maintained on the relocation list as pertains to sub
+             section g of this section.
+
+      f.     Any employee identified by the Agency for layoff may elect to voluntarily accept
+             layoff instead of exercising any of the above options.
+
+      g.     Any employee who relocates or chooses to be laid off as a result of exercising
+             their options in lieu of layoff because of a facility ‘deactivation’ or closure shall
+             have their choice of having a first right of return, in service credit order, should
+             the facility reopen. This subsection supersedes the use of recall lists and other
+             methods to fill vacancies until such time as the list of those employees who wish
+             to return to the reopened facility has been exhausted.
+Section 6.
+The name of a demoting employee shall then be placed on the appropriate layoff list for the
+class the employee demoted from. Any employee demoted in lieu of layoff may request at
+that time and shall be paid for all accrued compensatory time at the rate being earned prior to
+demotion in lieu of layoff.
+
+Section 7.
+If an employee's selection in Section 6 results requires moving, moving expenses shall be
+assumed by the employee.
+
+Section 8. Layoff List.
+a.    The layoff list shall be generated by having all employees laid off arranged on the layoff
+      list by service credit score in classification and geographic area from the highest
+      service credit score to the lowest service credit score.
+
+                                        143                                Collective Bargaining Agreement
+b.    As vacant permanent positions the Agency intends to fill become available in
+      geographic area and in the classifications subject to layoffs, the Agency will notify the
+      highest service credit score employee on the layoff list and offer the opportunity for
+      recall. If that employee declines, they shall remain on the list and the permanent
+      position and opportunity for recall shall be offered to the next employee on the layoff list
+      until all employees on the layoff list have been offered recall. If no employee accepts
+      recall for an available vacant permanent position, then the Agency can fill the position
+      through other means.
+      i.      Exception for vacancies in the Transport Unit, while a layoff list is active, will be
+              filled by the normal Transport hiring or lateral process and the resultant vacancy
+              – if within the geographic region and bargaining unit – will be made available to
+              the return from layoff list process above.
+
+c.    This process will occur for each vacant permanent position the Agency intends to fill
+      and reoccur until the layoff list is exhausted. If more than one position is available at
+      the same time at different functional units, the highest service credit score employee on
+      the list shall have their choice of location for recall.
+
+d.    Following the use of the injured workers’ list, the Agency shall use the layoff list to fill
+      any permanent vacancies. If no laid off employees accept recall for the available
+      vacancy, the Agency can fill the position through other means. After the layoff process
+      is completed, should an employee voluntarily leave the security bargaining unit, the
+      employee will lose all layoff recall rights. This section only applies during the period
+      when the employee would have been eligible for recall from the layoff list. The Agency
+      shall provide an employee leaving the bargaining unit under the circumstances
+      described above written notice previously reviewed and approved by the Union, that the
+      employee forfeits their layoff recall rights.
+
+e.    Names shall be maintained on the appropriate layoff list(s) for two (2) years from the
+      effective date of layoff.
+
+Section 9.
+If the Agency is willing to allow cross bumping between unions, discussion with affected union
+representatives will be initiated. If the Parties agree, cross bumping will be allowed both ways.
+
+Section 10. Geographic Area and Functional Unit.
+For the purposes of this Article the two (2) geographic areas are defined as the area west of
+Cascade Mountain Range and the area east of the Cascade Mountain Range.
+
+Functional unit is defined as:
+      Each institution - Eastern Oregon Correctional Institution (EOCI), Oregon State
+      Penitentiary Minimum (OSPM), Santiam Correctional Institution (SCI), Shutter Creek
+      Correctional Institution (SCCI), Snake River Correctional Institution (SRCI), Columbia
+      River Correctional Institution (CRCI), Powder River Correctional Facility (PRCF), Coffee
+      Creek Correctional Facility, Transportation East and Transportation West and Two
+      Rivers Correctional Institution (TRCI), Deer Ridge Correctional Institution (DRCI), and
+      Warner Creek Correctional Facility (WCCF).
+
+
+
+                                        144                                 Collective Bargaining Agreement
+Section 11. Temporary Interruption of Employment.
+When work is not available due to a temporary situation beyond the Agency's control,
+employees in the affected work unit may have their employment temporarily interrupted for up
+to fifteen (15) calendar days without this being considered a formal layoff under this Article.
+Temporary workload fluctuations will not be considered as justification for invoking this
+provision.
+
+Should such a temporary interruption of employment occur, employees so affected will be
+allowed to use any form of accrued paid leave including vacation, compensatory time off, or
+personal leave or will be placed on leave without pay where the affected employee(s) have
+insufficient compensatory time to cover the period of interruption.
+
+If limited work is available within the affected work unit, it will be offered to employees by
+seniority, within the affected classifications, during the period of the temporary interruption
+provided that if current seniority scores are available, those scores shall be utilized and if
+special skills are needed, this section shall not apply.
+
+### ARTICLE 45 - REVIEW OF CLASSIFICATION SERIES
+
+Section 1.
+It is agreed and understood that procedures for establishing new proposed classifications and
+for material revision of existing classifications will provide reasonable opportunity for review
+and input by the Union prior to implementation.
+
+Section 2.
+The Parties shall negotiate the salary range for new and materially revised classifications.
+Negotiations for the establishment of new salary ranges for such new or revised classification
+shall commence no later than thirty (30) days after the initial receipt by the Union of the new or
+revised class specifications.
+
+Section 3.
+Implementation of a salary adjustment or rate change agreed upon in the salary negotiations
+shall be effective the first of the month following legislative approval of the negotiated salary,
+unless otherwise specified in the negotiated agreement.
+
+Section 4.
+The Union may recommend classification studies to be conducted by the Department of
+Administrative Services, Human Resources Services Division including the reasons for the
+need for such studies.
+
+### ARTICLE 46 - RECLASSIFICATION PROCEDURE
+
+The Parties shall use the following procedure to process reclassification requests.
+
+Section 1.
+The Agency shall furnish Class Specifications and/or current position description at the
+request of the Union or employee.
+
+
+
+                                         145                               Collective Bargaining Agreement
+Section 2.
+The employee will submit a completed official Position Description Form signed by the
+appointing authority and a written explanation for the proposed reclassification request to the
+Agency Personnel Officer and a copy mailed to the Union.
+
+Section 3.
+The Agency shall conduct a classification audit and review the merits of the request. Within
+ninety (90) days after receipt of reclassification request the Agency shall notify the Union of its
+decision. The Union shall have an opportunity, before the ninety (90) days decision date, to
+meet with the Agency to present arguments and recommendations where there are objections
+to the proposed reclassification. The Parties may extend the time limits by mutual, written
+agreement in those instances where the review process or other extenuating circumstances
+require additional time for analysis.
+
+Section 4.
+Any employee who is involuntarily reclassified or any employee whose reclassification request
+is denied may take the matter up using the following procedures and standards:
+       a.    Reclassification must be based on findings that the purpose of the position is
+             consistent with the concept of the proposed classification and that the class
+             specifications for the proposed classification more accurately depicts the overall
+             assigned duties, authority and responsibilities of the position. The purpose of
+             the position shall be determined by the statement of purpose and assigned
+             duties of the position description and other relevant evidence of duties assigned
+             by the Agency. The concept of the proposed classification shall be determined
+             by the general description and distinguishing features of its class specification.
+             The overall duties, authority and responsibilities of the position shall be
+             determined by the position description and other relevant evidence of duties
+             assigned by the Agency.
+
+       b.     If an employee’s reclassification request is denied or if the Agency reclassifies
+              an employee’s position, the Union may appeal the Agency’s decision in writing to
+              the Department of Administrative Services Labor Relations Unit within fifteen
+              (15) calendar days of receipt of the written denial and request the Classification
+              Appeal Committee to review the denied request/Agency action. All appeals
+              must be supported with copies of documents originally provided to the Agency
+              for the reclassification request, including written explanation of the request and
+              all relevant documentation. No new documentation or information will be
+              considered by the Committee unless mutually agreed.
+
+       c.     The Committee shall be composed of one (1) Employer representative and one
+              (1) Union staff representative. The Committee’s sole mission will be to consider
+              appeals pursuant to this section of the Article and make decisions which
+              maintain the integrity of the classification system by correctly applying the
+              classification specifications. Each representative shall have experience making
+              classification decisions. Additionally, the Committee may use two (2) resource
+              persons, one designated by each party to provide technical expertise concerning
+              a specific classification series.
+
+
+
+                                         146                                Collective Bargaining Agreement
+      d.     The Committee will attempt to resolve the appeal by jointly determining whether
+             the current or another classification more accurately depicts the overall assigned
+             duties, authorities and responsibilities of the position. In this process the
+             Committee shall review the employee’s requested classification and the
+             employee’s current classification. The Committee shall discuss and resolve
+             which classification most accurately depicts the purpose of the job and overall
+             assigned duties. In this process, each Party may also identify one (1) alternate
+             class that each Party determines most accurately depicts the purpose of the
+             position and overall assigned duties. In the event the Committee agrees that the
+             position is correctly classified, then the final decision is final and binding. In the
+             event the Committee concludes that the proposed or alternate classification is
+             more appropriate, the Agency retains the right to modify the duties on a timely
+             basis to make it consistent with the previous classification. If the finding of the
+             Committee determines the assigned duties are appropriately classified at a
+             higher salary range, and the Agency subsequently removes the higher level
+             duties, the employee will be compensated work out of class pay from the date of
+             filing the reclassification appeal to the date the duties are removed.
+
+      e.     If an alternate class is identified, both the Department of Administrative Services
+             and the Union shall be notified. If the Parties agree on the alternate class, that
+             shall end the appeal. The Committee will prepare a written decision to the
+             Agency and Union within sixty (60) calendar days of receipt of the appeal by the
+             Committee which will include the reasons for the decision regardless of what the
+             Committee decides. The decision shall be binding on all Parties. However, the
+             Agency may elect to remove or modify duties at any point during the process.
+
+      f.     If there is no resolution, the Union may request arbitration in writing within fifteen
+             (15) calendar days from the date of receipt of the Committee’s final written
+             decision. The Union’s request must be sent to the Department of Administrative
+             Services Labor Relations Unit and shall include the reasons why the Agency’s
+             decision is incorrect.
+
+      g.     The arbitrator shall allow the Agency’s decision to stand unless they conclude
+             that the proposed classification more accurately depicts the overall assigned
+             duties, authority and responsibilities using the criteria stated in subsection (a) of
+             this Section. The arbitrator shall issue an award within thirty (30) calendar days
+             from the close of hearing. The cost for the arbitrator shall be consistent with
+             Article 51 (Grievance Procedure). In the event the arbitrator finds in favor of the
+             proposed or alternate classification, Agency management retains the right to, on
+             a timely basis, adjust duties consistent with its current classification.
+
+      h.     This section replaces Article 51 (Grievance Procedure) on the subject of the
+             review of denied reclassification requests or where the Agency has involuntarily
+             reclassified an employee’s position.
+
+Section 5.
+Should the duties of the position support the proposed reclassification, the Agency shall make
+the determination whether to seek legislative approval for reclassification or remove the
+selected duties within one hundred and twenty (120) days, however, this time period may be
+
+                                        147                                 Collective Bargaining Agreement
+extended upon mutual agreement of the Parties. When the Agency receive approval from
+DAS CHRO that a reclassification upward is appropriate, see Article 20, Section 2.
+
+Section 6.
+If the reclassification receives legislative approval, the effective date of the reclassification
+shall be the date the reclassification was finalized in the budget. A note will be added to the
+CHRO human resources information system with the date that the reclassification was
+requested. For the purposes of classification seniority calculation, the effective date shall be
+the first of the month following the date of the written reclassification request. Upon upward
+reclassification, the employee will be placed on the step in the new salary range equivalent to
+their base salary plus work-out-of-classification pending upward reclassification they have
+been receiving pursuant to Article 20, Section 5. The work-out-of-classification pending
+upward reclassification differential shall end when the employee is placed in the new salary
+range. The salary eligibility date shall remain the same.
+
+If a reclassification request does not receive legislative approval or the Agency removes
+selected duties to be consistent with the employee’s current classification, the employee will
+receive a lump sum payment for the difference between the current salary rate, including work
+out-of-classification pay if any and the proposed salary rate, for the time period beginning the
+date the reclassification request was received by the Agency through the date the duties were
+removed.
+
+Section 7.
+Any employee reclassified downward will move into the new range at the step that is nearest
+the employee's current rate. The employee's anniversary date shall remain the same. If the
+employee's rate is above the highest step in the lower range, the employee shall receive no
+reduction in pay. Similarly, such employee shall not receive future salary adjustments until
+such time as the new range encompasses the employee's salary. At this time, the employee
+shall have a salary adjustment to the nearest step in the range. The employee shall also be
+placed on the Layoff List for the previously held classification.
+
+Section 8. Reclassification Upward.
+To fill the position recently reclassified, the Agency shall use a competitive process and
+employees from the Functional Unit in the position’s previous classification shall be eligible to
+apply and be considered for the newly reclassified position. Pay upon promotion is addressed
+in Article 14, Section 5 (Salary Administration).
+                                                                                                Rev: 2023
+
+
+### ARTICLE 47 - EMPLOYEE RIGHTS
+
+Section 1.
+Off duty activities of employees will not subject them to disciplinary action by the Agency
+unless such activities are illegal or a conflict of interest with the employees' duties or the
+mission of the Agency.
+
+Section 2.
+Both Parties recognize that it is important to investigate allegations of misconduct to protect
+the Employer from claims of liability and to clear the good name of the employee. Both sides
+recognize that any investigation through a formal internal special investigation unit or
+
+                                        148                               Collective Bargaining Agreement
+informally by a supervisor is a very stressful process. Therefore, the Employer promises that
+these investigations will take place in the most professional manner as possible and that
+interviews shall be done under circumstances devoid of intimidation, abuse or coercion. The
+Union pledges it will urge employees to cooperate fully with any investigation to allegations of
+misconduct. IN order to accomplish these goals, the Parties have agreed to the following
+procedures:
+
+Employees who are the subject of a formal Agency complaint or investigation shall be assured
+the following rights:
+        a.    The employee shall not be deprived of any of the employee's constitutional or
+              civil rights guaranteed by the federal and State Constitutions and Laws.
+
+      b.     The employee and local union president or designee shall be provided at the
+             same meeting with the employee no less than 24-hours advance notice by hand
+             delivery before any Agency investigatory interview. The Agency will email the
+             Council Representative the notice. The notice shall include the nature of the
+             complaint and a description of circumstances surrounding the allegations under
+             investigation known at the time before the employee is required to respond to
+             questions where the agency may suspend, reduce pay, or dismiss the
+             employee. This requirement shall not apply when: 1) the employee is under
+             investigation for violations of the Controlled Substances Act, or 2) where the
+             employee is under investigation for violations which are punishable as felonies
+             or misdemeanors under Oregon law, or 3) notification to the employee will
+             jeopardize either the criminal or administrative investigation, or 4) the Parties
+             waive the notice requirements by mutual agreement. Such interview shall
+             normally occur during employee paid time.
+
+      c.     If the employee is required to respond to a formal complaint or charge, the
+             employee shall have the right to counsel and/or Union representation prior to
+             and/or during the interview. During the interview employees shall, upon request,
+             be allowed a reasonable break to use the restroom facilities. Employees shall
+             remain in a designated area and refrain from discussing the interview with any
+             persons save the assigned interviewers. The employee will be required to
+             answer any questions involving non-criminal matters under investigation and will
+             be afforded all rights and privileges to which the employee is entitled under the
+             laws of the State of Oregon or United States.
+
+      d.     The employee shall not be required to take or be subjected to any lie detector
+             device as a condition of continued employment.
+
+      e.     Formal complaints or charges made against an employee which are not verified
+             or proven shall not be recorded and placed in the employee's personnel file.
+
+      f.     The employee shall be notified verbally or in writing of the outcome of a formal
+             investigation within timely manner after the completion of the investigation.
+
+      g.     The employee who is the subject of an investigation who completes an
+             investigatory interview and declares upon its conclusion that they are too
+             emotionally upset to complete their assigned shift shall be released from work
+
+                                        149                               Collective Bargaining Agreement
+     upon timely notice to their OIC. The employee released from work shall use
+     accrued sick leave, vacation leave or compensatory time off to account for the
+     time off. The employee released from work shall be removed from the voluntary
+     overtime list for that day.
+
+h.   Institution management shall meet monthly with the Local President and
+     assigned Council 75 Representative to review and update them on the status of
+     all investigations affecting Security employees at their location.
+
+i.   Except for conditions outlined in subsection (j) below, investigations involving an
+     employee that may lead to a suspension without pay, pay reduction or dismissal
+     will be completed no later than six (6) calendar months starting from the first
+     interview date. However, the Employer may extend the investigation to a
+     maximum of twelve (12) months from the first interview date provided the
+     Employer gives written notice to the Union and employee explaining the reason
+     for the extension.
+
+j.   Time limits provided for in subsection (i) shall not apply when any one (1) of the
+     following occurs:
+     1.     The employee is incapacitated or unavailable;
+
+     2.    The investigation involves an allegation of workers compensation or
+           disability fraud;
+
+     3.    The Union or employee waives the timelines in writing;
+
+     4.    The investigation involves more than one (1) employee;
+
+     5.    The investigation is conducted by an outside law enforcement agency;
+
+     6.    The investigation involves a criminal matter;
+
+     7.    The investigation requires coordination with another law enforcement
+           agency;
+
+     8.    If the alleged misconduct is also subject of a criminal investigation or
+           criminal prosecution;
+
+     9.    If the investigation is a result of a complaint by a person charged with a
+           crime.
+
+k.   The Employer may reopen an investigation if significant new evidence is
+     discovered that is likely to affect the outcome of the investigation and 1) the
+     evidence was obtained from the employee’s predisciplinary response, or, 2) the
+     evidence could not have been discovered by the Employer without resorting to
+     extraordinary measures.
+
+l.   Employees, who are the subject of the investigation, may record the interview
+     and must be given a copy of the Employer’s recording or digital file of the
+
+                               150                               Collective Bargaining Agreement
+             interview within two (2) business days and, upon request, a transcript of any
+             recording that has been transcribed by the Employer.
+
+      m.     The employee must be given a copy of any written statements or report
+             describing the employee’s statements.
+
+      n.     Materials required to be given to the employee under subsections (k) and (l)
+             above must be given before subsequent interviews in the course of the same
+             investigation.
+
+      o.     As soon as it is determined that the employee may be charged with a criminal
+             offense, the employee must be informed of the employee’s right to counsel with
+             a criminal defense counsel with respect to the criminal charge.
+
+      p.     In a disciplinary or administrative investigation, the employee’s chosen
+             representative may not be required to disclose, or be subject to disciplinary
+             action for refusing to disclose statements made by the employee to the
+             representative for purpose of representation.
+                                                                                   Rev: 2015,2019,2023
+
+
+### ARTICLE 48 - LIMITED DURATION APPOINTMENT
+
+Section 1.
+Persons may be hired for special studies or projects of uncertain or limited duration which are
+subject to the continuation of a grant, contract, award, or legislative funding for a specific
+project. Such appointments shall be for a stated period not exceeding two (2) years, except
+extended by legislative or Emergency Board action. Such appointment shall expire upon
+termination of the special study or projects.
+
+Section 2.
+a.    No newly hired person on a limited duration appointment shall be entitled to rights
+      under the layoff procedure and shall be so notified.
+
+b.    A person appointed from AFSCME regular status within the bargaining unit to a limited
+      duration appointment shall be entitled to rights under the layoff procedure within their
+      Agency.
+
+Section 3.
+A person accepting such appointment shall be notified of the conditions of the appointment
+and acknowledge in writing that they accept that appointment under these conditions. Such
+notification shall include the following:
+        a.     That the appointment is of limited duration.
+
+      b.     That the appointment may cease at any time.
+
+      c.     That persons who accept a limited duration appointment who were formerly
+             classified State employees, from AFSCME, within the bargaining unit, are
+             entitled to rights under the layoff procedure starting from the prior class within
+             the Agency.
+
+                                       151                               Collective Bargaining Agreement
+      d.      That in all other respects, limited duration appointees have all rights and
+              privileges of other classified employees including but not limited to wages,
+              benefits, and Union representation under this Agreement.
+
+### ARTICLE 49 - PERSONNEL FILES
+
+Section 1.
+a.    An employee shall be provided with a copy of any report, correspondence or document
+      of an adverse nature entered into the employee’s official personnel file and supervisory
+      working file. An employee’s signature on any adverse report, correspondence or
+      document shall not be construed to mean that the employee agrees with the content.
+
+b.     An employee shall be entitled to prepare a written explanation regarding adverse
+       materials placed in the employee’s official personnel file. The employee’s explanation
+       shall be attached as part of the employee’s official personnel record so long as the
+       adverse materials remain in the file.
+
+c.     An employee may include in their official personnel file a reasonable amount of relevant
+       material such as letters of commendation, licenses, certificates, college course credits
+       and other material which relates credibly on the employee. This material shall be
+       retained for a minimum of three (3) years except that licenses, certificates or college
+       credit information may be retained so long as they remain valid and relevant to the
+       employee’s work.
+
+Section 2.
+Any file maintained by the Agency regarding an employee except files pertaining to an
+investigation may be inspected by the employee, or any other employee with the written
+permission of the affected employee. No material of an adverse nature may be used against
+an employee unless the employee has viewed and signed the material. Where the employee
+has refused to sign, the material will be annotated and witnessed by a management
+representative together with a Local labor representative, if available and requested by the
+employee that the employee refused to sign with a copy to the employee and Local President.
+
+Section 3.
+If any material reflecting critically on an employee is proved to be incorrect, it shall be removed
+from the employee’s official personnel file and supervisory working file. Written reprimands
+will be removed no later than two (2) years provided no incident of a similar nature has
+reoccurred in the intervening time. Other disciplinary actions will be removed no later than
+three (3) years unless incidents of a similar nature have reoccurred in the intervening time.
+Early removal will be permitted when requested by the employee and approved by the
+Appointing Authority or designee.
+                                                                                           Rev: 2015, 2021
+
+
+### ARTICLE 50 - DISCIPLINE AND DISCHARGE
+
+Section 1.
+The principles of progressive discipline shall be used when appropriate.
+
+
+
+                                         152                                Collective Bargaining Agreement
+No employee who has completed the initial trial service period shall be disciplined or
+dismissed without just cause.
+
+Section 2.
+      A pre-disciplinary investigation shall be conducted with regard to a regular status
+      employee against whom a charge is presented which potentially justifies discipline
+      above a written reprimand. The Appointing Authority or designee shall provide
+      notification to such an employee and to the Local President and Council Representative
+      of the following: that potential cause for employee's discipline has arisen; the known
+      complaints, facts, information relied upon for taking the action and charges; and that
+      the employee will be afforded the opportunity to refute such charges or present
+      mitigating circumstances at an informal meeting at a time and date set forth in the
+      notice. Such notification shall include a copy of this Article. The employee may be
+      suspended in accordance with current practice or be allowed to continue work during
+      the period of investigation. The Appointing Authority will normally issue a final decision
+      within twenty-one (21) calendar days after the pre-disciplinary mitigation meeting, or will
+      notify the employee and the Union within that time when the decision can be expected.
+      Extensions requested by the employee or the Union shall not count against the twenty-
+      one (21) days.
+
+Section 4.
+In the event of reduction in pay, dismissal, suspension, demotion, or written reprimand, a
+written statement shall be given to the employee at the time action is taken and a copy sent to
+the Local Union President and Council Representative within seven (7) days of issuance to
+the employee. In the event it is necessary to immediately remove the employee from the
+premises, the written statement shall be provided within forty-eight (48) hours of the removal.
+The written statement shall include the complaint against the employee and the facts upon
+which the Agency relies in support of the complaint.
+
+Section 5.
+Upon the request of any employee who is called to an investigatory meeting or a meeting
+which may result in discipline being imposed upon the employee, the employee shall be
+entitled to the presence of a Union Representative. Should an employee be demoted or
+discharged by the Agency, a Union Representative will be made aware of the action and
+allowed to be present prior to the Agency talking to the employee. Should the employee not
+desire Union representation at the meeting, the employee may request the Union
+Representative leave prior to the start of the meeting.
+
+Section 6.
+A Union Representative shall have the right to discuss with appropriate management staff any
+disciplinary action imposed, at the affected employee's written request, with or without the
+employee's presence.
+
+Section 7.
+If the Agency places an employee on administrative leave with pay pending completion of an
+investigation, the employee shall not receive shift or weekend differential if the employee is
+placed on a day shift with Monday-Friday schedule. If the Agency does not impose serious
+discipline which involves economic sanctions and returns the employee to work, the Agency
+
+
+                                        153                               Collective Bargaining Agreement
+shall reimburse the employee for the shift and weekend differential they would have received
+had they not been placed on administrative leave with pay.
+
+Section 8.
+A decision to place an employee on administrative leave with pay pending completion of an
+investigation will be approved by an Assistant Director. Before the Agency places an
+employee on administrative leave without pay pending completion of the investigation, the
+Agency will provide written notice to the employee and the Union and offer the employee the
+opportunity to present mitigating circumstances prior to the Agency making its final decision.
+The employee will receive the final written Agency decision. If the Agency places the
+employee an administrative leave without pay, the Union may appeal the Agency’s decision
+within seven (7) calendar days upon the date of the Agency’s written decision to the
+Department of Administrative Labor Relations Unit directly to expedited arbitration under the
+conditions outlined in Article 51, Section 8 of this Agreement.
+                                                                                          Rev: 2017,2019
+
+
+### ARTICLE 51 - GRIEVANCE AND ARBITRATION
+
+Section 1.
+Grievances are defined as acts, omissions, applications or interpretations alleged to be
+violations of the terms and conditions of this Agreement. A grievance shall not be expanded
+upon after the grievance has been filed with the Agency Head.
+
+Section 2.
+Except for grievances cited below, all grievances shall follow the steps cited in this Section of
+the Article. Grievances that do not follow all of the steps in Section 2 of this Article are:
+       (a)    Dismissal appeal grievances involving a regular status employee shall be filed
+              directly to Step 4 of the grievance procedure. These grievances must be
+              submitted by the Union in writing along with the reasons for the appeal within
+              fourteen (14) calendar days from the effective date of the dismissal.
+
+      (b)    Grievances involving a pay reduction, demotion and suspension without pay
+             shall be submitted in writing by the Union directly to Step 3 of the grievance
+             procedure within thirty (30) calendar days from the effective date of the action
+             taken.
+
+      (c)    Group grievances filed by the Union that cover two (2) or more bargaining unit
+             employees at a specific institution shall be filed at Step 1 of the grievance
+             procedure. Group grievances filed by the Union that cover all bargaining unit
+             employees shall be filed at Step 3 of the grievance procedure, provided that the
+             grievance may be deemed timely filed if the Union obtains proof of submission to
+             a superintendent or designee.
+
+      (d)    Disputes involving unlawful employment discrimination or Union activity are not
+             subject to the grievance procedure and are to be submitted according to Article 9
+             Equal Opportunity of this Agreement.
+
+      Step 1. The employee and/or Union Representative will contact the designee
+      designated by the Functional Unit Manager to meet and discuss alleged contract
+
+                                        154                               Collective Bargaining Agreement
+      violations with the mutual interest of resolving issues at the lowest level within thirty (30)
+      calendar days of the alleged violation of the agreement. The Step 1 meeting will occur
+      within a reasonable timeframe of the request or the Union may proceed to Step 2.
+
+      Step 2. If the issue is unresolved, the Union will submit a written grievance using the
+      AFSCME Grievance Form, containing the date of occurrence, the act or omission that
+      created the grievance, the Section violated, and the remedy desired within thirty (30)
+      calendar days of the Step 1 meeting to the designated appointing authority. The
+      designated appointing authority’s response shall be due in writing within thirty (30)
+      calendar days of receipt of the grievance.
+
+      Step 3. If the grievance is not resolved at Step 2, the Union may request review of the
+      grievance by the Labor Relations Administrator or designee within thirty (30) days after
+      receiving the response from Step 2. A response from the Labor Relations Administrator
+      or designee shall be given within thirty (30) calendar days of the Union’s appeal to step
+      3, unless otherwise agreed to in writing.
+
+      The Parties will meet on a quarterly or mutually agreed to basis to discuss the status of
+      all grievances at Step 3 and above.
+
+      Step 4. If the grievance is not resolved by the Agency, the Union shall notify the Labor
+      Relations Unit of the Department of Administrative Services in writing within thirty (30)
+      calendar days of receipt of the designated appointing authority’s response that such
+      response is not acceptable. For purposes of this Article, an appeal in writing can be
+      delivered by first class registered or certified mail, postage prepaid, by fax or by
+      electronic mail to the Labor Relations Unit email address (LRU@das.oregon.gov). A
+      meeting will be held between the Parties to mutually share information about the
+      grievance. The Parties shall discuss their respective positions known at the time and
+      may discuss options for resolution. The Labor Relations Unit shall respond in writing to
+      the grievance within thirty (30) calendar days of receipt of the grievance.
+
+      Step 5 If the grievance is not resolved at the Labor Relations Unit within thirty (30)
+      calendar days of the Step 4 notice or as otherwise mutually agreed to in writing, the
+      Union shall notify the Department of Administrative Services in writing that it desires
+      arbitration of the grievance. Either party may request from the Employment Relations
+      Board a list of nine (9) qualified arbitrators. Whomever sends the arbitration request to
+      the Employment Relations Board will send a copy of request letter to the other party.
+      Within thirty (30) calendar days of receipt of the Employment Relations Board list of
+      arbitrators or upon mutual agreement, the parties shall select an arbitrator. Selection of
+      an arbitrator shall start with a flip of a coin. The party that loses the flip of the coin will
+      strike the first (1st) name from the list. Each party shall thereafter alternatively strike
+      names until a final arbitrator remains. The arbitrator selected will hear the case
+      pursuant to Section 3 of this Article.
+
+Section 3. Arbitrations
+a.    The Employer or Union shall send a letter to the arbitrator selected for the hearing. The
+      letter shall include the request for a list of potential dates including the three month
+      period beginning the second full month after receipt of the notice of intent to arbitrate.
+      When the arbitrator originally selected is unable to schedule a hearing within the three
+
+                                         155                                 Collective Bargaining Agreement
+       (3) month period, the parties may request from the Employment Relations Board a new
+       list of arbitrators. In cases where the Parties agree to consolidate cases, the arbitrator
+       assigned to handle the first case will also be assigned to handle the other case(s).
+
+b.     Arbitrators will use cancellation days and any unused scheduled days for writing
+       awards on any outstanding cases under this agreement. Cancellation fees will be
+       applied toward any writing days.
+
+Section 4.
+The Parties agree that the decision or award of the arbitrator shall be final and binding on
+each of the Parties and that they will abide thereby. The Parties do not waive any right of
+review provided by law. The arbitrator shall have no authority to add to or subtract from or
+change any of the terms of the Agreement, except for salaries on new classifications. The
+arbitrator's award shall be due to the Parties within thirty (30) days of the close of the hearing.
+
+Section 5.
+The arbitrator's fees and expenses shall be paid by the losing party. If, in the opinion of the
+arbitrator, neither party can be considered the losing party, then such fees and expenses shall
+be divided as in the arbitrator’s judgment is equitable. All other expenses shall be borne
+exclusively by the party requiring the service or item for which payment is to be made.
+
+Section 6.
+Time limits specified in this procedure must be observed unless either party requests a
+specific extension of time which, if agreed to, shall be stipulated in writing and shall become
+part of the grievance record. If management fails to issue a response within the time limits set
+forth in this Article, the grievance may be advanced to the next step of the grievance
+procedure. If the Union fails to elevate a grievance within the time limits set forth in this
+Article, the Union shall not advance the matter to the next step of the grievance procedure.
+
+Section 7.
+Subsequent to an arbitration request and prior to the assignment of an arbitrator, mediation
+may be scheduled and conducted by the Employment Relations Board Conciliation Service if
+both Parties agree. Mediation is not a mandatory step in the grievance procedure.
+
+Section 8. Expedited Arbitration.
+a.    Upon mutual agreement, the Employer and Union may agree to use this expedited
+      procedure in this section of the article to hear a grievance. The procedure outlined in
+      this section will not be used for dismissals, statewide group grievances and grievances
+      with issues of arbitrability.
+
+b.     The Parties shall develop a stipulation of facts and use affidavits whenever possible
+       and when mutually agreed upon.
+
+c.     Case presentation will be limited to opening statements, brief recitation of facts, witness
+       testimony and closing oral arguments. No post hearing briefs will be filed. The hearing
+       will be completed within one business day unless otherwise agreed to by the Parties.
+       The arbitrator may issue at their discretion, a bench decision at the conclusion of the
+       hearing or may issue a written award no later than seven (7) days from the close of the
+       hearing.
+
+                                         156                                Collective Bargaining Agreement
+d.     All decisions shall be final binding on the Parties. An award will be non-precedential if
+       mutually agreed upon before the hearing starts. The arbitrator’s award shall be based
+       on the record and shall include a brief explanation for the basis for the award.
+                                                                                  Rev: 2015, 2017,2019,2023
+
+
+### ARTICLE 52 - GENERAL PROVISIONS
+
+After having used the Injured Worker List, Agency’s AFSCME Security Unit Layoff List and the
+Agency Hardship Transfer List, the Agency will determine the methods to fill the vacancy.
+
+Section 1. Voluntary Lateral Transfers.
+For an employee to be eligible for placement on the Transfer List, the following conditions will
+apply:
+       •    The employee must have regular status.
+
+       •      The employee must submit a written transfer application through the appropriate
+              process and identify the institutions in which they wish to work.
+
+       •      If the employee is selected for the vacancy or turns down the transfer offer, the
+              employee’s name will be removed from the list.
+
+Where there is a vacancy in an Officer, Corporal or Sergeant position and an employee has
+qualified to be placed on the Lateral Transfer List, qualified employees will not be required to
+participate in the first interview but shall automatically be included in the second interview.
+
+Section 2. Involuntary Transfers.
+An involuntary transfer of an employee out of the functional unit occasioned by a reduction in
+force in that unit shall be done in inverse order of bargaining unit seniority in that classification.
+
+In other instances, where, for the good of the service, the employee needs to be transferred,
+through no fault of the employee, to another institution, the employee shall be transferred to
+another AFSCME bargaining unit, if possible.
+
+Section 3. Withdrawal of Resignation.
+An employee who has given notice of resignation has up to twenty-four (24) clock hours
+during which to rescind the resignation.
+
+Beyond the twenty-four (24)-hour period, the resignation may be withdrawn only with the
+approval of the Appointing Authority.
+
+### ARTICLE 53 - STRESS/CAREER COUNSELING
+
+Section 1.
+Any employee, during the performance of the employee's work, who is seized and detained by
+force or threat, shall be allowed reasonable time off immediately after the incident to recover
+from any physical or psychological disability caused by the action. Any period of time beyond
+one (1) day necessary for purposes of readjustment shall be determined by the employee's
+physician or psychiatrist subject to verification by a physician or psychiatrist of the Agency's
+choice.
+
+                                          157                                 Collective Bargaining Agreement
+Section 2.
+Such leave shall be charged against any accumulated time the employee has earned;
+however, where an employee is receiving compensation through Workers' Compensation or
+other victim compensation relief, such charges will be on a pro rata basis not to exceed the
+employee's regular salary (except staff assaults as defined in Article 33, Section 8).
+
+Section 3.
+Where an employee who has established a good work record develops improper work habits
+or excessive absenteeism, which may be evidence of job stress, the Agency shall attempt to
+establish the reasons behind the employee's poor work habits and shall counsel with the
+employee in an attempt to aid the employee in developing a program to begin improving those
+habits. Any admissions of the employee of wrong doing, which are brought out during such
+counseling sessions, shall not later be used against the employee in any subsequent
+disciplinary procedure unless otherwise proven. The Agency shall post and keep current all
+available educational programs, seminars, and workshops relating to stress management.
+
+### ARTICLE 54 – PAYMENT OF LEGAL DEFENSE EXPENSES FOR CRIMINAL CASES
+
+Provided all requirements for being covered as outlined in Department of Administrative
+Services Risk Management Division Policy 1-202 are met, and, within the specified limits of
+coverage cited in the Policy, should a bargaining unit employee have a criminal complaint filed
+against him/her as a result of performing authorized duties that are within the scope of
+employment of the employee, the Employer shall pay actual, reasonable and necessary legal
+defense costs incurred for criminal defense counsel of the employee’s choice. Such payment
+shall be made directly to the employee’s defense counsel. Payment to defense counsel and
+any reduction or offsets of any such payment shall be pursuant to the Policy.
+
+### ARTICLE 55 – FIRE ASSIGNMENTS
+
+Section 1.
+Each year, the Agency will notify employees of the opportunity to volunteer for firefighting, fire
+camp support and other fire related activities in advance and in writing. The method of
+selecting employees and distributing fire camp, fire crew and other fire related assignments
+shall be worked out in an agreement between each local union and the management at each
+Institution. If an agreement cannot be reached, the Agency will select from a list of qualified
+volunteers based upon bargaining unit seniority.
+
+Section 2.
+Fire camp and fire crew duties are voluntary assignments, and by volunteering, the employees
+agree to deviate from normal work schedules without any shift changes penalty to the Agency.
+These assignments may include long hours in outdoor settings far from the employee’s
+designated institution.
+
+Section 3.
+Staffing requirements will vary depending upon the needs of the outside Agencies that
+contract with the Agency for fire related services. It is the intent of the Agency to assign
+employees to wild land fire assignments by appropriate classification and to assure
+appropriate assignments are rendered during initial deployment, while onsite, and during
+deactivation.
+
+                                         158                               Collective Bargaining Agreement
+Section 4.
+Employees who are required to wear fire line Agency approved boots shall have their choice
+of being issued boots that meet applicable safety standards or receive up to three hundred
+dollars ($300.00) to put toward the purchase of boots that meet applicable safety standards to
+be used for DOC related work.
+
+Employees choosing to receive boots from the Agency will work with their institution safety
+manager prior to fire assignment to receive a pair of boots that meet applicable safety
+standards and which will be used for Agency related work only. If at any time the Agency
+issued boots are damaged or have excessive wear, the institution safety manager shall
+replace or repair the boots.
+
+Employees receiving the three hundred dollars ($300.00) must meet with the institution’s
+safety officer at the end of and/or the beginning of the fire season to determine if the boots
+meet the applicable safety standards or need to be repaired or replaced. If the boots are
+determined to be in need of repair, the employee may opt to have the Agency repair the boots
+at the Agency’s expense, receive up to three hundred dollars ($300.00) from the Agency and
+purchase new boots, or receive boots from the Agency.
+
+Section 5.
+A fire assignment is defined as the time period from activation until the employee returns to
+their functional unit and completes assigned deactivation duties.
+        a.    Fire Assignment Work Schedule
+              Employees shall have a work schedule of sixteen (16) hours on and eight (8)
+              hours off each day except on the day of deployment, the day demobilization and
+              where authorized by the Agencies contract with the Oregon Department of
+              Forestry.
+
+             Unless there is an: a) emergency, b) the need to accomplish immediate / critical
+             fire suppression objectives, c) address immediate and critical firefighter or public
+             safety objectives, or d) during initial deployment, initial attack, or deactivation,
+             employees shall not normally work more than sixteen (16) hours in a twenty four
+             (24) hour period.
+
+      b.     Length of Assignment.
+             Standard assignment is up to fourteen (14) days or less exclusive of travel to
+             and from the institution. Travel time to and from the incident shall be considered
+             time worked. The length of the assignment is unknown at the time of the
+             placement of the resource order and days and hours worked are not guaranteed.
+
+      c.     Days Off.
+             Employees returning from fire assignments that have worked less than seven (7)
+             days total, but have worked more than twelve (12) consecutive hours on the day
+             of their return, will have a minimum eight (8) hours of rest between their fire
+             assignment and the beginning of their next regularly scheduled shift at the
+             institution. Administrative leave will be provided to the employee for any portion
+             of the eight (8) hour rest period that falls during the employee’s regularly
+             scheduled shift. Administrative Leave is not applicable for those employees not
+             scheduled to work within the twenty-four (24) hour period upon their return.
+
+                                        159                               Collective Bargaining Agreement
+     Employees returning from fire assignments that have worked consecutively for
+     seven (7) to thirteen (13) days will receive a twenty-four (24) hour rest period
+     upon return to their functional unit and completion of deactivation duties.
+     Administrative Leave will cover any portion of an employee’s remaining shift
+     during this twenty-four (24) hour period. Upon written request and barring any
+     compelling reason, employees may take accrued leave for time off beyond the
+     twenty-four (24) hour rest period that would result in the completion of their next
+     regularly scheduled work shift at the institution. Administrative Leave is not
+     applicable for those employees not scheduled to work within the twenty-four (24)
+     hour period upon their return.
+
+     Employees who have been on assignment fourteen (14) consecutive days or
+     more, and who request it, will be permitted to utilize one day of accrued vacation
+     leave in addition to administrative leave before returning to their normal work
+     schedule.
+
+d.   Extension of Assignments.
+     Upon completion of the standard fourteen (14) day assignment, an employee
+     may request an extension of up to seven (7) days if allowed by local labor /
+     management agreement, and upon the approval of the Superintendent or his /
+     her designee.
+
+     Assignment may be extended up to an additional seven (7) days beyond the
+     twenty one (21) day period by local labor / management agreement, at the
+     request of the employee, and approval of the Superintendent or his / her
+     designee.
+
+     However, if the employee is to remain on the fire assignment, the employee
+     must immediately be scheduled two (2) days off using accrued leave (except
+     sick leave), or at the employee’s option, unpaid leave, prior to the 22nd day of the
+     work assignment. Days off will be away from the fire camp with transportation
+     provided back to the institution by the Agency. The decision where to take the
+     mandatory days off will be made between the employee and the Superintendent
+     or his / her designee with the intention that the employee’s first option will be
+     returning home.
+
+     In unusual circumstances where events and/or situations require the employee
+     to remain geographically proximal to the fire assignment, lodging and per diem
+     will be provided by the Agency.
+
+e.   Time Trades.
+     Employees who have approved time trades that may impact deployment must
+     agree to change the trade dates or cancel the trade prior to accepting the
+     assignment. If the employee fails to rectify pending time trade agreements with
+     their trade partner, within one (1) hour of being contacted about a fire crew
+     assignment, the employee will forfeit their turn to be deployed and will be moved
+     to the bottom of the list.
+
+
+
+                               160                                Collective Bargaining Agreement
+Section 6.
+When employees are deployed on fire assignment where Adults in Custody are provided
+meals, employees shall receive at least the same number of meals as the Adults in Custody,
+free of charge. After initial deployment, meals will be provided based upon resource orders
+from the Department of Forestry’s dispatching office to an institution or by way of agreement
+between the Department of Corrections and the Department of Forestry for the provision of
+these services. On the extended fire assignments, the DOC or the contracting agencies will
+ensure that sufficient meals are provided to employees.
+
+Section 7
+Employees who are off duty on forest fire assignments shall be considered on call pursuant to
+the criteria outlined in Article 19, Section 2 of this Agreement.
+
+Section 8.
+Notification of on call status shall be provided for through the fire camp roster if such a roster
+exists. It shall be the responsibility of the employee to check the roster on a daily basis. If the
+fire camp does not have a daily roster or a camp commander, then the senior employee will
+make every reasonable effort to check with their respective institution fire camp manager /
+designee prior to assigning an employee to on call status.
+
+Section 9.
+On call time will be distributed evenly and equitably to employees regardless of bargaining
+unit.
+
+Section 10.
+Department employees may be permitted to utilize state-owned vehicles (DOC or ODOF)
+when available and to the extent that use does not compromise the operation of the fire camp
+or fire crews for use during non-work hours if such use is consistent with policies outlined by
+the Department of Administrative Services, the Department of Corrections or the Department
+of Forestry.
+
+While performing fire camp duties, possession consumption or possession by consumption of
+alcohol while in fire camp or on the fire line is prohibited.
+                                                                                     Rev: 2015, 2019, 2021
+
+
+### ARTICLE 56 – CHECK-INS
+
+Management may conduct check-ins with their employees on an annual basis. Check-ins
+may be completed more frequently. If a check-in does not occur, the employee may request a
+check-in for the missed period. Management shall conduct the requested check-in within
+thirty (30) calendar days from when the request was made. The employee shall have the
+opportunity to provide their input during the check-in. Check-ins shall be conducted in a
+confidential setting. Check-ins are not grievable nor arbitrable under this Agreement. The
+check-in shall not be used for the purpose of disciplinary action.
+                                                                                                  Rev: 2021
+
+
+
+
+                                         161                                Collective Bargaining Agreement
+### ARTICLE 57 – LETTERS OF EXPECTATION
+
+Section 1.
+The Parties recognize that Letters of Expectation are non-disciplinary so as to document non-
+disciplinary counseling or an employee and ensure their awareness and adherence to relevant
+rules, policies and procedures.
+
+Section 2.
+The Agency will place these letters in the supervisory working files for the employee. Such
+letters shall be removed after a period of one (1) year if no similar issues occur.
+
+Section 3.
+Letters of Expectation will include a reference to this Article. The employee shall be provided
+a copy. The employee may consult with the Union Steward of their work unit, Local President
+or Council 75 Representative.
+                                                                                     NEW: 2021,Rev:2023
+
+
+### ARTICLE 58 – AIR QUALITY
+
+Section 1. Air Quality Index (AQI).
+The Air Quality Index (AQI) was developed by the US Environmental Protection Agency as an
+indicator of overall air quality and is based on the five criteria pollutants regulated under the
+Clean Air Act: ground-level ozone, particulate matter, carbon monoxide, sulfur dioxide, and
+nitrogen dioxide. Employee exposure levels to wildfire smoke is determined by the current
+workplace ambient air concentration for particulate matter 2.5 (PM 2.5), regardless of the
+concentrations for other pollutants.
+
+Section 2. Outdoor Work and Air Quality.
+Employees who are required to work outside when outdoor air concentration for PM2.5
+reaches or is above 55.5 ug/m3 (equivalent to an AQI at or above 151) will be provided with
+the appropriate OSHA recommended safety equipment.
+
+Section 3. Elevated AQI Levels.
+When elevated AQI levels require a building closure or delayed opening, the Inclement
+Conditions/Hazardous Condition Leave will apply. All other provisions of Article 28 apply for
+elevated AQI which falls under a Hazardous Condition.
+                                                                                                NEW: 2021
+
+
+
+
+                                                                           \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+
+
+
+                                        162                               Collective Bargaining Agreement
+### LETTER OF AGREEMENT #1 – PEBB MEMBER ADVISORY COMMITTEE (PMAC)
+
+This Agreement is entered into by the State of Oregon, acting through its Department of
+Administrative Services (Employer) and AFSCME Council 75 (Union).
+
+The Employer and Union recognize the importance of making an informed decision regarding
+an employee selecting health insurance coverage. The Parties mutually agree to work toward
+increasing the amount of health insurance plan information available to state employees so
+they may select the most affordable plan that meets their needs.
+
+The purpose of this Agreement is to empower the PEBB Member Advisory Committee
+(PMAC) to identify ways to increase knowledge of the health insurance plans available to stat
+employees.
+
+The Parties agree to the following:
+
+1.    Parties will convene the PMAC by August 1, 2015 to work on the following:
+
+      a.     PMAC will identify what resources state employees need most in order to select
+             their health insurance plan and how to best distribute these resources.
+
+      b.     PMAC will recommend subjects for a new educational video on health insurance
+             plans that will be available to state employees.
+
+      c.     PMAC shall submit all of its recommendation to Chief Human Resources Office
+             (Chief Human Resources Office) and the Union by September 1, 2015.
+
+      d.     Chief Human Resources Office or its designee shall produce and distribute a
+             new educational video on the health insurance plans available to state
+             employees by October 1, 2015.
+
+      e.     Employees will be authorized to view the PEBB health insurance video during
+             Agency time where it is feasible.
+
+2.    In addition, by October 1, 2015 Agency and Local Union leadership will determine the
+      mechanics of how best to deliver the information to all employees for their individual
+      agencies.
+
+3.    This Agreement becomes effective August 1, 2015 and automatically terminates June
+      30, 2025.
+
+
+
+
+                                       163                              Collective Bargaining Agreement
+### LETTER OF AGREEMENT #2 – IMPLEMENTATION OF NEW CLASSIFICATIONS
+                           APPEALS PROCESS
+
+Section A:
+An appeal may be filed by an individual employee or a Union Council Representative on
+behalf of the employee, to the Agency’s Human Resource Office within fifteen (15) calendar
+days of written notification by the Agency of placement into the new classification. Employees
+sharing the same or substantially similar position descriptions or employees the Agency
+agrees to treat as a group may file an appeal as a group. The initial filing should describe the
+individual or group, including the names of affected employees, identify the proposed
+placement, and the placement believed to be correct by the affected employees. The appeal
+must include current signed position descriptions. Because the old classifications are to be
+abolished, correct placement cannot be back to the prior classification.
+
+The agency shall conduct a review of the allocation using the following criteria:
+
+      1.     The purpose of the position shall be determined by the statement of purpose and
+             assigned duties of the position description and other relevant evidence of duties
+             assigned by the Agency.
+
+       2.    The concept of the proposed classification shall be determined by the general
+             description and distinguishing features of its class specifications, and,
+
+       3.    The overall duties, authority and responsibilities of the position shall be
+             determined by the position description and other relevant evidence of duties
+             assigned by the Agency. This decision shall be made within thirty (30) calendar
+             days of receipt of the appeal and provided to the affected employees in writing
+             and with a summary of the classification analysis.
+
+Section B:
+If denied, the Union may appeal the Agency’s decision in writing to the Department of
+Administrative Services Labor Relations Unit within fifteen (15) calendar days of receipt of the
+written denial. The appeal will be considered by the Employer designee (or an alternate) and
+the Union designee (or an alternate) who shall form the committee changed with the
+responsibility to consider appeals and make decisions which maintain the integrity of the
+classification system by correctly applying the classification specifications. Additionally, the
+committee may utilize two resource persons, one designated by each party, to provide
+technical expertise concerning a specific series. The committee will attempt to resolve the
+matter jointly determining whether the current or proposed classification more accurately
+depicts the overall assigned duties, authorities and responsibilities of the position using the
+criteria specified above.
+
+In this process each of the designees may identify one alternate classification that they
+determine most accurately depicts the purpose of the position and overall assigned duties. If
+an alternate classification is identified, both the Union and Labor Relations Unit shall be
+notified. If the Parties concur that shall end the allocation appeal. In the v\event the
+committee concludes that the proposed or alternate classification is more appropriate, the
+Agency retains the right to modify the work assignment on a timely basis to make it consistent
+with the Agency’s allocation.
+
+                                        164                                Collective Bargaining Agreement
+Appeals shall be decided in order of receipt by the Labor Relations Unit.
+
+Decisions shall be rendered by the designees no later than sixty (60) calendar days of receipt
+of the appeal by the committee.
+
+Section C:
+The decision of the designees shall be binding on the Parties. However, the Agency may
+elect to remove/modify duties at any point during the process.
+
+Section D.
+If the appeals committee cannot make a decision, the Union may request final and binding
+arbitration by a written notice to the Labor Relations Unit within the next forty five (45)
+calendar day period. Each party may go forward with only one (1) classification. Each party
+may choose to take to arbitration either the current classification, class appealed to, or an
+alternate classification identified by a committee member. The arbitrator shall allow the
+decision of the Agency to stand unless they conclude that the proposed classification more
+accurately depicts the overall assigned duties, authority and responsibilities of the position.
+
+Section E.
+Where a position is vacated after the filing of the initial appeal, the Union may continue the
+appeal process and such appeals will be reviewed by the committee only after the review of all
+filled positions appeals is completed and where the Agency indicates that no change in duties
+is anticipated prior to refilling the position.
+
+Section F.
+This process terminates upon completion of the allocation process.
+
+
+
+
+                                        165                                 Collective Bargaining Agreement
+### LETTER OF AGREEMENT #3 – VETERANS’ PREFERENCE
+
+This Letter of Agreement is between the State of Oregon, acting through the Department of
+Administrative Services, hereinafter referred to as The Employer or The State, and the
+American Federation of State, County and Municipal Employees, hereinafter referred to as
+AFSCME or the Union.
+
+This Letter of Agreement shall become effective 15 days after the date of the last signature
+below, and shall be incorporated into and be made a part of the contracts identified below for
+the successor contracts ending June 30, 2011. The contracts shall include the Department of
+Public Safety, Standards and Training; the Oregon State Fire Marshall; the Oregon State
+Police Support Unit; the Building Codes Division; the Oregon Liquor Control Commission; the
+Department of Land Conservation and Development; the Department of Environmental
+Quality; the Oregon Military Department; the Office of Emergency Management; the
+Department of Corrections Dentists; the Department of Human Resources Physicians; the
+Oregon State Hospital Nurses, the Construction Contractors Board; the Real Estate Agency;
+the Department of State Lands; the Employment Department Hearings Officers; the State
+Operated Community Programs, the OYA Juvenile Parole and Probation Officers; the
+Department of Corrections Security Unit; the Department of Corrections Security Plus Unit; the
+Department of Corrections Parole and Probation Officers and the Oregon State Board of
+Parole.
+
+The Employer and the Union recognize that Senate Bill 822 provides that an employer may
+choose not to appoint a veteran to a vacant position solely on the basis of the veteran’s merits
+or qualifications with respect to the vacant civil service position.
+
+For recruitments where the veteran has been determined to be otherwise qualified and the
+selection process results in a quantified score, Senate Bill 822, Section 2 (1) (a) and (b) shall
+apply. If this process results in two or more candidates deemed equal, the veteran shall be
+appointed, the seniority provisions of the respective collective bargaining agreements
+notwithstanding.
+
+For recruitments where the decision to hire or promote rests with a process that does not
+result in a score, the employer must give the veteran special consideration in such process
+per SB 822, Section 2 (1) (c).
+
+The provisions of Senate Bill 822 do not apply to grievance settlements, court mandates,
+Agency recall from layoff and injured worker returns to employment. Secondary recall lists are
+applicable to the provisions of Senate Bill 822.
+
+
+
+
+                                        166                               Collective Bargaining Agreement
+      LETTER OF INTERPRETATION #4 - ARTICLE 3, SECTION 4 (UNION RIGHTS)
+
+The purpose of this letter is to clarify Article 3, Section 4 of the agreement as it applies to the
+designated stewards using pre-approved Agency time to investigate specific alleged violations
+of the agreement before a written grievance is filed with the Agency.
+
+The Parties agree that the language in Article 3, Section 4 can be applied to the circumstance
+in which a designated steward, as part of the Step 1 and subsequent steps of the grievance
+procedure, requests to investigate an alleged violation, reasonable investigatory time will be
+granted under the conditions outlined in Article 3, Section 4 of the Agreement, with the
+immediate supervisor’s prior approval.
+
+
+
+
+                                         167                                Collective Bargaining Agreement
+### LETTER OF AGREEMENT #5 – SURVIVOR INSURANCE
+
+This Agreement is between the State of Oregon, acting through the Department of
+Administrative Services (Employer) on behalf of the Department of Corrections (Agency) and
+AFSCME Council 75 (Union).
+
+The purpose of this Agreement is to establish a survivor insurance benefit for bargaining unit
+employees.
+
+The Parties agree to the following:
+Section 1. Surviving Spouse/Partner/Dependents COBRA Health Benefits.
+      1.     This benefit shall only apply to regular status employees who enter and remain
+             in the Union’s security bargaining unit. However, this provision shall not apply to
+             bargaining unit employees receiving PERS benefits.
+
+      2.     The Agency shall pay PEBB’s third party administrator the COBRA insurance
+             premiums for a deceased employee’s spouse/partner/dependents for up to
+             twelve (12) months following the employee’s death so long as all of the following
+             conditions are met:
+             a.     A workers compensation claim is filed with SAIF and SAIF determines the
+                    employee’s death meets the criteria in subsection (b) below.
+
+             b.     Eligibility will be triggered by the employee being killed while on Agency
+                    property or Agency approved and authorized work location, on Agency
+                    work time and while performing authorized assigned duties. However,
+                    this provision shall not apply where:
+                          i.         The employee’s action were a substantial contributing factor
+                                     to the death;
+
+                         ii.      The employee intended to bring about their own death;
+
+                         iii.     The employee performed their duties in a grossly negligent
+                                  manner at the time of death.
+
+             c.     The spouse/partner timely files for COBRA. Payments will begin on the
+                    first of the month following notice to PEBB has approved COBRA
+                    coverage for the same insurance benefits the spouse/partner/dependents
+                    were enrolled in at the time of the employee’s death, and when SAIF
+                    approves the claim.
+
+             d.     Spouse/partner/dependents are not enrolled in or receiving benefits from
+                    any non PEBB or PEBB insurance programs or from any other private or
+                    public sector insurance plan/program or memorial fund that pays COBRA
+                    payments upon the employee’s death.
+
+             e.     Spouse/partner is not a state employee covered under PEBB insurance
+                    plans.
+
+
+
+                                        168                               Collective Bargaining Agreement
+      3.     The Employer/Agency shall not assume any tax liabilities                         of    the
+             employee/spouse/partner as a result of implementation of this benefit.
+
+      4.     Should the spouse/partner receive this benefit and is also receiving benefits from
+             another program/plan, then this benefit shall end at the end of the month in
+             which the Agency becomes aware of the situation.
+
+      5.     The Employer/Agency shall not be financially responsible for any payment or
+             repayment to any other public or private sector organization that offers benefits
+             that replicate what the Employer offers herein and is being received by the
+             spouse/partner.
+
+      6.     The Employer/Agency shall not be liable for any payments to the spouse/partner
+             if the spouse/partner is otherwise not eligible to receive benefits from another
+             plan/program/memorial fund as a result of receiving the benefits contained
+             herein.
+
+Section 2. Donation to Survivor Workgroup for Interim Bargaining.
+This Section is to establish a joint workgroup for the purpose of performing research and
+feasibility surrounding the development of a process whereby employees may make
+irrevocable donations to Surviving Spouse/Partner/Dependents.
+1.     No later than one hundred and eighty (180) days following ratification of the 2021-2023
+       Collective Bargaining Agreement, the Agency will establish a Surviving
+       Spouse/Partner/Dependents Donation Workgroup.
+
+2.    The workgroup will include Agency and DAS representatives and up to four (4)
+      representatives from AFSCME Council 75, whose participants will be selected at the
+      Union’s discretion.
+
+3.    Workgroup members will be on paid time during regular work hours.
+
+4.    The workgroup will meet on a monthly basis, or as agreed to by the workgroup
+      members.
+
+5.    This Section is in effect upon ratification and terminates when the Workgroup has
+      reported its recommendations for the Parties to initiate interim bargaining.
+
+
+
+
+                                       169                               Collective Bargaining Agreement
+### LETTER OF AGREEMENT # 6 – SRCI HOSPITAL WATCH MEALS
+
+This Agreement is between the State of Oregon, acting through the Department of
+Administrative Services (Employer) on behalf of the Department of Corrections
+(Agency) covering SRCI (Institution) and AFSCME Council 75 (Union).
+
+This Agreement replaces the November 7, 2008 settlement Agreement on SRCI
+Hospital Watch Meals with a new Agreement covering SRCI.
+
+This Agreement shall only apply to SRCI security employees who are assigned by the
+Agency from the Union’s security bargaining unit to perform in state and out of state
+hospital watch duties.
+
+The Parties agree to the following:
+
+1.    The employee shall be reimbursed by the Institution for the cost of a meal
+      purchased by the employee not to exceed eight ($8.00) dollars.
+
+2.    This Agreement replaces the November 7, 2008 settlement Agreement on SRCI
+      Hospital Watch Meals.
+
+3.    This Agreement becomes effective on the date of the last signature below and
+      expires June 30, 2025.
+
+
+
+
+                                 170                            Collective Bargaining Agreement
+### LETTER OF AGREEMENT #7 – SALEM TRANSPORT OFFICE SECURITY STAFF
+                  WORKING MANDATORY OVERTIME AT SCI
+
+This Agreement is between the State of Oregon, acting through the Department of
+Administrative Services (Employer) on behalf of the Department of Corrections (Agency) at
+Santiam Correctional Institution (Institution) and AFSCME Council 75 (Union) on behalf of
+Local 3943 (Local).
+
+This Agreement shall only apply to the Institution and Salem/Transport Unit.
+
+This Agreement will supplement and amend the Institution Article 25 contained in the 2015-
+2017 Agreement.
+
+The Parties agree to the following:
+
+1.    Once the Institution has exhausted the use of the Institution’s voluntary overtime
+      process, and there are no eligible security staff volunteers to work the available
+      voluntary overtime opportunity and an all call broadcast, the Institution shall use the
+      following process before using the Institution’s mandatory overtime list.
+      a.     Salem Transport security staff interested in working voluntary overtime at the
+             Institution will notify the shift OIC in writing which will include seniority standing
+             and contact number. The Institution shall have the list available and kept
+             separate from the Institution security staff located in the OIC’s office.
+
+      b.     When voluntary overtime work is available, the Institution will contact Transport
+             security staff who have signed up in order of seniority and assign pursuant to
+             current Institution overtime practice. The Institution will note each call made and
+             the status of the employee response to the call.
+
+2.    If the Institution does not find any Salem/Transport eligible security staff to work the
+      voluntary overtime opportunity, the Institution shall revert back to using the Institution’s
+      mandatory overtime process.
+
+3.    The Institution shall not be liable for any overtime or other penalty payments to the
+      Transport Unit employees if there is any error in the assignment of overtime.
+
+4.    SCI/Salem Transport security staff will not be able to trade or split a voluntary overtime
+      opportunity they have agreed to work.
+
+5.    This Agreement is effective on the date of the last signature below and terminates June
+      30, 2025 unless the Parties mutually agree to extend its provision.
+
+Signed: July 30, 2015
+
+
+
+
+                                        171                                 Collective Bargaining Agreement
+### LETTER OF AGREEMENT #8 – LEDS CERTIFIED WARRANT DIFFERENTIAL SANTIAM
+                      CORRECTIONAL INSTITUTION
+
+This Agreement is between the State of Oregon, acting through the Department of
+Administrative Services (Employer) on behalf of the Department of Corrections (Agency) at
+Santiam Correctional Institution (Institution) and AFSCME Council 75 (Union).
+
+The purpose of this Agreement is to establish a new differential for qualified employees who
+are certified to perform LEDS Warrant Level Certification to enter, confirm and/or clear escape
+warrants into the LEDS system.
+
+The Parties agree to the following:
+1.    Institution Sergeants and Corporals required, as a condition of employment, to possess
+      LEDS certification to perform LEDS Warrant Level Certification to enter, confirm and/or
+      clear escape warrants into the LEDS system who are assigned by the Agency will be
+      eligible for a five percent (5%) differential above their base pay rate.
+
+2.    If no Sergeant/Corporal is available to perform LEDS Warrant Level Certification work
+      the Institution shall assign an employee from outside of the bargaining unit.
+
+3.    Security staff must fulfill any and all training requirements to maintain the LEDS
+      Warrant Level certification in order to qualify and maintain the assignment and
+      differential.
+
+4.    Should the Agency cease having the Institution perform work for the Parole Board, this
+      Agreement shall automatically terminate on the last day of the month in which the
+      termination occurs.
+
+5.    This continues through June 30, 2023 unless the Parties agree in writing to continue its
+      provisions.
+
+
+
+
+                                       172                               Collective Bargaining Agreement
+### LETTER OF AGREEMENT #9 – TRCI SECURITY UNIT TOOL AND KEY SERGEANT
+                                EXEMPT POST
+
+This Agreement is between the State of Oregon, acting through the Department of
+Administrative Services (Employer) on behalf of the Department of Corrections (Agency) For
+Two Rivers Correctional Institution (Institution) and AFSCME Council 75 (Union) on behalf of
+AFSCME Local 974 TRCI Security.
+
+The purpose of this Agreement is to pilot having the Tool and Key Sergeant Post being
+designated as an Exempt Post for the contract period of 2019-2021 under the following
+guidelines:
+
+1.     Prior to the normally scheduled bid process, TRCI management will solicit letters of
+       interest from all Sergeants that have an interest in working in the Tool and Key Post.
+       All letters of interest must be received prior to the announced closing date.
+
+2.     If more than one (1) Sergeant submits interest, there will be a competitive interview
+       process culminating with Management selecting the best candidate.
+
+3.     Once selected and accepting the Post, the successful candidate will forego the
+       normally scheduled bid process.
+
+4.     This exempt assignment will last for two (2) years.
+
+5.     This Agreement shall become effective on the date of the last signature below and
+       terminates on June 30, 2025 unless the Parties agree to extend, modify or incorporate
+       this Agreement.
+
+
+
+
+                                        173                            Collective Bargaining Agreement
+### LETTER OF AGREEMENT #10 – PRCF SECURITY POSITIONS
+
+This Agreement is between the State of Oregon, acting through the Department of
+Administrative Services (Employer) on behalf of the Department of Corrections (Agency) at
+Powder River Correctional Institution (Institution) and AFSCME Council 75 (Union) on behalf
+of Local 1878 (Local).
+
+The Parties agree to the following:
+1.    All security positions will be filled on the roster at the beginning of each shift with the
+      exception of declared emergencies or according to the stipulations in numbers #2-3 of
+      this Agreement.
+
+2.    Identified security positions known as Facility Support/Work Crew position on 2nd shift,
+      search and escort officer on 2nd and 3rd shift, R&D officer on 2nd shift and multipurpose
+      officer on 3rd shift may be pulled or shutdown at the discretion of the Institution to fill
+      unknown vacancies which occur during the shift. The Institution will seek to replace
+      discovered vacancies with overtime within the first two and one half (2 ½) hours from
+      the beginning of the shift, thereafter the Institution will staff at its discretion.
+
+3.    The identified pulled post will be used to fill unexpected vacancies (to include
+      inadvertent roster errors that are not known prior to the start of the shift and employees
+      no call/no show situations), unscheduled trips, and staff who may need to leave
+      unexpectedly.
+
+4.    This Agreement does not affect the number of vacation weeks that will be offered by
+      the Institution for its annual vacation bid as identified on the 2019 annual vacation bid
+      sheet.
+
+5.    This Agreement becomes effective on the date of the last signature below and
+      terminates on June 31, 2025.
+
+
+
+
+                                        174                               Collective Bargaining Agreement
+### LETTER OF AGREEMENT #11 – PRCF SEASONAL ADULT IN CUSTODY WORK CREW
+                              SUPERVISOR
+
+This Agreement is between DAS on behalf of the Department of Corrections at Powder River
+Correctional Facility and AFSCME Local 1878.
+
+Terms of Agreement.
+1.    There will be two (2) security assignments know as Seasonal Adult in Custody Work
+      Crew Supervisor. These assignments will be staffed based on the needs of the facility.
+
+2.    Participation as a PRCF Seasonal Adult in Custody Work Crew Supervisor is voluntary.
+      Employees must be in good standing at all times in order to participate as a Seasonal
+      Adult in Custody Work Crew Supervisor. Good standing is defined in PRCF Article 24
+      (Fire Crew) Section (t)(4) (definitions). Staff wanting to be considered for the Seasonal
+      Adult in Custody Work Crew assignment on second shift will submit their Letter of
+      Interest to the ISDS Coordinator during the spring shift and days off bid during their
+      regular scheduled bid time. Staff will continue to bid their shift and days off as outlined
+      in the current PRCF Article 25 Work Schedule Bidding. The Letter of Interest submitted
+      will be considered as notification that the employee is interested in the Seasonal Adult
+      in Custody Work Crew Supervisor assignment. The identified Seasonal Adult in
+      Custody Work Crew Officer assignment on second shift will end at the conclusion of
+      that bid cycle.
+
+3.    The above process in Section 2 will take place during the summer shift and days off bid
+      during their regular scheduled bid time. The identified Seasonal Adult in Custody Work
+      Crew Officer assignment on second shift will end at the conclusion of the summer bid.
+
+4.    The staff member selected to fill the Seasonal Adult in Custody Work Crew Officer
+      assignment will have to follow the process outlined in Section 2 and 3 of this Letter of
+      Agreement and will be selected by seniority. Seniority is defined in Article 25 Working
+      Conditions Section 8. The selected staff will be reassigned by the ISDS Coordinator
+      based on facility needs.
+
+5.    The staff that are selected to fill the Seasonal Work Crew Officer assignment will be
+      removed from their bid post. The process for filling the vacant assignment will follow
+      the process already in place Article 25 Powder River Correctional Facility Working
+      Schedule Bidding Section (A)(5) when long term work crew is needed.
+
+6.    Employees assigned as Seasonal Adult in Custody Work Crew Supervisors will have to
+      alternate between the following work schedules: a five (5) shifts of eight (8) hours and
+      two (2) consecutive days off within each workweek and a four (4) shifts of ten (10)
+      hours and three (3) consecutive days off within each work week.
+
+7.    Employees assigned as Seasonal Adult in Custody Work crew supervisors will have to
+      flex their bid work schedule. A flex work schedule for the purpose of this section is
+      defined as follows: “A flex schedule for a seasonal Adult in Custody work crew
+      supervisors is a schedule which may vary the number of hours worked on a daily basis,
+      but do not exceed ten (10) hours per day and do not exceed forty (40) hours in the
+      employee’s work week.”
+
+                                        175                               Collective Bargaining Agreement
+8.   The intent of this Section is to require employees assigned as Seasonal Adult in
+     Custody Work Crew Supervisors to flex their bid work schedule and alternate between
+     these two(2) work schedules in order to help carry out the Adult in Custody work
+     program mission of the Agency.
+
+9.   This Letter of Agreement shall only apply to the Seasonal Adult in Custody Work Crew
+     assignments.
+
+     Effective date upon ratification of Local 1878.
+
+
+
+
+                                       176                          Collective Bargaining Agreement
+### LETTER OF AGREEMENT #12 – MANDATORY OVERTIME ASSIGNMENTS AT SRCI
+
+This Agreement is between the State of Oregon, acting through its Department of
+Administrative Services (Employer) on behalf of the Department of Corrections at Snake River
+Correctional Institution and AFSCME Council 75 (Union) on behalf of AFSCME Local 3940
+and on behalf of AFSCME Local 1640.
+
+This Agreement shall only apply to the Snake River Correctional Institution.
+
+This Agreement supplements and amends the Institution’s Article 25 contained in the 2017-
+2019 State of Oregon/AFSCME Council 75 Security Unit Agreement and shall sunset at the
+end of this contract.
+
+The Parties agree to the following:
+1.    When the Institution’s on the shift voluntary overtime list has exhausted and there is no
+      eligible SRCI Security staff volunteers to work an available overtime, the Institution
+      shall employ the mandatory overtime process according to the current CBA.
+
+2.     Ontario Transport staff interested in working in lieu of assignments of mandatory
+       overtime at the Snake River Correctional Institution will sign up on the at home
+       voluntary overtime list that is in Master Control. Ontario Transport Security Employees
+       will list the days and shifts that they are interested in working, to include their contact
+       information. Next to their name they shall clearly write Transport Staff and their rank.
+       They will only be eligible to work when mandatory overtime work is going to be
+       assigned and after all SRCI Staff on the at home voluntary overtime list have been
+       exhausted. It is the responsibility of any SRCI Security Staff that have been assigned
+       mandatory overtime, to contact volunteers on the at home voluntary overtime list, in the
+       proper order; 1) any and all SRCI Security Staff on the at home voluntary overtime list.
+       2) Ontario Transport Staff that are on the at home voluntary overtime list.
+
+3.     If the SRCI OIC decides to shut down any voluntary overtime assignment, any Ontario
+       Transport employee present or working overtime must be sent home first.
+
+4.     If the SRCI OIC finds that a Transport Security Employee is not qualified to work a
+       Mandatory Overtime assignment, the Institution shall revert back to using the
+       Institution’s CBA mandatory overtime process.
+
+5.     Ontario Transport Security Employees will not be able to do trades with SRCI Security
+       Staff or split voluntary overtime work. However, Ontario Transport Staff will be able to
+       split or work any portion of an unwanted mandatory overtime assignment.
+
+6.     This Agreement is effective on the date of the last signature and terminates on June 30,
+       2025 unless the Parties mutually agree to extend its provisions.
+
+
+
+
+                                         177                               Collective Bargaining Agreement
+### LETTER OF AGREEMENT #13 – TRANSPORT SECURITY STAFF WORKING
+                      VOLUNTARY OVERTIME AT CCCF
+
+This Agreement is between the State of Oregon, acting through its Department of
+Administrative Services (Employer) on behalf of Department of Corrections (Agency) at Coffee
+Creek Correctional Institution (Institution) and AFSCME Council 75 (Union) on behalf of Local
+405 CCCF and Local 1643 Transport (Local).
+
+This Agreement shall only apply to the CCCF Institution.
+
+This Agreement supplements and amends the Institution’s Article 25 (Working Conditions)
+contained in the 2021-2023 State of Oregon/AFSCME Security Unit Agreement.
+
+The Parties agree to the following:
+      1.     Once the Institution has exhausted the use of the Institution’s weekly and daily
+             overtime signup process when soliciting overtime to fill each shift:
+             a..    Transport Security staff interested in working voluntary overtime at the
+                    Institution will notify the on shift OIC by a telephone call of their availability
+                    to work designated days and hours. The Institution will write the
+                    Transport staff ember’s name on the roster of the shift they are
+                    requesting.
+
+              b.     When voluntary overtime work is available, the Institution will contact
+                     Transport Security staff who have volunteered for designated days and
+                     hours pursuant to current Institution overtime on shift solicitation process.
+
+       2.     Transport Security staff must be qualified to work the voluntary overtime
+              assignment.
+
+       3.     This Agreement becomes effective on the last signature below and terminates
+              June 30, 2025 unless the Parties mutually agree to extend its provisions.
+
+
+
+
+                                          178                                 Collective Bargaining Agreement
+### LETTER OF AGREEMENT #14 - SEXUAL ABUSE RESPONSE TEAM (SART) MEMBER
+                          DIFFERENTIAL PILOT
+
+This Agreement is between the State of Oregon, acting through its Department of
+Administrative Services (Employer), on behalf of the Department of Corrections (Agency), and
+the American Federation of State, County, and Municipal Employees, Council 75, on behalf of
+the Security Bargaining Unit (Union).
+
+The purpose of this Agreement is to establish a pilot differential for Sexual Abuse Response
+Team (SART) members.
+
+Therefore, the Parties agree to the following:
+   1. Institution management will assign SART members in writing. The Institution’s PREA
+      Compliance Manager will maintain and update the list as needed, with a copy to the
+      Union upon request.
+
+   2. If a SART member assignment becomes vacant and the Institution chooses to make an
+      appointment, qualified employees may submit a memorandum to the Institution
+      expressing interest. The Institution will select an employee based upon the institution’s
+      need and the interested employee’s individual qualifications and fit for the assignment.
+      Qualified employees must be in good standing and not have been subject to
+      substantiated sexual abuse or sexual harassment allegations and must be off trial
+      service status.
+
+   3. Employees assigned as a SART Member shall receive two percent (2%) above the
+      employee’s base salary rate.
+
+   4. Assignments shall have start/end dates noted on the written assignment form. At no
+      time shall an employee be expected to perform SART member duties unless assigned
+      in writing and provided the differential. This does not include employees who are
+      required to conduct risk assessment screenings as part of their regular job duties.
+
+   5. Employees selected for the SART Member Assignment will be expected to complete
+      their duties in a timely manner and attend all required trainings and meetings. The
+      Institution’s PREA Compliance Manager will review the performance of each SART
+      Member no less than annually. Any SART Member with unsatisfactory performance will
+      be removed from the SART, at management’s discretion, and will no longer be eligible
+      to receive the differential. If an employee’s removal from the SART assignment is the
+      result of an unsatisfactory performance evaluation, the action will not be considered
+      disciplinary.
+
+   6. If the Inspector General, in consultation with the institution, needs to reduce a particular
+      institution’s team size, and there are no volunteers, reduction will be based upon
+      operational necessity.
+
+   7. This Agreement expires June 30, 2025, unless the Parties mutually agree to extend its
+      provisions.
+
+
+
+                                        179                                Collective Bargaining Agreement
+### LETTER OF AGREEMENT #15 – PAY EQUITY
+
+This Agreement is between the State of Oregon, acting through its Department of
+Administrative Services (Employer) on behalf of Agencies that have AFSCME bargaining units
+in the executive branch of state government (Agency) and AFSCME Council 75 (Union).
+
+This Agreement applies to all of the Union’s bargaining units inside of the executive branch of
+state government.
+
+The purpose of this Agreement is to provide procedures to implement unscheduled pay equity
+adjustments consistent with Oregon law, and, to identify the appeal procedure to have Agency
+or Employer decisions concerning pay equity reviewed.
+
+The Parties agree to the following:
+      1.     Application to Current Employees: The Employer, an Agency Head or designee
+             (with CHRO approval) may provide an unscheduled salary step increase to
+             correct a pay inequity between employees who perform work of a comparable
+             character and are similarly-situated based on relevant factors, identified in
+             Oregon law [ORS 652.220(s)], by which individual employees may be
+             compensated differently. Unscheduled salary step increases may be initiated
+             by:
+             a.     Periodic statewide equal pay analysis processes; (appeal process Section
+                    10)
+             b.     Employee request, and, (appeal process Section 9)
+             c.     Agency identified inequity. (appeal process Section 9)
+
+      2.     Application to Returning Employees (including but not limited to reemployment
+             and return from layoff): An Agency Head or designee may offer a higher salary
+             step than prescribed in the applicable labor agreement when the Agency
+             identifies a pay inequity between employees in the same classification who
+             perform work of a comparable character.
+
+      3.     If an Agency plans to grant an unscheduled salary step increase to an
+             employee(s), the Agency shall first forward the recommendation to CHRO,
+             Classification and Compensation for review and analysis. The CHRO shall
+             approve or disapprove the recommendation and shall provide a written response
+             back to the Agency. If approved, the Agency may take action to implement the
+             pay equity adjustment.
+
+      4.     An employee may request a pay equity review by submitting a Pay Equity
+             Review Request Form to the Agency Human Resources department. This
+             includes employees who are appealing pay equity assessments conducted at
+             the time of hire or internal movements (transfer, promotion, etc.) to new positions
+             where pay equity assessments are performed. The Agency Human Resources
+             department shall review the merits of the request based on the relevant factors
+             and issue a decision within sixty (60) days, unless otherwise mutually agreed to
+             in writing.
+
+
+
+                                       180                               Collective Bargaining Agreement
+5.    Pay equity adjustments are generally effective on the date an employee made a
+      written request to the agency or the date the agency submitted a request to DAS
+      Classification and Compensation, whichever is earlier.
+
+6.    In the event an employee receives an unscheduled salary step advancement for
+      any of the reasons identified in Section 1, the employee’s salary eligibility date
+      shall remain the same.
+
+7.    Agencies shall retain all documents pertaining to decisions involving pay equity.
+
+8.    If the employee meets with the Agency or Employer, the employee may request
+      and obtain Union representation.
+
+9.    Appeal Procedure – Agency Level Pay Equity Decisions.
+      a.   If an employee wishes to appeal an Agency’s pay equity decision as filed
+           under Section 4 of this Agreement, the employee shall submit a
+           completed Pay Equity Appeal Form to the Agency Head (or designee)
+           within fifteen (15) days of receipt of the Agency’s decision. The Agency
+           shall respond to the appeal within thirty (30) days of receipt of the appeal.
+           The appeal must be based on one (1) or more of the factors listed in ORS
+           652.220(2) and the compensation of other employees performing work of
+           a comparable character.
+      b.   If the employee disagrees with the Agency’s decision, the employee may
+           submit a written appeal to the Department of Administrative Services
+           Labor Relations Unit (LRU) within fifteen (15) calendar days of receipt of
+           the Agency’s decision. The employee shall forward all written documents
+           as part of the appeal. The employee shall identify what factors, as
+           outlined above, the Agency did not properly consider. The Department of
+           Administrative Services Labor Relations Unit (LRU) shall respond to the
+           appeal in writing within thirty (30) calendar days.
+      c.   Pay equity appeals are not subject to arbitration. However, nothing in this
+           Agreement precludes the employee from submitting a claim to the Bureau
+           of Labor and Industries (BOLI) in accordance with BOLI’s administrative
+           rules or pursue other legal recourse. The timelines for filing with BOLI or
+           pursuing other legal recourse apply regardless of whether the employee
+           appeals the decision under this Section.
+      d.   For purposes of this Agreement only, the appeal process in this
+           Agreement replaces the grievance procedure outlined in the applicable
+           labor agreement covering the employee.
+      e.   The Employer and Union may agree to extensions of time in this
+           Agreement upon mutual agreement in writing.
+
+10.   Appeal Procedure – DAS Statewide Equal Pay Analysis Decisions
+      a.   An employee may appeal the Employer’s decision concerning the
+           employee’s salary that resulted from a statewide equal pay analysis. The
+           appeal must be based on one (1) or more of the factors listed in ORS
+           652.220(2) and the compensation of other employees performing work of
+           a comparable character.
+
+
+                                181                               Collective Bargaining Agreement
+      b.    An appeal of the Employer’s equal pay analysis decision may be filed by
+            sending a completed DAS Pay Equity Appeal Form via electronic mail to
+            CHRO.CNC@Oregon.gov no later than 11:59 PM, PST on February 28,
+            2019. The Employer shall make a good faith effort to respond with a
+            decision regarding the employee’s appeal no later than June 30, 2019.
+            Upon notice to the Union, the Employer may extend the June 30, 2019
+            deadline.
+
+      c.    The timelines for filing with BOLI or pursuing other legal recourse apply
+            regardless of whether the employee appeals the Employer’s decision
+            under this Section.
+
+      d.    Pay adjustments made as a result of accepted appeals shall be made
+            retroactively to January 1, 2025.
+
+      e.    To be eligible to file an appeal of the DAS statewide equal pay analysis
+            decision an employee must have been employed by a state executive
+            branch agency as of July 1, 2024. Employees who do not meet these
+            eligibility requirements may pursue an appeal through Section 4 of this
+            Agreement.
+
+      f.    Employees at the top step of the salary range assigned to their job
+            classification on or before January 1, 2025 are not eligible to file an
+            appeal.
+
+      g.    The Employer shall notify an employee of the outcome of the employee’s
+            appeal.
+
+      h.    If the employee disagrees with the Employer’s response, the employee
+            may submit a claim to the Bureau of Labor and Industries (BOLI) or
+            pursue other legal recourse. Pay equity appeals are not subject to
+            arbitration.
+
+      i.    For purposes of this Agreement only, the appeal procedure in this
+            Agreement replaces the grievance procedure outlined in the applicable
+            labor agreement covering the employee.
+
+11.   This Agreement becomes effective on the date of the last signature below and
+      expires June 30, 2025.
+
+
+
+
+                              182                              Collective Bargaining Agreement
+### LETTER OF AGREEMENT #16 – CONTRACT SPECIALIST
+
+This Agreement is between the State of Oregon, acting through its Department of
+Administrative Services (Employer) on behalf of the all Agencies covered under the jurisdiction
+of the AFSMCE Central Table (Agency) and AFSCME Council 75 (Union).
+
+The purpose of this Agreement is to establish Employer paid Contract Specialists to improve
+labor/management relationships at all levels of state government.
+
+The Parties agree to the following:
+
+Selection and Appointment of Contract Specialist:
+A.     The selection and appointment of a Contract Specialist shall be mutually agreed upon
+       by the Employer and Union.
+B.     The Union may have no more than one (1) Contract Specialist for every two thousand
+       (2000) FTE bargaining unit positions from Agencies that are within the jurisdiction of the
+       AFSCME Central Table and Department of Corrections.
+C.     The duration of a Contract Specialist shall be mutually agreed upon by the Employer
+       and Union.
+D.     The Parties shall establish an agreement which shall be signed by all Parties stipulating
+       to the terms and conditions of the Contract Specialist assignment.
+E.     Employees selected as Contract Specialist must maintain all necessary certifications,
+       licensures and training requirements of their Agency position with costs and
+       reimbursements if applicable governed under the Agreement.
+F.     While the State is the Employer of record, the Union has the sole control, oversight and
+       direction of employees appointed as Contract Specialists. Therefore, the Union shall
+       indemnify and save the Employer harmless from any and all costs, should any arise,
+       associated with actions taken by the Contract Specialist on behalf of the Union.
+G.     In the event the Employer/Agency determines a Contract Specialist is potentially
+       violating law or not complying with Employer/Agency policies or the local Agency
+       Collective Bargaining Agreement, the Agency shall immediately notify the Union. The
+       Agency shall investigate the matter and take action as necessary consistent with the
+       local Agency Collective Bargaining Agreement including disciplinary action. Before any
+       Agency action is taken, the Union may remove the employee from the assigned
+       worksites.
+
+Pay and Benefits:
+A.    The Agency shall continue to pay salary and benefits which includes pension
+      contribution, insurance and paid leave time consistent with what they earned before
+      their appointment. Employees appointed as a Contract Specialist shall not be eligible
+      for reimbursement for uniforms, boots or other ancillary items while serving as a
+      Contract Specialist the specific which will be noted in the employee’s Contract
+      Specialist agreement.
+B.    Contract Specialists shall submit monthly timesheets recording a maximum of forty (40)
+      hours of work each week. The timesheet shall be signed and verified by the Executive
+      Director or designee of the Union. All leave taken, regardless of type, must be clearly
+      identified.
+                                        183                               Collective Bargaining Agreement
+C.    The Agency shall place the Contract Specialist on leave with pay for the duration of the
+      assignment. The calculation of seniority shall be consistent with the terms of the
+      applicable local Agency Collective Bargaining Agreement.
+D.    Where the Union has a designated Contract Specialist, the Agency shall pay up to
+      eighty-five thousand ($85,000) a year for the Contract Specialist salary. Any salary
+      costs above eighty-five thousand ($85,000) per year shall be paid by the Union by
+      reimbursing the Agency using Agency established policies and procedures for
+      reimbursement. The details of the reimbursement will be contained within the Contract
+      Specialist’s individual agreement.
+E.    The Agency shall not be liable for any overtime costs while the Contract Specialist is on
+      assignment with the Union.
+
+Travel and Reimbursements:
+A.     Time spent traveling on behalf of the Union shall be on Agency time.
+B.     The Union shall be responsible for all travel expenses including but not limited to
+       mileage, lodging, meals and other incidental travel expenses.
+C.     Contract Specialists shall not use or be assigned a state car for travel.
+
+Duties:
+A.     The Contract Specialist, DAS Labor Relations Unit and Agency Human Resources staff
+       shall work cooperatively when performing the following duties:
+           a. Interpret and administer the local Agency Collective Bargaining Agreement.
+           b. Education on the local Agency Collective Bargaining Agreement.
+           c. Provide guidance in grievance and problem resolution.
+           d. Improve steward capacity.
+           e. Work toward consistent application of the local Agency Collective Bargaining
+               Agreement.
+           f. Provide guidance on developing and improving labor/management committees.
+           g. Participate in new employee orientation as provided for in the local Agency
+               Collective Bargaining Agreement.
+B.     If a DOJ attorney is appointed to serve as a Contract Specialist, the attorney shall
+       stipulate in the signed agreement that they will not practice law as that term is used in
+       law and Oregon State Bar rules, regulations, official opinions and decisions.
+C.     The Contract Specialist shall follow all applicable Employer and Agency policies while
+       serving in the capacity of a Contract Specialist.
+D.     The Contract Specialist shall not be assigned duties that involve strike preparation,
+       strike panning, strike coordination activities or interest arbitration preparation.
+
+Dispute Resolution:
+Notwithstanding any agreements that include grievance/arbitration procedure, if there is a
+disagreement between the Employer and the Union regarding the interpretation and
+application of this Letter of Agreement, the Employer and Union shall meet and attempt to
+resolve the matter. If, after fourteen (14) calendar days there no resolution, the moving party
+may request arbitration. The Parties shall use the arbitration procedure outlined the
+agreement where the employee is employed.
+
+
+                                        184                               Collective Bargaining Agreement
+Indemnification:
+The Union shall indemnify and the Union and Contract Specialists hold the Employer and
+Agency harmless against any and all claims, damages, suits or other forms of liability which
+may arise out of any action taken or not taken by the Employer/Agency for the purpose of
+complying with this Letter of Agreement on Contract Specialists.
+
+The Union shall not indemnify the Employer/Agency for grievance/arbitration disputes.
+
+Term of Agreement:
+This Agreement becomes effective on the date of the last signature and ends on June 30,
+2025 unless renewed by the Parties or the Parties agree to amend its provisions.
+
+
+
+
+                                       185                              Collective Bargaining Agreement
+### LETTER OF AGREEMENT #17 - TRCI VOLUNTARY OVERTIME SIGNUPS
+
+This Agreement is between the State of Oregon acting through its Department of
+Administrative Services (Employer) on behalf of the Department of Corrections (Agency) at
+Two Rivers Correctional Institution (Institution) and AFSCME Council 75 (Union) on behalf of
+Local 974 (Local).
+
+The purpose of this Agreement is to supplement Article 25 Section 9 (TRCI) of the 2019-2021
+State of Oregon/AFSCME Security Unit agreement on the Institution’s procedure on voluntary
+overtime signups.
+
+This Agreement shall only apply to the Union’s Security staff at the Institution.
+
+The Parties agree to the following:
+1.    Original contract is still in place except for the following:
+      a.     Staff can sign up for one (1) at the beginning of the sign up. Then after all staff
+             have had a chance then you can sign up for as many as you want.
+      b.     Staff that work a split shift will sign up with the shift they spend the most time on
+             IE: 3 day shift and 2 swing shift staff will sign up with day shift.
+      c.     After the optimal number is reached and all open positions are full staff may sign
+             up on the VOS Tickler for each shift staff when placing their name and number
+             on this list will give the OIC/AOIC permission to call them at anytime and offer
+             new positions that come up on the board this will be up to and including the
+             beginning of the shift.
+      d.     It is critical for the Shift Captain to assign staff where they are best served for
+             any institutional needs. This is intended in the even a staff member volunteers
+             to work a post but lacks the experience and knowledge base needed for the
+             specific post. The staff member will be allowed to work the overtime but may be
+             assigned to a post equivalent to their abilities. It is expected the staff member
+             signing up for voluntary overtime will have the ability to work the post they
+             selected unfettered and with the undue hardship to the Institution. But if the staff
+             member arrives at the Institution and the job has been changed the staff
+             member has the ability to not work the overtime and would not be subject to any
+             discipline from the VOS language in the contract.
+      e.     Available posts will be populated on the VOS. Available posts will consist of
+             vacancies due to bid vacation, in-service, unbid posts, staff on long term
+             absence or duty stationed. Posts will not be added that are a result of leave
+             requests following bid vacation, short term absence, sick leave, bereavement
+             leave and hospital watch unless it is pre-scheduled absence. A qualifying post
+             that becomes available after the VOS is posted will be added when a weekly
+             update is done and staff that have signed up on the VOS daily tickler will not be
+             notified.
+      f.     When the VOS is updated all the date of update will be included.
+      g.     Staff who wish to sign up for overtime during the designated timeframe may
+             contact the Shift Captain at 6058. Following the designated time frame for sign
+             up, staff will be responsible for coordinating with the Shift Captain to sign up for
+             VOS.
+
+
+
+                                         186                                Collective Bargaining Agreement
+2.   This Agreement is subject to ratification of the Union’s Security staff at the Institution.
+
+3.   This Agreement becomes effective on July 3, 2020 and ends June 31, 2025 unless
+     mutual agreement to extend or amend.
+
+
+
+
+                                        187                                Collective Bargaining Agreement
+### LETTER OF AGREEMENT # 18 – PILOT BIANNUAL VACATION BIDDING DEER RIDGE
+                        CORRECTIONAL FACILITY
+
+This Agreement is between the State of Oregon, acting through the Department of
+Administrative Services (Employer) on behalf of the Department of Corrections (Agency) at
+Deer Ridge Correctional Facility (Institution) and AFSCME Council 75 (Union).
+
+The purpose of this Agreement is to establish a pilot project to implement a biannual vacation
+bidding process at the Institution.
+
+The Parties agree to the following:
+      1.     Employees will bid for vacation biannually in April and October of each year.
+
+      2.     Biannual vacation bidding shall take place within fourteen (14) calendar days
+             after the completion of the shift/days off bid.
+
+      3.     The matrix outlined in Article 32, Section 14(e) of the Agreement will be applied
+             for the entire year.
+
+      4.     Each employee will be allotted a five (5) minute bid window to bid for vacation
+             time off.
+
+      5.     Prior to implementation, DRCI Management and Local 745 will meet to mutually
+             define the implementation process.
+
+      6.     This Agreement shall start upon ratification of the AFSCME Security 2021-2023
+             CBA. This Agreement shall sunset on June 30, 2025 unless both Parties
+             mutually agree to extend its provisions.
+
+
+
+
+                                       188                               Collective Bargaining Agreement
+### LETTER OF AGREEMENT #19 – ESSENTIAL WORKER INCLEMENT
+                    WEATHER/HAZARDOUS CONDITIONS PAY
+
+This Agreement is between the State of Oregon, acting through the Department of
+Administrative Services (Employer) on behalf of the Department of Corrections (Agency) and
+AFSCME Council 75 (Union) on behalf of the AFSCME Security bargaining unit (Locals).
+
+The Parties agree to the following:
+When a situation exists that would otherwise close or curtail state offices, essential workers
+having to report to work, in-person, shall receive the Essential Worker Inclement
+Weather/Hazardous Conditions Pay differential.
+
+The Essential Worker Inclement Weather/Hazardous Conditions Pay differential shall be three
+dollars ($3.00) per hour for all hours worked on a designated closure or curtailment day,
+regardless of the starting or ending time.
+
+
+
+
+                                       189                              Collective Bargaining Agreement
+### LETTER OF AGREEMENT #20 – NATURAL DISASTER LEAVE
+
+This Agreement is between the State of Oregon, acting through its Department of
+Administrative Services (Employer) on behalf of the Department of Corrections (Agency) and
+AFSCME Council 75 (Union) on behalf of the Security Bargaining Unit (Locals).
+
+This Letter of Agreement shall supersede any conflicting provisions in the collective bargaining
+agreements for the duration of the Letter of Agreement.
+
+We recognize that state of Oregon employees provide essential services and benefits to
+Oregonians every day. Their work is often the last or only option for support when Oregonians
+are faced with an emergency.
+
+      1. An employee who, due to a natural disaster, has:
+             a. lost their home (primary residence);,
+             b. lost use of their primary residence (deemed uninhabitable); or
+             c. lost access to their primary residence,
+      shall be eligible for a maximum of eighty (80) hours of paid administrative leave,
+      prorated for part-time employees. This leave will be available for intermittent use.
+
+      2. Employees who have used the eighty (80) hours of paid administrative leave
+      identified in #1 may request donated leave. Donated leave received will not exceed the
+      amount needed to cover the absence. Donators may donate their accrued vacation or
+      compensatory leave.
+
+This Letter of Agreement will sunset on June 30, 2025, unless extended by mutual agreement.
+
+
+
+
+                                        190                               Collective Bargaining Agreement
+### LETTER OF AGREEMENT #21 – COMPENSATION – WAGE AND BENEFITS – ‘ME TOO’
+
+This Agreement is between the State of Oregon, acting through its Department of
+Administrative Services (Employer), on behalf of the Department of Corrections (Agency), and
+AFSCME Council 75 (Union) on behalf of the AFSCME Security Unit.
+
+The Parties agree that if any non-strikeable bargaining unit in the executive branch of
+government contains an agreement that includes more generous terms for any of the below
+economic elements, then the Union may contact the DAS Labor Relations Unit to determine
+whether to reopen negotiations with the AFSCME Security Bargaining unit.
+
+Should the Employer reach a settlement with any other bargaining unit during the 2021
+successor contract negotiations that includes an increase to compensation or benefits such as
+but not limited to:
+
+      1)     Similar classification Salary Selective Increase
+      2)     An additional Top Step
+      3)     An add/drop salary range increase.
+      4)     A higher percentage or earlier across the board or COLA increase
+      5)     Lower cost share or other improvement to Health Insurance
+      6)     Or any other form of increase to compensation or benefits
+
+This Agreement becomes effective on the date of the last signature below and ends June 30,
+2025.
+
+
+
+
+                                      191                              Collective Bargaining Agreement
+### LETTER OF AGREEMENT #22 – CRCI BIDDING
+
+This Agreement is between the State of Oregon, acting through its Department of
+Administrative Services (Employer), on behalf of the Department of Corrections (Agency), at
+the Columbia River Correctional Institution (Institution), and AFSCME Council 75, on behalf of
+Local 3941 (Union).
+
+The purpose of this Agreement is to modify the Institution’s Local Article 25 concerning
+Bidding and Shift Trades.
+
+Therefore, the Parties agree to the following:
+
+                                       Bidding Process.
+Employees who have completed initial trial service may bid shift and days off in order of
+seniority as defined in Section 8 of this Article. Employees whose trial service will be
+completed prior to the effective date of the shift and days off change (first Sunday of April and
+October) shall be allowed to participate in the shift and days off bidding process.
+
+Bids will address shift and days off. Bidding will occur every six (6) months, becoming effective
+on the first Sunday of April and October. The Security Manager shall post work schedules
+thirty (30) calendar days before the rotation date. The mechanics of the bidding procedure
+shall be determined in consultation with the Union at labor/management meetings. All bids
+must be in writing, signed by the bidding employee, and numbered by preference, if placing
+more than one (1) bid. Employees may submit up to three (3) bids. The new schedule will be
+posted no less than seven (7) calendar days prior to the effective date.
+
+If an employee fails to successfully secure a shift and days off bid by not participating in the
+below process, they will be assigned a shift and days off at Management’s discretion. If an
+employee misses their bid time, they may still bid telephonically or in person anytime before
+the bid process is completed, but not displace any employee that have already bid.
+
+Bidding may be telephonic or in person at the employee’s specified bid time or in writing to
+include e-mail, in advance of their bid time. If e-mailing a bid, the employee will use an
+authorized bid form attached to the e-mail. If submitting a bid in writing or e-mail, an employee
+may choose up to three (3) shift and days off choices in order of preference with the first one
+being their first choice and so on. If their written or e-mailed bid is successful, their bid may not
+be changed. If none of their choices are available at their bid time, they will receive an
+opportunity to bid under the telephonic bid process or in person as outlined below.
+
+Telephonic bids will commence as follows: A Local 3941 union representative with a
+management representative or designee present, will call the employee’s primary contact
+phone number and or alternate number they have on file at the beginning of their bid time.
+One (1) attempt will be made on the primary and the alternate if one is on file. A message will
+be left for each contact attempt, if possible. If a successful contact is made the employee will
+choose an available shift and days off slot within their job classification. The employee agrees
+to have a member of management or designee and the union representative sign their bid
+sheet on their behalf. If bidding gets ahead of schedule staff may be contacted earlier than
+their bid time to place their bid if the posted seniority order of bidding remains the same.
+
+
+                                          192                                Collective Bargaining Agreement
+In person bidding will commence as follows: During an employee’s bid time they will choose
+an available shift and days off slot within their classification and then fill out and sign their bid
+paperwork. Staff that are working/on shift at their bid time may choose to be relieved for in
+person bidding or bid telephonically.
+
+Institution management will make the specific daily work schedules and may only remove or
+deny an employee from a work schedule for valid cause. Moving staff out of bid assignments
+to fill overtime is not considered a valid cause.
+
+This Agreement becomes effective the date of the last signature below and terminates June
+30, 2025, unless the Parties mutually agree to extend.
+
+
+
+
+                                          193                                Collective Bargaining Agreement
+### LETTER OF AGREEMENT # 23 - STAFF HEALTH, WELLNESS, AND RECRUITMENT AND
+                         RETENTION PILOT (DRCI)
+
+This Agreement is between the State of Oregon, acting through the Department of
+Administrative Services (Employer), on behalf of the Department of Corrections (Agency), at
+the Deer Ridge Correctional Institution (Institution) and AFSCME Council 75 (Union).
+
+The purpose of this Agreement is to establish a pilot to implement twelve (12) hour shift
+scheduling at DRCI. The intent of this pilot is to improve the health and wellness of the staff,
+assist with recruitment and retention, and continue operation of a safe, secure, and orderly
+institution.
+
+Therefore, the Parties agree to the following:
+
+      1.        The Institution will provide a twelve (12) hour shift schedule with alternating four
+                (4), twelve (12) hour days, followed by three (3) days off, then ending with three
+                (3), twelve (12) hour shifts, followed by four (4) days off. The standard workday
+                shall be a period of twenty-four (24) hours, containing twelve (12) consecutive
+                hours of work, interrupted by rest and meal periods. Meal periods during the
+                forty-eight (48) hour week will be thirty (30) minutes. Meal periods during the
+                thirty-six (36) hour week will be forty (40) minutes. The following is an example:
+
+                  Sunday      Monday     Tuesday    Wednesday     Thursday     Friday        Saturday
+      Shift
+                                    0530 – 1730                       Off         Off              Off
+           1A
+                          30 min. unpaid meal period daily.
+
+                                    1730 – 0530                       Off         Off              Off
+           1B
+                          30 min. unpaid meal period daily.
+
+                    Off          Off        Off          Off                0530 – 1730
+           2A                                                        40 min. unpaid meal period
+                                                                               daily.
+
+                    Off          Off        Off          Off                1730 – 0530
+           2B                                                        40 min. unpaid meal period
+                                                                               daily.
+
+      2.        For the twelve (12) hour schedule, the Employer adopts a fourteen (14) day 7-K
+                FLSA exemption starting the first day the twelve (12) hour shift begins. Saturday
+                and Sunday will be considered consecutive days off within the workweek.
+
+      3.        Overtime for employees working “twelve (12) hour shifts” is time worked in
+                excess of their regularly scheduled shift or the regularly scheduled hours within
+                the employee’s basic workweek. If an employee is required to work more than
+                their regularly scheduled shift, in any twenty-four (24) hour period, they shall be
+                paid at the overtime rate for all hours in excess of their regularly scheduled
+                hours during that same twenty-four (24) hour period.
+
+                                            194                              Collective Bargaining Agreement
+4.    There will be one (1) Voluntary and one (1) Mandatory overtime list maintained
+      for all classifications. Each overtime list will be comprised of all Sergeants,
+      Corporals and Officers. When the need for Mandatory Overtime is determined,
+      the Officer in Charge will use the overtime list to find the first eligible staff
+      currently on shift, regardless of scheduled work hours, to be hired.
+
+5.    In addition to Article 25, Section 2b, employees working a “twelve (12) hour shift”
+      will be provided an additional fifteen (15) minute rest period, preferably between
+      the eighth (8th) and eleventh (11th) hours of the employee’s shift.
+
+6.    When a holiday occurs on a day the employee would normally be scheduled to
+      work, but does not, the employee shall utilize other available paid leaves to
+      make up the balance of the holiday off, up to their regularly scheduled shift, less
+      the daily meal period of thirty (30) or forty (40) minutes, depending upon the
+      weekly schedule. When a holiday occurs on a day the employee would normally
+      be scheduled off, the employee will continue to receive eight (8) hours of paid
+      holiday (eight (8) hours of pay at the straight time rate).
+
+7.    The Institution will offer two (2) weeks of vacation, each week, for each block of
+      twelve (12) hour shifts (1A, 1B, 2A, 2B) and three (3) weeks of vacation, each
+      week, for the block of eight (8) and ten (10) hour shifts that will be available for
+      bid. A total of eleven (11) weeks of vacation will be available for bid each week.
+
+8.    The metric used for the duration of the pilot, to assess the health and wellness of
+      staff, will be the use of unprotected sick leave.
+
+9.    Line Bidding: Bids will address only shifts and days off but will include the names
+      of the post assignments typically associated with each shift and days off
+      assignment. Bidding will occur every six (6) months and will become effective on
+      the first Sunday of March and September. Management reserves the right to
+      assign staff.
+      a.      For shifts and days off assignments that are typically associated with a
+              specific post, an employee will not be assigned for more than two (2)
+              consecutive bids. Shift and days off that do not have multiple post
+              assignments are exempt from this subsection.
+
+10.   Employees who wish to change from an eight (8) or ten (10) hour schedule to a
+      twelve (12) hour schedule or wish to change from a twelve (12) hour schedule to
+      an eight (8) or ten (10) hour schedule, shall hold the Institution harmless for any
+      penalty payments.
+
+11.   This Agreement is effective as of the date of the final signature below, will be
+      implemented at the next shift and vacation bid following Local ratification,
+      supersedes any previous agreements on this matter, and expires one (1) year
+      from the date the new schedules begin unless the Parties mutually agree to
+      extend. A reopener shall be conducted at the request of either Party at
+      approximately the six (6) month mark to evaluate effectiveness and determine
+      whether to continue, modify or cease the pilot.
+
+
+                                 195                               Collective Bargaining Agreement
+### LETTER OF AGREEMENT #24 - OPSRP EMPLOYEE SICK LEAVE CONVERSION PILOT
+                               PROGRAM
+
+This Letter of Agreement (LOA) is between the State of Oregon, acting through the
+Department of Administrative Services (Employer), on behalf of the Oregon Department of
+Corrections (Agency), and the American Federation of State, County, and Municipal
+Employees (AFSCME), on behalf of the Security bargaining unit (Union).
+
+The purpose of this LOA is to establish a pilot program for Oregon Public Service Retirement
+Plan (OPSRP) employee contributions to the Oregon Savings Growth Plan (OSGP) for current
+and future members of the Union.
+
+Now, therefore, the Parties do agree as follows:
+
+1.    Effective September 1, 2023, or first of the month following an arbitration award
+      whichever is later, employees who are represented by the Union and are under the
+      OPSRP shall have the option, once per calendar year, to direct the Employer to make
+      an irrevocable contribution to the employee’s OSGP account, on a pre-tax basis, for up
+      to fifty (50) hours of the employee’s sick leave.
+
+2.    The employee must have a balance of one hundred (100) hours of sick leave after the
+      irrevocable contribution to be eligible. Employees must not have had unprotected leave
+      without pay for one hundred and eighty (180) days prior to the requested irrevocable
+      contribution.
+
+3.    The employee’s sick leave balance will be reduced by the amount of hours they
+      converted and contributed to their OSGP account.
+
+4.    Employees shall not have the option to receive a cash payout for the value of the
+      accrued sick leave in lieu of making contributions to the OSGP.
+
+5.    Employee contributions will automatically cease June 30, 2025, unless the Parties
+      agree otherwise.
+
+6.    The Employer is not a party to the OSGP, aside from transferring funds, and has no
+      obligations to the management, regulatory compliance or performance of the OSGP.
+
+7.    This LOA cannot be grieved or arbitrated.
+
+8.    This Pilot LOA will automatically sunset June 30, 2025, unless renewed by the Parties.
+
+
+
+
+                                       196                             Collective Bargaining Agreement
+### LETTER OF AGREEMENT #25 — BI-WEEKLY PAY PERIOD
+
+This Letter of Agreement is between the State of Oregon, acting through its Department of
+Administrative Services (Employer) on behalf of the Department of Corrections (Agency) and
+the AFSCME Council 75 (Union) on behalf of the Security Bargaining Unit (Locals).
+
+To modernize and standardize pay practices, the State will evaluate the potential transition
+from monthly pay periods to bi-weekly pay periods.
+
+Therefore, the Parties agree to the following:
+1.    The Employer shall convene a Joint Labor Management Statewide Bi-weekly Payroll
+      Implementation Workgroup comprised of equal number of labor partners and members
+      from management with two (2) AFSCME Security members appointed by the Union.
+      The purpose of this workgroup is to assist in the design and implementation of bi-
+      weekly payroll including, but not limited to, the assessment of organizational readiness
+      for change, the design of the communication plan, business requirements and testing,
+      change management plan, and employee training. The workgroup shall meet on a
+      schedule it chooses, but no less frequently than once per month.
+
+2.    By January 1, 2025, the workgroup will put forth a report on their findings and an
+      opinion as to the Employer’s readiness to launch bi-weekly payroll, which will be shared
+      with the DAS Director and Union utilizing the following criteria:
+      a.     System Readiness: Ensuring that the bi-weekly payroll system is full developed,
+             tested, and ready for deployment.
+      b.     Data Accuracy: Validate the accuracy and integrity of employee data within the
+             bi-weekly payroll system.
+      c.     Compliance: Ensure that the bi-weekly payroll system complies with all
+             applicable legal and regulatory requirements, such as tax laws, employment
+             regulations, and data protection policies.
+      d.     Training and Support: Provide training and resources for employees who will be
+             using the new payroll system. This includes ensuring that all relevant personnel
+             are trained on how to operate the system effectively and efficiently, and that
+             ongoing support mechanisms are in place to address any questions or issues
+             that may arise.
+      e.     Organizational Readiness: Using standardized change management tools, such
+             as the ADKAR model, confirm that impacted staff are ready for implementation
+             of the bi-weekly payroll system.
+
+3.    The State shall develop training for all employees and Agency payroll staff on the
+      necessary topics related to the transition. The training will include explanation of how
+      deductions (for health insurance contributions, PERS contributions, and deferred
+      compensation, for example) and leave accruals (for vacation and sick leave, for
+      example) will be implemented in bi-weekly paychecks. The training will also explain
+      how overtime will be reported, calculated, and paid. The training shall provide multiple
+      avenues of explanation (such as webinars, self-directed learning, and in-person
+      training) sufficient to explain that employees’ pay is not reduced as a result of the bi-
+      weekly timing of paychecks.
+
+
+
+                                       197                               Collective Bargaining Agreement
+4.    The Parties agree to establish a DOC Joint Labor Management Committee to discuss
+      and identify modification in areas of the Security CBA where calculations of hours
+      worked or frequency of pay are applied such as: pay dates, deductions, leave accruals,
+      holiday proration, union dues, PEBB contributions, etc. This list is not exhaustive and
+      may be expanded as the contract is reviewed by the Joint Labor Management
+      Committee for preparation of bi-weekly pay change implementation. The committee
+      will share the results of their work with the DAS Director and Union.
+
+5.    The DOC Joint Labor Management Committee shall be comprised of seven (7)
+      members, with three (3) AFSCME Security represented employees appointed by the
+      Union, two (2) management representatives, one (1) Union staff and one (1) DAS State
+      Labor Relations Manager. The Union and State may have additional staff work with the
+      committee.
+
+6.    The committee shall meet on a schedule it chooses, but no less frequently than once
+      per month.
+
+7.    Committee and workgroup members convened in accordance with the LOA will be on
+      paid status and shall be reimbursed for authorized travel expenses as per State Travel
+      Policy. Agencies will not incur any overtime as a result of committee meetings or travel.
+      Flexing schedules will be allowed to avoid overtime.
+
+Alleged violations of this LOA are not subject to the grievance and arbitration procedure
+outlined in Article 51.
+
+
+
+
+                                       198                               Collective Bargaining Agreement
+### LETTER OF AGREEMENT #26 – ONE-TIME COLA PAYMENT
+
+This Agreement is entered into between the State of Oregon, acting through its Department of
+Administrative Services (DAS), on behalf of the Oregon Department of Corrections, and the
+AFSCME Council 75 (Union), on behalf of the Security bargaining unit.
+
+In recognition of the high rate of inflation, the parties agree to the following:
+
+All employees as of July 1, 2023, that are still employed as of August 24, 2023, will receive a
+one-time one thousand and five hundred dollar ($1,500) cost of living payment with their
+September 1, 2023 paycheck.
+
+Payments issued through this Letter of Agreement will be considered wages for tax purposes
+and are PERS subject.
+
+This Letter of Agreement will sunset on June 30, 2025.
+
+
+
+
+                                          199                                 Collective Bargaining Agreement
+### LETTER OF AGREEMENT #27 – SALARY RANGE TRUNCATION
+
+This Agreement is entered into between the State of Oregon, acting through its Department of
+Administrative Services (DAS), on behalf of the Department of Corrections (Agency) and the
+AFSCME Council 75 (Union) on behalf of the DOC Security Bargaining Unit (Locals).
+
+1) Effective April 1, 2024, the following classifications in salary range 21 and below will be
+   truncated by removing the first three steps in each salary range:
+                    Classification Title                 Class #      SR #
+                    Correctional Corporal                6776         19
+                    Correctional Officer                 6775         18
+                    Correctional Sergeant                6777         21
+
+   Effective April 1, 2025, the classifications listed above shall have an additional step
+   removed from the truncated range.
+
+   Employees whose current rate is below the first step of the new truncated salary range
+   shall be moved to the first step of the truncated range and shall remain there until their
+   next salary eligibility date. Employees will maintain their current salary eligibility date.
+
+   Employees whose current rate is within the new truncated salary range shall remain at
+   their current rate in the truncated range and shall remain there until their next salary
+   eligibility date. Employees will maintain their current salary eligibility date.
+
+
+
+
+                                       200                               Collective Bargaining Agreement
+### APPENDIX A DEPARTMENT OF ADMINISTRATIVE SERVICES
+      HUMAN RESOURCES DIVISION POLICIES APPLICABLE TO BARGAINING UNIT
+
+          Policy Name                                                                               Policy Number
+          Employee Personnel Records                                                                10.011.01
+          Support of Employee’s Work and Family Needs                                               10.030.02
+          Support of Employee’s Participation in Mentoring Program                                  10.030.03
+          Job Evaluation and Position Benchmarks                                                    20.000.05
+          Fair Labor Standards Act                                                                  20.005.20
+          Current Employee Relocation                                                               40.055.10
+          New Employee Relocation                                                                   40.055.20
+          Discrimination and Harassment Free Workplace                                              50.010.01
+          Violence Free Workplace                                                                   50.010.02
+          Maintaining a Professional Workplace                                                      50.010.03 1
+          Workplace Effects of Domestic Violence, Sexual Assault
+               and Stalking                                                                         50.010.04
+          Reinstatement and Reemployment of Injured Workers                                         50.020.03
+          Early Return to Work of Injured Workers                                                   50.020.05
+          Telecommuting                                                                             50.050.01
+          Statutory Required Leaves With and Without Pay                                            60.000.12
+          Family Medical Leave                                                                      60.000.15
+          Military Leave                                                                            60.000.25 2
+
+
+
+
+1 Pursuant to an agreement during the 2007 negotiations, this policy already applies to the bargaining unit.
+  See Article 9, Section 5 of the agreement.
+2 There is also a 2005 grievance settlement that affects implementation of this policy.
+                                                     201                                         Collective Bargaining Agreement
+### APPENDIX B - CLASSIFICATION PLAN
+
+ CLASSIFICATION TITLE    SALARY
+                         RANGE
+ Correctional Officer      18
+ Correctional Corporal     19
+ Correctional Sergeant     21
+
+
+
+
+               202                 Collective Bargaining Agreement
+### APPENDIX C - SALARY SCHEDULE
+
+                                  SALARY SCHEDULE AS OF JULY 1, 2023
+Salary   Pay / Rng
+Range     Option     Step 1 Step 2 Step 3 Step 4 Step 5 Step 6 Step 7 Step 8               Step 9      Step 10
+  18        AP        4524   4718   4937   5160   5399   5653   5922   6178                 6549        6860
+  19        AP       4718     4937    5160         5399   5653   5922   6178     6447       6833         7158
+  21        AP       5160     5399    5653         5922   6178   6447   6737     7040       7462         7817
+
+
+                               SALARY SCHEDULE AS OF DECEMBER 1, 2023
+Salary   Pay / Rng
+Range     Option     Step 1 Step 2 Step 3 Step 4 Step 5 Step 6 Step 7 Step 8               Step 9      Step 10
+  18        AP        4818   5025   5258   5495   5750   6020   6307   6580                 6975        7306
+  19        AP       5025     5258    5495         5750   6020   6307   6580     6866       7277         7623
+  21        AP       5495     5750    6020         6307   6580   6866   7175     7498       7947         8325
+
+
+                                 SALARY SCHEDULE AS OF APRIL 1, 2024
+Salary   Pay / Rng
+Range     Option     Step 1 Step 2 Step 3 Step 4 Step 5 Step 6 Step 7 Step 8               Step 9      Step 10
+  18        AP                             5495   5750   6020   6307   6580                 6975        7306
+  19        AP                                     5750   6020   6307   6580     6866       7277         7623
+  21        AP                                     6307   6580   6866   7175     7498       7947         8325
+
+
+             SALARY SCHEDULE AS OF JANUARY 1, 2025 OR FEBRUARY 1, 2025 (per Salaries Article)
+Salary   Pay / Rng
+Range     Option     Step 1 Step 2 Step 3 Step 4 Step 5 Step 6 Step 7 Step 8               Step 9      Step 10
+  18        AP                             5855   6127   6414   6720   7011                 7432        7785
+  19        AP                                     6127   6414   6720   7011     7316       7754         8122
+  21        AP                                     6720   7011   7316   7645     7989       8468         8870
+
+
+
+
+                                             203                                   Collective Bargaining Agreement
+                     2023-202S AFSCME SEClJRJJY SIGNATURE PA E
+                 Signed this JJL. day oL,October     , 2023, at Salem, 0 egon.
+
+ FOR THE STATE OF OREGON
+
+
+ Berri Leslie, Director
+ Department of Administrative Services
+
+
+ Lisa Masterson, Notetaker                          Mar
+                                                    Ad
+
+
+
+
+·cherie Gree   ade, Bargaining Team Member
+
+   . ) \ ~ ~.- -
+Greg Jones, B rgaining Team Member
+
+     :;s~~
+Shawn Range, Bargaining Team Member
+
+, ~            ~t;lrrvk
+
+
+
+
+Allan Maclean, Representative
+Oregon AFSCME, Council 75
+    C:::::-------
+    /~~::::~~~ ~
+                 -~             -
+
+
+
+
+                                                                  RCF
+                                                   '--        • ,Greg_Ti
+
+
+
+                                                                                        --
+                                                   Darren Holden, Council : 5 Staff
+
+
+                                                                            5 Staff .
+
+
+
+
+2023-2025 DOC Security Signature Page
+Department of Administrative Services
+Chief Human Resources Office
+Labor Relations Unit
+155 Cottage Street NE
+Salem, OR 97301-3971
+LRU@oregon.gov
+
+
+The official version of this Agreement is held by the Department of Administrative Services Labor Relations
+Unit on its electronic files at the website below. The Department of Administrative Services does not
+recognize any other copies or publications of this Agreement.
+
+Electronic version of the Agreement located at:
+http://www.oregon.gov/das/HR/Pages/LRU.aspx
+
+
+
+
+                                                  205                                       Collective Bargaining Agreement
+

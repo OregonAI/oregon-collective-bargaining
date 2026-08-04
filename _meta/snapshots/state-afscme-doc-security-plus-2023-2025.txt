@@ -113,7 +113,7 @@ SIGNATURE PAGE .................................................................
 
 
 2023-2025 DOC Security Plus                                              iii                                  Collective Bargaining Agreement
-                              ARTICLE 1 - SCOPE OF AGREEMENT
+### ARTICLE 1 - SCOPE OF AGREEMENT
 
 Section 1.
 This Agreement is made and entered into by and between the State of Oregon
@@ -229,7 +229,7 @@ g.     Time limits specified in this procedure must be observed, unless either p
                                                                                               REV: 2015
 
 
-                              ARTICLE 2 - TERM OF AGREEMENT
+### ARTICLE 2 - TERM OF AGREEMENT
 
 Section 1. Duration.
 This Agreement, and attachments hereto, shall be in full force and effect from the date
@@ -266,7 +266,7 @@ February 15, 2025, or sooner upon mutual agreement of the Parties.
                                                                       REV: 2015, 2017, 2019,2021, 2025
 
 
-                                 ARTICLE 3 - UNION SECURITY
+### ARTICLE 3 - UNION SECURITY
 
 Section 1. New and Current Employees.
 a.    The Agencies agree to inform all new employees hired into positions included in
@@ -644,7 +644,7 @@ of any temporary and limited duration appointments.
                                                                                REV: 2015,2019,2023
 
 
-                      ARTICLE 4 - UNION/MANAGEMENT MEETINGS
+### ARTICLE 4 - UNION/MANAGEMENT MEETINGS
 
 Section 1. Purpose.
 The purpose of this Article is to promote harmonious relations between the Parties.
@@ -663,7 +663,7 @@ a binding agreement of any sort. Contractual type negotiations, attempts to reso
 individual grievances, or similar matters must be handled in the manner provided within
 the Contract and will not be proper subject matter for such meeting.
 
-                              ARTICLE 5 - LEGISLATIVE ACTION
+### ARTICLE 5 - LEGISLATIVE ACTION
 
 Provisions of this Agreement not requiring statutory changes or funding by the full
 Legislature before they can be put into effect shall be implemented on the effective date
@@ -680,7 +680,7 @@ session of the Legislature.
 If the Legislature fails to act or approve bills submitted under this Article, the Parties
 shall reconvene immediately to renegotiate an alternative provision.
 
-                       ARTICLE 6 - EFFECT OF LAWS AND RULES
+### ARTICLE 6 - EFFECT OF LAWS AND RULES
 
 Section 1.
 This Agreement is subject to all applicable existing and future laws of the State of
@@ -696,7 +696,7 @@ shall be given legal defense by the State of Oregon. The Agencies further agree 
 provide written procedures which will outline the proper methods for requesting this
 legal defense.
 
-                       ARTICLE 7 - SEPARABILITY OF PROVISIONS
+### ARTICLE 7 - SEPARABILITY OF PROVISIONS
 
 If any provision of this Agreement shall be found to be invalid by any court having
 jurisdiction in respect, thereof, such findings as to such provision shall not affect the
@@ -705,7 +705,7 @@ full force and effect as set forth herein. In such event, the Parties shall ente
 immediate negotiations for the purpose of arriving at a mutually satisfactory
 replacement for such term or provision.
 
-                              ARTICLE 8 - NO STRIKE OR LOCKOUT
+### ARTICLE 8 - NO STRIKE OR LOCKOUT
 
 The Agencies agree that during the term of this Agreement, the Agencies shall not
 cause or permit any lockout of employees from work. In the event an employee is
@@ -731,7 +731,7 @@ that it has caused or counseled such strike activity. The notification to employ
 covered by this Agreement by the Union shall be made at the request of the Department
 or Agency.
 
-                              ARTICLE 9 - EQUAL OPPORTUNITY
+### ARTICLE 9 - EQUAL OPPORTUNITY
 
 Section 1.
 The Agencies and the Union agree to continue their policies of not unlawfully
@@ -761,7 +761,7 @@ Board shall be the venue to resolve such complaints.
 
 
 2023-2025 DOC Security Plus                17                    Collective Bargaining Agreement
-                              ARTICLE 10 - MANAGEMENT RIGHTS
+### ARTICLE 10 - MANAGEMENT RIGHTS
 
 The Union agrees that the Employer retains all inherent rights of management and
 hereby recognizes the sole and exclusive right of the State of Oregon, as the Employer,
@@ -778,7 +778,7 @@ filing a grievance, pursuant to Article 51, Grievance and Arbitration Procedure,
 seeking a review of the exercise of these rights, when it is alleged such exercise
 violates provisions of this Agreement.
 
-                               ARTICLE 11 - CONTRACTING OUT
+### ARTICLE 11 - CONTRACTING OUT
 
 Section 1.
 The Union recognizes that the Employer has the management right, during the term of
@@ -888,7 +888,7 @@ Current contracts exempted from this Section of the Article include the followin
 
        e.      statewide contracts that affect other state agencies.
 
-                                ARTICLE 12 - INSURANCE
+### ARTICLE 12 - INSURANCE
 
 Section 1.
 An Employer contribution will be made for each eligible employee who has at least
@@ -951,7 +951,7 @@ See LOAs:
                                                                    REV: 2015, 2017, 2019, 2021,2023
 
 
-                              ARTICLE 13 - SALARY AND WAGES
+### ARTICLE 13 - SALARY AND WAGES
 
 Section 1.
 a.    Effective and retroactive to December 01, 2023 all pay rates shall be increased
@@ -1004,7 +1004,7 @@ if requested by the Union at each AFSCME monthly Director’s Debrief meeting.
                                                                    REV: 2015, 2017, 2019, 2021,2023
 
 
-                         ARTICLE 14 - SALARY ADMINISTRATION
+### ARTICLE 14 - SALARY ADMINISTRATION
 
 Section 1.
 Benefit Service Date (BSD) is defined as the date an employee is eligible for an annual
@@ -1227,7 +1227,7 @@ will follow all processes necessary to ensure their request is properly implemen
 
 
 2023-2025 DOC Security Plus               27                    Collective Bargaining Agreement
-                               ARTICLE 15 - OVERTIME
+### ARTICLE 15 - OVERTIME
 
 Section 1.
 All time for which an employee is compensated at the regular straight time rate of pay,
@@ -1334,7 +1334,7 @@ regular pay schedules.
                                                                                       REV: 2019,2023
 
 
-                              ARTICLE 16 - DIFFERENTIALS
+### ARTICLE 16 - DIFFERENTIALS
 
 Section 1. Shift Differentials, except Registered Nurse/Health Services Technician
 (HST).
@@ -1623,7 +1623,7 @@ Section 11. Information Service Team Leader Differential.
                                                                     REV: 2015, 2017, 2019, 2021,2023
 
 
-                              ARTICLE 17 - CALL BACK TIME
+### ARTICLE 17 - CALL BACK TIME
 
 Section 1. Call Back Pay.
 Except as modified in Sections 2-4 of this Article, an employee who is called back to
@@ -1664,14 +1664,14 @@ responding to questions.
                                                                                     REV: 2019, 2021
 
 
-                              ARTICLE 18 - REPORTING PAY
+### ARTICLE 18 - REPORTING PAY
 
 An employee who is scheduled and reports to work and there is no work available may
 be excused from duty, but shall be paid at their regular rate for the shift of work
 scheduled. Work scheduled in this context does not include work hours assigned or
 volunteered for outside the employee’s regular schedule.
 
-                     ARTICLE 19 – STANDBY DUTY/ON-CALL DUTY
+### ARTICLE 19 – STANDBY DUTY/ON-CALL DUTY
 
 On-call and standby duty will be assigned on an equitable basis among employees who
 are qualified to do the work. If the work assigned includes the duties of acting
@@ -1714,7 +1714,7 @@ An employee shall not be on standby duty or on-call duty once they actually
 commences performing assigned duties and receives the appropriate rate of pay for
 time worked.
 
-                     ARTICLE 20 - WORK OUT OF CLASSIFICATION
+### ARTICLE 20 - WORK OUT OF CLASSIFICATION
 
 Section 1.
 When an employee is assigned for a limited period to perform the duties of a position at
@@ -1744,13 +1744,13 @@ b.     The internal pay assessment shall be conducted using those performing wor
        classification or on an appropriate higher step as determined by the internal pay
        assessment, whichever is greater.
        1.      If, prior to the submission for reclassification, the employee was receiving
-               Article 20 Work Out of Classification pay of the five percent (5%) in the
+### Article 20 Work Out of Classification pay of the five percent (5%) in the
                newly requested classification for twelve (12) calendar months or more,
                that differential will be combined with the current salary rate when
                calculating the next higher step of the new salary range.
 
        2.      If, prior to the submission for reclassification, the employee was receiving
-               Article 20 Work Out of Classification pay of five percent (5%) for less than
+### Article 20 Work Out of Classification pay of five percent (5%) for less than
                twelve (12) calendar months, that differential will not be included in the
                salary placement calculation identified in Article 20, Section 2.
 
@@ -1816,7 +1816,7 @@ calendar days.
                                                                           REV: 2015, 2017, 2019,2023
 
 
-                         ARTICLE 21 - LEADWORK DIFFERENTIAL
+### ARTICLE 21 - LEADWORK DIFFERENTIAL
 
 Section 1.
 Leadwork differential shall be defined as a differential for employees who have been
@@ -1872,7 +1872,7 @@ unit where the assignment is available of the opportunity and employees will be 
 apply through a memorandum of interest. The Agency will allow no less than ten (10)
 calendar days for employees to submit their interest through this process.
 
-                     ARTICLE 22 - TRAVEL/MOVING ALLOWANCES
+### ARTICLE 22 - TRAVEL/MOVING ALLOWANCES
 
 Section 1.
 Travel and Moving Allowances will be reimbursed in accordance with the Department of
@@ -1906,7 +1906,7 @@ subject to the Statewide Travel Policy (OAM 40.10.00).
                                                                                            REV: 2023
 
 
-                              ARTICLE 23 - EMERGENCIES
+### ARTICLE 23 - EMERGENCIES
 
 Section 1.
 a.    During periods of bona fide emergency, provisions of this contract regarding work
@@ -1944,7 +1944,7 @@ vacancies due to absences of scheduled staff which occur from time to time.
                                                                                            REV: 2021
 
 
-                              ARTICLE 25 - WORKING CONDITIONS
+### ARTICLE 25 - WORKING CONDITIONS
 
 Section 1. Workweek.
 a.    Workweek Defined. The workweek shall begin at 00:00 a.m. Sunday and end at
@@ -1995,7 +1995,7 @@ e.     Employee Requested Alternate Work Schedules.
                hours in a day or forty (40) hours per week.
 
        5.      This section shall not apply to Article 25, Section 3(e)(Boiler Operators),
-               Article 25 Section 7(f)(P.E.S.T. Work Schedule) and (n)(Health Services:
+### Article 25 Section 7(f)(P.E.S.T. Work Schedule) and (n)(Health Services:
                RN/Health Services Technicians) of this Article.
 
        6.      The Agency shall have the right to revoke an employee’s alternate work
@@ -5062,7 +5062,7 @@ SERVICES / FLEXIBLE WORK SCHEDULES FOR NON EXEMPT EMPLOYEES
                                                                            REV: 2015, 2017, 2019,2023
 
 
-                ARTICLE 26 - UNIFORMS AND PROTECTIVE CLOTHING
+### ARTICLE 26 - UNIFORMS AND PROTECTIVE CLOTHING
 
 Section 1. Institutional Uniforms.
 Institutional uniforms and protective clothing as provided and maintained, or both, by the
@@ -5123,7 +5123,7 @@ numbered years thereafter.
                                                                          REV: 2017,2019,2021,2023
 
 
-                              ARTICLE 27 - EMPLOYEE FACILITIES
+### ARTICLE 27 - EMPLOYEE FACILITIES
 
 Management shall maintain physical plant facilities provided for employees (including
 parking and existing motorcycle and bicycle parking with adequate accommodations for
@@ -5133,7 +5133,7 @@ to the Union and meet at its request.
                                                                                            REV: 2023
 
 
-                          ARTICLE 28 - INCLEMENT CONDITIONS
+### ARTICLE 28 - INCLEMENT CONDITIONS
 
 Section 1.
 a.    When, in the judgment of the Agency Head/Functional Unit Manager or designee,
@@ -5194,7 +5194,7 @@ b.     Except employees bidding shift/days off or who require/provide relief, em
 
 
 2023-2025 DOC Security Plus                112                 Collective Bargaining Agreement
-                              ARTICLE 29 - SAFETY AND HEALTH
+### ARTICLE 29 - SAFETY AND HEALTH
 
 Section 1.
 The Agency agrees to abide by and maintain in its facilities and work operations
@@ -5258,7 +5258,7 @@ Assistance.
                                                                                             REV: 2015
 
 
-                              ARTICLE 30 – BEREAVEMENT LEAVE
+### ARTICLE 30 – BEREAVEMENT LEAVE
 
 Section 1.
 Notwithstanding the Hardship or Sick Leave eligibility requirements criteria, employees
@@ -5289,7 +5289,7 @@ with bereavement leave.
 
 
 2023-2025 DOC Security Plus               114                 Collective Bargaining Agreement
-                                ARTICLE 31 - HOLIDAYS
+### ARTICLE 31 - HOLIDAYS
 
 Section 1.
 The following holidays will be recognized and paid for at the regular straight time rate of
@@ -5400,7 +5400,7 @@ c.     Office Specialist 2 employees assigned to the Visiting Section shall cont
                                                                     REV: 2015, 2017, 2019, 2021,2023
 
 
-                              ARTICLE 32 - VACATION LEAVE
+### ARTICLE 32 - VACATION LEAVE
 
 Section 1.
 The Parties agree that an employee's vacation accrual is an earned benefit to which the
@@ -5563,7 +5563,7 @@ the following conditions:
 
 
 2023-2025 DOC Security Plus               120                  Collective Bargaining Agreement
-                              ARTICLE 33 - SICK LEAVE WITH PAY
+### ARTICLE 33 - SICK LEAVE WITH PAY
 
 Sick leave, with pay, shall be determined as follows:
 
@@ -5801,7 +5801,7 @@ regulations.
                                                                                 REV: 2015, 2017, 2021
 
 
-                         ARTICLE 34 - SICK LEAVE WITHOUT PAY
+### ARTICLE 34 - SICK LEAVE WITHOUT PAY
 
 Section 1.
 a.    After earned sick leave has been exhausted, the Appointing Authority shall grant
@@ -5844,7 +5844,7 @@ circumstances are found to have existed.
                                                                                       REV: 2015, 2019
 
 
-                               ARTICLE 35 - FAMILY LEAVE
+### ARTICLE 35 - FAMILY LEAVE
 
 Employees determined to be eligible in accordance with provisions of federal and State
 leave laws shall have all the rights, and be subject to all of the requirements of those
@@ -5860,7 +5860,7 @@ of pay as may be needed.
                                                                                              REV: 2021
 
 
-                              ARTICLE 36 - LEAVES WITH PAY
+### ARTICLE 36 - LEAVES WITH PAY
 
 Section 1.
 Employees shall be granted a leave of absence with pay in accordance with the
@@ -5965,7 +5965,7 @@ d.     Personal leave may be used by an employee for any purposes they desire an
                                                                                 REV: 2015, 2017,2021
 
 
-                   ARTICLE 37 - LEAVE OF ABSENCE WITHOUT PAY
+### ARTICLE 37 - LEAVE OF ABSENCE WITHOUT PAY
 
 Section 1.
 Applying for leave of absence without pay will be in writing and submitted to the
@@ -5993,7 +5993,7 @@ be provided by law.
                                                                                             REV: 2021
 
 
-                 ARTICLE 38 - PRE-RETIREMENT COUNSELING LEAVE
+### ARTICLE 38 - PRE-RETIREMENT COUNSELING LEAVE
 
 At any time after reaching forty (40) years of age or within ten (10) years of the
 employee’s eligible retirement date, each employee shall be granted up to three and
@@ -6013,7 +6013,7 @@ income.
                                                                                             REV: 2017
 
 
-                       ARTICLE 40 - PROMOTIONS/ADVANCEMENT
+### ARTICLE 40 - PROMOTIONS/ADVANCEMENT
 
 Section 1.
 a.    Subject to the requirements of Affirmative Action and Equal Employment
@@ -6056,7 +6056,7 @@ Employees wishing to transfer to a position which the Agency intends to fill sha
 a request in writing. For purposes of this section, Board of Parole and DOC shall allow
 transfers between bargaining units.
 
-                              ARTICLE 41 - TRIAL SERVICE
+### ARTICLE 41 - TRIAL SERVICE
 
 Section 1. Initial Trial Service.
 Except for employees employed as Prison Term Analysts (PTA) and Pharmacist IIs
@@ -6173,7 +6173,7 @@ c.     An employee who has been on cumulative leave without pay for fifteen (15)
                                                                                 REV: 2015, 2017,2023
 
 
-                              ARTICLE 42 - TRAINING/EDUCATION
+### ARTICLE 42 - TRAINING/EDUCATION
 
 Section 1. Training.
 The Agency will pay incurred tuition/registration and allowable travel, per diem, and
@@ -6232,7 +6232,7 @@ sixteen (16) hours per calendar year.
                                                                                    REV: 2015, 2017
 
 
-                              ARTICLE 43 - JOB SHARING
+### ARTICLE 43 - JOB SHARING
 
 Section 1.
 "Job sharing position" means a full-time position in the classified service that may be
@@ -6282,7 +6282,7 @@ employee, the employee agrees to resign.
                                                                                       REV: 2015,2023
 
 
-                              ARTICLE 44 - LAYOFF PROCEDURE
+### ARTICLE 44 - LAYOFF PROCEDURE
 
 When the Agency declares that a lack of funds will necessitate a layoff, the Parties will
 meet, if requested by either the Agency or the Union, to consider such alternatives to
@@ -6679,7 +6679,7 @@ utilized and if special skills are needed, this section shall not apply.
 
 
 2023-2025 DOC Security Plus                 144                   Collective Bargaining Agreement
-                  ARTICLE 45 - REVIEW OF CLASSIFICATION SERIES
+### ARTICLE 45 - REVIEW OF CLASSIFICATION SERIES
 
 Section 1.
 It is agreed and understood that procedures for establishing new proposed
@@ -6703,7 +6703,7 @@ The Union may recommend classification studies to be conducted by the Department
 Administrative Services, Human Resources Services Division including the reasons for
 the need for such studies.
 
-                     ARTICLE 46 - RECLASSIFICATION PROCEDURE
+### ARTICLE 46 - RECLASSIFICATION PROCEDURE
 
 The Parties shall use the following procedure to process reclassification requests.
 
@@ -6801,7 +6801,7 @@ reclassified.
                                                                    REV: 2015, 2017, 2019, 2021,2023
 
 
-                              ARTICLE 47 - EMPLOYEE RIGHTS
+### ARTICLE 47 - EMPLOYEE RIGHTS
 
 Section 1.
 Off duty activities of employees will not subject them to disciplinary action by the
@@ -6854,7 +6854,7 @@ assured the following rights:
                                                                                       REV: 2015,2023
 
 
-                    ARTICLE 48 - LIMITED DURATION APPOINTMENT
+### ARTICLE 48 - LIMITED DURATION APPOINTMENT
 
 Section 1.
 Persons may be hired for special studies or projects of uncertain or limited duration
@@ -6892,7 +6892,7 @@ conditions. Such notification shall include the following:
                privileges of other classified employees including but not limited to wages,
                benefits, and Union representation under this Agreement.
 
-                              ARTICLE 49 - PERSONNEL FILES
+### ARTICLE 49 - PERSONNEL FILES
 
 Section 1.
 a.    An employee shall be provided with a copy of any report, correspondence or
@@ -6935,7 +6935,7 @@ a similar nature have reoccurred in the intervening time. Early removal will be 
 when requested by the employee and approved by the Appointing Authority or
 designee.
 
-                       ARTICLE 50 - DISCIPLINE AND DISCHARGE
+### ARTICLE 50 - DISCIPLINE AND DISCHARGE
 
 Section 1.
 The principles of progressive discipline shall be used when appropriate. No employee
@@ -7031,7 +7031,7 @@ conditions outlined in Article 51, Section 8 of this Agreement.
                                                                                 REV: 2015,2019,2023
 
 
-                      ARTICLE 51 - GRIEVANCE AND ARBITRATION
+### ARTICLE 51 - GRIEVANCE AND ARBITRATION
 
 Section 1.
 Grievances are defined as acts, omissions, applications of interpretations alleged to be
@@ -7189,7 +7189,7 @@ d.     All decisions shall be final binding on the Parties. An award will be non
 
 
 2023-2025 DOC Security Plus               155                  Collective Bargaining Agreement
-                              ARTICLE 52 - GENERAL PROVISIONS
+### ARTICLE 52 - GENERAL PROVISIONS
 
 Section 1. Relocation of Positions/Transfers.
 In instances, where, for the good of the Agency, a position needs to be permanently
@@ -7212,7 +7212,7 @@ during which to rescind the resignation.
 Beyond the twenty-four (24)-hour period, the resignation may be withdrawn only with
 the approval of the Appointing Authority.
 
-                      ARTICLE 53 - STRESS/CAREER COUNSELING
+### ARTICLE 53 - STRESS/CAREER COUNSELING
 
 Section 1.
 Any employee, during the performance of the employee's work, who is seized and
@@ -7242,7 +7242,7 @@ employee in any subsequent disciplinary procedure unless otherwise proven. The
 Agency shall post and keep current all available educational programs, seminars, and
 workshops relating to stress management.
 
-                              ARTICLE 54 - TELECOMMUTING
+### ARTICLE 54 - TELECOMMUTING
 
 Section 1.
 Oregon state government encourages working remotely where it is a viable option that
@@ -7361,7 +7361,7 @@ These provisions are applicable to all Sections listed above.
                                                                                            REV: 2021
 
 
-          ARTICLE 55 – APPEALS PROCESS FOR NEW CLASSIFICATIONS
+### ARTICLE 55 – APPEALS PROCESS FOR NEW CLASSIFICATIONS
 
 Section 1.
 An appeal may be filed by an individual employee or a Union Council Representative on
@@ -7444,7 +7444,7 @@ no change in duties is anticipated prior to refilling the position.
 Section 6.
 This process terminates upon completion of the allocation process.
 
-              ARTICLE 56 – POSITION DESCRIPTIONS AND CHECK-INS
+### ARTICLE 56 – POSITION DESCRIPTIONS AND CHECK-INS
 
 Section 1. Position Descriptions.
 Individual position descriptions shall be reduced to writing and delineate the duties
@@ -7472,7 +7472,7 @@ this Agreement. The check-in shall not be used for the purpose of disciplinary a
                                                                                                REV: 2021
 
 
-                        ARTICLE 57 – LETTERS OF EXPECTATION
+### ARTICLE 57 – LETTERS OF EXPECTATION
 
 Section 1.
 The Parties recognize that Letters of Expectation are non-disciplinary so as to
@@ -7490,7 +7490,7 @@ Chapter President that it has issued to employees.
                                                                                   REV: 2015, 2021,2023
 
 
-                              ARTICLE 58 – AIR QUALITY
+### ARTICLE 58 – AIR QUALITY
 
 Section 1. Air Quality Index (AQI).
 The Air Quality Index (AQI) was developed by the US Environmental Protection Agency
@@ -7519,7 +7519,7 @@ for elevated AQI which falls under a Hazardous Condition.
 
 
 2023-2025 DOC Security Plus               162                   Collective Bargaining Agreement
-LETTER OF AGREEMENT #1 - AGENCY PAYMENT FOR DOCTOR’S CERTIFICATE
+### LETTER OF AGREEMENT #1 - AGENCY PAYMENT FOR DOCTOR’S CERTIFICATE
 
 This agreement is between the State of Oregon, acting through its Department of
 Administrative Services (Employer) and AFSCME Council 75 (Union).
@@ -7537,7 +7537,7 @@ effective. Expires June 30, 2025 except if the Parties agree to extend these pro
 
 
 2023-2025 DOC Security Plus              163                  Collective Bargaining Agreement
-                         LETTER OF AGREEMENT #2- FLEX TIME
+### LETTER OF AGREEMENT #2- FLEX TIME
 
 This agreement is between the State of Oregon, acting through its Department of
 Administrative services (Employer) on behalf of the Department of Corrections (Agency)
@@ -7575,7 +7575,7 @@ The Parties agree to the following:
 
 
 2023-2025 DOC Security Plus              164                 Collective Bargaining Agreement
-            LETTER OF AGREEMENT #3– ISS LEADWORK DIFFERENTIAL
+### LETTER OF AGREEMENT #3– ISS LEADWORK DIFFERENTIAL
 
 This Agreement is between the State of Oregon, acting through its Department of
 Administrative Services (Employer) on behalf of the Department of Corrections
@@ -7657,7 +7657,7 @@ The Parties agree to the following:
 
 
 2023-2025 DOC Security Plus              166                  Collective Bargaining Agreement
-    LETTER OF AGREEMENT #4QUALIFIED MENTAL HEALTH PROFESSIONAL
+### LETTER OF AGREEMENT #4QUALIFIED MENTAL HEALTH PROFESSIONAL
       (QMHP) BEHAVIORAL HEALTH SPECIALIST 2 LICENSE DIFFERENTIAL
 
 This Agreement is between the State of Oregon, acting through its Department of
@@ -7706,7 +7706,7 @@ of the Tentative Agreement:
 
 
 2023-2025 DOC Security Plus                167                  Collective Bargaining Agreement
-                 LETTER OF AGREEMENT #5CONTRACT SPECIALIST
+### LETTER OF AGREEMENT #5CONTRACT SPECIALIST
 
 This Agreement is between the State of Oregon, acting through its Department of
 Administrative Services (Employer) on behalf of all Agencies covered under the
@@ -7829,7 +7829,7 @@ This Agreement becomes effective on the date of the last signature and ends on J
 
 
 2023-2025 DOC Security Plus              170                 Collective Bargaining Agreement
-       LETTER OF AGREEMENT #6 BOARD OF PAROLE AND POST PRISON
+### LETTER OF AGREEMENT #6 BOARD OF PAROLE AND POST PRISON
                             SUPERVISION
 
 This Agreement is between the State of Oregon, acting through its Department of
@@ -7881,7 +7881,7 @@ The Parties agree to the following:
 
 
 2023-2025 DOC Security Plus              171                 Collective Bargaining Agreement
-   LETTER OF AGREEMENT #7 SUPERVISING CANDIDATES FOR A LIMITED
+### LETTER OF AGREEMENT #7 SUPERVISING CANDIDATES FOR A LIMITED
   MAINTENANCE ELECTRICIAN (LME) LICENSE TWO RIVERS CORRECTIONAL
                             INSTITUTION
 
@@ -7919,7 +7919,7 @@ The Parties agree to the following:
 
 
 2023-2025 DOC Security Plus               172                  Collective Bargaining Agreement
-              LETTER OF AGREEMENT #8 - NATURAL DISASTER LEAVE
+### LETTER OF AGREEMENT #8 - NATURAL DISASTER LEAVE
 
 This Agreement is between the State of Oregon, acting through its Department of
 Administrative Services (Employer) on behalf of the Department of Corrections
@@ -7952,7 +7952,7 @@ agreement.
 
 
 2023-2025 DOC Security Plus              173                  Collective Bargaining Agreement
-           LETTER OF AGREEMENT #9 ESSENTIAL WORKER INCLEMENT
+### LETTER OF AGREEMENT #9 ESSENTIAL WORKER INCLEMENT
                    WEATHER/HAZARDOUS CONDITIONS PAY
 
 This Agreement is between the State of Oregon, acting through its Department of
@@ -7981,7 +7981,7 @@ shall receive the Essential Worker Inclement Weather/Hazardous Conditions Pay.
 
 
 2023-2025 DOC Security Plus              174                 Collective Bargaining Agreement
-     LETTER OF AGREEMENT #10 - AFSCME CERTIFIED MEDICATION AIDES
+### LETTER OF AGREEMENT #10 - AFSCME CERTIFIED MEDICATION AIDES
                        WORKING CONDITIONS
 
 This Agreement is between the State of Oregon, acting through its Department of
@@ -8054,7 +8054,7 @@ The Parties agree to the following:
 
 
 2023-2025 DOC Security Plus              176                 Collective Bargaining Agreement
- LETTER OF AGREEMENT #11 - TRADES APPRENTICESHIP PROGRAM - PILOT
+### LETTER OF AGREEMENT #11 - TRADES APPRENTICESHIP PROGRAM - PILOT
 
 This Agreement is between the State of Oregon, acting through its Department of
 Administrative Services (Employer), on behalf of the Oregon Department of Corrections
@@ -8086,7 +8086,7 @@ June 30, 2025, unless both Parties mutually agree to extend.
 
 
 2023-2025 DOC Security Plus              177                  Collective Bargaining Agreement
-             LETTER OF AGREEMENT #12 – ONE-TIME COLA PAYMENT
+### LETTER OF AGREEMENT #12 – ONE-TIME COLA PAYMENT
 
 This Agreement is entered into between the State of Oregon, acting through its
 Department of Administrative Services (DAS), on behalf of the Oregon Department of
@@ -8109,7 +8109,7 @@ This Letter of Agreement will sunset on June 30, 2025.
 
 
 2023-2025 DOC Security Plus                178                   Collective Bargaining Agreement
-                       LETTER OF AGREEMENT #13 – PAY EQUITY
+### LETTER OF AGREEMENT #13 – PAY EQUITY
 
 This Agreement is entered into by the State of Oregon, acting through its Department of
 Administrative Services, Labor Relations Unit (Employer), on behalf of the Agencies
@@ -8236,7 +8236,7 @@ The Parties agree to the following:
 
 
 2023-2025 DOC Security Plus            181                 Collective Bargaining Agreement
-       LETTER OF AGREEMENT #14 - SUPPLEMENTAL WORKFORCES AND
+### LETTER OF AGREEMENT #14 - SUPPLEMENTAL WORKFORCES AND
                   ALLEVIATION OF MANDATORY OVERTIME
 
 This Agreement is between the State of Oregon, acting through its Department of
@@ -8305,7 +8305,7 @@ Therefore, the Parties agree:
 
 
 2023-2025 DOC Security Plus               183                 Collective Bargaining Agreement
-               LETTER OF AGREEMENT #15 – BI-WEEKLY PAY PERIOD
+### LETTER OF AGREEMENT #15 – BI-WEEKLY PAY PERIOD
 
 This Letter of Agreement is between the State of Oregon, acting through its Department
 of Administrative Services (Employer) on behalf of the Department of Corrections
@@ -8384,7 +8384,7 @@ Both Parties retain their rights under PECBA.
 
 
 2023-2025 DOC Security Plus              185                 Collective Bargaining Agreement
-LETTER OF AGREEMENT #16 – CORRECTIONS FOOD SERVICE COORDINATOR
+### LETTER OF AGREEMENT #16 – CORRECTIONS FOOD SERVICE COORDINATOR
                      CLASSIFICATION STUDY
 
 This Agreement is between the Department of Administrative Services (Employer), on
@@ -8415,7 +8415,7 @@ Therefore, the Parties agree:
 
 
 2023-2025 DOC Security Plus               186                  Collective Bargaining Agreement
- LETTER OF AGREEMENT #17 – OPSRP EMPLOYEE SICK LEAVE CONVERSION
+### LETTER OF AGREEMENT #17 – OPSRP EMPLOYEE SICK LEAVE CONVERSION
                           PILOT PROGRAM
 
 This Letter of Agreement (LOA) is between the State of Oregon, acting through the
@@ -8462,7 +8462,7 @@ Now, therefore, the Parties do agree as follows:
 
 
 2023-2025 DOC Security Plus              187                Collective Bargaining Agreement
-     LETTER OF AGREEMENT #18 – SEXUAL ABUSE REPONSE TEAM (SART)
+### LETTER OF AGREEMENT #18 – SEXUAL ABUSE REPONSE TEAM (SART)
                      MEMBER DIFFERENTIAL PILOT
 
 This Agreement is between the State of Oregon, acting through its Department of
@@ -8521,7 +8521,7 @@ Therefore, the Parties agree to the following:
 
 
 2023-2025 DOC Security Plus         189                Collective Bargaining Agreement
-           LETTER OF AGREEMENT #19 – SALARY RANGE TRUNCATION
+### LETTER OF AGREEMENT #19 – SALARY RANGE TRUNCATION
 
 This Agreement is entered into between the State of Oregon, acting through its
 Department of Administrative Services (DAS), on behalf of the Agencies covered by this
@@ -8638,7 +8638,7 @@ Agreement (Agency) and the AFSCME Council 75 (Union).
 
 
 2023-2025 DOC Security Plus               192                   Collective Bargaining Agreement
-                    APPENDIX A – DAS POLICIES
+### APPENDIX A – DAS POLICIES
               DEPARTMENT OF ADMINISTRATIVE SERVICES
   CHIEF HUMAN RESOURCES OFFICE POLICIES APPLICABLE TO BARGAINING
                               UNIT
@@ -8672,7 +8672,7 @@ Agreement (Agency) and the AFSCME Council 75 (Union).
 
 
 2023-2025 DOC Security Plus                           193                        Collective Bargaining Agreement
-                              APPENDIX B - COMPENSATION PLAN
+### APPENDIX B - COMPENSATION PLAN
                       CLASSIFICATION TITLE                     SALARY
                                                                 RANGE
                       Accountant 1                            23     23
@@ -8815,7 +8815,7 @@ Agreement (Agency) and the AFSCME Council 75 (Union).
 
 
 2023-2025 DOC Security Plus                     196              Collective Bargaining Agreement
-                                APPENDIX C – SALARY SCHEDULE
+### APPENDIX C – SALARY SCHEDULE
 SALARY SCHEDULE AS OF JULY 1, 2023
 Salary Rng / Step  Step  Step   Step                  Step     Step     Step    Step       Step      Step
 Range Pay    1     2     3      4                     5        6        7       8          9         10

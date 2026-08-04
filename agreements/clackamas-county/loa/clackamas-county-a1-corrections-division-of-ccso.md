@@ -19,9 +19,8 @@ retrieved: '2026-08-02'
 source_sha256: 8a0ee3a43b52e824418c1de1f5b69f5c01fc2ddb2da3842f933ee1b62251a86f
 snapshot_policy: hash-only
 status: current
-content_mode: summary
-reproduction_basis: 'jointly-authored contract; summary + official link per the class determination
-  in corpus.yml schema.doc_types (verbatim: false)'
+content_mode: 'verbatim'
+reproduction_basis: 'public record of a public body (ORS 192.311-192.478); the employer publishes the executed agreement in full at source_url; a ratified agreement is an official act (Georgia v. Public.Resource.Org, 590 U.S. 255 (2020)) — mirrored in full per the class determination in corpus.yml schema.doc_types (verbatim: true)'
 conversion_notes: main-content text of the county's HTML page; 5681 characters extracted;
   NOT human-verified
 last_verified: ''
@@ -40,8 +39,8 @@ tags:
 - clackamas-county
 ---
 
-> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated
-> summary, not the agreement's official text. Verify against the official
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a non-authoritative
+> mirror of the agreement's text, not the official record. Verify against the official
 > source: <https://www.clackamas.us/des/memorandum-of-agreement-moa-a1-corrections-division-of-ccso> (retrieved 2026-08-02).
 
 # Clackamas County — A1 - Corrections Division of CCSO
@@ -53,10 +52,6 @@ Letter of agreement / MOU under **Clackamas County** and **the signatory associa
 - No term is stated on the index or found in the document's front matter — `term` is left empty rather than inferred; the county presents this as its operative agreement
 - Source document: an HTML page — the county publishes this instrument's text inline rather than as a PDF
 
-This corpus is **summary-first for agreements**: the contract's text is not
-reproduced here (see Curator notes), and nothing on this page states or
-paraphrases the agreement's terms. Read the agreement itself at the official
-source link above.
 
 ## Curator notes
 
@@ -74,3 +69,76 @@ Statutes and rules the document's text cites are recorded in frontmatter
 `relationships.references_external` (1 citation(s)) and resolve into
 `executive-regulatory-frameworks` as cites — this corpus asserts no
 `implements` edge anywhere.
+
+## Full text
+
+Memorandum of Agreement (MOA) - A1 - Corrections Division of CCSO | Clackamas County
+Skip to main content
+Human Resources
+Memorandum of Agreement (MOA) - A1 - Corrections Division of CCSO
+Memorandum of Agreement (MOA) - A1 - Corrections Division of CCSO
+This Memorandum of Agreement (“MOA”) is by and between the Clackamas County and the Clackamas CountySheriff’s Office (“County” or “CCSO”) and the Clackamas County Peace Officers Association (“CCPOA”).
+Recitals
+Since 1996, CCSO has provided oversight and administration of Community Corrections on behalf of the County Administrator, as a County department.
+On March 16, 2022, CCSO Sheriff Angela Brandenburg announced via email that Community Correctionswould become a permanent division of CCSO beginning July 1, 2022.
+On March 17, 2022, CCPOA issued a demand to bargain under the Public Employee Collective Bargaining Act over the Sheriff’s announcement.
+On March 17, 2022, County Deputy Director of Human Resources, Eric Sarha, stated via email that, “on July 1, 2022, the Community Corrections department will become a permanent division of CCSO and the Community Corrections employees will become Sheriff’s Office employees. The affected employees will continue with their same compensation, benefits and union representation and their work will continue seamlessly just as before.Additionally, on July 1 2022, the CCSO’s policies will apply to all employees within the new Community Corrections division.”
+On March 29, 2022, County and CCSO representatives, CCPOA representatives, Clackamas County Employees Association (CCEA) representatives, and Federation of Probation and Parole Officers (FOPPO) representativesmet to discuss the matter. At that meeting, CCSO clarified that in formally making Community Corrections a permanent division of CCSO, CCSO did not intend on materially changing daily operations for CommunityCorrections, thus honoring the current bargaining unit work jurisdictions for County employees represented by the CCPOA, CCEA, and FOPPO.
+CCSO and CCPOA wish to resolve the CCPOA’s demand to bargain and, as such, agree as follows:
+Agreement
+The County/CCSO and CCPOA agree to amend the recognition clause in the parties’ collective bargaining agreement as follows:
+ARTICLE 1 – RECOGNITION
+Section 1.
+The County recognizes the Association as the exclusive bargaining agent for the purpose of establishing wages, hours and other conditions of employment for all of the classified County employeesin the Sheriff’s Office, Investigators in the District Attorney’s Office, and Deputy Medical Examiners and Strategic Program Coordinators in the Department of Disaster Management, working twenty or more hours per week.
+The bargaining unit excludes employees represented by the Clackamas County Employees Association(CCEA) and Federation of Probation and Parole Officers (FOPPO) in the Community Corrections Division of the Sheriff’s Office, supervisory employees including Lieutenants and those with higher rank, confidential employees, and unclassified including temporary or limited term duration employees.
+Classified and unclassified positions are those as identified by County Code 2.05.
+Section 2.
+When any bargaining unit classification not listed on the Wage Schedule is established, the County shall designate a pay rate for the position. In the event the Association does not agree that the rate is proper, the County will negotiate with the Association over the wage rate and any disagreement over thewage rate will be submitted to the impasse resolution consistent with ORS 243.698. In such case, the County is not precluded from filling the position at the posted wage rate; however, the County acknowledges the obligation to bargain and honor any interest arbitration award.
+Section 3.
+Consistent with the PECBA requirements related to information requests, the Association may request information from the Sheriff’s Office regarding the utilization of temporary employees, also known as unallocated positions, by the Sheriff’s Office, the duration of their assignments, and whether or not the positions should be converted to part-time or full-time positions. ’The Sheriff’s Office will respond to the Association’s information request within a reasonable time per PECBA requirements. Upon reasonable request by the Association, the Association and Sheriff’s Office will meet at a mutuallyagreeable time to discuss the Sheriff’s use of temporary employees, the duration of their assignments, andwhether or not the positions should be converted to part-time or full-time positions.
+The classifications represented by CCPOA, CCEA, and FOPPO are set forth in the attached spreadsheet, ExhibitA, with Community Corrections classifications highlighted in yellow.
+The CCPOA retains its collective bargaining rights over any future changes to Community Correctionsoperations that may implicate mandatorily negotiable bargaining subjects.
+This MOA sets no precedent beyond the terms set forth herein.
+Effective: July 1, 2022
+Phone:
+503-655-8459
+Fax: 503-742-5468
+Email:
+jobs@clackamas.us
+2051 Kaen Road
+Oregon City, OR 97045
+Office Hours:
+Monday to Thursday
+7 a.m. to 6 p.m.
+For employment verification:
+finance-payroll@clackamas.us
+Benefits
+Incident Reports
+Find a Job
+Related Events
+Related Events
+Human Resources
+Aug
+06
+10:00 am
+-
+11:00 am
+Joint Peace Officers/County Benefits Committee Meeting - August 6, 2026
+More details
+Human Resources
+Aug
+12
+10:00 am
+-
+11:00 am
+Joint Peace Officers/County Benefits Committee Meeting - August 12, 2026
+More details
+Human Resources
+Aug
+27
+10:00 am
+-
+11:00 am
+Joint Peace Officers/County Benefits Committee Meeting - August 27, 2026
+More details
+more events

@@ -39,37 +39,37 @@ Document Number 2025-597
                                                                                                PAGE
 
 PREAMBLE                                                                                              2
-ARTICLE 1 -           RECOGNITION                                                                     2
-ARTICLE 2 -           UNION SECURITY                                                                  2
-ARTICLE 3 -           MANAGEMENT RIGHTS                                                               4
-ARTICLE 4 -           NON-DISCRIMINATION                                                              5
-ARTICLE 5 -           PROBATIONARY, TEMPORARY AND SEASONAL EMPLOYEES                                  5
-ARTICLE 6 -           DISCIPLINE AND DISCHARGE                                                        6
-ARTICLE 7 -           GRIEVANCE PROCEDURE                                                             6
-ARTICLE 8 -           SALARY ADMINISTRATION                                                           8
-ARTICLE 9 -           ON CALL AND CALL BACK TIME                                                      9
-ARTICLE 10 -          HOURS OF WORK                                                                   10
-ARTICLE 11 -          OVERTIME AND COMPENSATORY TIME                                                  11
-ARTICLE 12 -          WORKING-OUT-OF-CLASS AND LEAD PAY                                               11
-ARTICLE 13 -          VACANCIES                                                                       12
-ARTICLE 14 -          ASSIGNMENT OF PERSONNEL                                                         12
-ARTICLE 15 -          PERFORMANCE EVALUATIONS                                                         13
-ARTICLE 16 -          LONGEVITY AND LENGTH OF SERVICE                                                 13
-ARTICLE 17 -          HOLIDAYS                                                                        14
-ARTICLE 18 -          TIME MANAGEMENT                                                                 15
-ARTICLE 19 -          SICK LEAVE                                                                      15
-ARTICLE 20 -          LEAVES OF ABSENCE                                                               16
-ARTICLE 21 -          HEALTH AND WELFARE                                                              18
-ARTICLE 22 -          RETIREMENT                                                                      19
-ARTICLE 23 -          TRAVEL EXPENSES                                                                 20
-ARTICLE 24 -          SAFETY                                                                          20
-ARTICLE 25 -          PROFESSIONAL DEVELOPMENT                                                        20
-ARTICLE 26 -          RIGHT TO CONTRACT                                                               20
-ARTICLE 27 -          SEPARABILITY                                                                    21
-ARTICLE 28 -          SCOPE OF AGREEMENT                                                              21
-ARTICLE 29 -          TERM OF THE AGREEMENT                                                           21
-ARTICLE 30 -          WAGES                                                                           24
-ARTICLE 31 -          GENERAL PROVISIONS                                                              24
+### ARTICLE 1 -           RECOGNITION                                                                     2
+### ARTICLE 2 -           UNION SECURITY                                                                  2
+### ARTICLE 3 -           MANAGEMENT RIGHTS                                                               4
+### ARTICLE 4 -           NON-DISCRIMINATION                                                              5
+### ARTICLE 5 -           PROBATIONARY, TEMPORARY AND SEASONAL EMPLOYEES                                  5
+### ARTICLE 6 -           DISCIPLINE AND DISCHARGE                                                        6
+### ARTICLE 7 -           GRIEVANCE PROCEDURE                                                             6
+### ARTICLE 8 -           SALARY ADMINISTRATION                                                           8
+### ARTICLE 9 -           ON CALL AND CALL BACK TIME                                                      9
+### ARTICLE 10 -          HOURS OF WORK                                                                   10
+### ARTICLE 11 -          OVERTIME AND COMPENSATORY TIME                                                  11
+### ARTICLE 12 -          WORKING-OUT-OF-CLASS AND LEAD PAY                                               11
+### ARTICLE 13 -          VACANCIES                                                                       12
+### ARTICLE 14 -          ASSIGNMENT OF PERSONNEL                                                         12
+### ARTICLE 15 -          PERFORMANCE EVALUATIONS                                                         13
+### ARTICLE 16 -          LONGEVITY AND LENGTH OF SERVICE                                                 13
+### ARTICLE 17 -          HOLIDAYS                                                                        14
+### ARTICLE 18 -          TIME MANAGEMENT                                                                 15
+### ARTICLE 19 -          SICK LEAVE                                                                      15
+### ARTICLE 20 -          LEAVES OF ABSENCE                                                               16
+### ARTICLE 21 -          HEALTH AND WELFARE                                                              18
+### ARTICLE 22 -          RETIREMENT                                                                      19
+### ARTICLE 23 -          TRAVEL EXPENSES                                                                 20
+### ARTICLE 24 -          SAFETY                                                                          20
+### ARTICLE 25 -          PROFESSIONAL DEVELOPMENT                                                        20
+### ARTICLE 26 -          RIGHT TO CONTRACT                                                               20
+### ARTICLE 27 -          SEPARABILITY                                                                    21
+### ARTICLE 28 -          SCOPE OF AGREEMENT                                                              21
+### ARTICLE 29 -          TERM OF THE AGREEMENT                                                           21
+### ARTICLE 30 -          WAGES                                                                           24
+### ARTICLE 31 -          GENERAL PROVISIONS                                                              24
 
 
 APPENDIX “A” -TIME MANAGEMENT PROGRAM                                                                 25
@@ -97,7 +97,7 @@ and avoidance of interruptions to production. The parties will cooperate fully t
 achievement of these purposes.
 
 
-                                      ARTICLE 1 – RECOGNITION
+### ARTICLE 1 – RECOGNITION
 
 Section 1
 The County recognizes the Union as the sole and exclusive bargaining agent for all employees of Deschutes
@@ -109,7 +109,7 @@ If the County establishes a new classification included in the bargaining unit o
 bargaining unit position, the County shall notify the Union in writing in a timely manner.
 
 
-                                      ARTICLE 2 – UNION SECURITY
+### ARTICLE 2 – UNION SECURITY
 Section 1
 The Union shall notify the County in writing of its staff representative of the Local, Council 75, or
 International, American Federation of State, County and Municipal Employees, AFL-CIO. Upon proper
@@ -182,7 +182,7 @@ County time.
 
 
 AFSCME – 2025-597                                                                                         Page |3
-                                   ARTICLE 3 – MANAGEMENT RIGHTS
+### ARTICLE 3 – MANAGEMENT RIGHTS
 
 Section 1
 The County retains all the customary, usual and exclusive rights, decision-making prerogatives, functions, and
@@ -255,7 +255,7 @@ provision of this Agreement. Any agreement between the County and the Union that
 and signed by both parties shall be deemed to have not existed.
 
 
-                                    ARTICLE 4 – NON-DISCRIMINATION
+### ARTICLE 4 – NON-DISCRIMINATION
 
 Section 1
 Deschutes County and the Union agree not to discriminate against any employee because of race, color, sex,
@@ -266,7 +266,7 @@ Section 2
 The terms of this Agreement shall be applied equally to all members of the bargaining unit.
 
 
-            ARTICLE 5 – PROBATIONARY, TEMPORARY AND SEASONAL EMPLOYEES
+### ARTICLE 5 – PROBATIONARY, TEMPORARY AND SEASONAL EMPLOYEES
 
 Section 1
 Every new employee shall serve a probationary period of twelve (12) months unless extended by mutual written
@@ -301,7 +301,7 @@ Seasonal employee means an employee used for the purpose of meeting short-term w
 County. Seasonal employment shall not normally exceed 1,036 hours per fiscal year.
 
 
-                                ARTICLE 6 – DISCIPLINE AND DISCHARGE
+### ARTICLE 6 – DISCIPLINE AND DISCHARGE
 
 Section 1
 The principles of progressive discipline shall be used except when the nature of the problem requires more serious
@@ -345,7 +345,7 @@ Resources Department for the rebuttal to be attached to the documented oral warn
 personnel file. No response or further action is required by the County as it relates to the employee’s rebuttal.
 
 
-                                 ARTICLE 7 – GRIEVANCE PROCEDURE
+### ARTICLE 7 – GRIEVANCE PROCEDURE
 
 Section 1
 The County will promptly consider and respond to employee grievances. The County and the Union prefer to
@@ -439,7 +439,7 @@ No employee can be disciplined or discriminated against in any way because of th
 grievance procedure.
 
 
-                               ARTICLE 8 – SALARY ADMINISTRATION
+### ARTICLE 8 – SALARY ADMINISTRATION
 
 AFSCME – 2025-597                                                                                           Page |8
 Section 1
@@ -552,7 +552,7 @@ in this paragraph, the term “night shift” has its own meaning as determined 
 its discretion, and is separate and distinct from the Juvenile Community Justice “night shift”.
 
 
-                                ARTICLE 9 – STANDBY AND CALL BACK TIME
+### ARTICLE 9 – STANDBY AND CALL BACK TIME
 
 Standby Pay: Is defined for the purpose of this Agreement as time an employee must be able to be contacted by
 telephone, cellular phone, or pager. The employee must be able to respond within a time frame determined by
@@ -580,7 +580,7 @@ The County will not provide home internet stipends to employees.
 
 
 
-                                         ARTICLE 10 – HOURS OF WORK
+### ARTICLE 10 – HOURS OF WORK
 
 Section 1
 The workweek is defined as seven (7) days within a calendar week. The standard work week for Deschutes
@@ -622,7 +622,7 @@ Section 6
 Nothing in this Article shall be construed as a guarantee of hours.
 
 
-                           ARTICLE 11 – OVERTIME AND COMPENSATORY TIME
+### ARTICLE 11 – OVERTIME AND COMPENSATORY TIME
 
 Section 1
 All non-exempt employees shall be compensated at the rate of one and one-half (1 ½) times their regular rate of
@@ -656,7 +656,7 @@ When possible and within budget constraints, the Department Head will honor the 
 request regarding the method of compensation, either compensatory time off, or overtime pay.
 
 
-                     ARTICLE 12 – WORKING-OUT-OF-CLASS AND LEAD PAY
+### ARTICLE 12 – WORKING-OUT-OF-CLASS AND LEAD PAY
 
 Section 1
 The County agrees to compensate an employee assigned in writing to temporarily assume the major
@@ -686,7 +686,7 @@ the day the employee submitted a completed Job Description Questionnaire (availa
 supervisor initiating the request.
 
 
-                                        ARTICLE 13 – VACANCIES
+### ARTICLE 13 – VACANCIES
 
 Section 1
 Normally, all job vacancies that the County intends to fill shall be posted in the Human Resources Department
@@ -711,7 +711,7 @@ County employees who apply for a position and do not receive it, shall be given 
 selection should the employee request a reason.
 
 
-                             ARTICLE 14 – ASSIGNMENT OF PERSONNEL
+### ARTICLE 14 – ASSIGNMENT OF PERSONNEL
 
 Section 1
 The decision to hire, transfer, assign, promote and layoff employees shall be based on skill, ability,
@@ -739,7 +739,7 @@ both affected departments. If the supervisors cannot agree on a timeline, it wil
 heads of the affected departments to finalize.
 
 
-                            ARTICLE 15 – PERFORMANCE EVALUATIONS
+### ARTICLE 15 – PERFORMANCE EVALUATIONS
 
 Section 1
 Each employee shall receive a performance evaluation prepared by his/her immediate supervisor or Department
@@ -757,7 +757,7 @@ available to the employee for review. If classification/job descriptions are cha
 aware of the change and the revised description will be made available to the employee for review.
 
 
-                            ARTICLE 16 – LONGEVITY AND LENGTH OF SERVICE
+### ARTICLE 16 – LONGEVITY AND LENGTH OF SERVICE
 
 Section 1
 Length of service is determined by the length of an employee’s continuous full-time or part-time service with a
@@ -785,7 +785,7 @@ Section 5
 Time off during layoff period shall not count toward length of service or longevity accrual.
 
 
-                                             ARTICLE 17 – HOLIDAYS
+### ARTICLE 17 – HOLIDAYS
 
 Section 1
 The following shall be recognized as paid holidays:
@@ -836,7 +836,7 @@ eligible for the floating holiday. Floating holidays cannot be carried over from
 receive pay at the time of termination of employment for any unused floating holiday.
 
 
-                                      ARTICLE 18 – TIME MANAGEMENT
+### ARTICLE 18 – TIME MANAGEMENT
 
 The specific application of this section will be governed by the Time Management Program. (Appendix A of
 this Agreement).
@@ -875,7 +875,7 @@ Section 6
 At least once each year, all regular employees must be allowed to take five (5) days consecutively if accrued.
 
 
-                                        ARTICLE 19 – SICK LEAVE
+### ARTICLE 19 – SICK LEAVE
 
 Section 1
 When an employee is physically unable to perform duties because of illness or injury, the employee shall notify
@@ -928,7 +928,7 @@ Section 6
                Any additional time off beyond sixteen (16) hours may be charged to accrued time off.
 
 
-                                    ARTICLE 20 – LEAVES OF ABSENCE
+### ARTICLE 20 – LEAVES OF ABSENCE
 
 Section 1
 Full-time and part-time employees shall be granted leave with full pay, computed on the basis of their normal
@@ -1000,7 +1000,7 @@ Section 10
 Leaves of absences without pay may not be granted until all accrued leave has been exhausted.
 
 
-                                 ARTICLE 21 – HEALTH AND WELFARE
+### ARTICLE 21 – HEALTH AND WELFARE
 
 Section 1
 Health Insurance is to include the following:
@@ -1095,7 +1095,7 @@ tiered system for premium contributions, the monthly employee health insurance p
 be no greater than nine point five percent (9.5%) of the respective tier cost for the relevant enrollment tier.
 
 
-                                      ARTICLE 22 – RETIREMENT
+### ARTICLE 22 – RETIREMENT
 
 The County shall be a participant in the Public Employees Retirement System (PERS)/Oregon Public Service
 Retirement Plan (OPSRP) or its equivalent.
@@ -1116,7 +1116,7 @@ be available to all AFSCME bargaining unit employees.
 
 
 AFSCME – 2025-597                                                                                       Page |21
-                                     ARTICLE 23 – TRAVEL EXPENSES
+### ARTICLE 23 – TRAVEL EXPENSES
 
 Reasonable and necessary travel, meal and miscellaneous expense reimbursement will be approved for payment
 when an employee incurs expenses while acting within the scope of employment with Deschutes County in
@@ -1134,7 +1134,7 @@ An employee’s work location can change after time of hire at the sole discreti
 operational needs.
 
 
-                                            ARTICLE 24 - SAFETY
+### ARTICLE 24 - SAFETY
 
 Section 1
 The County and the Union agree to cooperate in the continuing objective to eliminate accidents and health
@@ -1151,7 +1151,7 @@ committees and will review issues reported in Section 2 above. The Union shall b
 representative on each committee. Minutes from safety committee meetings shall be posted in affected areas.
 
 
-                             ARTICLE 25 - PROFESSIONAL DEVELOPMENT
+### ARTICLE 25 - PROFESSIONAL DEVELOPMENT
 
 Section 1
 The County shall pay for the professional registration, certification or licensure of all full-time professional staff
@@ -1165,7 +1165,7 @@ In the event an employee utilizes their license for any private gain and/or any 
 reimburse the county the full amount expended on their behalf.
 
 
-                                   ARTICLE 26 – RIGHT TO CONTRACT
+### ARTICLE 26 – RIGHT TO CONTRACT
 
 AFSCME – 2025-597                                                                                             Page |22
 The County expressly reserves the right to contract any and all County work and services to non-County
@@ -1174,7 +1174,7 @@ employees. The County agrees to fulfill its obligations under the Public Employe
 purpose to end the Union’s representation status.
 
 
-                                       ARTICLE 27 - SEPARABILITY
+### ARTICLE 27 - SEPARABILITY
 
 In the event that any provision of this Agreement shall at any time be declared invalid by any court of
 competent jurisdiction or through government regulations or decree, such decision shall not invalidate the entire
@@ -1182,7 +1182,7 @@ Agreement, it being the express intention of the parties hereto that all other p
 remain in full force and effect.
 
 
-                                  ARTICLE 28 - SCOPE OF AGREEMENT
+### ARTICLE 28 - SCOPE OF AGREEMENT
 
 Section 1
 The Agreement expressed herein in writing constitutes the entire Agreement between the parties. This
@@ -1199,7 +1199,7 @@ ORS 243, the County agrees to notify the Union and subsequently fulfill its obli
 making said change.
 
 
-                               ARTICLE 29 - TERM OF THE AGREEMENT
+### ARTICLE 29 - TERM OF THE AGREEMENT
 
 This Agreement shall be effective July 1, 2025, and shall remain in full force and effect through June 30, 2030.
 
@@ -1217,7 +1217,7 @@ Any agreements reached as a result of this reopener shall be reduced to writing 
 addendum to the current collective bargaining agreement.
 
 
-                                            ARTICLE 30 - WAGES
+### ARTICLE 30 - WAGES
 
 AFSCME – 2025-597                                                                                           Page |23
 Effective July 1 of each year of the contract, the wage schedule shall be adjusted to reflect a Cost of Living
@@ -1237,7 +1237,7 @@ the following CPI calculations, subject to a minimum increase of 1% and a maximu
 The COLA adjustment shall not be less than 1% nor exceed 4% in any given contract year. The adjustment shall
 be applied annually on July 1 of each contract year.
 
-                                ARTICLE 31 – GENERAL PROVISIONS
+### ARTICLE 31 – GENERAL PROVISIONS
 
 Section 1. Labor-Management Meetings
 

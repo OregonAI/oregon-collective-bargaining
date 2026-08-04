@@ -105,7 +105,7 @@ SIGNATURE PAGE .................................................................
 
 
 2025 – 2027 Oregon Youth Authority                                 iii                               Collective Bargaining Agreement
-                                ARTICLE 1 - SCOPE OF AGREEMENT
+### ARTICLE 1 - SCOPE OF AGREEMENT
 
 Section 1.
 This Agreement is made and entered into by and between the State of Oregon
@@ -217,7 +217,7 @@ g.      Time limits specified in this procedure must be observed, unless either 
         requests a specific extension of time, which, if agreed to, must be stipulated in
         writing and shall become part of the record.
 
-                                 ARTICLE 2 - TERM OF AGREEMENT
+### ARTICLE 2 - TERM OF AGREEMENT
 
 Section 1.
 Unless otherwise noted in a specific article in the Agreement, this Agreement becomes
@@ -235,7 +235,7 @@ Negotiations for a successor agreement will start between February 15, 2027 and
 March 15, 2027.
                                                                   REV: 2015, 2017, 2019,2021,2023,2025
 
-                                     ARTICLE 3 - UNION SECURITY
+### ARTICLE 3 - UNION SECURITY
 
 Section 1. New Employees.
 The Agency agrees to inform all new employees hired into positions included in the
@@ -515,7 +515,7 @@ International Conventions, the following provisions apply.
 
 
 2025 - 2027 Oregon Youth Authority              8                     Collective Bargaining Agreement
-                         ARTICLE 4 - UNION/MANAGEMENT MEETINGS
+### ARTICLE 4 - UNION/MANAGEMENT MEETINGS
 
 Section 1. Purpose.
 The purpose of this Article is to promote harmonious relations between the Parties.
@@ -534,7 +534,7 @@ a binding agreement of any sort. Contractual type negotiations, attempts to reso
 individual grievances, or similar matters must be handled in the manner provided within
 the contract and will not be proper subject matter for such meeting.
 
-                                     ARTICLE 5 - LEGISLATIVE ACTION
+### ARTICLE 5 - LEGISLATIVE ACTION
 
 Provisions of this Agreement not requiring funding or statutory changes before they can
 be put into effect shall be implemented on the effective date of this Agreement or the
@@ -554,7 +554,7 @@ shall reconvene immediately to renegotiate an alternative provision.
                                                                                            REV: 2025
 
 
-                           ARTICLE 6 - EFFECT OF LAWS AND RULES
+### ARTICLE 6 - EFFECT OF LAWS AND RULES
 
 Section 1.
 This Agreement is subject to all applicable existing and future laws of the State of
@@ -571,7 +571,7 @@ brought against the employee for causes resulting from acting in the employee's 
 defense by the State of Oregon. The Agency further agrees to provide written
 procedures which will outline the proper methods for requesting this legal defense.
 
-                           ARTICLE 7 - SEPARABILITY OF PROVISIONS
+### ARTICLE 7 - SEPARABILITY OF PROVISIONS
 
 If any provision of this Agreement shall be found to be invalid by any court having
 jurisdiction in respect, thereof, such findings as to such provision shall not affect the
@@ -580,7 +580,7 @@ full force and effect as set forth herein. In such event, the Parties shall ente
 immediate negotiations for the purpose of arriving at a mutually satisfactory
 replacement for such term or provision.
 
-                               ARTICLE 8 - NO STRIKE OR LOCKOUT
+### ARTICLE 8 - NO STRIKE OR LOCKOUT
 
 The Agency agrees that during the term of this Agreement, the Agency shall not cause
 or permit any lockout of employees from work. In the event an employee is unable to
@@ -602,7 +602,7 @@ that it has caused or counseled such strike activity. The notification to employ
 covered by this Agreement by the Union shall be made at the request of the Department
 or Agency.
 
-                                 ARTICLE 9 - EQUAL OPPORTUNITY
+### ARTICLE 9 - EQUAL OPPORTUNITY
 
 Section 1.
 The Agency and the Union agree to continue their policies of not unlawfully
@@ -628,7 +628,7 @@ article of this contract, it shall be first presented to the Agency Head for inv
 and resolution, however, the Parties may mutually agree, in writing, to waive this step,
 allowing the matter to be resolved through the Employment Relations Board.
 
-                                ARTICLE 10 - MANAGEMENT RIGHTS
+### ARTICLE 10 - MANAGEMENT RIGHTS
 
 The Union agrees that the Employer retains all inherent rights of management and
 hereby recognizes the sole and exclusive right of the State of Oregon, as the Employer,
@@ -645,7 +645,7 @@ filing a grievance, pursuant to Article 52, Grievance and Arbitration Procedure,
 seeking a review of the exercise of these rights, when it is alleged such exercise
 violates provisions of this Agreement.
 
-             ARTICLE 11 - TEMPORARY INTERRUPTION OF EMPLOYMENT
+### ARTICLE 11 - TEMPORARY INTERRUPTION OF EMPLOYMENT
 
 When the Employer declares that a temporary interruption of employment should be
 considered because of lack of funds, either party may provide the other with written
@@ -657,7 +657,7 @@ subject to the Complete Agreement articles of any of the agreements or constitut
 interim negotiations under PECBA. In addition, the Parties will not be required to use
 the dispute resolution process contained in the PECBA.
 
-                                     ARTICLE 12 - CONTRACTING OUT
+### ARTICLE 12 - CONTRACTING OUT
 
 Section 1.
 The Union recognizes that the Employer has the management right, during the term of
@@ -758,7 +758,7 @@ labor/management meetings and determine the most effective and efficient way to
 accomplish the work in the future for Agency initiated contracts. Decisions around
 reviewing of contracted work are not subject to the grievance procedure.
 
-                                     ARTICLE 13 - INSURANCE
+### ARTICLE 13 - INSURANCE
 
 Section 1.
 An Employer contribution will be made for each eligible employee who has at least
@@ -832,7 +832,7 @@ SEE LOAs:, PMAC,
                                                                 REV: 2015, 2017,2019, 2021,2023,2025
 
 
-                                 ARTICLE 14 - SALARY AND WAGES
+### ARTICLE 14 - SALARY AND WAGES
 
 Section 1. PERS Pickup.
 Effective February 1, 2019 compensation plan salary rates for PERS participating
@@ -902,7 +902,7 @@ See LOA: Salary and Benefit Report
                                                                  REV: 2015, 2017,2019, 2021,2023,2025
 
 
-                              ARTICLE 15 - SALARY ADMINISTRATION
+### ARTICLE 15 - SALARY ADMINISTRATION
 
 Section 1. Salary Increase
 Employees shall be eligible for annual performance pay increases on the employees'
@@ -1000,7 +1000,7 @@ SEE Appendix A – Salary Administration Examples
                                                                                   REV: 2017,2019,2025
 
 
-      ARTICLE 16 - RECOUPMENT OF WAGE AND BENEFIT OVERPAYMENTS/
+### ARTICLE 16 - RECOUPMENT OF WAGE AND BENEFIT OVERPAYMENTS/
                             UNDERPAYMENTS
 
 Section 1. Overpayments.
@@ -1064,7 +1064,7 @@ b.       This provision shall not apply to claims disputing eligibility for paym
          claims pursuant to the timelines elsewhere in this Agreement.
                                                                                                 REV: 2023
 
-                                        ARTICLE 17 - OVERTIME
+### ARTICLE 17 - OVERTIME
 
 Section 1.
 All time for which an employee is compensated at the regular straight time rate of pay,
@@ -1117,13 +1117,13 @@ The Parties agree that an employee's compensatory time is payment for work alrea
 accomplished. Compensatory time may be used by the employee in lieu of vacation or
 sick leave unless the employee is on written notice involving attendance problems.
 
-                              ARTICLE 18 - BILINGUAL DIFFERENTIAL
+### ARTICLE 18 - BILINGUAL DIFFERENTIAL
 
 When formally assigned in the employee's position description, an employee assigned
 to interpret to or from another language to English will receive a differential of five
 percent (5%) of base pay.
 
-                                     ARTICLE 19 – CALL BACK TIME
+### ARTICLE 19 – CALL BACK TIME
 
 For employees in the classification of Juvenile Parole and Probation Assistants , and
 Juvenile Parole and Probation Officers, call back is an occasion where an employee
@@ -1139,13 +1139,13 @@ pay.
                                                                                          REV: 2019
 
 
-                                     ARTICLE 20 - REPORTING PAY
+### ARTICLE 20 - REPORTING PAY
 
 An employee who is scheduled for work and reports to work and there is not work
 available may be excused from duty, but shall be paid at their regular rate for the shift of
 work scheduled.
 
-                                        ARTICLE 21 - ON-CALL
+### ARTICLE 21 - ON-CALL
 
 Employees shall be paid one (1) hour of pay at the regular straight time rate for each six
 (6) hours of assigned on-call duty. Employees who are assigned on-call duty for less
@@ -1165,7 +1165,7 @@ pay.
 An employee shall not be on on-call duty once they actually commences performing
 assigned duties and receives the appropriate rate of pay for time worked.
 
-                         ARTICLE 22 - WORK OUT OF CLASSIFICATION
+### ARTICLE 22 - WORK OUT OF CLASSIFICATION
 
 Section 1.
 When an employee is assigned for a limited period to perform the duties of a position at
@@ -1207,7 +1207,7 @@ ratings.
                                                                                       REV: 2023,2025
 
 
-                             ARTICLE 23 - LEADWORK DIFFERENTIAL
+### ARTICLE 23 - LEADWORK DIFFERENTIAL
 
 Section 1.
 Leadwork differential shall be defined as a differential for employees who have been
@@ -1255,7 +1255,7 @@ in Section 1, may request a review of the duties as follows:
                   remove the duties, the employee will be notified as noted in "b" of this
                   Article.
 
-                                       ARTICLE 24 - PER DIEM
+### ARTICLE 24 - PER DIEM
 
 Section 1.
 Travel, mileage and moving expense reimbursements and procedures will be in
@@ -1278,7 +1278,7 @@ b.      Employees shall report in writing any unsafe vehicle to the Motor Pool
                                                                                              REV: 2017
 
 
-                                     ARTICLE 25 - EMERGENCIES
+### ARTICLE 25 - EMERGENCIES
 
 Section 1.
 During periods of bona fide emergency, provisions of this contract regarding work
@@ -1297,7 +1297,7 @@ This Section shall not be used by management to justify suspension of the above
 described contract rights to meet the daily operational needs in filling unexpected shift
 vacancies due to absences of scheduled staff which occur from time to time.
 
-                                ARTICLE 26 - WORKING CONDITIONS
+### ARTICLE 26 - WORKING CONDITIONS
 
 Section 1. Workweek and Working Hours.
 The workweek will be forty (40) hours beginning at 12:01 a.m. Saturday.
@@ -1450,14 +1450,14 @@ temporary basis and will be paid work-out-of-class pay pursuant to Article 22.
                                                                              REV: 2017,2019,2025
 
 
-                  ARTICLE 27 - UNIFORMS AND PROTECTIVE CLOTHING
+### ARTICLE 27 - UNIFORMS AND PROTECTIVE CLOTHING
 
 Damage to Personal Clothing.
 Employees who suffer damage to personal clothing or effects in performance of their
 official duties, not as a result of personal negligence, shall file a claim for reasonable
 reimbursement pursuant to Agency policy.
 
-                                ARTICLE 28 - EMPLOYEE FACILITIES
+### ARTICLE 28 - EMPLOYEE FACILITIES
 
 Management shall maintain current physical plant facilities provided for employees
 (including parking and existing motorcycle and bicycle parking with adequate
@@ -1470,7 +1470,7 @@ employee's personal property are not now furnished, the Agency will, to the exte
 budget permits, undertake to make such facilities available.
 
 
-      ARTICLE 29 - INCLEMENT WEATHER/HAZARDOUS CONDITIONS LEAVE
+### ARTICLE 29 - INCLEMENT WEATHER/HAZARDOUS CONDITIONS LEAVE
 
 Section 1.
 a.    The Employer/Agency designated official(s) may close or curtail offices, facilities,
@@ -1632,7 +1632,7 @@ Pay differential under Article 64.
                                                                       REV: 2017, 2021,2023,2025
 
 
-                                 ARTICLE 30 - SAFETY AND HEALTH
+### ARTICLE 30 - SAFETY AND HEALTH
 
 Section 1.
 The Agency agrees to abide by and maintain in its facilities and work operations
@@ -1764,7 +1764,7 @@ g.       No employee shall be subject to retaliation for reporting or filing a c
                                                                                          REV: 2017,2023
 
 
-                                     ARTICLE 31 - HOLIDAYS
+### ARTICLE 31 - HOLIDAYS
 
 Section 1.
 The following holidays will be recognized and paid for at the regular straight time rate of
@@ -1820,7 +1820,7 @@ leave.
                                                                                REV: 2015, 202,20251
 
 
-                               ARTICLE 32 - PERSONAL LEAVE DAYS
+### ARTICLE 32 - PERSONAL LEAVE DAYS
 
 Section 1.
 All employees after completion of six (6) months of service shall be entitled to receive
@@ -1849,7 +1849,7 @@ at times mutually agreeable to the Agency and the employee.
 
 
 2025 - 2027 Oregon Youth Authority              34                    Collective Bargaining Agreement
-                                     ARTICLE 33 - VACATION LEAVE
+### ARTICLE 33 - VACATION LEAVE
 
 Section 1.
 The Parties agree that an employee's vacation accrual is an earned benefit to which the
@@ -1989,7 +1989,7 @@ conditions:
                   requested are not eligible to cash out accrued vacation hours.
                                                                       REV: 2017, 2019, 2021,2023
 
-                                     ARTICLE 34 - SICK LEAVE
+### ARTICLE 34 - SICK LEAVE
 
 Section 1.
 Employees shall accrue eight (8) hours of sick leave for each full month worked.
@@ -2128,7 +2128,7 @@ strictly enforced with no exceptions.
                   follow the applicable process as outlined in the Human Resource
                   Information System (HRIS).
                                                                                         REV: 2015,2025
-                                      ARTICLE 35 - FAMILY LEAVE
+### ARTICLE 35 - FAMILY LEAVE
 
 Employees determined to be eligible in accordance with provisions of federal and State
 leave laws shall have all the rights, and be subject to all of the requirements of those
@@ -2137,7 +2137,7 @@ Act of 1993 (FMLA), the Oregon Parental Leave Law (ORS 659.360), the Oregon
 Pregnancy Leave Law (ORS 659.389), and the Oregon Family Medical Leave Law
 (ORS 659.560).
 
-                                     ARTICLE 36 - LEAVES WITH PAY
+### ARTICLE 36 - LEAVES WITH PAY
 
 Employees shall be granted a leave of absence with pay in accordance with the
 following:
@@ -2319,7 +2319,7 @@ following:
                                                                                  REV: 2015,2019, 2021,2025
 
 
-                       ARTICLE 37 - LEAVE OF ABSENCE WITHOUT PAY
+### ARTICLE 37 - LEAVE OF ABSENCE WITHOUT PAY
 
 Section 1.
 Applying for leave of absence without pay will be in writing and submitted to the
@@ -2357,7 +2357,7 @@ shifts to accommodate military duty.
 
 
 2025 - 2027 Oregon Youth Authority                    44                     Collective Bargaining Agreement
-                     ARTICLE 38 – PRE-RETIREMENT PLANNING LEAVE
+### ARTICLE 38 – PRE-RETIREMENT PLANNING LEAVE
 
 Employees shall be granted up to twenty-eight (28) hours leave with pay for retirement
 planning. This leave shall be granted upon hire for use throughout their employment
@@ -2373,12 +2373,12 @@ Insurance and other retirement income.
                                                                                    REV: 2021,2025
 
 
-                                     ARTICLE 39 - ELECTION DAYS
+### ARTICLE 39 - ELECTION DAYS
 
 On recognized federal and State Election Days, the work will be arranged to allow the
 employees the opportunity to vote.
 
-                          ARTICLE 40 - PROMOTIONS/ADVANCEMENT
+### ARTICLE 40 - PROMOTIONS/ADVANCEMENT
 
 Section 1.
 The Agency desires to give all the bargaining unit employees an opportunity to fill
@@ -2400,7 +2400,7 @@ designated bulletin boards as agreed to by the Agency and the Union. This postin
 be for a minimum of five (5) days in order to give employees an opportunity to apply for
 the vacant positions.
 
-                                     ARTICLE 41- TRIAL SERVICE
+### ARTICLE 41- TRIAL SERVICE
 
 Section 1.
 Each employee appointed to a position in the bargaining unit by initial appointment to
@@ -2466,7 +2466,7 @@ c.       This Subsection becomes effective on the first (1st) of the month follo
 
 
 
-                                ARTICLE 42 - TRAINING/EDUCATION
+### ARTICLE 42 - TRAINING/EDUCATION
 
 Section 1. Training.
 The Agency will pay incurred tuition/registration and allowable travel, per diem, and
@@ -2493,7 +2493,7 @@ training sessions.
                                                                                         REV: 2017
 
 
-                                     ARTICLE 43 - JOB SHARING
+### ARTICLE 43 - JOB SHARING
 
 Section 1.
 "Job sharing position" means a full-time position in the classified service that may be
@@ -2541,7 +2541,7 @@ full-time basis. Upon approval of management, the remaining employee may elect t
 transfer to a vacant part-time position in the same classification or to voluntarily demote.
  If the above conditions are not available or acceptable, the employee agrees to resign.
 
-                                 ARTICLE 44 - LAYOFF PROCEDURE
+### ARTICLE 44 - LAYOFF PROCEDURE
 
 Section 1. Alternative to Layoff
 a.    When the Agency believes that a lack of funds requires a layoff, the Agency will
@@ -2853,7 +2853,7 @@ employee possesses any special skills that are required.
                                                                                             REV: 2015, 2021
 
 
-                     ARTICLE 45 - REVIEW OF CLASSIFICATION SERIES
+### ARTICLE 45 - REVIEW OF CLASSIFICATION SERIES
 
 Section 1.
 It is agreed and understood that procedures for establishing new proposed
@@ -2880,7 +2880,7 @@ The Union may recommend classification studies to be conducted by the Department
 Administrative Services, Human Resources Services Division including the reasons for
 the need for such studies.
 
-                        ARTICLE 46 - RECLASSIFICATION PROCEDURE
+### ARTICLE 46 - RECLASSIFICATION PROCEDURE
 
 The Parties shall use the following procedure to process reclassification requests.
 
@@ -3065,7 +3065,7 @@ Article.
 
 
 
-    ARTICLE 47 - IMPLEMENTATION OF NEW CLASSES - APPEALS PROCESS
+### ARTICLE 47 - IMPLEMENTATION OF NEW CLASSES - APPEALS PROCESS
 
 The appeals process is designed to allocate employees into new classes. Employees
 in positions allocated to a new classification, who dispute their placement within the new
@@ -3151,7 +3151,7 @@ e.       Where a position is vacated after the filing of the initial appeal, the
 
 f.       This process terminates upon completion of the allocation process.
 
-                                     ARTICLE 48 - EMPLOYEE RIGHTS
+### ARTICLE 48 - EMPLOYEE RIGHTS
 
 Section 1.
 Off duty activities of employees will not subject them to disciplinary action by the
@@ -3198,7 +3198,7 @@ the employee's personnel file, supervisory file or used in any subsequent perfor
 evaluation. Upon completion of the investigation the Agency will provide the employee
 with written notification of the disposition of the investigation.
 
-                       ARTICLE 49 - LIMITED DURATION APPOINTMENT
+### ARTICLE 49 - LIMITED DURATION APPOINTMENT
 
 Section 1.
 Persons may be hired for special studies or projects of uncertain or limited duration
@@ -3234,7 +3234,7 @@ conditions. Such notification shall include the following:
                   privileges of other classified employees including but not limited to wages,
                   benefits, and Union representation under this Agreement.
 
-                                ARTICLE 50 - PERSONNEL RECORDS
+### ARTICLE 50 - PERSONNEL RECORDS
 
 Section 1.
 The Chief Human Resources Office human resource information system is the system
@@ -3335,7 +3335,7 @@ the subject employee.
                                                                                   REV: 2019, 2021
 
 
-                           ARTICLE 51 - DISCIPLINE AND DISCHARGE
+### ARTICLE 51 - DISCIPLINE AND DISCHARGE
 
 Section 1.
 The principles of progressive discipline shall be used when appropriate. No employee
@@ -3407,7 +3407,7 @@ without the employee's presence.
                                                                                         REV: 2021
 
 
-                         ARTICLE 52 - GRIEVANCE AND ARBITRATION
+### ARTICLE 52 - GRIEVANCE AND ARBITRATION
 
 Section 1.
 Grievances are defined as acts, omissions, applications of interpretations alleged to be
@@ -3466,7 +3466,7 @@ grievance at Step 1.
         within thirty (30) calendar days of the receipt of the date the response from the
         Department of Administrative Services, Labor Relations Unit review process was
         due or received, whichever occurs first. In the case of a discharge, as outline din
-        Article 51 – Discipline and Discharge, the thirty (30) day period will begin with the
+### Article 51 – Discipline and Discharge, the thirty (30) day period will begin with the
         date the Employer discharged the employee.
         Step 5. Selection of an Arbitrator.
         a.      The Union request for arbitration will be made through the process
@@ -3560,7 +3560,7 @@ j.       The arbitration award shall not establish a precedent for any current o
                                                                               REV: 2015,2019, 2021
 
 
-                                ARTICLE 53 - GENERAL PROVISIONS
+### ARTICLE 53 - GENERAL PROVISIONS
 
 Section 1. Transfers.
 An involuntary transfer of an employee out of the bargaining unit occasioned by a
@@ -3573,7 +3573,7 @@ during which to rescind the resignation.
 Beyond the twenty-four (24)-hour period, the resignation may be withdrawn only with
 the approval of the Appointing Authority.
 
-                         ARTICLE 54 - STRESS/CAREER COUNSELING
+### ARTICLE 54 - STRESS/CAREER COUNSELING
 
 Section 1.
 Any employee, during the performance of the employee's work, who is seized and
@@ -3608,7 +3608,7 @@ workshops relating to stress management.
                                                                                           REV: 2015
 
 
-                                     ARTICLE 55 - AGENCY SENIORITY
+### ARTICLE 55 - AGENCY SENIORITY
 
 Agency seniority is defined as total length of continuous Agency service. Agency is
 intended to include continuous service in the Oregon juvenile justice system under
@@ -3624,13 +3624,13 @@ prevented from responding by conditions beyond the employee’s control.
 Seniority lists shall be prepared by the Agency, during January, updated periodically,
 and posted on bulletin boards.
 
-                                     ARTICLE 56 - MOVING EXPENSES
+### ARTICLE 56 - MOVING EXPENSES
 
 Reimbursements and procedures will be in accordance with the Department of
 Administrative Services, Chief Human Resource Office Policy 40.055.10, and its
 successors. Changes in this policy will be automatically incorporated into this contract
 Article.
-               ARTICLE 57 - VOLUNTARY MEDICAL SEPARATION
+### ARTICLE 57 - VOLUNTARY MEDICAL SEPARATION
 
 
 
@@ -3674,7 +3674,7 @@ following conditions are met:
          g.       If the employee rejects a recall offer for their former work location, the
                   employee’s name will be removed from the list.
                                                                                             NEW: 2019
-                                     ARTICLE 58 – EXIT INTERVIEWS
+### ARTICLE 58 – EXIT INTERVIEWS
 
 a.       If a regular status employee provides timely notice that they are voluntarily
          separating from Agency service, the Agency will offer an exit interview that
@@ -3692,7 +3692,7 @@ b.       A Department of Administrative Services written instrument.
                                                                                       NEW: 2019
 
 
-                                     ARTICLE 59 – AIR QUALITY
+### ARTICLE 59 – AIR QUALITY
 Section 1.
 The Air Quality Index (AQI) was developed by the US Environmental Protection Agency
 as an indicator of overall air quality and is based on the five (5) criteria pollutants
@@ -3714,7 +3714,7 @@ Hazardous Condition.
                                                                                       NEW: 2021
 
 
-                         ARTICLE 60 – WORKING REMOTELY
+### ARTICLE 60 – WORKING REMOTELY
 Section 1.
 Oregon state government encourages working remotely where it is a viable option
 that benefits both the employee and the agency. Use of remote work options promote
@@ -3871,7 +3871,7 @@ These provisions are applicable to all Sections listed above.
                                                                     NEW: 2021 REV: 2023,2025
 
 
-                              ARTICLE 61 – QUARTERLY CHECK-INS
+### ARTICLE 61 – QUARTERLY CHECK-INS
 
 Supervisory managers shall conduct check-ins with their employees on a quarterly
 basis. If a quarterly check-in does not occur, the employee may request a check-in
@@ -3890,7 +3890,7 @@ Quarterly check-ins are not grievable nor arbitrable under this Agreement.
 
 
 2025 - 2027 Oregon Youth Authority            74                 Collective Bargaining Agreement
-                           ARTICLE 62 – INCIDENTAL EXPENDITURES
+### ARTICLE 62 – INCIDENTAL EXPENDITURES
 
 The Agency agrees to make snacks and beverages available to each field office as an
 option for staff to provide to youth in their custody during transports.
@@ -3909,7 +3909,7 @@ expenses incurred on behalf of youth under the following conditions:
 
 
 
-                             ARTICLE 63 - PAID LEAVE OREGON (PLO)
+### ARTICLE 63 - PAID LEAVE OREGON (PLO)
 
 Paid Leave Oregon is administered by the Oregon Employment Department. The State
 of Oregon, as an employer, shall comply with the provisions of Paid Leave Oregon, as
@@ -3925,7 +3925,7 @@ Leave or Oregon Family Leave (FMLA/OFLA) will use accrued leave in accordance wi
 any existing contract language relating to FMLA/OFLA.
                                                                                             NEW: 2023
 
-                              ARTICLE 64 - ESSENTIAL WORKER PAY
+### ARTICLE 64 - ESSENTIAL WORKER PAY
 
 When a situation exists that would otherwise close or curtail state offices, essential
 workers having to report to work, in-person, shall receive the Essential Worker
@@ -3954,7 +3954,7 @@ offices are otherwise closed.
 
 
 2025 - 2027 Oregon Youth Authority       76                   Collective Bargaining Agreement
-LETTER OF AGREEMENT – ARTICLE 13, PEBB MEMBER ADVISORY COMMITTEE
+### LETTER OF AGREEMENT – ARTICLE 13, PEBB MEMBER ADVISORY COMMITTEE
 
 This Agreement is between the State of Oregon, acting through its Department of
 Administrative Services (Employer) and AFSCME Council 75 (Union).
@@ -3994,7 +3994,7 @@ This Agreement will sunset on June 30, 2027.
 
 
 2025 - 2027 Oregon Youth Authority         77                    Collective Bargaining Agreement
-     LETTER OF AGREEMENT – ARTICLE 14 - SALARY AND BENEFIT REPORT
+### LETTER OF AGREEMENT – ARTICLE 14 - SALARY AND BENEFIT REPORT
 
 This Agreement is between the State of Oregon, acting through its Department of
 Administrative Services (DAS) and the AFSCME Local 75, (Union).
@@ -4018,7 +4018,7 @@ agreement.
 
 
 2025 - 2027 Oregon Youth Authority         78                    Collective Bargaining Agreement
-               LETTER OF AGREEMENT - ARTICLE 30, CONTRACTING OUT
+### LETTER OF AGREEMENT - ARTICLE 30, CONTRACTING OUT
                               FEASIBILITY STUDY
 
 This Letter of Agreement is entered into between the State of Oregon Department of
@@ -4037,7 +4037,7 @@ This Agreement is effective through June 30, 2027.
 
 
 2025 - 2027 Oregon Youth Authority            79                     Collective Bargaining Agreement
-       LETTER OF AGREEMENT – NEW EMPLOYEE NOTICE/UNION ACCESS
+### LETTER OF AGREEMENT – NEW EMPLOYEE NOTICE/UNION ACCESS
 
     Notice
               a. The Employer shall provide the Union, in an editable digital file format, the
@@ -4080,7 +4080,7 @@ This Agreement is effective through June 30, 2027.
 
 
 2025 - 2027 Oregon Youth Authority              80                     Collective Bargaining Agreement
-LETTER OF AGREEMENT – OREGON UNIONS STATE WORKER TRAINING FUND
+### LETTER OF AGREEMENT – OREGON UNIONS STATE WORKER TRAINING FUND
 
 The Parties recognize that both the State and its workers benefit from workers
 understanding their different health care options, understanding their retirement benefits
@@ -4130,7 +4130,7 @@ on:
 
 
 2025 - 2027 Oregon Youth Authority           81                    Collective Bargaining Agreement
-                    LETTER OF AGREEMENT – CONTRACT SPECIALIST
+### LETTER OF AGREEMENT – CONTRACT SPECIALIST
 
 
 This Agreement is between the State of Oregon, acting through its Department of
@@ -4261,7 +4261,7 @@ This Agreement becomes effective on the date of the last signature and ends on J
 
 
 2025 - 2027 Oregon Youth Authority            84                    Collective Bargaining Agreement
-   LETTER OF AGREEMENT – STATE POLICY 50.050.01 WORKING REMOTELY
+### LETTER OF AGREEMENT – STATE POLICY 50.050.01 WORKING REMOTELY
                             UPDATES
 
 This Letter of Agreement is between the State of Oregon, acting through its Department
@@ -4279,7 +4279,7 @@ June 30, 2027.
 
 
 2025 - 2027 Oregon Youth Authority         85                    Collective Bargaining Agreement
-                              LETTER OF AGREEMENT – EQUAL PAY
+### LETTER OF AGREEMENT – EQUAL PAY
 
 This Agreement is entered into by the State of Oregon, acting through its Department of
 Administrative Services, Labor Relations Unit (Employer), on behalf of the Agencies
@@ -4407,7 +4407,7 @@ The Parties agree to the following:
 
 
 2025 - 2027 Oregon Youth Authority            88                    Collective Bargaining Agreement
-  LETTER OF AGREEMENT – STATEWIDE LABOR MANAGEMENT COMMITTEE
+### LETTER OF AGREEMENT – STATEWIDE LABOR MANAGEMENT COMMITTEE
 
 This Agreement is entered into by the State of Oregon, acting through its Department of
 Administrative Services, Labor Relations Unit (Employer), on behalf of the Agencies
@@ -4439,7 +4439,7 @@ This Agreement becomes effective on the date of the last signature and expires J
 
 
 2025 - 2027 Oregon Youth Authority           89                     Collective Bargaining Agreement
-   LETTER OF AGREEMENT – ADMINISTRATIVE LEAVE/DUTY STATIONED AT
+### LETTER OF AGREEMENT – ADMINISTRATIVE LEAVE/DUTY STATIONED AT
                 HOME INVESTIGATION COMMUNICATION
 
 This Agreement is between the State of Oregon, acting through its Department of
@@ -4457,7 +4457,7 @@ duty stationed. Either Party may request a change to that communication at any t
 
 
 2025 - 2027 Oregon Youth Authority        90                   Collective Bargaining Agreement
-    LETTER OF AGREEMENT – STRUCTURAL CHANGES TO PAY PRACTICES
+### LETTER OF AGREEMENT – STRUCTURAL CHANGES TO PAY PRACTICES
 
 This Letter of Agreement is between the State of Oregon, acting through its Department
 of Administrative Services (Employer), and the AFSCME Council 75 (Union).
@@ -4655,7 +4655,7 @@ The Parties agree to the following:
 
 
 2025 - 2027 Oregon Youth Authority               94                     Collective Bargaining Agreement
-                    APPENDIX A - SALARY ADMINISTRATION EXAMPLES
+### APPENDIX A - SALARY ADMINISTRATION EXAMPLES
 
 Salary on Promotion or Upward Reclassification
 
@@ -4686,7 +4686,7 @@ range*.
 
 
 2025 - 2027 Oregon Youth Authority             95                     Collective Bargaining Agreement
-                               APPENDIX B – COMPENSATION PLAN
+### APPENDIX B – COMPENSATION PLAN
                                      Classification                        SR
                                      Juvenile Parole/Probation Assistant   22
                                      Juvenile Parole/Probation Officer     28
@@ -4695,7 +4695,7 @@ range*.
 
 
 2025 - 2027 Oregon Youth Authority                       96                     Collective Bargaining Agreement
-                                        APPENDIX C – SALARY SCHEDULE
+### APPENDIX C – SALARY SCHEDULE
 
                                                 SALARY SCHEDULE AS OF JULY 1, 2025
     SR        Step 1       Step 2       Step 3         Step 4       Step 5       Step 6       Step 7     Step 8        Step 9        Step 10

@@ -15,16 +15,16 @@ STATE, COUNTY AND MUNICIPAL EMPLOYEES,
   JULY 1, 2025, THROUGH JUNE 30, 2030
                                    TABLE OF CONTENTS
 PREAMBLE                                                    Page 5
-ARTICLE 1 – DEFINITIONS                                     Page 5
-ARTICLE 2 – BARGAINING UNIT AND RECOGNITION                 Page 7
+### ARTICLE 1 – DEFINITIONS                                     Page 5
+### ARTICLE 2 – BARGAINING UNIT AND RECOGNITION                 Page 7
       2.1      The Bargaining Unit                          Page 7
       2.2      Recognition                                  Page 8
-ARTICLE 3 – UNION MEMBERSHIP                                Page 8
+### ARTICLE 3 – UNION MEMBERSHIP                                Page 8
       3.1      Union Membership Agreement                   Page 8
       3.2      Checkoff-Union Dues Deduction                Page 8
       3.3      Rights of the Parties                        Page 9
       3.4      Access to Employees within Bargaining Unit   Page 9
-ARTICLE 4 – HOLIDAYS                                        Page 10
+### ARTICLE 4 – HOLIDAYS                                        Page 10
       4.1      Recognized Holidays                          Page 10
       4.2      Observed Holidays                            Page 10
       4.3      Floating Holidays                            Page 11
@@ -32,12 +32,12 @@ ARTICLE 4 – HOLIDAYS                                        Page 10
       4.5      Holiday Pay                                  Page 11
       4.6      Holiday During Leave                         Page 12
       4.7      Holiday Work                                 Page 12
-ARTICLE 5 – VACATION LEAVE                                  Page 12
+### ARTICLE 5 – VACATION LEAVE                                  Page 12
       5.1      Accrual                                      Page 12
       5.2      Maximum Accrual and Payment                  Page 13
       5.3      Utilization                                  Page 13
       5.4      Payment of Vacation Leave Upon Separation    Page 14
-ARTICLE 6 – SICK LEAVE AND BEREAVEMENT LEAVE                Page 14
+### ARTICLE 6 – SICK LEAVE AND BEREAVEMENT LEAVE                Page 14
       6.1      Accrual                                      Page 14
       6.2      Maximum Accrual and Payment                  Page 14
       6.3      Scope                                        Page 14
@@ -48,7 +48,7 @@ ARTICLE 6 – SICK LEAVE AND BEREAVEMENT LEAVE                Page 14
       6.8      Layoff or Death                              Page 16
       6.9      Retirement                                   Page 16
       6.10 Paid Leave Oregon                                Page 17
-ARTICLE 7 – OTHER LEAVES                                    Page 17
+### ARTICLE 7 – OTHER LEAVES                                    Page 17
       7.1      Leave of Absence                             Page 17
       7.2      Jury Duty                                    Page 17
       7.3      Voting Time                                  Page 18
@@ -61,8 +61,8 @@ ARTICLE 7 – OTHER LEAVES                                    Page 17
                                                                 2|Page
       7.9     Administrative Leave                                        Page 19
       7.10 General                                                        Page 19
-ARTICLE 8 – SEVERANCE PAY                                                 Page 20
-ARTICLE 9 – HEALTH/WELFARE/RETIREMENT BENEFITS                            Page 20
+### ARTICLE 8 – SEVERANCE PAY                                                 Page 20
+### ARTICLE 9 – HEALTH/WELFARE/RETIREMENT BENEFITS                            Page 20
       9.1     Medical/Dental/Vision Benefits                              Page 20
       9.2     Life Insurance                                              Page 21
       9.3     Workers’ Compensation                                       Page 21
@@ -71,7 +71,7 @@ ARTICLE 9 – HEALTH/WELFARE/RETIREMENT BENEFITS                            Page
       9.6     Loss of Continuation of Benefits                            Page 22
       9.7     Public Employees Retirement System (PERS)                   Page 22
       9.8     Auto Enrollment in Deferred Compensation                    Page 22
-ARTICLE 10 – WAGES                                                        Page 23
+### ARTICLE 10 – WAGES                                                        Page 23
       10.1 Wages and Classification Schedule                              Page 23
       10.2 Temporary Assignments                                          Page 23
       10.3 Pay Periods                                                    Page 23
@@ -86,7 +86,7 @@ ARTICLE 10 – WAGES                                                        Page
       10.12 Incentive Pay                                                 Page 27
       10.13 Retention Incentive                                           Page 28
       10.14 Compensation Review                                           Page 28
-ARTICLE 11 – SENIORITY                                                    Page 28
+### ARTICLE 11 – SENIORITY                                                    Page 28
       11.1 Acquisition of Seniority                                       Page 28
       11.2 Employment Outside the Bargaining Unit                         Page 28
       11.3 Seniority During Periods of Disability and Leave Without Pay   Page 28
@@ -94,13 +94,13 @@ ARTICLE 11 – SENIORITY                                                    Page
       11.5 Retention of Employees                                         Page 29
       11.6 Posting and Filling of Vacancies                               Page 29
       11.7 Layoff and Recall                                              Page 31
-ARTICLE 12 – DISCIPLINE AND DISMISSAL                                     Page 33
+### ARTICLE 12 – DISCIPLINE AND DISMISSAL                                     Page 33
       12.1 Discipline                                                     Page 33
       12.2 Voluntary Resignation                                          Page 33
       12.3 Reduction in Pay, Suspension Without Pay, and Dismissal        Page 34
       12.4 Probationary Employees                                         Page 35
       12.5 Personnel Files                                                Page 35
-ARTICLE 13 – SETTLEMENT OF DISPUTES                                       Page 35
+### ARTICLE 13 – SETTLEMENT OF DISPUTES                                       Page 35
       13.1 Grievance and Arbitration Procedure                            Page 35
       13.2 Stewards                                                       Page 37
 
@@ -109,7 +109,7 @@ ARTICLE 13 – SETTLEMENT OF DISPUTES                                       Page
       13.4 Processing Grievances                          Page 38
       13.5 Time Periods                                   Page 38
       13.6 Civil Service Commission Appeals               Page 38
-ARTICLE 14 – GENERAL PROVISIONS                           Page 38
+### ARTICLE 14 – GENERAL PROVISIONS                           Page 38
       14.1 Non-Discrimination                             Page 38
       14.2 Bulletin Boards                                Page 39
       14.3 Visits by Union Representatives                Page 39
@@ -119,11 +119,11 @@ ARTICLE 14 – GENERAL PROVISIONS                           Page 38
       14.7 Health and Safety                              Page 40
       14.8 Negotiations                                   Page 41
       14.9 CDL Training Program                           Page 41
-ARTICLE 15 – STRIKES AND LOCKOUTS                         Page 41
+### ARTICLE 15 – STRIKES AND LOCKOUTS                         Page 41
       15.1 Lockouts                                       Page 41
       15.2 Strikes                                        Page 42
       15.3 Performance of Duties                          Page 42
-ARTICLE 16 – WORKING CONDITIONS                           Page 42
+### ARTICLE 16 – WORKING CONDITIONS                           Page 42
       16.1 Work Week                                      Page 42
       16.2 Work Week Schedule                             Page 42
       16.3 Optional Work Week Schedule                    Page 43
@@ -132,15 +132,15 @@ ARTICLE 16 – WORKING CONDITIONS                           Page 42
       16.6 Rest Periods                                   Page 44
       16.7 Meal Periods and Meals                         Page 44
       16.8 Clean-up Time                                  Page 45
-ARTICLE 17 – MANAGEMENT RIGHTS                            Page 45
-ARTICLE 18 – SAVINGS CLAUSE                               Page 45
-ARTICLE 19 – TERM AND TERMINATION                         Page 46
-APPENDIX A – COLUMBIA COUNTY SALARY RANGES                Page 47
-APPENDIX B – FITNESS FOR DUTY                             Page 48
-APPENDIX C – RE-ENTRY AGREEMENT                           Page 61
-APPENDIX D – FITNESS FOR DUTY RECEIPT                     Page 63
-APPENDIX E – LETTER OF AGREEMENT                          Page 64
-APPENDIX F – LETTER OF AGREEMENT                          Page 67
+### ARTICLE 17 – MANAGEMENT RIGHTS                            Page 45
+### ARTICLE 18 – SAVINGS CLAUSE                               Page 45
+### ARTICLE 19 – TERM AND TERMINATION                         Page 46
+### APPENDIX A – COLUMBIA COUNTY SALARY RANGES                Page 47
+### APPENDIX B – FITNESS FOR DUTY                             Page 48
+### APPENDIX C – RE-ENTRY AGREEMENT                           Page 61
+### APPENDIX D – FITNESS FOR DUTY RECEIPT                     Page 63
+### APPENDIX E – LETTER OF AGREEMENT                          Page 64
+### APPENDIX F – LETTER OF AGREEMENT                          Page 67
 
 
 
@@ -165,7 +165,7 @@ the County and the Union; the establishment of an equitable peaceful procedure f
 resolution of differences; and the establishment of rates of pay, hours of work and other
 conditions of employment.
 
-                                   ARTICLE 1 – DEFINITIONS
+### ARTICLE 1 – DEFINITIONS
 
 Anniversary Date – Original: Original anniversary date is the first day of the month in which the
 employee is hired into a particular position, if hired between the 1st and the 15th day of the month
@@ -272,7 +272,7 @@ accruals, including seniority, leave accruals, salary and step increases, should
 employee be subsequently appointed to a regular position and represented by this bargaining
 unit.
 
-                  ARTICLE 2 – BARGAINING UNIT AND RECOGNITION
+### ARTICLE 2 – BARGAINING UNIT AND RECOGNITION
 
 2.1    The Bargaining Unit
 
@@ -307,7 +307,7 @@ The County recognizes the Union as the exclusive, collective bargaining represen
 employees in this bargaining unit for the purpose of negotiations with respect to wages, hours
 and related terms and conditions of employment for such employees.
 
-                            ARTICLE 3 – UNION MEMBERSHIP
+### ARTICLE 3 – UNION MEMBERSHIP
 
 3.1    Union Membership Agreement
 
@@ -385,7 +385,7 @@ collectively in good faith.
           represented by the Union and every 120 calendar days for all employees represented by
           the Union.
 
-                                     ARTICLE 4 – HOLIDAYS
+### ARTICLE 4 – HOLIDAYS
 
 4.1       Recognized Holidays
 
@@ -489,7 +489,7 @@ time, whichever is greater, on the recognized holiday and under no circumstance 
 pay time and one-half pay for both the recognized holiday and the observed holiday under this
 Section.
 
-                              ARTICLE 5 – VACATION LEAVE
+### ARTICLE 5 – VACATION LEAVE
 
 5.1    Accrual
 
@@ -570,7 +570,7 @@ accrual payment prorated.
 An employee who resigns or who is dismissed prior to the completion of six (6) months of service
 from the date of hire shall not be eligible for accumulated vacation pay.
 
-                  ARTICLE 6 – SICK LEAVE AND BEREAVEMENT LEAVE
+### ARTICLE 6 – SICK LEAVE AND BEREAVEMENT LEAVE
 
 6.1    Accrual
 
@@ -708,7 +708,7 @@ the timekeeping system.
 Should the State of Oregon make changes to Paid Leave Oregon, the Union and the County shall
 meet and confer to negotiate necessary changes.
 
-                                 ARTICLE 7 – OTHER LEAVES
+### ARTICLE 7 – OTHER LEAVES
 
 7.1    Leave of Absence
 
@@ -830,7 +830,7 @@ provided under this Agreement.
 leave accrual, severance pay, health and welfare, wages, step increases or seniority, except as
 provided for in Article 1, ‘Break in Service’ definition.
 
-                                ARTICLE 8 – SEVERANCE PAY
+### ARTICLE 8 – SEVERANCE PAY
 
 Any employee who has completed one (1) full year of service with the County, and who shall be
 laid off as a result of causes other than dismissal, retirement, or resignation, shall receive two (2)
@@ -842,7 +842,7 @@ unit within the same classification, reclassification within the same pay scale,
 class within the same pay scale or higher, the employee’s refusal shall be considered as a
 resignation, if the employee was able to perform the essential duties of the job.
 
-                ARTICLE 9 – HEALTH/WELFARE/RETIREMENT BENEFITS
+### ARTICLE 9 – HEALTH/WELFARE/RETIREMENT BENEFITS
 
 The Union and the County support the creation and function of the Health Benefits Committee
 and pledge to give strong consideration to any recommendation the Committee might make and
@@ -965,7 +965,7 @@ beginning pre-tax deduction of $25 per month. This first deduction shall begin w
 the month pay of the second full month of employment. Any employee who wishes to opt out
 may do so by submitting the appropriate form as provided by the County.
 
-                                     ARTICLE 10 – WAGES
+### ARTICLE 10 – WAGES
 
 10.1 Wages and Classification Schedule
 
@@ -1208,7 +1208,7 @@ AFSCME represented employees to prepare and recommend an outline for compensatio
 review. Each party shall appoint three members to this committee. The committee shall strive to
 complete its recommendation by January 1, 2029.
 
-                                   ARTICLE 11 – SENIORITY
+### ARTICLE 11 – SENIORITY
 
 11.1 Acquisition of Seniority
 
@@ -1440,7 +1440,7 @@ B. Recall. If the County decides to fill a position within the bargaining unit a
        An employee on layoff status shall also have the right to apply for positions as specified
        in Section 11.6.
 
-                        ARTICLE 12 – DISCIPLINE AND DISMISSAL
+### ARTICLE 12 – DISCIPLINE AND DISMISSAL
 
 12.1 Discipline
 
@@ -1540,7 +1540,7 @@ discipline during that period.
 Employees shall have the right to attach written responses to any/all disciplinary records in the
 file.
 
-                         ARTICLE 13 – SETTLEMENT OF DISPUTES
+### ARTICLE 13 – SETTLEMENT OF DISPUTES
 
 13.1 Grievance and Arbitration Procedure
 
@@ -1681,7 +1681,7 @@ Ordinance and the related rules of the Civil Service Commission.
 Employees who pursue an appeal to hearing before the Civil Service Commission shall be deemed
 to have waived their right to arbitrate their grievance under this Agreement.
 
-                            ARTICLE 14 – GENERAL PROVISIONS
+### ARTICLE 14 – GENERAL PROVISIONS
 
 14.1 Non-Discrimination
 
@@ -1817,7 +1817,7 @@ licensing fees related to their Commercial Drivers’ License.
 The CDL training program must be disclosed to all applicants at the time of job offer, failure to
 do so will invalidate the repayment requirements in section 14.9.
 
-                         ARTICLE 15 – STRIKES AND LOCKOUTS
+### ARTICLE 15 – STRIKES AND LOCKOUTS
 
 15.1 Lockouts
 
@@ -1844,7 +1844,7 @@ may be reasonably anticipated to endanger the employee’s personal safety.
 
 Matters pertaining to the public safety, such as law enforcement, are excluded from this Section.
 
-                          ARTICLE 16 – WORKING CONDITIONS
+### ARTICLE 16 – WORKING CONDITIONS
 
 16.1 Work Week
 
@@ -1986,7 +1986,7 @@ employees’ clean-up times and shall arrange work schedules so that employees m
 up time. Employees working with herbicides shall have readily available a portable wash-down
 rack.
 
-                           ARTICLE 17 – MANAGEMENT RIGHTS
+### ARTICLE 17 – MANAGEMENT RIGHTS
 
 The parties recognize that the elected officials of the County are directly responsible to the public
 and to the citizens of the County, for the performance of the functions and services of the County.
@@ -2002,13 +2002,13 @@ this Agreement.
 Nothing in this paragraph will preclude the right of an employee to utilize the provisions of Article
 13, Settlement of Disputes.
 
-                               ARTICLE 18 – SAVINGS CLAUSE
+### ARTICLE 18 – SAVINGS CLAUSE
 
 
 
 
                                                                                          45 | P a g e
-APPENDIX A – COLUMBIA COUNTY SALARY RANGES
+### APPENDIX A – COLUMBIA COUNTY SALARY RANGES
 
 
 Columbia County AFSCME Local 697 Salary Ranges
@@ -2052,7 +2052,7 @@ Engineering Technician II           P            27      $42.63    $43.78    $44
 
 
                                                                                                                         47 | P a g e
-APPENDIX B – FITNESS FOR DUTY POLICY
+### APPENDIX B – FITNESS FOR DUTY POLICY
 
 Columbia County, Oregon
 Public Works Department
@@ -2627,7 +2627,7 @@ of the signed certificate for his or her personal records.
 
 
                                                                                          60 | P a g e
-APPENDIX C – RE-ENTRY AGREEMENT (EXHIBIT 1)
+### APPENDIX C – RE-ENTRY AGREEMENT (EXHIBIT 1)
 
 This Agreement is entered into between _________________ (hereinafter ”Employee”) and the
 County in order to provide Employee the opportunity to demonstrate to the County his/her
@@ -2702,7 +2702,7 @@ By: Union Representative                                          Date
 
 
                                                                                     62 | P a g e
-APPENDIX D – FITNESS FOR DUTY RECEIPT (EXHIBIT 2)
+### APPENDIX D – FITNESS FOR DUTY RECEIPT (EXHIBIT 2)
 
                                   CERTIFICATE OF RECEIPT
 
@@ -2723,11 +2723,11 @@ Printed Name
 
 
                                                                                        63 | P a g e
-APPENDIX E – LETTER OF AGREEMENT
+### APPENDIX E – LETTER OF AGREEMENT
 
                                                                          Contract No: C84-2025
 
-                                    LETTER OF AGREEMENT
+### LETTER OF AGREEMENT
 
 This Agreement is made and entered into by Columbia County, herein referred to as the
 “County”, and the American Federation of State, County and Municipal Employees Local 697,
@@ -2811,9 +2811,9 @@ recommendation from the Health Benefits Committee.
 
                                                                                      65 | P a g e
 66 | P a g e
-APPENDIX F – LETTER OF AGREEMENT
+### APPENDIX F – LETTER OF AGREEMENT
 
-ARTICLE 16.2 – WORKING CONDITIONS – WORK WEEK SCHEDULE
+### ARTICLE 16.2 – WORKING CONDITIONS – WORK WEEK SCHEDULE
 
 Modified Regular Work Week Schedule – 10-Hour Shift Pilot
 

@@ -73,7 +73,7 @@ conditions for Marion County as provided by Oregon Revised Statutes and this Agr
 The parties agree as follows:
 
 
-ARTICLE 1 – RECOGNITION
+### ARTICLE 1 – RECOGNITION
 
 The Employer recognizes the Association as the exclusive bargaining agent for all Deputy District
 Attorneys, except supervisory and managerial employees, and specifically excluding Trial Team
@@ -81,7 +81,7 @@ Lead/Supervisors. The term “employee” means any person employed one-half (½
 regular work schedule in a regular position and does not include temporary employees.
 
 
-ARTICLE 2 – MANAGEMENT’S RIGHTS
+### ARTICLE 2 – MANAGEMENT’S RIGHTS
 
 It is recognized that an area of responsibility and authority must be reserved to the Employer and the
 District Attorney if county government is to serve the public effectively. Except to the extent expressly
@@ -128,7 +128,7 @@ provided in Article 31, Life of Agreement and Termination, or 3) negotiating dur
 of formal successor negotiations when the parties mutually agree to so negotiate.
 
 
-ARTICLE 3 – NOTICES FOR MANDATORY SUBJECTS OF BARGAINING
+### ARTICLE 3 – NOTICES FOR MANDATORY SUBJECTS OF BARGAINING
 
 Section 1. Prior to planned adoption or implementation, the County shall provide to the Association a
 copy of any new or proposed modification to an existing rule, policy, and/or procedural statement, which
@@ -154,7 +154,7 @@ the Association's right pursuant to ORS Chapter 243 to bargain on new rules, pol
 and/or changes in current rules, policies, and procedures, which are mandatory subjects of negotiations.
 
 
-ARTICLE 4 – ASSOCIATION SECURITY
+### ARTICLE 4 – ASSOCIATION SECURITY
 
 Section 1. Requests for Association membership shall first come to the Association. The Association will
 submit written or electronic membership authorizations to the Employer. For all membership
@@ -191,7 +191,7 @@ the Employer.
                                                                                           3
                                                                                                MCDAA CBA
                                                                                                2023-2026
-ARTICLE 5 – HOURS OF WORK
+### ARTICLE 5 – HOURS OF WORK
 
 Section 1. Exempt Status. The Association and the County recognize that employees are FLSA exempt
 professional employees, and that hours of work, days of work and work locations will vary according to
@@ -235,7 +235,7 @@ Marion County Personnel Rules differ, this Agreement takes precedence.
                                                                                            4
                                                                                              MCDAA CBA
                                                                                              2023-2026
-ARTICLE 6 – HOLIDAYS
+### ARTICLE 6 – HOLIDAYS
 
 Section 1. Holidays. The following days are legal holidays for regular employees:
 
@@ -268,7 +268,7 @@ considered to be the holiday. Holidays, which occur during paid vacation or sick
 be charged against vacation or sick leave accruals.
 
 
-ARTICLE 7 – VACATIONS
+### ARTICLE 7 – VACATIONS
 
 Section 1. Vacation Accumulation. After having served in the county service for six (6) consecutive, full
 calendar months, full-time employees shall have access to accrued vacation leave. Vacation leave shall be
@@ -376,7 +376,7 @@ employee may not return to receiving compensation credits and pay at the lower s
 
 
 
-ARTICLE 8 – SICK LEAVE
+### ARTICLE 8 – SICK LEAVE
 
 Section 1. Sick leave shall be earned by each employee in a regular, full-time position at the rate of
 three point six nine three (3.693) hours per pay period for those working forty (40) hours per week and
@@ -426,7 +426,7 @@ resources. The reappointment must occur within twelve (12) months of the date of
 County. Upon reappointment, the County will restore all of an employee’s previous sick leave credit.
 
 
-ARTICLE 9 – PROTECTED LEAVE
+### ARTICLE 9 – PROTECTED LEAVE
 
 Protected leave is available for qualifying employees in the form of family, medical, domestic violence,
 and military leave in conformance with the Family Medical Leave Act (FMLA), Oregon Family Medical
@@ -448,7 +448,7 @@ Any conflicts in the administration or interpretation of the provisions under ei
 resolved by the application of the appropriate federal and/or state statute.
 
 
-ARTICLE 10 – OTHER LEAVES
+### ARTICLE 10 – OTHER LEAVES
 
 Section 1. Absence With Pay. An employee holding a position in the county service shall be granted a
 leave of absence with pay for: (a) service with jury; (b) appearance before a court, legislative committee
@@ -516,7 +516,7 @@ or other legitimate reasons beyond his/her control. Such leave shall not exceed 
 (1) year.
 
 
-ARTICLE 11 – HEALTH, WELFARE, AND RETIREMENT BENEFITS
+### ARTICLE 11 – HEALTH, WELFARE, AND RETIREMENT BENEFITS
 
 Section 1. Marion County Benefits Plan. Marion County shall, within the maximum contribution provided
 by the County, attempt to provide the best value, most effective health, dental and vision benefits
@@ -600,7 +600,7 @@ amount paid to each employee into an employer account in the employee’s name, 
                                                                                         12
                                                                                                   MCDAA CBA
                                                                                                   2023-2026
-ARTICLE 12 – WAGE ADJUSTMENT
+### ARTICLE 12 – WAGE ADJUSTMENT
 
 Section 1. Wages are reflected in Exhibit A – Salary Schedule
 Effective and retroactive to July 1, 2023, all employees shall receive a five percent (5%) wage increase
@@ -627,7 +627,7 @@ receive a five percent (5%) differential for all hours worked. Eligibility for t
 on passing a valid, reliable, professionally recognized foreign language test.
 
 
-ARTICLE 13 – PAY ADMINISTRATION
+### ARTICLE 13 – PAY ADMINISTRATION
 
 Section 1. Pay Plan. The Employer hereto adopted a pay plan under which employees covered by this
 agreement have and shall continue to be compensated. A copy of that plan is attached hereto, marked
@@ -676,14 +676,14 @@ Section 2. Administration of Pay Plan.
       employee shall retain his/her anniversary date for merit increases.
 
 
-ARTICLE 14 – ON-CALL
+### ARTICLE 14 – ON-CALL
 
 Employees will be assigned to be on-call on a rotating basis for one (1) week at a time. For the
 week the employee is on-call, the employee shall receive an additional premium of nine hundred
 dollars ($900) per week. Only the scheduled on-call employee shall receive the payment.
 
 
-ARTICLE 15 – PAYDAY
+### ARTICLE 15 – PAYDAY
 
 The Employer shall pay Association members on a bi-weekly basis using the same schedule as applicable
 
@@ -694,7 +694,7 @@ for all other County employees. This Section shall not apply where circumstances
 control of the Employer, which cause a delay in the issuing of such checks.
 
 
-ARTICLE 16 – TRAVEL ALLOWANCES
+### ARTICLE 16 – TRAVEL ALLOWANCES
 
 Section 1. Mileage Reimbursement. Upon prior approval by the supervisor, mileage reimbursement for
 the use of private vehicles shall be at the current IRS mileage rate for business use of an automobile.
@@ -719,14 +719,14 @@ The Employer reserves the right to deny expense claims for such things as person
 entertainment or excessive expenses.
 
 
-ARTICLE 17 – CELL PHONES
+### ARTICLE 17 – CELL PHONES
 
 The Employer shall provide each member a cell phone for business use. Employees must use the
 Employer provided cell phone for business purposes in compliance with County policies and their
 personal cell phone for personal purposes.
 
 
-ARTICLE 18 – HEALTH AND SAFETY REGULATIONS
+### ARTICLE 18 – HEALTH AND SAFETY REGULATIONS
 
 Section 1. The Employer agrees to abide by and maintain in its facilities and work operations standards of
 safety and health in accordance with the Oregon Safe Employment Act.
@@ -745,7 +745,7 @@ equipment nor shall refusal to operate such equipment be construed as insubordin
 has been complied with unless an emergency situation exists.
 
 
-ARTICLE 19 – TRIAL SERVICE PERIOD
+### ARTICLE 19 – TRIAL SERVICE PERIOD
 
 Section 1. Initial Trial Service Period. Employees shall serve an initial trial service period of twelve (12)
 continuous months. An employee who is reassigned to another position in the same class prior to
@@ -766,7 +766,7 @@ prior to the promotion, if a position in that classification is vacant, and will
 service period in that classification.
 
 
-ARTICLE 20 – DISCIPLINE AND DISCHARGE
+### ARTICLE 20 – DISCIPLINE AND DISCHARGE
 
 Section 1. The County shall impose disciplinary measures to correct employee misconduct. These
 measures shall be progressive in nature until, or unless, separation from County service is considered
@@ -875,7 +875,7 @@ copy of the documentation will be provided to the employee and to the Associatio
                                                                                         18
                                                                                                  MCDAA CBA
                                                                                                  2023-2026
-ARTICLE 21 – LAYOFF
+### ARTICLE 21 – LAYOFF
 
 Section 1. For all employees, the date of hire will be used to determine "county seniority" for provisions
 of this article.
@@ -934,7 +934,7 @@ notice or does not respond within fourteen (14) days of the notice, then the per
 recall.
 
 
-ARTICLE 22 – GENERAL PROVISIONS
+### ARTICLE 22 – GENERAL PROVISIONS
 
 Section 1. Non-Discrimination. The provisions of this agreement shall be applied equally to all
 employees in the bargaining unit without discrimination as to age, marital status, race, color, creed, sex,
@@ -958,7 +958,7 @@ interfere with the effectiveness and efficiency of the County’s operations in 
 responsibility to the public.
 
 
-ARTICLE 23 – OUTSIDE EMPLOYMENT
+### ARTICLE 23 – OUTSIDE EMPLOYMENT
 
 The District Attorney or designee may approve outside employment when such employment does not
 detract from the efficiency of the employee's County work, and does not conflict with the interest of
@@ -971,7 +971,7 @@ regular working hours, the employee must use applicable leave to cover the absen
 outside employment shall not be unreasonably withheld.
 
 
-ARTICLE 24 – ASSOCIATION REPRESENTATIVES
+### ARTICLE 24 – ASSOCIATION REPRESENTATIVES
 
 Section 1. The employees in the bargaining unit shall be allowed Association representatives. The
 Association shall keep the Employer informed as to the names of employees designated as Association
@@ -1026,7 +1026,7 @@ unpaid leave, not to exceed two and one-half (2½) hours per month, per officer.
 
 
 
-ARTICLE 25 – GRIEVANCE AND ARBITRATION PROCEDURE
+### ARTICLE 25 – GRIEVANCE AND ARBITRATION PROCEDURE
 
 Section 1. Definitions.
 
@@ -1159,7 +1159,7 @@ All other grievances    Within thirty (30)      Immediate Supervisor     Distric
 
 
 
-ARTICLE 26 – LIABILITY INSURANCE
+### ARTICLE 26 – LIABILITY INSURANCE
 
 Section 1. All members of the bargaining unit are covered by the provisions of the Oregon Tort Claims
 Act as amended.
@@ -1170,7 +1170,7 @@ complaint. The Employer will pay all costs associated with representation of emp
 matters, including attorney fees.
 
 
-ARTICLE 27 – TRAINING
+### ARTICLE 27 – TRAINING
 
    A. Employees are required to comply with all Oregon State Bar (OSB) Continuing Legal Education
       (CLE) requirements.
@@ -1202,14 +1202,14 @@ ARTICLE 27 – TRAINING
                                                                                        25
                                                                                               MCDAA CBA
                                                                                               2023-2026
-ARTICLE 28 – BAR DUES
+### ARTICLE 28 – BAR DUES
 
 Each year, the County will pay the OSB bar dues for all DDA employees when due and in a timely
 manner. Individual DDAs are responsible to file the appropriate form with OSB for Professional Liability
 waivers due to government public service.
 
 
-ARTICLE 29 – SCOPE OF AGREEMENT
+### ARTICLE 29 – SCOPE OF AGREEMENT
 
 This document constitutes the sole and complete agreement between the Association and the Employer
 and embodies all the terms and conditions governing the employment of employees in the negotiating
@@ -1220,7 +1220,7 @@ less than the level in effect at the time of the signing of this agreement.
 
 
 
-ARTICLE 30 – DRUG AND ALCOHOL TESTING
+### ARTICLE 30 – DRUG AND ALCOHOL TESTING
 
 Section 1. The parties agree there will be no random drug testing of employees other than those
 employees required to maintain a commercial driver’s license (CDL).
@@ -1254,7 +1254,7 @@ Association representative. The Employer shall provide the Association with info
 etc., which supports the need for such testing.
 
 
-ARTICLE 31 – LIFE OF AGREEMENT AND TERMINATION
+### ARTICLE 31 – LIFE OF AGREEMENT AND TERMINATION
 
 This agreement shall terminate June 30, 2026. If either party wishes to renew or modify this agreement
 as of its termination, the party shall give written notice of its intent to renew or modify to the other
@@ -1262,7 +1262,7 @@ party by November 1, 2025. Negotiations shall begin at such time as agreed by th
 agreement shall remain in full force and effect during the period of such successor negotiations.
 
 
-ARTICLE 32 – SAVINGS CLAUSE
+### ARTICLE 32 – SAVINGS CLAUSE
 
 Should any section or portion thereof of this agreement be held unlawful and unenforceable by any
 court of competent jurisdiction, be in violation of or made illegal through enactment of federal or state
@@ -1271,7 +1271,7 @@ portion thereof, directly specified in the decision. Upon issuance of such a dec
 immediately to negotiate a substitute, if possible, for the invalidated section or portion thereof.
 
 
-ARTICLE 33 – DEFINITIONS
+### ARTICLE 33 – DEFINITIONS
 
 Unless another meaning is specifically provided in a given article or section, the following definitions
 apply to these terms as used throughout this agreement:

@@ -51,8 +51,8 @@ ARTICLE 14 — GRIEVANCE PROCEDURE. uus:ssssssssssssssssssssssssssssseseessssees
 ARTICLE 15 — PROBATIONARY. PERIOD ......sssssssssssssssssssssssssssnsnees 2 ssanananensannnn                 sala cormouvetersnsaet 24
 ARTICLE 16 — SENIORITY AND LAYOFF ....csssssssssssssssssssssssssssssssstststsssissssisisisississseseeseeeeeesees 25
 ARTICLE 17 — GENERAL PROVISIONS v.ssssssssssssssssessssssssseseeseeees sslasasssssesesutessesssessssssssssasssssssssseeeseen 25
-ARTICLE 18 — SAVINGS CLAUSE
-ARTICLE 19 — DURATION AND RATIFICATION
+### ARTICLE 18 — SAVINGS CLAUSE
+### ARTICLE 19 — DURATION AND RATIFICATION
                                                            PREAMBLE
 
 
@@ -64,7 +64,7 @@ setting forth their entire agreement                with    regard to rates of p
 conditions of employment.
 
 
-                                             ARTICLE 1 — RECOGNITION
+### ARTICLE 1 — RECOGNITION
 
 
         The    County     recognizes         the     Association      as   the   exclusive      collective    bargaining
@@ -75,7 +75,7 @@ conditions of employment.
         243.650 and attorneys hired for a term of less than one year.
 
 
-                                         ARTICLE 2 — NON-DISCRIMINATION
+### ARTICLE 2 — NON-DISCRIMINATION
 
 
         The County will not interfere with or discriminate with respect to any term or condition
@@ -98,7 +98,7 @@ conditions of employment.
 
 Yamhill County Deputy District Attorneys Association and Yamhill County                                  Page 1 of 27
 Collective Bargaining Agreement  for 2023-2026
-                               ARTICLE 3 — ASSOCIATION DUES/FAIR SHARE
+### ARTICLE 3 — ASSOCIATION DUES/FAIR SHARE
 
 
         Deduction of Dues. The County agrees to deduct Association dues from the paychecks of
@@ -131,7 +131,7 @@ Collective Bargaining Agreement  for 2023-2026
 
 
 
-                                     ARTICLE 4 —- MANAGEMENT RIGHTS
+### ARTICLE 4 —- MANAGEMENT RIGHTS
 
 
         The County shall exercise the sole responsibility for management                          of the County        and
@@ -155,7 +155,7 @@ Collective Bargaining Agreement
 
 
 
-                                       ARTICLE 5 — ASSOCIATION BUSINESS
+### ARTICLE 5 — ASSOCIATION BUSINESS
 
 
         The County agrees that, during regularly scheduled work hours,                       designated Association
@@ -170,7 +170,7 @@ Collective Bargaining Agreement
 
 
 
-                      ARTICLE 6 — HOURS OF WORK/PROFESSIONAL WORKWEEK
+### ARTICLE 6 — HOURS OF WORK/PROFESSIONAL WORKWEEK
 
 
         The Association and the County recognize that employees are FLSA exempt professional
@@ -232,7 +232,7 @@ Collective Bargaining Agreement for 2023-2026
 
 
 
-                                       ARTICLE 7 — SALARY AND WAGES
+### ARTICLE 7 — SALARY AND WAGES
 
 
         Wages.
@@ -334,7 +334,7 @@ Collective Bargaining Agreement  for 2023-2026
 
 
 
-                                              ARTICLE 8 — HOLIDAYS
+### ARTICLE 8 — HOLIDAYS
 
 
         Holidays.   The following shall be recognized as paid holiday:
@@ -386,7 +386,7 @@ Collective Bargaining Agreement for 2023-2026
 
 
 
-                                 ARTICLE 9 — FLEXIBLE EARNED TIME (FET)
+### ARTICLE 9 — FLEXIBLE EARNED TIME (FET)
 
 
         FET Credit.
@@ -515,7 +515,7 @@ Collective Bargaining Agreement for 2023-2026
 
 
 
-  ARTICLE 10 — PERSONAL EXTENDED LEAVE (PEL) AND SHORT-TERM                          DISABILITY INSURANCE
+### ARTICLE 10 — PERSONAL EXTENDED LEAVE (PEL) AND SHORT-TERM                          DISABILITY INSURANCE
 
 
 10.1    Personal Extended Leave (PEL).
@@ -630,7 +630,7 @@ ay
 
 
 
-                                  ARTICLE 11 — OTHER LEAVES AND ABSENCES
+### ARTICLE 11 — OTHER LEAVES AND ABSENCES
 
 
             Criteria and Procedure.      Leave of absence without pay not to exceed 90 calendar days
@@ -779,7 +779,7 @@ BR
 
 
 
-                                     ARTICLE 12 — HEALTH AND WELFARE
+### ARTICLE 12 — HEALTH AND WELFARE
 
 
             Eligible Employees.     Full time employees           shall be eligible for the health and welfare
@@ -886,7 +886,7 @@ f
 
 
 
-                                            ARTICLE 13 — DISCIPLINE AND DISCHARGE
+### ARTICLE 13 — DISCIPLINE AND DISCHARGE
 
 
                  Cause for discipline or discharge: types of discipline; representation rights.
@@ -1204,7 +1204,7 @@ ay
         (b) Lie Detector Tests:        No employee will be directly or indirectly compelled to provide
              polygraph or voice stress tests in any disciplinary proceeding under Article 13.
 
-                                     ARTICLE 14 — GRIEVANCE PROCEDURE
+### ARTICLE 14 — GRIEVANCE PROCEDURE
 
 
 14.1    Dismissal or Suspension Disputes.            Disputes arising from dismissal or suspension of an
@@ -1303,7 +1303,7 @@ Collective Bargaining Agreement for 2023-2026
 
 
 
-                                             ARTICLE 15 — PROBATIONARY PERIOD
+### ARTICLE 15 — PROBATIONARY PERIOD
 
 
                    Purpose.    The probationary period is an integral part of the employee selection process
@@ -1340,7 +1340,7 @@ may
 
  Yamhill County Deputy District Attorneys Association and Yamhill County                              Page 24 of 27
  Collective Bargaining Agreement for 2023-2026
-                                    ARTICLE 16 — SENIORITY AND LAYOFF
+### ARTICLE 16 — SENIORITY AND LAYOFF
 
 
         Seniority.     "Seniority" as used in this Article is determined by the length of an employee's
@@ -1374,7 +1374,7 @@ may
 
 
 
-                                     ARTICLE 17 — GENERAL PROVISIONS
+### ARTICLE 17 — GENERAL PROVISIONS
 
 
         The benefits provided         by this Agreement        shall be exclusive and shall be in lieu of all
@@ -1402,7 +1402,7 @@ Collective Bargaining Agreement for 2023-2026
 
 
 
-                                       ARTICLE 18 — SAVINGS CLAUSE
+### ARTICLE 18 — SAVINGS CLAUSE
 
 
         Savings Clause.     Should any Article, Section, or portion thereof of this Agreement be held
@@ -1414,7 +1414,7 @@ Collective Bargaining Agreement for 2023-2026
         portion thereof.                                            :
 
 
-                              ARTICLE 19     - DURATION AND RATIFICATION
+### ARTICLE 19     - DURATION AND RATIFICATION
 
 
 Unless otherwise stated, this Agreement shall be effective July 1, 2023, or upon execution,
@@ -1471,7 +1471,7 @@ Collective Bargaining Agreement
 
 Yamhill County Deputy District   Attorneys Association and Yamhill County                        Page 27 of 27
 Collective Bargaining Agreement for 2023-2026
-                                                                  APPENDIX A
+### APPENDIX A
 
 YEAR ONE SALARY TABLE:
 

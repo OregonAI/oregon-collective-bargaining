@@ -16,12 +16,11 @@ agency_registry_slugs: []
 source_url: https://dochub.clackamas.us/documents/drupal/27c12dae-6aa7-4df1-bcd1-499c7dc8f654
 source_format: pdf
 retrieved: '2026-08-02'
-source_sha256: d26428e33de9c896ef338915d988308e241628657c225649b5147decdf6d51b1
+source_sha256: 06de6287c3131c6fc6b0899835035ff23244ce6fbed1134ea2e87611d516e04f
 snapshot_policy: hash-only
 status: current
-content_mode: summary
-reproduction_basis: 'jointly-authored contract; summary + official link per the class determination
-  in corpus.yml schema.doc_types (verbatim: false)'
+content_mode: 'verbatim'
+reproduction_basis: 'public record of a public body (ORS 192.311-192.478); the employer publishes the executed agreement in full at source_url; a ratified agreement is an official act (Georgia v. Public.Resource.Org, 590 U.S. 255 (2020)) — mirrored in full per the class determination in corpus.yml schema.doc_types (verbatim: true)'
 conversion_notes: pdftotext -layout; 22 pages, 58441 characters extracted; NOT human-verified
 last_verified: ''
 verified_by: ''
@@ -42,8 +41,8 @@ tags:
 - clackamas-county
 ---
 
-> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated
-> summary, not the agreement's official text. Verify against the official
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a non-authoritative
+> mirror of the agreement's text, not the official record. Verify against the official
 > source: <https://dochub.clackamas.us/documents/drupal/27c12dae-6aa7-4df1-bcd1-499c7dc8f654> (retrieved 2026-08-02).
 
 # Clackamas County — Employee Association Part-Time/Temporary (EAT)
@@ -54,10 +53,6 @@ Collective bargaining agreement between **Clackamas County** and **the signatory
 - Listed on the county's labor agreements index as: “Employee Association Part-Time/Temporary (EAT)” (index archived in `_meta/discovery/`)
 - Source document: 22 pages (PDF)
 
-This corpus is **summary-first for agreements**: the contract's text is not
-reproduced here (see Curator notes), and nothing on this page states or
-paraphrases the agreement's terms. Read the agreement itself at the official
-source link above.
 
 ## Curator notes
 
@@ -75,3 +70,917 @@ Statutes and rules the document's text cites are recorded in frontmatter
 `relationships.references_external` (4 citation(s)) and resolve into
 `executive-regulatory-frameworks` as cites — this corpus asserts no
 `implements` edge anywhere.
+
+## Full text
+
+CLACKAMAS COUNTY
+   EMPLOYEES’
+ASSOCIATION PART-
+ TIME/TEMPORARY
+
+
+
+
+    2024-2027
+   AGREEMENT
+                                                                    Table of Contents
+PREAMBLE ............................................................................................................................................................. 4
+ARTICLE 1 - RECOGNITION ...................................................................................................................................... 4
+ARTICLE 2 - PRESERVATION OF PUBLIC RIGHTS ...................................................................................................... 4
+ARTICLE 3 - UNION DUES ........................................................................................................................................ 5
+ARTICLE 4 - ASSOCIATION RIGHTS .......................................................................................................................... 5
+   1.      ACCESS TO WORKERS. ............................................................................................................................................5
+   2.      NEW EMPLOYEE ORIENTATION. ...............................................................................................................................5
+   3.      NOTIFICATION TO COUNTY. .....................................................................................................................................6
+   4.      ASSOCIATION NEGOTIATORS. ...................................................................................................................................6
+   5.      NO DISCRIMINATION..............................................................................................................................................6
+   6.      ELECTRONIC MAIL. ................................................................................................................................................6
+   7.      RELEASE TIME. ......................................................................................................................................................7
+   8.      EMPLOYEE TIME. ...................................................................................................................................................8
+ARTICLE 5 - PAID TIME OFF..................................................................................................................................... 8
+   1.      PAID TIME OFF. ....................................................................................................................................................8
+   2.      SICK LEAVE. ........................................................................................................................................................10
+ARTICLE 6- CLASSIFICATIONS ............................................................................................................................... 11
+   1.      REGULAR CLASSIFICATIONS. ...................................................................................................................................11
+   2.      SPECIAL TITLE JOBS. .............................................................................................................................................11
+ARTICLE 7 – WAGES ............................................................................................................................................. 11
+   1.      GENERAL COUNTY AND NORTH CLACKAMAS PARKS AND RECREATION DISTRICT (NCPRD). ...............................................11
+   2.      GENERAL COUNTY DEPARTMENTS MERIT SCHEDULE AND NORTH CLACKAMAS PARKS AND RECREATION DISTRICT (NCPRD). ..12
+   3.      NORTH CLACKAMAS PARKS & RECREATION DISTRICT WORK-RELATED ADDITIONALCERTIFICATION PAY. ..............................12
+   4.      OVERTIME/COMPENSATORY TIME. .........................................................................................................................12
+   5.      BILINGUAL SKILLS PAY. .........................................................................................................................................13
+   6.      ON-CALL HOURS FOR BEHAVIORAL HEALTH DIVISION MOBILE CRISIS RESPONSE TEAM. ...................................................13
+ARTICLE 8 – DISCIPLINE ........................................................................................................................................ 14
+ARTICLE 9- SETTLEMENT OF DISPUTES ................................................................................................................. 15
+ARTICLE 10 - WORKERS’ COMPENSATION ............................................................................................................ 15
+ARTICLE 11 – BENEFITS......................................................................................................................................... 16
+   1.      EMPLOYEE ASSISTANCE PLAN.................................................................................................................................16
+   2.      RETIREMENT CONTRIBUTIONS. ...............................................................................................................................16
+ARTICLE 12 - HOURS OF WORK ............................................................................................................................ 17
+   1.      WORK SCHEDULES. ..............................................................................................................................................17
+   2.      MEAL AND REST BREAKS.......................................................................................................................................17
+   3.      EMPLOYEE REPORTING EXPECTATIONS. ....................................................................................................................18
+ARTICLE 13- DURATION OF EMPLOYMENT ........................................................................................................... 18
+   1.      DEFINITIONS. ......................................................................................................................................................18
+
+                                                                                      2
+   2.      UNALLOCATED EMPLOYEES ANNUAL WORK HOURS LIMITS. ........................................................................................18
+ARTICLE 14 - MISCELLANEOUS.............................................................................................................................. 19
+   1.      LABOR/MANAGEMENT. ........................................................................................................................................19
+   2.      DRUG AND ALCOHOL TESTING................................................................................................................................19
+   3.      UNIFORM POLICY – NCP&RD AQUATIC PARK. .........................................................................................................19
+   4.      OVER/UNDER PAYMENTS. ....................................................................................................................................20
+   5.      VIDEO CAMERAS AND GPS DATA. ..........................................................................................................................21
+   6.      TRAVEL PAY AND MILEAGE REIMBURSEMENT. ..........................................................................................................21
+   7.      RULES, DEPARTMENT POLICIES AND EMPLOYMENT POLICIES AND PRACTICES. .................................................................21
+ARTICLE 15 - SAVINGS CLAUSE .................................................................................................................................... 21
+ARTICLE16 – TERMINATION ....................................................................................................................................... 22
+
+
+
+
+                                                                                  3
+                                2024-2027
+                               AGREEMENT
+                                 Between
+                          CLACKAMAS COUNTY AND
+                 CLACKAMAS COUNTY EMPLOYEES ASSOCIATION -
+                        TEMPORARIES AND PART-TIME
+
+
+
+                                         PREAMBLE
+
+This agreement is entered into by Clackamas County, Oregon, hereinafter referred to as the
+County, and the Clackamas County Employees Association - Temporaries and Part-Time,
+hereinafter referred to as the Association.
+
+The parties agree as follows:
+
+### ARTICLE 1 - RECOGNITION
+
+The County recognizes the Association as the exclusive bargaining agent for the purpose of
+establishing salaries, wages, hours and other conditions of employment for allocated employees
+(regular part-time employees working less than 18.75 hours per week for 37.5-hour schedules
+and 19.75 hours per week for 40-hour schedules), and unallocated employees that are employed
+in County departments and divisions which are covered by the general agreement between the
+Clackamas County Employees’ Association -Temporaries and Part-Time, and Clackamas
+County. Please refer to Article 13 for duration of employment and work hour limitations. Said
+allocated and unallocated employees that are supervisory or confidential or are exempt
+employees or elected officials under the County’s Personnel Ordinance are not covered by this
+agreement.
+
+### ARTICLE 2 - PRESERVATION OF PUBLIC RIGHTS
+
+The Association recognizes that an area of responsibility must be reserved to the County if
+County government is to effectively serve the public. Therefore, the County shall have the full
+and complete right to manage and direct its business and it is recognized that the following
+responsibilities of management are exclusively functions to be exercised by the County and are
+not subject to negotiation insofar as this right does not affect the meaning, interpretation or
+application of any other terms of this Agreement:
+
+        1.      The determination of the governmental services to be rendered to the citizens of
+                Clackamas County.
+
+        2.      The determination of the County’s financial, budgetary and accounting
+                procedures.
+
+        3.      The management and direction of the work force including, but not limited to,
+                the right to determine the methods, processes and manner of performing work;
+
+                                                4
+                the right to hire, promote, transfer within the same pay range and retain
+                employees; the right to discipline or discharge for proper cause; the right to lay
+                off for lack of funds; the right to establish or abolish positions or reorganize the
+                departments or division; the right to determine schedules of work; the right to
+                purchase, dispose and assign equipment or supplies, and the right to contract or
+                subcontract any work.
+
+### ARTICLE 3 - UNION DUES
+
+       1.     All employees covered by the terms and conditions of this Agreement may
+become members of the Association. The County agrees to deduct dues in the amount
+determined by the Association from the wages of each employee who chooses to become a
+member of the Association and provides the County with written authorization to deduct dues.
+The County agrees to deposit the total amount deducted from all members into an established
+account designated by the Association, on a monthly basis.
+
+        2.       The County will not be held liable for errors but will make proper adjustments
+with the Association for errors as soon as is practicable if notified within ten (10) calendar days
+of the error. In no case shall such an adjustment extend beyond the following pay period. In
+order for both parties to have adequate information on dues, an updated list of eligible members
+who have union dues deducted from their pay will be delivered to the Association.
+
+        3.     Association representatives shall be provided with a reasonable opportunity and
+fifteen (15) minutes of County paid time to inform new employees about the Association and to
+provide the new employee with a signature card in order to register for membership in the
+Association.
+
+### ARTICLE 4 - ASSOCIATION RIGHTS
+
+1.              Access to Workers.
+Authorized representatives of the Association may visit the work locations of employees covered
+by this agreement at reasonable times, provided that such visitations will not interfere with the
+operations of the County.
+
+2.              New Employee Orientation.
+The County will notify the Association monthly of all new employees who are members of the
+bargaining unit. The Association will be allowed to hold one (1) thirty (30) -minute meeting on
+County paid time in total per month to orient all new Association members. One (1) Association
+member will be allowed work time to lead the orientation process. This orientation meeting will
+be coordinated with the Department Director or designee with the intent of selecting a time and
+County location with the least impact onto business. Attendance by the employees is voluntary
+and it is the Association’s responsibility to notify the new employees of the meeting time and
+place.
+
+
+
+
+                                                  5
+3.               Notification to County.
+The Association shall advise the County in writing of the names of employees who are serving as
+Association representatives and shall also designate the departments/program(s) the Association
+representative represents. The County shall recognize only employees designated as Association
+representatives, officers of the Clackamas County Employees’ Association (CCEA), and the
+CCEA Service Representative as official representatives in the administration of this agreement.
+Said list shall be updated as necessary.
+
+4.             Association Negotiators.
+Employees selected by the Association to act as Association representatives for the purpose of
+negotiating amendments or modifications to this Agreement shall be employees so designated
+and shall be certified in writing to the County by the Association separately, or as part of the
+ground rules relating to the negotiations. The list may be updated from time to time. The
+Negotiating Committee shall consist of a reasonable number of members designated by the
+Association and a Chief Negotiator. All negotiation meetings with the Board of County
+Commissioners or its representatives shall be held during working hours without loss of pay.
+
+5.               No Discrimination.
+The provisions of this Agreement shall be applied equally to all employees in the bargaining unit
+without discrimination as to age, sex, marital status, race, color, creed, national origin, or
+political affiliation. The Association shall share equally with the County the responsibility for
+applying this provision of the Agreement. The County agrees not to interfere with the rights of
+employees to become members of the Association, and there shall be no discrimination,
+interference, restraint, or coercion by the County, or any County representative against any
+employee because of Association membership or because of any employee activity in an official
+capacity on behalf of the Association, or for any other cause. Nothing in this section shall be
+construed to limit the County’s right to effectively and efficiently run the County’s operations.
+
+
+6.             Electronic Mail.
+a. Association representatives (those persons holding positions as officers within the
+Association) may use the County email system to communicate concerning collective bargaining
+matters.
+
+b.   “Collective bargaining matters” means any of the following:
+        1. official Association announcements to the Association membership (such as meeting
+           subjects, dates and times);
+        2. the meaning, interpretation or application of this Agreement;
+        3. the presentation and adjustment of grievances under Article 9 of this Agreement;
+        4. matters directly related to the collective bargaining relationship between the County
+           and the Association.
+
+c. Association members may use the County email system to contact Association
+representatives regarding collective bargaining matters, including any of the following purposes:
+
+
+                                                 6
+        1. to arrange a date, time and location for a meeting concerning the meaning,
+           interpretation or application of this Agreement;
+        2. to ask a question regarding meaning, interpretation, or application of this
+           Agreement;
+        3. to present a grievance regarding the meaning, interpretation or application
+           of this Agreement;
+        4. to request Association representation in matters concerning the meaning,
+           application or interpretation of this Agreement.
+
+d. In addition to collective bargaining matters, Association representatives are permitted to use
+County email system to communicate with bargaining-unit members regarding matters involving
+the governance or business of the Association.
+
+e. It is understood that there is no expectation of confidentiality or privacy concerning
+communications sent over the County email system, and that the County reserves the right to
+access and disclose all messages sent over the County email system for any purpose.
+
+f. The County email system will not be used for political purposes at any time, and this
+limitation shall override any of the permissible uses of the email system listed above. “Political
+purposes” shall include matters related to support or opposition to candidates or measures in any
+election (County elections, union officer candidate elections, or otherwise).
+
+7.             Release Time.
+
+Upon at least thirty (30) calendar days’ advance written notice by the Association to the County,
+the County will provide up to forty-five (45) calendar days release time for Association members
+to serve as a designated representative of the Association. The Association’s notice shall include
+the name of the Association member taking release time and the start and ending dates. Without
+this notice, the County is not obligated to provide release time.
+
+Release time shall be in addition to vacation leave, sick leave, or other paid or unpaid leave
+available to an Association member under state law or this Agreement.
+
+During such release time, the County shall continue paying compensation (including all
+employer contributions toward employee benefits, including benefits under ORS chapter 238 to
+the Association member, and the Association shall reimburse the County for all such
+compensation paid to the Association member during release time.
+
+The Association and/or the Association member on release may terminate the period of release
+time at any time for any reason by providing ten (10) calendar days’ advance written notice to
+the County.
+
+At the conclusion of the release time, the Association member shall be reinstated to the same
+position and work location held immediately prior to the release period or, if not feasible, to a
+substantially similar position without loss of seniority, rank, or classification.
+
+
+                                                 7
+The Association member taking release time shall receive full retirement credit for the duration
+of the release time as long as the Association member meets all retirement contribution
+obligations pursuant to ORS chapter 238 or this Agreement.
+
+The County is not liable for an act, omission, or an injury caused or suffered by an Association
+member if the act, omission, or injury occurs during the course and scope of use of release time.
+If the County is held liable, the Association shall indemnify the County and hold the County
+harmless from all liability arising from the act, omission or injury that occurred during the period
+of release time.
+
+8.              Employee Time.
+Employees will be provided a time during their normal working hours to meet with the Union
+Steward and/or Council Representative to process and report a potential grievance. In addition,
+employees will be released during their normal working hours to prepare for and attend meetings
+or hearings for the following:
+
+     a. Grievance resolution meetings, or grievance meetings in which the employee is the
+        named grievant, mediation sessions in which the employee is a necessary participant, and
+        arbitration hearings in which the employee will be testifying, that are held during the
+        employee’s work time; and,
+
+     b. When an employee is subpoenaed or otherwise required to testify as a witness on behalf
+        of the Association in an arbitration case or unfair labor practice hearing, the employee
+        may appear without loss of pay if the employee appears during their work time.
+
+### ARTICLE 5 - PAID TIME OFF
+
+1.              Paid Time Off.
+
+        a. Employees may earn a bank of twenty-eight (28) hours per year under the following
+           criteria:
+                  i.The employee must be employed continuously for two (2) years with no
+                    breaks in service.
+                  ii.The employee must have worked at least five hundred and twenty (520) hours
+                     during the last year.
+                 iii.The employee will be credited with a twenty-eight (28) hour paid time off
+                     bank beginning the first of the calendar year following the year that the
+                     employee has met the requirements one and two listed above.
+                 iv.There is no accumulation of hours that may be carried from one calendar year
+                    to another.
+                  v.This paid time off can be used for sick, vacation, holiday, or bereavement
+                    leave.
+                 vi.The employee will be paid for any paid time the employee has not used if that
+
+                                                 8
+           employee is laid off or terminated during the fiscal year.
+
+b. Employees may earn a bank of fifty-two (52) hours per year under the following
+   criteria:
+         i.The employee must be employed continuously for six (6) years with no
+           breaks in service.
+         ii.The employee must have worked at least five hundred and twenty (520) hours
+            during the last year.
+        iii.The employee will be credited with a fifty-two (52) hour paid time off bank
+            beginning the first of the calendar year following the year that the employee
+            has met the requirements one and two listed above.
+        iv.There is no accumulation of hours that may be carried from one calendar year
+           to another.
+         v.This paid time off can be used for sick, vacation, holiday, or bereavement
+           leave.
+        vi.The employee will be paid for any paid time the employee has not used if that
+           employee is laid off or terminated during the fiscal year.
+
+c. Employees may earn a bank of sixty-four (64) hours per year under the following
+   criteria:
+         i.The employee must be employed continuously for nine (9) years with no
+           breaks in service.
+         ii.The employee must have worked at least five hundred and twenty (520) hours
+            during the last year.
+        iii.The employee will be credited with a sixty-four (64) hour paid time off bank
+            beginning the first of the calendar year following the year that the employee
+            has met the requirements one and two listed above.
+        iv.There is no accumulation of hours that may be carried from one calendar year
+           to another.
+         v.This paid time off can be used for sick, vacation, holiday, or bereavement
+           leave.
+        vi.The employee will be paid for any paid time the employee has not used if that
+           employee is laid off or terminated during the fiscal year.
+
+d. Employees may earn a bank of seventy-six (76) hours per year under the following
+   criteria:
+         i.The employee must be employed continuously for twelve (12) years with no
+           breaks in service.
+
+
+                                         9
+              ii.The employee must have worked at least five hundred and twenty (520) hours
+                 during the last year.
+             iii.The employee will be credited with a seventy-six (76) hour paid time off bank
+                 beginning the first of the calendar year following the year that the employee
+                 has met the requirements one and two listed above.
+             iv.There is no accumulation of hours that may be carried from one calendar year
+                to another.
+              v.This paid time off can be used for sick, vacation, holiday, or bereavement
+                leave.
+             vi.The employee will be paid for any paid time the employee has not used if that
+                employee is laid off or terminated during the fiscal year.
+     e. In addition to the paid time off hours referenced above, effective January 1, 2025,
+        employees may earn one personal holiday each year of ten (10) hours under the
+        following criteria:
+              i. The employee must be employed continuously for at least twelve (12)
+                 consecutive months with no breaks in service.
+              ii. The employee will be credited with the ten (10) hours of personal holiday
+                  beginning the first of the calendar year following the year that the employee
+                  has met the first requirement listed above.
+             iii. There is no accumulation of personal holiday hours that may be carried from
+                  one calendar year to another.
+             iv. The personal holiday hours can only be used on one of the recognized
+                 holidays identified in Article 5 of the Main CCEA contract and must be used
+                 in a full day increment.
+              v. The employee will be paid for any unused personal holiday hours upon
+                 separation from County employment.
+
+2.          Sick Leave.
+
+     a. Effective January 1, 2016, the County will provide sick leave benefits to allocated
+        (regular part-time employees working less than 18.75 hours per week for 37.5-hour
+        schedules and 19.75 hours per week for 40-hour schedules) and unallocated
+        employees.
+
+     b. Employees will accrue one (1) hour of sick leave for every thirty (30) hours worked
+        with a maximum accrual of eighty (80) hours per year.
+
+     c. Employees may use sick leave in the event of illness or to care for a member of the
+        employee’s immediate family who is ill.
+
+     d. Employees may take up to forty (40) hours of sick leave in a calendar year.
+
+
+                                             10
+       e. Employees who separate from County employment and are rehired within one
+          hundred and eighty (180) days will have their sick days restored upon rehire.
+
+### ARTICLE 6- CLASSIFICATIONS
+
+1.            Regular Classifications.
+When new classifications are created or adjustments are made to existing salary grades or steps
+for regular Employees’ Association classifications, these changes will automatically be
+implemented for the Part-Time/Temporary contract when there is an agreement. These changes
+will be implemented for the Part-Time/Temporary employees the first of the month after the
+Board of County Commissioners approve the new classification or grade change.
+
+2.               Special Title Jobs.
+The Association will approve any new special title jobs that need to be created. These new
+special title jobs will be implemented for the Part-Time/Temporary employees the first of the
+next month following approval from the Association.
+
+### ARTICLE 7 – WAGES
+
+1.             General County and North Clackamas Parks and Recreation District
+               (NCPRD).
+
+After ratification by both parties, employees shall receive a 4.1% cost of living increase effective
+the first day of the pay period after the ratification date. In lieu of retroactive pay, employees
+employed by the County as of the date of ratification shall receive a lump sum payment equal to
+4.1% of the employee’s gross pay earnings from July 1, 2024 to the first pay period after the
+effective date of ratification. The lump sum payment would appear in the paycheck three (3) full
+pay periods after the effective date of the cost of living.
+
+Effective July 1, 2025, employees shall receive a cost of living increase equal to the percentage
+increase in the US Consumer Price Index, CPI-W: West Urban Annual Average, as reported by
+the U.S. Department of Labor, with a minimum of 0% and a maximum of 4.5%.
+
+Effective July 1, 2026, employees shall receive a cost of living increase equal to the percentage
+increase in the US Consumer Price Index, CPI-W: West Urban Annual Average, as reported by
+the U.S. Department of Labor, with a minimum of 0% and a maximum of 4.5%.
+
+All less than half time regular part time employees and temporary employees in regular
+classifications in general-county positions will be paid at the same salary schedule as the regular
+Employees Associations counterparts.
+
+Whenever a regular part-time employee is assigned in writing by their supervisor the duties of a
+higher paid classification for, at minimum, thirty (30) consecutive working days, the employee
+shall be placed in a Continuous Work Out of Classification (WOC) assignment via a Personnel
+Action Form and be paid for all hours. The pay rate the employee receives for Continuous Work
+Out of Classification will be determined by conducting a salary placement assessment in
+
+                                                 11
+accordance with the Oregon Equal Pay Act or an additional three and one-half percent (3.5%) of
+base hourly rate, whichever is higher.
+
+For employees assigned duties of a higher paid classification for a duration less than thirty (30)
+days, or is non-consecutive and sporadic in nature, the employee will be placed in an Hourly
+Work Out of Classification assignment, and paid an additional three and one-half percent (3.5%)
+of base hourly rate or at the beginning of the range of the higher paid classification, whichever is
+higher, via a Personnel Action Form.
+
+For “Work-out-of-Class” assignments, the employee’s supervisor will submit information stating
+the need for such out-of-class work, how the employee meets the minimum qualifications to
+perform such higher classification work, and that authorization has been received from the
+department director.
+
+In no case shall the WOC rate exceed the maximum rate of the higher classification’s salary
+range.
+
+2.             General County Departments Merit Schedule and North Clackamas
+               Parks and Recreation District (NCPRD).
+
+Employees are eligible for merit reviews within their job’s salary grade after every two years of
+employment with no break in service following their last merit review. Based on the number of
+annual hours worked during the first year within the two-year period and no breaks in service, an
+employee may be eligible for an additional merit increase. Merit increase shall be three and one-
+half percent (3.5%).
+
+Salary grades will identify a pay range to include a minimum pay rate, midpoint pay rate, and a
+maximum pay rate.
+
+3.             North Clackamas Parks & Recreation District Work-Related
+               Additional Certification Pay.
+
+Employees are responsible for maintaining their own current certifications. The District shall pay
+for the cost of renewal of certifications (CPR/PR, Lifeguard, Foodhandlers) for current
+employees when it is required for their current job. In-service training for the purpose of renewal
+will be done on the North Clackamas Park and Recreation District’s time when possible. If an
+employee is unable to attend a scheduled in-service training for the purpose of renewal, that
+employee will be responsible for obtaining the information on the employee’s own time.
+Additional books or materials are the responsibility of each individual staff member.
+
+4.             Overtime/Compensatory Time.
+The parties agree that all references to overtime or compensatory time pay shall be based on the
+scheduled hours of work for the affected employee. Employees normally scheduled for 37.5
+hours per week, all work in excess of 7.5 hours per day or 37.5 hours per week shall be
+compensated at the overtime rate; for employees normally scheduled for 8 hours per day and five
+days per week, all work in excess of 8 hours per day or forty hours per week shall be compensated
+
+                                                 12
+at the overtime rate; and in the case of employees normally scheduled to work ten hours per day
+and four days per week, all work in excess of 10 hours per day or forty hours per week shall be
+compensated at the overtime rate.
+
+Employees in the classification of Dentist, Psychiatrist, Public Health Physician and Pharmacist
+would be exempt from all overtime payments per Fair Labor Standards Act regulations.
+However, these employees will receive straight hour-for-hour pay for hours worked.
+
+Employees covered by this contract may accrue up to 40 hours of compensatory time with the
+approval of the department head.
+
+5.             Bilingual Skills Pay.
+ a. When a position requires an employee to use a second (or more) language, including
+    American Sign Language (ASL), as a condition for holding a particular position, the
+    employee will receive five percent (5%) of their base hourly rate which will be added to the
+    employee’s regular salary. The term “Required Use” shall be documented by an approved
+    Temporary Classification Questionnaire and “Certification of Bilingual Requirement” form.
+ b. When an employee who is not in a position that requires the use of a second (or more)
+    language, including American Sign Language (ASL), is authorized by their supervisor to
+    utilize their bilingual skills in a sporadic nature, the employee will receive an additional five
+    percent (5%) of their base hourly rate for actual time, rounded up to the nearest fifteen
+    minutes, performing bilingual duties. “Sporadic Use” shall be documented by an approved
+    “Certification of Bilingual Requirement” Form.
+
+6.             On-Call Hours for Behavioral Health Division Mobile Crisis Response
+               Team.
+
+The Mobile Crisis Response Team (MCRT) is a team of mental health practitioners who provide
+mental health crisis intervention services to individuals in Clackamas County. MCRT operates
+24/7/365 and as such is a team in continuous operations. All Qualified Mental Health
+Professionals (QMHPs) on MCRT are required to be part of an on-call rotation. The on-call
+rotation is used to fill gaps in coverage which may include (but is not limited to) evenings,
+overnights, weekends, and holidays. On-call work occurs outside of an employee’s regularly
+scheduled work hours.
+
+Qualified Behavioral Health Division (BHD) employees on teams other than MCRT may
+volunteer for these on-call hours. Any employee volunteering for on-call hours must ensure it
+does not conflict with their regular work shift and must maintain adequate work performance.
+Behavioral Health Division Management will choose the volunteering employees by order or
+seniority from the volunteer pool, so long as the employee is in good standing (no current
+disciplinary action). Assignments from the volunteer pool will be based on seniority.
+DEFINITIONS
+   On-Call Hours are hours outside of a scheduled shift where an employee is assigned to
+     carry a County cell phone and respond to requests for the mobile crisis team. On-call
+     hours differ from work from home in that the employee is not expected to work during
+
+                                                 13
+       the hours between requests for mobile services.
+
+      Call Work Time refers to time worked during on-call hours. This time may include time
+       spent triaging a request for mobile crisis services, traveling to and from the location of
+       the crisis, face-to-face mobile crisis response/ intervention services, and documentation.
+       Call Worked Time cannot overlap with a scheduled shift.
+COMPENSATION
+  1. Staff working on-call hours will receive straight time equal to twenty-five percent (25%)
+     of their regular hourly rate for each hour they are on-call.
+
+   2. In addition, staff shall receive time and one-half for any call worked time during their on-
+      call hours.
+
+   3. Compensation for call work time may be taken as overtime pay or added to the
+      compensatory time bank by employee choice (following guidelines in Article 7, Section
+      4).
+
+   4. Employees responding to a call shall receive mileage reimbursement portal to portal.
+DUTIES AND RESPONSE TIME REQUIREMENTS
+  1. On-call staff are expected to respond to phone calls within ten (10) minutes of being
+     contacted.
+
+   2. On-call staff are expected to respond on-site within one (1) hour of the decision to
+      dispatch if not sooner to provide mobile crisis intervention services.
+
+   3. Staff will complete required documentation during their on-call shift whenever possible.
+      If not possible (i.e., the team member is providing a mobile crisis intervention service
+      until the end of their on-call shift), staff will notify the Mobile Crisis Supervisor and
+      arrange additional time to complete the documentation. All documentation should be
+      completed within twenty-four (24) hours of a clinical intervention (for both phone and
+      face-to-face mobile responses).
+
+### ARTICLE 8 – DISCIPLINE
+
+Initial probationary employees and temporary employees are not protected by the just cause
+standard.
+
+If the County has reason to counsel, reprimand or discuss an employee’s need to correct
+deficiencies, every reasonable effort will be made to accomplish this in a manner that will not
+embarrass the employee before other employees or the public.
+
+All documented discipline shall be signed by the appropriate manager and placed in the
+employee’s official personnel file maintained by Human Resources.
+
+
+
+                                                14
+### ARTICLE 9- SETTLEMENT OF DISPUTES
+
+1. Grievance Procedure.
+Any grievance or dispute which may arise between the parties involving the application, meaning
+or interpretation of this Agreement, except oral reprimands, shall be settled in the following
+manner:
+
+     STEP 1. An Association representative, with or without the employee, may take up the
+grievance or dispute with the employee's divisional supervisor within ten (10) working days of
+its occurrence. The divisional supervisor, an Association representative, and the employee, shall
+meet within ten (10) working days of the appeal to Step 1 to discuss the grievance. If the
+grievance remains unresolved, the division supervisor shall respond to the grievance within ten
+(10) working days.
+
+    STEP 2. If the grievance has not been settled, it may be presented in writing by the
+Association representative, or the Association grievance committee, to the department head or
+designee within ten (10) working days after the divisional supervisor's response is due. The
+department head, an Association representative, and the employee, shall meet within ten (10)
+working days of the appeal to Step 2 to discuss the grievance. If the grievance remains
+unresolved, the department head or designee shall respond to the grievance within ten (10)
+working days. The grievance procedure ends at this step.
+
+2. “Working days” for the purposes of this article shall be defined as Monday through Thursday
+   excluding holidays recognized and observed by the County.
+
+3. Step 1 may be skipped by mutual written agreement.
+
+4. When an employee voluntarily separates from County employment, all pending grievances
+   filed on behalf of such employee shall be considered withdrawn with prejudice.
+
+### ARTICLE 10 - WORKERS’ COMPENSATION
+
+All part-time and temporary employees covered by this Agreement will be insured under the
+provisions of the Oregon State Workers’ Compensation Law for injuries that arise out of and
+occur in the course of employment for the County. The County is self-insured for workers’
+compensation claims. The County and the Association acknowledge the right of employees to
+receive workers’ compensation benefits as provided by state law and this Article.
+
+The County will compensate the employee for injuries that result in an inability to work with
+sufficient medical authorization that arise out of and occur in the course of employment where
+the claim has been accepted in an amount equal to the injured employee’s regular pay, including
+any regular additional pay, such a longevity, that the employee was receiving at the time of the
+injury for up to and including 180 days from the date of the injury. This wage continuation
+provision will continue for up to and including 180 calendar days from the date of the injury, and
+is subject to the following conditions:
+
+                                                15
+     1. The date of the injury shall be considered a workday, and the employee will receive
+        their normal salary for that day.
+
+     2. The waiting period as stated in ORS 656.210 will be charged to sick leave or other
+        accrued leave if available unless total temporary disability exceeds fourteen (14)
+        consecutive days. Then, workers’ compensation covers from the first day.
+
+     3. The employee’s regular pay will be subject to all standard deductions, such as income
+        tax and employee benefits, as required or allowed under Federal and State Law.
+
+     4. While the employee is receiving wage continuation under this provision, the employee
+        will continue to receive all other County health and welfare benefits the employee was
+        enrolled in at the time of the injury unless prohibited by law, rule, and regulation or
+        provider contract.
+
+After one hundred and eighty (180) calendar days from the date of injury, if the accepted
+condition is still resulting in the employee’s inability to work, the employee will receive
+temporary total disability benefits as provided under the Oregon Workers’ Compensation Law.
+
+After one hundred eighty (180) calendar days from the date of injury, the employee may elect to
+use accrued leave to supplement the difference between statutory workers’ compensation
+benefits and the employee’s regular pay (including any regular additional pay).
+
+Medical insurance coverage shall continue to be provided for employees as was in place prior to
+the injury for as long as the employee remains employed during this period. Employees are
+responsible for any applicable insurance premium cost share.
+
+The County may request the employee return to modified or light duty, subject to medical
+release. An injured employee that refuses to return to modified or light duty may be subject to
+loss of reinstatement rights and reduction of temporary total disability benefits.
+
+### ARTICLE 11 – BENEFITS
+
+Except as otherwise provided in this contract or by County policy, part-time and temporary
+employees are not provided benefits such as layoff and recall, holidays, sick leave (except as
+described in Article 5, Section 2), vacation leave or medical/dental coverage.
+
+1.             Employee Assistance Plan.
+
+Full Employee Assistance benefits are available to all employees. The County will provide EAP
+services through the selected provider effective on the first day of the calendar month following
+the employee’s date of hire.
+
+2.             Retirement Contributions.
+
+PERS eligibility is subject to ORS 238.015. The County agrees to pay employee’s share of the
+contribution on behalf of employees as set by Oregon Legislature.
+
+                                                16
+In the event that during the life of this agreement it becomes impossible for reasons of law,
+regulation, or decisions for the County to pay the six percent (6%) employee contribution to
+PERS, then that sum shall be contributed on behalf of the employee to a retirement benefit, such
+as a state retirement account, County deferred compensation plan, or other individual retirement
+transitional account. The intent of the parties is that the employees will be made whole in terms
+of the six percent (6%) retirement contribution by the County.
+
+
+### ARTICLE 12 - HOURS OF WORK
+
+1.                   Work Schedules.
+
+Employees in this group shall be employed in work schedules consistent with the needs of the
+County. Regular work schedules may be arranged with approval of management. Employees are
+expected to accurately record their actual hours worked on their timesheets and comply with
+department and county requirements for submitting timesheets and receive prior approval before
+working outside their normal schedule. To the extent possible, employees in this group shall be
+notified of their scheduled shift and its location more than forty-eight (48) hours before they are
+expected to work.
+
+2.                   Meal and Rest Breaks.
+
+A minimum of one fifteen (15) minute break shall be taken if an employee works greater than 2
+hours at the mid-point of their shift. One fifteen (15)-minute break shall be taken at the
+approximate mid-point of both the first half and the second half of the shift. Two fifteen (15)-
+minute breaks shall be provided for each shift greater than six hours. A minimum of a one-half-
+hour unpaid lunch break shall be taken at the approximate mid-point of the shift if an employee
+works a minimum of six hours.
+
+Rest Break and Meal Periods Required Based on Length of Work Period (chart taken from
+Bureau of Labor and Industries - OAR 839-020-0050)
+
+
+                                       Number of rest      Number of meal
+     Length of work period             breaks required     periods required
+     2 hrs or less                             0                      0
+     2 hrs, 1 min-5 hrs, 59 mins               1                      0
+     6 hrs                                     1                      1
+     6 hrs, 1 min-10 hrs                       2                      1
+     10 hrs, 1 min-13 hrs 59 mins              3                      1
+
+
+
+
+                                                   17
+3.             Employee Reporting Expectations.
+
+The County anticipates needing every available employee to effectively respond to the impact of
+a declared major emergency or disaster, whether it strikes during normal work hours, at night, on
+a weekend or a holiday. In a major emergency or disaster, employees should be prepared to
+report for work at any time and can expect to work non-regular extended hours under
+challenging conditions. Employees may be asked to temporarily perform work that is not
+normally in their regular classification.
+
+If the major emergency or disaster occurs during non-work hours, employees are expected to
+ensure the safety and welfare of their families. If the employees are available for work, they
+should make every effort to contact their supervisor for reporting instructions. Employees can
+also check the Employee Hotline at 503.655.8468. If unable to establish contact with a
+department representative, employees should assume they are needed and report to the Public
+Service Building (PSB) or other reporting station as identified on the Employee Hotline as soon
+as practical.
+
+If the major emergency or disaster occurs during work hours, employees are expected to remain
+on the job unless specifically released by their supervisor. The County will assist in checking on
+the status of immediate family members of on-duty-employees and report that status to the
+employee.
+
+Employees will be compensated for hours worked as provided in Article 7 (Wages).
+
+
+### ARTICLE 13- DURATION OF EMPLOYMENT
+
+1.             Definitions.
+
+Allocated employees: Allocated employees are those employees that occupy a regular budgeted
+position and work less than 18.75 hours for 37.5-hour schedules and 19.75 for 40-hour schedules.
+These employees are also known as regular less than 1/2 time part-time employees. These
+employees are limited to working 975 hours per calendar year for 37.5 hour schedules and 1027
+hours per calendar year for 40 hour schedules.
+
+Unallocated employees: Unallocated employees are those employees who do not occupy a
+regular budgeted position.
+
+2.             Unallocated Employees Annual Work Hours Limits.
+
+Unallocated employees are limited to working 1502.5 hours for employees in positions normally
+worked 37.5 hours per week on a full time equivalent or 1600 for employees in positions
+normally worked 40 hours per week on a full time equivalent in a twelve-month period based on
+the County’s Affordable Care Act (ACA) look back period of November 1 through October 31
+and every twelve months thereafter. When an unallocated employee has used the allotted amount
+of hours for their cycle, they will be terminated. Unallocated employees who have been
+
+                                                18
+terminated due to exhausting their annual allotment of hours cannot be rehired until after the
+following November 1st. Work hours will be calculated based on the ACA look back cycle and
+include regular and overtime hours worked.
+
+### ARTICLE 14 - MISCELLANEOUS
+
+1.             Labor/Management.
+
+The County and the Association have agreed to form a labor management committee with the
+following guidelines:
+
+       a. Membership.
+          The committee will be comprised of three (3) members and one (1) alternate
+          representing the Association and three (3) representatives and one (1) alternate
+          representing the County. Each party is entitled to have appropriate subject matter
+          experts present as the committee meeting as need to discuss items on the agenda.
+
+       b. Meeting Time.
+          The committee shall meet at least once each quarter if there are agenda items and
+          upon agreement may meet at any other time. Each party will submit items for the
+          agenda at least three (3) days prior to the scheduled date of the meeting.
+
+       c. Purpose.
+          The committee is a vehicle for communication and will have as its
+          purpose, the promotion of harmonious labor/management relations.
+
+2.             Drug and Alcohol Testing.
+
+The County and the union agree to jointly develop and implement a drug and alcohol testing
+program for employees involved in life/safety activities in the Aquatics Park of the North
+Clackamas Parks and Recreation District. The labor and management committee will develop the
+standards for this program.
+
+3.             Uniform Policy – NCP&RD Aquatic Park.
+
+       a. Part time temporary lifeguards will receive one (1) guard swim suit. If the employee
+          chooses to obtain additional swim suits, they may purchase them at cost.
+
+       b. Swim Instructors will receive one (1) instructor swim suit. If employees choose to
+          obtain additional swim suits, they may purchase them at cost.
+
+       c. Dry employees will receive one (1) staff shirt. If the employee chooses to obtain
+          additional staff shirts, they may purchase them at cost.
+
+       d. Uniform standards (cleanliness, condition) will be determined by management. In the
+          event that uniforms are damaged at work by accident, the North Clackamas Parks and
+          Recreation District will replace the uniform at no additional cost.
+
+                                               19
+4.              Over/Under Payments.
+Any employee receiving unauthorized payments has the obligation to call such error to
+the attention of their supervisor.
+a. Underpayments.
+          When an error occurs resulting in a negative impact on the employee, upon
+          notification by the employee, in writing to the Payroll Manager, and verification by
+          the payroll division, payment in correction of the error shall be made in the
+          employee’s paycheck for the current pay period.
+
+b. Payments in Error.
+          When an employee receives payments due to a clerical, technical, or computer error,
+          through no fault of the employee and where the employee did not and could not
+          reasonably have known that the error occurred, the employee will only be liable for,
+          and the County shall only recover, the overpayment for a period of one-hundred and
+          eighty (180) days preceding the date of discovery of the error. If the discovery of the
+          error is made by the employee who notifies the Payroll Manager in writing within ten
+          (10) working days of discovery of the error that they believe their pay is incorrect and
+          the County does not subsequently make a correction to stop the overpayment by the
+          next payroll period after notification, the employee will not be liable for additional
+          overpayments that occur following the date of notification.
+
+c. Repayment to the County.
+         As soon as the overpayment is known, the County will make every effort to recover
+         overpayments by payroll deduction over a reasonable period of time.
+
+           The County Payroll Supervisor shall notify the employee in writing of the
+           overpayment which will include information supporting that an overpayment exists,
+           and the amount of wages and/or benefits to be repaid. For purposes of recovering the
+           overpayments by payroll deduction, the following shall apply:
+                1. The employee and the County shall meet and attempt to reach mutual
+                   agreement on a repayment schedule within thirty (30) calendar days
+                   following the written notification.
+                2. If there is not mutual agreement at the end of thirty (30) calendar days, the
+                   County shall implement the repayment schedule stated in subsection (6)
+                   below.
+                3. If the overpayment amount to be repaid is more than twenty-five ($25)
+                   dollars, the overpayment shall be recovered in amounts not to exceed twenty-
+                   five ($25) dollars per payroll period. The employee may elect a higher
+                   repayment amount. If an overpayment is less than twenty-five ($25) dollars,
+                   the overpayment shall be recovered in a lump sum deduction from the
+                   employee’s paycheck.
+                4. An employee who has a factual disagreement with the County’s
+                   determination that the overpayment has been made to the employee may
+
+                                                20
+                   grieve the determination through the grievance procedure.
+                5. This article/section does not waive the County’s right to pursue other legal
+                   procedures and processes to recoup an overpayment made to former
+                   employees.
+                6. Employees can elect to either establish a payment plan through payroll
+                   deductions as described under 14(4)(c) or may elect to pay overpayment in
+                   one lump sum. In the event the employee chooses to make a lump sum
+                   payment to the County, the County will adjust the amount owed for any tax
+                   paid, and will reduce the amount of employees’ wages for the year on the
+                   employee’s W-2 form by the amount repaid.
+
+5.             Video Cameras and GPS Data.
+
+       a. Video camera recordings and/or GPS data may be accessed, reviewed and preserved
+          by the County for business reasons. Video recordings and GPS data will not be used
+          for yearly performance evaluations, unless disciplinary action has been imposed from
+          evidence derived from a specific video recording and/or GPS data. In the event the
+          County elects to review video and/or GPS data as part of an investigation, the County
+          shall notify the Association and provide the Association with an opportunity to view
+          the video and/or GPS data.
+
+       b. In the event information revealed on camera and/or GPS data raises concerns
+          regarding employee conduct, the County will retain the video recording and/or GPS
+          data and agrees to provide a copy of the recording and/or GPS data to the Association
+          and the employee in advance of any pre-disciplinary meetings.
+
+6.             Travel Pay and Mileage Reimbursement.
+
+Employees will be granted travel pay and mileage reimbursement in accordance with the
+County’s current Travel Policy.
+
+7.             Rules, Department Policies and Employment Policies and Practices.
+
+The Association will have a chance to review and input on Employment Policies and Practices
+(EPPs) referenced in the Employees' Association contract prior to implementation. Employees
+shall comply with all existing work rules, department policy, County Policy and Personnel
+Ordinance which are not in conflict with the terms of this Agreement, provided the rules are
+uniformly applied and uniformly enforced. Any unresolved complaints as to the reasonableness
+of any new rules or any complaint involving discrimination in the application of new or existing
+rules shall be resolved through the grievance procedure. The County will comply with ORS
+243.698 when the County seeks to change or create new policy or work rules.
+
+### ARTICLE 15 - SAVINGS CLAUSE
+
+Should any Article, Section, or portion thereof, of this Agreement be held unlawful and
+
+                                               21
+20250501 III.C.2
+

@@ -192,7 +192,7 @@ Statutes, and that the following articles or portions thereof, are the responsib
 County or the Sheriff in accordance with those statutes.
 
 
-ARTICLE 1 —- RECOGNITION
+### ARTICLE 1 —- RECOGNITION
 
 Section 1.1 Recognition. The County Recognizes the Association affiliated with
 Teamsters Local Union 223, as the sole and exclusive bargaining agent with respect to
@@ -235,7 +235,7 @@ sixty (60) days following Board adoption of such classifications for the purpose
 negotiating wages, hours and working conditions for newly covered employees.
 
 
-ARTICLE 2 - EMPLOYEE RIGHTS
+### ARTICLE 2 - EMPLOYEE RIGHTS
 
 Section 2.1 Non-Discrimination.         Employees shall have the right to form, join and
 participate in the activities of employee organizations of their own choosing, for the
@@ -258,7 +258,7 @@ all genders and whenever the male gender is used, it shall be construed to inclu
 employees.
 
 
-ARTICLE 3 - MANAGEMENT                RIGHTS
+### ARTICLE 3 - MANAGEMENT                RIGHTS
 
 Section 3.1 Management Rights. The nature of the County and the Sheriff's Office as a
 department of government financed by revenues received primarily from taxation of the
@@ -274,7 +274,7 @@ transferring; disciplining and discharging; determining job descriptions; determ
 schedules and assigning work and any other rights except as expressly limited by the
 terms of this Agreement.
                                                      7
-ARTICLE 4 - COUNTY SECURITY
+### ARTICLE 4 - COUNTY SECURITY
 
 Section 4.1    Strike.   The Association and its members will not initiate, cause, permit or
 participate or join in any strike, work stoppage or slow-down, picketing or any other
@@ -298,7 +298,7 @@ lockout of employees in the bargaining unit as a consequence of any dispute with
 Association.
 
 
-ARTICLE 5 - ASSOCIATION SECURITY AND CHECKOFF
+### ARTICLE 5 - ASSOCIATION SECURITY AND CHECKOFF
 
 Section 5.1 The County agrees to honor and abide by the terms of any authorization
 agreement between the Association and a bargaining unit member regarding deductions
@@ -335,7 +335,7 @@ to the Association with an itemized statement at no cost to the Association as s
 reasonably possible, but no later than the 10 of each month.
 
 
-ARTICLE 6 — PAID WORK TIME TO PERFORM CERTAIN ASSOCIATION
+### ARTICLE 6 — PAID WORK TIME TO PERFORM CERTAIN ASSOCIATION
 ACTIVITIES
 
 Section 6.1.1       The County shall allow designated Association representatives
@@ -460,7 +460,7 @@ employer/employee relationships; the annual meeting may be cancelled by mutual
 agreement. The meeting(s) will occur at a mutually convenient time and place.
 
 
-ARTICLE 7 - HOURS OF WORK
+### ARTICLE 7 - HOURS OF WORK
 
 Section 7.1_ Work Week. The basic work week shall be 12:01 AM Sunday through the
 following Saturday and consist of forty (40) hours in a seven (7) day period. The work
@@ -573,7 +573,7 @@ them to the extent that they are consistent with and do not conflict with the fa
 
 
 
-ARTICLE 8 — OVERTIME
+### ARTICLE 8 — OVERTIME
 
 Section 8.1 Overtime. Time and one-half (1-1/2) the employee's regular hourly rate of
 pay shall be paid for work under any of the following conditions; but compensation shall
@@ -666,7 +666,7 @@ flextime. This clause does not permit any manager or supervisor to direct an emp
 utilize the flextime option.
 
 
-ARTICLE 9 - SALARIES
+### ARTICLE 9 - SALARIES
 
 Section 9.1 Wages.     Wages for employees in the bargaining unit shall be in accordance
                                                15
@@ -755,7 +755,7 @@ duty care and feeding of the canine and the parties agree this is sufficient to 
 legal compensation requirements for the off-duty care and feeding of the canine.
 
 
-ARTICLE 10 - WORKING OUT OF CLASSIFICATION
+### ARTICLE 10 - WORKING OUT OF CLASSIFICATION
 
 Section 10.1 Working Out of Classification. Appointment of personnel to a superior
 position may be on an acting basis to fill a temporary vacancy. An employee promoted
@@ -774,7 +774,7 @@ pay rate.
 qualified employees.
 
 
-ARTICLE 11 - HAZARDOUS          DUTY PAY
+### ARTICLE 11 - HAZARDOUS          DUTY PAY
 
 Section 11.1 Emergency Response Units.             With the approval of the Sheriff or
 designee, a member of an Emergency Response Unit shall be compensated at two (2)
@@ -791,7 +791,7 @@ Operator shall receive three hundred twenty-five ($325.00). Monies due pursuant 
 section shall be paid on the November payroll in a one lump sum.
 
 
-ARTICLE 12 - LAW ENFORCEMENT INCENTIVE PROGRAM
+### ARTICLE 12 - LAW ENFORCEMENT INCENTIVE PROGRAM
 
 Section 12.1   DPSST Certification.
 
@@ -810,14 +810,14 @@ D.     Communications Supervisor: Intermediate Certification 3% Advanced Certifi
 New employees shall not qualify for certification pay until they have completed probation.
 
 
-ARTICLE 13 - LONGEVITY PROGRAM
+### ARTICLE 13 - LONGEVITY PROGRAM
 
 Section 13.1 Longevity. Employees shall receive a three percent (3%) longevity increase
 after completion of ten (10), fifteen (15), twenty (20) and twenty-five (25) years of
 continuous service from date of hire.
 
 
-ARTICLE 14 - CLOTHING AND DUTY EQUIPMENT
+### ARTICLE 14 - CLOTHING AND DUTY EQUIPMENT
                                               18
 Section 14.1 Uniforms. The County shall furnish uniforms for employees required to
 wear them, excluding firearms and leather gear. Jail Cooks shall be allotted five (5)
@@ -841,7 +841,7 @@ upkeep, the County shall pay each officer an allowance of three hundred dollars 
 Payment shall be made in the final pay period of the fiscal year.
 
 
-ARTICLE 15 - TRAVEL
+### ARTICLE 15 - TRAVEL
 
 Section 15.1 Meals and Lodging. Authorized personnel shall be reimbursed for expenses
 incurred while traveling on official business. Reimbursement shall be made according to
@@ -862,7 +862,7 @@ Reimbursement shall also be made, when approved in advance, for round trip milea
 out-of-town training when employees are required to drive their private vehicles.
 
 
-ARTICLE 16 - PROBATIONARY PERIOD
+### ARTICLE 16 - PROBATIONARY PERIOD
 
 Section 16.1 Purpose. The probationary period is an integral part of the employee
 selection process and provides the County with the opportunity to upgrade and improve
@@ -891,7 +891,7 @@ returned to his/her former position, if in the County's sole judgment, his/her w
 conduct are below acceptable standards.
 
 
-ARTICLE 17 — SENIORITY
+### ARTICLE 17 — SENIORITY
 
 Section 17.1 Definition. Seniority is defined as an employee’s length of continuous
 service within the bargaining unit, however, that seniority shall not accrue during unpaid
@@ -926,7 +926,7 @@ Section 17.4   Regular Part Time Employees.         Regular part time employees 
 seniority on a pro-rata basis proportional to full time employment.
 
 
-ARTICLE 18 - LAYOFF
+### ARTICLE 18 - LAYOFF
 
 Section 18.1 Notice. In the event it becomes necessary to affect a reduction in the
 workforce, the County shall notify the employee in the original classification to be laid off
@@ -977,7 +977,7 @@ have the same rights as other employees in applying for any openings which may o
 demonstrate the knowledge, skill, and ability to perform the work.
 
 
-ARTICLE 19 - HOLIDAYS
+### ARTICLE 19 - HOLIDAYS
 
 Section 19.1 Recognized Holidays. The following days shall be recognized and observed
 as paid holidays.
@@ -1058,7 +1058,7 @@ to the list of recognized holidays listed in this section and compensated under 
 
 
 C
-    ARTICLE 20 — VACATIONS
+### ARTICLE 20 — VACATIONS
 
     Section 20.1 Accruals. Employees hired on or before the 14th of the month shall be
     credited with vacation leave for that month. Employees hired on or after the 15th of the
@@ -1149,7 +1149,7 @@ manner that salary due the decedent is paid as long as the initial twelve (12) m
 continuous employment has been completed.
 
 
-ARTICLE 21 - SICK LEAVE - MEDICAL LEAVE OF ABSENCE
+### ARTICLE 21 - SICK LEAVE - MEDICAL LEAVE OF ABSENCE
 
 Section 21.1 Accrual. Employees shall accumulate sick leave at a rate of eight (8) hours
 per month.      Regular part-time employees shall accrue sick leave each month
@@ -1205,7 +1205,7 @@ into a HRA VEBA medical expense reimbursement account. Any remaining accumulated
 sick leave shall be reported to PERS.
 
 
-ARTICLE 22 - BEREAVEMENT LEAVE
+### ARTICLE 22 - BEREAVEMENT LEAVE
 
 Section 22.1 Bereavement Leave. Bereavement leave shall be granted as required
 under the Oregon Family Leave Act (OFLA). In addition, in the event of a death of a
@@ -1226,7 +1226,7 @@ a minor or an adult at the time serious health condition leave or leave under OR
                                                26
 659.159(1)(e) is taken.
 
-ARTICLE 23 - OTHER LEAVES WITH PAY
+### ARTICLE 23 - OTHER LEAVES WITH PAY
 
 Section 23.1        Military Leave.     Military leave shall be granted as required by Oregon
 Revised    Statutes     and   Federal     law.   Employees   may   use   accrued   vacation   and
@@ -1261,7 +1261,7 @@ the parties agree the members will minimally receive the same benefits under the
 County's alternate program as are listed above for the PFMLI program.
 
 
-ARTICLE 24 - LEAVE OF ABSENCE WITHOUT PAY
+### ARTICLE 24 - LEAVE OF ABSENCE WITHOUT PAY
 
 Section 24.1    Leave without Pay. A regular employee may be granted a leave of absence
 without pay for up to twelve (12) months at the discretion of the Sheriff or Department
@@ -1272,7 +1272,7 @@ granted under this section may be extended with the permission of the Sheriff or
 Department Head and the Board of Commissioners. Seniority will not accrue while on an
 unpaid leave.
                                                   27
-ARTICLE 25 - HEALTH, LIFE AND LIABILITY INSURANCE
+### ARTICLE 25 - HEALTH, LIFE AND LIABILITY INSURANCE
 
 Section 25.1 Medical, Dental and Vision Insurance. The County will contribute towards
 the cost of the following medical, dental and vision Insurance coverage, from the Oregon
@@ -1340,7 +1340,7 @@ employee personal property lost or destroyed in the line of duty upon receipt of
 Association's personal property inventory.
 
 
-ARTICLE 26 - RETIREMENT PROGRAM
+### ARTICLE 26 - RETIREMENT PROGRAM
 
 Section 26.1 Retirement. The County shall participate in the Public Employees
 Retirement System. Benefits will be provided under the Oregon Public Employees
@@ -1361,7 +1361,7 @@ accrued leaves up to 90 days prior to retirement; the parties agree that agreeme
 effect and the MOU is attached and is incorporated into the CBA as Appendix B.
 
 
-ARTICLE 27 - DISCIPLINE
+### ARTICLE 27 - DISCIPLINE
 
 Section 27.1 Discipline. No employee shall be disciplined or discharged except for just
 cause. Discipline will normally be progressive. If a violation of a County policy or work
@@ -1445,7 +1445,7 @@ employee's personnel file. Documentation consists of memoranda of:
 
 
 
-ARTICLE 28 - GRIEVANCE PROCEDURE
+### ARTICLE 28 - GRIEVANCE PROCEDURE
 
 Section 28.1, Purpose. To promote better relations, the parties agree to settle any
 disputes as to the meaning or interpretation of this Agreement by the following procedure.
@@ -1545,7 +1545,7 @@ B.         If the party grieved against fails to respond in a timely fashion, th
            proceed to the next step.
 
 
-ARTICLE 29 - PERSONNEL RECORDS
+### ARTICLE 29 - PERSONNEL RECORDS
 
 Section 29.1 Viewing. All employees shall, by prior arrangement, be allowed to review
 the contents of their own personnel file and at their own expense, copy any or all portions
@@ -1566,7 +1566,7 @@ unless the employee was disciplined for the same conduct or comparable conduct i
 two years after the written reprimand.
 
 
-ARTICLE        30- ORDERS AND MANUALS
+### ARTICLE        30- ORDERS AND MANUALS
 
 Section 30.1      General, Special and Personnel Orders.       The Sheriff or Department Head
 shall furnish employees and the Association with copies of any and all general or special
@@ -1578,7 +1578,7 @@ Section 30.2 Personnel Policy.       The County shall furnish each employee with
 the County Personnel Policy.
 
 
-ARTICLE 31 - OUTSIDE EMPLOYMENT
+### ARTICLE 31 - OUTSIDE EMPLOYMENT
 
 Section 31.1 Outside Employment. Employees may engage in outside employment with
 the approval of the Sheriff, Department Head or designee. The employee shall present
@@ -1611,7 +1611,7 @@ employment is adversely affecting the employee's performance as a County Employe
 the parties agree that the outside employment shall be immediately terminated.
 
 
-ARTICLE 32 - DRUG AND ALCOHOL POLICY
+### ARTICLE 32 - DRUG AND ALCOHOL POLICY
 
 Section 32.1. Policy. The County Drug and Alcohol Policy and the Sheriffs Office
 Random Drug Testing Policy shall be incorporated by this reference herein, and shall not
@@ -1656,7 +1656,7 @@ Section 32.2      Employee Rights.
        there from may be used in the course of disciplinary proceedings which could result
        in disciplinary action up to and including termination."
 
-ARTICLE 33 - EXISTING CONDITIONS
+### ARTICLE 33 - EXISTING CONDITIONS
 
 Section 33.1 Existing Conditions. No employee shall suffer a reduction in wages or
 related economic benefits as a result of the signing of this Agreement.       All rights,
@@ -1666,7 +1666,7 @@ ORS 243.650(7) shall remain in effect during the term of this Agreement. The Cou
 shall consult the Association before changing any existing conditions related to wages,
 hours and working conditions.
 
-ARTICLE 34 - SAVINGS CLAUSE
+### ARTICLE 34 - SAVINGS CLAUSE
 
 Section 34.1 Savings Clause.       Should any article, section, or portion thereof of this
 Agreement be held unlawful or unenforceable by an opinion of the Attorney General of
@@ -1684,7 +1684,7 @@ that such remaining provisions would not have been agreed to without such other 
 and the remaining provisions which, standing alone, are incomplete and incapable of
 being executed in accordance with the intent of this Agreement.
 
-ARTICLE 35 - SOCIAL MEDIA and FREEDOM OF SPEECH
+### ARTICLE 35 - SOCIAL MEDIA and FREEDOM OF SPEECH
 
 Section 1. Regarding protections of the U.S. and Oregon Constitutions, the County will
 have no policies that violate any member's rights of freedom of speech, freedom of
@@ -1695,7 +1695,7 @@ amended by HB 2936 in the 2021 regular legislative session) and that the County 
 abide by the rest of the language in ORS 659A.330.
 
 
-ARTICLE 36 - TERM
+### ARTICLE 36 - TERM
 
 Section 36.1 Term.    This agreement shall be effective on July 1, 2026, or upon execution,
 whichever is later, and shall remain in full force and effect through June 30, 2029 and
@@ -1709,7 +1709,7 @@ expiration date of the previous agreement.
 
 
 
-ARTICLE 37 - EXECUTION/SIGNATURES
+### ARTICLE 37 - EXECUTION/SIGNATURES
 
 Executed this qt        day of SUn                , 2026, by the undersigned officers by
 the authority of and on behalf of Coos Gdunty and Coos Association of Deputy Sheriffs.

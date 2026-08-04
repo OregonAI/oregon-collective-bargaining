@@ -39,33 +39,33 @@ MULTNOMAH COUNTY DEPUTY SHERIFF’S ASSOCIATION
 This document is available in accessible format upon request
                         TABLE OF CONTENTS
 
-ARTICLE 1.    PREAMBLE                                           1
+### ARTICLE 1.    PREAMBLE                                           1
 
-ARTICLE 2.    RECOGNITION                                        2
+### ARTICLE 2.    RECOGNITION                                        2
 
-ARTICLE 3.    MANAGEMENT RIGHTS                                  3
+### ARTICLE 3.    MANAGEMENT RIGHTS                                  3
 
-ARTICLE 4.    ASSOCIATION SECURITY                               4
+### ARTICLE 4.    ASSOCIATION SECURITY                               4
 
-ARTICLE 5.    DUES & CHECK OFF                                   5
+### ARTICLE 5.    DUES & CHECK OFF                                   5
 
-ARTICLE 6.    NO STRIKE AND NO LOCKOUT                           6
+### ARTICLE 6.    NO STRIKE AND NO LOCKOUT                           6
 
-ARTICLE 7.    HOLIDAYS                                           7
+### ARTICLE 7.    HOLIDAYS                                           7
 
               A. Holidays and Holiday Pay                        7
               B. Taking of Holidays                              8
               C. Unused Holidays                                 8
               D. Court Holidays                                  8
 
-ARTICLE 8.    VACATION LEAVE                                     9
+### ARTICLE 8.    VACATION LEAVE                                     9
 
               A. Accrual                                         9
               B. Continuous Service                              10
               C. Vacation Times                                  10
               D. Termination or Death                            10
 
-ARTICLE 9.    SICK LEAVE                                         11
+### ARTICLE 9.    SICK LEAVE                                         11
 
               A. Accrual                                         11
               B. Bereavement Leave                               11
@@ -75,7 +75,7 @@ ARTICLE 9.    SICK LEAVE                                         11
 
 
 
-ARTICLE 10.   OTHER LEAVES                                       13
+### ARTICLE 10.   OTHER LEAVES                                       13
 
               A. Leave of Absence                                13
               B. Jury Duty                                       13
@@ -85,7 +85,7 @@ ARTICLE 10.   OTHER LEAVES                                       13
               F. Tuition Reimbursement                           14
               G. Military Service                                14
 
-ARTICLE 11.   HEALTH & WELFARE                                   16
+### ARTICLE 11.   HEALTH & WELFARE                                   16
 
               I.   Medical and Dental Insurance                  16
 
@@ -111,7 +111,7 @@ ARTICLE 11.   HEALTH & WELFARE                                   16
               III. Health and Security of Persons and Facilities;
                    Administrative Search Authorized                  31
 
-ARTICLE 12.   WORKERS’ COMPENSATION                                  35
+### ARTICLE 12.   WORKERS’ COMPENSATION                                  35
 
               A. Provision                                           35
               B. Period of Time                                      35
@@ -123,9 +123,9 @@ ARTICLE 12.   WORKERS’ COMPENSATION                                  35
               H. Regular Payday                                      37
               I. PERS Continuation Program                           37
 
-ARTICLE 13.   TORT CLAIM DEFENSE AND INDEMNIFICATION                 41
+### ARTICLE 13.   TORT CLAIM DEFENSE AND INDEMNIFICATION                 41
 
-ARTICLE 14.   SENIORITY & LAYOFF                                     42
+### ARTICLE 14.   SENIORITY & LAYOFF                                     42
 
               A. Definition of Seniority                             42
               B. Computation of Seniority                            42
@@ -136,7 +136,7 @@ ARTICLE 14.   SENIORITY & LAYOFF                                     42
               G. Retirement                                          46
               H. Annexation                                          46
 
-ARTICLE 15.   HOURS OF WORK                                          47
+### ARTICLE 15.   HOURS OF WORK                                          47
 
               A. Regular Hours                                       47
               B. Work Week                                           47
@@ -149,7 +149,7 @@ ARTICLE 15.   HOURS OF WORK                                          47
               F. Work Schedule Changes                               48
               G. Rest and Meal Periods                               48
 
-ARTICLE 16.   COMPENSATION                                           50
+### ARTICLE 16.   COMPENSATION                                           50
 
               A. Wages and Classification Schedule                   50
               B. Longevity Pay                                       51
@@ -182,17 +182,17 @@ ARTICLE 16.   COMPENSATION                                           50
               BB. Clothing Allowance                                 64
               AB. Deferred Compensation                              64
 
-ARTICLE 17.   PROFESSIONAL DEVELOPMENT                               66
+### ARTICLE 17.   PROFESSIONAL DEVELOPMENT                               66
 
               A. Participation Voluntary                             66
               B. Summary of Requirements                             66
 
-ARTICLE 18.   PROBATION AND TRIAL SERVICE PERIOD                     68
+### ARTICLE 18.   PROBATION AND TRIAL SERVICE PERIOD                     68
 
               A. Probation                                           68
               B. Trial Service Period                                68
 
-ARTICLE 19.   DISCIPLINE AND DISCHARGE                               69
+### ARTICLE 19.   DISCIPLINE AND DISCHARGE                               69
 
               A. Discipline                                          69
               B. Discharge                                           70
@@ -203,14 +203,14 @@ ARTICLE 19.   DISCIPLINE AND DISCHARGE                               69
               D. Record of Employee Conduct                     72
 
 
-ARTICLE 20.   SETTLEMENT OF DISPUTES                            75
+### ARTICLE 20.   SETTLEMENT OF DISPUTES                            75
 
               A. Grievance Procedure                            75
               B. Stewards                                       77
               C. County-Association Meetings                    77
               D. Processing Grievances                          78
 
-ARTICLE 21.   GENERAL PROVISIONS                                79
+### ARTICLE 21.   GENERAL PROVISIONS                                79
 
               A. No Discrimination                              79
               B. Bulletin Boards                                79
@@ -226,14 +226,14 @@ ARTICLE 21.   GENERAL PROVISIONS                                79
               L. Payroll/Time Keeping System Labor Management
                  Committee                                      82
 
-ARTICLE 22.   SAVINGS CLAUSE AND FUNDING                        83
+### ARTICLE 22.   SAVINGS CLAUSE AND FUNDING                        83
 
               A. Savings Clause                                 83
               B. Funding                                        83
 
-ARTICLE 23.   ENTIRE AGREEMENT                                  84
+### ARTICLE 23.   ENTIRE AGREEMENT                                  84
 
-ARTICLE 24.   TERMINATION                                       85
+### ARTICLE 24.   TERMINATION                                       85
 
               SIGNATURE PAGE                                    86
 

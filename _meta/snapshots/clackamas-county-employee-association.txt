@@ -156,7 +156,7 @@ Association.
 
 The parties agree as follows:
 
-                                 ARTICLE 1 - RECOGNITION
+### ARTICLE 1 - RECOGNITION
 
 The County recognizes the Association as the exclusive bargaining agent for the purpose of
 establishing salaries, wages, hours and other conditions of employment for all employees except
@@ -179,7 +179,7 @@ this does not include temporary employees hired through an outside agency or cra
 hired for six (6) months or less.
 
 
-                   ARTICLE 2 - PRESERVATION OF PUBLIC RIGHTS
+### ARTICLE 2 - PRESERVATION OF PUBLIC RIGHTS
 
 The Association recognizes that an area of responsibility must be reserved to the County if
 County government is to effectively serve the public. Therefore, the County shall have the full
@@ -220,7 +220,7 @@ requirements of the Public Employee Collective Bargaining Act (PECBA).
 The County, in exercise of the above-mentioned functions, will not discriminate against any
 employee because of membership in the Association.
 
-                              ARTICLE 3 - HOURS OF WORK
+### ARTICLE 3 - HOURS OF WORK
 1.             Regular Hours.
 The regular hours of work each day shall be consecutive except for interruptions for lunch
 period, and as may be required for emergencies.
@@ -386,7 +386,7 @@ to report to the office the employee shall be provided with adequate workspace.
 Employees who do not have equipment to perform telework shall not be expected to telework by
 their supervisor.
 
-                    ARTICLE 4 - REDUCED WORKWEEK SCHEDULE
+### ARTICLE 4 - REDUCED WORKWEEK SCHEDULE
 
 The parties agree that where it is in the interest of both the employer and the Association and
 possible to eliminate the necessity for layoff by the implementation of a reduced workweek, such
@@ -404,7 +404,7 @@ determined at the time of establishing the reduced workweek.
 contractual limits of this agreement and contracts with insurers. Part-time limitations will apply
 when appropriate.
 
-                                   ARTICLE 5 - HOLIDAYS
+### ARTICLE 5 - HOLIDAYS
 1.            Holidays.
 The following days shall be recognized and observed as paid holidays:
 
@@ -501,7 +501,7 @@ Regular status part-time employees working half-time (18.75 hours per week) or g
 paid holidays on a prorated basis in the month in which the holiday occurs without regard to the
 work schedule.
 
-                                    ARTICLE 6- SICK LEAVE
+### ARTICLE 6- SICK LEAVE
 1.             Accrual.
 Each employee shall accrue unlimited sick leave at the rate of eight (8) hours for each month
 worked, to be used in the event of illness or to care for a member of the employee’s immediate
@@ -588,7 +588,7 @@ vacation, floating holiday, compensatory, personal leave and sick leave shall be
 Family Medical leave and other protected leaves will be granted in accordance with current
 Employment Policy and Practice No. 10.
 
-                              ARTICLE 7 - VACATION LEAVE
+### ARTICLE 7 - VACATION LEAVE
 1.             Accrual.
 
 A. Vacation Option – New Hires.
@@ -696,7 +696,7 @@ or their heirs, whichever the case may be.
 Employees shall be charged for vacation leave in an amount equal to the time they are absent
 from work.
 
-                                ARTICLE 8 - OTHER LEAVES
+### ARTICLE 8 - OTHER LEAVES
 1.             Leave of Absence.
 Leaves of absence are covered by County Code and policy. No leave will be granted to an
 employee to accept employment in any other capacity. Credit toward longevity, salary increases,
@@ -745,7 +745,7 @@ supervisor (provided there is no overtime obligation to the County), or using va
 compensatory time, or leave without pay. See EPP 12 (Inclement Weather, Major Emergencies,
 and Disasters).
 
-                          ARTICLE 9 - HEALTH AND WELFARE
+### ARTICLE 9 - HEALTH AND WELFARE
 1.             Medical Coverage.
 The County agrees to contribute toward the monthly composite premium for each medical plan
 for eligible employees and their eligible family members, who elect medical coverage. The
@@ -915,7 +915,7 @@ benefits shall become effective on the first date of the calendar month followin
 calendar months of continuous employment. New employees include newly hired employees,
 rehired employees and employees changing employment status from temporary to regular.
 
-                                     ARTICLE 10 - WAGES
+### ARTICLE 10 - WAGES
 1.             Wages.
 
         (a)     After ratification by both parties, employees shall receive a 4.1% cost of living
@@ -1247,7 +1247,7 @@ current employees, as of July 1st of that year, who are required to wear medical
 medically related “uniforms” to the County work location if the County does not already provide
 such uniforms or stipends.
 
- ARTICLE 11 – ON-CALL HOURS FOR BEHAVIORAL HEALTH DIVISION MOBILE
+### ARTICLE 11 – ON-CALL HOURS FOR BEHAVIORAL HEALTH DIVISION MOBILE
                        CRISIS RESPONSE TEAM
 
 The Mobile Crisis Response Team (MCRT) is a team of mental health practitioners who provide
@@ -1312,7 +1312,7 @@ DUTIES AND RESPONSE TIME REQUIREMENTS:
       completed within twenty-four (24) hours of a clinical intervention (for both phone and
       face-to-face mobile responses).
 
-                   ARTICLE 12 – SCHOOL-BASED HEALTH CENTERS
+### ARTICLE 12 – SCHOOL-BASED HEALTH CENTERS
 
 The provisions in this Article apply to those employees assigned to the School-Based Health
 Centers (SBHC) and in a school-based health center classification. The provisions in this Article
@@ -1395,7 +1395,7 @@ become effective with the start of the 2025-26 school year.
          the County and pays their portion of the premium.
 
 
-                       ARTICLE 13 - DISCIPLINE AND DISCHARGE
+### ARTICLE 13 - DISCIPLINE AND DISCHARGE
 
 Regular employees may, in good faith for just cause, be subject to disciplinary action by oral
 reprimand, written reprimand, unpaid suspension, demotion or discharge. Such action shall take
@@ -1461,7 +1461,7 @@ authority to impose or revoke the disciplinary action.
 The regular employee may be granted additional time, at the discretion of the employer, to
 prepare for the pre-dismissal hearing.
 
-                      ARTICLE 14 - SETTLEMENT OF DISPUTES
+### ARTICLE 14 - SETTLEMENT OF DISPUTES
 1.             Association Grievance and Arbitration Procedure.
 An Association representative, with or without the employee, may take up the grievance or
 dispute with the employee's department head or designee within ten (10) working days of its
@@ -1509,7 +1509,7 @@ be borne by the party against whom the arbitrator's decision is adverse.
    (b) Step 1 may be skipped by mutual written agreement.
 
    (c) The grievance shall be submitted on the Official Grievance Form as contained in
-       Appendix A. Notwithstanding the Official Grievance Form submission, the grievance
+### Appendix A. Notwithstanding the Official Grievance Form submission, the grievance
        may be amended to narrow the scope of the original allegations; if amended, the
        grievance shall state what amendments have been made. In the grievance process and
        arbitration, the Association is limited to the facts and contract violations as stated in the
@@ -1563,7 +1563,7 @@ arbitrator's decision is adverse.
 
 
                                                   34
-                      ARTICLE 15 - WORKERS' COMPENSATION
+### ARTICLE 15 - WORKERS' COMPENSATION
 
 1. All County employees will be insured under the provisions of the Oregon Workers’
    Compensation Law for injuries that arise out of and occur in the course of employment for
@@ -1614,7 +1614,7 @@ arbitrator's decision is adverse.
    release. An injured employee that refuses to return to modified or light duty may be subject
    to loss of reinstatement rights and reduction of temporary total disability benefits.
 
-                                 ARTICLE 16 - UNION DUES
+### ARTICLE 16 - UNION DUES
 
 1. All employees covered by the terms and conditions of this Agreement may become members
    of the Association. The County agrees to deduct dues in the amount determined by the
@@ -1635,7 +1635,7 @@ arbitrator's decision is adverse.
    and to provide the new employee with a signature card in order to register for membership in
    the Association.
 
-                          ARTICLE 17 - ASSOCIATION RIGHTS
+### ARTICLE 17 - ASSOCIATION RIGHTS
 1.             Association Representatives.
 The Association may designate CCEA-represented employees of the County to serve as
 Association representatives.
@@ -1820,7 +1820,7 @@ or hearings for the following:
       of the Union in an arbitration case or unfair labor practice hearing, the employee may
       appear without loss of pay if the employee appears during their work time.
 
-                   ARTICLE 18 - LABOR MANAGEMENT COMMITTEE
+### ARTICLE 18 - LABOR MANAGEMENT COMMITTEE
 1.              Membership.
 The parties agree to the establishment of a joint labor management committee. The committee
 will be comprised of three (3) members and one alternate representing the Association and three
@@ -1837,7 +1837,7 @@ agreement may meet at any other time. Each party will submit items for the agend
 The committee is a vehicle for communication and will have as its purpose, the promotion of
 harmonious labor/management relations.
 
-                      ARTICLE 19 - PERFORMANCE EVALUATION
+### ARTICLE 19 - PERFORMANCE EVALUATION
 
 At least once a year, the department head or designee(s) shall review and rate the work
 performance of each employee using established performance evaluation forms as a basis for the
@@ -1866,7 +1866,7 @@ ensure that the supervisors administer performance evaluations to all of their i
 subordinates within two (2) months of each employee's anniversary date.
 
 
-             ARTICLE 20 – TRANSFERS AND VOLUNTARY DEMOTIONS
+### ARTICLE 20 – TRANSFERS AND VOLUNTARY DEMOTIONS
 
 The lateral transfer or voluntary demotion of an employee to a different position in the same
 classification may occur either within the same department (intradepartmental) or to another
@@ -1899,7 +1899,7 @@ department or to another department must request in writing to the Director of H
 or their designee to be placed on a voluntary demotion list for a lower level position within the
 same classification previously held.
 
-                              ARTICLE 21 - RECLASSIFICATION
+### ARTICLE 21 - RECLASSIFICATION
 1. When an employee believes that there has been a significant change in duties and
    responsibilities of their position, they may submit a Position Classification Questionnaire
    (PCQ) to request a position review to determine proper classification placement. The PCQ
@@ -1943,7 +1943,7 @@ same classification previously held.
 
 
                                                  42
-                             ARTICLE 22 - LAYOFF AND RECALL
+### ARTICLE 22 - LAYOFF AND RECALL
 1.              Reason for Layoff / Layoff Order.
 Within a classification and department, initial probationary employees will be laid off before
 employees who have completed their probationary period. The County shall not utilize
@@ -2122,7 +2122,7 @@ Layoff status will automatically terminate after two (2) years.
            6(a), (b), (c), (d) and (e) above.
 
 
-                                ARTICLE 23 – MISCELLANEOUS
+### ARTICLE 23 – MISCELLANEOUS
 1.               Existing Conditions.
 Matters of employment relations including but not limited to: direct or indirect monetary
 benefits, hours, vacations, sick leave, grievance procedures and other conditions of employment
@@ -2287,7 +2287,7 @@ overpayments by payroll deduction over a reasonable period of time.
          and agrees to provide a copy of the video recording and/or GPS data to the Association
          and the employee in advance of any pre-disciplinary meetings.
 
-           ARTICLE 24 - CLASSIFICATION/COMPENSATION REVIEW PANEL
+### ARTICLE 24 - CLASSIFICATION/COMPENSATION REVIEW PANEL
 
 The Classification/Compensation Review Panel (CCRP) shall be made up of three (3) members.
 One (1) member shall be selected by the Employees Association, one (1) member shall be

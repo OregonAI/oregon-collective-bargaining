@@ -179,7 +179,7 @@ This Agreement is entered into between the State of Oregon, through its Departme
 Administrative Services (Employer), on behalf of the Military Department (Agency), and the IAFF
 Local 3340 Kingsley Fire Fighters Association Inc., hereinafter referred to as the IAFF Local 3340.
 
-                                    ARTICLE 1 - RECOGNITION
+### ARTICLE 1 - RECOGNITION
 
 Section 1. Recognition.
 The Employer and Agency recognizes the IAFF Local 3340 as the sole and exclusive bargaining
@@ -194,7 +194,7 @@ on matters outside the scope of representation. To the extent that any agreement
 through consultation is reduced to writing and embodied in this Agreement or any addendum to
 this Agreement, the provisions shall be binding on all parties.
 
-                        ARTICLE 2 - ASSOCIATION SECURITY AND CHECK-OFF
+### ARTICLE 2 - ASSOCIATION SECURITY AND CHECK-OFF
 
 Section 1. Dues/Deductions.
 Any employee represented by the IAFF Local 3340 shall have deducted from his/her salary for
@@ -217,7 +217,7 @@ as soon as practicable. The IAFF Local 3340 also agrees to hold the Employer and
 harmless against any suit or judgment made against the Employer as a result of any action taken
 under the provisions of this Article.
 
-                      ARTICLE 3 - NON-DISCRIMINATION AND INDIVIDUAL RIGHTS
+### ARTICLE 3 - NON-DISCRIMINATION AND INDIVIDUAL RIGHTS
 
 Section 1. Non-Discrimination.
 This Agreement shall apply equally to all members of the Association regardless of race, sex,
@@ -232,7 +232,7 @@ Section 2. Individual Choice.
 Membership or non-membership in the IAFF Local 3340 shall be the individual choice of the
 employees covered by this Contract, subject to the provisions of Article 2 of this contract.
 
-                       ARTICLE 4 - ASSOCIATION REPRESENTATION
+### ARTICLE 4 - ASSOCIATION REPRESENTATION
 
 Section 1. Non-Discrimination.
 Employees shall have the right to form, join or assist in a labor organization, and to bargain
@@ -274,7 +274,7 @@ work to be conducted and records to be stored.
 
 
 2021-2025 IAFF-KFFA                             2                        Collective Bargaining Agreement
-                                        ARTICLE 5 - SENIORITY
+### ARTICLE 5 - SENIORITY
 
 Section 1. Definition.
 Seniority shall mean a permanent employee's length of continuous service with the Employer from
@@ -327,7 +327,7 @@ In no case shall a date of recall be considered as last date of hire.
 
 
 2021-2025 IAFF-KFFA                                  3                           Collective Bargaining Agreement
-       ARTICLE 6 - RULES, POLICIES, PROCEDURES, AND OPERATING GUIDELINES
+### ARTICLE 6 - RULES, POLICIES, PROCEDURES, AND OPERATING GUIDELINES
 
 The IAFF Local 3340 agrees that its members shall comply with the Agency's policies, procedures,
 and standard operating guidelines (SOG). Such criteria shall be consistently and uniformly applied,
@@ -336,7 +336,7 @@ and the Agency shall provide for the periodic review of these rules with employe
 procedures and/or operating guidelines, provided that neither party waives its rights to collectively
 bargain such directives as they may deem necessary.
 
-              ARTICLE 7 - SAFE AND NECESSARY EQUIPMENT AND PROGRAMS
+### ARTICLE 7 - SAFE AND NECESSARY EQUIPMENT AND PROGRAMS
 
 Section 1. Safe and Necessary Equipment.
 Adequate and safe equipment shall be provided for all employees. Any safety clothing or
@@ -419,7 +419,7 @@ A Safety Committee shall be maintained at the Kingsley Field Airbase consistent 
                                                                                        REV: 2015, 2017, 2021
 
 
-                              ARTICLE 8 - MANAGEMENT RIGHTS
+### ARTICLE 8 - MANAGEMENT RIGHTS
 
 The parties agree that the Employer and the Agency have the right to operate and manage the
 Agency, including, but not limited to the right to maintain order and efficiency; to direct employees
@@ -435,7 +435,7 @@ employees for just cause; to lay off employees; to recall employees; to require 
 employees; and to promulgate rules, regulations and personnel policies, provided that such rights
 shall not be exercised so as to violate any of the specific provision of this Agreement.
 
-                              ARTICLE 9 - GRIEVANCE PROCEDURE
+### ARTICLE 9 - GRIEVANCE PROCEDURE
 
 Section 1. Definition.
 Grievances are defined as acts, omissions, applications, meaning or interpretation alleged to be
@@ -529,7 +529,7 @@ In the event that the arbitrator finds for either party, in the whole, the arbit
 by the losing party. If the award is less than whole, all fees of the arbitrator will be shared equally.
 All other costs of arbitration shall be the responsibility of the party incurring the costs.
 
-                                      ARTICLE 10 - OVERTIME
+### ARTICLE 10 - OVERTIME
 
 Section 1. Definition.
 Overtime shall be hours worked over one hundred eighty-two (182) in a twenty-four (24) day work
@@ -639,7 +639,7 @@ the appropriate certifications and training.
 
 
 2021-2025 IAFF-KFFA                              9                          Collective Bargaining Agreement
-                                    ARTICLE 11 - RETIREMENT
+### ARTICLE 11 - RETIREMENT
 
 Section 1. Public Employees Retirement System (“PERS”) Members.
 For purposes of this Article, a PERS participating member is an employee who has established
@@ -688,7 +688,7 @@ PERS, Social Security, Insurance and other retirement income.
 
 
 2021-2025 IAFF-KFFA                               10                         Collective Bargaining Agreement
-                                    ARTICLE 12 - SICK LEAVE
+### ARTICLE 12 - SICK LEAVE
 
 Section 1. Accrual.
 It is agreed that the Employer will provide sick leave as insurance for its employees in the event of
@@ -797,7 +797,7 @@ enforced with no exceptions:
                                                                                             REV: 2015, 2017
 
 
-                         ARTICLE 13 - HOLIDAYS AND OTHER LEAVES
+### ARTICLE 13 - HOLIDAYS AND OTHER LEAVES
 
 Section 1. Compensatory Days.
 Employees assigned to twenty-four (24) hour shifts shall be granted one-hundred and fifty-two
@@ -867,7 +867,7 @@ Bargaining, it was agreed that Kelly Days in Article 13, Section 6, was combined
                                                                                    REV: 2015, 2017, 2021,2023
 
 
-                                 ARTICLE 14 – HOURS OF WORK
+### ARTICLE 14 – HOURS OF WORK
 
 Section 1. Work Shifts.
 All employees shall be scheduled to work on a regular work shift, which shall have regular starting
@@ -923,7 +923,7 @@ If these criteria are met, the Agency may grant the employee an alternate work s
                                                                                             REV: 2017, 2021
 
 
-                                 ARTICLE 15 – COMPENSATION
+### ARTICLE 15 – COMPENSATION
 
 Section 1. Compensation.
 The rate of pay for each position in the IAFF Local 3340 shall be in accordance with the rate
@@ -949,7 +949,7 @@ legislature does not appropriate at least thirteen million ($13,000,000) dollars
 
 
 2021-2025 IAFF-KFFA                             15                         Collective Bargaining Agreement
-                                   ARTICLE 16A - PERSONAL LEAVE
+### ARTICLE 16A - PERSONAL LEAVE
 
 Effective on January 1, 2024, this Article will no longer apply. Refer to Article 16B – Personal
 Leave.
@@ -1007,7 +1007,7 @@ Section 6. Forty (40) Hour Employees.
                                                                                              REV: 2017
 
 
-                      ARTICLE 16B – PERSONAL LEAVE (Effective 1.1.2024)
+### ARTICLE 16B – PERSONAL LEAVE (Effective 1.1.2024)
 
 Section 1. Planned Time Off – PTO Accrual.
 Effective January 1, 2024, A PTO Leave bank will be established in lieu of traditional vacation,
@@ -1073,13 +1073,13 @@ Section 7. Forty (40) Hour Employees.
                                                                                                 REV: 2023
 
 
-                           ARTICLE 17 - WORKERS' COMPENSATION
+### ARTICLE 17 - WORKERS' COMPENSATION
 
 Section 1. Coverage.
 Employees covered by the provisions of this Agreement shall be insured under the provisions of
 the Oregon Workers' Compensation Act for injuries received while at work for the Employer.
 
-                             ARTICLE 18 - HEALTH AND WELFARE
+### ARTICLE 18 - HEALTH AND WELFARE
 
 Section 1.
 Notwithstanding any past practice to the contrary, an Employer contribution will be made for each
@@ -1117,7 +1117,7 @@ savings.
                                                                                REV: 2015, 2017,2019, 2021,2023
 
 
-                         ARTICLE 19 – WORK OUT OF CLASSIFICATION
+### ARTICLE 19 – WORK OUT OF CLASSIFICATION
 
 Section 1.
 (A) When the Agency assigns a bargaining unit employee duties that have all of the duties of
@@ -1131,7 +1131,7 @@ Section 1.
                                                                                          REV: 2015, 2017, 2021
 
 
-                              ARTICLE 20 - PROBATIONARY PERIOD
+### ARTICLE 20 - PROBATIONARY PERIOD
 
 Section 1. Purpose.
 (A) The probationary period is an integral part of the employee selection process and provides
@@ -1187,7 +1187,7 @@ employee for failure to meet security authorization standards, this action may n
                                                                                       REV: 2015, 2017, 2021
 
 
-                      ARTICLE 21 - DISCIPLINARY ACTION AND DISCHARGE
+### ARTICLE 21 - DISCIPLINARY ACTION AND DISCHARGE
 
 Section 1. Disciplinary Action.
 Disciplinary action may be imposed by the Agency on any employee covered by this Agreement
@@ -1259,7 +1259,7 @@ beyond their control.
 
 
 2021-2025 IAFF-KFFA                               21                         Collective Bargaining Agreement
-                              ARTICLE 22 - FILLING OF VACANCIES
+### ARTICLE 22 - FILLING OF VACANCIES
 
 Section 1. Fifty-Six (56) Hour Employees.
 A member of the IAFF Local 3340 shall be considered eligible to seek a promotional position if they
@@ -1362,7 +1362,7 @@ Section 3. Procedure
 
 
 2021-2025 IAFF-KFFA                               23                          Collective Bargaining Agreement
-                               ARTICLE 23 - TRAINING STANDARDS
+### ARTICLE 23 - TRAINING STANDARDS
 
 Section 1.
 The Employer shall continue to implement the 2002 Department of Defense certification
@@ -1377,7 +1377,7 @@ EMT-B and Firefighter I (FFI) will have twenty-four (24) calendar months to obta
 certification(s). Regular status employees who do not possess the required certification(s) will have
 twelve (12) calendar months to obtain the required certification.
 
-                      ARTICLE 24 - DRUG AND ALCOHOL FREE WORKPLACE
+### ARTICLE 24 - DRUG AND ALCOHOL FREE WORKPLACE
 
 The Parties agree that they have a responsibility to provide an alcohol-free service environment
 and the employees with an alcohol-free workplace. The illegal use of controlled substances, as
@@ -1554,7 +1554,7 @@ the policy.
                                                                                              REV: 2015, 2017
 
 
-                                  ARTICLE 25 - SAVINGS CLAUSE
+### ARTICLE 25 - SAVINGS CLAUSE
 
 The provisions of this contract are declared to be severable and if any section, subsection,
 sentence, clause or phrase of this Agreement shall for any reason be held to be invalid or
@@ -1562,7 +1562,7 @@ unconstitutional such decision shall not affect the validity of the remaining se
 clauses and phrases of this Agreement; but they shall remain in effect, it being the intent of the
 parties that this contract remain in effect notwithstanding the invalidity of any part.
 
-                                ARTICLE 26 - ENTIRE AGREEMENT
+### ARTICLE 26 - ENTIRE AGREEMENT
 
 Section 1. Modification.
 This Agreement shall be modified only in writing upon the written approval of both parties. Such
@@ -1586,7 +1586,7 @@ Agreement shall be binding upon that successor to the extent required by law.
                                                                                        REV: 2015, 2017, 2021
 
 
-                             ARTICLE 27 – CLASSIFICATION C5557
+### ARTICLE 27 – CLASSIFICATION C5557
 
 Classification C5557 may provide Letters of Expectation, Letters of Concern, and Performance
 Evaluations to members of the bargaining unit. LOE and LOC are not discipline, and cannot be
@@ -1596,7 +1596,7 @@ based upon ORS 243.650.
                                                                                                   REV: 2015
 
 
-                             ARTICLE 28 – PERSONNEL RECORDS
+### ARTICLE 28 – PERSONNEL RECORDS
 
 Section 1. Personnel Files.
 Only one (1) official personnel file will be maintained for each employee. The official personnel file
@@ -1624,14 +1624,14 @@ related to such materials.
 
 
 2021-2025 IAFF-KFFA                             28                         Collective Bargaining Agreement
-                      LETTER OF AGREEMENT – ARTICLE 10 – STAFFING LEVELS
+### LETTER OF AGREEMENT – ARTICLE 10 – STAFFING LEVELS
 
 Per Article 10, Section 3, each shift will consist of one (1) C5557, two (2) C5556, and the remainder
 shall be C5555 bargaining unit members. In classification C5556 no one will be unilaterally
 downgraded from C5556 to C5555. This will be completed through attrition. This LOA will expire
 upon the attrition of three (3) C5556.
 
-                  LETTER OF AGREEMENT – ARTICLE 10 – AMENDING SECTION 3
+### LETTER OF AGREEMENT – ARTICLE 10 – AMENDING SECTION 3
 
 This Agreement is made and entered into by and between the State of Oregon, acting through its
 Department of Administrative Services (Employer), on behalf of the Oregon Military Department
@@ -1657,7 +1657,7 @@ The Parties agree to the following:
 This Agreement becomes effective on the date of the last signature below and expires on June 30,
 2022, unless the Parties agree in writing to extend its provisions.
 
-                      LETTER OF AGREEMENT – ARTICLE 15 – COMPENSATION
+### LETTER OF AGREEMENT – ARTICLE 15 – COMPENSATION
 
 This Agreement is between the State of Oregon, acting through its Department of Administrative
 Services (Employer), on behalf of the Oregon Military Department (Agency), and the International
@@ -1676,7 +1676,7 @@ semi-monthly or bi-weekly pay system.
 
 
 2021-2025 IAFF-KFFA                                           29                                Collective Bargaining Agreement
-         LETTER OF AGREEMENT – ARTICLE 16 – PERSONAL LEAVE ADJUSTMENT
+### LETTER OF AGREEMENT – ARTICLE 16 – PERSONAL LEAVE ADJUSTMENT
 
 The Parties agree to adjust the vacation leave banks of the employees listed in this Letter of
 Agreement on a one (1) time only basis effective October 1, 2017 as listed below.
@@ -1703,7 +1703,7 @@ The Parties agree that the members will be allowed to cash out up to fifty perce
 adjusted hours in fiscal year 2019 so long as the election to cash out is made and completed
 between October 1, 2018 through January 1, 2019.
 
-                      LETTER OF AGREEMENT – ARTICLE 27 – WORKING TITLES
+### LETTER OF AGREEMENT – ARTICLE 27 – WORKING TITLES
 
 This Agreement between the State of Oregon, acting through the Department of Administrative
 Services, Labor Relations Unit (DAS/LRU) on behalf of the Oregon Military Department and the
@@ -1726,7 +1726,7 @@ This Letter of Agreement will remain in effect through the term of this Agreemen
 
 
 2021-2025 IAFF-KFFA                              30                        Collective Bargaining Agreement
-                  LETTER OF AGREEMENT – DEMAND TO BARGAINING SB 1049
+### LETTER OF AGREEMENT – DEMAND TO BARGAINING SB 1049
 
 This Agreement between the State of Oregon, acting through the Department of Administrative
 Services, Labor Relations Unit (DAS/LRU) on behalf of the Oregon Military Department and the
@@ -1742,7 +1742,7 @@ The Parties agree that if the IAFF-PANG negotiated agreement includes additional
 pertaining to Article 11 – Retirement, SB 1049 or other PERS related compensation, then such
 provisions shall be extended to the IAFF-KFFA unit with the same effective dates.
 
-                             LETTER OF AGREEMENT – PAY EQUITY
+### LETTER OF AGREEMENT – PAY EQUITY
 
 This Agreement is between the State of Oregon, acting through the Department of Administrative
 Services (Employer) on behalf of the Oregon Military Department (Agency) and the IAFF Local
@@ -1882,7 +1882,7 @@ The Parties agree to the following:
 
 
 2021-2025 IAFF-KFFA                              33                        Collective Bargaining Agreement
- LETTER OF AGREEMENT – ESSENTIAL WORKER INCLEMENT WEATHER/HAZARDOUS
+### LETTER OF AGREEMENT – ESSENTIAL WORKER INCLEMENT WEATHER/HAZARDOUS
                             CONDITIONS PAY
 
 This Agreement is between the State of Oregon, acting through its Department of Administrative
@@ -1903,7 +1903,7 @@ For 24/7 operations, if inclement weather occurs on a weekend (and would normall
 closure of a state agency office in the county of their worksite during Monday through Friday), staff
 shall receive the Essential Worker Inclement Weather/Hazardous Conditions Pay.
 
-                      LETTER OF AGREEMENT – NATURAL DISASTER LEAVE
+### LETTER OF AGREEMENT – NATURAL DISASTER LEAVE
 
 This Agreement is between the State of Oregon, acting through its Department of Administrative
 Services (Employer), on behalf of the Oregon Military Department (Agency), and the International
@@ -1932,7 +1932,7 @@ This Letter of Agreement will sunset on June 30, 2023, unless extended by mutual
 
 
 2021-2025 IAFF-KFFA                             34                        Collective Bargaining Agreement
-                      LETTER OF AGREEMENT – PANDEMIC RECOGNTION PAY
+### LETTER OF AGREEMENT – PANDEMIC RECOGNTION PAY
 
 This Agreement is between the State of Oregon, acting through its Department of Administrative
 Services (Employer), on behalf of the Oregon Military Department of Corrections (Agency), and the
@@ -1969,7 +1969,7 @@ one-time payment based on the following criteria:
             purposes and are PERS subject.
 
 
-                  LETTER OF AGREEMENT – EXTENDED LEAVE WITHOUT PAY
+### LETTER OF AGREEMENT – EXTENDED LEAVE WITHOUT PAY
 
 This Agreement is between the State of Oregon, acting through its Department of Administrative
 Services (Employer), on behalf of the Oregon Military Department (Agency), and the Kingsley
@@ -2011,7 +2011,7 @@ This Agreement becomes effective on the date of the last signature below [7/27/2
 agree that this Agreement will continue in effect until unless a new agreement is reached during
 successor negotiations.
 
-                        LETTER OF AGREEMENT—PAID LEAVE OREGON
+### LETTER OF AGREEMENT—PAID LEAVE OREGON
 
 This Agreement is between the State of Oregon, acting through its Department of Administrative
 Services (Employer) and IAFF Local 3340 Kingsley Firefighters Association (Association).
@@ -2022,7 +2022,7 @@ Paid Leave Oregon is administered by the Oregon Employment Department. The State
 Oregon, as an employer, shall comply with the provisions of Paid Leave Oregon, as provided for
 in the DAS statewide Paid Leave Oregon Policy (60.000.04).
 
-                      LETTER OF AGREEMENT – ONE-TIME PAYMENT COLA
+### LETTER OF AGREEMENT – ONE-TIME PAYMENT COLA
 
 This Agreement is entered into between the State of Oregon, acting through its Department of
 Administrative Services (DAS), and the IAFF Local 3340, Kingsley Firefighters Association
@@ -2056,7 +2056,7 @@ are PERS subject.
 
 This Letter of Agreement will sunset on June 30, 2025.
 
-LETTER OF AGREEMENT - KFFA CLASSIFICATION STUDY
+### LETTER OF AGREEMENT - KFFA CLASSIFICATION STUDY
 
 This Agreement is executed by Kingsley Firefighters Association (IAFF 3340) and the State of
 Oregon, acting through the Department of Administrative Services, Labor Relations Unit
@@ -2098,7 +2098,7 @@ certification.
 
 
 2021-2025 IAFF-KFFA                          38                        Collective Bargaining Agreement
-                                   APPENDIX B – SALARY SCHEDULE
+### APPENDIX B – SALARY SCHEDULE
 
 
                                       SALARY SCHEDULE AS OF JULY 1, 2023

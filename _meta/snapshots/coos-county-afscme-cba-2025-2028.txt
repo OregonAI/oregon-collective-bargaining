@@ -159,7 +159,7 @@ Agreement is to set forth those matters pertaining to rates of pay, hours of wor
 matters pertaining to employment.
 
 
-                                          ARTICLE 1 - RECOGNITION
+### ARTICLE 1 - RECOGNITION
 
 
                  Section 1.     The County recognizes the Union as the bargaining agent with respect to
@@ -209,7 +209,7 @@ notification if it disagrees about the inclusion or exclusion of the classificat
     the specified thirty (30) day period, the matter shall be considered resolved.
 
 
-                                               ARTICLE 2 - DEFINITIONS
+### ARTICLE 2 - DEFINITIONS
 
                     “Anniversary Date” is defined, for all employees who were hired or promoted prior to and
 
@@ -305,7 +305,7 @@ County to last longer than ninety (90) days. In the event a temporary layoff las
 affected employee may elect to have the layoff treated as a regular layoff under the terms of this Agreement.
 
 
-                                      ARTICLE 3 - RIGHTS OF PARTIES
+### ARTICLE 3 - RIGHTS OF PARTIES
 
         Section 1, Obligations of the Parties. Both parties agree not to act in an arbitrary or capricious manner in
 
@@ -318,7 +318,7 @@ functions and authority connected with its responsibility to manage the affairs 
 that matters not specifically contained in the body of this Agreement are reserved as County rights.
 
 
-                             ARTICLE 4 - UNION SECURITY AND CHECK-OFF
+### ARTICLE 4 - UNION SECURITY AND CHECK-OFF
 
 
         Section 1. Employees covered by the Agreement shall have the right to pay dues as a means to participate
@@ -437,7 +437,7 @@ County will notify the Union of all new employee hires within ten (10) working d
 Union will be allowed 30 minutes to meet with the employee(s) on work time for this presentation.
 
 
-                                          ARTICLE 5 - HOURS OF WORK
+### ARTICLE 5 - HOURS OF WORK
 
           Section 1. Regular Hours. The regular hours of work each day shall be consecutive except for
 
@@ -625,7 +625,7 @@ and Employment for Mobile Response Team attached as an appendix to this CBA.
 
 
 
-                                            ARTICLE 6 - HOLIDAYS
+### ARTICLE 6 - HOLIDAYS
 
         Section 1. Holidays. The following days shall be recognized and observed as paid holidays:
 
@@ -702,7 +702,7 @@ or granted compensatory time in addition to the employee’s holiday pay.
                      (b)    For all hours in excess of eight (8) hours, double time for all hours worked.
 
 
-                                                 ARTICLE 7 - SICK LEAVE
+### ARTICLE 7 - SICK LEAVE
 
 Section 1. Accrual.        Employees shall accrue sick leave at the regular rates of pay, and at the rate of eight (8) hours
 
@@ -789,7 +789,7 @@ employee may contribute more than forty (40) hours per year to any other employe
 more than two hundred forty (240) hours of contributed sick leave in any one calendar year.
 
 
-                                          ARTICLE 8 - VACATION LEAVE
+### ARTICLE 8 - VACATION LEAVE
 
          Section 1. Accrual.     Employees shal] accrue vacation leave at the rates provided on the following
 
@@ -893,7 +893,7 @@ _ vacation dates, but each employee shall be permitted to exercise their right o
   or who dies before the completion of such services, shall not be eligible for vacation pay.
 
 
-                                            ARTICLE 9 - OTHER LEAVES
+### ARTICLE 9 - OTHER LEAVES
 
           Section 1. Leave of Absence. After an employee has exhausted all accrued paid leaves, a leave of
 
@@ -999,7 +999,7 @@ vacation and compensatory time during such leave consistent with the County Pers
 Leave in excess of that allowed by statute may be granted by the County.
 
 
-                                           ARTICLE 10 - SEVERANCE PAY
+### ARTICLE 10 - SEVERANCE PAY
 
         Section 1. Severance Pay.      Any employee who has completed one (1) full year of service with the
 
@@ -1024,7 +1024,7 @@ any and all claims or liability that might have otherwise arisen out of the empl
 
 
 
-                                             ARTICLE 11 - INSURANCE
+### ARTICLE 11 - INSURANCE
 
         Section 1. Health Insurance.
 
@@ -1133,7 +1133,7 @@ sharing.
 
 
              AFSCME CBA ~2025-2028                                                                      Page 21
-                                                ARTICLE 12 - WAGES
+### ARTICLE 12 - WAGES
 
        Section 1. Wages. Effective January 1, 2008, the County shall pick up the six percent (6%) employee
 
@@ -1375,7 +1375,7 @@ hire shall be at twelve percent (12%) total longevity applied to their base wage
         Once a longevity increase has been earned it shall not be withdrawn, except for termination or retirement.
 
 
-                                          ARTICLE 13 - RETIREMENT
+### ARTICLE 13 - RETIREMENT
 
         The County shall participate in the Public Employees Retirement System. Benefits will be provided under      .
 
@@ -1388,7 +1388,7 @@ this agreement and continuing through the duration of this agreement, the county
 percent employee contribution to PERS or OPSRP whichever is appropriate.
 
 
-                               ARTICLE 14 - DISCIPLINE AND DISCHARGE
+### ARTICLE 14 - DISCIPLINE AND DISCHARGE
 
 
 
@@ -1481,7 +1481,7 @@ accordance with the following guidelines, including, but not limited to:
                  severity of the act.
 
 
-                                   ARTICLE 15 - SETTLEMENT            OF DISPUTES
+### ARTICLE 15 - SETTLEMENT            OF DISPUTES
 
 
        Section 1. Grievance and Arbitration Procedure. The grievance and arbitration procedure shall be limited
@@ -1609,7 +1609,7 @@ limit or prohibit an employee from employing legal counsel of their choice and a
 number of Stewards or Officers shall be limited to five (5) in any one department.
 
 
-                                               ARTICLE 16 - SENIORITY
+### ARTICLE 16 - SENIORITY
 
           Section 1. The County and the Union mutually recognize the need to provide for the advancement and
 
@@ -2022,7 +2022,7 @@ agreement the same as leave without pay.
 
 
           AFSCME CBA -2025-2028                                                                    Page 38
-                                 ARTICLE 17 — DISCRIMINATION AND BULLYING
+### ARTICLE 17 — DISCRIMINATION AND BULLYING
 
 
         Section 1. No Discrimination. The County and the Union agree that equal opportunity in employment,
@@ -2069,7 +2069,7 @@ direct supervisor. [f the supervisor fails to act or if retaliation occurs, the 
 
 
           AFSCME CBA ~2025-2028                                                                         Page 39
-                                       ARTICLE 18 - UNION BUSINESS
+### ARTICLE 18 - UNION BUSINESS
 
 
         Section 1. County-Union Meetings. For the purpose of negotiating a collective bargaining agreement, the
@@ -2121,7 +2121,7 @@ and there shall be no discrimination, interference, restraint, or coercion by th
 representative against any employee because of the lawful Union activities.
 
           AFSCME CBA ~2025-2028                                                                       Page 40
-                                    ARTICLE 19 - EXISTING CONDITIONS
+### ARTICLE 19 - EXISTING CONDITIONS
 
 
         Section 1. All existing employment relations as defined in O.R.S. 243.650 (7) and interpreted by the
@@ -2141,7 +2141,7 @@ part of this agreement.
 affecting the bargaining unit.
 
 
-                                             ARTICLE 20 - SAFETY
+### ARTICLE 20 - SAFETY
 
 
         Section 1. Safety. Adequate safe equipment shall be provided for all employees. No employee shall be
@@ -2208,7 +2208,7 @@ shall report back to the employee the proposed resolution. If the proposed resol
   performance of their daily work duties.
 
 
-                                   ARTICLE 21 - WORKERS’          COMPENSATION
+### ARTICLE 21 - WORKERS’          COMPENSATION
 
             Section 1. Insured Personnel. All County employees will be insured under the provisions of state law for
 
@@ -2253,7 +2253,7 @@ disability or an employee off work as a result of a workers' compensation injury
 benefits during the period of such leave, unless otherwise supplementing such leave with paid time off.
 
 
-                                         ARTICLE 22 - PERSONNEL RECORDS
+### ARTICLE 22 - PERSONNEL RECORDS
 
           Section 1. Files, There shall be only one (1) official personnel file for each employee and that file shall
 
@@ -2370,7 +2370,7 @@ enter into bargaining pursuant to ORS 243.698. Parties retain arbitration rights
 impacts of the contracting out decision.
 
 
-                                 ARTICLE 24 - REQUESTS FOR INFORMATION
+### ARTICLE 24 - REQUESTS FOR INFORMATION
 
                   Section 1. Parties agree to make best efforts to informally discuss requests for information prior to
 formal requests being made with the objective to clarify the information needed and find efficient means of
@@ -2428,7 +2428,7 @@ parties agree to use the grievance process as the sole remedial action to resolv
 
 
 
-                                       ARTICLE 25 - SAVINGS CLAUSE
+### ARTICLE 25 - SAVINGS CLAUSE
 
 
 
@@ -2455,7 +2455,7 @@ agreed to without such other parts and the remaining provisions which, standing 
 incapable of being executed in accordance with the intent of this Agreement.
 
 
-                                      ARTICLE 26 - SIDE AGREEMENTS
+### ARTICLE 26 - SIDE AGREEMENTS
 
          The parties agree that the following Side Agreements shall be incorporated into this Agreement:
 
@@ -2464,7 +2464,7 @@ incapable of being executed in accordance with the intent of this Agreement.
 Health Specialists.
 
 
-                                         ARTICLE 27 - TERMINATION
+### ARTICLE 27 - TERMINATION
 
          THIS AGREEMENT shall be effective upon execution or as specified herein and shall remain in full
 

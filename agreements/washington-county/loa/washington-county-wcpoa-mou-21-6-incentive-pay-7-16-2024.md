@@ -19,9 +19,8 @@ retrieved: '2026-08-02'
 source_sha256: 5bda89dffa93d3da683d6f0c8f45cb3cbea8cac0c709ed9257a4f65b3499d262
 snapshot_policy: hash-only
 status: current
-content_mode: summary
-reproduction_basis: 'jointly-authored contract; summary + official link per the class determination
-  in corpus.yml schema.doc_types (verbatim: false)'
+content_mode: 'verbatim'
+reproduction_basis: 'public record of a public body (ORS 192.311-192.478); the employer publishes the executed agreement in full at source_url; a ratified agreement is an official act (Georgia v. Public.Resource.Org, 590 U.S. 255 (2020)) — mirrored in full per the class determination in corpus.yml schema.doc_types (verbatim: true)'
 conversion_notes: pdftotext -layout; 2 pages, 2852 characters extracted; NOT human-verified
 last_verified: ''
 verified_by: ''
@@ -38,8 +37,8 @@ tags:
 - washington-county
 ---
 
-> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated
-> summary, not the agreement's official text. Verify against the official
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a non-authoritative
+> mirror of the agreement's text, not the official record. Verify against the official
 > source: <https://www.washingtoncountyor.gov/hr/documents/wcpoa-mou-216-incentive-pay-7-16-2024/download?inline> (retrieved 2026-08-02).
 
 # Washington County — WCPOA MOU 21.6 Incentive Pay 7/16/2024
@@ -51,10 +50,6 @@ Letter of agreement / MOU under **Washington County** and **WCPOA**.
 - No term is stated on the index or found in the document's front matter — `term` is left empty rather than inferred; the county presents this as its operative agreement
 - Source document: 2 pages (PDF)
 
-This corpus is **summary-first for agreements**: the contract's text is not
-reproduced here (see Curator notes), and nothing on this page states or
-paraphrases the agreement's terms. Read the agreement itself at the official
-source link above.
 
 ## Curator notes
 
@@ -72,3 +67,63 @@ Statutes and rules the document's text cites are recorded in frontmatter
 `relationships.references_external` (0 citation(s)) and resolve into
 `executive-regulatory-frameworks` as cites — this corpus asserts no
 `implements` edge anywhere.
+
+## Full text
+
+                                    Memorandum of
+                                    Understanding
+                            Narcotic and Gang Enforcement
+                                     Incentive Pay
+
+
+                               I. Parties to the Agreement
+The parties to this Memorandum of Understanding (hereafter referred to as "MOU") are
+Washington County, Oregon, (hereinafter referred to as "County"), and Washington
+County Police Officer's Association, (hereinafter referred to as "WCPOA"). This MOU
+applies to the WCPOA Enforcement/Corrections Unit (ECU) Collective Bargaining
+Agreement (CBA).
+                                      II. Background
+On July 16, 2024, the County and WCPOA discussed interpretation of Article 21.6 which
+states as follows:
+
+
+ 21.6 Narcotics and Gang Enforcement. Notwithstanding the provision of Section 13.1,
+when a Deputy Sheriff employee is assigned to plain clothes narcotics enforcement
+team or the gang enforcement team and his/her duties and responsibilities are in the
+classification higher than his/her own (i.e., Detective), the employee shall be paid at
+his/her regular rate plus five (5) percent, and not at a higher rate of pay, for the duration
+of the assignment.
+
+                                      Ill. Agreement
+The parties agree that effective July 6, 2024, Article 21.6 shall be interpreted as
+follows:
+
+1. “Deputy Sheriff,” for purposes of Article 21.6 includes Deputies and Corporals.
+2. WCSO’s Narcotics Enforcement Team is called the Westside Interagency Narcotics
+(WIN) Team.
+
+3. A Corporal’s pay rate under Article 21.6 shall not exceed the maximum pay rate of the
+Detective classification.
+
+4. Nothing herein shall alter any other term of the ECU CBA. This MOU is understood
+by the parties to be limited in duration and will expire at the end of the current ECU
+contract period (June 30, 2025). If a new contract is not complete at the end of the
+current contract period, this MOU will remain in place until a new contract is ratified.
+5. Any disputes regarding the interpretation or application of this MOU shall be resolved
+by the Parties using the grievance procedures of the ECU CBA.
+6. This MOU does not establish status quo or otherwise hold precedent-setting value
+in successor bargaining or an interest arbitration.
+
+
+AGREED to this date(s): 7/16/2024
+
+ For WCPOA:                                     For the County:
+             Digitally signed by Patrick                         Digitally signed by Erin
+ Patrick     Altiere
+
+ Altiere     Date: 2024.07.23                   Erin Calvert Calvert
+                                                             Date: 2024.07.22
+ _______________________________
+             07:32:15 -07'00'                   ____________________________
+                                                            16:54:19 -07'00'
+

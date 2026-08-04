@@ -87,7 +87,7 @@ Authority and its component units: Pendleton Cottage and Oregon State Hospital
 Employees Local 3327, Council 75, hereinafter referred to as the "Union".
                                                                                          REV: 2015
 
-                                 ARTICLE 1 - RECOGNITION
+### ARTICLE 1 - RECOGNITION
 
 The Employer recognizes the Union as the exclusive bargaining agent and representative
 for all Physicians employed by the State of Oregon, Oregon Health Authority, whose
@@ -100,11 +100,11 @@ Employment Relations Board subject to possible judicial review.
                                                                                          REV: 2015
 
 
-                           ARTICLE 2 - EFFECT OF LAW AND RULES
+### ARTICLE 2 - EFFECT OF LAW AND RULES
 
 This Agreement is subject to all applicable existing and future laws of the State of Oregon.
 
-                              ARTICLE 3 - LEGISLATIVE ACTION
+### ARTICLE 3 - LEGISLATIVE ACTION
 
 Section 1.
 Provisions of this Agreement not requiring legislative funding or statutory changes before
@@ -118,7 +118,7 @@ Upon signing of this Agreement both parties will jointly recommend to the Legisl
 Assembly the passage of the funding and statutory changes necessary to implement this
 Agreement.
 
-                               ARTICLE 4 - UNION SECURITY
+### ARTICLE 4 - UNION SECURITY
 
 Section 1. Union Activities.
 Each Institution agrees to inform all new employees hired into positions included in the
@@ -381,7 +381,7 @@ h.      The Union shall indemnify and the Union and employee shall hold the Stat
                                                                                     REV: 2015,2019
 
 
-                           ARTICLE 5 - MAINTENANCE OF STANDARDS
+### ARTICLE 5 - MAINTENANCE OF STANDARDS
 
 The Agency shall not issue any directives or written statements that have any effect on
 mandatory subjects of bargaining established by this Collective Bargaining Agreement
@@ -390,7 +390,7 @@ this Section is intended to inhibit the Agency from issuing directives and/or st
 which interpret or effectuate a contractual obligation; however, a copy of such statements
 or directives shall be sent to the Union prior to distribution.
 
-                             ARTICLE 6 - STRIKES AND LOCKOUTS
+### ARTICLE 6 - STRIKES AND LOCKOUTS
 
 The Employer agrees that during the term of this Agreement, the Employer shall not
 cause or permit any lockout of employees from their work. In the event an employee is
@@ -416,7 +416,7 @@ immediately. Such notification by the Union shall not constitute an admission th
 caused or counseled such strike activity. The notification to employees covered by this
 Agreement by the Union shall be made at the request of the Employer or Agency.
 
-                              ARTICLE 7 - SAVINGS CLAUSE
+### ARTICLE 7 - SAVINGS CLAUSE
 
 Should any article, section or portion of the Agreement be held unlawful and/or
 unenforceable by a court or board of competent jurisdiction, such invalidation shall apply
@@ -424,7 +424,7 @@ only to the specific article, section or portion directly specified. Upon the re
 a decision, the parties shall, upon demand, begin negotiations to replace this Agreement's
 invalidated article, section or portion.
 
-                           ARTICLE 8 - MANAGEMENT'S RIGHTS
+### ARTICLE 8 - MANAGEMENT'S RIGHTS
 
 Except as may be specifically modified by the terms of this Agreement, the State retains
 all rights of management in the direction of its work force.
@@ -451,7 +451,7 @@ These rights of management shall include, but not be limited to, the right to:
 
 
 2023-2025 OHA Physicians                      9                         Collective Bargaining Agreement
-                           ARTICLE 9 - CONTRACTING OUT
+### ARTICLE 9 - CONTRACTING OUT
 
 Section 1.
 The Union recognizes that the Employer has the management right, during the term of
@@ -562,7 +562,7 @@ See LOA: Feasibility Study
                                                                                             REV: 2017
 
 
-                             ARTICLE 10 - EQUAL OPPORTUNITY
+### ARTICLE 10 - EQUAL OPPORTUNITY
 
 Section 1.
 The Employer and the Union agree to continue their policies of not unlawfully
@@ -583,7 +583,7 @@ Agreement.
                                                                                             REV: 2015
 
 
-                           ARTICLE 11 - CLINICAL POLICY MATTERS
+### ARTICLE 11 - CLINICAL POLICY MATTERS
 
 Clinical staff physicians shall have responsibility and authority for policy in clinical matters
 in accordance with ORS 441.055. The parties agree issues involving physician caseload
@@ -616,7 +616,7 @@ determine the safety of treating a combative patient and defer treatment until s
 staff are available to safely treat the patient.
                                                                                         REV: 2015,2019
 
-                                  ARTICLE 12 - SALARIES
+### ARTICLE 12 - SALARIES
 
 Section 1. PERS PICKUP
 Effective February 1, 2019 compensation plan salary rates for PERS participating
@@ -769,7 +769,7 @@ COLA
 
 
 2023-2025 OHA Physicians                      15                         Collective Bargaining Agreement
-                               ARTICLE 13 - WORK SCHEDULES
+### ARTICLE 13 - WORK SCHEDULES
 
 Section 1. Flexible Schedules.
 If a physician works beyond the regular schedule to provide necessary client care, the
@@ -799,7 +799,7 @@ in that workweek.
                                                                                          REV: 2017
 
 
-                           ARTICLE 14 - PHYSICIAN ON DUTY/ON CALL
+### ARTICLE 14 - PHYSICIAN ON DUTY/ON CALL
 
 Section 1. On Call Eligibility
 All Physicians who are employed or under contract at the OSH shall be eligible to
@@ -897,7 +897,7 @@ safety break. If a safety break cannot be scheduled based on hospital needs, the
 physician will receive six (6) hours of compensatory time.
                                                                               REV: 2017, 2019, 2021,2023
 
-                                   ARTICLE 15 - BENEFITS
+### ARTICLE 15 - BENEFITS
 
 Section 1.
 An Employer contribution will be made for each eligible employee who has at least eighty
@@ -1202,7 +1202,7 @@ See LOA’s: PMAC
                                                                       REV: 2015, 2017, 2019, 2021,2023
 
 
-   ARTICLE 16 - TRAVEL, MILEAGE AND MOVING EXPENSE REIMBURSEMENT
+### ARTICLE 16 - TRAVEL, MILEAGE AND MOVING EXPENSE REIMBURSEMENT
 
 Section 1. Travel and Mileage Allowance.
 Reimbursements and procedures will be in accordance with Oregon Accounting Manual,
@@ -1214,7 +1214,7 @@ Reimbursements and procedures will be in accordance with Department of Administr
 Services, Chief Human Resource Office Policy 40.055.10, and its successors. Changes
 in this policy will be automatically incorporated into this contract Article.
 
-                             ARTICLE 17 - PERSONAL LEAVE
+### ARTICLE 17 - PERSONAL LEAVE
 
 At the completion of six (6) full calendar months of service, full-time employees shall be
 entitled to twenty-four (24) hours of personal leave with pay for each fiscal year (July 1
@@ -1224,7 +1224,7 @@ accumulate more than twenty-four (24) hours of personal leave nor is any unused 
 compensable in any other manner. Such leave may be taken at times mutually agreeable
 to the Institution and the employee.
 
-      ARTICLE 18 - RECOUPMENT OF WAGE AND BENEFIT OVERPAYMENTS/
+### ARTICLE 18 - RECOUPMENT OF WAGE AND BENEFIT OVERPAYMENTS/
                             UNDERPAYMENTS
 
 Section 1. Overpayments.
@@ -1289,7 +1289,7 @@ b.      This provision shall not apply to claims disputing eligibility for payme
                                                                                          REV: 2023
 
 
-                           ARTICLE 19 - TRAINING AND EDUCATION
+### ARTICLE 19 - TRAINING AND EDUCATION
 
 Section 1.
 The Agency recognizes the need and desirability of professional training for physicians.
@@ -1336,7 +1336,7 @@ allowance.
                                                                                 REV: 2015, 2017, 2021
 
 
-                              ARTICLE 20 - TRIAL SERVICE
+### ARTICLE 20 - TRIAL SERVICE
 
 Section 1.
 All new employees appointed to a position, and those employees promoted, or
@@ -1393,7 +1393,7 @@ d.      This Subsection applies to employees beginning their promotional trial s
                                                                                     REV: 2017,2023
 
 
-                           ARTICLE 21 - DISCIPLINE AND DISCHARGE
+### ARTICLE 21 - DISCIPLINE AND DISCHARGE
 
 Section 1.
 The principles of progressive discipline shall be used except when the nature of the
@@ -1467,7 +1467,7 @@ cause an undue delay.
                                                                                           REV: 2021
 
 
-                           ARTICLE 22 - GRIEVANCE PROCEDURE
+### ARTICLE 22 - GRIEVANCE PROCEDURE
 
 Section 1.
 A grievance shall be any disagreement or dispute which arises concerning the
@@ -1620,7 +1620,7 @@ i.      The award shall be in writing and signed by the arbitrator. If the arbit
                                                                               REV: 2015, 2019, 2021
 
 
-                           ARTICLE 23 - PERSONNEL RECORDS
+### ARTICLE 23 - PERSONNEL RECORDS
 
 Section 1.
 The Chief Human Resources Office human resource information system is the system of
@@ -1722,7 +1722,7 @@ subject employee.
                                                                                    REV: 2019, 2021
 
 
-                                 ARTICLE 24 - LAYOFF
+### ARTICLE 24 - LAYOFF
 
 Section 1. Alternative to Layoff
 a.    When the Agency believes that a lack of funds requires a layoff, the Agency will
@@ -1899,13 +1899,13 @@ process contained in the PECBA.
                                                                                                REV: 2015
 
 
-                                      ARTICLE 25 - POSTING
+### ARTICLE 25 - POSTING
 
 Any position which becomes open in the bargaining unit shall be publicized in each
 Agency.
 
 
-    ARTICLE 26 - IMPLEMENTATION OF NEW CLASSES—APPEALS PROCESS
+### ARTICLE 26 - IMPLEMENTATION OF NEW CLASSES—APPEALS PROCESS
 
 The appeals process is designed to allocate employees into new classes. Employees in
 positions allocated to a new classification, who dispute their placement within the new
@@ -1991,7 +1991,7 @@ d.      If the appeals committee cannot make a decision, the Union may request f
 f.      This process terminates upon completion of the allocation process.
 
 
-    ARTICLE 27 – INCLEMENT WEATHER/HAZARDOUS CONDITIONS LEAVE
+### ARTICLE 27 – INCLEMENT WEATHER/HAZARDOUS CONDITIONS LEAVE
 Section 1.
 a.    The Employer/Agency designated official(s) may close or curtail offices, facilities,
       or operations because of inclement weather/environmental, weather related or
@@ -2144,7 +2144,7 @@ and/or hazardous conditions.
                                                                                    REV: 2021,2023
 
 
-                           ARTICLE 28 - TERM OF AGREEMENT
+### ARTICLE 28 - TERM OF AGREEMENT
 
 Section 1.
 Unless otherwise noted in a specific article in the Agreement, this Agreement becomes
@@ -2163,7 +2163,7 @@ Negotiations for a successor agreement will start between February 15, 2025 and 
                                                                   REV: 2015, 2017, 2019, 2021,2023
 
 
-                           ARTICLE 29 – QUARTERLY CHECK-INS
+### ARTICLE 29 – QUARTERLY CHECK-INS
 
 a.      Supervisory managers shall conduct check-ins with their employees on a quarterly
         basis. If a quarterly check-in does not occur, the employee may request a check-
@@ -2177,7 +2177,7 @@ b.      Quarterly check-ins are not grievable and cannot be used for discipline.
                                                                                    REV: 2021,2023
 
 
-                            ARTICLE 30 – HEALTH AND SAFETY
+### ARTICLE 30 – HEALTH AND SAFETY
 
 Section 1.
 The Parties agree to maintain a safe work environment in accordance with the Oregon
@@ -2266,7 +2266,7 @@ g.      No employee shall be subject to retaliation for reporting or filing a co
                                                                                        REV: 2017,2023
 
 
-                    ARTICLE 31 – VOLUNTARY MEDICAL SEPARATION
+### ARTICLE 31 – VOLUNTARY MEDICAL SEPARATION
 
 Section 1.
 A regular status employee with a serious health condition who has exhausted all of their
@@ -2312,7 +2312,7 @@ g.      If the employee rejects a recall offer for their former work location, t
                                                                                           NEW: 2019
 
 
-                            ARTICLE 32 – EXIT INTERVIEWS
+### ARTICLE 32 – EXIT INTERVIEWS
 
 a.      If a regular status employee provides timely notice that they are voluntarily
         separating from Agency service, the Agency will offer an exit interview that focuses
@@ -2329,7 +2329,7 @@ c.      Upon request, but no more than two (2) times a year, the Union can recei
 
 
 
-          ARTICLE 33 – CRITICAL NEED DIFFERENTIAL AND PROCEDURES
+### ARTICLE 33 – CRITICAL NEED DIFFERENTIAL AND PROCEDURES
 
 In the event that a critical Physician vacancy extends beyond thirty (30) days and all
 reasonable efforts to fill the vacancy have failed, Oregon State Hospital will compensate
@@ -2383,7 +2383,7 @@ beyond 1.0 FTE.
                                                                                     REV: 2019, 2021,2023
 
 
-                                 ARTICLE 34 – AIR QUALITY
+### ARTICLE 34 – AIR QUALITY
 Section 1.
 The Air Quality Index (AQI) was developed by the US Environmental Protection Agency as an
 indicator of overall air quality and is based on the five (5) criteria pollutants regulated under the
@@ -2404,7 +2404,7 @@ Weather/Hazardous Conditions apply for elevated AQI which falls under a Hazardou
                                                                                                NEW: 2021
 
 
-                            ARTICLE 35 - WORKING REMOTELY
+### ARTICLE 35 - WORKING REMOTELY
 Section 1.
 Oregon state government encourages working remotely where it is a viable option that
 benefits both the employee and the agency. Use of remote work options promote the
@@ -2561,7 +2561,7 @@ These provisions are applicable to all Sections listed above.
                                                                                       NEW: 2021,2023
 
 
-                            ARTICLE 36 - PAID LEAVE OREGON
+### ARTICLE 36 - PAID LEAVE OREGON
 
 Paid Leave Oregon is administered by the Oregon Employment Department. The State
 of Oregon, as an employer, shall comply with the provisions of Paid Leave Oregon, as
@@ -2582,7 +2582,7 @@ existing contract language relating to FMLA/OFLA.
                                                                                        NEW: 2023
 
 
-                           ARTICLE 37 – WORK OUT OF CLASSIFCATION
+### ARTICLE 37 – WORK OUT OF CLASSIFCATION
 
 If applying work out-of-class would not result in additional compensation for an employee,
 the Agency will provide an additional differential to ensure the employee is receiving at
@@ -2595,7 +2595,7 @@ must document the reasons for the exceptions.
 
 
 2023-2025 OHA Physicians                    50                     Collective Bargaining Agreement
-LETTER OF AGREEMENT - ARTICLE 9, CONTRACTING OUT FEASIBILITY STUDY
+### LETTER OF AGREEMENT - ARTICLE 9, CONTRACTING OUT FEASIBILITY STUDY
 
 This Letter of Agreement is entered into between the State of Oregon Department of
 Administrative Services, on behalf of all State Agencies covered by the State of Oregon
@@ -2613,7 +2613,7 @@ This Agreement is effective through June 30, 2023.
 
 
 2023-2025 OHA Physicians                    51                       Collective Bargaining Agreement
-     LETTER OF AGREEMENT – ARTICLE 12 - SALARY AND BENEFIT REPORT
+### LETTER OF AGREEMENT – ARTICLE 12 - SALARY AND BENEFIT REPORT
 
 This Agreement is between the State of Oregon, acting through its Department of
 Administrative Services (DAS) and the AFSCME Local 75, (Union).
@@ -2633,7 +2633,7 @@ agreement.
 
 
 2023-2025 OHA Physicians                 52                      Collective Bargaining Agreement
-      LETTER OF AGREEMENT – ARTICLE 12 - SALARY RANGE TRUNCATION
+### LETTER OF AGREEMENT – ARTICLE 12 - SALARY RANGE TRUNCATION
 
 This Agreement is entered into between the State of Oregon, acting through its
 Department of Administrative Services (DAS), on behalf of the Agencies covered by this
@@ -2783,7 +2783,7 @@ Agreement (Agency) and the AFSCME Council 75 (Union).
 
 
 2023-2025 OHA Physicians                      55                       Collective Bargaining Agreement
-        LETTER OF AGREEMENT – ARTICLE 12 – ONE-TIME PAYMENT COLA
+### LETTER OF AGREEMENT – ARTICLE 12 – ONE-TIME PAYMENT COLA
 
 This Agreement is entered into between the State of Oregon, acting through its
 Department of Administrative Services (DAS), and the AFSCME Local 75 (Union).
@@ -2804,7 +2804,7 @@ This Letter of Agreement will sunset on June 30, 2025.
 
 
 2023-2025 OHA Physicians                     56                        Collective Bargaining Agreement
-        LETTER OF AGREEMENT – ARTICLE 15 - PEBB MEMBER ADVISORY
+### LETTER OF AGREEMENT – ARTICLE 15 - PEBB MEMBER ADVISORY
                               COMMITTEE
 
 This Agreement is between the State of Oregon, acting through its Department of
@@ -2852,7 +2852,7 @@ This Agreement will sunset on June 30, 2025.
 
 
 2023-2025 OHA Physicians                      57                     Collective Bargaining Agreement
-        LETTER OF AGREEMENT – NEW EMPLOYEE NOTICE/UNION ACCESS
+### LETTER OF AGREEMENT – NEW EMPLOYEE NOTICE/UNION ACCESS
 
     1. Notice
           a. The Employer shall provide the Union, in an editable digital file format, the
@@ -2894,7 +2894,7 @@ This Agreement will sunset on June 30, 2025.
 
 
 2023-2025 OHA Physicians                    58                      Collective Bargaining Agreement
-LETTER OF AGREEMENT – OREGON UNIONS STATE WORKER TRAINING FUND
+### LETTER OF AGREEMENT – OREGON UNIONS STATE WORKER TRAINING FUND
 
 The Parties recognize that both the State and its workers benefit from workers
 understanding their different health care options, understanding their retirement benefits
@@ -2936,7 +2936,7 @@ The State Worker Training Fund will develop a plan to deliver trainings and prog
     After a program is developed for the first three (3) stated goals, the Board of
       Trustees will discuss other programs that potentially meet goals identified by the
       State and the Unions.
-               LETTER OF AGREEMENT – CONTRACT SPECIALIST
+### LETTER OF AGREEMENT – CONTRACT SPECIALIST
 
 This Agreement is between the State of Oregon, acting through its Department of
 Administrative Services (Employer) on behalf of all Agencies covered under the
@@ -3059,7 +3059,7 @@ Term of Agreement:
 
 
 2023-2025 OHA Physicians                 62                      Collective Bargaining Agreement
-             LETTER OF AGREEMENT – ESSENTIAL WORKER INCLEMENT
+### LETTER OF AGREEMENT – ESSENTIAL WORKER INCLEMENT
                      WEATHER/HAZARDOUS CONDITIONS PAY
 
 This Agreement is between the State of Oregon, acting through its Department of
@@ -3086,7 +3086,7 @@ Essential Worker Inclement Weather/Hazardous Conditions Pay.
 
 
 2023-2025 OHA Physicians                   63                      Collective Bargaining Agreement
-                 LETTER OF AGREEMENT – NATURAL DISASTER LEAVE
+### LETTER OF AGREEMENT – NATURAL DISASTER LEAVE
 
 This Agreement is between the State of Oregon, acting through its Department of
 Administrative Services (Employer) and AFSCME Council 75 (Union).
@@ -3119,7 +3119,7 @@ agreement.
 
 
 2023-2025 OHA Physicians                      64                      Collective Bargaining Agreement
-   LETTER OF AGREEMENT – STATE POLICY 50.050.01 WORKING REMOTELY
+### LETTER OF AGREEMENT – STATE POLICY 50.050.01 WORKING REMOTELY
                              UPDATES
 
 This Letter of Agreement is between the State of Oregon, acting through its Department
@@ -3137,7 +3137,7 @@ This Agreement becomes effective on the date of the last signature below and end
 
 
 2023-2025 OHA Physicians                 65                      Collective Bargaining Agreement
-    LETTER OF AGREEMENT – CHILDCARE AND ELDERCARE EXPLORATORY
+### LETTER OF AGREEMENT – CHILDCARE AND ELDERCARE EXPLORATORY
                              COMMITTEE
 
 This Agreement is between the State of Oregon, acting through its Department of
@@ -3169,7 +3169,7 @@ contract. The committee will complete their work by January 31, 2025.
 
 
 2023-2025 OHA Physicians                    66                       Collective Bargaining Agreement
-                           LETTER OF AGREEMENT – PAY EQUITY
+### LETTER OF AGREEMENT – PAY EQUITY
 
 This Agreement is entered into by the State of Oregon, acting through its Department of
 Administrative Services, Labor Relations Unit (Employer), on behalf of the Agencies
@@ -3297,7 +3297,7 @@ The Parties agree to the following:
 
 
 2023-2025 OHA Physicians                      69                       Collective Bargaining Agreement
-             LETTER OF AGREEMENT—BI-WEEKLY PAY PERIOD/WORKDAY
+### LETTER OF AGREEMENT—BI-WEEKLY PAY PERIOD/WORKDAY
 
 This Letter of Agreement is between the State of Oregon, acting through its Department
 of Administrative Services (Employer), and the AFSCME Local 75 (Union).
@@ -3401,7 +3401,7 @@ Both parties retain their rights under PECBA.
 
 
 2023-2025 OHA Physicians                   72                      Collective Bargaining Agreement
-   LETTER OF AGREEMENT – LEADWORKER PSYCHIATRIC ADMITTING TEAM
+### LETTER OF AGREEMENT – LEADWORKER PSYCHIATRIC ADMITTING TEAM
 
 This Agreement is between the State of Oregon, acting through its Department of
 Administrative Services (Employer) on behalf of the Oregon State Hospital (Agency) and
@@ -3429,7 +3429,7 @@ from signing through October 31, 2024.
 
 
 2023-2025 OHA Physicians                    73                       Collective Bargaining Agreement
-                             APPENDIX A – COMPENSATION PLAN
+### APPENDIX A – COMPENSATION PLAN
 
                     CLASSIFICATION TITLE                  SALARY
                                                           RANGE

@@ -63,8 +63,8 @@ ARTICLE 15 - SETTLEMENT OF DISPUTES
 ARTICLE 16 - PROBATIONARY PERIOD ....0.0....
                                      eee eeeeeeseesenesereceeeeenee
 
-ARTICLE 17 - SENIORITY ...000.              eee     ee cseceeseseneesecaecenersererensatsenesnernenes 25
-ARTICLE 18 — LAYOFF oo. iccccccccecseeseseeseesesseseasscaseernestasseraeenseaeats 26
+### ARTICLE 17 - SENIORITY ...000.              eee     ee cseceeseseneesecaecenersererensatsenesnernenes 25
+### ARTICLE 18 — LAYOFF oo. iccccccccecseeseseeseesesseseasscaseernestasseraeenseaeats 26
 
 
 
@@ -85,7 +85,7 @@ Agreement is to set forth those matters pertaining to rates of pay, hours of wor
 matters pertaining to employment.
 
 
-                                           ARTICLE 1 - RECOGNITION
+### ARTICLE 1 - RECOGNITION
 
 
         Section 1.       The County recognizes the Union as the bargaining agent with respect to employment
@@ -133,7 +133,7 @@ Employment Relations Board. Should the matter not be submitted to the Employment
 the specified thirty (30) day period, the matter shall be considered resolved.
 
 
-                                            ARTICLE 2 — DEFINITIONS
+### ARTICLE 2 — DEFINITIONS
 
         “Days” is defined as calendar days unless otherwise specified herein.
 
@@ -225,7 +225,7 @@ thousand forty (1040) straight time hours in a calendar year.
 
 
                 Page 5 of 35                                                     FOPPO    2025 - 2027
-                                          ARTICLE 3- RIGHTS OF PARTIES
+### ARTICLE 3- RIGHTS OF PARTIES
 
         Section 1. Management Rights.         The County retains all customary and usual rights, prerogatives,
 
@@ -234,7 +234,7 @@ functions and authority connected with its responsibility to manage the affairs 
 that matters not specifically contained in the body of this Agreement are reserved as County rights.
 
 
-                               ARTICLE 4 - UNION SECURITY AND CHECK-OFF
+### ARTICLE 4 - UNION SECURITY AND CHECK-OFF
 
         Section 1. The County shall deduct Union dues from the wages of each employee who authorizes the
 
@@ -257,7 +257,7 @@ as a result of the County's enforcement of this Article.
 bargaining unit configuration that occurred during the preceding month.
 
 
-                                           ARTICLE 5 - HOURS OF WORK
+### ARTICLE 5 - HOURS OF WORK
 
         Section 1. Regular Hours.       The regular hours of work each day shall be consecutive except for
 
@@ -369,7 +369,7 @@ Academy.
 possible among Adult Parole Officers.
 
 
-                                            ARTICLE 6 - HOLIDAYS
+### ARTICLE 6 - HOLIDAYS
 
        Section 1. Holidays.   The following days shall be recognized and observed as paid holidays:
 
@@ -446,7 +446,7 @@ compensatory time in addition to his holiday pay.
                           eight (8) hour per day schedule), double time for all hours worked.
 
 
-                                                ARTICLE 7 - SICK LEAVE
+### ARTICLE 7 - SICK LEAVE
 
          Section 1. Accrual.      Employees shall accrue sick leave at the regular rates of pay, and at the rate of eight
 
@@ -520,7 +520,7 @@ employee may contribute more than forty (40) hours per year to any other employe
 more than two hundred forty (240) hours of contributed sick leave in any one calendar year.
 
 
-                                        ARTICLE 8 - VACATION LEAVE
+### ARTICLE 8 - VACATION LEAVE
 
          Section 1. Accrual. Employees shall accrue vacation leave at the rates provided on the following
 
@@ -630,7 +630,7 @@ or to his heirs. An employee who is terminated prior to the completion of six (6
 before the completion of such services, shall not be eligible for vacation pay.
 
 
-                                         ARTICLE 9 - OTHER LEAVES
+### ARTICLE 9 - OTHER LEAVES
 
        Section 1. Leave of Absence.     After an employee has exhausted all accrued paid leaves, a leave of
 
@@ -728,7 +728,7 @@ vacation and compensatory time during such leave consistent with the County Pers
 Leave in excess of that allowed by statute may be granted by the County.
 
 
-                                          ARTICLE 10 - SEVERANCE PAY
+### ARTICLE 10 - SEVERANCE PAY
 
         Section 1. Severance Pay. Any employee who has completed one (1) full year of service with the
 
@@ -754,7 +754,7 @@ any and all claims or liability that might have otherwise arisen out of the empl
 
 
                Page 15 of 35                                                    FOPPO   2025 - 2027
-                                ARTICLE 11 - HEALTH & LIFE INSURANCE
+### ARTICLE 11 - HEALTH & LIFE INSURANCE
 
 
        Section 1. Subject to the reopener set forth below, throughout the term of this Agreement the County
@@ -824,7 +824,7 @@ indemnity, long-term disability and life insurance consistent with levels provid
 Agreement.
 
 
-                                             ARTICLE 12 - WAGES
+### ARTICLE 12 - WAGES
 
          Section 1. Wages. Effective and retroactive to July 1, 2025 all employee wages shall be increased by ten
 
@@ -952,7 +952,7 @@ three (3%) (for a total of 12%) salary increase on their base wage at the end of
         Once a longevity increase has been earned it shall not be withdrawn, except for termination or retirement.
 
 
-                                             ARTICLE 13 - RETIREMENT
+### ARTICLE 13 - RETIREMENT
 
         Section 1. PERS.        The County shall participate in the Public Employees Retirement System.   Benefits
 
@@ -971,7 +971,7 @@ by statute to be certified, and have earned such designation from the State of O
 County shall pick up the six percent (6%) employee contribution to PERS or OPSERP whichever is appropriate.
 
 
-                                ARTICLE 14 - DISCIPLINE AND DISCHARGE
+### ARTICLE 14 - DISCIPLINE AND DISCHARGE
 
 
         Section 1. Discipline. The County shall not discipline an employee without just cause. For the purposes
@@ -1089,7 +1089,7 @@ accordance with the following guidelines, including, but not limited to:
                 severity of the act.
 
 
-                                  ARTICLE 15 - SETTLEMENT OF DISPUTES
+### ARTICLE 15 - SETTLEMENT OF DISPUTES
 
        Section 1. Grievance and Arbitration Procedure. The grievance and arbitration procedure shall be limited
 
@@ -1207,7 +1207,7 @@ this section will limit or prohibit an employee from employing legal counsel of 
 own expense.
 
 
-                                     ARTICLE 16 - PROBATIONARY PERIOD
+### ARTICLE 16 - PROBATIONARY PERIOD
 
 
            Section 1. An Elected Official or Department Head at their discretion may remove a new employee
@@ -1236,7 +1236,7 @@ demoted to the position held immediately before promotion if their performance d
 completed their initial probationary period.
 
 
-                                                ARTICLE 17 - SENIORITY
+### ARTICLE 17 - SENIORITY
 
           Section 1. The County and the Union mutually recognize the need to provide for the advancement and
 
@@ -1291,7 +1291,7 @@ or more Adult Parole Officers shall apply for the same vacation time on the same
 shali prevail.
 
 
-                                             ARTICLE 18 — LAYOFF
+### ARTICLE 18 — LAYOFF
 
 
         Section 1. Notice. If the County determines the need for a reduction in its work force, notice of not less
@@ -1354,7 +1354,7 @@ spent on layoff status shall be considered for the purposes of the agreement the
 
 
 
-                                         ARTICLE 19- DISCRIMINATION
+### ARTICLE 19- DISCRIMINATION
 
 
         Section 1. No Discrimination. The County and the Union agree that equal opportunity in employment,
@@ -1380,7 +1380,7 @@ individuals with disabilities.
 used it shall be construed to include male and female employees.
 
 
-                                        ARTICLE 20 - UNION BUSINESS
+### ARTICLE 20 - UNION BUSINESS
 
 
         Section 1. County-Union Meetings. The County shall meet with the Union at mutually convenient times
@@ -1430,7 +1430,7 @@ of the Union, and there shall be no discrimination, interference, restraint, or 
 County representative against any employee because of the lawful Union activities.
 
 
-                                     ARTICLE 21 - EXISTING CONDITIONS
+### ARTICLE 21 - EXISTING CONDITIONS
 
 
         Section 1. All existing employment relations as defined in O.R.S. 243.650 (7) and interpreted by the
@@ -1453,7 +1453,7 @@ part of this agreement.
 affecting the bargaining unit.
 
 
-                                                ARTICLE 22 - SAFETY
+### ARTICLE 22 - SAFETY
 
 
         Section 1. Safety. Adequate safe equipment shall be provided for all employees. No employee shall be
@@ -1503,7 +1503,7 @@ clothing, or any type of protective device, such protective clothing or protecti
 employee by the County.
 
 
-                                 ARTICLE 23 - WORKERS’ COMPENSATION
+### ARTICLE 23 - WORKERS’ COMPENSATION
 
           Section 1. Insured Personnel.   All County employees will be insured under the provisions of state law for
 
@@ -1548,7 +1548,7 @@ result of their employment with the County and receiving Workers’ Compensation
 
 
                  Page 30 of 35                                                   FOPPO   2025 - 2027
-                                      ARTICLE 24 - PERSONNEL RECORDS
+### ARTICLE 24 - PERSONNEL RECORDS
 
         Section 1. Files. There shall be only one (1) official personnel file for each employee and that file shall
 
@@ -1595,7 +1595,7 @@ other material that is job related.
 
 
                   Page 31 of 35                                                FOPPO    2025 - 2027
-                               ARTICLE 25 — REQUESTS FOR INFORMATION
+### ARTICLE 25 — REQUESTS FOR INFORMATION
 
         Section 1. Parties agree to make best efforts to informally discuss requests for information prior to formal
 
@@ -1659,7 +1659,7 @@ patties agree to use the grievance process as the sole remedial action to resolv
 
 
 
-                                       ARTICLE 26 - SAVINGS CLAUSE
+### ARTICLE 26 - SAVINGS CLAUSE
 
        Should any article, section, or portion thereof of this Agreement be held unlawful or unenforceable by an
 
@@ -1682,7 +1682,7 @@ agreed to without such other parts and the remaining provisions which, standing 
 incapable of being executed in accordance with the intent of this Agreement.
 
 
-                                          ARTICLE 27 - TERMINATION                               7]
+### ARTICLE 27 - TERMINATION                               7]
 
        THIS AGREEMENT shall be effective on July 1, 2025 and shall remain in full force and effect until June
 

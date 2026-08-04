@@ -19,10 +19,9 @@ retrieved: '2026-08-02'
 source_sha256: 153e0c1355777ae35a1b9858cc7cddff759b3e33ffc8f8115a92ee4569e06e68
 snapshot_policy: hash-only
 status: current
-content_mode: summary
+content_mode: 'verbatim'
 text_source: ocr
-reproduction_basis: 'jointly-authored contract; summary + official link per the class determination
-  in corpus.yml schema.doc_types (verbatim: false)'
+reproduction_basis: 'public record of a public body (ORS 192.311-192.478); the employer publishes the executed agreement in full at source_url; a ratified agreement is an official act (Georgia v. Public.Resource.Org, 590 U.S. 255 (2020)) — mirrored in full per the class determination in corpus.yml schema.doc_types (verbatim: true)'
 conversion_notes: no text layer in the source PDF; text recovered by OCR. Two independent
   engines (tesseract (ocrmypdf) + paddleocr PP-OCRv6) agree on 95% of the word sequence and
   64% of the 439 figures, 96% dictionary-recognizable; 11 heading/letterhead token(s) lost
@@ -43,8 +42,8 @@ tags:
 - coos-county
 ---
 
-> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated
-> summary, not the agreement's official text. Verify against the official
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a non-authoritative
+> mirror of the agreement's text, not the official record. Verify against the official
 > source: <https://co.coos.or.us/files/3ed43907f/prosecuting%5Fattorneys%5Fcba%5F2024-2027.pdf> (retrieved 2026-08-02).
 
 # Coos County — Prosecuting Attorneys CBA 2024-2027
@@ -58,10 +57,6 @@ Collective bargaining agreement between **Coos County** and **Prosecuting** — 
 - Source document: 26 pages (PDF)
 - **The source is an image-only scan.** Its committed text is a machine reading corroborated by two independent OCR engines (95% word-sequence agreement — see conversion_notes). Dates and terms above come from that reading; statute citations are deliberately not extracted, because digits are where engines diverge.
 
-This corpus is **summary-first for agreements**: the contract's text is not
-reproduced here (see Curator notes), and nothing on this page states or
-paraphrases the agreement's terms. Read the agreement itself at the official
-source link above.
 
 ## Curator notes
 
@@ -79,3 +74,1122 @@ Statutes and rules the document's text cites are recorded in frontmatter
 `relationships.references_external` (0 citation(s)) and resolve into
 `executive-regulatory-frameworks` as cites — this corpus asserts no
 `implements` edge anywhere.
+
+## Full text
+
+                             AGREEMENT BETWEEN
+
+
+
+
+                                  COOS COUNTY
+
+
+
+
+                                      and the
+
+
+
+
+           COOS COUNTY PROSECUTING ATTORNEYS ASSOCIATION
+
+
+
+
+                        July 1, 2024, through June 30, 2027
+
+
+
+
+DA Contract — 2024 - 2027
+Table of Contents
+ARTICLE 1 PREAMBLE ......... ccc           eee tere tsecatenenenesseessenersersaesentes 3
+
+ARTICLE 2 RECOGNITION ...o.... cee cee eee een nee e ees eeeseeeneeeeneeneaes 3
+
+ARTICLE 3 ASSOCIATION SECURITY AND CHECKOFF..........0.008 3
+
+ARTICLE 4 RIGHTS OF PARTIES .....ccccccecereereeerseteeeteersaeeseenseees 4
+
+ARTICLE 5 DEFINITIONS ooo                   ener ererereterecscesseanerenieenseates 5
+
+ARTICLE 6 HOLIDAYS...            cece cee eens rene nrentneeesieeeseneseseetsnetenes 7
+
+ARTICLE 7 LEAVES OF ABSENCE... cccccccecereetenersrenssensensereaesens 8
+
+ARTICLE 8 BAR DUES AND CONTINUING LEGAL EDUCATION........ 14
+
+ARTICLE 9 WORKERS’ COMPENSATION oo... ecscecssetsesreesreseeees 16
+
+ARTICLE 10 SEVERANCE PAY ........cecccceeee csenesesseetsesssnesteceeceereenes 17
+
+ARTICLE 11 WAGES 000...         cece ceesceteetsenenereeseersserateneerssenesenssaeeaneees 17
+
+ARTICLE 12 HEALTH AND LIFE INSURANCE .....                       ccc            eenteneeeees 19
+
+ARTICLE 13 DEFERRED COMPENSATION ....0.0. ce ecscetteseteeteeereeees 21
+
+ARTICLE 14 RETIREMENT PLANS... eect
+                                  eet tecee ee tenennesenes 21
+
+ARTICLE 15 SAVINGS CLAUSE ooo...                  cece           ree ee ieeeeeernteneeeiees 21
+
+ARTICLE 16 TERMINATION ....00.0...0 ieee eee reer eeeteeeeer teense reeeneeaees 22
+
+
+
+
+DA Contract ~ 2024 - 2027
+                                  ARTICLE    1 PREAMBLE
+
+              This Agreement is entered into by Coos County, a political subdivision of
+
+the State of Oregon, and the Coos County District Attorney, hereinafter jointly referred
+
+to as the County, and The Coos County Prosecuting Attorneys Association, hereinafter
+
+referred to as the Association from July 1, 2024 through June 30, 2027.
+
+              The purpose of this Agreement is to set forth those matters pertaining to
+
+compensation and working conditions subject to limitations of ORS 8.610 to 8.850 as is
+
+consistent with the County’s objective of providing services to the public of Coos
+
+County.
+
+                                ARTICLE 2 RECOGNITION
+
+              The County recognizes the Association as the sole and exclusive
+
+bargaining representative for the purpose of establishing compensation and working
+
+conditions subject to limitations of ORS 8.610 to 8.850 for the regular full time and
+
+regular part time classifications of Deputy District Attorney | and Deputy District Attorney
+
+IL of Coos County, excluding ail other classifications.
+
+               ARTICLE 3 ASSOCIATION SECURITY AND CHECKOFF
+
+              Section 3.1 Fair Share.   The County recognizes the Association as the
+
+sole and exclusive bargaining representative for the purpose of establishing
+
+compensation and working conditions subject to limitations of ORS 8.610 to 8.850 for
+
+the regular full time and regular part time classifications of Deputy District Attorney | and
+
+Deputy District Attorney Il of Coos County, excluding all other classifications.
+
+              Employees terminating with less than ten (10) working days in any
+
+calendar month shall not be subject to dues deduction.
+
+
+
+DA Contract — 2024 - 2027
+              Section 3.2 Checkoff.     Each employee who, thirty (30) days after date of
+
+hire or any date thereafter is a regular employee of the County and a member of the
+
+bargaining unit which the Association serves as a certified agent but who is not a
+
+member and chooses to remain not a member of the Association, and inasmuch as it is
+
+required that the Association represents every employee within the bargaining unit,
+
+making each employee thus a recipient of the Association’s services, it is mutually
+
+agreed and recognized by the parties that each employee shall proportionately and
+
+fairly share in the cost of the collective bargaining process.   Therefore, the cost per
+
+employee is fixed proportionately at the amount of dues uniformly required by each
+
+member of the Association, which amount shall be deducted monthly from each
+
+Association member and each non-Association member’s compensation and remitted
+
+monthly in the aggregate to the Treasurer of the Association.
+
+              Section 3.3 Adjustments and indemnification.       Such uniform amounts as
+
+the Association Treasurer certifies to the County as the monthly dues approved by the
+
+members of the Association shall remain as the reasonable amount to be deducted
+
+hereunder.   The County shall not be held liable for checkoff errors, but shall make
+
+proper adjustments to the Association for errors as soon as is practicable after the error
+
+is brought to the County's attention.
+
+                            ARTICLE 4 RIGHTS OF PARTIES
+
+              Section 1. Obligation of the Parties.    Both parties agree not to act in an
+
+arbitrary or capricious manner in the application and interpretation of the terms of this
+
+Agreement.
+
+
+
+
+DA Contract — 2024 - 2027
+                Section 2. Management Rights. The County and the District Attorney
+
+shall retain the exclusive right to exercise the customary functions of management.
+
+                Section 3. Employee Rights.      Employees shall have the right to form, join
+
+and participate in the activities of employee organizations of their own choosing, for the
+
+purpose of representation on matters of employee relations.        Employees shall also have
+
+the right to refuse to join to participate in the activities of any employee organization.
+
+No employee shall be interfered with, intimidated, restrained, coerced, or discriminated
+
+against by the County or by any employee organization because of his/her exercise of
+
+these rights.
+
+                The provisions of this Agreement shall be applied equally to all employees
+
+in the bargaining unit without discrimination as to age, marital status, race, color, sex,
+
+sexual orientation, religion, national origin, disability, or any other status protected by
+
+County policy or law. The Association shall share responsibility equaily with the County
+
+for applying the provisions of this Agreement.      The parties agree that the labor
+
+agreement will not serve to restrict the County’s obligation to comply with federal and
+
+state law conceming its duty to reasonably accommodate individuals with disabilities.
+
+                All references to employees or officers in this Agreement designate both
+
+sexes, and wherever the male gender is used, it shall be construed to include male and
+
+female employees.
+
+                                  ARTICLE 5 DEFINITIONS
+
+       “Employee” means any attorney employed by the County who fills a position in
+
+one of the classifications listed in the article of recognition.
+
+
+
+
+DA Contract — 2024 - 2027
+        “Family member” is defined as husband, wife, same-sex domestic partner, son,
+
+daughter, mother, father, brother, sister, brother-in-law, sister-in-law, daughter-in-law,
+
+son-in-law, father-in-law, mother-in-law, grandparent, grandchild, uncle, aunt, nephew,
+
+niece, stepparent or stepchild of an employee, uniess otherwise provided by law.
+
+Legally adoptive or foster parents or children of the employee are included in the
+                           tt               yt,
+definitions of “father,”        “mother,”         “son,” and “daughter.”
+
+        “Probationary employee” is defined as an employee who, when initially hired,
+
+served a probationary period consisting of six (6) months following the date of hire by
+
+the County.
+
+        “Probationary period” is defined as the period of time lasting six (6) months from
+
+the date of hire of an employee by the County.
+
+        “Promotional employee” is defined as a regular full-time or part-time employee
+
+who, following a promotion, receives an increase in compensation.                     Promotional
+
+employees shall not be eligible for a merit step increase until one year from the date of
+
+promotion, and thereafter upon completion of each successive twelve (12) months of
+
+continuous service until the employee reaches Step 12.                     Merit increases are not
+
+automatic, and are contingent upon satisfactory job performance as determined by the
+
+District Attorney in his sole discretion.
+
+
+        “Reclassified employee” is defined as a regular full-time or part-time employee
+
+who is reclassified from one position to another position without an increase in
+
+compensation.       Reclassified employees are not subject to promotional probationary
+
+status and their anniversary date for merit step increases shall not be affected by
+
+reclassification.
+
+
+DA Contract — 2024 - 2027
+                                   ARTICLE 6 HOLIDAYS
+
+               Section 1. Holidays.   The following days shall be recognized and
+
+observed as paid holidays:
+
+A)   NEW YEAR'S DAY                         F) LABOR DAY
+
+B) MARTIN LUTHER KING JR. DAY               G) VETERANS’ DAY
+
+C)   PRESIDENTS’ DAY                        H) THANKSGIVING DAY
+
+D) MEMORIAL DAY                              1!)   DAY AFTER THANKSGIVING DAY
+
+E) INDEPENDENCE DAY                         J) CHRISTMAS DAY
+
+                                            K) TWO FLOATING HOLIDAYS
+
+               The two floating holidays must be taken each fiscal year and will not be
+
+cumulative.   Employees shall be eligible for the floating holidays following completion of
+
+the probationary period.    Regular full-time employees will be paid for eight (8) hours of
+
+holiday pay for each of the holidays listed in Section 1 at their regular rate of pay. In
+
+order to be eligible for holiday pay, an employee must have worked or been on paid
+
+leave no less than eighty (80) hours in the calendar month of the holiday.     Employees
+
+with fifteen (15) years of service with the County shall be eligible for one (1) additional
+
+floating holiday which must be taken each fiscal year and will not be cumulative.      The
+
+department and the employee shall schedule a mutually convenient time for observation
+
+of the floating holidays.
+
+               Paid holidays the Governor declares for the purpose of State or National
+
+celebration or mourning.
+
+
+
+
+DA Contract — 2024 - 2027
+              Section 2. Holiday During Leave.      Should an employee be on authorized
+
+sick leave or vacation when a holiday occurs, the holiday shall not be charged against
+
+such leave or vacation.
+
+                             ARTICLE 7 LEAVES OF ABSENCE
+
+              Section 1.0    Sick Leave.   Accrual and use of sick time shall be as follows:
+
+              Section 1.1. Accrual.    Employees shalt accrue sick leave at the regular
+
+rates of pay, and at the rate of eight (8) hours per month for each month in which he or
+
+she works and/or is on paid leave for 80 hours or more.      Sick leave shall be prorated for
+
+regular part time employees, or as otherwise required by law.      Employees shail accrue
+
+sick leave when on paid leave, provided that the employee returns to work at the end of
+
+such leave.   Sick leave shall not be accrued during an unpaid leave of absence.
+
+Charges against accrued sick leave shall be made in one-quarter hour (15 minute)
+
+increments.
+
+              Section 1.2.   Maximum Accrual and Payment.        An employee may
+
+accumulate an unlimited amount of sick leave.      Upon termination of the employee for
+
+any reason, (excluding punitive dismissal), or death and the employee has completed
+
+one (1) continuous year of service with the County, twenty-five (25) percent of up to
+
+nine hundred-sixty hours (960) of accumulated unused sick leave shall be paid to the
+
+employee at the employee's current salary rate. Any remaining accumulated sick leave
+
+balance shall be reported to PERS if applicable.
+
+              Section 1.3. Scope.     Sick leave may be used when an employee is ill or
+
+injured, for medical or dental checkups, or when an employee's family member is ill or
+
+injured, or for any other reason permitted under ORS 653.601 et seq. (i.e. “Oregon's
+
+
+
+DA Contract — 2024 - 2027
+Sick Time Law’).   Sick leave may be authorized when other relatives, not covered under
+
+the foregoing, are seriously ill or injured if, on a case by case basis and in the sole
+
+discretion of the County, the County finds that authorization of such leave is appropriate
+
+and consistent with the needs of the District Attorney’s office.
+
+              Section 1.4.   Utilization.    Regular employees are eligible for use of
+
+accrued sick leave upon completion of one (1) month of employment.            An employee
+
+requiring use of his sick leave shail give notice to his supervisor or department head at
+
+the first available time, including in such notice a summary description of the difficulty
+
+(Le., such as flu or a cold, etc.) and a prediction of the amount of leave it is anticipated
+
+is necessary for recuperation or otherwise. An employee may be required to furnish
+
+satisfactory evidence of illness, consistent with state and federal law.
+
+              Section 1.5. Transfer of Sick Leave.         Employees who have exhausted
+
+their sick and vacation leave benefits may request sick leave from other County
+
+employees if they require extended time off for illness or injury. Employees who have
+
+not completed one continuous year of service are not eligible for transfer of sick leave.
+
+       Contributions of sick leave shall be limited as follows: Only employees who have
+
+accumulated more than two hundred forty (240) hours of sick leave may make
+
+contributions, and no employee may contribute more than forty (40) hours per year to
+
+any other employee(s). No employee can receive more than two hundred forty (240)
+
+hours of contributed sick leave in any one calendar year.
+
+              Section 2.0 Vacation.         Accrual and use of vacation time shall as follows:
+
+
+
+
+DA Contract — 2024 - 2027
+             Section 2.1     Accrual.   In order to be eligible for vacation accrual, an
+
+employee must have worked or been on paid leave no less than eighty (80) hours in the
+
+month. Vacation shall be prorated for part-time employees.
+
+             Employees shall accrue vacation leave at the rates provided in the
+
+      following schedule of continuous service:
+
+                    (a)       Less than five (5) continuous full years of service, eight (8)
+
+                    hours paid vacation leave for each month of service cumulative to a
+
+                    maximum of one hundred ninety-two (192) hours. Probationary
+
+                    employees shail not accrue vacation leave, but after completion of
+
+                    probation, an employee’s vacation leave bank will be credited with
+
+                    forty-eight (48) hours vacation.
+
+                    (b)       Five (5) continuous years, but less than ten (10) continuous
+
+                    years of service, ten (10) hours for each month of service
+
+                    cumulative to maximum of two-hundred forty (240) hours.
+
+                    (c)    | Ten (10) continuous years, but less than fifteen (15)
+
+                    continuous years of service, twelve (12) hours for each month of
+
+                    service cumulative to a maximum of two-hundred eighty-eight (288)
+
+                    hours.
+
+                    (d)       Fifteen (15) or more continuous years of service, but less
+
+                    than twenty (20) continuous years of service, fourteen (14) hours
+
+                    for each month of service, cumulative to a maximum of three
+
+                    hundred thirty-six (336) hours.
+
+
+
+
+DA Contract — 2024 - 2027
+                                             -10
+                       (e)     Twenty (20) continuous years or more, sixteen (16) hours
+
+                       paid vacation leave for each month of service, cumulative to a
+
+                       maximum of three hundred eighty-four (384) hours.
+
+               Employees shail not accumulate vacation days in excess of the amounts
+
+        indicated in paragraphs a, b, c, d and e. Whenever it appears that an employee
+
+        will lose vacation credit because of accrual limitations, the employee and
+
+        department head shall arrange for a mutually convenient time for vacation time to
+
+        be taken prior to the time that such vacation time would be lost.
+
+               Vacation time exceeding the maximum amount to be accrued shall be
+
+        allowed only upon approval by the Department Head and when operational
+
+        requirements within the department prevent the employee from taking vacation to
+
+        keep his/her balance below the maximum. Vacation time that is allowed to be
+
+        accumulated in excess of the cap shall be taken at a mutually agreeable time
+
+        within the month following the time it is earned.
+
+               Section 2.2.    Vacation Accrual During Leave and After Layoff.     All
+
+authorized leave taken as a part of the employee's continuous service shall be counted
+
+for the purpose of determining the employee's accrual rate. The employee shall accrue
+
+vacation leave when on paid leave, provided that the employee returns to work at the
+
+end of such leave.   Prior service of employees returning from lay off status shail be
+
+counted for the purpose of determining the employee's accrual rate, but the time during
+
+layoff shall not be counted.
+
+               Section 2.3.    Termination or Death.   In the event of the termination of an
+
+employee for any reason, including death, all accumulated vacation shall be paid to the
+
+
+
+ DA Contract ~ 2024 - 2027
+                                             -11
+employee at the employee's current salary rate. An employee who is terminated for any
+
+reason, including his death, prior to the completion of one year of continuous service,
+
+shall not be eligible for vacation pay.
+
+                  Section 2.4. Vacation Buy-Back.    April 1 of each year an employee may
+
+choose to forfeit up to 40 hours of vacation in lieu of cash payment for the forfeited
+
+vacation hours.     Payment for the forfeited vacation hours shall be computed as follows:
+
+For each (2) hours forfeited the employee shall receive one (1) hour pay at their regular
+
+hourly rate of pay. An Employee’s hourly rate of pay shall be calculated by dividing their
+
+monthly salary by 173.33.
+
+                  Section 3. Bereavement Leave.      Bereavement leave shall be granted as
+
+ required by Oregon Revised Statutes. In addition, in the event of a death of an
+
+employee’s family member, an employee shall be entitled to three (3) paid working days
+
+of compassionate leave to be used concurrently with leave required under Oregon
+
+ Revised Statutes.     Such paid leave shall extend to five (5) working days if the death
+
+occurs outside the State of Oregon and the employee does in fact travel outside the
+
+State of Oregon.      it shall be the responsibility of the employee to notify supervisors or
+
+department heads of the pending leave and its approximate duration.           Other paid leave
+
+ may be used to supplement the paid leave authorized by this Section upon approval of
+
+the supervisor or department head.
+
+                  Section 4. Family and Medical Leave.     Family and medical leave of
+
+absence shall be as required by relevant state and federal statutes and County
+
+ Personnel Policies and Procedures.       Leave in excess of that allowed by statute may be
+
+granted by the County on a case-by-case basis.
+
+
+
+ DA Contract -— 2024 - 2027
+                                              -12
+              Section 5. Association Activities.
+
+              Section 5.1. Association Meetings.   Starting on July 1 of each year, the
+
+County shall provide up to a total of ten (10) hours per year, per employee during work
+
+hours for the Association to meet related to Association business.    Employees shall not
+
+be allowed to “bank” hours; if an employee fails to use all ten (10) hours in a given year,
+
+any unused hours shall go away on June 30 of each year, and the employee shall
+
+accrue a new ten (10) hours on July 1. Time spent meeting outside of scheduled hours
+
+shall not be counted against the ten (10) hours allotted to Association members.      The
+
+Association members shail be compensated when meeting during work hours, but shall
+
+not receive compensation for time spent meeting outside their scheduled shift.     The
+
+Association shall establish the date, time, and place for such meetings by mutual
+
+agreement between the Association and the District Attorney.
+
+              Section 5.2. Contract Negotiations. Two negotiating representatives of the
+
+Association shall be allowed time away during their duty hours to attend negotiations on
+
+duty without loss of pay subject to the bargaining team’s primary responsibility to
+
+respond to necessary service requirements during bargaining.      Association members
+
+shall not receive compensation for time spent negotiating outside their scheduled shift.
+
+The date, time, and place for negotiating sessions shall be established by mutual
+
+agreement with the intent to reasonably avoid or minimize paid time for the
+
+Association’s negotiating team.
+
+              Section 6. Jury Duty; Miscellaneous Duties. An employee shail be
+
+granted a leave of absence with pay for:
+
+
+
+
+DA Contract — 2024 - 2027
+                                           -13
+       (a)     Service on one (1) jury term in any consecutive twenty-four (24) calendar
+
+month period, provided that the salary paid to the employee for the period of absence
+
+shall be reduced by the amount of money received as statutory juror's fees, not
+
+including amounts received as expenses which are authorized by statute.         For any
+
+period during the term of the jury when the Employee has been excused by the court
+
+from service as a juror, the Employee will report immediately to his or her immediate
+
+supervisor and shall be considered available for working during that period.
+
+       (b)     Attendance in court in connection with an employee's officially assigned
+
+duties, including the time going to the court and returning to his headquarters; provided
+
+that the salary paid to him shall be reduced by an amount equal to any compensation
+
+he may receive as statutory or expert witness fees not including amounts received as
+
+expenses which are authorized by statute.
+
+               (c)    Other authorized duties in connection with County business.
+
+               Section 7. District Attorney Authorized to Adjust Work Hours.     In
+
+recognition of the particular nature of the work of the Department of the District
+
+Attorney, the District Attorney or the District Attorney's authorized designee may adjust
+
+or modify the established work schedule of Association employees to meet the
+
+particular operating requirements of the Department of the District Attorney.         In setting
+
+the work schedule, the District Attorney may consider the particular needs of individual
+
+employees.
+
+             ARTICLE 8 BAR DUES AND CONTINUING LEGAL EDUCATION
+
+               The parties agree that the regular annual Oregon State Bar dues of all
+
+members of the Association shall be paid by the County.     The parties also agree that
+
+
+
+DA Contract — 2024 - 2027
+                                          -14
+the County will pay all necessary expenses for each member of the Association to
+
+obtain Continuing Legal Education (CLE) credits sufficient to meet Oregon State Bar
+
+requirements.        Notwithstanding the foregoing, if the County or District Attorney offer to
+
+pay all necessary expenses for a particular CLE class for a particular member of the
+
+Association and such member declines to attend said CLE, the County and District
+
+Attorney will consider if training funds are available in the District Attorney's budget to
+
+send that member to a different Oregon criminal prosecution CLE in the same calendar
+
+year.   If funds are not available, or another Oregon criminal prosecution CLE is not
+
+available before the end of the calendar year, that member is responsible at the
+
+members’ expense to obtain any CLE hours during that same calendar year.               Declining
+
+to attend a particular CLE class for a particular member in one calendar year shall in no
+
+way disqualify the member from attending future trainings at the County and District
+
+Attorney's expense in subsequent calendar years; provided however, the District
+
+Attorney shall have the absolute discretion to consider an Association member’s
+
+position in their then-current reporting period and remaining required CLE hours when
+
+offering such future trainings. The County’s payment made pursuant to this Section is
+
+made in recognition that:
+
+                1)        Bar membership is a condition of employment for all employees in
+
+                          the bargaining unit.
+
+                2)        Employees are prohibited by statute from practicing law except as
+
+                          Deputy District Attorneys.
+
+
+
+
+DA Contract — 2024 - 2027
+                                                 -15
+              3) The Oregon State Bar imposes certain minimum CLE credit
+
+                  requirements in order to remain an active member of the Oregon State
+
+                  Bar.
+
+              4) Continuing education made available to Deputy District Attorneys
+
+                  allows prosecutors to stay current with the law, and acquire new skills
+
+                  and techniques to better investigate and prosecute a wide variety of
+
+                  cases.
+
+                         ARTICLE 9 WORKERS’ COMPENSATION
+
+              Section 1. Insured Personnel.     All County employees will be insured
+
+under the provisions of the Oregon State Workers’ Compensation Act for injuries
+
+received while at work for the County.
+
+              Section 2.   Supplemental Payment.      The County shall supplement the
+
+amount received by the employee from the State Workers’ Compensation for on-the-job
+
+injuries in an amount to insure the injured employee one hundred (100%) percent of
+
+his/her monthly net take home pay up to a period of six (6) months.
+
+              Section 3. Continued Coverage.       The County shall maintain insurance to
+
+cover employees in the bargaining unit for long-term disabilities.    Such insurance shall
+
+supplement Workers’ Compensation or Social Security for a period of five (5) years
+
+beginning after the first six (6) months of disability at a rate of sixty (60%) percent of
+
+base monthly pay.
+
+              Section 4. On-the-Job injury.     Employees off work due to an on-the-job
+
+injury and receiving Workers’ Compensation time loss benefits shall:
+
+
+
+
+DA Contract — 2024 - 2027
+Continue to accrue seniority while off work from the beginning of the leave due to the
+
+on-the-job injury; Continue to receive the “normal” County-paid portion of insurance
+
+premiums for six (6) months from the beginning of the leave due to the on-the-job injury.
+
+                              ARTICLE 10 SEVERANCE PAY
+
+              Any employee who has completed one (1) full year of service with the
+
+County, and who shall be laid off, as a result of causes other than punitive dismissal,
+
+retirement, or resignation, shall receive one of the following:
+
+              a)      Two (2) weeks’ notice and one (1) full week of pay.
+
+                      or,
+
+              b)      In the event that the employee is not given two (2) weeks’ notice,
+
+                      he/she shall receive two (2) full weeks’ pay.
+
+              Such severance pay shall be in addition to any other accrued pay to which
+
+the employee is entitled.
+
+                                    ARTICLE 11 WAGES
+
+              Section 1. Wages.
+
+              (1) The salary schedule for bargaining unit positions shall be as set forth in
+
+                   Attachments A, B and C to reflect the following:
+
+                   Effective July 1, 2024, no increase in wages.
+
+              (2) Effective July 1, 2025, all steps shall receive a 1.5 percent COLA/
+
+                   contract increase.
+
+              (3) Effective July 1, 2026, all steps shall receive a 1.5 percent COLA /
+
+                   contract increase.
+
+
+
+
+DA Contract — 2024 - 2027
+                                           -17
+                Section 2. Merit Increases.   Upon completion of the initial probationary
+
+period, an employee shall be eligible for a merit raise to the next higher step in the
+
+salary range.    Thereafter upon completing of each successive twelve (12) months of
+
+continuous service, an employee shall be eligibie to receive an additional merit step
+
+raise to the next higher step in the salary range, until the employee reaches Step 12.
+
+Merit increases are not automatic, and are contingent upon satisfactory job performance
+
+as determined by the District Attorney in his sole discretion.   Merit increases, when
+
+granted, shall become effective on the first of the month following the completion of the
+
+probationary period or such twelve (12) month periods thereafter.
+
+                Section 3. Longevity.   Employees who have been employed for five (5)
+
+continuous years shall receive a three percent (3%) salary increase on the base at the
+
+end of this fifth year.   Employees who have been employed for ten (10) continuous
+
+years shall receive an additional three percent (3%) (for a total of six percent (6%))
+
+salary increase on their base wage at the end of the tenth year.
+
+                Section 4. Mileage Pay.   Whenever an employee is required to use his
+
+own automobile in the performance of his duty, he shall be paid mileage at the rate paid
+
+under County Personnel Policies. Mileage pay will not be provided for any mileage
+
+incurred that the employee would have to provide between his home and regular place
+
+of work each day. A regular place of work may include different specific locations on
+
+different days. At any time, the County may, in its sole discretion, adopt policies that
+
+under certain circumstances increase the mileage reimbursement rate(s) above $0.25
+
+per mile, or subsequently decrease the rate(s) back to $0.25 per mile.
+
+
+
+
+DA Contract — 2024 - 2027
+                                              -18
+                    ARTICLE 12 HEALTH AND LIFE INSURANCE
+
+           Section 1. Health Insurance.   The County agrees to provide coverage in the
+
+following areas:
+
+       (a) Employee and dependent health insurance;
+
+       (b) Employee and dependent optical;
+
+       (c) Employee and dependent alternative care;
+
+       (d) Employee and dependent dental.
+
+       Effective October 1, 2024 (September qualifying hours), the County shall pay
+
+ninety-eight percent (98%) towards health insurance costs of the monthly premium
+
+(tiered rates) on behalf of each benefit eligible Bargaining Unit employee for health
+
+coverage through the Oregon Educator's Benefit Board.      The employee shall be
+
+responsible for the remaining two percent (2%) of the monthly premiums, which shail be
+
+collected through payroll deduction (adjustment before tax). The existing rates in the
+
+2022-2024 contract paid by the County shall be paid through September 30, 2024.
+
+
+       Effective October 1, 2025 (September qualifying hours), the County shall pay
+
+ninety-eight percent (98%) towards health insurance costs of the monthly premium
+
+(tiered rates) on behalf of each benefit eligible Bargaining Unit employee for health
+
+coverage through the Oregon Educator's Benefit Board.      The employee shall be
+
+responsible for the remaining two percent (2%) of the monthly premiums, which shall be
+
+collected through payroll deduction (adjustment before tax).
+
+
+       Effective October 1, 2026 (September qualifying hours), the County shall pay
+
+ninety-eight percent (98%) towards health insurance costs of the monthly premium
+
+
+DA Contract — 2024 - 2027
+                                          -19
+(tiered rates) on behalf of each benefit eligible Bargaining Unit employee for health
+
+coverage through the Oregon Educator's Benefit Board.          The employee shall be
+
+responsible for the remaining two percent (2%) of the monthly premiums, which shall be
+
+collected through payroll deduction (adjustment before tax).
+
+
+       The individual employee shail be responsible for paying any additional costs over
+
+the applicable County contributions and the County is hereby authorized to advance
+
+such sum(s) for the express purpose of premium payment and then to make automatic
+
+payroll deductions from the earnings of any and all covered employees for
+
+reimbursement to the County of any such advances.
+
+
+           The County will provide employees notice of any increase or decrease in
+
+required employee contributions for health care premiums within five (5) business days
+
+of the County’s receipt of notice that the required employee contributions will increase
+
+or decrease, and will timely provide information regarding alternative health care plans
+
+with comparable benefits and coverage that may be available.
+
+                 Section 2. Life Insurance.   The County agrees to participate in the
+
+payment of weekly indemnity, long term disability and life insurance in the same amount
+
+and percentage rate of the participation existing June 30, 1976.
+
+                 Section 3. Eligibility. All regular full-time and regular part-time employees
+
+who are on paid status for eighty (80) or more hours per month shall be eligible for
+
+health insurance the first of the month following completion of one full calendar month of
+
+service.
+
+                 For the purpose of this agreement, “paid status” includes hours worked
+
+(excluding overtime) and hours the employee was away from work on approved leave.
+
+DA Contract ~ 2024 - 2027
+                                              ~20
+               Section 4. 125 Plan. The County will establish and maintain a Section
+
+125 plan for all bargaining unit employees covered by this agreement.
+
+                       ARTICLE 13 DEFERRED COMPENSATION
+
+              The County shall make available to members of the Association a
+
+deferred compensation plan.
+
+                            ARTICLE 14 RETIREMENT PLANS
+
+               Section 1. Miscellaneous Provisions. The County will continue to
+
+participate in the Public Employees Retirement System (PERS). Effective January 1,
+
+2008, the County shall pick up the six percent (6%) employee contribution to PERS or
+
+OPSERP whichever is appropriate.
+
+               For retirement purposes, sick leave in application to final average salary
+
+under the terms of ORS 238.350 shail be applied to members of this bargaining unit.
+
+               Employees who retire from the County shall be entitled to maintain their
+
+group medical insurance benefits subject to plan eligibility requirements and timely
+
+election and payment pursuant to ORS 243.303.
+
+                             ARTICLE 15 SAVINGS CLAUSE
+
+              Should any article, section, or portion of this Agreement be held unlawful
+
+or unenforceable by an opinion of the Attorney General of the State of Oregon or by any
+
+court of competent jurisdiction, or any administrative agency of the State of Oregon
+
+having jurisdiction over the subject matter, such decision shall apply only to the specific
+
+article, section or portion thereof directly specified in the decision.
+
+               Upon the issuance of any such decision, the parties agree immediately to
+
+negotiate a substitute, if possible, for the invalidated article, section, or portion thereof.
+
+
+
+DA Contract — 2024 - 2027
+All other portions of this Agreement, and the Agreement as a whole, shall continue
+
+without interruption except those remaining provisions which are so essentially and
+
+inseparably connected with, and dependent upon, the unlawful or unenforceable part
+
+that it is apparent that such remaining provisions would not have been agreed to without
+
+such other parts and which, standing alone, are incomplete and incapable of being
+
+executed in accordance with the intent of this Agreement.
+
+                               ARTICLE 16 TERMINATION
+
+               THIS AGREEMENT        shall be effective upon execution or as specified
+
+herein and shall remain in full force and effect until June 30, 2027.   This Agreement
+
+shall automatically reopen January 1, 2027 uniess both parties agree to continue the
+
+contract in effect for the succeeding twelve (12) month period and shall continue this
+
+practice each January 1 until either party wishes to modify the contract for any reason.
+
+The parties agree to exchange their respective proposals by no later than February 1,
+
+2027.   The contract shall remain in full force and effect during the period of negotiations.
+
+
+
+                          SIGNATURES ON FOLLOWING PAGE
+
+
+
+
+DA Contract — 2024 - 2027
+                                                                                                                                          L002 ~ 207 — PORUOD Yq
+seog'sg     7968°S9    pSLYes      6920°19   BLL   8S   697S'9S     PSLP PS   88Zees     porr' 0s     6929   8h   Chel     oP   oszo'Sr
+viele       2zpbe       z66Ob      e4s‘OL    szi‘OL     s6c'6       zer'6     6206       §=crz'e      =ooze’e     SL L‘8        EZ          Loe    iL vq Aindeg,,
+SELL OS     Cer 7S     yore   7s   becyog    2699 8h    LeZ6'90     LLSE°Sb   0008 "ev   SLI ee       2698 Or     giLor 6e      CPL SE
+9746      6 see6é     = sG0°6 9 orz'g «= geb'e = zp'a             «= zag'2 «= zes'2 = ves‘2         «= v80'2. Ss oba'9 = Z1.9'9             oo      Iva Ajndaq,.
+  Zi          tb         OL          6          8         Z            9         $          v            c           z            b       aqvao
+ dais       d3iS        d3IS       daiS       d3iS      d3lS         dalS      daiS       dalS         d3lS        dalS         dais       vd
+                                                                                                                                                  v Juowyoeny
+                                                                          aSbAlDU] %O
+                                                                    SC0C-¥Z02 Jee, Je0sl4
+                                          NOILWIDOSSV SAANHOLLV ONILNOASOYd ALNNOD SOOD
+                                                                                                              L002 - 20? ~ PXNUOD YO
+GOES     178899     ELIEVO      HELD       GLOT'EG    OGLELG   gBZZSG    SELES      ZOGIIS   seOE'ey   1864p     00SL'Sr
+zSO'ZL   EGS'LL      ZSL‘LL     Zez‘OL     Lee‘oL     sve'6é   czs'6     Size       pés's    gps's     sez'e     oes         Loe   fy uva
+                                                                                                                                     ndaq,.
+BESS     LLSB'PS    OSZO'ES     BBLLIS     GLOW Gr    G99 Ly   GBE0'OP   LUGyyy     ZOPEZy   BOBr'ly   BGG0Or    cLLZ'8E
+786      «69756    «= 6L'6      =bag'8   «= e9S'8    = 978     ORB'LZ    §«=90L'2   $=bbrL   O6L‘'L    §ere'9    LbZ'9       ooe   fy 4 va
+                                                                                                                                     ndoq.
+  ra)       bL         OL          6          8          Z        9         i]         v        &        cA         L      waved
+dalS     d3lS        d3lS       daiS        daiS      d3IS     dalS      d3iS       dalS     d3iS      d3iS      dalS       Avd
+                                                               {aseasoul %G"L) 9Z07-Sz0z
+                              NOILVIDOSSV SAANYOLLV ONLLNOASONd ALNNOD SOOO
+                                                                                                                           gq JuUSWIySenYy
+                                                                                                           2202 - ¥Z07 ~ HeNUOD VG
+OSLG'OL   G9BBL9    BOEESO     IE/8'Z9   Z9BP09    BETS      YEsO'9G   YBSEES    GEIsIS    EZPOOS   LL0z er   seEror
+eez'zb    L9Z‘bL    pze‘bL     ses‘OL    98r‘OL    pée0'oL   ZLZ'6     ese'6     200°6     z9'8     9gse's     Gros     Loe    fy wa
+                                                                                                                                 indaq.
+220845    L284'SG   ZLZBEG     GPE       wOwL'OG   etEe'ey   B0ELBr    EOTI'Sy   EZES'eY   BOL tr   egsgOr    aouEEC
+ozo‘oL    6996      6zeG       poO'G     L698      88e'8     OOL'8     Zze'L     9g9'2     8622     LOL        ZIB'9    o0€    hy iwa
+                                                                                                                                 ndaq,.
+  (43        bE       OL          6         8         Z         9         S         v        £        ra          L    aava5
+daliS     ddlS      d3lS       dAalS     d3JS      d31IS     d3iS      d3lS      d3lS      dalS     d3lS       dais     Ave
+                                                             {aseasouy %F"L) 4702-9202
+                             NOLLVIDOSSV .SAANHOLLV ONILNOASOYd ALNNOD SOOD
+                                                                                                                       O JuUSWIyIEHY
+      4            7 ai                       FOR THE ASSOCIATION
+
+                                              Lbignaturelz
+     phot
+nel Coypin
+       (ptnissioner _
+                                               ohn        Alaacw
+                                              Name (Printed)
+_—
+
+       Ly         B&B Lb)     Mo   oe                SON bes
+     Ade          L                           Signature
+
+                                               “be    PAN AS: Cae
+                                              Name (Printed)
+
+                                                          7                 Up
+                                              Signature ’
+
+      R. Paul Frasier                         racer       EZ.        VV cChiol
+                                              Name sPanted)            -
+
+       Wired
+      DATE
+                                               df
+                                              Sighature
+                                                                id
+                                               As io 3      i Hoyt,
+                                              Name (Printed)!
+
+
+                                              Signature
+
+
+                                              Name (Printed)
+
+
+                                              Signature
+
+
+                                              Name (Printed)
+
+
+                                              Signature
+
+
+                                              Name (Printed)
+
+
+                                              DATE
+
+
+
+
+      DA Contract — 2024 - 2027
+                                        -23
+

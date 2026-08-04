@@ -19,10 +19,9 @@ retrieved: '2026-08-02'
 source_sha256: fffb62b9d30ab6de68562dfc02886b71168cfbcda7def459fb895cfde3742e3a
 snapshot_policy: hash-only
 status: current
-content_mode: summary
+content_mode: 'verbatim'
 text_source: ocr
-reproduction_basis: 'jointly-authored contract; summary + official link per the class determination
-  in corpus.yml schema.doc_types (verbatim: false)'
+reproduction_basis: 'public record of a public body (ORS 192.311-192.478); the employer publishes the executed agreement in full at source_url; a ratified agreement is an official act (Georgia v. Public.Resource.Org, 590 U.S. 255 (2020)) — mirrored in full per the class determination in corpus.yml schema.doc_types (verbatim: true)'
 conversion_notes: 'no text layer in the source PDF; text recovered by OCR. Two independent
   engines (tesseract (ocrmypdf) + docTR (DBNet + CRNN)) agree on 81% of the word sequence
   and 77% of the 136 figures, 87% dictionary-recognizable; 5 heading/letterhead token(s) lost
@@ -46,8 +45,8 @@ tags:
 - washington-county
 ---
 
-> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated
-> summary, not the agreement's official text. Verify against the official
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a non-authoritative
+> mirror of the agreement's text, not the official record. Verify against the official
 > source: <https://www.washingtoncountyor.gov/hr/documents/foppo-moatrimet-workday-insurance/download?inline> (retrieved 2026-08-02).
 
 # Washington County — FOPPO MOA_TriMet Workday Insurance
@@ -59,10 +58,6 @@ Collective bargaining agreement between **Washington County** and **FOPPO** — 
 - Source document: 4 pages (PDF)
 - **The source is an image-only scan.** Its committed text is a machine reading corroborated by two independent OCR engines (81% word-sequence agreement — see conversion_notes). Dates and terms above come from that reading; statute citations are deliberately not extracted, because digits are where engines diverge.
 
-This corpus is **summary-first for agreements**: the contract's text is not
-reproduced here (see Curator notes), and nothing on this page states or
-paraphrases the agreement's terms. Read the agreement itself at the official
-source link above.
 
 ## Curator notes
 
@@ -80,3 +75,200 @@ Statutes and rules the document's text cites are recorded in frontmatter
 `relationships.references_external` (0 citation(s)) and resolve into
 `executive-regulatory-frameworks` as cites — this corpus asserts no
 `implements` edge anywhere.
+
+## Full text
+
+                                 Memorandum of Agreement
+                                            Between
+                                 Washington County (‘County’)
+                                              And
+                Federation of Oregon Parole and Probation Officers (FOPPO)
+
+
+
+                                           |. Parties
+The parties to this Memorandum of Agreement are Washington County, a political
+subdivision of the State of Oregon (“County”) and Federation of Oregon Parole and
+Probation Officers (FOPPO), (hereinafter “parties”).
+
+                                        ll. Background
+e    The parties are currently subject to a collective bargaining agreement (CBA) in effect
+     through June 30, 2026.
+e    The County is transitioning to a new payroll system, Workday.
+e    The County is making changes to the health insurance plans for 2026 to stay within
+     budget and minimize premium costs for both the County and the employee.
+e    The County no longer contracts with Tri-Met to provide Tri-Met passes to employees.
+e    FOPPO has demanded to bargain over mandatory subjects related to these changes.
+e    The parties have entered this Memorandum of Understanding, which satisfies the
+     County’s duty to bargain.
+
+                                        Ill. Agreement
+1.   The County will reimburse FOPPO-represented employees up to $100 per month for any
+     Tri-Met commuting costs to and from work between 9/1/25 and 12/31/25, upon proof of
+     purchase, pending verification by Human Resources. Requests for reimbursement can
+     be submitted each month or at the end of the year, whichever the employee prefers.
+     Requests and proof of purchase should be emailed to
+     hremployeerelations@washingtoncountyor.gov no later than January 31, 2026. All
+     requested received after January 31, 2026, will be denied.
+2.   The County will implement a Transportation Flexible Spending Account (FSA) beginning
+     January 1, 2026.
+3,   The October 31, 2025, pay date will he pushed to Navemher 7, 2025.     Pay dates will
+     then follow every two weeks (e.g., November 21, December 5, December 19, etc.) until
+     the end of December 2025.
+4.   Upon written request, the County will provide an advance payment, up to 40 hours,
+     from an employee’s November 7, 2025, paycheck into their October 17, 2025, paycheck
+     to assist the employee with expenses. This amount will then be deducted from the
+     employee’s November 7, 2025, paycheck. *Available to full and part time employees
+     only.
+. The January 2, 2026, pay day will be moved up to December 31, 2025, to ensure 26 pay
+  periods in both 2025 and 2026. The next pay date after December 31, 2025, will be on
+  January 16, 2026, and every two weeks thereafter.
+. The County will end the use of Qualified Payroll Periods (QPP) by December 31, 2025.
+         a. “QPP” will be converted to hourly, monthly, or annual equivalents depending
+              on the article/topic being addressed.
+                       Twenty-six (26) QPP = 12 months
+                      Thirty-nine (39) QPP = 18 months
+          .   “QPP” is referenced in the current FOPPO CBA 2022-2026, Articles 1, 7, 9,
+              12, 17, and 26. The parties’ CBA shall be modified in the following manner:
+                  i.    1.4 “Probationary Period” means a working test period of months
+                                                                                    12
+                        twenty-six{26}-quatified   payrett petiods-during which an employee is
+                        required to demonstrate by actual performance of the duties, fitness
+                        for the position (18 monthsthirty-nire{39} for employees hired as a
+                        PPO }).
+                        1.7 “Career Probationary Period” means a working test period of 12
+                        months   twenty-six
+                                        26)           quatified-payrott periods-following a
+                        promotion from Parole and Probation Officer Il to Ill, or promotion
+                        into the bargaining unit from a position outside of the bargaining
+                        unit, during which an employee is required to demonstrate by actual
+                        performance of the duties, fitness for the position.
+                        1.8 “Career Probationary Employee” means an employee who has
+                        not compres the career probauonery erie’ consisting Of the first
+
+                        promotion from parole ‘and mrobation Officer II to im orfroma
+                        position outside of the bargaining unit.
+                        +¢--“Ouatified Payrot Period means       two-week payrott periocdin
+                        whiehthe-emptoyee     has trot hachnere  tharroene tt work cay (the
+                        tesserofeight{s) nours-orthe ntimber-of hours-arremptoyeeis
+                        regtiarty sehedttedte-workcwithit-
+                                                   a twenty-four{24)                heurt period}it
+                        anor-pay stattis-A new-emptoyee may be credited with a quatified
+                        payrottperiodfottowing initiatappointmrentin the        first hat ofthe
+                        payrottperiod-even
+                                 though having ner-pay stats 1 excess Sf ONE
+                                             eotong-
+                                     the emptoyee
+                        ttHyrverkday-s                        as remaining
+                                                   works -attthe
+                        workdeays-nthe-tir    st
+                                    payrott period:
+
+                        7.1         Mo-af-Oratfied            Hours-ofVecationleave
+                                     PayrottPereds               PerPayrottPericd
+                                        +0438                          36924
+                                       +e    266                       46754
+                                       26+te-398                       55385
+                                       39++652¢6                       64646
+                                     52+-anctever                      73847
+                                       Vacation
+                 Years of Service    Accrual/Hour          80 hours
+                      0—4.99            0.0462               3.696
+                      5-9.99            0.0577               4.616
+                     10—14.99           0.0693               5.544
+                     {5-19.99           0.0808               6.464
+                        20 +            0.0924               7.392
+
+
+  vi.   9.2 sohbet                                                    abd
+        the-Oregon-Famity MedicatLeaveAct;-eEmployees shall receive ret
+        o-ciStal   Uh a ann nhon ress nanaaicbnanise StARSATES
+        withoutpayofmore               day trethar-one            +}tra
+                                                given payrot period
+        regtiaremp            not comptete-a-quatifi
+                                        loyee        ed payrott
+                                                           does period, they
+        shattneta pro-rated amount of vacation leave; or sick leave for all
+        eligible hours. Fhe-emptoyee's-ann        date forthe  purpose of
+                                                        iversary
+        meritinereases-ancteviews-s                           payrott period
+                                           detayed foreach hattbe
+        forw         hieh
+                  emptoyee           the
+                           does not qtatify hereunder
+ vii.   42-9-te}-Unquatified-payrottperiods-wit         tnetas
+                                                 be counted
+        continuous service for purposes ofthis Articte +2;
+vill.   12.2 (d)... Eligibility for Salary Increases: Anew employee phel be
+
+
+        classification on the first day of the payroll period following 12
+        months twenty-six{26)-continueus-quat                     ifiedof
+                                                         payrett periods
+        satisfactory performance in their class. Length of service is the
+                   payrot
+        numberot-quatifi  ed                   periedsduration an employee has
+        worked for the County in a specific classification within the
+                                     one
+                                  at e-cateut
+        bargaining unit.-ane-shattb               ated
+                                         point perquatified
+        payrottperiocwithouttimit-
+        17.3 (a)... Seniority: Seniority is the numberof qtatified payrett
+        periodsduration a person has worked for the County. -andshattbe
+        eateutatec                             taton
+                               point per quatified               e+}
+                                                   payrott periochwithoutti mit:
+        Guatified- payrott periods areSeniorityis calculated from the date of
+        entrance into County service as a probationary, provisional or career
+        omployoo. (i) Part time employees performing work of twenty (20)
+        hours or more per week on a regular basis will be treated the same
+        as full-time employees for the purpose of calculating seniority.
+        quatified payrot period:
+        26.4 Upon promotion from Parole and Probation Officer Il to Ill, an
+        employee will serve a Career Probationary Period of 12
+        monthstwenty-six{26}-quatified-payro        tt If the County
+                                               periods.
+        determines that the employee is not performing satisfactorily during
+        the Career Probationary Period, the employee may be returned to
+                              the position of Parole and Probation Officer Il. Such decision by the
+                              County is not subject to the grievance procedure.
+   7.    The County will proceed with open enrollment as scheduled for 2026.
+   8.    In exchange for the implementation of the plan changes for 2026 for Providence and
+         Kaiser that was included in the expedited bargaining notice dated August 11, 2025, the
+         County will provide a one-time VEBA contribution of $100 for FOPPO - represented
+         employees on the first payroll in February 2026.
+   9.    Except as modified above, all other provisions of the applicable CBA shall continue to
+       apply.
+   10. This MOA shall be effective upon full execution by both Parties and (where applicable)
+       will be integrated into the Parties’ subsequent CBA.
+   11. Any disputes regarding the interpretation or application of this MOA shall be resolved
+       by the Parties using the grievance procedures of the applicable CBA.
+   12. In addition to the applicable CBA, this MOA is the full and final agreement of the Parties
+         regarding these issues.
+
+
+  This Memorandum of Agreement will be effective upon execution by the parties.
+
+
+
+   For the County:                                           For the Union:
+
+   e                      Digitally signed by Erin Calvert
+Eri Nn    Ca    lvert Date: 2025.10.15 11:09:14               wT,               (Mo>—-——
+                          -07'00'
+                                                                     Va
+
+
+  Date:                                                      Date:        Lo} | S/ LS
+
+
+
+
+  Approvalto form
+
+
+
+
+  County Caunsel
+

@@ -227,7 +227,7 @@ ARTICLE 33 - TERM OF AGREEMENT                                                  
 APPENDIX A – TEAM DIRECTED SCHEDULING                                                                                                 92
 APPENDIX B – FORENSIC SERVICES DIVISION SCHEDULING                                                                                    95
 APPENDIX C – RETIREE MEDICAL TRUST                                                                                                    98
-APPENDIX D – COST CALCULATION, PAYMENT AND ASSOCIATION BUSINESS
+### APPENDIX D – COST CALCULATION, PAYMENT AND ASSOCIATION BUSINESS
                  LEAVE PROCEDURE                                                                                                    100
 APPENDIX E– LETTERS OF AGREEMENT                                                                                                    104
 Letter of Agreement – 2-A – Agency Background Checks                                                                                105
@@ -239,7 +239,7 @@ Letter of Agreement – 14-C – Flexible Work Hours                            
 Letter of Agreement – 16-A - Canine Handlers                                                                                        111
 Letter of Agreement – 16-B – Crash Reconstructionist                                                                                112
 Letter of Agreement – 17-A - 207K Waiver                                                                                            113
-Memorandum of Understanding – 20-A – Alternative Vacation Bidding Southern Command
+### Memorandum of Understanding – 20-A – Alternative Vacation Bidding Southern Command
                  Center                                                                                                             114
 Letter of Agreement – 21 A – Command Center Sick Call In                                                                            115
 Letter of Agreement – 23-B – DNA Staff Elimination Database                                                                         116
@@ -255,11 +255,11 @@ Letter of Agreement – 29 – Insurance/Sick Leave Conversion Pilot Program    
 Letter of Agreement - Pandemic Recognition Pay                                                                                      128
 
 2023-2025 OSPOA                                        6                                                Collective Bargaining Agreement
-Letter of Agreement – OSPOA Sergeant Pay                                                   129
-Letter of Agreement - Retirement Medical Trust Employer Contribution Pilot Program         130
-Letter of Agreement – Parts Specialist 2 Reclassification                                  131
-Letter of Agreement - Salary Range Truncation                                              132
-APPENDIX F – COMPENSATION TABLES                                                           133
+### Letter of Agreement – OSPOA Sergeant Pay                                                   129
+### Letter of Agreement - Retirement Medical Trust Employer Contribution Pilot Program         130
+### Letter of Agreement – Parts Specialist 2 Reclassification                                  131
+### Letter of Agreement - Salary Range Truncation                                              132
+### APPENDIX F – COMPENSATION TABLES                                                           133
 CLASSIFICATION LIST                                                                        134
 SALARY CHARTS                                                                              135
 SIGNATURE PAGE                                                                             141
@@ -275,7 +275,7 @@ as the "Employer"; and the Oregon State Police Officers’ Association, hereinaf
 the "Association," made and entered into for the purpose of fixing hours, wages and conditions
 of employment.
 
-                                 ARTICLE 1 - RECOGNITION
+### ARTICLE 1 - RECOGNITION
 
 1.1 Recognition.
 
@@ -308,7 +308,7 @@ reclassification.
                                                                                                    REV: 2017
 
 
-                           ARTICLE 2 - MANAGEMENT RIGHTS
+### ARTICLE 2 - MANAGEMENT RIGHTS
 
 2.1 General.
 
@@ -337,7 +337,7 @@ of the Association's rights to collectively bargain any changes in past practice
 mandatorily negotiable.
                                                                                                    REV: 2015
 See LOAs: Agency Background Checks, Installation Work on Vehicles
-                  ARTICLE 3 - COMPLETE AGREEMENT/PAST PRACTICES
+### ARTICLE 3 - COMPLETE AGREEMENT/PAST PRACTICES
 
 3.1 Complete Agreement.
 
@@ -369,7 +369,7 @@ under state law.
 
 
 2023-2025 OSPOA                         9                                  Collective Bargaining Agreement
-                              ARTICLE 4 - NONDISCRIMINATION
+### ARTICLE 4 - NONDISCRIMINATION
 
 4.1 Association Activities.
 
@@ -388,7 +388,7 @@ processed to the arbitration step of the grievance procedure of this Agreement.
                                                                                                   REV: 2019
 
 
-                                     ARTICLE 5 - STRIKES
+### ARTICLE 5 - STRIKES
 
 5.1 Strikes.
 
@@ -407,7 +407,7 @@ discontinue such action.
 The Employer will not lock out employees as a consequence of any dispute arising during the
 period of this Agreement.
 
-                           ARTICLE 6 - ASSOCIATION BUSINESS
+### ARTICLE 6 - ASSOCIATION BUSINESS
 
 6.1 President and Vice President of the Association.
 
@@ -554,7 +554,7 @@ See LOA: Association Business
                                                                                       REV: 2015, 2017,2019
 
 
-                            ARTICLE 7 - ASSOCIATION ACCESS
+### ARTICLE 7 - ASSOCIATION ACCESS
 
 7.1 Bulletin Boards.
 
@@ -586,7 +586,7 @@ The Association representatives will be permitted access to other new employees 
 scheduled work day for purposes of orienting new bargaining unit employees about the
 Association.
 
-                          ARTICLE 8 - ASSOCIATION SECURITY
+### ARTICLE 8 - ASSOCIATION SECURITY
 
 8.1 Dues.
 
@@ -622,7 +622,7 @@ as a result of the Employer's enforcement of the above provisions.
 
 
 2023-2025 OSPOA                         14                                  Collective Bargaining Agreement
-                             ARTICLE 9 - EMPLOYEE RIGHTS
+### ARTICLE 9 - EMPLOYEE RIGHTS
 
 9.1 Personnel Orders.
 
@@ -848,7 +848,7 @@ the item needed and will not search through the locker, or closed containers wit
                                                                                 REV: 2015, 2017,2019,2023
 
 
-                           ARTICLE 10 - PERSONNEL RECORDS
+### ARTICLE 10 - PERSONNEL RECORDS
 
 10.1 Access.
 
@@ -972,7 +972,7 @@ evaluation.
 
 
 2023-2025 OSPOA                         21                                  Collective Bargaining Agreement
-                      ARTICLE 11 – DISCIPLINE AND DISCHARGE
+### ARTICLE 11 – DISCIPLINE AND DISCHARGE
 
 11.1 Discipline.
 
@@ -1128,14 +1128,14 @@ thirty (30) days upon notice to the Association.
                                                                          REV: 2015, 2017,2019, 2021,2023
 See LOA: Credible Testimony
 
-                        ARTICLE 12 - SETTLEMENT OF DISPUTES
+### ARTICLE 12 - SETTLEMENT OF DISPUTES
 
 12.1 Grievance Procedure.
 
 The parties agree that for the purpose of this Agreement, a grievance shall be defined as a dispute
 regarding the meaning, interpretation or application of this Agreement and that such dispute shall
 be settled as provided in this Article. Discipline and discharge shall be handled as described in
-Article 11. In the event that the matter being grieved involves the act or failure to act of the
+### Article 11. In the event that the matter being grieved involves the act or failure to act of the
 supervisor of the employee, the Association may elect to skip Step 1 of the grievance procedure
 and file the grievance at Step 2.
 
@@ -1254,7 +1254,7 @@ or overtime for such time.
                                                                                       REV: 2015, 2017,2019
 
 
-                                   ARTICLE 13 - TRANSFER
+### ARTICLE 13 - TRANSFER
 
 The reimbursement, rates, allowances and other financial compensations for transfer shall be at
 the levels in effect in the Policies, Rules, Procedures Manual, unless otherwise modified by this
@@ -1274,7 +1274,7 @@ years after the approval.
 
 
 2023-2025 OSPOA                         27                                  Collective Bargaining Agreement
-                              ARTICLE 14 - HOURS OF WORK
+### ARTICLE 14 - HOURS OF WORK
 
 14.1 Scheduling.
 
@@ -1316,7 +1316,7 @@ changes, rotating days off, or voluntary day off changes. Employees may have the
 involuntarily changed for training no more than once in a calendar year over a two week work
 period with 28 days notice.
 Daily overtime will be paid for hours worked in excess of the scheduled shift in accordance with
-Article 17. Weekly overtime will be paid upon completion of forty (40) hours of work. Except as
+### Article 17. Weekly overtime will be paid upon completion of forty (40) hours of work. Except as
 provided in 17.1.4, all paid leave counts as hours worked for purposes of the overtime threshold.
 Overtime callback hours on a day off are not cumulative on the forty (40) hours for the week.
 
@@ -1705,7 +1705,7 @@ receive up to one (1) hour of holiday pay at time and one-half (1 ½).
                                                                                    REV: 2015, 2017,2023
 See LOAs: Honor Guard, Four-Ten (4-10) Shifts, Flexible Work Hours
 
-                             ARTICLE 15 - SHIFT SELECTION
+### ARTICLE 15 - SHIFT SELECTION
 
 15.1 Shift Selection.
 
@@ -1828,7 +1828,7 @@ Employer may override the results of this vote based upon reasonable operational
                                                                                        REV: 2015,2019,2023
 
 
-                                  ARTICLE 16 - ITINERARIES
+### ARTICLE 16 - ITINERARIES
 
 16.1 Fish and Wildlife Itinerary.
 
@@ -1945,7 +1945,7 @@ and/or subsequent itineraries.
                                                                                REV: 2015, 2017,2019,2023
 See LOA: Canine Handlers, Crash Reconstructionist
 
-                                  ARTICLE 17 - OVERTIME
+### ARTICLE 17 - OVERTIME
 
 17.1 Overtime.
 
@@ -2101,7 +2101,7 @@ appropriate remedies for violations of the mandatory overtime rules.
                                                                                REV: 2015, 2017,2019,2023
 
 
-     ARTICLE 18 - CALLBACK, IRREGULAR HOURS, AND OTHER PAYMENTS
+### ARTICLE 18 - CALLBACK, IRREGULAR HOURS, AND OTHER PAYMENTS
 
 18.1 Callback.
 
@@ -2301,7 +2301,7 @@ shift.
                                                                                 REV: 2017,2019, 2021,2023
 
 
-                                   ARTICLE 19 - HOLIDAYS
+### ARTICLE 19 - HOLIDAYS
 
 19.1 Holiday Leave Bank.
 
@@ -2382,7 +2382,7 @@ request will be considered approved.
                                                                           REV: 2015, 2017,2019, 2021,2023
 
 
-                                  ARTICLE 20 - VACATION
+### ARTICLE 20 - VACATION
 
 20.1 Accruals.
 
@@ -2545,7 +2545,7 @@ belonging to the employee will be lost.
                                                                                     REV: 2015, 2017,2019
 See LOA: Alternative Vacation Bidding Southern Command Center
 
-                                 ARTICLE 21 - SICK LEAVE
+### ARTICLE 21 - SICK LEAVE
 
 21.1 Accrued Sick Leave.
 
@@ -2796,7 +2796,7 @@ SU-24S-CP CP      OSP Trooper Base Salary        $    7,102    $    7,458    $  
 
 
 
-                               ARTICLE 22 - OTHER LEAVES OF ABSENCE
+### ARTICLE 22 - OTHER LEAVES OF ABSENCE
 
 22.1 Criteria and Procedure.
 
@@ -2944,7 +2944,7 @@ For purposes of this Section, “immediate family” shall include:
                                                                              REV: 2015, 2017,2019,2023
 
 
-                          ARTICLE 23 - GENERAL PROVISIONS
+### ARTICLE 23 - GENERAL PROVISIONS
 
 23.1 Posting of New Work Rules.
 
@@ -3291,7 +3291,7 @@ previously approved by the Department.
                                                                                       REV: 2015, 2017,2019
 See LOA: Command Centers Labor Management Committee
 
-                                   ARTICLE 24 - SENIORITY
+### ARTICLE 24 - SENIORITY
 
 24.1 General.
 
@@ -3559,7 +3559,7 @@ to perform.
 
 
 2023-2025 OSPOA                          72                                  Collective Bargaining Agreement
-                               ARTICLE 25 - COMPENSATION
+### ARTICLE 25 - COMPENSATION
 
 25.1 Wage Scales.
 Employees shall be paid from the monthly or hourly wage, as appropriate, according to Appendix
@@ -3890,7 +3890,7 @@ See LOAs: Lead Worker Differential Command Center, Lead Worker Differential for 
 Forensics Division, Lead Worker and Field Response Differential for the Evidence Program,
 Compensation
 
-                    ARTICLE 26 - MEALS, LODGING, AND MILEAGE
+### ARTICLE 26 - MEALS, LODGING, AND MILEAGE
 
 26.1 Reimbursement.
 
@@ -3978,7 +3978,7 @@ provided at the academy will be subject to the following:
                                                                                REV: 2015, 2017,2019,2023
 
 
-                            ARTICLE 27 - OUT OF CLASS WORK
+### ARTICLE 27 - OUT OF CLASS WORK
 
 27.1 General.
 
@@ -3996,7 +3996,7 @@ classification is less than five percent (5%) below Step 1 of the assigned class
 employee shall be paid at the rate of five percent (5%) above his/her permanent rate of pay for
 such out-of-class work.
 
-                          ARTICLE 28 - RETIREMENT PROGRAM
+### ARTICLE 28 - RETIREMENT PROGRAM
 
 28.1 Public Employees Retirement System (“PERS”) Members.
 
@@ -4035,7 +4035,7 @@ provision shall not be retroactive in its application or effective prior to Febr
                                                                                                   REV: 2017
 See LOA: Retiree DROP Pilot Program
 
-                                  ARTICLE 29 - INSURANCE
+### ARTICLE 29 - INSURANCE
 
 29.1 Flexible Benefits Plan.
 
@@ -4123,7 +4123,7 @@ including the appendix cannot be grieved or arbitrated.
                                                                            REV: 2015, 2017,2019, 2021,2023
 See LOA: Retiree Medical Trust, Insurance/Sick Leave Conversion Pilot Program
 
-                    ARTICLE 30 - DRUG/ALCOHOL FREE WORKPLACE
+### ARTICLE 30 - DRUG/ALCOHOL FREE WORKPLACE
 
 30.1
 
@@ -4379,7 +4379,7 @@ The Employer shall establish a drug-free awareness program to inform employees o
                                                                                                     REV: 2017
 
 
-                                    ARTICLE 31 - RETIREES
+### ARTICLE 31 - RETIREES
 
 31.1 Applicability.
 
@@ -4480,7 +4480,7 @@ Employer. All other hours worked will be compensated at the straight time rate o
                                                                                       NEW: 2017, 2021,2023
 
 
-                              ARTICLE 32 - SAVINGS CLAUSE
+### ARTICLE 32 - SAVINGS CLAUSE
 
 If any provision of this Agreement is or becomes in contravention of the laws or regulations of the
 United States or State of Oregon, the provision shall be suspended by the appropriate provision of
@@ -4488,7 +4488,7 @@ the law or regulation so long as it is in force and effect, but all other provis
 shall continue in full force and effect. The provision being in contravention of such laws or
 regulations shall be re-negotiated by the parties in order that there will be no such contravention.
 
-                           ARTICLE 33 - TERM OF AGREEMENT
+### ARTICLE 33 - TERM OF AGREEMENT
 
 33.1 Term.
 
@@ -4508,7 +4508,7 @@ February 1, 2025, unless mutually agreed otherwise by the Parties.
 
 
 2023-2025 OSPOA                         91                                  Collective Bargaining Agreement
-                       APPENDIX A – TEAM DIRECTED SCHEDULING
+### APPENDIX A – TEAM DIRECTED SCHEDULING
 
 1.      Work Groups authorized to participate will be those currently using Team Directed
         Scheduling and those work groups who have been:
@@ -4658,7 +4658,7 @@ February 1, 2025, unless mutually agreed otherwise by the Parties.
         bargaining teams.
 
 2023-2025 OSPOA                          94                                  Collective Bargaining Agreement
-             APPENDIX B – FORENSIC SERVICES DIVISION SCHEDULING
+### APPENDIX B – FORENSIC SERVICES DIVISION SCHEDULING
 
 This Memorandum of Understanding (MOU) by and between the State of Oregon, acting through
 its Department of Administrative Services (Employer) on behalf of the Department of State Police
@@ -4791,7 +4791,7 @@ Reaffirmed and continued.
 
 
 2023-2025 OSPOA                        97                                Collective Bargaining Agreement
-                        APPENDIX C – RETIREE MEDICAL TRUST
+### APPENDIX C – RETIREE MEDICAL TRUST
 
 This Letter of Agreement by and between the Oregon State Police Officers’ Association
 (Association) and the State of Oregon, acting through its Department of Administrative Services
@@ -4876,7 +4876,7 @@ This    Appendix     is   effective   upon     ratification   of   the   2017-20
 
 
 2023-2025 OSPOA                        99                                 Collective Bargaining Agreement
- APPENDIX D – COST CALCULATION, PAYMENT AND ASSOCIATION BUSINESS
+### APPENDIX D – COST CALCULATION, PAYMENT AND ASSOCIATION BUSINESS
                         LEAVE PROCEDURE
 
   I.    PROCEDURE
@@ -5047,13 +5047,13 @@ This    Appendix     is   effective   upon     ratification   of   the   2017-20
 
 
 2023-2025 OSPOA                          103                                Collective Bargaining Agreement
-                  APPENDIX E– LETTERS OF AGREEMENT
+### APPENDIX E– LETTERS OF AGREEMENT
 
 
 
 
 2023-2025 OSPOA            104                   Collective Bargaining Agreement
-                  Letter of Agreement – 2-A – Agency Background Checks
+### Letter of Agreement – 2-A – Agency Background Checks
 
 This Letter of Agreement is between the Oregon State Police Officers’ Association (Association)
 and the State of Oregon, acting through the Department of Administrative Services (Employer),
@@ -5071,7 +5071,7 @@ Reaffirmed and continue.
 
 
 2023-2025 OSPOA                      105                               Collective Bargaining Agreement
-                  Letter of Agreement – 2-B – Installation Work on Vehicles
+### Letter of Agreement – 2-B – Installation Work on Vehicles
 
 This Letter of Agreement is between the Oregon State Police Officers’ Association (Association)
 and the State of Oregon, acting through the Department of Administrative Services (Employer),
@@ -5098,7 +5098,7 @@ Reaffirmed and continue.
 
 
 2023-2025 OSPOA                       106                                Collective Bargaining Agreement
-                      Letter of Agreement – 11-A – Credible Testimony
+### Letter of Agreement – 11-A – Credible Testimony
 
 If termination is a result of OSP’s determination that an employee cannot provide credible
 testimony, it will be the result of an OSP investigation. Such investigation will be conducted in
@@ -5111,7 +5111,7 @@ Reaffirmed and continue.
 
 
 2023-2025 OSPOA                       107                                Collective Bargaining Agreement
-                          Letter of Agreement – 14-A – Honor Guard
+### Letter of Agreement – 14-A – Honor Guard
 
 Honor Guard functions on a normal workday:
 
@@ -5157,7 +5157,7 @@ Reaffirmed and continued.
 
 
 2023-2025 OSPOA                        108                                  Collective Bargaining Agreement
-                        Letter of Agreement – 14-B – Four-Ten (4-10) Shifts
+### Letter of Agreement – 14-B – Four-Ten (4-10) Shifts
 
 The parties to this Agreement are THE STATE OF OREGON ("State") and the OREGON STATE
 POLICE OFFICERS ASSOCIATION ("Association"). The parties wish to enter into this
@@ -5200,7 +5200,7 @@ Reaffirmed and continued.
 
 
 2023-2025 OSPOA                          109                                 Collective Bargaining Agreement
-                     Letter of Agreement – 14-C – Flexible Work Hours
+### Letter of Agreement – 14-C – Flexible Work Hours
 
 Section 14.13.3 (Configuration) is intended to mean that a workday is based on 8 (eight) hours
 minimum. The flexible schedule allows for more or less than 8 (eight) hours per day as the weekly
@@ -5226,7 +5226,7 @@ Reaffirmed and continued.
 
 
 2023-2025 OSPOA                       110                                Collective Bargaining Agreement
-                        Letter of Agreement – 16-A - Canine Handlers
+### Letter of Agreement – 16-A - Canine Handlers
 
 This Agreement is entered into between the Department of Oregon State Police (Department), the
 Oregon State Police Officers’ Association (Association), and the Department of Administrative
@@ -5257,7 +5257,7 @@ Reaffirmed and continued.
 
 
 2023-2025 OSPOA                       111                                Collective Bargaining Agreement
-                    Letter of Agreement – 16-B – Crash Reconstructionist
+### Letter of Agreement – 16-B – Crash Reconstructionist
 
 This Agreement is entered into between the Department of Oregon State Police (Department), the
 Oregon State Police Officers’ Association (Association), and the Department of Administrative
@@ -5284,7 +5284,7 @@ the conclusion of any six (6) month interval.
 
 
 2023-2025 OSPOA                        112                                Collective Bargaining Agreement
-                            Letter of Agreement – 17-A - 207K Waiver
+### Letter of Agreement – 17-A - 207K Waiver
 
 The parties recognize the need to clarify their intentions regarding recent changes under SB 750
 affecting amendments to ORS 279.340 and .342.
@@ -5324,7 +5324,7 @@ Reaffirmed and continued.
 
 
 2023-2025 OSPOA                        113                              Collective Bargaining Agreement
-      Memorandum of Understanding – 20-A – Alternative Vacation Bidding Southern
+### Memorandum of Understanding – 20-A – Alternative Vacation Bidding Southern
                                 Command Center
 
 This Memorandum of Understanding (MOU) by and between the Oregon State Police Officers’
@@ -5364,7 +5364,7 @@ Reaffirmed and continued.
 
 
 2023-2025 OSPOA                        114                                Collective Bargaining Agreement
-                  Letter of Agreement – 21 A – Command Center Sick Call In
+### Letter of Agreement – 21 A – Command Center Sick Call In
 
 Dispatch employees may not substitute compensatory time for sick leave on their timesheet, unless
 the employee has exhausted all other forms of paid leave.
@@ -5385,7 +5385,7 @@ This Letter of Agreement remains in place unless the Parties mutually agree othe
 
 
 2023-2025 OSPOA                       115                                Collective Bargaining Agreement
-                  Letter of Agreement – 23-B – DNA Staff Elimination Database
+### Letter of Agreement – 23-B – DNA Staff Elimination Database
 
 This Letter of Agreement by and between the Oregon State Police Officers' Association
 (Association) and the State of Oregon, acting through its Department of Administrative Services
@@ -5460,7 +5460,7 @@ The Parties agree as follows:
 
 8.      This Letter of Agreement is effective upon signing and will sunset on June 30, 2023, unless
         renewed by the Parties.
-       Letter of Agreement – 23.6.1.1 – Filling of Vacancies Policy Review Committee
+### Letter of Agreement – 23.6.1.1 – Filling of Vacancies Policy Review Committee
 
 This Letter of Agreement (LOA) by and between the Oregon State Police Officers’ Association
 (Association) and the State of Oregon, acting through its Department of Administrative Services
@@ -5496,7 +5496,7 @@ Parties agree to amend its provisions.
 
 
 2023-2025 OSPOA                      118                               Collective Bargaining Agreement
-         Letter of Agreement – 25-A – Lead Worker Differential Command Centers
+### Letter of Agreement – 25-A – Lead Worker Differential Command Centers
 
 This Letter of Agreement (LOA) by and between the Oregon State Police Officers’ Association
 (Association) and the State of Oregon, acting through the Department of Administrative Services
@@ -5526,7 +5526,7 @@ Reaffirmed and continued.
 
 
 2023-2025 OSPOA                        119                                Collective Bargaining Agreement
-      Letter of Agreement – 25-D – Lead Worker Differential for the Forensics Division
+### Letter of Agreement – 25-D – Lead Worker Differential for the Forensics Division
 
 This Letter of Agreement by and between the Oregon State Police Officers’ Association
 (Association) and the State of Oregon, acting through its Department of Administrative Services
@@ -5561,7 +5561,7 @@ This Letter of Agreement will sunset on June 30, 2025.
 
 
 2023-2025 OSPOA                        120                                 Collective Bargaining Agreement
-     Letter of Agreement – 25-E – Lead Worker Differential for the Evidence Program
+### Letter of Agreement – 25-E – Lead Worker Differential for the Evidence Program
 
 This Letter of Agreement by and between the Oregon State Police Officers’ Association
 (Association) and the State of Oregon, acting through its Department of Administrative Services
@@ -5594,7 +5594,7 @@ This Letter of Agreement will sunset on June 30, 2025.
 
 
 2023-2025 OSPOA                        121                                Collective Bargaining Agreement
-                          Letter of Agreement 25-F – Compensation
+### Letter of Agreement 25-F – Compensation
 
 This Agreement is between the State of Oregon, acting through its Department of Administrative
 Services (Employer), on behalf of the Oregon State Police (Agency), and the Oregon State Police
@@ -5614,7 +5614,7 @@ rights on this matter.
 
 
 2023-2025 OSPOA                        122                                 Collective Bargaining Agreement
-                    Letter of Agreement 25-G - One-Time Payment COLA
+### Letter of Agreement 25-G - One-Time Payment COLA
 
 This Agreement is entered into between the State of Oregon, acting through its Department of
 Administrative Services (DAS), and the Oregon State Police Officers Association (Association).
@@ -5645,7 +5645,7 @@ This Letter of Agreement will sunset on June 30, 2025.
 
 
 2023-2025 OSPOA                         123                                  Collective Bargaining Agreement
-                      Letter of Agreement 25 -H – Bi-Weekly Pay Period
+### Letter of Agreement 25 -H – Bi-Weekly Pay Period
 
 This Letter of Agreement is between the State of Oregon, acting through its Department of
 Administrative Services (Employer), and the Oregon State Police Officers Association
@@ -5720,7 +5720,7 @@ Therefore, the Parties agree to the following:
 
 
 2023-2025 OSPOA                       125                                Collective Bargaining Agreement
-                  Letter of Agreement – 28-A – Retiree DROP Pilot Program
+### Letter of Agreement – 28-A – Retiree DROP Pilot Program
 
 This Agreement is entered into between the Department of Oregon State Police (Department), the
 Oregon State Police Officers’ Association (Association), and the Department of Administrative
@@ -5770,7 +5770,7 @@ Bargaining     Agreement   unless   it    is   expressly     renewed    by    th
 
 
 2023-2025 OSPOA                          126                                  Collective Bargaining Agreement
-         Letter of Agreement – 29 – Insurance/Sick Leave Conversion Pilot Program
+### Letter of Agreement – 29 – Insurance/Sick Leave Conversion Pilot Program
 
 This Letter of Agreement (LOA) by and between the Oregon State Police Officers’ Association
 (Association) and the State of Oregon, acting through the Department of Administrative Services
@@ -5800,7 +5800,7 @@ Now, therefore, the Parties do agree as follows:
 
 
 2023-2025 OSPOA                       127                                Collective Bargaining Agreement
-                       Letter of Agreement - Pandemic Recognition Pay
+### Letter of Agreement - Pandemic Recognition Pay
 
         This Agreement is between the State of Oregon, acting through its Department of
         Administrative Services (Employer), on behalf of the Oregon State Police (Agency), and
@@ -5840,7 +5840,7 @@ Now, therefore, the Parties do agree as follows:
 
 
 2023-2025 OSPOA                        128                                Collective Bargaining Agreement
-                         Letter of Agreement – OSPOA Sergeant Pay
+### Letter of Agreement – OSPOA Sergeant Pay
 
 
 
@@ -5863,7 +5863,7 @@ effective the first of the following month.
 
 
 2023-2025 OSPOA                        129                                  Collective Bargaining Agreement
-Letter of Agreement - Retirement Medical Trust Employer Contribution Pilot Program
+### Letter of Agreement - Retirement Medical Trust Employer Contribution Pilot Program
 
 This Letter of Agreement (LOA) by and between the Oregon State Police Officers’ Association
 (Association) and the State of Oregon, acting through the Department of Administrative Services
@@ -5894,7 +5894,7 @@ Now, therefore, the Parties do agree as follows:
 
 
 2023-2025 OSPOA                       130                                Collective Bargaining Agreement
-                  Letter of Agreement – Parts Specialist 2 Reclassification
+### Letter of Agreement – Parts Specialist 2 Reclassification
 
 This Agreement is entered into between the Department of Oregon State Police (Department), the
 Oregon State Police Officers’ Association (Association), and the Department of Administrative
@@ -5916,7 +5916,7 @@ This Agreement will automatically sunset upon the successful completion of the r
 
 
 2023-2025 OSPOA                       131                                Collective Bargaining Agreement
-                        Letter of Agreement - Salary Range Truncation
+### Letter of Agreement - Salary Range Truncation
 
 This Agreement is entered into between the State of Oregon, acting through its Department of
 Administrative Services (DAS), and the Oregon State Police Officers Association (Association).
@@ -5940,7 +5940,7 @@ Administrative Services (DAS), and the Oregon State Police Officers Association 
 
 
 2023-2025 OSPOA                         132                                 Collective Bargaining Agreement
-                  APPENDIX F – COMPENSATION TABLES
+### APPENDIX F – COMPENSATION TABLES
 
 
 

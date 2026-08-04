@@ -19,10 +19,9 @@ retrieved: '2026-08-02'
 source_sha256: bcd8588b566112702a4b24c7c7e2f8dd1064c060a472d7da02252251c296250a
 snapshot_policy: hash-only
 status: current
-content_mode: summary
+content_mode: 'verbatim'
 text_source: ocr
-reproduction_basis: 'jointly-authored contract; summary + official link per the class determination
-  in corpus.yml schema.doc_types (verbatim: false)'
+reproduction_basis: 'public record of a public body (ORS 192.311-192.478); the employer publishes the executed agreement in full at source_url; a ratified agreement is an official act (Georgia v. Public.Resource.Org, 590 U.S. 255 (2020)) — mirrored in full per the class determination in corpus.yml schema.doc_types (verbatim: true)'
 conversion_notes: no text layer in the source PDF; text recovered by OCR. Two independent
   engines (tesseract (ocrmypdf) + paddleocr PP-OCRv6) agree on 92% of the word sequence and
   77% of the 17 figures, 98% dictionary-recognizable; NOT human-verified — treat every number
@@ -43,8 +42,8 @@ tags:
 - lane-county
 ---
 
-> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated
-> summary, not the agreement's official text. Verify against the official
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a non-authoritative
+> mirror of the agreement's text, not the official record. Verify against the official
 > source: <https://www.lanecounty.org/UserFiles/Servers/Server%5F3585797/File/Government/County%20Departments/Human%20Resources/Collective%20Bargaining%20Agreements/FOPPO%20CBA%20Modifications.pdf> (retrieved 2026-08-02).
 
 # Lane County — FOPPO CBA Modifications
@@ -56,10 +55,6 @@ Letter of agreement / MOU under **Lane County** and **FOPPO** — **2024-2027** 
 - Source document: 1 pages (PDF)
 - **The source is an image-only scan.** Its committed text is a machine reading corroborated by two independent OCR engines (92% word-sequence agreement — see conversion_notes). Dates and terms above come from that reading; statute citations are deliberately not extracted, because digits are where engines diverge.
 
-This corpus is **summary-first for agreements**: the contract's text is not
-reproduced here (see Curator notes), and nothing on this page states or
-paraphrases the agreement's terms. Read the agreement itself at the official
-source link above.
 
 ## Curator notes
 
@@ -77,3 +72,59 @@ Statutes and rules the document's text cites are recorded in frontmatter
 `relationships.references_external` (0 citation(s)) and resolve into
 `executive-regulatory-frameworks` as cites — this corpus asserts no
 `implements` edge anywhere.
+
+## Full text
+
+                                     MEMORANDUM OF UNDERSTANDING
+                                    CBA Modification for Merit Adjustments
+                                               MOU PPO-26-01
+
+This Memorandum of Understanding is entered into, by and between Lane County hereinafter referred to as
+COUNTY, and the Federation of Oregon Parole and Probation Officers, Parole & Probation Unit (FOPPO),
+hereinafter referred to as UNION, for the purposes of modifying contract language for step advancement
+related to annual performance evaluations.
+The parties agree:
+
+   1.   The 2024-2027 Collective Bargaining Agreement, Article 10 will be modified as follows:
+
+        “Section 2.       Steps in Compensation Plan
+
+          (A) The compensation plan shall be based on a Step schedule with the steps being equally spaced
+              between the low and high ends of the salary range for each classification.
+
+        (B) Employees hired at Step 1 of the compensation plan shall advance to Step 2 upon the completion
+            of twelve (12) months of employment with the COUNTY. Step increases shall occur at twelve (12)
+            month intervals unless the employee receives “needs improvement” or lower rating on their
+            performance evaluation. If an evaluation has not been submitted by the anniversary (“merit") date,
+            the employee will advance to the next higher step.
+
+        (C) Employees who are denied a step increase must be notified in writing prior to the scheduled date of
+            the increase. The notice must identify the areas of deficiency. Employees will be given the
+             opportunity to sign the notice. Employees who are denied a step increase may utilize the
+             Administrative Procedures Manual (APM) evaluation appeal process. The only permissible claim of
+             contract violation is a management rights violation because the performance deficiency is alleged to
+             be unsubstantiated or the denial is alleged to be inequitable.
+
+
+
+
+   2.   The parties agree to memorialize this agreement during successor negotiations in 2027.
+
+   3.   This agreement shall be effective following signatures of both parties.
+
+
+
+        Rath                                           we he Weak
+   For the       UNION:                                Forthe COUNTY:
+
+
+   Rick Pokorny, President                            ing          , Labor Relations Manager
+        SACU                                                5/ \z/2oU
+   Date                                               Date
+
+                                                            A        AER          WU
+                                                      Greg Rikhbff, Assistant County Administrator
+
+                                                        J    f/izj[w7e
+                                                      Dat
+

@@ -34,3 +34,8 @@ credentials.json
 _meta/snapshots/*.pdf
 _meta/snapshots/*.html
 _meta/snapshots/*.signed
+
+# Semantic index — built from the corpus and MOUNTED at runtime, never committed
+# (_meta/corpus.yml says so under plugins.semantic_search_module; nothing enforced it,
+# so a local build landed in `git add -A` staging until it was caught by review).
+_meta/embeddings/

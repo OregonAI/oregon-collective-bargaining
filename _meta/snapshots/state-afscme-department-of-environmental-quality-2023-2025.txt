@@ -142,7 +142,7 @@ affecting members of the bargaining unit as certified by the Employment Relation
 
          NOW, THEREFORE, IT IS AGREED AS FOLLOWS:
 
-                                                ARTICLE 1 - RECOGNITION
+### ARTICLE 1 - RECOGNITION
 
 Section 1.
        The Employer and the Agency recognizes the Union as the sole and exclusive bargaining
@@ -155,7 +155,7 @@ Section 2.
 Union. Likewise, this Agreement binds the Employer and the Agency and any person designated
 by it to act on its behalf.
 
-                                         ARTICLE 2 - MANAGEMENT RIGHTS
+### ARTICLE 2 - MANAGEMENT RIGHTS
 
        The parties agree that the Employer and the Agency have the right to operate and manage
 the Agency, including, but not limited to the right to maintain order and efficiency; to direct
@@ -168,7 +168,7 @@ action against employees; to lay off employees; to recall employees; to require 
 employees; and to promulgate rules, regulations and personnel policies, provided that such
 rights shall not be exercised so as to violate any of the specific provisions of this Agreement.
 
-                                                ARTICLE 3 - UNION RIGHTS
+### ARTICLE 3 - UNION RIGHTS
 
 Section 1.
       The Union will notify the Human Resources Manager of the Agency in writing of its
@@ -393,17 +393,17 @@ of yearly paid time. The yearly hours shall not accrue.
                                                                                       Rev: 2015, 2017, 2019, 2021,2023
 
 
-                                       ARTICLE 4 - LAWS AND REGULATIONS
+### ARTICLE 4 - LAWS AND REGULATIONS
 
       This Agreement is subject to all applicable existing and future State and federal laws and
 regulations.
 
-                                           ARTICLE 5 - UNIT CLARIFICATION
+### ARTICLE 5 - UNIT CLARIFICATION
 
 Any dispute or question concerning bargaining unit composition shall be resolved by the
 Employment Relations Board.
 
-      ARTICLE 6 - EQUAL EMPLOYMENT OPPORTUNITY AND AFFIRMATIVE ACTION
+### ARTICLE 6 - EQUAL EMPLOYMENT OPPORTUNITY AND AFFIRMATIVE ACTION
 
 Section 1.
        The provisions of this Agreement shall apply equally to all employees in the bargaining
@@ -429,7 +429,7 @@ to resolve it, and/or issue its findings to the employee and the Union.
                                                                                                             Rev: 2019
 
 
-                                                ARTICLE 7 - DEFINITIONS
+### ARTICLE 7 - DEFINITIONS
 
 Classification Specifications: A document established by Department of Administrative
 Services, Human Resources Services Division setting forth a class title, a statement of minimum
@@ -498,13 +498,13 @@ position.
                                                                                                            REV: 2023
 
 
-                    ARTICLE 8 - AVAILABILITY OF THE PARTIES TO EACH OTHER
+### ARTICLE 8 - AVAILABILITY OF THE PARTIES TO EACH OTHER
 
       The parties agree that representatives of the Employer and the Union are each obligated
 to meet at reasonable times at the request of the other party for discussion of interpretation of
 the Agreement. Both parties pledge to meet expeditiously and in good faith.
 
-                                                ARTICLE 9 - DUES DEDUCTION
+### ARTICLE 9 - DUES DEDUCTION
 
 Section 1.
 1.    The Employer agrees to deduct the monthly fees from the pay of those employees the
@@ -524,7 +524,7 @@ Section 1.
                                                                                                            REV: 2019
 
 
-                             ARTICLE 10 - LIMITED DURATION APPOINTMENTS
+### ARTICLE 10 - LIMITED DURATION APPOINTMENTS
 
 Section 1.
        Persons may be hired for special studies or projects of uncertain or limited duration which
@@ -588,7 +588,7 @@ Vacancies, conduct a recruitment or offer the current incumbent permanent status
 position. If a recruitment is conducted and the current incumbent applies the employee shall be
 granted an interview and be considered.
 
-                                 ARTICLE 11 - AGENCY PERSONNEL POLICIES
+### ARTICLE 11 - AGENCY PERSONNEL POLICIES
 
         The Agency shall provide a copy of its written personnel policies to the Union. An up-to-
 date copy of current personnel policies shall be made available in every Division to employees.
@@ -596,7 +596,7 @@ date copy of current personnel policies shall be made available in every Divisio
 notification will be provided to all affected employees.
 
 2023-2025 Department of Environmental Quality        12              Collective Bargaining Agreement
-                                   ARTICLE 12 - DISCIPLINE AND DISCHARGE
+### ARTICLE 12 - DISCIPLINE AND DISCHARGE
 
        The Union and the Agency have a shared interest in efficient conduct of State business
 and timely correction of performance deficiencies.
@@ -669,7 +669,7 @@ before the interview, but such consultation shall not cause an undue delay.
                                                                                                     Rev: 2021
 
 
-                                      ARTICLE 13 - GRIEVANCE PROCEDURE
+### ARTICLE 13 - GRIEVANCE PROCEDURE
 
 Section 1.
       Grievances are defined as acts, omissions, applications, meaning or interpretation
@@ -822,7 +822,7 @@ j.        The arbitration award shall not establish a precedent for any current 
                                                                                                  Rev: 2015, 2019, 2021
 
 
-                                                ARTICLE 14 - SHOP STEWARDS
+### ARTICLE 14 - SHOP STEWARDS
 
 Section 1.
         A reasonable number of Shop Stewards shall be allowed to ensure access to all Agency
@@ -862,7 +862,7 @@ Section 4.
       Stewards for the Union shall be granted personal leave, accrued vacation leave, accrued
  compensatory time, or leave of absence without pay to attend Union recommended trainings.
 
-                                        ARTICLE 15 - PERSONNEL RECORDS
+### ARTICLE 15 - PERSONNEL RECORDS
 
 Section 1.
          The Chief Human Resources Office human resource information system is the system of record
@@ -945,7 +945,7 @@ employee.
                                                                                                    Rev: 2015, 2021
 
 
-                                        ARTICLE 16 - FILLING OF VACANCIES
+### ARTICLE 16 - FILLING OF VACANCIES
 
        The Agency and the Union agree that how and when to fill vacancies are management
 rights. Both Parties also recognize that a vacant position creates an opportunity for staff-
@@ -997,7 +997,7 @@ represented positions will include at least one (1) represented employee.
                                                                                                     REV: 2017, 2019, 2021
 
 
-                                                ARTICLE 17 - TRIAL SERVICE
+### ARTICLE 17 - TRIAL SERVICE
 
 Section 1.
       All employees appointed to a position shall serve a trial service period of six (6) months
@@ -1063,7 +1063,7 @@ Section 6. Outside Agency Transfer or Promotional Trial Service
                                                                                                      REV: 2017,2023
 
 
-                  ARTICLE 18 - CLASSIFICATION AND CLASSIFICATION CHANGES
+### ARTICLE 18 - CLASSIFICATION AND CLASSIFICATION CHANGES
 
 Section 1. Work Out of Classification.
       a.    When an employee is assigned, in writing, by the Agency for a limited time period
@@ -1298,7 +1298,7 @@ for a pay option, temporarily or on a long term basis, shall be as follows:
                                                                                         Rev: 2015, 2017,2019,2023
 
 
-                                           ARTICLE 19 - CONTRACTING OUT
+### ARTICLE 19 - CONTRACTING OUT
 
 Section 1.
         The Union recognizes that the Employer has the management right, during the term of
@@ -1390,7 +1390,7 @@ effective and efficient way to accomplish the work in the future for Agency init
 Decisions around reviewing of contracted work are not subject to the grievance procedure.
 See LOA: Contracting Out Feasibility Study
 
-                                                ARTICLE 20 - LAYOFF
+### ARTICLE 20 - LAYOFF
 
 Section 1. Alternate to Layoff
 1.    When the Agency believes that a lack of funds requires a layoff, the Agency will notify the
@@ -1779,7 +1779,7 @@ be required to use the dispute resolution process contained in the PECBA.
                                                                                                   Rev: 2015, 2017
 
 
-                                  ARTICLE 21 - PAYDAY AND PAY ADVANCES
+### ARTICLE 21 - PAYDAY AND PAY ADVANCES
 
 Section 1.
        All employees shall normally be paid no later than the first of the month. When a payday
@@ -1808,7 +1808,7 @@ percent (60%) of gross pay earned to date in the month, but shall be at least on
 ($100.00). Employees may submit requests up to the final monthly payroll cutoff date. Pay
 advance requests will normally be submitted to the payroll office by the fifteenth of the month.
 
-                                         ARTICLE 22 - HEALTH AND SAFETY
+### ARTICLE 22 - HEALTH AND SAFETY
 
 Section 1.
        The Employer agrees to abide by standards of safety and health and develop and
@@ -2020,7 +2020,7 @@ See LOA: Section 12 - Health and Safety (VIP only), Mental Health Training Resou
                                                                                        Rev: 2015, 2017, 2021,2023
 
 
-               ARTICLE 23 – EDUCATION, TRAINING, AND CAREER DEVELOPMENT
+### ARTICLE 23 – EDUCATION, TRAINING, AND CAREER DEVELOPMENT
 
 Section 1.
       The Agency recognizes that employee participation in training, education and career
@@ -2096,7 +2096,7 @@ shall not be unreasonably denied.
                                                                                                            Rev: 2015,2019
 
 
-                   ARTICLE 24 - WORKWEEK, WORKDAY AND WORK SCHEDULE
+### ARTICLE 24 - WORKWEEK, WORKDAY AND WORK SCHEDULE
 
 Section 1. Definitions.
         The regular workweek is defined as seven (7) consecutive calendar days beginning on
@@ -2145,7 +2145,7 @@ supervisor. If the supervisor approves the change in the employee's work schedul
 employee waives all rights to reporting time pay, and shift differential associated with the request.
 See LOA: Workweek, Workday and Work Schedule
 
-                                                ARTICLE 24A - FLEXTIME
+### ARTICLE 24A - FLEXTIME
 
 Section 1. Definitions.
       Regular schedule is five (5) consecutive eight (8)-hour days recurring each week.
@@ -2248,7 +2248,7 @@ demands within limited workspace, etc.
                                                                                                             Rev: 2017
 
 
-                                                ARTICLE 25 - REPORTING TIME
+### ARTICLE 25 - REPORTING TIME
 
 Section 1.
       Reporting time is the time designated or recognized as the start of the daily work shift or
@@ -2271,7 +2271,7 @@ Section 4.
 Agency, all forms of overtime compensation and reporting time pay associated with the changed
 schedule shall be waived.
 
-                         ARTICLE 26 - SCHEDULING COMPENSATORY TIME OFF
+### ARTICLE 26 - SCHEDULING COMPENSATORY TIME OFF
 
 Section 1.
        Subject to the operating requirements of the Agency, an employee shall have their choice
@@ -2297,7 +2297,7 @@ Section 4.
       When an employee terminates employment with the Agency, the Agency shall pay all
 unused compensatory time hours to the employee in the last paycheck.
 
-            ARTICLE 27 - INCLEMENT WEATHER/HAZARDOUS CONDITIONS LEAVE
+### ARTICLE 27 - INCLEMENT WEATHER/HAZARDOUS CONDITIONS LEAVE
 
 Section 1.
       a.            The Employer/Agency designated official(s) may close or curtail offices, facilities,
@@ -2447,7 +2447,7 @@ time loss.
                                                                                                REV: 2017,2019, 2021,2023
 
 
-                                                ARTICLE 28 - HOLIDAYS
+### ARTICLE 28 - HOLIDAYS
 
 Section 1.
        The following compensable holidays shall be recognized:
@@ -2877,7 +2877,7 @@ hour workweek.
 See LOA: Holidays Portland-Metro Holiday Schedule For Vehicle Emissions Inspectors
                                                                                      Rev: 2015, 2017, 2019, 2021,2023
 
-                                            ARTICLE 29 – VACATION LEAVE
+### ARTICLE 29 – VACATION LEAVE
 
 Section 1. Vacation Leave for Full-time Employees.
         Full-time classified employees shall accrue vacation leave in accordance with the
@@ -3037,7 +3037,7 @@ appropriate.
                                                                                             Rev: 2017, 2019, 2021,2023
 
 
-                                                ARTICLE 30 – SICK LEAVE
+### ARTICLE 30 – SICK LEAVE
 
 Section 1. Accrual Rate of Sick Leave With Pay Credits.
       Employees shall accrue eight (8) hours of sick leave with pay credits for each full month
@@ -3139,7 +3139,7 @@ Section 9. Federal Family and Medical Leave Act (FMLA) and Oregon Family Leave A
                                                                                                           Rev: 2017
 
 
-                                                ARTICLE 31 - OTHER LEAVES
+### ARTICLE 31 - OTHER LEAVES
 
 Section 1. Leaves With Pay.
       a.    Personal Leave. After completion of trial service, regular, permanent, and limited
@@ -3367,7 +3367,7 @@ See LOA: Other Leaves Hardship Donations of Sick Leave
                                                                                   Rev: 2015, 2017, 2019, 2021
 
 
-                    ARTICLE 32 - POSITION DESCRIPTIONS/WORK AGREEMENTS
+### ARTICLE 32 - POSITION DESCRIPTIONS/WORK AGREEMENTS
 
 Section 1. Position Descriptions.
       a.    Position descriptions shall be in writing and delineate the specific duties assigned
@@ -3416,7 +3416,7 @@ Section 3. Work Improvement Plans.
 
 
 2023-2025 Department of Environmental Quality   67              Collective Bargaining Agreement
-                                        ARTICLE 33 - QUARTERLY CHECK-IN
+### ARTICLE 33 - QUARTERLY CHECK-IN
 
 Section 1. Quarterly Check-in.
        Supervisory managers shall conduct check-ins with their employees on a quarterly basis.
@@ -3468,7 +3468,7 @@ opportunities, to improve performance.
 
 
 2023-2025 Department of Environmental Quality          68          Collective Bargaining Agreement
-                                      ARTICLE 34 - SALARY ADMINISTRATION
+### ARTICLE 34 - SALARY ADMINISTRATION
 
 Section 1. Step Salary Increase
        Employees shall be eligible for consideration for step salary increases following:
@@ -3519,7 +3519,7 @@ such employee was being paid at the time of layoff.
 
 
 2023-2025 Department of Environmental Quality          69          Collective Bargaining Agreement
-                                                ARTICLE 35 - OVERTIME
+### ARTICLE 35 - OVERTIME
 
 Section 1.
         This Article is intended only to provide a basis for the calculation of overtime and none of
@@ -3563,7 +3563,7 @@ after Step 2, the affected employee may file a charge with the Bureau of Labor a
 is given by BOLI or DOL within ninety (90) days, the employee may proceed with a grievance to
 arbitration if necessary.
 
-                                          ARTICLE 36 - SHIFT DIFFERENTIAL
+### ARTICLE 36 - SHIFT DIFFERENTIAL
 
 Section 1.
        An employee shall be paid an additional differential of six percent (6%) of base pay per
@@ -3583,7 +3583,7 @@ Response.
                                                                                                          REV: 2021
 
 
-                                                ARTICLE 37 - ON-CALL
+### ARTICLE 37 - ON-CALL
 
 Section 1.
        An employee shall be on call when authorized by their supervisor and required to be
@@ -3610,7 +3610,7 @@ Section 5.
         This Article shall not apply to employees who have been formally assigned by the Agency,
 in writing, to be on call for, and to perform "off-hour" Spill Response Duties.
 
-                                   ARTICLE 38 - CALL BACK COMPENSATION
+### ARTICLE 38 - CALL BACK COMPENSATION
 
 Section 1.
        Call back is an occasion where an employee has been released from duty and is called
@@ -3629,7 +3629,7 @@ Section 3.
         This Article shall not apply to employees who have been formally assigned by the Agency,
 in writing, to be on call for, and to perform "off-hour" Spill Response Duties.
 
-                                                ARTICLE 39 - LEADWORK
+### ARTICLE 39 - LEADWORK
 
 Section 1.
         Leadworkers play an important role in their Section. Leadwork differential shall be defined
@@ -3679,7 +3679,7 @@ the administration of this Article.
                                                                                                       REV: 2021,2023
 
 
-                               ARTICLE 40 - HEALTH AND DENTAL INSURANCE
+### ARTICLE 40 - HEALTH AND DENTAL INSURANCE
 
 Section 1.
        An Employer contribution will be made for each eligible employee who has at least eighty
@@ -3739,7 +3739,7 @@ savings.
                                                                                Rev: 2015, 2017, 2019, 2021,2023
 
 
-                                    ARTICLE 41 - WORKERS' COMPENSATION
+### ARTICLE 41 - WORKERS' COMPENSATION
 
 Section 1.
         An employee who sustained a compensable injury shall be reinstated by the Agency to
@@ -3782,7 +3782,7 @@ the Workers' Compensation for lost time and the employee's regular salary rate. 
 instances, prorated charges will be made against accrued vacation and/or compensatory time.
 No employee shall be required to utilize leave while receiving time loss benefits.
 
-                                                ARTICLE 42 - UNIFORMS
+### ARTICLE 42 - UNIFORMS
 
        If an employee is required by the Agency to wear a uniform(s) the Agency shall provide
 the uniform(s). When a uniform(s) is provided by the Agency the employee must wear the
@@ -3798,7 +3798,7 @@ for such dry cleaning.
                                                                                                  Rev: 2015, 2021,2023
 
 
-                             ARTICLE 43 - TRAVEL AND MILEAGE ALLOWANCE
+### ARTICLE 43 - TRAVEL AND MILEAGE ALLOWANCE
 
 Section 1.
        Reimbursements and procedures will be in accordance with Oregon Accounting Manual,
@@ -3813,13 +3813,13 @@ weekly schedule without daily overtime or schedule change penalty. Where such sc
 modification still results in the need for additional work hours, the employee shall be paid the
 appropriate rate of pay for all time worked over forty hours in that workweek.
 
-                                           ARTICLE 44 - MOVING EXPENSES
+### ARTICLE 44 - MOVING EXPENSES
 
       Moving expense reimbursement claims will be governed by the Department of
 Administrative Services, Human Resources Services Division Policy 40.055.10, and its
 successors. Changes in this policy will be automatically incorporated into this contract Article.
 
-                                                ARTICLE 45 - PARKING
+### ARTICLE 45 - PARKING
 
        If there are any changes in parking rates for employees at any Agency owned or operated
 parking facility which are directly controlled by the Agency, the Employer shall provide the
@@ -3830,7 +3830,7 @@ deemed appropriate.
 
 
 2023-2025 Department of Environmental Quality             75            Collective Bargaining Agreement
-                                                ARTICLE 46 - SALARIES
+### ARTICLE 46 - SALARIES
 
 Section 1. PERS Pickup
        Effective February 1, 2019 compensation plan salary rates for PERS participating
@@ -3883,7 +3883,7 @@ See LOA: Salary and Benefit Report, Salary Range Truncation, One-Time Payment CO
 
 
 2023-2025 Department of Environmental Quality             76            Collective Bargaining Agreement
-                          ARTICLE 47 - STRIKES, LOCKOUTS AND PICKET LINES
+### ARTICLE 47 - STRIKES, LOCKOUTS AND PICKET LINES
 
         The Union agrees that during the life of this Agreement, the Union or its bargaining unit
 members will not authorize, instigate, aid or engage in any work stoppage, slowdown, sickout,
@@ -3898,7 +3898,7 @@ it has caused or counseled such strike activity.
         Any alleged violation of this Article by either party may be referred to the grievance
 arbitration procedure or may be pursued in the Courts at the discretion of the moving party.
 
-                                          ARTICLE 48 - LEGISLATIVE ACTION
+### ARTICLE 48 - LEGISLATIVE ACTION
 
 Section 1.
        Provisions of this Agreement not requiring legislative funding, or statutory changes,
@@ -3917,7 +3917,7 @@ submitted to them under the preceding Section, then the Employer and Union shall
 meet, negotiate and agree on modifications or substitutions for the affected portion or portions
 of this Agreement pursuant to the procedures provided by Article 49 - Savings.
 
-                                                ARTICLE 49 - SAVINGS
+### ARTICLE 49 - SAVINGS
 
         In the event any provision of this Agreement is declared invalid by any court of competent
 jurisdiction or by ruling of the Employment Relations Board, then only such portion or portions
@@ -3928,7 +3928,7 @@ or portions of the Agreement so affected and to bring into conformance therewith
 is not reached within a reasonable period of time, the provision of Article 47 – Strikes, Lockouts
 and Picket Lines and shall not apply.
 
-                                       ARTICLE 50 - COMPLETE AGREEMENT
+### ARTICLE 50 - COMPLETE AGREEMENT
 
 Section 1.
         This Agreement is the full and complete Agreement between the Employer and the Union
@@ -3947,7 +3947,7 @@ parties.
 Section 2.
       This Agreement supersedes all prior written agreements.
 
-                                    ARTICLE 51 - SUCCESSOR NEGOTIATIONS
+### ARTICLE 51 - SUCCESSOR NEGOTIATIONS
 
 Section 1.
         If one (1) of the parties desires to modify the Agreement, they shall notify the other party
@@ -3973,7 +3973,7 @@ bargaining session. No overtime, per diem, or other compensation will be paid.
 allotted for a month, the excess hours will be deducted from the hours available for the following
 month.
                                                                                                      REV: 2021
-                                ARTICLE 52 - TRANSFER AND REASSIGNMENT
+### ARTICLE 52 - TRANSFER AND REASSIGNMENT
 
 Section 1. Transfers.
       a.    A transfer is any permanent change of an employee from one duty station to
@@ -3999,7 +3999,7 @@ appropriate the provisions of Article 43 - Travel and Mileage Allowance would ap
                                                                                                              Rev: 2015
 
 
-               ARTICLE 53 - CLIENT COMPLAINT PROCEDURE/EMPLOYEE RIGHTS
+### ARTICLE 53 - CLIENT COMPLAINT PROCEDURE/EMPLOYEE RIGHTS
 
 Section 1.
       When the Agency receives a complaint of an alleged criminal law violation against an
@@ -4019,7 +4019,7 @@ complaint or allegation against them until they have been advised of the specifi
 complaint or allegation. Upon the employee's request for Union representation, questioning
 shall be discontinued until a Union representative is available to participate.
 
-                                                ARTICLE 54 - JOB SHARING
+### ARTICLE 54 - JOB SHARING
 
 Section 1.
         Any employee who wishes to participate in job sharing may submit a written request to
@@ -4050,7 +4050,7 @@ Upon approval of the Agency, the remaining employee may elect to transfer to a v
 time position in the same classification or to voluntarily demote. If the above conditions are not
 available or acceptable, the employee would be subject to layoff.
 
-               ARTICLE 55 - STATE/PERSONAL PROPERTY & PERSONAL EFFECTS
+### ARTICLE 55 - STATE/PERSONAL PROPERTY & PERSONAL EFFECTS
 
 Section 1.
       Employees shall report any breakage, damage or theft of State property to their assigned
@@ -4075,7 +4075,7 @@ which results in loss through damage of personal effects, may request, and the A
 provide assistance to the employee in the filing of a notice of claim with the Director of the
 Department of Administrative Services pursuant to ORS 30.275.
 
-                                         ARTICLE 56 - TERM OF AGREEMENT
+### ARTICLE 56 - TERM OF AGREEMENT
 
 Section 1.
         Unless otherwise noted in a specific article in the Agreement, this Agreement becomes
@@ -4093,7 +4093,7 @@ the other party between the dates of December 1, 2024 and December 31, 2024. Neg
                                                                                      Rev: 2015, 2017, 2019, 2021,2025
 
 
-                       ARTICLE 57 - PROFESSIONAL DIFFERENCES OF OPINION
+### ARTICLE 57 - PROFESSIONAL DIFFERENCES OF OPINION
 
        The Agency encourages staff to express their professional opinions and encourages an
 open and free exchange of ideas and opinions. Where a staff person feels strongly that a
@@ -4111,7 +4111,7 @@ professional opinion.
                                                                                                            Rev: 2017
 
 
-                                                ARTICLE 58 - PAST PRACTICE
+### ARTICLE 58 - PAST PRACTICE
 
 Section 1.
        The parties recognize the Employer's full right to direct the work force and to issue work
@@ -4166,7 +4166,7 @@ Section 7.
        The arbitrator's fee and expenses shall be paid equally by the parties. Failure to act within
 the time limits waives any rights to further consideration in the matter.
 
-            ARTICLE 59 - RECOUPMENT OF WAGE AND BENEFIT OVERPAYMENTS/
+### ARTICLE 59 - RECOUPMENT OF WAGE AND BENEFIT OVERPAYMENTS/
                                   UNDERPAYMENTS
 
 Section 1. Overpayments.
@@ -4222,7 +4222,7 @@ Section 2. Underpayments.
                                                                                                         Rev: 2023
 
 
-                                         ARTICLE 60 – WORKING REMOTELY
+### ARTICLE 60 – WORKING REMOTELY
 
 Section 1.
        Oregon state government encourages working remotely where it is a viable option that
@@ -4362,7 +4362,7 @@ hoc basis:
                                                                                            Rev: 2017 ,2019, 2021,2023
 
 
-          ARTICLE 61 - IMPLEMENTATION OF NEW CLASSES—APPEALS PROCESS
+### ARTICLE 61 - IMPLEMENTATION OF NEW CLASSES—APPEALS PROCESS
 
        The appeals process is designed to allocate employees into new classes. Employees in
 positions allocated to a new classification, who dispute their placement within the new class, can
@@ -4430,13 +4430,13 @@ Section 1.
                     position.
           f.        This process terminates upon completion of the allocation process.
 
-                                     ARTICLE 62 – BILINGUAL DIFFERENTIAL
+### ARTICLE 62 – BILINGUAL DIFFERENTIAL
 
        When formally assigned in the employee’s position description, an employee assigned to
 interpret to or from another language to English will receive a differential of five percent (5%) of
 base pay.
 
-                         ARTICLE 63 – EMERGENCY RESPONSE COORDINATION
+### ARTICLE 63 – EMERGENCY RESPONSE COORDINATION
 
 Section 1.
         The nature and extent of activities conducted as part of the emergency response
@@ -4568,7 +4568,7 @@ See LOA: Emergency Response Coordination Spill
                                                                                        REV: 2017, 2019, 2021
 
 
-                              ARTICLE 64 – LABOR/MANAGEMENT COMMITTEE
+### ARTICLE 64 – LABOR/MANAGEMENT COMMITTEE
 
         The joint labor/management committee is intended to facilitate communication between
 the parties. The committee shall meet when necessary, but not more than once each month
@@ -4603,7 +4603,7 @@ the Agency on an as needed basis.
 
 
 2023-2025 Department of Environmental Quality    90             Collective Bargaining Agreement
-                             ARTICLE 65 - VOLUNTARY MEDICAL SEPARATION
+### ARTICLE 65 - VOLUNTARY MEDICAL SEPARATION
 
 Section 1.
       A regular status employee with a serious health condition who has exhausted all of their
@@ -4641,7 +4641,7 @@ conditions are met:
                                                                                                           NEW: 2019
 
 
-                                            ARTICLE 66 – EXIT INTERVIEWS
+### ARTICLE 66 – EXIT INTERVIEWS
 
 A.        If a regular status employee provides timely notice that they are voluntarily separating
           from Agency service, the Agency will offer an exit interview that focuses on the reason(s)
@@ -4657,7 +4657,7 @@ C.        Upon request, but no more than two (2) times a year, the Union can rec
 
 
 2023-2025 Department of Environmental Quality             91            Collective Bargaining Agreement
-                             ARTICLE 67 – DIVERSITY, EQUITY AND INCLUSION
+### ARTICLE 67 – DIVERSITY, EQUITY AND INCLUSION
 
        The Agency and the Union have a shared interest in dismantling structures of oppression
 that continue to exist across our state. We must recognize the harm done and work towards
@@ -4735,7 +4735,7 @@ See LOA: Article 67 - Diversity, Equity and Inclusion
                                                                                                    NEW: 2021 REV: 2023
 
 
-                                                ARTICLE 68 – AIR QUALITY
+### ARTICLE 68 – AIR QUALITY
 
 Section 1.
         The Air Quality Index (AQI) was developed by the US Environmental Protection Agency as an
@@ -4756,7 +4756,7 @@ Weather/Hazardous Conditions apply for elevated AQI which falls under a Hazardou
                                                                                                              NEW: 2021
 
 
-                                         ARTICLE 69 - PAID LEAVE OREGON
+### ARTICLE 69 - PAID LEAVE OREGON
 
         Paid Leave Oregon is administered by the Oregon Employment Department. The State
 of Oregon, as an employer, shall comply with the provisions of Paid Leave Oregon, as provided
@@ -4778,13 +4778,13 @@ relating to FMLA/OFLA.
 
 
 2023-2025 Department of Environmental Quality   94          Collective Bargaining Agreement
-                                     APPENDIX A – LETTERS OF AGREEMENT
+### APPENDIX A – LETTERS OF AGREEMENT
 
 
 
 
 2023-2025 Department of Environmental Quality        95          Collective Bargaining Agreement
-    LETTER OF AGREEMENT - ARTICLE 19 - CONTRACTING OUT FEASIBILITY STUDY
+### LETTER OF AGREEMENT - ARTICLE 19 - CONTRACTING OUT FEASIBILITY STUDY
 
 This Letter of Agreement is entered into between the State of Oregon Department of
 Administrative Services, on behalf of all State Agencies covered by the State of Oregon and
@@ -4801,7 +4801,7 @@ This Agreement is effective through June 30, 2025.
 
 
 2023-2025 Department of Environmental Quality     96               Collective Bargaining Agreement
- LETTER OF AGREEMENT - ARTICLE 20 – LAYOFF: FULL-TIME/PART-TIME BUMPING
+### LETTER OF AGREEMENT - ARTICLE 20 – LAYOFF: FULL-TIME/PART-TIME BUMPING
                                 OPTION
 
 This Letter of Agreement is entered into by the State of Oregon acting by and through its
@@ -4814,7 +4814,7 @@ The purpose of the Letter of Agreement is to clarify application of certain Sect
 
 CURRENT CONTRACT PROVISIONS:
 
-Article 20—Layoff, Section 6, Layoff Procedure
+### Article 20—Layoff, Section 6, Layoff Procedure
 
 4.       Layoff. The employee may elect to be laid off. An employee who elects to be laid off
          shall be placed on any geographic area layoff list of their choice, within the Agency, for
@@ -4866,7 +4866,7 @@ This Agreement shall expire on June 30, 2025.
 
 
 2023-2025 Department of Environmental Quality        98               Collective Bargaining Agreement
-                      LETTER OF AGREEMENT - ARTICLE 20 – LAYOFF: RECALL
+### LETTER OF AGREEMENT - ARTICLE 20 – LAYOFF: RECALL
 
 The Parties agree to implement the following as replacement for the first (1st) paragraph of
 Section 12, until June 30, 2021, at which time the current language becomes effective again:
@@ -4886,7 +4886,7 @@ This Letter of Agreement shall expire on June 30, 2025.
 
 
 2023-2025 Department of Environmental Quality       99               Collective Bargaining Agreement
-   LETTER OF AGREEMENT - ARTICLE 22 – SECTION 12 – HEALTH AND SAFETY (VIP
+### LETTER OF AGREEMENT - ARTICLE 22 – SECTION 12 – HEALTH AND SAFETY (VIP
                                   ONLY)
 
 The purpose of this Letter of Agreement is to provide clarity about Article 22, Section 12.
@@ -4903,7 +4903,7 @@ This Letter of Agreement expires June 30, 2025.
 
 
 2023-2025 Department of Environmental Quality   100              Collective Bargaining Agreement
-   LETTER OF AGREEMENT – ARTICLE 22 – HEALTH AND SAFETY MENTAL HEALTH
+### LETTER OF AGREEMENT – ARTICLE 22 – HEALTH AND SAFETY MENTAL HEALTH
                           TRAINING RESOURCES
 
 This Letter of Agreement is between the State of Oregon, acting through its Department of
@@ -4926,7 +4926,7 @@ This Agreement will sunset on June 30, 2025.
 
 
 2023-2025 Department of Environmental Quality   101           Collective Bargaining Agreement
-      LETTER OF AGREEMENT - ARTICLE 23 – EDUCATION, TRAINING AND CAREER
+### LETTER OF AGREEMENT - ARTICLE 23 – EDUCATION, TRAINING AND CAREER
                                DEVELOPMENT
 
 This Agreement is between the State of Oregon, acting through its Department of Administrative
@@ -4956,7 +4956,7 @@ This LOA sunsets June 30, 2025.
 
 
 2023-2025 Department of Environmental Quality   102              Collective Bargaining Agreement
-      LETTER OF AGREEMENT – ARTICLE 24 – WORKWEEK, WORKDAY AND WORK
+### LETTER OF AGREEMENT – ARTICLE 24 – WORKWEEK, WORKDAY AND WORK
                                  SCHEDULE
 
 This Letter of Agreement is between the State of Oregon, acting through its Department of
@@ -4977,7 +4977,7 @@ This Agreement shall sunset on June 30, 2025.
 
 
 2023-2025 Department of Environmental Quality   103           Collective Bargaining Agreement
-              LETTER OF AGREEMENT – ARTICLE 28 – HOLIDAYS
+### LETTER OF AGREEMENT – ARTICLE 28 – HOLIDAYS
    PORTLAND-METRO HOLIDAY SCHEDULE FOR VEHICLE EMISSIONS INSPECTORS
 
 This Letter of Agreement is entered into by the State of Oregon acting by and through its
@@ -5044,7 +5044,7 @@ This Agreement becomes effective upon signature(s) and will remain in effect unt
 
 
 2023-2025 Department of Environmental Quality        105               Collective Bargaining Agreement
- LETTER OF AGREEMENT – ARTICLE 31 – OTHER LEAVES HARDSHIP DONATIONS OF
+### LETTER OF AGREEMENT – ARTICLE 31 – OTHER LEAVES HARDSHIP DONATIONS OF
                               SICK LEAVE
 
 Management agrees to allow hardship donations of sick leave on a trial basis with the following
@@ -5065,7 +5065,7 @@ This Letter of Agreement will sunset on June 30, 2025.
 
 
 2023-2025 Department of Environmental Quality   106            Collective Bargaining Agreement
-                 LETTER OF AGREEMENT – ARTICLE 33 – QUARTERLY CHECK-IN
+### LETTER OF AGREEMENT – ARTICLE 33 – QUARTERLY CHECK-IN
 
 In order to ensure that the Agency’s quarterly check-in procedure is implemented consistently
 and equitably and with the intent of DAS Chief Human Resources Office’s (CHRO) quarterly
@@ -5095,7 +5095,7 @@ This Letter of Agreement expires June 30, 2025.
 
 
 2023-2025 Department of Environmental Quality   107             Collective Bargaining Agreement
-     LETTER OF AGREEMENT - ARTICLE 40 - PEBB MEMBER ADVISORY COMMITTEE
+### LETTER OF AGREEMENT - ARTICLE 40 - PEBB MEMBER ADVISORY COMMITTEE
 
 This Agreement is between the State of Oregon, acting through its Department of Administrative
 Services (Employer) and AFSCME Council 75 (Union).
@@ -5133,7 +5133,7 @@ This Agreement will sunset on June 30, 2025.
 
 
 2023-2025 Department of Environmental Quality      108             Collective Bargaining Agreement
-           LETTER OF AGREEMENT – ARTICLE 46 - SALARY AND BENEFIT REPORT
+### LETTER OF AGREEMENT – ARTICLE 46 - SALARY AND BENEFIT REPORT
 
 This Agreement is between the State of Oregon, acting through its Department of Administrative
 Services (DAS) and the AFSCME Local 75, (Union).
@@ -5152,7 +5152,7 @@ This Letter of Agreement will sunset on June 30, 2025, unless extended by mutual
 
 
 2023-2025 Department of Environmental Quality   109           Collective Bargaining Agreement
-            LETTER OF AGREEMENT – ARTICLE 46 - SALARY RANGE TRUNCATION
+### LETTER OF AGREEMENT – ARTICLE 46 - SALARY RANGE TRUNCATION
 
 This Agreement is entered into between the State of Oregon, acting through its Department of
 Administrative Services (DAS), on behalf of the Agencies covered by this Agreement (Agency)
@@ -5296,7 +5296,7 @@ and the AFSCME Council 75 (Union).
 
 
 2023-2025 Department of Environmental Quality        112              Collective Bargaining Agreement
-              LETTER OF AGREEMENT – ARTICLE 46 – ONE-TIME PAYMENT COLA
+### LETTER OF AGREEMENT – ARTICLE 46 – ONE-TIME PAYMENT COLA
 
 This Agreement is entered into between the State of Oregon, acting through its Department of
 Administrative Services (DAS), and the AFSCME Local 75 (Union).
@@ -5317,7 +5317,7 @@ This Letter of Agreement will sunset on June 30, 2025.
 
 
 2023-2025 Department of Environmental Quality      113              Collective Bargaining Agreement
-  LETTER OF AGREEMENT – ARTICLE 63 – EMERGENCY RESPONSE COORDINATION
+### LETTER OF AGREEMENT – ARTICLE 63 – EMERGENCY RESPONSE COORDINATION
                  (SPILL AND COMPENSATORY TIME PAYOUT)
 
 This Letter of Agreement is between the State of Oregon, acting through its Department of
@@ -5343,7 +5343,7 @@ by both Parties.
 
 
 2023-2025 Department of Environmental Quality    114              Collective Bargaining Agreement
-      LETTER OF AGREEMENT – ARTICLE 67 – DIVERSITY, EQUITY AND INCLUSION
+### LETTER OF AGREEMENT – ARTICLE 67 – DIVERSITY, EQUITY AND INCLUSION
 
 This Letter of Agreement is between the State of Oregon, acting through its Department of
 Administrative Services (DAS) (Employer), on behalf of the Department of Environmental Quality
@@ -5378,7 +5378,7 @@ This Agreement will sunset on June 30, 2025.
 
 
 2023-2025 Department of Environmental Quality   115           Collective Bargaining Agreement
-              LETTER OF AGREEMENT – NEW EMPLOYEE NOTICE/UNION ACCESS
+### LETTER OF AGREEMENT – NEW EMPLOYEE NOTICE/UNION ACCESS
 
      1. Notice
            a. The Employer shall provide the Union, in an editable digital file format, the following
@@ -5419,7 +5419,7 @@ This Agreement will sunset on June 30, 2025.
 
 
 2023-2025 Department of Environmental Quality      116              Collective Bargaining Agreement
-     LETTER OF AGREEMENT – OREGON UNIONS STATE WORKER TRAINING FUND
+### LETTER OF AGREEMENT – OREGON UNIONS STATE WORKER TRAINING FUND
 
 The Parties recognize that both the State and its workers benefit from workers understanding
 their different health care options, understanding their retirement benefits and finding solutions
@@ -5461,7 +5461,7 @@ The State Worker Training Fund will develop a plan to deliver trainings and prog
 
 
 2023-2025 Department of Environmental Quality    117             Collective Bargaining Agreement
-                            LETTER OF AGREEMENT – CONTRACT SPECIALIST
+### LETTER OF AGREEMENT – CONTRACT SPECIALIST
 
 This Agreement is between the State of Oregon, acting through its Department of Administrative
 Services (Employer) on behalf of all Agencies covered under the jurisdiction of the AFSCME
@@ -5574,7 +5574,7 @@ This Agreement becomes effective on the effective date of a local agreement and 
 
 
 2023-2025 Department of Environmental Quality   120           Collective Bargaining Agreement
-                                  LETTER OF AGREEMENT – LEGAL DEFENSE
+### LETTER OF AGREEMENT – LEGAL DEFENSE
 
 Section 1.
 This Article provides coverage to bargaining unit employees under the terms and conditions
@@ -5600,7 +5600,7 @@ Bargaining Agreement.
 
 
 2023-2025 Department of Environmental Quality      121             Collective Bargaining Agreement
-                    LETTER OF AGREEMENT – TECHNOLOGY EQUITY (VIP ONLY)
+### LETTER OF AGREEMENT – TECHNOLOGY EQUITY (VIP ONLY)
 
 The Parties agree that properly functioning and updated equipment and technology resources
 are required in the modern workplace. The Parties also agree that equality of access to digital
@@ -5627,7 +5627,7 @@ agreement.
 
 
 2023-2025 Department of Environmental Quality       122              Collective Bargaining Agreement
-LETTER OF AGREEMENT – ESSENTIAL WORKER INCLEMENT WEATHER/HAZARDOUS
+### LETTER OF AGREEMENT – ESSENTIAL WORKER INCLEMENT WEATHER/HAZARDOUS
                            CONDITIONS PAY
 
 This Agreement is between the State of Oregon, acting through its Department of Administrative
@@ -5654,7 +5654,7 @@ Conditions Pay.
 
 
 2023-2025 Department of Environmental Quality   123              Collective Bargaining Agreement
-                         LETTER OF AGREEMENT – NATURAL DISASTER LEAVE
+### LETTER OF AGREEMENT – NATURAL DISASTER LEAVE
 
 This Agreement is between the State of Oregon, acting through its Department of Administrative
 Services (Employer) and AFSCME Council 75 (Union).
@@ -5686,7 +5686,7 @@ agreement.
 
 
 2023-2025 Department of Environmental Quality         124             Collective Bargaining Agreement
-LETTER OF AGREEMENT – STATE POLICY 50.050.01 WORKING REMOTELY UPDATES
+### LETTER OF AGREEMENT – STATE POLICY 50.050.01 WORKING REMOTELY UPDATES
 
 This Letter of Agreement is between the State of Oregon, acting through its Department of
 Administrative Services (Employer on behalf of the Agencies covered under the jurisdiction of
@@ -5703,7 +5703,7 @@ This Agreement becomes effective on the date of the last signature below and end
 
 
 2023-2025 Department of Environmental Quality   125            Collective Bargaining Agreement
-          LETTER OF AGREEMENT – CHILDCARE AND ELDERCARE EXPLORATORY
+### LETTER OF AGREEMENT – CHILDCARE AND ELDERCARE EXPLORATORY
                                    COMMITTEE
 
 This Agreement is between the State of Oregon, acting through its Department of Administrative
@@ -5735,7 +5735,7 @@ The committee will complete their work by January 31, 2025.
 
 
 2023-2025 Department of Environmental Quality    126              Collective Bargaining Agreement
-    LETTER OF AGREEMENT – ARTICLE 64 VEHICLE INSPECTION PROGRAM LABOR
+### LETTER OF AGREEMENT – ARTICLE 64 VEHICLE INSPECTION PROGRAM LABOR
                                WORKGROUP
 
 This Letter of Agreement is between the State of Oregon, acting through its Department of
@@ -5761,7 +5761,7 @@ This Agreement shall sunset on June 30, 2025, unless extended by mutual agreemen
 
 
 2023-2025 Department of Environmental Quality         127              Collective Bargaining Agreement
-                  LETTER OF AGREEMENT—BI-WEEKLY PAY PERIOD/WORKDAY
+### LETTER OF AGREEMENT—BI-WEEKLY PAY PERIOD/WORKDAY
 
 This Letter of Agreement is between the State of Oregon, acting through its Department of
 Administrative Services (Employer), and the AFSCME Local 75 (Union).
@@ -5852,7 +5852,7 @@ Both parties retain their rights under PECBA.
 
 
 2023-2025 Department of Environmental Quality           129             Collective Bargaining Agreement
-                                      LETTER OF AGREEMENT – PAY EQUITY
+### LETTER OF AGREEMENT – PAY EQUITY
 
 This Agreement is entered into by the State of Oregon, acting through its Department of
 Administrative Services, Labor Relations Unit (Employer), on behalf of the Agencies covered by
@@ -5954,7 +5954,7 @@ The Parties agree to the following:
 
 
 2023-2025 Department of Environmental Quality    131              Collective Bargaining Agreement
-                              LETTER OF AGREEMENT – SOLO OFFICE SAFETY
+### LETTER OF AGREEMENT – SOLO OFFICE SAFETY
 
 This Letter of Agreement is between the State of Oregon, acting through its Department of
 Administrative Services (DAS) (Employer), on behalf of the Department of Environmental Quality
@@ -5982,7 +5982,7 @@ This Agreement shall sunset on June 30, 2025, unless extended by mutual agreemen
 
 
 2023-2025 Department of Environmental Quality        132             Collective Bargaining Agreement
-                LETTER OF AGREEMENT – FLEXIBLE AND MODERN WORKPLACE
+### LETTER OF AGREEMENT – FLEXIBLE AND MODERN WORKPLACE
 
 This Letter of Agreement is between the State of Oregon, acting through its Department of
 Administrative Services (DAS) (Employer), on behalf of the Department of Environmental Quality
@@ -6219,7 +6219,7 @@ Natural Disaster                 straight time."
 
 
     2023-2025 Department of Environmental Quality                    137                  Collective Bargaining Agreement
-                           APPENDIX B - AFSCME - DEQ CLASSIFICATION PLAN
+### APPENDIX B - AFSCME - DEQ CLASSIFICATION PLAN
 
  CLASSIFICATION TITLE                      SALARY      Pay /         Information Systems
                                            RANGE       Rng
@@ -6315,7 +6315,7 @@ Natural Disaster                 straight time."
 
 
 2023-2025 Department of Environmental Quality              139                 Collective Bargaining Agreement
-                                         APPENDIX C – SALARY SCHEDULES
+### APPENDIX C – SALARY SCHEDULES
 
                                            SALARY SCHEDULE AS OF JULY 1, 2023
                Pay /

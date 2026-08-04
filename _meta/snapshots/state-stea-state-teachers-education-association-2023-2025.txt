@@ -61,7 +61,7 @@ Signature Page…. .............................................................
 
 
 2023-2025 State Teacher Education Association Collective Bargaining Agreement                                                                    -2–
-                  ARTICLE 1 - RECOGNITION AND STATUS OF AGREEMENT
+### ARTICLE 1 - RECOGNITION AND STATUS OF AGREEMENT
 
 Section A.
        This Agreement is between the Mid-Valley Bargaining Council of the Oregon
@@ -167,7 +167,7 @@ concept and shall determine whether to continue, modify or terminate it.
 
 
 2023-2025 State Teacher Education Association Collective Bargaining Agreement                  -4–
-                                    ARTICLE 2 - MANAGEMENT RIGHTS
+### ARTICLE 2 - MANAGEMENT RIGHTS
 
         Except as specifically modified by the terms of this Agreement, the Department of
 Administrative Services and the Agency retain all rights of management in the direction
@@ -182,7 +182,7 @@ of their work force. Rights of management shall include, but not be limited to, 
         7.     Determine methods, means, and personnel by which operations are to be
                conducted.
 
-                      ARTICLE 3 - ASSOCIATION RIGHTS AND PRIVILEGES
+### ARTICLE 3 - ASSOCIATION RIGHTS AND PRIVILEGES
 
 Section A.
         Upon timely request, the Employer shall make available at no cost to the
@@ -270,7 +270,7 @@ covered by this Agreement.
 
 
 2023-2025 State Teacher Education Association Collective Bargaining Agreement          -6–
-                                       ARTICLE 4 - CONTRACTING OUT
+### ARTICLE 4 - CONTRACTING OUT
 
 Section A.
       The Association recognizes that the Agency has the management right, during the
@@ -299,7 +299,7 @@ If the decision will result in contracting out, the Employer will:
         unit jobs may be contracted to give preferential consideration to STEA members
         submitting job applications including the right to interview.
 
-                               ARTICLE 5 - NEGOTIATION PROCEDURES
+### ARTICLE 5 - NEGOTIATION PROCEDURES
 
 Section A.
       The Agency shall grant leave with pay for up to forty (40) hours each for five (5)
@@ -321,7 +321,7 @@ by both parties.
 
 
 2023-2025 State Teacher Education Association Collective Bargaining Agreement           -7–
-                                    ARTICLE 6 - PERSONNEL RECORDS
+### ARTICLE 6 - PERSONNEL RECORDS
 
 Section A.
         The Chief Human Resources Office (CHRO) human resource information systems
@@ -381,7 +381,7 @@ documents contained therein, or authorize such a request by their representative
                                                                                    REV:, 2021
 
 
-                       ARTICLE 7 - RIGHTS OF PROFESSIONAL TEACHERS
+### ARTICLE 7 - RIGHTS OF PROFESSIONAL TEACHERS
 
 Section A. Discipline.
       No member of the bargaining unit shall be disciplined, discharged, reprimanded,
@@ -483,7 +483,7 @@ work performance, it shall not be done in front of other employees/students.
                                                                                       REV: 2023
 
 
-                                  ARTICLE 8 - POSITION DESCRIPTIONS
+### ARTICLE 8 - POSITION DESCRIPTIONS
 
        Individual position descriptions shall be reduced to writing and delineate the duties
 currently assigned to any teacher's position. A dated copy of the position description shall
@@ -496,7 +496,7 @@ the classification specification. No changes shall be made to a position descrip
 the specific intent to eliminate the employee’s ability to do the job. Changes in the position
 description shall not be for reprisal or disciplinary reasons.
 
-                                ARTICLE 9 - EVALUATION PROCEDURES
+### ARTICLE 9 - EVALUATION PROCEDURES
 
 Section A.
        A program of evaluation and assessment of all teachers is hereby established. The
@@ -520,7 +520,7 @@ Section B.
 and that statement shall be attached to the evaluation and remain with the evaluation for
 the duration of the time the evaluation is in the Teacher’s in his/her personal file.
 
-                                    ARTICLE 10 - PLAN OF ASSISTANCE
+### ARTICLE 10 - PLAN OF ASSISTANCE
 
 Section A.
       Plans of Assistance will only be used for identified teaching deficiencies.
@@ -570,7 +570,7 @@ break and Thanksgiving break.
        c.      Implement a new or revised Plan of Assistance.
        d.      Initiate disciplinary action.
 
-                                   ARTICLE 11 - FILLING OF VACANCIES
+### ARTICLE 11 - FILLING OF VACANCIES
 
 Section A. Vacancies and Transfers.
 Definition of Terms:
@@ -663,7 +663,7 @@ Section E. Other Provisions.
       provide the training at no cost to the employee.
 3.    The Agency shall maintain an Affirmative Action plan.
 
-                                    ARTICLE 12 - REDUCTION IN FORCE
+### ARTICLE 12 - REDUCTION IN FORCE
 
 Section A. Layoff.
        The parties agree on the following job security provisions for teachers in the event
@@ -743,7 +743,7 @@ Section C. Displacement.
        Any teacher displaced by another teacher exercising options under Section
 A.1.d.(1) and (2) may also exercise any option available under Section A.1.d.
 
-                                          ARTICLE 13 - TRIAL SERVICE
+### ARTICLE 13 - TRIAL SERVICE
 
 Section A.
       Each teacher appointed to a position in the bargaining unit by initial appointment
@@ -774,7 +774,7 @@ satisfactorily or his/her habits and dependability do not merit continuance in t
 Removals under this Article shall be well documented, including coaching if appropriate,
 but are not subject to the Grievance and Arbitration Procedure.
 
-                                 ARTICLE 14 - GRIEVANCE PROCEDURE
+### ARTICLE 14 - GRIEVANCE PROCEDURE
 
 Section A. Definitions.
 1.    A "grievance" is a claim by a teacher, a group of teachers, or the Association based
@@ -904,7 +904,7 @@ Section F. Separate Grievance File.
 grievance shall be filed in a separate grievance file and shall not be kept in the personnel
 file of any of the participants.
 
-                                  ARTICLE 15 - NO STRIKE OR LOCKOUT
+### ARTICLE 15 - NO STRIKE OR LOCKOUT
 
        The Association agrees not to participate in or sanction any strike, slowdown,
 walkout, refusal to report to work or interruptions of work during the term of this
@@ -916,7 +916,7 @@ arising during the period of this Agreement.
 Agreement over mandatory subjects, the Employer may exercise its right to unilaterally
 implement and the Association preserves its right to strike.
 
-                                            ARTICLE 16 - WORK YEAR
+### ARTICLE 16 - WORK YEAR
 
 Section A.
 1.    The number of paid days in an individual teacher’s contract will normally not
@@ -1004,7 +1004,7 @@ Section A.
                                                                                      REV:, 2021,2023
 
 
-                                             ARTICLE 17 - WORK DAY
+### ARTICLE 17 - WORK DAY
 
        The work day shall consist of eight (8) hours with one-half (1/2) hour of this time
 for duty free lunch. The work day shall be eight (8) consecutive hours between the hours
@@ -1022,7 +1022,7 @@ who are required by the Agency to give up part or all of the above-described pre
 time shall be paid, in addition to regular teaching pay, a pro-rated amount of their hourly
 rate for the actual time spent on Agency-directed activities in lieu of the preparation time.
 
-     ARTICLE 18 - IN-SERVICE, EDUCATIONAL TRAINING AND DEVELOPMENT
+### ARTICLE 18 - IN-SERVICE, EDUCATIONAL TRAINING AND DEVELOPMENT
 
 Section A.
        New teachers shall be provided orientation to the Agency and to their specific job
@@ -1083,7 +1083,7 @@ operating requirements, the Agency may pay up to one hundred fifty dollars ($150
 per year for membership(s) in professional organization(s). Memberships must be related
 to the teacher’s current work assignment.
 
-                                ARTICLE 19 - TUITION REIMBURSEMENT
+### ARTICLE 19 - TUITION REIMBURSEMENT
 
 Section A.
       To increase the quality of teaching, the Agency supports the principle of continuing
@@ -1123,7 +1123,7 @@ testing fees paid. This Section does not apply to certifications teachers are re
 have as a condition of employment either at the time of hire or within a specified period
 of time pursuant to the terms of hire.
 
-                                  ARTICLE 20 - STUDENT MANAGEMENT
+### ARTICLE 20 - STUDENT MANAGEMENT
 
 Section A.
       The Agency, and members of the Association, via the Labor-Management
@@ -1179,7 +1179,7 @@ Section D.
       notification of that fact within five (5) working days. The teacher will not be
       disciplined for reporting the incident.
 
-                                     ARTICLE 21 - SAFETY AND HEALTH
+### ARTICLE 21 - SAFETY AND HEALTH
 
 Section A.
       The Agency agrees to abide by standards of safety and health in accordance with
@@ -1218,7 +1218,7 @@ sick leave. Where immunization or testing shall prevent or help prevent such dis
 from occurring, teachers shall be granted accrued sick leave for the time off from work
 required for immunization or testing.
 
-                                             ARTICLE 22 - SICK LEAVE
+### ARTICLE 22 - SICK LEAVE
 
 Section A. Sick Leave with Pay.
 Sick leave with pay for teachers shall be determined in the following manner:
@@ -1303,7 +1303,7 @@ accrued sick leave.
 
 
 2023-2025 State Teacher Education Association Collective Bargaining Agreement            - 26 –
-                                ARTICLE 23 - PAID LEAVES OF ABSENCE
+### ARTICLE 23 - PAID LEAVES OF ABSENCE
 
       In addition to all other types of leave, teachers shall be entitled to the following
 leaves of absence with full pay and benefits:
@@ -1370,7 +1370,7 @@ Section A. Types of Leave.
                                                                                        REV: 2021
 
 
-                             ARTICLE 24 - UNPAID LEAVES OF ABSENCE
+### ARTICLE 24 - UNPAID LEAVES OF ABSENCE
 
 Section A. Additional Leaves Without Pay.
 1.    A permanent teacher may be granted a leave of absence without pay, for
@@ -1414,7 +1414,7 @@ Section E. Court Appearance Leave Without Pay.
         A teacher may request and shall be granted leave without pay for the time required
 to make an appearance as a plaintiff or defendant in a civil or criminal court proceeding
 that is not connected with the teacher's officially assigned duties.
-                            ARTICLE 25 - COMPENSATION
+### ARTICLE 25 - COMPENSATION
 
 Section A.
 1.    Effective December 1, 2023, Compensation Plan salary rates shall be increased
@@ -1515,7 +1515,7 @@ description.
                                                                                 REV: 2017,2019, 2021,2023
 
 
-                         ARTICLE 26 - INSURANCE AND FRINGE BENEFITS
+### ARTICLE 26 - INSURANCE AND FRINGE BENEFITS
 
 Section A.
        An Employer contribution will be made for each eligible employee who has at least
@@ -1537,7 +1537,7 @@ and so permitted by PEBB.
                                                                                     REV: 2017, 2021,2023
 
 
-                                                  ARTICLE 27 - PERS
+### ARTICLE 27 - PERS
 
 Section A. Public Employees Retirement System (“PERS”) Members.
        For purposes of this Article, PERS participating member is an employee who has
@@ -1570,12 +1570,12 @@ waiver of any party’s rights, claims or defenses with respect to the above.
                                                                                      REV: 2019
 
 
-                                      ARTICLE 28 - TRAVEL EXPENSES
+### ARTICLE 28 - TRAVEL EXPENSES
 
       All rates and provisions shall be consistent with the Oregon Department of
 Administrative Services Accounting Division policy #40.01 00 PO.
 
-                                  ARTICLE 29 - INCLEMENT CONDITIONS
+### ARTICLE 29 - INCLEMENT CONDITIONS
 
 Section A.
         When, in the judgment of the Institution, weather conditions require the closing or
@@ -1593,7 +1593,7 @@ Section C.
 hazardous road conditions resulting from inclement weather or road closures shall be
 allowed to stay inside a building.
 
-                                        ARTICLE 30 - DONATED LEAVE
+### ARTICLE 30 - DONATED LEAVE
 
 Section A.
        This Article shall apply for the purpose of allowing bargaining unit members to
@@ -1624,7 +1624,7 @@ with no exceptions:
           disability insurance benefits, or on parental leave will not be considered eligible to
           receive donations under this Agreement.
 
-                                 ARTICLE 31 – ESSENTIAL WORKER PAY
+### ARTICLE 31 – ESSENTIAL WORKER PAY
 
 When a situation exists that would otherwise curtail or close state offices, essential
 workers having to report to work, in-person, shall receive the Essential Worker Inclement
@@ -1800,7 +1800,7 @@ holiday when state offices are otherwise closed.
 
 
 2023-2025 State Teacher Education Association Collective Bargaining Agreement                                 - 36 –
-                                                        APPENDIX B
+### APPENDIX B
 
 1.        Extra duties shall be those school related activities authorized in writing by the
           Employer which extend beyond a normal school day. The purpose of these
@@ -1844,7 +1844,7 @@ holiday when state offices are otherwise closed.
 
 
 2023-2025 State Teacher Education Association Collective Bargaining Agreement              - 37 –
-                                  APPENDIX C -- Official Grievance Form
+### APPENDIX C -- Official Grievance Form
 
 
 Grievant:                                                                       School:
@@ -1929,7 +1929,7 @@ Arbitration (Mediation may be attempted at this time if mutually agreeable):
 
 
 2023-2025 State Teacher Education Association Collective Bargaining Agreement                   - 39 –
-                      APPENDIX D -- Guidelines for OSD Teacher Evaluation
+### APPENDIX D -- Guidelines for OSD Teacher Evaluation
 
 
 I.        The primary purpose of this evaluation is the improvement of instruction at OSD.
@@ -2094,7 +2094,7 @@ VI.       Guidelines for Educator Effectiveness
 
 
 2023-2025 State Teacher Education Association Collective Bargaining Agreement   - 43 –
-                                           LETTER OF AGREEMENT #1
+### LETTER OF AGREEMENT #1
 
       This agreement is between the State of Oregon, acting through its Department of
 Administrative Services (Employer), on behalf of the Department of Education (Agency)
@@ -2111,7 +2111,7 @@ during the life of the parties’ 2019-2021 collective bargaining agreement.
 
 
 2023-2025 State Teacher Education Association Collective Bargaining Agreement        - 44 –
-                        LETTER OF AGREEMENT #2 – ASLPI Subcommittee
+### LETTER OF AGREEMENT #2 – ASLPI Subcommittee
 
 This Letter of Agreement is entered into between the Department of Administrative
 Services, Labor Relations Unit (Employer), on behalf of the Department of Education and
@@ -2127,7 +2127,7 @@ objectives to recommend to the Labor Management Committee no later than January 
 
 
 2023-2025 State Teacher Education Association Collective Bargaining Agreement     - 45 –
-  LETTER OF AGREEMENT #3 – School Psychologist Recruitment and Retention
+### LETTER OF AGREEMENT #3 – School Psychologist Recruitment and Retention
                              Differential
 
 This Agreement is between the State of Oregon, acting through its Department of
@@ -2144,7 +2144,7 @@ thirty (30) days of written notification to the Union of the finalization of the
 
 
 2023-2025 State Teacher Education Association Collective Bargaining Agreement        - 46 –
-                   LETTER OF AGREEMENT #4 – ONE-TIME COLA PAYMENT
+### LETTER OF AGREEMENT #4 – ONE-TIME COLA PAYMENT
 
 
 This Agreement is between the State of Oregon, acting through its Department of
@@ -2166,7 +2166,7 @@ This Letter of Agreement will sunset on June 30, 2025.
 
 
 2023-2025 State Teacher Education Association Collective Bargaining Agreement       - 47 –
-                                 LETTER OF AGREEMENT #5 – Work Year
+### LETTER OF AGREEMENT #5 – Work Year
 
 
 This Agreement is between the State of Oregon, acting through its Department of

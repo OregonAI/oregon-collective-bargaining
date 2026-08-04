@@ -87,7 +87,7 @@ strong, balanced infrastructure that addresses safety, quality, accessibility, a
 
 
 2021-2025 AFSCME Child Care Collective Bargaining Agreement                                           1
-                                                 ARTICLE 1 - RECOGNITION
+### ARTICLE 1 - RECOGNITION
 
 
 Section 1.
@@ -114,7 +114,7 @@ purposes of this Agreement.
 
 
 2021-2025 AFSCME Child Care Collective Bargaining Agreement                                    2
-                                                ARTICLE 2 - UNION RIGHTS
+### ARTICLE 2 - UNION RIGHTS
 
 
 Section 1. Dues
@@ -215,7 +215,7 @@ attend. Should the Union and State agree no meeting is necessary, it shall be ca
 
 
 2021-2025 AFSCME Child Care Collective Bargaining Agreement                                            5
-                                       ARTICLE 4 - EDUCATION AND TRAINING
+### ARTICLE 4 - EDUCATION AND TRAINING
 
 
 Section 1.
@@ -371,7 +371,7 @@ I.       Individual Bargaining Unit Members will be eligible to receive funds as
                                                                                              REV: 2017, 2019
 
 2021-2025 AFSCME Child Care Collective Bargaining Agreement                                                9
-                         ARTICLE 5 – SUBSIDY RATES AND PAYMENT PROCESSES
+### ARTICLE 5 – SUBSIDY RATES AND PAYMENT PROCESSES
 
 
 Section 1.
@@ -453,7 +453,7 @@ Price Study to the researchers responsible for conducting the study.
 
 
 2021-2025 AFSCME Child Care Collective Bargaining Agreement                                               11
-                             ARTICLE 6 - PROVIDER RECORDS AND COMPLAINTS
+### ARTICLE 6 - PROVIDER RECORDS AND COMPLAINTS
 
 
 Section 1.
@@ -538,7 +538,7 @@ resolving the complaint or dispute.
 
 
 2021-2025 AFSCME Child Care Collective Bargaining Agreement                                        14
-                                             ARTICLE 7- CRIMINAL HISTORY
+### ARTICLE 7- CRIMINAL HISTORY
 
 
 Section 1.
@@ -556,7 +556,7 @@ the CBC/CBR enrollment process.
 
 
 2021-2025 AFSCME Child Care Collective Bargaining Agreement                                       15
-                                          ARTICLE 8 - GRIEVANCE PROCESS
+### ARTICLE 8 - GRIEVANCE PROCESS
 
 
 Section 1. Grievance Definitions.
@@ -668,7 +668,7 @@ grievant or Union Steward in the investigation or processing of grievance.
 
 
 2021-2025 AFSCME Child Care Collective Bargaining Agreement                                       18
-                                           ARTICLE 9 - LEGISLATIVE ACTION
+### ARTICLE 9 - LEGISLATIVE ACTION
 
 
 Section 1.
@@ -691,7 +691,7 @@ on modifications or substitutions for the affected portion or portions of this A
 
 
 2021-2025 AFSCME Child Care Collective Bargaining Agreement                                  19
-                                       ARTICLE 10 - LAWS AND REGULATIONS
+### ARTICLE 10 - LAWS AND REGULATIONS
 
 
 This Agreement is subject to all applicable existing and future state and federal laws and
@@ -701,7 +701,7 @@ regulations.
 
 
 2021-2025 AFSCME Child Care Collective Bargaining Agreement                             20
-                                        ARTICLE 11 - COMPLETE AGREEMENT
+### ARTICLE 11 - COMPLETE AGREEMENT
 
 
 Section 1.
@@ -728,7 +728,7 @@ therewith not over sixty (60) days after notification unless extended by mutual 
 
 
 2021-2025 AFSCME Child Care Collective Bargaining Agreement                                       21
-                                              ARTICLE 13 - UNION ACTIVITY
+### ARTICLE 13 - UNION ACTIVITY
 
 
 Section 1.
@@ -759,7 +759,7 @@ official of the Union.
 
 
 2021-2025 AFSCME Child Care Collective Bargaining Agreement                                         22
-                                         ARTICLE 14 - TERM OF AGREEMENT
+### ARTICLE 14 - TERM OF AGREEMENT
 
 
 This Agreement shall be in effect upon its execution and except as amended or modified, shall
@@ -813,7 +813,7 @@ Agreement, in writing, by the Parties or by the operation of law.
 
 
 2021-2025 AFSCME Child Care Collective Bargaining Agreement                                           24
-                                       ARTICLE 15 – TECHNICAL ASSISTANCE
+### ARTICLE 15 – TECHNICAL ASSISTANCE
 
 
 The State will offer technical assistance, which includes support and consultation, to help
@@ -850,7 +850,7 @@ respond in a timely manner but no more than five (5) business days after the ini
 
 
 2021-2025 AFSCME Child Care Collective Bargaining Agreement                                           25
-                        ARTICLE 16 – PAYMENT ACCURACY AND OVERPAYMENTS
+### ARTICLE 16 – PAYMENT ACCURACY AND OVERPAYMENTS
 
 
 Section 1. Accurate Payments.
@@ -922,7 +922,7 @@ c.       ODHS will form and conduct a workgroup, to include the Union and stakeh
 
 
 2021-2025 AFSCME Child Care Collective Bargaining Agreement                                              27
-                                               ARTICLE 19 – STATE RIGHTS
+### ARTICLE 19 – STATE RIGHTS
 
 
 Section 1.
@@ -963,7 +963,7 @@ health and welfare benefits, professional development and training; and other ec
 
 
 2021-2025 AFSCME Child Care Collective Bargaining Agreement                                           28
-                                       ARTICLE 21– MARKET PRICE STUDY
+### ARTICLE 21– MARKET PRICE STUDY
 
 a)       The State and Union will utilize the quarterly meetings, as outlined in Article 2 Section 4 to
          discuss and review the instrument and methodology for the child care market price study
@@ -985,7 +985,7 @@ c)       The Market Price Study Tool will be conducted in English and Spanish an
 
 
 2021-2025 AFSCME Child Care Collective Bargaining Agreement                                          29
-                                      ARTICLE 22– ADMINISTRATIVE RULES
+### ARTICLE 22– ADMINISTRATIVE RULES
 
 
 The Early Learning Council is responsible for approving administrative rules governing licensed
@@ -1000,7 +1000,7 @@ submission to the ELC. The Union will be added to the Rule Advisory listserv upo
 
 
 2021-2025 AFSCME Child Care Collective Bargaining Agreement                                        30
-                                              LETTER OF AGREEMENT
+### LETTER OF AGREEMENT
 
 
 This Letter of Agreement (LOA) is entered into between the Department of Administrative
@@ -1030,7 +1030,7 @@ This Agreement shall expire on June 30, 2023, unless extended by mutual agreemen
 
 
 2021-2025 AFSCME Child Care Collective Bargaining Agreement                                        31
-   LETTER OF AGREEMENT – HEALTH CARE EXPLORATORY COMMITTEE
+### LETTER OF AGREEMENT – HEALTH CARE EXPLORATORY COMMITTEE
 
 
 This Letter of Agreement (LOA) is entered into between the Department of Administrative
@@ -1060,7 +1060,7 @@ This Agreement shall expire on June 30, 2023, unless extended by mutual agreemen
 
 
 2021-2025 AFSCME Child Care Collective Bargaining Agreement                                      32
-                 LETTER OF AGREEMENT – TELEHEALTH BENEFIT FUND
+### LETTER OF AGREEMENT – TELEHEALTH BENEFIT FUND
 
 
 This Letter of Agreement (LOA) is entered into between the Department of Administrative
@@ -1149,7 +1149,7 @@ This Agreement shall expire on June 30, 2025, unless extended by mutual agreemen
 
 
 2021-2025 AFSCME Child Care Collective Bargaining Agreement                              35
-      LETTER OF AGREEMENT - STANDING RETIREMENT BENEFITS JOINT
+### LETTER OF AGREEMENT - STANDING RETIREMENT BENEFITS JOINT
                                                           COMMITTEE
 
 
@@ -1208,7 +1208,7 @@ This Agreement shall expire on June 30, 2025, unless extended by mutual agreemen
 
 
 2021-2025 AFSCME Child Care Collective Bargaining Agreement                                       37
-      LETTER OF AGREEMENT - STATE ORGANIZATIONAL CHANGE (NEW)
+### LETTER OF AGREEMENT - STATE ORGANIZATIONAL CHANGE (NEW)
 
 
 This Letter of Agreement (LOA) is entered into between the Department of Administrative
@@ -1231,7 +1231,7 @@ This Agreement shall expire on June 30, 2025, unless extended by mutual agreemen
 
 
 2021-2025 AFSCME Child Care Collective Bargaining Agreement                                   38
-   LETTER OF AGREEMENT – HEALTH BENEFITS STANDING JOINT LABOR
+### LETTER OF AGREEMENT – HEALTH BENEFITS STANDING JOINT LABOR
                                             MANAGEMENT COMMITTEE
 
 
@@ -1269,7 +1269,7 @@ Providers access to high-quality healthcare. Accordingly, the Parties agree to t
 
 
 2021-2025 AFSCME Child Care Collective Bargaining Agreement                                            39
-                   APPENDIX A- FAMILY CHILD CARE PROVIDER BILL OF RIGHTS
+### APPENDIX A- FAMILY CHILD CARE PROVIDER BILL OF RIGHTS
 All family child care providers have:
 
 
@@ -1346,7 +1346,7 @@ All family child care providers have:
 
 
 2021-2025 AFSCME Child Care Collective Bargaining Agreement                                           41
-                                       APPENDIX B – PAYMENT SCHEDULE
+### APPENDIX B – PAYMENT SCHEDULE
 
 Effective January 1, 2024.
                                                        REGISTERED FAMILY

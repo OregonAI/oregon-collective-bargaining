@@ -77,7 +77,7 @@ peaceful procedure for the resolution of differences concerning administration o
 
 
 
-ARTICLE 1 – RECOGNITION
+### ARTICLE 1 – RECOGNITION
 
 The county recognizes the Federation as the exclusive bargaining representative for employees of the
 Marion County Sheriff’s Office in the classifications of Parole and Probation Deputy and Parole and
@@ -90,7 +90,7 @@ defined by the Collective Bargaining Act.
 
 
 
-ARTICLE 2 – MANAGEMENT’S RIGHTS
+### ARTICLE 2 – MANAGEMENT’S RIGHTS
 
 Except as may be specifically modified by the terms of this agreement, the Employer retains all rights of
 management in the direction of its work force. It is recognized that the responsibilities and authority of
@@ -124,7 +124,7 @@ These rights of management shall include, but not be limited to, the following:
 
 
 
-ARTICLE 3 – HOURS OF WORK
+### ARTICLE 3 – HOURS OF WORK
 
 Section 1. It is recognized by both parties that employees in the bargaining unit work irregular hours in
 the performance of their duties. The official workweek shall consist of a seven (7)-day period
@@ -151,7 +151,7 @@ upon a continuous duty schedule. Nothing in this section supersedes management�
 
 
 
-ARTICLE 4 – ON CALL – CALL-IN
+### ARTICLE 4 – ON CALL – CALL-IN
 
 Section 1. Employees shall be “on call” and subject to call out during their off-duty periods in response
 to job emergencies. Employees shall maintain their current telephone numbers with the Employer.
@@ -180,7 +180,7 @@ employee’s overtime rate of pay.
 
 
 
-ARTICLE 5 – CALL-IN TIME
+### ARTICLE 5 – CALL-IN TIME
 
 Any employee called to work outside of their regular work schedule to participate in an MCSO
 sponsored specialty teams operation (including but not limited to SWAT/TNT, Search and Rescue) shall
@@ -189,7 +189,7 @@ to early call-out or an extension of a regular shift.
 
 
 
-ARTICLE 6 – HOLIDAYS
+### ARTICLE 6 – HOLIDAYS
 
 Section 1. Legal Holidays.
 The following days are legal holidays to be paid at the regular straight time rate of pay:
@@ -236,7 +236,7 @@ within the same workweek with supervisor’s approval.
 
 
 
-ARTICLE 7 – VACATION LEAVE
+### ARTICLE 7 – VACATION LEAVE
 
 Section 1. Vacation Accumulation.
 After having served in the county service for six (6) consecutive full calendar months, full-time
@@ -363,7 +363,7 @@ not return to receiving compensation credits and pay at the lower salary schedul
 
 
 
-ARTICLE 8 – SICK LEAVE
+### ARTICLE 8 – SICK LEAVE
 
 Section 1. Accumulation.
 Sick leave shall be earned by each full-time employee at the rate of three-point-six-nine-three (3.693)
@@ -463,7 +463,7 @@ Proven abuse of sick leave shall be cause for disciplinary action.
 
 
 
-ARTICLE 9 – OTHER LEAVES
+### ARTICLE 9 – OTHER LEAVES
 
 Section 1. Other Leaves of Absence With Pay.
 
@@ -543,7 +543,7 @@ adequate staff to maintain service.
 
 
 
-ARTICLE 10 – HEALTH AND WELFARE
+### ARTICLE 10 – HEALTH AND WELFARE
 
 Section 1. Marion County Benefit Plan.
 
@@ -651,7 +651,7 @@ Enforcement Association’s HISC Committee.
       time to attend such meetings, but no overtime shall be paid for attending such meetings.
 
 
-ARTICLE 11 – WAGE ADMINISTRATION
+### ARTICLE 11 – WAGE ADMINISTRATION
 
 Section 1. Compensation Plan.
 The Employer has hereto adopted a compensation plan under which employees covered by this
@@ -764,7 +764,7 @@ N. Hearings Officer Incentive. Employees assigned to perform Morrissey hearings 
 
 
 
-ARTICLE 12 – TRAVEL ALLOWANCES
+### ARTICLE 12 – TRAVEL ALLOWANCES
 
 Section 1. Cost of Out-of-State Transportation.
 The sheriff or designee must approve all out-of-state travel in advance. Only travel for which funds are
@@ -803,7 +803,7 @@ ninety (90) days of the expense.
 
 
 
-ARTICLE 13 – HEALTH AND SAFETY REGULATIONS
+### ARTICLE 13 – HEALTH AND SAFETY REGULATIONS
 
 Section 1. The Employer agrees to abide by and maintain in its facilities and work operations standards
 of safety and health in accordance with the Oregon Safe Employment Act (ORS 654.001 to 654.295 and
@@ -824,7 +824,7 @@ Section 4. The Employer shall provide or shall pay the cost of CPR training and 
 bargaining unit employees.
 
 
-ARTICLE 14 – TRIAL SERVICE PERIOD
+### ARTICLE 14 – TRIAL SERVICE PERIOD
 
 Section 1. Employees, who are not Parole and Probation certified and are hired into Parole and
 Probation certified positions, shall serve an initial trial service period of eighteen (18) continuous
@@ -852,7 +852,7 @@ notice of termination.
 
 
 
-ARTICLE 15 – DISCIPLINE AND DISCHARGE
+### ARTICLE 15 – DISCIPLINE AND DISCHARGE
 
 Section 1. Discipline.
 It is the policy of the Employer that disciplinary measures shall be for the purpose of achieving
@@ -1059,7 +1059,7 @@ with the circumstances involved.
 
 
 
-ARTICLE 16 – GENERAL PROVISIONS
+### ARTICLE 16 – GENERAL PROVISIONS
 
 Section 1. Non-Discrimination.
 The provisions of this agreement shall be applied equally to all employees in the bargaining unit without
@@ -1115,7 +1115,7 @@ consent or other lawful means.
                                                              COLLECTIVE BARGAINING AGREEMENT
                                                                                     2024-2026
 
-ARTICLE 17 – GRIEVANCE AND ARBITRATION PROCEDURE
+### ARTICLE 17 – GRIEVANCE AND ARBITRATION PROCEDURE
 
 Section 1. Any grievance or dispute that may arise between the parties with regard to the application,
 meaning, or interpretation of this agreement shall be settled in the following manner:
@@ -1190,7 +1190,7 @@ or undersheriff within fifteen (15) working days from the date of the suspension
 
 
 
-ARTICLE 18 – LAYOFF
+### ARTICLE 18 – LAYOFF
 
 Section 1. A layoff is defined as a separation from the service of the county for involuntary reasons, not
 reflecting discredit on an employee. The Employer may lay off an employee when the Employer
@@ -1271,7 +1271,7 @@ No bargaining unit employee shall be displaced as a result of this procedure.
 
 
 
-ARTICLE 19 – OUTSIDE EMPLOYMENT
+### ARTICLE 19 – OUTSIDE EMPLOYMENT
 
 The sheriff may approve outside employment when such employment does not detract from the
 efficiency of the employee’s county work, and does not conflict with the interest of Marion County or is
@@ -1281,7 +1281,7 @@ Requests for outside employment shall not be unreasonably withheld.
 
 
 
-ARTICLE 20 – EFFECT OF LAWS, RULES AND REGULATIONS
+### ARTICLE 20 – EFFECT OF LAWS, RULES AND REGULATIONS
 
 Section 1. This agreement is subject to all existing and future laws of the State of Oregon.
 
@@ -1311,7 +1311,7 @@ of bargaining, it shall give the Federation written notice. Failure to demand to
 per ORS 243.698.
 
 
-ARTICLE 21 – SCOPE OF AGREEMENT
+### ARTICLE 21 – SCOPE OF AGREEMENT
 
 This document constitutes the sole and complete agreement between the Federation and the Employer
 and embodies all the agreed to terms and conditions governing the employment of employees in the
@@ -1322,7 +1322,7 @@ covered by this agreement is hereby superseded by the terms of this agreement.
 
 
 
-ARTICLE 22 – SAVINGS CLAUSE
+### ARTICLE 22 – SAVINGS CLAUSE
 
 Should any section or portion thereof of this agreement be held unlawful and unenforceable by any
 court of competent jurisdiction, be in violation of or made illegal through enactment of federal or state
@@ -1332,7 +1332,7 @@ immediately to negotiate a substitute, if possible, for the invalidated section 
 
 
 
-ARTICLE 23 – FEDERATION REPRESENTATIVES
+### ARTICLE 23 – FEDERATION REPRESENTATIVES
 
 Section 1. The Federation shall notify the Employer of the employees who act as Federation
 Representatives.
@@ -1390,7 +1390,7 @@ from their employment.
                                                                 COLLECTIVE BARGAINING AGREEMENT
                                                                                        2024-2026
 
-ARTICLE 24 – PERSONNEL FILE
+### ARTICLE 24 – PERSONNEL FILE
 
 Section 1. Human resources shall maintain a personnel file of each employee in the county service.
 This file shall be the official file of the county and shall contain copies of all official reports, memos,
@@ -1422,7 +1422,7 @@ from the employee’s personnel file at the request of the employee.
 
 
 
-ARTICLE 25 – PAYDAY
+### ARTICLE 25 – PAYDAY
 
 Section 1. Employees will be paid biweekly. Paydays will be on Tuesdays except when Tuesday is a
 holiday, in which case employees normally will receive their paychecks prior to the holiday unless the
@@ -1436,7 +1436,7 @@ by the employee in writing.
                                                               COLLECTIVE BARGAINING AGREEMENT
                                                                                      2024-2026
 
-ARTICLE 26 – TUITION ASSISTANCE
+### ARTICLE 26 – TUITION ASSISTANCE
 
 Section 1. Tuition aid is defined as full or partial payment or reimbursement for the costs of training
 sessions, classes, or formal academic course work pursued on a part-time basis either during or after
@@ -1461,7 +1461,7 @@ will normally not exceed twelve (12) months.
 
 
 
-ARTICLE 27 – BARGAINING UNIT LISTING
+### ARTICLE 27 – BARGAINING UNIT LISTING
 
 Section 1. Upon request by the Federation, the Employer shall furnish to the Federation an alphabetical
 listing of names, class, pay range, date of hire, appointment date, and home address of the employees in
@@ -1472,7 +1472,7 @@ location assignments of all newly hired employees of the bargaining unit during 
 
 
 
-ARTICLE 28 – COUNTY CARS
+### ARTICLE 28 – COUNTY CARS
 
 Section 1. It is recognized by the parties that furnishing of a private car by an employee for the purpose
 of performing routine work assignments is not a condition of employment. Any use of private cars for
@@ -1488,7 +1488,7 @@ fails to provide adequate use of county automobiles.
 
 
 
-ARTICLE 29 – SALARIES
+### ARTICLE 29 – SALARIES
 
 Section 1. Wages.
 Effective and retroactive to July 1, 2024, employees shall receive a four percent (4%) cost of living
@@ -1530,7 +1530,7 @@ L1 shall be at 5% of Step 8, L2 at 10.25% of Step 8, and L3 at 12.75% of Step 8 
                                                               COLLECTIVE BARGAINING AGREEMENT
                                                                                      2024-2026
 
-ARTICLE 30 – OVERTIME
+### ARTICLE 30 – OVERTIME
 
 Section 1. An employee, who works beyond 40 hours, will be compensated at a time-and-one-half (1 ½)
 rate. The following shall be regarded as hours worked for the purpose of computing overtime hours for
@@ -1559,7 +1559,7 @@ Section 5. Supervisors will not approve vacation requests in the same work week 
 The division commander may make an exception in exigent circumstances.
 
 
-ARTICLE 31 – PAYROLL DEDUCTION
+### ARTICLE 31 – PAYROLL DEDUCTION
 
 Section 1. The Employer agrees to deduct the regular Federation membership dues as provided by
 ORS 292.055. The aggregate deductions of all employees shall be remitted together with an itemized
@@ -1593,7 +1593,7 @@ damages, suits, or other forms of liability, which may arise out of any actions 
 Employer for the purpose of complying with the provisions of this article.
 
 
-ARTICLE 32 – RECOUPMENT OF WAGE AND BENEFIT OVERPAYMENTS AND UNDERPAYMENTS
+### ARTICLE 32 – RECOUPMENT OF WAGE AND BENEFIT OVERPAYMENTS AND UNDERPAYMENTS
 
 Section 1. Overpayments. In the event that an employee receives wages or benefits from the County to
 which the employee is not entitled, regardless of whether the employee knew or should have known of
@@ -1640,7 +1640,7 @@ underpayment made within a maximum period of two (2) years before the notificati
 
 
 
-ARTICLE 33 – RELIEF COVERAGE
+### ARTICLE 33 – RELIEF COVERAGE
 
 Section 1. The Employer shall provide relief coverage during the time an employee is absent from duty
 to the extent needed in the opinion of the Employer to cover the workload.
@@ -1649,7 +1649,7 @@ Section 2. Work assignments, received during the period of absence, shall be com
 providing the relief coverage.
 
 
-ARTICLE 34 – DPSST CERTIFICATION
+### ARTICLE 34 – DPSST CERTIFICATION
 
 It shall be a condition of employment that all employees receive and retain their basic certification by
 the Department of Public Safety and Standards Training (DPSST) during their first eighteen (18) months
@@ -1667,7 +1667,7 @@ the sheriff to place such persons based on class availability.
                                                              COLLECTIVE BARGAINING AGREEMENT
                                                                                     2024-2026
 
-ARTICLE 35 – TRANSFERS
+### ARTICLE 35 – TRANSFERS
 
 Section 1. Transfer/Notice of Vacancy.
 
@@ -1716,7 +1716,7 @@ Section 3. Training Opportunities for Non-FOPPO Represented County Employees.
       minimum qualifications of the position they may be assigned.
 
 
-ARTICLE 36 – JOB CLASSIFICATION AND DUTIES
+### ARTICLE 36 – JOB CLASSIFICATION AND DUTIES
 
 The Employer shall notify the Federation in writing of any proposed change in the duties and
 responsibilities or classifications of existing positions or creation of any new classification within the
@@ -1724,7 +1724,7 @@ Marion County Sheriff’s Office affecting parole and probation services and con
 about such proposals prior to their implementation.
 
 
-ARTICLE 37 – LIFE OF AGREEMENT AND TERMINATION
+### ARTICLE 37 – LIFE OF AGREEMENT AND TERMINATION
 
 This agreement shall be effective as of July 1, 2024, and remains in full force and effect until
 June 30, 2026. If either party wishes to renew or modify the agreement as of July 1, 2026, notification of

@@ -40,9 +40,9 @@ This document is available in accessible format upon request
                               TABLE OF CONTENTS
 
                                                                                 PAGE
-ARTICLE 1           PREAMBLE                                                    1
+### ARTICLE 1           PREAMBLE                                                    1
 
-ARTICLE 2           DEFINITIONS                                                 2
+### ARTICLE 2           DEFINITIONS                                                 2
 
              I.     Cause                                                       2
              II.    Continuous Service                                          2
@@ -52,15 +52,15 @@ ARTICLE 2           DEFINITIONS                                                 
              VI.    Promotional Probationary Employee                           3
              VII.   Temporary Employee                                          3
 
-ARTICLE 3.          RECOGNITION                                                 5
+### ARTICLE 3.          RECOGNITION                                                 5
 
-ARTICLE 4.          MANAGEMENT RIGHTS                                           6
+### ARTICLE 4.          MANAGEMENT RIGHTS                                           6
 
-ARTICLE 5.          UNION SECURITY AND CHECK OFF                                7
+### ARTICLE 5.          UNION SECURITY AND CHECK OFF                                7
 
-ARTICLE 6.          NO STRIKE                                                   9
+### ARTICLE 6.          NO STRIKE                                                   9
 
-ARTICLE 7.          HOLIDAYS                                                    10
+### ARTICLE 7.          HOLIDAYS                                                    10
 
              I.     Holidays                                                    10
              II.    Holiday Observances                                         10
@@ -69,7 +69,7 @@ ARTICLE 7.          HOLIDAYS                                                    
              V.     Holiday Work                                                11
              VI.    Saved Holidays                                              11
 
-ARTICLE 8           VACATION LEAVE                                              12
+### ARTICLE 8           VACATION LEAVE                                              12
 
              I.     Accrual                                                     12
              II.    Table of Vacation Accrual Rates                             12
@@ -79,7 +79,7 @@ ARTICLE 8           VACATION LEAVE                                              
              VI.    Use of Accrued Vacation for Sick Leave and Other Purposes   14
              VII.   Use of Accrued Vacation for Emergencies                     14
 
-ARTICLE 9           SICK LEAVE                                                  15
+### ARTICLE 9           SICK LEAVE                                                  15
 
              I.     Paid Sick Leave                                             15
 
@@ -92,7 +92,7 @@ ARTICLE 9           SICK LEAVE                                                  
              V.      Bereavement Leave                                          22
              VI.     Oregon Paid Family and Medical Leave Reopener              23
 
-ARTICLE 10           OTHER LEAVES                                               24
+### ARTICLE 10           OTHER LEAVES                                               24
 
              I.      Leave of Absence                                           24
              II.     Jury Duty                                                  24
@@ -102,22 +102,22 @@ ARTICLE 10           OTHER LEAVES                                               
              VI.     Tuition and Licensing Reimbursement                        25
              VII.    Parental Leave                                             26
 
-ARTICLE 11           HEALTH AND WELFARE                                         27
+### ARTICLE 11           HEALTH AND WELFARE                                         27
 
              I.      Medical & Dental Insurance                                 27
              II.     Other Benefits                                             45
 
-ARTICLE 12           PENSIONS                                                   47
+### ARTICLE 12           PENSIONS                                                   47
 
              I.      PERS                                                       47
              II.     PERS “Pick-Up” And “Pick-Up” Under IRC Section 414(h)(2)   47
              III.    OPSRP Pick Up                                              47
              IV.     Sick Leave In Application To Final Average Salary          48
 
-ARTICLE 13           WORKERS’ COMPENSATION AND SUPPLEMENTAL                     49
+### ARTICLE 13           WORKERS’ COMPENSATION AND SUPPLEMENTAL                     49
                      BENEFITS
 
-ARTICLE 14           HOURS OF WORK                                              51
+### ARTICLE 14           HOURS OF WORK                                              51
 
              I.      Work Day                                                   51
              II.     Work Week                                                  51
@@ -129,7 +129,7 @@ ARTICLE 14           HOURS OF WORK                                              
              VIII.   Uniform Time Charging Provisions                           54
              IX.     Time Between Shifts                                        54
 
-ARTICLE 15           WAGES                                                      50
+### ARTICLE 15           WAGES                                                      50
 
              I.      Wages And Classification Schedule                          55
 
@@ -151,18 +151,18 @@ ARTICLE 15           WAGES                                                      
              XIV.    Certification Pay                                     62
              XV.     Inclement Weather Essential Assignment Compensation   63
 
-ARTICLE 16           DISCIPLINARY ACTION                                   64
+### ARTICLE 16           DISCIPLINARY ACTION                                   64
 
              I.      Types of disciplinary actions                         64
              II.     Rights of permanent, non-probationary employee        64
              III.    Personnel Files                                       64
 
-ARTICLE 17           SETTLEMENT OF DISPUTES                                66
+### ARTICLE 17           SETTLEMENT OF DISPUTES                                66
 
              I.      Grievance Procedure                                   66
              II.     Stewards And The Processing Of Grievances             68
 
-ARTICLE 18           GENERAL PROVISIONS                                    70
+### ARTICLE 18           GENERAL PROVISIONS                                    70
 
              I.      No Discrimination                                     70
              II.     Bulletin Boards                                       70
@@ -180,7 +180,7 @@ ARTICLE 18           GENERAL PROVISIONS                                    70
              XIV.    Performance Evaluation Process                        75
              XV.     Bus passes                                            75
 
-ARTICLE 19           SAVINGS CLASS AND FUNDING                             77
+### ARTICLE 19           SAVINGS CLASS AND FUNDING                             77
 
 
 
@@ -189,9 +189,9 @@ ARTICLE 19           SAVINGS CLASS AND FUNDING                             77
              I.     Savings Clause                                      77
              II.    Funding                                             77
 
-ARTICLE 20          ENTIRE AGREEMENT                                    78
+### ARTICLE 20          ENTIRE AGREEMENT                                    78
 
-ARTICLE 21          TERMINATION                                         79
+### ARTICLE 21          TERMINATION                                         79
 
                     SIGNATURE PAGE                                      80
 

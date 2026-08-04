@@ -321,7 +321,7 @@ INDEX​        ​                                            99
 
 
 
-                                        ARTICLE 1
+### ARTICLE 1
                                        PREAMBLE
 
 
@@ -344,7 +344,7 @@ agree as follows.
 -2-
 
 
-                                         ARTICLE 2
+### ARTICLE 2
                                         RECOGNITION
 
 
@@ -377,7 +377,7 @@ for Local 88 contract administration.
 ​                                              ​                                       -3-
 
 
-                                         ARTICLE 3
+### ARTICLE 3
                                         DEFINITIONS
 
 
@@ -443,7 +443,7 @@ used interchangeably, unless otherwise denoted as a job profile specific provisi
 ​                                            ​                                        -5-
 
 
-                                          ARTICLE 4
+### ARTICLE 4
                                    MANAGEMENT RIGHTS
 
 
@@ -464,7 +464,7 @@ general law, are not subject to the grievance procedure.
 -6-
 
 
-                                        ARTICLE 5
+### ARTICLE 5
                      UNION SECURITY, CHECK OFF, AND BUSINESS
 
 
@@ -734,7 +734,7 @@ to, MCPR 3-35 Use of Information Technology, MCPR 3-36 Social Media, and MCPR
 - 14 -
 
 
-                                         ARTICLE 6
+### ARTICLE 6
                                  NO STRIKE OR LOCKOUT
 
 
@@ -784,7 +784,7 @@ of the County organization to which they are assigned.
 - 16 -
 
 
-                                        ARTICLE 7
+### ARTICLE 7
                                     COMPENSATION
 
 
@@ -1081,7 +1081,7 @@ hours worked on-site during a County Closure or Curtailment of non-essential ser
 - 24 -
 
 
-                                           ARTICLE 8
+### ARTICLE 8
                                    HEALTH AND WELFARE
 
 
@@ -1343,7 +1343,7 @@ gross monthly payment on the second paycheck of the month.
 ​                                              ​                                        - 31 -
 
 
-                                       ARTICLE 9
+### ARTICLE 9
                                       PAID LEAVES
 
 
@@ -1779,7 +1779,7 @@ interval since last received in accordance with Section IX.A. above.
 ​                                             ​                                      - 43 -
 
 
-                                       ARTICLE 10
+### ARTICLE 10
                             WORKERS’ COMPENSATION AND
                                SUPPLEMENTAL BENEFITS
 
@@ -1867,7 +1867,7 @@ accrued by and available to the employee.
 - 46 -
 
 
-                                         ARTICLE 11
+### ARTICLE 11
                                    SENIORITY AND LAYOFF
 
 
@@ -2105,7 +2105,7 @@ apply for bumping purposes.
 ​                                              ​                                         - 53 -
 
 
-                                        ARTICLE 12
+### ARTICLE 12
                                       PERSONNEL FILE
 
 
@@ -2167,7 +2167,7 @@ training and career development.
 ​                                            ​                                       - 55 -
 
 
-                                       ARTICLE 13
+### ARTICLE 13
                        EMPLOYMENT RELATIONS COMMITTEE
 
 
@@ -2195,7 +2195,7 @@ meeting.
 - 56 -
 
 
-                                        ARTICLE 14
+### ARTICLE 14
                                   DISCIPLINARY ACTION
 
 
@@ -2249,7 +2249,7 @@ employee so desires, the employee shall be afforded Union representation.
 - 58 -
 
 
-                                        ARTICLE 15
+### ARTICLE 15
                                SETTLEMENT OF DISPUTES
 
 
@@ -2526,7 +2526,7 @@ Steward and Lead Steward appointments upon their selection.
 - 66 -
 
 
-                                       ARTICLE 16
+### ARTICLE 16
                          MODIFICATION OF WORK PERFORMED
                                BY THE BARGAINING UNIT:
                  CONTRACTING, INTERGOVERNMENTAL AGREEMENTS
@@ -2578,7 +2578,7 @@ benefits granted employees under this Agreement and ORS 236.610 through 236.650.
 
 
 
-                                         ARTICLE 17
+### ARTICLE 17
                                    SAFETY AND HEALTH
 
 
@@ -2650,7 +2650,7 @@ employees, clients and members of the public.
 - 70 -
 
 
-                                        ARTICLE 18
+### ARTICLE 18
                                  GENERAL PROVISIONS
 
 
@@ -2762,7 +2762,7 @@ their resignation.
 ​                                              ​                                         - 73 -
 
 
-                                        ARTICLE 19
+### ARTICLE 19
                            SAVINGS CLAUSE AND FUNDING
 
 
@@ -2795,7 +2795,7 @@ procedures.
 - 74 -
 
 
-                                        ARTICLE 20
+### ARTICLE 20
                                    ENTIRE AGREEMENT
 
 
@@ -2828,7 +2828,7 @@ concerning matters of contract administration.
                                                                                        - 75 -
 
 
-                                       ARTICLE 21
+### ARTICLE 21
                                       TERMINATION
 
 
@@ -3455,7 +3455,7 @@ authority.
 
 
                                       ADDENDUM C
-  MEMORANDUM OF AGREEMENT - ICS PRIMARY CARE PHYSICIANS FTE FOR
+### MEMORANDUM OF AGREEMENT - ICS PRIMARY CARE PHYSICIANS FTE FOR
                       ALLOTTED INDIRECT PATIENT CARE TIME
 
 
@@ -3617,7 +3617,7 @@ AFSCME Council Representative ​                   Interim Labor Relations Dire
 
 
                                         ADDENDUM D
-         MEMORANDUM OF AGREEMENT - CORRECTIONS HEALTH PROVIDER
+### MEMORANDUM OF AGREEMENT - CORRECTIONS HEALTH PROVIDER
           (PHYSICIANS AND PSYCHIATRISTS) RECRUITMENT AND RETENTION
                                 ADDITIONAL LEAVE PROGRAM
 

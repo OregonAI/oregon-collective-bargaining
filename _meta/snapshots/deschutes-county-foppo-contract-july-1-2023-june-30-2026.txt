@@ -78,7 +78,7 @@ Document #2023-668: Federation of Oregon Parole & Probation Officers Contract â€
 
 
 
-                                           ARTICLE 1- RECOGNITION
+### ARTICLE 1- RECOGNITION
  Section 1
  The Employer recognizes the Federation as the sole and exclusive bargaining agent for all adult parole and
  probation officers as defined in ORS 181.610, employed by the County, excluding supervisory and confidential
@@ -87,7 +87,7 @@ Document #2023-668: Federation of Oregon Parole & Probation Officers Contract â€
  ( 12) months or less.
 
 
-                                   ARTICLE 2 - FEDERATION SECURITY
+### ARTICLE 2 - FEDERATION SECURITY
  Section l - Federation Representative
  The Federation shall notify the County in writing of its representative of the Federation. Upon proper introduction
  and notice, the representative shall have reasonabl.e access to the premises of the County during all working hours
@@ -151,7 +151,7 @@ Section 7 - Payroll Deduction of Federation Dues
  status and shall provide all employees with a copy of the Agreement.
 
 
-                                    ARTICLE 3 - MANAGEMENT RIGHTS
+### ARTICLE 3 - MANAGEMENT RIGHTS
  Except as specifically modified by this Agreement, in order to operate its business, the County, in its sole
  discretion, retains and shall have the following exclusive rights: to determine the number, location and type of
  facilities; to determine the type and/or ~ua.lity of services rendered; to determine the methods, techniques and
@@ -175,7 +175,7 @@ Documenit #2023-668: Federation of Or~gc,n Parole & Probation Officers Contract 
  of this Agreement constitute the only limitations upon the County's right to manage its business.
 
 
-                                    ARTICLE 4 - NON-DISCRIMINATION
+### ARTICLE 4 - NON-DISCRIMINATION
  Section I - Non-Discrimination Agreement
  The County and the Federation agree not to discriminate against any employee because of race, color, sex, gender
  identity, age, national origin, marital status, same-sex domestic partnership status, sexual orientation, religion,
@@ -223,7 +223,7 @@ Document #2023-668: Federation of Oregon Parole & Probation Officers Contract - 
  statutory requirements are met.
 
 
-                                ARTICLE 6 - DISCIPLINE AND DISCHARGE
+### ARTICLE 6 - DISCIPLINE AND DISCHARGE
  Section I - Provisions of Just Cause
  The principles of progressive discipline shall be used except when the nature of the problem requires more
  serious action. Non-probationary employees shall not be disciplined or discharged without just cause.
@@ -250,7 +250,7 @@ Document #2023-668: Federation of Oregon Parole & Probation Officers Contract - 
  investigation of a complaint or possible disciplinary action.
 
 
-                                  ARTICLE 7 - GRIEVANCE PROCEDURE
+### ARTICLE 7 - GRIEVANCE PROCEDURE
  A.     A grievance is defined as an allegation that a specific provision of this Agreement has been violated.
 
  B.     In an effort to provide for resolution of disputes, the parties agree to the following procedures:
@@ -333,7 +333,7 @@ Document #2023-668: Federation of Oregon Parole & Probation Officers Contract - 
          the County, the last day of such period shall be extended to the next business day.
 
 
-                                  ARTICLE 8-SALARY ADMINISTRATION
+### ARTICLE 8-SALARY ADMINISTRATION
  Section I - Pay Period and Pay Day
 
         A. Deschutes County has historically defined its pay period as the first day of the month through the
@@ -456,7 +456,7 @@ Document #2023-668: Federation of Oregon Parole & Probation Officers Contract - 
  over these hearings.
 
 
-                      ARTICLE 9 - CALL BACK TIME AND AFTER HOURS CALLS
+### ARTICLE 9 - CALL BACK TIME AND AFTER HOURS CALLS
  Section I - Call Back
  Call back is defined for the purpose ofthis Agreement as that time an employee spends beyond their normal work
  schedule and delivered on-site as a result of being called back due to an emergency and/or special circumstance.
@@ -518,7 +518,7 @@ Document #2023-668: Federation of Oregon Parole & Probation Officers Contract - 
 
 Document #2023-668: Federation of Oregon Parole & Probation Officers Contract- effective through June 30, 2026
                                                     111
-                                       ARTICLE 10 - HOURS OF WORK
+### ARTICLE 10 - HOURS OF WORK
   Section 1 - Work Week
   The work week is defined as seven (7) days within a calendar week. The standard work week for the County is
   Sunday through Saturday. The County may establish an alternate work week to address flexible work schedules
@@ -560,7 +560,7 @@ Document #2023-668: Federation of Oregon Parole & Probation Officers Contract- e
  Nothing in this Article shall be construed as a guarantee of hours.
 
 
-                        ARTICLE 11 - OVERTIME AND COMPENSATORY TIME
+### ARTICLE 11 - OVERTIME AND COMPENSATORY TIME
  Section I - Overtime Pay
  All non-exempt employees shall be compensated at the rate of one and one-half (1 Â½) times their regular rate of
  pay for all hours worked in excess of forty ( 40) hours during the regularly scheduled workweek. Hours worked
@@ -605,7 +605,7 @@ Document #2023-668: Federation of Oregon Parole & Probation Officers Contract-ef
  with Article 11, Section l (overtime pay) or Article 9, Section 2, Paragraph B (after-hours call pay), respectively.
 
 
-                       ARTICLE 12 WORKING-OUT-OF-CLASS AND LEAD PAY
+### ARTICLE 12 WORKING-OUT-OF-CLASS AND LEAD PAY
  Section l - Work Out of Classification Pav
  The County agrees to compensate an employee assigned in writing to assume the major distinguishing duties of
  a position in a higher classification, where such an assignment is for ten (10) consecutive work days or more at a
@@ -634,7 +634,7 @@ Document #2023-668: Federation of Oregon Parole & Probation Officers Contract- e
  Human Resources.
 
 
-                                          ARTICLE 13 - VACANCIES
+### ARTICLE 13 - VACANCIES
  Section 1 - Process For Filling Vacancies
  When there is a Federation-represented caseload vacancy, creation of a new FTE position, retirement, termination,
  resignation, layoff or any other triggering event as determined by the County, which leaves a body of offenders
@@ -673,7 +673,7 @@ Document #2023-668: Federation of Oregon Parole & Probation Officers Contract- e
 
 Document #2023-668: Federation of Oregon Parole & Probation Officers Contract - e'fec:tive through June 30. 2026"
                                                  : , ,. l 14
-                                ARTICLE 14 - PERFORMANCE EVALUATIONS
+### ARTICLE 14 - PERFORMANCE EVALUATIONS
   Section 1 -- Process
   Each employee shall receive a performance appraisal prepared by their immediate supervisor or Department Head
   at least annually. The rater shaJI discuss the performance appraisal with the employee. The employee shall have
@@ -695,7 +695,7 @@ Document #2023-668: Federation of Oregon Parole & Probation Officers Contract - 
 
 
 
-                                          ARTICLE 15 - PERSONNEL FILE
+### ARTICLE 15 - PERSONNEL FILE
   All ofan employee's personnel fi les will be available for the employee's inspection during normal working hours.
   Should an employee desire a copy of any items in the files, such a copy shall be provided to the employee provided
   the employee signs a receipt for the copy. The employee has the right to respond in writing to any item placed in
@@ -747,7 +747,7 @@ Ocrcument #2023-668: Federation of Oregon Parole & Probation Officers Contract -
  Time off during layoff period shall not count toward longcvi ty accrual.
 
 
-                                   ARTICLE 1J SENIORITY AND LAYOFF
+### ARTICLE 1J SENIORITY AND LAYOFF
  Section I - Determining Seniority
  Seniority, as used in this Agreement, is determined by the length of an employee's continuous full-time service
  as a Deschutes County Adult Parole and Probation Officer. Part-time employees will accrue seniority on a pro-
@@ -790,7 +790,7 @@ Document #2023-668: Federation of Oregon Parole & Probation Officers Contract- e
          4.      Laid off employees will be responsible for notifying the County of any address change.
 
 
-                                            ARTICLE 18 - HOLlQAYS
+### ARTICLE 18 - HOLlQAYS
  Section l - Paid Holidays
  The following shall be recognized as paid holidays:
                 New Year's Day                                          Labor Day
@@ -837,7 +837,7 @@ Docu_m ent #2023-668: Federation of Oregon Parole & Probation Officers Contract 
   the time of termination of employment for any unused floating holiday.
 
 
-                                       ARTICLE 19 - TIME MANAGEMENT
+### ARTICLE 19 - TIME MANAGEMENT
 The specific application of this section will be governed by the Time Management Program. (Appendix A of this
 Agreement). Time Management Leave offered to full and part-time regular employees as articulated in this article
 and Appendix A ("Time Management - Federation") represent substantially equivalent paid sick time benefits in
@@ -877,7 +877,7 @@ Document #2023-668: Federation of Oregon Parole & Probation Officers Contract - 
   At least once each year, all regular employees must be allowed to take five (5) consecutive days off, if accrued.
 
 
-                                      ARTICLE 20 - RELIEF COVERAGE
+### ARTICLE 20 - RELIEF COVERAGE
   Section I - Arranging for Coverage
   Employees shall be responsible for arranging relief coverage for vacation leave. If the employee feels
   uncomfortable in ~nding such coverage, or is unable to secure coverage, the employee shall notify their
@@ -888,7 +888,7 @@ Document #2023-668: Federation of Oregon Parole & Probation Officers Contract - 
   plan for caseload coverage in their absence.
 
 
-                                          ARTICLE 21 - SICK LEAVE
+### ARTICLE 21 - SICK LEAVE
  Section l - Notification
  When an employee is physically unable to perform duties because of illness or injury, the employee shall notify
  their immediate supervisor as soon as possible prior to the beginning of their shift. If an employee takes more
@@ -947,7 +947,7 @@ Document #2023-668: Federation of Oregon Parole & Probation Officers Contract -e
  Retirement System (PERS).
 
 
-                                      ARTICLE 22 - LEAVES OF ABSENCE
+### ARTICLE 22 - LEAVES OF ABSENCE
  Section I - Jury Service
  Full-time and part-time employees shall be granted leave with full pay, computed on the bas is of their normal
  number of working hours per day, at the employee' s regular straight-time hourly rate, any time they arc required
@@ -1018,7 +1018,7 @@ Document #2023-668: federation of Oregon Parole & Probation Officers Contract - 
 
 Document #2023-668: Federation of Oregon Parole & Probation Officers Contract - effective throJgf 1 June 30, i()26
                                                , ~ , I 21
-                                    ARTICLE 23 - HEALTH AND WELFARE
+### ARTICLE 23 - HEALTH AND WELFARE
   Section 1 - Health Insurance
   Health Insurance is to include the following:
          â€¢      Medical Insurance
@@ -1112,7 +1112,7 @@ Document #2023-668: FedEration of Creg;oh Pa1role & Probation Officers Contraa:-
  health insurance monthly premium contribution shall not exceed $190.00 per month.
 
 
-                                         ARTICLE 24 - RETIREMENT
+### ARTICLE 24 - RETIREMENT
  The County shall be a participant in the Public Employees Retirement System (PERS)/Oregon Public Service
 
 
@@ -1138,14 +1138,14 @@ Document #2023-668: Federation of Oregon Parole & Probation Officers Contract-ef
 
 
 
-                                        ARTICLE 25 -TRAVEL EXPENSES
+### ARTICLE 25 -TRAVEL EXPENSES
   Reasonable and necessary travel, meal and miscellaneous expense reimbursement will be approved for payment
   when an employee incurs expenses while acting within the scope of employment with the County in accordance
   with Deschutes County General Policy No. F-1 and F-2 or subsequently adopted travel and expense policies.
 
 
 
-                                              ARTICLE 26 -SAFETY
+### ARTICLE 26 -SAFETY
  Section 1 - Cooperation of Parties
  The County and the Federation agree to cooperate in the continuing objective to eliminate accidents and health
  hazards.
@@ -1198,7 +1198,7 @@ Document #2023-668: Federation of Oregon Parole & Probation Officers Contract - 
  official duties.
 
 
-                              ARTICLE 27 - PROFESSIONAL DEVELOPMENT
+### ARTICLE 27 - PROFESSIONAL DEVELOPMENT
  Section I -- Training
  The County shall pay for sufficient training so that the employees can maintain their required DPSST
  certification.
@@ -1208,7 +1208,7 @@ Document #2023-668: Federation of Oregon Parole & Probation Officers Contract - 
  pursuant to current Deschutes County Administrative Policy.
 
 
-                 ARTICLE 28 - DEPARTMENTAL RULES, POLICIES AND PROCEDURES
+### ARTICLE 28 - DEPARTMENTAL RULES, POLICIES AND PROCEDURES
  The department shall provide the Federation with a copy of any new or revised written policy or procedure prior
  to implementation. If the County adopts an emergency change to a policy that impacts a mandatory subject of
  bargaining, the Federation shall be notified as soon as possible. The Federation may pursue its right to bargain
@@ -1220,21 +1220,21 @@ Document #2023-668: Federation of Oregon Parole & Probation Officers Contract - 
   agreement.
 
 
-                                      ARTICLE 29 - RiGHT TO CONTRACT
+### ARTICLE 29 - RiGHT TO CONTRACT
   The County expressly reserves the right to contract any and all County work and services to non-County
   employees. The County agrees to fulfill its obligations under the Public Employee Collective Bargaining Act
   (PECBA) before contracting out any work. The County agrees that it will not contract out services with the
   purpose to end the Federation representation status.
 
 
-                                          ARTICLE 30 - SEPARABILITY
+### ARTICLE 30 - SEPARABILITY
  In the event that any provision of this Agreement shall at any time be declared invalid by any court of competent
  jurisdiction or through government regulations or decree, such decision shall not invalidate the entire Agreement,
  it being the express intention of the parties hereto that all other provisions not declared invalid shall remain in full
  force and effect.
 
 
-                                     ARTICLE 31 - SCOPE OF AGREEMENT
+### ARTICLE 31 - SCOPE OF AGREEMENT
  Section l - Entire Agreement
  The Agreement expressed herein in writing constitutes the entire Agreement between the parties. This Agreement
  shall supersede all previous oral and written Agreements between the County and the employees. It is agreed that
@@ -1250,7 +1250,7 @@ Document #2023-668: Federation of Oregon Parole & Probation Officers Contract - 
  obligation under PECBA prior to making said change.
 
 
-                                  ARTICLE 32 - TERM OF THE AGREEMENT
+### ARTICLE 32 - TERM OF THE AGREEMENT
  This Agreement shall be effective through June 30, 2026.
 
 

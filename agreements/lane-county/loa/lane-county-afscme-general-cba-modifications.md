@@ -19,9 +19,8 @@ retrieved: '2026-08-02'
 source_sha256: febf1ed57654ec399f081681a74b1d3258d2284d50045c901852cd6d22da2d1d
 snapshot_policy: hash-only
 status: current
-content_mode: summary
-reproduction_basis: 'jointly-authored contract; summary + official link per the class determination
-  in corpus.yml schema.doc_types (verbatim: false)'
+content_mode: 'verbatim'
+reproduction_basis: 'public record of a public body (ORS 192.311-192.478); the employer publishes the executed agreement in full at source_url; a ratified agreement is an official act (Georgia v. Public.Resource.Org, 590 U.S. 255 (2020)) — mirrored in full per the class determination in corpus.yml schema.doc_types (verbatim: true)'
 conversion_notes: pdftotext -layout; 8 pages, 2814 characters extracted; NOT human-verified
 last_verified: ''
 verified_by: ''
@@ -38,8 +37,8 @@ tags:
 - lane-county
 ---
 
-> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated
-> summary, not the agreement's official text. Verify against the official
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a non-authoritative
+> mirror of the agreement's text, not the official record. Verify against the official
 > source: <https://www.lanecounty.org/UserFiles/Servers/Server%5F3585797/File/Government/County%20Departments/Human%20Resources/Collective%20Bargaining%20Agreements/AFSCME%20General%20CBA%20Modifications.pdf> (retrieved 2026-08-02).
 
 # Lane County — AFSCME General CBA Modifications
@@ -50,10 +49,6 @@ Letter of agreement / MOU under **Lane County** and **AFSCME** — **2024-2027**
 - Listed on the county's labor agreements index as: “AFSCME General CBA Modifications” (index archived in `_meta/discovery/`)
 - Source document: 8 pages (PDF)
 
-This corpus is **summary-first for agreements**: the contract's text is not
-reproduced here (see Curator notes), and nothing on this page states or
-paraphrases the agreement's terms. Read the agreement itself at the official
-source link above.
 
 ## Curator notes
 
@@ -71,3 +66,80 @@ Statutes and rules the document's text cites are recorded in frontmatter
 `relationships.references_external` (0 citation(s)) and resolve into
 `executive-regulatory-frameworks` as cites — this corpus asserts no
 `implements` edge anywhere.
+
+## Full text
+
+                             MEMORANDUM OF UNDERSTANDING
+
+                            CBA Modification for Merit Adjustments
+                                       MOU AFG-26-19
+
+This Memorandum of Understanding is entered into, by and between Lane County hereinafter
+referred to as COUNTY, and the American Federation of State, County, and Municipal Employees
+(AFSCME), Local 2831-General Unit, hereinafter referred to as UNION, for the purposes of
+modifying contract language for step advancement related to annual performance evaluations.
+
+It is hereby agreed that:
+
+    1. The 2024-2027 Collective Bargaining Agreement, Article 10 will be modified as follows:
+
+       "Section 2 - Steps in Compensation Plan
+
+       (A) Step increases shall occur at twelve (12) month intervals unless the employee receives
+           "needs improvement" or lower rating on their performance evaluation. If an evaluation
+           has not been submitted by the anniversary ("merit") date, the employee will advance to
+           the next higher step.
+
+       (B) Employees who are denied a step increase must be notified in writing prior to the
+           scheduled date of the increase. The notice must identify the areas of deficiency.
+           Employees will be given the opportunity to sign the notice. Employees who are denied a
+           step increase may utilize either the Administrative Procedures Manual (APM) evaluation
+           appeal process or may use the grievance procedure in Article 6. The only permissible
+           claim of contract violation is a management rights violation because the performance
+           deficiency is alleged to be unsubstantiated or the denial is alleged to be inequitable.
+           The parties agree to make every reasonable effort to resolve the issue at or before Step
+           3 of the grievance process.
+
+       (C) �t-a�-alt1ation Is not �e�ed \Vithin thi�),-ealooe.1-ar:-eays
+           of when dt:1e, the following pay period the employee shall advance to the next hig�
+           ste fh"
+
+   2. The parties agree to memorialize this agreement during successor negotiations in 2027.
+
+   3. This agreement shall be effective following signatures of both parties.
+
+                                                   For the COUNTY:
+
+
+   Sarah Lanius, Council Representative            Inga Wood, Labor Relations Manager
+
+    c;112 l26                                      5/14/2026
+   Date                                            Date
+MOU AFG-26-19 continued
+
+
+
+                          Alana Holmes, C • f Human Resources Officer
+ �
+   ::5'-I 2 - ZS:O          5 lLf -·W�
+                                 ✓
+
+
+
+   Date                   Date
+            AIC for
+            Inga Wood
+
+
+8/27/2025
+            AIC for Inga Wood
+
+
+
+12/4/2025
+
+
+
+
+12/4/2025
+

@@ -124,7 +124,7 @@ Municipal Employees Local 1246, (SACU) Council 75, hereinafter referred to as th
                                                                                                                     REV: 2015
 
 
-                                          ARTICLE 1 - RECOGNITION
+### ARTICLE 1 - RECOGNITION
 Section 1.
          The Employer recognizes the Union as the sole and exclusive bargaining agent for all classified employees who
 are employed at the Oregon Department of Human Services (ODHS), Office of Developmental Disability Services,
@@ -214,13 +214,13 @@ employees to whom they apply.
                                                                                                                REV: 2015, 2019
 
 
-                             ARTICLE 2 - EFFECT OF LAWS AND RULES
+### ARTICLE 2 - EFFECT OF LAWS AND RULES
           This Agreement is subject to all applicable existing and future laws of the State of Oregon. In the event of a
 conflict between a provision of this Agreement and a rule or regulation of the Department of Administrative Services or
 any of its Divisions, the terms of this Agreement shall prevail.
 
 
-                         ARTICLE 3 - LABOR/MANAGEMENT COMMITTEE
+### ARTICLE 3 - LABOR/MANAGEMENT COMMITTEE
 Section 1. Purpose.
         The purpose of this Article is to promote harmonious relations between the Parties.
 
@@ -249,13 +249,13 @@ the manner provided within the Contract and will not be proper subject matter fo
                                                                                                                   REV: 2015
 
 
-              ARTICLE 4 - AVAILABILITY OF THE PARTIES TO EACH OTHER
+### ARTICLE 4 - AVAILABILITY OF THE PARTIES TO EACH OTHER
           The parties agree that representatives of the Employer and the Union are each obligated to meet at reasonable
 times, at the request of the other party, for discussion of the Agreement, its interpretation, continuation, or modification.
 Both parties pledge to meet expeditiously and in good faith.
 
 
-                                ARTICLE 5 - NO STRIKE OR LOCKOUT
+### ARTICLE 5 - NO STRIKE OR LOCKOUT
            The Employer agrees that during the term of this Agreement, the Employer shall not cause or permit any lockout
 of employees from their work. In the event an employee is unable to perform their assigned duties because equipment
 or facilities are not available due to a strike, work stoppage, or slow down by any other employees, such inability to
@@ -269,7 +269,7 @@ receipt of a mailing list, advise such striking employees in writing, with a cop
 work immediately. Such notification by the Union shall not constitute an admission that it has caused or counsel led such
 strike activity. The notification to employees covered by this Agreement by the Union shall be made at the request of the
 Employer or Program.
-                                    ARTICLE 7 - NONDISCRIMINATION
+### ARTICLE 7 - NONDISCRIMINATION
 Section 1.
           The Employer and the Union agree to continue their policies of not unlawfully discriminating against any
 employee or applicant for employment because of race, color, religion, sex, national origin, age, mental or physical
@@ -309,7 +309,7 @@ implementing Agency-wide initiatives.
                                                                                                                  REV: 2015
 
 
-                                 ARTICLE 8 - MANAGEMENT'S RIGHTS
+### ARTICLE 8 - MANAGEMENT'S RIGHTS
           The parties agree that the Employer and the SACU have the right to operate and manage including, but not
 limited to, the right to maintain order and efficiency; to direct employees and to determine job assignments and working
 schedules; to determine the methods, means, and personnel to be used; to implement improved operational methods
@@ -322,7 +322,7 @@ Agreement.
                                                                                                                  REV: 2015
 
 
-                                      ARTICLE 9 - UNION SECURITY
+### ARTICLE 9 - UNION SECURITY
 Section 1. Union Activities.
            The SACU agrees to inform all new employees hired into positions included in the bargaining unit of the Union's
 exclusive representation status, and shall provide all present and future employees in the bargaining unit with internet
@@ -485,7 +485,7 @@ h.       The Union shall indemnify and the Union and employee shall hold the Sta
          the purpose of complying with these provisions.
                                                                                                    REV: 2015, 2019,2023,2025
 
-                           ARTICLE 10 - DUES DEDUCTION/FAIR SHARE
+### ARTICLE 10 - DUES DEDUCTION/FAIR SHARE
 a.       The Employer agrees to deduct the monthly fees from the pay of those employees the Union has certified in
          writing to the Employer as having authorized in writing such deductions be made from their paychecks. This
          deduction shall begin on the first (1 st) payroll period following the Union’s written notice to the Employer that
@@ -502,13 +502,13 @@ c.       The Union agrees that it will indemnify, defend and save the Employer a
          dues to AFSCME as obligated under the Agreement.
                                                                                                                REV: 2019,2025
 
-                                 ARTICLE 11 - EMPLOYEE STATISTICS
+### ARTICLE 11 - EMPLOYEE STATISTICS
           The Labor Relations Unit and the ODHS will, upon request of the Union, provide any regularly produced
 computer runs containing non-confidential statistics of the Union's bargaining unit members. This will include one (1)
 printout annually showing names and addresses of all bargaining unit employees. Any costs incurred in photocopying
 these statistical reports under this agreement shall be billed to the Union.
 
-                                    ARTICLE 12 - EMPLOYEE RIGHTS
+### ARTICLE 12 - EMPLOYEE RIGHTS
 Section 1.
          Off-duty activities of employees will not subject them to disciplinary action by the SACU unless such activities
 constitute just cause for discipline or discharge.
@@ -558,7 +558,7 @@ investigation.
                                                                                                   REV: 2015,2019,2021,2023
 
 
-                                 ARTICLE 13 - PERSONNEL RECORDS
+### ARTICLE 13 - PERSONNEL RECORDS
 Section 1.
           The Chief Human Resources Office human resource information system is the system of record for all employee
 records and official employee Personnel File electronic and paper documents for which there are appropriate document
@@ -630,7 +630,7 @@ the subject employee.
                                                                                                                     REV: 2015
 
 
-                                ARTICLE 14 - GRIEVANCE PROCEDURE
+### ARTICLE 14 - GRIEVANCE PROCEDURE
 
 Section 1.
           A grievance shall be any disagreement or dispute which arises concerning the application, meaning or
@@ -781,7 +781,7 @@ j.      The arbitration award shall not establish a precedent for any current or
 
 
 2025-2027 Stabilization and Crisis Unit                     11                            Collective Bargaining Agreement
-                            ARTICLE 15 - DISCIPLINE AND DISCHARGE
+### ARTICLE 15 - DISCIPLINE AND DISCHARGE
 Section 1.
           The principles of progressive discipline shall be used except when the nature of the problem requires more
 serious formal discipline such as formal written reprimand, reduction in pay, suspension, demotion or dismissal.
@@ -852,7 +852,7 @@ undue delay.
                                                                                                      REV: 2019, 2021, 2023,2025
 
 
-                                        ARTICLE 16A - TRIAL SERVICE
+### ARTICLE 16A - TRIAL SERVICE
 Section 1.
 a.      All new employees appointed to a position shall serve a six (6) month trial service period.
 b.      All employees promoted within the SACU shall serve a six (6) month trial service period.
@@ -921,7 +921,7 @@ d.      This subsection applies to employees beginning their promotional trial s
                                                                                                REV: 2015, 2017, 2021,2023,2025
 
 
-           ARTICLE 16B - POSITION DESCRIPTIONS/QUARTERLY CHECK-INS
+### ARTICLE 16B - POSITION DESCRIPTIONS/QUARTERLY CHECK-INS
 Section 1. Position Descriptions.
          Individual position descriptions shall be reduced to writing and delineate the duties assigned to an employee's
 position. A dated copy of the position description shall be given to the employee.
@@ -936,7 +936,7 @@ to the employee, and made available to the employee upon request.
                                                                                                            REV: 2019, 2021,2023
 
 
-                                             ARTICLE 17 - SALARIES
+### ARTICLE 17 - SALARIES
 Section 1. PERS Pickup
          Effective February 1, 2019 compensation plan salary rates for PERS participating members shall be increased
 by six and ninety five one hundredths percent (6.95%). At that time bargaining unit employees will begin to make their
@@ -980,7 +980,7 @@ See LOA: Salary and Benefit Report,
                                                                                     REV: 2015, 2017, 2019, 2021,2023,2025
 
 
-                           ARTICLE 18 - PAY DAY AND PAY ADVANCES
+### ARTICLE 18 - PAY DAY AND PAY ADVANCES
 Section 1.
          All employees, except those whose paychecks must be rewritten because of time loss or attachment, shall
 normally be paid no later than the first day of the month. When the payday occurs on Monday through Friday, payroll
@@ -1003,7 +1003,7 @@ the 21st if the 21st falls on a weekend.
                                                                                                                 REV: 2025
 
 
-      ARTICLE 19 - RECOUPMENT OF WAGE AND BENEFIT OVERPAYMENTS/
+### ARTICLE 19 - RECOUPMENT OF WAGE AND BENEFIT OVERPAYMENTS/
                             UNDERPAYMENTS
 Section 1. Overpayments.
 a.      In the event that an employee receives wages or benefits from the Agency to which the employee is not entitled,
@@ -1047,7 +1047,7 @@ b.      This provision shall not apply to claims disputing eligibility for payme
                                                                                                                      REV: 2023
 
 
-                                ARTICLE 20 - SALARY ADMINISTRATION
+### ARTICLE 20 - SALARY ADMINISTRATION
 Section 1. Step Salary Increases, Granting of or Denial of.
         Employees shall be eligible for consideration for merit salary increases following:
         a.      Completion of the initial twelve (12) months of service.
@@ -1154,7 +1154,7 @@ See Appendix B - Salary Administration Examples
 
 
 2025-2027 Stabilization and Crisis Unit                    17                            Collective Bargaining Agreement
-                                          ARTICLE 21 - INSURANCE
+### ARTICLE 21 - INSURANCE
 Section 1.
          An Employer contribution will be made for each eligible employee who has at least eighty (80) paid regular hours
 in the month unless required by law.
@@ -1207,7 +1207,7 @@ SEE LOAs: PMAC
                                                                                       REV: 2015, 2017, 2019, 2021,2023,2025
 
 
-                                       ARTICLE 22 - DIFFERENTIALS
+### ARTICLE 22 - DIFFERENTIALS
 Section 1. Shift Differential.
 a.      Shift differential shall apply to all employees in the bargaining unit except temporary appointments and part-time
         employees working less than thirty-two (32) hours per month. An employee shall be paid a shift differential of
@@ -1276,7 +1276,7 @@ Note: The change will be effective on October 1, 2025.
 
 
 2025-2027 Stabilization and Crisis Unit                     19                             Collective Bargaining Agreement
-                                            ARTICLE 23 - ON CALL
+### ARTICLE 23 - ON CALL
 Section 1.
          Employees shall be paid one (1) hour of pay at the regular straight time rate for each six (6) hours of assigned
 on-call duty. Employees who are assigned on-call duty for less than six (6) hours shall be paid on a prorated basis.
@@ -1300,13 +1300,13 @@ Section 5.
                                                                                                        REV: 2015, 2019,2023
 
 
-                                      ARTICLE 24 - REPORTING PAY
+### ARTICLE 24 - REPORTING PAY
           An employee who is scheduled to work their regular shift or an approved pre-scheduled meeting and reports to
 work and there is not work available, they may be excused from duty by Management, but shall be paid at their regular
 rate for the shift of work or length of meeting scheduled.
 
 
-                                      ARTICLE 25 - CALL BACK TIME
+### ARTICLE 25 - CALL BACK TIME
 Section 1.
         An employee who is called back to work outside of their regular shift, or called in on their day off, will receive
 the appropriate rate of compensation in accordance with this agreement for hours actually worked, but in no event will
@@ -1324,7 +1324,7 @@ fifteen (15) minute increments.
                                                                                                              REV: 2019,2023
 
 
-                                  ARTICLE 26 - WORK OUT OF CLASS
+### ARTICLE 26 - WORK OUT OF CLASS
 Section 1. Work Out Of Classification
 a.      When an employee is assigned, in writing, by the Department for a limited time period to perform the major
         distinguishing duties of a position at a higher level classification for five (5) consecutive workdays, that employee
@@ -1356,7 +1356,7 @@ during the employee’s quarterly check-in.
                                                                                                             REV: 2015,2023,2025
 
 
-                                             ARTICLE 27 - SENIORITY
+### ARTICLE 27 - SENIORITY
          Unless otherwise indicated in this Agreement, seniority means continuous service with the SACU. In cases
 where two (2) or more employees have the same seniority with the SACU, former service at Fairview Training Center
 which is contiguous with service in this bargaining unit will apply to break the tie. In the event that there is still a tie after
@@ -1371,7 +1371,7 @@ well as a copy sent to the Union every six (6) months.
                                                                                                                  REV: 2015, 2017
 
 
-                      ARTICLE 28 - WORK WEEK AND WORK SCHEDULING
+### ARTICLE 28 - WORK WEEK AND WORK SCHEDULING
 Section 1.
           The work week shall begin at 00:01 a.m. Sunday and end at 12:00 Midnight the following Saturday. A work day
 shall be a period of twenty-four (24) hours commencing at the start of the employee's first assigned shift and shall remain
@@ -1570,7 +1570,7 @@ v.      AFSCME may propose other homes increase the number of alternates at the 
                                                                                      REV: 2015, 2017, 2019, 2021,2023,2025
 
 
-                                           ARTICLE 29 - OVERTIME
+### ARTICLE 29 - OVERTIME
 Section 1.
         This Article is intended only to provide a basis for the calculation of overtime and none of its provisions shall be
 construed as a guarantee of any minimum or maximum hours of work or weeks of work to any employee or to any group
@@ -1772,7 +1772,7 @@ the year ends, which then results in forfeiture.
 worked in excess of eight (8) hours per day or forty (40) hours per week.
                                                                                      REV: 2015, 2017, 2019,2021,2023,2025
 
-                                     ARTICLE 30 - VACATION LEAVE
+### ARTICLE 30 - VACATION LEAVE
 Section 1.
 Full-time, classified employees shall accrue vacation leave in accordance with the schedule below. Employees who are
 new to state service may use accrued vacation leave during the first six months of employment; however, if an employee
@@ -1866,7 +1866,7 @@ vacation hours each State fiscal year under the following conditions:
 of sixty (60) hours, upon determining that granting of vacation leave is not appropriate.
                                                                                                 REV: 2017, 2019, 2021,2023
 
-                            ARTICLE 31 - HARDSHIP LEAVE DONATION
+### ARTICLE 31 - HARDSHIP LEAVE DONATION
 Section 1.
          Employees may be allowed, on a case-by-case basis and without setting precedent, to transfer accumulated
 vacation and/or compensatory leave to an eligible co-worker in the Agency who has exhausted accumulated leave while
@@ -1906,7 +1906,7 @@ subject to the following:
                                                                                                      REV: 2015, 2019,2025
 
 
-                                          ARTICLE 32 - HOLIDAYS
+### ARTICLE 32 - HOLIDAYS
 Section 1.
 The following compensable holidays shall be recognized:
          a.         New Year's Day on January 1.
@@ -1971,7 +1971,7 @@ holiday shall receive time and one-half (1-1/2) compensation for all overtime ho
                                                                                                REV: 2015, 2019, 2021,2023,2025
 
 
-                         ARTICLE 33 - SCHEDULING ACCRUED TIME OFF
+### ARTICLE 33 - SCHEDULING ACCRUED TIME OFF
 Section 1.
           Non Pre-determined Time Off: Any request for use of accrued time off, excluding sick time, for forty (40) hours
 or more shall require a notice of twenty (20) calendar days. Requests shall be responded to within ten (10) calendar
@@ -2034,7 +2034,7 @@ or lack of staffing, unless emergency operational need exists.
                                                                                                   REV: 2015, 2021,2023,2025
 
 
-                                  ARTICLE 34 - PERSONAL BUSINESS
+### ARTICLE 34 - PERSONAL BUSINESS
 Section 1.
          All employees after completion of initial trial service shall be entitled to receive personal business days in the
 following manner, provided they are in pay status for 1,040 hours for each fiscal year:
@@ -2062,7 +2062,7 @@ vacation hours with available personal business hours.
 
 
 2025-2027 Stabilization and Crisis Unit                     32                             Collective Bargaining Agreement
-                                        ARTICLE 35 - LEAVE WITH PAY
+### ARTICLE 35 - LEAVE WITH PAY
 Section 1. Service with a Jury (including jury selection process).
           The employee may keep any money paid by the court for service on a jury. Whenever possible, subject to
 SACU operating requirements, employees selected by proper authority for jury duty shall be placed on a day shift,
@@ -2215,7 +2215,7 @@ b.      Employees who have used the eighty (80) hours of paid administrative lea
         may donate their accrued vacation or compensatory leave.
                                                                                             REV: 2015, 2017, 2019, 2021,2025
 
-                       ARTICLE 36 - LEAVES OF ABSENCE WITHOUT PAY
+### ARTICLE 36 - LEAVES OF ABSENCE WITHOUT PAY
 Section 1.
         Application for leave of absence without pay will be in writing and submitted to the immediate supervisor.
 
@@ -2259,7 +2259,7 @@ him/herself for five (5) consecutive work days without authorized leave shall be
                                                                                                             REV: 2015, 2019
 
 
-                    ARTICLE 37 - INCLEMENT WEATHER/ROAD HAZARDS
+### ARTICLE 37 - INCLEMENT WEATHER/ROAD HAZARDS
           When employees are late due to road closures or traffic curtailment they may be allowed to use accrued leave
 to cover the absence. Such approval will be considered on a case-by-case basis.
           While the Site Manager has the authority to approve time off pursuant to this section, any denial of a request to
@@ -2384,7 +2384,7 @@ Inclement Weather/Hazardous Conditions event, the employee shall receive the Ess
 Weather/Hazardous Conditions Pay differential under Article 70.
                                                                                           REV: 2015, 2017, 2021,2023,2025
 
-                                          ARTICLE 38 - SICK LEAVE
+### ARTICLE 38 - SICK LEAVE
 Section 1.
          Employees shall accrue eight (8) hours of sick leave for each full month of work. Employees working less than
 a full month, but at least thirty-two (32) hours per month shall accrue sick leave on a pro rata basis.
@@ -2477,7 +2477,7 @@ c.      This Section shall not be used by employees to circumvent Article 30, Va
 d.      In cases where the leave of absence is requested because of medical reasons accompanied by a signed
         physician’s statement, subsection (a)(2) will be utilized at the option of the employee.
                                                                                                        REV: 2015,2019,2025
-                             ARTICLE 39 - WORKERS' COMPENSATION
+### ARTICLE 39 - WORKERS' COMPENSATION
 Section 1.
          All on-the-job accidents or exposure to serious communicable diseases are to be reported through the
 appropriate SACU occupational injury report tracking system. All incidents and injuries must be reported as soon as
@@ -2556,7 +2556,7 @@ Supplemental Pay; and Section 11 – Critical Incident Leave for specific eligib
                                                                                                        REV: 2015, 2019,2025
 
 
-     ARTICLE 40 - VOLUNTARY TRANSFERS WITHIN CLASS AND DEMOTIONS
+### ARTICLE 40 - VOLUNTARY TRANSFERS WITHIN CLASS AND DEMOTIONS
          The purpose of this procedure is to provide an orderly means for employees to request transfers to vacant
 positions in the bargaining unit in the same classification or demotions to vacant positions in lower classifications.
 
@@ -2628,7 +2628,7 @@ Compensation.
                                                                                         REV: 2015, 2017,2019,2021,2023,2025
 
 
-                              ARTICLE 41 - INVOLUNTARY TRANSFERS
+### ARTICLE 41 - INVOLUNTARY TRANSFERS
 Section 1.
         This Article applies to involuntary transfers of regular status employees from one position to another position in
 the same classification.
@@ -2653,7 +2653,7 @@ between the employee, Union and Agency to discuss the situation.
                                                                                                                    REV: 2015
 
 
-                                          ARTICLE 42 - PROMOTIONS
+### ARTICLE 42 - PROMOTIONS
 Section 1.
          The Program desires to fill vacancies with the best qualified applicants available. Within that context, the
 Program intends to ensure that all employees are given an opportunity to compete for all promotional openings within
@@ -2688,7 +2688,7 @@ undue delay.
                                                                                                      REV: 2015, 2021,2025
 
 
-                       ARTICLE 43 - LIMITED DURATION APPOINTMENTS
+### ARTICLE 43 - LIMITED DURATION APPOINTMENTS
 Section 1.
           Persons may be hired for special studies or projects of uncertain or limited duration which are subject to the
 continuation of a grant, contract, award or legislative funding for a specific project. Such appointments shall be for a
@@ -2720,7 +2720,7 @@ conditions:
                                                                                                                 REV: 2015
 
 
-                                        ARTICLE 44 - JOB SHARING
+### ARTICLE 44 - JOB SHARING
 Section 1.
         "Job share position" means a full-time position in classified service may be held by more than one (1) individual
 on a shared time basis whereby individuals holding the position each work less than full-time but not more than full-time
@@ -2757,7 +2757,7 @@ not available or not acceptable, the employee agrees to resign.
                                                                                                                   REV: 2015
 
 
-                         ARTICLE 45 - RECLASSIFICATION PROCEDURE
+### ARTICLE 45 - RECLASSIFICATION PROCEDURE
          The parties shall use the following procedure to process reclassification requests.
 
 Section 1.
@@ -2888,7 +2888,7 @@ This Section supersedes any provisions contained in the Agency’s grievance pro
                                                                                                               REV: 2015,2025
 
 
-                       ARTICLE 46 - REVIEW OF CLASSIFICATION SERIES
+### ARTICLE 46 - REVIEW OF CLASSIFICATION SERIES
 Section 1.
          It is agreed and understood that procedures for establishing new proposed classifications and for material
 revision of existing classifications will provide reasonable opportunity for review and input by the Union prior to
@@ -2912,7 +2912,7 @@ including the reasons for the need for such studies.
 
 
 2025-2027 Stabilization and Crisis Unit                      46                            Collective Bargaining Agreement
-                                              ARTICLE 47 - LAYOFF
+### ARTICLE 47 - LAYOFF
         The following procedure applies only to bargaining unit members employed in this bargaining unit and further
 precludes bargaining unit employees of all other state agencies from displacing any Department bargaining unit member.
 There shall be no cross-bumping between bargaining units in the Department.
@@ -3140,7 +3140,7 @@ d.       Where fewer than five (5) eligible employees remain on the Secondary Re
                              moving expenses.
                                                                                                                   REV: 2015,2025
 
-ARTICLE 48 - RETURN TO CLASSIFIED SERVICE FROM EXEMPT OR CLASSIFIED
+### ARTICLE 48 - RETURN TO CLASSIFIED SERVICE FROM EXEMPT OR CLASSIFIED
                                SERVICE
 Section 1.
          Voluntary demotion of a Management Service employee to a position in the bargaining unit will not occur until
@@ -3151,7 +3151,7 @@ demote into the bargaining unit before provisions of Article 42, Promotions must
 
 
 2025-2027 Stabilization and Crisis Unit                        50                             Collective Bargaining Agreement
-                  ARTICLE 49 - PERSONAL PROPERTY REIMBURSEMENT
+### ARTICLE 49 - PERSONAL PROPERTY REIMBURSEMENT
          When an employee submits a timely completed property damage claim form involving personal property
 damaged by a resident, which is complete as prescribed by the Oregon Department of Human Services (OODHS), SACU
 shall respond to the claim no later than seven (7) calendar days from the date of submission and Office of Financial
@@ -3163,7 +3163,7 @@ DAS Risk Management.
                                                                                                            REV: 2021,2023
 
 
-               ARTICLE 50 - STATE CARS AND MILEAGE REIMBURSEMENT
+### ARTICLE 50 - STATE CARS AND MILEAGE REIMBURSEMENT
 Section 1.
          No employee shall use their private vehicle in the pursuit of official business without the specific authorization
 of the SACU. Employees will not be authorized to regularly and routinely transport supported individuals in an employee's
@@ -3182,7 +3182,7 @@ unsafe condition.
                                                                                                                 REV: 2015
 
 
-                             ARTICLE 51 - EXPENSE REIMBURSEMENT
+### ARTICLE 51 - EXPENSE REIMBURSEMENT
 Section 1.
          Travel Allowance: Reimbursements and procedures will be in accordance with Oregon Accounting Manual,
 Policy No. 40.10.00.PO, and its successors. Changes in this policy will be automatically incorporated into this contract
@@ -3236,7 +3236,7 @@ days from the date that proper and complete documentation is submitted.
                                                                                                          REV: 2015,2025
 
 
-  ARTICLE 52 - MOVING ALLOWANCE & REIMBURSEMENT OF HOUSEHUNTING
+### ARTICLE 52 - MOVING ALLOWANCE & REIMBURSEMENT OF HOUSEHUNTING
                                COSTS
            Employees transferred to a new official station of the SACU at the order of the SACU (not volunteers) shall be
 reimbursed as follows:
@@ -3244,7 +3244,7 @@ reimbursed as follows:
 Human Resource Office Policy 40.055.10, and its successors. Changes in this policy will be automatically incorporated
 into this contract Article.
 
-                                 ARTICLE 53 – SAFETY AND HEALTH
+### ARTICLE 53 – SAFETY AND HEALTH
 Section 1.
         The Employer agrees to provide a safe and healthy work environment insofar as practicable.
 
@@ -3324,7 +3324,7 @@ Section 7. Respectful Workplace
                                                                                            REV: 2015, 2017,2019,2023,2025
 
 
-                                   ARTICLE 54 - HAZARD EXPOSURE
+### ARTICLE 54 - HAZARD EXPOSURE
 Section 1. Immunization and Testing.
         If in the conduct of official duties an employee is exposed to communicable diseases which would require
 immunization or testing, or if required by the SACU, the employee shall be provided immunization against or testing for
@@ -3335,7 +3335,7 @@ such communicable disease without cost to the employee and without deduction fro
 
 
 2025-2027 Stabilization and Crisis Unit                    53                            Collective Bargaining Agreement
-                              ARTICLE 55 - TRAINING AND EDUCATION
+### ARTICLE 55 - TRAINING AND EDUCATION
 Section 1.
          The SACU will pay incurred tuition/registration and allowable travel expenses and salary when the SACU directs
 an employee to attend training. Subject to funding and staffing needs, employees may request SACU-sponsored training
@@ -3387,7 +3387,7 @@ selected.
                                                                                                       REV: 2015,2019,2025
 
 
-                       ARTICLE 56 - MEDICINE AND TREATMENT DUTIES
+### ARTICLE 56 - MEDICINE AND TREATMENT DUTIES
         Prior to any administration of medications or application of treatments each employee shall receive training on
 proper administration and treatment techniques as well as documentation requirements.
 
@@ -3395,7 +3395,7 @@ proper administration and treatment techniques as well as documentation requirem
 
 
 2025-2027 Stabilization and Crisis Unit                    54                            Collective Bargaining Agreement
-                                       ARTICLE 57 - NEGOTIATIONS
+### ARTICLE 57 - NEGOTIATIONS
           The Employer agrees to release up to five (5) employees with the Employer paying for the release provided
 there are not more than two (2) employees from the same address, for attendance at negotiating sessions during the
 period of negotiations. Negotiations shall be conducted during normal working hours unless otherwise agreed upon. The
@@ -3409,7 +3409,7 @@ and negotiations to begin in January every odd year as per agreement at the AFSC
                                                                                                                   REV: 2019
 
 
-                                   ARTICLE 58 - LEGISLATIVE ACTION
+### ARTICLE 58 - LEGISLATIVE ACTION
 Section 1.
          Provisions of this Agreement not requiring legislative funding or statutory changes before they can be put into
 effect shall be implemented on the effective date of this Agreement or as otherwise specified in this Agreement.
@@ -3431,14 +3431,14 @@ Section 4.
                                                                                                                   REV: 2025
 
 
-                                            ARTICLE 59 - SAVINGS
+### ARTICLE 59 - SAVINGS
            In the event any provision of this Agreement is declared invalid by any court of competent jurisdiction or by
 ruling of the Employment Relations Board, then, only such portion or portions shall become null and void and the balance
 of the Agreement shall remain in effect. The Employer and the Union agree to immediately meet, negotiate, and agreed
 upon a substitute for the portion or portions of the Agreement so affected and to bring into conformance therewith not
 over sixty (60) days after notification unless extended by mutual agreement.
 
-                                  ARTICLE 60 - TERM OF AGREEMENT
+### ARTICLE 60 - TERM OF AGREEMENT
 Section 1.
            Unless otherwise noted in a specific article in the Agreement, this Agreement becomes effective on the date of
 ratification at the local table and expires June 30, 2027. The Union shall send a letter informing the Department of
@@ -3455,7 +3455,7 @@ February 15, 2027 and March 15, 2027.
 
 
 2025-2027 Stabilization and Crisis Unit                     55                            Collective Bargaining Agreement
-     ARTICLE 61 - IMPLEMENTATION OF NEW CLASSES—APPEALS PROCESS
+### ARTICLE 61 - IMPLEMENTATION OF NEW CLASSES—APPEALS PROCESS
          The appeals process is designed to allocate employees into new classes. Employees in positions allocated to
 a new classification, who dispute their placement within the new class, can appeal their placement using the following
 process.
@@ -3512,7 +3512,7 @@ f.       This process terminates upon completion of the allocation process.
 
 
 2025-2027 Stabilization and Crisis Unit                      56                            Collective Bargaining Agreement
-                                   ARTICLE 62 – CONTRACTING OUT
+### ARTICLE 62 – CONTRACTING OUT
 
 Section 1.
           The Union recognizes that the Employer has the management right, during the term of this Agreement, to decide
@@ -3590,7 +3590,7 @@ labor/management meetings and determine the most effective and efficient way to 
 Agency initiated contracts. Decisions around reviewing of contracted work are not subject to the grievance procedure.
                                                                                                                 REV: 2021
 
-                      ARTICLE 63 – VOLUNTARY MEDICAL SEPARATION
+### ARTICLE 63 – VOLUNTARY MEDICAL SEPARATION
 Section 1.
          A regular status employee with a serious health condition who has exhausted all of their own accrued paid leave
 balances may submit a written request to the Agency for a ‘voluntary medical separation’. A voluntary medical separation
@@ -3622,7 +3622,7 @@ Agency’s Layoff List and may be eligible for recall provided all of the follow
                                                                                                                 NEW: 2019
 
 
-                                    ARTICLE 64 – EXIT INTERVIEWS
+### ARTICLE 64 – EXIT INTERVIEWS
 a.       If a regular status employee provides timely notice that they are voluntarily separating from Agency service, the
          Agency will offer an exit interview that focuses on the reason(s) for the employee leaving Agency service and
          what changes they recommend to the Agency to improve Agency operations, or,
@@ -3635,7 +3635,7 @@ c.       Upon request, but no more than two (2) times a year, the Union can rece
 
 
 2025-2027 Stabilization and Crisis Unit                    58                            Collective Bargaining Agreement
-                                         ARTICLE 66 – FLOAT POOL
+### ARTICLE 66 – FLOAT POOL
 
 Section 1. Schedules.
 a.      Float Pool (FP) staff schedules shall consist of eight (8) hour shifts,, thirteen (13) hour; twenty (20) minutes
@@ -3670,7 +3670,7 @@ position must be accepted. Positions will be awarded in accordance with Article 
 and Demotions.
                                                                                                     NEW: 2021REV: 2023,2025
 
-                                   ARTICLE 67 - WORKING REMOTELY
+### ARTICLE 67 - WORKING REMOTELY
 Section 1.
          Oregon state government encourages working remotely where it is a viable option that benefits both the
 employee and the agency. Use of remote work options promote the health and safety of Oregonians; ensures high-
@@ -3792,7 +3792,7 @@ Section 13. Other Provisions.
         be guaranteed a workspace at an Employer facility.
                                                                                                    NEW: 2021 REV: 2023,2025
 
-                                          ARTICLE 68 – AIR QUALITY
+### ARTICLE 68 – AIR QUALITY
 Section 1.
           The Air Quality Index (AQI) was developed by the US Environmental Protection Agency as an indicator of overall
 air quality and is based on the five (5) criteria pollutants regulated under the Clean Air Act: ground-level ozone, particulate
@@ -3810,7 +3810,7 @@ Condition Leave will apply. All other provision of Article 37—Inclement Weathe
 AQI which falls under a Hazardous Condition.
                                                                                                                    NEW: 2021
 
-                                   ARTICLE 69 - PAID LEAVE OREGON
+### ARTICLE 69 - PAID LEAVE OREGON
         Paid Leave Oregon is administered by the Oregon Employment Department. The State of Oregon, as an
 employer, shall comply with the provisions of Paid Leave Oregon, as provided for in the DAS statewide Paid Leave
 Oregon Policy (60.000.04), including but not limited to the following section on Use of Paid Leave:
@@ -3823,7 +3823,7 @@ Medical Leave or Oregon Family Leave (FMLA/OFLA) will use accrued leave in accor
 language relating to FMLA/OFLA.
                                                                                                                    NEW: 2023
 
-                                ARTICLE 70 - ESSENTIAL WORKER PAY
+### ARTICLE 70 - ESSENTIAL WORKER PAY
 When a situation exists that would otherwise close or curtail state offices, essential workers having to report to work, in-
 person, shall receive the Essential Worker Inclement Weather/Hazardous Conditions Pay differential.
 
@@ -3848,7 +3848,7 @@ closed.
 
 
 2025-2027 Stabilization and Crisis Unit                    62                            Collective Bargaining Agreement
-     LETTER OF AGREEMENT – ARTICLE 17 - SALARY AND BENEFIT REPORT
+### LETTER OF AGREEMENT – ARTICLE 17 - SALARY AND BENEFIT REPORT
 
 This Agreement is between the State of Oregon, acting through its Department of Administrative Services (DAS) and the
 AFSCME Local 75, (Union).
@@ -3869,7 +3869,7 @@ This Letter of Agreement will sunset on June 30, 2027, unless extended by mutual
 
 
 2025-2027 Stabilization and Crisis Unit                   63                           Collective Bargaining Agreement
-LETTER OF AGREEMENT – ARTICLE 21 - PEBB MEMBER ADVISORY COMMITTEE
+### LETTER OF AGREEMENT – ARTICLE 21 - PEBB MEMBER ADVISORY COMMITTEE
 This Agreement is between the State of Oregon, acting through its Department of Administrative Services (Employer)
 and AFSCME Council 75 (Union).
 
@@ -3902,7 +3902,7 @@ This Agreement will sunset on June 30, 2027.
 
 
 2025-2027 Stabilization and Crisis Unit                   64                            Collective Bargaining Agreement
-       LETTER OF AGREEMENT – ARTICLE 22 – DIFFERENTIALS (MANDATED
+### LETTER OF AGREEMENT – ARTICLE 22 – DIFFERENTIALS (MANDATED
                               OVERTIME)
 This Agreement is between the State of Oregon (Employer), acting through its Department of Administrative Services,
 Labor Relations Unit (DAS/LRU) on behalf of the Oregon Department of Human Services (ODHS), Stabilization and
@@ -3929,7 +3929,7 @@ This Agreement shall expire June 30, 2027.
 
 
 2025-2027 Stabilization and Crisis Unit                   65                           Collective Bargaining Agreement
-             LETTER OF AGREEMENT – ARTICLE 54 – HAZARD EXPOSURE
+### LETTER OF AGREEMENT – ARTICLE 54 – HAZARD EXPOSURE
 This Letter of Agreement is entered into between the Department of Administrative Services (hereinafter the “Employer”),
 on behalf of the Oregon Department of Human Services (ODHS), Stabilization and Crisis Unit (SACU) (Agency) and
 AFSCME Council 75 (Union).
@@ -3944,7 +3944,7 @@ This letter of agreement shall expire June 30, 2027, or may be extended by mutua
 
 
 2025-2027 Stabilization and Crisis Unit                  66                           Collective Bargaining Agreement
-    LETTER OF AGREEMENT - ARTICLE 62 - CONTRACTING OUT - FEASIBILITY
+### LETTER OF AGREEMENT - ARTICLE 62 - CONTRACTING OUT - FEASIBILITY
                                STUDY
 
 This Letter of Agreement is entered into between the State of Oregon Department of Administrative Services, on behalf
@@ -3961,7 +3961,7 @@ This Agreement is effective through June 30, 2027.
 
 
 2025-2027 Stabilization and Crisis Unit                    67                            Collective Bargaining Agreement
-                             LETTER OF AGREEMENT –CERTIFICATION
+### LETTER OF AGREEMENT –CERTIFICATION
 This Agreement is between the State of Oregon (Employer), acting through its Department of Administrative Services,
 Labor Relations Unit (DAS/LRU) on behalf of the Oregon Department of Human Services (ODHS), Stabilization and
 Crisis Unit (SACU) (Agency) and Oregon AFSCME Council 75 (Union).
@@ -4077,7 +4077,7 @@ associated pay.
 
 
 2025-2027 Stabilization and Crisis Unit                     69                             Collective Bargaining Agreement
-LETTER OF AGREEMENT – TRANSITION OF STAFF DUE TO WORKSITE CLOSURE
+### LETTER OF AGREEMENT – TRANSITION OF STAFF DUE TO WORKSITE CLOSURE
 This Agreement is between the State of Oregon (Employer), acting through its Department of Administrative Services,
 Labor Relations Unit (DAS/LRU) on behalf of the Oregon Department of Human Services (ODHS), Stabilization and
 Crisis Unit (SACU) (Agency), and AFSCME Council 75 (Union).
@@ -4120,7 +4120,7 @@ This Letter of Agreement will sunset on June 30, 2027, unless extended by mutual
 
 
 2025-2027 Stabilization and Crisis Unit                     70                             Collective Bargaining Agreement
-         LETTER OF AGREEMENT – NEW EMPLOYEE NOTICE/UNION ACCESS
+### LETTER OF AGREEMENT – NEW EMPLOYEE NOTICE/UNION ACCESS
     1.   Notice
              a.   The Employer shall provide the Union, in an editable digital file format, the following information for
                   each employee quarterly:
@@ -4153,7 +4153,7 @@ This Letter of Agreement will sunset on June 30, 2027, unless extended by mutual
 
 
 2025-2027 Stabilization and Crisis Unit                   71                           Collective Bargaining Agreement
-LETTER OF AGREEMENT – OREGON UNIONS STATE WORKER TRAINING FUND
+### LETTER OF AGREEMENT – OREGON UNIONS STATE WORKER TRAINING FUND
 The Parties recognize that both the State and its workers benefit from workers understanding their different health care
 options, understanding their retirement benefits and finding solutions to increase wellness and equity in the workplace
 
@@ -4189,7 +4189,7 @@ The State Worker Training Fund will develop a plan to deliver trainings and prog
 
 
 2025-2027 Stabilization and Crisis Unit                    72                            Collective Bargaining Agreement
-                     LETTER OF AGREEMENT – CONTRACT SPECIALIST
+### LETTER OF AGREEMENT – CONTRACT SPECIALIST
 This Agreement is between the State of Oregon, acting through its Department of Administrative Services (Employer) on
 behalf of all Agencies covered under the jurisdiction of the AFSCME Central Table (Agency) and AFSCME Council 75
 (Union).
@@ -4294,7 +4294,7 @@ Parties or the Parties agree to amend its provisions.
 
 
 2025-2027 Stabilization and Crisis Unit                     74                            Collective Bargaining Agreement
-    LETTER OF AGREEMENT – STATE POLICY 50.050.01 WORKING REMOTELY
+### LETTER OF AGREEMENT – STATE POLICY 50.050.01 WORKING REMOTELY
                              UPDATES
 This Letter of Agreement is between the State of Oregon, acting through its Department of Administrative Services
 (Employer on behalf of the Agencies covered under the jurisdiction of the AFSCME Central Table (Agencies) and
@@ -4310,7 +4310,7 @@ This Agreement becomes effective on the date of the last signature below and end
 
 
 2025-2027 Stabilization and Crisis Unit                   75                            Collective Bargaining Agreement
-                               LETTER OF AGREEMENT – EQUAL PAY
+### LETTER OF AGREEMENT – EQUAL PAY
 This Agreement is entered into by the State of Oregon, acting through its Department of Administrative Services, Labor
 Relations Unit (Employer), on behalf of the Agencies covered by this Agreement (Agency) and the AFSCME Council 75
 (Union).
@@ -4410,7 +4410,7 @@ The Parties agree to the following:
 
 
 2025-2027 Stabilization and Crisis Unit                 77                           Collective Bargaining Agreement
-     LETTER OF AGREEMENT – STRUCTURAL CHANGES TO PAY PRACTICES
+### LETTER OF AGREEMENT – STRUCTURAL CHANGES TO PAY PRACTICES
 
 This Letter of Agreement is between the State of Oregon, acting through its Department of Administrative Services
 (Employer), and the AFSCME Council 75 (Union).
@@ -4561,7 +4561,7 @@ Attachments:
 
 
 2025-2027 Stabilization and Crisis Unit                  80                           Collective Bargaining Agreement
-   LETTER OF AGREEMENT – STATEWIDE LABOR MANAGEMENT COMMITTEE
+### LETTER OF AGREEMENT – STATEWIDE LABOR MANAGEMENT COMMITTEE
 
 This Agreement is entered into by the State of Oregon, acting through its Department of Administrative Services, Labor
 Relations Unit (Employer), on behalf of the Agencies covered by this Agreement (Agency) and the AFSCME Council 75
@@ -4588,7 +4588,7 @@ This Agreement becomes effective on the date of the last signature and expires J
 
 
 2025-2027 Stabilization and Crisis Unit                    81                            Collective Bargaining Agreement
-LETTER OF AGREEMENT – ADMINISTRATIVE LEAVE/DUTY STATIONED AT HOME
+### LETTER OF AGREEMENT – ADMINISTRATIVE LEAVE/DUTY STATIONED AT HOME
                   INVESTIGATION COMMUNICATION
 This Agreement is between the State of Oregon, acting through its Department of Administrative Services (Employer) on
 behalf of all Agencies covered under the jurisdiction of the AFSCME Central Table (Agency) and AFSCME Council 75
@@ -4644,7 +4644,7 @@ Southern Region
 
 
 2025-2027 Stabilization and Crisis Unit                    83                           Collective Bargaining Agreement
-                        Appendix A - Article 14 – Grievance Procedure Timelines
+### Appendix A - Article 14 – Grievance Procedure Timelines
      NOTE: The timeline for the Employer response at each grievance step shall begin the first day following the day of
      receipt. The timeline for the Union appeal to the next higher step shall begin the first day following the day the Employer
      response is due or received.
@@ -4698,7 +4698,7 @@ Grievances             calendar days of the                                  wit
 
 
      2025-2027 Stabilization and Crisis Unit                    84                            Collective Bargaining Agreement
-                    APPENDIX B - SALARY ADMINISTRATION EXAMPLES
+### APPENDIX B - SALARY ADMINISTRATION EXAMPLES
 
 Salary on Promotion or Upward Reclassif ication
 
@@ -4725,7 +4725,7 @@ next benef it service date, f ollowed by an additional step increase — not to 
 
 
 2025-2027 Stabilization and Crisis Unit                 85                          Collective Bargaining Agreement
-                                APPENDIX C - COMPENSATION PLAN
+### APPENDIX C - COMPENSATION PLAN
 
 
                       Classification                                    SR
@@ -4766,7 +4766,7 @@ next benef it service date, f ollowed by an additional step increase — not to 
 
 
 2025-2027 Stabilization and Crisis Unit                86         Collective Bargaining Agreement
-                                        APPENDIX D - SALARY SCHEDULES
+### APPENDIX D - SALARY SCHEDULES
 
                                           SALARY SCHEDULE AS OF JULY 1, 2025
   SR         Step 1      Step 2      Step 3       Step 4   Step 5   Step 6   Step 7      Step 8     Step 9    Step 10

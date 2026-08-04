@@ -19,9 +19,8 @@ retrieved: '2026-08-02'
 source_sha256: 8f6a81ca6d7edd36ca163a3c52410c0122709da984dfe48488b265c3ba171474
 snapshot_policy: hash-only
 status: current
-content_mode: summary
-reproduction_basis: 'jointly-authored contract; summary + official link per the class determination
-  in corpus.yml schema.doc_types (verbatim: false)'
+content_mode: 'verbatim'
+reproduction_basis: 'public record of a public body (ORS 192.311-192.478); the employer publishes the executed agreement in full at source_url; a ratified agreement is an official act (Georgia v. Public.Resource.Org, 590 U.S. 255 (2020)) — mirrored in full per the class determination in corpus.yml schema.doc_types (verbatim: true)'
 conversion_notes: pdftotext -layout; 32 pages, 44409 characters extracted; NOT human-verified
 last_verified: ''
 verified_by: ''
@@ -38,8 +37,8 @@ tags:
 - lane-county
 ---
 
-> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated
-> summary, not the agreement's official text. Verify against the official
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a non-authoritative
+> mirror of the agreement's text, not the official record. Verify against the official
 > source: <https://www.lanecounty.org/UserFiles/Servers/Server%5F3585797/File/Government/County%20Departments/Human%20Resources/Collective%20Bargaining%20Agreements/PAA%20Collective%20Bargaining%20Agreement.pdf> (retrieved 2026-08-02).
 
 # Lane County — PAA Collective Bargaining Agreement
@@ -50,10 +49,6 @@ Collective bargaining agreement between **Lane County** and **the signatory asso
 - Listed on the county's labor agreements index as: “PAA Collective Bargaining Agreement” (index archived in `_meta/discovery/`)
 - Source document: 32 pages (PDF)
 
-This corpus is **summary-first for agreements**: the contract's text is not
-reproduced here (see Curator notes), and nothing on this page states or
-paraphrases the agreement's terms. Read the agreement itself at the official
-source link above.
 
 ## Curator notes
 
@@ -71,3 +66,821 @@ Statutes and rules the document's text cites are recorded in frontmatter
 `relationships.references_external` (0 citation(s)) and resolve into
 `executive-regulatory-frameworks` as cites — this corpus asserts no
 `implements` edge anywhere.
+
+## Full text
+
+                                                  Prosecuting Attorneys’ Association Agreement
+                                                                                     2024-2027
+
+
+
+
+                                    AGREEMENT
+
+                                       between
+
+                               LANE COUNTY, OREGON
+
+                                         and
+
+              THE LANE COUNTY PROSECUTING ATTORNEYS' ASSOCIATION
+
+
+                                    AGREEMENT
+
+                                      2024-2027
+
+
+THIS COLLECTIVE BARGAINING AGREEMENT is entered into by and between LANE COUNTY,
+OREGON, hereinafter referred to as the COUNTY, and THE LANE COUNTY PROSECUTING
+ATTORNEYS' ASSOCIATION, hereinafter referred to as the ASSOCIATION.
+                                           TABLE OF CONTENTS
+
+
+ARTICLE 1 RECOGNITION ......................................................................................................... 1
+ARTICLE 2 WAGES ..................................................................................................................... 2
+            Section 1 – Salary Adjustments ............................................................................. 2
+            Section 2 – Steps in Compensation Plan .............................................................. 2
+            Section 3 – Direct Deposit ..................................................................................... 2
+            Section 4 – On-Call Pay ......................................................................................... 3
+            Section 5 – Recoupment of Wage and Benefit Overpayments ............................. 3
+ARTICLE 3 LEAVE TIME ............................................................................................................. 4
+            Section 1 – Time Management .............................................................................. 4
+            Section 2 – Occupational Illness or Injury .............................................................. 6
+            Section 3 – Non-Occupational Disability Leave ..................................................... 6
+            Section 4 – Military Leave ...................................................................................... 7
+            Section 5 – County Paid Bereavement Leave ....................................................... 7
+ARTICLE 4 INSURANCE AND RELATED .................................................................................. 8
+            Section 1 – Types of Insurance ............................................................................. 8
+            Section 2 – Health Insurance Plans ....................................................................... 9
+            Section 3 – Retirement Plan Enrollment ................................................................ 9
+            Section 4 – Retiree Benefits ................................................................................ 10
+ARTICLE 5 PARKING ................................................................................................................ 11
+ARTICLE 6 DISCRIMINATION .................................................................................................. 12
+ARTICLE 7 GRIEVANCE PROCEDURE ................................................................................... 13
+            Section 1 - Purpose ............................................................................................. 13
+            Section 2 - Grievance Steps ................................................................................ 13
+            Section 3 - Arbitration .......................................................................................... 14
+            Section 4 - General .............................................................................................. 14
+            Section 5 – Time Limits ........................................................................................ 14
+ARTICLE 8 TERMINATION ....................................................................................................... 16
+            Section 1 – Duration ............................................................................................ 16
+            Section 2 – Notice ................................................................................................ 16
+            Section 3 – Representation .................................................................................. 16
+Appendix A Salary Plan ........................................................................................................... 18
+APPENDIX B Classification Series.......................................................................................... 19
+                                                          Prosecuting Attorneys’ Association Agreement
+                                                                                             2024-2027
+
+
+                                             ARTICLE 1
+                                           RECOGNITION
+
+
+
+For the purposes of collective bargaining with respect to compensation, the COUNTY recognizes the
+ASSOCIATION as the exclusive bargaining representative of employees of the Office of the District
+Attorney in the classifications of Deputy District Attorney 1, 2, 3, and Senior Prosecutor.
+
+
+
+
+ARTICLE 1
+RECOGNITION                                           1
+                                                                   Prosecuting Attorneys’ Association Agreement
+                                                                                                      2024-2027
+
+
+
+                                                    ARTICLE 2
+                                                      WAGES
+
+Section 1 – Salary Adjustments
+
+      (A)       Effective the first full pay period following July 1, 2024, the County will establish a new salary
+                plan and employees will be placed on the grade, as indicated below, on the same step they
+                held prior to the adjustments.
+
+                a.   Deputy District Attorney 1: Grade 8
+                b.   Deputy District Attorney 2: Grade 17
+                c.   Deputy District Attorney 3: Grade 24
+                d.   Sr. Prosecutor: Grade 29
+
+(B)         Effective the first full pay period following July 1, 2024, the pay ranges shall be increased to
+            reflect a cost of living adjustment (COLA) equivalent to the CPI-U West region (Annual Average)
+            percentage for calendar year 2023, by no less than two percent (2.0%) and no more than five
+            percent (5.0%) rounded to the nearest tenth. The salary plan shall be set forth and attached
+            hereto in Appendix A.
+
+(C)         Effective the first full pay period following July 1, 2025, the pay ranges shall be increased to
+            reflect a cost of living adjustment (COLA) equivalent to the CPI-U West region (Annual Average)
+            percentage for calendar year 2024, by no less than two percent (2.0%) and no more than five
+            percent (5.0%) rounded to the nearest tenth.
+
+(D)         Effective the first full pay period following July 1, 2026, the pay ranges shall be increased to
+            reflect a cost of living adjustment (COLA) equivalent to the CPI-U West region (Annual Average)
+            percentage for calendar year 2025, by no less than two percent (2.0%) and no more than five
+            percent (5.0%) rounded to the nearest tenth.
+
+(E)         The COUNTY agrees to pay the District Attorney’s Office trial team leader positions, in
+            recognition of their duties and responsibilities, an additional three percent (3%) above their base
+            salary placement.
+
+Section 2 – Steps in Compensation Plan
+
+(A)         The anniversary date for any employee to move between steps of the compensation plan shall
+            occur at twelve (12) month intervals provided the employee has achieved a “competent”
+            (“satisfactory”) or better rating on their performance evaluation.
+
+(B)         In the event an employee's evaluation is not completed within thirty (30) calendar days of when
+            due, the following pay period the employee shall advance to the next higher step.
+
+
+Section 3 – Direct Deposit
+
+(A)         All employees shall have their payroll transmitted via direct deposit. Employees may view their
+            payroll information on Employee Self-Service.
+
+(B)         Direct deposit may be made to an unlimited number of financial institutions at any one time.
+
+(C)         Payroll subject to direct deposit will normally be available in the morning of the Friday on which
+            the payroll is disbursed to employees.
+ARTICLE 2
+WAGES                                                          2
+                                                             Prosecuting Attorneys’ Association Agreement
+                                                                                                2024-2027
+
+
+
+Section 4 – On-Call Pay
+
+(A)    Each employee, required by the District Attorney, to be available on-call, shall receive one (1)
+       hour pay for each required day.
+
+Section 5 – Recoupment of Wage and Benefit Overpayments
+
+(A)    In the event an employee receives wages or benefits to which the employee is not entitled,
+       regardless of whether the employee knew or should have known of the overpayment, the
+       COUNTY will recover the overpayment as follows:
+
+       (1) Provide written notice with itemized and detailed explanation of an overpayment to the
+           employee within fourteen (14) calendar days from the date of discovery.
+
+       (2) Overpayment of ten percent (10%) or less of an employee’s wages in one (1) pay period will
+           be recovered in one (1) lump sum through payroll deduction.
+
+       (3) Employees will make arrangements and identify pay periods for the return of overpayments in
+           amounts not to exceed ten percent (10%) of the employee’s wages in one (1) pay period
+           through payroll deduction.
+
+       (4) If an employee separates from the COUNTY prior to full recovery of the overpayment, the
+           balance owing will be deducted from the employee’s final paycheck in accordance with
+           current wage and hour law.
+
+(B)    Nothing in this Section will preclude an agreement for immediate resolution. This Section does
+       not waive the COUNTY’s right to pursue other legal procedures and processes to recoup an
+       overpayment made to an employee at any time.
+
+
+
+
+ARTICLE 2
+WAGES                                                    3
+                                                              Prosecuting Attorneys’ Association Agreement
+                                                                                                 2024-2027
+
+
+
+                                                ARTICLE 3
+                                               LEAVE TIME
+
+Section 1 – Time Management
+
+(A)   Purpose
+
+      It is the purpose of the employee time management program to provide employees with a leave
+      with pay program that is easy to understand, responsive to individual needs, and easy to
+      administer.
+
+(B)   Eligibility
+
+      This program covers all regular probationary and non-probationary employees in the bargaining
+      unit. Employees covered by these provisions shall not be eligible for separate leave benefits
+      covering the following:
+
+      (1)   Family Emergency
+      (2)   Vacation Leave
+      (3)   Sick Leave (non-occupational illness or injury leave, excluding disability leave)
+      (4)   Personal Days
+
+(C)   Accumulation
+
+      Eligible employees shall accumulate earned leave, based on full-time status, at the following
+      rates:
+
+      Months of                    Earned                             Bi-Weekly Earned Leave
+      Service                      Leave                              Accumulation
+       0 - 24 mos.                  (0 to 2 yrs) 28.0 days/yr          8.615 hrs/pay period
+       25 - 48 mos.                 (2 to 4 yrs) 31.0 days/yr          9.538 hrs/pay period
+       49 -108 mos.                 (4 to 9 yrs) 35.0 days/yr          10.769 hrs/pay period
+       109 - 168 mos.               (9 to 14 yrs) 39.0 days/yr         12.000 hrs/pay period
+       169 - 228 mos.               (14 to 19 yrs) 43.0 days/yr        13.231 hrs/pay period
+       229 - 288 mos.               (19 or more) 47.0 days/yr          14.462 hrs/pay period
+
+(D)   Part-time employees
+
+      Eligible, part-time employees shall accrue and use time off under this program on a pro rata basis,
+      based upon the percent of full-time equivalence authorized for the position.
+
+(E)   Existing Vacation
+
+      An employee's existing vacation accrual will be preserved in a separate balance. Employees with
+      an existing vacation balance will have the option of charging leave to either the vacation balance
+      or the time management balance. At the time of termination or retirement, any vacation balance
+      shall be paid out at the then current salary rate on a one for one basis.
+
+      (1) After six (6) months of service, upon the termination of an employee, or in the event of the
+          death of an employee, the employee's vacation balance shall be paid out.
+
+
+
+
+ARTICLE 3
+LEAVE TIME                                                4
+                                                             Prosecuting Attorneys’ Association Agreement
+                                                                                                2024-2027
+
+
+(F)   Usage
+
+      During the course of the year, absences from work for any reason other than on-the-job illness or
+      injury covered by Worker's Compensation, disability leave as provided for in Section 3 of this
+      Article, Paid Family Medical Leave, or paid holiday shall be charged against the employee's
+      accrued leave balance. Earned leave shall accrue whenever an employee is on paid status with
+      the COUNTY. Employees do not accrue earned leave when on leave without pay.
+
+(G)   Maximum Accumulation
+
+      An employee may accumulate earned leave, including the separate vacation balance, if any, to a
+      maximum of twice their annual time management accumulation. As of the end of the pay period in
+      which March 31 falls in each year, any employee credited with accrued leave greater than twice
+      their annual leave accumulation shall forfeit that amount above their maximum accumulation. An
+      employee who has acquired the maximum allowable accumulation of earned leave may continue
+      to accumulate earned leave for the balance of the year in which the maximum accrual was
+      reached, provided, however, that the employee must reduce the accumulation to the maximum
+      allowable prior to the following March 31 or forfeit the excess.
+
+(H)   Termination
+
+      After six (6) months of service, employees shall be paid half (1/2) of their accrued time
+      management leave balance upon termination at the current rate of pay.
+
+(I)   Death
+
+      After six (6) months of service, in the event of the death of an employee, all accumulated earned
+      leave shall be paid to the employee's personal representative at the current rate of pay.
+
+(J)   Scheduling
+
+      Employees shall, whenever possible, request time off in advance. Use of such leave must be
+      scheduled between the employee and the COUNTY. When an employee is sick or an emergency
+      occurs requiring their presence elsewhere, the employee must notify their supervisor as soon as
+      possible.
+
+(K)   Conversion
+
+      (1)      After six (6) months of continuous employment, employees may sell accrued time
+               management hours and vacation hours subject to the following restrictions:
+
+                    (a) The maximum number of time management hours and vacation hours that can
+                        be paid out in a fiscal year cannot be greater than the number of hours taken in
+                        that same calendar year or eighty (80) hours whichever is the lesser.
+
+                    (b) The time management leave hours must be either scheduled or used prior to any
+                        conversion pursuant to this provision.
+
+      (2)      Subsection (1) above notwithstanding, during the last three (3) years prior to PERS
+               eligible retirement, employees may sell up to 200 hours per year of their leave accrual at
+               the current rate of pay. Extensions of an employee's scheduled retirement date
+               notwithstanding, no employee will be entitled to this benefit in more than three (3) years.
+
+
+
+
+ARTICLE 3
+LEAVE TIME                                               5
+                                                               Prosecuting Attorneys’ Association Agreement
+                                                                                                  2024-2027
+
+
+Section 2 – Occupational Illness or Injury
+
+Employees who sustain an illness or injury covered by Workers' Compensation and who are unable to
+perform their assigned duties will be paid their regular salary, minus any applicable employee
+contributions, for lost time for the first ninety (90) calendar days of the employee’s on-the-job illness or
+injury; thereafter as prescribed by Oregon Workers’ Compensation law. Such time will not be charged
+against any accrued leave balance. The COUNTY will maintain fully paid health benefits, minus any
+applicable employee contributions during a workers’ compensation qualified leave, up to one hundred
+eighty (180) days from the first date of the authorized time loss or modified duty, provided that the
+medical prognosis indicates that the employee will be able to return to work within the one hundred eighty
+(180) day period.
+
+
+Section 3 – Non-Occupational Disability Leave
+
+(A)     After completion of six (6) months of employment and Paid Family Medical Leave (PFML) has
+        been determined, or notification of intent to not file has been received, if a non-occupational
+        illness or injury exceeds eighty (80) hours, the COUNTY will provide compensated time off at the
+        regular rate of pay for the first two (2) weeks, or any part thereof, of disability; at ninety percent
+        (90%) pay for the next two (2) weeks, or any part thereof; at eighty percent (80%) pay for the next
+        two (2) weeks, or any part thereof; at seventy (70%) for the next two (2) weeks, or any part
+        thereof; and at sixty-six and two-thirds percent (66-2/3%) for any remaining disability period.
+
+(B)     All disability leave pay is less any Workers’ Compensation or PFML benefits for which the
+        employee may be receiving following the eighty (80) hours elimination period until the employee
+        is released to return to work up to a maximum of ninety (90) calendar days from the first day of
+        absence. Available time management balances will be used during the first eighty (80) hour
+        period.
+
+(C)     An employee must provide PFML claim information to the designated absence management
+        provider or submit a signed statement of intent to not file for PFML, in order for STD payments to
+        be calculated.
+
+(D)     If the same illness or injury recurs, requiring the employee to leave work, and the employee has
+        returned to work for seven (7) or less calendar days, or if the employee is remaining under a
+        doctor's care and the doctor recommends additional time off for the same illness or injury, no
+        further elimination period will occur. However, an employee whose disability leave exceeds two
+        (2) weeks beyond the elimination period thereby becoming eligible for a reduced percentage of
+        pay, must offset the reduction from their regular pay by charging time to their accrued time
+        management or vacation leave balance.
+
+(E)     Once an employee has received benefits under this provision, the employee will not be eligible to
+        use accrued time management again until the employee has returned to work and subsequently
+        suffered another illness or injury.
+
+(F)     It is understood that disability leave for any reason shall not exceed that period during which the
+        employee is in fact physically unable to return to work, as substantiated by the employee's
+        physician.
+
+(G)     Employees who are on disability leave shall not accrue Time Management (TM); however, if
+        employees supplement medical leave payments, they will accrue TM only on used accrued leave
+        hours. However, if an employee returns to work, with an appropriate medical release, they will
+        accrue Time Management for the actual hours worked.
+
+
+
+ARTICLE 3
+LEAVE TIME                                                 6
+                                                             Prosecuting Attorneys’ Association Agreement
+                                                                                                2024-2027
+
+
+Section 4 – Military Leave
+
+(A)    Military Training Leave
+
+       Regular status employees are eligible to receive paid annual military training upon hire. All other
+       employees are eligible after six (6) months of service. Eligible employees who are members of
+       the National Guard or of any reserve component of the Armed Forces of the United States is
+       entitled to a leave of absence for a period not to exceed twenty one (21) workdays in any training
+       year for annual active duty training. The training year coincides with the federal fiscal year
+       (October 1 – September 30). The leave shall be granted without loss of pay or other leave, and
+       without impairment of other rights or benefits to which the employee is entitled, providing the
+       employee received bona fide orders to active or training duty for a temporary period, provides
+       them to the COUNTY, and returns to the position immediately upon expiration of the period for
+       which the employee was ordered to duty. Employees may use accrued personal time or leave
+       without pay to cover additional National Guard or reserve training leave, including weekend
+       training.
+
+(B)    Military Leave While on Active Duty
+
+       Employees called for active duty will be granted leave without pay in accordance with state and
+       federal law. See the County’s Administrative Policy Manual for more information.
+
+Section 5 – County Paid Bereavement Leave
+
+(A)    Employees shall receive pay for lost work as a result of a death in the employee's immediate
+       family to a maximum of three (3) days (need not be consecutive days) pay, or if out-of-state travel
+       is required, five (5) days’ pay, at the regular straight time hourly rate. The COUNTY may require
+       verification of the family status. Immediate family is defined for County paid leave purposes as
+       parent (biological, adoptive, step-parent, foster parent, or legal guardian), spouse, Domestic
+       Partner, , sibling (biological, adoptive, step-sibling, foster sibling), child (biological, adopted,
+       foster, step-child, or the child of an employee’s registered domestic partner), grandparent,
+       grandchild, stepmother, stepfather, father-in-law, mother-in-law, son-in-law or daughter-in-law,
+       grandparent-in-law, brother-in-law, sister-in-law, parent of registered domestic partner, a person
+       with whom the employee is or was in a relationship of “in loco parentis,” any other relative
+       residing in the employee's immediate household, or any other relationships identified in the
+       Administrative Procedures Manual. In order to receive payment, leave must be taken within
+       twelve (12) months of death.
+
+(B)    An employee may also be entitled to OFLA bereavement leave. This OFLA bereavement runs
+       consecutively to County paid bereavement leave and is unpaid unless the employee elects to use
+       time management. OFLA bereavement leave must be taken within sixty (60) days of the date on
+       which the eligible employee receives notice of the death of a family member and only for those
+       individuals recognized by OFLA as immediate family.
+
+
+
+
+ARTICLE 3
+LEAVE TIME                                               7
+                                                              Prosecuting Attorneys’ Association Agreement
+                                                                                                 2024-2027
+
+
+
+                                                ARTICLE 4
+                                       INSURANCE AND RELATED
+
+
+
+Section 1 – Types of Insurance
+
+The COUNTY agrees to cover its eligible and qualified employees with certain insurance protection and
+related programs identified below. The costs of such programs for employees will be affordable as
+defined by federal legislation during the life of this Agreement. For the purposes of this article Employee +
+Other shall be defined as family including children, spouse or domestic partner.
+
+(A)    Employee and eligible dependent health insurance. The following three plans will be offered to the
+       members of the ASSOCIATION:
+
+            a. The Co-Pay Plan for employees hired on or before December 31, 2024. Employees hired
+               on or after January 1, 2025 are not eligible to elect this plan.
+
+            b. The High Deductible Health Plan (“HDHP”) with a Health Savings Account (“HSA”) or
+               health reimbursement arrangement under the voluntary employees’ beneficiary
+               association (HRA-VEBA) at the employee’s option.
+
+                     i. Effective January 1, 2025, the deductible for the HDHP will be two thousand dollars
+                        ($2,000) for Employee Only and four thousand dollars ($4,000) for Employee +
+                        Other. For all employees who elect the HDHP plan, the COUNTY will deposit,
+                        based on employee enrollment, one thousand six hundred dollars ($1,600) for
+                        Employee Only or three thousand two hundred dollars ($3,200) for Employee +
+                        Other into the employee’s HSA or HRA-VEBA, at the employee’s option.
+
+                     ii. For employees who participate in the Live Well Health Risk Assessment (LWHRA),
+                         as described in section 2 (A)(5) below, by November 30 of each calendar year the
+                         COUNTY will deposit in the next calendar year, based on employee enrollment,
+                         four hundred dollars ($400) for Employee Only or eight hundred dollars ($800) for
+                         Employee + Other into the employee’s HSA or HRA-VEBA, at the employee’s
+                         option.
+
+                    iii. Applicable deposits will occur within the first five (5) business days following
+                         January 1 for each year of this Agreement.
+
+            c.   The Plus Plan.
+
+(B)    Employee and eligible dependent dental insurance.
+
+(C)    Employee and eligible dependent vision exam plan (included in health insurance).
+
+(D)    Employee term life insurance in the amount of two (2) times annual salary, up to the limits of the
+       plan ($550,000), and accidental death benefit of an additional two (2) times salary, up to the limits
+       of the plan ($550,000).
+
+(E)    Employee long-term disability insurance to provide 66-2/3% of gross income after ninety (90) days
+       of disability up to the limits of the plan. The limits of the plan shall be 66-2/3% of a gross monthly
+
+
+
+
+ARTICLE 4
+INSURANCE AND RELATED                                     8
+                                                             Prosecuting Attorneys’ Association Agreement
+                                                                                                2024-2027
+
+
+      income limit of $10,000 or $6,667 per month.
+
+Section 2 – Health Insurance Plans
+
+(A)    The following health insurance contributions apply:
+
+           (1) Under the Co-Pay Plan, the co-pay for professional services is thirty-five dollars ($35.00)
+               per co-pay/visit.
+
+           (2) For employees who elect the HDHP, the employee’s monthly contribution is as follows:
+               Employee Only = twenty dollars ($20.00); Employee + Other = twenty dollars ($20.00).
+
+           (3) For employees who elect the Plus Plan, the employee’s monthly contribution is as
+               follows: Employee Only = thirty dollars ($30.00); Employee + Other = fifty dollars
+               ($50.00).
+
+           (4) For employees who elect the Co-Pay Plan, the employee’s monthly contribution is as
+               follows: Employee Only = fifty dollars ($50.00); Employee + Other = seventy dollars
+               ($70.00).
+
+           (5) For all employees paying a contribution to their health insurance who complete the
+               annual “Live Well” Health Risk Assessment (LWHRA), which includes a biometric
+               screening, health history and risk questionnaire and comprehensive health review,
+               offered by the COUNTY, the COUNTY will provide a “Live Well” credit of twenty dollars
+               ($20.00) per month.
+
+(B)    Opt Out
+
+           (1) The COUNTY will offer an “opt out” provision for employees who determine they do not
+               require medical insurance and vision exam coverage through the COUNTY plans.
+
+           (2) The employee will receive a monthly amount of three hundred and fifty dollars ($350.00)
+               in lieu of medical insurance and vision exam coverage.
+
+           (3) The employee will be required to provide proof of other group coverage at the time of the
+               declination of COUNTY medical insurance and vision plan, and is required to have
+               continuous group medical coverage.
+
+           (4) Employees who are already covered under COUNTY insurance through another eligible
+               participant shall not be eligible for the opt-out provision.
+
+Section 3 – Retirement Plan Enrollment
+
+The COUNTY agrees to enroll each eligible and qualified employee in the following programs:
+
+(A)    The COUNTY agrees to enroll each eligible and qualified employee in the Public Employees
+       Retirement System (PERS) or the Oregon Public Service Retirement Plan (OPSRP) and pay the
+       employer's contribution. The COUNTY will make the required six percent (6%) contribution for
+       eligible employees. The COUNTY will contribute an additional four percent (4%) to the employee’s
+       Individual Account Program (IAP).
+
+(B)    The Social Security System (FICA), for enrollment purposes only.
+
+(C)   Each eligible and qualified new employee will be auto-enrolled in the deferred compensation
+      program with an employee contribution of one percent (1%) of their wage. Employees can choose
+
+ARTICLE 4
+INSURANCE AND RELATED                                   9
+                                                           Prosecuting Attorneys’ Association Agreement
+                                                                                              2024-2027
+
+
+      to opt out of the contribution or increase the contribution amount. Employees will be responsible to
+      ensure their account does not exceed the maximum allowed under IRS rules.
+
+Section 4 – Retiree Benefits
+
+(A)   Upon retirement, all employees hired on or before July 1, 1987 and who have worked ten (10) full,
+      continuous years prior to age seventy (70) shall be eligible for COUNTY-paid retiree health
+      insurance and may transfer from the active group to the retired group.
+
+(B)   Upon retirement, all employees hired after July 1, 1987 and before July 1, 1997, and who have
+      worked twenty (20) full, continuous years prior to age seventy (70) shall be eligible for
+      COUNTY-paid retiree health insurance and may transfer from the active group to the retired group.
+
+(C)   To qualify for retirement and be eligible for COUNTY-paid retiree health insurance, an employee
+      must meet the years of COUNTY service requirement and be receiving a PERS pension or meet
+      the COUNTY service requirement and be eligible for and receiving disability benefits under PERS
+      or Social Security.
+
+(D)   Retired employees eligible for COUNTY retiree health insurance under this provision either on a
+      COUNTY-paid or self-pay basis are also eligible to purchase COUNTY health insurance in the
+      retired group for their dependents.
+
+(E)   Employees hired on or after July 1, 1997, shall not be eligible for COUNTY-paid retiree health
+      insurance benefits.
+
+(F)   The COUNTY agrees to provide an Early Retirement Alternative for the employees who meet the
+      years of service requirement specified in Paragraph A through C above, but who have not yet
+      qualified for PERS retirement benefits. Under this alternative an employee must self-pay their
+      Lane County Medical premiums continuously from the first of the month following their termination
+      date of employment until the date the employee is eligible for PERS Retirement Benefits. Failure
+      to collect PERS benefits as soon as eligible will disqualify the employee from COUNTY-paid
+      benefits and will terminate this option.
+
+
+
+
+ARTICLE 4
+INSURANCE AND RELATED                                   10
+                                                           Prosecuting Attorneys’ Association Agreement
+                                                                                              2024-2027
+
+
+                                               ARTICLE 5
+                                               PARKING
+
+
+
+After July 1, 2024, there shall be no more than one (1) increase in rates for employee parking until at
+least July of 2027. Thereafter the COUNTY will not initiate increases, but may match other increases in
+the market, while maintaining the employee subsidy at the current percentage discount.
+
+
+
+
+ARTICLE 5
+PARKING                                                  11
+                                                           Prosecuting Attorneys’ Association Agreement
+                                                                                              2024-2027
+
+
+
+                                               ARTICLE 6
+                                           DISCRIMINATION
+
+
+
+The provisions of this Agreement shall be applied equally to all bargaining unit employees without
+discrimination in accordance with applicable local, State, and federal laws and regulations.
+
+
+
+
+ARTICLE 6
+DISCRIMINATION                                           12
+                                                            Prosecuting Attorneys’ Association Agreement
+                                                                                               2024-2027
+
+
+                                               ARTICLE 7
+                                      GRIEVANCE PROCEDURE
+
+Section 1 - Purpose
+
+(A)    The purpose of this procedure is to secure at the lowest possible level, mutually acceptable
+       solutions to grievances, which may arise from time to time affecting bargaining unit employees.
+
+(B)    Should a disagreement arise concerning the interpretation or application of the provisions of this
+       Agreement, or as to the performance of the obligations herein, such disagreement shall be settled
+       according to the terms hereinafter provided. An employee, at their discretion, may elect to be
+       represented by the ASSOCIATION at any step of the procedure.
+
+(C)    “Date of occurrence” herein shall mean the date the aggrieved party had or should reasonably
+       have had knowledge of the occurrence.
+
+(D)    “Grievance” herein shall be defined as an allegation that a specific provision of this Agreement
+       related to the working conditions and compensation of the employees covered by this Agreement
+       has been violated.
+
+(E)    Notwithstanding the provisions of Step 1 below, it is understood that the aggrieved party is
+       obligated to attempt to resolve the matter informally; however, for the purpose of preserving time
+       limits, the aggrieved party may formally submit the particulars of the grievance to the applicable
+       manager/supervisor pending conclusion of the informal attempt. Applicable manager/supervisor
+       shall mean the first supervisor with the authority to respond with a proposed resolution on behalf
+       of the COUNTY.
+
+Section 2 - Grievance Steps
+
+(A)    Step 1
+
+            a.   The aggrieved party and/or designated representative shall first attempt to informally
+                 resolve the issue with the appropriate manager/supervisor. In the event such attempt is
+                 unsuccessful, the aggrieved party shall refer the grievance in writing to the District
+                 Attorney, or designee, within fourteen (14) calendar days of the incident giving rise to
+                 the grievance. The notice shall include:
+
+                           i.The employee’s name, department, work section, supervisor, manager and
+                              ASSOCIATION representative;
+
+                           ii. A statement of the grievance and relevant facts;
+
+                          iii. Applicable provisions of the contract; and
+
+                          iv. Remedy sought
+
+            b.    The District Attorney, or designee, shall attempt to resolve the grievance and shall
+                  furnish a written statement of their position within fourteen (14) calendar days.
+
+
+(B)    Step 2
+
+            a.   If the Step 1 response from the COUNTY is not acceptable, the ASSOCIATION may
+                 submit the matter for arbitration and request a list of arbitrators from the Oregon State
+
+ARTICLE 7
+GRIEVANCE PROCEDURE                                      13
+                                                              Prosecuting Attorneys’ Association Agreement
+                                                                                                 2024-2027
+
+
+                 Employment Relations Board within thirty (30) calendar days of the COUNTY’s Step 1
+                 response.
+
+Section 3 - Arbitration
+
+(A)    In the event the respective representatives of the COUNTY and the ASSOCIATION cannot agree
+       to the selection of an arbitrator, final selection shall be accomplished with one (1) party, to be
+       determined by lot, first striking off one (1) of the seven (7) names submitted by the State
+       Mediation and the Conciliation Service and thereafter the parties alternately striking names until
+       one (1) name remains.
+
+(B)    The arbitrator shall have no authority to alter, modify, amend, vacate or change any terms or
+       conditions of the Agreement, to substitute their judgement for that of either party in any instance
+       where the parties have exercised their rights under the terms of this Agreement, nor shall the
+       arbitrator decide on any condition which is not specifically treated in this Agreement.
+
+(C)    The decision of the arbitrator shall be submitted within thirty (30) calendar days following the
+       presentation of the case, and such decision shall be final and binding on both parties.
+
+(D)    The COUNTY and the ASSOCIATION agree that the loser of the arbitration shall pay the full
+       expenses and Arbitration fees of the arbitrator only; the COUNTY and the ASSOCIATION shall
+       assume individual liability for the cost of their respective witnesses.
+
+(E)    The arbitrator shall identify the losing party in the arbitration hearing and so state in the written
+       decision to both parties.
+
+Section 4 - General
+
+(A)    All meetings and hearings under this procedure shall be kept informal and private, and shall
+       include only such parties in interest and/or designated representatives as referred to in this
+       Article.
+
+(B)    All information relative to the grievance and resolutions accomplished via the procedure shall be
+       considered exempt from public discourse to the extent allowed by law.
+
+(C)    The ASSOCIATION shall designate authorized representatives to investigate and process
+       grievances on behalf of the ASSOCIATION and shall notify the COUNTY of any changes in such
+       authorization.
+
+(D)    All grievance proceedings and reasonable investigation time, where practicable, shall be held
+       during the regular business hours when COUNTY facilities are open, on COUNTY premises and
+       without loss of pay or recrimination to the aggrieved party and/or designated representative. It is
+       understood that the COUNTY shall not incur overtime liability as a result of such proceedings or
+       investigation.
+
+(E)    A grievance may be terminated at any time upon receipt of a signed statement from the
+       employee, or duly designated representative, stating the matter is no longer at issue. A grievance
+       settlement without ASSOCIATION concurrence shall not prejudice any position taken by the
+       ASSOCIATION during the grievance proceeding.
+
+Section 5 – Time Limits
+
+(A)    Any time limit in this procedure may be extended for reasonable cause by mutual agreement and
+       be binding on both parties. Such agreement when practicable shall be reduced to writing and
+       signed by both parties or by mutual consent via email. Failure by the aggrieved party and/or
+
+ARTICLE 7
+GRIEVANCE PROCEDURE                                        14
+                                                       Prosecuting Attorneys’ Association Agreement
+                                                                                          2024-2027
+
+
+     designated representative to properly observe time limits as stated without such agreement shall
+     cause the grievance to become null and void.
+
+
+
+
+ARTICLE 7
+GRIEVANCE PROCEDURE                                  15
+                                                              Prosecuting Attorneys’ Association Agreement
+                                                                                                 2024-2027
+
+
+                                                 ARTICLE 8
+                                               TERMINATION
+
+Section 1 – Duration
+
+Unless specifically noted within the contract this Agreement shall become effective upon ratification and
+shall remain in effect until and including June 30, 2027, and thereafter shall continue in effect from year to
+year, unless one (1) party gives notice in writing to the other party of its desire to terminate, or modify the
+Agreement at least ninety (90) calendar days prior to June 30, 2027, or if no such notice is given at such
+time, before June 30 of any subsequent anniversary.
+
+Section 2 – Notice
+
+If either party serves written notice of its desire to terminate or modify provisions of the Agreement, such
+notice shall set forth the specific item or items the party wishes to terminate or modify, and the parties
+shall commence negotiations at least ninety (90) calendar days prior to the expiration of the Agreement
+except by mutual consent.
+
+Section 3 – Representation
+
+The parties agree to limit bargaining team representation to three (3) members each, plus respective
+spokespersons.
+
+
+
+
+ARTICLE 8
+TERMINATION                                                 16
+                                 Prosecuting Attorneys’ Association Agreement
+                                                                    2024-2027
+
+
+                   Appendix A
+                   Salary Plan
+
+
+
+
+Appendix A
+Salary Plan
+              18
+                                                   Prosecuting Attorneys’ Association Agreement
+                                                                                      2024-2027
+
+
+                                       APPENDIX B
+                                   Classification Series
+
+N4610 Prosecutor, Senior
+N4613 Deputy District Attorney 3
+N4614 Deputy District Attorney 2
+N4615 Deputy District Attorney 1
+
+
+
+
+     APPENDIX B
+     Classification Series                                        19
+

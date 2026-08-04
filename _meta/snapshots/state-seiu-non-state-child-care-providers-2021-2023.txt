@@ -64,7 +64,7 @@ may arise.
 
 
 2019-2023 SEIU Child Care Contract                                                      1
-                                     ARTICLE 1 – RECOGNITION
+### ARTICLE 1 – RECOGNITION
 
 
 
@@ -82,7 +82,7 @@ pursuant to ORS 329A.430(6)(b).
 
 
 2019-2023 SEIU Child Care Contract                                                            2
-                                     ARTICLE 2 – STATE ORGANIZATIONAL CHANGE
+### ARTICLE 2 – STATE ORGANIZATIONAL CHANGE
 
 In the event the organizational affiliation for the Department of Human Services Child Care
 Program or the Oregon Department of Education and Early Learning Division changes to a
@@ -95,7 +95,7 @@ Agency or Agencies.
 
 
 2019-2023 SEIU Child Care Contract                                                               3
-                                     ARTICLE 3 – TERM OF AGREEMENT
+### ARTICLE 3 – TERM OF AGREEMENT
 
 
 
@@ -155,7 +155,7 @@ agreement, in writing, by the Parties or by operation of law.
 
 
 2019-2023 SEIU Child Care Contract                                                                 5
-                                      ARTICLE 4 – SEPARABILITY
+### ARTICLE 4 – SEPARABILITY
 
 In the event that any provision of this Agreement is at any time declared invalid by any court of
 competent jurisdiction, declared invalid by final Employment Relations Board (ERB) order, or
@@ -169,7 +169,7 @@ a reasonable period of time from either Party’s request.
 
 
 2019-2023 SEIU Child Care Contract                                                                  6
-                              ARTICLE 5 – PROVIDER ORIENTATION AND TRAINING
+### ARTICLE 5 – PROVIDER ORIENTATION AND TRAINING
 
 The State will offer technical and financial assistance to Listed Providers to help Providers meet
 DHS health and safety requirements (a Listed Provider is defined as a Provider that has
@@ -337,7 +337,7 @@ workplace.
 
 
 2019-2023 SEIU Child Care Contract                                                               11
-                 ARTICLE 6 – RULES, NOTICES, AND LISTS OF PROVIDER INFORMATION
+### ARTICLE 6 – RULES, NOTICES, AND LISTS OF PROVIDER INFORMATION
 
 Section 1.
 DHS will provide updates to its manual. Union will receive notice of Agencies’ proposed
@@ -374,7 +374,7 @@ process.
 
 
 2019-2023 SEIU Child Care Contract                                                               12
-                  ARTICLE 7 – PAYMENT TIMELINES, ACCURACY AND OVERPAYMENTS
+### ARTICLE 7 – PAYMENT TIMELINES, ACCURACY AND OVERPAYMENTS
 
 
 
@@ -499,7 +499,7 @@ to the listing requirements end date.
 
 
 2019-2023 SEIU Child Care Contract                                                                             15
-                                     ARTICLE 8 – COMPLETE AGREEMENT
+### ARTICLE 8 – COMPLETE AGREEMENT
 
 
 
@@ -527,7 +527,7 @@ made by mutual agreement or as otherwise allowed by ORS 243.698 or ORS 243.702.
 
 
 2019-2023 SEIU Child Care Contract                                                              16
-                                     ARTICLE 9 – GRIEVANCE PROCEDURE
+### ARTICLE 9 – GRIEVANCE PROCEDURE
 
 
 
@@ -659,7 +659,7 @@ a grievant or Union Steward in the investigation or processing of grievances.
 
 
 2019-2023 SEIU Child Care Contract                                                              20
-                                     ARTICLE 10 – NO DISCRIMINATION
+### ARTICLE 10 – NO DISCRIMINATION
 
 
 
@@ -674,7 +674,7 @@ to respond with final resolve through the BOLI or EEOC, as appropriate.
 
 
 2019-2023 SEIU Child Care Contract                                                                   21
-                               ARTICLE 11 – DUES AND VOLUNTARY DEDUCTIONS
+### ARTICLE 11 – DUES AND VOLUNTARY DEDUCTIONS
 
 
 
@@ -725,7 +725,7 @@ conditions as follow:
 
 
 2019-2023 SEIU Child Care Contract                                                                    23
-                                     ARTICLE 12 – RATE STRUCTURE
+### ARTICLE 12 – RATE STRUCTURE
 
 Section 1. Training Funds.
 
@@ -820,7 +820,7 @@ increased to the rates provided in the table below:
 
 
 2019-2023 SEIU Child Care Contract                                                                        25
-                                            ARTICLE 13 – ISSUES
+### ARTICLE 13 – ISSUES
 
 Section 1.
 The Parties agree to a committee to discuss issues of mutual concern on such topics as work
@@ -850,7 +850,7 @@ cancelled.
 
 
 2019-2023 SEIU Child Care Contract                                                              26
-                              ARTICLE 14 – SAFETY AND QUALITY ENHANCEMENT
+### ARTICLE 14 – SAFETY AND QUALITY ENHANCEMENT
 
 
 
@@ -885,7 +885,7 @@ C.       Water Testing. Within the availability of funds, the State will reimbur
 
 
 2019-2023 SEIU Child Care Contract                                                                    27
-                                     ARTICLE 15 – PROVIDER REQUIREMENTS
+### ARTICLE 15 – PROVIDER REQUIREMENTS
 
 
 Provider requirements are established in statute and Agency rules. Should there be a change in
@@ -902,7 +902,7 @@ impact of the final rules affecting employment relations as defined in ORS 243.6
 
 
 2019-2023 SEIU Child Care Contract                                                                28
-          LETTER OF AGREEMENT – PROCESS FOR FFN ORIENTATIONS AND ENHANCED
+### LETTER OF AGREEMENT – PROCESS FOR FFN ORIENTATIONS AND ENHANCED
                           RATE TRAINING DOCUMENT (PROCESS DOCUMENT)
 
 The Agencies, Union, Child Care Resource and Referral Network and other stakeholders
@@ -916,7 +916,7 @@ related to the application of the Process Document with the Union.
 
 
 2019-2023 SEIU Child Care Contract                                                             29
-                        LETTER OF AGREEMENT – RATE INCREASES NEGOTIATIONS
+### LETTER OF AGREEMENT – RATE INCREASES NEGOTIATIONS
 
 This Letter of Agreement (LOA) is entered into between the Department of Administrative
 Services (DAS) on behalf of the Department of Human Services (DHS), the Department of
@@ -954,7 +954,7 @@ The Parties agree to the following:
 
 
 2019-2023 SEIU Child Care Contract                                                                  30
-               LETTER OF AGREEMENT – ORIENTATIONS DURING COVID-19 PANDEMIC
+### LETTER OF AGREEMENT – ORIENTATIONS DURING COVID-19 PANDEMIC
 
 This Letter of Agreement (LOA) is entered into between the Department of Administrative
 Services (DAS) on behalf of the Oregon Department of Human Services (ODHS), the Oregon

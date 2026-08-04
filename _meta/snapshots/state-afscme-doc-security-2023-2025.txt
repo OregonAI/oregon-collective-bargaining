@@ -148,7 +148,7 @@ SIGNATURE PAGE .................................................................
 
 
                                                               iv                                                Collective Bargaining Agreement
-                            ARTICLE 1 - SCOPE OF AGREEMENT
+### ARTICLE 1 - SCOPE OF AGREEMENT
 
 Section 1.
 This Agreement is made and entered into by and between the State of Oregon (hereinafter the
@@ -253,7 +253,7 @@ g.    Time limits specified in this procedure must be observed, unless either pa
       specific extension of time, which, if agreed to, must be stipulated in writing and shall
       become part of the record.
 
-                            ARTICLE 2 - TERM OF AGREEMENT
+### ARTICLE 2 - TERM OF AGREEMENT
 
 Section 1.
 This Agreement, and attachments hereto, shall be in full force and effect from the date of
@@ -275,7 +275,7 @@ February 15, 2025, or sooner upon mutual agreement of the Parties.
                                                                         Rev: 2015, 2017, 2019, 2021,2024
 
 
-                               ARTICLE 3 - UNION SECURITY
+### ARTICLE 3 - UNION SECURITY
 
 Section 1. New Employees.
 a.    The Agency agrees to inform all new employees hired into positions included in the
@@ -573,7 +573,7 @@ temporary and limited duration appointments.
                                                                                     Rev: 2015,2019, 2021
 
 
-                      ARTICLE 4 - UNION/MANAGEMENT MEETINGS
+### ARTICLE 4 - UNION/MANAGEMENT MEETINGS
 
 Section 1. Purpose.
 The purpose of this Article is to promote harmonious relations between the Parties.
@@ -593,7 +593,7 @@ the Parties, which are defined as The Department of Administrative Services and 
 Council 75. The Committee discussion may include all manner of local working conditions
 and non-disciplinary grievance issues.
 
-                             ARTICLE 5 - LEGISLATIVE ACTION
+### ARTICLE 5 - LEGISLATIVE ACTION
 
 Provisions of this Agreement not requiring statutory changes or funding by the full legislature
 before they can be put into effect shall be implemented on the effective date of this Agreement
@@ -610,7 +610,7 @@ of the Legislature.
 If the Legislature fails to act or approve bills submitted under this Article, the Parties shall
 reconvene immediately to renegotiate an alternative provision.
 
-                         ARTICLE 6 - EFFECT OF LAWS AND RULES
+### ARTICLE 6 - EFFECT OF LAWS AND RULES
 
 Section 1.
 This Agreement is subject to all applicable existing and future laws of the State of Oregon. In
@@ -625,7 +625,7 @@ capacity, duties or employment in good faith and without malice, shall be given 
 by the State of Oregon. The Agency further agrees to provide written procedures which will
 outline the proper methods for requesting this legal defense.
 
-                        ARTICLE 7 - SEPARABILITY OF PROVISIONS
+### ARTICLE 7 - SEPARABILITY OF PROVISIONS
 
 If any provision of this Agreement shall be found to be invalid by any court having jurisdiction
 in respect, thereof, such findings as to such provision shall not affect the remainder of this
@@ -633,7 +633,7 @@ Agreement, and all other terms and provisions hereof shall continue in full forc
 set forth herein. In such event, the Parties shall enter into immediate negotiations for the
 purpose of arriving at a mutually satisfactory replacement for such term or provision.
 
-                              ARTICLE 9 - EQUAL OPPORTUNITY
+### ARTICLE 9 - EQUAL OPPORTUNITY
 
 Section 1.
 The Agency and the Union agree to continue their policies of not unlawfully discriminating
@@ -661,7 +661,7 @@ submission. If unresolved via that process or if the Union chooses not to submit
 to the functional unit manager, the Employment Relations Board shall be the venue to resolve
 such complaints.
                                                                                                 Rev: 2021
-                           ARTICLE 10 - MANAGEMENT RIGHTS
+### ARTICLE 10 - MANAGEMENT RIGHTS
 
 The Union agrees that the Employer retains all inherent rights of management and hereby
 recognizes the sole and exclusive right of the State of Oregon, as the Employer, to operate
@@ -677,7 +677,7 @@ any employee from filing a grievance, pursuant to Article 51, Grievance and Arbi
 seeking a review of the exercise of these rights, when it is alleged such exercise violates
 provisions of this Agreement.
 
-                             ARTICLE 11 - CONTRACTING OUT
+### ARTICLE 11 - CONTRACTING OUT
 
 The Agency may determine to contract or subcontract work provided that, as to work which is
 presently and regularly performed by employees in the bargaining unit, the Agency agrees to
@@ -686,7 +686,7 @@ understood that such negotiations are not required in 1) emergency situations, 2
 impact is minimal (and not mandatory), or 3) where the assignment of work currently being
 performed by the bargaining unit members is transferred to other State facilities.
 
-                                 ARTICLE 12 - INSURANCE
+### ARTICLE 12 - INSURANCE
 
 Section 1.
 An Employer contribution will be made for each eligible employee who has at least eighty (80)
@@ -748,7 +748,7 @@ savings.
                                                                         Rev: 2015, 2017,2019, 2021,2023
 
 
-                            ARTICLE 13 - SALARY AND WAGES
+### ARTICLE 13 - SALARY AND WAGES
 
 Section 1.
 Effective February 1, 2019 compensation plan salary rates for PERS participating members
@@ -850,7 +850,7 @@ c.    This provision shall not apply to claims disputing eligibility for payment
                                                                       Rev: 2015, 2017, 2019, 2021,2023
 
 
-                        ARTICLE 14 - SALARY ADMINISTRATION
+### ARTICLE 14 - SALARY ADMINISTRATION
 
 Section 1.
 Benefit Service Date (BSD) is defined as the date an employee is eligible for an annual step
@@ -984,7 +984,7 @@ b.    Standard to Daylight Savings Time Change. An employee whose scheduled shif
                                                                          Rev: 2015, 2017, 2019, 2021,2023
 
 
-                                  ARTICLE 15 - OVERTIME
+### ARTICLE 15 - OVERTIME
 
 Section 1.
 All time for which an employee is compensated at the regular straight time rate of pay, except
@@ -1095,7 +1095,7 @@ Medical Exceptions:
                                                                                       Rev: 2019, 2021,2023
 
 
-                               ARTICLE 16 - DIFFERENTIALS
+### ARTICLE 16 - DIFFERENTIALS
 
 Section 1. Shift Differentials.
 a.    Night shift differential shall apply to all bargaining unit members except part-time
@@ -1209,7 +1209,7 @@ b.    Transport Unit Trainers Differential.
                                                                            Rev: 2015, 2017, 2019, 2021,2023
 
 
-                                  ARTICLE 17 - CALL-BACK TIME
+### ARTICLE 17 - CALL-BACK TIME
 
 Section 1.
 An employee who is called back to work outside the employee's regular shift, will receive
@@ -1240,13 +1240,13 @@ questions.
                                                                                           Rev: 2017, 2019
 
 
-                               ARTICLE 18 - REPORTING PAY
+### ARTICLE 18 - REPORTING PAY
 
 An employee who is scheduled for work and reports to work and there is no work available
 may be excused from duty, but shall be paid at their regular rate for the shift of work
 scheduled.
 
-                                   ARTICLE 19 - ON-CALL
+### ARTICLE 19 - ON-CALL
 
 Section 1.
 Employees shall be paid one (1) hour of pay at second step of the correctional officer range
@@ -1295,7 +1295,7 @@ compensation.
 
 
 
-                      ARTICLE 20 - WORK OUT OF CLASSIFICATION
+### ARTICLE 20 - WORK OUT OF CLASSIFICATION
 
 Section 1.
 When an employee is assigned in writing for a limited period to perform the duties of a position
@@ -1367,7 +1367,7 @@ i.     Agencies will designate the reason for the work out-of-class in the state
                                                                                            Rev: 2019,2023
 
 
-                         ARTICLE 21 - LEADWORK DIFFERENTIAL
+### ARTICLE 21 - LEADWORK DIFFERENTIAL
 
 Section 1.
 Leadwork differential shall be defined as a differential for employees who have been formally
@@ -1410,7 +1410,7 @@ Section 1, may request a review of the duties as follows:
       d.      If the Agency determines that the duties are not leadworker or wishes to remove
               the duties, the employee will be notified as noted in "b" of this Article.
 
-                      ARTICLE 22 - TRAVEL AND MOVING EXPENSE
+### ARTICLE 22 - TRAVEL AND MOVING EXPENSE
 Section 1.
 Travel, mileage and moving expenses shall be reimbursed as per the Department of
 Administrative Services Accounting Manual rate adjustments.
@@ -1424,7 +1424,7 @@ compensated for all expenses incurred which are reimbursable under Section 1 of 
 The employee shall furnish the Agency with normally required receipts of expenses claimed
 when requesting compensation.
 
-                                 ARTICLE 23 - EMERGENCIES
+### ARTICLE 23 - EMERGENCIES
 
 Section 1.
 a.    During periods of bona fide emergency, provisions of this agreement regarding work
@@ -1461,7 +1461,7 @@ absences of scheduled staff which occur from time to time.
                                                                                                 Rev: 2021
 
 
-                      ARTICLE 24 – USE OF ALCOHOL AND DRUGS
+### ARTICLE 24 – USE OF ALCOHOL AND DRUGS
 
 Section 1. Policy.
 The Department of Corrections and AFSCME agree the purpose of this Agreement on alcohol
@@ -1720,7 +1720,7 @@ unable to report for duty and suffer no discipline or other consequences.
                                                                                                Rev: 2015
 
 
-                          ARTICLE 25 - WORKING CONDITIONS
+### ARTICLE 25 - WORKING CONDITIONS
 
 The Parties recognize their joint responsibility to ensure and maintain safe and secure
 operations of the facilities within the AFSCME Security bargaining unit. Communication and
@@ -5652,7 +5652,7 @@ f.    Employee accepting a fire or camp assignment must be able to cancel or adj
                                                                               Rev: 2015, 2017,2021,2023
 
 
-                 ARTICLE 26 - UNIFORMS AND PROTECTIVE CLOTHING
+### ARTICLE 26 - UNIFORMS AND PROTECTIVE CLOTHING
 
 Section 1. Institutional Uniforms.
 a.    Security Staff uniforms and protective clothing as provided and maintained, or both, by
@@ -5689,7 +5689,7 @@ years thereafter.
                                                                                         Rev: 2015, 2021
 
 
-                           ARTICLE 27 - EMPLOYEE FACILITIES
+### ARTICLE 27 - EMPLOYEE FACILITIES
 
 Management shall maintain physical plant facilities provided for employees (including parking
 and existing motorcycle and bicycle parking with adequate accommodations for seasonal
@@ -5699,7 +5699,7 @@ Upon request, the Labor/Management committee for a functional unit will review a
 parking spots for employees and shower or changing facility needs for that specific functional
 unit.
 
-                         ARTICLE 28 - INCLEMENT CONDITIONS
+### ARTICLE 28 - INCLEMENT CONDITIONS
 
 Section 1.
 When, in the judgment of the Agency Head/Functional Unit Manager or designee, weather
@@ -5727,7 +5727,7 @@ vacation leave, compensatory time off or leave without pay.
 
 
                                        113                               Collective Bargaining Agreement
-                            ARTICLE 29 - SAFETY AND HEALTH
+### ARTICLE 29 - SAFETY AND HEALTH
 
 Section 1.
 The Agency agrees to abide by and maintain in its facilities and work operations standards of
@@ -5786,7 +5786,7 @@ without deduction from accrued sick leave for leave time taken.
                                                                                                  Rev: 2015
 
 
-                           ARTICLE 30 – BEREAVEMENT LEAVE
+### ARTICLE 30 – BEREAVEMENT LEAVE
 
 Section 1.
 Notwithstanding the hardship leave and the sick leave eligibility criteria, employees shall be
@@ -5815,7 +5815,7 @@ leave.
                                                                                                  Rev: 2015
 
 
-                                   ARTICLE 31 - HOLIDAYS
+### ARTICLE 31 - HOLIDAYS
 
 Section 1.
 The following holidays will be recognized and paid for at the regular straight time rate of pay:
@@ -5884,7 +5884,7 @@ Holidays which occur during vacation or sick leave shall not be charged against 
 
 
                                        116                               Collective Bargaining Agreement
-                              ARTICLE 32 - VACATION LEAVE
+### ARTICLE 32 - VACATION LEAVE
 
 Section 1.
 The Parties agree that an employee's vacation accrual is an earned benefit to which the
@@ -6467,7 +6467,7 @@ b.     If any scheduled vacation weeks become available, those weeks will be uti
                                                                               Rev: 2015, 2017,2019, 2023
 
 
-                           ARTICLE 33 - SICK LEAVE WITH PAY
+### ARTICLE 33 - SICK LEAVE WITH PAY
 
 Sick leave, with pay, shall be determined as follows:
 
@@ -6690,7 +6690,7 @@ assigned shift, or, shall become subject to the workers compensation regulations
                                                                                 Rev: 2015, 2017, 2021,2023
 
 
-                         ARTICLE 34 - SICK LEAVE WITHOUT PAY
+### ARTICLE 34 - SICK LEAVE WITHOUT PAY
 
 Section 1.
 After earned sick leave has been exhausted, the Appointing Authority shall grant sick leave
@@ -6725,7 +6725,7 @@ deemed a voluntary resignation. However, such absence may be covered by a subseq
 grant of leave with or without pay when extenuating circumstances exist.
                                                                                            Rev: 2015,2019
 
-                                ARTICLE 35 - FAMILY LEAVE
+### ARTICLE 35 - FAMILY LEAVE
 
 Employees determined to be eligible in accordance with provisions of federal and State leave
 laws shall have all the rights, and be subject to all of the requirements of those laws. Such
@@ -6753,7 +6753,7 @@ relating to FMLA/OFLA.
 
 
                                          133                               Collective Bargaining Agreement
-                             ARTICLE 36 - LEAVES WITH PAY
+### ARTICLE 36 - LEAVES WITH PAY
 
 Employees shall be granted a leave of absence with pay in accordance with the following:
      a.    Service with a jury.
@@ -6845,7 +6845,7 @@ Employees shall be granted a leave of absence with pay in accordance with the fo
                                                                                    Rev: 2015, 2017, 2021
 
 
-                   ARTICLE 37 - LEAVE OF ABSENCE WITHOUT PAY
+### ARTICLE 37 - LEAVE OF ABSENCE WITHOUT PAY
 
 Section 1.
 Applying for leave of absence without pay will be in writing and submitted to the immediate
@@ -6888,7 +6888,7 @@ by law.
                                                                                            Rev:,2021,2023
 
 
-                  ARTICLE 38 - PRE-RETIREMENT COUNSELING LEAVE
+### ARTICLE 38 - PRE-RETIREMENT COUNSELING LEAVE
 
 At any time after reaching forty (40) years of age and within ten (10) years of the employee’s
 chosen retirement date, each employee shall be granted up to three and one-half (3-1/2) days
@@ -6910,11 +6910,11 @@ program, including PERS, Social Security, insurance and other retirement income.
 
 
                                          136                               Collective Bargaining Agreement
-                                         ARTICLE 39
+### ARTICLE 39
 
 Deleted this Article (Elections) in 2015-2017.
 
-                       ARTICLE 40 - PROMOTIONS/ADVANCEMENT
+### ARTICLE 40 - PROMOTIONS/ADVANCEMENT
 
 Section 1.
 The Agency intends to ensure, subject to the requirements of Affirmative Action and Equal
@@ -6968,7 +6968,7 @@ policies, procedures or rules that may be covered in the interview.
                                                                                         RevV: 2019, 2021
 
 
-                               ARTICLE 41 - TRIAL SERVICE
+### ARTICLE 41 - TRIAL SERVICE
 
 Section 1.
 Each employee appointed to a position in the bargaining unit by initial appointment to the
@@ -7005,7 +7005,7 @@ Such removals under this Article are not subject to appeal or the grievance proc
                                                                                     Rev: 2015, 2017,2019
 
 
-                           ARTICLE 42 - TRAINING/EDUCATION
+### ARTICLE 42 - TRAINING/EDUCATION
 
 Section 1. Training.
 The Agency will pay incurred tuition/registration and allowable travel, per diem, and salary
@@ -7038,7 +7038,7 @@ shall have that training rescheduled by the Agency. The Agency will ensure that 
 employees assigned to Special Housing will receive annual Cell Extraction Training within
 thirty (30) days of assignment.
 
-                                 ARTICLE 43 - JOB SHARING
+### ARTICLE 43 - JOB SHARING
 
 Section 1.
 "Job sharing position" means a full-time position in the classified service that may be held by
@@ -7083,7 +7083,7 @@ Unit Manager, the remaining employee may elect to transfer to a vacant part-time
 the same classification or to voluntarily demote. If the above conditions are not available or
 acceptable to the employee, the employee agrees to resign.
 
-                             ARTICLE 44 - LAYOFF PROCEDURE
+### ARTICLE 44 - LAYOFF PROCEDURE
 
 Section 1.
 When the Agency declares that a lack of funds necessitates a layoff, the Parties will meet, at
@@ -7337,7 +7337,7 @@ seniority, within the affected classifications, during the period of the tempora
 provided that if current seniority scores are available, those scores shall be utilized and if
 special skills are needed, this section shall not apply.
 
-                   ARTICLE 45 - REVIEW OF CLASSIFICATION SERIES
+### ARTICLE 45 - REVIEW OF CLASSIFICATION SERIES
 
 Section 1.
 It is agreed and understood that procedures for establishing new proposed classifications and
@@ -7360,7 +7360,7 @@ The Union may recommend classification studies to be conducted by the Department
 Administrative Services, Human Resources Services Division including the reasons for the
 need for such studies.
 
-                     ARTICLE 46 - RECLASSIFICATION PROCEDURE
+### ARTICLE 46 - RECLASSIFICATION PROCEDURE
 
 The Parties shall use the following procedure to process reclassification requests.
 
@@ -7512,7 +7512,7 @@ in Article 14, Section 5 (Salary Administration).
                                                                                                 Rev: 2023
 
 
-                             ARTICLE 47 - EMPLOYEE RIGHTS
+### ARTICLE 47 - EMPLOYEE RIGHTS
 
 Section 1.
 Off duty activities of employees will not subject them to disciplinary action by the Agency
@@ -7648,7 +7648,7 @@ l.   Employees, who are the subject of the investigation, may record the intervi
                                                                                    Rev: 2015,2019,2023
 
 
-                    ARTICLE 48 - LIMITED DURATION APPOINTMENT
+### ARTICLE 48 - LIMITED DURATION APPOINTMENT
 
 Section 1.
 Persons may be hired for special studies or projects of uncertain or limited duration which are
@@ -7683,7 +7683,7 @@ notification shall include the following:
               privileges of other classified employees including but not limited to wages,
               benefits, and Union representation under this Agreement.
 
-                              ARTICLE 49 - PERSONNEL FILES
+### ARTICLE 49 - PERSONNEL FILES
 
 Section 1.
 a.    An employee shall be provided with a copy of any report, correspondence or document
@@ -7723,7 +7723,7 @@ Appointing Authority or designee.
                                                                                            Rev: 2015, 2021
 
 
-                        ARTICLE 50 - DISCIPLINE AND DISCHARGE
+### ARTICLE 50 - DISCIPLINE AND DISCHARGE
 
 Section 1.
 The principles of progressive discipline shall be used when appropriate.
@@ -7799,7 +7799,7 @@ conditions outlined in Article 51, Section 8 of this Agreement.
                                                                                           Rev: 2017,2019
 
 
-                      ARTICLE 51 - GRIEVANCE AND ARBITRATION
+### ARTICLE 51 - GRIEVANCE AND ARBITRATION
 
 Section 1.
 Grievances are defined as acts, omissions, applications or interpretations alleged to be
@@ -7942,7 +7942,7 @@ c.     Case presentation will be limited to opening statements, brief recitation
                                                                                   Rev: 2015, 2017,2019,2023
 
 
-                            ARTICLE 52 - GENERAL PROVISIONS
+### ARTICLE 52 - GENERAL PROVISIONS
 
 After having used the Injured Worker List, Agency’s AFSCME Security Unit Layoff List and the
 Agency Hardship Transfer List, the Agency will determine the methods to fill the vacancy.
@@ -7977,7 +7977,7 @@ during which to rescind the resignation.
 Beyond the twenty-four (24)-hour period, the resignation may be withdrawn only with the
 approval of the Appointing Authority.
 
-                        ARTICLE 53 - STRESS/CAREER COUNSELING
+### ARTICLE 53 - STRESS/CAREER COUNSELING
 
 Section 1.
 Any employee, during the performance of the employee's work, who is seized and detained by
@@ -8004,7 +8004,7 @@ counseling sessions, shall not later be used against the employee in any subsequ
 disciplinary procedure unless otherwise proven. The Agency shall post and keep current all
 available educational programs, seminars, and workshops relating to stress management.
 
-   ARTICLE 54 – PAYMENT OF LEGAL DEFENSE EXPENSES FOR CRIMINAL CASES
+### ARTICLE 54 – PAYMENT OF LEGAL DEFENSE EXPENSES FOR CRIMINAL CASES
 
 Provided all requirements for being covered as outlined in Department of Administrative
 Services Risk Management Division Policy 1-202 are met, and, within the specified limits of
@@ -8015,7 +8015,7 @@ defense costs incurred for criminal defense counsel of the employee’s choice. 
 shall be made directly to the employee’s defense counsel. Payment to defense counsel and
 any reduction or offsets of any such payment shall be pursuant to the Policy.
 
-                             ARTICLE 55 – FIRE ASSIGNMENTS
+### ARTICLE 55 – FIRE ASSIGNMENTS
 
 Section 1.
 Each year, the Agency will notify employees of the opportunity to volunteer for firefighting, fire
@@ -8177,7 +8177,7 @@ alcohol while in fire camp or on the fire line is prohibited.
                                                                                      Rev: 2015, 2019, 2021
 
 
-                                  ARTICLE 56 – CHECK-INS
+### ARTICLE 56 – CHECK-INS
 
 Management may conduct check-ins with their employees on an annual basis. Check-ins
 may be completed more frequently. If a check-in does not occur, the employee may request a
@@ -8192,7 +8192,7 @@ check-in shall not be used for the purpose of disciplinary action.
 
 
                                          161                                Collective Bargaining Agreement
-                        ARTICLE 57 – LETTERS OF EXPECTATION
+### ARTICLE 57 – LETTERS OF EXPECTATION
 
 Section 1.
 The Parties recognize that Letters of Expectation are non-disciplinary so as to document non-
@@ -8210,7 +8210,7 @@ or Council 75 Representative.
                                                                                      NEW: 2021,Rev:2023
 
 
-                                 ARTICLE 58 – AIR QUALITY
+### ARTICLE 58 – AIR QUALITY
 
 Section 1. Air Quality Index (AQI).
 The Air Quality Index (AQI) was developed by the US Environmental Protection Agency as an
@@ -8240,7 +8240,7 @@ elevated AQI which falls under a Hazardous Condition.
 
 
                                         162                               Collective Bargaining Agreement
-     LETTER OF AGREEMENT #1 – PEBB MEMBER ADVISORY COMMITTEE (PMAC)
+### LETTER OF AGREEMENT #1 – PEBB MEMBER ADVISORY COMMITTEE (PMAC)
 
 This Agreement is entered into by the State of Oregon, acting through its Department of
 Administrative Services (Employer) and AFSCME Council 75 (Union).
@@ -8285,7 +8285,7 @@ The Parties agree to the following:
 
 
                                        163                              Collective Bargaining Agreement
-     LETTER OF AGREEMENT #2 – IMPLEMENTATION OF NEW CLASSIFICATIONS
+### LETTER OF AGREEMENT #2 – IMPLEMENTATION OF NEW CLASSIFICATIONS
                            APPEALS PROCESS
 
 Section A:
@@ -8367,7 +8367,7 @@ This process terminates upon completion of the allocation process.
 
 
                                         165                                 Collective Bargaining Agreement
-                LETTER OF AGREEMENT #3 – VETERANS’ PREFERENCE
+### LETTER OF AGREEMENT #3 – VETERANS’ PREFERENCE
 
 This Letter of Agreement is between the State of Oregon, acting through the Department of
 Administrative Services, hereinafter referred to as The Employer or The State, and the
@@ -8427,7 +8427,7 @@ immediate supervisor’s prior approval.
 
 
                                          167                                Collective Bargaining Agreement
-                  LETTER OF AGREEMENT #5 – SURVIVOR INSURANCE
+### LETTER OF AGREEMENT #5 – SURVIVOR INSURANCE
 
 This Agreement is between the State of Oregon, acting through the Department of
 Administrative Services (Employer) on behalf of the Department of Corrections (Agency) and
@@ -8519,7 +8519,7 @@ irrevocable donations to Surviving Spouse/Partner/Dependents.
 
 
                                        169                               Collective Bargaining Agreement
-      LETTER OF AGREEMENT # 6 – SRCI HOSPITAL WATCH MEALS
+### LETTER OF AGREEMENT # 6 – SRCI HOSPITAL WATCH MEALS
 
 This Agreement is between the State of Oregon, acting through the Department of
 Administrative Services (Employer) on behalf of the Department of Corrections
@@ -8547,7 +8547,7 @@ The Parties agree to the following:
 
 
                                  170                            Collective Bargaining Agreement
-     LETTER OF AGREEMENT #7 – SALEM TRANSPORT OFFICE SECURITY STAFF
+### LETTER OF AGREEMENT #7 – SALEM TRANSPORT OFFICE SECURITY STAFF
                   WORKING MANDATORY OVERTIME AT SCI
 
 This Agreement is between the State of Oregon, acting through the Department of
@@ -8595,7 +8595,7 @@ Signed: July 30, 2015
 
 
                                         171                                 Collective Bargaining Agreement
- LETTER OF AGREEMENT #8 – LEDS CERTIFIED WARRANT DIFFERENTIAL SANTIAM
+### LETTER OF AGREEMENT #8 – LEDS CERTIFIED WARRANT DIFFERENTIAL SANTIAM
                       CORRECTIONAL INSTITUTION
 
 This Agreement is between the State of Oregon, acting through the Department of
@@ -8630,7 +8630,7 @@ The Parties agree to the following:
 
 
                                        172                               Collective Bargaining Agreement
-     LETTER OF AGREEMENT #9 – TRCI SECURITY UNIT TOOL AND KEY SERGEANT
+### LETTER OF AGREEMENT #9 – TRCI SECURITY UNIT TOOL AND KEY SERGEANT
                                 EXEMPT POST
 
 This Agreement is between the State of Oregon, acting through the Department of
@@ -8662,7 +8662,7 @@ guidelines:
 
 
                                         173                            Collective Bargaining Agreement
-              LETTER OF AGREEMENT #10 – PRCF SECURITY POSITIONS
+### LETTER OF AGREEMENT #10 – PRCF SECURITY POSITIONS
 
 This Agreement is between the State of Oregon, acting through the Department of
 Administrative Services (Employer) on behalf of the Department of Corrections (Agency) at
@@ -8697,7 +8697,7 @@ The Parties agree to the following:
 
 
                                         174                               Collective Bargaining Agreement
- LETTER OF AGREEMENT #11 – PRCF SEASONAL ADULT IN CUSTODY WORK CREW
+### LETTER OF AGREEMENT #11 – PRCF SEASONAL ADULT IN CUSTODY WORK CREW
                               SUPERVISOR
 
 This Agreement is between DAS on behalf of the Department of Corrections at Powder River
@@ -8762,7 +8762,7 @@ Terms of Agreement.
 
 
                                        176                          Collective Bargaining Agreement
-     LETTER OF AGREEMENT #12 – MANDATORY OVERTIME ASSIGNMENTS AT SRCI
+### LETTER OF AGREEMENT #12 – MANDATORY OVERTIME ASSIGNMENTS AT SRCI
 
 This Agreement is between the State of Oregon, acting through its Department of
 Administrative Services (Employer) on behalf of the Department of Corrections at Snake River
@@ -8810,7 +8810,7 @@ The Parties agree to the following:
 
 
                                          177                               Collective Bargaining Agreement
-       LETTER OF AGREEMENT #13 – TRANSPORT SECURITY STAFF WORKING
+### LETTER OF AGREEMENT #13 – TRANSPORT SECURITY STAFF WORKING
                       VOLUNTARY OVERTIME AT CCCF
 
 This Agreement is between the State of Oregon, acting through its Department of
@@ -8846,7 +8846,7 @@ The Parties agree to the following:
 
 
                                           178                                 Collective Bargaining Agreement
- LETTER OF AGREEMENT #14 - SEXUAL ABUSE RESPONSE TEAM (SART) MEMBER
+### LETTER OF AGREEMENT #14 - SEXUAL ABUSE RESPONSE TEAM (SART) MEMBER
                           DIFFERENTIAL PILOT
 
 This Agreement is between the State of Oregon, acting through its Department of
@@ -8897,7 +8897,7 @@ Therefore, the Parties agree to the following:
 
 
                                         179                                Collective Bargaining Agreement
-                       LETTER OF AGREEMENT #15 – PAY EQUITY
+### LETTER OF AGREEMENT #15 – PAY EQUITY
 
 This Agreement is between the State of Oregon, acting through its Department of
 Administrative Services (Employer) on behalf of Agencies that have AFSCME bargaining units
@@ -9043,7 +9043,7 @@ The Parties agree to the following:
 
 
                               182                              Collective Bargaining Agreement
-                 LETTER OF AGREEMENT #16 – CONTRACT SPECIALIST
+### LETTER OF AGREEMENT #16 – CONTRACT SPECIALIST
 
 This Agreement is between the State of Oregon, acting through its Department of
 Administrative Services (Employer) on behalf of the all Agencies covered under the jurisdiction
@@ -9155,7 +9155,7 @@ This Agreement becomes effective on the date of the last signature and ends on J
 
 
                                        185                              Collective Bargaining Agreement
-        LETTER OF AGREEMENT #17 - TRCI VOLUNTARY OVERTIME SIGNUPS
+### LETTER OF AGREEMENT #17 - TRCI VOLUNTARY OVERTIME SIGNUPS
 
 This Agreement is between the State of Oregon acting through its Department of
 Administrative Services (Employer) on behalf of the Department of Corrections (Agency) at
@@ -9215,7 +9215,7 @@ The Parties agree to the following:
 
 
                                         187                                Collective Bargaining Agreement
- LETTER OF AGREEMENT # 18 – PILOT BIANNUAL VACATION BIDDING DEER RIDGE
+### LETTER OF AGREEMENT # 18 – PILOT BIANNUAL VACATION BIDDING DEER RIDGE
                         CORRECTIONAL FACILITY
 
 This Agreement is between the State of Oregon, acting through the Department of
@@ -9248,7 +9248,7 @@ The Parties agree to the following:
 
 
                                        188                               Collective Bargaining Agreement
-           LETTER OF AGREEMENT #19 – ESSENTIAL WORKER INCLEMENT
+### LETTER OF AGREEMENT #19 – ESSENTIAL WORKER INCLEMENT
                     WEATHER/HAZARDOUS CONDITIONS PAY
 
 This Agreement is between the State of Oregon, acting through the Department of
@@ -9268,7 +9268,7 @@ regardless of the starting or ending time.
 
 
                                        189                              Collective Bargaining Agreement
-              LETTER OF AGREEMENT #20 – NATURAL DISASTER LEAVE
+### LETTER OF AGREEMENT #20 – NATURAL DISASTER LEAVE
 
 This Agreement is between the State of Oregon, acting through its Department of
 Administrative Services (Employer) on behalf of the Department of Corrections (Agency) and
@@ -9299,7 +9299,7 @@ This Letter of Agreement will sunset on June 30, 2025, unless extended by mutual
 
 
                                         190                               Collective Bargaining Agreement
-LETTER OF AGREEMENT #21 – COMPENSATION – WAGE AND BENEFITS – ‘ME TOO’
+### LETTER OF AGREEMENT #21 – COMPENSATION – WAGE AND BENEFITS – ‘ME TOO’
 
 This Agreement is between the State of Oregon, acting through its Department of
 Administrative Services (Employer), on behalf of the Department of Corrections (Agency), and
@@ -9328,7 +9328,7 @@ This Agreement becomes effective on the date of the last signature below and end
 
 
                                       191                              Collective Bargaining Agreement
-                       LETTER OF AGREEMENT #22 – CRCI BIDDING
+### LETTER OF AGREEMENT #22 – CRCI BIDDING
 
 This Agreement is between the State of Oregon, acting through its Department of
 Administrative Services (Employer), on behalf of the Department of Corrections (Agency), at
@@ -9395,7 +9395,7 @@ This Agreement becomes effective the date of the last signature below and termin
 
 
                                           193                                Collective Bargaining Agreement
-LETTER OF AGREEMENT # 23 - STAFF HEALTH, WELLNESS, AND RECRUITMENT AND
+### LETTER OF AGREEMENT # 23 - STAFF HEALTH, WELLNESS, AND RECRUITMENT AND
                          RETENTION PILOT (DRCI)
 
 This Agreement is between the State of Oregon, acting through the Department of
@@ -9498,7 +9498,7 @@ Therefore, the Parties agree to the following:
 
 
                                  195                               Collective Bargaining Agreement
- LETTER OF AGREEMENT #24 - OPSRP EMPLOYEE SICK LEAVE CONVERSION PILOT
+### LETTER OF AGREEMENT #24 - OPSRP EMPLOYEE SICK LEAVE CONVERSION PILOT
                                PROGRAM
 
 This Letter of Agreement (LOA) is between the State of Oregon, acting through the
@@ -9543,7 +9543,7 @@ Now, therefore, the Parties do agree as follows:
 
 
                                        196                             Collective Bargaining Agreement
-               LETTER OF AGREEMENT #25 — BI-WEEKLY PAY PERIOD
+### LETTER OF AGREEMENT #25 — BI-WEEKLY PAY PERIOD
 
 This Letter of Agreement is between the State of Oregon, acting through its Department of
 Administrative Services (Employer) on behalf of the Department of Corrections (Agency) and
@@ -9623,7 +9623,7 @@ outlined in Article 51.
 
 
                                        198                               Collective Bargaining Agreement
-                LETTER OF AGREEMENT #26 – ONE-TIME COLA PAYMENT
+### LETTER OF AGREEMENT #26 – ONE-TIME COLA PAYMENT
 
 This Agreement is entered into between the State of Oregon, acting through its Department of
 Administrative Services (DAS), on behalf of the Oregon Department of Corrections, and the
@@ -9644,7 +9644,7 @@ This Letter of Agreement will sunset on June 30, 2025.
 
 
                                           199                                 Collective Bargaining Agreement
-             LETTER OF AGREEMENT #27 – SALARY RANGE TRUNCATION
+### LETTER OF AGREEMENT #27 – SALARY RANGE TRUNCATION
 
 This Agreement is entered into between the State of Oregon, acting through its Department of
 Administrative Services (DAS), on behalf of the Department of Corrections (Agency) and the
@@ -9672,7 +9672,7 @@ AFSCME Council 75 (Union) on behalf of the DOC Security Bargaining Unit (Locals)
 
 
                                        200                               Collective Bargaining Agreement
-            APPENDIX A DEPARTMENT OF ADMINISTRATIVE SERVICES
+### APPENDIX A DEPARTMENT OF ADMINISTRATIVE SERVICES
       HUMAN RESOURCES DIVISION POLICIES APPLICABLE TO BARGAINING UNIT
 
           Policy Name                                                                               Policy Number
@@ -9702,7 +9702,7 @@ AFSCME Council 75 (Union) on behalf of the DOC Security Bargaining Unit (Locals)
   See Article 9, Section 5 of the agreement.
 2 There is also a 2005 grievance settlement that affects implementation of this policy.
                                                      201                                         Collective Bargaining Agreement
-APPENDIX B - CLASSIFICATION PLAN
+### APPENDIX B - CLASSIFICATION PLAN
 
  CLASSIFICATION TITLE    SALARY
                          RANGE
@@ -9714,7 +9714,7 @@ AFSCME Council 75 (Union) on behalf of the DOC Security Bargaining Unit (Locals)
 
 
                202                 Collective Bargaining Agreement
-                              APPENDIX C - SALARY SCHEDULE
+### APPENDIX C - SALARY SCHEDULE
 
                                   SALARY SCHEDULE AS OF JULY 1, 2023
 Salary   Pay / Rng

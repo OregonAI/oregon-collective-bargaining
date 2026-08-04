@@ -82,7 +82,7 @@ Corrections (Agency), and the American Federation of State, County, and Municipa
 Employees Local 200, Council 75, hereinafter referred to as the "Union".
                                                                                                    NEW: 2023
 
-                                                   ARTICLE 1 - RECOGNITION
+### ARTICLE 1 - RECOGNITION
 
 The Employer recognizes the Union as the exclusive bargaining agent and representative
 for all Physicians employed by the State of Oregon, Department of Corrections, whose
@@ -95,13 +95,13 @@ Employment Relations Board subject to possible judicial review.
                                                                                                    NEW: 2023
 
 
-                                    ARTICLE 2 - EFFECT OF LAW AND RULES
+### ARTICLE 2 - EFFECT OF LAW AND RULES
 
 This Agreement is subject to all applicable existing and future laws of the State of Oregon.
                                                                                                    NEW: 2023
 
 
-                                           ARTICLE 3 - LEGISLATIVE ACTION
+### ARTICLE 3 - LEGISLATIVE ACTION
 
 Section 1.
 Provisions of this Agreement not requiring legislative funding or statutory changes before
@@ -117,7 +117,7 @@ Agreement.
                                                                                                    NEW: 2023
 
 
-                                                  ARTICLE 4 - UNION SECURITY
+### ARTICLE 4 - UNION SECURITY
 
 Section 1. Union Activities.
 Each Institution agrees to inform all new employees hired into positions included in the
@@ -414,7 +414,7 @@ a.    Notice
                                                                                      NEW: 2023,REV: 2025
 
 
-                                 ARTICLE 5 - MAINTENANCE OF STANDARDS
+### ARTICLE 5 - MAINTENANCE OF STANDARDS
 
 The Agency shall not issue any directives or written statements that have any effect on
 mandatory subjects of bargaining established by this Collective Bargaining Agreement
@@ -425,7 +425,7 @@ or directives shall be sent to the Union prior to distribution.
                                                                                                   NEW: 2023
 
 
-                                       ARTICLE 6 - STRIKES AND LOCKOUTS
+### ARTICLE 6 - STRIKES AND LOCKOUTS
 
 The Employer agrees that during the term of this Agreement, the Employer shall not
 cause or permit any lockout of employees from their work. In the event an employee is
@@ -451,7 +451,7 @@ Agreement by the Union shall be made at the request of the Employer or Agency.
                                                                                                    NEW: 2023
 
 
-                                                  ARTICLE 7 - SAVINGS CLAUSE
+### ARTICLE 7 - SAVINGS CLAUSE
 
 Should any article, section or portion of the Agreement be held unlawful and/or
 unenforceable by a court or board of competent jurisdiction, such invalidation shall apply
@@ -461,7 +461,7 @@ invalidated article, section or portion.
                                                                                                    NEW: 2023
 
 
-                                        ARTICLE 8 - MANAGEMENT'S RIGHTS
+### ARTICLE 8 - MANAGEMENT'S RIGHTS
 
 Except as may be specifically modified by the terms of this Agreement, the State retains
 all rights of management in the direction of its work force.
@@ -486,7 +486,7 @@ These rights of management shall include, but not be limited to, the right to:
                                                                                                    NEW: 2023
 
 
-                                            ARTICLE 9 - CONTRACTING OUT
+### ARTICLE 9 - CONTRACTING OUT
 
 Section 1.
 The Union recognizes that the Employer has the management right, during the term of
@@ -583,7 +583,7 @@ See LOA: Feasibility Study
                                                                                               NEW: 2023
 
 
-                                         ARTICLE 10 - EQUAL OPPORTUNITY
+### ARTICLE 10 - EQUAL OPPORTUNITY
 
 Section 1.
 The Employer and the Union agree to continue their policies of not unlawfully
@@ -606,7 +606,7 @@ Agreement.
 
 
 2025-2027 Department of Corrections Physic ians        11                 Collective Bargaining Agreement
-                                                  ARTICLE 11 - SALARIES
+### ARTICLE 11 - SALARIES
 
 Section 1. PERS PICKUP
 Effective February 1, 2019 compensation plan salary rates for PERS participating
@@ -714,7 +714,7 @@ rate printed in the CBA.
 specifically listed in the agreements.
 
                                                                                       NEW: 2023 REV: 2025
-                                                  ARTICLE 12 - INSURANCE
+### ARTICLE 12 - INSURANCE
 
 Section 1.
 An Employer contribution will be made for each eligible employee who has at least eighty
@@ -784,7 +784,7 @@ SEE LOA: PMAC
                                                                                  NEW: 2023 REV: 2025
 
 
-                                         ARTICLE 13 – HEALTH AND SAFETY
+### ARTICLE 13 – HEALTH AND SAFETY
 
 Section 1.
 The Parties agree to maintain a safe work environment in accordance with the Oregon
@@ -871,7 +871,7 @@ g.         No employee shall be subject to retaliation for reporting or filing a
 
 
 2025-2027 Department of Corrections Physic ians       16                        Collective Bargaining Agreement
-                            ARTICLE 14 – CONTINUING MEDICAL EDUCATION
+### ARTICLE 14 – CONTINUING MEDICAL EDUCATION
 
 Full-time employees shall be allowed forty (40) paid hours per fiscal year to complete
 Continuing Medical Education training. Part-time employees shall receive time on a
@@ -885,7 +885,7 @@ reimbursement on a prorated basis.
                                                                                    NEW: 2023 REV: 2025
 
 
-                                                  ARTICLE 15 - SICK LEAVE
+### ARTICLE 15 - SICK LEAVE
 
 Sick leave, with pay, shall be determined as follows:
 
@@ -986,7 +986,7 @@ a.    After earned sick leave has been exhausted, the Appointing Authority shall
                                                                                        NEW: 2023 REV: 2025
 
 
-                                              ARTICLE 16 - VACATION LEAVE
+### ARTICLE 16 - VACATION LEAVE
 
 Section 1.
 Full-time employees shall accrue vacation leave in accordance with the schedule below.
@@ -1083,7 +1083,7 @@ leave is not appropriate.
 
 
 2025-2027 Department of Corrections Physic ians   20                  Collective Bargaining Agreement
-                                             ARTICLE 17 - LEAVES WITH PAY
+### ARTICLE 17 - LEAVES WITH PAY
 
 Employees shall be granted a leave of absence with pay in accordance with the following;
      a.     Service with a jury. The employee may keep any money paid by the court
@@ -1273,7 +1273,7 @@ Employees shall be granted a leave of absence with pay in accordance with the fo
                                                                                           NEW: 2023REV: 2025
 
 
-                            ARTICLE 18 - LEAVE OF ABSENCE WITHOUT PAY
+### ARTICLE 18 - LEAVE OF ABSENCE WITHOUT PAY
 
 Section 1.
 Applying for leave of absence without pay will be in writing and submitted to the immediate
@@ -1299,7 +1299,7 @@ forces of the United States shall be given such military leave without pay as ma
 provided by law.
                                                                                                      NEW: 2023
 
-                                             ARTICLE 19 – HARDSHIP LEAVE
+### ARTICLE 19 – HARDSHIP LEAVE
 
 These provisions shall apply for the purpose of allowing employees to donate accrued
 vacation leaves and compensatory time for use by eligible recipients as sick leave.
@@ -1348,7 +1348,7 @@ with no exceptions.
 
 
 2025-2027 Department of Corrections Physic ians           25                     Collective Bargaining Agreement
-                                                  ARTICLE 20 - HOLIDAYS
+### ARTICLE 20 - HOLIDAYS
 
 Section 1.
 The following holidays will be recognized and paid for at the regular straight time rate of
@@ -1413,7 +1413,7 @@ of time and granted on a basis which shall preclude the closure of state facilit
                                                                                    NEW: 2023 REV: 2025
 
 
-   ARTICLE 21 - TRAVEL, MILEAGE AND MOVING EXPENSE REIMBURSEMENT
+### ARTICLE 21 - TRAVEL, MILEAGE AND MOVING EXPENSE REIMBURSEMENT
 
 Section 1. Travel and Mileage Allowance.
 Reimbursements and procedures will be in accordance with Oregon Accounting Manual,
@@ -1427,7 +1427,7 @@ in this policy will be automatically incorporated into this contract Article.
                                                                                                 NEW: 2023
 
 
-       ARTICLE 22 - RECOUPMENT OF WAGE AND BENEFIT OVERPAYMENTS/
+### ARTICLE 22 - RECOUPMENT OF WAGE AND BENEFIT OVERPAYMENTS/
                             UNDERPAYMENTS
 
 Section 1. Overpayments.
@@ -1491,7 +1491,7 @@ b.         This provision shall not apply to claims disputing eligibility for pa
                                                                                                    NEW: 2023
 
 
-                                                  ARTICLE 23 - TRIAL SERVICE
+### ARTICLE 23 - TRIAL SERVICE
 
 Section 1.
 Each employee appointed to a permanent position in the bargaining unit shall serve a trial
@@ -1551,7 +1551,7 @@ d.         This Subsection applies to employees beginning their promotional tria
                                                                                                NEW: 2023
 
 
-                                   ARTICLE 24 - DISCIPLINE AND DISCHARGE
+### ARTICLE 24 - DISCIPLINE AND DISCHARGE
 
 Section 1.
 Progressive discipline will be applied when appropriate. Employees who have completed
@@ -1673,7 +1673,7 @@ cause an undue delay.
 
 
 
-                                      ARTICLE 25 - GRIEVANCE PROCEDURE
+### ARTICLE 25 - GRIEVANCE PROCEDURE
 
 Section 1.
 A grievance shall be any disagreement or dispute which arises concerning the
@@ -1846,7 +1846,7 @@ j.         The arbitration award shall not establish a precedent for any current
                                                                                  NEW: 2023 REV: 2025
 
 
-                                        ARTICLE 26 - PERSONNEL RECORDS
+### ARTICLE 26 - PERSONNEL RECORDS
 
 Section 1.
 The Chief Human Resources Office human resource information system is the system of
@@ -1944,7 +1944,7 @@ subject employee.
                                                                                               NEW: 2023
 
 
-                                                  ARTICLE 27 - LAYOFF
+### ARTICLE 27 - LAYOFF
 
 Section 1. Alternative to Layoff.
 a.    When the Agency believes that a lack of funds requires a layoff, the Agency will
@@ -2105,7 +2105,7 @@ process contained in the PECBA.
                                                                                                     NEW: 2023
 
 
-     ARTICLE 28 - IMPLEMENTATION OF NEW CLASSES—APPEALS PROCESS
+### ARTICLE 28 - IMPLEMENTATION OF NEW CLASSES—APPEALS PROCESS
 
 The appeals process is designed to allocate employees into new classes. Employees in
 positions allocated to a new classification, who dispute their placement within the new
@@ -2188,7 +2188,7 @@ f.         This process terminates upon completion of the allocation process.
                                                                                               NEW: 2023
 
 
-                                       ARTICLE 29 - QUARTERLY CHECK-INS
+### ARTICLE 29 - QUARTERLY CHECK-INS
 
 a.         Supervisory managers shall conduct check-ins with their employees on a quarterly
            basis. If a quarterly check-in does not occur, the employee may request a check-
@@ -2205,7 +2205,7 @@ b.         Quarterly check-ins are not grievable and cannot be used for discipli
                                                                                                NEW: 2023
 
 
-                                      ARTICLE 30 – OFFICIAL DUTY STATION
+### ARTICLE 30 – OFFICIAL DUTY STATION
 
 Section 1.
 It shall be the duty of Management to establish the permanent duty station of each
@@ -2229,7 +2229,7 @@ in the employee’s classification.
                                                                                                NEW: 2023
 
 
-                           ARTICLE 31 – PRIMARY CARE PHYSICIAN ON CALL
+### ARTICLE 31 – PRIMARY CARE PHYSICIAN ON CALL
 
 Section 1: On-Call
 A Primary Care Physician shall be assigned on-call duty when specifically required to
@@ -2284,7 +2284,7 @@ hours.
                                                                              NEW: 2023, REV: 2025
 
 
-                            ARTICLE 32 – LABOR MANAGEMENT COMMITTEE
+### ARTICLE 32 – LABOR MANAGEMENT COMMITTEE
 
 Section 1. Purpose.
 In order to facilitate communication between the Parties and to promote cooperative
@@ -2319,7 +2319,7 @@ recommendations where appropriate.
                                                                                               NEW: 2023
 
 
-       ARTICLE 33 - INCLEMENT WEATHER/HAZARDOUS CONDITIONS LEAVE
+### ARTICLE 33 - INCLEMENT WEATHER/HAZARDOUS CONDITIONS LEAVE
 
 Section 1.
 a.    The Employer/Agency designated official(s) may close or curtail offices, facilities,
@@ -2469,7 +2469,7 @@ If the Employer/Agency anticipates the inclement condition will last longer than
 and/or hazardous conditions.
                                                                                                    NEW: 2023
 
-                                        ARTICLE 34 - TERMS OF AGREEMENT
+### ARTICLE 34 - TERMS OF AGREEMENT
 
 Section 1.
 Unless otherwise noted in a specific article in the Agreement, this Agreement becomes
@@ -2488,7 +2488,7 @@ Negotiations for a successor agreement will start between February 15, 2027 and 
                                                                                       NEW: 2023 REV: 2025
 
 
-                                                  ARTICLE 35 - DIFFERENTIALS
+### ARTICLE 35 - DIFFERENTIALS
 
 Section 1. Work Out of Classification
 a.    Employees who are temporarily assigned to perform the duties of a higher-level
@@ -2581,7 +2581,7 @@ Weather/Hazardous Conditions Pay.
                                                                                 NEW: 2023, REV: 2025
 
 
-                                            ARTICLE 38 - WORK SCHEDULES
+### ARTICLE 38 - WORK SCHEDULES
 
 Section 1.
 The parties recognize that physicians’ office hours for medical and behavioral health
@@ -2633,7 +2633,7 @@ at the time the employee is notified of the change. Changes in schedules or shif
 be reasonable and will take employee preference into account.
                                                                                                 NEW: 2023
 
-                                             ARTICLE 39 – EXIT INTERVIEWS
+### ARTICLE 39 – EXIT INTERVIEWS
 
 a.         If a regular status employee provides timely notice that they are voluntarily
            separating from Agency service, the Agency will offer an exit interview that focuses
@@ -2648,7 +2648,7 @@ c.         Upon request, but no more than two (2) times a year, the Union can re
                                                                                                 NEW: 2023
 
 
-                           ARTICLE 40 – VOLUNTARY MEDICAL SEPARATION
+### ARTICLE 40 – VOLUNTARY MEDICAL SEPARATION
 
 Section 1.
 A regular status employee with a serious health condition who has exhausted all of their
@@ -2692,7 +2692,7 @@ following conditions are met:
                        employee’s name will be removed from the list.
                                                                                                   NEW: 2023
 
-                                                  ARTICLE 41 – AIR QUALITY
+### ARTICLE 41 – AIR QUALITY
 
 Section 1.
 The Air Quality Index (AQI) was developed by the US Environmental Protection Agency
@@ -2716,7 +2716,7 @@ Hazardous Condition.
 
 
 
-                                          ARTICLE 42 - WORKING REMOTELY
+### ARTICLE 42 - WORKING REMOTELY
 
 Section 1.
 Oregon state government encourages working remotely where it is a viable option that
@@ -2871,7 +2871,7 @@ These provisions are applicable to all Sections listed above.
 
 
 
-                                                  ARTICLE 43 - UNIFORM
+### ARTICLE 43 - UNIFORM
 
 Section 1.
 Physicians and Psychiatrists shall receive a clothing allowance of three-hundred dollars
@@ -2880,7 +2880,7 @@ receive the clothing allowance on their first pay period after hire.
                                                                                                     NEW: 2023
 
 
-                                          ARTICLE 44 - PAID LEAVE OREGON
+### ARTICLE 44 - PAID LEAVE OREGON
 
 Paid Leave Oregon is administered by the Oregon Employment Department. The State
 of Oregon, as an employer, shall comply with the provisions of Paid Leave Oregon, as
@@ -2899,7 +2899,7 @@ existing contract language relating to FMLA/OFLA.
                                                                                                     NEW: 2023
 
 
-                                            ARTICLE 45 - EMPLOYEE RIGHTS
+### ARTICLE 45 - EMPLOYEE RIGHTS
 
 Section 1.
 Off duty activities of employees will not subject them to disciplinary action by the Agency
@@ -2953,7 +2953,7 @@ assured the following rights:
                                                                                                      NEW: 2025
 
 
-                                    ARTICLE 46 - CLINICAL POLICY MATTERS
+### ARTICLE 46 - CLINICAL POLICY MATTERS
 
 Section 1.
 The Parties agree that Physicians will be provided meaningful opportunity to discuss new
@@ -2975,7 +2975,7 @@ shall conduct an investigatory meeting with the physician pursuant to Article 45
 Rights.
                                                                                                      NEW: 2025
 
-                                        ARTICLE 47 - CIVIL INDEMNIFICATION
+### ARTICLE 47 - CIVIL INDEMNIFICATION
 
 The State of Oregon shall indemnify the physicians of the Oregon Department of
 Corrections in accordance with the provisions of the Oregon Tort Claims Act (OTCA),
@@ -2997,7 +2997,7 @@ Agreement.
 
 
 2025-2027 Department of Corrections Physic ians         56                       Collective Bargaining Agreement
-                                      LETTER OF AGREEMENT – EQUAL PAY
+### LETTER OF AGREEMENT – EQUAL PAY
 
 This Agreement is entered into by the State of Oregon, acting through its Department of
 Administrative Services, Labor Relations Unit (Employer), on behalf of the Agencies
@@ -3111,7 +3111,7 @@ The Parties agree to the following:
 
 
 2025-2027 Department of Corrections Physic ians   59               Collective Bargaining Agreement
-                     LETTER OF AGREEMENT -- EMPLOYEE CREDENTIALING
+### LETTER OF AGREEMENT -- EMPLOYEE CREDENTIALING
 
 The Parties recognize the importance of establishing an employee credentialing process.
 DOC is creating a process for Health Services to follow for credentialing of employees at
@@ -3125,7 +3125,7 @@ Parties.
 
 
 2025-2027 Department of Corrections Physic ians   60                Collective Bargaining Agreement
-                         LETTER OF AGREEMENT - EMPLOYEE EXPERIENCE
+### LETTER OF AGREEMENT - EMPLOYEE EXPERIENCE
 
 The Parties agree to utilize the Labor Management Committee (LMC) meetings, to
 discuss issues regarding the employee experience working in ODOC facilities. This work
@@ -3136,7 +3136,7 @@ training, employee productivity, and personal safety.
 
 
 2025-2027 Department of Corrections Physic ians   61              Collective Bargaining Agreement
-          LETTER OF AGREEMENT –ARTICLE 22, SECTION 1 OVERPAYMENTS
+### LETTER OF AGREEMENT –ARTICLE 22, SECTION 1 OVERPAYMENTS
 
 This Letter of Agreement is entered into between the State of Oregon by the Department
 of Administrative Services (DAS), Labor Relations Unit (LRU), on behalf of the Oregon
@@ -3177,7 +3177,7 @@ Bargaining Agreement.
 
 
 2025-2027 Department of Corrections Physic ians   62                 Collective Bargaining Agreement
-     LETTER OF AGREEMENT - STRUCTURAL CHANGES TO PAY PRACTICES
+### LETTER OF AGREEMENT - STRUCTURAL CHANGES TO PAY PRACTICES
 
 This Letter of Agreement is between the State of Oregon, acting through its Department
 of Administrative Services (Employer), and the AFSCME Council 75, (Union).
@@ -3304,7 +3304,7 @@ four (4) months prior to July 1, 2027. The Parties will meet and discuss the new
 
 
 2025-2027 Department of Corrections Physic ians   65                 Collective Bargaining Agreement
-                                         APPENDIX A – SALARY SCHEDULES
+### APPENDIX A – SALARY SCHEDULES
 
 
                                          Classification                                 Salary

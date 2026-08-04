@@ -16,13 +16,12 @@ agency_registry_slugs: []
 source_url: https://www.yamhillcounty.gov/DocumentCenter/View/968/2023-to-2026-YCDDAA-CBA-PDF
 source_format: pdf
 retrieved: '2026-08-02'
-source_sha256: b6dde97464abfc48c022f251ebbdb551b35ad8c1a07dd7debe7819f471fc3907
+source_sha256: 1152a9d37df7885fabafe57177c89ee71b25904fbf1972cffbc2858562dc74b2
 snapshot_policy: hash-only
 status: current
-content_mode: summary
+content_mode: 'verbatim'
 text_source: ocr
-reproduction_basis: 'jointly-authored contract; summary + official link per the class determination
-  in corpus.yml schema.doc_types (verbatim: false)'
+reproduction_basis: 'public record of a public body (ORS 192.311-192.478); the employer publishes the executed agreement in full at source_url; a ratified agreement is an official act (Georgia v. Public.Resource.Org, 590 U.S. 255 (2020)) — mirrored in full per the class determination in corpus.yml schema.doc_types (verbatim: true)'
 conversion_notes: no text layer in the source PDF; text recovered by OCR. Two independent
   engines (tesseract (ocrmypdf) + paddleocr PP-OCRv6) agree on 99% of the word sequence and
   91% of the 524 figures, 99% dictionary-recognizable; 18 heading/letterhead token(s) lost
@@ -43,8 +42,8 @@ tags:
 - yamhill-county
 ---
 
-> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated
-> summary, not the agreement's official text. Verify against the official
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a non-authoritative
+> mirror of the agreement's text, not the official record. Verify against the official
 > source: <https://www.yamhillcounty.gov/DocumentCenter/View/968/2023-to-2026-YCDDAA-CBA-PDF> (retrieved 2026-08-02).
 
 # Yamhill County — 2023 to 2026 YCDDAA CBA
@@ -56,10 +55,6 @@ Collective bargaining agreement between **Yamhill County** and **YCDDAA** — **
 - Source document: 31 pages (PDF)
 - **The source is an image-only scan.** Its committed text is a machine reading corroborated by two independent OCR engines (99% word-sequence agreement — see conversion_notes). Dates and terms above come from that reading; statute citations are deliberately not extracted, because digits are where engines diverge.
 
-This corpus is **summary-first for agreements**: the contract's text is not
-reproduced here (see Curator notes), and nothing on this page states or
-paraphrases the agreement's terms. Read the agreement itself at the official
-source link above.
 
 ## Curator notes
 
@@ -77,3 +72,1537 @@ Statutes and rules the document's text cites are recorded in frontmatter
 `relationships.references_external` (0 citation(s)) and resolve into
 `executive-regulatory-frameworks` as cites — this corpus asserts no
 `implements` edge anywhere.
+
+## Full text
+
+          COLLECTIVE BARGAINING AGREEMENT
+
+
+
+
+                       BETWEEN
+
+
+
+
+YAMHILL COUNTY DEPUTY DISTRICT ATTORNEYS ASSOCIATION
+
+
+
+
+                           AND
+
+
+
+
+                   YAMHILL COUNTY
+
+
+
+
+                EXPIRES:   June 30, 2026
+
+
+
+
+                                            Bo.    a2   =   > Y
+                                                     TABLE OF CONTENTS
+
+
+
+PREAMBLE. ssssssssssscssssssssssssssssesssssssssssesesssessssssesssssssfosssssssssssssssesssosssssasssanaeeanassasasassssssssssssssssssseses 1
+ARTICLE 1 — RECOGNITION ...ssssssssssssssssssssssssssssssssssssssvsvessssseesssssnssssssssssssssesssseeeecensasssnsnveseeseseeseene 1
+ARTICLE 2 — NON-DISCRIMINATION .....ssss000 suveseeseeessecvessssesssausessseuesssiiusesessunaesesuaenssieuneesese 1
+ARTICLE 3 — ASSOCIATION DUES/FAIR SHARE ..ssssssssssssssssssssssssssssssssssessssssssssssessenissseeeeeeeeeeeeeeeees 2
+ARTICLE 4 — MANAGEMENT RIGHTS.......--sssssssssssssssssssssessesssssssssessseesssssussesescessssessecsesssssecessessansseses 2
+ARTICLE 5 — ASSOCIATION BUSINESS........ssssssssssssssssssssssssssssssssecessssssssssssssssssesssseceensssssssssnnessseeeess 3
+ARTICLE 6 — HOURS OF WORK cssssssssssssssssssssssssssssssssssssusssssssscossccenssssssssssssssssssiasoossssnsbssssvssvessssseseen 3
+ARTICLE 7 — SALARY AND WAGES veccceccsccssssssssssssssssssssssssssssssssssssssssessssvsssseesssseesssssssssneessssseeseeeeusn 4
+ARTICLE 8 — HOLIDAYS .acscsssssssssesecsccceccesssssssssssssssssssussssssssssessssssssssssssssssssssessssessssssssnseeesesseeeeeeeenen 6
+ARTICLE 9 — FLEXIBLE EARNED TIME (FET) ccsssssssssssssscsssssssssssssssssccsssseesssssusssssssesessessetsssssestesscsses 7
+ARTICLE 10 — PERSONAL EXTENDED LEAVE (PEL) AND SHORT-TERM DISABILITY INSURANCE ... 10
+ARTICLE 11 — OTHER LEAVES AND ABSENCES wossssssssssssssssssssssssssssssssssssssceseneceessesscsccecccecececcecenceee 12
+ARTICLE 12 — HEALTH AND WELFARE vsssesssssssssssssssssssssssssssssssssssssssssssnngannnesescnecsssssscecneneneseccecceneee 14
+ARTICLE 13 — DISCIPLINE AND DISCHARGE.......sssssssssssssssssssssstssssssivssissssssssssvesseesssssessetessssssees 16
+ARTICLE 14 — GRIEVANCE PROCEDURE. uus:ssssssssssssssssssssssssssssseseesssseesessssssssastanseessesseeeseesenssnsnsseneees 22
+ARTICLE 15 — PROBATIONARY. PERIOD ......sssssssssssssssssssssssssssnsnees 2 ssanananensannnn                 sala cormouvetersnsaet 24
+ARTICLE 16 — SENIORITY AND LAYOFF ....csssssssssssssssssssssssssssssssstststsssissssisisisississseseeseeeeeesees 25
+ARTICLE 17 — GENERAL PROVISIONS v.ssssssssssssssssessssssssseseeseeees sslasasssssesesutessesssessssssssssasssssssssseeeseen 25
+### ARTICLE 18 — SAVINGS CLAUSE
+### ARTICLE 19 — DURATION AND RATIFICATION
+                                                           PREAMBLE
+
+
+This Agreement is entered into between the Yamhill County Deputy District Attorneys Association
+(hereinafter referred to as the “Association”) and Yamhill County (hereinafter referred to as the
+“County”) for the purpose of promoting harmonious relationships between the County and the
+Association, establishing an equitable and peaceful procedure for resolution of differences, and
+setting forth their entire agreement                with    regard to rates of pay,      hours worked,        and        other
+conditions of employment.
+
+
+### ARTICLE 1 — RECOGNITION
+
+
+        The    County     recognizes         the     Association      as   the   exclusive      collective    bargaining
+        representative       for     matters       concerning      employment      relations     as defined         in     ORS
+        243.650(7) for all attorneys employed full time in the Yamhill County District Attorney’s
+        Office, excluding the person               designated    by the District Attorney as the Chief Deputy
+         District Attorney,        (if any), supervisory and confidential employees                as defined       by ORS
+        243.650 and attorneys hired for a term of less than one year.
+
+
+### ARTICLE 2 — NON-DISCRIMINATION
+
+
+        The County will not interfere with or discriminate with respect to any term or condition
+        of employment against any employee covered by this Agreement because of membership
+        and/or activity required in this Agreement on behalf of members of this bargaining unit.
+
+
+        Discrimination on the basis of race, sex, color, religion, national origin, age, mental or
+        physical handicap, marital status, sexual orientation, disabled or veteran status (except
+        where there are bona fide occupational qualifications) is prohibited by all employees of
+        Yamhill    County.         The    provisions       of this Agreement     shall   be    applied   equally         to all
+        employees in the bargaining unit without regard to such status.
+
+
+        Discrimination complaints for which a remedy is available under State or Federal law shall
+        not be subject to the grievance procedure provided for herein.
+
+
+
+
+Yamhill County Deputy District Attorneys Association and Yamhill County                                  Page 1 of 27
+Collective Bargaining Agreement  for 2023-2026
+### ARTICLE 3 — ASSOCIATION DUES/FAIR SHARE
+
+
+        Deduction of Dues. The County agrees to deduct Association dues from the paychecks of
+        those bargaining unit employees who individually request in writing that such deductions
+        be made.     Copies of payroll authorization forms will be provided to both the Association
+        and the County. The amounts to be deducted shall be certified to the County in writing
+        by the treasurer of the Association, and the aggregate deductions of all bargaining unit
+        employees shall be remitted to the treasurer of the Association regularly.
+
+
+        Maintenance         of Efforts.     Each   bargaining        unit employee’s        authorization   for payroll
+        deductions shall remain in full force and effect permanently unless the employee                              is no
+        longer employed        in a position in the bargaining unit represented by the Association or
+        revokes the authorization by sending an original written, signed and dated notice via U.S.
+        Mail or hand delivery to both the employer and the Association President. The County
+        and the Association agree that any revocation of an employee’s authorization to withhold
+        fees must be consistent with the limitations included in the payroll authorizations signed
+        by the employee.
+
+
+        The Association agrees to indemnify, defend and hold the County harmless against any
+        and all claims, orders, judgments, suits or any other              forms   of liability which may arise out
+        of any action taken or not taken            by the County for the purpose                of implementing or
+        complying with the provisions of this section.               Furthermore, the Association shall defend,
+        indemnify and hold harmless the County against any and all claims, order, judgments,
+        damages, suits or any other forms of liability which may arise out of (i) the Association’s
+        administration of the dues deduction system under this section, and (ii) the negligence of
+        the Association for its negligent acts or failure to act under, or in compliance with, this
+        section.
+
+
+
+### ARTICLE 4 —- MANAGEMENT RIGHTS
+
+
+        The County shall exercise the sole responsibility for management                          of the County        and
+        direction of its work force.        To fulfill this responsibility, the rights of the County include
+        but are not limited to: establishing and directing activities of the District Attorney’s Office
+        and   its employees,       determining      services    to    be   rendered,    standards     of service       and
+        methods      of operation,       including subcontracting for the purpose of covering leaves of
+        absence of bargaining unit members; the introduction of new technology and equipment;
+        establishing procedures and standards for employment and promotion; to layoff, transfer
+        and promote; to discipline or discharge; to determine job descriptions; to determine work
+        schedules;     to    establish    performance     standards,        and    assign     work;   and   any    other
+
+
+Yamhill County Deputy District Attorneys Association and Yamhill County                                Page 2 of 27
+Collective Bargaining Agreement
+                          for 2023-2026
+         management          rights except as expressly           limited by the terms of this Agreement.            The
+         exercise of these rights is also subject to the County’s obligation to bargain under the
+         Public Employees           Collective Bargaining Act to the extent the exercise of these rights
+         involves a mandatory subject of bargaining or impacts a mandatory subject of bargaining.
+
+
+
+### ARTICLE 5 — ASSOCIATION BUSINESS
+
+
+        The County agrees that, during regularly scheduled work hours,                       designated Association
+         representatives may engage in Association activities                  without loss of pay or benefits as
+         allowed under State law.             The parties agree that such activities must be reasonable in
+         scope    and quantity, and that such activities will not interfere with operations of the
+        employer.
+
+
+        The      County     shall   allow    up   to two    (2)   members     of the    bargaining   unit   to   attend
+         negotiations without loss of pay.
+
+
+
+### ARTICLE 6 — HOURS OF WORK/PROFESSIONAL WORKWEEK
+
+
+        The Association and the County recognize that employees are FLSA exempt professional
+        employees, and that hours of work will vary according to workload. The parties agree that
+        generally, full-time employees are expected to work standard business hours of 8:00 am
+        through      5:00    pm     with    a one-hour     unpaid    lunch.   Hours    of work,   within the normal
+        workweek, shall be determined by the District Attorney. The workweek shall consist of
+        seven days commencing at 12:01 a.m. on each Saturday.
+
+
+        Work in excess of fifty (50) hours in a workweek may later be taken as hour for hour
+        compensatory time off. Compensatory time shall be allowed to accumulate to a
+         maximum of forty (40) hours.
+
+
+         In the event that the District Attorney assigns an employee the responsibilities of an on-
+        call deputy district attorney, the employee so assigned shall receive as compensation for
+        such assignment $250 per week.                Employees may with approval of the District Attorney
+        trade such assignments.              Assignments to on-call status shall be for a period of seven
+        consecutive days. Assignment of greater than seven days shall result in the compensation
+         provided above for each seven-day period or portion thereof. Any on call assignments in
+        increments less than or greater than one week will be compensated on a pro-rate basis.
+
+
+
+
+Yamhill County Deputy District Attorneys Association and Yamhill County                               Page 3 of 27
+Collective Bargaining Agreement for 2023-2026
+        Flexing Time.     Normally, employees are expected to perform work during regular hours.
+        However, with advanced notice and approval from the District Attorney or Chief Deputy
+        District Attorney employees         may voluntarily flex their schedule over a given two-week
+        period. For example, if an employee wishes to take a portion of a day off without utilizing
+        accrued    or   unpaid     leave,   employees      may   voluntarily     adjust   their    work     schedule
+        temporarily by working additional hours on another day in the same or following work
+        week. Similarly, employees          may voluntarily modify their regular work schedules when .:
+        they have worked in excess of their regular scheduled hours and they wish to reduce their
+        hours in subsequent days rather than accumulating compensatory time. Before modifying
+        their work schedule, the employee must provide advanced notice of the request to, the
+        District Attorney or Chief Deputy District Attorney. This request must explain the planned
+        modifications     and    the   reasons   for the   request.   Such     modifications      may     be allowed
+        provided    it would     not impair the operations        of the     office   (e.g., when       allowing     the
+        modifications would        interfere with adequate       staffing levels to cover scheduled                court
+        appearances). The intent of this Section is to cover unexpected or occasional changes in
+        work hours to accommodate either individual employee needs or employer work needs.
+        Flexible work schedules that cross over pay periods must be corrected with County payroll
+        in accordance with County policy.
+
+        Telecommuting/Remote Work. Normally, employees are expected to perform work at
+        the office or other assigned worksite. However, with advanced notice and approval from
+        the District Attorney, or Chief Deputy District Attorney employees may be allowed to
+        telecommute or work remotely. Requests to telecommute or work remotely must
+        explain the details and reasons for the request. Requests to telecommute or work
+        remotely may be approved provided (i) granting the request would not impair the
+        operations of the office, (ii) the specific work the employee would be performing is
+        suitable for telecommuting or remote work, and (iii) the request complies with written
+        County telecommuting policy. The District Attorney or Chief Deputy District Attorney
+        reserves the sole discretion to determine whether or not an employee is approved for
+        telecommuting or remote work and to revoke approval.
+
+
+
+### ARTICLE 7 — SALARY AND WAGES
+
+
+        Wages.
+
+
+        (a) Cost of Living Increases.
+
+
+        Cost of living increases and market adjustments for the first year of the Agreement are
+        included in the updated wage scale, but will be retroactive to the first day of the pay
+        period after July 1, 2023.
+
+
+Yamhill County Deputy District Attorneys Association and Yamhill County                             Page 4 of 27
+Collective Bargaining Agreement for 2023-2026
+        Effective the first day of the pay period after July 1, 2024,                  employee   wages    will be
+        increased by two-and-a-half percent (2.5%).
+
+
+        Effective the first day of the pay period                after July 1, 2025, employee     wages    will be
+        increased by two-and-a-half percent (2.5%).
+
+
+        (b) Restructuring of Salary Schedule
+
+
+        Effective and retroactive to the first day of the pay period after July 1, 2023, the County
+        will:
+
+
+                    1)   Implement     the   new     wage    scale included   as Appendix   A, with   employees
+                         moving to the step and classification indicated on that new scale.            This wage
+                         scale will include market increases and cost of living increases for the first year
+                         of the Agreement.         Thereafter, cost of living increases will be provided as set
+                         forth under Article 7.1 in the second and third year of the Agreement.
+
+
+                    2)   Establish the classification of Deputy DA 3. Deputy DA 3 vacancies are filled by
+                         promotional    processes.      Employees in the Deputy DA 3        classification will be
+                         paid at the step indicated on Appendix A.              The County agrees to post an
+                         opening for at least one Deputy DA 3 position within fiscal year 2023-24.
+
+
+        (c) Market Increases
+
+
+        Effective on the first day of the pay period after July 1, 2024, the salary schedule for the
+        Deputy DA 1 classification will be increased by one-and-a-half percent (1.5%)
+
+
+        Merit Increase.
+
+
+        (a) Employees         receiving a rating of “meets          expectations”    or better on their annual
+                evaluation   shall   receive a merit        increase to the   next   highest step on the salary
+                schedule on their anniversary date of hire.           Employees at the top step of the salary
+                schedule for their job classification will not receive a merit raise.
+
+
+        (b) The annual evaluation shall be performed                 in the month     preceding the employee's
+                anniversary date.
+
+
+
+
+Yamhill County Deputy District Attorneys Association and Yamhill County                           Page 5 of 27
+Collective Bargaining Agreement  for 2023-2026
+        Out of Class Pay.
+        An employee may occasionally or intermittently for short periods of time perform duties
+        that are normal to higher-level classifications. Whenever an employee is assigned to and
+        does perform      substantially all the duties of          a budgeted      position which    is in a higher
+        classification for forty (40) or more consecutive hours the employee will be paid for all
+        hours worked at one step higher than the employee’s current pay step. This provision
+        does not apply to situations where the employee is working in the higher classification for
+        training purposes.
+
+
+        Travel Reimbursement.
+        The    County    shall    reimburse    employees     for    travel   and    entertainment     expenses        in
+        accordance with the County’s travel and entertainment policy.
+
+        Longevity Pay.
+
+        Effective on the first day of the pay period following ratification of the contract,
+        employees with the following years of continuous service who are then employed by
+        Yamhill County shall receive the stated pay as a longevity premium in the paycheck
+        following their anniversary date, except as provided below:
+
+        (a)      Fifteen years continuous service:         $2400
+
+        (b)      Twenty years continuous service: $2700              —
+
+        Employees are not eligible for the above longevity premium if (i) the employee is on a
+        work plan on the anniversary date (however, the longevity premium will be paid when
+        the employee has satisfactorily completed the work plan), or (ii) the employee has
+        received formal discipline within the year preceding the anniversary date and the
+        discipline has not been removed from the personnel file following a grievance under
+        Article 13.
+
+
+
+### ARTICLE 8 — HOLIDAYS
+
+
+        Holidays.   The following shall be recognized as paid holiday:
+
+
+        New    Year's   Day,     Martin   Luther   King Jr.'s Birthday,      President's   Day,     Memorial       Day,
+        Juneteenth, Independence           Day, Labor Day, Veterans' Day, Thanksgiving Day, Day after
+        Thanksgiving Day, Christmas Eve Day, Christmas Day, 2 Floating Personal Holidays and 1
+        Commissioners' Day.          Personal holidays may be used at the discretion of the employee
+        with the consent of his employer, provided, however, an employee must be employed for
+        at least three months before the personal holiday may be used.                     In all cases, personal
+
+Yamhill County Deputy District Attorneys Association and Yamhill County                             Page 6 of 27
+Collective Bargaining Agreement for 2023-2026
+        holidays must be taken by the end of each fiscal year (June 30). If not taken by the end of
+        the fiscal year, the personal holiday is forfeited.
+
+
+        Whenever a holiday shall fall on a Sunday, the succeeding Monday shall be observed as
+        the holiday.     Furthermore, whenever a holiday shall fall on a Saturday, the preceding
+        Friday shall be observed as the holiday.
+
+
+        “Commissioners’ Day” may be taken as scheduled with the supervisor during the months
+        of November,       December and January.         Commissioners’ Day is lost if not taken prior to
+        January 31. Commissioners’ Day has no cash value.
+
+
+        If employees are notified by the District Attorney that they are needed for office coverage
+        for the Day after Thanksgiving Day or Christmas Eve Day they will be allowed to take the
+        holiday as an additional personal          holiday. The personal         holidays may be used at the
+        discretion of the employee with the consent of the District Attorney between November
+        1 and    January    31   in the    applicable   year.   Any   personal    holiday    not taken    prior to
+        termination or January 31 of the applicable year, whichever first occurs, is lost. Personal
+        holidays have no cash value.
+
+
+        Holiday Pay.     Eligible employees shall receive 8 hours pay for each of the holidays listed
+        on which they perform no work.            If any employee         is on authorized paid leave, when      a
+        holiday occurs, the holiday shall not be charged against such leave.                Unless on a bona fide
+        authorized leave with pay an employee, to be eligible for holiday pay, must work his full
+        assigned shifts next preceding and following the holiday.
+
+
+        Holiday Work.       If an employee      is authorized to work on any of the following holidays,
+        he/she shall receive hour for hour compensatory time off: New Year’s Day, Martin Luther
+        King Jr.'s Birthday, President's Day, Memorial Day, Juneteenth, Independence Day, Labor
+        Day, Veterans’ Day, Thanksgiving Day, Christmas Day.
+
+
+
+### ARTICLE 9 — FLEXIBLE EARNED TIME (FET)
+
+
+        FET Credit.
+
+
+        (a) Full time employees shall accrue flexible earned time (FET) as follows:
+
+
+                            Months of Service                   Hours FET per month
+                                    1-12                                    15
+                                   13-59                                    iv
+
+Yamhill County Deputy District Attorneys Association and Yamhill County                           Page 7 of 27
+Collective Bargaining Agreement for 2023-2026
+                                   60-119                                  19
+                                  120-179                                  21
+                                  180-239                                  23
+                                    240+                                   25
+
+
+        (b) Part-time employees covered by this agreement                  shall accrue    FET in proportionate
+            amounts to that earned by full time employees.
+
+
+        (c) Employees’ FET entitlement shall be calculated on a calendar month basis.                    For this
+            purpose only, employees whose anniversary dates are between the first and fifteenth
+            day of a month shall be considered to have been hired on the first day of the month.
+            Employees whose anniversary dates are between the 16th and last day of the month
+            shall be considered to have been hired on the first day of the next month.
+
+
+9.2     Continuous Service.        Continuous service, for the purpose of accumulating FET, shall be
+        service    unbroken     by separation from     employment         by the County.     Time spent by an
+        employee on a paid leave or job-related illness or injury shall be included as continuous
+        service. Time spent on unpaid authorized leave will not be counted as part of continuous
+        service for accrual purposes, but employees returning from such leaves and from layoff
+        status shall be entitled to credit for service prior to the leave or layoff.
+
+
+$3      Maximum Accumulation. The maximum FET that may be accumulated by an employee is
+        the number of hours equivalent to 24 times the employee's monthly FET accrual rate. All
+        FET earned in excess of the maximum shall be placed in the Personal Extended Leave (PEL)
+        account.
+
+
+9.4      Payout of FET.
+
+        (a) Upon termination, bargaining unit members shall be compensated for accrued FET in
+             cash at the employee's then-current salary level according to the following schedule:
+
+
+                              Months of Service            Percentage of FET Paid Out
+                                    0-12                                   0%
+                                    13-60                                 50%
+                                    61-72                                 55%
+                                    73-84                                 60%
+                                    85-96                                 65%
+                                   97-108                                 70%
+                                   109-120                                75%
+                                   121-132                                80%
+
+Yamhill County Deputy District Attorneys Association and Yamhill County                          Page 8 of 27
+Collective Bargaining Agreement for 2023-2026
+                                         133-144                                  85%
+                                         145-156                                  90%
+                                         157-168                                  95%
+                                           169+                                   100%
+
+
+
+        (b) Upon retirement, as noted in Section 9.4, all FET shall be paid out at 100% current
+             value.
+
+
+        (c) Inthe event of the employee’s death, all FET shall be paid out at 100% of current value
+             to the employee’s estate.
+
+
+        FET Sell-Back.
+
+
+        (a) Employees with up to 14 years service.                      After completion of one year of continuous
+             service, an employee may elect to sell-back up to one week's pay. The employee must
+             have a remaining FET balance of 80 hours after the sell-back. This option may be
+             exercised once each year. Said request shall be in writing on a County approved form
+             and District Attorney approval shall be required.                     FET sell-back may not be used in
+             conjunction with any donation of FET.                    Payment shall be made as part of the regular
+             paycheck.
+
+
+        (b) Employees with 14 or more years of service.                       An employee with 14 or more years of
+             continuous          service    with the County           may   elect to receive   up to 2 week's       pay   in
+             accordance with the terms set forth in subsection (a), above. The employee must have
+             a remaining FET balance of 80 hours after the sell-back.
+
+
+        Minimum use of FET. Employees must use at least 60 hours of FET per year unless waived
+        by mutual agreement of the employee and District Attorney.
+
+
+        Uses of FET.       FET may be used for vacation, any purpose allowed under state and federal
+        leave laws relating to sick or family medical leaves (e.g., the Family Medical Leave Act,
+        Oregon        Family     Leave     Act,    and    Oregon      Sick Time   Act),   personal   business,   or other
+        protected       leave.      Accrued        FET may     be taken      in units of one-quarter      hour   or more.
+        Whenever possible, use of FET shall be scheduled in advance with the District Attorney.
+
+
+        Employee        Responsibility        (FET       Bank/Leave     without   Pay).   Employees     are   required    to
+        manage FET leave within their FET allocations except for authorized protected leave or
+        other exigent circumstances. Leave without pay shall be strictly restricted and based on
+        the totality of circumstances and subject to District Attorney approval. Failure to manage
+
+Yamhill County Deputy District Attorneys Association and Yamhill County                                   Page 9 of 27
+Collective Bargaining Agreement for 2023-2026
+         FET leave as demonstrated by past use of FET and requests for leave without pay, absent
+        justified circumstances, may be subject to progressive discipline.
+
+
+        FET    Scheduling.    Approval    of FET    requests   for vacation     purposes     is subject   to the
+        operational need of the County. Requests for one week or longer should normally be
+        made at least fourteen (14) days in advance. Other requests for a shorter period (less than
+        five (5) days) should normally be made at least twenty-four (24) hours in advance. If an
+        employee      has insufficient FET on the books for the request the District Attorney may
+        conditionally approve subject to the employee having sufficient FET at the time of the
+        vacation. Shorter notice does not prevent the District Attorney from approving the leave.
+
+
+
+### ARTICLE 10 — PERSONAL EXTENDED LEAVE (PEL) AND SHORT-TERM                          DISABILITY INSURANCE
+
+
+10.1    Personal Extended Leave (PEL).
+
+
+        (a) All FET accrued in excess of a maximum accrual limits stated in Article 9 shall be placed
+              in the employee's PEL account.
+
+
+        (b) There is no accumulation limit to the PEL account.
+
+
+        Utilization of PEL.
+
+
+        (a) Employees suffering an illness or injury in excess of 5 consecutive workdays may draw
+              upon their PEL account after the fifth day.       PEL is provided by the County solely in the
+              nature of insurance against an employee's             loss of income    due to illness or injury.
+              Employees may utilize their PEL when unable to perform their work duties by reason
+              of illness or injury, exposure to contagious disease under circumstances by which the
+              health of the employees with whom associated or members of the public necessarily
+              dealt with would be endangered by attendance of the employee, or by illness in the
+              employee's     immediate    household.      In such    event,   the employee     shall notify the
+              District Attorney or other supervisor of the reasons for his absence, the nature and
+              expected length thereof, as soon as possible and in no event later than the first half
+              of the first regular work shift unless unable to do so because of the injury or illness. A
+              physician's statement of the nature of the injury or illness, the employee's disability
+              from   performing    work, the need for the employee's            absence,   and the estimated
+              duration of the absence may be required at the option of the District Attorney or other
+              supervisor for absences of over three days, prior to the payment of any PEL benefits.
+              A physician's statement may also be required at the option of the District Attorney_or
+              other supervisor when an employee has had three or more non-consecutive absences
+
+
+Yamhill County Deputy District Attorneys Association and Yamhill County                         Page 10 of 27
+Collective Bargaining Agreement for 2023-2026
+               within a given calendar month, prior to the payment of any further PEL benefits for
+               that    month,    provided        that the employee         is notified   in writing that a physician's
+               statement will be required.
+
+
+         (b) Notwithstanding subsection (a), an employee with available PEL may exercise a one-
+               time option to sell back up to 40 hours of PEL per fiscal year.                 Payment shall be made
+               as part of the regular paycheck.                Employees with 800 hours or more of PEL may sell
+               back up to 80 hours of PEL per fiscal year.
+
+
+         Retirement from Employment.                   PEL has no cash-out value upon termination except at
+         retirement, layoff as defined in this Agreement, permanent and total disability as a result
+         of a work-related injury, or death of the employee or as provided in Section 9.5.
+
+
+         Sell-Back of PEL Prior to Retirement. In the event of retirement and where the employee
+         has not elected to exercise rights under Section 9.5, the value of the PEL will be placed in
+         a Retirement Health Savings Plan for the benefit of the employee. Maximum payout will
+         be 880 hours of PEL.
+
+
+         Payout at death will be to the employee’s estate.
+
+
+         Pay-out       of PEL at retirement           will be allowed       providing    the following       conditions      are   -
+         satisfied:
+
+
+         (a)   The employee is at least 55 years old; and
+
+
+         (b) The employee has served as a County employee at least 7 years continuous service
+               immediately prior to retirement; and
+
+
+         (c) The employee intends to work no more than 20 hours per week at another job.
+
+
+         Sell-Back of PEL Prior to Retirement.
+ay
+
+     B
+
+
+
+
+         (a) An       employee     who     has    reached      the   age   of 55 and     who   has   seven     (7) or more
+               continuous       years    of service     with    County,    and   will limit future    employment          to a
+               maximum of twenty (20) hours per week, may elect a one-time option to sell back all
+               or part of accrued PEL within the window period described below prior to the date of
+               retirement.
+
+
+         (b) An employee qualified to sell back PEL under this section must advise the accounting
+               division of his/her intent to sell back PEL no earlier than November 24" and no later
+
+ Yamhill County Deputy District Attorneys Association and Yamhill County                                     Page 11 of 27
+ Collective Bargaining Agreement  for 2023-2026
+               than December 23" in the year priorto the year the employee has given his/her notice
+                of intention to retire. The income earned from the sell back shall be paid in the next
+                regular paycheck due the employee subject to the time needed to process the payroll.
+
+
+            (c) Any employee who has more than 880 hours of PEL on the books at the time he/she
+                requests this one time sell back of PEL shall forfeit all PEL in excess of 880 hours which
+                is the maximum payout upon retirement.
+
+
+            (d) If this option is exercised, the employee        is responsible for all employee          state and
+               federal income, FICA, and Medicare, and any other employee paid taxes imposed on
+               the income earned from the sell back. Persons who elect this sell back feature may
+                utilize the County’s deferred compensation         program to defer income taxes on their
+                earnings subject to federal       deferred   compensation       limits and   the policies of the
+                deferred compensation provider.
+
+
+
+### ARTICLE 11 — OTHER LEAVES AND ABSENCES
+
+
+            Criteria and Procedure.      Leave of absence without pay not to exceed 90 calendar days
+            may be granted upon establishment of reasonable justification in instances where the
+            work of the department will not be seriously handicapped by the temporary absence of
+            the employee.       Requests for such leaves must be in writing.      Normally such leave will not
+            be approved     for an employee for the purpose         of accepting employment         outside the
+            service of County.      Such leaves may be renewed or extended upon request and in the
+            discretion of the applicable elected official or the governing body having supervision of
+            the employee.
+
+
+            Jury Duty. Employees shall be granted leave for service on a jury. The compensation paid
+ay
+
+No
+a
+
+
+
+
+            to such an employee for the period of such absence shall be reduced by the amount of
+            money received by him for such jury duty.         Upon being excused from jury service before
+            the end of their normal shifts, employees shall immediately contact the department head
+            or other supervisor for assignment for the remainder of his regular workday.
+
+
+            Appearances.     Leave with pay shall be granted for work related appearances before a
+     (es)
+eX
+a
+
+
+
+
+            court, legislative committee, judicial or quasi-judicial body as a witness in response to a
+            subpoena    or other     direction   by proper   authority.   The     compensation     paid    to such
+            employee shall be reduced by an amount equal to any compensation he/she may receive
+            as a witness fee.
+
+
+
+
+Yamhill County Deputy District Attorneys Association and Yamhill County                          Page 12 of 27
+Collective Bargaining Agreement
+                              for 2023-2026
+;ENBb         Required Court Appearances.            Leave of absence with pay shall be granted for attendance
+a
+
+              in court in connection with an employee's officially assigned duties, including the time
+              required for travel to the court and return to the employee's headquarters.                       Employees
+              whose    normal duties require court appearances shall normally be compensated                          in the
+              form of compensatory time off.
+
+
+              Family/Medical Leave.           Family and/or medical leave shall be granted in accordance with
+         wn
+R
+=
+E
+
+
+
+
+              applicable State and Federal law, including but not limited to military family leave for
+              covered family members of military personnel.                  Employees shall be required to use any
+              accrued vacation, compensatory time, or personal holidays at the beginning of a period
+              of parental leave and at the employee’s discretion the employee may use leave.
+
+
+ 11.6         Educational Leave. After completing one year of continuous service a full time employee,
+              upon written request, may be granted a leave of absence without pay by the County for
+              the purpose of upgrading professional ability through enrollment at an accredited school
+              or course of study.         The period of such leave of absence shall not exceed one year but
+              may be renewed or extended upon request of the employee and approval of the County.
+              One year leaves of absence, with requested extension, for educational purposes may not
+              be provided more than once in a three-year period.
+
+
+              Conferences.       Employees may also be granted time off with pay for educational purposes,
+    La
+     ~
+F
+
+
+
+
+              for   reasonable      lengths    of time,     to attend    conferences,   seminars,    briefing      sessions,
+              training programs and other programs of a similar nature that are intended to improve or
+              upgrade the employee's skill and professional ability when                   ordered   by the applicable
+              elected official or governing body having supervision of the employee.
+
+
+              Attendance        at such    conferences      shall   be subject to budget     limitations     and    all non-
+              budgeted expenses shall require approval by the Board of Commissioners.                       No employee
+              shall be authorized to attend a school, training or educational program in excess of four
+              weeks    unless     such    employee   first agrees       in writing to either continue       in the active
+              employment of the County for one full year following completion of the program or, if his
+              employment         is voluntarily terminated          within that year or while in attendance          at the
+              program, to reimburse the County for the salary paid to him and benefits earned while
+              attending such program.
+
+
+ 11.8         Military Leave.      Military leave shall be granted in accordance with State and Federal law.
+              In addition, eligible employees             will be provided    paid military leave to attend         military
+              training in accordance with State and Federal law.
+
+
+
+
+ Yamhill County Deputy District Attorneys Association and Yamhill County                                   Page 13 of 27
+ Collective Bargaining Agreement for 2023-2026
+            Bereavement      Leave. The purpose of bereavement leave is to make relevant household
+BR
+
+       to
+            arrangements and to attend the funeral.              An employee may be granted up to five days
+            paid bereavement leave within a two-week period in the event of death of the employee’s
+            fiancé, spouse, same sex domestic partner, parent, child, brother, sister, grandparent,
+            grandchild,    stepmother,       stepfather,    stepchild,   and    the spouse’s    same,      or any    other
+            person residing in the employee’s household.
+
+
+            An employee      may also be granted           paid bereavement       leave to attend the funeral of a
+            current fellow employee.          Unpaid    bereavement       leave may be granted           in the event of
+            death of a close friend.         Time taken off to attend such friend’s or fellow employee's
+            funeral may be scheduled in half-day increments and shall be limited to no more than one
+            day.
+
+
+ 11.10      Workers    Compensation.          Any   employee      who    sustains    any   injury   or    illness   that   is
+            compensable under worker’s compensation law, in addition to such compensation as may
+            be paid to him/her under the law, shall receive from the County, in lieu of wages, the
+            difference between      such compensation           payments       and the amount       of his/her straight
+            time wages less state and federal income taxes and social security contributions for a
+            period not to exceed one hundred eighty (180) calendar days from the date of injury or
+            illness. The employee will also receive all the benefits of a full time employee during these
+            180 days without reduction. At the end of one hundred eighty (180) days the employee
+            may    use accrued    PEL and      or FET, at the employee’s          option, to cover the difference
+            between worker’s compensation              payments and the employee’s net pay as determined
+            above.                       .
+
+
+ a i        Donated Leave. The current donation of leave’ program                 shall continue, but the employee
+            must have exhausted all leaves before donations can be accepted.
+
+
+
+### ARTICLE 12 — HEALTH AND WELFARE
+
+
+            Eligible Employees.     Full time employees           shall be eligible for the health and welfare
+            benefits set forth in this Article on the first day of the calendar month following the month
+            of employment if the employee is hired on or before the 15th day of the month.                            If the
+            employee      is hired on or after the 16th day of the month, then the employee shall be
+            eligible on the first day of the calendar month following the month after the month of
+            employment.
+
+
+            Part-time Employees.     Regular part time employees shall receive the prorated health and
+            welfare benefits, proportionate to that received by full time employees.
+
+ Yamhill County Deputy District Attorneys Association and Yamhill County                                 Page 14 of 27
+ Collective Bargaining Agreement
+                               for 2023-2026
+12.3.   Medical / Dental.
+
+             (a) The County shall offer YCDDAA members the same medical and dental plans
+                 offered to YCEA bargaining unit members in the same period.
+
+             (b)    Effective September 1, 2020, the County shall pay 96% of the Providence Base
+                   plan monthly premiums for coverage of full-time employees and their
+                   dependents. The employee shall pay 4%. In addition, the County shall permit
+                   full-time employees to “buy-up” to a different plan. The County shall contribute
+                   $125.00 per month toward the cost of the “buy-up” plan. The employee’s share
+                   shall be paid by payroll deduction.
+
+             (c) While this Agreement is in effect, the County will provide a Voluntary Employee
+                 Beneficiary Association Medical Expense Plan (“VEBA”) to be administered by a
+                 third party on behalf of those members who select the Providence Base Plan.
+                 The County will not provide a VEBA for those members who choose to “buy-up”
+                 to the “buy-up” plan. The amount of the VEBA is $125.00 per month.
+
+
+             (d) The employee shall have choice of coverage under a given plan within a package
+                   and   may      select the        plan     at the time             of employment         or at the annual         open
+                   enrollment period.
+
+
+              (e) Parity       Clause:      If,    during      2023      successor           collective     bargaining         agreement
+                   negotiations     with      AFSCME           Local     1422        only,   the   County      agrees     to    premium
+                   contributions, VEBA contributions, or “buy up” contributions that exceed what was
+                   agreed to above, the County will provide those same contributions to employees
+                   represented by the Association retroactive to the effective date of this article.                                    The
+                   County   and     the     Association          agree        that    this   “Parity      Clause”   language       is not
+                   precedent      setting         and      applies     only     to     the    2023-2026        successor        collective
+                   bargaining agreement between the County and the Association.
+
+
+12.4    Short Term       Disability.       The County will pay the full premiums for short-term disability
+        insurance administered through a private carrier.
+
+
+12.5    Life Insurance.        County shall provide $10,000 term life insurance for each employee and
+        $2,000 for each eligible dependent                      under a plan selected by County.                    Employees shall
+        designate their beneficiaries.                  County will provide an option for additional life insurance
+        at the employee's cost.
+
+
+
+
+Yamhill County Deputy District Attorneys Association and Yamhill County                                                 Page 15 of 27
+Collective Bargaining Agreement  for 2023-2026
+                 Retirement.          Employees         shall    be     covered    by    the   applicable       retirement     system
+          lop}
+an
+
+
+                 (PERS/OPSRP) and the County shall “pick up” the six percent (6%) employee contribution
+                 as allowed by applicable law.
+
+
+                 Deferred Compensation.                County shall provide a Deferred Compensation Plan through a
+                 financial institution such as Nationwide, ICMA, or other qualified institution.
+
+
+                 Early Retirement Benefit.             An employee who has served the County for a minimum of 10
+BR
+     nN
+          o
+f
+
+
+
+
+                 years continuous service immediately prior to retirement at or after the age of 58 will be
+                 entitled to an early retirement benefit in the form of severance pay in the sum of $100
+                 for each year of his/her age less than 70.
+
+
+                 MCLE. The County will ensure that each member of the bargaining unit is offered at no
+                 cost to the employee sufficient CLE credits to meet the mandatory requirement of the
+                 Oregon State Bar.
+
+
+ 12.10           Bar Dues. The County shall pay for each member of the bargaining unit the annual dues
+                 of the Oregon State Bar, and shall also pay the annual dues charge for up to two sections
+                 of the Oregon State Bar, the sections being the employee’s own choice.
+
+
+ 12.11           Continuation        of    Benefits.      Upon     termination      an    employee       may     continue,     at     the
+                 employee’s expense, County benefits as provided by Federal or State law.
+
+
+
+### ARTICLE 13 — DISCIPLINE AND DISCHARGE
+
+
+                 Cause for discipline or discharge: types of discipline; representation rights.
+
+
+                 (a)   The County may discipline, discharge, suspend, or reduce the pay of an employee
+                       for just cause.       Discipline shall normally be progressive. Suspension shall not exceed
+                       two   weeks.          The    County       may    impose    sanctions     based    on     the totality of the
+                       circumstances and severity of the conduct.                   Reduction in pay means a lower step on
+                       the employee’s salary range.
+
+
+                 (b)   Employees           engaging      in   behavior     that   disrupts     the   orderly,    efficient,   or     safe
+                       operation          of business or reduces their performance                   or the performance            of co-
+                       workers that reasonably might be expected                         by management          may    be subject to
+                       discipline.         Such    behaviors      may    be defined      in the      employee     handbook         or by
+                       department policy.
+
+
+
+Yamhill County Deputy District Attorneys Association and Yamhill County                                               Page 16 of 27
+Collective Bargaining Agreement
+                              for 2023-2026
+          (c)     Formal Discipline:        Forms of formal discipline include, but are not limited to: letter
+                  of reprimand, suspension, reduction in salary, demotion and termination.                                 Discipline
+                  will normally be progressive, however any level of discipline may be imposed based
+                  on   the    totality    of circumstances         and just cause.            The     County      may     terminate,
+                  suspend, or reduce the pay of an employee for the following actions which do not
+                  require prior discipline: dishonesty, drinking related to employment activity, use or
+                  sale of illegal drugs, gross insubordination,                conviction of a felony, conviction of a
+                  misdemeanor,           obtaining    leave    or benefits      under        false    pretense,        deliberate     or
+                  reckless destruction of County property, gross misconduct or sexual misconduct in
+                  connection with work.
+
+
+          (d)     Informal Discipline:          Forms     of informal discipline include, but are not limited to
+                  counseling, verbal warnings, letters of instruction, and work improvement                                     plans.
+                 These       forms    of informal       discipline     may    serve     as     evidence        for future      formal
+                  disciplines.        Information       regarding       informal      discipline       shall    be      kept   in    the
+                  supervisor’s working file. Informal discipline is not subject to the grievance process.
+                  If the informal discipline is reduced to writing, the employee may provide a written
+                  rebuttal.
+
+
+          (e)     Employees          involved    in     disciplinary     actions      have      the     right     to     Association
+                  representation or Association counsel in any meetings with management regarding
+                 formal discipline.         Other representatives in disciplinary actions are permitted only
+                 through the mutual agreement of the County and the Association.
+
+
+          Definitions. The following definitions shall apply for this Article:
+ay
+     Ww
+     nN
+
+
+
+
+          (a) “Gross insubordination” is the refusal of an employee to obey a lawful order after
+                such order has been communicated both verbally and in writing.
+
+
+          (b) “Gross misconduct” means any conduct constituting a substantial disregard of the
+                standards of behavior which a reasonable employer has the right to expect, including
+                but not limited to criminal             conduct.       Such conduct          may     also include violation           of
+                confidentiality agreements            or release of confidential materials contrary to District
+                Attorney’s Office or County policy.
+
+
+          (c) “Sexual misconduct in connection with work” means any conduct constituting sexual
+                harassment       under Oregon         Administrative         Rule 839-005-0030            or any overt sexual
+                activity occurring in the workplace in which the employee is a willing participant.
+
+
+
+
+ Yamhill County Deputy District Attorneys Association and Yamhill County                                             Page 17 of 27
+ Collective Bargaining Agreement for 2023-2026
+          Employees        Charged         with Crimes.      If a DDA      is indicted or charged with            a felony or a
+          misdemeanor,            the County     may place the DDA on paid administrative                    leave while the
+          County conducts an investigation into the situation leading to the indictment or charges.
+          After completing           the    investigation,     if the     District Attorney    determines         that there     is
+          adequate evidence to support a potential disciplinary action, the County may place the
+          employee         on     unpaid      administrative      leave     pending    the    outcome       of     the    criminal
+          proceedings or it may discipline the employee consistent with the just cause provisions
+          of this Article.
+
+
+          Due Process Required Prior to Issuing Letter of Reprimand: Pre-Disciplinary Interview and
+          Notice.   Prior to issuing a letter of reprimand, the County shall discuss the infraction with
+          the employee.           Should any part of the interview involve potential criminal conduct, the
+          employee will be given one of the written Garrity warnings provided in a memorandum
+          to this Agreement before discussing the infraction with the employee.                             If in the course of
+          the discussion, the employee              believes formal discipline may result, the employee                       may
+          request and be granted               an Association      representative.       Following the discussion, the
+          County    will        determine     whether     to   proceed       with   formal    discipline.        If the    County
+          tentatively elects to issue a letter of reprimand, the County will so inform the employee.
+          The employee may then request the County delay issuing the letter of reprimand until the
+          employee prepares a rebuttal.              Upon such request, the County is obligated to refrain from
+          issuing the letter of reprimand for at least one working day or as mutually agreed.                              Atime
+          shall then be set by the County to receive the employee’s                           rebuttal for consideration
+          before the letter of reprimand is issued.                 An Association representative may be present
+          when the employee presents the rebuttal to the County.                         After considering the rebuttal,
+          the County will determine whether to issue the letter of reprimand.
+
+
+          Due Process Required Prior to Issuing Formal Discipline Other Than A Letter of Reprimand:
+Re
+
+     wo
+
+
+
+
+          Pre-Disciplinary Interview and Notice. In the event the County believes an employee has
+          engaged in conduct that may result in formal discipline other than a letter of reprimand,
+          the following due process will be provided:
+
+
+          (a) The employee and a member of the Association’s executive board, or designee, will
+              be given at least 24 hours advance written notice of intent to interview the employee
+              under investigation for formal disciplinary action.                     The interview will be termed the
+              “ore-disciplinary interview”. The notice will include the nature of the allegations or
+              sufficient information to determine the alleged misconduct, the approximate date of
+              the incident giving rise to the interview, and the employee’s                           right to request an
+              Association representative be present during the interview.                       If such a request is made,
+              it will not be unreasonably denied.
+
+
+
+ Yamhill County Deputy District Attorneys Association and Yamhill County                                         Page 18 of 27
+ Collective Bargaining Agreement  for 2023-2026
+         (b) Interviews will take place at a County facility, or elsewhere if mutually agreed, unless
+              an emergency exists which requires the interview to be conducted elsewhere.
+
+
+        (c) The County shall make a reasonable good faith effort to conduct a pre-disciplinary |
+              interview during the employee’s regular working hours, except for emergencies or
+              where interviews can be conducted by telephone.
+
+
+        (d) Employees may be compelled to answer all questions in the pre-disciplinary interview
+              that are reasonably related to the subject matter under investigation.                           The employee
+              may    be disciplined for refusing to answer such questions.                           Should any part of the
+              interview involve potential criminal conduct, the employee will be given one of the
+              written    “Garrity” warnings           provided      in     a memorandum        to this Agreement         before
+              interviewing     the      employee.         The     County       may   compel    the     employee      to answer
+              questions; however, any responses may not be used in any proceeding other than the
+              internal investigation unless the employee                       knowingly provides false statements or
+              information in response to the questions.
+
+
+        (e)   Interviews shall be conducted professionally without intimidation or abuse.
+
+
+        (f) The     employee         shall   be    entitled      to such       reasonable   intermissions      as reasonably
+              necessary.
+
+        (g) Allinterviews shall be limited in scope to activities, circumstances, events, conduct or
+              acts pertaining to the incident that is the subject of the investigation.                        Nothing in this
+              section shall prohibit the            Employer from questioning the employee about information
+              that is developed during the course of the interview.
+
+
+        (h) If the County or the Association tape records the interview, all participants will be so
+              notified   before       the    interview        begins.      A    complimentary        copy   of the    complete
+              interview of the employee shall be furnished, upon request, to either party.                                If the
+              interviewed employee                is subsequently disciplined and any part of any recording is
+              transcribed by the County, the employee shall be given a complimentary copy.
+
+
+ 3.6    Notice      of Possible       Formal       Discipline:     Requirement        for   Pre-Disciplinary      “Loudermill”
+        Meeting for Discipline Exceeding a Letter of Reprimand.
+
+
+        (a) Notice of Possible Formal Discipline.                       At the option of the County, the County may
+              propose a Notice of Possible               Formal         Discipline to resolve a disciplinary matter by
+              mutual agreement in lieu of the pre-disciplinary “Loudermill” meeting described in
+              subparagraph (c).
+
+Yamhill County Deputy District Attorneys Association and Yamhill County                                        Page 19 of 27
+Collective Bargaining Agreement for 2023-2026
+        (b) The Notice of Possible Discipline may be offered with or without a pre-disciplinary
+            interview.           A Notice of Possible Discipline will describe the facts, alleged misconduct
+            and proposed                discipline.    The employee                    may either accept or reject the proposed
+             discipline.          If the        proposed    discipline                is accepted,        discipline will     be    imposed       in
+            accordance with the notice.                     If the proposed discipline is rejected, the County may
+             proceed to give written notice of a disciplinary “Loudermill” meeting as described in
+            subparagraph (c).
+
+
+        (c) “Loudermill” meeting.                   Following the pre-disciplinary interview or Notice of Possible
+             Formal Discipline process described above, if the County elects to proceed with formal
+             discipline, the County will provide the employee and Association representative with
+             written Notice of Disciplinary Meeting.                              The notice will include the time and place of
+            the meeting,            a summary of the preliminary findings, the alleged misconduct, and a
+             range of the possible discipline. The parties will attempt to set the meeting by mutual
+             agreement.           At the meeting, the employee or the employee’s designee will be given
+            the opportunity to provide any explanation desired, including mitigating evidence or
+             circumstances.              At any time during or before the Loudermill                                  meeting, the County,
+             Association or affected employee may request a collaborative discussion as provided
+             in subparagraph (d) to attempt to resolve the issues leading to the possible discipline.
+            The        collaborative        discussion      will only take                 place     upon        mutual     agreement       of the
+             parties.
+
+
+        (d) The        parties     by      mutual     agreement             may          enter     into    the     collaborative      discussion
+             authorized by this section.                   The parties will set a time frame for completion of the
+             collaborative discussion. The purpose of this discussion is to provide either party the
+             opportunity to provide additional evidence, mitigating or aggravating circumstances
+             related to the potential discipline.                      The parties agree to maintain an informal setting
+             for the meeting.              Either party may record the meeting.                              The County may not decide
+             on the final discipline to be imposed until after such meeting.                                         The parties may agree
+             to alternative forms of discipline or other resolution as they deem appropriate.                                                Such
+             solutions         shall      not     constitute      a        precedent         for     other        disciplinary     cases.        The
+             collaborative discussion is subject to the following terms:
+
+
+                  i.    | While the collaborative discussions are taking place, all other contractual time
+                         frames in Article 14 shall be frozen.
+
+
+               ii.       The       County,          Association            or         affected      employee          may     terminate          the
+                         collaborative            discussions         at        any     point.       If collaborative         discussions        are
+                         terminated, the time frames in Article 14 resume.
+
+Yamhill County Deputy District Attorneys Association and Yamhill County                                                          Page 20 of 27
+Collective Bargaining Agreement  for 2023-2026
+                 iii.     Where a disciplinary action may result due to a conflict between bargaining
+                          unit   employees,   the   County   may   solicit the   assistance    of Association     in
+                          mediating the conflict as an alternative to imposing discipline.
+
+
+ 13.7       Imposition of Formal.Discipline.
+
+
+            (a) If the County determines that discipline is warranted, the County will issue written
+                Notice of Discipline to the affected employee.         The notice will include a summary of
+               the facts, the policy violations or misconduct determined to have occurred and an
+               explanation of the discipline imposed.
+
+
+            (b) The employee or Association representative, upon request, shall be furnished with a
+               copy of the reports of the investigation which shall contain all known material facts of
+               the matter, witness statements, tape recordings, and any other materials relied upon
+               to impose discipline. The employee shall also be given the names of all witnesses and
+               complainants who provided testimony against him or her and/or whose statements
+               may be used against him or her. These will be provided at no cost to the employee or
+               Association.
+
+
+            (c) When the County issues a letter of reprimand, reduction in pay, suspension without
+                pay or discharge, it must do so within 30 calendar days of the date of the completion
+               of the disciplinary investigation; otherwise the discipline will be disallowed.           A copy of
+               the      notice of discipline shall be given to the Association        and     affected   employee
+               immediately.
+
+
+            (d) In no event will an employee be discharged or suffer loss of pay due to disciplinary
+               action until the County has given at least three days (which                 may be extended       by
+                mutual consent of the parties) prior written notice to the employee and Association
+               of the alleged misconduct leading to the discipline.
+
+
+            Minimum       Monitoring   Requirements Following Formal        Discipline. In the event that the
+     \es)
+     foe}
+ay
+
+
+
+
+            County imposes formal discipline, the discipline will provide for two dates approximately
+            six months and one year in the future to review the progress the employee                    is making
+            resolving the issues for which discipline was imposed.          Nothing shall preclude meetings
+            on a more frequent basis if desired.      A brief summary of said meetings will be reduced to
+            writing by the County.      In the event that the County fails to meet the timeline set for the
+            meeting, the employee        or the Association shall have 30 days in which to request the
+            meeting.     In the event that the County fails to hold the meeting at the employee's request,
+            the letter of reprimand shall have no further force or effect. The employee shall be given
+
+ Yamhill County Deputy District Attorneys Association and Yamhill County                          Page 21 of 27
+ Collective Bargaining Agreement for 2023-2026
+        the opportunity to have an Association representative present at said meetings. Timelines
+        begin from imposition of discipline regardless of grievance filing.                                     .
+
+
+        Records.
+
+
+        (a) An employee       subject to discipline shall be given a copy of any disciplinary action
+             entered in his personnel records within five days of such action. Employees may place
+             statements of rebuttal or mitigation in their personnel files.
+
+
+        (b) Letters of reprimand shall be removed from the personnel file after 12 months, and
+             other formal disciplines after three years.         The letter of reprimand shall then go into
+             a confidential file, maintained by the County personnel officer and will be effective
+             for the disciplinary process only if the employee commits the same offense within the
+             next 24 months.
+
+
+        (c) The contents of the personnel file shall be limited to the employment                      application,
+             personnel    actions,    formal   disciplines,   periodic    evaluations,   or other     records   (i.e.,
+             certifications, releases of information, work-related training records) as required by
+             law or lawful purpose.
+
+
+13.10   General.
+
+
+        (a) The County and Association may mutually agree to extend any timelines of this Article.
+
+
+        (b) Lie Detector Tests:        No employee will be directly or indirectly compelled to provide
+             polygraph or voice stress tests in any disciplinary proceeding under Article 13.
+
+### ARTICLE 14 — GRIEVANCE PROCEDURE
+
+
+14.1    Dismissal or Suspension Disputes.            Disputes arising from dismissal or suspension of an
+        employee are subject to the grievance and arbitration procedure.
+
+
+14.2    Timeliness of Grievance.        Grievances are defined as alleged violations of this Agreement
+        and must be initiated within twenty-one (21) calendar days of the date the employee
+        knew or should have known of the occurrence.               Grievances filed in a timely manner shall
+        be processed according to Section 14.4 of this Article.
+
+
+14.3    Assignment of a Grievance Step.           Upon mutual agreement by the parties to a grievance,
+        when the nature of the grievance is such that it would be perfunctory or ineffectual to
+
+
+
+Yamhill County Deputy District Attorneys Association and Yamhill County                             Page 22 of 27
+Collective Bargaining Agreement for 2023-2026
+        proceed at a lower step, it may be initiated at the lowest step where successful solution
+        may be reasonably expected.
+
+
+14.4    Grievance Steps.      Employees are encouraged to resolve their problems informally at the
+        immediate      supervisor      level.    If such        a problem    cannot   be   resolved,    the   following
+        procedure shall be followed:
+
+
+        Step 1.Any     employee,       with     notice     to    the   Association;   or   the   Association,   on     an
+        employee's     behalf,   may     file a grievance         in writing with the      District Attorney within
+        twenty-one (21) calendar days from the date of the alleged breach of this Agreement as
+        defined in 14.2 above.         The District Attorney shall respond in writing to the grievance
+        within twenty-one (21) calendar days to the employee with a copy to the Association.
+
+
+        Step 2. If the grievance remains unresolved, it shall be appealed to the Board of County
+        Commissioners within seven (7) calendar days after the response required by Step 1 was
+        due.   The Board of County Commissioners or designated representative shall respond in
+        writing to the grievance within seven (7) calendar days after receipt of the grievance.
+
+
+14.5    Grievance Time Limits.         The intent of both parties is to process grievances at each step in
+        as short a period of time as is practical.               If a grievance is not advanced to the next step
+        within the applicable number of calendar days of a written decision, it shall be deemed
+        waived.
+
+
+14.6    Employee Assurance.         Employees shall be assured freedom from reprisal for use of the
+        grievance procedure.
+
+14.7    Employee Representation Rights.              Employees shall have the right to process grievances
+        with or without representation by the Association.                    An Association representative shall
+        have the right to be present to hear disposition of the grievance when the employee has
+        not requested the Association’s representation.
+
+
+14.8    Statement of Grievance.           All grievances shall be reduced to writing and shall include the
+        facts giving rise to the grievance, the remedy requested and the specific provisions of the
+        Agreement alleged to have been violated.
+
+
+14.9    Extensions of Time. Time limits specified in this procedure must be observed unless either
+        party requests a specific extension of time which, if agreed to, must be stipulated in
+        writing and shall become part of the grievance record.
+
+
+
+
+Yamhill County Deputy District Attorneys Association and Yamhill County                                Page 23 of 27
+Collective Bargaining Agreement for 2023-2026
+ 14.10             Arbitration of Grievances       Any grievance, having progressed through the steps outlined
+                   in this Article,    and   remaining   unresolved,    may   be submitted   by the   Association     to
+                   arbitration for resolution.    To be valid, the request for arbitration must be in writing and
+                   from the Association and received by the employer within thirty (30) calendar days after
+                   receipt of the Board of Commissioners’ response.
+
+
+ 14.11             Selection of Arbitrator.     Should a grievance rise to the level of arbitration, the County or
+                   the Association may request from the Employment Relations Board the names of seven
+                   (7) qualified arbitrators.     The Association      and the County will select an arbitrator by
+                   alternately striking names.      The order of striking names shall be determined by one (1)
+                   toss of the coin.    One (1) name at a time shall be struck until only one (1) name remains
+                   on the list. "The     name    remaining on the list shall be accepted     by the parties as the
+                   arbitrator and the arbitration hearing shall commence thereafter.
+
+
+ 14.12             Binding Arbitration.      The parties agree that the decision or award of the arbitrator shall
+                   be final and binding on each party and that they will abide thereby.         The arbitrator shall
+                   have   no authority to add to, subtract from, or change          any terms of this Agreement,
+                   change an existing wage rate, or establish       a new wage rate.
+
+
+ 14.13             Arbitration Fees and Expenses.         The arbitrator's fee and expenses shall be paid by the
+                   non-prevailing party. All other expenses shall be borne exclusively by the party requiring
+                   the service or item for which payment is to be made.
+
+
+
+### ARTICLE 15 — PROBATIONARY PERIOD
+
+
+                   Purpose.    The probationary period is an integral part of the employee selection process
+      (Sal
+RB
+
+             a
+
+
+
+
+                   and provides the County with the opportunity to upgrade and improve the quality of its
+                   service by observing a new employee's work, training and aiding new employees to adjust
+                   to their positions and by providing an opportunity to reject any employee whose work
+                   performance fails to meet required work standards.
+
+
+                   Duration.   Every new employee hired into the bargaining unit shall serve a probationary
+      (eal
+may
+
+             IND
+
+
+
+
+                   period of 6 full months. An employee’s initial probationary period may be extended up to
+                   6 additional months by mutual agreement of the Association and the County. In those
+                   situations where Association consent is required to extend a probationary period, such
+                   consent shall not be unreasonably denied.
+
+
+
+
+ Yamhill County Deputy District Attorneys Association and Yamhill County                              Page 24 of 27
+ Collective Bargaining Agreement for 2023-2026
+### ARTICLE 16 — SENIORITY AND LAYOFF
+
+
+        Seniority.     "Seniority" as used in this Article is determined by the length of an employee's
+        continuous service with the County since the employee's last date of hire. "Continuous
+        service”     means   the    period   of service with the County        unbroken    by separation      from
+        employment with the County.             Time spent by an employee on a paid leave or job-related
+        illness or injury shall be included as continuous service. Time spent on unpaid authorized
+        leave will not be counted as continuous service, but employees returning from unpaid
+        authorized leave and from layoff status shall be entitled to credit for service prior to the
+        leave or lay off.
+
+
+        Promotions.       Determinations of individuals to be promoted               within the bargaining unit
+        shall be based upon the skills and abilities of the employees involved.                 Where skills and
+        abilities of two or more employees are equal, the employee with the greater seniority will
+        be promoted.
+
+
+        Layoff.      In the event layoffs become      necessary, the layoffs shall be by inverse order of
+        seniority.
+
+
+        Recall.    Employees shall be recalled from layoff according to seniority in the classification
+        which is re-funded.         A laid-off employee       shall retain the right to recall for a period of
+        twelve (12) months from the date of layoff.             Laid-off employees shall be recalled only by
+        certified or registered mail, addressed to the employee's last address of record with the
+        County, and the employee shall have five (5) days following the first attempt at delivery
+        of such notification in which to inform the County of intent to return to work, and an
+        additional ten (10) days therefrom in which to report to work.
+
+
+
+
+### ARTICLE 17 — GENERAL PROVISIONS
+
+
+        The benefits provided         by this Agreement        shall be exclusive and shall be in lieu of all
+        economic       or related    benefits    heretofore    provided    by the    County.    Nothing    in this
+        Agreement, however, shall be construed to prohibit or limit the right of the County to
+        grant time off with pay for personal reasons, natural disasters, rescue work or property
+        damage, consistent with County's prior practice or orders.
+
+
+        Pay Days.      Employees      shall be paid   in accordance       with the   County’s   established      pay
+        periods.
+
+
+
+Yamhill County Deputy District Attorneys Association and Yamhill County                          Page 25 of 27
+Collective Bargaining Agreement for 2023-2026
+         Copies of Contract.       The County agrees to provide a copy of this Agreement to each
+         member of the Association and two copies to the Association upon ratification.               A copy
+        of this Agreement will be provided by the County to each newly hired member of the
+         bargaining unit.
+
+
+        Copy    Machine.     The   County agrees to allow the Association to use the County copy
+         machine at the same rate charged other non-County authorized users.
+
+
+
+### ARTICLE 18 — SAVINGS CLAUSE
+
+
+        Savings Clause.     Should any Article, Section, or portion thereof of this Agreement be held
+        unlawful and unenforceable by any court of competent jurisdiction, such decision of the
+        court shall apply only to the specific Article, Section or portion thereof directly specified
+        in the decision, or should any Article, Section or portion thereof of this Agreement be
+        unlawful, unenforceable, or made illegal through state or federal law, the parties agree
+        immediately to negotiate a substitute, if possible, for the invalidated Article, Section, or
+        portion thereof.                                            :
+
+
+### ARTICLE 19     - DURATION AND RATIFICATION
+
+
+Unless otherwise stated, this Agreement shall be effective July 1, 2023, or upon execution,
+whichever is later, to June 30, 2026. This Agreement shall remain in full force and effect during
+
+
+
+
+negotiations for a successor agreement.
+
+IN WITNESS WHEREOF, the parties hereto have set their hand this 14th day of August
+2023.
+
+
+FOR THE ASSOCIATION                                           FOR THE YAMHILL COUNTY
+
+
+
+
+Holly Winter, YCDDA President
+                                                                 Gap dy
+                                                              Brad Berry, District Atiomey
+
+
+Yamhill County Deputy District Attorneys Association and Yamhill County                      Page 26 of 27
+Collective Bargaining Agreement
+                          for 2023-2026
+                                                                        poster rserchaur)
+                                                               en                   OO) bh ho
+
+
+                                                               Kit Johnston,
+                                                                          Vice Chair     /   7                   j
+
+
+
+                                                               Mary Starrett, Commissioner
+
+
+
+
+                                                               Kefineth Huffer, Gounty, Administrator
+
+
+
+
+                                                      Accepted by Yamhill County
+                                                      Board of Commissioners on
+                                                      BANALO-S by Board Order
+                                                      #BO. 93-2350 _
+
+
+
+
+Yamhill County Deputy District   Attorneys Association and Yamhill County                        Page 27 of 27
+Collective Bargaining Agreement for 2023-2026
+### APPENDIX A
+
+YEAR ONE SALARY TABLE:
+
+                                                              DDAL
+       Step 1            Step 2           Step 3             Step 4                Step 5                Step 6           Step 7
+ $6,110.21/        $6,367.77/       $6,818.57/         $7,097.32/            $7,378.05/            $7,643.66/       $7,918.83/
+ $73,322.53        $76,413.20       $81,822.85         $85,167.88            $88,536.64            $91,723.96       $95,026.02
+
+
+
+                                                              DDA Il
+     Step1            Step 2           Step 3            Step 4              Step 5                  Step 6              Step 7
+$7,875.93/       $8,162.20/       $8,459.76        $8,764.32           $9,079.81            $9,439.91             $9,911.90
+$94,511.13       $97,946.39       $101,517.15      $105,171.82         $108,957.77          $113,278.91           $118,942.76
+
+
+
+                                                             DDA Ill
+      Step 1            Step 2            Step 3             Step 4               Step 5                 Step 6          Step 7
+$8,459.76         $8,764.32         $9,079.81          $9,439.91            $9,911.90              10,308.37/      $10,720.71/
+$101,517.15       $105,171.82       $108,957.77        $113,278.91          $118,942.76            $123,700.47     $128,648.48
+
+
+
+
+                                                                                                                                   ®.0.93.   aay
+YEAR ONE SALARIES:
+
+ NAME                          STEP                    SALARY
+ Bailey, Alexa        Current: DDA 1, Step 5    Current: $75,761.00
+                     Proposed: DDA 1, Step 4     Proposed: $85,167
+ Chao, Meuy          Current: DDA 2, Step 9    Current: $112,210.08
+                     Proposed: DDA 2, Step 7   Proposed: $118,942.76
+ Doerge, Arild        Current: DDA 2, Step 2    Current: $85,878.00
+                     Proposed: DDA 2, Step 1   Proposed: $94,511.13
+ Dolan, Michael      Current: DDA 2, Step 3     Current: $89,161.44
+                     Proposed: DDA 2, Step 1   Proposed: $94,511.13
+ Donner, Benjamin     Current: DDA 2, Step 5    Current: $95,770.80
+                     Proposed: DDA 2, Step 3   Proposed: $101,517.15
+ Enfield, Michelle   Current: DDA 2, Step 7     Current: $102,790.35
+                     Proposed: DDA 2, Step 5   Proposed: $108,957.77
+ Harmon, Stephanie   Current: DDA 2, Step 6      Current: $99,218.64
+                     Proposed: DDA 2, Step 4   Proposed: $105,171.82
+ Holderby, Caitlin    Current: DDA 1, Step 5     Current: $75,761.00
+                     Proposed: DDA 1, Step 3   Proposed: $81,822.85
+ Jones, Gregory      Current: DDA 2, Step 4      Current: $92,402.16
+                     Proposed: DDA 2, Step 2    Proposed: $97,946.39
+ Vogel, Sarah         Current: DDA 2, Step 5     Current: $95,770.80
+                     Proposed: DDA 2, Step 3   Proposed: $101,517.15
+ Winter, Holly       Current: DDA 2, Step 9     Current: $112,210.08
+                     Proposed: DDA 2, Step 7   Proposed: $118,942.76
+
+
+
+
+                                                                       BO   23-338
+

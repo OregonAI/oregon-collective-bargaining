@@ -92,7 +92,7 @@ employment of employees covered by the bargaining unit hereinafter described.
 
 The parties agree as follows :
 
-                                            ARTICLE 1
+### ARTICLE 1
 
                              SCOPE OF AGREEMENT AND RECOGNITION
 
@@ -172,7 +172,7 @@ shall be given to the Union .
                                                            IUOE, Local 701 Contract l'Jo. 2023-710
 
 
-                                              ARTICLE 2
+### ARTICLE 2
 
                           INDIVIDUAL RIGHTS AND UNION MEMBERSHIP
 
@@ -214,7 +214,7 @@ by the Union under this Article .
 
 
 
-                                              ARTICLE 3
+### ARTICLE 3
 
                                        MANAGEMENT RIGHTS
 
@@ -314,7 +314,7 @@ work by employees covered by this Agreement.
                                                          IUOE, Locc1I 701 Contra::t No . 2023-710
 
 
-                                            ARTICLE 5
+### ARTICLE 5
 
                                      STRIKES AND LOCKOUTS
 
@@ -335,7 +335,7 @@ the grievance provisions of this Agreement.
 5:03           There will be no lockout of employees in the unit by the County as a consequence
 of any dispute arising during the period of this Agreement .
 
-                                            ARTICLE 6
+### ARTICLE 6
 
                                     GRIEVANCE PROCEDURES
 
@@ -430,7 +430,7 @@ indicated in writing.
 6:05   No employee will be disciplined or discriminated against in any way because of the
 employee' s use of the grievance procedure.
 
-                                           ARTICLE 7
+### ARTICLE 7
 
                                     PROBATIONARY PERIOD
 
@@ -472,7 +472,7 @@ completion of probation, the employee shall receive written documentation from t
 Department Director that the employee's probationary status has ended within thirty (30) days
 of such completion .
 
-                                           ARTICLE 8
+### ARTICLE 8
 
                                   DISCIPLINE AND DISCHARGE
 
@@ -483,7 +483,7 @@ without full due process of the law.
 discipline any employee they shall impose such discipline in a manner that will not unduly
 embarrass or humiliate the employee before other employees or the public.
 
-                                           ARTICLE 9
+### ARTICLE 9
 
                                         HOURS OF WORK
 
@@ -594,7 +594,7 @@ Employees shall be entitled to a mid-morning and mid-afternoon break not to exce
 minutes each . Each of the two (2) breaks shall be taken at a time determined by the Division
 Manager.
 
-                                           ARTICLE 10
+### ARTICLE 10
 
                                             HOLIDAYS
 
@@ -683,7 +683,7 @@ occurring on Friday and Saturday; the first workday after the holiday shall be t
 holiday for holidays occurring on Sunday and Monday, unless approved otherwise by an
 employee's Supervisor.
 
-                                            ARTICLE 11
+### ARTICLE 11
 
                                             SICK LEAVE
 
@@ -758,7 +758,7 @@ substantially equivalent paid sick time benefits in compliance with the Oregon P
 time under OPST will be consistent with Deschutes County Administrative Policy HR-18 - Oregon
 Paid Sick Time.
 
-                                              ARTICLE 12
+### ARTICLE 12
 
                                               VACATIONS
 
@@ -822,7 +822,7 @@ substantially equivalent paid sick time benefits in compliance with the Oregon P
 time under OPST will be consistent with Deschutes County Administrative Policy HR-18 - Oregon
 Paid Sick Time .
 
-                                           ARTICLE 13
+### ARTICLE 13
 
 
 
@@ -904,7 +904,7 @@ seminars, briefing sessions, training programs, and other programs of similar na
 approved by the Department Director. One year's leave of absence with requested extensions
 for educational purposes may not be provided more than once in any three -year period .
 
-                                           ARTICLE 14
+### ARTICLE 14
 
                                         COMPENSATION
 
@@ -1132,7 +1132,7 @@ periods in which the employee is actively operating equipment as described in th
 will be paid in ½ shift increments. Assignments as described in this section are made at the sole
 discretion of management.
 
-                                            ARTICLE 15
+### ARTICLE 15
 
                                    LONGEVITY AND SENIORITY
 
@@ -1234,7 +1234,7 @@ employee for just cause, nor laying off of employees for reasons other than cont
 layoffs occur. If an employee is laid off without a thirty (30) day notice the employee will receive
 one (1) additional month of Health Insurance coverage.
 
-                                            ARTICLE 16
+### ARTICLE 16
 
                               HEALTH LAWS AND SAFETY MEASURES
 
@@ -1267,7 +1267,7 @@ termination.
 The County will, where feasible, provide protection from cold or hot weather on County
 Equipment . Such protection shall be suitable for the type of equipment involved .
 
-                                            ARTICLE 17
+### ARTICLE 17
 
                               HEALTH, WELFARE AND RETIREMENT
 
@@ -1372,7 +1372,7 @@ month waiting period and holds a position requiring that the employee works in e
 hours per year, the County shall make contributions to PERS in accordance with levels established
 for the employee's position .
 
-                                            ARTICLE 18
+### ARTICLE 18
 
                                       GENERAL PROVISIONS
 
@@ -1395,7 +1395,7 @@ The County agrees to furnish gloves, coveralls, vests, engineering equipment (ho
 plumb bobs, etc.) and other health related clothing or equipment as necessary to the work
 environment.
 
-                                            ARTICLE 19
+### ARTICLE 19
 
                                         SAVINGS CLAUSE
 
@@ -1417,7 +1417,7 @@ for the purpose of attempting to arrive at a mutually satisfactory replacement f
 provided, however, that the provision of Strikes/Lockout Article shall continue in full force and
 effect even though a satisfactory replacement is not achieved .
 
-                                           ARTICLE 20
+### ARTICLE 20
 
                                    TERM AND TERMINATION
 
@@ -1475,7 +1475,7 @@ Exhibit "A"
 SUBJECT: TIME MANAGEMENT - International Union of Operating Engineers. Local 701
 
 
-1.     PURPOSE
+### 1.     PURPOSE
 
        It is the purpose of the Deschutes County Time Management program to provide
        employees with a leave-with-pay program that is easily understood, responsive to
@@ -1490,7 +1490,7 @@ SUBJECT: TIME MANAGEMENT - International Union of Operating Engineers. Local 701
 
 
 
-2.     SCOPE
+### 2.     SCOPE
 
        This program is optional for all International Union of Operating Engineers; Local 701
        represented employees hired prior to the signing date of this contract. If an employee
@@ -1508,7 +1508,7 @@ SUBJECT: TIME MANAGEMENT - International Union of Operating Engineers. Local 701
        accordance with County policy will still receive such under the Time Management
        program .
 
-3.     LEAVE-WITH -PAY PROVISIONS
+### 3.     LEAVE-WITH -PAY PROVISIONS
 
                A.     All employees entering the Time Management program will be credited
                       with their existing vacation time balance.
@@ -1618,7 +1618,7 @@ D.   An employee may accumulate earned leave, including the previously
                    three years. This paragraph is not subject to any of the limitations
                    expressed in Section H of this policy.
 
-4.   PRIOR SICK LEAVE ACCUMULATION AND SICK LEAVE BANK
+### 4.   PRIOR SICK LEAVE ACCUMULATION AND SICK LEAVE BANK
 
 
 
@@ -1804,7 +1804,7 @@ Total divided by 12                                      1.7%
 
 
                                  Page 38
-                                MEMORANDUM OF UNDERSTANDING
+### MEMORANDUM OF UNDERSTANDING
                                              &,, and between
                                      DESCHUTES COUNTY, OREGON
                                                   And

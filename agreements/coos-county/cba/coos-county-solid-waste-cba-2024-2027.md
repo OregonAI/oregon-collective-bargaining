@@ -16,13 +16,12 @@ agency_registry_slugs: []
 source_url: https://co.coos.or.us/files/eaf81a903/solid%5Fwaste%5Fcba%5F2024-%5F2027.pdf
 source_format: pdf
 retrieved: '2026-08-02'
-source_sha256: e64b2527ebe0a94a302ced182593a58611652359f85900403d72bfe35fda0419
+source_sha256: 7e81cb415396e9169b1e54a73a1c3f64eca7a29f90bfb4f0ac369220d0c4dc6d
 snapshot_policy: hash-only
 status: current
-content_mode: summary
+content_mode: 'verbatim'
 text_source: ocr
-reproduction_basis: 'jointly-authored contract; summary + official link per the class determination
-  in corpus.yml schema.doc_types (verbatim: false)'
+reproduction_basis: 'public record of a public body (ORS 192.311-192.478); the employer publishes the executed agreement in full at source_url; a ratified agreement is an official act (Georgia v. Public.Resource.Org, 590 U.S. 255 (2020)) — mirrored in full per the class determination in corpus.yml schema.doc_types (verbatim: true)'
 conversion_notes: no text layer in the source PDF; text recovered by OCR. Two independent
   engines (tesseract (ocrmypdf) + paddleocr PP-OCRv6) agree on 98% of the word sequence and
   81% of the 427 figures, 98% dictionary-recognizable; 16 heading/letterhead token(s) lost
@@ -43,8 +42,8 @@ tags:
 - coos-county
 ---
 
-> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated
-> summary, not the agreement's official text. Verify against the official
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a non-authoritative
+> mirror of the agreement's text, not the official record. Verify against the official
 > source: <https://co.coos.or.us/files/eaf81a903/solid%5Fwaste%5Fcba%5F2024-%5F2027.pdf> (retrieved 2026-08-02).
 
 # Coos County — Solid Waste CBA 2024- 2027
@@ -56,10 +55,6 @@ Collective bargaining agreement between **Coos County** and **the signatory asso
 - Source document: 24 pages (PDF)
 - **The source is an image-only scan.** Its committed text is a machine reading corroborated by two independent OCR engines (98% word-sequence agreement — see conversion_notes). Dates and terms above come from that reading; statute citations are deliberately not extracted, because digits are where engines diverge.
 
-This corpus is **summary-first for agreements**: the contract's text is not
-reproduced here (see Curator notes), and nothing on this page states or
-paraphrases the agreement's terms. Read the agreement itself at the official
-source link above.
 
 ## Curator notes
 
@@ -77,3 +72,884 @@ Statutes and rules the document's text cites are recorded in frontmatter
 `relationships.references_external` (0 citation(s)) and resolve into
 `executive-regulatory-frameworks` as cites — this corpus asserts no
 `implements` edge anywhere.
+
+## Full text
+
+COLLECTIVE BARGAINING AGREEMENT
+
+
+
+
+             BETWEEN
+        COOS COUNTY
+SOLID WASTE DEPARTMENT
+
+
+
+
+  TEAMSTERS LOCAL #206
+
+
+
+
+     JULY 1, 2024 ~ JUNE 30, 2027
+                                                   TABLE OF CONTENTS
+
+
+PREAMBLE oo cscscsccssssessesccssssssseessenssesssessessssscsesssensesssenssssnsscessessessseasseusssnssseneasssssesnenessenesseenenaees i
+ARTICLE 1 - RECOGNITION uo. cccccessssseensssensesceeesesssesenesereneneesanssssensesensseeenssenensseseseessseee? 1
+ARTICLE 2 - MANAGEMENT RIGHTS occ tstestsceseeresestesseseessssssessssessnessrsnenseasananeneenes 1
+ARTICLE 3- UNION SECURITY AND CHECK OFF wo... ecsscccssseesssesseeeeeeneneerensessssessnerensnens 2
+ARTICLE 4 ~ SHOP STEWARDS 0... cccccessseseessseseresssssneenseeesenesaneasseaess                                                                            wid
+ARTICLE 5 ~ HOURS OF WORK...                                                                                                                                 w3
+ARTICLE 6 — HOLIDAYS oc                                              ecceccecseeesessstsasssassesesssssasssesssetssssesesssssnsesseseaseansensneseseenenseneesens 4
+ARTICLE 7 — SICK LEAVE o.o.ccscsescsesssssseessesenseensneersescssssassssseseneasasassesanssesensaesansscanasscaseessanenes 5
+ARTICLE 8 ~ VACATION... cccccssessssscscssessessssssensereessessasseesereessentecaserssasssesearasessensseseessenenses 6
+ARTICLE 9 ~ OTHER LEAVE .....cccsssssssesssssssesesesssescevesssssscanseeceneuseenaseenssseneseseneesssnrnsaenanseenenens 8
+ARTICLE 10 - HEALTH AND LIFE INSURANCE... cescsscssesssessesseseessesseseenseeereseassneseenees 11
+ARTICLE 11 — WAGES wo... ccccsseesssesesssesssansensnseseneaesenssseuseeseneasssacsneneravesseessaneersnnseseenesaneererees 12
+ARTICLE 12 — SENIORITY ...ccccsccsseesssessessssensessesesseessnsseaseasesseesasssessesssensesessaentaneeseenentanegs 14
+ARTICLE 13 — DISCIPLINE AND DISCHARGE ....ccscssccsssesesssesssssesseesseesseserseseeateeseneressanens 16
+ARTICLE 14- SETTLEMENT OF DISPUTES .....ccscecesssessesssesseeseresssssesssseseneeesentassensnssensaes 17
+ARTICLE 15 — SAVINGS CLAUSE... ccccessesscsenesvsnsseesssseeresssaresensesessseasensassetssessesassensees 19
+ARTICLE 16 - GENERAL PROVISIONS ...........                                                                                                              wa ld
+ARTICLE 17 - DURATION AND TERMINATION ...                                                               beeeeesneaseeaseatsensereenensseneeneneeeees 21
+EXHIBIT “A” — WAGE CLASSIFICATION AND LONGEVITY SCALE cesses                                                                                                   22
+                                              PREAMBLE
+
+This Agreement is entered into by Coos County, a political subdivision of the State of Oregon,
+hereinafter referred to as the County, and Teamster Local Number 206, hereinafter referred to as
+the Union.
+
+This document represents the full Agreement between the County and the Union. The purpose of
+this Agreement is to set forth those matters pertaining to rates of pay, hours of work, fringe
+benefits, and other matters pertaining to employment.
+
+
+
+
+### ARTICLE 1 —- RECOGNITION
+
+The County recognizes the Union as the sole and exclusive bargaining agent for the purpose of
+establishing salaries, wages, hours and other conditions of employment for all full time and part
+time employees in the County’s Solid Waste Department excluding guards, office clerical, and
+supervisory personnel as defined by the Employment Relations Board of the State of Oregon, and
+extra employees (part time working less than 600 hours per year).
+
+
+
+
+### ARTICLE 2 - MANAGEMENT RIGHTS
+
+It is recognized that, except as expressly provided in this agreement, the County           shall retain
+whatever rights and authority are necessary for it to operate and direct the affairs of the Department
+in all of its various aspects, including, but not limited to, the right to direct the working forces; to
+plan, direct and control all the operations and services of the Departments; to determine the
+methods, means, organizations and number of personnel by which such operations and services
+are to be conducted; to assign and transfer employees; to schedule working hours and to assign
+overtime; to hire, promote, demote, suspend, discipline, discharge or relieve employees due to lack
+of work or other reasons; to make and enforce rules and regulations; to change or eliminate existing
+practices, equipment or facilities; and to subcontract.
+
+
+
+
+Coos County and Teamsters Local 206 — Solid Waste                                                        I
+Collective Bargaining Agreement 2024 — 2027       -
+To the extent that management exercises any of its rights above which results in the closure, sale,
+or transfer of the Solid Waste Facility, the County agrees to the following:
+         1.   The County and the Union shall provide each other with any and all information as may
+              be required by PECBA.
+        2.    To the extent required        by PECBA,      bargain in good    faith over the effects of
+              managements decisions as provided under the expedited bargaining process under
+              PECBA (ORS 243.698),
+
+
+
+### ARTICLE 3- UNION SECURITY AND CHECK OFF
+
+Section 1.    No member of the bargaining unit shall be required to become or remain a member of
+the Union as a condition of employment. Each member shall have the right to freely join or decline
+to join the Union.       Each Union member          shall have the right to freely retain or discontinue
+membership.      No employee shall be discriminated against on account of membership or non-
+membership in the Union or Association.
+
+
+Section.2.     Union dues and initiation fees and any other existing payroll deductions shall be
+deducted from the wages of members in the bargaining unit when authorized as provided herein.
+
+
+Section 3.    Any authorization for payroll deductions may be made by a member of the bargaining
+unit upon written notice to the County and the Union prior to the 15" day of any month to be
+effective on the first day of the following month.          Any revocation to an authorization must be
+pursuant to the terms of the authorization.
+
+
+Section 4.     Upon receipt of authorization of payroll deductions from an employee within the
+bargaining unit, the County shall begin deducting Union dues and initiation fees and any other
+payroll deductions for the next pay period and shall continue to make the regular deductions. The
+aggregate deductions of all employees shall be remitted together with an itemized statement to the
+Secretary-Treasurer of the Union no later than the 15" of the month following the month for which
+
+
+
+
+Coos County and Teamsters Local 206 — Solid Waste                                                      2
+Collective Bargaining   Agreement 2024 — 2027       -
+the deductions were withheld.      The Union agrees to refund to the County any amount paid to it in
+error.
+Section 5, The County will notify the Union of all new hires in classifications in the bargaining
+unit within one week after their having been employed, furnishing the Union with the new
+employee’s name, social security number, mailing address and classification.
+
+
+Section 6. If the County acts in compliance with the provisions of this Article, the Union will
+indemnify, defend and hold the County harmless against any claims made and against any suit
+instituted against the County as a result of the County’s enforcement of this Article.
+
+
+
+
+### ARTICLE 4 —- SHOP STEWARDS
+
+The Union may designate stewards from among the employees.            The authority of the stewards
+shall be to investigate grievances and to transmit information to the Union and to the employees.
+Stewards have no authority to settle grievances, take strike action or call a work stoppage.
+Stewards shall not be deemed to be agents of the Union.      The Union shall notify the Solid Waste
+Management and County Personnel Officer of whom is designated as a steward.
+
+
+
+
+### ARTICLE 5 —- HOURS OF WORK
+
+Section 1. Application. This Article is intended to define the hours of work per day and per week
+in effect at the time of execution of this Agreement.
+
+
+Section 2. Work Week, Each full time employee’s normal work week shall consist of not more
+than five (5) consecutive days of work followed by two (2) days off.       The work week shall not
+exceed forty (40) hours.
+
+
+Section 3. Work Day. The normal work day for employees shall consist of not more than 8 hours
+of work each day.
+
+
+Coos County and Teamsters Local 206 ~ Solid Waste                                                     3
+Collective Bargaining Agreement 2024 — 2027       -
+All employees shall receive a minimum of a 30 minute unpaid lunch break.
+
+
+Section 4.   Work Schedules.       The shifts, work days and hours to which employees are assigned
+shall be posted monthly on the departmental bulletin board.         In the event of an emergency the
+County may depart from the normal work schedule as determined by the Solid Waste Management
+or their designee.   In addition, the Start/Quit times above may be changed at any time by mutual
+agreement between the affected parties.
+
+
+
+
+### ARTICLE 6 —- HOLIDAYS
+
+Section 1, Holidays. The following days shall be recognized and observed as paid holidays.
+                 New Year's Day                         Labor Day
+                 Martin Luther King Day                 Veteran's Day
+                 President's Day                        Thanksgiving Day
+                 Memorial Day                           Day before Christmas Day
+                 Christmas Day                          Independence Day
+                 Day after Thanksgiving Day
+
+
+In addition to the above listed holidays, effective after completion of 1 year of County service, two
+floating holidays shall be granted to each employee on July 1 of each fiscal year. One additional
+floating holiday effective after completion of 15 years of County service.       The floating holidays
+shall not be cumulative and shall not be paid to employees in addition to wages ifnot used; floating
+holidays not used by June 30 of the fiscal year in which they were granted shail extinguish
+automatically. The Solid Waste Management and employee shall schedule a mutually convenient
+time to take the floating holidays so as not to interrupt the efficient operation of the disposal site.
+
+
+Section 2, Holiday Pay. Regular full-time employees will be paid for eight (8) hours of holiday
+pay for each of the holidays listed in Section 1 at their regular rate of pay. In order to be eligible
+for holiday pay, an employee must work the scheduled day before and the scheduled day after such
+
+Coos County and Teamsters Lacal 206 - Solid Waste                                                         4
+Collective Bargaining Agreement 2024 — 2027         -
+holiday or be on approved leave, and have worked or been on paid leave no less than eighty (80)
+hours in the calendar month of the holiday. The employee shall be paid for holiday pay when on
+paid leave, provided that the employee returns to work at the end of such leave. Paid holidays for
+regular part time employees shall be prorated in such a manner that the holiday time given to part
+time employees will be proportional to holiday time given a full time employee for the month in
+which the holiday falls. In determining the amount of holiday pay to be received, full time
+employees will be considered to work 173.33 hours per month, and regular part time employees a
+fractional portion thereof.
+
+
+Section 3. Weekend Holidays. Ifa holiday shall fall on an employee’s scheduled day off, whenever
+possible, the nearest succeeding or preceding work day shall be observed as the holiday. If the
+County is unable to schedule the holiday in this manner, then it shall be observed on a day as
+determined by the County.
+
+
+Section 4. Holiday During Leave.        Should an employee be on authorized sick leave or vacation
+when a holiday occurs, the holiday shall not be charged against leave or vacation.
+
+
+Section 5. Holiday Work. If an employee works on a holiday listed above, he or she shall be paid
+or granted compensatory time;
+            (a)   For the first eight (8) hours worked, time and one half for all hours worked in
+                  addition to eight hours holiday pay;
+            (b) For all hours in excess of eight (8) hours worked, double time for all hours worked
+                  in addition to eight hours holiday pay.
+
+
+
+
+### ARTICLE 7 — SICK LEAVE
+
+
+Section 1, Accrual.    Employees shall accrue sick leave at the regular rates of pay, and at the rate
+of eight (8) hours per month. It is understood that sick leave is a benefit granted employees for use
+in the event of conditions covered in Section 3 of "Sick Leave" for employees or members of their
+families.   The employee shall accrue sick leave when on paid leave, provided that the employee
+
+Coos County and Teamsters Local 206 — Solid Waste                                                     5
+Collective Bargaining Agreement 2024 — 2027       -
+returns to work at the end of such leave. Sick leave shall be prorated for regular part time
+employees.
+
+
+Section 2, Maximum Accrual and Payment.               Employees may accumulate sick leave up to a
+maximum of 120 working days or 960 hours. No compensation for accrued sick leave shall be
+provided for any employee for any other purpose, except as provided herein.        Sick leave shall not
+be accrued during an unpaid leave of absence of more than two consecutive weeks.
+
+
+Section 3. Use of Sick Leave.         Sick leave may be used for any circumstance permitted under
+Oregon’s Sick Time Law.        The employee shall notify the Solid Waste Management no later than
+two (2) hours before his or her regular scheduled shift that he or she shall be using sick leave. The
+Solid Waste Management shall be notified at least forty-eight (48) hours in advance of scheduled
+medical and dental check-ups.        Additional medical verification and/or requirements may apply
+where the employee is subject to the provisions of the OFLA/FMLA.
+
+
+Section 4. Separation. Employees separated from employment for (other reasons than dismissals for
+cause), after satisfactorily completing six (6) months of employment shall be paid either 25% of
+their accrued sick leave with the remainder reported to PERS or have 100% of their accrued sick
+leave reported to PERS to be applied toward their retirement, at the option of the employee.
+
+
+Section 5. Definition of “Family Member of Employee.”           For the purpose of this Article, the term
+“Family Member of the employee” shall have the same meaning as set forth in Article 9, section 5
+of this agreement.
+
+### ARTICLE 8 - VACATION
+
+Section 1. Accrual of Vacation Time.         In order to be eligible for vacation accrual, an employee
+must have worked or been on paid leave no less than eighty (80) hours in the month. Vacation
+leave shall be credited according to the following schedule:
+
+
+
+
+Coos County and Teamsters Local 206 ~ Solid Waste                                                        6
+Collective Bargaining Agreement 2024 — 2027       -
+              (a)      Less than five (5) continuous full years’ service, eight (8) hours paid vacation
+                       leave for each month of service cumulative to a maximum of one hundred ninety-
+                       two (192) hours.
+              (b)      Five (5) continuous years, but less than ten (10) continuous years of service, ten
+                       (10) hours for each month of service cumulative to maximum of two-hundred
+                       forty (240) hours.
+              (c)      Ten (10) continuous years, but less than fifteen (15) continuous years of service,
+                       twelve (12) hours for each month of service cumulative to a maximum of two-
+                       hundred eighty-cight (288) hours.
+              (d)      Fifteen   (15)   or more   continuous   years’   service,   but less than twenty   (20)
+                       continuous years of service, fourteen (14) hours for each month of service,
+                       cumulative to a maximum of three hundred thirty-six (336) hours.
+              (e)      (e)   Twenty (20) continuous years or more, sixteen (16) hours paid vacation
+                       leave for each month of service, cumulative to a maximum             of three hundred
+                       eighty-four (384) hours.
+              (f)      Employees shall not accumulate vacation in excess of the amounts indicated in
+                       paragraphs a, b, c, d and e.
+
+
+Employee's      are eligible for vacation after six (6) months             of initial employment    with the
+department.         Employees shall be compensated for accrued vacation leave at their regular rates of
+pay, including shift differentials for their regularly scheduled days.
+
+
+Section 2. Part Time Employees.             Regular part time employees shall accumulate vacation leave on
+a prorata basis.
+
+
+Section 3. Vacation Scheduling.             Employees shall take vacation leave at the time scheduled, and
+may request specific vacation periods.            Such vacation schedules may be amended by the County
+to meet work emergencies as determined by the Solid Waste Management or their designee.
+
+
+Section 4. Accumulation of Vacation Time.               County employees may accumulate a maximum of
+vacation leave up to twice their annual accrual rate. Employees who might lose accumulated leave
+
+Coos County and Teamsters Local 206 ~ Solid Waste                                                                7
+Collective Bargaining Agreement 2024 ~ 2027       -
+because of accrual limitations may request to take vacation time to prevent loss of such earned
+credits.    Earned and unused vacation time exceeding the maximum allowed shall be forfeited
+except that vacation time exceeding the maximum amount to be accrued shall not be forfeited
+whenever, as a result of a requirement of the Solid Waste Management, such time cannot be taken.
+
+In such cases, those employees over their maximum           accrual shall have six (6) months to take
+vacation.
+
+
+Section 5. Leave of Absence.      Employees shall not accrue vacation credits during an unpaid leave
+of absence of more than two (2) consecutive weeks.
+
+
+Section 6. Required Vacation,      County employees shall be required to take vacation leave at the
+annual minimum rate of five (5) working days.           Employees shall have the option of choosing
+between consecutive or split vacation periods.
+
+
+Section 7, Termination.      Employees separated from County employment who have served the
+required six (6) months shall be entitled to cash compensation for accrued vacation leave.
+Employees leaving County service during the initial six (6) months of their employment shall not
+be entitled to any compensation for accrued vacation leave.
+
+
+In case of death, compensation for accrued vacation leave shall be paid in the same manner that
+salary due to the decedent is paid.
+
+
+
+
+### ARTICLE 9 - OTHER LEAVE
+
+Section 1. Leave of Absence. After an employee has exhausted all accrued paid leaves, a leave of
+absence without pay for a limited period not to exceed six (6) months may be granted by the Solid
+Waste Management or the Board of Commissioners.             Such leaves shall not be approved for any
+employee who      is accepting other employment,        except as otherwise provided in this article.
+Employees on an unpaid leave of absence for over two (2) weeks may retain health, life and benefit
+insurance coverage by paying the cost of the monthly premium. Such payments shall be received
+
+
+Coos County and Teamsters Local 206 — Solid Waste                                                     8
+Collective Bargaining Agreement 2024 — 2027         -
+by the Accounting Department by the 20th of the month prior to the month for which the
+employees desired coverage or the employees coverage shall be canceled.
+
+
+Section 2,   Jury Duty: Miscellaneous Duties.           An employee shall be granted a leave of absence
+with pay for:
+
+             (a)   Service on one (1) jury term in any consecutive twenty-four (24) calendar month
+                   period, provided that the salary paid to the employee for the period of absence
+                   shall be reduced by the amount of money received as statutory juror's fees, not
+                   including amounts received as expenses which are authorized by statute. For any
+                   period during the term of the jury when the Employee has been excused by the
+                   court from service as a juror, the Employee wil! report immediately to his or her
+                   immediate supervisor and shall be considered available for working during that
+                   period.
+             (b)   Attendance in court in connection with an employee's officially assigned duties,
+                   including the time going to the court and returning to his headquarters; provided
+                   that the salary   paid to him        shall be reduced   by   an amount   equal   to any
+                   compensation he may receive as statutory or expert witness fees not including
+                   amounts received as expenses which are authorized by statute.
+
+             ©)    Other authorized duties in connection with County business.
+
+             @)    Regular salary shall be allowed to those employees who are unable to report for
+                   their regular duties because of natural disasters beyond their control; or because
+                   they are needed to work for the safety of their family or to prevent property
+                   damage; or to help with rescue work to save life and property; said policy to be
+                   effective only when the Board of County Commissioners has determined that an
+                   actual emergency exists, and upon approval of the employee’s department head.
+
+
+Section 3. Military Leave. Military leave shall be granted as required by Oregon Revised Statutes
+and federal law.
+
+
+
+
+Coos County and Teamsters Local 206 — Solid Waste                                                            9
+Collective Bargaining Agreement 2024 - 2027         -
+Section 4.   Other Paid Leaves.       National Guard, Peace Corps, other applicable armed services
+leave, and VISTA leave shall be granted in accordance with Oregon Revised Statutes and federal
+law.
+
+
+Section 5. Bereavement Leave. In the event of a death of'a family member in his or her immediate
+family, an employee shall be entitled to up to three (3) paid working days for bereavement leave.
+The leave may be extended up to five (5) total days if the death occurs outside the State and the
+employee does in fact travel outside the State of Oregon to attend the funeral. It shall be the duty
+of the employee to notify the Solid Waste Management of a pending absence and its approximate
+duration. If other leave is used to supplement the leave authorized by this Section, the Solid Waste
+Management shall be informed. For the purpose of this Section, an employee’s immediate family
+means   husband,   wife,   same-sex   domestic    partner,   son, daughter,   mother,(whether   biological,
+
+adoptive or foster), father, brother, sister, brother-in-law, sister-in-law, daughter-in-law, son-in-
+law, father-in-law, mother-in-law, grandparent, grandchild, uncle, aunt, nephew, niece, stepparent
+or stepchild of the individual, unless otherwise provided by law. Paid sick leave may also be used
+for bereavement leave. Unpaid bereavement leave under OFLA may also be used if taken within
+sixty (60) days of notice to the employee of the death of the family member. The Solid Waste
+Management retains discretion to extend bereavement leave for an additional period of time or for
+individuals outside the employee’s immediate family as defined herein.
+
+
+Section 6. Family Medical Leave. Family Medical leave of absence shall be as required by relevant
+State and Federal statutes and County Personnel Policies and Procedures. An employee must use
+accrued sick, vacation and compensatory time during such leave consistent with the County
+Personnel Policies and Procedures, except that an employee shall only be required to use all but
+40 hours of vacation time during such leave.          Leave in excess of that allowed by statute may be
+granted by the County in its discretion.
+
+
+
+
+Coos County and Teamsters Local 206 — Solid Waste                                                        10
+Collective Bargaining Agreement 2024 ~ 2027       -
+### ARTICLE 10 - HEALTH AND LIFE INSURANCE
+
+Section 1. Health Insurance.
+The County     will contribute as indicated below toward the cost of the following medical, dental
+and vision Insurance coverage:
+
+
+                         1. Medical -Teamsters (OTET) G/W or F/W Plan (Union’s choice)
+                         2. Dental - Teamsters (OTET) D-6 Plan
+                         3. Vision - Teamsters (OTET) V-4 Plan
+                         4. Retirement - Teamsters (OTET) R-3 Plan
+
+
+Effective July 1, 2024, the County’s contribution towards medical, dental and vision insurance
+will not exceed $1,700 per month.         The individual employee contribution shall be any additional
+costs in excess of $1,700    per month.
+
+
+Effective for January 1, 2025 and any year thereafter covered by this Agreement, the County shall
+pay one hundred percent (100%) of the health, vision and dental insurance monthly premium for all
+eligible employees.
+
+
+The individual employee shall be responsible for paying any additional costs over the above stated
+County contributions.     The County is hereby authorized to advance such sum(s) for the express
+purpose of premium payment and then to make automatic payroll deductions from the earnings of
+any and all covered employees for reimbursement to the County of any such advances.
+
+
+Section 2. Eligibility. All regular full-time and regular part-time employees who are on paid status
+for eighty (80) or more hours per month shall be eligible for health insurance the first day of the
+month following the first month in which the employee was on paid status for eighty (80) hours or
+more. For the purpose of this agreement, “paid status” includes hours worked (excluding overtime)
+and hours the employee was away from work on approved paid leave.
+
+
+
+
+Coos County and Teamsters Local 206 -~ Solid Waste                                                   il
+Collective Bargaining Agreement 2024 ~ 2027          -
+Section 3. Continued Coverage.       The County shall maintain insurance to cover employees in the
+bargaining unit for long term disabilities which have occurred on or off the job. Such insurance
+shall supplement     Workers'   Compensation      or Social   Security   for a period of five (5) years
+beginning after the first six (6) months of disability at a rate of sixty (60%) percent of base monthly
+pay.
+### ARTICLE 11 - WAGES
+
+Section 1. Wages. Wages for all classifications shall be increased each year by 7% on July 1,
+2024, 3% on July 1, 2025, and 3% on July 1, 2026. The County shall pick up the six percent
+(6%) employee contribution to PERS or OPSRP whichever is appropriate.
+
+
+Section 2. Pay Periods.      Salaries and wages of employees         shall be paid on a monthly basis.
+Paychecks will be issued by the 30" day of the month worked.             In the event that the 30th day of
+the month worked shall fall on a Saturday or a Sunday the preceding Friday shall be payday.
+Should the 30th day of the month worked fall on a holiday, the preceding work day shall be payday.
+Failure to receive pay on the designated day for any reason beyond the control of the County shall
+not constitute a breach of this Agreement.
+
+
+Employees shall be notified of the reason for any delay in the designated payday.              The above
+provisions may be changed should the County elect to purchase or otherwise adopt a different
+payroll plan, whether from a private company or other public body including itself, but the
+employees shall not be paid less than monthly.
+
+
+For the purpose of wages and accrued benefits, the date of accrual shall be the first day of the
+month for employees hired between the first and the fourteenth day of the month, and the first day
+of the following month for those employees hired between the fifteenth and the thirty-first day of
+the month.
+
+
+Section 3. Cal] Back Time.        Any employee called back to work on any day other than their
+regularly scheduled work day shall be paid for a minimum of two (2) hours at the rate of one and
+one-half (1-1/2) times their regular rate of pay. Any employee who has been off duty, and is called
+
+Coos County and Teamsters Local 206 — Solid Waste                                                       12
+Collective Bargaining Agreement 2024 — 2027       -
+back to work outside their regular work shift shall be paid for a minimum of two (2) hours at the
+rate of one and one-half (1-1/2) times their normal rate of pay.
+
+
+Section 4, Reporting Time. Any employee who is regularly scheduled to work, and is not notified
+two (2) hours before the shift starts that there is no work that shift, who presents himself for work
+as regularly scheduled but where work is not available for him and is excused from duty shall be
+paid for a maximum of four (4) hours straight time pay.
+
+
+Section 5. Overtime. Employees covered by this Agreement shall be paid one and one-half (1 4)
+times their regular straight time hourly rate for all authorized hours of work in excess of (a) forty
+(40) hours in any work week or (b) the employee's regular scheduled shift. The employee's regular
+scheduled shift shall be at straight time. The employee must have worked their full regular shift
+to receive time and one-half for excess hours worked.        Overtime shall be calculated in fifteen
+minute increments.      Overtime shall be distributed as equally as possible throughout the calendar
+year among qualified employees as determined by the Solid Waste Management.
+
+
+All employees may be given the option of taking compensatory time off in lieu of pay for overtime
+worked at the discretion of management.        Compensatory time shall be accumulated at the rate of
+one and one half (1 % ) hours for all hours worked, not to exceed 100 hours.
+
+
+Section 6. Mileage Pay. Employees using their own vehicle in the performance of County business
+shall be reimbursed pursuant to the County Personnel Policies as directed and authorized by the
+Solid Waste Management.
+
+
+Section 7. Longevity.     Employees who have worked five (5) years on a continuous and full time
+basis for the Solid Waste Department shall receive at the beginning of their 6th year of full time
+employment a three percent (3%) increase on their base hourly rate. Employees maintaining ten
+(10) years of full time employment with the Solid Waste Department shall receive an additional
+three percent (3%) on their base hourly rate for recognition of their years of service for a total of
+six percent (6%) on their base hourly rate. Employees maintaining twenty (20) years of full time
+employment with the Solid Waste Department shall receive an additional three percent (3%) on
+
+Coos County and Teamsters Local 206 — Solid Waste                                                   13
+Collective Bargaining Agreement 2024 ~ 2027         -
+their base hourly rate for recognition of their years of service for a total of nine percent (9%) on
+their base hourly rate.    Employees maintaining twenty five (25) years of full time employment
+with the Solid Waste Department shall receive an additional three percent (3%) on their base
+hourly    rate for recognition of their years of service for a total of twelve percent (12%) on their
+base hourly rate.
+
+
+Section 8. Lay Off, Employee's separated from County employment due to layoff shall be placed
+on a layoff list by seniority for twelve months..
+
+
+Section 9. PERS.      The County shall continue to participate in the Oregon Public Employees
+Retirement System.
+
+
+Section 10. Merit Step Increases.        Annually, all members will have the opportunity for a merit-
+step increase on the member’s anniversary date. Merit step increases are conditioned on a
+satisfactory performance review, which is defined as an overall performance rating of average or
+above, Any merit-step increase that is denied will be subject to Article 14, Settlement of Disputes.
+If the member is not provided a performance review by the end of the month of their anniversary
+date, the member      will automatically      receive    a merit-step   increase.   Supervisors   will notify
+employees    of any     unsatisfactory    work      performance   that would jeopardize       a satisfactory
+performance evaluation prior to any performance evaluation. The notice will provide specific
+examples of unsatisfactory performance and will advise the employee of the specific corrective
+measures that will allow for a satisfactory evaluation and provide time and resources to allow the
+employee an opportunity to accomplish the required corrective measures. Performance evaluations
+shall be based on an objective, consistent and verifiable system to ensure compliance with the
+Oregon Pay Equity Law.
+
+
+### ARTICLE 12 - SENIORITY
+
+Section   1. Definition.    Seniority is defined as the employee's           length of service within the
+Department and it shall be computed from the time of his most recent date of hire.
+
+
+
+Coos County and Teamsters Local 206 — Solid Waste                                                          14
+Collective Bargaining Agreement 2024 — 2027         -
+Section 2. Probationary Employee.        An employee is probationary for his or her first twelve (12)
+months within the bargaining unit. This probationary period may be extended by mutual written
+agreement between the Union and the County for one additional six month period. A probationary
+employee has no seniority right and may be discharged at will.         A probationary employee shall
+never be transferred, promoted, retained during work force reductions, restored to service or be
+given preference in any manner over a non-probationary employee.
+
+
+Section 3. Seniority List. A seniority list shall be prepared by the County each twelve (12) months,
+posted on the bulletin board, and a copy mailed to the Union.
+
+
+Section 4. Application.    Seniority shall prevail in the reduction and restoration of the work force,
+provided the senior employee is capable of performing the work. Seniority and qualifications shall
+prevail in shift preference and vacation time preference.      Where reduction and restoration of the
+work force are not an issue, or when there is no job opening or vacancy, an employee may not
+bump into a position held by a less senior employee.
+
+
+Section 5. Loss of Seniority.        An employee shall lose seniority       for the following reasons:
+Discharge; resignation; absence in excess of one (1) year due to illness or injury that does not arise
+in the course of employment; layoff for twelve (12) months or longer; failure to return from an
+unpaid leave of absence on the first day following expiration of such leave.
+
+
+Section 6. Job Openings and Vacancies.        In the event of a job opening or vacancy, employees shall
+be given the opportunity to fill the job in order of their seniority and qualification. All openings
+shall be posted for a minimum of three (3) calendar days and shall state a closing date and time.
+Employees who desire the posted job must bid for it on forms supplied by the County on or before
+the closing date and time.     Successful bidders shall have 30 days to demonstrate their ability to
+perform the work of the new position.         If either the County or the employee determines that the
+successful bidder is not suitable for the bid position, the employee shall be returned to his/her
+former position without loss of seniority or benefit.      During the thirty (30) day trial period, the
+County has the right to use extra help to fill the position vacated by the sucessful bidder with no
+recourse from the Union.
+
+Coos County and Teamsters Local 206 — Solid Waste                                                    15
+Collective Bargaining Agreement 2024 — 2027         -
+Section 7. Retentions of Seniority. An employee transferred out of the bargaining unit shall retain,
+but not accumulate, seniority and may return to the bargaining unit upon request and with the
+approval of management.
+
+
+Section 8. Rehires. In the event of restoration of the work force, an employee will be notified of
+the open position by certified mail, return receipt, sent to the last address given by the employee
+to the County Human Resources Office. The employee will have fifteen (15) calendar days from
+postmark date of such notice to notify the Human Resources Office of his/her intention to return
+to work. Failure to respond timely shall be considered as immediate voluntary termination. If the
+employee notifies the County of his/her intention to return within the time limits specified above,
+the employee will then have not more than 10 calendar days to report to work. Failure to report to
+work within the 10 day period shall also be considered as immediate voluntary termination.
+
+
+
+
+### ARTICLE 13 - DISCIPLINE AND DISCHARGE
+
+
+Section 1,    Non-probationary employees covered under this Agreement shall be disciplined
+pursuant to adopted County Personnel Policies.        Probationary employees may be discharged or
+disciplined with or without cause.
+
+
+Section 2.    The County shall notify the Union in writing of any discharge, or suspension, or
+warning notice issued to an employee covered by this Agreement within ten (10) working days of
+its occurrence,
+
+
+
+Section 3. The County shall, upon written request of an employee, remove any documentation of
+a written reprimand imposed more than three years prior to the request from his personnel file,
+unless the employee has been disciplined for the same thing or comparable conduct during such
+period.
+
+
+
+
+Coos County and Teamsters Local 206 — Solid Waste                                                 16
+Collective Bargaining Agreement 2024 ~ 2027       -
+### ARTICLE 14- SETTLEMENT OF DISPUTES
+
+Section 1. Grievance Procedure.         To promote better relations, the parties agree to settle any
+disputes as to the meaning or interpretation of this Agreement by the following procedure:
+
+
+Section 2. Manner of Resolving Disputes.
+        STEP1. The employee or his representative may take up the grievance or dispute with the
+        Solid Waste Management within ten (10) working days of its occurrence. The Solid Waste
+        Management      and the employee or his/her Union representative (or steward in non-
+        disciplinary disputes) shall then attempt to settle the matter informally within five 6)
+        working days from the initial notice.
+
+
+        STEP 2. If the grievance or dispute cannot be settled informally as provided in Step 1 it
+        shall be submitted in writing to the Solid Waste Management and the Human Resources
+        within five (5) working days. The Solid Waste Management has ten (10) working days to
+        respond to the grievance or dispute.
+
+
+        STEP3. If the grievance or dispute has not been settled within the ten (10) days as provided
+        in Step 2, the employee or Union Representative shall submit the grievance in writing
+        within five (5) working days, to the Board of Commissioners with a copy to the Human
+        Resources.   The written grievance shall include: 1. A detailed statement of the grievance
+        and all relevant facts, 2. The specific provisions of the contract violated, and 3. Remedies
+        sought.   The Board of Commissioners shall have twenty (20) working days to informally
+        settle the grievance or set a hearing date. The Board of Commissioners shall have five (5)
+        working days to submit their decision in writing after the informal settlement or hearing.
+
+
+        STEP 4. If the grievance has not been settled at Step 3, either party may, within ten (10)
+        working days after service of a written decision by the Board of Commissioners, submit
+        the grievance to binding arbitration.
+
+
+
+
+Coos County and Teamsters Local 206 ~ Solid Waste                                                    17
+Collective Bargaining Agreement 2024 — 2027       -
+        STEP5. Arbitration. If the Union and the County cannot agree on an arbitrator within ten
+        (10) days of submission of the grievance to binding arbitration, the parties shall select an
+        arbitrator from a list of seven (7) Oregon and/or Washington arbitrators sent by the
+        Employment Relations Board. The parties shall select an arbitrator by mutual agreement
+        or, if unable to agree, by flipping a coin to determine who strikes the first name, and
+        alternately striking a name until one remains which shall be the arbitrator.
+
+
+The arbitrator's decision shall be final and binding, but he shall have no power to alter, modify, to
+add or detract from the terms of this Agreement. His decision shall be within the scope and terms
+of this Agreement and he shall submit it within thirty (30) days from the close of the hearing.
+
+
+Arbitrators fees shall be split one half (1/2) to each party.   Each party shall be responsible for
+compensating its own representatives and witnesses in arbitration,        If either desires a verbatim
+record of the proceedings, it may cause such a record to be made; providing, however, that it pays
+for the record and makes copies available without charge to the other party and to the arbitrator.
+For the purpose of this section,       a working day shall be defined as Monday        through Friday,
+excluding holidays, between the hours of 8:00 a.m. and 5:00 p.m.
+
+
+Any time limit specified in this Article may be extended by mutual agreement of the employee or
+Union and the County.      Otherwise, a party subject to these procedures shall be bound to the time
+limits contained herein.
+
+
+Jn the event of a grievance concerning a disciplinary issue, an individual who does not wish the
+Union to pursue a grievance may notify the Union in writing at any time.       An employee remains
+
+free to consult with a Union representative at any point during the disciplinary process.          An
+employee’s exercise of the right to not pursue a grievance shall not constitute a precedent with
+regard to the substance of the discipline and/or grievance in question.
+
+
+An individual employee or group of employees at any time consistent with the time limits herein
+may present grievances to the Solid Waste Management or Board of Commissioners, without the
+intervention of the Union, if:
+
+Coos County and Teamsters Local 206 ~ Solid Waste                                                    18
+Collective Bargaining Agreement 2024 ~ 2027         -
+            (a)   The adjustment is not inconsistent with the terms of the current labor agreement;
+                  and
+            (b)   The Union has been given opportunity to be present at the adjustment.
+
+
+
+
+### ARTICLE 15 - SAVINGS CLAUSE
+
+Should any article, section or portion thereof of this Agreement be held unlawful or unenforceable
+by any court of competent jurisdiction or any administrative agency of the State of Oregon having
+jurisdiction over the subject matter, such decision shall apply only to the specific article, section
+or portion thereof directly specified in the decision. Unless the decision is appealed by either party,
+the parties agree immediately to negotiate a substitute, if possible, for the invalidated article,
+section, or portion thereof. All other portions of this Agreement, and the Agreement as a whole,
+shall continue without interruption except those remaining provisions which are so essential and
+inseparably connected with and dependent upon the unlawful or unenforceable part that it is
+apparent that such remaining provisions would not have been agreed to without such other parts
+and the remaining provisions which, standing alone, are incomplete and incapable of being
+executed in accordance with the intent of this Agreement.
+
+
+                             ARTICLE 16 ~- GENERAL PROVISIONS
+
+Section 1. No Discrimination.         The County and the Union agree that equal opportunity in
+employment, promotion and all other employer-employee relationships is the rule. Nothing in this
+contract is meant to hinder or in any way inhibit an equal opportunity or affirmative action program
+that may be adopted.      Further, the provisions of this Agreement shall be applied equally to all
+employees in the bargaining unit without discrimination as to age, sex, marital status, race, color,
+creed, national origin, religion, political affiliation, membership or non membership in the Union,
+sexual orientation or other protected class as defined by applicable state and/or federal law.
+It is specifically and expressly understood and agreed that taking a grievance to arbitration
+constitutes an election of remedies by the employee, and that by doing so, the employee expressly
+
+
+
+Coos County and Teamsters Local 206 — Solid Waste                                                    19
+Collective Bargaining Agreement 2024 ~ 2027       -
+waives his or her independent right to pursue a remedy in any other forum including before the
+courts, Bureau of Labor and Industries or the Equal Employment Opportunity Commission. All
+references in the Agreement to employees designate both sexes, and wherever the male gender is
+used it shall be construed to include male and female employees.
+
+
+Section 2. The County shall give up to one (1) Union Steward of the bargaining unit time off with
+pay to participate in scheduled negotiations with the County when the Agreement is open.             The
+Union Stewards shall not be entitled to overtime while participating in the scheduled negotiations.
+
+
+Section 3. Visits by Union Representatives.           The County agrees that Union representatives shall
+have reasonable access to the premises of the County to conduct the Union business.               Union
+representatives shall first report their presence to the Director of the Solid Waste Department.
+Such visits shall not interfere with the normal operation of the Solid Waste Department.
+
+
+Section 4. Tools and Uniforms. Working tools, equipment and protective clothing required by the
+County in the performance of the job shall be furnished by the County except for safety boots, The
+County will reimburse each employee required to wear safety boots up to $300.00 each fiscal year
+upon presentation of receipt for approved safety boots (or other safety equipment approved by the
+Director) from the employee.      The reimbursement shall be made on the next voucher cycle. The
+County shall not be responsible for articles damaged or lost as a result of the employee's negligence
+or abuse.
+
+
+Section 5, Dumping Privileges. Employees may continue to dump personal household garbage at
+no charge per past practice. However, in accordance with ORS 244.040, the value of this benefit
+will be reflected on the employee's W-2 for income tax purposes.
+
+
+Section 6. Health and Safety.       The County agrees to maintain a safe and healthful workplace
+consistent with State and Federal laws.       The County also agrees to maintain a safety committee
+within the Solid Waste Department that complies with State and Federal regulations.
+
+
+
+
+Coos County and Teamsters Local 206 — Solid Waste                                                     20
+Collective Bargaining Agreement 2024 — 2027       -
+Section 7. Lead Worker Premium Pay. A lead worker is an employee who, in addition to his/her
+regular duties, has been assigned in writing by his/her supervisor of the requirement to perform
+substantially all of the duties of a lead worker for one (1) complete day or more.   Such duties
+include, but are not necessarily limited to: 1) new employee orientation; 2) assignment and
+reassignment of tasks necessary to accomplish work efficiently; 3) providing direction to
+workers concerning work practices; 4) training employees; 5) review and evaluation of work of
+employees for conformance to standards; 6) providing assessments of employee performance to
+supervisors; 7) other duties as may be assigned.      Assignment of Lead Worker responsibilities
+shall be made in the sole discretion of the County and may be removed at any time. Employees
+assigned lead worker responsibilities above shall receive an additional five percent (5%) added
+to their base wage during the period of assignment.
+
+Employees at their discretion may decline lead worker assignments.
+
+
+### ARTICLE 17 - DURATION AND TERMINATION
+
+
+This Agreement shall be in full force and effect from July 1, 2024 to and including June 30, 2027
+and shall continue in full force and effect from year to year thereafter, unless notice of desire to
+amend or terminate the Agreement is served by either party upon the other at least sixty (60) days
+prior to date of expiration.         Such notification   shall include proposed   language for such
+modifications.
+
+
+SIGNED-FOR THE COUNTY                                           SIGNED FOR THE UNION
+
+
+
+
+Date:   10 [colrerg                                           Date:   lof24/ 2624
+
+
+Coos County and Teamsters Local 206 ~ Solid Waste                                                  21
+Collective Bargaining Agreement 2024 — 2027       -
+                                                                         L202 “P20 tuamre8p BuuDB.iwg aaroazJOD
+                                                                  ASO 44 PYOS — 9OT JO20T Saaisumay pun MyunoD sooD
+   ‘sea jeosiy Buipasaid aiqua auy 10) (X 16 N) JUsUIaSJOpUsS JyUR} & YW TOD Y Sse}D B pourejurew
+     sey sohojdwa ay; yeu; “Weed jeosy ay} Jo pua ain Jo skep Og UIyjIM ‘UOHe}UeUNZOp apiAOld Jsnw
+  uogedyisse]o JoyesadoQ juawudinby ey3 ul aeAojdwe ue ‘Aed aaquaoul asuaol| “1G sAlede1 OL   “1e08K
+      4ad 90°000‘1$ yo Aed eaquaoul asuasl 7q5 105 ajqiHye ere suOQeoYIsselo 10;e19d6 yUaWdinby           ‘SO]ON
+                           %G JPUOHIPPe Ue SAiad—al SB     isuodsai Ueupee]    peubissy seakojduiy
+       .                  .                  -                  .                  juepusny
+     Le0e$             EL OLS             6b els             SO'8Ls           ayeg / Joyo AUN              £02
+     COLE              OV'LLS            C6SL$               Sv'OL$            Juepuepy 3}eg               202
+     tod A)            Sr ezs            aA                  el ccs         soyesodg juswidinby            002
+     ydaig             ¢ dag              zdaig              1 dais            NolLwolissv19           | SSRVHO
+                      ATVOS ALIAZDNOT ONY NOILVOIAISSV19 JDVM
+                         (AL) PCOT “t AIRE Pande
+                       (siojsurea J.) WOT) aIseAA PITOS
+ATVOS ALIADONOT ANY NOLLVOLSSV1D GOV                             ~ <V» LIGTAXS.
+

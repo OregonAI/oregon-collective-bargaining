@@ -37,16 +37,16 @@ This document is available in accessible format upon request
                        TABLE OF CONTENTS
                                                               PAGE
 
-ARTICLE 1   PREAMBLE                                            1
+### ARTICLE 1   PREAMBLE                                            1
 
-ARTICLE 2   RECOGNITION                                         2
+### ARTICLE 2   RECOGNITION                                         2
 
             I.     Definition of Unit                           2
             II.    Temporary List                               2
             III.   Certification of Union Officers              2
             IV.    Certification of County Designee             2
 
-ARTICLE 3   DEFINITIONS                                         3
+### ARTICLE 3   DEFINITIONS                                         3
 
             I.     Full-Time Employee                           3
             II.    FTE, or Full-Time Equivalency                3
@@ -56,16 +56,16 @@ ARTICLE 3   DEFINITIONS                                         3
             VI.    Temporary Employee                           4
             VII.   On-Call Employee                             4
 
-ARTICLE 4   MANAGEMENT RIGHTS                                   5
+### ARTICLE 4   MANAGEMENT RIGHTS                                   5
 
-ARTICLE 5   UNION SECURITY, CHECK OFF, AND BUSINESS             6
+### ARTICLE 5   UNION SECURITY, CHECK OFF, AND BUSINESS             6
 
             I.     Rights of Bargaining Unit Employees          6
             II.    Union Security and Check-off                 6
             III.   Union Representation                         7
             IV.    Technology, The Union and the Work Place     12
 
-ARTICLE 6   NO STRIKE AND NO LOCKOUT                            13
+### ARTICLE 6   NO STRIKE AND NO LOCKOUT                            13
 
             I.     No Strike                                    13
             II.    Crossing of Picket Lines                     13
@@ -73,7 +73,7 @@ ARTICLE 6   NO STRIKE AND NO LOCKOUT                            13
             IV.    No Lockout                                   13
             V.     Informational Picketing                      13
 
-ARTICLE 7   COMPENSATION                                        15
+### ARTICLE 7   COMPENSATION                                        15
 
             I.     Salary                                       15
             II.    Salary Administration                        16
@@ -91,12 +91,12 @@ ARTICLE 7   COMPENSATION                                        15
                      Classification                                    19
 
 
-ARTICLE 8    HEALTH AND WELFARE                                        21
+### ARTICLE 8    HEALTH AND WELFARE                                        21
 
              I.      Medical and Dental Benefits                       21
              II.     Other Benefits                                    25
 
-ARTICLE 9    PAID LEAVES                                               29
+### ARTICLE 9    PAID LEAVES                                               29
 
              I.      Vacation Leave                                    29
              II.     Paid Sick Leave                                   31
@@ -107,7 +107,7 @@ ARTICLE 9    PAID LEAVES                                               29
              VII.    Personnel Examinations/Interviews                 38
              VIII.   Immigration and Citizenship Leave                 38
 
-ARTICLE 10   WORKERS' COMPENSATION AND SUPPLEMENTAL                    41
+### ARTICLE 10   WORKERS' COMPENSATION AND SUPPLEMENTAL                    41
              BENEFITS
 
              I.      Coverage                                          41
@@ -118,7 +118,7 @@ ARTICLE 10   WORKERS' COMPENSATION AND SUPPLEMENTAL                    41
              VI.     Benefits                                          42
              VII.    Borrowing of Sick Leave                           43
 
-ARTICLE 11   SENIORITY AND LAYOFF                                      44
+### ARTICLE 11   SENIORITY AND LAYOFF                                      44
 
              I.      Definition of Seniority                           44
              II.     Computation of Seniority                          44
@@ -132,7 +132,7 @@ ARTICLE 11   SENIORITY AND LAYOFF                                      44
 
 
                                     2
-ARTICLE 12   PERSONNEL FILE                                               51
+### ARTICLE 12   PERSONNEL FILE                                               51
 
              I.     Definition                                            51
              II.    Access to Personnel File Materials                    51
@@ -140,9 +140,9 @@ ARTICLE 11   SENIORITY AND LAYOFF                                      44
              IV.    Removal of File Material                              51
              V.     Performance Evaluation                                52
 
-ARTICLE 13   EMPLOYMENT RELATIONS COMMITTEE                               53
+### ARTICLE 13   EMPLOYMENT RELATIONS COMMITTEE                               53
 
-ARTICLE 14   DISCIPLINARY ACTION                                          54
+### ARTICLE 14   DISCIPLINARY ACTION                                          54
 
              I.     Forms of Discipline for Cause and Notice              54
                     Requirements
@@ -151,7 +151,7 @@ ARTICLE 14   DISCIPLINARY ACTION                                          54
              IV.    Manner of Accomplishing Reprimands                    55
              V.     No Abridgement of Rights                              55
 
-ARTICLE 15   SETTLEMENT OF DISPUTES                                       56
+### ARTICLE 15   SETTLEMENT OF DISPUTES                                       56
 
              I.     Grievance Procedure                                   56
              II.    Grievance Not Related to Discipline                   56
@@ -160,7 +160,7 @@ ARTICLE 15   SETTLEMENT OF DISPUTES                                       56
              IV.    Disciplinary Review Process                           59
              V.     Representation of Employees                           61
 
-ARTICLE 16   MODIFICATION OF WORK PERFORMED BY THE                        63
+### ARTICLE 16   MODIFICATION OF WORK PERFORMED BY THE                        63
              BARGAINING UNIT: CONTRACTING,
              INTERGOVERNMENTAL AGREEMENTS
 
@@ -169,7 +169,7 @@ ARTICLE 16   MODIFICATION OF WORK PERFORMED BY THE                        63
              III.   Rights and Benefits of Employees Involved in
                     Consolidation, Merger, and Acquisition of Positions   64
 
-ARTICLE 17   SAFETY AND HEALTH                                            65
+### ARTICLE 17   SAFETY AND HEALTH                                            65
 
              I.     Policy Statement                                      65
              II.    Reporting Unsafe Conditions and Employee
@@ -181,7 +181,7 @@ ARTICLE 17   SAFETY AND HEALTH                                            65
              IV.     Violence in the Workplace                            65
              V.      Staffing                                             66
 
-ARTICLE 18   GENERAL PROVISIONS                                           67
+### ARTICLE 18   GENERAL PROVISIONS                                           67
 
              I.      No Discrimination                                    67
              II.     No Prejudicial Harassment                            67
@@ -192,14 +192,14 @@ ARTICLE 18   GENERAL PROVISIONS                                           67
              VII.    Same-Day Reassignment                                71
              VIII.   Notice of Resignation                                72
 
-ARTICLE 19   SAVINGS CLAUSE AND FUNDING                                   73
+### ARTICLE 19   SAVINGS CLAUSE AND FUNDING                                   73
 
              I.      Savings Clause                                       73
              II.     Funding                                              73
 
-ARTICLE 20   ENTIRE AGREEMENT                                             74
+### ARTICLE 20   ENTIRE AGREEMENT                                             74
 
-ARTICLE 21   TERMINATION                                                  75
+### ARTICLE 21   TERMINATION                                                  75
 
              SIGNATURE PAGE                                               76
 

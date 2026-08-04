@@ -326,7 +326,7 @@ PREAMBLE                                     8
                                                                AFSCME-Physicians Agreement
                                                                                  2023-2026
 
-                                          ARTICLE 1
+### ARTICLE 1
 
                                         RECOGNITION
 
@@ -348,12 +348,12 @@ work more than the defined number of hours in a fiscal year.
 
 
 
-ARTICLE 1
+### ARTICLE 1
 RECOGNITION                                 9
                                                                  AFSCME-Physicians Agreement
                                                                                    2023-2026
 
-                                           ARTICLE 2
+### ARTICLE 2
 
                                     MANAGEMENT RIGHTS
 
@@ -401,12 +401,12 @@ of this Agreement.
 
 
 
-ARTICLE 2
+### ARTICLE 2
 MANAGEMENT RIGHTS                           10
                                                                 AFSCME-Physicians Agreement
                                                                                   2023-2026
 
-                                           ARTICLE 3
+### ARTICLE 3
 
                                       DUES DEDUCTION
 
@@ -457,7 +457,7 @@ bargaining unit employees. The list, or notification of no new bargaining unit e
 provided by the close of business each Friday. The list shall contain the name, employee ID
 number, classification, position number, department, position status, date of employment and
 
-ARTICLE 3
+### ARTICLE 3
 DUES DEDUCTION                             11
                                                                AFSCME-Physicians Agreement
                                                                                  2023-2026
@@ -484,12 +484,12 @@ electronically by the UNION to the COUNTY, by the second (2nd) Wednesday of the 
 
 
 
-ARTICLE 3
+### ARTICLE 3
 DUES DEDUCTION                             12
                                                                AFSCME-Physicians Agreement
                                                                                  2023-2026
 
-                                         ARTICLE 4
+### ARTICLE 4
 
                                        UNION RIGHTS
 
@@ -540,7 +540,7 @@ Section 1 – Union Activity
 
 
 
-ARTICLE 4
+### ARTICLE 4
 UNION RIGHTS                              13
                                                                  AFSCME-Physicians Agreement
                                                                                    2023-2026
@@ -596,7 +596,7 @@ Section 6 – Protection of Rights
        existence or administration of the UNION or any successor employee organization.
 
 
-ARTICLE 4
+### ARTICLE 4
 UNION RIGHTS                                14
                                                                AFSCME-Physicians Agreement
                                                                                  2023-2026
@@ -621,12 +621,12 @@ UNION representatives to meet with new employees on paid time.
 
 
 
-ARTICLE 4
+### ARTICLE 4
 UNION RIGHTS                               15
                                                                AFSCME-Physicians Agreement
                                                                                  2023-2026
 
-                                           ARTICLE 5
+### ARTICLE 5
 
                                 DISCIPLINE AND DISCHARGE
 
@@ -677,7 +677,7 @@ Section 1 – Causes for Discipline
 (E)   Disciplinary action shall only be imposed upon an employee in relation to activities
       related to the employee's ability to perform duties. Disciplinary action may be taken for
 
-ARTICLE 5
+### ARTICLE 5
 DISCIPLINE AND DISCHARGE                    16
                                                                   AFSCME-Physicians Agreement
                                                                                     2023-2026
@@ -726,12 +726,12 @@ Extensions to the time limits shall be permitted under the following circumstanc
 
 
 
-ARTICLE 5
+### ARTICLE 5
 DISCIPLINE AND DISCHARGE                    17
                                                                  AFSCME-Physicians Agreement
                                                                                    2023-2026
 
-                                           ARTICLE 6
+### ARTICLE 6
 
                                   GRIEVANCE PROCEDURE
 
@@ -782,7 +782,7 @@ shall include:
 
 
 
-ARTICLE 6
+### ARTICLE 6
 GRIEVANCE PROCEDURE                         18
                                                                   AFSCME-Physicians Agreement
                                                                                     2023-2026
@@ -838,7 +838,7 @@ Section 3 – Arbitration Guidelines
        days following the presentation of the case and such decision shall be final and binding
        on both parties.
 
-ARTICLE 6
+### ARTICLE 6
 GRIEVANCE PROCEDURE                         19
                                                                   AFSCME-Physicians Agreement
                                                                                     2023-2026
@@ -894,12 +894,12 @@ Section 5 – Time Limits
 
 
 
-ARTICLE 6
+### ARTICLE 6
 GRIEVANCE PROCEDURE                         20
                                                                 AFSCME-Physicians Agreement
                                                                                   2023-2026
 
-                                          ARTICLE 7
+### ARTICLE 7
 
                                    GENERAL PROVISIONS
 
@@ -950,7 +950,7 @@ provisions below.
        Such memberships are limited to Lane County Medical Society (LCMS) and the
 
 
-ARTICLE 7
+### ARTICLE 7
 GENERAL PROVISIONS                         21
                                                                  AFSCME-Physicians Agreement
                                                                                    2023-2026
@@ -1006,7 +1006,7 @@ Section 8 – Loan Repayment Programs
 For purposes of defining full time status of qualifying employment for Loan Repayment inquiries,
 the parties agree the COUNTY will provide an employee’s FTE status based upon the annual
 
-ARTICLE 7
+### ARTICLE 7
 GENERAL PROVISIONS                         22
                                                                 AFSCME-Physicians Agreement
                                                                                   2023-2026
@@ -1031,12 +1031,12 @@ experience, improve provider satisfaction and reduce costs.
 
 
 
-ARTICLE 7
+### ARTICLE 7
 GENERAL PROVISIONS                         23
                                                                  AFSCME-Physicians Agreement
                                                                                    2023-2026
 
-                                           ARTICLE 8
+### ARTICLE 8
 
                                           SELECTION
 
@@ -1087,7 +1087,7 @@ must be identified and agreed upon at time of hire and included in the formal hi
 Expenses to be reimbursed must be reasonable and necessary, directly in connection with
 employment at the COUNTY and incurred after the employee has accepted the offer of
 
-ARTICLE 8
+### ARTICLE 8
 SELECTION                                  24
                                                             AFSCME-Physicians Agreement
                                                                               2023-2026
@@ -1101,12 +1101,12 @@ for moving expenses based on the length of service.
 
 
 
-ARTICLE 8
+### ARTICLE 8
 SELECTION                                25
                                                                 AFSCME-Physicians Agreement
                                                                                   2023-2026
 
-                                          ARTICLE 9
+### ARTICLE 9
 
                                       HOURS OF WORK
 
@@ -1157,7 +1157,7 @@ Section 4 – Employee Work Schedule
 (B)    Temporary work schedule changes for the purpose of meeting statutory requirements
        shall not be subject to the provisions of this section. Emergency shall be defined as any
 
-ARTICLE 9
+### ARTICLE 9
 HOURS OF WORK                              26
                                                                AFSCME-Physicians Agreement
                                                                                  2023-2026
@@ -1211,12 +1211,12 @@ Section 6 – On-Call
 
 
 
-ARTICLE 9
+### ARTICLE 9
 HOURS OF WORK                             27
                                                                   AFSCME-Physicians Agreement
                                                                                     2023-2026
 
-                                           ARTICLE 10
+### ARTICLE 10
 
                                              WAGES
 
@@ -1267,7 +1267,7 @@ Section 3 – Bilingual Differential
        qualifications for level of fluency for the “B” designated classification.
 
 
-ARTICLE 10
+### ARTICLE 10
 WAGES                                        28
                                                                  AFSCME-Physicians Agreement
                                                                                    2023-2026
@@ -1300,12 +1300,12 @@ Section 5 – Deferred Compensation
 
 
 
-ARTICLE 10
+### ARTICLE 10
 WAGES                                       29
                                                                AFSCME-Physicians Agreement
                                                                                  2023-2026
 
-                                         ARTICLE 11
+### ARTICLE 11
 
                                LEAVE TIME AND HOLIDAYS
 
@@ -1356,7 +1356,7 @@ Section 1 – Holidays
              the Division are on a four (4) day, ten (10) hour schedule, the eligible employees
              shall receive ten (10) hours compensation for the holiday.
 
-ARTICLE 11
+### ARTICLE 11
 LEAVE TIME AND HOLIDAYS                   30
                                                                AFSCME-Physicians Agreement
                                                                                  2023-2026
@@ -1412,7 +1412,7 @@ LEAVE TIME AND HOLIDAYS                   30
 
 
 
-ARTICLE 11
+### ARTICLE 11
 LEAVE TIME AND HOLIDAYS                   31
                                                                   AFSCME-Physicians Agreement
                                                                                     2023-2026
@@ -1468,7 +1468,7 @@ Section 2 – Time Management
 
 
 
-ARTICLE 11
+### ARTICLE 11
 LEAVE TIME AND HOLIDAYS                       32
                                                                  AFSCME-Physicians Agreement
                                                                                    2023-2026
@@ -1524,7 +1524,7 @@ LEAVE TIME AND HOLIDAYS                       32
       accrued time management leave balance upon termination at the current rate of pay.
 
 
-ARTICLE 11
+### ARTICLE 11
 LEAVE TIME AND HOLIDAYS                      33
                                                                  AFSCME-Physicians Agreement
                                                                                    2023-2026
@@ -1580,7 +1580,7 @@ LEAVE TIME AND HOLIDAYS                      33
 
 
 
-ARTICLE 11
+### ARTICLE 11
 LEAVE TIME AND HOLIDAYS                    34
                                                                   AFSCME-Physicians Agreement
                                                                                     2023-2026
@@ -1636,7 +1636,7 @@ LEAVE TIME AND HOLIDAYS                    34
              without pay. Donated hours are transferred to the employee’s account as needed
              by Central Payroll. The donated Time Management hours may not be used for
 
-ARTICLE 11
+### ARTICLE 11
 LEAVE TIME AND HOLIDAYS                     35
                                                                  AFSCME-Physicians Agreement
                                                                                    2023-2026
@@ -1692,7 +1692,7 @@ Section 4 – Paid Leave Oregon
        employees supplement PLO payments, they will accrue TM only on used accrued leave
 
 
-ARTICLE 11
+### ARTICLE 11
 LEAVE TIME AND HOLIDAYS                     36
                                                                   AFSCME-Physicians Agreement
                                                                                     2023-2026
@@ -1748,7 +1748,7 @@ Section 5 – Non-Occupational Disability Leave
 (G)   It is understood that any time off charged to disability leave pursuant to this Section may
       require substantiation to the satisfaction of the COUNTY prior to compensation. Failure
 
-ARTICLE 11
+### ARTICLE 11
 LEAVE TIME AND HOLIDAYS                     37
                                                                    AFSCME-Physicians Agreement
                                                                                      2023-2026
@@ -1804,7 +1804,7 @@ Section 9 – Leave of Absence
 (B)    Leaves of absence shall be without pay except as specified elsewhere in this
        Agreement.
 
-ARTICLE 11
+### ARTICLE 11
 LEAVE TIME AND HOLIDAYS                      38
                                                                  AFSCME-Physicians Agreement
                                                                                    2023-2026
@@ -1860,7 +1860,7 @@ Absence of an employee from duty, including any absence for a single day or part
 which is not authorized by a specific grant or leave of absence under the provisions of this
 
 
-ARTICLE 11
+### ARTICLE 11
 LEAVE TIME AND HOLIDAYS                      39
                                                                  AFSCME-Physicians Agreement
                                                                                    2023-2026
@@ -1882,12 +1882,12 @@ wages and medical costs.
 
 
 
-ARTICLE 11
+### ARTICLE 11
 LEAVE TIME AND HOLIDAYS                     40
                                                                 AFSCME-Physicians Agreement
                                                                                   2023-2026
 
-                                          ARTICLE 12
+### ARTICLE 12
 
                                  INSURANCE AND RELATED
 
@@ -1937,7 +1937,7 @@ The following health insurance options are available:
 
 
 
-ARTICLE 12
+### ARTICLE 12
 INSURANCE AND RELATED                      41
                                                                 AFSCME-Physicians Agreement
                                                                                   2023-2026
@@ -1992,7 +1992,7 @@ Section 3 – Opt Out
 
 
 
-ARTICLE 12
+### ARTICLE 12
 INSURANCE AND RELATED                      42
                                                               AFSCME-Physicians Agreement
                                                                                 2023-2026
@@ -2027,12 +2027,12 @@ COUNTY and the UNION agree to reopen the bargaining for this benefit.
 
 
 
-ARTICLE 12
+### ARTICLE 12
 INSURANCE AND RELATED                     43
                                                             AFSCME-Physicians Agreement
                                                                               2023-2026
 
-                                       ARTICLE 13
+### ARTICLE 13
 
                                          SAFETY
 
@@ -2053,12 +2053,12 @@ rate for equipment not so returned.
 
 
 
-ARTICLE 13
+### ARTICLE 13
 SAFETY                                   44
                                                                   AFSCME-Physicians Agreement
                                                                                     2023-2026
 
-                                           ARTICLE 14
+### ARTICLE 14
 
                                             TRAINING
 
@@ -2106,12 +2106,12 @@ Section 3 – Continuing Education
 
 
 
-ARTICLE 14
+### ARTICLE 14
 TRAINING                                     45
                                                                   AFSCME-Physicians Agreement
                                                                                     2023-2026
 
-                                           ARTICLE 15
+### ARTICLE 15
 
                                             SENIORITY
 
@@ -2150,12 +2150,12 @@ promotion.
 
 
 
-ARTICLE 15
+### ARTICLE 15
 SENIORITY                                    46
                                                                   AFSCME-Physicians Agreement
                                                                                     2023-2026
 
-                                          ARTICLE 16
+### ARTICLE 16
 
                                     LAYOFF AND RECALL
 
@@ -2206,7 +2206,7 @@ Section 3 – Response and Status While Subject to Recall
 (C)   An employee shall not be required to accept recall to less than their original hours or a
       temporary position in order to maintain recall rights, nor shall acceptance of such
 
-ARTICLE 16
+### ARTICLE 16
 LAYOFF AND RECALL                           47
                                                                AFSCME-Physicians Agreement
                                                                                  2023-2026
@@ -2262,7 +2262,7 @@ Section 5 – Protection/Rights During Layoff
 
 
 
-ARTICLE 16
+### ARTICLE 16
 LAYOFF AND RECALL                            48
                                                                  AFSCME-Physicians Agreement
                                                                                    2023-2026
@@ -2285,12 +2285,12 @@ reinstatement.
 
 
 
-ARTICLE 16
+### ARTICLE 16
 LAYOFF AND RECALL                           49
                                                                    AFSCME-Physicians Agreement
                                                                                      2023-2026
 
-                                            ARTICLE 17
+### ARTICLE 17
 
                                          RELATIONSHIPS
 
@@ -2321,13 +2321,13 @@ provisions of this Agreement. Any such agreement shall be null and void.
 
 
 
-ARTICLE 17
+### ARTICLE 17
 RELATIONSHIPS
                                              50
                                                                  AFSCME-Physicians Agreement
                                                                                    2023-2026
 
-                                           ARTICLE 18
+### ARTICLE 18
 
                                          TERMINATION
 
@@ -2363,9 +2363,9 @@ During the period of negotiations, this Agreement shall remain in full force and
 
 
 
-ARTICLE 18
+### ARTICLE 18
 TERMINATION                                 51
-                                              APPENDIX A
+### APPENDIX A
 
 
              Classifications

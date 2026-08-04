@@ -82,7 +82,7 @@ hereinafter referred to as the Association.
 
 The parties agree as follows:
 
-                                ARTICLE 1 - RECOGNITION
+### ARTICLE 1 - RECOGNITION
 
 The County recognizes the Association as the exclusive bargaining agent for the purpose of
 establishing salaries, wages, hours and other conditions of employment for allocated employees
@@ -95,7 +95,7 @@ allocated and unallocated employees that are supervisory or confidential or are 
 employees or elected officials under the County’s Personnel Ordinance are not covered by this
 agreement.
 
-                   ARTICLE 2 - PRESERVATION OF PUBLIC RIGHTS
+### ARTICLE 2 - PRESERVATION OF PUBLIC RIGHTS
 
 The Association recognizes that an area of responsibility must be reserved to the County if
 County government is to effectively serve the public. Therefore, the County shall have the full
@@ -121,7 +121,7 @@ application of any other terms of this Agreement:
                 purchase, dispose and assign equipment or supplies, and the right to contract or
                 subcontract any work.
 
-                                  ARTICLE 3 - UNION DUES
+### ARTICLE 3 - UNION DUES
 
        1.     All employees covered by the terms and conditions of this Agreement may
 become members of the Association. The County agrees to deduct dues in the amount
@@ -141,7 +141,7 @@ fifteen (15) minutes of County paid time to inform new employees about the Assoc
 provide the new employee with a signature card in order to register for membership in the
 Association.
 
-                            ARTICLE 4 - ASSOCIATION RIGHTS
+### ARTICLE 4 - ASSOCIATION RIGHTS
 
 1.              Access to Workers.
 Authorized representatives of the Association may visit the work locations of employees covered
@@ -282,7 +282,7 @@ or hearings for the following:
         of the Association in an arbitration case or unfair labor practice hearing, the employee
         may appear without loss of pay if the employee appears during their work time.
 
-                                 ARTICLE 5 - PAID TIME OFF
+### ARTICLE 5 - PAID TIME OFF
 
 1.              Paid Time Off.
 
@@ -390,7 +390,7 @@ d. Employees may earn a bank of seventy-six (76) hours per year under the follow
        e. Employees who separate from County employment and are rehired within one
           hundred and eighty (180) days will have their sick days restored upon rehire.
 
-                               ARTICLE 6- CLASSIFICATIONS
+### ARTICLE 6- CLASSIFICATIONS
 
 1.            Regular Classifications.
 When new classifications are created or adjustments are made to existing salary grades or steps
@@ -404,7 +404,7 @@ The Association will approve any new special title jobs that need to be created.
 special title jobs will be implemented for the Part-Time/Temporary employees the first of the
 next month following approval from the Association.
 
-                                     ARTICLE 7 – WAGES
+### ARTICLE 7 – WAGES
 
 1.             General County and North Clackamas Parks and Recreation District
                (NCPRD).
@@ -562,7 +562,7 @@ DUTIES AND RESPONSE TIME REQUIREMENTS
       completed within twenty-four (24) hours of a clinical intervention (for both phone and
       face-to-face mobile responses).
 
-                                  ARTICLE 8 – DISCIPLINE
+### ARTICLE 8 – DISCIPLINE
 
 Initial probationary employees and temporary employees are not protected by the just cause
 standard.
@@ -577,7 +577,7 @@ employee’s official personnel file maintained by Human Resources.
 
 
                                                 14
-                        ARTICLE 9- SETTLEMENT OF DISPUTES
+### ARTICLE 9- SETTLEMENT OF DISPUTES
 
 1. Grievance Procedure.
 Any grievance or dispute which may arise between the parties involving the application, meaning
@@ -607,7 +607,7 @@ working days. The grievance procedure ends at this step.
 4. When an employee voluntarily separates from County employment, all pending grievances
    filed on behalf of such employee shall be considered withdrawn with prejudice.
 
-                       ARTICLE 10 - WORKERS’ COMPENSATION
+### ARTICLE 10 - WORKERS’ COMPENSATION
 
 All part-time and temporary employees covered by this Agreement will be insured under the
 provisions of the Oregon State Workers’ Compensation Law for injuries that arise out of and
@@ -655,7 +655,7 @@ The County may request the employee return to modified or light duty, subject to
 release. An injured employee that refuses to return to modified or light duty may be subject to
 loss of reinstatement rights and reduction of temporary total disability benefits.
 
-                                  ARTICLE 11 – BENEFITS
+### ARTICLE 11 – BENEFITS
 
 Except as otherwise provided in this contract or by County policy, part-time and temporary
 employees are not provided benefits such as layoff and recall, holidays, sick leave (except as
@@ -681,7 +681,7 @@ transitional account. The intent of the parties is that the employees will be ma
 of the six percent (6%) retirement contribution by the County.
 
 
-                                   ARTICLE 12 - HOURS OF WORK
+### ARTICLE 12 - HOURS OF WORK
 
 1.                   Work Schedules.
 
@@ -743,7 +743,7 @@ employee.
 Employees will be compensated for hours worked as provided in Article 7 (Wages).
 
 
-                       ARTICLE 13- DURATION OF EMPLOYMENT
+### ARTICLE 13- DURATION OF EMPLOYMENT
 
 1.             Definitions.
 
@@ -770,7 +770,7 @@ of hours for their cycle, they will be terminated. Unallocated employees who hav
 following November 1st. Work hours will be calculated based on the ACA look back cycle and
 include regular and overtime hours worked.
 
-                             ARTICLE 14 - MISCELLANEOUS
+### ARTICLE 14 - MISCELLANEOUS
 
 1.             Labor/Management.
 
@@ -902,7 +902,7 @@ of any new rules or any complaint involving discrimination in the application of
 rules shall be resolved through the grievance procedure. The County will comply with ORS
 243.698 when the County seeks to change or create new policy or work rules.
 
-                               ARTICLE 15 - SAVINGS CLAUSE
+### ARTICLE 15 - SAVINGS CLAUSE
 
 Should any Article, Section, or portion thereof, of this Agreement be held unlawful and
 

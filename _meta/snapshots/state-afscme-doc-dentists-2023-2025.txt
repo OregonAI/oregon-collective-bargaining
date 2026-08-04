@@ -98,7 +98,7 @@ and Municipal Employees Local 1406, Council 75, hereinafter referred to as the "
                                                                                                Rev: 2017
 
 
-                                                ARTICLE 1 - RECOGNITION
+### ARTICLE 1 - RECOGNITION
 
 The Employer recognizes the Union as the exclusive bargaining agent and representative
 for all Dentists at the Department of Corrections, whose primary responsibility is clinical
@@ -107,11 +107,11 @@ as defined by ORS 243.650(6) and (14).
                                                                                                Rev: 2023
 
 
-                                    ARTICLE 2 - EFFECT OF LAW AND RULES
+### ARTICLE 2 - EFFECT OF LAW AND RULES
 
 This Agreement is subject to all applicable existing and future laws of the State of Oregon.
 
-                                           ARTICLE 3 - LEGISLATIVE ACTION
+### ARTICLE 3 - LEGISLATIVE ACTION
 
 Section 1.
 Provisions of this Agreement not requiring legislative funding or statutory changes before
@@ -125,7 +125,7 @@ Upon signing of this Agreement both parties will jointly recommend to the Legisl
 Assembly the passage of the funding and statutory changes necessary to implement this
 Agreement.
 
-                                               ARTICLE 4 - UNION SECURITY
+### ARTICLE 4 - UNION SECURITY
 
 Section 1. Union Activities.
 Each Agency agrees to inform all new employees hired into positions included in the
@@ -292,7 +292,7 @@ International Conventions, the following provisions apply.
                                                                                               Rev: 2015, 2019
 
 
-                                 ARTICLE 5 - MAINTENANCE OF STANDARDS
+### ARTICLE 5 - MAINTENANCE OF STANDARDS
 
 The Agency shall not issue any directive or written statements that have any effect on
 mandatory subjects of bargaining established by this Collective Bargaining Agreement
@@ -301,7 +301,7 @@ this Section is intended to inhibit the Agency from issuing directives and/or st
 which interpret or effectuate a contractual obligation; however, a copy of such statements
 or directives shall be sent to the Union prior to distribution.
 
-                                       ARTICLE 6 - STRIKES AND LOCKOUTS
+### ARTICLE 6 - STRIKES AND LOCKOUTS
 
 The Employer agrees that during the term of this Agreement, the Employer shall not
 cause or permit any lockout of employees from their work. In the event an employee is
@@ -322,7 +322,7 @@ immediately. Such notification by the Union shall not constitute an admission th
 caused or counseled such strike activity. The notification to employees covered by this
 Agreement by the Union shall be made at the request of the Employer or Agency.
 
-                                               ARTICLE 7 - SAVINGS CLAUSE
+### ARTICLE 7 - SAVINGS CLAUSE
 
 Should any Article, Section or portion of the Agreement be held unlawful and/or
 unenforceable by a court or board of competent jurisdiction, such invalidation shall apply
@@ -333,7 +333,7 @@ unenforceable by a court or board of competent jurisdiction, such invalidation s
 a decision, the parties shall, upon demand, begin negotiations to replace this Agreement's
 invalidated Article, Section or portion.
 
-                                        ARTICLE 8 - MANAGEMENT'S RIGHTS
+### ARTICLE 8 - MANAGEMENT'S RIGHTS
 
 Except as may be specifically modified by the terms of this Agreement, the State retains
 all rights of management in the direction of its work force.
@@ -350,7 +350,7 @@ These rights of management shall include, but not be limited to, the right to:
       g.     Determine methods, means, and personnel by which operations are to be
              conducted.
 
-                                               ARTICLE 9 - CONTRACTING OUT
+### ARTICLE 9 - CONTRACTING OUT
 
 Section 1.
 The Union recognizes that the Employer has the management right, during the term of
@@ -449,7 +449,7 @@ accomplish the work in the future for Agency initiated contracts. Decisions arou
 reviewing of contracted work are not subject to the grievance procedure.
 SEE LOA: Feasibility study
 
-                                         ARTICLE 10 - EQUAL OPPORTUNITY
+### ARTICLE 10 - EQUAL OPPORTUNITY
 
 Section 1.
 The Employer and the Union agree to continue their policies of not unlawfully
@@ -489,7 +489,7 @@ from the date jurisdiction was declined.
                                                                                                Rev: 2017
 
 
-                                               ARTICLE 11 - SALARIES
+### ARTICLE 11 - SALARIES
 
 Section 1. Retirement.
 a.    PERS and PERS Pickup
@@ -593,7 +593,7 @@ COLA
                                                                         Rev: 2015, 2017, 2019, 2021,2023
 
 
-                                               ARTICLE 12 - INSURANCE
+### ARTICLE 12 - INSURANCE
 
 Section 1.
 An Employer contribution will be made for each eligible employee who has at least eighty
@@ -656,7 +656,7 @@ SEE LOAs: PMAC
                                                                             Rev: 2015, 2017, 2019, 2021,2023
 
 
-                                          ARTICLE 13 - SAFETY AND HEALTH
+### ARTICLE 13 - SAFETY AND HEALTH
 
 Section 1.
 a.    The Agency agrees to abide by standards of safety and health in accordance with
@@ -729,7 +729,7 @@ g.         No employee shall be subject to retaliation for reporting or filing a
                                                                                           Rev: 2017,2023
 
 
-                                    ARTICLE 14 - TRAINING AND EDUCATION
+### ARTICLE 14 - TRAINING AND EDUCATION
 
 The Agency recognizes the need and desirability of professional training for dentists. To
 that end, and subject to the availability of resources, the Agency agrees to subsidize
@@ -746,7 +746,7 @@ opportunities on a pro-rated basis.
 Continuing educational opportunities shall be allowed for regular status employees and
 shall be subsidized up to the required forty (40) hours every two (2) year licensing period.
 
-                                               ARTICLE 15 - SICK LEAVE
+### ARTICLE 15 - SICK LEAVE
 
 Sick leave, with pay, shall be determined as follows:
 
@@ -849,7 +849,7 @@ Upon request, employees may use hardship leave hours for parental leave.
                                                                                                 Rev: 2015
 
 
-                                               ARTICLE 16 - VACATION LEAVE
+### ARTICLE 16 - VACATION LEAVE
 Section 1.
 Full-time employees shall accrue vacation leave in accordance with the schedule below.
 Employees who are new to state service may use accrued vacation leave during the first
@@ -965,7 +965,7 @@ leave is not appropriate.
                                                                               Rev: 2017, 2019, 2021,2023
 
 
-                                               ARTICLE 17 - LEAVES WITH PAY
+### ARTICLE 17 - LEAVES WITH PAY
 
 Employees shall be granted a leave of absence with pay in accordance with the following;
      a.     Service with a jury. The employee may keep any money paid by the court
@@ -1075,7 +1075,7 @@ Employees shall be granted a leave of absence with pay in accordance with the fo
                                                                                           Rev: 2015, 2017, 2019
 
 
-                             ARTICLE 18 - LEAVE OF ABSENCE WITHOUT PAY
+### ARTICLE 18 - LEAVE OF ABSENCE WITHOUT PAY
 
 Section 1.
 Applying for leave of absence without pay will be in writing and submitted to the immediate
@@ -1112,7 +1112,7 @@ shifts to accommodate military duty.
                                                                                  Rev: 2015, 2019, 2021
 
 
-                         ARTICLE 19 - PRE-RETIREMENT COUNSELING LEAVE
+### ARTICLE 19 - PRE-RETIREMENT COUNSELING LEAVE
 
 Employees shall be granted up to twenty-eight (28) hours leave with pay to pursue bona
 fide pre-retirement counseling programs. Employees shall request the use of leave
@@ -1126,7 +1126,7 @@ program, including PERS, Social Security, Insurance, and other retirement income
                                                                                         Rev: 2019, 2021
 
 
-                                               ARTICLE 20 - HOLIDAYS
+### ARTICLE 20 - HOLIDAYS
 
 Section 1.
 The following holidays will be recognized and paid for at the regular straight time rate of
@@ -1192,7 +1192,7 @@ to the Institution and the employee.
 
 
 2023-2025 Department of Corrections Dentists        25                        Collective Bargaining Agreement
-    ARTICLE 21 - TRAVEL, MILEAGE AND MOVING EXPENSE REIMBURSEMENT
+### ARTICLE 21 - TRAVEL, MILEAGE AND MOVING EXPENSE REIMBURSEMENT
 
 Section 1. Travel and Mileage Allowance.
 Reimbursements and procedures will be in accordance with Oregon Accounting Manual,
@@ -1212,7 +1212,7 @@ in this policy will be automatically incorporated into this contract article.
                                                                                          Rev: 2017
 
 
-        ARTICLE 22 - RECOUPMENT OF WAGE AND BENEFIT OVERPAYMENTS/
+### ARTICLE 22 - RECOUPMENT OF WAGE AND BENEFIT OVERPAYMENTS/
                               UNDERPAYMENTS
 
 Section 1. Overpayments.
@@ -1276,7 +1276,7 @@ Section 2. Underpayments.
                                                                                             Rev: 2019,2023
 
 
-                                               ARTICLE 23 - TRIAL SERVICE
+### ARTICLE 23 - TRIAL SERVICE
 
 Section 1.
 All new employees appointed to a position, and those employees promoted, or
@@ -1327,7 +1327,7 @@ d.    This subsection applies to employees beginning their promotional trial ser
                                                                                         Rev: 2017,2023
 
 
-                                   ARTICLE 24 - DISCIPLINE AND DISCHARGE
+### ARTICLE 24 - DISCIPLINE AND DISCHARGE
 
 Section 1.
 The principles of progressive discipline shall be used except when the nature of the
@@ -1392,7 +1392,7 @@ cause an undue delay.
                                                                                             Rev: 2021
 
 
-                                      ARTICLE 25 - GRIEVANCE PROCEDURE
+### ARTICLE 25 - GRIEVANCE PROCEDURE
 
 Section 1.
 A grievance shall be any disagreement or dispute which arises concerning the
@@ -1533,7 +1533,7 @@ j.    The arbitration award shall not establish a precedent for any current or f
                                                                               Rev: 2015, 2019, 2021
 
 
-                                        ARTICLE 26 - PERSONNEL RECORDS
+### ARTICLE 26 - PERSONNEL RECORDS
 
 Section 1.
 The Chief Human Resources Office human resource information system is the system of
@@ -1630,7 +1630,7 @@ subject employee.
 
 
 2023-2025 Department of Corrections Dentists   34                         Collective Bargaining Agreement
-                                               ARTICLE 27 - LAYOFF
+### ARTICLE 27 - LAYOFF
 
 Section 1. Alternative to Layoff.
 a.    When the Agency believes that a lack of funds requires a layoff, the Agency will
@@ -1778,7 +1778,7 @@ process contained in the PECBA.
                                                                                             Rev: 2015
 
 
-      ARTICLE 28 - IMPLEMENTATION OF NEW CLASSES—APPEALS PROCESS
+### ARTICLE 28 - IMPLEMENTATION OF NEW CLASSES—APPEALS PROCESS
 
 The appeals process is designed to allocate employees into new classes. Employees in
 positions allocated to a new classification, who dispute their placement within the new
@@ -1850,7 +1850,7 @@ e.         Where a position is vacated after the filing of the initial appeal, t
            position.
 f.         This process terminates upon completion of the allocation process.
 
-                                       ARTICLE 29 - QUARTERLY CHECK-INS
+### ARTICLE 29 - QUARTERLY CHECK-INS
 
 Supervisory managers shall conduct check-ins with their employees on a quarterly basis.
 If a quarterly check-in does not occur, the employee may request a check-in for the
@@ -1867,7 +1867,7 @@ used for discipline.
                                                                                             Rev: 2021,2023
 
 
-                   ARTICLE 30 - FILLING OF VACANCIES AND REASSIGNMENT
+### ARTICLE 30 - FILLING OF VACANCIES AND REASSIGNMENT
 
 Section 1.
 The DOC/HR shall e-mail each dentist notifying them of a vacancy in the bargaining unit.
@@ -1881,7 +1881,7 @@ Section 2.
 The parties agree to discuss the impact of temporary reassignments from one facility to
 another in labor/management committee.
 
-                                               ARTICLE 31 - CLINICAL MATTERS
+### ARTICLE 31 - CLINICAL MATTERS
 
 Section 1. Dental Assistants.
 At least one staff dentist (selected by the Institution Dental Department) shall participate
@@ -1923,7 +1923,7 @@ meeting, the dentist shall be notified in writing if no disciplinary action will
                                                                                                  Rev: 2017
 
 
-                                               ARTICLE 32 - EMPLOYEE RIGHTS
+### ARTICLE 32 - EMPLOYEE RIGHTS
 
 Section 1.
 Off duty activities of employees will not subject them to disciplinary action by the Agency
@@ -1958,7 +1958,7 @@ assured the following rights:
 
 
 2023-2025 Department of Corrections Dentists                41                Collective Bargaining Agreement
-        ARTICLE 33 - INCLEMENT WEATHER/HAZARDOUS CONDITIONS LEAVE
+### ARTICLE 33 - INCLEMENT WEATHER/HAZARDOUS CONDITIONS LEAVE
 
 Section 1.
 a.    The Employer/Agency designated official(s) may close or curtail offices, facilities,
@@ -2107,7 +2107,7 @@ and/or hazardous conditions.
                                                                                  Rev: 2017, 2021,2023
 
 
-                                         ARTICLE 34 - TERM OF AGREEMENT
+### ARTICLE 34 - TERM OF AGREEMENT
 
 Section 1.
 Unless otherwise noted in a specific article in the Agreement, this Agreement becomes
@@ -2126,7 +2126,7 @@ Negotiations for a successor agreement will start between February 15, 2025 and 
                                                                             Rev: 2015, 2017, 2019,2023
 
 
-                                               ARTICLE 35 - DIFFERENTIALS
+### ARTICLE 35 - DIFFERENTIALS
 
 When an employee is assigned for a limited period to perform the duties of a position at
 a higher level classification for more than five (5) consecutive days, or forty (40)
@@ -2148,7 +2148,7 @@ c.     If applying work out-of-class would not result in additional compensation
                                                                                                Rev: 2023
 
 
-                                               ARTICLE 36 - JOB SHARING
+### ARTICLE 36 - JOB SHARING
 
 Section 1.
 “Job sharing position” means a full-time position in the classified service that may be held
@@ -2199,7 +2199,7 @@ or acceptable, the employee agrees to resign.
 
 
 2023-2025 Department of Corrections Dentists   46                       Collective Bargaining Agreement
-                             ARTICLE 37 - LIMITED DURATION APPOINTMENT
+### ARTICLE 37 - LIMITED DURATION APPOINTMENT
 
 Section 1.
 Persons may be hired for workload reasons or for special studies or projects of uncertain
@@ -2217,7 +2217,7 @@ b.    A person appointed from AFSCME regular status within the bargaining unit t
       limited duration appointment shall be entitled to rights under the layoff procedure
       within their Agency.
 
-                                               ARTICLE 38 - WORK SCHEDULE
+### ARTICLE 38 - WORK SCHEDULE
 
 Section 1.
 The parties recognize that office hours for dental clinics at DOC facilities are eight hours
@@ -2266,7 +2266,7 @@ the hours of work.
                                                                                                  Rev: 2017
 
 
-                                               ARTICLE 39 – EXIT INTERVIEWS
+### ARTICLE 39 – EXIT INTERVIEWS
 
 a.         If a regular status employee provides timely notice that they are voluntarily
            separating from Agency service, the Agency will offer an exit interview that focuses
@@ -2279,7 +2279,7 @@ c.         Upon request, but no more than two (2) times a year, the Union can re
                                                                                                 NEW: 2019
 
 
-                           ARTICLE 40 – VOLUNTARY MEDICAL SEPARATION
+### ARTICLE 40 – VOLUNTARY MEDICAL SEPARATION
 
 Section 1.
 A regular status employee with a serious health condition who has exhausted all of their
@@ -2319,7 +2319,7 @@ following conditions are met:
                                                                                               NEW: 2019
 
 
-                                               ARTICLE 41 – AIR QUALITY
+### ARTICLE 41 – AIR QUALITY
 
 Section 1.
 The Air Quality Index (AQI) was developed by the US Environmental Protection Agency
@@ -2342,7 +2342,7 @@ Hazardous Condition.
                                                                                               NEW: 2021
 
 
-                        ARTICLE 42 - WORKING REMOTELY
+### ARTICLE 42 - WORKING REMOTELY
 Section 1.
 Oregon state government encourages working remotely where it is a viable option that
 benefits both the employee and the agency. Use of remote work options promote the
@@ -2489,7 +2489,7 @@ These provisions are applicable to all Sections listed above.
                                                                              NEW: 2021 Rev: 2023
 
 
-                       ARTICLE 43 - UNIFORMS AND PROTECTIVE CLOTHING
+### ARTICLE 43 - UNIFORMS AND PROTECTIVE CLOTHING
 
 Following ratification of the 2023 – 2025 agreement, and thereafter in even numbered
 years, Dentists shall be eligible to receive a clothing allowance of three hundred dollars
@@ -2507,7 +2507,7 @@ for this allowance.
 
 
 2023-2025 Department of Corrections Dentists   52                       Collective Bargaining Agreement
-                                          ARTICLE 43 - PAID LEAVE OREGON
+### ARTICLE 43 - PAID LEAVE OREGON
 
 Paid Leave Oregon is administered by the Oregon Employment Department. The State
 of Oregon, as an employer, shall comply with the provisions of Paid Leave Oregon, as
@@ -2529,7 +2529,7 @@ existing contract language relating to FMLA/OFLA.
 
 
 2023-2025 Department of Corrections Dentists            53                 Collective Bargaining Agreement
- LETTER OF AGREEMENT - ARTICLE 9, CONTRACTING OUT FEASIBILITY STUDY
+### LETTER OF AGREEMENT - ARTICLE 9, CONTRACTING OUT FEASIBILITY STUDY
 
 This Letter of Agreement is entered into between the State of Oregon Department of
 Administrative Services, on behalf of all State Agencies covered by the State of Oregon
@@ -2547,7 +2547,7 @@ This Agreement is effective through June 30, 2025.
 
 
 2023-2025 Department of Corrections Dentists   54                       Collective Bargaining Agreement
-      LETTER OF AGREEMENT – ARTICLE 11 - SALARY AND BENEFIT REPORT
+### LETTER OF AGREEMENT – ARTICLE 11 - SALARY AND BENEFIT REPORT
 
 This Agreement is between the State of Oregon, acting through its Department of
 Administrative Services (DAS) and the AFSCME Local 75, (Union).
@@ -2564,7 +2564,7 @@ agreement.
 
 
 2023-2025 Department of Corrections Dentists   55                   Collective Bargaining Agreement
-        LETTER OF AGREEMENT – ARTICLE 11 - SALARY RANGE TRUNCATION
+### LETTER OF AGREEMENT – ARTICLE 11 - SALARY RANGE TRUNCATION
 
 This Agreement is entered into between the State of Oregon, acting through its
 Department of Administrative Services (DAS), on behalf of the Agencies covered by this
@@ -2711,7 +2711,7 @@ Agreement (Agency) and the AFSCME Council 75 (Union).
 
 
 2023-2025 Department of Corrections Dentists      58                           Collective Bargaining Agreement
-           LETTER OF AGREEMENT – ARTICLE 11 – ONE-TIME PAYMENT COLA
+### LETTER OF AGREEMENT – ARTICLE 11 – ONE-TIME PAYMENT COLA
 
 This Agreement is entered into between the State of Oregon, acting through its
 Department of Administrative Services (DAS), and the AFSCME Local 75 (Union).
@@ -2772,7 +2772,7 @@ This Agreement will sunset on June 30, 2025.
 
 
 2023-2025 Department of Corrections Dentists   60                    Collective Bargaining Agreement
-          LETTER OF AGREEMENT – NEW EMPLOYEE NOTICE/UNION ACCESS
+### LETTER OF AGREEMENT – NEW EMPLOYEE NOTICE/UNION ACCESS
 
      1. Notice
            a. The Employer shall provide the Union, in an editable digital file format, the
@@ -2816,7 +2816,7 @@ This Agreement will sunset on June 30, 2025.
 
 
 2023-2025 Department of Corrections Dentists     61                        Collective Bargaining Agreement
-LETTER OF AGREEMENT – OREGON UNIONS STATE WORKER TRAINING FUND
+### LETTER OF AGREEMENT – OREGON UNIONS STATE WORKER TRAINING FUND
 
 The Parties recognize that both the State and its workers benefit from workers
 understanding their different health care options, understanding their retirement benefits
@@ -2863,7 +2863,7 @@ The State Worker Training Fund will develop a plan to deliver trainings and prog
 
 
 2023-2025 Department of Corrections Dentists   62                         Collective Bargaining Agreement
-                           LETTER OF AGREEMENT – CONTRACT SPECIALIST
+### LETTER OF AGREEMENT – CONTRACT SPECIALIST
 
 This Agreement is between the State of Oregon, acting through its Department of
 Administrative Services (Employer) on behalf of all Agencies covered under the
@@ -2967,7 +2967,7 @@ This Agreement becomes effective on the date of the last signature and ends on J
 
 
 2023-2025 Department of Corrections Dentists    64                         Collective Bargaining Agreement
-                 LETTER OF AGREEMENT – ESSENTIAL WORKER INCLEMENT
+### LETTER OF AGREEMENT – ESSENTIAL WORKER INCLEMENT
                          WEATHER/HAZARDOUS CONDITIONS PAY
 
 This Agreement is between the State of Oregon, acting through its Department of
@@ -2994,7 +2994,7 @@ Essential Worker Inclement Weather/Hazardous Conditions Pay.
 
 
 2023-2025 Department of Corrections Dentists   65                      Collective Bargaining Agreement
-                       LETTER OF AGREEMENT – NATURAL DISASTER LEAVE
+### LETTER OF AGREEMENT – NATURAL DISASTER LEAVE
 
 This Agreement is between the State of Oregon, acting through its Department of
 Administrative Services (Employer) and AFSCME Council 75 (Union).
@@ -3027,7 +3027,7 @@ agreement.
 
 
 2023-2025 Department of Corrections Dentists         66                        Collective Bargaining Agreement
-     LETTER OF AGREEMENT – STATE POLICY 50.050.01 WORKING REMOTELY
+### LETTER OF AGREEMENT – STATE POLICY 50.050.01 WORKING REMOTELY
                                UPDATES
 
 This Letter of Agreement is between the State of Oregon, acting through its Department
@@ -3045,7 +3045,7 @@ This Agreement becomes effective on the date of the last signature below and end
 
 
 2023-2025 Department of Corrections Dentists   67                   Collective Bargaining Agreement
-     LETTER OF AGREEMENT – CHILDCARE AND ELDERCARE EXPLORATORY
+### LETTER OF AGREEMENT – CHILDCARE AND ELDERCARE EXPLORATORY
                               COMMITTEE
 
 This Agreement is between the State of Oregon, acting through its Department of
@@ -3077,7 +3077,7 @@ contract. The committee will complete their work by January 31, 2025.
 
 
 2023-2025 Department of Corrections Dentists   68                        Collective Bargaining Agreement
-                                      LETTER OF AGREEMENT – PAY EQUITY
+### LETTER OF AGREEMENT – PAY EQUITY
 
 This Agreement is entered into by the State of Oregon, acting through its Department of
 Administrative Services, Labor Relations Unit (Employer), on behalf of the Agencies
@@ -3200,7 +3200,7 @@ The Parties agree to the following:
 
 
 2023-2025 Department of Corrections Dentists      71                          Collective Bargaining Agreement
-               LETTER OF AGREEMENT—BI-WEEKLY PAY PERIOD/WORKDAY
+### LETTER OF AGREEMENT—BI-WEEKLY PAY PERIOD/WORKDAY
 
 This Letter of Agreement is between the State of Oregon, acting through its Department
 of Administrative Services (Employer), and the AFSCME Local 75 (Union).
@@ -3297,7 +3297,7 @@ Both parties retain their rights under PECBA.
 
 
 2023-2025 Department of Corrections Dentists              73                          Collective Bargaining Agreement
-                                         APPENDIX A – SALARY SCHEDULES
+### APPENDIX A – SALARY SCHEDULES
                             SALARY SCHEDULE AS OF JULY 1, 2023
            Salary Pay / Rng
            Range Option Step 1 Step 2 Step 3 Step 4 Step 5 Step 6 Step 7 Step 8 Step 9
