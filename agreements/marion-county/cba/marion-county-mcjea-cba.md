@@ -16,12 +16,11 @@ agency_registry_slugs: []
 source_url: https://www.co.marion.or.us/HR/Documents/MCJEA%20CBA.pdf
 source_format: pdf
 retrieved: '2026-08-02'
-source_sha256: 44b02572a491d040367513bb1196fcc856c9ee79c06f3a7148303c3ed89581f8
+source_sha256: 4a0e91bd5155683914ff2d9772176636a0ccdb848b4bf9c61c73614e72d1566b
 snapshot_policy: hash-only
 status: current
-content_mode: summary
-reproduction_basis: 'jointly-authored contract; summary + official link per the class determination
-  in corpus.yml schema.doc_types (verbatim: false)'
+content_mode: 'verbatim'
+reproduction_basis: 'public record of a public body (ORS 192.311-192.478); the employer publishes the executed agreement in full at source_url; a ratified agreement is an official act (Georgia v. Public.Resource.Org, 590 U.S. 255 (2020)) — mirrored in full per the class determination in corpus.yml schema.doc_types (verbatim: true)'
 conversion_notes: pdftotext -layout; 44 pages, 124132 characters extracted; NOT human-verified
 last_verified: ''
 verified_by: ''
@@ -41,8 +40,8 @@ tags:
 - marion-county
 ---
 
-> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated
-> summary, not the agreement's official text. Verify against the official
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a non-authoritative
+> mirror of the agreement's text, not the official record. Verify against the official
 > source: <https://www.co.marion.or.us/HR/Documents/MCJEA%20CBA.pdf> (retrieved 2026-08-02).
 
 # Marion County — MCJEA CBA
@@ -55,10 +54,6 @@ Collective bargaining agreement between **Marion County** and **MCJEA** — **20
 - Expiry stated in the document's text: 2026-06-30
 - Source document: 44 pages (PDF)
 
-This corpus is **summary-first for agreements**: the contract's text is not
-reproduced here (see Curator notes), and nothing on this page states or
-paraphrases the agreement's terms. Read the agreement itself at the official
-source link above.
 
 ## Curator notes
 
@@ -76,3 +71,1924 @@ Statutes and rules the document's text cites are recorded in frontmatter
 `relationships.references_external` (3 citation(s)) and resolve into
 `executive-regulatory-frameworks` as cites — this corpus asserts no
 `implements` edge anywhere.
+
+## Full text
+
+   COLLECTIVE BARGAINING AGREEMENT
+
+
+                between the
+
+
+Marion County Juvenile Employees Association
+
+
+                     and
+
+
+          Marion County, Oregon
+
+
+
+
+         July 1, 2024 - June 30, 2026
+                        Marion County Juvenile Employees Association Collective Bargaining Agreement
+                                                                                           2024-2026
+
+                                                 TABLE OF CONTENTS
+
+ARTICLE 1 – ASSOCIATION RECOGNITION .......................................................................... 1
+ARTICLE 2 – MANAGEMENT'S RIGHTS ................................................................................ 1
+ARTICLE 3 – ASSOCIATION SECURITY .................................................................................. 1
+ARTICLE 4 – HOURS OF WORK ............................................................................................ 2
+ARTICLE 5 – REST PERIODS AND LUNCH BREAKS ................................................................ 4
+ARTICLE 6 – HOLIDAYS ........................................................................................................ 4
+ARTICLE 7 – VACATION LEAVE ............................................................................................ 6
+ARTICLE 8 – SICK LEAVE....................................................................................................... 9
+ARTICLE 9 – OTHER LEAVES ............................................................................................... 12
+ARTICLE 10 – HEALTH AND WELFARE ............................................................................... 14
+ARTICLE 11 – WAGE ADJUSTMENT ................................................................................... 15
+ARTICLE 12 – ADMINISTRATION OF PAY PLAN ................................................................. 17
+ARTICLE 13 – OVERTIME ................................................................................................... 19
+ARTICLE 14 – TRAVEL ALLOWANCES ................................................................................. 20
+ARTICLE 15 – HEALTH AND SAFETY REGULATIONS ........................................................... 21
+ARTICLE 16 – PERFORMANCE EVALUATIONS ................................................................... 22
+ARTICLE 17 – GENERAL PROVISIONS................................................................................. 23
+ARTICLE 18 – EDUCATIONAL ASSISTANCE ........................................................................ 25
+ARTICLE 19 – RELEASE TIME FOR ASSOCIATION ACTIVITIES............................................. 26
+ARTICLE 20 – DISCIPLINE AND DISCHARGE ....................................................................... 27
+ARTICLE 21 – GRIEVANCE AND ARBITRATION PROCEDURE ............................................. 29
+ARTICLE 22 – PERSONNEL FILES ........................................................................................ 31
+ARTICLE 23 – RECLASSIFICATION PROCEDURE ................................................................. 32
+ARTICLE 24 – LAYOFF ........................................................................................................ 33
+ARTICLE 25 – FILLING OF VACANCIES................................................................................ 35
+ARTICLE 26 – TRIAL SERVICE PERIOD ................................................................................ 35
+ARTICLE 27 – EFFECT OF LAW AND RULES ........................................................................ 36
+ARTICLE 28 – SCOPE OF AGREEMENT ............................................................................... 37
+ARTICLE 29 – SAVINGS CLAUSE ......................................................................................... 37
+ARTICLE 30 – NOTICES....................................................................................................... 37
+ARTICLE 31 – CONTRACTING OUT ..................................................................................... 37
+ARTICLE 32 – TEMPORARY EMPLOYEES ............................................................................ 38
+ARTICLE 33 – DRUG AND ALCOHOL USE AND TESTING .................................................... 39
+ARTICLE 34 – LIFE OF AGREEMENT AND TERMINATION .................................................. 40
+                         Marion County Juvenile Employees Association Collective Bargaining Agreement
+                                                                                            2024-2026
+
+### ARTICLE 1 – ASSOCIATION RECOGNITION
+
+Section 1. Recognition. The County recognizes the Marion County Juvenile Employees’ Association
+(MCJEA) as the sole and exclusive bargaining representative for ALL regular employees of the Marion
+County Juvenile Department who are considered prohibited from striking within the definition of
+ORS 243.736 except supervisory and confidential employees or employees represented by other labor
+organizations.
+
+
+
+### ARTICLE 2 – MANAGEMENT'S RIGHTS
+
+Except as may be specifically modified by the terms of this Agreement, the County retains all rights of
+management in the direction of its work force. It is recognized that the responsibilities and authority of
+management are exclusively functions to be exercised by the County.
+
+These rights of management shall include, but not be limited to, the following:
+
+   A. The determination of the governmental services to be rendered to the citizens of
+       Marion County.
+
+   B. The determination of the County's financial, budgetary, accounting and organization policies and
+      procedures.
+
+   C. The right to establish and administer separate personnel and employment benefit rules and
+      policies for non-bargaining unit personnel. The continuous overseeing of personnel policies,
+      procedures and programs promulgated under any other term of this Agreement.
+
+   D. The management and direction of the work force including the right to determine the methods,
+      processes and manner of performing work; the establishment of new positions and the
+      determination of the duties and qualifications to be assigned or required; the right to hire,
+      promote, demote, terminate, reassign, appoint and retain employees; the right to lay off for lack
+      of work or funds; the right to abolish positions or reorganize the departments or division; the
+      right to determine shifts, assignments and schedules of work; the right to purchase, dispose and
+      assign equipment or supplies.
+
+
+
+### ARTICLE 3 – ASSOCIATION SECURITY
+
+Dues Deduction
+
+Section 1. Applications for Association membership shall first come to the Association. The Association
+                                                  1 of 42
+                         Marion County Juvenile Employees Association Collective Bargaining Agreement
+                                                                                            2024-2026
+
+will submit membership applications to the County and they shall be processed within the next biweekly
+pay period.
+
+Section 2. Dues will continue to be deducted until the employee rescinds the request in writing. Copies
+of all such requests for membership cancellation shall be transmitted to the Association.
+
+Section 3. The written request for dues deduction is not terminated when an employee is placed on any
+type leave, disciplinary removal or lay-off status. The County shall deduct Association dues commencing
+with the first paycheck following the employee's return to paid status.
+
+Section 4. The aggregate deductions of all employees together with an itemized statement, including
+employee wages, shall be remitted to the Association no later than the tenth (10th) of the month
+following the month for which the deductions were made. The itemized listing of Association members
+shall reflect employee wages, terminations, retirements, cancellations, leave without pay, return from
+leave without pay, new members, pay changes, name changes or any other personnel action which
+would affect the amount of dues withheld.
+
+Section 5. On a monthly basis, the County shall furnish to the Association an alphabetical listing, by
+department, of the names and home addresses, membership status, FTE, employee identification
+number and continuous service date of the employees in the bargaining unit.
+
+
+
+### ARTICLE 4 – HOURS OF WORK
+
+Section 1. The regular hours of work each day shall be consecutive.
+
+Section 2. For employees working full-time, eight (8) or ten (10) hours of work on consecutive days,
+shall constitute an employee's assigned shift and each shift shall have regular starting and quitting times
+excluding those employees on flexible or irregular schedules. Ongoing changes in an employee’s shift
+starting and quitting times shall require fifteen (15) days advance notice, except in emergency work
+situations. Nothing in this Section shall restrict an employee and the County from temporarily modifying
+the work schedule when necessary and/or the parties mutually agree to the change.
+
+Section 3. Whenever the normal workweek is modified, the employee will be given fifteen (15) days
+advance notice. The notice shall contain the effective date of change, the duration and the reasons for
+the change.
+
+Section 4. Flexible Schedule. Employees of the County may work a flexible work schedule. A flexible
+work schedule is a work schedule which varies the number of hours worked on a daily basis, but not
+necessarily each day, or a work schedule in which starting and stopping times vary on a daily basis, but
+not necessarily each day, but which does not exceed forty (40) hours in a workweek and is agreed upon
+                                                  2 of 42
+                         Marion County Juvenile Employees Association Collective Bargaining Agreement
+                                                                                            2024-2026
+
+in advance by the employees and the supervisor. All flexible work schedules must be approved in
+advance. An employee of the County may request a flexible work schedule by submitting a request in
+writing to their immediate supervisor. This request shall outline the proposed schedule.
+
+No employee shall be arbitrarily denied the opportunity of working a flexible schedule. Special
+consideration may be given to an employee who demonstrates an unusual hardship. All requests for
+flexible schedules are subject to change based on the changing needs of the department and
+subsequent requests to work a flexible work schedule.
+
+Section 5. Shift Selection.
+
+   A. Regular status full-time and part-time employees in detention will bid shifts and days off annually
+      based upon seniority on or about April 1st. Effective dates of new schedules will be the beginning
+      of the first pay period in May. Regular status full-time and part-time employees in GAP will bid
+      shifts and days off annually based upon seniority on or about April 1st. Effective dates of the new
+      schedules will be the beginning of the first pay period in September. For the purposes of Article
+      4, Section 5(A), employee seniority will be as defined in Article 24. If multiple employees have
+      the same seniority date, they will rotate seniority each time shifts are bid. For the first of such
+      bids, the employee whose last name as listed on the most recent paycheck is the first in
+      alphabetical order shall bid first.
+
+   B. Trial service employees will be assigned shifts based on training and experience needs as
+      determined by the employer.
+
+   C. The employer shall post the shifts prior to the annual bid noting hours of work, days off, and any
+      job requirements, including but not limited to gender and bilingual ability. On any given shift, no
+      more than one position shall be set aside for a male staff and one position set aside for a female
+      staff in detention and GAP. Should the shift bidding by seniority or vacancies result in
+      unbalanced shifts by the basis of employee experience and ability to perform their jobs, then the
+      employer may move the least senior employee possible in order to achieve the balanced shift.
+
+   D. Subject only to restrictions expressly set forth in this agreement, management shall have the
+      discretion in managing, setting, and modifying shifts, including but not limited to determining the
+      number of positions for each shift, establishing the job requirements for positions on shift,
+      adding or subtracting from shifts during the time the schedule is in effect, modifying the shift
+      schedule from one bid period to the next bid period, and whether GAP and detention positions
+      shall be bid together. Further, this shift selection process shall not limit or restrict the
+      employer’s right or ability to modify the workweek or shifts between bids based on business
+      needs.
+
+
+
+                                                3 of 42
+                         Marion County Juvenile Employees Association Collective Bargaining Agreement
+                                                                                            2024-2026
+
+   E. If a bid slot becomes vacant, and the department elects to fill the bid slot and/or position, the bid
+      slot will be posted. Employees must notify the employer, in writing, of their interest within seven
+      (7) days. The employer will assign the most senior person who has expressed interest. This
+      process shall be limited to five (5) postings and moves. Voluntary schedule changes due to this
+      process do not require a 15-day notice. If the slot is still vacant, it will be filled by assigning the
+      least senior employee or by recall from layoff or recruitment. Movement of the least senior
+      employee will require a 15-day notice. If a bid slot becomes vacant and no staff submits written
+      interest for the bid slot, the bid slot will be filled by assigning the least senior staff, recall from
+      layoff, or recruited employee and there will be no further posting.
+
+
+
+### ARTICLE 5 – REST PERIODS AND LUNCH BREAKS
+
+Section 1. A rest period of fifteen (15) minutes shall be permitted for all employees for each full half
+work shift. Such rest periods shall normally be on a scheduled basis so that activities of the department
+shall be staffed at all times. It is a joint responsibility of management and the employee to schedule rest
+periods. Employees who are having difficulty scheduling a rest period should meet with their supervisor
+to schedule an appropriate break time. When an employee works overtime, the employee will be
+granted rest periods specified by the Oregon Bureau of Labor and Industries (BOLI).
+
+Section 2. Employees engaged in work requiring that they supervise youth during the entire work shift
+shall be granted a lunch period with pay not to exceed thirty (30) minutes.
+
+Employees not engaged in work requiring that they supervise youth during the entire work shift shall be
+granted an unpaid lunch period not less than thirty (30) minutes nor more than one (1) hour in duration.
+
+Section 3. Subject to the physical structure of the building and the operating needs of the County, and
+whenever possible, employees shall be provided with lunchroom facilities.
+
+
+
+### ARTICLE 6 – HOLIDAYS
+
+Section 1. Holidays. The following days are legal holidays for regular employees in the County service:
+
+     New Year's Day                                                   Independence Day
+     Martin Luther King’s Birthday (3rd Monday in January)            Labor Day
+     Presidents' Day (3rd Monday in February)                         Veterans’ Day
+     Memorial Day                                                     Thanksgiving Day
+     Juneteenth                                                       Christmas Day
+
+
+
+                                                  4 of 42
+                        Marion County Juvenile Employees Association Collective Bargaining Agreement
+                                                                                           2024-2026
+
+All legal holidays designated by the Board of Commissioners.
+
+Holiday compensation shall equal the number of hours the employee is regularly scheduled for the day
+the holiday falls on (“day for a day”).
+
+Holidays that occur during an employee’s regularly scheduled time off shall be paid at the regular
+straight time rate of pay.
+
+Section 2. Personal Day. Regular full-time employees, who have been employed for a minimum of six
+(6) consecutive months, are entitled to two (2) personal days each calendar year. Such days are to be
+taken in full day increments during the calendar year in which the days are earned and may not be
+carried forward into the following year. The personal days shall be scheduled in accordance with Article
+7, Section 4, Scheduling Vacations.
+
+Section 3. Commissioners’ Day. Current regular employees are granted a special Commissioners’ Day.
+This day shall be one (1) regular work shift and is to be taken between November 15 of each year and
+January 31 of the following year. The Commissioners’ Day shall be scheduled with supervisor approval
+and in a manner that will provide adequate staff to maintain service.
+
+Section 4. Weekend Holidays. When a holiday falls on an employee’s regular day off, the employee
+shall be paid at the regular straight rate of pay.
+
+Employees who are required to work on a designated holiday shall receive holiday pay as well as holiday
+compensation for that day. Employees may, in lieu of holiday pay on the designated holiday, request to
+take another day off within the same week with manager/supervisor approval through the regular time
+off request process and will receive the number of hours regularly scheduled for that day as holiday pay.
+
+Holidays that occur during paid leave of any type shall not be charged against such leave.
+
+Section 5. Part-Time Employees. Compensation for holidays will be provided to regular, part-time
+employees of the County whose budgeted FTE is equal to or greater than 0.5 (50%).
+
+When a part-time employee is not required to work the holiday, holiday compensation will be calculated
+as follows:
+
+If the employee has a regularly set work schedule, the employee will be compensated for the hours they
+would be regularly scheduled to work on the observed holiday.
+
+If the employee does not have a regularly set work schedule, holiday compensation will be calculated by
+dividing the number of hours worked the previous calendar month by the number of days worked the
+previous month.
+
+                                                 5 of 42
+                         Marion County Juvenile Employees Association Collective Bargaining Agreement
+                                                                                            2024-2026
+
+Section 6. Holiday Pay. If an employee is required to perform work on holidays which fall within the
+employee's workweek, the employee shall be compensated at the rate of time and one-half (1-1/2) for
+all hours worked on the holiday in addition to the normal rate of pay (holiday compensation) for the
+number of hours the employee would be compensated if the holiday was taken as time off.
+For the purposes of this Section, holiday compensation shall equal a normal scheduled workday.
+
+If an employee is required to work on a holiday, and the shift begins on one day and ends the following
+day (i.e., graveyard shift), the employee receives holiday premium pay for the shift that begins on the
+County’s holiday or the employee’s designated holiday if the County’s holiday falls on the employee’s
+normal day off.
+
+It is the County’s intention to provide paid time off on the actual holiday. However, the parties recognize
+that some positions must be staffed on holidays and that employees in these positions cannot be
+released from duty on those holidays. Employees who are required to work on a regularly scheduled
+holiday may, in lieu of holiday pay provided for in this Section, request to take another day off within the
+same week with manager/supervisor approval through the regular time off request process and will
+receive the number of hours regularly scheduled for that day as holiday pay.
+
+
+
+### ARTICLE 7 – VACATION LEAVE
+
+Section 1. Vacation Accumulation. After having served in the County service for six (6) consecutive full
+calendar months, full-time employees shall be eligible to use accrued vacation. Vacation leave shall be
+credited as follows:
+                                                                         Hours Per Pay Period
+         Work Hours Per Week                                                       40
+         Day one through 3 year of continuous service
+                            rd                                                   4.000
+         After 3 year of continuous service through 5 year
+                 rd                                    th                        4.308
+         After 5 year of continuous service through 10 year
+                 th                                      th                      4.924
+         After 10th year of continuous service through 15 year
+                                                            th                   5.539
+         After 15 year of continuous service through 20 year
+                   th                                      th                    6.462
+         After 20 year
+                   th                                                            7.385
+
+Section 2. Continuous Service. Continuous service for the purpose of determining eligibility for
+accelerated vacation accumulation rates shall be service unbroken by an absence (leave without pay) in
+excess of ten (10) consecutive workdays. Time spent by an employee on military leave, on an authorized
+leave of absence with pay, or on a leave without pay resulting from a compensable on-the-job injury
+shall be included as continuous. Time spent on other types of authorized leave will not count as part of
+the continuous service except employees returning from such leave or employees who were laid off,
+shall be entitled to credit for service prior to the leave.
+
+                                                  6 of 42
+                         Marion County Juvenile Employees Association Collective Bargaining Agreement
+                                                                                            2024-2026
+
+Section 3. Part-Time Employees. Vacation leave shall be earned by each regular, part-time employee
+whose budgeted FTE is equal to or greater than 0.5 (50%). Vacation leave shall accrue in an amount
+proportionate to that which would be accrued under regular, full-time employment (1.0 FTE).
+
+Section 4. Scheduling Vacations. Subject to operational requirements of the County, an employee shall
+have their choice of vacation time. The County, however, shall not use this language unfairly or
+unreasonably to deny an employee's request for vacation. Supervisors shall respond to requests as soon
+as practicable, but in no case longer than five (5) working days from receipt of the request when the
+request is made within thirty (30) working days from the beginning of the requested time off.
+Supervisors shall respond to requests that are made longer than thirty (30) working days in advance no
+longer than fifteen (15) calendar days from receipt of the request.
+
+If two (2) or more employees request the same period of time at the same time and the matter cannot
+be resolved by agreement of the parties concerned, the employee having the greatest seniority with the
+County shall be granted the vacation time. Requests received within the same minute shall be
+considered to have been received at the “same time” for purposes of this section. Such schedules may
+be amended by the appointing authorities to meet work emergencies or to grant requests of individual
+employees. Employees may request multiple weeks of vacation in tandem during choice periods for
+vacations (June through September), but management, in its discretion, may limit the number of
+employees taking back-to-back weeks of vacation during the choice periods.
+
+Section 5. Accumulation of Vacation Credits. Employees shall not accumulate vacation leave in excess
+of two hundred fifty (250) hours. Any employee who is about to lose vacation credit because of accrual
+limitations may, by notifying their appointing authority five (5) working days in advance, absent themself
+to prevent loss of this time, or at the County's option, receive payment for up to five (5) working days of
+vacation. Such action taken by the employee shall not constitute a basis for disciplinary action or loss of
+pay. Vacation leave shall not accrue during a leave of absence without pay, or educational leave with
+pay the duration of which exceeds fifteen (15) calendar days. Any employee, who is granted a leave of
+absence without pay, shall first be scheduled for any vacation leave and/or compensatory time, which
+have accrued to their credit before they commence leave without pay. Each employee's accumulated
+vacation shall be reported to them bi-weekly.
+
+Employees who are on extended workers’ compensation paid time loss shall not suffer a loss of vacation
+credits as a result of the two hundred fifty (250)-hour limit. The employee on workers’ compensation
+will accumulate vacation over the maximum limit of two hundred fifty (250) hours for a period not to
+exceed six (6) months. Amounts accrued in this manner which are above the limit shall be used within
+six (6) months of return to work.
+
+Should the employee terminate, under any circumstances, the employee shall be paid for unused
+vacation equal to the vacation time accumulated, but in no instance will the benefits exceed two
+hundred fifty (250) hours.
+                                                  7 of 42
+                         Marion County Juvenile Employees Association Collective Bargaining Agreement
+                                                                                            2024-2026
+
+Section 6. Transfer Credits and Terminal Vacation Pay.
+
+   A. When an employee is appointed to another department of the County, the employee shall retain
+      accumulated vacation credits.
+
+   B. An employee who terminates during the initial six (6) months of their employment shall not be
+      entitled to cash compensation in lieu of vacation leave. If the employee served six (6) full
+      calendar months and is separated from County service, they shall be entitled to cash
+      compensation at the hourly rate they were receiving at the time of separation. In case of death,
+      compensation for accrued vacation leave shall be paid in the same manner that wages due to the
+      decedent are paid.
+
+Section 7. Compensation Credits. Employees hired before July 1, 2010, shall receive two (2) normal
+workweeks of leave, to be taken as leave with pay or, at the employee’s option, they shall receive
+compensation for two (2) normal workweeks, accrued at the employee’s regular hourly rate of pay. The
+employee must exercise this option with each fiscal year (computations will be based on the employee's
+hourly rate at the time of the request). The benefit cannot be carried forward into the next fiscal year.
+An employee will not be eligible for this benefit if the employee has not completed their trial service
+period prior to the end of the fiscal year.
+
+If an eligible employee elects to receive the credits as pay, it must be paid in increments equal to one (1)
+workweek. No partial pay (less than one (1) workweek) is allowed. If an employee elects to receive the
+credits as leave, it may be scheduled one (1) day at a time or as a unit, subject to the approval of the
+department head.
+
+This benefit is to be used by the employee based on their employment status at the time the request is
+made. Payments or time off will be prorated based on the employee's work status.
+
+Section 8. Sunset of Compensation Credits. Employees hired on or after July 1, 2010, will not receive
+compensation credits. In lieu of receiving compensation credits, new employees will receive a higher
+rate of pay generated by rolling the value of the compensation credits (3.84%) into the base rate of pay.
+
+Section 9. Opting-Out of Compensation Credits. Employees hired on or before July 1, 2010, may make
+a one-time, permanent election to opt-out of compensation credits provided in Section 7 of this Article,
+in return for the higher salary provided in Section 8 of this Article. Once enrolled in this program, an
+employee may not return to receiving compensation credits and pay at the lower salary schedule.
+
+Section 10. Vacation Cash-Out. If an employee has accumulated at least three (3) weeks of vacation
+leave (120 hours for full-time, 60 hours for half-time), the employee may choose to cash out one (1)
+week of vacation (40 hours for full-time, 20 hours for half-time). This option is limited to one (1)
+occurrence per fiscal year.
+                                                  8 of 42
+                         Marion County Juvenile Employees Association Collective Bargaining Agreement
+                                                                                            2024-2026
+
+### ARTICLE 8 – SICK LEAVE
+
+Section 1. The county will follow any and all Oregon State sick time laws and regulations. Any benefits
+provided in this article shall count toward the county’s regulatory obligations.
+
+Section 2. Accumulation. Sick leave shall be earned by each full-time employee at the rate of three
+point six nine three (3.693) hours per pay period for those working forty (40) hours per week and may
+be accumulated without limit. Sick leave shall be earned by each part-time employee whose budgeted
+full-time equivalent (FTE) is equal to or greater than 0.5 (50%). Sick leave will be based on the same
+proportion as the hours worked are to the total actual work hours in the month and may be
+accumulated without limit. Sick leave shall not accrue during any period of leave of absence without
+pay. When an employee is appointed to another department of the County, the employee shall retain
+accumulated sick leave. Sick leave usage shall be made on an hourly basis and correspond to the
+number of hours the employee is scheduled to work.
+
+Section 3. Utilization. Employees may utilize their earned sick leave credits when unable to perform
+their work duties by reason of illness, injury or pregnancy; necessity for medical or dental care; exposure
+to contagious disease under circumstances which the health of the employees with whom associated or
+members of the public necessarily dealt with would be endangered by attendance of the employee; or
+by illness in their immediate families. Absence to attend to an ill family member, as defined in
+Section 12 of this Article, shall be limited to the time the employee's presence is actually required.
+Employees have the obligation to make other arrangements within a reasonable period of time for the
+attendance upon immediate family members.
+
+For the purposes of this Article, immediate family includes mother, father, son, daughter, husband, wife,
+sister, brother, equivalent in-laws, significant other, and domestic partners. Relatives not listed who
+reside in the employee’s household are also included in the definition.
+
+Section 4. Sick Leave Verification.
+
+   A. Management will require medical certification of the attending physician or practitioner of
+      absence due to non-FMLA/OFLA covered illness or injury under the following conditions:
+
+       i) sick leave time exceeds one (1) regular workweek and the illness or injury prevents the
+          employee from working;
+
+       ii) the employee has exhausted all sick leave;
+
+       iii) whenever the supervisor can articulate reasonable cause to believe that a misuse or abuse of
+            sick leave has occurred, including questionable usage, questionable patterns of usage or
+            calling in sick on a previously denied day off, provided the employee has been previously
+                                                  9 of 42
+                        Marion County Juvenile Employees Association Collective Bargaining Agreement
+                                                                                           2024-2026
+
+           notified by a supervisor, due to such concerns, future verification may be required.
+           Employees notified of such reasonable cause may be required to furnish certification as
+           referenced above for each use of sick leave for a period not to exceed six (6) months
+           following the notice;
+
+   B. Should an employee be required by the employer to obtain a medical certification, the employer
+      shall bear the expense of such certification not covered by the employee’s health insurance.
+
+Section 5. Sick Leave Investigation.
+
+   A. If a supervisor believes that an employee is using sick leave for reasons other than the
+      employee’s own illness, the illness of an immediate family member, injury, pregnancy, or the
+      necessity for medical or dental care, the supervisor may initiate an investigation by contacting
+      human resources to discuss the details of the allegations.
+
+       If human resources agrees with the supervisor’s assessment, human resources will begin an
+       investigation using County resources and staff. As part of the investigation, the County will
+       contact the employee and ask the employee to provide information to address the County’s
+       concerns.
+
+       The County will conduct all sick leave investigations in a manner that will provide the necessary
+       operational information while protecting the privacy of the employee to the extent possible.
+
+   B. Employees found to be abusing sick leave will have their time reverted to leave without pay and
+      will be subject to the disciplinary process.
+
+Section 6. Required Physical Examination. Should an employee be required by the employer to
+undergo a medical examination, the employer shall bear the expense of such examination not covered
+by the employee’s health insurance. The medical report shall be submitted to the employer and is the
+property thereof.
+
+Section 7. Bereavement Leave.
+
+   A. The amount of authorized bereavement leave shall be the amount required under state and/or
+      federal protected leave laws. If the employee does not qualify under the protected leave
+      policies, they may take a maximum of five (5) working days, chargeable to any accumulated leave
+      for each death of a family member as defined in Section 12 of this Article.
+
+   B. In the event all accruals have been exhausted, the employee will be granted up to five (5)
+      working days unpaid bereavement leave for each death of a family member as defined in
+      Section 12 of this Article.
+                                                10 of 42
+                         Marion County Juvenile Employees Association Collective Bargaining Agreement
+                                                                                            2024-2026
+
+Section 8. Sick Leave Without Pay.
+
+   A. Sick leave without pay shall be granted for one occurrence up to maximum of ten (10) working
+      days. This option shall be exercised, by an employee, only once in a twelve (12)-month calendar
+      year period and the days taken off must be consecutive. Upon returning to work, the employee
+      shall be returned to their former position and shift in that week's schedule. In the event the
+      employee applies for any leave under the provisions of the Family Medical Leave Act (FMLA),
+      Oregon Family Leave Act, or related statute, any leave granted under the provisions of this
+      Section shall be counted against leave granted under the FMLA/OFLA.
+
+   B. Upon written application by an employee, leave without pay may be granted by the department
+      head for a serious health condition when FMLA/OFLA entitlements have been exhausted. The
+      department head may authorize sick leave without pay not to exceed six (6) months duration or
+      until such employee is released by the employee's physician, whichever comes first. Denials will
+      be based on business need.
+
+Section 9. Leave Credit Following Reappointment or Recall from Layoff. An employee who is re-
+employed following a hearing or layoff shall have sick leave credits accrued during the previous
+employment restored. An employee who is re-appointed within a twelve (12)-month period after
+voluntary separation may have all of their previously accumulated sick leave credits restored.
+
+Section 10. Notification. An employee who is ill and unable to report to work shall make a reasonable
+effort to notify their supervisor/manager as soon as the employee becomes aware that they will be
+unable to perform their assigned duties. Whenever possible, employees shall give two (2) hours notice
+that they will be unable to perform their duties. In the event illness or an emergency prevents the
+employee from such notification, the County may require written explanation of the failure to report in
+a timely manner. It shall be the responsibility of management to make the facilities or staff available to
+accomplish this notification. In case of a continuing illness, the County may require the employee to
+keep the supervisor/manager advised of their inability to report to work on a daily basis. Whenever an
+illness requires the employee's absence in excess of five (5) working days, they shall make every
+reasonable attempt to notify the County as soon as possible.
+
+Section 11. Separation. No compensation for accrued sick leave shall be allowed for any employee
+when they are separated from County service.
+
+Section 12. Protected Leave. Protected leave is available for qualifying employees in the form of family,
+medical, domestic violence, and military leave in conformance with the Family Medical Leave Act
+(FMLA), Oregon Family Medical Leave Act (OFLA), Oregon Victims of Certain Crimes Leave Act (OVCCLA),
+and Oregon Military Family Leave Act (OMFLA).
+
+
+
+                                                 11 of 42
+                         Marion County Juvenile Employees Association Collective Bargaining Agreement
+                                                                                            2024-2026
+
+The administration and implementation of these acts will be in accordance with the County policy and
+procedures.
+
+Any conflicts in the administration or interpretation of the provisions under either law shall first be
+resolved by the application of the appropriate federal and/or state statute.
+
+Section 13. Sick Leave Conversion. Regular, full-�me employees who have accumulated at least one
+hundred ten (110) hours of sick leave may convert a minimum of twenty-four (24) hours or equivalent to
+the employee’s current work schedule, to three (3) personal days that cover the full hours of their shi� at
+�me of usage. The converted hours will only be used in full-day increments, cannot be cashed out, and
+will not be paid out upon termina�on of employment. Employees are allowed to exercise this sick leave
+conversion op�on only once per calendar year, as long as they con�nue to meet the accumula�on
+requirements at the �me of each request. Personal days are to be taken during the calendar year in
+which they were converted and may not be carried forward into the following year. The personal days
+shall be scheduled in accordance with Ar�cle 7 – Vaca�on Leave.
+
+
+
+### ARTICLE 9 – OTHER LEAVES
+
+Section 1. Other Leaves of Absence with Pay. An employee holding a position in County service shall
+be granted a leave of absence with pay for:
+
+   A. Service with a jury; and
+
+   B. Non job-related appearance before a court, legislative committee, judicial or quasi-judicial body,
+      as a witness in response to a subpoena or other direction by proper authority not to exceed one
+      (1) full workday where the employee is not a party in the case. Employees, who are excused
+      from jury service or court appearance before the end of their workday, shall immediately report
+      their availability for assignment to their supervisor. All jury and witness fees, except mileage and
+      meals received by the employee, shall be turned over to the County.
+
+Section 2. Other Leaves of Absence without Pay. Prior to the expiration of all accrued leave, except
+sick leave, the employee may request in writing, a non-paid absence, i.e., leave without pay (LWOP). In
+instances where the work will not be seriously impeded by the temporary absence of an employee, the
+department head may authorize such leave, not to exceed one (1) year. If such leave is denied by the
+department head, the employee may appeal the denial to the Chief Administrative Officer within ten
+(10) days of the denial. The employee's request for such leave must be in writing and must establish
+reasonable justification for approval of the request. An employee on such authorized leave of absence
+shall not be considered to be on the payroll of the County during the period of leave. Such leave will not
+be approved for an employee who is accepting employment outside County service. Any employee who
+
+                                                  12 of 42
+                         Marion County Juvenile Employees Association Collective Bargaining Agreement
+                                                                                            2024-2026
+
+is granted a leave of absence without pay shall first be scheduled for any type of qualifying paid leave,
+which has accrued to their credit, before the employee is placed on leave without pay.
+
+Section 3. Absence Paid by County Workers' Compensation Program. An employee may utilize sick
+leave or vacation credit to augment benefits paid under the workers' compensation program. When
+returned to work, the employee will be paid at the rate for the job to which they are assigned, which
+includes all merit and cost-of-living increases that normally would be granted during the time away from
+work as a result of the on-the-job injury.
+
+The County shall provide workers' compensation insurance as required by state law. Employees who
+become eligible for workers' compensation shall be provided all benefits and rights in accordance with
+workers’ compensation administrative rules and regulations, and nothing in this Article is intended to
+diminish those benefits and rights.
+
+Section 4. Military and Peace Corps Leave. Military and Peace Corps leave shall be granted in
+accordance with Oregon Revised Statutes.
+
+Section 5. Temporary Interruption of Employment. Any temporary interruption of employment
+because of adverse weather conditions, shortage of supplies or for other unexpected or unusual
+reasons, which does not exceed ten (10) days, shall not be considered a layoff if, at the termination of
+such conditions, employees are to be returned to employment. Such interruptions of employment may
+be charged to accrued vacation leave or may be recorded as leave without pay.
+
+Section 6. Failure to Return from Leave. Any employee who has been granted a leave of absence and
+who, for any reason, fails to return to work at the expiration of said leave of absence, shall be
+considered as having resigned their position with the County. After an absence without leave for three
+(3) or more working days, their position shall thereupon be declared vacant and the employee
+terminated unless the employee, prior to the expiration of their leave of absence, has furnished
+evidence that they are unable to return to work by reason of sickness, physical disability or other
+legitimate reasons beyond their control. Such leave requests shall be reviewed under Article 8,
+Section 8(B).
+
+Section 7. Absence Without Leave. An absence of an employee from duty, including any absence for a
+single day or part of a day, which is not authorized by a specific grant of leave of absence under the
+provisions of this Agreement, shall be deemed to be an absence without leave. Any such absence shall
+be without pay and may be subject to disciplinary action. After an absence without leave for three (3) or
+more working days, the employee’s position shall thereupon be declared vacant and the employee
+terminated.
+
+
+
+
+                                                 13 of 42
+                        Marion County Juvenile Employees Association Collective Bargaining Agreement
+                                                                                           2024-2026
+
+### ARTICLE 10 – HEALTH AND WELFARE
+
+Section 1. Marion County Benefits Plan. Marion County shall, within the maximum contribution
+provided by the County, attempt to provide the best value, most effective health, dental and vision
+benefits available for employees and their families. The County agrees to pay the full premium for life
+insurance equal to the employee’s base annual salary and for long-term disability benefits equal to
+66 2/3% of employee’s base earnings for each eligible employee. Employees will be allowed to use a
+Section 125 plan for health care, dependent care, transportation, and health insurance premium
+expenses, as allowed by law.
+
+Section 2. Optional Insurance Benefits. Employees desiring to participate in other optional insurance
+programs currently authorized by the Board may do so at their expense with their payroll withholding.
+Employees on a non-paid leave status must make their own arrangements with Marion County's
+Employee Benefits staff to continue insurance benefits at their own expense, subject to the contract
+terms and conditions between the County and the insurance carriers.
+
+Section 3. Health Insurance Study Committee.
+
+The purpose and function of the Health Insurance Study Committee will be as follows:
+
+   A. To provide plan design recommendations for health, dental, and vision plans within the County
+      contribution level as closely as possible.
+
+   B. To provide plan design recommendations that provides incentives for employees to be cost-
+      effective health, dental, and vision benefit consumers.
+
+   C. To explore a variety of options and plan designs available at rates within the County contribution
+      level as closely as possible.
+
+   D. To develop recommendations to provide health, dental, and vision communications to County
+      employees and their families to encourage them to be effective consumers.
+
+   E. The committee will try to reach a consensus on recommendations for medical, vision and dental
+      plan designs. If unable to reach a consensus, the committee will, by three-fourths vote, reach
+      agreement on recommendations. If unable to reach agreement by consensus or vote, the
+      benefits and Human Resources Manager will provide recommendations to the Board of
+      Commissioners for adoption by October 1st of the calendar year preceding the benefit plan year.
+
+   F. The committee shall be composed of equal representation of employees representing
+      associations/unions and management. The Association President shall designate a
+      representative.
+                                                14 of 42
+                         Marion County Juvenile Employees Association Collective Bargaining Agreement
+                                                                                            2024-2026
+
+   G. Meetings shall be held at least quarterly. Employees shall be allowed release time in accordance
+      with Article 19. No overtime shall be paid for attendance at these meetings.
+
+Section 4. Employer Health Insurance Contributions.
+
+   A. The County agrees to contribute up to one thousand six hundred ninety-six dollars ($1,696) per
+      employee, per month, for health, dental and vision benefits for the benefit plan year
+      January 1, 2024, to December 31, 2024.
+
+   B. The County agrees to contribute up to one thousand seven hundred ninety-six dollars ($1,796)
+      per employee, per month, for health, dental and vision benefits for the benefit plan year
+      January 1, 2025, to December 31, 2025.
+
+   C. The County agrees to contribute up to one thousand eight hundred ninety-six dollars ($1,896)
+      per employee, per month, for health, dental and vision benefits for the benefit plan year
+      January 1, 2026, to December 31, 2026.
+
+
+
+### ARTICLE 11 – WAGE ADJUSTMENT
+
+Section 1. Retirement. The County agrees to continue its participation in the PERS and OPSRP pension
+accounts.
+
+Effective the first pay period after July 1, 2010, the parties agree that the employer shall contribute six
+percent (6%) of eligible subject salary, to be remitted to Oregon PERS. After any required adjustments,
+Oregon PERS will distribute the net amount to the employee’s Individual Account Program (IAP). For the
+limited purposes of Internal Revenue Code Section 414(h)2) and related tax statutes, the employee's
+contribution to PERS will be picked up by the County as a pre-tax contribution as the term "pick-ups" is
+used in the Internal Revenue Code. It is the intention of the parties that these provisions should, in
+substance if not in absolute form, result in no substantial additional cost to the County and no
+substantial effect on the net pay of employees.
+
+If this Agreement is determined to be unlawful, ineffective or unenforceable by a final order of a court
+or agency of competent jurisdiction and if such order requires any payment by the County or payment to
+the County by one or more members of the Board of Commissioners or any officer or employee of the
+County as a result of such determination, the Association, its individual members and any successor
+organization agree that individual bargaining unit members will repay any salary, retirement benefits
+improperly paid, and taxes of FICA , including any ordered interest.
+
+Should this hold harmless obligation need to be implemented, the means and methods of doing so shall
+be agreed by the parties but shall require fulfillment of the obligation within one year from the
+                                                 15 of 42
+                          Marion County Juvenile Employees Association Collective Bargaining Agreement
+                                                                                             2024-2026
+
+expiration of all appeals applicable to the determination necessitating the implementation. Nothing in
+this Agreement, however, shall prevent Marion County and the Association from negotiating lawful
+wage or benefit provisions which utilize dollars subject to repayment. Should the County be sued based
+on the provisions of this Agreement, the Association agrees to join with the County in litigation
+defending the terms of this Agreement.
+
+Section 2. Employees will be paid biweekly. Paydays will be on Tuesdays except when Tuesday is also a
+holiday in which case employees normally will receive their paychecks prior to the holiday. When the
+payday is in the subsequent year, the employee paycheck will then be received on Wednesday of the
+subsequent year.
+
+Section 3. Cost of Living Adjustment. Effective July 1, 2024, employees shall receive a cost of living
+adjustment of four percent (4%). Effective July 1, 2025, employees shall receive a cost of living
+adjustment of three percent (3%).
+
+Section 4. Training. Employees whose regular work duties do not include training who are assigned to
+train or assist in training other County employees by their supervisor, shall receive a five percent (5%)
+differential for all hours worked while engaged in that training. For the purpose of this Section,
+orientation functions such as understanding policies, learning access to computer programs, and
+learning routes or schedules are not considered training.
+
+Section 5. Shift Differential. All full-time employees and all part-time employees working fifty percent
+(50%) or more shall receive a one dollar ($1.00) per hour shift differential for all time which falls
+between the hours of 6:00 p.m. and 6:00 a.m. on weekdays and all hours worked on Saturday and
+Sunday.
+
+Section 6. Bilingual Skills. Employees, whose regular duties include the use of bilingual skills and who
+are assigned to translate or assist in translation or otherwise use their bilingual skills by their supervisor,
+shall receive a five percent (5%) differential for all hours worked. Eligibility for the differential will be
+based on passing a valid, reliable, professionally recognized foreign language test.
+
+Section 7. Notary Licensing. Employees, whose job duties require them to possess licensing as a notary
+public, shall be reimbursed for all fees associated with that license.
+
+Section 8. Call Back Pay (Overtime Eligible Employees Only). Call back is an occasion where an
+employee has been released from duty and is called back to work prior to their normal starting time. On
+such occasions, the employee’s scheduled or recognized shift shall be made available for work, except
+the department head shall not be obligated to work the employee more than twelve (12) consecutive
+hours and the employee may choose, except in cases of emergency, not to work more than twelve (12)
+consecutive hours, excluding meal periods, of combined call back time and regular shift time.
+
+                                                   16 of 42
+                         Marion County Juvenile Employees Association Collective Bargaining Agreement
+                                                                                            2024-2026
+
+An employee who is called back to work outside their scheduled work shift shall be paid a minimum of
+two (2) hours’ pay at the overtime rate. After two (2) hours’ work, in each call back situation, the
+employee shall be compensated at the appropriate rate of pay for time worked.
+
+Section 9. Telephone Call Pay. The County agrees to compensate overtime-eligible employees
+compensatory time (calculated at a time-and-one-half rate) for job-related telephone calls made or
+received outside of their normal work hours. An additional fifteen (15) minutes of time shall be accrued
+for each call they receive or make between the hours of 10:00 p.m. and 6:00 a.m. Example: A six (6)-
+minute phone call received at midnight would result in a total of twenty-four (24) minutes of
+compensatory time (six (6) minutes x one and one-half (1.5) = nine (9) + fifteen (15) = twenty-four (24)).
+This Section is not intended to require employees to make themselves available to receive after-hour,
+work-related phone calls. Employees do not receive compensatory time if the purpose of the telephone
+call is to offer additional shifts, voluntary overtime, or mandatory overtime.
+
+
+### ARTICLE 12 – ADMINISTRATION OF PAY PLAN
+
+Section 1. Compensation Plan. The County has adopted a Compensation Plan under which employees
+covered by this Agreement have been and shall continue to be compensated. Compensation Plans can
+be accessed on the Intranet page for Human Resources.
+
+Section 2. Administration of Compensation Plan.
+
+   A. Rates of Pay. Each employee shall be paid at one of the rates in the pay range for the
+      classification in which they are employed.
+
+   B. Entrance Pay. Normally, an employee will be appointed or reinstated at the entrance rate for
+      the classification. If the Director believes it is necessary to make an appointment or
+      reinstatement above the entrance rate, the appointing power may do so if allowed by the
+      Marion County Personnel Rules.
+
+   C. Merit Increases. Merit increases shall be based on satisfactory service. Employees shall be
+      eligible for in-range merit increases on their established anniversary date until such time as an
+      employee has reached the top step of the classification in which they are employed. The
+      eligibility date, for the purpose of this Section, shall be the date upon which the employee is
+      granted their first in-range merit increase to the second step of their pay range. This eligibility
+      date may be changed as a result of the timing of future in-range merit increases, promotions or
+      reclassifications.
+
+   D. Eligibility For Merit Increases. A new employee shall be advanced to the second step of the pay
+      range for their classification six (6) months from the date of hire after satisfactory service in their
+                                                  17 of 42
+                      Marion County Juvenile Employees Association Collective Bargaining Agreement
+                                                                                         2024-2026
+
+   classification. In those cases where a new employee is appointed above the minimum step of
+   the pay range for their classification, their eligibility for advancement to the next step shall be
+   the same as though they were appointed at the minimum step, unless otherwise ordered by the
+   Board. Thereafter, eligibility for advancement to each succeeding step of the pay range shall be
+   after each additional year of satisfactory continuous service at the preceding step.
+
+   Regular employees shall be eligible for Longevity 1 after being on Step 7 of the current pay range
+   for one full year AND employed with the County for a minimum of ten (10) years. Regular
+   employees shall be eligible for Longevity 2 after being on Longevity 1 of the current pay range for
+   a full year AND employed with the County for a minimum of fifteen (15) years. Regular
+   employees shall be eligible for Longevity 3 after being on Longevity 2 of the current pay range for
+   a full year AND employed with the County for a minimum of twenty (20) years.
+
+E. Movement to a Higher Classification. When an employee is promoted or reclassified to a
+   position in a classification with a higher maximum pay rate, the employee shall be placed on an
+   actual step in the new range that will provide a minimum of a five percent (5%) increase, or to
+   the minimum of the new range. The date of such promotion or reclassification shall establish a
+   new anniversary date for subsequent merit increases.
+
+F. Movement to a Lower Classification. If an employee is reclassified to a position in a
+   classification with a lower pay range, their pay rate may remain the same if it is within the pay
+   range of the lower classification. If the employee’s current pay rate is not within the lower pay
+   range, the reduction in wages shall not occur until one (1) year after the effective date of the
+   reclassification. The anniversary date does not change as a result of the movement to a lower
+   classification.
+
+G. Demotion. Employees who voluntarily demote or are demoted for cause shall be placed in the
+   new range at a step closest to the former rate of pay without resulting in a pay increase. The
+   anniversary date does not change as a result of the demotion.
+
+H. Internal Appointment. When an employee is selected as an internal appointment to another
+   position in a classification with the same pay range, their rate of pay remains the same. Such
+   employee shall retain their anniversary date for pay increases.
+
+I. Pay Range Adjustment. The Board may make, in addition to general pay range changes
+   negotiated between the Board and the Association, adjustments in a pay range or ranges as it
+   determines necessary to attract and hold competent personnel or to provide pay equity between
+   the various classifications.
+
+J. Working Out of Classification. When an employee is assigned to perform some of the duties of
+   a position intermittently at a higher level classification that are not in their current classification,
+                                               18 of 42
+                         Marion County Juvenile Employees Association Collective Bargaining Agreement
+                                                                                            2024-2026
+
+       the employee shall be paid five percent (5%) differential for all hours worked in a higher
+       classification.
+
+   K. Acting in Capacity. An employee is acting in capacity when they are temporarily designated to
+      perform the majority of the duties of a higher classification that are not in their current
+      classification on a full-time continuous basis. Employees acting in capacity shall be paid five
+      percent (5%) above the employee’s base rate of pay or the first step of the higher classification’s
+      pay range, whichever is greater, for all hours an employee is designated to act in the capacity of
+      the higher level classification. Acting in capacity assignments are limited to six (6) consecutive
+      months unless conditions warrant extension, which must be approved by the labor-management
+      committee.
+
+   L. Lead Worker. An employee assigned to a full spectrum of lead worker duties shall receive a five
+      percent (5%) increase for actual hours worked as a lead worker. Lead worker duties comprise all
+      of the following:
+      • Training
+      • Reviewing Work
+      • Organizing, planning, and scheduling work assignments
+      • Providing input on employee performance evaluations
+      • Providing guidance in daily activities
+      • Providing technical expertise
+      • Acting as a resource on difficult points of procedure
+      • Providing assistance to and making recommendations in the hiring process
+
+       Employees shall not exercise lead worker responsibilities over employees with whom they have a
+       family, financial, or close personal relationship.
+
+
+
+### ARTICLE 13 – OVERTIME
+
+Section 1. The following shall be regarded as hours worked for the purpose of computing overtime
+hours for overtime eligible employees:
+
+   A. All hours worked, holidays, jury duty and sick leave.
+
+   B. No overtime shall be worked unless authorized by the department head. Overtime shall not be
+      paid for missed rest periods unless management affirmatively assigns an employee to miss their
+      rest period.
+
+Section 2. Except as a result of shift rotation, overtime shall be considered as time worked in the
+employee's regular position in excess of forty (40) hours in a week or over ten (10) hours worked
+                                                 19 of 42
+                          Marion County Juvenile Employees Association Collective Bargaining Agreement
+                                                                                             2024-2026
+
+consecutively for regular status employees. Overtime shall be compensated only once for the same
+hours worked.
+
+Section 3. Whenever overtime work is required by the supervisor or department head, management
+shall give forty-eight (48) hours advance notice of all overtime to be worked when, in the opinion of the
+department head or their representative, such notice can reasonably be provided.
+
+Section 4. No person shall be discriminated against or disciplined for refusing to work overtime when, in
+the opinion of the department head or their representative, another qualified employee is available to
+perform the work.
+
+Section 5. Compensation for authorized overtime shall be at the rate of time and one-half (1-1/2) and
+may be either pay or compensatory time off. It shall be paid only if approved by the department head
+or designee. However, the employee may elect compensatory time off in lieu of pay. Compensatory
+time must be taken as leave at a mutually agreeable time. There will be a fifty (50)-hour accrual cap on
+compensatory time. Such payment shall be at the employee's rate of pay, which is being earned at the
+time of payment. When an employee is terminated they shall be paid for the overtime they accrued at
+the hourly rate they were receiving at the time of separation.
+
+This Article is subject to the provisions of the Fair Labor Standards Act. If there is a conflict between this
+Section and the Fair Labor Standards Act, the Fair Labor Standards Act controls.
+
+Section 6. Payment for overtime shall be made no later than the next payday following the pay period
+in which the overtime is worked.
+
+Section 7. When overtime is made available to employees, it shall be distributed per the overtime
+policy.
+
+
+
+### ARTICLE 14 – TRAVEL ALLOWANCES
+
+Section 1. Cost of In-State Transportation. All in-state travel must be approved in advance. The cost of
+transportation shall be reimbursed according to the terms of this Agreement. Receipts shall be
+submitted with claims for reimbursement for air, train or bus travel, and reimbursement for private
+automobile transportation. Mileage reimbursement for the use of private vehicles shall be at the
+current standard IRS mileage rate for business use of an automobile. Mileage shall be computed from
+official state mileage tables. Travel arrangements will be made by the County and paid directly. In the
+event employees must pay their own travel expenses, reimbursement is on an actual cost basis. Where
+employees elect to drive private automobiles in lieu of plane or train transportation, reimbursement will
+not exceed the best available airfare on the day air travel would normally be booked.
+
+                                                   20 of 42
+                        Marion County Juvenile Employees Association Collective Bargaining Agreement
+                                                                                           2024-2026
+
+Section 2. Cost of Out-of-State Transportation. All out-of-state travel must be approved in advance by
+the Department Head. Only travel for which funds are available may be approved. Written requests for
+authorization of out-of-state travel must be submitted fifteen (15) days prior to the proposed travel.
+Requests submitted less than fifteen (15) days in advance must be accompanied by an explanation of
+the emergency.
+
+Section 3. Cost of Lodging, Meals and Other Travel Allowances. The County shall reimburse the actual
+cost of lodging, meals and other related transportation expenses on an actual cost basis. Except in the
+case of an emergency, the employee shall receive prior approval for all anticipated expenses. In order to
+receive reimbursement, a receipt must be provided for all expenses. The County reserves the right to
+deny expense claims for such things as personal gifts, alcohol, entertainment or excessive expenses.
+
+Section 4. Meal Requirements for Reimbursement. Reimbursement for meals shall only be provided
+for meals outside Marion County while on County business and shall be the actual cost of each meal
+according to Section 3 of this Article.
+
+Employees required to stay overnight shall have all appropriate meal expenses reimbursed with prior
+approval according to Section 3 of this Article.
+
+Section 5. Liability Insurance. Whenever an employee is authorized to use their personal vehicle in
+performance of official County duties and is required by the County to obtain automobile liability
+coverage in excess of the minimum levels required by state law, the County shall reimburse the
+employee for the cost of the insurance in an amount not to exceed ten dollars ($10.00) per month.
+Employees who are eligible for reimbursement shall provide the County with proof of insurance and
+premium rates.
+
+
+### ARTICLE 15 – HEALTH AND SAFETY REGULATIONS
+
+Section 1. The County shall make reasonable provisions and exercise due consideration regarding the
+health and safety of its employees during the hours of their employment. Employees shall follow
+County safety regulations and traffic laws and shall use safety equipment provided by the County.
+Employees shall be encouraged to report to their supervisors unsafe and potentially hazardous
+conditions.
+
+Section 2. The County shall maintain clean and sanitary places where the employees report to work and
+provide proper shelter against the elements as well as safety measures as provided for in the Oregon
+Safe Employment Act.
+
+Section 3. Any equipment required by Oregon Occupational Safety and Health Division (OR-OSHA) will
+be provided by the County.
+                                                21 of 42
+                        Marion County Juvenile Employees Association Collective Bargaining Agreement
+                                                                                           2024-2026
+
+Section 4. Employees may refuse to operate any equipment or ride in or on any vehicle they believe is
+unsafe until the equipment has been mutually inspected and/or corrected by the employee and their
+immediate supervisor and/or qualified person. If after such inspection, the equipment is determined by
+the supervisor and/or other qualified person to be safe, the employee may not refuse to operate the
+equipment.
+
+Employees shall not be disciplined for refusal to operate believed unsafe equipment nor shall refusals to
+operate such equipment be construed as insubordination until the previous paragraph of this Article has
+been complied with unless an emergency situation exists.
+
+Section 5. All County owned vehicles will be inspected at least annually by a person qualified to perform
+such an inspection as designated by fleet management. A written evaluation of this safety check will be
+maintained by Fleet.
+
+Section 6. The County will provide for ergonomic standards to be established.
+   A. The County will provide ergonomically correct workstations for employees.
+
+   B. The employee will cooperatively work with the County to maintain a satisfactory work
+      environment.
+
+
+
+### ARTICLE 16 – PERFORMANCE EVALUATIONS
+
+Section 1. Employees shall be given a performance evaluation at least annually. This Article is subject to
+the provision of Article 12 to determine the employee's eligibility for merit increases.
+
+Section 2. General Policy. It is the policy of the County to periodically review the work of each
+employee to assure that the employee is meeting the performance standards of the particular position.
+The review shall include a rating of the employee's quality and quantity of work; a review of problems
+which occurred during the previous year; establishment of a goal for career development and job
+enrichment; a review of the areas which need improvement; and, setting of performance goals for the
+employee for the ensuing year.
+
+Section 3. Performance Evaluations. Human resources shall establish a system designed to fairly
+evaluate employee work performance. The evaluation will also outline ways to improve employee
+performance.
+
+Section 4. Procedure.
+
+   A. Supervisor Review. At least once each year, supervisors shall meet individually with their
+
+                                                22 of 42
+                         Marion County Juvenile Employees Association Collective Bargaining Agreement
+                                                                                            2024-2026
+
+       employees to review the employees’ work performance. The supervisor will observe employees
+       at their duties prior to writing the evaluation. A copy of the performance evaluation shall be
+       made available to the employee at the time of the evaluation.
+
+   B. Appointing Authority Review. The appointing authority shall review all performance evaluations
+      and, when necessary, shall meet with the employee or supervisor to discuss problems in the
+      evaluation. Any comments made by the appointing authority shall be made a part of the form
+      and supplied to the supervisor and employee.
+
+Section 5. Use of Performance Evaluation. The performance evaluation shall be a part of the
+employee's personnel file and may be used as a factor in determining promotion, demotion, internal
+appointment, reassignment, layoff, merit increase, disciplinary action and satisfactory completion of the
+trial service period.
+
+Section 6. Employee Disagreement with Evaluation. If an employee disagrees with the performance
+evaluation, the employee may file a response with the supervisor or with human resources citing
+reasons for the disagreement. Human resources will file the response in the employee’s personnel file.
+Employees must file responses no later than thirty (30) days after the employee signs the performance
+evaluation, or no later than thirty (30) days after the employee refused to sign the evaluation, as noted
+by the supervisor.
+
+Section 7. The parties agree to meet and discuss the performance evaluation procedure, identify
+weaknesses in the current system, and recommend improvements. The County agrees to implement
+mutually agreeable changes in a timely fashion.
+
+
+### ARTICLE 17 – GENERAL PROVISIONS
+
+Section 1. No Discrimination. The provisions of this Agreement shall be applied equally to all
+employees in the bargaining unit without discrimination as to age, marital status, race, color, creed, sex,
+handicap, national origin, sexual orientation, Association membership or political affiliation. The
+provisions of this Agreement shall be applied equally to all employees in the bargaining unit in regards to
+hiring, firing, discipline and discharge.
+
+Section 2. Association Activities. Association activities shall be conducted in a manner which will not
+interfere with the effectiveness and efficiency of the County's operations in serving and carrying out its
+responsibility to the public. There shall be no soliciting of employees for Association membership during
+working hours when such soliciting would interfere with the performance of an employee's duties.
+
+Section 3. Bulletin Boards. The County agrees to authorize the use of bulletin board space in
+convenient places to be used by the Association in communicating with employees.
+                                                 23 of 42
+                         Marion County Juvenile Employees Association Collective Bargaining Agreement
+                                                                                            2024-2026
+
+The Association shall limit its posting of notices and bulletins to such bulletin boards and contents of
+such notices and bulletins shall be limited to the posting of factual information as it relates to employees
+and the business of the Union.
+
+Section 4. Courier Service. The Association shall be allowed to use the County courier service for
+distribution of Association business materials to bargaining unit employees.
+
+Section 5. New Employee Orientation. A representative of the Association shall be granted time off
+with pay for a presentation on behalf of the Association during lunch at the New Employee Orientation.
+The purpose of the presentation shall be to identify the organization's representation status, provide
+information on the Association and distribute and collect membership applications. A list of new
+employees shall be delivered to the Association President for the purpose of these orientations.
+
+Section 6. Meetings. Meetings between the County and the Association may be held, if practicable,
+during regular working hours on the premises of the County and without loss of pay to authorized
+participating employees. The number of participating employees representing the Association, exclusive
+of any aggrieved employee, may be limited to two (2) without loss of pay.
+
+Section 7. Negotiations. Negotiations between the parties conducted during the open period(s) as
+provided by Article 34 – Life of Agreement and Termination of the Agreement shall be held during non-
+working hours, unless otherwise mutually agreed. The Association's Bargaining Committee shall be
+limited to three (3) members of the Association if negotiations are during working hours.
+
+Section 8. Rights and Obligations. The Association and the County agree that there must be mutual
+respect for the rights and obligations of the Association, the County and the representatives of each.
+
+Section 9. Use of County Equipment. Association officers, representatives, and committee
+representatives shall have the right to use County equipment including, but not limited to, copy
+machines, computers, and e-mail.
+
+Any use resulting in cost shall be preauthorized by the supervisor. Such use will not be denied unless it
+adversely affects the functions, services and operations of the department. The Association shall pay
+when there is an associated cost at the rate charged to the public. Computer use shall be limited to
+those currently authorized to use such equipment and limited to designated County hardware and
+software. All such computer use shall be in compliance with current County and department policy.
+
+Section 10. Labor-Management Committees.
+
+   A. The parties have jointly recognized that the creation of an effective Labor-Management
+      Committee requires trust and commitment and open channels of communication. We believe
+
+                                                 24 of 42
+                         Marion County Juvenile Employees Association Collective Bargaining Agreement
+                                                                                            2024-2026
+
+       that our working relationship will be enhanced by the creation of a Labor-Management
+       Committee. The purpose of the committee shall be to:
+
+       1. Seek mutual respect and understanding between the parties.
+       2. Solve problems in the best interest of County residents, employees and Association
+          members.
+       3. Move labor management relations from adversarial to cooperative relations.
+       4. Broaden all employees' understanding of the cooperative process.
+       5. Promote participatory decision-making.
+       6. Seek to understand and be understood.
+       7. Established by agreement of the parties the committee shall be authorized to advise County
+          management officials and the Union executive committee of possible solutions to ongoing
+          issues of mutual interest.
+       8. The County values feedback in relation to the job performance of management employees
+          and will seek input from employees to aid in the evaluation process.
+
+   B. Membership. Membership on the committee shall be six (6) members. Three (3) members shall
+      be appointed by the Association and three (3) members appointed by department management.
+
+
+
+### ARTICLE 18 – EDUCATIONAL ASSISTANCE
+
+Section 1. Tuition aid is defined as full or partial payment or reimbursement for the costs of training
+sessions, classes or formal academic course work pursued on a part-time basis either during or after
+normal working hours.
+
+Section 2. When, as part of a department or County-wide training plan, an employee or group of
+employees is assigned to attend on a part-time basis designated courses either during or after regular
+working hours, the employees shall be reimbursed for the costs of course registration, course materials
+and necessary travel expenses.
+
+Section 3. Tuition aid may be provided for one-half (½) the cost of the course registration fee to
+employees who successfully complete classes for the purpose of self-development when such training
+will also be beneficial to the County.
+
+Section 4. Requests for tuition aid and/or course materials shall be submitted to the County for
+approval or disapproval prior to enrollment by the petitioning employee.
+
+Section 5. In instances where the work of the County will not be seriously impeded by the temporary
+absence of an employee, a leave of absence without pay of appropriate duration may be granted by the
+
+
+                                                 25 of 42
+                        Marion County Juvenile Employees Association Collective Bargaining Agreement
+                                                                                           2024-2026
+
+governing body upon request. Requests for such leave must be in writing. Leave granted under this
+Section will normally not exceed one (1) year.
+
+
+### ARTICLE 19 – RELEASE TIME FOR ASSOCIATION ACTIVITIES
+
+Section 1. Association Officers. The President, Vice-president, Secretary, Treasurer, and Sergeant at
+Arms of the Association will be granted reasonable time to meet with employees, managers, executive
+staff and elected officials to discuss contract administration.
+
+Section 2. Committee Members. All employees elected or appointed by the Association to serve on
+county or department-wide management and labor committees where the County or department has
+requested that the Association provide a representative shall be granted reasonable release time to
+travel to meetings, attend committee meetings, subcommittee meetings or to carry out duties assigned
+by those committees.
+
+Section 3. Association Representatives. The Association shall notify the County, semi-annually and in
+writing, of all employees who will act as Association Representatives.
+
+Reasonable paid release time will be granted to representatives to:
+
+   A. Investigate and process grievances.
+   B. Provide orientation to all new employees.
+   C. Meet with employees and management to discuss contract administration.
+
+Section 4. General Conditions of Release Time. All release time from duties during the employee’s
+regular work schedule granted under this Article shall be subject to the following:
+   A. Release time is subject to the operational needs of the County. If denied for operational needs, it
+       will immediately be rescheduled for the earliest possible time.
+
+   B. The officer/representative or employee shall be responsible to notify their supervisor when they
+      are leaving the worksite under the provisions of this Article. In addition, the Association
+      representative shall ensure that the supervisor of the grievant or witness to be interviewed has
+      been notified.
+
+       Notifications shall include the time and expected duration of the absence. Grievants and
+       witnesses shall be granted reasonable paid time for such interviews.
+
+   C. In the event there is disagreement between the employee and a supervisor regarding the
+      amount of release time requested or used and said disagreement cannot be resolved between
+
+                                                26 of 42
+                         Marion County Juvenile Employees Association Collective Bargaining Agreement
+                                                                                            2024-2026
+
+       the two parties, the Chief Human Resources Officer or designee and the Association
+       Representative shall attempt to mediate a resolution to the disagreement.
+
+   D. All paid release time will be reported on the employee's timesheet under the appropriate code.
+      Time spent on association activities outside the employee’s regular work schedule is not
+      compensable time. The parties agree to meet and review usage and practices, as needed.
+
+Section 5. There shall be no reprisal, coercion, intimidation, or discrimination against any Association
+representative for the conduct of the function described herein.
+
+
+
+### ARTICLE 20 – DISCIPLINE AND DISCHARGE
+
+Section 1. Disciplinary action may be imposed upon an employee only for just cause using the principles
+of progressive discipline.
+
+Section 2. If disciplinary action is to be taken against an employee, it shall be done in a manner that will
+not embarrass the employee before other employees or the public. Discipline may include but not be
+limited to:
+    A. Oral Reprimand. This is a warning procedure rather than a disciplinary one and should serve to
+        forestall the employee from being placed in such a position that a more severe form of formal
+        penalty must be used.
+
+   B. Written Reprimand. The written reprimand is also a warning procedure. However, the written
+      reprimand is used to put the employee on official notice that future abuse will result in a more
+      severe form of action.
+
+   C. Suspension without Pay. Suspensions are a commonly used form of discipline after an oral and
+      written reprimand. However, it can be used sooner based upon the severity of the misconduct.
+      The County may suspend an employee for disciplinary reasons for a period not to exceed thirty
+      (30) days at any one time by notifying the employee and stating the reasons for this suspension
+      in writing. No service credit may be acquired by an employee during the period of suspension,
+      regardless of the length of suspension.
+
+   D. Reduction in Pay. Reductions in pay for limited periods of time may be used as a sanction
+      against employees in lieu of suspension generally after an oral and written reprimand. It can be
+      used without previous discipline if the nature and severity of the misconduct warrant the
+      discipline. Employees will be placed on steps in any pay reduction and the reduction will not
+      exceed one (1) year.
+
+
+
+                                                  27 of 42
+                        Marion County Juvenile Employees Association Collective Bargaining Agreement
+                                                                                           2024-2026
+
+   E. Demotions. Demotion, both in pay and to a lower classification, may be used as a form of
+      discipline when discharge is not warranted or when the appointing power believes that the
+      employee has the potential for correcting conduct. Such action shall be subject to the rules
+      governing demotions.
+
+   F. Dismissal. The County may dismiss for just cause any regular employee under the County’s
+      jurisdiction. The Employer may omit steps of progressive discipline if the employee’s misconduct
+      is of such severity that an immediate dismissal action is required.
+
+Section 3. Due Process Notice and Meeting. In any discipline resulting in termination, suspension,
+demotion, or reduction of pay, employees shall receive before the imposition of such discipline:
+   A. A statement of improper conduct, inadequate performance, or other cause for discipline
+       engaged in by the employee; and
+
+   B. A statement that suspension, reduction in pay, demotion, or dismissal is being considered as a
+      possible sanction to the stated improper conduct, inadequate performance or other cause; and
+
+   C. A statement of the time within which the employee may choose to respond to the statement of
+      cause and statement of discipline under consideration.
+
+       An employee who has been notified that suspension, reduction in pay, demotion, or dismissal is
+       under consideration must be given this notice at least three (3) twenty-four (24)-hour days prior
+       to the date of the due process meeting to respond to the statements in the notice including
+       providing mitigating evidence. The representative may request an extension that will not exceed
+       three (3) additional twenty-four (24)-hour days. The County and the Association may, by mutual
+       agreement, extend the time to respond.
+
+       The employee and Association representative shall receive copies of any reports or writings that
+       the department relied upon in reaching the decision to issue the due process notice. Such
+       reports or writings will be provided to the employee and Association representative at least
+       three (3) days prior to the due process hearing.
+
+       An employee may then be suspended, reduced in pay, demoted, or dismissed if:
+
+       1. The employee has responded to the statements in the notice that suspension, reduction in
+          pay, demotion, or dismissal is under consideration and the employee's response has been
+          received and reviewed by the appointing power; or
+
+       2. The employee has not responded to the statements in the notice within the time stated in
+          the notice that suspension, reduction in pay, demotion, or dismissal is under consideration.
+
+
+                                               28 of 42
+                         Marion County Juvenile Employees Association Collective Bargaining Agreement
+                                                                                            2024-2026
+
+           Suspension, reduction in pay, demotion, or dismissal shall be by written notice to the
+           Association President and the employee. Suspension, reduction in pay, demotion, or
+           dismissal may be effective upon delivery of notice of dismissal to the employee or upon any
+           stated time thereafter. The department management or elected officials shall consult with
+           the county counsel and human resources prior to the imposition of a suspension, reduction in
+           pay, demotion, or dismissal.
+
+Section 4. Any employee who holds regular status in the classified service who has been the subject of a
+disciplinary action may appeal such action pursuant to Article 21, Grievance and Arbitration Procedure.
+Oral reprimands may be grieved up through Step 2 and, with mutual agreement of the parties, can
+include mediation. If an oral reprimand is grieved and the employee later receives a more serious form
+of discipline, the arbitrator shall consider the merits of the oral reprimand in conjunction with the other
+discipline.
+
+Section 5. Prior to being interviewed regarding an administrative investigation for any reason which
+could lead to disciplinary action, an employee shall be:
+
+   A. Informed of the nature of the investigation and whether they are a witness or a subject of the
+      investigation unless to do so would jeopardize the credibility of the investigation, and;
+
+   B. Afforded an opportunity and facilities to contact and consult privately with a representative of
+      the Association.
+
+The employee shall be allowed to take reasonable breaks during the course of the interview but not to
+take a break that would jeopardize the credibility of the investigation.
+
+Section 6. The County or the Association may make an audio record of an interview of the employee
+under administrative investigation initiated by the employer per Section 5 when such an investigation
+may lead to discipline as defined in Section 1 of this Article. Before recording the employee, whether by
+the County or the Association, the party recording the interview will announce that the interview is
+being recorded. The Association shall maintain any record of the interview made by the Association as
+confidential and such record may be used only in that specific investigation or discipline resulting from
+that investigation, in any arbitration under this agreement, or in any proceeding under the PECBA. The
+person acting as the Association representative (and not the interviewed employee) is the only person
+that is permitted to record the interview.
+
+
+### ARTICLE 21 – GRIEVANCE AND ARBITRATION PROCEDURE
+
+Section 1. Definition. A "grievance" is defined as a dispute, difference, disagreement or complaint
+between the parties related to wages, hours and conditions of employment. The complaint shall
+                                                 29 of 42
+                         Marion County Juvenile Employees Association Collective Bargaining Agreement
+                                                                                            2024-2026
+
+include, but is not limited to, the complaint of an employee, the Association, or the County, which
+involves the interpretation, application of or compliance with the provisions of this Agreement.
+
+Section 2. Grievance Procedure – Steps.
+
+Step 1
+Any party who believes that their contractual rights have been violated shall discuss the grievance with
+the employee's immediate supervisor and representative. Within fourteen (14) calendar days of the
+date the grievant first learned of the grievance or reasonably may have been expected to have learned
+of it, they shall submit a written request for a meeting with the individual's immediate supervisor. The
+written request shall include the employee's name, date and a brief description of the dispute. The
+parties shall hold one or more meetings, to ascertain facts, investigate issues and, acting in good faith,
+attempt to resolve the dispute. The parties have fourteen (14) calendar days from the date of the
+written notice to resolve the dispute, move to the next step, or request an extension/waiver of the
+timeline. Grievances arising from termination shall begin at Step 3.
+
+Step 2
+If the grievance has not been resolved in Step 1, a formal written grievance shall be filed with the
+department head within thirty (30) calendar days of the original written notice. A copy of the grievance
+notice shall be sent to human resources. A formal County-initiated grievance shall be filed with the
+Board of Commissioners and the President of the Association.
+
+A formal written grievance at Step 2 shall contain:
+
+   A. The name and position of the aggrieved party by or on whose behalf the grievance is brought;
+
+   B. The date of the circumstances giving rise to the grievance or the employee's knowledge thereof;
+
+   C. A detailed statement of the grievance, including all relevant facts, which are necessary for a full
+      and objective understanding of the parties' position. The statement shall also contain an
+      explanation regarding what provisions of the contract have been violated;
+
+   D. A statement of the remedy or relief sought by the party;
+
+   E. The signature of the person submitting the grievance; and,
+
+   F. The person's name and position, if other than the aggrieved employee.
+
+The department head shall meet with the employee and their Association representative within
+fourteen (14) calendar days after receipt of the formal written request in an effort to resolve the
+complaint. The department head or designee shall respond, in writing, to the grievance within fourteen
+                                                 30 of 42
+                         Marion County Juvenile Employees Association Collective Bargaining Agreement
+                                                                                            2024-2026
+
+(14) calendar days following the meeting. The written response shall include the decision and the
+reason for the decision. The parties may mutually agree to extend time limits in order to resolve the
+grievance.
+
+Step 3
+If the parties have not resolved the grievance after Step 2, the Association or the County may appeal the
+matter to arbitration in writing within thirty (30) calendar days of the written decision. Mediation may
+be used as an alternative to arbitration when mutually agreed upon by both the County and the
+Association.
+
+If the parties fail to mutually select an arbitrator within fourteen (14) calendar days of the Association’s
+or County’s request to arbitrate, the Oregon Employment Relations Board shall be requested by either
+party or both parties to provide a panel of seven (7) arbitrators. Both the County and the Association
+shall have the right to strike names from the panel. The party requesting arbitration shall strike the first
+name. Then, the other party shall strike one (1) name. The process shall be repeated and the remaining
+person shall be the arbitrator.
+
+The arbitrator shall not add to, subtract from, modify or alter the terms or provisions of this Agreement.
+The power of the arbitrator shall be limited to interpreting this Agreement and determining if it has
+been violated and to resolve the grievance within the terms of this Collective Bargaining Agreement.
+The decision of the arbitrator shall be binding on both parties. The arbitrator shall explicitly determine
+whether or not the terms of this Agreement have been violated. Arbitrability issues shall be resolved by
+the arbitrator, and the arbitrator is empowered to hear a case or its merits prior to ruling on arbitrability
+issues.
+
+Costs of the arbitrator shall be borne by the losing party as designated by the arbitrator. Each party shall
+be responsible for costs of presenting its own case to the arbitrator. Any or all time limits specified in
+the grievance procedure may be waived by mutual written consent of the parties.
+
+
+
+### ARTICLE 22 – PERSONNEL FILES
+
+Section 1. Human resources shall maintain a personnel file of each employee in County service. This file
+shall be the official file of the County and shall contain copies of all official reports, memos, letters,
+personnel actions, etc., relating to the employee's performance and employment status.
+
+Section 2. An employee may inspect the contents of the employee's personnel file in the human
+resources office upon the employee's oral request to do so. An employee's official representative, with
+the permission of the employee, may inspect their personnel file. An employee may also inspect the
+contents of any supervisory files maintained on the employee.
+
+                                                  31 of 42
+                         Marion County Juvenile Employees Association Collective Bargaining Agreement
+                                                                                            2024-2026
+
+Section 3. No information reflecting critically upon an employee shall be placed in the employee's
+official personnel file that does not bear the signature of the employee or notation that the employee
+has been provided a copy of the material and refuses to sign and the following disclaimer:
+
+    “Employee's signature confirms only that the supervisor has discussed and given a copy
+    of the material to the employee and does not indicate agreement or disagreement.”
+
+Section 4. If an employee believes that there is material in the employee's personnel file which is
+incorrect or derogatory, the employee shall be entitled to prepare, in writing, an explanation or opinion
+regarding the particular material, and this shall be included as part of the personnel file. If the employee
+believes that such specific information should be removed entirely from the files, the employee may
+petition for such consideration to human resources.
+
+Section 5. Letters of caution, consultation, warning, admonishment and reprimand shall not be used in
+any subsequent evaluation or disciplinary proceeding involving the employee, three (3) years after they
+have been placed in the records, unless there have been recurrences of a similar nature. After the three
+(3) year period and in the absence of a recurrence of a similar infraction, such letters shall then be
+removed from the employee's personnel file and supervisory files at the written request of the
+employee.
+
+
+### ARTICLE 23 – RECLASSIFICATION PROCEDURE
+
+Section 1. Any employee may submit a request for a change in the classification of a position to human
+resources for a review and recommendation. Whenever human resources finds that the duties are such
+that the current allocation of a position is no longer correct, human resources shall prepare a report
+recommending a change to the appropriate classification.
+
+Section 2. When the County initiates a reclassification, the employee shall be given full opportunity to
+participate in the review process prior to a decision being made.
+
+Section 3. Disagreement between an employee and human resources relative to the allocation of a new
+position or the reclassification of an existing position may be appealed to the Personnel Officer within
+ten (10) calendar days of the date the report is issued. The appeal to the Personnel Officer shall be in
+writing and contain specific information as to why the appellant believes the staff report is in error or
+incomplete. The Personnel Officer shall investigate the matter and render a decision in writing.
+
+The decision of the Personnel Officer may be appealed within ten (10) calendar days to the chief
+administrative officer or designee. The chief administrative officer or designee may affirm the Personnel
+Officer’s decision, remand it back to the Personnel Officer for further review, or conduct a hearing on
+the appeal. The chief administrative officer or designee shall give at least three (3) calendar days prior
+
+                                                 32 of 42
+                         Marion County Juvenile Employees Association Collective Bargaining Agreement
+                                                                                            2024-2026
+
+notice to the interested parties. Following the hearing, the chief administrative officer or designee shall
+render his or her decision, which shall be final.
+
+Section 4. If an employee is reclassified to a position with a lower pay range, the employee’s pay rate
+may remain the same if it is within the pay range of the lower classification. The County will move the
+employee to the lower pay range at the existing rate of pay. If this move places the employee between
+steps, the County will place the employee on the next higher step.
+
+If the employee’s current pay rate is not within the new lower range, the reduction in wages shall not
+occur until one (1) year after the effective date of the reclassification.
+
+Section 5. In the event that an employee’s position is reclassified upward, the employee will not be
+required to serve a trial service period if they have been performing the higher-level duties for at least
+six (6) months. If the employee has not been performing the higher-level duties for at least six (6)
+months, they will be required to serve a six (6)-month trial service period. Employees who fail their trial
+service periods, will be laid off and treated as laid-off employees subject to recall to the former
+classification for which they attained regular status or priority placement as laid-off employees.
+
+Section 6. Copies of any reports of findings and recommendations related to proposed changes of job
+classifications or proposed new job classifications will be sent to the Association President.
+
+
+
+### ARTICLE 24 – LAYOFF
+
+Section 1. Layoff. A layoff is defined as any separation from County service not for cause and not
+reflecting discredit upon the employee. Layoffs may be for shortage of funds, abolishment of positions
+or other reasons as determined by the County.
+
+Section 2. Notice of Layoff. Employees, who are to be laid off, shall receive notice fifteen (15) days
+prior to the effective date of layoff. A copy of the notice will be sent to the Association.
+
+Section 3. Seniority Credit.
+
+   A. Seniority – One (1) point per continuous month of full-time bargaining unit service. Part-time
+      employees shall receive one half (1/2) point per continuous month of bargaining unit service. An
+      employee must be full-time for the full month to receive one (1) point for that month.
+
+   B. Seniority credits shall be computed from the date of hire into bargaining unit service.
+
+   C. In the event that two (2) persons have the same seniority credit, then the date of employment
+      with the County shall be used to determine the order of layoff with the latest employees laid off
+                                                 33 of 42
+                         Marion County Juvenile Employees Association Collective Bargaining Agreement
+                                                                                            2024-2026
+
+       first. If a tie still exists after reviewing the seniority credits, the department head shall determine
+       the order of layoff.
+
+Section 4. Layoff Procedure.
+
+     A. The County or the affected department, prior to layoff, shall notify the Association thirty (30)
+        days prior to the effective date of layoff. The County shall include in this notice any employees
+        to be exempted from layoff and a listing of seniority credit points for the employees in the
+        affected department and classification.
+
+     B. For purposes of layoff, full-time and part-time positions shall be treated separately.
+
+     C. The County shall determine the specific exempted employees and these shall be any employee
+        in the affected classification and department with a specific skill, certification, license
+        designated in the employee’s essential job functions which cannot be obtained or fulfilled by
+        another employee within a ninety (90)-day period. Only positions that are essential for the
+        operation of the department are eligible for exemption. However, the County will not exercise
+        this option when an employee in the classification and department, who is more senior has
+        been previously exempted by the County from holding a particular certification or license.
+
+     D. The County shall determine the number of positions in the affected department and
+        classification to be laid off. Excluding exempted positions, the employees with the lowest
+        seniority credits shall be given notice and laid off. The County shall notify the Association sixty
+        (60) days prior to any layoff of the exempted positions in the classification and department.
+        Any dispute over the designated positions shall be submitted to an expedited arbitration
+        process.
+
+     E. Temporary employees working in the classification in which a layoff occurs and relief staff shall
+        be terminated prior to the layoff of trial service or regular employees.
+
+     F. Interruption of Employment. Employees who leave County service for military service and
+        return to their position within six (6) months after receiving an honorable discharge shall
+        receive full longevity credit for such military service. Any employee whose continuous service
+        is interrupted by loss of time due to a job injury shall be accorded continuous service credit for
+        the duration of the time between the expiration of the employee's accumulated leave and the
+        date of the employee's return to work. Seniority credit shall also be accumulated by
+        employees while on authorized leaves of absence.
+
+     G. Restoration of Seniority Credit. Any regular or trial service employee, who has been laid off
+        and subsequently returns to County employment in accordance with the recall rights of laid off
+        employees, shall regain previously accrued seniority credits.
+                                                  34 of 42
+                         Marion County Juvenile Employees Association Collective Bargaining Agreement
+                                                                                            2024-2026
+
+
+     H. Loss of Service. Any employee with regular or trial service status who separates from
+        bargaining unit service for reasons other than a layoff and subsequently returns through
+        reappointment to the bargaining unit shall not regain previously accrued seniority credit if the
+        break in service is for more than twelve (12) months.
+
+Section 5. Recall. Employees, who have been laid off, shall be recalled to vacancies in the classification
+and department from which they were laid off. Employees shall be recalled by their department in
+order of seniority credits, by classification, beginning with the employee with the greatest number of
+seniority credits. Employees who are laid off shall have the right of recall to vacancies in the
+classification. Such eligibility shall continue for one (1) year from the date of layoff. Employees shall be
+notified of vacancies for which they are eligible for recall by electronic mail at their email address of
+record.
+
+
+
+### ARTICLE 25 – FILLING OF VACANCIES
+
+Section 1. Vacancies that are to be filled shall be posted on the County website and sent by electronic
+mail to all county employees at least five (5) working days prior to closing.
+Section 2. Employees desiring the posted position shall submit an online application to human
+resources via the County website.
+
+Section 3. Any employee who makes application shall be placed on any interview list providing they
+meet the requirements.
+
+Section 4. Any employee who interviews for a vacant position and who requests in writing the reasons
+they were not selected, shall receive from the appointing authority a written response within ten (10)
+working days of receipt of the request.
+
+Section 5. The County agrees to review recruitment procedures with the Association and modify them,
+if necessary, to improve the opportunities for employees to be considered for internal appointments
+and/or promotions, including the opportunity to be interviewed.
+
+Section 6. Part-time and temporary employees may apply for full-time, regular positions on the
+County’s internal recruitments.
+
+
+
+### ARTICLE 26 – TRIAL SERVICE PERIOD
+
+Section 1. All definitions contained in the Marion County Personnel Rules shall apply to this Agreement
+unless otherwise covered by the terms of this Agreement.
+                                                  35 of 42
+                         Marion County Juvenile Employees Association Collective Bargaining Agreement
+                                                                                            2024-2026
+
+Trial service begins on the date of hire and ends six (6) continuous months from the date of hire.
+Example: Trial service for an employee hired on January 15th expires the end of the workday on
+July 15th unless there has been a period of unpaid status during the first six (6) months.
+
+Section 2. New employees shall serve a trial service period of at least six (6) continuous months.
+
+Section 3. A regular or trial service employee, who is selected as an internal appointment or who
+promotes, must serve a new trial service period. A trial service employee must complete the trial
+service period before attaining regular status.
+
+Section 4. A trial service employee serving as a result of a promotion within the bargaining unit, who
+fails to qualify in the new position for reasons other than misconduct, and who was a regular employee
+before the promotion, shall be reinstated to the employee's former classification.
+
+Section 5. Removal During Trial Service Period. An appointing authority may dismiss an employee at
+any time during an employee’s initial trial service period if, in the opinion of the appointing authority,
+the employee is unable or unwilling to satisfactorily perform the job duties or if the employee’s work
+habits, conduct and dependability do not merit continuance in County service. Prior to dismissing an
+employee, the appointing authority will consult with human resources.
+
+Section 6. Prior to completion of an employee's initial trial service period, human resources will request
+the appointing power to report whether the employee's performance was satisfactory or unsatisfactory.
+The reply will be returned to human resources not less than ten (10) working days prior to the end of the
+trial service period. If the reply is satisfactory, the employee shall be deemed to have satisfactorily
+completed the trial service period and thereby be accorded regular status in classified service. A
+notification of unsatisfactory service ordinarily shall be accompanied with notice of termination. Prior to
+completion of an employee’s trial service period, the appointing authority will evaluate the employee’s
+job performance. The evaluation will be submitted to human resources not less than ten (10) working
+days prior to the end of the trial service period.
+
+If the employee’s performance is determined to be unsatisfactory, the appointing authority shall either
+work with the Association President and human resources to extend the employee’s trial service, or will
+dismiss the employee. Extension of trial service will not exceed 12 months from the date of hire or
+placement.
+
+
+
+### ARTICLE 27 – EFFECT OF LAW AND RULES
+
+Section 1. This Agreement is subject to all existing and future laws of the State of Oregon.
+
+Section 2. The parties shall be provided all of the rights and benefits extended by the Personnel Rules in
+                                                  36 of 42
+                         Marion County Juvenile Employees Association Collective Bargaining Agreement
+                                                                                            2024-2026
+
+all matters which are not addressed in this Agreement. Any violation of this Section shall be addressed
+through the grievance procedure.
+
+
+### ARTICLE 28 – SCOPE OF AGREEMENT
+
+This document constitutes the sole and complete Agreement between the Association and the County
+and embodies all the terms and conditions governing the employment of employees in the bargaining
+unit. The parties acknowledge that they have had the opportunity to present and discuss proposals on
+any subject, which is or may be subject to negotiation. Any prior written or unwritten commitment or
+agreement between the County and the Association or any individual employee covered by this
+Agreement is hereby superseded by the terms of this Agreement.
+
+
+
+### ARTICLE 29 – SAVINGS CLAUSE
+
+This Agreement is subject to all existing and future laws of the State of Oregon. Should any of the
+provisions of this Agreement be found by a court of competent jurisdiction to be unlawful,
+unenforceable, or made illegal through enactment of state or federal law, all other provisions of this
+Agreement shall remain in full force and effect for the duration of this Agreement.
+
+
+
+### ARTICLE 30 – NOTICES
+
+Prior to planned adoption, the County shall provide to the Association President a copy of any new or
+proposed modification to an existing rule, policy, and/or procedural statement which directly relates to
+employment relations matters for the purpose of soliciting written comments or discussion.
+
+Once the County has finalized an adoption-ready draft of a policy, a copy will be sent to the Association
+President with notice of the plan to adopt. The date this notice is sent to the Association President will
+trigger the start of the timeline to file a demand to bargain.
+
+
+### ARTICLE 31 – CONTRACTING OUT
+
+Section 1. Definition. “Contracting out” is defined as follows: Entering into an agreement/contract
+with the private sector or public agency to provide a service previously performed by bargaining unit
+employees. The term "contracting out" does not include the refusal of the Board of Commissioners to
+provide a service and/or the refusal of the Board of Commissioners to accept local, state or federal funds
+to provide a service previously performed by bargaining unit employees.
+
+
+                                                 37 of 42
+                          Marion County Juvenile Employees Association Collective Bargaining Agreement
+                                                                                             2024-2026
+
+Section 2. The Association recognizes that the County has the management right to decide to contract
+out bargaining unit work to the private or public sector. Such decisions shall, however, be made only
+after the affected department has conducted a formal feasibility study determining the potential cost
+and other benefits which would result from contracting out. The County agrees to notify the Association
+within five (5) business days of its decision to conduct a formal feasibility study indicating the job
+classifications and the work areas affected. The County shall provide the Association with no less than
+thirty (30) calendar days notice that it intends to contract out bargaining unit work. The notification by
+the County to the Association of the results of the feasibility study will include all pertinent information,
+bids and other data upon which the County based the decision to contract out the work including, but
+not limited to, the total cost savings the County anticipates.
+
+The County and the Association shall meet within five (5) working days of the delivery by the County to
+the Association of all pertinent information upon which the County based the decision to contract out.
+The Association shall have thirty (30) days to submit an alternative proposal. No contract will be
+awarded pending the timely receipt of the Association's proposal. If the Association's proposal would
+result in providing quality and savings equal to or greater than that identified in the management plan,
+the parties shall agree in writing to implement the Association proposal.
+
+Should any full-time bargaining unit member be laid off or displaced as a result of contracting out, the
+County and the Association shall meet to discuss the effect on the individual(s). The County's obligation
+to discuss the effect of such contracting out does not obligate it to secure the agreement of the
+Association or to exhaust the dispute resolution procedure in this Agreement or under the Public
+Employee Collective Bargaining Act set forth in ORS 243.650 through ORS 243.782 concerning the
+decision or the impact of the contracting out.
+
+Section 3. Prior to following the regular recruitment and selection process, employees displaced by
+contracting out shall be placed in positions within County service for which they are qualified as the
+positions become available. However, such placement shall not take precedence over placement of
+other employees through recall from layoff, return from on-the-job injury status, promotions or internal
+appointments. If there are multiple displaced workers qualified for a position, the department head or
+appointing authority shall select the most qualified applicant.
+
+
+
+### ARTICLE 32 – TEMPORARY EMPLOYEES
+
+Section 1. Definitions.
+
+   A. Temporary Employee is a person who is employed by Marion County in a non-budgeted position
+      to perform the following services:
+
+       1. Seasonal or on-call relief;
+                                                  38 of 42
+                         Marion County Juvenile Employees Association Collective Bargaining Agreement
+                                                                                            2024-2026
+
+       2. Filling a vacancy in a budgeted position due to:
+
+           a. Sick leave, parental leave, vacation leave, military leave, or
+           b. Shift work, injury or during recruitment.
+
+       3. Special projects and extra work of limited duration.
+
+   B. Temporary employment is distinguished from regular, part-time employment in that regular,
+      part-time employment relates to a budgeted position for which there are some benefits. Interns,
+      practicum and work study students are not temporary employees provided the interns,
+      practicum and work study students are paid by the schools or are otherwise not covered by the
+      terms of this Agreement.
+
+   C. Temporary work is defined as that which is limited to one thousand forty (1,040) regular hours
+      (not including overtime hours worked) based upon a forty (40)-hour workweek within a fiscal
+      year.
+
+Section 2. Policy. No temporary employee can perform temporary work for more than one thousand
+forty (1,040) regular hours in a fiscal year (July 1 – June 30). A temporary employee may work more
+than twelve (12) months provided they do not exceed their yearly allocation of hours and they comply
+with the definitions set forth above.
+
+Employees may fill both regular, part-time positions and temporary positions in two (2) or more
+departments provided they do not work more than one thousand forty (1,040) regular hours in a fiscal
+year.
+
+Section 3. Extension Procedure. The Labor-Management Committee’s approval is required for
+extensions. Requests must be made thirty (30) days prior to reaching the one thousand forty (1,040)-
+hour deadline. Any extension granted by the Labor-Management Committee will result in the employee
+continuing their employment as a temporary employee doing temporary work.
+
+
+
+### ARTICLE 33 – DRUG AND ALCOHOL USE AND TESTING
+
+Section 1. The Association agrees to the reasonable suspicion testing as outlined in the County’s Drug
+and Alcohol Use and Testing policy.
+
+   A. Supervisors will advise employees that they may request a representative be present as an
+      observer during the testing process if a representative is available and can be present without
+      delay to the testing process.
+
+                                                 39 of 42
+                         Marion County Juvenile Employees Association Collective Bargaining Agreement
+                                                                                            2024-2026
+
+   B. If an employee believes a manager may be impaired due to drugs or alcohol, the employee may
+      report their observations to human resources. Human resources staff will determine if the
+      manager’s condition satisfies the reasonable suspicion criteria for testing. No employee shall be
+      subject to discipline or retribution for reporting a supervisor unless the County can prove the
+      claim was made without merit or in bad faith by the employee.
+
+   C. Any regular employee disqualified for employment due to failure to pass a pre-employment drug
+      test may be subject to discipline in accordance with Article 20 of the Collective Bargaining
+      Agreement. Imposition of discipline will be determined on a case-by-case basis.
+
+Section 2. The County agrees to the following declaration of intent as to the application of that policy to
+the Association and its members:
+
+   A. The County agrees that managers will be held to the same standards and conditions under the
+      Drug Free Workplace policy as they apply to represented employees.
+
+   B. Employees are required to advise their supervisor if they reasonably believe that a prescription
+      or non-prescription drug could impair their ability to perform their essential job functions.
+
+   C. Employees are not required to tell their supervisor the prescription or non-prescription drug or
+      the condition causing the use of the prescription or non-prescription drug only the effect of the
+      prescription or non-prescription drug that may impair the employee’s ability to perform their
+      essential job functions.
+
+   D. The County will offer the same training to Association representatives as provided to managers in
+      the implementation and application of the Drug and Alcohol Use and Testing policy.
+
+   E. The Association or individual employees may grieve if they believe that they were tested without
+      reasonable suspicion and/or without cause.
+
+   F. Any last chance agreement applied as a result of the Drug and Alcohol Use and Testing shall only
+      be valid if negotiated and agreed to and signed by the County, the Association, and the
+      employee. The County’s Drug and Alcohol Use and Testing policy shall not be interpreted in a
+      manner that conflicts with this Article.
+
+
+
+### ARTICLE 34 – LIFE OF AGREEMENT AND TERMINATION
+
+Section 1. This Agreement shall take effect July 1, 2024, and shall be in full force and effect through
+June 30, 2026. If either party wishes to renew or modify the Agreement as of July 1, 2026, notification
+of such renewal or modification must be submitted in writing by December 1, 2025. Negotiations shall
+                                                 40 of 42
+                        Marion County Juvenile Employees Association Collective Bargaining Agreement
+                                                                                           2024-2026
+
+begin in December 2025 at a time convenient for both parties. This agreement shall have no retroactive
+effect.
+
+Section 2. This Agreement shall remain in full force and effect during the period of negotiations except
+that if a new Agreement is not reached by July 1, 2026, the Agreement may be terminated by giving the
+other party at least thirty (30) days written notice of its intent to terminate the Agreement. This
+Agreement may be terminated at any time by mutual agreement of the parties.
+
+Section 3. Any letters of agreement must be signed by the Chief Administrative Officer, the department
+head, Chief Human Resources Officer or designee, and the designated representatives of the Association
+to be valid. Such letters of agreement shall be attached and made part of the collective bargaining
+agreement. Any letters of agreement not mutually renewed prior to adoption of this Agreement or
+reached as a result of the process noted above shall become void and invalid.
+
+
+
+
+                                                41 of 42
+

@@ -152,7 +152,7 @@ SIGNATURE PAGE .................................................................
 
 
 2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement
-                                       ARTICLE 1 – PARTIES TO THE AGREEMENT
+### ARTICLE 1 – PARTIES TO THE AGREEMENT
 
 
 
@@ -171,7 +171,7 @@ and the UNION, to provide for equitable and peaceful adjustments of differences 
 
 
 2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement   5
-                                                    ARTICLE 2 – RECOGNITION
+### ARTICLE 2 – RECOGNITION
 
 
 
@@ -254,7 +254,7 @@ will be entered into as needed or as required by law.
 
 
 2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement   7
-                                              ARTICLE 3 – TERM OF AGREEMENT
+### ARTICLE 3 – TERM OF AGREEMENT
 
 
 3.1 EFFECTIVE DATE.
@@ -319,7 +319,7 @@ agreement, in writing, by the Parties or by operation of law.
 
 
 2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement   9
-                                            ARTICLE 4 – COMPLETE AGREEMENT
+### ARTICLE 4 – COMPLETE AGREEMENT
 
 
 4.1
@@ -366,7 +366,7 @@ included in any rate increases for CBC Providers if allowed or directed by the l
 
 
 2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement   10
-                                                    ARTICLE 5 – SEPARABILITY
+### ARTICLE 5 – SEPARABILITY
 
 
 
@@ -382,7 +382,7 @@ from either Party’s request.
 
 
 2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement   11
-                                                    ARTICLE 6 – UNION RIGHTS
+### ARTICLE 6 – UNION RIGHTS
 
 
 6.1 BULLETIN BOARDS
@@ -463,7 +463,7 @@ OAR updates.
 
 
 2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement   13
-                                           ARTICLE 7 – GRIEVANCE PROCEDURE
+### ARTICLE 7 – GRIEVANCE PROCEDURE
 
 
 7.1 DEFINITION OF A GRIEVANCE
@@ -619,7 +619,7 @@ party shall be notified of any costs before the information is compiled.
 
 
 2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement   17
-                                               ARTICLE 8 – NO DISCRIMINATION
+### ARTICLE 8 – NO DISCRIMINATION
 
 
 8.1 NO DISCRIMINATION DEFINITION AND PROCEDURE
@@ -652,7 +652,7 @@ regulate the Provider.
 
 
 2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement    18
-                                                    ARTICLE 9 – SERVICE FEES
+### ARTICLE 9 – SERVICE FEES
 
 
 9.1 SERVICE FEES PREAMBLE
@@ -1246,7 +1246,7 @@ client from a program other than the program under which the provider is license
 
 
 2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement   33
-                                       ARTICLE 10 – PRE-PLACEMENT PLANNING
+### ARTICLE 10 – PRE-PLACEMENT PLANNING
 
 
 10.1 PRE-ADMISSION PROCESS
@@ -1317,7 +1317,7 @@ Developmental Disabilities Program (CDDP) for respite services do not apply to t
 
 
 2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement   35
-                                          ARTICLE 11 – UNION REPRESENTATION
+### ARTICLE 11 – UNION REPRESENTATION
 
 
 11.1 RIGHT TO UNION REPRESENTATION
@@ -1417,7 +1417,7 @@ include apportionment.
 
 
 2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement   38
-                    ARTICLE 12 - AFH PROVIDER COMPLAINT RESOLUTION PROCESS
+### ARTICLE 12 - AFH PROVIDER COMPLAINT RESOLUTION PROCESS
 
 
 12.1 COMPLAINT PROCESS PROCEDURE
@@ -1490,7 +1490,7 @@ the Parties Labor Management Committee.
 
 
 2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement   40
-                                                 ARTICLE 13 – NO RETALIATION
+### ARTICLE 13 – NO RETALIATION
 
 
 13.1 PROTECTED UNION ACTIVITIES
@@ -1531,7 +1531,7 @@ Agreement.
 
 
 2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement   41
-                                               ARTICLE 14 – INSPECTION VISITS
+### ARTICLE 14 – INSPECTION VISITS
 
 
 Inspections by ODHS/OHA and/or their contractors, shall be conducted as follows:
@@ -1568,7 +1568,7 @@ Inspections by ODHS/OHA and/or their contractors, shall be conducted as follows:
 
 
 2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement   42
-                                              ARTICLE 15 – SUBCONTRACTORS
+### ARTICLE 15 – SUBCONTRACTORS
 
 
 
@@ -1584,7 +1584,7 @@ this Collective Bargaining Agreement in whole or in part.
 
 
 2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement   43
-                                   ARTICLE 16 - LABOR MANAGEMENT COMMITTEE
+### ARTICLE 16 - LABOR MANAGEMENT COMMITTEE
 
 
 
@@ -1646,7 +1646,7 @@ meeting. If neither Party sends any agenda items, the meeting may be cancelled b
 
 
 2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement   45
-     ARTICLE 17 - STANDARDIZE CRIMINAL BACKGROUND CHECK PROCESS FOR ALL AFH
+### ARTICLE 17 - STANDARDIZE CRIMINAL BACKGROUND CHECK PROCESS FOR ALL AFH
 
                                                                    PROVIDERS
 
@@ -1689,7 +1689,7 @@ This system shall do the following:
 
 
 2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement    46
-                                      ARTICLE 18 – SPECIFIC NEEDS CONTRACTS
+### ARTICLE 18 – SPECIFIC NEEDS CONTRACTS
 
 
 
@@ -1716,7 +1716,7 @@ Local 503 Adult Foster Home Collective Bargaining Agreement.
 
 
 2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement   47
-                             LETTER OF AGREEMENT - JOINT CONTRACT TRAINING
+### LETTER OF AGREEMENT - JOINT CONTRACT TRAINING
 
 
 
@@ -1733,7 +1733,7 @@ in preparing and presenting this training.
 
 
 2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement   48
-                           LETTER OF AGREEMENT – SPECIFIC NEEDS CONTRACTS
+### LETTER OF AGREEMENT – SPECIFIC NEEDS CONTRACTS
 
 
 
@@ -1860,7 +1860,7 @@ Authority (OHA).
 
 
 2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement   51
-                                      LETTER OF AGREEMENT - RN DELEGATION
+### LETTER OF AGREEMENT - RN DELEGATION
 
 
 Purpose: To continue efforts from workgroup recommendations from the 2013-2015 Adult Foster Home
@@ -1902,7 +1902,7 @@ CBA Statement of Intent: RN Delegation.
 
 
 2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement   52
-             LETTER OF AGREEMENT - MH PROVIDERS AND IMPLEMENTATION OF 410
+### LETTER OF AGREEMENT - MH PROVIDERS AND IMPLEMENTATION OF 410
 
                                                  DOCUMENTATION STANDARDS
 
@@ -2004,7 +2004,7 @@ Community Mental Health Program (CMHP) or the patient’s Primary Care Provider.
 
 
 2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement   55
-                           LETTER OF AGREEMENT – NEW PROVIDER ORIENTATION
+### LETTER OF AGREEMENT – NEW PROVIDER ORIENTATION
 
 
 
@@ -2029,7 +2029,7 @@ This Agreement shall expire on June 30, 2027, unless extended by mutual agreemen
 
 
 2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement   56
-      LETTER OF AGREEMENT – CONTINUANCE OF SPECIFIC NEEDS CONTRACT TYPES
+### LETTER OF AGREEMENT – CONTINUANCE OF SPECIFIC NEEDS CONTRACT TYPES
 
 
 
@@ -2049,7 +2049,7 @@ location, if the new location is licensed as an APD Adult Foster Home Provider.
 
 
 2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement   57
-        LETTER OF AGREEMENT – RESIDENT CHOICE AND DOCUMENTATION WORKGROUP
+### LETTER OF AGREEMENT – RESIDENT CHOICE AND DOCUMENTATION WORKGROUP
 
 
 
@@ -2081,7 +2081,7 @@ This Agreement shall expire on June 30, 2027.
 
 
    2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement   58
-                       LETTER OF AGREEMENT – OHA ASSESSMENT TOOL (interRAI)
+### LETTER OF AGREEMENT – OHA ASSESSMENT TOOL (interRAI)
 
 
 
@@ -2125,7 +2125,7 @@ This Agreement shall expire on June 30, 2027.
 
 
 2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement   59
-       LETTER OF AGREEMENT - PROVIDER NOTIFICATION OF CESSATION OF PAYMENT
+### LETTER OF AGREEMENT - PROVIDER NOTIFICATION OF CESSATION OF PAYMENT
 
 
 
@@ -2169,7 +2169,7 @@ This Agreement shall expire on June 30, 2027, unless extended by mutual agreemen
 
 
 2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement   60
-         LETTER OF AGREEMENT – FUNDING FOR DD AND MH PROVIDER RATE INCREASES
+### LETTER OF AGREEMENT – FUNDING FOR DD AND MH PROVIDER RATE INCREASES
 
 
 
@@ -2189,7 +2189,7 @@ request to the best of their ability.
 
 
    2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement   61
-        APPENDIX A - Rates for Adult Foster Homes Serving Individuals with Developmental
+### APPENDIX A - Rates for Adult Foster Homes Serving Individuals with Developmental
 
                                                                    Disabilities
 
@@ -2438,7 +2438,7 @@ Home              Within Hearing & Visual distance                              
 
 
       2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement                                                         67
-      APPENDIX B - Oregon Health Authority and Addictions and Mental Health
+### APPENDIX B - Oregon Health Authority and Addictions and Mental Health
 
                   Division Adult Foster Home Base Rate and Add-Ons Table
 
@@ -2549,7 +2549,7 @@ used for determine the LSI scores, add-ons, and the calculation of rates.
 
 
 2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement                                 70
-APPENDIX C - Service Rates for Adult Foster Homes Serving Individuals in Aging
+### APPENDIX C - Service Rates for Adult Foster Homes Serving Individuals in Aging
 
                                    and People with Disabilities Programs
 

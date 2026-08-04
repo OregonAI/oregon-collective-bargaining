@@ -16,12 +16,11 @@ agency_registry_slugs: []
 source_url: https://www.clackamas.us/des/ccom-central-communications-9-1-1
 source_format: html
 retrieved: '2026-08-02'
-source_sha256: 3c84659b1b9c02a97609836726d1800b8f8cd12a2db2cebe82b405ced00961e8
+source_sha256: 170f02cee1075fae89a64877be553c76cbfd73fe349788f979fb72b76bbe1d64
 snapshot_policy: hash-only
 status: current
-content_mode: summary
-reproduction_basis: 'jointly-authored contract; summary + official link per the class determination
-  in corpus.yml schema.doc_types (verbatim: false)'
+content_mode: 'verbatim'
+reproduction_basis: 'public record of a public body (ORS 192.311-192.478); the employer publishes the executed agreement in full at source_url; a ratified agreement is an official act (Georgia v. Public.Resource.Org, 590 U.S. 255 (2020)) — mirrored in full per the class determination in corpus.yml schema.doc_types (verbatim: true)'
 conversion_notes: main-content text of the county's HTML page; 138294 characters extracted;
   NOT human-verified
 last_verified: ''
@@ -44,8 +43,8 @@ tags:
 - clackamas-county
 ---
 
-> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated
-> summary, not the agreement's official text. Verify against the official
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a non-authoritative
+> mirror of the agreement's text, not the official record. Verify against the official
 > source: <https://www.clackamas.us/des/ccom-central-communications-9-1-1> (retrieved 2026-08-02).
 
 # Clackamas County — CCOM - Central Communications 9-1-1
@@ -57,10 +56,6 @@ Collective bargaining agreement between **Clackamas County** and **the signatory
 - No term is stated on the index or found in the document's front matter — `term` is left empty rather than inferred; the county presents this as its operative agreement
 - Source document: an HTML page — the county publishes this instrument's text inline rather than as a PDF
 
-This corpus is **summary-first for agreements**: the contract's text is not
-reproduced here (see Curator notes), and nothing on this page states or
-paraphrases the agreement's terms. Read the agreement itself at the official
-source link above.
 
 ## Curator notes
 
@@ -78,3 +73,826 @@ Statutes and rules the document's text cites are recorded in frontmatter
 `relationships.references_external` (5 citation(s)) and resolve into
 `executive-regulatory-frameworks` as cites — this corpus asserts no
 `implements` edge anywhere.
+
+## Full text
+
+CCOM - Central Communications 9-1-1 | Clackamas County
+Skip to main content
+Human Resources
+CCOM - Central Communications 9-1-1
+CCOM - Central Communications 9-1-1
+Preamble
+This Agreement is entered into between Clackamas County, Oregon, hereinafter referred to as the "County" and Clackamas County 'C-Com' Employees Local 350-7, Council 75 of the American Federation of State, County and Municipal Employees, AFL-CIO hereinafter referred to as the "Union." The purpose of this agreement is the promotion of harmonious relations between the County and the Union; and the establishment of an equitable and peaceful procedure for the resolutions of differences; and the establishment of rates of pay, hours of work, and other conditions of employment.
+ARTICLE&nbsp;1 - Recognition
+The County recognizes the Union as the sole and exclusive collective bargaining agent for the purpose of establishing salaries, wages, hours and other conditions of employment for all full-time and regular part-time Call Takers,&nbsp;Dispatchers and Non-operations staff employed by Clackamas County, excluding supervisory and confidential employees as defined by ORS 243.650
+### ARTICLE 2 – Definitions
+REGULAR EMPLOYEE &nbsp; A regular employee means any employee who has been appointed to a position in the classified service in accordance with the law governing regular appointments and who has successfully completed their probationary period.
+REGULAR PART-TIME EMPLOYEE&nbsp;
+A regular part-time employee means a part-time employee who works less than thirty (30) hours per week on a regular basis.
+CERTIFIED &nbsp; Means an employee who is fully trained and meets agency training guidelines for either the classification of Call Taker or Dispatcher, or special role in which they serve (examples include: CTO, QAE or “operations-certified” TQACs).
+OPERATIONS STAFF &nbsp; Refers to the employees and activities that support direct 911 services. These include Call Takers, Dispatchers, Trainees, and operations-certified TQACs which focus primarily on 911 actions.
+REGULAR PART-TIME CERTIFIED EMPLOYEE (PTE) &nbsp; A part-time Call Taker or Dispatcher who previously had been certified for a period of at least 18 months. The employee must have current DPSST, EMD, CPR and First Aid certifications at the level they held and be in good standing at separation from C-COM. There will be at least 13 weeks, but no more than 180 days, separation from County employment prior to hire as a PTE. Eligible candidates will be placed on an eligibility list for reconsideration at the time of their separation from C-COM. Once re-hired, the PTE will go through an orientation with C-COM similar to employees who return from leave to ensure that skills are current and policy/procedures knowledge is updated. PTE schedules will be established based on identified regular need, not to exceed (4) hour shifts and be regularly scheduled, to remain less than 20 hours per week. Shift bid for PTE’s will follow the same rules as FTE, within the PTE classification. PTE positions could apply for Call-Taker and Dispatcher FTE positions and be considered as experienced Metro Area Joint CAD system (MAJCS) Employees.
+DISPATCHER (D1)&nbsp;
+Means Communications Dispatcher fully certified in all 3 disciplines.
+CALL TAKER&nbsp;
+Means a Call Taker who works in the Communications Call Taker classification.
+CALL TAKER TRAINEE&nbsp;
+Means employee in Call Taker training who is not yet certified in any discipline.
+T2 (TRAINED TO TWO) &nbsp; Means a Dispatcher Trainee who has been certified in call taking and one (1) full dispatch discipline (either Fire or Law) who may work shifts in the discipline in which they are signed off.
+DISPATCHER TRAINEE (DT)&nbsp;
+Means an employee in Dispatcher training who is certified as a Call-Taker but who has not yet certified fully as a Dispatcher.
+COMMUNICATIONS SHIFT LEADER (D2) &nbsp; Means a dispatcher who has been promoted to serve in a “lead” capacity and is responsible for the smooth coordination of their shift. They serve as subject matter experts, mentors, schedule board coordinators and communicate any concerns to a C-COM supervisor.
+TRAINING QUALITY ASSURANCE COORDINATORS (TQAC) &nbsp; Means an employee who has been promoted to or hired into a program coordination role within C-COM. The three programs coordinated by TQACs include the Training Program, Quality Improvement Program, and Emergency Medical Services Program. Persons serving in these roles may maintain their dispatcher certification, if internally promoted. If they perform these duties and maintain their dispatch certification, elements of the contract which apply to certified dispatchers would also apply to TQACs, unless specifically called out by their classification title.
+NON OPERATIONS STAFF &nbsp; Means an employee who serves in the classifications of Communication Technical Systems Coordinator, Administrative Assistant, and non-dispatch certified Training and Quality Assurance Coordinator.
+ABBREVIATIONS &nbsp; The following abbreviations may be used when referring to the different classifications within the contract: DT = Communications Dispatcher Trainee T2 = Communications Dispatcher Trainee certified in one (1) dispatching discipline and call taking CT = Communications Call Taker D1 = Communications Dispatcher 1 D2 = Communications Shift Leader TQAC = Training and Quality Assurance Coordinator CTO = Certified Training Officer QAE = Quality Assurance Evaluator EMS = Emergency Medical Services QA/QI = Quality Assurance / Quality Improvement
+JOB SHARE &nbsp; “Job Sharing Position” means a situation in which no more than two (2) individuals on a 50/50 shared time basis perform the duties and responsibilities of the one (1) full-time position. To be a job share, the two (2) employees must ONLY be performing the duties that would be assigned if the position was filled by one (1) full time employee.
+STAFF ENHANCEMENT
+“Staff enhancement” refers to additional employees scheduled for particular shifts for special events, training purposes, or other situations in which additional staff are required to cover the anticipated workload.
+OPEN SHIFT OR HOURS &nbsp; “Open shift or hours” refers to shifts or hours which count towards the staffing levels, but which do not have a regularly scheduled employee assigned to work.
+EMERGENCY CONDITIONS &nbsp; Significant events/conditions such as Emergency Conditions refer to circumstances above "normal operations" which may include the need for enhanced staffing, activation of the departmental Continuity of Operations Plan, or declaration of emergency by the County. C-COM Director shall actively signify to the bargaining unit leadership that the department is operating under "emergency conditions" when this occurs so there is no confusion among the membership and what may be expected as it relates to departmental operations.
+### ARTICLE 3 – Seniority
+Seniority will be established based on hire date to the classification.
+Employees who have been promoted from any certified position (e.g., CT, D1, D2) to a non-represented position or a non-operations position within the department, who return to a previous bargaining unit classification (e.g. Operations Supervisor to D1/D2, any Technical position to D1) will retain their original seniority date of hire to the returning classification if they return to the position within six (6) months of their last dispatch classification.
+A Dispatch Trainee (DT) will accrue seniority within their classification as a DT. There are two ways this seniority time may be applied. If a DT completes Dispatcher Certification, this accrued time will be added to their Dispatcher (D1) seniority and D1 seniority date will become the date of promotion to the DT classification. If a DT demotes back to Call-Taker, the seniority date for the employee as a Call-Taker will remain as their original CT seniority date as if they had not left the CT classification.
+Non-operations employees within the bargaining unit or employees who have been promoted to a non-represented position within the department, who occupy the position for more than six (6) months and subsequently return to a previously held dispatch classification (e.g. Administrative Assistant to D1/D2, Operations Supervisor to D1) will have a new effective seniority “date of hire” based on their total time within that dispatch classification.
+In the event that an employee changes classification, their original classification seniority will be frozen and they will begin accruing seniority in their new classification. In no event shall an employee accrue seniority simultaneously in more than one (1) classification or be allowed to transfer their seniority from one classification to another (with the exception of Section D, paragraph 2 of this Article below). Employees are allowed to voluntarily demote to another classification no more than once every twenty-four (24) months from the date of the classification change.
+Employees who leave the bargaining unit and full time employment with C-COM and/or the County, and who subsequently return to a previously occupied classification in the bargaining unit within six (6) months, will retain their original seniority date(s) of hire in the classifications in which they served while previously employed at C-COM. Employees will only be allowed to return at the Director’s discretion. If the employee returns after six (6) months, their seniority will be defined as beginning on their most recent date of hire.
+When more than one candidate is hired on the same date, seniority will be determined by the prioritized ranking of the candidates, taking into consideration mutually agreed upon recruitment testing processes and interview performance. In the event of a tie with the combined test scores, seniority with those with tied scores would be determined based on the candidates’ placement from the department interview. The higher the score or placement on the department interview panel, the higher the seniority will be.
+For purposes of Shift Bid under Article 7 (Hours of Work), Section 5, seniority for Call Takers (CT) is defined as the date of hire within the classification.&nbsp;
+For purposes of Shift Bid under Article 7 (Hours of Work), Section 5, seniority for D1 (Communications Dispatcher 1) is defined as date of hire as a DT or D1. If a D2 demotes to D1 they will retain their original D1 seniority date of hire.
+For purposes of Shift Bid under Article 7 (Hours of Work) Section 5, seniority within the D2 classification shall be defined as the date of hire within the classification.&nbsp;
+If the employee should exercise a voluntary demotion to the D1 classification and subsequently returns to the D2 classification within six (6) months, their D2 seniority shall be defined as total time served within the classification.&nbsp;
+The formula for establishing the new effective seniority “date of hire” for a D2 will be determined by counting backward from the most recent promotion date by the actual number of days previously served within the D2 classification.&nbsp;
+If an employee has voluntarily demoted to D1 classification for longer than six (6) months, or has been demoted to the D1 classification in a just cause disciplinary action and subsequently returns to a D2 classification, the seniority shall be defined as beginning on the date of the last promotion.
+For purposes of Vacation Bid, Article 9 (Vacation), Section 4 (Vacation Schedule Sign Up), seniority is defined as the seniority date of hire with C-COM.
+For the purposes of Overtime Schedule, Article 14 (Wages), Section 8 Overtime Scheduling, seniority is defined as the seniority date of hire with C-COM.
+For the purposes of Longevity, Article 14 (Wages), Section 15 (Longevity Payment), seniority is defined as total continuous County service as defined in 2.05.200.8 of the County Personnel Ordinance.
+For the purposes of Layoff and Recall, Article 18, seniority is defined as total continuous service within the County for those employees with a C-COM hire date prior to 7/1/00; within the department for those employees with a C-COM hire date on or after 7/1/00.
+For the purposes of part-time Regular status, seniority accrual will be pro-rated based on the established percentage of 1 FTE.
+The following describes the hiring process when an employee has voluntarily separated employment with the County and has reapplied for the same classification, pending agency approval:
+Type
+0-179 days since resignation
+Over 180 days since resignation
+Vacation Accrual Schedule
+Reinstated to previous schedule
+New date starts at most recent hire date
+Sick Leave
+Reinstated to previous bank balance
+All previous credit is lost, and most recent hire date is new beginning
+Longevity Schedule
+Reinstated to previous schedule
+All previous credit is lost, and most recent hire date is new beginning
+Pay Scale
+Reinstated to previous schedule
+All previous credit is lost, and most recent hire date is new beginning
+Seniority
+Time in class is frozen but other employees will continue to gain seniority per CBA
+New date starts at most recent hire date with no credit for previous time
+ARTICLE 4 –&nbsp;Preservation of Public Rights&nbsp;
+The Union recognizes that an area of responsibility must be reserved to the County if County government is to effectively serve the public.&nbsp; Therefore, the County shall have the full and complete right to manage and direct its business and it is recognized that the following responsibilities of management are exclusively functions to be exercised by the County and are not subject to negotiations insofar as this right does not affect the meaning, interpretation or application of any other term of this Agreement.
+The determination of the governmental services to be rendered to the citizens of Clackamas County, Oregon.
+The determination of the County’s financial, budgetary and accounting procedures.
+The management and direction of the work force including, but not limited to, the right to determine the methods, processes and manner of performing work; the right to hire, promote, transfer within the same pay range and retain employees; the right to discipline or discharge for proper cause; the right to lay off for lack of funds; the right to create or abolish positions or reorganize the departments or division; the right to determine schedules of work; the right to purchase, dispose and assign equipment or supplies; and the right to contract or subcontract for work.
+The County, in exercise of the above-mentioned functions, will not discriminate against any employee because of their membership in the Union.
+### ARTICLE 5 -Union Dues
+All employees covered by the terms and conditions of this Agreement shall have the voluntary choice of whether to become members of the Union.&nbsp; The County agrees to deduct dues in an amount determined by the Union from the wages of each employee who chooses to become a member of the Union in accordance with the terms of the contract between the employee and the Union.&nbsp; The County agrees to deposit the total amount deducted from all members into an established account designated by the Union, on a monthly basis.&nbsp;
+Such uniform amounts as the Union certifies to the County as the monthly dues approved by the members of the Union shall remain as the amount to be deducted hereunder.
+Employees terminating with less than ten (10) working days in any calendar month will not be subject to dues deduction.
+The County will not be liable for check-off errors, but will make proper adjustments with the Union for errors as soon, as is practicable if notified within ten (10) consecutive days of the error. In no case shall such an adjustment extend beyond the following pay period. In order for both parties to have adequate information on dues check off, an up-to-date list of eligible members of the bargaining unit will be delivered to the Union. Such list shall include all members paying dues in the previous pay period.
+The Union agrees to indemnify and hold the County harmless from and against any and all claims, suits, orders or judgments brought against the County as a result of the County’s compliance with the provisions of this Section and to reimburse any fees, costs or expenses incurred by the County in connection with the same.
+The County shall furnish monthly to the Union an electronic list of new employees who have accepted positions represented by the Union along with anticipated start dates. The list shall contain the name, job title, employee identification number, address, phone number, department, and monthly salary.
+### ARTICLE 6 –&nbsp;PEOPLE and AVIP
+To the extent allowable by law, employees may authorize payroll deductions for the AFSCME PEOPLE (Public Employees Organized to Promote Legislative Equality) or AVIP (AFSCME Values In Practice). The Union agrees to provide the Employer a list of employees that are making PEOPLE and/or AVIP contributions and amount deducted per employee on a monthly basis in the same report it provides to the County for dues deduction as required by Article 5.
+All PEOPLE contributions shall be voluntary and may be revoked at any time by giving written notice to the Union and the County. It is expressly understood that PEOPLE contributions are not required as a condition of employment.
+The Union shall indemnify and save the County harmless against any and all claims, damages, suits or other forms of liability which may arise out of action taken or not taken by the County for the purpose of complying with the provisions of this Article.
+### ARTICLE 7 - HOURS OF WORK
+REGULAR HOURS
+“Regular Hours” refers to the hours of the shift that a D1, D2, or Call Taker has bid on and has been assigned in shift bid or is assigned at sign off. The regular hours of work each day for Operations employees shall be consecutive except for interruptions for a paid lunch break and two (2) twelve (12) minute paid breaks. Non-Operations, TQAC’s, and Part-time employees will have regularly scheduled hours of work that may be adjusted via mutual agreement between the employee and their supervisor to meet the needs of their position. Regular hours do not apply to trainees, to include T2’s, who are actively in a training status.
+WORK WEEK &nbsp; The workweek will be based on the following staffing levels: The standard workweek for full time Dispatchers, Shift Leaders, and Call Takers is four (4) days on, three (3) days off with ten (10) hour shifts. Trainees will work four (4) days on, three (3) days off, ten (10) hour shifts. Trainees’ work schedules for on-the-floor and off-the-floor training may be altered by mutual agreement between management and Union leadership. Exceptions may be made to trainee work schedules for off-the-floor training needs. The Non-Operations staff shall have a regular work schedule of five (5) consecutive eight (8) hour days followed by two (2) consecutive days off. Upon the request of the employee and with approval of the director, the non-Operations staff may work a different schedule as long as it totals 40 hours per week and has consecutive days off. Non-Operations employees shall be charged for vacation and sick leave according to their schedule, e.g., for a ten (10) hour schedule, ten (10) hours would be charged. The parties agree to continue their existing committee to evaluate all future scheduling options that meet user interests, employee interests, and operational needs. Employees are expected to accurately record their actual hours worked on their timesheets and comply with department and county requirements for submitting timesheets.
+REST PERIODS&nbsp;
+All employees' work schedules shall provide for a rest period of twelve (12) minutes during each one-half (1/2) shift. Rest periods shall be taken in approximately the middle of the one-half (1/2) shift.
+LUNCH PERIODS &nbsp; Employees shall be granted a paid lunch period of thirty (30) minutes for five (5) – six (6) actual hours worked, forty-five (45) minutes for seven (7) – eight (8) actual hours worked, one (1) hour for nine (9) – thirteen (13) actual hours worked, or one and one-half (1 ½) hours for fourteen (14) – sixteen (16) hours worked. The one and one-half (1 ½) hour lunch period can be split to sixty/thirty (60/30) minutes at the request of the employee so long as it does not prohibit other employees from taking their lunch periods and it works in the schedule. Operations employees will be allowed to leave the Center for their lunch break provided that they shall remain on-call and available for duty within a fifteen (15) minute radius of the Center. If scheduled staff is short, or in exceptional circumstances where workload dictates, lunches may be canceled or employees may be required to remain in the building. Missed lunches will be paid at additional straight time for actual time missed during recall.
+SHIFT SCHEDULE
+Subject to the needs of the County, employees shall be assigned to shifts by seniority.
+Operations employees shall be allowed to bid on shifts once a year, by seniority, during the month of December, with shift assignments effective as soon as is practical after the following March 1, but no later than March 15. Each classification (D2, D1, CT) shall have its own set of available shifts.
+Call Takers will bid on shifts separate from D1/D2 shift bid.
+If a D1 shift is vacated that was originally offered to D2s and then converted to a D1 shift, the shift then would be first offered to the D2 whose shift is the most similar to the available shift. If a Call Taker shift is vacated and if the shift is not eliminated, only Call Takers will be allowed to bid on the vacated shift.
+Permanent shift vacancies created by changes in times, terminations, layoffs, transfers, promotions, etc. shall be posted for seven (7) calendar days. Employees shall be able to bid for such vacancies by seniority.
+Employees off on vacation may bid by letter or phone, as long as such letter or phone call is received prior to the completion of the seven (7) calendar days. Should another shift opening occur as a result of the above vacancy, that opening will be posted for a minimum of 72 hours.
+Any employee required to make a shift change with less than eight (8) calendar days’ notice shall receive time and one-half (1½) compensation for all hours worked for that period of time which is less than the eight (8) day period, except for employees in training who are routinely required to rotate for shift visits and schedule "ride-alongs" and "geo-tours" before final training sign off.
+During shift sign up, Management will designate shifts that may be removed or added for coverage. When possible, schedule balancing will coincide with vacation bidding.
+All shift openings will be APAGED and emailed to all affected C-COM employees.
+Management will designate shifts of T2s in paused status, consistent with the standard work week of four (4) days on and three (3) days off, ten (10) hour shifts.
+STAFF AND TRAINING MEETINGS&nbsp;
+Two training/staff meeting days, including alternates when feasible, will be scheduled by management each calendar year. Attendance is required. These two training/staff meetings will be scheduled before each vacation sign-up period and posted on the vacation signup calendar. Management may also schedule additional optional training/staff meetings scheduled not less than 45 days in advance of the meeting dates.
+STAFFING LEVELS &nbsp; The following staffing levels are established only for the purpose of determining when it is permissible for the County to impose mandatory overtime or cancel vacations:
+A. Dispatch staff including D1 and D2
+Hours
+Number of trained dispatchers
+0100 to 0300
+5
+0300 to 1000
+4
+1000 to 0100
+6*
+“Staff enhancement” postings do not count toward the staffing levels.
+T2s may count toward staffing levels provided that enough D1s or D2s are on duty to allow breaks.
+*The staffing number between 1000 to 1500 will be five (5) when total trained dispatch staff is below 22 and/or the service net is not operational during those hours. If the service net is open at 1200, the staffing numbers will be five (5) from 1000 to 1200 and six (6) from 1200 to 0100. If the service net is not open at 0200, the staffing number will be four (4).
+When dispatch staffing is above 28 certified personnel, management and the Union will meet to discuss whether to increase minimum staffing.
+COMPUTATION OF OVERTIME&nbsp;
+For purposes of computing overtime, hours of work shall include all County paid leave.
+LIMITS ON HOURS WORKED&nbsp;
+An employee may not work more than sixteen (16) consecutive hours. In the event an employee works sixteen (16) consecutive hours, that employee must have eight (8) consecutive hours off. All employees must have eight (8) hours off in every twenty-four (24) hour period. Every employee shall take at least two (2) days off within any calendar month. Exceptions to these limits may be made by the Communications Director in emergency circumstances.&nbsp;
+For shifts beginning between 1400-0000 the clock starts at 1200 and runs for a twenty-four (24) hour period. For all other shifts, the clock starts at 0000 and runs for a twenty-four (24) hour period.
+TECH TEAM STANDBY AND OFF HOURS CALLOUT PAY &nbsp; Tech Team employees are required to be on the standby list to respond to calls while off duty. A standby assignment will be designated in seven-day increments. The County will maintain a standby list and Tech Team employees will be rotated through the standby assignment. An employee assigned to standby will receive one and a half (1.5) hours of straight time for each standby day. Upon mutual agreement between Tech Team employees, and with managerial notification, Tech Team employees can trade standby assignments for no less than one (1) day. Trading does not absolve any member from their standby duty. Time spent on standby shall not be considered time worked for purposes of calculating overtime except those hours in which the employee is actually called and required to work.
+During the period in which an employee is assigned to standby, the employee shall remain available and fit for work assignments during non-working time. Employees are responsible for keeping their assigned telecommunications equipment in operation and for complying with their standby assignment.
+An employee assigned to standby must respond to the initial contact within twenty (20) minutes via phone call or text. If the employee’s presence at the worksite is required, the employee must report to work within a period of one (1) hour of receiving the request.
+An employee assigned to standby who responds to a work-related phone call that does not require the employee to respond to the worksite shall be compensated at the overtime rate for the time actually spent responding to the call, related calls, and time spent logging or recording required information about the call. If the employee is required to report to the worksite, the employee will be compensated at the overtime rate from the time of the call until their work ends, as well as for the time spent traveling home (travel time not to exceed one (1) hour). The overtime hourly rate of pay will be calculated in fifteen (15) minute increments.
+In the event an employee does not respond to a request to report for duty while assigned to standby, or fails to respond within the timelines described above, the employee automatically forfeits the standby compensation and may be subject to disciplinary action. Tech Team employees are eligible for sabbatical from being on standby for a one (1) month period after a County-recognized life altering event with approval from the C-COM Director.
+### ARTICLE 8 – HOLIDAYS
+HOLIDAYS
+The following holidays shall be recognized and observed as paid holidays for all non-certified, and non-dispatch employees.
+New Year's Day (January 1st) Martin Luther King, Jr. Day (Third Monday in January) President's Day (Third Monday in February) Memorial Day (Last Monday in May) Juneteenth (June 19th) Independence Day (July 4th) Labor Day (First Monday in September) Veteran’s Day (November 11th) Thanksgiving Day (Fourth Thursday in November) Christmas Day (December 25th)
+Every day appointed by the Board of County Commissioners as a holiday.
+FLOATING HOLIDAY
+One (1) personal leave day granted to each employee equal to the employee’s regular shift length at the beginning of the calendar year, January 1. Floating holiday must be used within the calendar year in which it is given and may not be converted to vacation accrual, unless reasonable time requested is denied three times. New employees who qualify for paid holidays are eligible to receive the floating holiday after 90 calendar days of employment. Floating holidays shall be used according to the sections below relating to operations and non-operations staff.
+OPERATIONS STAFF
+To receive pay for a holiday, the employee must be in a paid status, defined as regular wages or County accrued leave, on the last working day immediately preceding the holiday and the next working day immediately following the holiday. Holidays occurring during a leave without pay shall not be compensated.
+In lieu of paid compensation for the above listed holidays, including floating holidays as described below, operational employees (CT, DT, D1, D2, TQACs) who maintain dispatch certification will accrue eight and four-tenths (8.4) hours of additional leave time per month. This time will be added to existing vacation balances. New employees will have eight and four-tenths (8.4) hours added to the vacation balance after the first full month of employment. TQAC positions, without dispatcher certification, shall fall under the "non-operations, non-certified" section of this Article.
+Any trainee, Call Taker, D1 or Shift Leader shall receive an extra one-half (1/2) time pay for every hour worked on one of the major holidays (Independence Day, Thanksgiving, and Christmas) such that: regularly scheduled work shall be compensated at one and one-half times the employee’s regular rate of pay, voluntary overtime at two (2) times the employee’s regular rate of pay, mandatory overtime at two and one-half times the employee’s regular rate of pay, and GAP at three (3) times the employee’s regular rate of pay. There shall be no other premium pay for work on a major holiday.
+Effective January 1, 2022, Operations staff are permitted to take their accrued floating holidays under the following conditions:
+Personal holiday time may be used upon request if an employee is on leave and has exhausted all other leave banks; and
+Employees must request at least 24 hours ahead of time; and
+No floating holidays permitted the day before, the day of, or the day after any of the major holidays (Independence Day, Thanksgiving, and Christmas); and
+Only one operations staff member per hour can be out on floating holiday; and
+Supervisor or management approval will be needed if GAPs will be created at the time of the request.
+THE NON-OPERATIONS STAFF
+To receive pay for a holiday, the employee must be in a paid status, defined as regular wages or County accrued leave, on the last working day immediately preceding the holiday and the next working day immediately following the holiday. Holidays occurring during a leave without pay shall not be compensated.
+The non-operations staff shall be given the above listed holidays as days off with no additional pay other than regular base wage. Floating holidays shall be used in lieu of the first seniority vacation day to be taken in any given year.
+Non-operations staff are subject to the following provision for taking the holiday that falls on their days off. Whenever a holiday falls on the first or second day of the employee’s regularly scheduled days off, the preceding day in the regular work week shall be observed as the holiday. When the holiday falls on the third day off, the holiday shall be observed on the next regularly scheduled work day.
+Employees working an 8-hour day schedule will receive eight (8) hours for the holiday.
+Employees working a 10-hour day schedule will receive ten (10) hours for the holiday.
+If called in to work on a holiday, the non-operations staff shall be paid at one and one-half (1 ½) times their regular rate of pay for all hours worked, in addition to their regular salary.
+Should an employee be on authorized leave when a holiday occurs, such holiday shall not be charged against such leave, and no additional pay other than monthly salary shall be paid for that day.
+REGULAR PART-TIME EMPLOYEE HOLIDAYS
+Regular part-time dispatch employees, including Job Share, will accrue holiday compensation on a prorated basis based on hours worked in the pay period. However if the employee works one of the three major holidays, they will be paid at time and one half (1 ½) for all hours actually worked on the holiday.
+ORDER OF LEAVE CANCELLATION
+In order to maintain operational coverage and staffing minimums, mentioned in Article 7, Section 7, it is agreed that there may be times where requested leave time may need to be cancelled and employees be required to work. If personal/floating holiday is canceled and not able to be rescheduled, it shall roll over to the next year.
+Type of Leave
+Cancellation Order
+Personal /Floating Holiday
+1
+Comp Time
+2
+Non-Seniority Vacation
+3
+SVA Round 3
+4
+SVA Round 2
+5
+SVA Round 1
+6
+### ARTICLE 9 – VACATION
+ACCRUAL
+&nbsp;
+Vacation Option – New Hires.
+New employees upon initial hire will have the one-time option to choose to either have their first years’ worth of vacation leave frontloaded into their vacation leave bank in accordance with County Employment Policy and Practice (EPP) #66 – Vacation Leave or accrue vacation on a period basis in accordance with subsection B below.
+Employees who choose the frontload option for the first year of employment will start accruing vacation leave effective the first day of their second year of employment in accordance with subsection B(1) below.
+New employees who choose the frontload vacation option for their first year of employment and leave County employment, for any reason, prior to the end of the first year will only receive a vacation payout equivalent to the amount they would have actually accrued during their time of employment, minus any hours used. In the event the employee has used more paid time than would have been accrued during their first year of employment, the employee will have the equivalent cost of hours owed deducted from their final paycheck. In the event the employee’s final paycheck does not cover the amount of frontloaded vacation time taken prior to separation, the County will attempt to recover the difference as described in Article 27(C).
+Should a new hire not make a selection, they will be defaulted into the normal accrual system outlined in subsection B below.
+New employees may not request to use vacation time in the first six (6) months of employment at C-COM; however, exceptions can be made by the director or designee when vacation requests do not conflict with training schedules for internal and/or external training academies, such as, but not limited to, Oregon DPSST or EMD courses.
+For the purpose of vacation accruals only, employees in a paid status, defined as regular wages or County accrued leave, for eighty-eight (88) hours (prorated for FTE status) or more in any month shall accrue vacation leave for the next month on the first of that month. Employees having served in the County service for one (1) full calendar month, shall be credited with ten and seven-tenths (10.7) hours of vacation leave, and thereafter vacation leave shall be accrued in accordance with the following:
+Less than five (5) years of continuous County service, 128.4 hours per year, accrued at the rate of 10.7 hours per month. Employees may accumulate unlimited vacation time during the year, but must reduce to 240 hours by December 31.
+Five (5) to ten (10) years, but less than ten (10) years of continuous County service, 152.4 hours per year, accrued at the rate of 12.7 hours per month. Employees may accumulate unlimited vacation time during the year, but must reduce to 240 hours by December 31.
+Ten (10) to fifteen (15) years, but less than fifteen (15) years of continuous County service, 176.4 hours per year, accrued at the rate of 14.7 hours per month. Employees may accumulate unlimited vacation time during the year, but must reduce to 280 hours by December 31.
+Fifteen (15) to twenty (20) years, but less than twenty (20) years of continuous County service, 192.0 hours per year, accrued at the rate of 16.0 hours per month. Employees may accumulate unlimited vacation time during the year, but must reduce to 280 hours by December 31.
+After twenty (20) years of continuous County service, 200.4 hours per year, accrued at the rate of 16.7 hours per month. Employees may accumulate unlimited vacation time during the year, but must reduce to 280 hours by December 31.
+TERMINATION OR DEATH &nbsp; After six (6) months of service, upon the termination of an employee for any reason, or in the event of death of an employee, all accumulated vacation shall be paid either to the employee or their heirs, whichever the case may be.
+VACATION RETENTION &nbsp; Under no circumstances shall employees lose vacation leave without paid compensation.
+Employees will have the option of selling up to 100 hours of vacation leave back to the County on June 30th provided they have used at least 80 hours of vacation leave during the previous 12 months. Employees will have the option of selling up to 100 hours of vacation leave to the County on November 30 plus that which is necessary to meet the accrual cap. All employees must be at or below their maximum accumulation level on December 31, unless approved by management. Paid compensation will be at the employee’s regular rate of pay.
+VACATION SCHEDULE SIGN UP
+&nbsp;
+Call Takers will sign up for vacation on a separate calendar from the Dispatchers.
+Dispatchers and Call Takers will sign up for seniority vacation twice each year. If there are no pending shift bids, the first sign up schedule will be posted on January 1st. Employees will be able to sign up for vacation times from January 3rd thru January 31st for vacation dates March 1st through August 31st. If there are no pending shift bids, the second sign up schedule will be posted on July 1st. Employees will be able to sign up for vacation times from July 5th to July 31st for vacation dates September 1st through the last day of February of the following year. During either vacation bid, if there are pending shift bids, the vacation bid times will be posted as soon as possible and the bid process will begin at least 48 hours after bid times are posted.
+Dispatch certified TQACs’ vacation bid will mirror the Dispatchers and Call Takers process for vacation bid and they will sign up for vacation on a separate calendar from Call Takers and Dispatchers.
+For purposes of this Article, a pending bid shift is one that is planned, expected, or announced within two (2) weeks before the vacation bid first round start date. This includes retirements, resignations, promotions, demotions sign offs, or any other situation that would cause a shift bid.
+Employees will reserve vacation by descending order of seniority. Employees are responsible for tracking their own bid times. An employee who misses their respective bid time forfeits any seniority bumping rights to those that already have submitted timely bids. However, they may be allowed to submit their respective bid (first round, second round, or third round) any time before the end of the least senior person’s bid time for that round or at a mutually acceptable time.
+Example: Dispatch A in seniority misses their bid time during the second round. Second round bid shift continues with four (4) more employees timely submitting their second round vacation bids. Dispatcher A remains eligible to submit a vacation bid up to one week (four consecutive shifts) at that time but has no right to bump any vacation for the four (4) employees who made timely submissions.
+For one signup period per year, in the first signup round, each employee may reserve up to eight (8) shifts in no more than two blocks of up to four (4) days each. For the other signup period during the same year, in the first round, each employee may reserve up to four (4) shifts in no more than one block of four (4) days.
+For both yearly signup periods in the second round, each employee may reserve up to four (4) additional shifts in a single block.
+For both yearly signup periods in the third round, each employee may reserve the remaining number of hours that they are entitled off as vacation leave.
+If there are no conflicts, the second block of time reserved may be an extension of the first reservation. Vacation time placed during the open sign-up shall be considered approved at the completion of the sign-up period, except management reserves the right to cancel or change vacations to ensure adequate staffing.
+Vacation leave shall be scheduled through the Operations Supervisor with final approval from the Communications Director. On days other than the three major holidays (Independence Day, Thanksgiving, and Christmas) no more than three (3) dispatchers, one (1) Call Taker, and one (1) TQAC may be scheduled for vacation leave in any one (1) day, nor more than two (2) dispatchers, one (1) Call Taker, and one (1) TQAC in any one (1) hour, unless the time requested is filled on a voluntary basis by regular or part-time employees possessing the requisite skills to fulfill the employee's primary work responsibilities and requirements. On the three major holidays, no more than two (2) dispatchers, one (1) call taker, and one (1) TQAC may be scheduled for vacation leave in one day unless the time is filled on a voluntary basis by regular or part-time employees possessing the requisite skills to fulfill the employee’s primary work responsibilities and requirements.
+On New Year’s Eve, when two (2) or fewer regularly scheduled Call Takers are working between 2000-0200, no more than one (1) Call Taker may take vacation leave during those hours.
+When the number of fully trained dispatchers reaches 26, the County and the Union will meet and confer to discuss the vacation limitations in Article 8 9 Section 4.(B) above.
+Accrued non-seniority request vacation hours may be used if the vacancy is posted and filled or if the remaining number of certified Dispatchers scheduled for any hour of the request does not fall below two (2) over the minimum staffing levels set forth in Article 7 (Hours of Work), Section 7 (Staffing Levels), after accounting for the vacation leave. Vacation leave used without the vacancy being filled shall be granted on a first come, first serve basis. Exceptions to this requirement may be made at the discretion of the Director, or designee on the day the shift occurs where granting non-seniority vacation without filling it would not create staffing below the levels in Article 7 (Hours of Work), Section 7, would not alter scheduled breaks, and there were no previously posted non-seniority vacation that was not filled.
+Dispatch Certified TQACs may use accrued non-seniority vacation hours by submitting a request to their direct supervisor. Approval will be granted based on the needs of the training department at that time. Non-seniority vacation approval will be decided on by the TQAC’s direct supervisor and the OPS manager.
+The list of all vacation requests shall be posted in the schedule binder, accessible to all employees. Seniority requests shall be designated as such. The seniority list shall also be posted and updated when any change is made.
+If seniority vacation is cancelled due to staffing levels in Article 7 (Hours of Work), Section 7 (Staffing Levels), not being met, third round vacation request will be canceled before second and first round requests.
+The parties understand that seniority requests have precedence over non-seniority requests for the same hours in order to maintain staffing levels as outlined in Article 7 (Hours of Work), Section 7 (Staffing Levels).
+An employee covering for a non-seniority request will not be moved to cover for a seniority request for different hours of work (other than those originally volunteered to cover) without the "coverage" employee's approval.
+If an employee bids on a different shift under Article 7 (Hours of Work), Section 5(D) or 5(G), or if a trainee completes training (fully certified) and bids on a new shift, the employee shall have an opportunity for a single 4th round Seniority request vacation sign-up, unless the employee has already used their vacation allocation. If there are multiple people moving shifts at the same time, the order of bidding in the 4th round will be by the date the person was awarded their new shift in the bidding process rather than C-COM hire date.
+If an employee loses their shift under Article 7 (Hours of Work), Section 5(G), a reasonable attempt will be made to accommodate previously scheduled vacation.
+Vacation time placed under these special conditions shall be considered seniority vacation and as such approved at the end of the bidding process.
+Restrictions/Limitations.
+Any seniority vacation time still valid after shift bid will remain and not be considered as the single round vacation sign-up.
+Must be a minimum of 14 days after the beginning of the rollover.
+The employee’s available vacation balance may be used as full or partial shifts, but must still follow restrictions outlined in Article 9 (Vacation) Section 4(B).
+Bumping rights do not apply.
+If a D1 signs up to cover a CT non-seniority or seniority vacation shift, the D1 may be moved to cover a radio position, if needed, for operations. This will not be done to cover mandatory overtime. If there is an operational need to move a D1 from a CT position, this must be approved by a supervisor and the CT time off would not be canceled because of this move nor would the D1 be required to move to cover hours not already signed up for as outlined in Article 9 (Vacation), Section 4 (Vacation Schedule Sign Up), Paragraph G.
+Employees who are designated as a trainee (to include paused and active training time) for at least six (6) months maybe allowed vacation time. Trainees and T2s may bid for vacation by following the procedure below:
+1. Trainees will present their vacation request to their current CTO. If their CTO approves, the trainee will then take their vacation request to the Training Coordinator, who will approve or deny the request and then it will be submitted to the Ops Manager, or designee, for final approval or denial. Vacation requests not approved or denied within seven (7) days shall be approved.
+2. T2s who are paused for more than 45 calendar days may request seniority vacation. Vacation requests must adhere to the vacation restrictions outlined in Article 9 (Vacation), Section 4(B). Requests are submitted through an Operations Supervisor and approved by the Operations Manager.
+Any vacation time approved while the employee is a trainee will be honored, including vacation dates that were bid upon prior to a trainee becoming fully certified.
+This is an exception to the restrictions outlined in Article 9 (Vacation), Section 4(B).
+T2 Dispatchers, while paused, may sign up for non-seniority vacation in accordance with Article 9 (Vacation), Section 4.
+If a scheduled vacation request conflicts as a result of an individual's bid on a different shift, that individual will lose access to the grievance procedure on any vacation conflict caused by the shift bid.
+ILLNESS OR DISABILITY&nbsp;
+If an employee becomes seriously ill or disabled while on annual vacation leave, such period of illness or disability may be changed from vacation leave to sick leave, upon the request of the employee and after a statement received from the employee's physician substantiating the illness or disability, by the Director, who shall have sole discretion to make the change.
+TRADE TIME AGREEMENTS
+Trade time agreements between employees will be allowed, provided:
+The person working the trade will be subject to mandatory overtime using the same date as the person for whom they are working.
+Each Employee agrees the trade will not create overtime except for mandatory overtime.
+Mandatory overtime will be the only entry on the timesheet for the employee working the trade; any other compensation issues will be resolved between the trading employees.
+A paused T2 can trade shifts with a D1 or T2 as long as both sides of the trade are completed within fourteen (14) days and before the end of the anticipated T2 pause.
+In order to comply with Fair Labor Standards Act (“FLSA”) record keeping requirements a trade time slip must be completed and signed by both parties and submitted to the Director, or designee.
+Call Takers will be considered for trades within their own classification and following the same procedure outlined above.
+Trainees will not be considered for shift trades, with the exceptions that trade time agreements between paused T2s will be allowed provided the same procedure outlined above is followed and both T2s are certified in the same disciplines.
+Employees who trade time will be paid for their actual regular shift hours regardless of whether the full shift was traded or a partial shift is traded. The person working the trade will only receive additional pay if they work mandatory overtime or for any other voluntary overtime worked outside of the hours traded.
+If an employee who was going to work a trade for another employee calls in sick for the trade, the trade will still be honored. Both employees complete their time sheets with their regularly scheduled hours. However, the sick time bank of the employee who called in sick will be reduced by the number of hours that were supposed to be covered by the trade. The employee will only be paid their regularly scheduled hours; they will not be paid for the sick time bank reduction.
+If an employee calls in sick for two trade days in any six month period for absences not protected by OFLA/FMLA/Oregon Sick Time, that employee will not be allowed to trade for at least six (6) calendar months after the second sick day.
+PART-TIME EMPLOYEE&nbsp;
+Regular part-time employees will accrue vacation hours on a prorated basis based on hours worked in each pay period.
+VACATION OVERTIME SIGN-UP BONUS&nbsp;
+&nbsp;
+For the purposes of this policy, a trained staff of 25 fully certified dispatchers or below will be considered insufficient to cover time off requests, and a bonus of $75.00 will be paid to any scheduled CT, D1 or D2 who signs up for fifteen (15) hours of vacation relief overtime prior to the deadline. Deadline is defined as thirty (30) days in advance.
+The fifteen (15) hours must be worked within a one (1) calendar month time period and between the hours of 5:00 p.m. and 5:00 a.m.
+The bonus is in addition to regular overtime pay earned and/or comp time, if that option is selected.
+People calling in sick for time signed up for will not be paid a bonus until actual overtime hours worked in that month reach fifteen (15) hours of the early sign-up time.
+Once an employee has committed to a time period, they are obligated to work that time slot. If they cannot work the time slot, they are obligated to find a replacement worker, and these hours will not count toward the bonus.
+### ARTICLE 10 - SICK LEAVE
+ACCRUAL
+All employees in a paid status, defined as regular wages or County accrued leave, for eighty-eight (88) hours (prorated for FTE status) or more in any month shall accrue sick leave for the next month on the first of that month at the rate of eight (8) hours for each month worked. Accrual of sick leave shall be unlimited.
+USE OF SICK LEAVE
+Employees may utilize their allowance of sick leave for any of the purposes required by state or federal law including when unable to perform their work duties by reason of illness, off the job injury, pregnancy, necessity for medical or dental care, exposure to contagious disease under circumstances by which the health of the employees with whom associated or member of the public necessarily dealt with would be endangered by the attendance of the employee, or by serious illness or death in their immediate family requiring the presence of the employee.
+Immediate family for the purpose of this Sick Leave Article shall be defined as spouse, domestic partner, parents, spouse's or domestic partner’s parents, stepparents, stepchildren, children, sibling, grandchildren, and grandparents of either employee, domestic partner or spouse. Sick leave may also be used as approved by the Director in the event of an illness of a member of the employee's household who lives in the actual home of the employee but who is not included in the relationships outlined above. The County will compensate the employee at the employee’s current wage rate as long as the employee has accrued sick leave and is unable to perform their duties.
+HEALTHCARE PROVIDER’S STATEMENT
+If the County has reasonable suspicion of sick leave abuse or if an employee misses more than three (3) consecutive shifts of work, the employee may be required to provide appropriate documentation of illness as deemed necessary by management. Any requests for documentation cannot be arbitrary or capricious. If the employee is under a healthcare provider’s care, a provider’s certificate shall be considered appropriate documentation.
+If an employee is unable to report to work due to reasons based on sick leave usage, the employee will notify the Shift Leader as soon as practical, if possible no later than three (3) hours before their shift is to begin.
+UNUSED ACCRUED SICK LEAVE AT TIME OF RETIREMENT
+Pursuant to ORS 238.350, the County shall report all allowable sick leave hours to PERS upon separation from County employment.
+HOURS CHARGED
+Sick Leave shall be charged at the rate of one (1) hour for each hour taken.
+VACATION OPTION
+Employees who are absent on sick leave for a period in excess of their accrued sick leave shall be required to use their accrued vacation time to cover such time off. At the option of the employee on approved FMLA/OFLA/PFML, the employee may retain up to 40 hours of vacation time prior to being placed on leave without pay.
+### ARTICLE 11 - OTHER LEAVES
+LEAVE OF ABSENCE
+Leaves of absence are covered by County Code and policy. The employee's service date and salary increase date will be adjusted for any month in which the employee is not in paid status, defined as regular wages or County accrued leave, for at least or eighty-eight (88) hours (prorated for FTE status) in a month. Vacation leave accrual during a leave of absence will be in accordance with Article 9, Section 1(B). Sick Leave Accrual during a leave of absence will be in accordance with Article 10, Section 1.
+JURY DUTY
+When an employee is called for jury duty on a scheduled day of work, such time shall be considered as time worked and paid at the straight time rate. Employees shall be required to give reasonable advance notice of jury summons to appear and provide the County with a copy of the summons requiring the employee's presence. The copy of the summons will be given to the County in advance of the jury duty or, if that is not possible, then the copy must be furnished within seventy-two (72) hours after the jury duty date. All monies received as jury fees must be signed over to the County excluding any mileage/expense reimbursements. Employees will be required to call their supervisor when less than a normal work day is required by jury duty. The center manager shall determine if the employee shall be required to report to work and shall take into consideration the travel time of the employee.
+BEREAVEMENT LEAVE
+In the event of a death in the employee's immediate family (as defined under sick leave) an employee shall be granted leave of absence with pay not to exceed three (3) working days for the purpose of making household adjustments and/or attend the funeral. A request to use bereavement leave for the death of an individual outside of the immediate family or the use of additional accrued leave may be approved by the director or designee.
+EDUCATION LEAVE
+After completing one (1) year of service, an employee upon request, may be granted a leave-of-absence without pay for educational purposes at an accredited school, when it is related to his/her employment. The period of such leave-of-absence shall not exceed one (1) year, but it may be renewed or extended at the request of the employee, when necessary.
+One (1) year leaves-of-absence, with any requested extension for educational purposes, may not be provided more than once in any three (3) year period.
+Employees shall also be granted leaves-of-absence with pay for educational purposes; for additional lengths of time, to attend conferences, seminars, briefing sessions or other functions of a similar nature that are intended to improve or upgrade the individual's skills or professional ability, provided it meets with the approval of the County.
+Compensation will not be paid for employees who attend training activities which are not a condition of employment, without regard to the nature of the training activity.
+MAJOR EMERGENCIES, DISASTERS, OR INCLEMENT WEATHER&nbsp;
+When an employee is excused by their supervisor from reporting to work because of inclement weather, the employee will have the option of either making up the missed time in the same work week with the approval of the supervisor or using vacation or leave without pay. Employees who are deemed not onsite essential during County building closures due to major emergencies, disaster or inclement weather, and who have the ability to work remotely shall do so during times the County building is closed, unless directed otherwise by their manager or department director
+### ARTICLE 12 - HEALTH AND WELFARE
+1. MEDICAL COVERAGE&nbsp;
+The County agrees to contribute toward the monthly composite premium for each medical plan for eligible employees and their eligible family members, who elect medical coverage. The design of the medical plan(s) shall be determined by the Benefits Review Committee as described in Section 10 of this Article.
+Effective January 1 of each year of the contract, the County agrees to contribute an amount equivalent to 95% of the monthly composite premium for at least one medical plan up to a maximum of 105% of the County contribution in the previous calendar year.
+Employees will pay any remaining insurance premium cost share through payroll deduction.
+Medical Insurance Opt-Out: Employees who submit the Medical Insurance “Opt-Out” Waiver of Medical Coverage for certifying they have other coverage not obtained from the individual market or the Health Insurance Marketplace will receive cash back on a monthly basis as provided by the yearly Benefits Summary, subject to applicable withholdings. Employees may only rejoin County coverage with a qualified life event or at the next Open Enrollment subject to carrier rules.
+The County and the Union will make an assertive effort to support plan design changes through the Benefits Review Committee as may be needed to keep the total annual renewal increase at or below five percent (5%) each year.
+2. LIFE INSURANCE
+The County agrees to contribute an amount equal to the premium for a life insurance plan with a death benefit of $50,000 to full-time employees. Effective within sixty (60) calendar days of ratification of the contract, the death benefit shall be increased to $75,000. The design of the life insurance plan shall be determined by of the Benefits Review Committee as described in Section 10.
+3. DISABILITY INCOME INSURANCE
+The County agrees to provide non-duty disability insurance coverage to eligible employees, as described in the Benefits Handbook, effective on the first day of the month following the benefit waiting period described in Section 9. The design of the disability plan shall be determined by the Benefits Review Committee as described in Section 10 of this Article.
+The County agrees to contribute up to the full premium amount for disability insurance coverage with a benefit of sixty percent (60%) of up to $3,333 in a monthly salary after an elimination period of the first thirty (30) days of each period of total disability or the exhaustion of accumulated sick leave, whichever occurs later.
+4. DENTAL INSURANCE
+The County agrees to pay 100% of the dental premium for coverage agreed to by the Benefits Review Committee for eligible employees and their eligible family members. The design of the dental plans shall be determined by the Benefits Review Committee as described in Section 10 of this Article.
+Dental Insurance Opt-Out: Employees who opt out of coverage provided by the County will receive cash back on a monthly basis as provided by the yearly Benefits Summary, subject to applicable withholdings. Employees may only rejoin County coverage with a qualifying life event or at the next Open Enrollment.
+5. LESS THAN FULL-TIME EMPLOYEES
+For the purpose of eligibility for benefits, full-time employees are those employees regularly working thirty (30) or more hours per week. Regular part-time employees working at least 20 hours per week shall be entitled to County-paid medical insurance as described in Section 1 and shall be entitled to purchase dental insurance as described in Section 4.
+6. PART-TIME AND JOB SHARE EMPLOYEES
+Regular part-time employees, including Job Share, working at least twenty (20) hours per week shall be entitled to County-paid medical insurance as described in Section 1 and shall be entitled to purchase dental insurance as described in Section 4.
+7. BENEFITS
+The County agrees to provide the Clackamas County's Benefits Program to regular eligible employees who are working in a position regularly scheduled for thirty (30) hours or more per week, and their eligible family members. Bargaining unit employees agree to cooperate fully with the Benefits Division regarding participation and administration of the program.
+8. RETIREMENT CONTRIBUTIONS
+PERS eligibility is subject to ORS 238.015. The County agrees to pay employee's share of contribution on behalf of employees as set by Oregon legislature.
+9. BENEFIT WAITING PERIOD
+Medical, dental, vision, life and disability, health reimbursement account and voluntary benefits shall become effective on the first day of the calendar month following the employee’s date of hire.
+10. BENEFITS REVIEW COMMITTEE
+A Labor-Management Benefits Review Committee shall have the responsibility for deciding the level, scope, and design of benefit plans offered to employees for medical and vision coverage, dental coverage, and for disability and life insurance. The primary emphasis shall be to provide a comprehensive, competitive benefit program at a reasonable cost for individuals and for the organization.
+The Committee shall be comprised of members from management and from County bargaining units. Each bargaining unit adopting these provisions shall be entitled to appoint one (1) voting member of the Committee for every two hundred (200) members in their bargaining unit with a minimum of one (1) member. It is understood that bargaining units which do not adopt these provisions will be entitled to appoint one (1) nonvoting member to the Committee. Management membership will consist of voting members in a number of equal to the voting bargaining unit membership. However a bargaining unit or the County may appoint fewer members than it is entitled, but retain the same number of votes as described above. Regular meetings will be held as business dictates on a schedule agreed to by the Voting Members. Meetings may be held as frequently during the annual renewal process as determined by the Benefits Manager or their designated representative.
+Employees will provide their supervisor at least two weeks’ advance notice of meetings for which coverage is needed. The County will pay overtime when attendance at the BRC is required and occurs outside of the employee’s regularly scheduled hours.
+The Committee shall make plan design decisions for medical, vision, dental, disability, and life insurance plans at least one hundred twenty (120) days prior to the beginning of the succeeding plan year, unless the County waives such requirement.
+Payment for and funding of benefit plans selected by the Committee shall be in a proportion and manner determined through collective bargaining with each separate bargaining unit.
+The County shall provide administrative coordination and support for the Committee. The Committee at its request shall be provided all financial information and related reports as may be available.
+The County will make decisions on the following issues after consideration of Committee recommendations: carrier selection, third party administrator selection, employee benefits consultant selection, selection of alternate funding arrangements, and other optional benefit programs.
+Problems with benefit coverage will be brought up at the Benefits Review Committee meeting for resolution.
+11. HEALTH REIMBURSEMENT ACCOUNT (HRA)
+The County shall enroll each benefit eligible employee covered by this agreement into the County’s Health Reimbursement Account (HRA/VEBA).
+The County shall pay the account fee up to $1.50 per account per month for each active employee. The employee shall be responsible for the third party annualized investment fee.
+Eligible employees active as of December 31 of each year shall receive an annual contribution of $100 paid into their HRA/VEBA account by the second payroll period in January of the following year.
+12. PLAN CHANGES REQUIRED BY LAW OR INSURANCE CARRIER
+The County shall act to update any mandated coverage or changes caused by Federal or State laws, rules and regulations and may make changes to take advantage of any enhancement made available by the insurance carriers. The County does not guarantee against unilateral changes in benefits initiated solely by the insurance carriers.
+13. DEFERRED COMPENSATION PLAN
+Subject to applicable federal regulations, the County agrees to provide an employee-paid deferred compensation plan that provides for payment at a future date for services currently rendered by the eligible employee. In addition, the County shall match an employee’s contribution to the deferred compensation plan up to three and one-half percent (3.5%) of the employee’s base compensation as defined in the deferred compensation plan document.
+Deferred compensation benefits shall become effective with the next available payroll after the employee enrolls in the deferred compensation retirement plan with the record keeper. New employees include newly hired employees, rehired employees and employees changing employment status from temporary to regular.
+### ARTICLE 13 - WORKERS COMPENSATION
+1. All County employees will be insured under the provisions of the Oregon Workers’ Compensation Law for injuries that arise out of and occur in the course of employment for the County. The County is self-insured for workers’ compensation claims. The County and Association acknowledge the right of employees to receive workers’ compensation benefits as provided by state law and this Article.
+2. The County will compensate the employee for injuries that result in an inability to work with sufficient medical authorization that arise out of and occur in the course of employment where the claim has been accepted in an amount equal to the injured employee’s regular pay, including any regular additional pay, such as longevity, that the employee was receiving at the time of the injury for up to and including one hundred and eighty (180) days from the date of injury. This wage continuation provision will continue for up to and including one hundred and eighty (180) calendar days from the date of injury, and is subject to the following conditions:
+A. The day of injury shall be considered a workday, and the employee will receive their normal salary for that day.
+B. The waiting period as stated in ORS 656.210 will be charged to sick leave or other accrued leave if available unless total temporary disability exceeds fourteen (14) consecutive days. Then, workers’ compensation covers from the first day.
+C. The employee’s regular pay will be subject to all standard deductions, such as income tax and employee benefits, as required or allowed under Federal and State Law.
+D. While the employee is receiving wage continuation under this provision, the employee will continue to receive all other County health and welfare benefits the employee was enrolled in at the time of the injury unless prohibited by law, rule, and regulation or provider contract.
+3. After one hundred and eighty (180) calendar days from the date of injury, if the accepted condition is still resulting in the employee’s inability to work, the employee will receive temporary total disability benefits as provided under Oregon Workers’ Compensation Law.
+After one hundred and eighty (180) calendar days from the date of injury, the employee may elect to use accrued leaves to supplement the difference between statutory workers’ compensation benefits and the employee’s regular pay (including any regular additional pay).
+4. Medical and dental insurance coverage shall continue to be provided for employees as was in place prior to the injury for as long as employee remains employed during this period. Employees are responsible for any applicable insurance premium cost share as provided for in Article 12.[AA7][AC8]
+5. The County may request the employee to return to modified or light duty, subject to medical release. An injured employee that refuses to return to modified or light duty may be subject to loss of reinstatement rights and reduction of temporary total disability benefits.
+### ARTICLE 14 – WAGES
+1. WAGE STEPS&nbsp;
+New employees shall be paid at step one rates, unless an upper-step appointment is made based on the bona fide factors of seniority and/or experience. Promoted and transferred employees will be paid as set forth in Article 22 (General Provisions), Sections 5 (Promotions and Transfers) and 7 (Transferred Employees from Other Agencies). Employees who voluntarily demote will be paid as set forth in Article 22, Section 6. New employees or promoted employees shall be eligible for advancement to the next step of the salary range for their classification six (6) months from the first of the month following appointment to the position. Thereafter, employees are eligible for a step increase at the conclusion of twelve (12) months of continuous service since their last step increase. Eligibility for step increases shall continue until employees reach the last step in their respective salary range. Step increases shall be granted by the appointing authority for those employees who have demonstrated satisfactory work performance.
+When any classification not listed on the wage schedule and which properly belongs in the bargaining unit is established, the County shall designate a pay range for the classification. In the event the Union does not agree that the range is proper, the Union shall have the right to submit the issue as a grievance at Step IV of the Grievance Procedure.
+2. COST OF LIVING ADJUSTMENT (COLA)
+Effective the first full pay period after ratification of the contract, employees shall receive a 4.1% cost of living increase. However, if the Union ratifies the contract prior to January 1, 2025, employees employed by the County as of the date of ratification shall receive a lump sum payment equal to 4.1% of the employee’s gross pay earnings (base pay, overtime, longevity, and incentives) from July 1, 2024 to the first pay period after the effective date of ratification. The lump sum payment would appear in the paycheck three (3) full pay periods after the effective date of the ratification.
+Effective July 1, 2025, employees shall receive a cost of living increase based on the percentage increase in the 2024 U.S. Consumer Price Index, CPI-W: West Urban Annual Average, as reported by the U.S. Department of Labor (with a minimum of 0% and maximum of 4.5%).
+3. PROMOTION FROM D1 TO COMMUNICATIONS SHIFT LEADER
+When a Communications Dispatcher 1 is promoted to Communications Shift Leader, the employee will receive a two (2) step increase which is equal to an approximate ten percent (10%) increase in pay.
+This is an exception to the standard County promotion procedure in which employees typically receive a one (1) step increase which is equal to an approximate five percent (5%) increase in pay.
+4. OUT OF CLASS PAY
+Whenever an employee is assigned any work for more than one (1) shift in a classification above that in which the employee is normally classified, the employee shall be paid for such work at the bottom of the range of the higher classified position or five percent (5%), whichever is higher.
+The Out Of Class rate will not exceed the maximum rate of the higher classification’s salary grade.
+5. TRAINING PAY
+Communication Dispatcher 1s, and Call Takers, while designated as trainers by the Director, or the Director’s designee, and while actively training shall be paid five percent (5%) in addition to their regular pay. In addition, an employee who possesses an active APCO Certified Training Officer credential will be paid a three percent (3%) premium in addition to their regular pay, regardless of whether the employee is actively training, as long as the employee is still designated a trainer. Any resignation or removal from the training program automatically forfeits this three percent (3%) premium.
+6. DISPATCHER OVERTIME
+A. Time and one-half (1 ?) the employee's regular hourly rate of pay shall be paid for work under any of the following conditions. Compensation shall not be paid twice for the same hours.
+1. All authorized work performed in excess of ten (10) hours in any workday.
+2. All authorized work performed in excess of forty (40) hours in an employee’s work week.
+3. All authorized work performed fifteen (15) minutes before or after any scheduled work shift, in half (?) hour units as outlined below:
+a. 0-14 minutes paid at time and one-half (1 ?) for actual time worked;
+b. 15-30 minutes paid for ? hour at time-and-one-half (1 ?); and
+c. 31+ paid at time and one-half (1 ?) for actual time worked.
+B. An exception to A. 1 -3 above; Dispatchers and Call Takers may be paid overtime to receive a minimum of 60 hours pay during a schedule change (i.e. shift rollover).
+1. The Supervisor in charge of scheduling or their designee will look at pay periods during a shift rollover and if any Dispatcher will have less than 60 scheduled hours in a pay period, there will be an equivalent amount of overtime hours allowed during the change to bring the Dispatcher or Call Taker to the equivalent of 60 hours of pay for that pay period.
+2. The formula of 6.75 hours of time and one-half (1 ?) overtime equals ten (10) hours of straight time pay will be used.
+3. The Dispatcher or Call Taker has the option of taking this time off and receiving less than sixty (60) hours of pay if the following are met:
+a. They are not needed to bring the staffing levels during the time in question to the levels defined in Article 7 (Hours of Work) Section 7 (Staffing Levels);
+b. All other leave time requested by other Dispatchers during those hours has been filled first so no Mandatory or GAP time is created.
+C. The County and the Union agree that overtime compensation at the time and one-half rate will be calculated for employees according to the following formula:
+Standard 40-hour work week:
+(Bi-weekly salary x 26 pay periods) ÷ 2080 hrs.
+The parties intend this formula to establish an authorized basic rate for overtime compensation as permitted by Section 7 (g) (3) of the Fair Labor Standards Act and 29 CFR Section 548.3. In the event that additional authorization is necessary to implement this agreement, the County and the Union agree to jointly make an application to the Wage and Hour Division as provided by 29 CFR Section 548.4.
+7. NON-OPERATIONS STAFF OVERTIME
+Overtime for the non-operations staff shall be all authorized work performed in excess of eight (8) hours in any work day in a five/eight work schedule, ten (10) hours in any work day in a four/ten work schedule, or in excess of forty (40) hours in a seven-day work cycle.
+8. OVERTIME SCHEDULING
+A. The overtime opportunities sign up list will be maintained in the Overtime Opportunities Binder by the County, in the C-COM Operations room. When possible, overtime opportunities will be posted between ninety (90) and one hundred twenty (120) days in advance, with the exception of the first ninety (90) days of seniority vacation requests, which will be posted as soon as each vacation signup is completed (see Article 9 (Vacation), Section 4 regarding trial Vacation Signup agreement).
+B. Emergency overtime opportunities (less than 48 hours’ notice) will be offered to employees via APAGE based upon the seniority rating as defined under Article 3 (Seniority), Section G.
+For the first thirty (30) minutes after the initial APAGE, seniority bumping rights exist within the D1/D2/T2 group or CT group (e.g., a D1 with more seniority is not allowed to bump within the CT group).
+After thirty (30) minutes, there are no bumping rights allowed other than a member taking a full shift when that shift is only partially signed up for.
+For full-time employees, compensation will be one and a half (1 ?) times the normal rate of pay per hour or comp time at the same rate. Part-time employees will be paid at their straight time rate.
+After sixty (60) minutes have elapsed, mandatory overtime may be instituted. See Article 7 (Hours of Work), Section 7 and Article 14 (Wages), Section 8, paid at double time.
+C. Overtime opportunities between forty-eight (48) hours and thirty (30) days from the date of posting shall be posted as soon as possible by the employee or designee in the Overtime Opportunities Binder with the date and time posted next to it, allowing for a twenty-four (24) hour seniority bumping period. After twenty-four (24) hours from the date of posting, there are no bumping rights allowed other than a member taking a full shift when that shift is only partially signed up for. There are no bumping rights less than twenty-four (24) hours prior to the start of the shift.
+D. Overtime opportunities created by scheduled sick, vacation, training leaves or other requests that on the date submitted have between thirty (30) and ninety (90) days’ notice will be offered on a first come, first served basis, with the exception of a period where seniority bumping rights may be exercised. The period will begin on the date of posting and continue through the fifth (5th) day from the date of posting.
+E. Overtime opportunities created by scheduled sick, vacation, training leaves or other requests that on the date submitted have between ninety (90) and one hundred twenty (120) days’ notice will be offered on a first come, first served basis, with the exception of a period where seniority bumping rights may be exercised. These overtime opportunities will be posted on the next pay day following the date the request is turned in. The bumping period will begin on the date of posting and continue through the fifth (5th) day from the date of posting. Requests submitted greater than ninety (90) days in advance but if posting were delayed until the next payday would be available with less than ninety (90) days’ notice, shall be posted as soon as received, also allowing for the same bumping period.
+F. During the bumping period, overtime opportunities shall be made available to the following groups of employees in order of preference, first to full time bargaining unit members by hire date; second, to job share employees by hire date; third, to part time employee bargaining unit members by hire date; and last to part time non-bargaining unit employees on a first come, first serve basis.
+G. On any bump, the person taking the shift is responsible for contacting the person being removed as soon as possible.
+H. Once an employee has committed to a time period, they are obligated to work that time slot. If they are unable to fulfill that obligation, it is their responsibility to find a replacement. However, if the amount of time within the single line of the overtime book should change, the person who had signed up for the entire shift will have the option to pass on the partial time left if it is three (3) hours or less. Example: Employee 1 signs up for Employee 2’s vacation time from 0500-1500, then Employee 2 cancels some of the vacation time and only wants off from 0500-0700. Employee 1 would have the option to not work the 0500-0700 portion.
+9. MANDATORY SHIFT COVERAGE, OVERTIME, AND CALL-IN PAY
+A. Mandatory overtime may be imposed to meet staffing levels as defined in Article 7 (Hours of Work), Section 7 (Staffing Levels), except for non-seniority vacation coverage and compensatory time. Mandatory overtime is allowed for shift coverage for training that is required under Article 14 (Wages), Section 13 (Training Session Compensation). Management reserves the right to not fill hours that are above the minimum staffing levels.
+B. Dispatchers, Call Takers, and T2s are subject to mandatory overtime per Article 7 (Hours of Work), Section 6 (Staff and Training Meetings). Once minimum staffing levels for Call Takers are established, Call Takers are subject to mandatory overtime.
+C. Dispatchers, T2s, and Call Takers are subject to mandatory overtime only on their regular work days up to two (2) hours before and/or after their regularly assigned hours, but will not be required to work more than a total of two (2) mandatory overtime hours per shift. However, a Dispatcher or T2 may voluntarily take a fellow dispatcher’s or T2’s mandatory overtime at double time if those hours would normally abut their regularly scheduled shift up to a total of four (4) hours of overtime or if breaks are unable to be given due to the number of T2s working.
+D. Dispatchers, Call Takers, or T2s will not be subject to mandatory overtime at the end of their shift when required to attend a meeting or training that occurs eight (8) or fewer hours after the shift. If a T2 chooses to adjust their shift for the day for a monthly training meeting, they will be eligible for mandatory overtime on their adjusted shift.
+E. Employees scheduled for ride-alongs will not be subject to mandatory overtime on either side of the ride-along.
+F. Overtime opportunities that may result in mandatory overtime if not filled shall be posted a minimum of ninety (90) days in advance. Exceptions to this are as follows:
+1. Overtime opportunities that become available less than ninety (90) days but more than forty-eight (48) hours from the date of notification shall be posted within twenty-four (24) hours.
+2. Emergency overtime opportunities as defined in Article 14 (Wages), Section 8. B. (Overtime Scheduling) shall be paged within two (2) hours of notification, or as soon as possible.
+3. Up to the first ninety (90) days of seniority vacation requests shall be posted after vacation sign up has been completed.
+G. Exceptions will not be made for posting requirements in anticipation of a trainee being signed off. Overtime may be canceled at the time a trainee is signed of and is assigned to a shift.
+H. Mandatory overtime to cover shifts on the floor will be compensated at double time for actual hours worked.
+I. Call in overtime for the non-dispatch staff which does not adjoin their regular shift will be compensated at double time.
+J. In the event of an emergency, dispatchers or call takers who report to work from an off duty status after having received a page or call request for emergency staffing shall be paid double time for hours actually worked. The department director, or designee, shall determine what constitutes an emergency for purposes of this section and will notify the employees of such when they are being contacted for purposes of emergency staffing.
+The number of employees who respond for emergency staffing may be reduced or canceled at any time after activation depending on the operational needs of the center.
+Employees who show up to work at C-COM after having received a request for emergency staffing shall be paid a minimum of one (1) hour compensation at double time.
+K. Overtime for training or other required meetings will not be paid at double time, but will be paid at time and one half and a two (2) hour minimum will apply if called in from off-site to attend. The minimum does not apply if the meeting/training adjoins an employee’s shift.
+L. Dispatchers, Call Takers, and T2 trainees who have worked fourteen (14) hours in any capacity in a twenty-four (24) hour period of time, as described in Article 7 (Hours of Work), Section 9, will not be required to work any further overtime, excluding staff meetings or required trainings.
+M. Whenever mandatory overtime would result in a Dispatcher or Call Taker working a fourteen (14) hour shift, the following steps shall first be taken:
+1. Voluntary overtime to be paid at double time shall be offered to Dispatchers or Call Takers.
+2. Management shall be notified and shall have discretion whether or not to staff the position using bargaining unit members.
+If use of mandatory overtime results in a Dispatcher or Call Taker actually working a fourteen (14) hour dispatching shift, compensation of one (1) hour compensatory time plus double time will be paid for each hour of mandatory overtime actually worked in excess of twelve (12) hours. An employee who voluntarily works mandatory overtime for another employee will be paid at double time when the mandatory overtime worked is adjacent to their shift. If volunteering to cover mandatory overtime results in a fourteen (14) hour shift, the employee will receive double time but not the compensatory time.
+N. When an employee is subpoenaed as a witness in any litigation or administrative hearing process which is C-COM related, during their regular shift, such time shall be considered as time worked and paid at the straight time rate. When an employee is subpoenaed and appears in any litigation or administrative hearing process outside of their scheduled work hours on a normally scheduled workday, which is C-COM related, the employee shall be compensated at a minimum of two (2) hours at the overtime rate. When an employee is subpoenaed and appears as a witness in any litigation or administrative hearing process outside of their scheduled work hours on a regularly scheduled day off, which is C-COM related, the employee shall be compensated at a minimum of three (3) hours at the overtime rate. Employees shall be required to give reasonable advance notice of such subpoena or other legal requirement to appear and provide the County with a copy of the subpoena or other legal document requiring the employee’s presence. If it is not possible for the employee to provide advance notice, then the copy must be furnished within seventy-two (72) hours after the hearing date. When an employee is subpoenaed and appears in any litigation or administrative hearing process on behalf of C-COM, they will not be subject to mandatory overtime at the end of their shift and they will be provided at least eight (8) hours between the end of their shift and the start of the court appearance.
+10. GAP OVERTIME
+A. GAP is a period of time where staffing falls below the levels outlined in Article 7 (Hours of Work), Section 7 (Staffing Levels), where such time is not covered by voluntary overtime and cannot be covered by mandatory overtime. Management may choose to fill such time with a qualified non-represented or non-dispatch employee (i.e., TQAC) before making such time available to dispatch members.
+B. GAPs are paged at the discretion of management and may be canceled if the time is filled with voluntary overtime, or if a qualified non-represented or non-dispatch employee is able to work if the time and it is covered more than two (2) hours before the GAP would occur.
+C. Available GAP time will APAGED to all personnel and will be available on a first come, first serve basis. Bumping rights do not apply.
+D. GAP time is paid at two and one half (2 ?) times the employee’s regular rate of pay.
+11. COMPUTATION OF HOURLY RATE
+Hours of work for all employees will be two thousand eighty (2080) per year. The computation of hourly rate included in the Salary Range Schedule and used to compensate part-time employees working at a particular range and step shall be computed upon the following equation:
+Continuous operations = Yearly salary = dollars
+2080 hours per year per hour
+12. COMPENSATORY TIME
+Employees may elect to take compensatory (comp) time, in lieu of overtime pay. An employee may accrue a maximum of two hundred (200) hours of comp time during each fiscal year. Any overtime worked over two hundred (200) hours in the fiscal year shall be paid at the appropriate overtime rate.
+Comp time will accrue at time and one-half (1 ?) (e.g., ten (10) hours of overtime will be compensated as fifteen (15) hours of comp time), except mandatory overtime which will accrue at double time (2) and gap overtime which will accrue at double time and one-half (2 ?).
+Effective June 30 of each year, an employee may carry over up to eighty (80) hours of comp time to the next fiscal year. If an employee has less than eighty (80) hours of comp time, all accrued hours will be paid to the employee or all accrued hours will be available to carry over into the next fiscal year (employee's choice). If an employee has in excess of eighty (80) hours of comp time, they can receive full pay off of the comp time hours or elect to be paid for only the amount over eighty (80) and carry over the eighty (80) hours of accrued comp time into the next fiscal year.
+If an employee is anticipating taking family medical leave and will not have a sufficient amount of appropriate accrued leave (sick/vacation) to compensate their expected family medical leave in its entirety, the employee may submit a request to accrue up to four hundred (400) hours of comp time and/or to carry over more than eighty (80) hours of comp time to the next fiscal year. Such a request will not unreasonably be denied. In the event the anticipated leave does not occur, any additional comp time beyond what is provided in the paragraph above will be paid out to the employee within two pay periods after it is determined the leave is not occurring. Once the family medical leave has been taken, the employee may carry over only up to eighty (80) hours of comp time to the next fiscal year.
+Accrued comp time may be used only if the vacation is posted and filled and all seniority vacation time during the same hours is also filled. If there is comp time that is covered while seniority vacation time during the same hours is not filled, coverage for comp time will be moved to the seniority vacation request time until all such time during the same hours is filled and then the comp time hours are filled as well. Any non-seniority vacation request that was requested prior to the comp time request must also be filled prior to comp time approval following the same process as above. The exception to above would be if staffing would be (2) above minimum staffing levels as defined in Article 7 (Hours of Work), Section 7 (Staffing Levels), after accounting or the comp leave and not using mandatory overtime to fill any vacancies. Comp leave used without the vacancy being filled shall be granted on a first come, first serve basis.
+Vacation leave will have priority over comp time leave in the event of a need for cancellation.
+Seniority vacation that was requested and approved during the normal bidding process may not be converted to compensatory time off. Approved seniority vacation may not be canceled and replaced with compensatory time off.
+13. TRAINING SESSION COMPENSATION
+When an employee is required to attend a meeting, training session, seminar or similar activity as a condition of employment, the time spent in the session will be considered hours worked. Fees for required sessions will be paid.
+Travel time shall be counted as hours worked for members who are required to report to training sites that are greater than thirty (30) miles from C-COM. Compensation will be paid for travel time from home or C-COM depending on the point of origin. Travel time is not paid for required training at C-COM.
+Mileage at the County rate for personal vehicle use will be paid in accordance with County policy.
+No employee will lose regular pay as a result of required training.
+14. CALL TAKER AND TQAC PAY
+Call Takers and the Training &amp; Quality Assurance Coordinator will be eligible for overtime and other specific pay as contained in the chart below:
+&nbsp;
+Pay/Overtime Type
+Call Taker
+TQAC
+GAP
+No
+Yes except when flexing schedule to create a break between GAP and regularly scheduled shift
+Mandatory
+Yes
+No
+Voluntary
+Yes – Article 14 (6) (A)
+Yes – Article 14 (6) (A)
+Voluntary (15 minutes before/after shift
+Yes – Article 14 (6) (A)
+Yes – Article 14 (6) (A)
+Voluntary 14th Hour
+Yes
+No
+Eligible for Comp Time
+Yes – Article 14 (12)
+Yes – Article 14 (12)
+Call In Overtime
+Yes – Article 14 (9) (I)
+Yes – Article 14 (9) (I)
+Vacation
+Yes – Article 8
+Yes – Article 8 except (3) and (4)
+Trainer Pay Premium
+Yes – 14 (5) when training a
+call taker trainee only
+No
+Holiday Pay
+Yes – Article 7 (2)
+Yes – Article 7 (1)
+Paid Lunch
+Yes – Article 7 (4)
+Yes – Article 7 (4) if TQAC works five (5) or more consecutive hours on the operations floor
+Trade Time
+Yes – Article 8 (6) but only with another call taker
+No
+Schedule Change
+Yes Article 14 (6) (B)
+No
+Vacation Bonus –
+Article 8 (8)
+Yes
+No
+15. LONGEVITY PAYMENT
+Employees in the bargaining unit shall receive longevity pay as a percent of gross salary for seniority in County service as defined in 2.05.200.8 of the Personnel Ordinance, in the following amounts:
+&nbsp;
+Years Percent
+5 years 1.5%
+&nbsp;
+10 years 2.0%
+&nbsp;
+15 years 2.5%
+&nbsp;
+20 years 3.0%
+&nbsp;
+25 years 3.5%
+&nbsp;
+30 years 4.0%
+&nbsp;
+The calculation for longevity shall be based on the employee’s service date minus thirty (30) days. For example, if the service date is 5/15, for purposes of calculating longevity, the date shall be 4/15.
+16. CERTIFICATE PAY
+Employees who obtain a DPSST Intermediate Certificate in dispatching will be paid additional compensation in the amount of twenty-five dollars ($25) per pay period. Effective the first full pay period following ratification of the contract, this amount will increase to seventy-five dollars ($75) per pay period.
+&nbsp;
+Employees who obtain a DPSST Advanced Certificate in dispatching will be paid additional compensation in the amount of fifty dollars ($50) per pay period. Effective the first full pay period following ratification of the contract, this amount will increase to one hundred twenty-five dollars ($125) per pay period.
+The above amounts will increase by an amount equal to future pay plan increases provided for in Article 14, Section 2.
+Certificate pay will commence effective the first day of the pay period following proof of certification by DPSST to the director or their designee. In order to maintain such pay, the employee will be required to complete the minimum annual training hours as outlined in the Department policy on DPSST Intermediate and Advanced Certification.
+This incentive pay is not cumulative and employees are eligible for one level only.
+&nbsp;
+Any employee wishing to receive certificate pay shall submit an application to the Director, or designee, of the Department. In order to receive certificate pay, the application must meet the requirements as outlined in the Department policy on DPSST Intermediate and Advanced Certification. The Director shall have thirty (30) days to review such application and upon approval by the Director, the employee shall receive the certificate pay. If after director approval, the application is not approved by DPSST, or the employee fails to meet the training requirements to maintain the certificate pay, as outlined in the Department policy on DPSST Intermediate and Advanced Certification, the certificate pay shall stop until such time the employee is again eligible for the pay.
+### ARTICLE 15 - JOB SHARE
+1. DEFINITION
+“Job sharing position” means a situation in which no more than two (2) individuals on a shared time basis perform the duties and responsibilities of the one (1) full-time position. To be a job share, the two (2) employees must ONLY be performing the duties that would be assigned if the position was filled by one (1) full time employee.
+2. HOURS OF WORK
+The two (2) job share partners shall be scheduled to work 50% of the regular hours of one (1) full time position within each pay period. The job share partners will determine how their regular workdays will be divided up and be responsible for providing the County with a schedule two (2) weeks in advance. If unable to agree, most senior partner works day 1 &amp; 2, least senior works day 3 &amp; 4.
+3. WORK WEEK
+The job share position shall have the same work week as any other full time employee as defined in Article 6 (Hours of Work), Section 2 of this Agreement.
+4. SICK TIME COVERAGE
+The job share partners shall be considered as one (1) person and will work through the mandatory list as one (1) person no matter which person had the mandatory last. Job share employees shall be entitled to the same compensation for mandatory as any other full time employee.
+5. VOLUNTARY OVERTIME
+Each individual in a job share situation shall be paid in accordance with the limits set forth in Article 14 (Wages) Section 4 and 5, of this Agreement.
+6. DETERMINATION
+One (1) Dispatcher 1 job share position may be offered once the Dispatcher 1 trained staff reaches twenty-nine (29). This can be changed by the parties by mutual agreement between Union and County.
+One (1) Call Taker job share position may be offered once the trained CT staff reaches eight (8) or more.
+Job sharing is a voluntary program. Employees who wish to participate in job sharing must submit a written request to the Director of the Department at least six (6) weeks prior to regular shift bid. If more than two (2) employees submit their names, the two (2) with the highest seniority dates would prevail.
+If one (1) job sharing partner is removed, dismissed, resigns or otherwise is separated from the job, the Director has the right to determine if job sharing is still appropriate. If the Director determines that job sharing is no longer appropriate or if there is no interested qualified replacement employee, the remaining employee shall assume the responsibilities of the position on a full time basis.
+7. QUALIFICATIONS/PROBATIONARY PERIOD
+To be eligible for Job Share, an employee must have worked a full time position for 18 months after completion of training. There will be no probationary period.
+8. MERIT INCREASES
+Each job share employee shall be eligible to move to each consecutive step in the salary schedule within the appropriate pay range on the same schedule as a regular full time employee.
+9. LONGEVITY
+Each job share employee shall be eligible for longevity pay.
+10. SICK LEAVE AND VACATION ACCRUALS
+Job share employees shall accrue pro-rated sick leave and pro-rated vacation leave based on the employee’s continuous years of county service.
+11. TRAINING
+Each job share employee shall attend the two (2) eight (8) hour required training/staff meetings. They may attend two (2) optional additional staff/training meetings yearly.
+12. APPROVED LEAVE
+Vacancies will be filled in the same manner as any full time employee vacancy, based on posting and/or the use of the short notice overtime call up lists. Job Share partners have the ability to trade time as long as they maintain the requirements for hours worked and benefits.
+13. HOLIDAYS
+Each job share employee will receive 4.2 hours of holiday accrual leave time per month and may sell back fifty (50) hours at each sell back opportunity.
+14. HEALTH AND WELFARE
+The employer contribution for each job share employee shall be equivalent to one-half (1/2) of the benefit dollars for medical, dental and life insurance coverage up to the maximum stated in this agreement. Medical and dental insurance shall be provided for the employee only. The life insurance benefit shall be equivalent to one-half (1/2) the face value of life insurance provided to a full-time employee. Each job share employee has the right to obtain medical, dental and life insurance for their eligible dependents by paying the difference between the employer contribution and the applicable premium, through payroll deduction. The County shall allow payroll deductions on a before-tax basis for medical and dental insurance only.
+15. LAYOFF/BUMPING
+For the purposes of layoff and bumping, both job share employees shall be treated as individuals.
+16. SENIORITY
+Job share employees shall accrue seniority on a pro-rated basis.
+* For the purposes of shift bid, the job share partners will be considered as one (1) person using the date determined by averaging the seniority dates of the partners. This seniority date will be calculated one (1) month prior to shift bid.
+* For the purposes of vacation bidding, each individual partner will have their personal seniority date pro-rated and calculated yearly. They will pass on the first and second rounds and be allowed to have first choice in the third round.
+* For the purposes of overtime sign up and short notice call the partners’ names will be placed on the list after the full time employees, but before the part-time employees.
+### ARTICLE 16 - PERSONNEL RECORDS AND INFORMATION
+1. For purposes of this section, "personnel file" shall refer to the formal file or files of personnel documents maintained by the Human Resources and/or by the employees department or division.
+2. An employee or their representative, with written consent of the employee, may inspect that employee's personnel file. Upon written request, an employee or their authorized representative shall be given a copy of any materials in the employee's personnel file.
+3. An employee shall be furnished a copy of any statement written for inclusion in the employee's personnel file concerning the employee's conduct or work performance.
+4. The employee shall have the opportunity to submit a written statement in opposition to all derogatory materials placed into the employee's personnel file.
+5. Material reflecting warning, admonishment and reprimand placed in an employee's personnel file cannot be used for progressive discipline purposes after three years unless there are repeat occurrences. No material reflecting critically on an employee shall be placed in an employee’s personnel file which does not bear the signature of the employee indicating they have seen a copy of the material. If an employee refuses to sign, it shall be so noted by the supervisor, and if the employee so requests, a copy of such notice to the Union.
+### ARTICLE 17 - DISCIPLINE AND DISCHARGE
+1. Regular employees may, in good faith for just cause, be subject to disciplinary action by oral or written reprimand, unpaid suspension, demotion, or discharge; provided, however, such action shall take effect only after the supervisor gives written notice of the action and cause to the employee except for cases of oral reprimand. In the case of oral reprimands a written record may be kept by a supervisor as to the date of the reprimand, but such written record shall not be made a part of the official County personnel file. It is specifically understood that just cause for discharge shall include inability or failure on the part of a trainee to meet the requirements of the position classification for Communications Dispatcher 1 in accordance with the Initial Probationary period outlined in Section 6 of this Article.
+2. Any regular employee in the bargaining unit who is disciplined in writing, suspended, demoted or discharged shall have the right to appeal the action through the grievance procedure. The Union shall submit such grievance at Step 1 of the procedure not later than fourteen (14) calendar days after the effective date of the disciplinary action. If the Director and supervisor are absent on the fourteenth (14th) day, the time will be extended to the first day when the Director or a supervisor is present. The grievance procedure shall be the sole and exclusive procedure for resolution of discipline and discharge disputes.
+Likewise, should the County wish to discipline an employee, the County shall notify the employee and initiate an investigation within fourteen (14) calendar days of when the County became aware of the cause for disciplinary action. The County will make reasonable efforts to conduct and conclude internal investigations within 45 days. The employee and a supervisor or the Director or designee must be present on the forty-fifth day, and if not, the time will be extended to the employee’s first regularly scheduled and worked day when a supervisor or the Director or designee is present. The deadline may be extended under special circumstances by mutual agreement.
+3. If the County has reason to reprimand an employee, every reasonable effort will be made to accomplish the reprimand in a manner that will not embarrass the employee before other employees or the public.
+4. When the employer believes there is just cause for discharge, the regular employee will be notified in writing is taken that the employee is subject to possible discharge. Such notification shall state the reasons for which the employee is being considered for discharge. The employer shall provide the employee with an opportunity to respond to the charges at an informal pre-dismissal hearing, which may be recorded, with the person or persons having the authority to impose or revoke the disciplinary action.
+5. At any investigatory interview of an employee where disciplinary action is a reasonable possibility, the employee will be allowed full Weingarten rights to have a union representative present.
+6. Initial Probationary Period:
+Newly hired employees will serve a probationary period beginning on date of hire and continuing for six (6) months following the completion of the training. The probationary period will not be less than twelve (12) months.
+Probationary periods will be extended by the full amount of any paid or unpaid leave or absence of thirty (30) calendar days or more except as otherwise required by law or this Agreement.
+The Director may reprimand, suspend, demote, or discharge the probationary employee. Every such action shall be accompanied by written documentation stating the reasons for such action.
+Initial probationary employees are not protected by the just cause standard, and are subject to discipline and discharge without prior notice or an opportunity to respond to the charges prior to discipline.
+Any initial probationary employee in the bargaining unit who is disciplined in writing, suspended, or discharged, shall have the right to utilize Steps 1, 2, and 3 of the Grievance Procedure described in Article 19 (Settlement of Disputes). The determination at Step 3 shall be the final determination, except that an employee may request an administrative review of a suspension, demotion, or dismissal from the Director of Human Resources subject to the Personnel Ordinance 2.05.220.
+### ARTICLE 18 - LAYOFF AND RECALL
+1. REASON FOR LAYOFF
+The County may lay off an employee because the employee is physically unable to perform the job, and there is no other job the employee can perform. The County may lay off an employee because of shortage of funds or work or reorganization of the unit, if, in the opinion of the County, there is no satisfactory alternative to layoff such as voluntary demotion, furlough or reduced workweek. Discussions regarding layoffs may be initiated by either the County or the Union. The County retains the final authority to determine whether layoffs should occur.
+2. LAYOFF
+Layoff order shall be established within the department on the basis of seniority.
+The appointing authority may make an exception to the order of layoff when the retention of employees with needed skills or performance abilities are necessary for the efficient operation of the department. Such actions shall be taken only for articulated, job-related reasons and substantiated by documented work performance records. The judgment of the appointing authority shall be sustained unless the Director of Human Resources finds the judgment to be arbitrary or capricious.
+3. BUMPING
+When an employee is laid off due to a reduction in the work force, the employee shall be permitted to exercise bumping rights by displacing an employee with less seniority in a job classification at the same or lower salary grade provided the employee is qualified to hold the position. If funds are increased and the higher level position is reestablished within two (2) years, the bumping employee will be restored to the higher level position.
+4. RECALL
+Those employees who exercise bumping rights or are laid off shall be eligible for recall to their classification for a period of two years without loss of seniority or benefits subject to contract limitations. Recall shall be on the basis of seniority. Eligible, interested recalled employees will be re-employed before any new hires or transfers, provided the employee possesses the qualifications for the position.
+### ARTICLE 19- SETTLEMENT OF DISPUTES
+1. GRIEVANCE AND ARBITRATION PROCEDURE
+Any grievance or dispute which may arise between the parties involving the application, meaning, or interpretation of the Agreement shall be settled in the following manner:
+STEP I: The Union Representative and the employee, at the employee’s option, may take up the grievance or dispute with the Operations Manager within fourteen (14) calendar days of the occurrence by submitting a written grievance. The written grievance shall identify the facts sufficient to explain the nature of the grievance, specific contract provision(s) allegedly violated, and requested remedy. The Operations Manager, the Union Representative, and the employee, at the employee’s option, shall meet at a mutually scheduled time to discuss and attempt to resolve the issue. If the issue remains unresolved, the Operations Manager shall respond to the employee and the Union Representative within fourteen (14) calendar days.
+STEP II: If the grievance still remains unadjusted, it may be presented by the Union Representative and the employee, to the Director within fourteen (14) calendar days of the time that the Operations Manager's response was due or when the response is received, whichever occurs last. The Director, the Union Representative, and the employee, shall meet at a mutually scheduled time to discuss and attempt to resolve the grievance. If the grievance remains unresolved, the Director shall respond to the employee and the Union Representative in writing within fourteen (14) calendar days.
+STEP III: If the grievance still remains unadjusted, it may be presented by the Union Representative and the employee, to the Director of Human Resources or their designee within twenty-one (21) calendar days after the response of the Director is due or when the response is received, whichever occurs last. The Director of Human Resources or their designee, the Union Representative, and the employee, shall meet at a mutually scheduled time to discuss and attempt to resolve the grievance. If the grievance remains unresolved, the Director of Human Resources or their designee shall respond in writing to the employee and Union Representative within twenty-one (21) calendar days.
+STEP IV: If the grievance is still unsettled, the Union Representative shall have the option, by written notice to the County within fourteen (14) calendar days after the reply of the Director of Human Resources or their designee is due or received, whichever occurs last, to request either mediation through the State Conciliation Service or arbitration. If the State Conciliation Service is not willing or not able to provide mediation services, the Union representative may, within fourteen (14) calendar days of notice of such fact by the Conciliation Service, request arbitration by giving written notice to the County. If mediation services are provided, and after mediation, the grievance is still unsettled, the Union Representative may within fourteen (14) calendar days by written notice to the County, request arbitration. Costs for mediation services shall be equally split between the Union and the County.
+STEP V ARBITRATION: If arbitration is requested by the Union Representative, the parties shall forthwith agree upon an arbitrator who shall act as sole arbitrator for the dispute. The parties agree that any decision of the arbitrator which is within the scope of this Agreement shall be final and binding upon all parties. In the event that the parties fail to agree upon the selection of an arbitrator, a list of arbitrators shall be requested from the Employment Relations Board of the State of Oregon. The list requested shall consist of an odd number of arbitrators. Each party shall, in turn, strike one (1) name at a time from the list until only one (1) name remains. The arbitrator whose name remains shall act as arbitrator for the dispute. The arbitrator shall not have the authority to modify, add to, alter or detract from the express provisions of the agreement. The arbitrator shall exercise all powers relating to admissibility of evidence, conduct of the hearing and other procedural matters, provided that in doing so the arbitrator shall not contravene any provision of the Agreement. The compensation and expenses of the arbitrator shall be borne by the party for whom the arbitrator's decision is adverse.
+When the Director of Human Resources or their designee has denied a grievance and arbitration is requested, the parties must within one (1) year of the date the Director of Human Resources or their designee denies the grievance select an arbitrator and request a date for the arbitration hearing, or the grievance is considered closed without prejudice to the issues presented by the grievance.
+2. PROCESSING GRIEVANCES
+A single Steward shall be allowed to investigate and process grievances during working hours within reasonable limits without loss of pay.
+Any time limits specified in the grievance procedure may be waived by mutual consent of both parties.
+When an employee voluntarily separates from County employment, all pending grievances related to discipline filed on behalf of such employee shall be considered withdrawn with prejudice.
+### ARTICLE 20- NON-DISCRIMINATION
+1. NON-DISCRIMINATION
+The provisions of this Agreement shall be applied equally to all employees in the bargaining unit without discrimination as to age, sex, sexual preference, marital status, race, color, creed, national origin, or political affiliation. The Union shall share equally with the County the responsibility for applying this provision of the Agreement. The Union shall not share any legal costs incurred by the County relating to the enforcement of this section.
+2. UNION MEMBERSHIP
+The County agrees not to interfere with the rights of employees to become members of the Union and there shall be no discrimination, interference, restraint, or coercion by the County or any County Representative against any employee because of any employee activity in an official capacity on behalf of the Union, or for any other cause, provided such activity or other cause does not interfere with the effectiveness and efficiency of County operations in serving and carrying out its responsibility to the public.
+### ARTICLE 21- UNION BUSINESS
+1. VISITS BY UNION REPRESENTATIVES
+The County agrees that an accredited representative of the Union, whether local Union representatives, District Council representatives, or International representatives, upon proper introduction, shall have reasonable access to the premises of the County.
+2. NEGOTIATING SESSIONS
+The Board of County Commissioners or its designee(s) shall meet at mutually convenient times with the Union negotiating committee.
+The Union negotiating committee shall consist of not more than three (3) employee members each, with each side selecting their own negotiating committee. No more than two (2) Union negotiating committee members shall be on scheduled shift duty during any meeting.
+### ARTICLE 22 - GENERAL PROVISIONS
+1. BULLETIN BOARDS
+The County agrees to furnish and maintain a suitable Union bulletin board to be used by the Union at the Emergency Operation Center Building, in an area commonly accessible to employees. Bulletin Board to be of reasonable dimensions, approximately 4' x 4'. The bulletin board shall be limited to Union Business Notices and Bulletins.
+2. EXISTING CONDITIONS
+The County agrees to furnish to the Union copies of all proposed changes in work rules and benefits. All future work rules and benefits shall be subject to mutual agreement before becoming effective. Changes in all existing conditions shall be negotiated with the Union. Whenever any conditions or changes or new conditions are established, they shall be posted prominently on all bulletin boards for a period of ten (10) consecutive work days. The Union and the County will jointly participate in making recommendations concerning all new classifications to the Board of County Commissioners.
+3. RULES, DEPARTMENT POLICIES AND EMPLOYMENT POLICIES AND PRACTICES
+The County agrees to provide each employee in the bargaining unit with electronic access to all existing rules.
+Employees shall comply with all existing work rules, department policy, County Policy and Personnel Ordinances which are not in conflict with the terms of this Agreement. The County will comply with ORS 243.698 when the County seeks to change or create new policy or work rules.
+Any unresolved complaints as to the reasonableness of any new rules or any complaint involving discrimination in the application of new or existing rules shall be resolved through the grievance procedure.
+4. COPIES OF THE COLLECTIVE BARGAINING AGREEMENT (CBA)
+The collective bargaining agreement will be available on the County website. Employees may print a copy at work once per year.
+5. PROMOTIONS AND TRANSFERS
+Whenever a vacant bargaining unit position becomes available, either through employees terminating, retirement, new position, or for any other reason, the County shall first attempt to fill the position by promoting employees or laterally transferring employees in the bargaining unit. Available positions will be posted at the time of the opening. If more than one (1) person requests a promotion or lateral transfer, selection will be based on competitive interview.
+When a Call Taker or D1 position becomes available, the position may be posted internally for promotion or lateral transfer opportunity. Posting will be open for fifteen (15) days to ensure all employees have the opportunity to submit interest. Only Call Takers who have completed their probationary period may apply for promotion to a D1 Trainee position. Promoted Call Takers will move to the appropriate D1 Trainee or D1 pay scale which provides for the next level of salary increase (approximately 5%) and will serve a probationary period which ends six (6) months after full certification as a D1. However, a Call Taker who previously was certified as a D1 will not be required to serve a new probationary period, although they will be required to successfully complete refresher training.
+For successful candidates that are near a step increase in their current classification, the promotion effective date can be delayed up to six (6) weeks to receive the pay increase prior to promotion.
+6. VOLUNTARY DEMOTION
+A D1, D2, or TQAC may request a voluntary demotion to a vacant Call Taking position and will be placed at Step 6 on the Call Taker pay scale.
+7. TRANSFERRED EMPLOYEES FROM OTHER AGENCIES
+Employees who are transferred to C-COM under ORS Chapter 236 because C-COM has assumed or acquired the duties of another public employer shall be placed on the current salary schedule under this agreement at the step which is closest to, but not less than, their salary from the transferring employer.
+Such transferred employees will be required to undergo a training period not to exceed twelve (12) months from the date of transfer, provided however that a six-month extension may be granted by the Communications Director. An employee who does not progress satisfactorily during the training period, may be discharged from employment. It is specifically understood that just cause for discharge shall include inability or failure on the part of an employee to progress satisfactorily during the training period, or to meet the requirements of the position/classification for Communications Dispatcher 1 by the end of the training period.
+Transferred employees who are placed at step one of the salary schedule upon transfer shall be eligible for advancement to the next step of the salary range for their classification six (6) months from the first of the month following appointment to the position. Transferred employees who are placed at step two or higher upon transfer are eligible for advancement to the next step of the salary range twelve (12) months from the first of the month following appointment.
+8. ELECTRONIC MAIL
+1. Association representatives (those persons holding positions as officers within the Association) may use the County email system to communicate concerning collective bargaining matters.
+2. “Collective bargaining matters” means any of the following:
+A. official Association announcements to the Association membership (such as meeting subjects, dates and times);
+B. the meaning, interpretation or application of this Agreement;
+C. the presentation and adjustment of grievances under Article 21 (Union Business) of this Agreement;
+D. matters directly related to the collective bargaining relationship between the County and the Association.
+3. Association members may use the County email system to contact Association representatives regarding collective bargaining matters, including any of the following purposes:
+A. to arrange a date, time and location for a meeting concerning the meaning, interpretation or application of this Agreement;
+B. to ask a question regarding meaning, interpretation, or application of this Agreement;
+C. to present a grievance regarding the meaning, interpretation or application of this Agreement;
+D. to request Association representation in matters concerning the meaning, application or interpretation of this Agreement.
+4. In addition to collective bargaining matters, Union representatives are permitted to use County email system to communicate with bargaining-unit members regarding matters involving the governance or business of the Union.
+5. It is understood that there is no expectation of confidentiality or privacy concerning communications sent over the County email system, and that the County reserves the right to access and disclose all messages sent over the County email system for any purpose.
+6. The County email system will not be used for political purposes at any time, and this limitation shall override any of the permissible uses of the email system listed above. “Political purposes” shall include matters related to support or opposition to candidates or measures in any election (County elections, union candidate elections, or otherwise).
+### ARTICLE 23 – COMMITTEES
+1. LABOR MANAGEMENT PARTNERSHIP
+The County and Union agree to establish a joint Labor-Management Committee as a mechanism for a dialogue between the parties to discuss issues mutually agreeable to the parties. It is further agreed that the parties may further create subcommittees as are deemed appropriate. The makeup for the main committee shall be the Director of C-COM and/or the Operations Manager and/or two Supervisors from Management (the total not to exceed three (3)) and the Council Representative and Local President and/or two Dispatchers from the Union (the total not to exceed three (3)). The makeup and number of members of any subcommittees will be determined by mutual agreement between the parties.
+A. The Committee shall meet as necessary to address any and all issues involving the parties during the term of this Agreement, but in no event less than once each quarter.
+B. Identifying mutually agreed upon issues shall be the first priority for the committee.
+C. The joint committee and subcommittees, as appropriate, will examine and discuss the issues identified as well as the ramifications and impacts of each issue. Subject to the deliberations of the subcommittees and/or joint committee, recommendations may be issued from the joint committee to the Union's leadership and/or membership and to the County, as appropriate.
+2. Fire Services Committee (FSC) AND Law Services Committee (LSC)
+FSC and LSC meetings will include a dispatcher representative from the Bargaining Unit. This representative will be selected by the Union.
+3. Committee Work
+Decision makers are employees who facilitate the meeting or are decision makers in a set meeting. The decision makers for the following committees will have their meeting and travel time covered by MANDATORY time if applicable notice is given:
+* Fire Services
+* Law Services
+* Quality Assurance
+* Peer
+* Innovation
+* Water Rescue Consortium
+* Benefits Review Committee
+* Labor Management Committee
+* Dispatch Review Committee
+Labor-Management will meet at least annually to adjust committee priorities based on agency needs and available staffing. If mutual agreement is not made, the language above will be set minimum.
+### ARTICLE 24 – DISASTER STAFFING
+1. DISASTER STAFFING
+For the purposes of this article, “disaster” will be defined as any natural or manmade event that severely impacts the operations of C-COM. Disaster staffing will be differentiated from emergency staffing in that:
+A. Disasters are events that have expected operational impact beyond 24 hours;
+B. Disasters have a wide area impact, if not County-wide impact;
+C. Disasters may or may not have an emergency or disaster declaration from any governmental agency having jurisdiction in Clackamas County.
+The Director or designee will have the authority to declare use of disaster staffing.
+2. DISASTER SHIFTS
+For sustained periods of activity, there may be a need to adjust staffing to meet the new challenges. Regarding division of work to meet those needs, management will implement the following options in order to achieve operational stability.
+A. Utilize all dispatch-certified staff that are not assigned regular dispatching shifts to the fullest extent possible to assist in call taking and dispatching.
+B. Upon declaration of a disaster staffing event, management will have the right to adjust dispatchers’ and call takers’ bidded shifts to allow for use a mandatory independent of minimums as specified in Article 6, Section 7. Management will devise this alternate schedule so that use of mandatory will be predictable and will make every attempt to not change hours through the work week and limit the use of over/in mandatory.
+C. Use of mutual aid as described in Section 4 of this article.
+3. CANCELLING TIME OFF
+Employees may be asked to voluntarily cancel time off to allow for additional staffing during times of disasters. Any employee who voluntarily cancels time off to work during a disaster will be paid 1.5 times for the hours they work during the canceled time off.
+In a disaster staffing event, management shall have the right to cancel time in reverse order of seniority for normal vacation and compensatory time off and in reverse order of bid should seniority vacation need to be canceled.
+4. MUTUAL AID
+Extraordinary events may need extraordinary staffing. Should the staffing at C-COM not be sustainable to meet the service needs, management will be allowed to request assistance in staffing from outside sources for hours that were not previously posted for disaster enhancement after six (6) hours of posting OR upon mutual agreement.
+5. WORKPLACE RELOCATION
+In some circumstances, C-COM may be required to relocate 911 services if there is a pending threat to the existing facility or a hazard that uniquely places employees at risk.
+In the event that relocation has occurred, County will seek to ensure that employees’ basic needs, specific to food and lodging, can be provided so that employees may be able to focus on mission critical services.
+In relocation events, C-COM will aim to provide access to food and alternate lodging, should the relocation site be more than 25 miles from everyday C-COM facility.
+Mileage reimbursement, for the delta between the employee’s home and the relocation worksite, will be provided minus the base miles that the employee would normally travel to and from work.
+If an employee is offered lodging that provides a shorter commute than the employee’s every day commute, no mileage will be offered to the employee if the offered lodging is denied.
+If an employee is housed away from their home during a relocation event, employees would be provided per diem daily rate with C-COM provided meals subtracted from the daily amount. Reasonable dietary accommodations will be attempted, but if not possible, Director will retain discretion to provide GSA rate in lieu of meal provision.
+If alternate lodging is not available during a relocation event, additional travel time necessary to travel to an alternate site will be paid at regular 1.5x overtime rate.
+6. EMPLOYEE RESIDENCE EVACUATION
+If an employee’s primary residence falls into a Level 2 or Level 3 evacuation zone, C-COM will aim to make expedient efforts to cover and release the employee to return home to make necessary arrangements to protect life and property. These efforts may include pausing coaching, use of TQAC or supervisory coverage, or paging out for emergency staffing.
+If the County has granted employer-paid leave at any time during the emergency incident which resulted in the relocation, C-COM employees will be allowed up to ten (10) hours of administrative leave to reoccupy their homes or deal with the outcomes of the emergency event, even if the County use window has expired.
+7. PAUSE OF TIMELINES
+If C-COM has declared emergency conditions, under this Article, all investigatory, disciplinary and grievance processes would be temporarily paused until four (4) business days after C-COM has resumed to normal operational conditions.
+### ARTICLE 25 - DRUG AND ALCOHOL POLICY
+The County and the Union adopt the County's Drug Free Workplace policy proclamation dated August 15, 1989.
+### ARTICLE 26- SAVINGS CLAUSE
+Should any Article, Section or portion thereof of this Agreement be held unlawful and unenforceable by a court of competent jurisdiction, such decision of the court shall apply only to specific Article, Section or portion thereof, directly specified in the decisions; upon the issuance of such a decision, the parties agree immediately to negotiate a substitute, if possible, for the invalidated Article, Section or portion thereof.
+### ARTICLE 27 – OVER/UNDER PAYMENTS
+Any employee receiving unauthorized payments has the obligation to call such error to the attention of his or her supervisor.
+A. Underpayments
+When an error occurs resulting in a negative impact on the employee, upon notification by the employee, in writing to the Payroll Supervisor, and verification by the payroll division, payment in correction of the error shall be made in the employee’s paycheck for the current pay period.
+B. Payments in Error
+When an employee receives payments due to a clerical, technical, or computer error, through no fault of the employee and where the employee did not and could not reasonably have known that the error occurred, the employee will only be liable for, and the County shall only recover, the overpayment for a period of one-hundred and eighty (180) calendar days preceding the date of discovery of the error. If the discovery of the error is made by the employee who notifies the Payroll Manager in writing within ten (10) working days of discovery of the error that they believe their pay is incorrect and the County does not subsequently make a correction to stop the overpayment by the next payroll period after notification, the employee will not be liable for additional overpayments that occur following the date of notification.
+C. Repayment to the County
+As soon as the overpayment is known, the County will make every effort to recover overpayments by payroll deduction over a reasonable period of time.
+1. The County Payroll Manager shall notify the employee in writing of the overpayment which will include information supporting that an overpayment exists, and the amount of wages and/or benefits to be repaid. For purposes of recovering the overpayments by payroll deduction, the following shall apply:
+2. The employee and the County shall meet and attempt to reach mutual agreement on a repayment schedule within thirty (30) calendar days following the written notification.
+3. If there is not mutual agreement at the end of thirty (30) calendar days, the County shall implement the repayment schedule stated in subsection (D) below.
+4. If the overpayment amount to be repaid is more than twenty-five ($25) dollars, the overpayment shall be recovered in amounts not to exceed twenty-five ($25) dollars per payroll period. If an overpayment is less than twenty-five ($25) dollars, the overpayment shall be recovered in a lump sum deduction from the employee’s paycheck.
+5. An employee who has a factual disagreement with the County’s determination that the overpayment has been made to the employee may grieve the determination through the grievance procedure.
+6. This Article/Section does not waive the County’s right to pursue other legal procedures and processes to recoup an overpayment made to former employees.
+D. Employees can elect to either establish a payment plan through payroll deductions as described under this Article (C)(4) or may elect to pay overpayment in one (1) lump sum. In the event the employee chooses to make a lump sum payment to the County, the County will adjust the amount owed for any tax paid, and will reduce the amount of employees’ wages for the year on the employee’s W2 form by the amount repaid.
+### ARTICLE 28 - TERM OF AGREEMENT
+This Agreement shall become effective upon full ratification by both parties and shall remain in full force and effect until the 30th day of June 2026, or the date of signing a subsequent Agreement, whichever last occurs. This Agreement shall be automatically renewed July 1, 2026, and each year thereafter unless either party shall notify the other in writing no later than January 1, 2026, that it desires to either terminate or modify this Agreement. In the event notice to modify is given, negotiations shall begin no later than March 1st. In the event that notification of termination is given, it shall become effective thirty (30) days after the date of notice is received.
+This Agreement may be amended at any time by mutual agreement of the Union and County; such amendments shall be in writing and signed by both parties.
+### APPENDIX A - CERTIFICATE PAY REQUIREMENTS
+Requirements for obtaining Intermediate and Advanced certification are the same as the DPSST Certification standards
+CATEGORY
+PORTFOLIO ITEM
+POINTS
+Leadership
+Policy Writing/Revision
+1 point
+Leadership
+APCO/NENA Membership (active participation within past 2 years)
+&nbsp; ½ point
+Leadership
+APCO/NENA Leadership (Hold Office, Committee Chair, National Committee, etc. within past 5 years)
+1 point
+Leadership
+Agency Leadership Role (agency defined)
+1 point
+Leadership
+Professional Development (agency defined)
+1 point
+Calls for Service*
+Multi-jurisdictional (cross-dispatch) events
+¼ point
+Calls for Service*
+Mass casualty events
+¼ point
+Calls for Service*
+Major Media Events
+¼ point
+Calls for Service*
+Incident dispatch team member
+¼ point
+Calls for Service*
+Unusual or Exemplary call for service (agency defined)
+¼ point
+Awards
+Agency/local award recipient
+½ point
+Awards
+State award recipient
+1 point
+Awards
+National award recipient
+2 points
+Training
+1 year Communications Training Officer (within past 5 years)
+½ point
+Training
+2+ years Communications Training Officer (within past 5 years)
+1 point
+Training
+Industry, DPSST or Agency Instructor (within past 2 years)
+1 point
+Training
+Attend industry related training course – 8 hour minimum (does not count toward yearly certification hours)
+1 point
+Longevity
+Every year as an Agency Head
+1 point
+Longevity
+Every two years as a mid-level manager
+1 point
+Longevity
+Every three years as a first line supervisor
+1 point
+Longevity
+Every four years as a lead worker
+1 point
+* Calls for Service Category: (Requires significant participation in high impact calls for service
+The additional yearly training hours to retain either the intermediate or advanced certifications are:&nbsp;
+4 additional training hours required to retain Intermediate Certification
+8 additional training hours required to retain Advanced Certification
+Phone:
+503-655-8459
+Fax: 503-742-5468
+Email:
+jobs@clackamas.us
+2051 Kaen Road
+Oregon City, OR 97045
+Office Hours:
+Monday to Thursday
+7 a.m. to 6 p.m.
+For employment verification:
+finance-payroll@clackamas.us
+Benefits
+Incident Reports
+Find a Job
+Related Events
+Related Events
+Human Resources
+Aug
+06
+10:00 am
+-
+11:00 am
+Joint Peace Officers/County Benefits Committee Meeting - August 6, 2026
+More details
+Human Resources
+Aug
+12
+10:00 am
+-
+11:00 am
+Joint Peace Officers/County Benefits Committee Meeting - August 12, 2026
+More details
+Human Resources
+Aug
+27
+10:00 am
+-
+11:00 am
+Joint Peace Officers/County Benefits Committee Meeting - August 27, 2026
+More details
+more events

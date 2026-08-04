@@ -246,7 +246,7 @@ bargaining unit employees and only in connection with the performance of bargain
 
 
                                                 1
-                                         ARTICLE 1
+### ARTICLE 1
                                         RECOGNITION
 
 1.1   RECOGNITION
@@ -296,9 +296,9 @@ bargaining unit employees and only in connection with the performance of bargain
 
 
 
-ARTICLE 1
+### ARTICLE 1
 RECOGNITION                                     2
-                                      ARTICLE 2
+### ARTICLE 2
                                   MANAGEMENT RIGHTS
 
 2.1   RETENTION OF RIGHTS
@@ -347,7 +347,7 @@ RECOGNITION                                     2
          the COUNTY'S proposal, it must reach a settlement within ten (10) days after the
          first meeting date or the COUNTY may elect to submit this matter to arbitration in
 
-ARTICLE 2
+### ARTICLE 2
 MANAGEMENT RIGHTS                              3
          conformity with Step 4 et seq. of the grievance procedure in Article 17.
 
@@ -379,9 +379,9 @@ MANAGEMENT RIGHTS                              3
 
 
 
-ARTICLE 2
+### ARTICLE 2
 MANAGEMENT RIGHTS                             4
-                                       ARTICLE 3
+### ARTICLE 3
                                    ASSOCIATION RIGHTS
 
 3.1   ASSOCIATION ACTIVITY
@@ -430,7 +430,7 @@ MANAGEMENT RIGHTS                             4
 
 
 
-ARTICLE 3
+### ARTICLE 3
 ASSOCIATION RIGHTS                              5
        investigations, and association meetings. The ASSOCIATION will reimburse the
        COUNTY for the hours used, including base wages and benefits.
@@ -482,7 +482,7 @@ ASSOCIATION RIGHTS                              5
        employee requests otherwise.
 
 
-ARTICLE 3
+### ARTICLE 3
 ASSOCIATION RIGHTS                              6
 3.13   SOLICITATION PROHIBITION
 
@@ -530,9 +530,9 @@ ASSOCIATION RIGHTS                              6
 
 
 
-ARTICLE 3
+### ARTICLE 3
 ASSOCIATION RIGHTS                               7
-                                       ARTICLE 4
+### ARTICLE 4
                                  DUES AND DEDUCTIONS
 
 4.1   NOTIFICATION
@@ -580,7 +580,7 @@ ASSOCIATION RIGHTS                               7
 
 
 
-ARTICLE 4
+### ARTICLE 4
 DUES AND DEDUCTIONS                            8
 4.4   REMITTANCE
 
@@ -603,9 +603,9 @@ DUES AND DEDUCTIONS                            8
 
 
 
-ARTICLE 4
+### ARTICLE 4
 DUES AND DEDUCTIONS                           9
-                                   ARTICLE 5
+### ARTICLE 5
                          LABOR MANAGEMENT RELATIONSHIPS
 
 5.1   EXISTING CONDITIONS
@@ -655,7 +655,7 @@ DUES AND DEDUCTIONS                           9
 
 5.4   LABOR MANAGEMENT COMMITTEES
 
-ARTICLE 5
+### ARTICLE 5
 LABOR MANAGEMENT RELATIONSHIPS                10
      The COUNTY and the ASSOCIATION may form a joint labor/management committee
      (Sheriff’s Office and Youth Services separately), which will meet at least on a monthly
@@ -666,9 +666,9 @@ LABOR MANAGEMENT RELATIONSHIPS                10
 
 
 
-ARTICLE 5
+### ARTICLE 5
 LABOR MANAGEMENT RELATIONSHIPS              11
-                                      ARTICLE 6
+### ARTICLE 6
                                   WORKING CONDITIONS
 
 6.1   WORKDAY/WORKWEEK
@@ -716,7 +716,7 @@ LABOR MANAGEMENT RELATIONSHIPS              11
       personnel for the protection of life or property or to conduct COUNTY business.
 
 
-ARTICLE 6
+### ARTICLE 6
 WORKING CONDITIONS                             12
       The fourteen (14) calendar days’ notice requirement provided above pertaining to work
       schedule changes may be waived by the employee when the change is mutually
@@ -769,7 +769,7 @@ WORKING CONDITIONS                             12
 
 
 
-ARTICLE 6
+### ARTICLE 6
 WORKING CONDITIONS                             13
         Employees may volunteer to work more than one (1) shift per week.
 
@@ -822,7 +822,7 @@ WORKING CONDITIONS                             13
 
 
 
-ARTICLE 6
+### ARTICLE 6
 WORKING CONDITIONS                           14
          3. Nothing herein shall be construed to require the Sheriff’s Office to modify its shift
             pattern (overall coverage each day of the week).
@@ -876,7 +876,7 @@ WORKING CONDITIONS                           14
          in paragraph A above. The COUNTY will notify the leaves administrator of the work
 
 
-ARTICLE 6
+### ARTICLE 6
 WORKING CONDITIONS                             15
           performed so PFML payments can be adjusted accordingly without disruption to the
           leave period.
@@ -928,7 +928,7 @@ WORKING CONDITIONS                             15
        minimus activities as defined in Article 6.2 performed after the designated quitting time.
 
 
-ARTICLE 6
+### ARTICLE 6
 WORKING CONDITIONS                              16
        Any hold-over overtime must be pre-approved by the shift supervisor, unless it is an
        emergency situation.
@@ -978,7 +978,7 @@ WORKING CONDITIONS                              16
 
 
 
-ARTICLE 6
+### ARTICLE 6
 WORKING CONDITIONS                              17
        Short-term trades are defined as a voluntary change of assigned shift and/or assigned
        days off within the same classification series and within the assigned section for a period
@@ -1030,7 +1030,7 @@ WORKING CONDITIONS                              17
        assignment as deemed necessary without previous notice as long as the assigned shift
        and days off remain the same.
 
-ARTICLE 6
+### ARTICLE 6
 WORKING CONDITIONS                             18
 6.24   SCHEDULE CHANGES-GOOD CAUSE
 
@@ -1064,9 +1064,9 @@ WORKING CONDITIONS                             18
 
 
 
-ARTICLE 6
+### ARTICLE 6
 WORKING CONDITIONS                            19
-                                      ARTICLE 7
+### ARTICLE 7
                                   WAGES AND OVERTIME
 
 7.1   SALARY/STEP CONVERSION
@@ -1118,7 +1118,7 @@ WORKING CONDITIONS                            19
       recognized DPSST standards. Once the Sheriff’s Office receives an approved DPSST
 
 
-ARTICLE 7
+### ARTICLE 7
 WAGES AND OVERTIME                            20
       certification, the pay increase will be retroactive to the first pay period following either: 1)
       the date listed on the DPSST certification; or 2) thirty (30) days after submittal by the
@@ -1169,7 +1169,7 @@ WAGES AND OVERTIME                            20
       through step 7.
 
 
-ARTICLE 7
+### ARTICLE 7
 WAGES AND OVERTIME                              21
 7.8    APPROPRIATE STEP PLACEMENT
 
@@ -1221,7 +1221,7 @@ WAGES AND OVERTIME                              21
 
 
 
-ARTICLE 7
+### ARTICLE 7
 WAGES AND OVERTIME                               22
           2. Any overtime required to cover Compensation Time leave requests must be
              voluntarily accepted by other qualified employees prior to the leave request being
@@ -1274,7 +1274,7 @@ WAGES AND OVERTIME                               22
        Juvenile Group Workers will not be allowed to work more than sixteen (16) consecutive
        hours, nor more than sixteen (16) hours out of a twenty-four (24) hour period. If a
 
-ARTICLE 7
+### ARTICLE 7
 WAGES AND OVERTIME                            23
        Juvenile Group Worker works at least twelve (12) consecutive hours they are prohibited
        from accepting overtime that will not afford them at least an eight (8) hour off-duty,
@@ -1324,7 +1324,7 @@ WAGES AND OVERTIME                            23
  Ten (10) years or more                         Three (3) years from the date of reclassification
 
 
-ARTICLE 7
+### ARTICLE 7
 WAGES AND OVERTIME                              24
                                         PREMIUM PAY
 
@@ -1376,7 +1376,7 @@ WAGES AND OVERTIME                              24
        receive callback pay pursuant to Article 6.8.
 
 
-ARTICLE 7
+### ARTICLE 7
 WAGES AND OVERTIME                             25
 7.27   DEFERRED COMPENSATION
 
@@ -1410,9 +1410,9 @@ WAGES AND OVERTIME                             25
 
 
 
-ARTICLE 7
+### ARTICLE 7
 WAGES AND OVERTIME                             26
-                                         ARTICLE 8
+### ARTICLE 8
                                         INSURANCE
 
 8.1   INSURANCE POLICIES
@@ -1463,7 +1463,7 @@ WAGES AND OVERTIME                             26
             date of eligibility. New employees must meet requirements for eligibility in
             paragraphs (3) and (4) to receive continued HSA/HRA-VEBA contributions in
 
-ARTICLE 8
+### ARTICLE 8
 INSURANCE                                     27
             subsequent years.
 
@@ -1517,7 +1517,7 @@ INSURANCE                                     27
 
 
 
-ARTICLE 8
+### ARTICLE 8
 INSURANCE                                    28
       E. Life Insurance. The COUNTY will provide fully paid employee term life insurance
          including accidental death and dismemberment in the amount of $50,000 or twice the
@@ -1571,7 +1571,7 @@ INSURANCE                                    28
          years of age. Other employees must be fifty-five (55) years of age or older or
 
 
-ARTICLE 8
+### ARTICLE 8
 INSURANCE                                     29
          receiving benefits under the COUNTY long-term disability program regardless of
          age.
@@ -1625,7 +1625,7 @@ INSURANCE                                     29
             be paid their full pay and benefits minus any applicable employee contributions
 
 
-ARTICLE 8
+### ARTICLE 8
 INSURANCE                                     30
              for the first ninety (90) calendar days of the employee's on-the-job illness or
              injury. Such time shall not be charged against any earned leave balance. The
@@ -1668,9 +1668,9 @@ INSURANCE                                     30
 
 
 
-ARTICLE 8
+### ARTICLE 8
 INSURANCE                                    31
-                                       ARTICLE 9
+### ARTICLE 9
                                    TIME MANAGEMENT
 
 9.1   PURPOSE
@@ -1720,7 +1720,7 @@ INSURANCE                                    31
       accrue whenever an employee is on pay status with the COUNTY. Employees do not
 
 
-ARTICLE 9
+### ARTICLE 9
 TIME MANAGEMENT                              32
       accrue earned leave when on leave without pay or Paid Family Medical Leave (PFML)
       leave.
@@ -1773,7 +1773,7 @@ TIME MANAGEMENT                              32
 
 
 
-ARTICLE 9
+### ARTICLE 9
 TIME MANAGEMENT                               33
        B. In the Sheriff’s Office there shall be an annual sign up for scheduled blocks of time
           off, made available by the COUNTY within the two (2) week period following the
@@ -1826,7 +1826,7 @@ TIME MANAGEMENT                               33
        of absence for reasons other than for which it was approved, shall be deemed an
        unexcused absence without pay and subject to disciplinary action including discharge.
 
-ARTICLE 9
+### ARTICLE 9
 TIME MANAGEMENT                                 34
 9.11   SELL BACK
 
@@ -1880,7 +1880,7 @@ TIME MANAGEMENT                                 34
 
 
 
-ARTICLE 9
+### ARTICLE 9
 TIME MANAGEMENT                                  35
     F. The donated Time Management hours may not be used for any other purpose than
        the emergency for which they are intended. The department is responsible for
@@ -1897,9 +1897,9 @@ TIME MANAGEMENT                                  35
 
 
 
-ARTICLE 9
+### ARTICLE 9
 TIME MANAGEMENT                            36
-                                          ARTICLE 10
+### ARTICLE 10
                                           PAID LEAVE
 
 10.1   HOLIDAYS
@@ -1948,7 +1948,7 @@ TIME MANAGEMENT                            36
        Immediate family is defined as spouse, child (biological, adopted, foster, step-child, or
 
 
-ARTICLE 10
+### ARTICLE 10
 PAID LEAVE                                      37
        the child of an employee’s Registered Domestic Partner), miscarriage or stillbirth,
        mother, father, stepmother, stepfather, father-in-law, mother-in-law, grandparents,
@@ -1982,9 +1982,9 @@ PAID LEAVE                                      37
 
 
 
-ARTICLE 10
+### ARTICLE 10
 PAID LEAVE                                       38
-                                          ARTICLE 11
+### ARTICLE 11
                                          UNPAID LEAVE
 
 11.1   LEAVE OF ABSENCE
@@ -2034,7 +2034,7 @@ PAID LEAVE                                       38
           of the beginning date of the leave. Leaves of absence shall be granted or denied by
 
 
-ARTICLE 11
+### ARTICLE 11
 UNPAID LEAVE                                    39
         the COUNTY within one (1) month of application of said leave.
 
@@ -2055,9 +2055,9 @@ UNPAID LEAVE                                    39
 
 
 
-ARTICLE 11
+### ARTICLE 11
 UNPAID LEAVE                                40
-                                     ARTICLE 12
+### ARTICLE 12
                               ALLOWANCES AND EQUIPMENT
 
 12.1   UNIFORMS, PROTECTIVE CLOTHING & TOOLS
@@ -2105,7 +2105,7 @@ UNPAID LEAVE                                40
 
 
 
-ARTICLE 12
+### ARTICLE 12
 ALLOWANCES AND EQUIPMENT                       41
        Alterations and tailoring shall be accomplished only with the approval of the COUNTY.
 
@@ -2157,7 +2157,7 @@ ALLOWANCES AND EQUIPMENT                       41
           course and identify how this course reasonably relates to the performance of the
           employee's current duties or promotion within the Sheriff’s Office or Division of Youth
 
-ARTICLE 12
+### ARTICLE 12
 ALLOWANCES AND EQUIPMENT                        42
             Services.
 
@@ -2210,7 +2210,7 @@ ALLOWANCES AND EQUIPMENT                        42
 
 
 
-ARTICLE 12
+### ARTICLE 12
 ALLOWANCES AND EQUIPMENT                       43
        B. The "Market Area" used by the COUNTY to establish parking fees will be defined as
           all parking lots, except the most expensive lot and least expensive lot, between High
@@ -2228,9 +2228,9 @@ ALLOWANCES AND EQUIPMENT                       43
 
 
 
-ARTICLE 12
+### ARTICLE 12
 ALLOWANCES AND EQUIPMENT                      44
-                                       ARTICLE 13
+### ARTICLE 13
                               SENIORITY/LAYOFF AND RECALL
 
 13.1   DEFINITION
@@ -2279,7 +2279,7 @@ ALLOWANCES AND EQUIPMENT                      44
        the seniority accumulated while serving in a position within the Department now
 
 
-ARTICLE 13
+### ARTICLE 13
 SENIORITY/LAYOFF AND RECALL                     45
        represented by the ASSOCIATION. Seniority for the purposes of this Section shall
        continue to accrue while in a position outside the bargaining unit.
@@ -2329,7 +2329,7 @@ SENIORITY/LAYOFF AND RECALL                     45
        seniority in the next lower classification. Other than as provided for in Article 13.9, no
 
 
-ARTICLE 13
+### ARTICLE 13
 SENIORITY/LAYOFF AND RECALL                     46
        other non-bargaining unit employee shall be permitted to bump into a bargaining unit
        position.
@@ -2379,7 +2379,7 @@ SENIORITY/LAYOFF AND RECALL                     46
 
 
 
-ARTICLE 13
+### ARTICLE 13
 SENIORITY/LAYOFF AND RECALL                     47
      This provision shall apply to employees already on the layoff list on the date of the
      arbitration award which puts the provision into effect, but no employee shall be
@@ -2423,9 +2423,9 @@ SENIORITY/LAYOFF AND RECALL                     47
 
 
 
-ARTICLE 13
+### ARTICLE 13
 SENIORITY/LAYOFF AND RECALL                    48
-                                          ARTICLE 14
+### ARTICLE 14
                                           PROBATION
 
 14.1   DEFINITION
@@ -2472,9 +2472,9 @@ SENIORITY/LAYOFF AND RECALL                    48
 
 
 
-ARTICLE 14
+### ARTICLE 14
 PROBATION                                       49
-                                        ARTICLE 15
+### ARTICLE 15
                                 DISCIPLINE AND DISCHARGE
 
 15.1   JUST CAUSE
@@ -2525,7 +2525,7 @@ PROBATION                                       49
 
 
 
-ARTICLE 15
+### ARTICLE 15
 DISCIPLINE AND DISCHARGE                       50
 15.5   INTERNAL INVESTIGATION PROTECTIONS
 
@@ -2573,9 +2573,9 @@ DISCIPLINE AND DISCHARGE                       50
 
 
 
-ARTICLE 15
+### ARTICLE 15
 DISCIPLINE AND DISCHARGE                       51
-                                       ARTICLE 16
+### ARTICLE 16
                                    PERSONNEL RECORDS
 
 16.1   DEFINITION
@@ -2624,7 +2624,7 @@ DISCIPLINE AND DISCHARGE                       51
 
 
 
-ARTICLE 16
+### ARTICLE 16
 PERSONNEL RECORDS                              52
 16.5   EVALUATION FILES
 
@@ -2637,9 +2637,9 @@ PERSONNEL RECORDS                              52
 
 
 
-ARTICLE 16
+### ARTICLE 16
 PERSONNEL RECORDS                            53
-                                      ARTICLE 17
+### ARTICLE 17
                                  GRIEVANCE PROCEDURE
 
 17.1   PURPOSE
@@ -2691,7 +2691,7 @@ PERSONNEL RECORDS                            53
 
 
 
-ARTICLE 17
+### ARTICLE 17
 GRIEVANCE PROCEDURE                            54
        A. If, after proceeding through Step 1 above, the grievance is still unresolved, the
           aggrieved party and/or designated representative may refer it to the
@@ -2745,7 +2745,7 @@ STEP 3
 
 
 
-ARTICLE 17
+### ARTICLE 17
 GRIEVANCE PROCEDURE                            55
        E. The COUNTY and the ASSOCIATION agree that the loser of the arbitration shall
           pay the full expenses and arbitration fees of the arbitrator only; the COUNTY and the
@@ -2798,7 +2798,7 @@ GRIEVANCE PROCEDURE                            55
 
 
 
-ARTICLE 17
+### ARTICLE 17
 GRIEVANCE PROCEDURE                             56
 17.6   APPEAL TO NEXT HIGHER STEP
 
@@ -2814,9 +2814,9 @@ GRIEVANCE PROCEDURE                             56
 
 
 
-ARTICLE 17
+### ARTICLE 17
 GRIEVANCE PROCEDURE                           57
-                                   ARTICLE 18
+### ARTICLE 18
                    YOUTH SERVICES REASSIGNMENT OPPORTUNITIES
 
 18.1   REASSIGNMENT OPPORTUNITY NOTIFICATION
@@ -2845,9 +2845,9 @@ GRIEVANCE PROCEDURE                           57
 
 
 
-ARTICLE 18
+### ARTICLE 18
 YOUTH SERVICES REASSIGNMENT OPPORTUNITIES                                                        58
-                                     ARTICLE 19
+### ARTICLE 19
                              DEFENSE AND INDEMNIFICATION
 
 19.1   REIMBURSEMENT
@@ -2898,7 +2898,7 @@ YOUTH SERVICES REASSIGNMENT OPPORTUNITIES                                       
           of the conclusion of the grand jury or criminal proceedings against the Association
 
 
-ARTICLE 19
+### ARTICLE 19
 DEFENSE AND INDEMNIFICATION                    59
           member. The attorney shall account for and value time at the attorney’s usual and
           customary rate, and if there is a range of rates usually and customarily utilized by the
@@ -2952,7 +2952,7 @@ DEFENSE AND INDEMNIFICATION                    59
           ASSOCIATION or its members under this provision.
 
 
-ARTICLE 19
+### ARTICLE 19
 DEFENSE AND INDEMNIFICATION                     60
 19.4   REIMBURSEMENT DUE DATE
 
@@ -2978,9 +2978,9 @@ DEFENSE AND INDEMNIFICATION                     60
 
 
 
-ARTICLE 19
+### ARTICLE 19
 DEFENSE AND INDEMNIFICATION                    61
-                                         ARTICLE 20
+### ARTICLE 20
                                     SAVINGS AND FUNDING
 
 20.1   SAVINGS CLAUSE
@@ -3003,7 +3003,7 @@ DEFENSE AND INDEMNIFICATION                    61
 
 
 
-ARTICLE 20
+### ARTICLE 20
 SAVINGS AND FUNDING                              62
                                              SCHEDULE A
 

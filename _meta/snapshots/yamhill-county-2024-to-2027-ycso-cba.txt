@@ -81,7 +81,7 @@ Docusign Envelope ID: 8ED97CDB-C49D-459E-A16B-B0F526057EFD
             County”) and TEAMSTERS LOCAL 223, the exclusive representative of the bargaining unit defined
             below (“the Union”).
 
-                               ARTICLE 1 – SCOPE OF AGREEMENT AND RECOGNITION
+### ARTICLE 1 – SCOPE OF AGREEMENT AND RECOGNITION
 
             1.1              Bargaining Unit
 
@@ -115,7 +115,7 @@ Docusign Envelope ID: 8ED97CDB-C49D-459E-A16B-B0F526057EFD
                             When this Agreement makes references to an action to be taken by the Sheriff, it is
                     implied that it includes the Sheriff’s designee.
 
-                                                       ARTICLE 2 – DUES
+### ARTICLE 2 – DUES
 
             Employees, who so authorize, shall make payments of dues to the Union. Such payments shall be in the
             amounts as provided for Union dues and initiation fees. The County shall deduct from the pay of each
@@ -134,7 +134,7 @@ Docusign Envelope ID: 8ED97CDB-C49D-459E-A16B-B0F526057EFD
             the Union within ten (10) days after the deduction is made. The Union agrees to hold the County harmless
             for claims for any sums withheld from an employee’s pay and paid to Union.
 
-                                           ARTICLE 3 – MANAGEMENT RIGHTS
+### ARTICLE 3 – MANAGEMENT RIGHTS
 
             3.1               The County retains all the customary and usual rights, functions, and authority connected
             with its responsibility to manage the affairs of the County and any department of it. The County retains all
@@ -147,7 +147,7 @@ Docusign Envelope ID: 8ED97CDB-C49D-459E-A16B-B0F526057EFD
             management rights, except where modified by specific provisions of this Agreement or by law, is not
             subject to Article 15, Settlement of Disputes, or to negotiations during the term of this Agreement.
 
-                                        ARTICLE 4 – COUNTY-UNION RELATIONS
+### ARTICLE 4 – COUNTY-UNION RELATIONS
 
             4.1              Discrimination
 
@@ -247,7 +247,7 @@ Docusign Envelope ID: 8ED97CDB-C49D-459E-A16B-B0F526057EFD
                                  email is a public record and is subject to disclosure unless exempted from disclosure
                                  by Oregon law in accordance with the County email policy.
 
-                                      ARTICLE 5 – EMPLOYEE SAFETY AND HEALTH
+### ARTICLE 5 – EMPLOYEE SAFETY AND HEALTH
 
             5.1             Protective Clothing and Equipment
                             The County shall furnish such protective clothing, including rain gear, and protective
@@ -328,7 +328,7 @@ Docusign Envelope ID: 8ED97CDB-C49D-459E-A16B-B0F526057EFD
             will be private. The shower will be cleaned and sanitized in accordance with the County’s regular
             janitorial service schedule.
 
-                                               ARTICLE 6 – HOURS OF WORK
+### ARTICLE 6 – HOURS OF WORK
 
             6.1              Regular Hours
 
@@ -707,7 +707,7 @@ Docusign Envelope ID: 8ED97CDB-C49D-459E-A16B-B0F526057EFD
                                  the MOL to respond to work to fill the overtime shift unless mandating a shift would
                                  cause the deputy to have less than eight (8) hours in between shifts as described in
                                  Article 6.6 or to perform work on a sixth or seventh consecutive day as described in
-                                 Article 6.8. If the lowest senior RFT corrections deputy does not answer the
+### Article 6.8. If the lowest senior RFT corrections deputy does not answer the
                                  telephone, the supervisor will repeat this same process with the same criteria, moving
                                  up the MOL until the shift has been filled or contact has been attempted with all
                                  deputies on the MOL.
@@ -722,7 +722,7 @@ Docusign Envelope ID: 8ED97CDB-C49D-459E-A16B-B0F526057EFD
                                  fill an unexpected absence until such time as all RFT corrections deputies have been
                                  mandated at least one time to respond to work to fill an overtime shift.
 
-                                                   ARTICLE 7 – HOLIDAYS
+### ARTICLE 7 – HOLIDAYS
 
             7.1              Holidays
 
@@ -801,7 +801,7 @@ Docusign Envelope ID: 8ED97CDB-C49D-459E-A16B-B0F526057EFD
 
 
 
-                                                   ARTICLE 8 – VACATIONS
+### ARTICLE 8 – VACATIONS
 
             8.1              Vacation Credit
 
@@ -979,7 +979,7 @@ Docusign Envelope ID: 8ED97CDB-C49D-459E-A16B-B0F526057EFD
             due the deceased employee. During the initial twelve (12) months of service, vacation credits will be paid
             in the event of job-related death or disability.
 
-                                                  ARTICLE 9 – SICK LEAVE
+### ARTICLE 9 – SICK LEAVE
 
             9.1              Sick Leave Credits and Accumulation
 
@@ -1112,7 +1112,7 @@ Docusign Envelope ID: 8ED97CDB-C49D-459E-A16B-B0F526057EFD
             of wages paid by January 31 of the following year. For purposes of this section, one day of wages is paid
             as 8, 10 or 12 hours consistent with the employee’s shift.
 
-                                               ARTICLE 10 – FUNERAL LEAVE
+### ARTICLE 10 – FUNERAL LEAVE
 
             10.1             Funeral Leave
 
@@ -1145,7 +1145,7 @@ Docusign Envelope ID: 8ED97CDB-C49D-459E-A16B-B0F526057EFD
             to perform the service shall be determined by the Sheriff. Such determination by the Sheriff shall not be
             arbitrary or capricious.
 
-                                       ARTICLE 11 – OTHER LEAVES OF ABSENCE
+### ARTICLE 11 – OTHER LEAVES OF ABSENCE
 
             11.1             General Leaves of Absence
 
@@ -1224,7 +1224,7 @@ Docusign Envelope ID: 8ED97CDB-C49D-459E-A16B-B0F526057EFD
             of service in the United States uniformed services in accordance with the Uniformed Services
             Employment and Reemployment Rights Act (USERRA) and state law.
 
-                                               ARTICLE 12 – COMPENSATION
+### ARTICLE 12 – COMPENSATION
 
             12.1             Salary and Wage Schedule
 
@@ -1477,7 +1477,7 @@ Docusign Envelope ID: 8ED97CDB-C49D-459E-A16B-B0F526057EFD
                              c) Training is not considered to be included in “all work performed” for purposes of
                                 Article 6.2(b).
 
-                                          ARTICLE 13 – HEALTH AND WELFARE
+### ARTICLE 13 – HEALTH AND WELFARE
 
             13.1             Medical Insurance and Long-term Disability Insurance
 
@@ -1536,7 +1536,7 @@ Docusign Envelope ID: 8ED97CDB-C49D-459E-A16B-B0F526057EFD
             existing pension plan with the Oregon Public Employees Retirement System as such plan may be
             modified by requirements under Oregon statutes.
 
-                                       ARTICLE 14 – DISCIPLINE AND DISCHARGE
+### ARTICLE 14 – DISCIPLINE AND DISCHARGE
 
             14.1             Cause for Discipline
 
@@ -1638,7 +1638,7 @@ Docusign Envelope ID: 8ED97CDB-C49D-459E-A16B-B0F526057EFD
             Rule 839-005-0030 or any overt sexual activity occurring in the workplace in which the employee is a
             willing participant.
 
-                                        ARTICLE 15 – SETTLEMENT OF DISPUTES
+### ARTICLE 15 – SETTLEMENT OF DISPUTES
 
             15.1             Grievance and Arbitration Procedure
 
@@ -1746,7 +1746,7 @@ Docusign Envelope ID: 8ED97CDB-C49D-459E-A16B-B0F526057EFD
             to the next step. The time limits provided in Article 15 may, however, be waived, modified, or extended
             by mutual agreement of the parties in writing.
 
-                                                   ARTICLE 16 – SENIORITY
+### ARTICLE 16 – SENIORITY
 
             16.1             Seniority
 
@@ -1848,7 +1848,7 @@ Docusign Envelope ID: 8ED97CDB-C49D-459E-A16B-B0F526057EFD
 
 
 
-                                           ARTICLE 17 – GENERAL PROVISIONS
+### ARTICLE 17 – GENERAL PROVISIONS
 
             17.1             Gender
 
@@ -1909,10 +1909,10 @@ Docusign Envelope ID: 8ED97CDB-C49D-459E-A16B-B0F526057EFD
             care or secure perishable evidence. The right to consult with an attorney or agent will not unduly delay
             the giving of the Public Safety Statement or hinder the immediate processing of an ongoing incident,
 
-                                                    ARTICLE 18 – RESERVED
+### ARTICLE 18 – RESERVED
 
 
-                                                ARTICLE 19 – SAVINGS CLAUSE
+### ARTICLE 19 – SAVINGS CLAUSE
 
             19.1             Savings Clause
 
@@ -1938,7 +1938,7 @@ Docusign Envelope ID: 8ED97CDB-C49D-459E-A16B-B0F526057EFD
             County action thereunder shall not be subject to Article 15.
 
 
-                                           ARTICLE 20 – DURATION AND OPENING
+### ARTICLE 20 – DURATION AND OPENING
 
                              This Agreement shall be in effect from July 1, 2024, or upon execution, whichever is
             later, through June 30, 2027, and shall remain in full force and effect and shall be automatically renewed
@@ -2461,7 +2461,7 @@ Docusign Envelope ID: 8ED97CDB-C49D-459E-A16B-B0F526057EFD
 
 
 
-                                             MEMORANDUM OF AGREEMENT
+### MEMORANDUM OF AGREEMENT
 
                                       (Continuation of Acting Sergeant Position in YCSO)
 
@@ -2548,7 +2548,7 @@ Docusign Envelope ID: 8ED97CDB-C49D-459E-A16B-B0F526057EFD
 
 
 
-                                             MEMORANDUM OF AGREEMENT
+### MEMORANDUM OF AGREEMENT
 
                                            (Staffing Levels for Corrections Division)
                      THIS MEMORANDUM OF AGREEMENT is made a part of the 2010-13 Collective Bargaining

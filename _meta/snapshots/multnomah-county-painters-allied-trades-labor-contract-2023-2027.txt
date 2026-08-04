@@ -46,9 +46,9 @@ This document is available in accessible format upon request
 
                                                                  PAGE
 
-ARTICLE 1   PREAMBLE                                             1
+### ARTICLE 1   PREAMBLE                                             1
 
-ARTICLE 2   DEFINITIONS                                          2
+### ARTICLE 2   DEFINITIONS                                          2
 
             1. Cause                                             2
             2. Continuous Service                                2
@@ -58,14 +58,14 @@ ARTICLE 2   DEFINITIONS                                          2
             6. Regular Employee                                  3
             7. Temporary Employee                                3
 
-ARTICLE 3   RECOGNITION                                          4
+### ARTICLE 3   RECOGNITION                                          4
 
             1. Unit Definition                                   4
             2. On-Call Employees                                 4
 
-ARTICLE 4   MANAGEMENT RIGHTS                                    6
+### ARTICLE 4   MANAGEMENT RIGHTS                                    6
 
-ARTICLE 5   UNION SECURITY, CHECK OFF, AND BUSINESS              7
+### ARTICLE 5   UNION SECURITY, CHECK OFF, AND BUSINESS              7
 
             1. Monthly Listing of New and Terminated Employees   7
             2. Union Security and Check-off                      7
@@ -75,9 +75,9 @@ ARTICLE 5   UNION SECURITY, CHECK OFF, AND BUSINESS              7
                   Time)
                C. Union Business Leave - Employment Status       8
 
-ARTICLE 6   NO STRIKE                                            9
+### ARTICLE 6   NO STRIKE                                            9
 
-ARTICLE 7   HOLIDAYS                                             10
+### ARTICLE 7   HOLIDAYS                                             10
 
             1. Holidays                                          10
             2. Holiday Observance                                10
@@ -95,7 +95,7 @@ ARTICLE 7   HOLIDAYS                                             10
 
                                                                     PAGE
 
-ARTICLE 8    VACATION LEAVE                                         12
+### ARTICLE 8    VACATION LEAVE                                         12
 
              1. Accrual                                             12
              2. Table of Vacation Accrual Rates                     12
@@ -108,7 +108,7 @@ ARTICLE 8    VACATION LEAVE                                         12
                 Preventative Health Care
              8. Use of Accrued Vacation for Emergencies             14
 
-ARTICLE 9    SICK LEAVE                                             15
+### ARTICLE 9    SICK LEAVE                                             15
 
              1. Paid Sick Leave                                     15
                 A. Definition and Allowable Use                     15
@@ -129,7 +129,7 @@ ARTICLE 9    SICK LEAVE                                             15
              4. Bereavement Leave                                   22
              5. Paid Leave Oregon (PLO) Reopener                    23
 
-ARTICLE 10   OTHER LEAVES                                           25
+### ARTICLE 10   OTHER LEAVES                                           25
 
              1. Leave of Absence                                    25
              2. Jury Duty                                           25
@@ -148,7 +148,7 @@ ARTICLE 10   OTHER LEAVES                                           25
              6. Military Leave                                      26
              7. Parental Leave                                      26
 
-ARTICLE 11   HEALTH AND WELFARE                                     27
+### ARTICLE 11   HEALTH AND WELFARE                                     27
 
              1. Medical and Dental Insurance                        27
              2. Other Benefits                                      27
@@ -158,7 +158,7 @@ ARTICLE 11   HEALTH AND WELFARE                                     27
                 D. Short-Term Disability                            28
                 E. Long-Term Disability                             28
 
-ARTICLE 12   PENSIONS                                               29
+### ARTICLE 12   PENSIONS                                               29
 
              1. PERS                                                29
              2. PERS Pick-Up                                        29
@@ -176,7 +176,7 @@ ARTICLE 12   PENSIONS                                               29
                 H. Requirement to Continuously Participate          31
                 I. State and Federal Tax Offset                     32
 
-ARTICLE 13   WORKERS’ COMPENSATION AND                              33
+### ARTICLE 13   WORKERS’ COMPENSATION AND                              33
              SUPPLEMENTAL BENEFITS
 
              1. Occupational Injury or Illness Occurring Within     33
@@ -198,7 +198,7 @@ ARTICLE 13   WORKERS’ COMPENSATION AND                              33
                 F. Benefits                                        35
              2. Occupational Injury or Illness Outside of Oregon   35
 
-ARTICLE 14   HOURS OF WORK                                         36
+### ARTICLE 14   HOURS OF WORK                                         36
 
              1. Work Day                                           36
              2. Work Week                                          36
@@ -216,7 +216,7 @@ ARTICLE 14   HOURS OF WORK                                         36
              10. County Closures and Curtailments                  39
 
 
-ARTICLE 15   WAGES AND JOB PROFILE SCHEDULE                        42
+### ARTICLE 15   WAGES AND JOB PROFILE SCHEDULE                        42
 
              1. Wages and Job Profile Schedule
                  A. Wage Rates for FY 2023-2024(July 1, 2023 -     42
@@ -264,9 +264,9 @@ ARTICLE 15   WAGES AND JOB PROFILE SCHEDULE                        42
                  D. Repayment to the Employee                      48
              18. Implementation of Compensation Provisions         49
 
-ARTICLE 16   DISCIPLINARY ACTION                                   50
+### ARTICLE 16   DISCIPLINARY ACTION                                   50
 
-ARTICLE 17   SETTLEMENT OF DISPUTES                                51
+### ARTICLE 17   SETTLEMENT OF DISPUTES                                51
 
              1. Grievance Procedure                                51
                 A. Step I - The Immediate Manager                  51
@@ -277,7 +277,7 @@ ARTICLE 17   SETTLEMENT OF DISPUTES                                51
                 F. Step V - Arbitration                            52
              2. Stewards and The Processing of Grievances          53
 
-ARTICLE 18   GENERAL PROVISIONS                                    54
+### ARTICLE 18   GENERAL PROVISIONS                                    54
 
              1. No Discrimination                                  54
              2. Bulletin Boards                                    54
@@ -305,9 +305,9 @@ ARTICLE 18   GENERAL PROVISIONS                                    54
                  B. Scope of Subsidy                                57
                  C. Procedural Requirements                         57
 
-ARTICLE 19   PERFORMANCE STANDARDS                                  58
+### ARTICLE 19   PERFORMANCE STANDARDS                                  58
 
-ARTICLE 20   SAFETY AND HEALTH IN THE WORKPLACE                     59
+### ARTICLE 20   SAFETY AND HEALTH IN THE WORKPLACE                     59
 
              1. Policy Statement                                    59
              2. Reporting Unsafe Conditions and Employees Rights    59
@@ -316,14 +316,14 @@ ARTICLE 20   SAFETY AND HEALTH IN THE WORKPLACE                     59
              4. Violence in the Workplace                           60
              5. Staffing                                            60
 
-ARTICLE 21   SAVINGS CLAUSE AND FUNDING                             61
+### ARTICLE 21   SAVINGS CLAUSE AND FUNDING                             61
 
              1. Savings Clause                                      61
              2. Funding                                             61
 
-ARTICLE 22   ENTIRE AGREEMENT                                       62
+### ARTICLE 22   ENTIRE AGREEMENT                                       62
 
-ARTICLE 23   TERMINATION                                            63
+### ARTICLE 23   TERMINATION                                            63
 
              SIGNATURE PAGE                                         64
 

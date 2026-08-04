@@ -266,7 +266,7 @@ The County and Association will meet during labor negotiations and discuss inclu
 employees in the bargaining unit sa that transfers can be made when the Collective Bargaining
 Agreement is implemented.
 
-                                     ARTICLE 2 —MANAGEMENT         RIGHTS
+### ARTICLE 2 —MANAGEMENT         RIGHTS
 
 21       Rights Retained by County
 
@@ -309,7 +309,7 @@ employee or group of employees shall not be subject to settlement of disputes. N
 intended to inhibit or restrict informal, routine discussion of working conditions between the
 Association and the County representatives. Such discussions are encouraged for the purpose of
 providing mutually advantageous conditions and a high level of service to the Citizens of Yamhill County.
-                                            ARTICLE 3 — STRIKE
+### ARTICLE 3 — STRIKE
 
 3.1     Strike Prohibited
 
@@ -338,7 +338,7 @@ including an action for damages, which may be available to the County. This sect
 express terms of the Agreement and does not limit protected rights after the termination of this
 Agreement.
 
-                                       ARTICLE 4 — HOURS OF WORK
+### ARTICLE 4 — HOURS OF WORK
 
 41      Regular Hours                              ,         ,
 
@@ -396,7 +396,7 @@ are denied will be in writing with an explanation for the denial.
 
 For purposes of Sections 4.1, 4.5(b), and 6.4(d), the provisions of ORS 653.268 are expressly waived.
 
-                            ARTICLE 5 — ASSOCIATION SECURITY AND CHECK OFF
+### ARTICLE 5 — ASSOCIATION SECURITY AND CHECK OFF
 
 5.1     Right to Organize
 
@@ -447,7 +447,7 @@ claims, order, Judgments, damages, suits or any other forms of liability which m
 Associatlon’s administration of the dues deduction system under this section, and (ii) the negligence of
 the Association for its negligent acts or failure to act under, or in compliance with, this section.
 
-                                      ARTICLE 6 - WAGES AND SALARY
+### ARTICLE 6 - WAGES AND SALARY
 
 6.1     Wages
 
@@ -679,7 +679,7 @@ County will review the mileage rate yearly in comparisons with other jurisdictio
 Meals will be, when necessary, reimbursed by the employer in accordance with the schedule on the
 reimbursement form.
 
-                                           ARTICLE 7 — HOLIDAYS
+### ARTICLE 7 — HOLIDAYS
 
 74      Holidays
 
@@ -941,7 +941,7 @@ or part of accrued PEL within the window period described below prior to the dat
  program to defer income taxes on their earnings subject to federal deferred compensation limits and
  the policies of the deferred compensation provider.
 
-                                ARTICLE 10 — OTHER LEAVES AND ABSENCES
+### ARTICLE 10 — OTHER LEAVES AND ABSENCES
 
  10.1    Criteria and Procedure
 
@@ -1085,7 +1085,7 @@ returned to the employee’s former or similar position. Provided however, that 
 after 12 months (except for workers compensations leaves), the employee may be placed on a rehire list
 and be reinstated when an opening occurs in a job the employee is qualified to perform.
 
-                                   ARTICLE 41 — HEALTH AND WELFARE
+### ARTICLE 41 — HEALTH AND WELFARE
 
 11.1    Medical — Dental
 
@@ -1155,7 +1155,7 @@ Any employee purchasing optional insurance coverage shall pay as part of the cos
 fee of $.50 per month for each plan employee participates in. No fee shall be charged for participation in
 a County-sponsored deferred compensation program.
 
-                                   ARTICLE 12- DISCIPLINE AND DISCHARGE
+### ARTICLE 12- DISCIPLINE AND DISCHARGE
 
 12.1    Cause for Discipline or Discharge: Types of Discipline, Representation and Rights
 
@@ -1389,7 +1389,7 @@ voice stress tests in any disciplinary proceeding under Article 12.
 
 
                                                        29
-                                  ARTICLE 13 —- SETTLEMENT OF DISPUTES
+### ARTICLE 13 —- SETTLEMENT OF DISPUTES
 
 13.1    Grievance and Mediation Procedures. Alternative Resolution of Grievance Through
         Collaborative Resolution.
@@ -1549,7 +1549,7 @@ from on-going office operations.
 
 (f)      Association representatives shall not actively seek grievances on County time.
 
-                                    ARTICLE 14 — PROBATIONARY PERIOD
+### ARTICLE 14 — PROBATIONARY PERIOD
 
 
 14.1     Purpose
@@ -1608,7 +1608,7 @@ above to provide the opportunity for the Association to comment.on such hiring t
 Administrator. Nothing in this section is intended to grant the Association the right to become involved
 in the hiring process beyond the ability to voice concerns,
 
-                                     ARTICLE 15 — LAYOFF AND RECALL
+### ARTICLE 15 — LAYOFF AND RECALL
 
 15.1     Definition of Seniority
 
@@ -1643,7 +1643,7 @@ work, and an additional ten (10) days therefrom in which to report to work.
 
 
                                                       34
-                                    ARTICLE 16 — GENERAL PROVISIONS
+### ARTICLE 16 — GENERAL PROVISIONS
 
 16.1    No Discrimination
 
@@ -1814,7 +1814,7 @@ be covered by this article. Notwithstanding the above, County shall not be requi
 affected member when such property damage arises as a result of the affected member's awn
 negligence,                                             =
 
-                                           ARTICLE 17 — TRAINING
+### ARTICLE 17 — TRAINING
 
 17.4     Department Training
 
@@ -1850,7 +1850,7 @@ certification training, or continuing education.
 
 
                                                        38
-                                 ARTICLE 18 — SAVINGS CLAUSE AND FUNDING
+### ARTICLE 18 — SAVINGS CLAUSE AND FUNDING
 
 18.1     Savings Clause
 
@@ -1873,7 +1873,7 @@ annual budget request amounts sufficient to fund wages and benefits provided by 
 makes no guarantee as to passage of such budget requests pursuant to established budget procedure.
 This section and County action thereunder shall not be subject to Article 13.
 
-                                     ARTICLE 19 — FILLING OF VACANCIES
+### ARTICLE 19 — FILLING OF VACANCIES
 
 19.1     ‘Filling of Vacancies
 
@@ -1923,7 +1923,7 @@ service period for a VRLC shall be the same as for a lateral transfer as noted i
 
 (g)                  Use of process.     This process shall not be used as a substitute to the regular disciplinary process
 to terminate employees.
-                                                         ARTICLE 20 — DURATION
+### ARTICLE 20 — DURATION
 
 (a)                  This Agreement shall be effective as of July 1, 2023, or the first day of the pay period following
 execution, whichever is later and shall remain in full force and effect until June 30, 2026, or until a

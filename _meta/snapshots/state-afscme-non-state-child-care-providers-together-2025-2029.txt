@@ -87,7 +87,7 @@ strong, balanced infrastructure that addresses safety, quality, accessibility, a
 
 
 2025-2029 AFSCME Non State Child Care Providers Together                                             1
-                                             ARTICLE 1 - RECOGNITION
+### ARTICLE 1 - RECOGNITION
 
 
 Section 1.
@@ -114,7 +114,7 @@ purposes of this Agreement.
 
 
 2025-2029 AFSCME Non State Child Care Providers Together                                      2
-                                            ARTICLE 2 - UNION RIGHTS
+### ARTICLE 2 - UNION RIGHTS
 
 
 Section 1. Dues
@@ -265,7 +265,7 @@ priority issues in the field of early learning and care.
 
 
 2025-2029 AFSCME Non State Child Care Providers Together                                                   6
-                                     ARTICLE 3 – HEALTHCARE BENEFITS
+### ARTICLE 3 – HEALTHCARE BENEFITS
 
 
 Section 1. Telehealth Benefit
@@ -306,7 +306,7 @@ g.       The Union will furnish, on an annual basis, a report of            the 
 
 
 2025-2029 AFSCME Non State Child Care Providers Together                                                 7
-                                   ARTICLE 4 - EDUCATION AND TRAINING
+### ARTICLE 4 - EDUCATION AND TRAINING
 
 
 Section 1.
@@ -502,7 +502,7 @@ H.       Individual Bargaining Unit Members will be eligible to receive funds as
 
 
 2025-2029 AFSCME Non State Child Care Providers Together                                                12
-                      ARTICLE 5 – SUBSIDY RATES AND PAYMENT PROCESSES
+### ARTICLE 5 – SUBSIDY RATES AND PAYMENT PROCESSES
 
 
 Section 1.
@@ -736,7 +736,7 @@ Price Study and True Cost of Care to the researchers responsible for conducting 
 
 
 2025-2029 AFSCME Non State Child Care Providers Together                                               18
-                          ARTICLE 6 - PROVIDER RECORDS AND COMPLAINTS
+### ARTICLE 6 - PROVIDER RECORDS AND COMPLAINTS
 
 
 Section 1.
@@ -824,7 +824,7 @@ resolving the complaint or dispute.
 
 
 2025-2029 AFSCME Non State Child Care Providers Together                                           21
-                                          ARTICLE 7- CRIMINAL HISTORY
+### ARTICLE 7- CRIMINAL HISTORY
 
 
 Agencies and the Union shall, as part of the quarterly meeting, review and discuss the concerns
@@ -836,7 +836,7 @@ the Central Background Registry (CBR) enrollment process.
 
 
 2025-2029 AFSCME Non State Child Care Providers Together                                           22
-                                       ARTICLE 8 - GRIEVANCE PROCESS
+### ARTICLE 8 - GRIEVANCE PROCESS
 
 
 Section 1. Grievance Definitions.
@@ -947,7 +947,7 @@ grievant or Union Steward in the investigation or processing of grievance.
 
 
 2025-2029 AFSCME Non State Child Care Providers Together                                             25
-                                        ARTICLE 9 - LEGISLATIVE ACTION
+### ARTICLE 9 - LEGISLATIVE ACTION
 
 
 Section 1.
@@ -971,7 +971,7 @@ bargain modifications or substitutions for the affected portion or portions of t
 
 
 2025-2029 AFSCME Non State Child Care Providers Together                                         26
-                                   ARTICLE 10 - LAWS AND REGULATIONS
+### ARTICLE 10 - LAWS AND REGULATIONS
 
 
 This Agreement is subject to all applicable existing and future state and federal laws and
@@ -986,7 +986,7 @@ under ORS 243.698 and ORS Chapter 183.
 
 
 2025-2029 AFSCME Non State Child Care Providers Together                                       27
-                                    ARTICLE 11 - COMPLETE AGREEMENT
+### ARTICLE 11 - COMPLETE AGREEMENT
 
 
 Section 1.
@@ -1016,7 +1016,7 @@ portions of the Agreement so affected an d to bring it into conformance therewit
 
 
 2025-2029 AFSCME Non State Child Care Providers Together                                         28
-                                          ARTICLE 13 - UNION ACTIVITY
+### ARTICLE 13 - UNION ACTIVITY
 
 
 Section 1.
@@ -1055,7 +1055,7 @@ representing bargaining unit members to for the Every Child Belongs Advisory Com
 
 
 2025-2029 AFSCME Non State Child Care Providers Together                                           29
-                                      ARTICLE 14 - TERM OF AGREEMENT
+### ARTICLE 14 - TERM OF AGREEMENT
 
 
 This Agreement shall be in effect upon its execution and except as amended or modified, shall
@@ -1110,7 +1110,7 @@ Agreement, in writing, by the Parties or by the operation of law.
 
 
 2025-2029 AFSCME Non State Child Care Providers Together                                              31
-                                   ARTICLE 15 – TECHNICAL ASSISTANCE
+### ARTICLE 15 – TECHNICAL ASSISTANCE
 
 
 The State will offer technical assistance, which includes support and consultation, to help
@@ -1149,7 +1149,7 @@ respond in a timely manner but no more than five (5) business days after the ini
 
 
 2025-2029 AFSCME Non State Child Care Providers Together                                             32
-                     ARTICLE 16 – PAYMENT ACCURACY AND OVERPAYMENTS
+### ARTICLE 16 – PAYMENT ACCURACY AND OVERPAYMENTS
 
 
 Section 1. Accurate Payments.
@@ -1204,7 +1204,7 @@ a.       If an overpayment is made to a provider due to an error on the part of 
 
 
 2025-2029 AFSCME Non State Child Care Providers Together                                                 34
-                                           ARTICLE 19 – STATE RIGHTS
+### ARTICLE 19 – STATE RIGHTS
 
 
 Section 1.
@@ -1245,7 +1245,7 @@ health and welfare benefits, professional development and training; and other ec
 
 
 2025-2029 AFSCME Non State Child Care Providers Together                                              35
-     ARTICLE 21– MARKET PRICE STUDY & TRUE COST OF CARE METHODOLOGY
+### ARTICLE 21– MARKET PRICE STUDY & TRUE COST OF CARE METHODOLOGY
 
 a.       The State and Union will utilize the quarterly meetings, as outlined in Article 2 Section 4 to
          discuss and review the instrument and methodology for the child care Market Price and
@@ -1268,7 +1268,7 @@ c.       The Market Price and Supply Study or other instrument will be conducted
 
 
 2025-2029 AFSCME Non State Child Care Providers Together                                               36
-                                   ARTICLE 22– ADMINISTRATIVE RULES
+### ARTICLE 22– ADMINISTRATIVE RULES
 
 
 The Early Learning Council (ELC) is responsible for approving administrative rules governing
@@ -1289,7 +1289,7 @@ participation and any monetary compensation for participation.
 
 
 2025-2029 AFSCME Non State Child Care Providers Together                                          37
-                       ARTICLE 23 –BABY PROMISE / PRESCHOOL PROMISE
+### ARTICLE 23 –BABY PROMISE / PRESCHOOL PROMISE
 
 
 Section 1. Baby Promise and Preschool Promise Manuals
@@ -1309,7 +1309,7 @@ Baby Promise, when requested by the Provider.
 
 
 2025-2029 AFSCME Non State Child Care Providers Together                                        38
-                                    ARTICLE 25 – INCLUSIVE PARTNERS
+### ARTICLE 25 – INCLUSIVE PARTNERS
 
 
 The Union may be present in a support role during DELC’s informal meetings with Providers when
@@ -1321,7 +1321,7 @@ requested by the Provider.
 
 
 2025-2029 AFSCME Non State Child Care Providers Together                                        39
-                      LETTER OF AGREEMENT – DUES REMITTANCE PROCESS
+### LETTER OF AGREEMENT – DUES REMITTANCE PROCESS
 
 
     This Letter of Agreement (LOA) is entered into between the Department of Administrative
@@ -1342,7 +1342,7 @@ requested by the Provider.
 
 
 2025-2029 AFSCME Non State Child Care Providers Together                                  40
-                 APPENDIX A- FAMILY CHILD CARE PROVIDER BILL OF RIGHTS
+### APPENDIX A- FAMILY CHILD CARE PROVIDER BILL OF RIGHTS
 All family child care providers have:
 
 
@@ -1419,7 +1419,7 @@ All family child care providers have:
 
 
 2025-2029 AFSCME Non State Child Care Providers Together                                              42
-                                    APPENDIX B – PAYMENT SCHEDULE
+### APPENDIX B – PAYMENT SCHEDULE
                                                 Effective January 1, 2026
                                                 REGISTERED FAMILY
                   Region A 65% Zone A - Regions BC 80% Zone B of 2024 Market Price Study

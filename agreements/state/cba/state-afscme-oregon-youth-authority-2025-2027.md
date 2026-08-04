@@ -16,12 +16,11 @@ agency_registry_slugs: []
 source_url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Oregon%20Youth%20Authority%202025-2027.pdf
 source_format: pdf
 retrieved: '2026-08-02'
-source_sha256: 37c6a160463b402980a8bca8c654f5d56b7d8d9dfa6e2c2b1b2870fae61265e0
+source_sha256: ba4ee1ba0338f4dec9bdc8f05fd14ce540a462658d5586caa88c5c652f99cdc8
 snapshot_policy: hash-only
 status: current
-content_mode: summary
-reproduction_basis: 'jointly-authored contract; summary + official link per the class determination
-  in corpus.yml schema.doc_types (verbatim: false)'
+content_mode: 'verbatim'
+reproduction_basis: 'public record of a public body (ORS 192.311-192.478); the employer publishes the executed agreement in full at source_url; a ratified agreement is an official act (Georgia v. Public.Resource.Org, 590 U.S. 255 (2020)) — mirrored in full per the class determination in corpus.yml schema.doc_types (verbatim: true)'
 conversion_notes: pdftotext -layout; 102 pages, 290121 characters extracted; NOT human-verified
 last_verified: ''
 verified_by: ''
@@ -51,8 +50,8 @@ tags:
 - state-workforce
 ---
 
-> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated
-> summary, not the agreement's official text. Verify against the official
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a non-authoritative
+> mirror of the agreement's text, not the official record. Verify against the official
 > source: https://www.oregon.gov/das/HR/CBA/AFSCME%20Oregon%20Youth%20Authority%202025-2027.pdf (retrieved 2026-08-02).
 
 # AFSCME Oregon Youth Authority 2025-2027
@@ -64,18 +63,11 @@ Collective bargaining agreement between the State of Oregon (DAS Labor Relations
 - Ratified 2025-08-25 per the DAS LRU 2025-2027 bargaining chart (rev. 03/19/2026; committed at `_meta/state-roster-2025-2027.yml`)
 - Source document: 102 pages (PDF, DAS CBA library)
 
-This corpus is **summary-first for agreements**: the contract's text is not
-reproduced here (see Curator notes), and nothing on this page states or
-paraphrases the agreement's terms. Read the agreement itself at the official
-source link above.
 
 ## Curator notes
 
-Summary-first is the recorded class determination (`corpus.yml
-schema.doc_types`, `verbatim: false`): a CBA is jointly authored with private
-parties, and "public record" and "freely reproducible" are not the same claim.
-If the operator later flips the class, full text lands in a follow-up PR — the
-committed snapshot extraction already carries what would be diffed.
+The full executed text is mirrored below from the committed extraction; the
+official PDF at the source link above remains the authoritative record.
 
 Letters of agreement bound into this PDF by DAS are part of this source
 snapshot; separately-published LOAs are their own documents in a later tranche.
@@ -90,3 +82,4774 @@ Statutes and rules the agreement's text cites are recorded in frontmatter
 `relationships.references_external` (12 citation(s)) and resolve into
 `executive-regulatory-frameworks` as cites — this corpus asserts no
 `implements` edge anywhere.
+
+## Full text
+
+                               2025 - 2027
+                                     AGREEMENT
+                                      BETWEEN
+                            THE STATE OF OREGON
+              DEPARTMENT OF ADMINISTRATIVE
+                       SERVICES
+                                       AND THE
+             AMERICAN FEDERATION OF STATE,
+        COUNTY, AND MUNICIPAL EMPLOYEES
+                                     ON BEHALF OF
+
+               THE OREGON YOUTH AUTHORITY
+
+
+
+
+2025 – 2027 Oregon Youth Authority        i         Collective Bargaining Agreement
+                                     TABLE OF CONTENTS
+ARTICLE                                                                                                                      Page
+ARTICLE 1 - SCOPE OF AGREEMENT .......................................................................................... 1
+ARTICLE 2 - TERM OF AGREEMENT ........................................................................................... 3
+ARTICLE 3 - UNION SECURITY ..................................................................................................... 3
+ARTICLE 4 - UNION/MANAGEMENT MEETINGS ...................................................................... 9
+ARTICLE 5 - LEGISLATIVE ACTION ............................................................................................ 9
+ARTICLE 6 - EFFECT OF LAWS AND RULES .............................................................................. 9
+ARTICLE 7 - SEPARABILITY OF PROVISIONS ......................................................................... 10
+ARTICLE 8 - NO STRIKE OR LOCKOUT..................................................................................... 10
+ARTICLE 9 - EQUAL OPPORTUNITY .......................................................................................... 10
+ARTICLE 10 - MANAGEMENT RIGHTS ...................................................................................... 11
+ARTICLE 11 - TEMPORARY INTERRUPTION OF EMPLOYMENT......................................... 11
+ARTICLE 12 - CONTRACTING OUT ............................................................................................ 11
+ARTICLE 13 - INSURANCE ........................................................................................................... 13
+ARTICLE 14 - SALARY AND WAGES ......................................................................................... 15
+ARTICLE 15 - SALARY ADMINISTRATION............................................................................... 16
+ARTICLE 16 - RECOUPMENT OF WAGE AND BENEFIT OVERPAYMENTS/
+             UNDERPAYMENTS............................................................................................... 18
+ARTICLE 17 - OVERTIME.............................................................................................................. 19
+ARTICLE 18 - BILINGUAL DIFFERENTIAL ............................................................................... 20
+ARTICLE 19 – CALL BACK TIME ................................................................................................ 20
+ARTICLE 20 - REPORTING PAY................................................................................................... 21
+ARTICLE 21 - ON-CALL................................................................................................................. 21
+ARTICLE 22 - WORK OUT OF CLASSIFICATION ..................................................................... 21
+ARTICLE 23 - LEADWORK DIFFERENTIAL .............................................................................. 22
+ARTICLE 24 - PER DIEM................................................................................................................ 23
+ARTICLE 25 - EMERGENCIES ...................................................................................................... 23
+ARTICLE 26 - WORKING CONDITIONS...................................................................................... 24
+ARTICLE 27 - UNIFORMS AND PROTECTIVE CLOTHING ..................................................... 27
+ARTICLE 28 - EMPLOYEE FACILITIES....................................................................................... 27
+ARTICLE 29 - INCLEMENT WEATHER/HAZARDOUS CONDITIONS LEAVE ..................... 27
+ARTICLE 30 - SAFETY AND HEALTH......................................................................................... 30
+ARTICLE 31 - HOLIDAYS.............................................................................................................. 33
+ARTICLE 32 - PERSONAL LEAVE DAYS.................................................................................... 34
+ARTICLE 33 - VACATION LEAVE ............................................................................................... 35
+ARTICLE 34 - SICK LEAVE ........................................................................................................... 37
+ARTICLE 35 - FAMILY LEAVE..................................................................................................... 40
+ARTICLE 36 - LEAVES WITH PAY............................................................................................... 40
+ARTICLE 37 - LEAVE OF ABSENCE WITHOUT PAY ............................................................... 44
+ARTICLE 38 – PRE-RETIREMENT PLANNING LEAVE ............................................................ 45
+ARTICLE 39 - ELECTION DAYS................................................................................................... 45
+ARTICLE 40 - PROMOTIONS/ADVANCEMENT ........................................................................ 45
+ARTICLE 41- TRIAL SERVICE...................................................................................................... 45
+ARTICLE 42 - TRAINING/EDUCATION....................................................................................... 47
+ARTICLE 43 - JOB SHARING ........................................................................................................ 47
+ARTICLE 44 - LAYOFF PROCEDURE .......................................................................................... 48
+ARTICLE 45 - REVIEW OF CLASSIFICATION SERIES............................................................. 54
+ARTICLE 46 - RECLASSIFICATION PROCEDURE .................................................................... 55
+ARTICLE 47 - IMPLEMENTATION OF NEW CLASSES - APPEALS PROCESS ..................... 58
+2025 – 2027 Oregon Youth Authority                                ii                                Collective Bargaining Agreement
+ARTICLE 48 - EMPLOYEE RIGHTS.............................................................................................. 60
+ARTICLE 49 - LIMITED DURATION APPOINTMENT............................................................... 61
+ARTICLE 50 - PERSONNEL RECORDS........................................................................................ 62
+ARTICLE 51 - DISCIPLINE AND DISCHARGE ........................................................................... 64
+ARTICLE 52 - GRIEVANCE AND ARBITRATION ..................................................................... 65
+ARTICLE 53 - GENERAL PROVISIONS ....................................................................................... 68
+ARTICLE 54 - STRESS/CAREER COUNSELING......................................................................... 68
+ARTICLE 55 - AGENCY SENIORITY............................................................................................ 69
+ARTICLE 56 - MOVING EXPENSES ............................................................................................. 69
+ARTICLE 57 - VOLUNTARY MEDICAL SEPARATION ............................................................ 69
+ARTICLE 58 – EXIT INTERVIEWS ............................................................................................... 70
+ARTICLE 59 – AIR QUALITY ........................................................................................................ 71
+ARTICLE 60 – WORKING REMOTELY........................................................................................ 71
+ARTICLE 61 – QUARTERLY CHECK-INS ................................................................................... 74
+ARTICLE 62 – INCIDENTAL EXPENDITURES........................................................................... 75
+ARTICLE 63 - PAID LEAVE OREGON (PLO) .............................................................................. 75
+ARTICLE 64 - ESSENTIAL WORKER PAY.................................................................................. 75
+LETTER OF AGREEMENT – ARTICLE 13, PEBB MEMBER ADVISORY COMMITTEE ...... 77
+LETTER OF AGREEMENT – ARTICLE 14 - SALARY AND BENEFIT REPORT .................... 78
+LETTER OF AGREEMENT - ARTICLE 30, CONTRACTING OUT............................................ 79
+FEASIBILITY STUDY ..................................................................................................................... 79
+LETTER OF AGREEMENT – NEW EMPLOYEE NOTICE/UNION ACCESS............................ 80
+LETTER OF AGREEMENT – OREGON UNIONS STATE WORKER TRAINING FUND ........ 81
+LETTER OF AGREEMENT – CONTRACT SPECIALIST ............................................................ 82
+LETTER OF AGREEMENT – STATE POLICY 50.050.01 WORKING REMOTELY UPDATES85
+LETTER OF AGREEMENT – EQUAL PAY .................................................................................. 86
+LETTER OF AGREEMENT – STATEWIDE LABOR MANAGEMENT COMMITTEE ............. 89
+LETTER OF AGREEMENT – ADMINISTRATIVE LEAVE/DUTY STATIONED AT HOME
+             INVESTIGATION COMMUNICATION ............................................................... 90
+LETTER OF AGREEMENT – STRUCTURAL CHANGES TO PAY PRACTICES..................... 91
+APPENDIX A - SALARY ADMINISTRATION EXAMPLES....................................................... 95
+APPENDIX B – COMPENSATION PLAN ..................................................................................... 96
+APPENDIX C – SALARY SCHEDULE .......................................................................................... 97
+SIGNATURE PAGE ......................................................................................................................... 98
+
+
+
+
+2025 – 2027 Oregon Youth Authority                                 iii                               Collective Bargaining Agreement
+### ARTICLE 1 - SCOPE OF AGREEMENT
+
+Section 1.
+This Agreement is made and entered into by and between the State of Oregon
+(hereinafter the "Employer"), acting through its Department of Administrative Services,
+Chief Human Resource Office-Labor Relations Unit (hereinafter "HRSD-LRU") on behalf
+of the Oregon Youth Authority (hereinafter the "Agency" or "OYA"), and the American
+Federation of State, County, and Municipal Employees (AFL-CIO) (hereinafter the
+"Union"), and is binding upon the Union and the Employer and all designated
+representatives of the Union and the Employer.
+
+Section 2.
+The Agency recognizes the Union as the sole and exclusive bargaining agent for the
+employees within the certified or recognized bargaining units. All aspects of the
+employees' wages, hours, and other terms and conditions of employment shall be
+determined by this Agreement, except in regard to recruitment and selection of
+applicants for initial appointment to State service. The terms and conditions of
+employment set forth in this Agreement shall apply to all classified positions (except
+temporary positions and those positions excludable by ORS 243.650) within the
+appropriate bargaining unit within the Oregon Youth Authority which is:
+
+         All Oregon Youth Authority positions classified as Juvenile Parole and
+         Probation Officer and Correction Counselor, Entry, with a title of Parole
+         Assistant.
+
+The Parties agree that the term "classified employee" does not include temporary
+employees appointed under the provisions of ORS 240.380 or part-time employees who
+regularly work thirty-two (32) hours or less per month.
+
+Section 3.
+If the Agency establishes a new position which is not clearly excluded from the
+bargaining unit under ORS 243.650 or reclassifies an existing bargaining unit position,
+the Employer shall notify the Union in writing within seven (7) days following the action,
+as to whether or not it believes the classification to be within the bargaining unit. The
+Union must notify the Employer in writing within ten (10) days from receipt of the
+notification if it disagrees about the inclusion or exclusion of the classification in the
+bargaining unit or the matter becomes closed. If notice of the disagreement is received
+within the ten (10)-day period, the Parties shall meet within fourteen (14) days of above
+notification to discuss the matter. If an agreement is not reached within thirty (30) days,
+the Union may submit the matter to the Employment Relations Board. Should the
+matter not be submitted to the Employment Relations Board within the specified thirty
+(30)-day period, the matter shall be considered resolved.
+
+Section 4.
+This contract incorporates the sole and complete Agreement between the Agency and
+the Union resulting from negotiations held pursuant to the provisions of ORS 243.650 et
+seq and supersedes all prior labor contracts. It is acknowledged that during
+negotiations which resulted in this Agreement, each party had the unlimited right and
+opportunity to make demands and proposals with respect to any subject or matter
+
+2025 - 2027 Oregon Youth Authority             1                    Collective Bargaining Agreement
+appropriate for collective bargaining and that the understandings and agreements
+arrived at by the Parties after the exercise of that right and opportunity are set forth in
+this Agreement. It shall not be modified in whole or in part except by another written
+instrument duly executed by the Parties.
+
+Section 5.
+a.    The Parties agree that the Chief Human Resource Office Personnel Policies and
+      Agency Procedures relating to their implementation are without effect upon the
+      Agency or members of the bargaining units.
+
+b.      Other policies, procedures, and rules of the Agency which directly relate to
+        mandatory subjects of bargaining as defined by statute and which affect
+        bargaining unit members on the day this Agreement becomes effective shall be
+        continued, unless modified or deleted elsewhere in this Agreement. Should the
+        Agency wish to change such a policy, procedure, or rule, or to issue a new one,
+        notice will be given to the Union. If the Union believes the policy, procedure, or
+        rule to be unreasonable, then within seven (7) days of the date upon which the
+        Union knows, or by reasonable diligence should have known, of the subject
+        action, the Union shall request that the Agency meets to discuss the issue.
+
+c.      Such meeting shall occur within fifteen (15) days of:
+        1.    Agreement that the issue is a mandatory subject, or
+
+         2.       An Employment Relations Board ruling that the issue is a mandatory
+                  subject of bargaining.
+
+                  If agreement which alters the policy, procedure or rule is reached, it shall
+                  be reduced to writing and signed by both Parties. If the Parties are unable
+                  to reach an agreement within fourteen (14) days following the Level C
+                  meeting and the Union continues to believe the policy, procedure, or rule
+                  to be unreasonable, it shall notify the Agency in writing of its intent to
+                  submit the matter to interest arbitration. Such written notification must be
+                  made during the fifteen (15)-day period immediately following the above
+                  mentioned fourteen (14)-day period. Failure to file such written notification
+                  within the prescribed time shall be understood by both Parties to waive the
+                  Union's right to any further objection.
+
+d.       The Parties shall meet within the five (5) days immediately following receipt of
+         notification of the Union's desire to arbitrate and select an arbitrator. Selection of
+         an arbitrator shall be as prescribed in Article 52, Grievance and Arbitration.
+
+e.      The Parties agree that the decision or award of the arbitrator shall be final and
+        binding on each of the Parties and that they will abide thereby, unless the award
+        is vacated pursuant to statute. The power of the arbitrator in this process shall
+        be limited to determine whether the policy, procedure, or rule is unreasonable.
+         If the arbitrator's ruling is that the policy, procedure, or rule is unreasonable, the
+        Agency shall immediately withdraw the policy, procedure or rule.
+
+
+
+2025 - 2027 Oregon Youth Authority               2                      Collective Bargaining Agreement
+f.      The arbitrator's fee and expenses shall be paid by the losing party. If, in the
+        opinion of the arbitrator, neither party can be considered the losing party, then
+        such expenses shall be apportioned as in the arbitrator's judgment is equitable.
+        All other expenses shall be borne exclusively by the party requiring the service or
+        item for which payment is to be made.
+
+g.      Time limits specified in this procedure must be observed, unless either party
+        requests a specific extension of time, which, if agreed to, must be stipulated in
+        writing and shall become part of the record.
+
+### ARTICLE 2 - TERM OF AGREEMENT
+
+Section 1.
+Unless otherwise noted in a specific article in the Agreement, this Agreement becomes
+effective on the date of ratification at the local table and expires June 30, 2027. The
+Union shall send a letter informing the Department of Administrative Services Labor
+Relations and the affected Agency of the specific ratification date of the tentative
+agreement. If the Union does not send the letter identifying the date of the ratification
+vote, the Employer will use the effective date of the agreement as being the first of the
+month following the date of signature.
+
+Section 2.
+Either party may open negotiations for a successor agreement by giving written notice
+to the other party between the dates of December 1, 2026 and December 31, 2026.
+Negotiations for a successor agreement will start between February 15, 2027 and
+March 15, 2027.
+                                                                  REV: 2015, 2017, 2019,2021,2023,2025
+
+### ARTICLE 3 - UNION SECURITY
+
+Section 1. New Employees.
+The Agency agrees to inform all new employees hired into positions included in the
+bargaining unit of the Union's exclusive recognition, and shall provide all present and
+future employees in the bargaining unit with a copy of its Agreement, provided the
+Parties shall share equally in the costs of preparation and distribution of the Agreement.
+
+The Agency agrees to allow duly certified Union Representatives thirty (30) minutes, to
+speak to new employees about the Union's exclusive recognition, its benefits, and
+services available to the membership. This time will not be used for discussion of labor
+management disputes.
+
+If the Union Representative is an employee of the Agency, the representative will be
+allowed time off without loss of pay to make the presentation.
+
+Section 2. Union Access.
+Accredited representatives of the Local, District Council 75, or International American
+Federation of State, County and Municipal Employees, AFL-CIO, upon proper
+introduction and notice, shall have reasonable access to the premises of the Agency
+during all working hours to conduct Union business (with appropriate observation of the
+security regulations of the Agency). During periods of bona fide emergency, this
+2025 - 2027 Oregon Youth Authority                3                     Collective Bargaining Agreement
+provision may be temporarily suspended by the Agency as required for the duration of
+the emergency.
+
+Section 3.
+Unless otherwise provided in this Agreement, the internal business of the Union shall be
+conducted by the employees during non-duty time.
+
+All policies, procedures, and rules, and all provisions of this Agreement shall be applied
+equitably among employees to whom they apply.
+
+Section 4. Stewards/Officers.
+The Union may select, and shall certify in writing to the Agency, employees to act as
+Union Stewards/Officers. Stewards/Officers shall have authority to investigate and
+resolve grievances and to distribute Union informational material provided that such
+activity does not interfere with the regular work routine with prior approval of
+management. The investigation and processing of employee grievances will be
+permitted during working hours without loss of compensation. If the permitted activities
+would interfere with either the Steward/Officer’s or the grievant's duties, management
+shall, within the next working day, arrange a mutually satisfactory time for the requested
+activities. Time spent in grievance activities without the proper notification and release
+by an appropriate supervisor involved will be considered unauthorized leave without pay
+for both the Steward/Officer and the grievant. An employee may request and have
+present a Shop Steward/Officer or Union Representative at any meeting with
+management where the employee reasonably believes the meeting will lead to
+discipline.
+
+Management will provide written notification to an Officer of the Local Union and the
+Union Council Representative of an impending disciplinary action (suspension,
+reduction, demotion or dismissal) against an employee.
+
+Section 5. Union Business Leave.
+The Parties agree to the primary principle that Union business will be carried out during
+off-duty hours.
+       a.    Employees elected to Union office or otherwise selected by the Union to
+             conduct Union business that takes them away from their employment may
+             be granted leave without pay for a reasonable period of time, upon seven
+             (7)-days' advance notice by the Union. The determination for granting
+             such leave shall be made by the Agency based on operational needs of
+             the Agency. Leave will be requested through the normal agency
+             procedure.
+
+        b.        The Agency agrees to the attendance by the President or designee without
+                  loss of pay, at:
+                          1.    Agency grievance hearings where this individual is acting as
+                                Steward;
+
+                            2.       An employee request for representation by one (1) of these
+                                     individuals to act as Steward;
+
+
+2025 - 2027 Oregon Youth Authority                   4                    Collective Bargaining Agreement
+                            3.       Any other meeting where their presence is requested by
+                                     management;
+
+                            4.       Other instances in accordance with past practice;
+
+                            5.       Arbitration hearings or other administrative hearings before
+                                     the Employment Relations Board directly involving the
+                                     specific local.
+
+Section 6. Communications.
+a.    The Agency agrees to furnish and maintain bulletin boards in convenient places
+      to be used by Union for the posting of official Union notices only. Union shall
+      keep the bulletin boards neat and orderly.
+
+         Union Officers and Stewards shall have the authorization to post messages to an
+         electronic bulletin board system and officers, stewards and employees may
+         utilize the internal e-mail system for internal Union business where an Agency
+         currently uses such a system, provided all of the following conditions are met:
+         1.     The electronic bulletin board/e-mail system shall not be used for interactive
+                communications;
+
+         2.       Usage shall comply with Agency policies applicable to all users such as
+                  protection of confidential information and security of equipment;
+
+         3.       There shall be no additional cost to the Agency for use of the electronic
+                  bulletin board program;
+
+         4.       Authorized Union-represented employees who post messages to the
+                  system shall do so on their own time; and
+
+         5.       This communication shall be of a neutral nature and shall not contain
+                  inflammatory or derogatory comments.
+
+         6.       Use shall not contain false, unlawful, offensive or derogatory statements
+                  against any person, organization or group of persons. Statements shall
+                  not contain profanity, vulgarity, sexual content, character slurs, threats or
+                  threats of violence. The contents of the e-mail shall not contain rude or
+                  hostile references to race, marital status, age, gender, sexual orientation,
+                  religious or political beliefs, national origin, health or disability.
+
+         7.       E-mail shall not be used to lobby, solicit, recruit, persuade for or against
+                  any political candidate, ballot measure, legislative bill or law, or to initiate
+                  or coordinate strikes, walkouts, work stoppages, or activities that violate
+                  the Contract.
+
+         8.       E-mail messages sent simultaneously to more than five (5) people shall be
+                  no more than approximately one (1) page and in plain or rich text format.
+                  Such group e-mails shall not include attachments or contain graphics
+
+
+2025 - 2027 Oregon Youth Authority                    5                     Collective Bargaining Agreement
+                  (except for the Union logo). Recipients of such group e-mails shall not use
+                  the “Reply All” function.
+
+         9.       Nothing shall prohibit an employee from forwarding an e-mail message to
+                  their home computer.
+
+This provision no longer applies when the Agency changes or discontinues a computer
+system and thereby loses the ability to maintain an electronic bulletin board or similar
+system.
+       a.     The Union shall be allowed the use of the internal mail system for
+              communicating with Stewards/Officers only.
+
+         b.       Upon written request, the Union may be allowed the use of the facilities of
+                  the Agency for meetings in accordance with the past practices when
+                  available.
+
+Section 7. Dues Deduction.
+a.    The Employer agrees to deduct the monthly fees from the pay of those
+      employees the Union has certified in writing to the Employer as having
+      authorized in writing such deductions be made from their paychecks. This
+      deduction shall begin on the first (1st) payroll period following the Union’s written
+      notice to the Employer that such authorization start and shall continue from
+      month to month until notified by the Union, pursuant to the membership card.
+
+b.       The Employer shall continue to deduct dues from employees as long as the
+         employee remains on the same payroll, except when the Union requests
+         cancellation of the dues deduction in writing, including reemployed seasonals,
+         and employees recalled from layoff lists.
+
+c.       The Union agrees that it will indemnify, defend and save the Employer and
+         Department/Agency harmless from all suits, actions, proceedings and claims
+         against the Employer and the Department/Agency or person(s) acting on their
+         behalf of the Employer and the Department/Agency whether the damage,
+         compensation, reinstatement, or combination thereof arising out of the
+         Department/Agency implementation of this Article. This provision does not limit,
+         waive, or in any way impact the State’s liability to AFSCME if the State fails to
+         withhold and remit lawful dues to AFSCME as obligated under the Agreement.
+
+Section 8. Employee Statistics.
+The HRSD-Labor Relations Unit and the Agency will, upon request of the Union,
+provide any regularly produced computer runs containing non-confidential statistics of
+the Union's bargaining unit members. This will include one (1) printout annually
+showing names and addresses of all bargaining unit employees and monthly
+information currently furnished. Any costs incurred in compiling and photocopying these
+statistical reports under this Agreement shall be billed to the Local Union making the
+request.
+
+Upon request and no more than once a quarter the Agency shall provide to the Union
+the names of any temporary/Limited duration employees (management/
+
+2025 - 2027 Oregon Youth Authority              6                     Collective Bargaining Agreement
+unrepresented/bargaining unit) hired, reason for the hire and expected duration of the
+appointment.
+Upon request and no more than once a quarter, the Agency shall provide to the Union
+the names of all employees in double fill positions, the reason for the double fill and the
+expected duration of the appointment if available.
+Upon request, the Agency shall provide to the Union on an annual basis the Agency
+organization charts showing management positions and the positions they supervise.
+
+Section 9. AFSCME President Leave.
+a.    Long Term.
+      Upon written request from the Executive Director of AFSCME Council 75 to DAS
+      Labor Relations Unit, one (1) President/designee from an AFSCME Council 75
+      Central Table participating Agency shall be given release time from their position
+      for a period of time up to one (1) year for the performance of Union duties related
+      to the collective bargaining relationship.              However, if the Union
+      President/designee or Executive Director requests release time for less than their
+      full regular schedule, such release time shall be subject to the Employer’s
+      approval based on the operating needs of the employee’s work unit. AFSCME
+      shall, within thirty (30) days of payment to the employee, reimburse the State for
+      payment of appropriate salary, benefits, paid leave time, pension, and all other
+      employer-related costs. Where this reimbursement is expressly prohibited by law
+      or funding source, the employee shall be granted a leave of absence but the
+      Employer will not be responsible for continuing to pay the employee’s salary and
+      benefits. AFSCME shall indemnify and hold the State harmless against any and
+      all claims, damages, suits, or other forms of liability which may arise out of any
+      action taken or not taken by the State for the purpose of complying with this
+      provision.
+
+b.       Short Term.
+         Upon written request from the Executive Director of AFSCME Council 75 to DAS
+         Labor Relations Unit and the Agency’s Human Resource Manager, up to four (4)
+         Presidents/designees from AFSCME Council 75 Central Table participating
+         Agencies shall be given release time from their position for a period of time up to
+         three (3) months for the performance of Union duties related to the collective
+         bargaining relationship. Only one (1) employee from a bargaining unit and a
+         total of four (4) employees from all Central Table participating bargaining units
+         may be on such leave at any one (1) period in time. Such requests will be
+         granted unless the affected Agency can demonstrate that the employee’s
+         absence would adversely impact the operating needs of the employee’s work
+         unit. If granted, such time may also be taken on an intermittent basis. AFSCME
+         shall, within thirty (30) days of payment to the employee, reimburse the State for
+         payment of appropriate salary, benefits, paid leave time, pension, and all other
+         employer-related costs. Where this reimbursement is expressly prohibited by law
+         or funding source, the employee shall be granted a leave of absence but the
+         Employer will not be responsible for continuing to pay the employee’s salary and
+         benefits.
+
+
+
+
+2025 - 2027 Oregon Youth Authority             7                     Collective Bargaining Agreement
+Section 10. Names of Retirees.
+Effective September 1, 2009, the Employer will send a monthly report to the Union of
+the names of individuals that have retired the previous month. For purposes of this
+Agreement, a retiree shall be defined as a person who has given the Agency written
+notice that they are separating from State service by retirement and that person has
+actually separated from State service.
+
+Section 11. Intermittent Union Leave.
+When Union officials (officers and stewards) are designated in writing by the Executive
+Director of Oregon AFSCME to attend AFSCME Council 75 Biennial or AFSCME
+International Conventions, the following provisions apply.
+       a.     The Executive Director of Oregon AFSCME shall notify affected agencies
+              in writing of the name of the employee(s) at least thirty (30) days in
+              advance of the date of the AFSCME Convention. For agencies of 100 or
+              fewer bargaining unit members, no more than one bargaining unit member
+              per agency may be designated to attend AFSCME conventions. For
+              agencies of greater than 100 bargaining unit members, no more than two
+              bargaining unit members may be designated to attend AFSCME
+              conventions under this provision.
+
+         b.       Subject to agency head or designee approval based on the operating
+                  needs of the employee’s work unit, including staff availability, the
+                  employee will be authorized release time with pay.
+
+         c.       The paid release time is limited to attendance at the conference and travel
+                  time to the conference if such time occurs during the employee’s regularly
+                  scheduled working hours up to forty (40) hours per calendar year.
+
+         d.       The release time shall be coded as Union business leave or other
+                  identified payroll code as determined by the State.
+
+         e.       The release time shall not be included in the calculation of overtime nor
+                  considered as work related for purposes of workers’ compensation.
+
+         f.       The employee will continue to accrue leaves and appropriate benefits
+                  under the applicable collective bargaining agreement except as limited
+                  herein.
+
+         g.       The Union shall, within thirty (30) days of payment to the employee,
+                  reimburse the State’s affected agency for all Employer related costs
+                  associated with the release time, regular base wage and benefits, for
+                  attendance at the applicable conference.
+
+         h.       The Union shall indemnify and the Union and employee shall hold the
+                  State harmless against any and all claims, damages, suits, or other forms
+                  of liability which may arise out of any action taken or not taken by the
+                  State for the purpose of complying with these provisions.
+                                                                                      REV: 2019,2025
+
+
+
+
+2025 - 2027 Oregon Youth Authority              8                     Collective Bargaining Agreement
+### ARTICLE 4 - UNION/MANAGEMENT MEETINGS
+
+Section 1. Purpose.
+The purpose of this Article is to promote harmonious relations between the Parties.
+
+Section 2. Meetings.
+Either the Agency Head or the Union President or their designee may request a
+meeting. Each party may designate desired representation to the extent that such
+absences from duty do not cause a disruption of work or otherwise create a short staff
+situation. Off duty personnel participating in such meetings must do so on their own
+time. The actual meeting time will be established through mutual agreement. Refusal
+of either party to meet on a given subject does not constitute a contract violation.
+
+Section 3. Scope of Authority.
+Meetings will be held for purpose of discussion only. This committee will not enter into
+a binding agreement of any sort. Contractual type negotiations, attempts to resolve
+individual grievances, or similar matters must be handled in the manner provided within
+the contract and will not be proper subject matter for such meeting.
+
+### ARTICLE 5 - LEGISLATIVE ACTION
+
+Provisions of this Agreement not requiring funding or statutory changes before they can
+be put into effect shall be implemented on the effective date of this Agreement or the
+date otherwise specified in this Agreement. Necessary bills for implementation of the
+other provisions shall be submitted to the Legislative Assembly promptly upon the
+signing of this Agreement.
+
+Upon singing of this Agreement both Parties will jointly recommend to the Legislative
+Assembly the passage of the funding and statutory changes necessary to implement
+this Agreement.
+
+Nothing in this provision shall be construed as to require the Governor to call a special
+session of the Legislature.
+
+If the Legislature fails to act or approve bills submitted under this Article, the Parties
+shall reconvene immediately to renegotiate an alternative provision.
+                                                                                           REV: 2025
+
+
+### ARTICLE 6 - EFFECT OF LAWS AND RULES
+
+Section 1.
+This Agreement is subject to all applicable existing and future laws of the State of
+Oregon. In the event of a conflict between a provision of this Agreement and a rule or
+regulation of the Department of Administrative Services or any of its Divisions, the terms
+of this Agreement shall prevail.
+
+Section 2. Liability in Civil Suits.
+The Agency agrees that any employee who has any civil action suit or proceeding
+brought against the employee for causes resulting from acting in the employee's official
+
+2025 - 2027 Oregon Youth Authority                  9                 Collective Bargaining Agreement
+capacity, duties or employment in good faith and without malice, shall be given legal
+defense by the State of Oregon. The Agency further agrees to provide written
+procedures which will outline the proper methods for requesting this legal defense.
+
+### ARTICLE 7 - SEPARABILITY OF PROVISIONS
+
+If any provision of this Agreement shall be found to be invalid by any court having
+jurisdiction in respect, thereof, such findings as to such provision shall not affect the
+remainder of this Agreement, and all other terms and provisions hereof shall continue in
+full force and effect as set forth herein. In such event, the Parties shall enter into
+immediate negotiations for the purpose of arriving at a mutually satisfactory
+replacement for such term or provision.
+
+### ARTICLE 8 - NO STRIKE OR LOCKOUT
+
+The Agency agrees that during the term of this Agreement, the Agency shall not cause
+or permit any lockout of employees from work. In the event an employee is unable to
+perform the employees' assigned duties because equipment or facilities are not
+available due to a strike, work stoppage, or slowdown by any other employees, such
+inability to provide work shall not be deemed a lockout.
+
+During the term of this Agreement, the Union shall neither cause nor counsel the
+members of bargaining units for which it has been certified, or for which recognition has
+been extended by the Agency, to strike, walk out, slowdown, or commit other acts of
+work stoppage.
+
+Upon notification confirmed in writing by the Department or Agency to the Union that
+certain bargaining unit(s) employees covered by this Agreement are engaging in strike
+activity in violation of this Article, the Union shall, upon receipt of a mailing list, advise
+such striking employees in writing, with a copy to the Department and Agency, to return
+to work immediately. Such notification by the Union shall not constitute an admission
+that it has caused or counseled such strike activity. The notification to employees
+covered by this Agreement by the Union shall be made at the request of the Department
+or Agency.
+
+### ARTICLE 9 - EQUAL OPPORTUNITY
+
+Section 1.
+The Agency and the Union agree to continue their policies of not unlawfully
+discriminating against any employee because of race, color, religion, sex, national
+origin, age, mental or physical disability, marital status, political affiliation, Union activity,
+or any other legally protected class. Neither will the Agency discriminate based on
+sexual orientation.
+
+Section 2.
+Any complaint alleging unlawful discrimination based on race, color, religion, sex,
+national origin, age, mental or physical disability, marital status or political affiliation
+which is brought to the Union for processing will be submitted directly to the Agency
+Head or designee. If such an issue is not satisfactorily resolved within thirty (30) days
+
+2025 - 2027 Oregon Youth Authority              10                       Collective Bargaining Agreement
+of its submission, it may be submitted to the Bureau of Labor and Industries for
+resolution.
+
+Section 3.
+If an employee has a complaint solely alleging unlawful discrimination based on Union
+activity and the facts of the situation do not give rise to an alleged violation of another
+article of this contract, it shall be first presented to the Agency Head for investigation
+and resolution, however, the Parties may mutually agree, in writing, to waive this step,
+allowing the matter to be resolved through the Employment Relations Board.
+
+### ARTICLE 10 - MANAGEMENT RIGHTS
+
+The Union agrees that the Employer retains all inherent rights of management and
+hereby recognizes the sole and exclusive right of the State of Oregon, as the Employer,
+to operate and manage its affairs in accordance with its responsibilities to maintain
+efficient governmental operations. The Employer retains all rights to direct the work of
+its employees, including, but not limited to, the right to hire, promote, assign, transfer,
+demote, suspend, or discharge employees for proper cause; to schedule work;
+determine the processes for accomplishing work; to relieve employees from duties
+because of lack of work or for other legitimate reasons; to take action as necessary to
+carry out the missions of the State; or determine the methods, means, and personnel by
+which operations are to be carried on, except as modified or circumscribed by the terms
+of this Agreement. The retention of these rights does not preclude any employee from
+filing a grievance, pursuant to Article 52, Grievance and Arbitration Procedure, or
+seeking a review of the exercise of these rights, when it is alleged such exercise
+violates provisions of this Agreement.
+
+### ARTICLE 11 - TEMPORARY INTERRUPTION OF EMPLOYMENT
+
+When the Employer declares that a temporary interruption of employment should be
+considered because of lack of funds, either party may provide the other with written
+notice to meet and discuss possible terms of such interruption or alternative options.
+Such meeting must occur within thirty (30) days of the declaration. Terms and
+alternatives shall be subject to mutual agreement by the Union and the Employer. The
+Parties agree that any and all discussions that take place under this Section shall not be
+subject to the Complete Agreement articles of any of the agreements or constitute
+interim negotiations under PECBA. In addition, the Parties will not be required to use
+the dispute resolution process contained in the PECBA.
+
+### ARTICLE 12 - CONTRACTING OUT
+
+Section 1.
+The Union recognizes that the Employer has the management right, during the term of
+this Agreement, to decide to contract out work performed by bargaining unit members.
+However, when the contracting out will displace bargaining unit members, such
+decisions shall be made only after the affected Agency has conducted a formal
+feasibility study determining the potential costs and other benefits which would result
+from contracting out the work in question. The Employer agrees to notify the Union
+within one (1) week of its decision to conduct a formal feasibility study, indicating the job
+
+2025 - 2027 Oregon Youth Authority                 11                Collective Bargaining Agreement
+classifications and work areas affected. The Employer shall provide the Union with no
+less than thirty (30) days notice that it intends to request bids or proposals to contract
+out bargaining unit work where the decision would result in displacement of bargaining
+unit members. During this thirty (30) day period, the Employer shall not request any
+bids or proposals and the Union shall have the opportunity to submit an alternate
+proposal. The notification by the Employer to the Union of the results of the feasibility
+study will include all pertinent information upon which the Employer based its decision
+to contract out the work including, but not limited to, the total cost savings the Employer
+anticipates.
+
+Feasibility studies will not be required when: (1) an emergency situation exists as
+defined in ORS 279.011(4), and (2) either the work in question cannot be done by
+available bargaining unit employees or necessary equipment is not readily available.
+
+Nothing in this Article shall prevent the Employer from continually analyzing its
+operation for the purpose of identifying cost-saving opportunities.
+
+Section 2.
+The Employer shall evaluate the Union’s alternate proposal provided under Section 1. If
+the Employer’s evaluation of the Union’s alternate proposal confirms that it would result
+in providing quality and savings equal to or greater than that identified in the
+management plan, the Parties will agree in writing to implement the Union proposal.
+
+Section 3.
+Should any full-time bargaining unit member become displaced as a result of
+contracting out, the Employer and the Union shall meet to discuss the effect on
+bargaining unit members. The Employer’s obligation to discuss the effect of such
+contracting does not obligate it to secure the agreement of the Union or to exhaust the
+dispute resolution procedure of ORS 243.712, 243.722, or 243.742, concerning the
+decision or the impact.
+
+“Displaced” as used in this Article means when the work an employee is performing is
+contracted to another entity outside state government and the employee is removed
+from their job.
+
+Section 4.
+Once an Agency makes a decision to contract out, the Agency will choose either (a) or
+(b) below. The Agency will notify affected employees of the option selected. The
+Agency will post and provide to the Union, a list of service credits for employees in all
+potentially affected classifications within the Agency. Within five (5) business days of
+the notice, the affected employees will notify the Agency of acceptance of the Agency’s
+option or decision to exercise their rights under (c) below:
+       a.      Require the contractor to hire employees displaced by the contract at the
+               same rate of pay for a minimum of six (6) months subject only to “just
+               cause” terminations. In this instance, the state will continue to provide
+               each such employee with six (6) months of health and dental insurance
+               coverage through the Public Employee Benefits Board, if continuation of
+               coverage under the Bargaining Unit Benefits Board is allowed by law and
+               pertinent rules of eligibility. Pursuant to Article 44, an eligible employee
+
+2025 - 2027 Oregon Youth Authority           12                     Collective Bargaining Agreement
+                  shall be placed on the Agency layoff list and may, at the employee’s
+                  discretion, be placed on a secondary recall list for a period of two (2)
+                  years; or
+
+        b.       Place employees displaced by a contract elsewhere in state government in
+                 the following order of priority: within the Agency, within the department, or
+                 within state service generally. Salaries of employees placed in lower
+                 classifications will be red-circled. To the extent this Article conflicts with
+                 Article 40, Promotions/Advancement, this Article shall prevail.
+
+        c.       An employee may exercise all applicable rights under Article 44, Layoff.
+
+Section 5.
+The following provisions govern the administration of the requirement under this Article
+to conduct feasibility studies in cases of contracting out and will supplement the
+provisions included in the contract.
+      a.     The Employer agrees that all AFSCME represented state agencies will
+             conduct a feasibility study in instances of contracting out work performed
+             by bargaining unit employees when contracting out will result in
+             displacement of bargaining unit employees.
+
+        b.       The Parties agree that AFSCME-represented agencies will send directly to
+                 AFSCME’s Executive Director and to DAS HRSD Labor Relations Unit all
+                 future notices of intent to conduct a feasibility study pursuant to Section 1.
+
+Section 6. Review of Contracted Work
+Upon request, the union may view state contracts deemed public records. The union
+will contact the agency manager responsible for procurement and contracts to arrange a
+time to review the contracts. The agency will let the union review any contracts that the
+agency itself stores, and are available through public records request. The union will
+contact the state archivist for older contracts under the public records law. The union
+may submit suggestions to the agency on agency initiated contracts as to how
+bargaining unit members could perform the work more efficiently (at reduced cost) and
+effectively (improved quality). The Parties may discuss the union suggestions at their
+labor/management meetings and determine the most effective and efficient way to
+accomplish the work in the future for Agency initiated contracts. Decisions around
+reviewing of contracted work are not subject to the grievance procedure.
+
+### ARTICLE 13 - INSURANCE
+
+Section 1.
+An Employer contribution will be made for each eligible employee who has at least
+eighty (80) paid regular hours in the month unless required by law.
+
+Section 2.
+The contribution for eligible participating part-time employees with eighty (80) or more
+paid regular hours for the month the Employer shall contribute a prorated amount of the
+contribution for full-time employees unless otherwise required by law.
+
+
+2025 - 2027 Oregon Youth Authority               13                     Collective Bargaining Agreement
+“Regular hours” means all hours of work or paid leave except overtime hours, i.e., those
+above eight (8) hours in a day or forty (40) hours in a week. Thus, “regular hours” shall
+include additional non-overtime hours worked above an employee’s regular work
+schedule. In the event that a part-time employee, who is regularly scheduled to work
+half-time or more, fails to maintain at least half-time paid regular hours because of the
+effect of prorated holiday time or other paid or unpaid time off, they shall be allowed to
+use available vacation or comp time to maintain their eligibility for benefits and the
+Employer’s contribution for such benefits.
+a.      The Employer contribution amount of the plan selected by the employee will be
+        calculated as follows:
+        1.     Part-Time Employees Electing Part-Time Insurance.
+
+                  Part-Time premium rate x Employer contribution percentage (as defined in
+                  Section 3) x the ratio of paid regular hours to full-time hours to the nearest
+                  full percent = Employer contribution.
+
+                  In addition, there shall be a subsidy based on the employee’s coverage
+                  tier for the Plan Years covered in this Article. The part-time subsidy shall
+                  be determined by PEBB for each plan year.
+
+                  The employee will pay the premium balance.
+
+         2.       Part-Time Employees Electing Full-Time Insurance.
+
+                  Full-time premium rate x Employer contribution percentage (as defined in
+                  Section 3) x the ratio of paid regular hours to full-time hours to the nearest
+                  full percent = Employer contribution.
+
+                  The employee will pay the premium balance.
+
+Section 3.     Plan Years 2025 through 2027.
+For Plan Year 2025 the Employer will pay ninety-five percent (95%) and the employee
+will pay five percent (5%) of the monthly premium rate as determined by PEBB. For
+employees who enroll in a medical plan that is at least ten percent (10%) lower in cost
+than the monthly premium rate for the highest cost plan available to the majority of
+employees, the Employer shall pay ninety-nine percent (99%) of the monthly premium
+for PEBB health, vision, dental and basic life insurance benefits and the employee shall
+pay one percent (1%).
+
+For Plan Years 2026 and 2027, the Employer will pay ninety-five percent (95%) and the
+employee will pay five percent (5%) of the monthly premium rate as determined by
+PEBB. For employees who enroll in a medical plan that is at least five percent (5%)
+lower in cost than the monthly premium rate for the highest cost medical plan available
+to the majority of employees, the Employer shall pay ninety-nine percent (99%) of the
+monthly premium for PEBB health, vision, dental and basic life insurance benefits and
+the employee shall pay the remaining one percent (1%).
+
+
+
+
+2025 - 2027 Oregon Youth Authority               14                     Collective Bargaining Agreement
+Section 4.
+If the Collective Bargaining Agreement provides for a COLA with an effective date in the
+second (2nd ) year of a biennium and the difference in the projected increase in the
+PEBB composite rate for the following calendar year falls below three point four percent
+(3.4%), then the COLA will be moved up by one (1) full month for each month it is
+sufficiently funded by the savings.
+SEE LOAs:, PMAC,
+                                                                REV: 2015, 2017,2019, 2021,2023,2025
+
+
+### ARTICLE 14 - SALARY AND WAGES
+
+Section 1. PERS Pickup.
+Effective February 1, 2019 compensation plan salary rates for PERS participating
+members shall be increased by six and ninety five one hundredths percent (6.95%). At
+that time bargaining unit employees will begin to make their own six percent (6%)
+contributions to their PERS account or the Individual Account Program as applicable.
+Employees’ contributions shall be treated as ‘pretax’ contributions pursuant to Internal
+Revenue Code Section 414(h)(2).
+
+Section 2.
+Juvenile Parole and Probation Officers will be placed on Salary Range 28, effective date
+July 1, 2015.
+
+Juvenile Parole and Probation Assistants will be placed on Salary Range 22, effective
+date July 1, 2015.
+
+All employees will retain their current salary rate and salary eligibility date (SED) in the
+new range except that employees whose current rate is below the first step of the new
+range shall be moved to the first (1st) step in the new range and a new salary eligibility
+date (SED) of July 1, 2016.
+
+Section 3. Cost of Living Adjustment.
+a.    Effective February 1, 2026 or on the first of the month following receipt of an
+      interest arbitration award whichever is later, all pay rates will be increased by two
+      and one half percent (2.5%).
+
+b.       Effective January 1, 2027 all pay rates will be increased by four percent (4%).
+c.       Effective February 1, 2027, an additional step shall be added to all salary ranges.
+          Employees who are at top step prior to implementation of the new top step will
+         have and have been employed with the State for ten (10) or more years will be
+         moved to the next step in the salary range on February 1, 2027. All employees
+         who are at the top step prior to implementation but have been employed with the
+         State for less than ten (10) years will have their prior Benefit Service Date (BSD)
+         restored, using the same month and day, and will be eligible to move to the new
+         top step on their next BSD after implementation.
+
+
+
+
+2025 - 2027 Oregon Youth Authority             15                     Collective Bargaining Agreement
+Section 4. Selective Salary Adjustment
+Class #     Classification Title                                 From To
+6821              Medical Laboratory Technician 2                20     21
+1481-1488         Inf ormation Systems specialist Series         Class Study
+Effective July 1, 2025, the salary selective will be implemented as follows:
+       •      Employees whose base salary falls below the first step of the new range
+              will be placed on the first step of the new range.
+
+         •        Employees whose base salary falls on a step in the new salary range will
+                  be placed on the equivalent step number in the new range (i.e., Step 6 to
+                  Step 6).
+
+         •        Employees who are off step will be placed on the next higher step in the
+                  old range and then placed on the equivalent step number in the new range
+                  (i.e., Step 6 to Step 6).
+
+         •        Employees whose base salary is above the top step of the new range will
+                  be red circled*
+
+         •        All benefit service dates (BSDs) will remain the same.
+
+*Per State Policy: 10.000.01 - Red-Circle: a term sometimes used to refer to
+a procedure in which an employee's previous rate of pay above the top step of a
+new salary range is retained, provided the employee remains in the reclassified
+position until the rate is equal to or exceeded by the top step of the new salary range.
+See LOA: Salary and Benefit Report
+                                                                 REV: 2015, 2017,2019, 2021,2023,2025
+
+
+### ARTICLE 15 - SALARY ADMINISTRATION
+
+Section 1. Salary Increase
+Employees shall be eligible for annual performance pay increases on the employees'
+eligibility date provided the employee is not at the top step of the salary range of the
+employees' classification.
+
+Section 2.
+Any employee requiring an emergency draw shall be authorized once during the term of
+this Agreement to make such a draw without explanation. Additional draws may be
+requested in accord with existing policy and will be considered on a case by case basis.
+
+Section 3. Submission of Salary Increases.
+For new hires salary increases must be made effective twelve (12) months from the
+employee’s date of hire and yearly thereafter until the employee reaches the top of the
+salary range. Salary increases to correct errors or oversights and retroactive payments
+resulting from grievance settlements will be authorized. In no event shall any
+retroactivity exceed twelve (12) months from the date upon which the oversight or error
+is brought to management's attention in writing, or, in the case of a grievance
+settlement, the date the grievance was filed in writing.
+
+
+2025 - 2027 Oregon Youth Authority                    16               Collective Bargaining Agreement
+Section 4. Salary on Promotion and Upward Reclassification.
+When an employee is promoted, the agency’s appointing authority or management
+designee will conduct an internal assessment to determine the appropriate rate of pay.
+      a.     For promotion, if the assessment results in a step equal to or below the
+             employee’s current pay rate, their pay will be increased to the next higher
+             step in the new salary range. If that step provides an increase of less than
+             two and five-tenths percent (2.5%), the agency will apply the next higher
+             step in the new classification’s salary range.
+
+         b.       If the assessment results in a step above the employee’s current pay rate,
+                  the agency will use the outcome of the assessment. If this increase is still
+                  less than two and five tenths percent (2.5%), the agency will move the
+                  employee to the next higher step in the new classification’s salary range.
+
+         c.       Any employee reclassified upward shall move into the new range at the
+                  closest step that is higher than their current rate but not less than a four
+                  percent (4%) increase except where such increase would exceed the top
+                  step of the new salary range.
+
+         d.       If the employee’s benefit service date falls within forty-five (45) calendar
+                  days of the start date of their new position and they have not yet reached
+                  the top step of their current range, the promotion will be processed as if
+                  the employee had already reached their benefit service date*.
+
+The benefit service date is adjusted to six (6) months from the date of promotion unless
+the employee is already at the top step of the new salary range.
+
+Section 5. Salary on Demotion or Reclassification Downward.
+When an employee is demoted or reclassified downward, the agency’s appointing
+authority or management designee will conduct an internal assessment to determine the
+appropriate rate of pay.
+      a.      Upon demotion, if the employee’s current pay exceeds the top step of the
+              new classification, their pay will be reduced to the top step of the new
+              classification. In the event of a downward reclassification, if the
+              employee’s current pay exceeds the top step of the new classification, the
+              agency will retain their current salary. The agency will red-circle their rate
+              of pay until a step of the classification equals or exceeds the employee’s
+              salary. Employees who are red-circled are not eligible for cost-of-living
+              increases. When a step of the classification equals or exceed the
+              employee’s red-circled rate of pay, an agency will adjust the rate of pay
+              appropriately and the employee becomes eligible for cost-of-living
+              increases.
+
+         b.       If the employee’s current pay falls within the new classification’s salary
+                  range and the assessment results in a step equal to or greater than their
+                  current pay, the agency will apply the outcome of the assessment.
+
+         c.       If the employee’s current pay falls within the new classification’s salary
+                  range but the assessment results in a step below their current pay, the
+
+2025 - 2027 Oregon Youth Authority               17                    Collective Bargaining Agreement
+                  agency will maintain the employee’s current pay. If this places the
+                  employee off-step in the new classification, the employee will advance to
+                  the next higher salary step at their next benefit service date, followed by
+                  an additional step increase — not to exceed the top step of the range*.
+
+The benefit service date remains the same unless the employee is already at the top
+step of the new salary range.
+
+Section 6. Return from Layoff List.
+When a former employee who was laid off is recalled, the agency’s appointing authority
+or management designee will conduct an internal assessment to determine the
+appropriate rate of pay.
+      a.      If the assessment results in a step equal to or lower than the step the
+              employee held at the time of layoff, they will be returned to that same step.
+
+         b.       If the assessment results in a higher step, the agency will apply the
+                  outcome of the assessment.
+
+         c.Employee's previous salary benefit date adjusted by the amount of break
+           in service shall be restored.
+SEE Appendix A – Salary Administration Examples
+                                                                                  REV: 2017,2019,2025
+
+
+### ARTICLE 16 - RECOUPMENT OF WAGE AND BENEFIT OVERPAYMENTS/
+                            UNDERPAYMENTS
+
+Section 1. Overpayments.
+a.    In the event that an employee receives wages or benefits from the Agency to
+      which the employee is not entitled, regardless of whether the employee knew or
+      should have known of the overpayment, the Agency shall notify the employee in
+      writing of the overpayment which will include information supporting that an
+      overpayment exists and the amount of wages and/or benefits to be repaid. For
+      purposes of recovering overpayments by payroll deduction, the following shall
+      apply:
+             1.     Provide written notice with itemized and detailed explanation of an
+                    overpayment to the employee within ten (10) calendar days from
+                    the date of discovery;
+
+                  2.        The Agency may, at its discretion, use the payroll deduction
+                            process to correct any overpayment made within a maximum
+                            period of two (2) years before the notification.
+
+                  3.        Where this process is utilized, the employee and Agency shall meet
+                            and attempt to reach mutual agreement on a repayment schedule
+                            within thirty (30) calendar days following written notification.
+
+                  4.        If there is no mutual agreement at the end of the thirty (30)-
+                            calendar day period, the Agency shall implement the repayment
+                            schedule stated in sub 4 below.
+
+2025 - 2027 Oregon Youth Authority                 18                   Collective Bargaining Agreement
+                  5.        If the overpayment amount to be repaid is more than five percent
+                            (5%) of the employee’s regular monthly base salary, the
+                            overpayment shall be recovered in monthly amounts not exceeding
+                            five percent (5%) of the employee’s regular monthly base salary,
+                            unless the employee requests a higher recovery percentage. If an
+                            overpayment is less than five percent (5%) of the employee's
+                            regular monthly base salary, the overpayment shall be recovered in
+                            a lump-sum deduction from the employee's paycheck. If an
+                            employee leaves Agency service before the Agency fully recovers
+                            the overpayment, the remaining amount may be deducted from the
+                            employee's final check.
+                            a.     An employee who disagrees with the Agency's determination
+                                   that an overpayment has been made to the employee may
+                                   grieve the determination through the grievance procedure.
+
+                            b.       The Article does not waive the Agency's right to pursue other
+                                     legal procedures and processes to recoup an overpayment
+                                     made to an employee at any time.
+
+Section 2. Underpayments.
+a.    In the event the employee does not receive the wages or benefits to which the
+      record/documentation has for all times indicated the employer agreed the
+      employee was entitled, the Agency shall notify the employee in writing of the
+      underpayment. This notification will include information showing that an
+      underpayment exists and the amount of wages and/or benefits to be repaid. The
+      Agency shall correct any such underpayment made within a maximum period of
+      two years before the notification. Employees may report underpayments to the
+      Employer. All confirmed underpayments shall be repaid in accordance with State
+      wage and hour laws.
+
+b.       This provision shall not apply to claims disputing eligibility for payments which
+         result from this agreement. Employees claiming eligibility for such things as
+         leadwork, work-out-of-classification pay or reclassification must pursue those
+         claims pursuant to the timelines elsewhere in this Agreement.
+                                                                                                REV: 2023
+
+### ARTICLE 17 - OVERTIME
+
+Section 1.
+All time for which an employee is compensated at the regular straight time rate of pay,
+except standby time but including holiday time off, compensatory time off, and other
+paid leave, shall be counted as time worked.
+
+Section 2.
+Overtime for Juvenile Parole Officers is time worked in excess of forty (40) hours per
+week.
+
+Section 3.
+Overtime shall be paid at the rate of time and one-half (1-1/2). The form of
+compensation for overtime shall be pay or compensatory time off, at the option of the
+2025 - 2027 Oregon Youth Authority                   19                    Collective Bargaining Agreement
+employee. If compensatory time is used, it shall be credited at the appropriate overtime
+rate. Any compensatory time accrued in excess of eighty (80) hours will be paid off
+within the pay period of the month following the month in which it is accrued.
+
+No application of this Article shall be construed or interpreted to provide for
+compensation for overtime at a rate exceeding time and one-half (1-1/2), or to effect a
+"pyramiding" of overtime, i.e., time and one-half (1-1/2). Overtime shall be voluntary
+except during periods of emergency or unless management is unable to fill a work
+assignment by voluntary means.
+
+Section 4. Exemptions from Overtime.
+All employees who are exempt from overtime under the standards established by the
+FLSA shall be excluded from overtime. The Agency and the Union shall apply FLSA
+standards to reach agreement upon exempt employees.
+
+Grievances which grieve the eligibility of employees for overtime shall follow the
+procedure in Article 52, Grievance and Arbitration, Steps 1 and 2. If the grievance is
+still unresolved after Step 2, the affected employee may file a charge with the Bureau of
+Labor and Industries (BOLI), Wage and Hour Division, or with the U.S. Department of
+Labor (DOL).
+
+Section 5. Exempt Employees.
+Exempt employees who work over forty (40) hours in a workweek shall receive hour-for-
+hour compensation in the form of time off for hours exceeding forty (40) in the
+workweek.
+
+Section 6.
+Any employee assigned to escort youth offenders out of state will be compensated eight
+(8) hours per day at the straight time rate, and one and one-half (1-1/2) times the
+straight time rate for any hours actually worked over eight (8) hours per day, unless
+escorting on the employee's regular day off, where the employee shall receive overtime
+for all hours worked.
+
+Section 7.
+The Parties agree that an employee's compensatory time is payment for work already
+accomplished. Compensatory time may be used by the employee in lieu of vacation or
+sick leave unless the employee is on written notice involving attendance problems.
+
+### ARTICLE 18 - BILINGUAL DIFFERENTIAL
+
+When formally assigned in the employee's position description, an employee assigned
+to interpret to or from another language to English will receive a differential of five
+percent (5%) of base pay.
+
+### ARTICLE 19 – CALL BACK TIME
+
+For employees in the classification of Juvenile Parole and Probation Assistants , and
+Juvenile Parole and Probation Officers, call back is an occasion where an employee
+has been released from duty and is called back to work unexpectedly at the direction of
+
+2025 - 2027 Oregon Youth Authority                20               Collective Bargaining Agreement
+a supervisor prior to their normal starting time. A Juvenile Parole and Probation
+Assistant or Juvenile Parole and Probation Officer who is called back to work to their
+permanent work location, or to a temporary work location, will receive the appropriate
+rate of compensation in accordance with this Agreement for hours actually worked but
+in no event will the employee be paid less than two (2) hours at the straight time rate of
+pay.
+                                                                                         REV: 2019
+
+
+### ARTICLE 20 - REPORTING PAY
+
+An employee who is scheduled for work and reports to work and there is not work
+available may be excused from duty, but shall be paid at their regular rate for the shift of
+work scheduled.
+
+### ARTICLE 21 - ON-CALL
+
+Employees shall be paid one (1) hour of pay at the regular straight time rate for each six
+(6) hours of assigned on-call duty. Employees who are assigned on-call duty for less
+than six (6) hours shall be paid on a prorated basis.
+
+An employee shall be assigned on-call duty when specifically required to be available or
+work outside their working hours and not subject to restrictions which would prevent the
+employee from using the time while on call effectively for the employee’s own purposes.
+
+No employee is eligible for any premium pay compensation while on-call duty except as
+expressly stated in this Article.
+
+On-call duty time shall not be counted as time worked in the computation of overtime
+hours worked but on-call pay shall be included in the calculation of the overtime rate of
+pay.
+
+An employee shall not be on on-call duty once they actually commences performing
+assigned duties and receives the appropriate rate of pay for time worked.
+
+### ARTICLE 22 - WORK OUT OF CLASSIFICATION
+
+Section 1.
+When an employee is assigned for a limited period to perform the duties of a position at
+a higher level classification for more than five (5) consecutive calendar days, the
+employee shall receive a work-out-of-classification differential..
+
+
+Section 2.
+An employee performing duties out of classification for training or developmental
+purposes shall be informed in writing of the purpose and length of the assignment
+during which there shall be no extra pay for the work. A copy of the notice shall be
+placed in the employee's file.
+
+
+
+2025 - 2027 Oregon Youth Authority                21                Collective Bargaining Agreement
+Section 3.
+The Agency’s appointing authority or management designee will conduct an internal
+assessment to determine the appropriate rate of the differential. The amount of the
+differential will not be less than five percent (5%)
+       a.      If the assessment results in one step above, equal to, or below the
+               employee’s current pay rate, the differential will be five percent (5%) or a
+               dollar amount based on the first step of the higher salary range, whichever
+               is greater.
+
+        b.        If the assessment results in two steps or more above the employee’s
+                  current pay rate, the agency will use the outcome of the assessment to
+                  determine the dollar amount of the differential.
+
+        c.        If the differential is a dollar amount, the amount will be adjusted due to
+                  changes to the base salary (e.g. COLA or step increase).
+
+Section 4.
+Assignments of work out of classification shall not be made in a manner which will
+subvert or circumvent the administration of this Article. This higher class work will be
+entered into the employee's personnel file and shall be used for annual performance
+appraisals and will be taken into consideration by supervisors during promotional merit
+ratings.
+                                                                                      REV: 2023,2025
+
+
+### ARTICLE 23 - LEADWORK DIFFERENTIAL
+
+Section 1.
+Leadwork differential shall be defined as a differential for employees who have been
+formally assigned by their supervisor, in writing, "leadwork" duties, provided the
+leadwork duties are not included in the class specification for the employee’s position.
+Leadwork is where, on a recurring daily basis, while performing essentially the same
+duties as the workers led, the employee has been directed to perform substantially all of
+the following functions: to orient new employees, if appropriate; assign and reassign
+tasks to accomplish prescribed work efficiently; give direction to workers concerning
+work procedures; transmit established standards of performance to workers; review
+work of employees for conformance to standards; and provide informal assessment of
+workers' performance to the supervisor. The duration of the assignment not the
+performance of the duties must be a minimum of ten (10) consecutive days to qualify for
+the differential.
+
+Section 2.
+The differential shall be five percent (5%) beginning from the first day the duties were
+formally assigned in writing for the full period of the assignment.
+
+Section 3.
+Leadwork differential shall not be computed at the rate of time and one-half (1-1/2) for
+the time worked in an overtime or holiday work situation, or to effect a "pyramiding" of
+work-out-of-classification payment.
+
+
+2025 - 2027 Oregon Youth Authority              22                    Collective Bargaining Agreement
+Section 4.
+Leadwork differential shall not apply for voluntary training and development purposes
+which are mutually agreed to in writing between the supervisor and the employee.
+
+Section 5.
+The employee who believes they are performing the duties of a leadworker as defined
+in Section 1, may request a review of the duties as follows:
+       a.     The employee shall notify their supervisor and appropriate Personnel
+              Officer, in writing for a review.
+
+         b.       The supervisor, on behalf of the Agency, will respond to the employee in
+                  writing, within fifteen (15) calendar days from the date of notification.
+
+         c.       If it is the Agency's determination that the leadwork duties were assigned,
+                  the leadwork differential will be effective the date the employee notified the
+                  supervisor.
+
+         d.       If the Agency determines that the duties are not leadworker or wishes to
+                  remove the duties, the employee will be notified as noted in "b" of this
+                  Article.
+
+### ARTICLE 24 - PER DIEM
+
+Section 1.
+Travel, mileage and moving expense reimbursements and procedures will be in
+accordance with Oregon Accounting Manual Policy No. 40.10.00.PO, and its
+successors. Changes in this policy will be automatically incorporated into this contract
+Article.
+
+Section 2. Car Usage.
+a.    No employee shall use a private vehicle in the pursuit of official business without
+      the specific authorization of the Agency. Such authorization may provide general
+      approval to use the employee’s private vehicle when responding to emergent
+      situations (not requiring transporting the youth) on off-duty hours and where use
+      of the employee’s vehicle is more efficient and cost effective than use of the
+      State’s vehicle.
+
+b.      Employees shall report in writing any unsafe vehicle to the Motor Pool
+        Superintendent or designated agency personnel. The report shall contain the
+        license number of the vehicle, date of occurrence, and the details concerning the
+        unsafe condition.
+                                                                                             REV: 2017
+
+
+### ARTICLE 25 - EMERGENCIES
+
+Section 1.
+During periods of bona fide emergency, provisions of this contract regarding work
+assignments and scheduling, job posting, and overtime scheduling may be temporarily
+
+
+2025 - 2027 Oregon Youth Authority               23                     Collective Bargaining Agreement
+suspended by the Agency as required for the duration of the emergency. Appropriate
+notification of the emergency status will be made to the Union or designee.
+
+Section 2.
+Emergency is defined as an unforeseen circumstance which may threaten the safety
+and security of the public, inmates, employees and/or property.
+
+This Section shall not be used by management to justify suspension of the above
+described contract rights to meet the daily operational needs in filling unexpected shift
+vacancies due to absences of scheduled staff which occur from time to time.
+
+### ARTICLE 26 - WORKING CONDITIONS
+
+Section 1. Workweek and Working Hours.
+The workweek will be forty (40) hours beginning at 12:01 a.m. Saturday.
+      a.    It is agreed upon by the Parties that each individual Juvenile Parole and
+            Probation Officer or Juvenile Parole and Probation Assistant will work a
+            flexible professional workweek, which may include flexible remote work
+            assignments. A flexible work schedule will meet caseload management
+            needs, support agency business, mission statement and budget
+            requirements.
+
+                  The Juvenile Parole and Probation Officer or Juvenile Parole and
+                  Probation Assistant and manager will communicate effectively and
+                  together to meet the day-to-day coverage of each OYA office. To do so,
+                  the Juvenile Parole and Probation Officer or Juvenile Parole and Probation
+                  Assistant shall submit a basic work schedule to their immediate supervisor
+                  for approval.
+
+                  Adjustments to the basic work schedule may be made upon approval from
+                  the immediate supervisor. When possible, subject to the operating need of
+                  the Agency, a flexible work schedule may also be used to accommodate a
+                  Juvenile Parole and Probation Officer or Juvenile Parole and Probation
+                  Assistants personal circumstances.
+
+         b.       The Parties mutually agree that the Parole Assistant’s primary
+                  responsibility and schedule are in response to agency needs and day-to-
+                  day coverage in each OYA office. It is further recognized that flexibility in
+                  work schedule shall apply when Parole Assistants are fulfilling case
+                  management responsibilities.
+
+         c.       Where an employee’s flexible schedule exceeds ten (10) hours in a work
+                  day and the employee is on non-overnight travel status, the employee
+                  shall be eligible for breakfast and/or dinner per diem as appropriate to the
+                  hours worked.
+
+         d.       When the employee is required by the agency to travel, the actual travel
+                  time shall be considered time worked. Where required travel is outside an
+                  employee’s regular work hours (excluding normal commuting time), the
+
+2025 - 2027 Oregon Youth Authority               24                     Collective Bargaining Agreement
+                  employer may temporarily modify the employee’s weekly schedule without
+                  daily overtime or schedule change penalty. Where such schedule
+                  modification still results in the need for additional work hours, the
+                  employee shall be paid the appropriate rate of pay for all time worked over
+                  forty (40) hours in that workweek.
+
+         e.       All JPPOs and JPPAs with caseloads shall be eligible for remote work
+                  pursuant to Article 60.
+
+Section 2. Rest and Meal Periods.
+Employees shall be entitled to a meal period of not less than one-half (1/2) hour nor
+more than one (1) hour to be taken as convenient to their duties. Employees shall be
+entitled to one (1) rest period each one-half (1/2) day of work for a period of fifteen (15)
+minutes to be taken as convenient to their duties.
+
+ When a supervisor, or their designee, determines an employee is unable to take a
+ meal period due to unforeseen unavoidable circumstances, the employee shall be paid
+ for time spent working.
+        a.   In the event that such unforeseen unavoidable circumstances arise from a
+              situation where an employee is required to transport a client through the
+              entire lunch period as defined by BOLI, the employee shall be paid the
+              equivalent of the lunch per diem rate as referenced in Article 24.
+
+Section 3.
+To the extent that it is within the Agency's control, and pursuant to Department of
+Administrative Services and Agency policies, the Agency agrees to provide Juvenile
+Parole Officers a vehicle of at least four (4) passenger capacity. Each such vehicle
+shall be equipped with gasoline credit card(s), tire chains, DAS-approved and required
+emergency equipment, a flashlight and first aid kit.
+
+The Agency agrees to make available to each Juvenile Parole Officer a photo
+identification card, business cards, Agency-approved devices for restraint or control,
+and an appropriate means of communication. Discussions regarding other equipment
+shall be a subject of Labor Management Committee meetings.
+
+Section 4.
+The Agency shall give notice of increase in duties as is reasonably possible, and
+Juvenile Parole and Probation Officers can give input to the Agency concerning
+assignment of additional duties.
+
+The Parties recognize additional duties assigned to the employee may diminish the
+employee's effectiveness and efficiency.
+
+The results and impacts on working conditions that arise out of any workload study shall
+be discussed.
+
+Section 5.
+The case management responsibility of youth committed by the courts to the Oregon
+Youth Authority for placement at Youth Correctional Facilities shall be performed by
+
+2025 - 2027 Oregon Youth Authority              25                    Collective Bargaining Agreement
+employees with the working title of Juvenile Parole and Probation Officers, other OYA
+employees, and Juvenile Department employees.
+
+In the event case management responsibilities described above are transferred to
+another public employer, Parties agree to bargain the impact of such transfer prior to its
+implementation. The Agency will notify the Union ninety (90) days prior to any work
+transfer.
+
+The Union recognizes that the workload arising from the commitment of youth to the
+training schools is beyond the control of the Agency. The Agency recognizes that the
+number and geographic distribution of clients within a service area has a substantial
+effect upon the efficient delivery of parole services. Caseloads and service areas shall
+be assigned as equitably as possible, and readjustment of caseloads and service area
+may be accomplished from time to time to promote equity. No overtime will be
+approved without prior authorization of the Parole Supervisor.
+
+Section 6. Transfer.
+Two (2) kinds of transfers may occur:
+      a.    Transfer (reassignment of a position within the bargaining unit).
+
+        b.        Vacant position within the unit and employee desiring transfer.
+
+                  When a position in the bargaining unit is abolished, Article 44, Layoff
+                  Procedure, will apply.
+
+                  On reassignment of the position within the bargaining unit, selection of the
+                  position will be based on Agency needs and workload. If no employee
+                  volunteers to accept the transfer, the employee with the least seniority in
+                  the affected geographic area, as defined in Article 44, Section 11, shall be
+                  selected for the transfer. The employee incumbent in the position to be
+                  reassigned shall have the option of being transferred with the reassigned
+                  position or to a position being vacated by a volunteer.
+
+                  If there is a vacant position to be filled in the bargaining unit, transfers shall
+                  be considered first. The Agency will post transfer opportunities for a
+                  minimum of seven (7) calendar days. Parties will discuss position
+                  vacancies in LMC meetings. If one (1) or more bargaining unit employees
+                  request transfer to the position, first consideration will be given to the
+                  employee who has the most seniority in the classification. An individual
+                  not receiving the transfer shall receive a written explanation stating the
+                  specific reason for the denial. Such denial is not grievable.
+
+                  Two (2) employees within the same classification may request to trade
+                  work locations. Requests must be submitted to management in writing
+                  and will be given full consideration. Denials for such requests will be
+                  provided in writing.
+
+
+
+
+2025 - 2027 Oregon Youth Authority                 26                      Collective Bargaining Agreement
+Section 7.
+Parole assistants will assist the Juvenile Parole and Probation Officers with the
+supervision of youth committed by the courts to the Oregon Youth Authority. Parole
+Assistants shall not have authority or responsibility for case management for more than
+five (5) cases at any one (1) time. In the absence of the Juvenile Parole and Probation
+Officer and at the direction of the Parole Supervisor, the Parole Assistant may be
+required to assume case management duties for a greater number of cases on a
+temporary basis and will be paid work-out-of-class pay pursuant to Article 22.
+                                                                             REV: 2017,2019,2025
+
+
+### ARTICLE 27 - UNIFORMS AND PROTECTIVE CLOTHING
+
+Damage to Personal Clothing.
+Employees who suffer damage to personal clothing or effects in performance of their
+official duties, not as a result of personal negligence, shall file a claim for reasonable
+reimbursement pursuant to Agency policy.
+
+### ARTICLE 28 - EMPLOYEE FACILITIES
+
+Management shall maintain current physical plant facilities provided for employees
+(including parking and existing motorcycle and bicycle parking with adequate
+accommodations for seasonal usage) at the Institutions, and elsewhere where authority
+exists. Any charge for such parking facilities shall be determined by the Department of
+Administrative Services of the State, if in accordance with the law.
+
+Management further agrees that where necessary secure facilities for protecting
+employee's personal property are not now furnished, the Agency will, to the extent
+budget permits, undertake to make such facilities available.
+
+
+### ARTICLE 29 - INCLEMENT WEATHER/HAZARDOUS CONDITIONS LEAVE
+
+Section 1.
+a.    The Employer/Agency designated official(s) may close or curtail offices, facilities,
+      or operations because of inclement/environmental, weather, weather related or
+      hazardous conditions including active shooter or threat of violence. The
+      Employer/Agency will announce such closure or curtailment to employees. The
+      Employer/Agency shall factor in the safety of State employees and the public to
+      determine a closure. An employee shall have the right to leave work if they deem
+      it is necessary for safety. Subject to the operating needs of the agency and
+      notification to their immediate supervisor, an employee may leave work early due
+      to inclement weather or hazardous conditions and code their time as accrued sick
+      leave, vacation, compensatory time off, personal leave or approved leave without
+      pay. The Employer/Agency will strive to make its decision to close and/or
+      postpone day shift no later than 5 a.m.; however, the Parties recognize that
+      changing conditions may require further adjustment. The Employer/Agency may
+      provide this information through methods such as mass notification systems, pre-
+      designated internet web sites, phone trees, radio stations and/or television
+      media. Notifications do not apply to employees who are required to report to
+      work. Notifications do not apply to employees who are essential employees.
+2025 - 2027 Oregon Youth Authority              27                 Collective Bargaining Agreement
+b.      For purposes of this Article essential staff are those staff who cannot perform
+        their core job duties or essential Agency functions from a remote work location.
+        The Agency shall notify employees of these designations and post the notices on
+        Agency bulletin boards by November 1st of each year. Notifications do not apply
+        to employees who are required to report to work. Essential staff/positions shall
+        be designated by the Agency by November 1 of each year. Such designations
+        may be modified with two weeks advance notice to the affected employee(s).
+        Essential staff who are required to report to work by the employer/Agency shall
+        be on approved leave without pay status if absent, unless the employee elects to
+        use accrued leave. If an employee shows up within two (2) hours of their
+        scheduled shift, subject to operating requirements and supervisory approval, they
+        may make up the work time missed during the same workweek, provided work is
+        available.
+
+c.      Where the Employer/Agency has announced a delayed opening pursuant to
+        Section 1a, employees are responsible for continuing to monitor the reporting
+        sites for updated information related to the delay or potential closure. Employees
+        may be allowed up to two hours commuting time as reasonably needed to report
+        for work after a delayed opening has been announced. Where an employee
+        arrives late due to this extended commute, they may flex their time with
+        manager’s approval, or cover the time with accrued sick leave, vacation,
+        compensatory time off, personal leave or approved leave without pay.
+
+d.       When a closure has been determined before the start of an employee’s work day
+         the employee may:
+         1.    Work from home, with manager’s approval or
+
+         2.       Work from an alternate work location that is no more than fifty (50) miles
+                  from their regular work location or
+
+         3.       Use inclement weather/hazardous conditions leave if no alternative
+                  worksite is available as allowed for in Section 6 of this Article.
+
+Section 2. FLSA Non Exempt Employees Only.
+If no work is available or the employee is unable to work from home or alternate work
+location, the employee will:
+       a.     use accrued vacation hours, compensatory time off, personal leave time,
+              leave without pay; or
+
+         b.       Use inclement weather leave not to exceed forty (40) hours a biennium,
+                  or,
+
+         c.       The employee may, with Agency prior approval, temporarily adjust their
+                  work hours during the same workweek to make up for hours not worked.
+                  The Agency shall not suffer any overtime or penalty payments as a result
+                  of this schedule change. The employee may be approved to flex their
+                  time to engage in training through the electronic employee training
+                  platform or other Agency approved resources remotely. Such approval
+
+2025 - 2027 Oregon Youth Authority              28                    Collective Bargaining Agreement
+                  will not be unreasonably denied. Employees engaging in these options
+                  will waive their shift differential for such time; or,
+
+         d.       Complete supervisory approved remote training courses.
+
+Once the forty (40) hours of Inclement Weather/Hazardous Conditions Leave is used
+and there are more Agency closures or curtailments during the biennium, if unable to
+work remotely, the employee will use accrued vacation hours, personal leave or
+compensatory time off, leave without pay or, with prior Agency approval, temporarily
+adjust their work hours during the same workweek. The Agency shall not suffer any
+overtime or other penalty payments as a result of the change in schedule.
+
+Section 3. FLSA Exempt Employees.
+When the Employer/Agency notifies employees not to report to work pursuant to
+Section 1, prior to the beginning of the work shift. An FLSA-exempt employee may be
+required to use paid leave or leave without pay where the closure applies to that
+employee for one (1) or more full workweeks.
+
+Section 4.
+Employees will not be eligible for Inclement/Hazardous Conditions Leave when their
+regular days off occur on a day the Agency closes an office or facility, or when the
+employee is on prescheduled leave or already scheduled to work, or have the ability to
+work, from an alternate location. Only employees who are scheduled to report to work
+at the location which is closed or curtailed, the day of the closure or curtailment are
+eligible for any use of the inclement weather leave.
+
+Inclement Weather/Hazardous Conditions Leave shall not count as hours worked for the
+purpose of overtime calculations.
+
+Inclement Weather/Hazardous Conditions Leave not sued during the biennium will be
+lost and will not be rolled over into the next fiscal year. Inclement Weather/Hazardous
+Conditions Leave is not compensable if the employee separates from state service.
+
+Part-time employees will receive a prorated amount of inclement weather leave when
+applicable.
+
+Section 5.
+When in the judgment of the Employer/Agency, inclement/environmental weather or
+weather related or hazardous conditions, including active shooter or threat of violence
+require the closing of the work place following the beginning of an employee’s work
+shift, the employee shall be paid for the remainder of their work shift unless an alternate
+work location is available.
+
+Section 6. Alternate Work Sites.
+Employees may be assigned or authorized to report to work at an alternative work
+site(s) and be paid for the time worked.
+
+Employees who have been pre-approved to work remotely and are unable to complete
+their assigned duties due to a loss of electricity, loss of internet service, or comparable
+
+2025 - 2027 Oregon Youth Authority            29                    Collective Bargaining Agreement
+circumstance, due to inclement or hazardous conditions will pursue alternative methods
+for completing their assigned duties. However, employees unable to work through an
+alternative method will be eligible for inclement/hazardous conditions leave not to
+exceed the forty (40) hours a biennium.
+
+Section 7. Late or Unable to Report.
+Where the Agency remains open and an employee notifies their supervisor that they are
+unable to report to work, or will be late, due to inclement weather, weather related or
+hazardous conditions including active shooter or threat of violence, the employee shall
+be allowed to work from home with the approval of their supervisor, use accrued
+vacation leave, compensatory time off, personal leave or approved leave without pay, or
+accrued sick leave. Where the Employer and the employee mutually agree, the
+employee may be permitted to flex their time.
+
+Section 8. Employees on Pre-scheduled Leave.
+If an employee is on pre-scheduled leave the day of the closure, the employee will be
+compensated according to the approved leave.
+
+Section 9. Make-up Time Provisions.
+Subject to Agency operating requirements and supervisory approval, employees who do
+not work pursuant to Sections 2 and 5 of this Article may make-up part or all of their
+work time missed during the same workweek. In no instance will time worked during
+the make-up period result in overtime being charged to the Agency.                The
+Employer/Agency shall not be liable for any penalty or overtime payments when
+employees are authorized to make up work.
+
+Section 10.
+If the Employer/Agency anticipates the inclement condition will last longer than fourteen
+(14) calendar days, the Parties will meet and discuss impacts of the inclement weather
+and/or hazardous conditions.
+
+Section 11. Non-Essential Workers Required During Inclement Weather /
+Hazardous Condition.
+When a situation arises that requires management to direct a non-essential worker to
+report to work, in-person, during a Inclement Weather/Hazardous Conditions event, the
+employee shall receive the Essential Worker Inclement Weather/Hazardous Conditions
+Pay differential under Article 64.
+                                                                      REV: 2017, 2021,2023,2025
+
+
+### ARTICLE 30 - SAFETY AND HEALTH
+
+Section 1.
+The Agency agrees to abide by and maintain in its facilities and work operations
+standards of safety and health in accordance with the Oregon Safe Employment Act
+(ORS 654.001 to 654.991).
+
+
+
+
+2025 - 2027 Oregon Youth Authority              30                Collective Bargaining Agreement
+Section 2.
+Proper safety devices and clothing shall be provided by the Agency for all employees
+engaged in work where such devices are necessary. Such equipment, where provided,
+must be used.
+
+Section 3.
+a.    If an employee claims that an assigned job or equipment is unsafe or might
+      unduly endanger the employee's health and, for that reason refuses to do the job,
+      the employee shall immediately give specific reason(s) to the supervisor. The
+      supervisor shall request an immediate determination by the Agency Safety
+      Representative or, if none is available, a safety representative of the Oregon
+      Occupational Safety and Health Division (OR-OSHA), as to whether the job or
+      equipment is safe or unsafe. At the discretion of the Union, a Union staff
+      member and/or authorized Union Representative shall accompany the agency
+      OR-OSHA representative conducting the safety inspection.
+
+b.      Pending determination provided for in this Section, the employee shall be given
+        suitable work elsewhere, if such work is available. If no suitable work is available,
+        the employee shall be sent home.
+
+c.      Time lost by the employee as a result of any refusal to perform work on the
+        grounds that it is unsafe or might unduly endanger the employee's health, shall
+        not be paid for by the Agency unless the employee's claim is upheld.
+
+Section 4.
+New office technology has created jobs which may bring safety and health concerns
+with them (i.e., Video Display Terminals).
+Employees may report specific problems, in writing, regarding safety and health in
+working with this new equipment to their supervisors. The Agency will investigate such
+complaints, and where this investigation reveals that legitimate problems exist, the
+Agency will take steps to remedy these problems. Upon written request to the Agency
+Head or designee, where concern remains, the Agency is willing to meet with a Union
+Representative for further clarification and discussion of the specific safety or health
+concern.
+
+Section 5.
+It is agreed that if, in the conduct of official duties, an employee is exposed to serious
+communicable diseases which would require immunization or testing, as determined by
+the Public Health Officer in charge, the employee shall be provided immunization
+against or testing for such communicable disease, without cost to the employee, where
+immunization will prevent such disease from occurring. The employee shall be granted
+required time off with pay for the immunization or testing, at a medical facility of the
+Agency's choosing.
+
+Section 6.
+If in the conduct of official duties the employee has potential for contact with toxic and
+harmful substances, the employee will be provided regular medical monitoring as
+required by Administrative Rule under the Oregon Safe Employment Act at no cost to
+the employee, and without deduction from accrued sick leave for leave time taken.
+
+2025 - 2027 Oregon Youth Authority             31                    Collective Bargaining Agreement
+Section 7. Respectful Workplace
+a.    The Employer is committed to taking appropriate measures to create and
+      maintain a workplace that is respectful and free from inappropriate workplace
+      behavior for all Agency employees pursuant to the statewide policy titled
+      ‘Maintaining a Professional Workplace Policy’ (50.010.03).
+
+b.       If an Agency employee believes an Agency employee, supervisor or manager
+         has violated the statewide policy titled ‘Maintaining a Professional Workplace’
+         (50.010.03), the employee shall submit a complaint pursuant to the process
+         outlined in the policy. The Agency complaint form will be accessible to all
+         employees both online and through the Agency’s Human Resources Office.
+
+c.       The employee may have a Union representative present during regular work
+         hours when reporting inappropriate workplace behavior and through the process
+         outlined in this section.
+
+d.       The Agency shall investigate the complaint and shall provide a written response
+         to the employee filing the complaint within thirty (30) calendar days of the
+         complaint being filed. When circumstances warrant it, the Agency and the Union
+         may mutually agree on additional time needed to complete the investigation. The
+         Agency will notify the Union and employee filing the complaint of the specific
+         reason(s) for the additional time needed. The response will include whether the
+         complaint was substantiated and any relevant non confidential information
+         pertaining to the remedial steps taken, if any. Repeated behavior or conduct
+         shall be reported to the Agency Human Resource Office.
+
+e.       For purposes of this Section, the grievance procedure in Subsection f replaces
+         the grievance procedure outlined in the local agreement.
+
+f.
+         1.       If the employee who filed the complaint believes that the Agency did not
+                  respond to the complaint or the complaint process was not followed, the
+                  Union, on behalf of the employee, may file a grievance directly with the
+                  Agency Head. The Agency Head or designee shall respond to the
+                  grievance within thirty (30) calendar days from the date of receipt of the
+                  grievance.
+
+         2.       If the employee continues to believe the Agency did not respond to the
+                  complaint or did not follow the complaint process, the Union, on behalf of
+                  the employee may, within fifteen (15) calendar days of the Agency Head
+                  or designee’s response, file the grievance with the Department of
+                  Administrative Services Labor Relations Unit. The grievance will be
+                  investigated and a response provided within thirty (30) calendar days from
+                  the date the grievance was appealed to the Department of Administrative
+                  Services.
+
+         3.       If the Department of Administrative Services Labor Relations Unit’s
+                  response did not respond to the complaint or did not address whether the
+
+
+2025 - 2027 Oregon Youth Authority              32                   Collective Bargaining Agreement
+                  complaint process was followed, the Union may file for arbitration in
+                  accordance with the Grievance Procedure article.
+
+         4.       The arbitrator shall not have authority to impose any employment actions,
+                  including but not limited to discipline on any employee, supervisor or
+                  manager, transfer of any employee, supervisor or manager, reassign an
+                  employee, supervisor or manager to another work location or duties or
+                  otherwise affect staffing. In addition, the arbitrator shall not have authority
+                  to impose or establish any monetary penalties or costs, award front or
+                  back pay, issue any monetary damages for pain and suffering or stress
+                  related claims.
+
+g.       No employee shall be subject to retaliation for reporting or filing a complaint,
+         providing a statement or otherwise participating in the administration of the
+         statewide policy or grievance process outlined in this section. Reports of
+         retaliation shall be reported to the Agency Human Resources Office.
+                                                                                         REV: 2017,2023
+
+
+### ARTICLE 31 - HOLIDAYS
+
+Section 1.
+The following holidays will be recognized and paid for at the regular straight time rate of
+pay:
+       a.    New Year's Day on January 1;
+       b.    Martin Luther King, Jr.'s Birthday on the third Monday in January;
+       c.    President's Birthday on the third Monday in February;
+       d.    Memorial Day on the last Monday in May;
+       e.    Juneteenth on June 19;
+       f.    Independence Day on July 4;
+       g.    Labor Day on the first Monday in September;
+       h.    Veterans' Day on November 11;
+       i.    Thanksgiving Day on the fourth Thursday in November;
+       j.    Native American Heritage Day on the day after Thanksgiving;
+       k.    Christmas Day on December 25;
+       l.     Every day appointed by the Governor of the State of Oregon as a holiday
+              and every day appointed by the President of the United States as a day of
+              mourning, rejoicing, or other special observance only when the Governor
+              also appoints that day as a holiday.
+
+Section 2.
+For all employees who work in positions that are staffed five (5) days a week, Monday
+through Friday, when a holiday falls on Saturday, the previous Friday shall be
+recognized as the holiday. When a holiday falls on Sunday, the following Monday shall
+be recognized as the holiday.
+
+For all employees who work in positions that are staffed seven (7) days a week, the
+recognized holiday will be the actual day specified in Section 1 above.
+
+
+
+2025 - 2027 Oregon Youth Authority                33                     Collective Bargaining Agreement
+Section 3.
+Employees who are required to work on days recognized as holidays which fall within
+their regular work schedules shall be entitled, in addition to their regular salary, to
+compensatory time off for the time worked or to be paid in cash for time worked at the
+discretion of the Agency. Compensatory time off or cash paid for all time worked shall
+be at the rate of time and one-half (1-1/2). The additional compensation which an
+employee shall be paid for working on a holiday shall not exceed the rate of time and
+one-half (1-1/2) of the employee's straight time pay. Any compensatory time earned
+may be converted to cash payment by the Agency. Holiday benefits shall be prorated
+for part-time employees.
+
+Section 4.
+Where an employee has been approved to work an alternate work schedule such as a
+four (4) day, ten (10)-hour workweek, management shall either revert the schedule to a
+five (5) day, eight (8)-hour workweek or allow the employee to utilize other available
+paid leave for the balance of the holiday off.
+
+Section 5.
+Holidays which occur during vacation or sick leave shall not be charged against such
+leave.
+                                                                               REV: 2015, 202,20251
+
+
+### ARTICLE 32 - PERSONAL LEAVE DAYS
+
+Section 1.
+All employees after completion of six (6) months of service shall be entitled to receive
+personal leave days in the following manner:
+      a.     All full-time employees shall be entitled to sixteen (16) hours of personal
+             leave with pay each fiscal year;
+
+         b.       Part-time, seasonal, and job-share employees shall be granted such leave
+                  in a prorated amount of sixteen (16) hours based on the same percentage
+                  or fraction of month they are hired to work, or as subsequently formally
+                  modified, provided it is anticipated that they will work 1,040 hours during
+                  the fiscal year.
+
+Section 2.
+Should any employee fail to work 1,040 hours for the fiscal year, the value of personal
+leave time used may be recovered from the employee.
+
+Section 3.
+Personal leave shall not be cumulative from year to year nor is any unused leave
+compensable in any other manner.
+
+Section 4.
+Such leave may be used by an employee for any purpose they desire and may be taken
+at times mutually agreeable to the Agency and the employee.
+
+
+
+2025 - 2027 Oregon Youth Authority              34                    Collective Bargaining Agreement
+### ARTICLE 33 - VACATION LEAVE
+
+Section 1.
+The Parties agree that an employee's vacation accrual is an earned benefit to which the
+employee is entitled. Therefore, at no time shall accrued vacation time be utilized
+without specific authorization of the employee or contract.
+
+Section 2.
+Full-time employees shall accrue vacation leave in accordance with the schedule below.
+Employees who are new to state service may use accrued vacation leave during the
+first six months of employment; however, if an employee separates from state service
+prior to the completion of six months, any accumulated vacation time not utilized will be
+lost and is not compensable upon separation.
+
+         Initial appointment to state service through 5th year 15 work days for each 12
+                                                    months of service (10 hours per month)
+
+         After 5th year through 10th year              18 work days for each 12 months of
+                                                       service (12 hours per month)
+
+         After 10th year through 15th year             21 workdays for each 12 months of
+                                                       service (14 hours per month)
+
+         After 15th year through 20th year             24 workdays for each 12 months of
+                                                       service (16 hours per month)
+
+         After 20th year through 25th year             27 workdays for each 12 months of
+                                                       service (18 hours per month)
+
+         After the 25th year                           30 workdays for each 12
+                                                       months of service (20 hours per month)
+
+Section 3.
+Compensation for use of accrued vacation shall be at the employee's prevailing straight
+time rate of pay.
+
+Section 4.
+In the event of an employee's death, all monies due the employee for accumulated
+vacation and salary shall be paid as provided by law.
+
+Section 5.
+Vacation credits shall continue to be earned while an employee is using paid leave.
+
+Section 6.
+Service with a jury shall be considered time worked.
+
+
+
+
+2025 - 2027 Oregon Youth Authority                35                    Collective Bargaining Agreement
+Section 7.
+If an employee has a break in service and that break does not exceed two (2) years, the
+employee shall be given credit for the time worked prior to the break in service in
+determining accrual rate.
+
+Section 8.
+Time spent in actual State service or on military leave, educational leave, or
+job-incurred disability, leave without pay shall be considered as time in the State service
+in determining length of service for vacation accrual rate.
+
+Section 9.
+Vacation hours may accumulate to a maximum of three hundred fifty (350) hours;
+however, in the event of separation or layoff any unused vacation up to three hundred
+(300) hours only will be paid to the employee.
+
+When an employee notifies the Agency they plan to separate from Agency service
+within the next two (2) calendar months, and the employee has at the time of such
+notice more than three hundred (300) hours of accrued vacation hours, the Agency and
+employee will work together to find a mutually agreeable time for the employee to take
+time off to reduce accrued vacation hours down to the three hundred (300) hours.
+
+Section 10.
+Employees who work less than full-time per month shall accrue vacation leave on a
+prorated basis.
+
+Section 11.
+Upon reasonable notice to and approval of the Agency, employees shall be permitted to
+use any portion of, or all of the employees' accrued vacation credits in any segment,
+except:
+      a.     That employees shall have their vacation time paid in full when the
+             employees are laid off, terminated, or take educational leave without pay
+             in excess of thirty (30) days;
+
+         b.       As provided for set-off of damages or misappropriation of State property or
+                  equipment on termination;
+
+         c.      If two (2) or more employees request the same period of time and the
+                 matter cannot be resolved by agreement of the Parties concerned, the
+                 employee having the greatest length of State service shall be granted the
+                 time; however, seniority may be exercised only once in any calendar year.
+
+Where vacation leave is requested and denied resulting in loss of leave, the Agency
+shall authorize cash payment of up to sixty (60) hours of vacation leave accrued, upon
+determining that granting of vacation leave is not appropriate and the employee’s
+vacation leave accrual will exceed three hundred and fifty (350) hours within the next
+two (2) consecutive month. The designated supervisor must document the denial of the
+vacation leave request. Cash payout for accrued vacation leave must not be granted
+more than once in a fiscal year.
+
+
+2025 - 2027 Oregon Youth Authority              36                    Collective Bargaining Agreement
+Section 12.
+Employees shall be able to request forecasted accrued vacation leave. Such leave may
+only be taken if the accrued vacation leave is actually accrued by the date the leave is
+to be used.
+
+Section 13.
+Employees that transfer from one AFSCME bargaining unit to another AFSCME
+bargaining unit shall be allowed to transfer up to eighty (80) hours of accrued vacation
+credit. The balance of vacation credits shall be paid for at the time of transfer.
+
+Section 14.
+Employee vacations will start on the first day following the employee's regularly
+scheduled two (2) days off when approved by the Agency.
+
+Section 15. Reimbursement for Cancelled Vacation.
+Vacation that has been scheduled and approved may not be cancelled by the Agency
+except in the event of an emergency. When unrecoverable vacation costs are incurred
+by the employee, the Agency shall pay the unrecoverable deposits; receipts will be
+required.
+
+Section 16. Vacation Cashout.
+In addition to Article 33, Section 11 of the Agreement, employees may cash out up to
+forty (40) hours of accrued vacation hours each State fiscal year under the following
+conditions:
+        a.    Employees must have regular status at the time of the request;
+
+         b.       Employees shall receive payment within thirty (30) days from the date of
+                  their cash out request made through the human resources information
+                  system.
+
+         c.       After cash out, employees must have in their leave balance at least sixty
+                  (60) hours of accrued vacation leave hours;
+
+         d.       Payment shall be the employee’s straight time rate of pay;
+
+         e.       Employees on unprotected leave without pay at the time the payment is
+                  requested are not eligible to cash out accrued vacation hours.
+                                                                      REV: 2017, 2019, 2021,2023
+
+### ARTICLE 34 - SICK LEAVE
+
+Section 1.
+Employees shall accrue eight (8) hours of sick leave for each full month worked.
+Employees working less than a full month but at least thirty-two (32) hours shall accrue
+sick leave on a pro rata basis.
+
+Section 2.
+Temporary employees who are subsequently appointed to permanent positions covered
+by this Agreement, in the same class in which they were employed as a temporary,
+
+2025 - 2027 Oregon Youth Authority              37                    Collective Bargaining Agreement
+without a break in service of fifteen (15) days or more, shall be credited with sick leave
+from their most recent temporary appointment date.
+
+Section 3.
+Employees who have been separated from the State service and return to a position,
+except as a temporary, within two (2) years shall have unused sick leave credits
+accrued during previous employment restored.
+
+Section 4.
+Actual time worked and all leave with pay, except for educational leave, shall be
+included in determining the pro rata accrual of sick leave credits each month provided
+that the employee works thirty-two (32) hours or more that month. Employees shall be
+eligible to utilize sick leave immediately upon accrual.
+
+Section 5.
+Employees who have earned sick leave credits shall be eligible for sick leave for any
+period of absence from employment which is due to the employee's illness, bodily injury,
+disability resulting from pregnancy, necessity for medical or dental care, exposure to
+contagious disease, Paid Leave Oregon, for the employee to donate blood that is made
+in connection with the voluntary program for the donation of blood approved or
+accredited by the American Association of Blood Banks or the American Red Cross,
+attendance upon members of the employee's immediate family (employee's parents,
+wife, husband, children, foster child, grandchild, brother, sister, grandmother,
+grandfather, son-in-law, daughter-in-law, or another member of the immediate
+household) where employee's presence is required because of illness or death, in the
+immediate family of the employee or the employee's spouse. The employee has the
+duty to make other arrangements, within a reasonable period of time, for the attendance
+upon children or other persons in the employee's care. Certification of an attending
+physician or practitioner may be required by the Agency to support the employee's claim
+for sick leave, if the employee is absent in excess of seven (7) days, or if the Agency
+has evidence that the employee is abusing sick leave privileges. The Agency may also
+require such certificate from an employee to determine whether the employee should be
+allowed to return to work where the Agency has reason to believe that the employee's
+return to work would be a health hazard to either the employee or to others. Any cost
+associated with the supplying of a certificate concerning a job-incurred injury or illness
+that is not covered by Workers' Compensation benefits shall be borne by the Agency.
+
+Section 6. Sick Leave Exhausted.
+If an employee's sick leave accrual should become exhausted, the employee may, at
+the employee's option, with management's approval, utilize any vacation, holiday,
+personal leave, or compensatory time they have accrued. An employee may use
+accrued vacation or compensatory time upon expiration of sick leave credits unless the
+employee is on a written notice involving attendance problems.
+
+Section 7. Job-incurred Injury or Illness (Workers’ Compensation).
+Accrued sick leave may be used for a job-incurred injury or illness at the employee’s
+option. The salary paid for a period of sick leave resulting from a condition incurred on
+the job and also covered by Workers' Compensation, shall be equal to the difference
+between the Workers' Compensation for lost time and the employee's regular salary
+
+2025 - 2027 Oregon Youth Authority           38                    Collective Bargaining Agreement
+rate. In such instances, prorated charges will be made against accrued sick leave.
+Should an employee who has exhausted earned sick leave elect to use vacation leave
+or compensatory time during a period in which Workers' Compensation is being
+received, the salary paid for such period shall be equal to the difference between the
+Workers' Compensation for lost time and the employee's regular salary rate. In such
+instances, prorated charges will be made against accrued vacation leave. If an
+employee’s sick leave accrual should become exhausted, the employee may utilize any
+vacation, personal leave, or compensatory time they have accrued. Such leave would
+be utilized on the same prorated basis as sick leave.
+
+After earned leave has been exhausted, or if the employee elects not to use leave, the
+Appointing Authority shall grant sick leave without pay for any job-incurred injury or
+illness for a period which shall terminate upon demand by the employee for
+reinstatement accompanied by a certificate issued by the duly licensed attending
+physician that the employee is physically and/or mentally able to perform the duties of
+the position. The Appointing Authority may require that the employee submit a
+certificate from the attending physician or practitioner in verification of disability from
+job-incurred injury/illness. Any cost associated with the supplying of a certificate
+concerning a job-incurred injury or illness that is not covered by Workers' Compensation
+benefits shall be borne by the Agency.
+
+Section 8. Non-job Incurred Injury or Illness.
+a.    After earned sick leave has been exhausted, the Appointing Authority shall grant
+      sick leave without pay for non-job incurred injury or illness to any employee upon
+      request for a period up to one (1) year provided such leave will not seriously
+      hinder the work of the Agency. Extensions of sick leave without pay for any non-
+      job-incurred injury or illness beyond one (1) year must be approved by the
+      Appointing Authority. An employee may choose to retain up to eight (8) hours of
+      earned sick leave prior to going on such leave without pay.
+
+b.       Non-Job-Incurred Medical Certification. The Appointing Authority may require
+         that the employee submit a certificate from the attending physical or practitioner
+         in verification of disability resulting from the non-job-incurred injury or illness. In
+         the event of a failure or refusal by an employee on a non-job-related sick leave
+         without pay to supply such a certificate, or if the certificate does not clearly show
+         sufficient disability to preclude that employee from the performance of duties,
+         such sick leave may be canceled by registered letter to the last known address.
+         Failure to return to work or supply a certificate within five (5) days of delivery or
+         attempted delivery shall be deemed a resignation.
+
+Section 9. Hardship Leave.
+The Agency will allow employees to make donations of accumulated vacation leave or
+compensatory time to a co-worker who has exhausted accumulated leave due to an
+extended serious illness or injury to the employee or their immediate family member or
+a member of the immediate household. The donated leave shall not exceed the hours
+necessary to cover for the qualifying absence. Hardship leave donations will be
+administered under the following stipulations and the terms of this agreement shall be
+strictly enforced with no exceptions.
+         a.    The recipient and donor must be regular employees of the Agency.
+
+2025 - 2027 Oregon Youth Authority              39                      Collective Bargaining Agreement
+         b.       The Agency shall not assume any tax liabilities that would otherwise
+                  accrue to the employee.
+
+         c.       Use of donated leave shall be consistent with the other Sections of this
+                  Article.
+
+         d.       Applications for hardship leave shall be submitted through Human
+                  Resource Information System (HRIS) and accompanied by the treating
+                  physician’s written statement certifying that the illness or injury will
+                  continue for at least fifteen (15) day Donated leave may be used
+                  intermittently.
+
+         e.       Accumulated leave includes, but is not limited to, sick, vacation, personal,
+                  and compensatory leave accruals.
+
+         f.       Donations shall be credited at the recipient's current regular hourly rate of
+                  pay.
+
+         g.       Employees otherwise eligible for or receiving workers compensation will
+                  not be considered eligible to receive donations under this agreement.
+
+         h.       To donate to a specific employee in a different Agency, the employee may
+                  follow the applicable process as outlined in the Human Resource
+                  Information System (HRIS).
+                                                                                        REV: 2015,2025
+### ARTICLE 35 - FAMILY LEAVE
+
+Employees determined to be eligible in accordance with provisions of federal and State
+leave laws shall have all the rights, and be subject to all of the requirements of those
+laws. Such laws include, but are not limited to, the Federal Family and Medical Leave
+Act of 1993 (FMLA), the Oregon Parental Leave Law (ORS 659.360), the Oregon
+Pregnancy Leave Law (ORS 659.389), and the Oregon Family Medical Leave Law
+(ORS 659.560).
+
+### ARTICLE 36 - LEAVES WITH PAY
+
+Employees shall be granted a leave of absence with pay in accordance with the
+following:
+       a.  Service with a jury. The employee may keep any money paid by the court
+           for serving on jury.
+
+         b.       Appearances before a court, legislative committee, or judicial body as a
+                  witness in response to a subpoena or other direction by proper authority
+                  for matters relating to the employee's officially assigned duties. The
+                  employee may keep any money paid in connection with the appearance.
+
+         c.       Taking part without pay in a search and rescue operation at the specific
+                  request of any law enforcement agency, the Administrator of the Board of
+
+2025 - 2027 Oregon Youth Authority                 40                   Collective Bargaining Agreement
+                  Aeronautics, the United States Forest Service, or any local organization of
+                  civil defense, for a period of no more than five (5) working days.
+
+         d.       Other authorized duties in connection with State business.
+
+         e.       An employee who has been employed in State service for six (6) months
+                  or more, and who is a member of the National Guard or any reserve
+                  components of the armed forces of the United States, is entitled to leave
+                  of absence from the employee's duties for a period not to exceed fifteen
+                  (15) calendar days or eleven (11) working days in any federal fiscal year.
+
+         f.       An employee may be granted educational leave in which the Agency may
+                  defray a part or all of the cost, either through allotment or payment of
+                  salary. Such leave shall be granted only when the benefits to be realized
+                  by the State will outweigh the cost and inconvenience to the State. Each
+                  request for leave must be approved by the Agency Head or designee, who
+                  normally shall not approve such leave for more than one (1) year.
+                  Vacation leave shall not accrue during an educational leave with pay, the
+                  duration of which exceeds fifteen (15) calendar days.
+
+         g.       Interview Leave shall be allowed pursuant to the following:
+                  1.     Employees, subject to providing reasonable notice and receiving
+                         prior management approval, shall be allowed agency paid time to
+                         interview for positions within their agency when such interview (s)
+                         occurs during their work hours. An Appointing Authority or
+                         designee shall determine the appropriate amount of time for the
+                         interview and whether the time taken for interviews is excessive.
+                         Such determination is not subject to the grievance procedure.
+
+                  2.        Employees, subject to providing reasonable notice and receiving
+                            prior management approval, shall be allowed up to two (2)hours of
+                            agency paid time to interview for positions with another state
+                            agency when such interviews(s) occurs during their work hours. An
+                            Appointing Authority or designee shall determine whether the
+                            amount of time requested for the interview is appropriate and
+                            whether the time taken for interview is excessive.          Such
+                            determination is not subject to the grievance procedure.
+
+                            Interview leave time approved and taken to interview with another
+                            state agency that exceeds two (2) hours of agency paid time must
+                            be recorded as accrued leave, leave without pay, or managed
+                            through approved flex time within the same workweek. Use of
+                            accrued leave for this purpose shall not result in overtime.
+
+                  3.        All interview leave time approved under Guidelines 1 and 2 must be
+                            recorded as IT on the employee’s timesheet/time reporting period.
+
+                  4.        Interview leave used shall not count as time worked for purposes of
+                            overtime.
+
+2025 - 2027 Oregon Youth Authority                 41                    Collective Bargaining Agreement
+                  5.        An agency shall not incur any employee reimbursement costs.
+
+    h. Bereavement Leave.
+       a.    Notwithstanding the hardship or sick leave eligibility criteria of the
+             Agreement employees shall be eligible for a maximum of twenty-four (24)
+             hours of paid bereavement leave per event of an immediate family
+             member which shall be prorated for part-time employees. In the event of
+             the death of a coworker, employees may be granted up to eight (8) hours
+             of bereavement leave per biennium to grieve, or attend the funeral or
+             memorial service provided that the absence does not unduly disrupt
+             departmental operations. A coworker is defined as a fellow State
+             employee, or recent retiree, of the same Agency. Subject to management
+             approval, an employee may use bereavement leave for a coworker from
+             another Agency. The Agency may request documentation.
+
+         b.       For employees that qualify for OFLA bereavement leave, paid
+                  bereavement leave under this Agreement shall run concurrently with
+                  OFLA bereavement leave.
+
+
+         c.       After OFLA eligible leave for bereavement is exhausted, if additional leave
+                  is needed, an employee may, with prior authorization, use any accrued
+                  leave or leave without pay at the option of the employee for a period of
+                  absence from employment to discharge the customary obligations arising
+                  from a death in the immediate family or the employee’s spouse.
+
+         d.       Regular and trial service employees may be eligible to receive up to forty
+                  (40) hours of donated leave, to be used consecutively. The employee
+                  must exhaust all available accrued leave to qualify to receive hardship
+                  leave.
+
+         e.       For purposes of this Article, “immediate family” shall include:
+                  •     the employee’s or the employee’s spouse’s parent (includes one
+                        who stood in loco parentis (in place of a parent)) when the
+                        employee was a child);
+                  •     spouse;
+                  •     child, and child’s spouse (includes a child for whom the employee
+                        stood in loco parentis and includes step child from a previous
+                        marriage);
+                  •     sibling;
+                  •     grandparent;
+                  •     grandchild;
+                  •     aunt or uncle;
+                  •     niece or nephew;
+                  •     or the equivalent of each of the above for domestic partners, or
+                        another member of the immediate household.
+
+                  Note: Immediate family shall include the current in-laws and step family
+                  members who qualify per the above list.
+2025 - 2027 Oregon Youth Authority                42                  Collective Bargaining Agreement
+         i.       Union Leave. When Union officials (officers and stewards) are designated
+                  in writing by the Executive Director of Oregon AFSCME Council 75
+                  Biennial or AFSCME International Conventions, the following provisions
+                  apply.
+                  1.     The Executive Director of Oregon AFSCME shall notify affected
+                         agencies in writing of the name of the employee(s) at least thirty
+                         (30) days in advance of the date of the AFSCME Convention. For
+                         agencies of 100 or fewer bargaining unit members, no more than
+                         one bargaining unit member per agency may be designated to
+                         attend AFSCME conventions. For agencies of greater than 100
+                         bargaining unit members, no more than two bargaining unit
+                         members may be designated to attend AFSCME conventions under
+                         this provision.
+
+                  2.        Subject to agency head or designee approval based on the
+                            operating needs of the employee’s work unit, including staff
+                            availability, the employee will be authorized release time with pay.
+
+                  3.        The paid release time is limited to attendance at the conference
+                            and travel time to the conference if such time occurs during the
+                            employee’s regularly scheduled working hours up to forty (40)
+                            hours per calendar year.
+
+                  4.        The release time shall be coded as Union business leave or other
+                            identified payroll code as determined by the State.
+
+                  5.        The release time shall not be included in the calculation of overtime
+                            nor considered as work related for purposes of workers’
+                            compensation.
+
+                  6.        The employee will continue to accrue leaves and appropriate
+                            benefits under the applicable collective bargaining agreement
+                            except as limited herein.
+
+                  7.        The Union shall, within thirty (30) days of payment to the employee,
+                            reimburse the State’s affected agency for all Employer related costs
+                            associated with the release time, regular base wage and benefits,
+                            for attendance at the applicable conference.
+
+                  8.        The union shall indemnify and the Union and employee shall hold
+                            the State harmless against any and all claims, damages, suits, or
+                            other forms of liability which may arise out of any action taken or
+                            not taken by the State for the purpose of complying with these
+                            provisions.
+
+         i.       Natural Disaster Leave
+                  1.    An employee who, due to a natural disaster, has:
+                        a)     lost their home (primary residence);,
+
+2025 - 2027 Oregon Youth Authority                  43                    Collective Bargaining Agreement
+                            b)       lost use of their primary residence (deemed uninhabitable);
+                                     or
+                            c)       lost access to their primary residence, shall be eligible for a
+                                     maximum of eighty (80) hours of paid administrative leave,
+                                     prorated for part-time employees. This leave will be
+                                     available for intermittent use.
+
+                  2.        Employees who have used the eighty (80) hours of paid
+                            administrative leave identified in #1 may request donated leave.
+                            Donated leave received will not exceed the amount needed to
+                            cover the absence. Donators may donate their accrued vacation or
+                            compensatory leave.
+                                                                                 REV: 2015,2019, 2021,2025
+
+
+### ARTICLE 37 - LEAVE OF ABSENCE WITHOUT PAY
+
+Section 1.
+Applying for leave of absence without pay will be in writing and submitted to the
+immediate supervisor.
+
+Section 2.
+In instances where the work of an Agency shall not be genuinely hindered by the
+temporary absence of an employee, the employee shall be granted a leave of absence
+without pay or educational leave without pay.
+
+Section 3.
+Time spent on leave without pay in excess of thirty (30) consecutive days shall not be
+considered as service in determining the employee's eligibility date for a salary increase
+unless such time has been spent on leave resulting from job-incurred disability.
+
+Section 4. Military Training Leave.
+An employee who has served with the State of Oregon or its counties, municipalities or
+other political subdivisions for six (6) months or more immediately preceding a request
+for paid military training leave, and who is a member of the National Guard or any
+reserve components of the armed forces of the United States is entitled to fifteen (15)
+days or one hundred and twenty (120) hours of paid military leave per federal fiscal
+year, unless a greater number of days is provided by law. In no event may an
+employee receive more than the number of days provided by law.
+
+Military leave shall be granted in accordance with applicable Law and state policy. In
+addition, employees shall be allowed to utilize paid military leave for travel to and from
+their place of duty and for the time spent on militarily obligated status or military duty
+regardless of the length of their military status or duty.
+
+Subject to supervisory approval, employees may be allowed to voluntarily adjust their
+shifts to accommodate military duty.
+                                                                                                   REV:2019
+
+
+
+
+2025 - 2027 Oregon Youth Authority                    44                     Collective Bargaining Agreement
+### ARTICLE 38 – PRE-RETIREMENT PLANNING LEAVE
+
+Employees shall be granted up to twenty-eight (28) hours leave with pay for retirement
+planning. This leave shall be granted upon hire for use throughout their employment
+with the state. Employees shall request the use of leave provided in this Article at least
+five (5) days prior to the intended date of use. Approval for pre-retirement planning
+leave shall be granted unless the Agency determines that its use would affect the
+operational needs of the employee’s work unit. Requests for leave with shorter notice
+are subject to management’s discretion.
+
+Pre-retirement leave may be used to investigate and assemble the employee's
+retirement program, including PERS, Social Security, Oregon Growth Savings Plan,
+Insurance and other retirement income.
+                                                                                   REV: 2021,2025
+
+
+### ARTICLE 39 - ELECTION DAYS
+
+On recognized federal and State Election Days, the work will be arranged to allow the
+employees the opportunity to vote.
+
+### ARTICLE 40 - PROMOTIONS/ADVANCEMENT
+
+Section 1.
+The Agency desires to give all the bargaining unit employees an opportunity to fill
+bargaining units vacancies. To that end, the Agency intends to insure, subject to the
+requirements of Affirmative Action and Equal Employment Opportunity, that all
+bargaining units employees may apply and be considered for all vacancies in the
+bargaining units covered by the terms of this Agreement and for which, in the judgment
+of the Agency, the employee is qualified. The Agency will determine the method of
+selection and determine the individuals to fill a vacancy.
+
+Section 2.
+The employee is responsible for preparation for advancement and qualification for
+promotion within the Agency.
+
+Section 3.
+Employees will be notified of all the bargaining units vacancies covered by the terms of
+this Agreement, which the Agency intends to fill by posting a list of such vacancies on
+designated bulletin boards as agreed to by the Agency and the Union. This posting will
+be for a minimum of five (5) days in order to give employees an opportunity to apply for
+the vacant positions.
+
+### ARTICLE 41- TRIAL SERVICE
+
+Section 1.
+Each employee appointed to a position in the bargaining unit by initial appointment to
+the Agency or promotion shall, with each appointment, serve a trial service period. Trial
+service may be extended only in instances where a trial service employee has been on
+cumulative leave without pay for fifteen (15) days or more and then only by the number
+
+2025 - 2027 Oregon Youth Authority                45               Collective Bargaining Agreement
+of days the employee was on such leave, except as modified under Section 2 of this
+Article.
+
+Section 2. Trial Service Time.
+The trial service period is recognized as an extension of the selection process and is the
+prescribed time immediately following appointment.
+
+Trial service shall not exceed twelve (12) full calendar months for initial appointment to
+or promotion within the Oregon Youth Authority. Where a Parole Assistant has been
+assigned work out of classification as a JPPO, the trial service period may be reduced.
+
+Section 3.
+When, in the judgment of the Agency, performance has been adequate to clearly
+demonstrate the competence and fitness of the trial service employee, then, at any
+time, the Agency may appoint the employee to regular status.
+
+Section 4.
+Initial trial service employees may be removed from service when, in the judgment of
+the Agency, the employee does not demonstrate the competence and/or fitness for the
+position. Such removals under this Article are not subject to appeal or the grievance
+procedure.
+
+Section 5.
+An employee on trial service, other than initial trial service, who is removed shall be
+reinstated to the employee's former position providing the employee was a regular
+employee in another position in an AFSCME bargaining unit immediately prior to the
+appointment, and provided the employee has not been charged under ORS 240.555.
+
+Section 6. Outside Agency Transfer or Promotional Trial Service
+a.    A regular status employee who is removed from lateral transfer or promotional
+      trial service from an executive branch state agency shall have right of return to
+      their former Agency. The Agency shall restore the employee to their former
+      position if it is vacant. If it is not vacant the employee shall be restored to a
+      position in their former classification in their former bargaining unit so long as the
+      employee meets any special qualifications for the position unless charges are
+      filed and they are terminated from employment.
+
+b.       If an employee is reinstated into a position in their former classification in the
+         bargaining unit and this requires a change in the employee’s official work site, the
+         employee will be eligible for moving reimbursement in accordance with the
+         Employer’s policy titled, ‘Current or Recalled Employee Relocation’ (40.055.10)
+
+c.       This Subsection becomes effective on the first (1st) of the month following
+         ratification of the local agreement or on the date of receipt of an interest
+         arbitration award, whichever is later.
+
+
+
+
+2025 - 2027 Oregon Youth Authority             46                     Collective Bargaining Agreement
+         d.       This Subsection applies to employees beginning their promotional trial
+                  service after the effective date of the local agreement.
+                                                                                   REV: 2017,2023
+
+
+
+
+### ARTICLE 42 - TRAINING/EDUCATION
+
+Section 1. Training.
+The Agency will pay incurred tuition/registration and allowable travel, per diem, and
+salary when the Agency directs employees to attend training. Employees may request
+training, including subject matter related to skill development in youth case
+management and will be considered based on job and workload needs and on funding,
+such trainings may include trainings provided through the Department of Public Safety
+Standards and Training (DPSST).
+
+Section 2. Developmental Opportunities.
+The Agency may provide developmental assignments and job rotation assignments by
+written agreement with the Union and employees who volunteer. Employees
+volunteering for these assignments retain their permanent position classifications,
+remain on the Agency payroll, retain the representation (AFSCME) status of their
+permanent positions while on the assignment, and return to their permanent positions
+on completion of the assignment. Employees participating in developmental and job
+rotation assignments will continue to receive compensation at the rate of their
+permanent position and shall continue to accrue rights and benefits related to their
+permanent position.
+
+Section 3.
+Employees may be granted time off with pay to take job-related educational courses or
+training sessions.
+                                                                                        REV: 2017
+
+
+### ARTICLE 43 - JOB SHARING
+
+Section 1.
+"Job sharing position" means a full-time position in the classified service that may be
+held by more than one (1) individual on a shared time basis whereby the individuals
+holding the position work less than full time.
+
+Section 2.
+Job sharing is a voluntary program. Any employee who wishes to participate in job
+sharing may submit a written request to the Parole Supervisor or Area Coordinator to be
+considered for job share positions. Management shall determine if job sharing is
+appropriate for a specific position and will recruit and select employees for job share
+positions. Where the management determines job sharing is appropriate, the
+management agrees to provide written notification to all job share applicants of
+available job share positions in their office in the Agency.
+
+
+
+
+2025 - 2027 Oregon Youth Authority               47                Collective Bargaining Agreement
+Section 3.
+Job share employees shall accrue vacation leave, sick leave and holiday pay based on
+a prorate of hours worked in a month during which the employee has worked thirty-two
+(32) hours or more. Individual salary review dates will be established for job share
+employees.
+
+Section 4.
+Job sharing employees shall be entitled to share the full Agency paid insurance benefits
+for one (1) full-time position based on a prorate of regular hours scheduled per week or
+per month whatever is appropriate. In any event, the Agency contribution for insurance
+benefits in a job share position is limited to the amount authorized for one (1) full-time
+employee. Each job share employee shall have the right to pay the difference between
+the Agency paid insurance benefits and the full premium amount through payroll
+deduction.
+
+Section 5.
+For purpose of layoff, individuals filling a job share position which totals a full-time
+equivalent shall be considered as part-time employees at the time the position has been
+affected by a layoff.
+
+Section 6.
+If a vacancy exists and if management determines that job sharing is not appropriate for
+the position or if management is unable to recruit qualified employees for the job share
+position, the remaining employee shall have the right to assume the position on a
+full-time basis. Upon approval of management, the remaining employee may elect to
+transfer to a vacant part-time position in the same classification or to voluntarily demote.
+ If the above conditions are not available or acceptable, the employee agrees to resign.
+
+### ARTICLE 44 - LAYOFF PROCEDURE
+
+Section 1. Alternative to Layoff
+a.    When the Agency believes that a lack of funds requires a layoff, the Agency will
+      notify the Union no fewer than fifteen (15) calendar days before the Agency
+      issues initial layoff notices. The Parties will meet, if requested by either the
+      Agency or Union, to consider alternatives to layoffs such as voluntary reductions
+      in hours or workdays, temporary interruptions of employment or other voluntary
+      employment options. Alternatives to the layoffs shall require mutual agreement
+      between the Agency and Union. In the absence of any mutual agreement, the
+      Agency will implement layoff procedures consistent with the current applicable
+      agreement.
+
+b.       Agency and Union discussions under this agreement shall not constitute interim
+         bargaining under the Public Employees Collective Bargaining Act. The Parties
+         shall not be required to use the dispute resolution procedures contained in the
+         Public Employees Collective Bargaining Act.
+
+
+
+
+2025 - 2027 Oregon Youth Authority             48                   Collective Bargaining Agreement
+Section 2.
+A layoff is defined as a separation from service for involuntary reasons not reflecting
+discredit on an employee. An employee shall be given written notice of a pending layoff
+at least fifteen (15) days before the effective date stating the reason for the layoff.
+
+Section 3.
+Employees shall be laid off and service credits calculated within the following mutually
+exclusive categories:
+      a.     Full-time,
+
+        b.        Part-time (including job share).
+
+Section 4.
+Layoff shall be by classification as defined in Article 1, Section 2. The classification and
+geographic area to be affected by any particular layoff shall be identified by the Agency
+at the time the layoff is declared. The Agency shall determine the specific positions to
+be vacated and employees in those positions shall be notified of layoff and the staff with
+the least service credits will also receive notification of the possible bumping option.
+Notification shall normally go to the employee with the least State service credits at the
+worksite to be reduced. The Agency shall notify in writing all affected employees of
+their State service credits and their contractual bumping rights.
+
+It is understood that when an employee who is to be laid off possesses knowledge, skill,
+or ability, the loss of which in the judgment of the Agency would seriously impact
+operations, the Agency may hold that employee in active status, while laying off the next
+employee in service credit order in the employee's stead. When it is necessary to hold
+an employee, who would otherwise be laid off, the Agency will document the need and
+such documentation shall be provided to the Union at least twenty-one (21) days prior to
+the effective date of potential layoff. In addition, the subsequently affected employee(s)
+will be given notice at the same time, irrespective of Section 1. Any dispute in this
+regard may be taken up as a grievance filed by the Union.
+
+If it is found that two (2) or more employees who are impacted have equal State service
+credits, layoff notice shall be given to the employee with the least Agency seniority (see
+Article 55). If ties between employees still exist, the order of layoff shall be determined
+by the Appointing Authority in such a manner as to conserve for the State the services
+of the most qualified employees.
+
+Section 5. State Service Credit.
+State service credit is defined as total length of continuous State service. An
+employee’s State service credit shall be computed from the date of the employee’s
+employment by the State.
+
+State service credit shall be forfeited if an employee has a break in service from the
+State by separation or termination of more than two (2) years, other than layoff, or fails
+to respond within five (5) consecutive work days after receiving notice by registered
+letter mailed to the last address on the Agency’s records, unless prevented from
+responding by conditions beyond the employee’s control.
+
+
+2025 - 2027 Oregon Youth Authority               49                 Collective Bargaining Agreement
+         Seniority will also be adjusted for leave without pay in the excess of one (1) year.
+
+Section 6. Options in Layoff.
+Except for Section 3, paragraph 2, the employee with the least State service credits in
+the work site shall be given notice of layoff and may file a written request to exercise an
+option in lieu of layoff with the Appointing Authority within five (5) work days of receipt of
+such notice.
+
+For purposes of this Article a vacancy that the Agency intends to fill shall be considered
+to have the least State service credits. If more than one (1) vacancy exists the
+employee may select from the vacancies. If more than one (1) vacancy exists and more
+than one (1) employee has received layoff notice, the employee with the most State
+service credits shall have first selection of the vacancies and selection shall continue
+based on most State service credits.
+
+The employee shall make one (1) choice from the five (5) options listed below:
+           Displace Within Classification
+      1.   Any employee notified of layoff may opt to displace the least State service
+           credit person in the geographic area in the same classification provided
+           the employee can perform the specific requirements of the position within
+           approximately thirty (30) days.
+
+         2.       The employee may opt to displace the least State service credit person on
+                  a statewide basis provided the employee can perform the specific
+                  requirements of the position within approximately thirty (30) days.
+
+                  Demote to Lower Level Classification
+         3.       Any employee notified of layoff may elect to demote to a lower
+                  classification in the geographic area for which the employee is qualified
+                  provided the employee can perform the requirements of the position within
+                  approximately thirty (30) days, if a position exists where the incumbent
+                  has the least State service credit.
+
+         4.       The employee may opt to demote to a lower classification and displace
+                  the least State service credit person on a statewide basis provided the
+                  employee can perform the specific requirements of the position within
+                  approximately thirty (30) days where the incumbent has the least State
+                  service credit.
+
+                  Layoff
+         5.       The employee may elect to be laid off.
+
+Section 7.
+The name of a demoting employee shall then be placed on the appropriate layoff list for
+the class the employee demoted from. Any employee demoted in lieu of layoff may
+request at that time and shall be paid for all accrued compensatory time at the rate
+being earned prior to demotion in lieu of layoff.
+
+
+
+2025 - 2027 Oregon Youth Authority              50                    Collective Bargaining Agreement
+Section 8.
+If an employee's selection in Section 5 requires moving, moving expenses shall be
+assumed by the employee.
+
+Section 9. Recall List.
+A recall list shall be a list of employees by classification and geographic area who are
+laid off from the Agency or who have demoted in lieu of layoff. The employee will
+automatically be placed on the geographic recall list from their area and must, if
+interested, designate placement on recall lists for additional areas. Recall shall be from
+the list in order of greatest State service credits, one (1) name at a time, to the vacancy
+in the classification and within the designated geographic area provided the employee
+can perform the specific requirements of the position within approximately thirty (30)
+days. If an employee is certified from the recall list and is offered a position in the
+geographic area, they shall have one right of refusal to be rendered within five (5) days
+of the offer. Upon the second refusal to the same geographic area, the employee’s
+name shall be removed from that geographic recall list.
+
+Employees on the recall list shall be responsible to keep the agency informed of a
+current address and telephone contact number. In the event the address of record is no
+longer valid, the employee’s name shall be removed from the recall list.
+
+No new employees will be hired nor will employees be transferred until all employees on
+the recall list in that class for that geographic area have been offered reemployment.
+Names shall be maintained on the appropriate recall list(s) for two (2) years from the
+effective date of layoff or demotion, unless removed in accordance with above language
+or the employee has accepted a position from the recall list.
+
+Section 10.
+Unclassified, exempt and management service employees shall be restored into
+classified service pursuant to ORS 240.570. If a reduction in force is required in
+connection with this return it will be accomplished through this Article. There shall be no
+cross-bumping between management service and the bargaining unit. In instances
+where a management service employee is to be restored to the bargaining unit and a
+vacancy exists but a bargaining unit employee with more service credits is on the recall
+list for that geographic area, recall will occur.
+
+Section 11.
+There will be no cross bumping between bargaining units.
+
+Section 12. Geographic Area
+For the purposes of this Article the geographic areas are defined as:
+      Area 1 – Clatsop, Columbia, Tillamook, Washington, Multnomah, and Clackamas
+                 counties
+
+        Area 2 – Lane, Douglas, Coos, Curry, Josephine, and Jackson counties
+
+        Area 3 – Yamhill, Marion, Polk, Lincoln, Benton, and Linn counties
+
+
+
+2025 - 2027 Oregon Youth Authority           51                     Collective Bargaining Agreement
+        Area 4       – Hood River, Sherman, Gilliam, Wasco, Wheeler, Jefferson, Crook,
+                      Deschutes, Klamath, Lake, Morrow, Umatilla, Wallowa, Union, Grant,
+                      Baker, Harney, and Malhuer counties
+
+Section 13. Secondary Recall Rights.
+a.    Application. These rights apply to all employees in bargaining units represented
+      by AFSCME at Central Table negotiations as well as the Department of
+      Corrections and Board of Parole except employees who are laid off during initial
+      trial service.
+
+b.       Definitions.
+         1.     Geographic areas, for the purpose of secondary recall, are each location
+                for which an employee may indicate their willingness to relocate on the
+                state’s PD100.
+
+         2.       Agency Layoff Lists are intra-agency layoff lists, as defined in each
+                  AFSCME Central Table Agency and/or Department of Corrections and
+                  Board of Parole bargaining unit Contract.
+
+         3.       Secondary Recall List is an inter-agency layoff list, which consists of
+                  regular status employees who have been separated by layoff from Union-
+                  represented positions in AFSCME Central Table Agencies and/or
+                  Department of Corrections and Board of Parole and who have elected to
+                  be placed on such list, consistent with the definitions of geographic areas
+                  defined above.
+
+c.       Coordination with Filling of Vacancy and Layoff Articles. The recall options
+         provided herein shall be consistent with the priority of recall to positions from
+         layoff within an Agency, as specified within each Agency’s contract, except that
+         recall from Agency Layoff Lists shall take precedence over recall from the
+         Secondary Recall List.
+
+d.       Procedures.
+         1.    Placement on the Secondary Recall List.
+               A.    Regular status employees who are separated from the service of
+                     the State in good standing (meaning no record of economic
+                     disciplinary sanctions in their personnel file) by layoff or transferred
+                     outside State government due to intergovernmental transfer shall,
+                     in addition to their right to be placed on the Agency Layoff List, be
+                     given the option of electing placement on the Secondary Recall List
+                     by geographic area for other AFSCME represented bargaining units
+                     which utilize the same or successor classification from which they
+                     were laid off. The term of eligibility of candidates placed on the list
+                     shall be two (2) years from the date of layoff. When an employee is
+                     prohibited from participating in the secondary recall process due to
+                     the presence of an economic disciplinary sanction in their
+                     personnel file, that employee may request and shall be placed on
+                     the Secondary Recall list for the remainder of the two (2) years
+
+
+2025 - 2027 Oregon Youth Authority              52                    Collective Bargaining Agreement
+                            eligibility following layoff once the discipline has remained in the file
+                            for the length of time required by the agency’s contract.
+
+                  B.        Employees who elect to be placed on the Secondary Recall List
+                            shall specify in writing the AFSCME Central Table and/or
+                            Department of Corrections and Board of Parole bargaining units
+                            and geographic areas to which they are willing to be recalled.
+
+         2.       Use of the Secondary Recall List.
+                  A.    After the exhaustion of the Agency Layoff List for a specific
+                        classification within a geographic area, the Secondary Recall List
+                        shall be used to fill all positions within a specific classification and
+                        geographic area consistent with Section c above, until such
+                        secondary list is exhausted.
+
+                  B.        To be eligible for appointment from the Secondary Recall List, a
+                            laid off employee on such list must meet the minimum qualifications
+                            for the classification and any special qualifications for the position.
+
+                  C.        Agencies shall utilize the Secondary Recall List to fill positions by
+                            calling for certifications from the list of the five (5) most senior
+                            employees who meet the minimum qualifications for the
+                            classification and any special qualifications for the position to be
+                            filled by selecting one of the five (5) so certified. Seniority for this
+                            purpose shall be computed as described per the layoff article of
+                            each Agency’s contract.
+
+                  D.        Where fewer than five (5) eligible employees remain on the
+                            Secondary Recall List, the Agency shall select one (1) of these
+                            employees who meets the minimum qualifications for the class and
+                            any special qualifications for the position.
+
+         3.       Appointments/Refusals of Appointments from the Secondary Recall List.
+                  A.    A laid off employee on the Secondary Recall List who is offered an
+                        appointment from the list and refuses to accept the appointment
+                        shall have their name removed from the Secondary Recall List;
+                        however, an agency will not remove an employee’s name from the
+                        Secondary Recall List where that individual had been a day shift
+                        employee and subsequently refuses the offer of a position with
+                        swing shift or night shift hours.
+
+                  B.        Employees appointed to positions from the Secondary Recall List
+                            shall have their names removed from their Agency Layoff List(s)
+                            and the Secondary Recall List.
+
+                  C.        Employees appointed to positions from the Secondary Recall List
+                            shall serve a trial service period not to exceed three (3) full months,
+                            except that employees hired into the Offender Information and
+                            Sentence Unit as Prison Term Analysts (PTA) shall serve a trial
+
+2025 - 2027 Oregon Youth Authority                   53                      Collective Bargaining Agreement
+                            service period consistent with the Department of Corrections
+                            agreement. Administration of the trial service period shall be
+                            consistent with the hiring Agency’s contract. However, employees
+                            who fail to successfully complete this trial service period shall have
+                            their names restored to the Agency Layoff List(s) on which they
+                            previously had standing. Restoration to the Agency Layoff List(s)
+                            shall be for the remaining period of eligibility that existed at the time
+                            of appointment from the Secondary Recall List. An employee may
+                            also petition the DAS-Labor Relations Unit to also be restored to
+                            the Secondary Recall List for the remainder of the initial twenty-four
+                            month recall period where the trial service removal was not related
+                            to potential misconduct warranting an economic or dismissal
+                            sanction. In no instance shall the DAS-Labor Relations Unit’s
+                            decision be grievable.
+
+                  D.        Employees appointed to positions from the Secondary Recall List
+                            shall not be entitled to moving expenses.
+
+Section 14. Temporary Interruption of Employment.
+When work is not available due to a temporary situation beyond the Agency's control,
+employees in the affected work unit may have their employment temporarily interrupted
+for up to fifteen (15) calendar days without this being considered a formal layoff under
+this Article. Temporary workload fluctuations will not be considered as justification for
+invoking this provision.
+
+Should such a temporary interruption of employment occur, employees so affected will
+be allowed to use any form of accrued paid leave including vacation, compensatory time
+off, or personal leave or will be placed on leave without pay where the affected
+employee(s) have insufficient compensatory time to cover the period of interruption.
+If limited work is available within the affected work unit, it will be offered to the employee
+with the most State service credits, within the affected classifications, provided that
+employee possesses any special skills that are required.
+                                                                                            REV: 2015, 2021
+
+
+### ARTICLE 45 - REVIEW OF CLASSIFICATION SERIES
+
+Section 1.
+It is agreed and understood that procedures for establishing new proposed
+classifications and for material revision of existing classifications will provide reasonable
+opportunity for review and input by the Union prior to implementation.
+
+Section 2.
+The Parties shall negotiate the salary range for new and materially revised
+classifications. Negotiations for the establishment of new salary ranges for such new or
+revised classification shall commence no later than thirty (30) days after the initial
+receipt by the Union of the new or revised class specifications.
+
+
+
+
+2025 - 2027 Oregon Youth Authority                   54                      Collective Bargaining Agreement
+Section 3.
+Implementation of a salary adjustment or rate change agreed upon in the salary
+negotiations shall be effective the first of the month following legislative approval of the
+negotiated salary, unless otherwise specified in the negotiated agreement.
+
+Section 4.
+The Union may recommend classification studies to be conducted by the Department of
+Administrative Services, Human Resources Services Division including the reasons for
+the need for such studies.
+
+### ARTICLE 46 - RECLASSIFICATION PROCEDURE
+
+The Parties shall use the following procedure to process reclassification requests.
+
+Section 1.
+The Agency shall furnish class specifications at the request of the Union or employee.
+
+Section 2.
+The employee will submit a completed official Position Description form and written
+explanation for a proposed reclassification request to the Agency Personnel Officer and
+a copy mailed to the Union.
+
+Section 3.
+The Agency shall conduct a classification audit and review the merits of the request.
+Within thirty (30) days after receipt of reclassification request the Agency shall notify the
+Union of its decision. The Union shall have an opportunity, before the thirty (30) days
+decision date, to meet with the Agency to present arguments and recommendations
+where there are objections to the proposed reclassification. The Parties may extend the
+time limits by mutual, written agreement in those instances where the review process or
+other extenuating circumstances require additional time for analysis.
+
+Section 4.
+Any employee who is involuntarily reclassified or any employee whose reclassification
+request is denied may take the matter up as a grievance under Article 52, Grievance
+and Arbitration, of this Agreement.
+
+Section 5.
+Should the duties of the position support the proposed reclassification, the Agency shall
+make the determination whether to seek legislative approval for reclassification or
+remove the duties. If a reclassification request, as approved, does not receive the
+necessary legislative approval required by ORS 291.371, the Agency shall immediately
+change the duties of the employee to conform to the prior classification.
+
+Section 6. Pay Date of Upward Reclassification.
+The effective date of a reclassification shall be the date the reclassification was finalized
+in the budget and a note will be added to the CHRO human resources information
+system with the date that the reclassification was requested. If the reclassification
+receives legislative or Department of Administrative Services approval, the employee
+will receive a lump sum payment if eligible. The lump sum payment shall be the
+
+2025 - 2027 Oregon Youth Authority            55                     Collective Bargaining Agreement
+difference between the current salary rate including work out of classification pay, if any,
+and the proposed salary rate. The lump sum payment will cover the period beginning
+the first of the month following the month in which the reclass request was received by
+the Agency to the date the reclassification is implemented.
+
+The employee does not retain the employee’s old salary eligibility date. A new salary
+eligibility date will be established twelve (12) months from the effective date of the
+reclassification.
+
+Section 7.
+Any incumbent who has successfully performed for three (3) months the duties of the
+position reclassified shall be continued in the position.
+
+Section 8. Downward Reclassification.
+a.    When a position is reclassified to another class at the same pay level or to a
+      class that carries a lower salary range, the incumbent trial service or regular
+      employee shall be accorded corresponding status in the new class.
+b.    The Department shall notify an employee in writing of a downward
+      reclassification of the employee's position and the specific reasons for doing so
+      within thirty (30) days prior to the effective date.
+c.    When an employee is reclassified downward, the agency’s appointing authority
+      or management designee will follow Section 2 - Salary on Demotion - of the
+      Salary Administration Article to determine the appropriate rate of pay.
+      1.     No employee shall be reclassed downward while other employees with
+             less service credits remain in the original class.
+
+
+Section 9. Equal Reclassification Rate.
+When an employee is reclassified to an equal or lateral classification, the agency’s
+appointing authority or management designee will follow Section 4 - Salary on Lateral
+Transfer - of the Salary Administration Article to determine the appropriate rate of pay.
+The employee’s benefit service date will remain unchanged.
+
+Section 10. Pay for Upward Reclassification.
+      Rate of pay upon upward reclassification shall be determined by following
+Section 3 - Salary on Promotion - of the Salary Administration Article.
+
+Section 11. Denied Reclassification/Involuntary Reclassification Appeal Process
+Agency Appeal:
+If an employee’s requested reclassification is denied or the Agency reclassifies an
+employee’s position, the Union may appeal the decision in writing to the Agency Head
+or designee within fifteen (15) calendar days after receipt of the Agency’s decision. The
+appeal must identify the reason(s) the Agency’s decision is incorrect. The Agency shall
+respond to the appeal in writing within fifteen (15) calendar days from receipt of the
+Union’s appeal.
+
+Committee Appeal:
+If the Agency denies an employee’s reclassification request or if the Agency reclassifies
+an employee’s position, the Union may appeal the decision to the Employer/Union
+
+2025 - 2027 Oregon Youth Authority           56                     Collective Bargaining Agreement
+Classification Appeal Committee. The appeal must be in writing and submitted within
+fifteen (15) calendar days from the date the Agency’s final decision. All appeals must
+be supported with copies of documents originally provided to the Agency for the
+reclassification request, including written explanation of the request and all relevant
+documentation. No new documentation or information will be considered by the
+Committee unless mutually agreed upon. Upon request, the Union and employee shall
+have one (1) opportunity to address the committee.
+
+Employer/Union Classification Appeal Committee:
+The committee shall be composed of one (1) Employer representative and one (1)
+Union staff representative. The Committee’s sole mission will be to consider appeals
+pursuant to this Section of the Article and make decisions which maintain the integrity of
+the classification system by correctly applying the classification specifications. Each
+representative shall have experience making classification decisions.
+
+Appeal Decision Process:
+The Committee will attempt to resolve the appeal by jointly determining whether the
+current or another classification more accurately depicts the overall assigned duties,
+authorities and responsibilities of the position. In this process each of the designees
+may identify one (1) alternate class that they determines most accurately depicts the
+purpose of the job and overall assigned duties. The Committee will prepare an initial
+written decision to the Agency and Union within thirty (30) calendar days of receipt
+which will include the reasons for the decision. Agency management retains the right to
+modify duties to ensure consistency with the Agency’s work, goals and objectives. If the
+finding of the committee determines the assigned duties are appropriately classified at a
+higher salary range and the Agency subsequently removes the higher level duties, the
+employee will receive a lump sum payment for the difference between the current salary
+rate including work out of classification pay already paid if any, and the appropriate
+salary rate for the classification as determined by the committee. This payment shall be
+for the time period beginning the date in which the request was received by the Agency
+to the date the duties are removed.
+
+Arbitration:
+If there is no resolution, the Union may request arbitration in writing within fifteen (15)
+calendar days from the date of receipt of the Committee’s final written decision. The
+Union’s request must be sent to the Department of Administrative Services Labor
+Relations Unit and shall include the reasons why the Agency’s decision is incorrect.
+
+The Parties agree to the appointment of a panel of three (3) arbitrators to hear all
+appeals under this Article. Arbitrators shall be assigned on a rotational basis. The
+arbitrators shall have experience resolving classification issues. An arbitrator may be
+removed from the panel by mutual agreement of the Parties. However, each party
+retains the right to initiate a change in that arbitrator’s appointment upon notice to the
+other party. If this occurs, the Parties agree to select another qualified arbitrator. The
+change in assigned arbitrator shall be effective for any case not yet scheduled for
+arbitration. The arbitrator’s fee and expenses shall be paid by the losing party. If, in the
+opinion of the arbitrator, neither party can be considered the losing party, then such
+expenses shall apportioned as in the arbitrators’ judgment is equitable. All other
+
+
+2025 - 2027 Oregon Youth Authority           57                     Collective Bargaining Agreement
+expenses shall be borne by the Party requiring the service or item for which payment is
+to be made.
+
+The arbitrator shall allow the Agency’s decision to stand unless they conclude that the
+proposed classification more accurately depicts the overall assigned duties, authority,
+and responsibilities using the criteria specified below. In the event the arbitrator finds in
+favor of the proposed or alternate classification, Agency management may elect to
+remove/modify duties at any point during the process. However, if the agency removes
+the higher level duties, the employee will receive a lump sum payment for the difference
+between the current salary rate including work out of classification pay already paid if
+any, and the appropriate salary rate for the classification as determined by the
+committee. This payment shall be for the time period beginning the date in which the
+request was received by the Agency to the date the duties are removed.
+
+Classification Criteria.
+For purposes of this section, a reclassification must be based on findings that the
+purpose of the position is consistent with the concept of the proposed classification and
+that the class specifications for the proposed classification and that the class
+specifications for the proposed classification more accurately depicts the overall
+assigned duties, authority and responsibilities of the position.
+
+Terms used above shall be defined as follows: a)the purpose of the position shall be
+determined by the statement of purpose and assigned duties of the position description
+and other relevant evidence of duties assigned by the Agency; b) the concept of the
+proposed classification shall be determined by the general description and
+distinguishing features of its class specifications, and, c) the overall duties, authority and
+responsibilities of the position shall be determined by the position description and other
+relevant evidence of duties assigned by the Agency.
+
+This Section supersedes any provisions contained in the Agency’s grievance procedure.
+
+Section 12. Underfill Differential.
+When the agency selects an employee to fill a higher-level classification position as an
+underfill, the employee shall be notified in writing that they are an underfill, provided with
+the reasons for the underfill, and informed of the requirements needed to meet the
+minimum qualifications of the position’s classification. An employee’s rate of pay will be
+determined by following Section 3 - Salary on Promotion - of the Salary Administration
+Article.
+                                                                                           REV: 2025
+
+
+
+### ARTICLE 47 - IMPLEMENTATION OF NEW CLASSES - APPEALS PROCESS
+
+The appeals process is designed to allocate employees into new classes. Employees
+in positions allocated to a new classification, who dispute their placement within the new
+class, can appeal their placement using the following process:
+
+
+
+
+2025 - 2027 Oregon Youth Authority             58                     Collective Bargaining Agreement
+Section 1.
+a.    An appeal may be filed by an individual employee or a Steward or a Council
+      Representative on behalf of the employee, to the Agency personnel office within
+      fifteen (15) calendar days of written notification by the Agency of placement into
+      the new class. Employees sharing the same or substantially similar position
+      descriptions or employees the Agency agrees to treat as a group may file an
+      appeal as a group. The initial filing should describe the individual or group,
+      including the names of affected members, identify the proposed placement, and
+      the placement believed to be correct by the affected employees. The appeal
+      must include current, signed position descriptions.            Because the old
+      classifications are to be abolished, correct placement cannot be back to the prior
+      classification.
+
+         The Agency shall conduct a review of the allocation using the following criteria:
+         1.    The purpose of the job shall be determined by the statement of purpose
+               and assigned duties of the position description and other relevant
+               evidence of duties assigned by the Agency;
+
+         2.       The concept of the proposed classification shall be determined by the
+                  general description and distinguishing features of its class specification;
+                  and
+
+         3.       The overall duties, authority and responsibilities of the position shall be
+                  determined by the position description and other relevant evidence of
+                  duties assigned by the Agency. This decision shall be made within thirty
+                  (30) calendar days of receipt of the appeal and provided to the affected
+                  employees in writing and with a summary of the classification analysis.
+
+b.       If denied, the Union may appeal the Agency's decision in writing to the Labor
+         Relations Unit within fifteen (15) calendar days of receipt of the written denial.
+         The appeals will be considered by the Employer designee (or an alternate) and
+         the Union designee (or an alternate) who shall form the committee charged with
+         the responsibility to consider appeals and make decisions which maintain the
+         integrity of the classification system by correctly applying the classification
+         specifications. Additionally, the committee may utilize two (2) resource persons,
+         one (1) designated by each party, to provide technical expertise concerning a
+         specific series, The committee will attempt to resolve the matter by jointly
+         determining whether the current or proposed class more accurately depicts the
+         overall assigned duties, authorities and responsibilities of the position using the
+         criteria specified above.
+
+         In this process each of the designees may identify one (1) alternate class that
+         they determine most accurately depicts the purpose of the job and overall
+         assigned duties. If an alternate class is identified, both the Union and Labor
+         Relations Unit shall be notified. If the Parties concur that shall end the allocation
+         appeal. In the event the committee concludes that the proposed or alternate
+         class is more appropriate, management retains the right to modify the work
+         assignment on a timely basis to make it consistent with the Agency's allocation.
+
+
+2025 - 2027 Oregon Youth Authority              59                    Collective Bargaining Agreement
+         Appeals shall be decided in order of receipt by the Labor Relations Unit.
+
+         Decisions shall be rendered by the designees no later than sixty (60) calendar
+         days of receipt of the appeal by the committee.
+
+c.       The decision of the designees shall be binding on the Parties. However,
+         agencies may elect to remove/modify duties at any point during the process.
+
+d.       If the appeals committee cannot make a decision, the Union may request final
+         and binding arbitration by a written notice to the Labor Relations Unit within the
+         next forty-five (45)-calendar day period. Each party may go forward with only
+         one (1) class. Each party may choose to take to arbitration either the current
+         class, class appealed to, or an alternate class identified by a committee member.
+          The arbitrator shall allow the decision of the Agency to stand unless they
+         conclude that the proposed classification more accurately depicts the overall
+         assigned duties, authority, and responsibilities of the position.
+
+e.       Where a position is vacated after the filing of the initial appeal, the Union may
+         continue the appeal process and such appeals will be reviewed by the committee
+         only after the review of all filled positions appeals is completed and where the
+         Agency indicates that no change in duties is anticipated prior to refilling the
+         position.
+
+f.       This process terminates upon completion of the allocation process.
+
+### ARTICLE 48 - EMPLOYEE RIGHTS
+
+Section 1.
+Off duty activities of employees will not subject them to disciplinary action by the
+Agency unless such activities are illegal or a conflict of interest with the employees'
+duties or the mission of the Agency.
+
+Section 2.
+Employees who are the subject of an internal Agency complaint investigation shall be
+assured the following rights:
+      a.     The employee shall be given notification of the general nature of the
+             investigation prior to interviews being conducted with other than the
+             complainant. The status of the investigation shall be provided to the
+             employee every thirty (30) days until completion. Lack of such notice does
+             not result in a procedural defect.
+
+         b.       The employee shall not be deprived of any of the employee's
+                  constitutional or civil rights guaranteed by the federal and State
+                  Constitutions and Laws.
+
+         c.       The employee shall be informed of the nature of the complaint or charges
+                  before the employee is required to respond to questions concerning the
+                  complaint or charges. Such interview shall normally occur during
+                  employee standard work schedule.
+
+2025 - 2027 Oregon Youth Authority                 60               Collective Bargaining Agreement
+         d.        If the employee is required to respond to a formal complaint or charge, the
+                  employee shall have the right to counsel and/or Union representation prior
+                  to and/or during the interview.
+
+         e.       The employee shall not be required to take or be subjected to any lie
+                  detector device as a condition of continued employment.
+
+         f.      Formal complaints or charges made about an employee which are not
+                 verified or proven shall not be recorded and placed in the employee's
+                 personnel file, supervisory file or used in any subsequent performance
+                 evaluation. Upon completion of the investigation the Agency will provide
+                 the employee with written notification of the disposition of the investigation.
+
+Section 3.
+Employees who are the subject of a citizen complaint shall be allowed to submit a
+rebuttal statement to the supervisor for their file. Formal complaints or charges made
+about an employee which are not verified or proven shall not be recorded and placed in
+the employee's personnel file, supervisory file or used in any subsequent performance
+evaluation. Upon completion of the investigation the Agency will provide the employee
+with written notification of the disposition of the investigation.
+
+### ARTICLE 49 - LIMITED DURATION APPOINTMENT
+
+Section 1.
+Persons may be hired for special studies or projects of uncertain or limited duration
+which are subject to the continuation of a grant, contract, award, or legislative funding
+for a specific project. Such appointments shall be for a stated period not exceeding two
+(2) years, except extended by legislative or Emergency Board action. Such
+appointment shall expire upon termination of the special study or projects.
+
+Section 2.
+a.    No newly hired person on a limited duration appointment shall be entitled to rights
+      under the layoff procedure and shall be so notified.
+
+b.      A person appointed from AFSCME regular status within the bargaining unit to a
+        limited duration appointment shall be entitled to rights under the layoff procedure
+        within their Agency.
+
+Section 3.
+A person accepting such appointment shall be notified of the conditions of the
+appointment and acknowledge in writing that they accept that appointment under these
+conditions. Such notification shall include the following:
+       a.    That the appointment is of limited duration.
+
+         b.       That the appointment may cease at any time.
+
+         c.       That persons who accept a limited duration appointment who were
+                  formerly classified state employees, from AFSCME, within the bargaining
+
+2025 - 2027 Oregon Youth Authority               61                     Collective Bargaining Agreement
+                  unit, are entitled to rights under the layoff procedure starting from the prior
+                  class within the Agency.
+
+         d.       That in all other respects, limited duration appointees have all rights and
+                  privileges of other classified employees including but not limited to wages,
+                  benefits, and Union representation under this Agreement.
+
+### ARTICLE 50 - PERSONNEL RECORDS
+
+Section 1.
+The Chief Human Resources Office human resource information system is the system
+of record for all employee records and official employee Personnel File electronic and
+paper documents for which there are appropriate document categories in the system.
+
+The department, or agency under agreement to provide human resource services,
+stores paper documents of the official employee Personnel File and paper documents
+that are not yet able to be kept in the human resource information system. The
+department, or agency under agreement to provide human resource services, also
+stores paper documents of the official employee Personnel File that predate January 1,
+2019.
+
+Section 2.
+An employee may, upon request, inspect and obtain a copy of digital or paper
+documents of their official employee Personnel File, paper documents that are not yet
+able to be kept in the human resource information system and paper documents of the
+official employee Personnel File that predate January 1, 2019. No grievance shall be
+kept in the Personnel Files after the grievance has been resolved except the resolution.
+
+Section 3.
+No information reflecting critically upon an employee shall be placed in the employee's
+Personnel File that does not bear the signature of the employee. The employee shall
+be required to sign such material to be placed in the employee's Personnel File
+provided the following disclaimer is attached:
+
+         "Employee's signature confirms only that the supervisor has discussed and given
+         a copy of the material to the employee, and does not indicate agreement or
+         disagreement."
+
+If an employee is not available within a reasonable period of time to sign the material or
+the employee refuses to sign the material, the Department may place the material in the
+file provided a statement has been signed by two (2) management representatives that
+a copy of the document was mailed to the employee at the employee's address of
+record. A copy will also be mailed to the Union.
+
+Section 4.
+If the employee believes that any of the above material is incorrect or a
+misrepresentation of facts, the employee shall be entitled to prepare in writing an
+
+
+2025 - 2027 Oregon Youth Authority                62                     Collective Bargaining Agreement
+explanation or opinion regarding the prepared material. This shall be attached to the
+disputed material included as part of the personnel record until the material is removed.
+
+Section 5.
+An employee may include in the Personnel File copies of any relevant material the
+employee wishes, such as letters of favorable comment, licenses, certificates, college
+course credits or any other material which reflects credibly on the employee. The
+employee’s supervisor/manager will ensure the documents are submitted into the
+employee’s official Personnel File in the human resource information system.
+
+Section 6.
+At the employee's request, record of disciplinary actions shall be removed two (2) years
+after the effective date of the action provided no incident of a similar nature has been
+documented in the intervening time. The employee will be sent the requested
+document within five (5) work days from the receipt of request. Any period of leave of
+absence without pay that is more than fifteen (15) days shall extend the retention period
+for that duration of leave.
+
+Section 7. Supervisory/Managerial Working Files.
+a.    An employee’s supervisor/manager may maintain a Working (non human
+      resource information system) File kept in accordance with Agency practice.
+
+b.       Within five (5) business days from the date of an employee request, an employee
+         will be able to inspect their supervisor’s Working Files in the presence of their
+         supervisor. Employees will not remove any material from the File. If the File
+         cannot be made available because of the supervisor’s absence, extensions of up
+         to ten (10) business days will be granted.
+
+c.       Upon request, the employee shall be given a copy of documents in the Working
+         File.
+
+d.       An employee may submit a written statement to be attached to any document in
+         the File and such statement will remain attached as part of the Working File so
+         long as the document remains in the File.
+
+e.       Documents of an adverse nature will be removed from the File no later than
+         eighteen (18) months from the date of the document so long as no reoccurrence
+         of a similar nature has taken place in the intervening period. An employee may
+         request early removal of any adverse document in the File. Such document(s)
+         shall be removed upon mutual agreement between the supervisor and employee.
+
+f.       Any information in a Working File that is past the retention schedule shall not be
+         used in a disciplinary action so long as no reoccurrence of a similar nature has
+         taken place in the intervening period.
+
+
+
+
+2025 - 2027 Oregon Youth Authority            63                    Collective Bargaining Agreement
+Section 8.
+Personnel Files and Working Files shall not be accessible by state employees beyond
+the immediate supervisor, the Agency Human Resource Director, human resource staff,
+the subject employee, employees with a work related business need as authorized by
+the Agency Human Resource Director, and anyone specifically authorized in writing by
+the subject employee.
+                                                                                  REV: 2019, 2021
+
+
+### ARTICLE 51 - DISCIPLINE AND DISCHARGE
+
+Section 1.
+The principles of progressive discipline shall be used when appropriate. No employee
+who has completed the initial trial service period shall be disciplined or dismissed
+without just cause.
+
+Section 2.
+a.    Dismissal Appeals. The dismissal (and pre-dismissal suspension without pay) of
+      a regular status employee may be appealed directly by the Union to binding
+      arbitration thirty (30) calendar days from the effective date of the dismissal.
+
+b.      Reduction, Suspension and Demotion Appeals. An employee reduced in pay,
+        demoted, or suspended shall receive written notice of the discipline with the
+        specific charges and facts supporting the discipline. The reduction in pay,
+        demotion and/or suspension (other than pre-dismissal suspension without pay) of
+        a regular status employee may be appealed to the Agency Head step in the
+        Grievance Procedure within ten (10) calendar days from the effective date of the
+        action. The Agency Head shall respond in writing in accordance with the
+        appropriate time limits contained in the Grievance Procedure. If the appeal is not
+        resolved at the Agency Head step, the Union may appeal the action to the
+        HRSD-Labor Relations Unit, within fifteen (15) calendar days after receiving the
+        response from the Agency. The HRSD-Labor Relations Unit shall respond to the
+        grievance within fifteen (15) calendar days. If the appeal is not resolved at the
+        HRSD-Labor Relations Unit, the Union may submit the issue to arbitration within
+        ten (10) calendar days after receiving the response from the HRSD-Labor
+        Relations Unit.
+
+c.      Appeal of a written reprimand, and any other form of discipline other than
+        dismissal, reduction, suspension and demotion appeals. Appeal of a written
+        reprimand, refusal/withholding of step salary increase and any other form of
+        discipline other than dismissal, reduction, suspension and demotion shall be in
+        accordance with Article 52, Grievance and Arbitration Procedure.
+
+Section 3.
+In the event of reduction in pay, dismissal, suspension, demotion, or written reprimand,
+a written statement shall be given to the employee at the time action is taken. In the
+event it is necessary to immediately remove the employee from the premises, the
+written statement shall be provided within forty-eight (48) hours of the removal. The
+written statement shall include the complaint against the employee and the facts upon
+which the Agency relies in support of the complaint.
+
+2025 - 2027 Oregon Youth Authority           64                    Collective Bargaining Agreement
+Section 4.
+A pre-dismissal investigation shall be conducted with regard to a regular status
+employee against whom a charge is presented which potentially justifies dismissal. The
+Appointing Authority or designee shall provide notification to such an employee and to
+the Union Council Representative and Chief Steward of the following: that potential
+cause for employee's dismissal has arisen; the known complaints, facts, and charges;
+and that the employee will be afforded the opportunity to refute such charges or present
+mitigating circumstances at an informal meeting at a time and date set forth in the
+notice. Such notification shall include a copy of this Article. The employee may be
+suspended in accordance with current practice or be allowed to continue work during
+the period of investigation. The Appointing Authority will normally issue a final decision
+within twenty-one (21) calendar days after the meeting, or will notify the employee and
+the Union within that time when the decision can be expected. Extensions requested by
+the employee or the Union shall not count against the twenty-one (21) days.
+
+Section 5.
+Upon the request of any employee who is called to an investigatory meeting or a
+meeting which may result in discipline being imposed upon the employee, the employee
+shall be entitled to the presence of a Union Representative. Should an employee be
+demoted or discharged by the Agency, a Union Representative will be made aware of
+the action and allowed to be present prior to the Agency talking to the employee.
+
+Section 6.
+A Union Representative shall have the right to discuss with appropriate management
+staff any disciplinary action imposed, at the affected employee's written request, with or
+without the employee's presence.
+                                                                                        REV: 2021
+
+
+### ARTICLE 52 - GRIEVANCE AND ARBITRATION
+
+Section 1.
+Grievances are defined as acts, omissions, applications of interpretations alleged to be
+violations of the terms and conditions of this Agreement. If such problems cannot be
+resolved informally by a meeting with the supervisor (see Section 3 below), the
+employee may avail themselves of the following procedure. A grievance shall not be
+expanded upon after the grievance has been filed with the Agency Head.
+
+Section 2.
+a.    Disputes arising from reduction in pay, dismissal, suspension or demotion other
+      than initial trial service employees are subject to the grievance and arbitration
+      procedure pursuant to the expedited procedures described in Article 51,
+      Discipline and Discharge.
+
+b.       Appeal of a written reprimand and any other form of discipline other than
+         dismissal, reduction, suspension and demotion appeals. Appeal of a written
+         reprimand, refusal/withholding of step salary increase and any other form of
+         discipline other than dismissal, reduction, suspension and demotion shall be in
+         accordance with this Article.
+
+
+2025 - 2027 Oregon Youth Authority           65                    Collective Bargaining Agreement
+Section 3.
+An employee, with or without Union representation will contact their immediate
+supervisor to meet and discuss alleged contract violations prior to filing a written
+grievance at Step 1.
+
+        Step 1. If the issue is unresolved, the Union will submit a written grievance
+        containing the date of occurrence, the act or omission that created the grievance,
+        the section violated, and the remedy desired within thirty (30) days of the alleged
+        occurrence. The supervisor’s response shall be done within fifteen (15) days of
+        receipt of the grievance.
+
+        Step 2. If the issue is not settled at Step 1, the Union shall submit the grievance
+        to the Agency Head or designee within fifteen (15) days of the first step response
+        or its due date, whichever is first.           The Agency Head or designated
+        representative's response shall be due in writing within fifteen (15) calendar days
+        of receipt of the appeal.
+
+        Step 3. If the grievance is not resolved by the Agency, the Union shall appeal the
+        grievance to the Labor Relations Unit (LRU) of the Department of Administrative
+        Services within fifteen (15) calendar days of receipt of the Agency’s Step 2
+        response. A meeting will be held between the Parties at a mutually-agreeable
+        date and time to mutually share information about the grievance. The Parties
+        shall fully disclose their respective positions and all supporting evidence. All
+        potential resolutions shall be discussed in this meeting and shall be non-
+        prejudicial to the Parties if arbitration occurs. The meeting shall occur within
+        thirty (30) days of the Union's notice, unless otherwise agreed to in writing. LRU
+        shall issue a response within fifteen (15) days following the third (3rd ) Step
+        meeting. For purposes of this Article, an appeal in writing can be delivered by
+        first class registered or certified mail, postage paid, by fax or by electronic mail to
+        the Labor Relations Unit email address LRU@das.oregon.gov.
+
+        Step 4. If the grievance is not resolved at the LRU the Union may submit the
+        grievance to arbitration. To be valid, a request for arbitration must be made
+        within thirty (30) calendar days of the receipt of the date the response from the
+        Department of Administrative Services, Labor Relations Unit review process was
+        due or received, whichever occurs first. In the case of a discharge, as outline din
+### Article 51 – Discipline and Discharge, the thirty (30) day period will begin with the
+        date the Employer discharged the employee.
+        Step 5. Selection of an Arbitrator.
+        a.      The Union request for arbitration will be made through the process
+                established by the Employment Relations Board, or successor Agency.
+                The Union will provide State-Arb-Notice@omls.Oregon.gov as the
+                Employer contact email, and will request from the Employment Relations
+                Board, the names of five (5) Oregon or Washington arbitrators at the time
+                it notifies the LRU of its intent to arbitrate.
+
+         b.       The Parties will select an arbitrator by alternately striking names with the
+                  moving party striking first, from the Employment Relations Board list, one
+                  (1) name at a time until only one (1) name remains on the list. The name
+
+2025 - 2027 Oregon Youth Authority               66                    Collective Bargaining Agreement
+                  remaining on the list shall be accepted by the Parties as the arbitrator, and
+                  arbitration hearings shall commence at such time and place mutually
+                  agreed to by the Parties.
+Section 4.
+The Parties agree that the decision or award of the arbitrator shall be final and binding
+on each of the Parties and that they will abide thereby. The Parties do not waive any
+right of review provided by law. The arbitrator shall have no authority to add to or
+subtract from or change any of the terms of the Agreement, except for salaries on new
+classifications. The arbitrator's award shall be due to the Parties within thirty (30) days
+of the close of the hearing.
+
+Section 5.
+The arbitrator's fees and expenses shall be paid by the losing party. If, in the opinion of
+the arbitrator, neither party can be considered the losing party, then such expenses
+shall be borne exclusively by the party requiring the service or item for which payment is
+to be made.
+
+Section 6.
+Grievances shall be reduced to writing and submitted on the form identified as AFSCME
+Grievance Form.
+
+Section 7.
+Time limits specified in this procedure must be observed unless either party requests a
+specific extension of time which, if agreed to, shall be stipulated in writing and shall
+become part of the grievance record. Failure of the aggrieved party or Union to comply
+with the time limits outlined within this Article shall constitute abandonment of the
+grievance. If management fails to issue a response within the time limits set forth in this
+Article, the grievance may be advanced to the next step of the grievance procedure.
+
+Section 8. Expedited Grievance Arbitration.
+a.    Upon mutual agreement, the Employer and Union may agree to use the
+      expedited arbitration process contained in this subsection for grievances that are
+      timely and properly filed and subject to arbitration as provided for in this
+      agreement. The parties will use language from this section of the article in the
+      selection of the arbitrator, payment and all other conditions that apply to the
+      hiring of an arbitrator as stated below.
+
+b.       The parties shall select an arbitrator by requesting the Employment Relations
+         Board for a list of seven (7) qualified arbitrators who have offices in Oregon and
+         Washington and agree to work under the rules set forth in this subsection. The
+         order of striking shall be determined by a coin flip. Each party shall have the right
+         to alternately strike a total of three (3) names from the list with the remaining
+         name on the list being the selected arbitrator.
+
+c.       The cost of the arbitration shall be borne by the losing party as stipulated by the
+         arbitrator.
+d.       The use of the expedited arbitration process shall be determined at the time the
+         parties schedule dates with the arbitrator.
+
+
+2025 - 2027 Oregon Youth Authority               67                     Collective Bargaining Agreement
+e.       The parties shall develop a stipulation of facts and affidavits and other time
+         saving methods whenever possible and when mutually agreed upon.
+
+f.       Case presentation will be limited to opening statements, brief recitation of facts,
+         witness presentation and closing oral arguments. No post hearing briefs shall be
+         filed and no court reporter transcripts shall be made. However, nothing prevents
+         either party from keeping their own notes. The hearing will be completed within
+         one (1) business day unless otherwise agreed upon by the parties.
+
+g.       The hearing shall be conducted by the arbitrator in whatever manner will most
+         expeditiously permit full presentation of the evidence and arguments of the
+         parties.
+
+h.       At their discretion, the arbitrator may issue a bench decision at the conclusion of
+         the hearing or may issue a written award no later than seven (7) calendar days
+         from the close of hearing excluding weekends and holidays. The arbitrator’s
+         award shall be based on the record and shall include a brief explanation of the
+         basis for the award.
+
+i.       The award shall be in writing and signed by the arbitrator. If the arbitrator
+         determines a formal opinion is necessary, the award will be in summary fashion.
+
+j.       The arbitration award shall not establish a precedent for any current or future
+         cases on the same or related subject unless the parties agree otherwise prior to
+         the hearing.
+                                                                              REV: 2015,2019, 2021
+
+
+### ARTICLE 53 - GENERAL PROVISIONS
+
+Section 1. Transfers.
+An involuntary transfer of an employee out of the bargaining unit occasioned by a
+reduction in force in that unit shall be done in inverse order of State service credit.
+
+Section 2. Withdrawal of Resignation.
+An employee who has given notice of resignation has up to twenty-four (24) clock hours
+during which to rescind the resignation.
+
+Beyond the twenty-four (24)-hour period, the resignation may be withdrawn only with
+the approval of the Appointing Authority.
+
+### ARTICLE 54 - STRESS/CAREER COUNSELING
+
+Section 1.
+Any employee, during the performance of the employee's work, who is seized and
+detained by force or threat, shall be allowed reasonable time off immediately after the
+incident to recover from any physical or psychological disability caused by the action.
+Any period of time beyond one (1) day necessary for purposes of readjustment shall be
+determined by the employee's physician or psychiatrist subject to verification by a
+physician or psychiatrist of the Agency's choice.
+
+2025 - 2027 Oregon Youth Authority             68                    Collective Bargaining Agreement
+Section 2.
+In the case of a critical injury or death to a current or former youth client, an employee
+may utilize accrued leave or leave without pay up to twenty-four (24) hours of leave to
+recover if the employee states he or she is unable to perform their own work duties.
+
+Section 3.
+Such leave as described in Section 1 and 2 above shall be charged against any
+accumulated time the employee has earned; however, where an employee is receiving
+compensation through Workers' Compensation or other victim compensation relief, such
+charges will be on a pro rata basis not to exceed the employee's regular salary.
+
+Section 4.
+Where an employee who has established a good work record develops improper work
+habits or excessive absenteeism, which may be evidence of job stress, the Agency shall
+attempt to establish the reasons behind the employee's poor work habits and shall
+counsel with the employee in an attempt to aid the employee in developing a program to
+begin improving those habits. Any admissions of the employee of wrong doing, which
+are brought out during such counseling sessions, shall not later be used against the
+employee in any subsequent disciplinary procedure unless otherwise proven. The
+Agency shall post and keep current all available educational programs, seminars, and
+workshops relating to stress management.
+                                                                                          REV: 2015
+
+
+### ARTICLE 55 - AGENCY SENIORITY
+
+Agency seniority is defined as total length of continuous Agency service. Agency is
+intended to include continuous service in the Oregon juvenile justice system under
+predecessor agencies. An employee’s seniority shall be computed from the date of the
+employee’s employment by the Agency in any capacity, except temporary appointment.
+
+Seniority shall be forfeited if an employee has a break in service by separation or
+termination from the Agency of more than one hundred eighty (180) calendar days,
+other than layoff, or fails to respond within five (5) consecutive work days after receiving
+notice by registered letter mailed to the last address on the Agency’s records, unless
+prevented from responding by conditions beyond the employee’s control.
+
+Seniority lists shall be prepared by the Agency, during January, updated periodically,
+and posted on bulletin boards.
+
+### ARTICLE 56 - MOVING EXPENSES
+
+Reimbursements and procedures will be in accordance with the Department of
+Administrative Services, Chief Human Resource Office Policy 40.055.10, and its
+successors. Changes in this policy will be automatically incorporated into this contract
+Article.
+### ARTICLE 57 - VOLUNTARY MEDICAL SEPARATION
+
+
+
+2025 - 2027 Oregon Youth Authority                 69                Collective Bargaining Agreement
+Section 1.
+A regular status employee with a serious health condition who has exhausted all of their
+own accrued paid leave balances may submit a written request to the Agency for a
+‘voluntary medical separation’. A voluntary medical separation is a voluntary
+resignation for medical reasons. The employee shall attach a doctor’s certification to
+the request attesting to the employee’s serious health condition.
+
+Section 2.
+If, based on the doctor’s certification, the employee has a serious health condition, the
+Agency will approve the employee’s written request for voluntary medical separation so
+long as the employee is not under investigation for any performance and/or misconduct.
+
+Section 3.
+An employee who receives a voluntary medical separation will be notified that they will
+be placed on the Agency’s Layoff List and may be eligible for recall provided all of the
+following conditions are met:
+       a.    The employee will be placed on the Agency’s Layoff List in order of
+             seniority but not eligible for recall until the employee becomes fit for duty.
+             To be fit for recall the employee must submit a doctor’s certification that
+             they are fit to return to work full-time without restrictions.
+
+         b.       The position the employee may be recalled back to is in the same
+                  classification they occupied before their voluntary resignation;
+
+         c.       The employee must meet the minimum qualifications and special
+                  qualifications for the recalled position;
+
+         d.       The employee will be eligible for recall only in their former bargaining unit
+                  and former work location (city/county);
+
+         e.       The employee will be eligible for recall to a position when there is a vacant
+                  position the Agency intends to fill;
+
+         f.       The employee’s name shall remain on the Agency Layoff List for two (2)
+                  years from the date of voluntary resignation, and,
+
+         g.       If the employee rejects a recall offer for their former work location, the
+                  employee’s name will be removed from the list.
+                                                                                            NEW: 2019
+### ARTICLE 58 – EXIT INTERVIEWS
+
+a.       If a regular status employee provides timely notice that they are voluntarily
+         separating from Agency service, the Agency will offer an exit interview that
+         focuses on the reason(s) for the employee leaving Agency service and what
+         changes they recommend to the Agency to improve Agency operations, or,
+
+b.       A Department of Administrative Services written instrument.
+
+
+
+2025 - 2027 Oregon Youth Authority                 70                   Collective Bargaining Agreement
+c.       Upon request, but no more than two (2) times a year, the Union can receive a
+         report of the Department of Administrative Services written instrument results
+         from employee feedback on their Agency experience.
+                                                                                      NEW: 2019
+
+
+### ARTICLE 59 – AIR QUALITY
+Section 1.
+The Air Quality Index (AQI) was developed by the US Environmental Protection Agency
+as an indicator of overall air quality and is based on the five (5) criteria pollutants
+regulated under the Clean Air Act: ground-level ozone, particulate matter, carbon
+monoxide, sulfur dioxide, and nitrogen dioxide. Employee exposure levels to wildfire
+smoke is determined by the current workplace ambient air concentration for particulate
+matter 2.5 (PM2.5), regardless of the concentrations for other pollutants.
+
+Section 2. Outdoor Work and Air Quality.
+Employees who are required to work outside when outdoor air concentration for PM2.5
+reach at or above 55.5 ug/m3 (equivalent to an AQI at or above 151) will be provided
+with the appropriate OSHA recommended safety equipment.
+
+Section 3.
+When elevated AQI levels require a building closure or delayed opening, the Inclement
+Conditions/Hazardous Condition Leave will apply. All other provision of Article 29—
+Inclement Weather/Hazardous Conditions apply for elevated AQI which falls under a
+Hazardous Condition.
+                                                                                      NEW: 2021
+
+
+### ARTICLE 60 – WORKING REMOTELY
+Section 1.
+Oregon state government encourages working remotely where it is a viable option
+that benefits both the employee and the agency. Use of remote work options promote
+the health and safety of Oregonians; ensures high-quality work and optimal use of
+resources for agencies; ensures cultural, equity and accessibility issues are
+addressed in a meaningful way; and supports flexibility and work-life balance for
+employees. It also offers the opportunity to be more flexible in interactions with the
+Oregonians we serve and decreases an agency's impact on the environment.
+Remote work arrangements are subject to the State Policy 50.050.01 (Working
+Remotely) and the terms and conditions of this collective bargaining agreement.
+
+Section 2.
+Where all or a portion of an employee’s duties can be successfully performed away
+from their primary duty station, an employee is eligible for remote work, upon agency
+approval.
+
+Section 3.
+Requests to work remotely may be initiated by an employee and must be approved by
+the employee’s supervisor to ensure that all or a portion of the position’s duties are
+suitable for remote work and meets the agency’s business and operational needs, as
+well as those of the agency’s customers and the employee. Remote work agreements
+must be documented through the working remotely process in the state human
+resources information system. Remote work requests will not be unreasonably denied.
+
+2025 - 2027 Oregon Youth Authority               71               Collective Bargaining Agreement
+Agency decisions will be made as soon as possible, but in no case more than thirty (30)
+days after the employee’s request. Where more than one (1) qualified employee
+requests remote work for a particular period of time and all requests cannot be
+accommodated, the remote work opportunities will be evenly distributed or rotated. Ad
+hoc in person meetings, trainings or other in-person requirements shall not be the sole
+reason to determine if an employee is ineligible for a remote and/or hybrid work
+agreement.
+
+Section 4. Remote Work Denials or Rescissions.
+If an employee’s request to work remotely is denied or rescinded, or permanently
+modified in any way, the supervisor must provide a written response within ten (10)
+calendar days to the employee documenting the reason(s) for the denial or
+rescission. In the case of remote work being rescinded, management shall include
+detailed information on why the job duties can no longer be completed remotely
+before a rescission is implemented. Remote work requests shall not be arbitrarily
+denied or rescinded. Upon request, the Union, and Employer shall meet at a
+mutually agreed upon time within fifteen (15) calendar days, to discuss the denial or
+rescission. Rescissions of remote work by the employer may be made with at least
+ten (10) calendar days advance notice. The Agency or the employee may terminate
+individual agreements, in whole or in part, upon at least ten (10) calendar days
+notice. The Employer will provide a minimum of thirty (30) calendar days’ advance
+notice if they are rescinding a remote work agreement for an employee who lives
+seventy-five (75) miles or more from their previously assigned worksite. Employees
+who have either rescinded their remote work or had their remote work rescinded by
+the employer shall be eligible to be considered for remote work in the future.
+Employees who rescind their remote work agreement, in whole or in part, shall be
+guaranteed a workspace at an Employer facility.
+Section 5. Inclement conditions may arise in remote work locations.
+If utility providers experience outages that prevent an employee from working,
+employees may access inclement weather/hazardous conditions leave, unless there
+is an alternate work location available.
+
+Section 6.
+a.    Any alleged violations of this article may be appealed directly to the DAS
+      Labor Relations Unit within thirty (30) days of the alleged violation. Such
+      appeals are not arbitrable.
+
+b.       Any alleged violations of sections (3) or (4) of this article may be appealed
+         directly to an appeal panel consisting of a representative of the DAS LRU and
+         a Union designee. Decisions and remedies shall be rendered by the panel no
+         later than thirty (30) days after receipt of the appeal by the panel. The decision
+         and remedy are not arbitrable and will be binding on the parties. If no decision
+         is rendered by the panel then the supervisor’s decision will stand.
+
+Section 7. Equipment.
+In the event of equipment malfunction or other circumstances which may interfere
+with the performance of work assignments, the employee shall promptly notify the
+supervisor. The agency provides basic technology equipment and related devices
+necessary for the employee to perform their assigned job duties at the primary or
+
+2025 - 2027 Oregon Youth Authority             72                     Collective Bargaining Agreement
+alternate worksite. The equipment and devices are for agency business only and
+must comply with the agency’s desktop security and maintenance policies and
+practices. Employees will not conduct state business on the following personal
+equipment: phones, computers, laptops or other information storing devices.
+Exceptions are subject to the approval of the State Chief Operating Officer.
+Additional technology and devices may be provided to the employee at the discretion
+of the agency or in accordance with the Americans with Disabilities Act (ADA).
+
+Employees who work remotely will enter all assets (equipment, office furniture, etc.)
+provided to them in the state human resources information system.
+
+Section 8. Remote Work Supplies.
+Remote work office supplies shall be provided by the Agency. Equipment, software or
+supplies which are provided by the Agency for remote work shall be for the purposes
+of conducting Agency business only.
+
+Section 9. Remote Worksite.
+Office furniture shall normally be provided by the employee working remotely. Subject
+to management approval, employees working remotely may access the State surplus
+warehouse for office furniture for their remote work location. An ergonomic study may
+be requested by the employee or the supervisor.
+
+The employee maintains a safe remote workspace. The employee must immediately
+report to the supervisor any injury that occurs during work hours. The state is not
+responsible for loss, damage, repair, replacement or wear of personal property.
+
+SAIF or Agency safety representatives shall have reasonable access to the home
+worksite to conduct accident investigations or job site evaluations.
+
+Section 10. Work Location, Mileage and Travel Time.
+The employee’s central worksite will be assigned by the agency. In addition,
+employees may be required to report to Agency or non-Agency locations for
+purposes such as meetings, training sessions and policy/practice coverage. For
+hybrid work agreements, employees shall request approval to flex in-office workdays
+as needed. Business visits, meetings with Agency customers or meetings with co-
+workers shall not be held at the remote worksite unless approved by the employee’s
+supervisor. Mileage will be paid in accordance with the DAS OAM Travel Policy.
+Travel time will be compensated in accordance with the Fair Labor and Standards
+Act (FLSA). Effective September 1, 2023, employees will no longer be reimbursed for
+travel expenses between the alternate workplace and the central workplace,
+regardless of their remote work status. This change is not intended to impact
+employees otherwise entitled to travel expenses per the Oregon Accounting Manual
+and/or DAS Policy Working Remotely 50-050-01.
+
+Section 11. Expectations and Goals.
+Remote work employees and their managers will develop a clear set of expectations
+and goals for the work to be performed on remote work days. Such expectations may
+include checking E-Mail and voice-mail on a regular basis and returning phone calls
+in a timely manner. Employees will review and acknowledge the State of Oregon
+
+2025 - 2027 Oregon Youth Authority         73                    Collective Bargaining Agreement
+Employees Working Remotely Acknowledgement Form in the state human resources
+information system.
+
+Section 12. Training.
+Appropriate training will be provided for participating managers and employees.
+
+Section 13. Other Provisions.
+These provisions are applicable to all Sections listed above.
+      A.     Call back and overtime will be handled as outlined in the applicable
+             provisions of this collective bargaining agreement.
+      B.     Since supervisors must continue to be in a position to evaluate
+             employee performance, certify the accuracy of time sheets and
+             attendance records, and perform a variety of other supervisory
+             responsibilities, employees should anticipate that, in addition to being
+             supervised pursuant to normal office procedures, there will also be the
+             possibility that they will receive telephone calls at the phone number
+             employees have designated in their remote work arrangement.
+      C.     In the event of a work stoppage, remote work arrangements utilized by
+             represented employees shall be suspended.
+      D.     Members have the right to Union representation as enumerated in this
+             collective bargaining agreement or as guaranteed by the law.
+      E.     The Agency or the Union may initiate discussions with the other party to
+             develop working groups to consider options relating to remote work.
+      F.     The Agency shall not compel an employee to work remotely.
+             Employees who choose to work in office shall be guaranteed a
+             workspace at an Employer facility.
+                                                                    NEW: 2021 REV: 2023,2025
+
+
+### ARTICLE 61 – QUARTERLY CHECK-INS
+
+Supervisory managers shall conduct check-ins with their employees on a quarterly
+basis. If a quarterly check-in does not occur, the employee may request a check-in
+for the missed time period. Supervisory managers shall conduct the requested
+check-in within thirty (30) calendar days.
+
+The employee shall have the opportunity to provide their input during the quarterly
+check-in. Any notes completed during the quarterly check in made about an
+employee shall be provided to the employee, and made available to the employee
+upon request.
+
+Quarterly check-ins are not grievable nor arbitrable under this Agreement.
+                                                                      NEW: 2021 REV:,2023
+
+
+
+
+2025 - 2027 Oregon Youth Authority            74                 Collective Bargaining Agreement
+### ARTICLE 62 – INCIDENTAL EXPENDITURES
+
+The Agency agrees to make snacks and beverages available to each field office as an
+option for staff to provide to youth in their custody during transports.
+
+The State pays for meals for youth in OYA placements. Therefore, every attempt
+should be made to secure a sack lunch when a transport is scheduled through the
+youth’s meal period. However, it is understood that circumstances occur where a sack
+lunch may not be available. As such, employees shall be entitled to reimbursement for
+expenses incurred on behalf of youth under the following conditions:
+      a.     transporting a youth through the youth’s regular meal period.
+
+         b.       a meal is not otherwise available to the youth, and
+
+         c.       the employee purchases a meal for the youth.
+                                                                                            NEW: 2021
+
+
+
+### ARTICLE 63 - PAID LEAVE OREGON (PLO)
+
+Paid Leave Oregon is administered by the Oregon Employment Department. The State
+of Oregon, as an employer, shall comply with the provisions of Paid Leave Oregon, as
+provided for in the DAS statewide Paid Leave Oregon Policy (60.000.04), including but
+not limited to the following section on Use of Paid Leave:
+
+Section 1.
+Employees may choose and will be allowed to use sick, vacation, or personal business
+leave to make up any difference between Paid Leave Oregon benefits and their average
+weekly wage, as determined by the Oregon Employment Department. An employee
+receiving Paid Leave Oregon benefits and who is protected by Family and Medical
+Leave or Oregon Family Leave (FMLA/OFLA) will use accrued leave in accordance with
+any existing contract language relating to FMLA/OFLA.
+                                                                                            NEW: 2023
+
+### ARTICLE 64 - ESSENTIAL WORKER PAY
+
+When a situation exists that would otherwise close or curtail state offices, essential
+workers having to report to work, in-person, shall receive the Essential Worker
+Inclement Weather/Hazardous Conditions Pay differential.
+
+The Essential Worker Inclement Weather/Hazardous Conditions Pay differential shall be
+four dollars ($4.00) per hour. Employees will be paid for their whole shift that falls within
+a designated closure day, regardless of the starting or ending time of the closure.
+Employees will be paid for their whole shift when their shift falls during a curtailment.
+
+Staff working at agencies with 24/7 operations that are not curtailed shall receive the
+Essential Worker Inclement Weather/Hazardous Conditions Pay benefits when any
+state agency offices are formally closed by DAS or ODOT in accordance with State HR
+Policy 60.015.01 within the county of their worksite. For 24/7 operations, if inclement
+weather occurs on a weekend (and would normally result in a closure of a state agency
+office in the county of their worksite during Monday through Friday), staff shall receive
+2025 - 2027 Oregon Youth Authority              75                      Collective Bargaining Agreement
+the Essential Worker Inclement Weather/Hazardous Conditions Pay. DAS or ODOT will
+determine if a closure would have occurred on a weekend and/or a holiday when state
+offices are otherwise closed.
+                                                                                  NEW: 2025
+
+                                                                                   //////////////////
+
+
+
+
+2025 - 2027 Oregon Youth Authority       76                   Collective Bargaining Agreement
+### LETTER OF AGREEMENT – ARTICLE 13, PEBB MEMBER ADVISORY COMMITTEE
+
+This Agreement is between the State of Oregon, acting through its Department of
+Administrative Services (Employer) and AFSCME Council 75 (Union).
+
+The Employer and Union share a commitment to PEBB achieving its vision of better
+health, better care and affordable costs. Both Parties recognize that the structure of
+PEBB is authorized in Oregon Revised Statutes, and is also designed to provide the
+input and perspective of members in PEBB decisions. In addition, the Employer and
+Union representatives share governance and decision making within the authorized
+structure of PEBB. The Employer and the Union share an interest in further informing
+the PEBB decision making process through an additional layer of direct member
+engagement in health and wellness.
+
+Therefore, the Parties agree to the following:
+      1.     PEBB is directed to create and staff a PEBB Member Advisory Committee
+             (PMAC).
+      2.     The PMAC will be comprised of PEBB members, including both
+             management and labor, with up to four (4) members appointed by
+             AFSCME. Appointment to the PMAC will be for a two (2) year period.
+             Management will select the co-chair, one management and labor will
+             select theirs.
+      3.     The PMAC will meet at least once per calendar quarter.
+      4.     The PMAC will provide advice on:
+             a.       Member engagement
+             b.       Health and Welfare strategies including the Health Engagement
+                      Model and wellness programs.
+             c.       Education and engaging members as active leaders in their health.
+      5.     PEBB is required to present updated to the PMAC about the progress
+             towards its vision of better health, better care and affordable costs.
+      6.     Participants on the committee will be in paid status and shall be
+             reimbursed as per state travel policy. Agencies will not incur any overtime
+             liability as a result of committee meetings or travel.
+
+This Agreement will sunset on June 30, 2027.
+
+
+
+
+2025 - 2027 Oregon Youth Authority         77                    Collective Bargaining Agreement
+### LETTER OF AGREEMENT – ARTICLE 14 - SALARY AND BENEFIT REPORT
+
+This Agreement is between the State of Oregon, acting through its Department of
+Administrative Services (DAS) and the AFSCME Local 75, (Union).
+DAS Classification and Compensation will provide a draft Salary and Benefit report to
+AFSCME no later than December 31 of even numbered years. AFSCME will have 14
+calendar days to review and comment on the draft report. DAS Classification and
+Compensation will provide the final report to AFSCME no later than January 31.
+
+If the DAS Classification and Compensation Unit intends to modify the methodology
+used in the most recent salary and benefit report, ASCME will be given an opportunity
+to provide feedback to identify key areas of concern and opportunities for improvement,
+as well as providing insight into the climate and concerns of the employee population.
+
+DAS Classification and Compensation is committed to providing the Union with a
+training on the State’s salary selective process.
+
+This Letter of Agreement will sunset on June 30, 2027, unless extended by mutual
+agreement.
+
+
+
+
+2025 - 2027 Oregon Youth Authority         78                    Collective Bargaining Agreement
+### LETTER OF AGREEMENT - ARTICLE 30, CONTRACTING OUT
+                              FEASIBILITY STUDY
+
+This Letter of Agreement is entered into between the State of Oregon Department of
+Administrative Services, on behalf of all State Agencies covered by the State of Oregon
+and AFSCME Central Table.
+
+When the provisions of Article 12, Section 5, require a feasibility study, the following will
+apply:
+
+         The Employer will count eighty percent (80%) of the affected employee’s
+         straight-time wage rate when comparing the two (2) plans.
+
+This Agreement is effective through June 30, 2027.
+
+
+
+
+2025 - 2027 Oregon Youth Authority            79                     Collective Bargaining Agreement
+### LETTER OF AGREEMENT – NEW EMPLOYEE NOTICE/UNION ACCESS
+
+    Notice
+              a. The Employer shall provide the Union, in an editable digital file format, the
+                 following information for each employee quarterly:
+                       i. Employee name; date of hire; EIN
+                      ii. Contact information, including: cell, home and work telephone
+                          numbers (when available);
+                     iii. Means of electronic communication, including work, personal
+                          electronic mail address;
+                     iv. Home address or personal mailing address; and
+                      v. Department/Agency/Office, Job Classification, Job Title, base
+                          salary, and work site location.
+              b. Each business day, the Employer shall provide a report of newly hired
+                 AFSCME represented workers as long as the new hire business process
+                 has been successfully completed in the business day prior.
+              c. The State CHRO information unit will provide AFSCME with a report of
+                 new, terminated, retired or transferring employees in AFSCME covered
+                 positions no later than the 10th of each month.
+
+    New Employee Onboarding
+         a. Within the first ten (10) calendar days from the date of hire, the Union
+            representative shall be granted thirty (30) minutes of paid time to meet
+            with the new employees without loss of pay. Designated representatives
+            shall be given time off with pay to make the presentation. Employee
+            attendance at the Uplift Oregon benefits workshop does not prevent an
+            employee from attending a union presentation at a union new employee
+            orientation.
+         b. Employees within their first twelve (12) months days of employment shall
+            be allowed an additional one hundred and twenty (120) minutes of paid
+            time to meet with a Union representative for follow-up orientation issues
+            without loss of pay.
+         c. All AFSCME State agencies shall send their new employees to the Uplift
+            Oregon benefits workshop. AFSCME State agencies shall send their new
+            employees to the training with in fourteen (14) days of hire. The Union
+            shall have time allotted during this training to share union information with
+            AFSCME represented employees.
+         d. Meetings under this Section may remain confidential.
+
+
+
+
+2025 - 2027 Oregon Youth Authority              80                     Collective Bargaining Agreement
+### LETTER OF AGREEMENT – OREGON UNIONS STATE WORKER TRAINING FUND
+
+The Parties recognize that both the State and its workers benefit from workers
+understanding their different health care options, understanding their retirement benefits
+and finding solutions to increase wellness and equity in the workplace
+
+Therefore, the State of Oregon, along with participating unions will work together to
+come up with creative and long-term solutions by working in collaboration to develop
+and deliver the trainings.
+
+In order to accomplish these goals, the Parties will:
+    • Establish a State Worker Training and Education Fund (Oregon Unions State
+       Worker Training Fund), appoint the State Worker Fund governing board of
+       trustees of ten (10) people with equal representation from union representatives
+       and Employers, and hire a qualified leader (“Director”) to report to such board of
+       trustees.
+           o Union Representatives will be split proportionally between participating
+               labor unions.
+    • Fund the start-up of the State Worker Training Fund from October 1, 2019 to
+       June 30, 2020. The start-up will be funded by an Agency assessment of one
+       cent ($0.01) per hour per employee of straight-time worked that would be due to
+       the trust no later than October 1, 2019 in order to hire a director and choose one
+       (1) or two (2) pilot locations to learn and adjust a roll out of a statewide plan.
+       Ongoing, State Worker Training Fund will be funded two cents ($0.02) per hour
+       worked, including all paid leaves, per employee starting July 1, 2020 with a goal
+       of the training and resources being available statewide by January 1, 2021.
+       Agencies can pay monthly. At a minimum, per hour payments will be paid
+       quarterly.
+           o Agencies with under fifty (50) employees shall not make per hour
+               payments.
+
+The State Worker Training Fund will develop a plan to deliver trainings and programs
+on:
+    • PEBB and PERS. The PEBB and PERS training will be mandatory for new hires
+      and the PEBB training will be offered within fourteen (14) days of a new hire.
+      When possible, employees’ will sign up for their health insurance after going
+      through the PEBB training.
+    • Organizational Equity and Inclusion. Creating trainings focused on ensuring
+      nondiscrimination and best practices to equity and inclusion in the workplace.
+    • Wellness. The wellness initiatives should focus on agencies where there are
+      clear challenges identified by management and bargaining unit. The trust shall
+      identify one (1) Agency to pilot the wellness initiative.
+    • After a program is developed for the first three (3) stated goals, the Board of
+      Trustees will discuss other programs that potentially meet goals identified by the
+      State and the Unions.
+
+
+
+
+2025 - 2027 Oregon Youth Authority           81                    Collective Bargaining Agreement
+### LETTER OF AGREEMENT – CONTRACT SPECIALIST
+
+
+This Agreement is between the State of Oregon, acting through its Department of
+Administrative Services (Employer) on behalf of all Agencies covered under the
+jurisdiction of the AFSCME Central Table (Agency) and AFSCME Council 75 (Union).
+
+The purpose of this Agreement is to establish Employer paid Contract Specialists to
+improve labor/management relationships at all levels of state government.
+
+The Parties agree to the following:
+
+Selection and Appointment of Contract Specialists:
+A.     The selection and appointment of a Contract Specialist shall be mutually agreed
+       upon by the Employer and Union.
+B.     The Union may have four (4) Contract Specialist positions from Agencies that are
+       within the jurisdiction of the AFSCME Central Table and Department of
+       Corrections.
+C.     The duration of a Contract Specialist shall be mutually agreed upon by the
+       Employer and Union.
+D.     The Parties shall establish an agreement which shall be signed by all Parties
+       stipulating to the terms and conditions of the Contract Specialist assignment.
+E.     Employees selected as Contract Specialist must maintain all necessary
+       certifications, licensures and training requirements of their Agency position with
+       costs and reimbursements if applicable governed under the Agreement.
+F.     While the State is the Employer of record, the Union has the sole control,
+       oversight and direction of employees appointed as Contract Specialists.
+       Therefore, the Union shall indemnify and save the Employer harmless from any
+       and all costs, should any arise, associated with actions taken by the Contract
+       Specialist on behalf of the Union.
+G.     In the event the Employer/Agency determines a Contract Specialist is potentially
+       violating law or not complying with Employer/Agency policies or the local Agency
+       Collective Bargaining Agreement, the Agency shall immediately notify the Union.
+        The Agency shall investigate the matter and take action as necessary consistent
+       with the local Agency Collective Bargaining Agreement including disciplinary
+       action. Before any Agency action is taken, the Union may remove the employee
+       from the assigned worksites.
+
+Pay and Benefits:
+A.    The Agency shall continue to pay salary and benefits which includes pension
+      contribution, insurance and paid leave time consistent with what they earned
+      before their appointment. Employees appointed as a Contract Specialist shall
+      not be eligible for reimbursement for uniforms, boots or other ancillary items
+      while serving as a Contract Specialist the specifics which will be noted in the
+      employee’s Contract Specialist agreement.
+B.    Contract Specialists shall submit monthly timesheets recording a maximum of
+      forty (40) hours of work each week. The timesheet shall be signed and verified
+      by the Executive Director or designee of the Union. All leave taken, regardless of
+      type, must be clearly identified.
+
+2025 - 2027 Oregon Youth Authority          82                    Collective Bargaining Agreement
+C.       The Agency shall place the Contract Specialist on leave with pay for the duration
+         of the assignment. The calculation of seniority shall be consistent with the terms
+         of the applicable local Agency Collective Bargaining Agreement.
+D.       Where the Union has designated Contract Specialist, the Agency shall pay up to
+         eighty-five thousand ($85,000) a year for the Contract Specialist which includes
+         pay and benefits. Any costs above eighty-five thousand ($85,000) per year shall
+         be paid by the Union by reimbursing the Agency using Agency established
+         policies and procedures for reimbursement.
+E.       The Agency shall not be liable for any overtime costs while the Contract
+         Specialist is on assignment with the Union.
+
+Travel and Reimbursements:
+A.     Time spent traveling on behalf of the Union shall be on Agency time. The Union
+       shall be responsible for time spent traveling if such travel extends beyond forty
+       (40) hours in a workweek.
+B.     The Union shall be responsible for all travel expenses including but not limited to
+       mileage, lodging, meals and other incidental travel expenses.
+C.     Contract Specialists shall not use or be assigned a state car for travel.
+
+Duties:
+A.    The Contract Specialist, DAS Labor Relations Unit and Agency Human
+      Resources staff shall work cooperatively when performing the following duties:
+      1.      Interpret and administer the local Agency Collective Bargaining
+              Agreement.
+      2.      Education on the local Agency Collective Bargaining Agreement.
+      3.      Provide guidance in grievance and problem resolution.
+      4.      Improve steward capacity.
+      5.      Work toward consistent application of the local Agency Collective
+              Bargaining Agreement.
+      6.      Provide guidance on developing and improving labor/management
+              committees.
+      7.      Participate in new employee orientation as provided for in the local
+              Agency Collective Bargaining Agreement.
+      8.      Attend labor management committee meetings as a non-participating
+              member, unless they are participating for their own local, in which case
+              they shall be able to attend as a neutral participant.
+B.    If a DOJ attorney is appointed to serve as a Contract Specialist, the attorney
+      shall stipulate in the signed agreement that they will not practice law as that term
+      is used in law and Oregon State Bar rules, regulations, official opinions and
+      decisions.
+C.    The Contract Specialist shall follow all applicable Employer and Agency policies
+      while serving in the capacity of a Contract Specialist.
+D.    The Contract Specialist shall not be assigned duties that involve the following:
+      strike preparation, strike planning, strike coordination activities or interest
+      arbitration preparation, BOLI claim preparation, and Unfair Labor Practice
+      preparation filing grievances, leading contract negotiations, acting in the role of a
+      union steward, and participation and other actions taken by the Union in a legal
+      forum.
+
+
+2025 - 2027 Oregon Youth Authority            83                    Collective Bargaining Agreement
+E.       Contract Specialists who remain in their official Union delegate or Board member
+         role during their Contract Specialist assignment are required to use paid leave or
+         temporarily modify their schedule while performing official union delegate or
+         board duties.
+
+Dispute Resolution:
+Notwithstanding any agreements that include grievance/arbitration procedure, if there is
+a disagreement between the Employer and the Union regarding the interpretation and
+application of this Letter of Agreement, the Employer and Union shall meet and attempt
+to resolve the matter. If, after fourteen (14) calendar days there no resolution, the
+moving party may request arbitration. The Parties shall use the arbitration procedure
+outlined in the agreement where the employee is employed.
+
+Indemnification:
+The Union shall indemnify and the Union and Contract Specialists hold the Employer
+and Agency harmless against any and all claims, damages, suits or other forms of
+liability which may arise out of any action taken or not taken by the Employer/Agency for
+the purpose of complying with this Letter of Agreement on Contract Specialists.
+
+The Union shall not indemnify the Employer/Agency for grievance/arbitration disputes.
+
+Term of Agreement:
+This Agreement becomes effective on the date of the last signature and ends on June
+30, 2027 unless renewed by the Parties or the Parties agree to amend its provisions.
+
+
+
+
+2025 - 2027 Oregon Youth Authority            84                    Collective Bargaining Agreement
+### LETTER OF AGREEMENT – STATE POLICY 50.050.01 WORKING REMOTELY
+                            UPDATES
+
+This Letter of Agreement is between the State of Oregon, acting through its Department
+of Administrative Services (Employer on behalf of the Agencies covered under the
+jurisdiction of the AFSCME Central Table (Agencies) and AFSCME Council 75 (Union).
+
+The Parties acknowledge that nothing in this Agreement shall constitute a waiver of any
+Party’s rights, claims or defenses with respect to mandatory subjects of bargaining and
+the impacts of changes to the state policy 50.050.01 Working Remotely policy.
+
+This Agreement becomes effective on the date of the last signature below and ends
+June 30, 2027.
+
+
+
+
+2025 - 2027 Oregon Youth Authority         85                    Collective Bargaining Agreement
+### LETTER OF AGREEMENT – EQUAL PAY
+
+This Agreement is entered into by the State of Oregon, acting through its Department of
+Administrative Services, Labor Relations Unit (Employer), on behalf of the Agencies
+covered by this Agreement (Agency) and the AFSCME Council 75 (Union).
+
+This Agreement applies to all of the Union’s bargaining units inside of the executive
+branch of state government.
+
+The purpose of this Agreement is to provide procedures to implement unscheduled
+equal pay adjustments consistent with Oregon law, and, to identify the appeal
+procedure to have Agency or Employer decisions concerning equal pay reviewed.
+
+The Parties agree to the following:
+1.    Application to Current Employees: The Employer, an Agency Head or designee
+      (with CHRO approval) may provide an unscheduled salary step increase to
+      correct a pay inequity between employees who perform work of a comparable
+      character and are similarly-situated based on relevant factors, identified in
+      Oregon Revised Statute [ORS 652.220(2)], by which individual employees may
+      be compensated differently. Unscheduled salary step increases may be initiated
+      by:
+      (a)     Periodic statewide equal pay analysis (appeal process section 10)
+      (b)     Employee request (appeal process section 9)
+      (c)     Agency identified inequity (appeal process section 9)
+2.    Application to Returning Employees (including but not limited to reemployment
+      and return from layoff): An Agency Head or designee may offer a higher step
+      than prescribed in the applicable labor agreement when the Agency identifies a
+      pay inequity between employees in the same classification who perform work of
+      a comparable character.
+3.    If an Agency plans to grant an unscheduled salary step increase to an
+      employee(s), the Agency shall first forward the recommendation to CHRO,
+      Classification & Compensation for review and analysis. The CHRO shall
+      approve or disapprove the Agency recommendation and shall provide a written
+      response back to the Agency. If approved, the Agency may take action to
+      implement the equal pay adjustment.
+4.    An employee may request an equal pay review by submitting a written request to
+      the Agency Human Resource Department. This includes employees who are
+      appealing equal pay assessments conducted at the time of hire or internal
+      movements (transfer, promotion, etc.) to new positions where equal pay
+      assessments are performed. The Agency Human Resource Department shall
+      review the merits of the request based on the relevant factors and issue a written
+      decision within sixty (60) calendar days, unless otherwise mutually agreed upon
+      in writing.
+5.    Equal pay adjustments are effective on the date an employee made a written
+      request to the Agency or the date the Agency submitted a request to DAS
+      Classification and Compensation Unit, whichever was earlier.
+6.    In the event an employee receives an unscheduled salary step adjustment for
+      any of the reasons identified in Section 1, the employee’s benefit service date
+      shall remain the same.
+2025 - 2027 Oregon Youth Authority           86                  Collective Bargaining Agreement
+7.       Agencies shall retain all documents pertaining to decisions involving equal pay.
+8.       If the employee meets with the Agency or Employer, the employee may request
+         and obtain Union representation.
+9.       Appeal Procedure - Agency Level Equal Pay Decisions.
+         (a)     If an employee wishes to appeal an Agency’s pay equity decision as filed
+                 under Section 4 of this Agreement, the employee shall submit a completed
+                 Pay Equity Appeal Form to the Agency Head (or designee) within fifteen
+                 (15) days of receipt of the Agency’s decision. The Agency shall respond
+                 to the appeal within thirty (30) days of receipt of the appeal. The appeal
+                 must be based on one (1) or more of the factors listed in ORS 652.220(2)
+                 and the compensation of other employees performing work of a
+                 comparable character.
+         (b)     If the employee disagrees with the Agency’s decision, the employee, or
+                 the Union on the employee’s behalf, may submit a written appeal to the
+                 Department of Administrative Services Labor Relations Unit (LRU) no later
+                 than thirty (30) calendar days from receipt of the Agency’s decision. The
+                 employee, or the Union on the employee’s behalf, shall forward all written
+                 documents as part of the appeal. The employee shall identify factors, as
+                 outlined above, the Agency did not properly consider. The Department of
+                 Administrative Services Labor Relations Unit (LRU) shall respond to the
+                 appeal in writing within thirty (30) calendar days.
+         (c)     Equal Pay appeals are not subject to arbitration. However, nothing in this
+                 Agreement precludes the employee from submitting a claim to the Bureau
+                 of Labor and Industries (BOLI) in accordance with BOLI’s administrative
+                 rules or pursuing other legal recourse. The timelines for filing with BOLI or
+                 pursuing other legal recourse apply regardless of whether the employee
+                 appeals the decision under this section.
+         (d)     For purposes of this Agreement only, the appeal process in this
+                 Agreement replaces the grievance procedure outlined in the applicable
+                 labor agreement covering the employee.
+         (e)     The Employer and Union may agree to an extensions of time in this
+                 Agreement upon mutual agreement in writing.
+10.      Appeal Procedure – DAS Statewide Equal Pay Analysis Decisions
+         (a)     An employee may appeal the Employer’s decision concerning the
+                 employee’s salary that resulted from a statewide equal pay analysis. The
+                 appeal must be based on one (1) or more of the factors listed in ORS
+                 652.220(2) and the compensation of other employees performing work of
+                 a comparable character.
+         (b)     An appeal of the Employers’ equal pay analysis decision may be filed by
+                 sending a completed DAS Equal Pay Appeal Form no later than thirty (30)
+                 calendar days from the date the employee receives notification of the
+                 equal pay analysis results. The Employer shall make a good faith effort to
+                 respond with a decision regarding the employee’s appeal within one
+                 hundred and twenty (120) calendar days.
+         (c)     The timelines for filing with BOLI or pursuing other legal recourse apply
+                 regardless of whether the employee appeals the Employer’s decision
+                 under this section.
+         (d)     Pay adjustments made as a result of accepted appeals shall have the
+                 same effective date as the date set for the Statewide Equal Pay Analysis.
+
+2025 - 2027 Oregon Youth Authority             87                     Collective Bargaining Agreement
+                The most recent Statewide Equal Pay Analysis was conducted in January
+                2024 and Subsequent Statewide Equal Pay Analysis shall be conducted
+                every three years thereafter. DAS shall provide written notice to the Union
+                of the implementation date of any Statewide Equal Pay Analysis.
+         (e)    To be eligible to file an appeal of the DAS statewide equal pay analysis
+                decision an employee must have been employed by a state executive
+                branch agency as of the effective date of the Statewide Equal Pay
+                Analysis. Employees who do not meet this eligibility requirements may
+                pursue an appeal through Section 9 of this Agreement.
+         (f)    Employees at the top step of the salary range assigned to their job
+                classification on or before the effective date of the Statewide Equal Pay
+                Analysis, are not eligible to file an appeal.
+         (g)    The Employer shall notify an employee in writing of the outcome of the
+                employee’s appeal, including reasons for the decision.
+         (h)    If the employee disagrees with the Employer’s response, the employee
+                may submit a claim to the Bureau of Labor and Industries or pursue other
+                legal recourse. Equal Pay appeals are not subject to arbitration.
+         (i)    For purposes of this Agreement only, the appeal procedure in this
+                Agreement replaces the grievance procedure outlined in the applicable
+                labor agreement covering the employee.
+11.      This Agreement becomes effective on the date of the last signature below and
+         expires June 30, 2027.
+
+
+
+
+2025 - 2027 Oregon Youth Authority            88                    Collective Bargaining Agreement
+### LETTER OF AGREEMENT – STATEWIDE LABOR MANAGEMENT COMMITTEE
+
+This Agreement is entered into by the State of Oregon, acting through its Department of
+Administrative Services, Labor Relations Unit (Employer), on behalf of the Agencies
+covered by this Agreement (Agency) and the AFSCME Council 75 (Union).
+
+The Parties shall establish and maintain a Statewide Labor Management Committee
+(LMC) to facilitate collaboration.
+
+AFSCME may have ten (10) labor representatives from Central Table Bargaining units
+participate in the LMC. The State may have ten (10) employer representatives from
+Central Table Agencies participate in the LMC. Two (2) AFSCME Staff and two (2)
+DAS Labor Relations Managers may also participate.
+
+The committee shall meet on a monthly basis for the first six (6) months after ratification
+and will reassess meeting frequency as needed. Parties shall send agenda items at
+least one (1) week prior to each meeting. LMC facilitation shall rotate between Parties.
+The party facilitating shall be responsible for finalizing and distributing the agenda.
+Parties may mutually agree to cancel LMC.
+
+Participants on the Committee will be on paid status and shall be reimbursed for
+authorized travel expenses when in-person meetings are mutually agreed to as per
+State Travel Policy. Agencies will not incur any overtime as a result of Committee
+meetings or travel. Flexing schedules will be allowed to avoid overtime.
+
+This Agreement becomes effective on the date of the last signature and expires June
+30, 2027.
+
+
+
+
+2025 - 2027 Oregon Youth Authority           89                     Collective Bargaining Agreement
+### LETTER OF AGREEMENT – ADMINISTRATIVE LEAVE/DUTY STATIONED AT
+                HOME INVESTIGATION COMMUNICATION
+
+This Agreement is between the State of Oregon, acting through its Department of
+Administrative Services (Employer) on behalf of all Agencies covered under the
+jurisdiction of the AFSCME Central Table (Agency) and AFSCME Council 75 (Union).
+
+When an employee is placed on administrative leave or duty stationed at home, the
+agency shall have a discussion with the employee regarding agency communication.
+The employee and agency will decide, by mutual agreement, on the frequency and the
+designee for agency check-ins with the employee. The agency shall meet the mutually
+agreed upon commitment during the duration the employee is on administrative leave or
+duty stationed. Either Party may request a change to that communication at any time.
+
+
+
+
+2025 - 2027 Oregon Youth Authority        90                   Collective Bargaining Agreement
+### LETTER OF AGREEMENT – STRUCTURAL CHANGES TO PAY PRACTICES
+
+This Letter of Agreement is between the State of Oregon, acting through its Department
+of Administrative Services (Employer), and the AFSCME Council 75 (Union).
+
+The Parties agree to the following:
+      1.     Based on the timeline set out in this LOA, the State will implement the
+             following structural changes to the State’s pay practices:
+             a.     The State will pay employees utilizing a lag period (rather than
+                    forecasting hours).
+             b.     The State will pay FLSA non-exempt employees on an hourly
+                    basis.
+             c.     The State will transition all employees to bi-weekly pay periods.
+      2.     The current Workday configuration complies with the 2025-2027 Collective
+             Bargaining Agreement for the duration of the Agreement.
+      3.     During the term of the 2025-2027 contract, a joint labor-management
+             advisory committee will be established to discuss and make
+             recommendations to the Payroll Transformation Governance Committee.
+             The advisory committee shall be comprised of ten (10) members, with four
+             (4) AFSCME represented employees appointed by the Union, four (4)
+             management representatives, one (1) AFSCME staff and one (1) DAS
+             State Labor Relations Manager. The Union and State may have additional
+             staff work with the committee as needed.
+             a.     The advisory committee shall meet on a schedule it chooses, but
+                    no less frequently than once per month.
+             b.     Committee and workgroup members convened in accordance with
+                    the LOA will be on paid status and shall be reimbursed for
+                    authorized travel expenses as per State Travel Policy. Agencies
+                    will not incur any overtime as a result of committee meetings or
+                    travel. Flexing schedules will be allowed to avoid overtime.
+      4.     The advisory committee will be tasked with the following items:
+             a.     The committee will review the time entry interface and payslips, and
+                    make recommendations for user experience and clarity.
+             b.     The committee will preview and give feedback on the payroll
+                    training programs that are created for employees.
+             c.     The opportunity to participate as users to conduct testing during the
+                    testing phases of the project.
+             d.     Assist with planning, reviewing and advising on payroll related
+                    communications (including topics, types and frequency).
+             e.     Provide recommendations for employee payroll training (including
+                    topics, types and frequency), support, and technical assistance.
+             f.     Identify and create toolkits that include transition support resources
+                    available to employees at no cost, such as financial counseling
+                    services and planning resources.
+             g.     The advisory committee will develop a plan and recommended
+                    timeline for transitioning agencies whose workweek is not currently
+                    a Sunday to Saturday workweek to that workweek.
+             h.     The committee will identify the areas of the Collective Bargaining
+                    Agreement where the agreed upon structural changes are applied
+
+2025 - 2027 Oregon Youth Authority          91                     Collective Bargaining Agreement
+                         such as: pay dates, pay frequency, references to monthly salary
+                         versus hourly pay, deductions, leave accruals, holiday proration,
+                         union dues, PEBB contributions, etc. This list is not exhaustive and
+                         may be expanded as the contract is reviewed by the committee in
+                         preparation of implementing the structural changes. These
+                         recommendations will be shared with the union and state
+                         bargaining teams prior to the commencement of 2027-2029
+                         successor negotiations.
+         5.       The Transformation Project team will provide the following to the advisory
+                  committee:
+                  a.     The list of finalized system requirements.
+                  b.     Monthly updates on project progress including, but not limited to:
+                         anticipated project schedule, milestones completed, and
+                         information on upcoming project work.
+                  c.     Independent Quality Management Status (IQMS) reports on a
+                         regular basis, but no less than quarterly.
+                  d.     Changes to Appendix A.
+         6.       Timely and Accurate Pay:
+                  a.     It is the Employer’s responsibility to ensure timely and accurate
+                         pay.
+                  b.     Employees are expected to prepare and present accurate and
+                         timely documentation of their time and attendance.
+                  c.     Supervisors must review all entries on the employee’s time record.
+                         The review should consider each time element reported as well as
+                         considering time elements not reported. If errors are detected on
+                         the time record, the supervisor must coordinate with the employee
+                         to correct the time record timely according to the payroll calendar.
+                  d.     An FLSA non-exempt employee’s FTE will remain the same with
+                         the transition from paying employees on a salaried basis to paying
+                         employees on an hourly basis.
+                  e.     All Managers/supervisors will be required to take an initial live
+                         training with Q and A on payroll entry, payroll approval, and how to
+                         read paystubs. These trainings will have no more than one
+                         hundred (100) people per training. They will be offered regularly
+                         and on an ongoing basis. Current employees will have the option
+                         to take these training sessions and will be allowed to retake them.
+                         All new employees will receive the training.
+                  f.     All payroll staff will receive a live training to ensure that payroll is
+                         being handled in a standard way statewide. Answers to the most
+                         frequently asked questions that represented and supervisory staff
+                         ask will be included in this training. This FAQ will also be posted
+                         with the payroll system for employees to access.
+                  g.     Employees will receive an example paystub and training on how to
+                         read the paystub and how to enter their time.
+                  h.     There will be a payroll system assistance team accessible by
+                         phone and email that will provide support to phone calls and emails
+                         within twenty-four (24) hours.
+         7.       Transition support:
+
+
+2025 - 2027 Oregon Youth Authority                92                     Collective Bargaining Agreement
+                  a.   For a limited period of six (6) months prior to the transition through
+                       six (6) months after the transition employees may utilize their
+                       existing pre-retirement planning leave to participate in financial
+                       counseling through EAP or to make any necessary financial
+                       changes such as contacting debtors to adjust payment due dates or
+                       to make changes to current payroll deductions.
+              b.       During the transition period (one (1) month prior to the transition
+                       date to three (3) months after the transition date), the State will
+                       maintain a rapid payroll error response system. Underpayments
+                       will be resolved pursuant to existing CBA language.
+    8. Transition timeframe:
+       •      July 1, 2027 – Final Full Month Pay (for June 2027)
+       •      July 16, 2027 – Pay Period (July 1 - July 3) Average sixteen (16) hours for
+              M-F employee
+       •      July 30, 2027 – Pay Period (July 4 - July 17) eighty (80) hours for FT
+              employee
+       •      August 13, 2027 – Pay Period (July 18 – July 31) eighty (80) hours for FT
+              employee
+       •      August 27, 2007 – Pay Period (August 1 - August 14) eighty (80) hours for
+              FT employee
+       •      September 10, 2027 - Pay Period (August 15 - August 28) eighty (80)
+              hours for FT employee
+       •      September 24, 2027 – Pay Period (August 29 – September 11) eighty (80)
+              hours for FT employee
+       •      October 8, 2027 – Pay Period (September 12 – September 25) eighty (80)
+              hours for FT employee
+       •      October 22, 2027 - Pay Period (September 26 – October 09) eighty (80)
+              hours for FT employee
+       •      November 05, 2027 – Pay Period (October 10 – October 23) eighty (80)
+              hours for FT employee
+       •      November 19, 2027 - Pay Period (October 24 – November 06) eighty (80)
+              hours for FT employee
+       •      December 03, 2027 - Pay Period (November 07 – November 20) eighty
+              (80) hours for FT employee
+       •      December 17, 2027 - Pay Period (November 21 – December 04) eighty
+              (80) hours for FT employee
+       •      December 31, 2027 - Pay Period (December 05 – December 18) eighty
+              (80) hours for FT employee
+              If it is determined that the transition cannot occur within the timelines
+              outlined above, the State will notify the Union of the delay as early as
+              possible, but no later than four (4) months prior to July 1, 2027. The
+              Parties will meet and discuss the new timelines.
+       9.     Transition Support:
+               a.      One-time allotment of paid leave:
+                     i.       Eligible employees will be granted a one-time allotment of
+                              forty (40) hours of paid leave ninety (90) days prior to the
+                              implementation date of the payroll transition.
+
+
+2025 - 2027 Oregon Youth Authority            93                     Collective Bargaining Agreement
+                                     1. Employees may choose to use the leave as paid time
+                                        off or request to cash the leave out. Requests and
+                                        approvals to use the paid time for leave purposes will
+                                        follow all applicable contract language related to the
+                                        use of vacation
+                                2.      Within nine (9) months of receiving the forty (40)
+                                        hours of paid leave, employees may elect to cash the
+                                        leave out in full or in smaller increments, not to
+                                        exceed two (2) cashouts during the nine (9) month
+                                        period.
+                                3.      The forty (40) hours of paid leave will be given in a
+                                        distinct bank of leave separate from an employee’s
+                                        vacation bank. The distinct bank of leave will not
+                                        impact an employee’s vacation accrual limit, the
+                                        ability to carry vacation when transferring to another
+                                        Agency or the amount of vacation an employee may
+                                        cash out upon separation.
+                                4.      All paid leave hours granted in this Agreement that
+                                        are not used will be cashed out to the employee one
+                                        (1) year after they were granted.
+                  b.      One-time Payment:
+                        i.      A one-time payment of one thousand seven hundred
+                                ($1,700) dollars will be issued to eligible employees. The
+                                one-time payment will be pro-rated for part-time and
+                                seasonal employees based on their FTE in the system.
+                       ii.      Eligible employees will receive the one-time payment on the
+                                first (1st) paycheck issued on a bi-weekly basis, unless the
+                                first (1st) paycheck issued on a bi-weekly basis occurs after
+                                July 1, 2027. If the first (1st) paycheck issued on a bi-weekly
+                                basis occurs after July 1, 2027, the one-time payment will be
+                                issued on the last monthly paycheck in the 2025-2027
+                                biennium.
+                      iii.      Should the State provide any additional payments to any
+                                other State bargaining unit related to a grievance resolution
+                                over the Workday core calculation, the State shall extend
+                                such additional payments to AFSCME members.
+         10.      Transition details:
+                  a.      An employee’s hourly rate will be determined by the following:
+                          Month salary * 12/2080 hours = hourly rate of pay
+                  b.      Time entry in the system is intended for payroll and leave reporting
+                          purposes.
+
+
+
+
+2025 - 2027 Oregon Youth Authority               94                     Collective Bargaining Agreement
+### APPENDIX A - SALARY ADMINISTRATION EXAMPLES
+
+Salary on Promotion or Upward Reclassification
+
+If the employee’s benefit service date falls within forty-five (45) calendar days of the
+start date of their new position and they have not yet reached the top step of their
+current range, the promotion will be processed as if the employee had already reached
+their benefit service date*.
+
+         EXAMPLE: An employee at Step 6 in their current range and has a benefit
+         eligibility date of July 1 and has a start date in their new position of June 1. The
+         employee's current rate of pay for determining their new promotion pay rate will
+         be based off of Step 7 of their current range.
+
+Salary on Demotion or Downward Reclassification
+
+If the employee’s current pay falls within the new classification’s salary range but the
+assessment results in a step below their current pay, the agency will maintain the
+employee’s current pay. If this places the employee off-step in the new classification,
+the employee will advance to the next higher salary step at their next benefit service
+date, followed by an additional step increase — not to exceed the top step of the
+range*.
+
+         EXAMPLE: An employee's current rate of pay is between Step 4 and Step 5 of
+         their new salary range - the employee will retain their current rate of pay and then
+         will advance to Step 6 on their next benefit service date.
+
+
+
+
+2025 - 2027 Oregon Youth Authority             95                     Collective Bargaining Agreement
+### APPENDIX B – COMPENSATION PLAN
+                                     Classification                        SR
+                                     Juvenile Parole/Probation Assistant   22
+                                     Juvenile Parole/Probation Officer     28
+
+
+
+
+2025 - 2027 Oregon Youth Authority                       96                     Collective Bargaining Agreement
+### APPENDIX C – SALARY SCHEDULE
+
+                                                SALARY SCHEDULE AS OF JULY 1, 2025
+    SR        Step 1       Step 2       Step 3         Step 4       Step 5       Step 6       Step 7     Step 8        Step 9        Step 10
+     22        4,483        4,707           5,029       5,263       5,503         5,757       6,021        6,297       6,609          6,934
+     28        5,937        6,335           6,637       6,974       7,325         7,692       8,080        8,487       8,925          9,387
+
+  Where the system rates and the rates printed in the CBA differ by two dollars ($2.00) or less per month, the system shall
+  be considered the official rate and shall supersede the rate printed in the CBA.
+  Note: Range Option A will be calculated using a reverse differential and rates will not be specifically listed in the
+  Agreement.
+
+
+                                             SALARY SCHEDULE AS OF FEBRUARY 1, 2026
+    SR        Step 1       Step 2       Step 3         Step 4       Step 5       Step 6       Step 7     Step 8        Step 9        Step 10
+     22        4,595        4,825           5,155       5,395       5,641         5,901       6,172        6,454       6,774          7,107
+     28        6,085        6,493           6,803       7,148       7,508         7,884       8,282        8,699       9,148          9,622
+
+  Where the system rates and the rates printed in the CBA differ by two dollars ($2.00) or less per month, the system shall
+  be considered the official rate and shall supersede the rate printed in the CBA.
+  Note: Range Option A will be calculated using a reverse differential and rates will not be specifically listed in the
+  Agreement.
+
+                                              SALARY SCHEDULE AS OF JANUARY 1, 2027
+    SR        Step 1       Step 2       Step 3         Step 4       Step 5       Step 6       Step 7     Step 8        Step 9        Step 10
+     22        4,779        5,018           5,361       5,611       5,867         6,137       6,419        6,712       7,045         7,391
+     28        6,328        6,753           7,075       7,434       7,808         8,199       8,613        9,047       9,514         10,007
+
+  Where the system rates and the rates printed in the CBA differ by two dollars ($2.00) or less per month, the system shall
+  be considered the official rate and shall supersede the rate printed in the CBA.
+  Note: Range Option A will be calculated using a reverse differential and rates will not be specifically listed in the
+  Agreement.
+
+                                              SALARY SCHEDULE AS OF FEBRUARY 1, 2027
+  SR       Step 1      Step 2       Step 3          Step 4      Step 5       Step 6   Step 7      Step 8      Step 9      Step 10        Step
+                                                                                                                                          11
+  22        4,779       5,018       5,361           5,611       5,867        6,137        6,419    6,712       7,045        7,391       7,758
+  28        6,328       6,753       7,075           7,434       7,808        8,199        8,613    9,047       9,514       10,007       10,530
+
+Where the system rates and the rates printed in the CBA differ by two dollars ($2.00) or less per month, the system shall be
+considered the official rate and shall supersede the rate printed in the CBA.
+Note: Range Option A will be calculated using a reverse differential and rates will not be specifically listed in the Agreement.
+
+
+
+
+       2025 - 2027 Oregon Youth Authority                               97                         Collective Bargaining Agreement
+                                     SIGNATURE PAGE
+
+
+
+
+2025 - 2027 Oregon Youth Authority          98        Collective Bargaining Agreement
+Department of Administrative Services
+Chief Human Resources Office
+Labor Relations Unit
+155 Cottage Street NE
+Salem, OR 97301-3971
+LRU@das.oregon.gov
+
+
+  The official version of this Agreement is held by the Department of Administrative Services Labor
+  Relations Unit on its electronic files at the website below. The Department of Administrative Services
+  does not recognize any other copies or publications of this Agreement.
+Electronic version of the Agreement located at:
+http://www.oregon.gov/das/HR/Pages/LRU.aspx
+
+
+
+2025 - 2027 Oregon Youth Authority                  99                       Collective Bargaining Agreement
+

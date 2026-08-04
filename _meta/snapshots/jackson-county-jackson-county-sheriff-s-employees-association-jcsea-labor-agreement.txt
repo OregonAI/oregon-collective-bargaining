@@ -325,7 +325,7 @@ the responsibility of the Board or the Sheriff, in accordance with such statutes
 
 
 Jackson County/JCSEA Collective Bargaining Agreement 2023-2026 - 2
-                                  ARTICLE 1 – RECOGNITION
+### ARTICLE 1 – RECOGNITION
 
 1.1     Exclusive Bargaining Agent.
 
@@ -354,7 +354,7 @@ appointment will be effective at the beginning of the next payroll period.
 
 
 Jackson County/JCSEA Collective Bargaining Agreement 2023-2026 - 3
-                            ARTICLE 2 - MANAGEMENT RIGHTS
+### ARTICLE 2 - MANAGEMENT RIGHTS
 
 It is recognized that an area of responsibility must be reserved to the employer if the County is to
 effectively serve the public. Except as specifically abridged in this Agreement or in accordance
@@ -387,7 +387,7 @@ listed as such management functions:
 
 
 Jackson County/JCSEA Collective Bargaining Agreement 2023-2026 - 4
-                                ARTICLE 3 – HOURS OF WORK
+### ARTICLE 3 – HOURS OF WORK
 
 3.1     Work Shift.
 
@@ -824,7 +824,7 @@ number of consecutive scheduled days for which the employee was paid:
 
 
 Jackson County/JCSEA Collective Bargaining Agreement 2023-2026 - 13
-                                    ARTICLE 4 - HOLIDAYS
+### ARTICLE 4 - HOLIDAYS
 
 4.1     Holidays.
 
@@ -865,7 +865,7 @@ No employee may earn holiday leave credits during leaves without pay.
 
 
 Jackson County/JCSEA Collective Bargaining Agreement 2023-2026 - 14
-                               ARTICLE 5 - VACATION LEAVE
+### ARTICLE 5 - VACATION LEAVE
 
 5.1     Accrual.
 
@@ -983,7 +983,7 @@ waived if the employee has requested time off and has been denied.
 
 
 Jackson County/JCSEA Collective Bargaining Agreement 2023-2026 - 17
-                                   ARTICLE 6 - SICK LEAVE
+### ARTICLE 6 - SICK LEAVE
 
 6.1     Accrual.
 
@@ -1095,7 +1095,7 @@ during previous employment restored.
 
 
 Jackson County/JCSEA Collective Bargaining Agreement 2023-2026 - 20
-                                 ARTICLE 7 - OTHER LEAVES
+### ARTICLE 7 - OTHER LEAVES
 
 7.1     Jury Duty.
 
@@ -1140,7 +1140,7 @@ family leave laws. All leaves for that purpose will run concurrently.
 
 
 Jackson County/JCSEA Collective Bargaining Agreement 2023-2026 - 21
-      ARTICLE 8 - FRINGE BENEFITS COVERED BY INSURANCE CONTRACTS
+### ARTICLE 8 - FRINGE BENEFITS COVERED BY INSURANCE CONTRACTS
 
 8.1     Benefits Provided.
 
@@ -1216,7 +1216,7 @@ law, the Association will furnish proof of compliance to the County.
 
 
 Jackson County/JCSEA Collective Bargaining Agreement 2023-2026 - 23
-                            ARTICLE 9 - LIABILITY INSURANCE
+### ARTICLE 9 - LIABILITY INSURANCE
 
 9.1     Provision of Insurance.
 
@@ -1237,7 +1237,7 @@ Oregon Tort Claims Act.
 
 
 Jackson County/JCSEA Collective Bargaining Agreement 2023-2026 - 24
-                                  ARTICLE 10 - RETIREMENT
+### ARTICLE 10 - RETIREMENT
 
 10.1    Plan Options.
 
@@ -1327,7 +1327,7 @@ the employee as regular compensation.
 
 
 Jackson County/JCSEA Collective Bargaining Agreement 2023-2026 - 26
-                               ARTICLE 11 - JOB DESCRIPTION
+### ARTICLE 11 - JOB DESCRIPTION
 
 11.1    Job Description Preparation.
 
@@ -1356,7 +1356,7 @@ within seven (7) calendar days.
 
 
 Jackson County/JCSEA Collective Bargaining Agreement 2023-2026 - 27
-                       ARTICLE 12 - DISCIPLINE AND DISCHARGE
+### ARTICLE 12 - DISCIPLINE AND DISCHARGE
 
 12.1    Discipline.
 
@@ -1476,7 +1476,7 @@ discipline for proven misconduct by law enforcement officers.
 
 
 Jackson County/JCSEA Collective Bargaining Agreement 2023-2026 - 30
-                               ARTICLE 13 - PERSONNEL FILE
+### ARTICLE 13 - PERSONNEL FILE
 
 13.1    Inspection.
 
@@ -1504,7 +1504,7 @@ fifteen (15) calendar days following receipt of the document.
 
 
 Jackson County/JCSEA Collective Bargaining Agreement 2023-2026 - 31
-                         ARTICLE 14 - SETTLEMENT OF DISPUTES
+### ARTICLE 14 - SETTLEMENT OF DISPUTES
 
 14.1    Grievance.
 
@@ -1638,7 +1638,7 @@ for the purposes of this provision.
 
 
 Jackson County/JCSEA Collective Bargaining Agreement 2023-2026 - 34
-                            ARTICLE 15 - GENERAL PROVISIONS
+### ARTICLE 15 - GENERAL PROVISIONS
 
 15.1    No Discrimination.
 
@@ -1996,7 +1996,7 @@ employment.
 
 
 Jackson County/JCSEA Collective Bargaining Agreement 2023-2026 - 41
-                                ARTICLE 16 – COMPENSATION
+### ARTICLE 16 – COMPENSATION
 
 16.1    Maintenance of Compensation Plan.
 
@@ -2323,7 +2323,7 @@ added to their base pay while serving in that capacity for the duration of the a
 
 
 Jackson County/JCSEA Collective Bargaining Agreement 2023-2026 - 48
-                               ARTICLE 17 - SAVINGS CLAUSE
+### ARTICLE 17 - SAVINGS CLAUSE
 
 17.1    Unlawful and Unenforceable Sections of this Agreement.
 
@@ -2337,7 +2337,7 @@ possible, for the invalidated article, section, or portion thereof.
 
 
 Jackson County/JCSEA Collective Bargaining Agreement 2023-2026 - 49
-                           ARTICLE 18 – TERM OF AGREEMENT
+### ARTICLE 18 – TERM OF AGREEMENT
 
 18.1    Term of Agreement.
 

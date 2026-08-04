@@ -94,10 +94,10 @@ AFSCME Member Services Center 1-844-758-6466 or MSC@OregonAFSCME.org
 
 
 This document is available in accessible format upon request
-ARTICLE 1 Preamble                                                                        1
+### ARTICLE 1 Preamble                                                                        1
 
 
-ARTICLE 2 Definitions                                                                     2
+### ARTICLE 2 Definitions                                                                     2
 I.      Countywide Seniority                                                              2
 II.     Days                                                                              2
 III.    Department                                                                        2
@@ -113,7 +113,7 @@ XII.    Regular Employee                                                        
 XIII.   Temporary Employee                                                                5
 
 
-ARTICLE 3 Recognition                                                                     7
+### ARTICLE 3 Recognition                                                                     7
 I.      Definition of the Bargaining Unit                                                 7
 II.     Disputes Concerning Existing Job Profiles or Positions in Section I above         7
 III.    Disputes Concerning Newly Created Job Profiles or Positions                       8
@@ -123,10 +123,10 @@ V.      Temporary List                                                          
 VI.     Certification of Union Officers                                                   8
 
 
-ARTICLE 4 Management Rights                                                               9
+### ARTICLE 4 Management Rights                                                               9
 
 
-ARTICLE 5 Union Security, Representation, and Business                                    10
+### ARTICLE 5 Union Security, Representation, and Business                                    10
 I.      Rights of Bargaining Unit Employees                                               10
 II.     Union Security and Check-off                                                      10
         A. Deduction of Union Dues                                                        10
@@ -147,7 +147,7 @@ IV.    Union Representation                                                    1
 IV.    Technology, the Union and the Work Place                                17
 
 
-ARTICLE 6 No Strike or Lock Out                                                18
+### ARTICLE 6 No Strike or Lock Out                                                18
 I.     No Strike                                                               18
 II.    Crossing of Picket Lines                                                18
 III.   Employee Disciplinary Action                                            18
@@ -155,7 +155,7 @@ IV.    No Lockout                                                              1
 V.     Informational Picketing                                                 18
 
 
-ARTICLE 7 Holidays                                                             20
+### ARTICLE 7 Holidays                                                             20
 I.     Holidays                                                                20
        A. Recognized and Observed Holidays                                     20
        B. Hours of Paid Leave on Observed and Floating Holidays                20
@@ -172,7 +172,7 @@ IV.    Holiday During Leave                                                    2
                                     TABLE OF CONTENTS
 
 
-ARTICLE 8 Vacation Leave                                                      24
+### ARTICLE 8 Vacation Leave                                                      24
 I.     Accrual                                                                24
 II.    Table of Vacation Accrual Rates                                        24
 III.   Charging                                                               25
@@ -186,7 +186,7 @@ VII.   Use of Accrued Vacation for Emergencies and Employee Wellness          25
        D. Misuse and Failure to Properly Report                               26
 
 
-ARTICLE 9 Sick Leave, Fitness for Duty and Disability Insurance               27
+### ARTICLE 9 Sick Leave, Fitness for Duty and Disability Insurance               27
 I.     Paid Sick Leave                                                        27
        A. Definition and Allowable Use                                        27
        B. Accrual                                                             28
@@ -213,7 +213,7 @@ IV.    Disability Insurance and Catastrophic Leave                       40
 V.     Reinstatement of Sick Leave Accruals                              41
 
 
-ARTICLE 10 Other Leaves                                                  42
+### ARTICLE 10 Other Leaves                                                  42
 I.     Unpaid Leaves of Absence                                          42
        A. Use of Leave                                                   42
        B. Failure to Return from Leave                                   42
@@ -227,7 +227,7 @@ V.     Personnel Examinations/Interviews                                 44
 VI.    Immigration and Citizenship Leave                                 45
 
 
-ARTICLE 11 Health and Welfare                                            46
+### ARTICLE 11 Health and Welfare                                            46
 I.     Medical and Dental Benefits                                       46
        A. Definitions and Contributions Toward Benefit Plan Premiums     46
        B. Health Care Plan Changes During the Term of Agreement          49
@@ -251,7 +251,7 @@ II.    Other Benefits                                                    58
        E. Long-Term Care                                        59
 
 
-ARTICLE 12 Workers' Compensation and Supplemental Benefits      60
+### ARTICLE 12 Workers' Compensation and Supplemental Benefits      60
 I.     Occupational Injury or Illness Occurring within Oregon   60
        A. Coverage                                              60
        B. Seniority                                             60
@@ -263,7 +263,7 @@ I.     Occupational Injury or Illness Occurring within Oregon   60
 II. Occupational Injury or Illness Outside of Oregon            62
 
 
-ARTICLE 13 Work Schedules                                       63
+### ARTICLE 13 Work Schedules                                       63
 I.     Posting of Work Schedules                                63
 II.    Reduction of Work Hours                                  63
 III.   Work Days and Days Off                                   63
@@ -292,7 +292,7 @@ X.        County Closures and Curtailments                                      
        D. Hardship Requests during Natural Disasters and Community Emergencies      73
 
 
-ARTICLE 14 Compensation                                                             74
+### ARTICLE 14 Compensation                                                             74
 I.        Wage Adjustments                                                          74
           A. July 1, 2025                                                           74
           B. July 1, 2026                                                           74
@@ -335,7 +335,7 @@ XIV.    Operationally Essential Assignment Compensation                         
 XV.     Maintenance of Mandatory License/Certifications                              90
 
 
-ARTICLE 15 Job Profiles and Pay Ranges                                               91
+### ARTICLE 15 Job Profiles and Pay Ranges                                               91
 I.      Wage Schedule                                                                91
 II.     Step Placement and Anniversary Dates                                         91
         A. New Employees and Rehires                                                 91
@@ -364,7 +364,7 @@ VI.     Market Adjustments                                                      
 VIII.   Qualified Arbitrator                                                            100
 
 
-ARTICLE 16 Pension                                                                      101
+### ARTICLE 16 Pension                                                                      101
 I.      PERS Membership                                                                 101
 II.     Sick Leave in Application to Final Average Salary (PERS)                        101
 III.    PERS Pick-Up                                                                    101
@@ -382,7 +382,7 @@ VI.     Retiree Medical Insurance                                               
         I. State and Federal Tax Offset                                                 104
 
 
-ARTICLE 17 Disciplinary Action                                                          106
+### ARTICLE 17 Disciplinary Action                                                          106
 I.      Forms of Discipline for Cause and Notice Requirements                           106
 II.     Definition of Cause                                                             106
 III.    Appeal Rights                                                                   106
@@ -396,7 +396,7 @@ IV.    Manner of Accomplishing Reprimands                                       
 V.     No Abridgement of Rights                                                           107
 
 
-ARTICLE 18 Settlement of Disputes                                                         108
+### ARTICLE 18 Settlement of Disputes                                                         108
 I.     Purpose                                                                            108
 II.    Filing a Grievance                                                                 108
 III.   The Steps of the Grievance Procedure                                               110
@@ -411,7 +411,7 @@ IV.    Representation of Employees                                              
 V.     Unfair Labor Practices                                                             113
 
 
-ARTICLE 19 Modification of Work Performed by the Bargaining Unit                          114
+### ARTICLE 19 Modification of Work Performed by the Bargaining Unit                          114
 I.     Contracting                                                                        114
        A. Limitations on Contracting                                                      114
        B. Meeting with the Union                                                          114
@@ -422,7 +422,7 @@ III.   Rights and Benefits of Employees Involved in Consolidation, Merger, and A
 IV.    Volunteers                                                                         115
 
 
-ARTICLE 20 Workload and Standards                                                         116
+### ARTICLE 20 Workload and Standards                                                         116
 I.     Workloads and Standards                                                            116
 II.    Employee Development and Training                                                  116
 
@@ -435,7 +435,7 @@ IV.    Organizational Excellence                                                
 V.     Non-Disciplinary Notices Regarding Performance or Conduct                              118
 
 
-ARTICLE 21 Seniority and Layoff                                                               119
+### ARTICLE 21 Seniority and Layoff                                                               119
 I.     Definitions                                                                            119
        A. Affected by Layoff                                                                  119
        B. Bumping                                                                             119
@@ -475,7 +475,7 @@ IX.     Special Provisions to Save Employees From Layoff - Project Save         
 X.      Limited Duration Employees and Project Save                                      132
 
 
-ARTICLE 22 Shift and Work Assignment                                                     133
+### ARTICLE 22 Shift and Work Assignment                                                     133
 I.      Vacancy                                                                          133
 II.     Work out of Class Assignments                                                    133
 III.    Regular Shift/Work Assignment                                                    133
@@ -496,7 +496,7 @@ VIII.   Work Unit and Work Assignment Determination and Specification           
 
 
 
-ARTICLE 23 Personnel Rules and Records                                                   140
+### ARTICLE 23 Personnel Rules and Records                                                   140
 I.      Personnel Rules                                                                  140
 II.     Personnel Records and Information                                                140
 
@@ -507,7 +507,7 @@ II.     Personnel Records and Information                                       
        C. Removal of File Materials                                     140
 
 
-ARTICLE 24 Non-Discrimination                                           142
+### ARTICLE 24 Non-Discrimination                                           142
 I.     No Discrimination                                                142
        A. Contractually Prohibited Discrimination                       142
        B. Microaggressions                                              142
@@ -517,7 +517,7 @@ II.    Legally Prohibited Discrimination                                143
 III.   Protected Class Discrimination Complaint Procedure               143
 
 
-ARTICLE 25 Safety and Health                                            145
+### ARTICLE 25 Safety and Health                                            145
 I.     Policy Statement                                                 145
 II.    Reporting Unsafe Conditions and Employee Rights to Refuse Work   145
 III.   Safety Records and Disclosure to Employees                       145
@@ -525,7 +525,7 @@ IV.    Violence in the Workplace                                        145
 V. Staffing                                                             146
 
 
-ARTICLE 26 General Provisions                                           147
+### ARTICLE 26 General Provisions                                           147
 I.     Rules                                                            147
 II.    Changes in Existing Conditions                                   147
 III.   Uniforms and Protective Equipment49                              148
@@ -541,15 +541,15 @@ V.     Sustainability in the Workplace                                  149
 
                                                12
                                    TABLE OF CONTENTS
-ARTICLE 27 Savings Clause and Funding                                          150
+### ARTICLE 27 Savings Clause and Funding                                          150
 I.     Savings Clause                                                          150
 II.    Funding                                                                 150
 
 
-ARTICLE 28 Entire Agreement                                                    151
+### ARTICLE 28 Entire Agreement                                                    151
 
 
-ARTICLE 29 Termination                                                         152
+### ARTICLE 29 Termination                                                         152
 
 
 ADDENDUM A Job Profiles Included in the Bargaining Unit with Pay Ranges        154
@@ -595,9 +595,9 @@ III.   Tri-Met Pass                                                     177
 
 
 ADDENDUM F Department of Library Services                               179
-Article 7. Holidays                                                     179
-Article 14. Compensation                                                180
-Article 15. Job Profile and Pay Ranges                                  180
+### Article 7. Holidays                                                     179
+### Article 14. Compensation                                                180
+### Article 15. Job Profile and Pay Ranges                                  180
 Article 22, Shift and Work Assignment                                   181
 Addendum B. Library Person in Charge (PIC) Assignment and Premium Pay   181
 
@@ -6880,7 +6880,7 @@ Job Code                                Job Profile                    Pay Grade
  3
  4   The terms of the 2022-2025 Agreement shall apply except as indicated below:
  5
- 6         Article 7. Holidays
+### 6         Article 7. Holidays
  7   I.    Observed Christmas and New Year Holidays
  8         A.     In 2025-2026:
  9                1.     The library branches (which includes Central), Library Administration at
@@ -7089,7 +7089,7 @@ Job Code                                Job Profile                    Pay Grade
 11   overtime and double time shall use a “majority of hours” method (i.e. the day of work is
 12   determined by the calendar day on which the majority of hours are worked). If, at any time in
 13   the future, this method is abandoned, the Department shall follow current contract language in
-14   Article 14.IV. However, no employee shall be scheduled to work on their first day of rest without
+### 14   Article 14.IV. However, no employee shall be scheduled to work on their first day of rest without
 15   other coverage options first being explored.
 
 
@@ -7585,7 +7585,7 @@ Job Code                                Job Profile                    Pay Grade
 
  1                         a.     Filling a vacancy that occurs as a result of a change in work
  2   assignment within the work unit, a change in shift, or as a result of a vacancy (as defined by
- 3   Article 22.I.A-D) shall be based on job profile seniority. Work Assignment is defined as work
+### 3   Article 22.I.A-D) shall be based on job profile seniority. Work Assignment is defined as work
  4   site location which is a MCSO facility (MCDC, MCIJ). Work Unit is defined as the Programs
  5   Unit within the Facility Services Division in MCSO. Shift is defined by both the hours and the
  6   days worked either on or off (i.e. “C” shift Tuesday- Saturday or “C” shift Sunday/Monday off).

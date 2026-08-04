@@ -291,7 +291,7 @@ SIGNATURE PAGE .................................................................
 2025-2027 AEE Collective Bargaining Agreement           - vi -
                              DIVISION 1 – TERMS AND REGULATIONS
 
-ARTICLE 1.1          PARTIES TO THE AGREEMENT
+### ARTICLE 1.1          PARTIES TO THE AGREEMENT
 This Agreement is entered into between the Association of Engineering Employees of
 Oregon (Association) and the State of Oregon, acting by and through the Department of
 Administrative Services (Employer) on behalf of the Oregon Department of
@@ -300,7 +300,7 @@ Recreation Department (hereinafter called the “Agency”), for the purpose of 
 matters of employment relations covered by this Agreement for employees in the
 bargaining unit.
 
-ARTICLE 1.2          RECOGNITION
+### ARTICLE 1.2          RECOGNITION
 The Employer recognizes the Association as sole and exclusive bargaining agent for all
 employees within the appropriate bargaining units, both existing and to be determined in
 the future, for which the Association is certified or recognized, except temporary
@@ -317,7 +317,7 @@ The Employer shall notify the Association when the Agency excludes a filled barg
 unit position based on supervisory, managerial or confidential status. Any dispute
 regarding such exclusions shall be resolved by the Employment Relations Board.
 
-ARTICLE 1.3          SCOPE OF THE AGREEMENT
+### ARTICLE 1.3          SCOPE OF THE AGREEMENT
 Section 1. This Agreement binds the Association and any person designated by it to act
 on behalf of the Association. Likewise, this Agreement binds the Employer and its
 employees and any other person designated by it to act on its behalf.
@@ -346,7 +346,7 @@ benefits mandated under personnel rules in effect prior to the adoption of this 
 or to extend statewide any policies or practices affecting isolated areas or specific
 circumstances.
 
-ARTICLE 1.4          TERMS OF THE AGREEMENT
+### ARTICLE 1.4          TERMS OF THE AGREEMENT
 Section 1. This Agreement shall become effective on July 1, 2025, or the date the
 Agreement is ratified by the Association, whichever is later, and shall expire on June 30,
 2027, except where specifically stated otherwise in this Agreement.
@@ -356,7 +356,7 @@ the existing agreement, negotiations shall begin the first business day followin
 15 of odd-numbered years, unless mutually agreed otherwise by the Parties.
                                                                  REV: 2017, 2019, 2021,2023,2025
 
-ARTICLE 1.5          EFFECT OF LAW AND RULES
+### ARTICLE 1.5          EFFECT OF LAW AND RULES
 Section 1. This Agreement is subject to all applicable existing and future laws of the State
 of Oregon including rules or regulations promulgated under the provisions of the
 Administrative Procedures Act of the State of Oregon.
@@ -375,7 +375,7 @@ The Association shall be notified in advance of all proposed rule changes regard
 bargain-ability and shall be given an opportunity to comment prior to processing the
 proposed change.
 
-ARTICLE 1.6          COMMUNICATIONS ON EMPLOYMENT RELATIONS MATTERS
+### ARTICLE 1.6          COMMUNICATIONS ON EMPLOYMENT RELATIONS MATTERS
 The Employer shall not issue any directives or written statements that have any effect on
 the standards of employment relations matters established by this Collective Bargaining
 Agreement unless such directives or statements have been agreed upon with the
@@ -383,7 +383,7 @@ Association. Nothing in this Article is intended to inhibit the Employer from is
 directives and/or statements which interpret or effectuate a contractual obligation;
 however, a copy of such statements and directives shall be sent to the Association.
 
-ARTICLE 1.7          ADMINISTRATION OF THE AGREEMENT
+### ARTICLE 1.7          ADMINISTRATION OF THE AGREEMENT
 Section 1. Except as provided in Article 3.6, the parties retain all remedies provided to
 them by law, including but not limited to complaints to the Employment Relations Board
 or resort to the courts. However, it is agreed that before either of the parties makes use
@@ -398,7 +398,7 @@ that Employer or found by an arbitrator, the Employment Relations Board or a Cou
 have been improper or contrary to a provision contained in this Agreement, shall be fully
 corrected after fully exhausting the appeal remedies.
 
-ARTICLE 1.8          EQUAL OPPORTUNITY & AFFIRMATIVE ACTION
+### ARTICLE 1.8          EQUAL OPPORTUNITY & AFFIRMATIVE ACTION
 Section 1. The Employer and the Association agree not to discriminate in any way against
 employees covered by this agreement on account of race, color, religion, sex, marital
 status, national origin, age, mental or physical disability or any other protected class as
@@ -431,14 +431,14 @@ The Agency Head or designee shall respond within fifteen (15) calendar days afte
 of the grievance. Nothing in this Article shall preclude an employee from filing a charge
 of discrimination with the Bureau of Labor and In dustries or the EEOC at any time.
 
-ARTICLE 1.9          WHISTLEBLOWER PROTECTIONS
+### ARTICLE 1.9          WHISTLEBLOWER PROTECTIONS
 A public employee who may wish to file a “whistleblowing” complaint against an agency
 should review the provisions of Oregon BOLI (Bureau of Labor and Industry) statutes
 (ORS 659A.199 through 659A.224).
 
                                 DIVISION 2 – MANAGEMENT RIGHTS
 
-ARTICLE 2.1          MANAGEMENT’S RIGHTS
+### ARTICLE 2.1          MANAGEMENT’S RIGHTS
 Except as may be specifically modified by the terms of this Agreement, the Employer
 retains all rights of management in the direction of its work force. These rights of
 management shall include, but not be limited to, the right to:
@@ -463,7 +463,7 @@ management shall include, but not be limited to, the right to:
 
               DIVISION 3 – ASSOCIATION RIGHTS AND REPRESENTATION
 
-ARTICLE 3.1          ASSOCIATION ACTIVITIES
+### ARTICLE 3.1          ASSOCIATION ACTIVITIES
 Section 1. Paid Time for Association Activities.
 A.    In addition to any paid time authorized under other specific provisions of this
        Agreement or required by law, Association representatives will be provided with
@@ -521,7 +521,7 @@ C.      Association Bulletin Board. The Agency shall provide reasonable bulletin
         where the content of the website is managed by AEE.
                                                                   REV: 2017, 2019, 2021,2023
 
-ARTICLE 3.2          REPRESENTATION
+### ARTICLE 3.2          REPRESENTATION
 Section 1. The Association is recognized and shall serve as exclusive representative of
 all employees in the bargaining unit heretofore described, except temporary employees
 and those employees properly excluded from the unit in accordance with the rules of the
@@ -558,7 +558,7 @@ employee’s classification. Intent Note: Notice to the Association will be prio
 same time that the documentation or paperwork is given to DAS for consideration.
                                                                                    REV: 2021
 
-ARTICLE 3.3          NO STRIKE OR LOCKOUT DURING TERM OF AGREEMENT
+### ARTICLE 3.3          NO STRIKE OR LOCKOUT DURING TERM OF AGREEMENT
 Section 1. The Employer agrees that during the term of this Agreement the Agency shall
 not cause or permit any lockout of employees from their work. In the event an employee
 is unable to perform their assigned duties because equipment or facilities are not
@@ -587,7 +587,7 @@ by this Article will be subject to disciplinary action by the Agency. Any such d
 must be consistent with the just cause provisions of this Agreement.
                                                                                    REV: 2021
 
-ARTICLE 3.4          JOB REPRESENTATION
+### ARTICLE 3.4          JOB REPRESENTATION
 Section 1. The Employer agrees there shall exist a Job Representative system for
 employee representation available to all employees. The Job Representatives shall be
 selected by the Association within the following limitations:
@@ -641,7 +641,7 @@ hours of employment. The Agency will not be responsible for any travel or subsis
 expenses incurred going to and returning from a formal step of the grievance hearing.
                                                                                     REV: 2021
 
-ARTICLE 3.5          EMPLOYEE REPRESENTATIVE
+### ARTICLE 3.5          EMPLOYEE REPRESENTATIVE
 Section 1. Employees covered by this Agreement are at all times entitled to act through
 an Association representative in taking any action or following any procedure under this
 Agreement.
@@ -652,7 +652,7 @@ Association representative, if the employee elects to be represented by the Asso
                                                                                     REV: 2021
 
 2025-2027 AEE Collective Bargaining Agreement   -7-
-ARTICLE 3.6          GRIEVANCE AND ARBITRATION
+### ARTICLE 3.6          GRIEVANCE AND ARBITRATION
 Section 1. Grievances are defined as acts, omissions, applications or interpretations
 alleged to be violations of the terms or conditions of this Agreement. Grievances shall be
 initiated in writing within forty-five (45) calendar days of the time the employee knows, or
@@ -834,13 +834,13 @@ Association Job Representative or Association staff member before the interview 
 designation shall not cause an undue delay.
                                                                            REV: 2017, 2021,2023
 
-ARTICLE 3.7          ASSOCIATION OFFICERS
+### ARTICLE 3.7          ASSOCIATION OFFICERS
 If any Association Officer is promoted or reclassified into a management service position,
 the employee shall formally resign from their position in the Association. A copy of the
 formal resignation shall be submitted to the Agency prior to the effective date of the
 promotion or reclassification.
 
-ARTICLE 3.8          ASSOCIATION USE OF E-MAIL
+### ARTICLE 3.8          ASSOCIATION USE OF E-MAIL
 E-Mail Messaging System. Association representatives and Association -represented
 employees may use an Agency’s e-mail messaging system to communicate about
 Association business provided that all of the following conditions are followed:
@@ -913,7 +913,7 @@ Association business provided that all of the following conditions are followed:
                  arbitrated.
                                                                                     REV: 2021
 
-ARTICLE 3.9          DUES DEDUCTION
+### ARTICLE 3.9          DUES DEDUCTION
 Section 1. The Agency shall deduct monthly the Association membership dues from the
 pay of those employees who individually request in writing that such deductions be made.
 This request may be on the payroll deduction authorization form maintained by the
@@ -949,7 +949,7 @@ claims, demands, suits or other forms of liability which may arise out of action
 the Agency for the purpose of complying with the provisions of this Article.
                                                                                REV: 2021,2025
 
-ARTICLE 3.10         EMPLOYEE STATISTICS
+### ARTICLE 3.10         EMPLOYEE STATISTICS
 Section 1. Weekly New Hire List. DAS will provide the Association an electronic list (in
 a format acceptable to the Association) of new hires represented by AEE, or employees
 moved into AEE represented positions, for each Agency on a weekly basis. This list will
@@ -1002,7 +1002,7 @@ The Association will be billed for the costs incurred in copying and/or postage 
 these statistical reports, if hard copies are requested by the Association.
                                                                                 REV: 2021,2023
 
-ARTICLE 3.11          LABOR MANAGEMENT COMMITTEES
+### ARTICLE 3.11          LABOR MANAGEMENT COMMITTEES
 Section 1. To facilitate communication between the Parties, a joint Labor-Management
 Committee may be established at the Agency level by mutual agreement by the
 Association and the Agency. The purpose of join t Labor-Management Committees is to
@@ -1038,7 +1038,7 @@ to attend these meetings on their own time. The Association will be responsible 
 other employee expenses related to lodging and/or travel.
                                                                                REV: 2021
 
-ARTICLE 3.12          PEBB MEMBER ADVISORY COMMITTEE
+### ARTICLE 3.12          PEBB MEMBER ADVISORY COMMITTEE
 This Agreement is between the State of Oregon, acting through its Department of
 Administrative Services (Employer) and AEE (Association). The Employer and
 Association share a commitment to PEBB achieving its vision of better health, better care
@@ -1094,7 +1094,7 @@ C.       Participants on the Worksite Wellness Coordinating Council who are stat
 
                              DIVISION 4 – EMPLOYMENT PRACTICES
 
-ARTICLE 4.1          DISCIPLINE AND DISCHARGE
+### ARTICLE 4.1          DISCIPLINE AND DISCHARGE
 Section 1. The Employer and the Association agree that the conduct of employees must
 reflect the best interest of the public. The principles of progressive discipline shall be
 used when appropriate. Discipline shall include, but not be limited to, written reprimands,
@@ -1196,7 +1196,7 @@ provide the employee and the job representative of record with written notificat
 disposition of the investigation.
                                                                     REV: 2017, 2019, 2021,2025
 
-ARTICLE 4.2          QUARTERLY CHECK-INS
+### ARTICLE 4.2          QUARTERLY CHECK-INS
 Section 1. Supervisory managers shall conduct check-ins with their employees on a
 quarterly basis, which includes a final performance feedback check-in. If a quarterly
 check-in does not occur, the employee may request a check-in for the missed time period.
@@ -1220,7 +1220,7 @@ shall they be used for purposes of disciplinary action or layoff.
 
 
 2025-2027 AEE Collective Bargaining Agreement   - 18 -
-ARTICLE 4.3          APPOINTMENTS
+### ARTICLE 4.3          APPOINTMENTS
 Section 1. (ODOT and OPRD only.) Seasonal Appointments. Positions which occur,
 terminate and recur periodically and regularly regardless of the duration thereof shall be
 designated as seasonal positions, and employees regularly certified for and serving
@@ -1286,7 +1286,7 @@ individuals holding the position works less than full time.
                  classification or to voluntarily demote. If the above conditions are not
                  available or acceptable, the employee agrees to resign.
 
-ARTICLE 4.4          PERSONNEL RECORDS
+### ARTICLE 4.4          PERSONNEL RECORDS
 Section 1. The Chief Human Resources Office human resource information system is the
 system of record for all employee records and official employee personnel file documents
 for which there are appropriate document categories in the system.
@@ -1328,7 +1328,7 @@ Nothing in this Article prevents the Employer and the Association from agreeing 
 disciplinary actions before the end of three (3) years.
                                                                                   REV: 2021
 
-ARTICLE 4.5          OUTSIDE EMPLOYMENT
+### ARTICLE 4.5          OUTSIDE EMPLOYMENT
 Section 1. No employee shall pursue any outside employment which will in any way
 reduce their efficiency during working hours or interfere in any way with their availability
 during emergencies or that would give any ground for suspicion or criticism by the public.
@@ -1340,7 +1340,7 @@ other item of value, or who accepts employment with a contractor on the ODOT lis
 be subject to appropriate discipline. No employee may participate in, or arrange for, th e
 renting, leasing, or purchasing of equipment, supplies or materials for such a contractor.
 
-ARTICLE 4.6 CONTRACTING OUT
+### ARTICLE 4.6 CONTRACTING OUT
 Section 1. The Association recognizes that the Employer has the management right,
 during the term of this Agreement, to decide to contract out work performed by bargaining
 unit members.
@@ -1394,7 +1394,7 @@ employee(s), it will either:
                   Layoff.
                                                                                 REV: 2019, 2021
 
-ARTICLE 4.7          CRIMINAL RECORDS CHECK
+### ARTICLE 4.7          CRIMINAL RECORDS CHECK
 Section 1. Except as provided by Governor’s executive order or state or federal law as
 implemented by Agency rule or policy, the Employer will not require a criminal records
 check on any current employee in their current position if the requirement was not in place
@@ -1472,7 +1472,7 @@ law.
 Section 9. Employees shall not be required to pay the Employer’s/Agency’s criminal
 records check fee(s) or Employer/Agency representation costs.
 
-ARTICLE 4.8          WORKLOAD
+### ARTICLE 4.8          WORKLOAD
 Employees are encouraged to discuss workload issues with supervisors.
 
 Any employee may request assistance from their immediate supervisor in establishing or
@@ -1482,7 +1482,7 @@ adjusting priorities in order to carry out their work assignment. The supervisor
 employee may request to have the responses provided orally or in writing and the
 immediate supervisor will respond in no later than ten (10) calendar days.
 
-ARTICLE 4.9            CDL DRUG TESTING
+### ARTICLE 4.9            CDL DRUG TESTING
 Section 1. Application.
 This Article covers all Association-represented employees who are required to possess
 a commercial driver license (CDL) and perform safety-sensitive functions in all Agencies
@@ -1635,7 +1635,7 @@ C.       Upon the Association’s written request, the Agency will obtain from t
 2025-2027 AEE Collective Bargaining Agreement     - 26 -
                                  DIVISION 5 – WORKPLACE SAFETY
 
-ARTICLE 5.1          SAFETY AND HEALTH
+### ARTICLE 5.1          SAFETY AND HEALTH
 Workplace Behavior:
 The Employer is committed to ensuring that the workplace is respectful, professional and
 free from inappropriate workplace behavior for all employees pursuant to the statewide
@@ -1651,7 +1651,7 @@ a complaint, providing a statement, or otherwise participating in the administra
 process.
                                                                                   REV: 2017
 
-ARTICLE 5.2          SAFETY AND HEALTH [ODOT ONLY]
+### ARTICLE 5.2          SAFETY AND HEALTH [ODOT ONLY]
 Section 1. The Agency agrees to abide by and maintain in its facilities and work
 operations standards of safety and health in accordance with the Oregon Safe
 Employment Act (ORS 654.001 to 654.991). In the event the Agency is cited for
@@ -1713,7 +1713,7 @@ equivalent) and meet in accordance with Safety Leadership Team charter.
 Section 6. Travel expenses incurred by all personnel assigned to this Committee shall
 be paid at the current rates.
 
-ARTICLE 5.3          SAFETY AND HEALTH [FORESTRY ONLY]
+### ARTICLE 5.3          SAFETY AND HEALTH [FORESTRY ONLY]
 Section 1. The Employer agrees to abide by and maintain in its facilities and work
 operations standards of safety and health in accordance with the Oregon Safe
 Employment Act (ORS 654.001 to 654.991). In the event the Agency is cited for
@@ -1748,7 +1748,7 @@ D.       The Employer will not require the employee to perform hazardous work or
          operate hazardous equipment without at least one (1) other person in the area
          although such other person may be performing other related duties.
 
-ARTICLE 5.4          SAFETY AND HEALTH [OPRD ONLY]
+### ARTICLE 5.4          SAFETY AND HEALTH [OPRD ONLY]
 Section 1. The Agency agrees to abide by and maintain in its facilities and work
 operations standard of safety and health in accordance with the Oregon Safe
 Employment Act (ORS 654.001 to 654.991). In the event the Agency is cited for
@@ -1808,7 +1808,7 @@ be paid at the current rates.
 
        DIVISION 6 – VACANCIES, TRANSFERS, TRIAL SERVICE AND LAYOFF
 
-ARTICLE 6.1          VACANCY AND PROMOTION LISTS [ODOT/OPRD ONLY]
+### ARTICLE 6.1          VACANCY AND PROMOTION LISTS [ODOT/OPRD ONLY]
 Section 1. Any vacancy to be filled within the Agency shall be filled first by hiring from the
 Injured Worker List, second by Agency Union Layoff List, and third by the Secondary
 Recall List. The Agency shall then consider candidates from the Open Competitive List
@@ -1830,7 +1830,7 @@ the application deadline of the recruitment (if applicable), and other pertinent
 The Employer further agrees to notify employees if their application has been accepted.
                                                                                REV: 2017,2023
 
-ARTICLE 6.2          FILLING OF VACANCIES [FORESTRY ONLY]
+### ARTICLE 6.2          FILLING OF VACANCIES [FORESTRY ONLY]
 Section 1. Vacancies will be filled based on merit principles with a commitment to upward
 mobility through the use of lists of eligible candidates, except for direct appointments,
 transfers, demotions, or reemployments.
@@ -1865,7 +1865,7 @@ Limited duration assignments shall not exceed two (2) years; however, extension 
 assignments may be agreed to by the Association and the Agency.
                                                                                      REV:2023
 
-ARTICLE 6.3          EMPLOYEE TRANSFER, DEMOTION AND PROMOTION
+### ARTICLE 6.3          EMPLOYEE TRANSFER, DEMOTION AND PROMOTION
 Section 1. Promotions. Employees shall be eligible for promotions, within the Agency,
 to any position for which they meet the minimum qualifications.
 
@@ -1963,7 +1963,7 @@ determined in advance by the Agency, a voluntary transfer into a position repres
 the Association of Engineering Employees Bargaining Unit shall be considered to be for
 the benefit of the employee.
 
-ARTICLE 6.4          TRIAL SERVICE
+### ARTICLE 6.4          TRIAL SERVICE
 Section 1. Each employee appointed to a position in the bargaining unit by initial
 appointment, promotion, lateral transfer to a different classification inside their Agency,
 lateral transfer between agencies, placed in an underfill, reinstatement or reemployment
@@ -2011,7 +2011,7 @@ under Article 4.1.
 Section 8. Nothing in this Article shall limit an employee’s eligibility for a salary increase.
                                                                           REV: 2017, 2019, 2021
 
-ARTICLE 6.5          LAYOFF [ALL AGENCIES]
+### ARTICLE 6.5          LAYOFF [ALL AGENCIES]
 Section 1. A layoff is defined as a separation from service for involuntary reasons, other
 than resignation, not reflecting discredit on an employee.
 
@@ -2401,7 +2401,7 @@ F.      Procedures:
 2025-2027 AEE Collective Bargaining Agreement      - 41 -
                   DIVISION 7 – EMPLOYEE ORIENTATION AND TRAINING
 
-ARTICLE 7.1          NEW EMPLOYEE ORIENTATION
+### ARTICLE 7.1          NEW EMPLOYEE ORIENTATION
 The Agency shall provide a program during the trial service period giving each new
 employee an orientation to State service. Such orientation shall include, but not
 necessarily be limited to, an explanation of the Employer’s merit system, and
@@ -2423,7 +2423,7 @@ required to make these presentations shall not keep the Association Representati
 performing their regular duties.
                                                                                    REV: 2021
 
-ARTICLE 7.2          EDUCATION AND TRAINING [ODOT/OPRD ONLY]
+### ARTICLE 7.2          EDUCATION AND TRAINING [ODOT/OPRD ONLY]
 Section 1. Basic Agreement. The Oregon Department of Transportation and Parks and
 Recreation Department will make training and education available to its personnel to
 ensure top level job performance throughout the Department and to respond to
@@ -2580,7 +2580,7 @@ obtained by the employee when relevant to their position or for job development.
                   for denial in writing.
                                                                                       REV: 2017
 
-ARTICLE 7.3          EMPLOYEE EDUCATION AND TRAINING [FORESTRY ONLY]
+### ARTICLE 7.3          EMPLOYEE EDUCATION AND TRAINING [FORESTRY ONLY]
 Section 1. Agreement. The Oregon Department of Forestry will make training and
 education available to its employees to ensure top level job performance and to respond
 to developmental needs of the individual employee. This may be accomplished through
@@ -2631,7 +2631,7 @@ supervisor, the Program Director, and the Administrative Services Division Chief
 
                                     DIVISION 8 – CLASSIFICATIONS
 
-ARTICLE 8.1          REVIEW OF CLASSIFICATION SERIES
+### ARTICLE 8.1          REVIEW OF CLASSIFICATION SERIES
 Section 1. The Agency shall notify the Association of intended classification studies at
 least sixty (60) calendar days prior to submitting the proposal under Section 2 of this
 Article.
@@ -2659,7 +2659,7 @@ amount of time may be extended by mutual written agreement.
 Section 4. The Association may recommend classification studies to be conducted by
 the Department indicating the reasons for the need for such studies.
 
-ARTICLE 8.2          UPWARD RECLASSIFICATION
+### ARTICLE 8.2          UPWARD RECLASSIFICATION
 Section 1.      The parties shall use the following procedure to process upward
 reclassification requests:
 
@@ -2797,7 +2797,7 @@ G.       An incumbent employee who appealed a reclass decision to a final decisi
          decision or a revised classification has been adopted.
                                                                  REV: 2017, 2019, 2021,2023,2025
 
-ARTICLE 8.3          DOWNWARD RECLASSIFICATION
+### ARTICLE 8.3          DOWNWARD RECLASSIFICATION
 Section 1. No less than sixty (60) days in advance of downward reclassification of any
 filled position, the Agency shall notify the employee and the Association in writing of the
 action and the specific reasons for doing so.
@@ -2815,7 +2815,7 @@ employee vacates the position or their salary falls within the new salary range.
 eligibility date remains the same.
                                                                                     REV: 2025
 
-ARTICLE 8.4          ALLOCATIONS APPEAL PROCESS
+### ARTICLE 8.4          ALLOCATIONS APPEAL PROCESS
 This Article shall only apply to the allocation of positions into new and revised
 classifications.
 
@@ -2896,7 +2896,7 @@ B.      Where a position is vacated after the filing of the initial appeal, the 
 
 C.      This process terminates upon completion of the allocation process.
 
-ARTICLE 8.5         WORK OUT OF CLASSIFICATION PENDING UPWARD RECLASSIFICATION
+### ARTICLE 8.5         WORK OUT OF CLASSIFICATION PENDING UPWARD RECLASSIFICATION
 Section 1. Agency Initiated Work-Out-of-Classification Pending Upward Reclassification.
 A.    If an Agency wishes to reclassify a position upwards, the Agency will gain approval
       from DAS CHRO the higher classification is appropriate. The Association and
@@ -2967,7 +2967,7 @@ H.       Agencies will designate the reason for the work out of class in the sta
 2025-2027 AEE Collective Bargaining Agreement   - 52 -
           DIVISION 9 – WORK SCHEDULES AND RELATED COMPENSATION
 
-ARTICLE 9.1          WORK SCHEDULES
+### ARTICLE 9.1          WORK SCHEDULES
 Section 1. Work schedules shall be established by the Agency. The Agency may
 establish more than one (1) type of work schedule; however, no employee shall be
 assigned more than one (1) type of schedule at any one time.
@@ -3062,7 +3062,7 @@ shift, the employee will receive paid time for up to eight (8) hours or un til t
 rest period is reached, whichever is less.
                                                                 REV: 2017, 2019, 2021,2023,2025
 
-ARTICLE 9.2          REPORTING TIME OR SHOW-UP TIME
+### ARTICLE 9.2          REPORTING TIME OR SHOW-UP TIME
 Section 1. Except for Article 10.12, an employee who reports to their regular shift shall
 be paid for all hours of their regularly scheduled shift, and be available to work during that
 time during the current workday. All Benefits, including vacation and sick leave accruals
@@ -3073,7 +3073,7 @@ entitle that employee to overtime pay, the minimum recorded hours shall be two (
 minimum shall not apply to overtime which is an extension at the end of a regularly
 scheduled shift.
 
-ARTICLE 9.3          ON-CALL DUTY
+### ARTICLE 9.3          ON-CALL DUTY
 Section 1. Employees shall be paid one (1) hour of pay at the regular straight time rate
 for each six (6) hours of assigned on -call duty. Employees who are assigned on -call duty
 for less than six (6) hours shall be paid on a prorated basis.
@@ -3104,7 +3104,7 @@ Section 7. An on-call employee who is required to report to a work site to comme
 performing assigned duties shall receive at minimum the pay required in Article 9.2.
                                                                                  REV: 2021
 
-ARTICLE 9.4          OVERTIME
+### ARTICLE 9.4          OVERTIME
 Section 1. All employees of the Agency shall be subject to overtime work when the
 efficiency or effectiveness of the Agency’s operations require that such work be
 performed. No employee shall refuse to work overtime unless such overtime can be
@@ -3226,7 +3226,7 @@ compensation. The Employer will not change the position’s designation during t
                            (1) day for multiple job classification.
                                                                        REV: 2017, 2019, 2021,2023
 
-ARTICLE 9.5          OFF DUTY PHONE CALLS
+### ARTICLE 9.5          OFF DUTY PHONE CALLS
 Section 1. An employee who responds to a telephone call at home outside their work
 schedule hours and the employee is required to perform assigned duties, by a
 management representative or their designee, at their home will be compensated for
@@ -3251,7 +3251,7 @@ overtime.
 
                                        DIVISION 10 – LEAVE TIME
 
-ARTICLE 10.1          HOLIDAYS
+### ARTICLE 10.1          HOLIDAYS
 Section 1. The following holidays shall be recognized and paid for at the straight time
 rate of pay:
        A.    New Year’s Day on January 1.
@@ -3336,7 +3336,7 @@ C.       The Agency may require employees to work on holidays to assure service 
          public.
                                                                                          REV: 2019, 2021,2023
 
-ARTICLE 10.2          VACATION LEAVE
+### ARTICLE 10.2          VACATION LEAVE
 Section 1. Vacation leave shall accrue on the appropriate schedule below, prorated for
 part-time and seasonal employees. Employees who are new to state service may use
 accrued vacation leave during the first six (6) months of employment.
@@ -3456,7 +3456,7 @@ having the greatest length of service with the Agency shall be granted the time.
                  of three (3) days or less will be granted.
                                                                                  REV: 2019,2023
 
-ARTICLE 10.3          UTILIZATION OF ACCRUED VACATION
+### ARTICLE 10.3          UTILIZATION OF ACCRUED VACATION
 No employee may be placed on vacation leave and no accrued vacation time may be
 utilized without specific authorization of the employee except:
        A.     That an employee shall have their vacation time paid in full when they are
@@ -3474,7 +3474,7 @@ utilized without specific authorization of the employee except:
                  educational leave without pay in excess of thirty (30) days, subject to
                  Management Approval.
 
-ARTICLE 10.4          SICK LEAVE
+### ARTICLE 10.4          SICK LEAVE
 Section 1. Sick Leave With Pay. Sick leave with pay for State employees shall be
 determined in the following manner:
 
@@ -3560,12 +3560,12 @@ in effect on January 1, 2024. In the event of a conflict between the Policy and 
 of the Agreement, the Agreement will prevail.
                                                                                 REV: 2019,2023
 
-ARTICLE 10.5          RESTORATION OF SICK LEAVE CREDITS
+### ARTICLE 10.5          RESTORATION OF SICK LEAVE CREDITS
 Employees who have been separated from State service and return to a position (except
 as temporary employee) within two (2) years shall have unused sick leave credits accrued
 during previous employment restored.
 
-ARTICLE 10.6          TRANSFER OF VACATION AND SICK LEAVE CREDITS
+### ARTICLE 10.6          TRANSFER OF VACATION AND SICK LEAVE CREDITS
 Section 1. Upon transfer of an employee with six (6) full months of State service to a
 different State agency, the employee may elect to have a maximum of eighty (80) hours
 of accrued vacation credits transferred to the gaining agency, except, the gaining agency
@@ -3583,7 +3583,7 @@ transferred to the gaining agency.
 
 
 2025-2027 AEE Collective Bargaining Agreement   - 64 -
-ARTICLE 10.7          WORKERS’ COMPENSATION APPLICATION
+### ARTICLE 10.7          WORKERS’ COMPENSATION APPLICATION
 Section 1. Compensation for on-the-job injuries shall be paid by the State’s Workers’
 Compensation Insurer. Sick leave resulting from a condition incurred on the job and also
 covered by Workers Compensation shall, if elected to be used by the employee, be used
@@ -3594,7 +3594,7 @@ accrued sick leave.
 Section 2. Employees wishing to continue current payroll deductions, must pay the
 Agency the total amounts in advance or cancel the deductions.
 
-ARTICLE 10.8          LEAVE OF ABSENCE WITH PAY
+### ARTICLE 10.8          LEAVE OF ABSENCE WITH PAY
 Section 1. Any employee holding a position in the classified service shall be granted a
 leave of absence with pay for the following:
        A.    Service with a jury. The employee may keep any money paid by the court
@@ -3712,7 +3712,7 @@ investigate and assemble the employee’s retirement program, including PERS, So
 Security, Oregon Savings Growth Plan, Insurance and other retirement income.
                                                                              REV: 2017,2023,2025
 
-ARTICLE 10.9            LEAVE OF ABSENCE WITHOUT PAY
+### ARTICLE 10.9            LEAVE OF ABSENCE WITHOUT PAY
 Section 1. In instances where the work of the Agency will not be seriously handicapped
 by the temporary absence of an employee, the employee may be granted a leave of
 absence without pay or educational leave without pay not to exceed one (1) year.
@@ -3776,7 +3776,7 @@ work location as held when the leave was approved. Where return to the employee�
 former position can be reasonably accommodated such return shall be made.
                                                                                   REV: 2021
 
-ARTICLE 10.10           DONATION OF LEAVE TIME
+### ARTICLE 10.10           DONATION OF LEAVE TIME
 These provisions shall apply for the purpose of allowing employees to donate accrued
 vacation leave and accrued compensatory time off for use by eligible recipients as sick
 leave. Agencies will allow employees to make irrevocable donations of accumulated
@@ -3815,7 +3815,7 @@ Agreement shall be strictly enforced with no exceptions.
                   be considered eligible to receive donations under this Agreement.
                                                                                           REV: 2019
 
-ARTICLE 10.11           BEREAVEMENT LEAVE
+### ARTICLE 10.11           BEREAVEMENT LEAVE
 Section 1. Employees shall be eligible for a maximum of twenty-four (24) hours paid
 bereavement leave per immediate family member. Paid bereavement leave shall run
 concurrently with OFLA when applicable. If additional bereavement time is needed, an
@@ -3840,7 +3840,7 @@ employees.
 
 
 2025-2027 AEE Collective Bargaining Agreement    - 69 -
-ARTICLE 10.12           INCLEMENT OR HAZARDOUS CONDITIONS
+### ARTICLE 10.12           INCLEMENT OR HAZARDOUS CONDITIONS
 Section 1. The DAS/ODOT designated official(s) may implement a full day closure or
 curtailment (delayed opening or partial closure) of offices, facilities, or operations because
 of inclement weather and/or hazardous conditions. Agency designated official(s) may
@@ -3889,7 +3889,7 @@ SEE LOA: Inclement Weather
 
 
 2025-2027 AEE Collective Bargaining Agreement   - 70 -
-ARTICLE 10.13   DOMESTIC VIOLENCE, SEXUAL ASSAULT, STALKING OR HUMAN
+### ARTICLE 10.13   DOMESTIC VIOLENCE, SEXUAL ASSAULT, STALKING OR HUMAN
 TRAFFICKING VICTIM LEAVE
 Section 1. An employee is allowed to use accumulated leave or leave without pay if the
 employee or their dependent (including their adopted child, foster child or stepchild) is the
@@ -3911,14 +3911,14 @@ Section 4. An employee who claims to be aggrieved by an unlawful employment prac
 as specified in the policy may file a civil action under ORS 659A.885 .
                                                                                    REV: 2019
 
-ARTICLE 10.14           CRIME VICTIM LEAVE
+### ARTICLE 10.14           CRIME VICTIM LEAVE
 If an employee or a member of their immediate family has suffered financial, social,
 psychological or physical harm as a result of a person -to-person felony, they may take
 leave to attend a criminal proceeding pursuant to State Policy (DAS, CHRO Statewide
 Policy 60.000.12), (effective 01/01/2024).
                                                                                    REV: 2025
 
-ARTICLE 10.15           FIRE ASSIGNMENTS LEAVE [ODF ONLY]
+### ARTICLE 10.15           FIRE ASSIGNMENTS LEAVE [ODF ONLY]
 Effective August 22, 2023, employees on fire assignments away from their official work
 station for fourteen (14) consecutive days or more, not including travel time, shall receive
 sixteen (16) hours off at straight time compensation upon return to their of ficial work
@@ -3931,11 +3931,11 @@ or from the assignment is in excess of one (1) day of travel status each directi
 time to and from will be counted in addition to days worked.
                                                                                    REV: 2023
 
-ARTICLE 10.16           ELECTION DAYS
+### ARTICLE 10.16           ELECTION DAYS
 On recognized Federal and State Election Days, work will be arranged to allow
 employees the opportunity to vote.
 
-ARTICLE 10.17           LEAVE FOR WORLD, PAN AMERICAN, OR OLYMPIC EVENTS
+### ARTICLE 10.17           LEAVE FOR WORLD, PAN AMERICAN, OR OLYMPIC EVENTS
 An employee may be granted, upon request, a leave of absence with pay, not exceeding
 ninety (90) days per calendar year, to participate in official training camps and
 competitions for World, Pan American or Olympic events as a group leader, coach, official
@@ -3961,7 +3961,7 @@ to the number of hours spent on leave with pay or a combination of both. Full
 reimbursement shall be accomplished at a time not later than two (2) years following the
 last day of leave with pay granted under this Article.
 
-ARTICLE 10.18           BONE MARROW/ORGAN DONOR
+### ARTICLE 10.18           BONE MARROW/ORGAN DONOR
 A.       An employee shall be granted paid donor leave for the time specified for the
          following purposes:
          •      Up to forty (40) hours to serve as a bone marrow donor if the employee
@@ -3976,7 +3976,7 @@ B.       Employees may only utilize these paid donor leaves one (1) time through
          employment with the State.
                                                                                   NEW: 2019
 
-ARTICLE 10.19           NATURAL DISASTER LEAVE
+### ARTICLE 10.19           NATURAL DISASTER LEAVE
 An employee who, due to a natural disaster, has lost their home (primary residence), lost
 use of their primary residence (deemed uninhabitable); or lost access to their primary
 residence shall be eligible for a maximum of eighty (80) hours of paid administrative leave,
@@ -3993,7 +3993,7 @@ absence. Donors may donate their vacation or compensatory leave.
 2025-2027 AEE Collective Bargaining Agreement   - 72 -
                 DIVISION 11 – GENERAL COMPENSATION AND BENEFITS
 
-ARTICLE 11.1          PAYDAY AND PAYROLL COMPUTATION PROCEDURE
+### ARTICLE 11.1          PAYDAY AND PAYROLL COMPUTATION PROCEDURE
 Section 1. Pay.
 A.    Pay for the employees in the bargaining unit shall be in accordance with the
       Compensation Plan adopted by the Chief Human Resource Office and approved
@@ -4232,7 +4232,7 @@ A.     DEFINITIONS:
                            to their base rate at the time of separation.
                                                                                          REV: 2023
 
-ARTICLE 11.2           WAGE AND BENEFIT OVERPAYMENTS
+### ARTICLE 11.2           WAGE AND BENEFIT OVERPAYMENTS
 Section 1. If an employee receives an erroneous overpayment of wages that exceeds
 their entitlement, the Agency will notify the employee in writing of the alleged
 overpayment.
@@ -4267,7 +4267,7 @@ grievance procedure.
 Section 5. The Article does not waive the Agency’s right to pursue the other legal
 procedures and processes to recoup an overpayment made to an employee at any time.
                                                                                     REV: 2025
-ARTICLE 11.3          SALARY ADMINISTRATION
+### ARTICLE 11.3          SALARY ADMINISTRATION
 Across the board Salary Increases: Effective February 1,2026, Compensation Plan
 salary rates shall be increased by two and five tenths percent (2.5%). Effective January
 1, 2027, Compensation Plan salary rates shall be increased by four percent (4%).
@@ -4410,7 +4410,7 @@ If the underpayment is more than five percent (5%) of the employee’s gross wag
 amount will be paid within three (3) days, excluding Saturdays, Sundays, and holidays.
                                                              REV: 2017, 2019, 2021,2023,2025
 
-ARTICLE 11.4          PAYROLL DEDUCTIONS
+### ARTICLE 11.4          PAYROLL DEDUCTIONS
 Section 1. The Agency agrees to deduct, upon written authorization from the employee,
 monthly premium payments for health and dental insurance, group indemnity insurance,
 automobile insurance and life insurance for plans approved by the Benefit Board.
@@ -4422,7 +4422,7 @@ authorization from the employee, monthly premium payments.
 Section 3. The Agency will deduct upon written authorization from the employee, monthly
 credit Association payments as provided in ORS 292.067.
 
-ARTICLE 11.5          HEALTH AND DENTAL INSURANCE
+### ARTICLE 11.5          HEALTH AND DENTAL INSURANCE
 Section 1. Full Time Employees. An Employer contribution shall be made for full-time
 employees who have at least eighty (80) paid regular hours in a month, unless otherwise
 required by law.
@@ -4505,7 +4505,7 @@ selected by the employee calculated per Article 11.5, follows:
 
 
 2025-2027 AEE Collective Bargaining Agreement   - 82 -
-ARTICLE 11.6          SALARY/RETIREMENT PICKUP
+### ARTICLE 11.6          SALARY/RETIREMENT PICKUP
 Section 1. Public Employees Retirement System (“PERS”) Members.
 For purposes of this Article, a PERS participating member is an employee who has
 established membership in PERS (Tier 1, Tier 2, or OPSRP) and who is presently
@@ -4527,7 +4527,7 @@ Assembly, including SB1049.Nothing in this agreement shall constitute a waiver o
 party’s rights, claims or defenses with respect to the above.
                                                                                   REV: 2019
 
-ARTICLE 11.7          EMPLOYEE ASSISTANCE PROGRAM
+### ARTICLE 11.7          EMPLOYEE ASSISTANCE PROGRAM
 Section 1. The Employee Assistance Program is a confidential service:
 A.    To help employees identify problems that are or may become a factor in job
       performance;
@@ -4573,7 +4573,7 @@ Referrals to the Employee Assistance Program are made as follows:
                  Engineering Employees may also refer employees to the Employee
                  Assistance Program when those employees have problems.
 
-ARTICLE 11.8          EMPLOYER PAYMENTS FOR LEGAL DEFENSE
+### ARTICLE 11.8          EMPLOYER PAYMENTS FOR LEGAL DEFENSE
 Section 1. The purpose of this article is to provide coverage to bargaining unit employees
 under the terms and conditions stated in Department of Administrative Services Policy
 Manual Number 125-7-202 (Criminal Tort Equivalent Coverage).
@@ -4589,7 +4589,7 @@ complaint being filed. Moreover, providing this coverage will not limit the Agen
 authority to take disciplinary action up to and including dismissal.
                                                                                   REV: 2019
 
-ARTICLE 11.9          PAID LEAVE OREGON
+### ARTICLE 11.9          PAID LEAVE OREGON
 Section 1. Benefits to be Provided through Paid Leave Oregon
 The Parties agree that the State will provide the required Paid Family Medical Leave
 Insurance (PFMLI) benefits through Paid Leave Oregon.
@@ -4634,7 +4634,7 @@ Association’s bargaining unit.
 
                       DIVISION 12 – DIFFERENTIALS AND ALLOWANCE
 
-ARTICLE 12.1          HIGH WORK DIFFERENTIAL
+### ARTICLE 12.1          HIGH WORK DIFFERENTIAL
 Section 1. When an employee is required to perform work more than six (6) feet directly
 above the ground or water and is required to use personal fall arrest systems, personal
 fall restraint systems or boatswain chairs the employee shall receive two dollars ($2.00)
@@ -4692,7 +4692,7 @@ B.       (Forestry and Parks) One or Two Association represented employees, at t
         and the parties shall not be required to follow the dispute resolution procedures.
                                                                          REV: 2017, 2021,2025
 
-ARTICLE 12.2          WORK OUT OF CLASSIFICATION
+### ARTICLE 12.2          WORK OUT OF CLASSIFICATION
 Section 1. When an employee has been temporarily assigned for a period of not less
 than ten (10) consecutive calendar days (or the equivalent thereof for a non -regular
 schedule) to a position of a higher classification, the employee shall be paid according to
@@ -4744,7 +4744,7 @@ employee’s base wages when the employee has been in a work-out-of-class status
 twelve (12) months or longer.
                                                                                      REV: 2025
 
-ARTICLE 12.3          SHIFT DIFFERENTIAL
+### ARTICLE 12.3          SHIFT DIFFERENTIAL
 All employees who work between 6:00 pm and 6:00 am or Saturday or Sunday shall be
 paid a differential of one dollar and fifty cents ($1.50) per hour for each hour or major
 portion thereof (thirty (30) minutes or more).
@@ -4752,7 +4752,7 @@ portion thereof (thirty (30) minutes or more).
 Shift differential shall not apply to any leave with pay, unless required by law.
                                                                            REV: 2017, 2021,2023
 
-ARTICLE 12.4          LEAD WORK DIFFERENTIAL
+### ARTICLE 12.4          LEAD WORK DIFFERENTIAL
 Section 1. Lead work differential shall be defined as a differential for employees who
 have been normally assigned by their supervisor in writing, “lead work” duties for one (1)
 or more employees and ten (10) consecutive calendar days or longer. This differential
@@ -4827,7 +4827,7 @@ period beginning the date the notification was received by the Appointing Author
 through the date the duties were removed.
                                                                               REV: 2021,2025
 
-ARTICLE 12.5          PROTECTIVE CLOTHING AND UNIFORMS [ODF ONLY]
+### ARTICLE 12.5          PROTECTIVE CLOTHING AND UNIFORMS [ODF ONLY]
 Section 1. If an employee is required to wear protective clothing or any type of protective
 device, unless normally provided by employees according to industrial practices,
 protective clothing or devices shall be provided by the Employer. Articles now provided
@@ -4861,7 +4861,7 @@ the required tool list, any increases in tool inventory, and upgrades no later t
 1 on an annual basis.
                                                                          REV: 2017, 2019,2025
 
-ARTICLE 12.6          OUTERWEAR REIMBURSEMENT [ODOT ONLY]
+### ARTICLE 12.6          OUTERWEAR REIMBURSEMENT [ODOT ONLY]
 Section 1.
 A.    Eligible employees shall receive an outerwear reimbursement of up to four
       hundred dollars ($400) per biennium to purchase, maintain, or repair rain jackets,
@@ -4903,7 +4903,7 @@ procurement, is and remains, the personal property of the employee for as long a
 own it, including beyond retirement or cessation of employment.
                                                                        REV: 2017, 2021,2023,2025
 
-ARTICLE 12.7          BOOT REIMBURSEMENT
+### ARTICLE 12.7          BOOT REIMBURSEMENT
 Section 1. ODOT Only.
 A.    Types and Frequency of Reimbursement. The parties agree that eligible
        bargaining unit employees will receive a biennial boot reimbursement for
@@ -4992,7 +4992,7 @@ Section 3. The boot reimbursement shall be paid to eligible employees who submit
 for reimbursement through the Agency Travel Expense process.
                                                                          REV: 2017, 2021,2023,2025
 
-ARTICLE 12.8          TRAVEL EXPENSES/MILEAGE/MOVING ALLOWANCE
+### ARTICLE 12.8          TRAVEL EXPENSES/MILEAGE/MOVING ALLOWANCE
 Section 1. Travel Expenses and Mileage Reimbursement. Travel, mileage and moving
 reimbursement shall be established in the General Travel Rules adopted by the Oregon
 Department of Administrative Services State Controller’s Division Accounting Policy
@@ -5073,7 +5073,7 @@ be in addition to accrued paid time off employees as eligible to receive under t
 agreement.
 
 2025-2027 AEE Collective Bargaining Agreement   - 93 -
-ARTICLE 12.9          RESCINDED TRANSFERS AND MULTIPLE MOVES
+### ARTICLE 12.9          RESCINDED TRANSFERS AND MULTIPLE MOVES
 Section 1. Rescinded Transfer. An employee given a written notice of transfer that is
 later rescinded shall be compensated by the Agency for all expenses incurred which are
 reimbursable under Article 12.8. The employee shall furnish the Agency with normally
@@ -5090,14 +5090,14 @@ payment shall be made within ten (10) work days of their reporting to the new du
 This lump sum premium is in addition to all other moving allowances or benefits they
 would be eligible to receive.
 
-ARTICLE 12.10           PARKING [ODOT ONLY]
+### ARTICLE 12.10           PARKING [ODOT ONLY]
 The parties agree that before any changes in parking rates for State employees
 represented by the Association at any State-owned and operated parking facility are
 made, the Employer shall provide an opportunity for the Association to participate in the
 determination of such rates. The Association will be afforded the opportunity to offer
 suggestions, make recommendations and introduce any data deemed appropriate.
 
-ARTICLE 12.11           SAFETY GLASSES
+### ARTICLE 12.11           SAFETY GLASSES
 The Agency will reimburse an employee up to three hundred ($300.00) dollars each
 biennium for the purchase, maintenance, or replacement cost of prescription safety
 glasses or lenses so long as the employee has a prescription for eye glasses and safety
@@ -5105,7 +5105,7 @@ glasses are appropriate for the employee’s job duties. [Note: It is not the Ag
 practice or intent to pay for eye examinations.]
                                                                                     REV: 2021
 
-ARTICLE 12.12           PROFESSIONAL REGISTRATION INCENTIVE [ODOT/OPRD ONLY]
+### ARTICLE 12.12           PROFESSIONAL REGISTRATION INCENTIVE [ODOT/OPRD ONLY]
 Association employees working for ODOT or OPRD who attain any one (1) of the
 professional licenses, registrations or certifications listed in Sections 1 - 3 will receive a
 one (1)-time only one (1)-step increase above their current base rate of pay not to exceed
@@ -5129,7 +5129,7 @@ Section 2 – Board of Geologist Examiners (OSBGE):
       Landscape Architect
                                                                                      REV: 2021
 
-ARTICLE 12.13           DIVING DIFFERENTIAL (ODOT Only)
+### ARTICLE 12.13           DIVING DIFFERENTIAL (ODOT Only)
 Section 1. Employees who participate in assignments performing underwater inspections
 and maintenance utilizing their personal diving equipment shall receive one (1) of the
 following total daily dive pay:
@@ -5143,7 +5143,7 @@ The total daily dive pay will be added to the employee’s gross wages and shall
 considered taxable income.
                                                                                REV: 2017, 2019
 
-ARTICLE 12.14           ESSENTIAL WORKER DIFFERENTIAL
+### ARTICLE 12.14           ESSENTIAL WORKER DIFFERENTIAL
 Section 1. An essential worker is an employee required to physically report to work during
 closure or curtailment of offices because of inclement weather or hazardous conditions
 as defined in Article 10.12, Section 2.
@@ -5164,7 +5164,7 @@ This differential will not apply to employees whose primary job functions includ
 responding to inclement weather or hazardous conditions or who live at their work site
                                                                      NEW: 2021 REV: 2023,2025
 
-ARTICLE 12.15           WORKING REMOTELY
+### ARTICLE 12.15           WORKING REMOTELY
 Section 1. Introduction.
 Oregon state government encourages working remotely where it is a viable option that
 benefits both the employee and the Agency. Use of remote work options promote the
@@ -5528,7 +5528,7 @@ G.       The salary eligibility date shall remain the date determined by subsect
 
 
 2025-2027 AEE Collective Bargaining Agreement   - 103 -
-        LETTER OF AGREEMENT #1 – INCLEMENT WEATHER/HAZARDOUS
+### LETTER OF AGREEMENT #1 – INCLEMENT WEATHER/HAZARDOUS
                           CONDITIONS LEAVE
 
 This Letter of Agreement shall apply to all FLSA non-exempt employees.
@@ -5620,7 +5620,7 @@ not exceed a combined total of forty (40) hours per biennium.
 
 
 2025-2027 AEE Collective Bargaining Agreement   - 105 -
-LETTER OF AGREEMENT #2 – PEBB PROJECTED FUNDING COMPOSITE RATE
+### LETTER OF AGREEMENT #2 – PEBB PROJECTED FUNDING COMPOSITE RATE
                             AND COLA
 
 This Agreement is between the State of Oregon, acting through its Department of
@@ -5637,7 +5637,7 @@ funded by the savings.
 
 
 2025-2027 AEE Collective Bargaining Agreement   - 106 -
-      LETTER OF AGREEMENT #3 – ELECTRICAL AND CONTROLS SYSTEM
+### LETTER OF AGREEMENT #3 – ELECTRICAL AND CONTROLS SYSTEM
                     ENGINEERING DIFFERENTIAL PAY
 
 Professional Engineer 1 (PE1) and Professional Engineer 2 (PE2) employees with
@@ -5652,7 +5652,7 @@ Parties.
 
 
 2025-2027 AEE Collective Bargaining Agreement   - 107 -
-                 LETTER OF AGREEMENT #4 – PAY EQUITY/EQUAL PAY
+### LETTER OF AGREEMENT #4 – PAY EQUITY/EQUAL PAY
 
 This Agreement is between the State of Oregon, acting through its Department of
 Administrative Services (Employer), on behalf of the Agencies covered by this
@@ -5784,7 +5784,7 @@ The Parties agree to the following:
 
 
 2025-2027 AEE Collective Bargaining Agreement   - 110 -
-   LETTER OF AGREEMENT #5 – ODOT/OPRD ROTATIONAL OPPORTUNITIES
+### LETTER OF AGREEMENT #5 – ODOT/OPRD ROTATIONAL OPPORTUNITIES
 
 This Agreement is between the State of Oregon, acting through its Department of
 Administrative Services (Employer), on behalf of the Oregon Department of
@@ -5819,7 +5819,7 @@ This Letter of Agreement shall expire on June 30, 2027.
 
 
 2025-2027 AEE Collective Bargaining Agreement   - 111 -
-            LETTER OF AGREEMENT #6 – SALARY AND BENEFIT REPORT
+### LETTER OF AGREEMENT #6 – SALARY AND BENEFIT REPORT
 
 This Agreement is between the State of Oregon, acting through its Department of
 Administrative Services (DAS) and the Association of Engineering Employees of Oregon
@@ -5836,7 +5836,7 @@ agreement.
 
 
 2025-2027 AEE Collective Bargaining Agreement   - 112 -
-    LETTER OF AGREEMENT #7 – FRA CERTIFIED HIGHWAY-RAIL CROSSING
+### LETTER OF AGREEMENT #7 – FRA CERTIFIED HIGHWAY-RAIL CROSSING
                      INSPECTOR DIFFERENTIAL
 
 Employees who are certified as Highway-Grade Crossing Inspectors by the Federal
@@ -5848,7 +5848,7 @@ discipline.
 
 
 2025-2027 AEE Collective Bargaining Agreement   - 113 -
-  LETTER OF AGREEMENT #8 - STRUCTURAL CHANGES TO PAY PRACTICES
+### LETTER OF AGREEMENT #8 - STRUCTURAL CHANGES TO PAY PRACTICES
 
 This Letter of Agreement is between the State of Oregon, acting through its Department
 of Administrative Services (Employer), and the Association of Engineering Employees of
@@ -6044,7 +6044,7 @@ Attachments:
 
 
 2025-2027 AEE Collective Bargaining Agreement   - 117 -
-   LETTER OF AGREEMENT #9 - EMPLOYEE RESOURCE GROUP COMMITTEE
+### LETTER OF AGREEMENT #9 - EMPLOYEE RESOURCE GROUP COMMITTEE
 
 This Agreement is between the State of Oregon, acting through its Department of
 Administrative Services (Employer) and the Association of Engineering Employees of
@@ -6085,7 +6085,7 @@ The Parties agree to the following:
 
 
 2025-2027 AEE Collective Bargaining Agreement   - 118 -
-                     APPENDIX A – DEFINITION OF GEOGRAPHIC AREA
+### APPENDIX A – DEFINITION OF GEOGRAPHIC AREA
 
 Section 1. Department of Transportation.
       For purposes of layoff, the following shall be defined as the geographic area:
@@ -6103,7 +6103,7 @@ For purposes of layoff, the geographic area shall be defined as the Agency.
 
 
 2025-2027 AEE Collective Bargaining Agreement   - 119 -
-                               APPENDIX B – CLASSIFICATION PLAN
+### APPENDIX B – CLASSIFICATION PLAN
 
 
 
@@ -6173,7 +6173,7 @@ For purposes of layoff, the geographic area shall be defined as the Agency.
 
 
 2025-2027 AEE Collective Bargaining Agreement        - 121 -
-                                APPENDIX C – SALARY SCHEDULES
+### APPENDIX C – SALARY SCHEDULES
 
                                   SALARY SCHEDULE AS OF JULY 1, 2025
  SR     Step 1    Step 2     Step 3    Step 4   Step 5   Step 6   Step 7   Step 8   Step 9   Step 10
@@ -6320,7 +6320,7 @@ SR    Step       Step      Step      Step         Step    Step      Step    Step
 
 
   2025-2027 AEE Collective Bargaining Agreement           - 125 -
-                                                APPENDIX D
+### APPENDIX D
 
 The information provided here reflects assumptions to date. Final determinations are
 pending and subject to change.

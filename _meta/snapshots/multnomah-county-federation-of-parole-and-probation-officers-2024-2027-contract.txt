@@ -44,11 +44,11 @@ FEDERATION OF OREGON PAROLE AND PROBATION OFFICERS
 
             PREAMBLE                                                            1
 
-ARTICLE 1 DEFINITIONS                                                           2
+### ARTICLE 1 DEFINITIONS                                                           2
 
-ARTICLE 2 RECOGNITION                                                           4
+### ARTICLE 2 RECOGNITION                                                           4
 
-ARTICLE 3 FEDERATION SECURITY                                                   5
+### ARTICLE 3 FEDERATION SECURITY                                                   5
 
             1.   Rights of Bargaining Unit Employees                            5
             2.   Deduction of Federation Dues and Fair Share Service Fees       5
@@ -60,11 +60,11 @@ ARTICLE 3 FEDERATION SECURITY                                                   
             8.   Indemnification                                                6
             9.   List of Federation Officers and Stewards                       6
 
-ARTICLE 4 MANAGEMENT RIGHTS                                                     7
+### ARTICLE 4 MANAGEMENT RIGHTS                                                     7
 
-ARTICLE 5 NO STRIKE OR LOCKOUT                                                  8
+### ARTICLE 5 NO STRIKE OR LOCKOUT                                                  8
 
-ARTICLE 6 HOLIDAYS                                                              9
+### ARTICLE 6 HOLIDAYS                                                              9
 
             1. Recognized Holidays                                              9
             2. Holiday Observance                                               9
@@ -73,7 +73,7 @@ ARTICLE 6 HOLIDAYS                                                              
             5. Holiday Pay                                                     10
             6. Unused Holiday                                                  11
 
-ARTICLE 7        VACATION LEAVE                                                12
+### ARTICLE 7        VACATION LEAVE                                                12
 
             1. Accrual                                                         12
             2. Scheduling Accrued Vacation                                     13
@@ -82,7 +82,7 @@ ARTICLE 7        VACATION LEAVE                                                1
             5. Transfer of Accruals                                            14
             6. Working in Management Classifications                           14
 
-ARTICLE 8 SICK LEAVE                                                           15
+### ARTICLE 8 SICK LEAVE                                                           15
 
             1. Allowable Use                                                   15
             2. Accrual                                                         16
@@ -99,7 +99,7 @@ ARTICLE 8 SICK LEAVE                                                           1
          11. Transfer of Accruals                                    26
          12. Retirement                                              27
 
-ARTICLE 9 OTHER LEAVES                                               28
+### ARTICLE 9 OTHER LEAVES                                               28
 
          1. Unpaid Leaves of Absence                                 28
          2. Jury Service                                             28
@@ -114,14 +114,14 @@ ARTICLE 9 OTHER LEAVES                                               28
          11. Use of Deadly Force                                     33
          12. Travel and Training Leave                               33
 
-ARTICLE 10 HEALTH AND WELFARE                                        34
+### ARTICLE 10 HEALTH AND WELFARE                                        34
 
          1. Medical and Dental Insurance                             34
          2. Other Benefits                                           47
          3. Retiree Life Insurance                                   48
          3. Death in the Line of Duty                                49
 
-ARTICLE 11 COMPENSATION                                              50
+### ARTICLE 11 COMPENSATION                                              50
 
          1. Wage Adjustments                                         50
          2. Budget Shortfall Crisis                                  51
@@ -143,7 +143,7 @@ ARTICLE 11 COMPENSATION                                              50
           16. Culturally-Specific Knowledge, Skills, and Abilities Position
               Compensation                                                    61
 
-ARTICLE 12 WORKERS COMPENSATION                                               62
+### ARTICLE 12 WORKERS COMPENSATION                                               62
 
           1. Coverage                                                         62
           2. Seniority                                                        62
@@ -152,7 +152,7 @@ ARTICLE 12 WORKERS COMPENSATION                                               62
           5. Denied Claims                                                    63
           6. Benefits                                                         64
 
-ARTICLE 13 SENIORITY AND LAYOFF                                               66
+### ARTICLE 13 SENIORITY AND LAYOFF                                               66
 
           1. Definitions                                                      66
           2. Seniority                                                        66
@@ -164,7 +164,7 @@ ARTICLE 13 SENIORITY AND LAYOFF                                               66
           8. Seniority of and Bumping Non-Bargaining Unit Employees           74
           9. Special Provisions to Save Employees from Layoff                 74
 
-ARTICLE 14 HOURS OF WORK                                                      76
+### ARTICLE 14 HOURS OF WORK                                                      76
 
           1. Scheduling                                                       76
           2. Posting of Work Schedules                                        77
@@ -172,7 +172,7 @@ ARTICLE 14 HOURS OF WORK                                                      76
           4. Changing Scheduled Days of Work and Days Off                     77
           5. Scheduling the Work Day                                          77
 
-ARTICLE 15 DISCIPLINE AND DISCHARGE                                           81
+### ARTICLE 15 DISCIPLINE AND DISCHARGE                                           81
 
           1. General Principles                                               81
           2. Corrective Action                                                81
@@ -184,7 +184,7 @@ ARTICLE 15 DISCIPLINE AND DISCHARGE                                           81
           8. Removal of File Materials                                        83
           9. Investigatory Procedures                                         84
 
-ARTICLE 16 SETTLEMENT OF DISPUTES                                             87
+### ARTICLE 16 SETTLEMENT OF DISPUTES                                             87
 4
 
           1. Scope of Grievance Procedure                                         87
@@ -194,13 +194,13 @@ ARTICLE 16 SETTLEMENT OF DISPUTES                                             87
           5. Time Limits                                                          87
           6. Unfair Labor Practices                                               87
 
-ARTICLE 17 WORKLOAD / TRAINING / PERFORMANCE EVALUATION                           92
+### ARTICLE 17 WORKLOAD / TRAINING / PERFORMANCE EVALUATION                           92
 
           1. Workloads and Standards                                              92
           2. Employee Development and Training                                    92
           3. Performance Evaluations                                              93
 
-ARTICLE 18 GENERAL PROVISIONS                                                     94
+### ARTICLE 18 GENERAL PROVISIONS                                                     94
 
           1. No Discrimination                                                    94
           2. No Prejudicial Harassment                                            94
@@ -211,7 +211,7 @@ ARTICLE 18 GENERAL PROVISIONS                                                   
           7. Labor Management Committee                                           97
           8. Public Records Requests                                              98
 
-ARTICLE 19 SAFETY AND HEALTH                                                      99
+### ARTICLE 19 SAFETY AND HEALTH                                                      99
 
           1. Facility Standards Maintenance                                        99
           2. Safe Place of Employment                                              99
@@ -222,21 +222,21 @@ ARTICLE 19 SAFETY AND HEALTH                                                    
           6. Firearms                                                            100
           7. Reimbursements                                                      101
 
-ARTICLE 20 DEFENSE OF CIVIL CLAIMS                                               102
+### ARTICLE 20 DEFENSE OF CIVIL CLAIMS                                               102
 
           1. Legal Defense                                                       102
 
-ARTICLE 21 USE OF FORCE                                                          103
+### ARTICLE 21 USE OF FORCE                                                          103
 
-ARTICLE 22 PENSIONS                                                              104
+### ARTICLE 22 PENSIONS                                                              104
 
           1. Pension                                                             104
           2. Retiree Medical Insurance                                           105
 
-ARTICLE 23 MODIFICATION OF WORK PERFORMED: CONTRACTING                           109
+### ARTICLE 23 MODIFICATION OF WORK PERFORMED: CONTRACTING                           109
                                                                                    5
 
-ARTICLE 24 SHIFT AND WORK ASSIGNMENT                                         110
+### ARTICLE 24 SHIFT AND WORK ASSIGNMENT                                         110
 
           1. Vacancy                                                         110
           2. Regular Employee Temporary Work Assignments                     110
@@ -247,11 +247,11 @@ ARTICLE 24 SHIFT AND WORK ASSIGNMENT                                         110
           7. Trial Service Employee Assignment                               115
           8. Transfers for Safety                                            115
 
-ARTICLE 25 SAVINGS CLAUSE                                                    116
+### ARTICLE 25 SAVINGS CLAUSE                                                    116
 
-ARTICLE 26 ENTIRE AGREEMENT                                                  117
+### ARTICLE 26 ENTIRE AGREEMENT                                                  117
 
-ARTICLE 27 TERMINATION                                                       118
+### ARTICLE 27 TERMINATION                                                       118
 
 ADDENDUM A WAGES                                                             119
 
@@ -313,7 +313,7 @@ agree as follows:
 
 
 
-                                       ARTICLE 1
+### ARTICLE 1
                                    DEFINITIONS
 
 
@@ -390,7 +390,7 @@ to a longer extension for lengthy leaves of absence or physical limitations.
 
 
 
-                                    ARTICLE 2
+### ARTICLE 2
                                   RECOGNITION
 
 
@@ -408,7 +408,7 @@ employees regularly working a schedule of less than twenty (20) hours per week.
 
 
 
-                                       ARTICLE 3
+### ARTICLE 3
                                 FEDERATION SECURITY
 
 
@@ -483,7 +483,7 @@ list to the County whenever there is a change in officer(s) and/or steward(s).
 
 
 
-                                      ARTICLE 4
+### ARTICLE 4
                               MANAGEMENT RIGHTS
 
 
@@ -504,7 +504,7 @@ this agreement, or general law, are not subject to the grievance procedure.
 
 
 
-                                     ARTICLE 5
+### ARTICLE 5
                              NO STRIKE OR LOCKOUT
 
 
@@ -531,7 +531,7 @@ consequence of any dispute arising during the life and duration of this Agreemen
 
 
 
-                                          ARTICLE 6
+### ARTICLE 6
                                           HOLIDAYS
 
 
@@ -640,7 +640,7 @@ leave shall be in accordance with Article 7, Section 3.
 
 
 
-                                    ARTICLE 7
+### ARTICLE 7
                                  VACATION LEAVE
 
 
@@ -745,7 +745,7 @@ Parole and Probation Officer classification or the excess leave will be forfeite
 
 
 
-                                         ARTICLE 8
+### ARTICLE 8
                                         SICK LEAVE
 
 
@@ -1197,7 +1197,7 @@ average salary calculation as allowed by PERS.
 
 
 
-                                       ARTICLE 9
+### ARTICLE 9
                                     OTHER LEAVES
 
 
@@ -1415,7 +1415,7 @@ Labor Standards Act (FLSA), whichever is greater.
 
 
 
-                                        ARTICLE 10
+### ARTICLE 10
                                  HEALTH AND WELFARE
 
 
@@ -2011,7 +2011,7 @@ statutory timelines.
 
 
 
-                                     ARTICLE 11
+### ARTICLE 11
                                   COMPENSATION
 
 
@@ -2446,7 +2446,7 @@ and Bilingual pay for speaking Spanish).
 
 
 
-                                       ARTICLE 12
+### ARTICLE 12
                              WORKERS’ COMPENSATION
 
 
@@ -2572,7 +2572,7 @@ Leave.
 
 
 
-                                       ARTICLE 13
+### ARTICLE 13
                                 SENIORITY AND LAYOFF
 
 
@@ -2924,7 +2924,7 @@ opportunities for affected employees.
 
 
 
-                                      ARTICLE 14
+### ARTICLE 14
                                    HOURS OF WORK
 
 
@@ -3092,7 +3092,7 @@ time".
 
 
 
-                                        ARTICLE 15
+### ARTICLE 15
                                DISCIPLINE AND DISCHARGE
 
 
@@ -3288,7 +3288,7 @@ of circumstances confronted in the investigation.
 
 
 
-                                     ARTICLE 16
+### ARTICLE 16
                             SETTLEMENT OF DISPUTES
 
 
@@ -3454,7 +3454,7 @@ meeting is not excused, but may occur after the filing of the charge.
 
 
 
-                                       ARTICLE 17
+### ARTICLE 17
              WORKLOAD / TRAINING / PERFORMANCE EVALUATION
 
 
@@ -3528,7 +3528,7 @@ performance records are stored that are outside of their personnel file.
 
 
 
-                                       ARTICLE 18
+### ARTICLE 18
                                 GENERAL PROVISIONS
 
 
@@ -3694,7 +3694,7 @@ copy of the information released.
 
 
 
-                                      ARTICLE 19
+### ARTICLE 19
                                 SAFETY AND HEALTH
 
 
@@ -3794,7 +3794,7 @@ bugs in the line of duty.
 
 
 
-                                    ARTICLE 20
+### ARTICLE 20
                            DEFENSE OF CIVIL CLAIMS
 
 
@@ -3821,7 +3821,7 @@ such claim or action, to the requesting employee.
 
 
 
-                                     ARTICLE 21
+### ARTICLE 21
                                    USE OF FORCE
 
 
@@ -3837,7 +3837,7 @@ appointed shall participate without loss of pay.
 
 
 
-                                    ARTICLE 22
+### ARTICLE 22
                                     PENSIONS
 
 
@@ -4015,7 +4015,7 @@ County costs will remain unchanged.
 
 
 
-                                    ARTICLE 23
+### ARTICLE 23
             MODIFICATION OF WORK PERFORMED: CONTRACTING
 
 
@@ -4046,7 +4046,7 @@ County in minimizing the impact on such affected employee(s).
 
 
 
-                                      ARTICLE 24
+### ARTICLE 24
                           SHIFT AND WORK ASSIGNMENT
 
 
@@ -4256,7 +4256,7 @@ address the concern.
 
 
 
-                                      ARTICLE 25
+### ARTICLE 25
                                   SAVINGS CLAUSE
 
 
@@ -4275,7 +4275,7 @@ portion thereof.
 
 
 
-                                    ARTICLE 26
+### ARTICLE 26
                                ENTIRE AGREEMENT
 
 
@@ -4300,7 +4300,7 @@ concerning matters of contract administration.
 
 
 
-                                     ARTICLE 27
+### ARTICLE 27
                                     TERMINATION
 
 

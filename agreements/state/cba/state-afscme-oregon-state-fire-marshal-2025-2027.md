@@ -16,12 +16,11 @@ agency_registry_slugs: []
 source_url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Oregon%20State%20Fire%20Marshal%202025-2027.pdf
 source_format: pdf
 retrieved: '2026-08-02'
-source_sha256: 9b55bce4c09f28a0b3b83b81df92e2b1ff55fc03fe740785f55993e0bb20151d
+source_sha256: 90af560c8e6c54b63c3a13ffea3b094371d1703b68fe90aa5ed923cf7efc509d
 snapshot_policy: hash-only
 status: current
-content_mode: summary
-reproduction_basis: 'jointly-authored contract; summary + official link per the class determination
-  in corpus.yml schema.doc_types (verbatim: false)'
+content_mode: 'verbatim'
+reproduction_basis: 'public record of a public body (ORS 192.311-192.478); the employer publishes the executed agreement in full at source_url; a ratified agreement is an official act (Georgia v. Public.Resource.Org, 590 U.S. 255 (2020)) — mirrored in full per the class determination in corpus.yml schema.doc_types (verbatim: true)'
 conversion_notes: pdftotext -layout; 102 pages, 305880 characters extracted; NOT human-verified
 last_verified: ''
 verified_by: ''
@@ -44,8 +43,8 @@ tags:
 - state-workforce
 ---
 
-> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated
-> summary, not the agreement's official text. Verify against the official
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a non-authoritative
+> mirror of the agreement's text, not the official record. Verify against the official
 > source: https://www.oregon.gov/das/HR/CBA/AFSCME%20Oregon%20State%20Fire%20Marshal%202025-2027.pdf (retrieved 2026-08-02).
 
 # AFSCME Oregon State Fire Marshal 2025-2027
@@ -57,18 +56,11 @@ Collective bargaining agreement between the State of Oregon (DAS Labor Relations
 - Ratified 2025-08-18 per the DAS LRU 2025-2027 bargaining chart (rev. 03/19/2026; committed at `_meta/state-roster-2025-2027.yml`)
 - Source document: 102 pages (PDF, DAS CBA library)
 
-This corpus is **summary-first for agreements**: the contract's text is not
-reproduced here (see Curator notes), and nothing on this page states or
-paraphrases the agreement's terms. Read the agreement itself at the official
-source link above.
 
 ## Curator notes
 
-Summary-first is the recorded class determination (`corpus.yml
-schema.doc_types`, `verbatim: false`): a CBA is jointly authored with private
-parties, and "public record" and "freely reproducible" are not the same claim.
-If the operator later flips the class, full text lands in a follow-up PR — the
-committed snapshot extraction already carries what would be diffed.
+The full executed text is mirrored below from the committed extraction; the
+official PDF at the source link above remains the authoritative record.
 
 Letters of agreement bound into this PDF by DAS are part of this source
 snapshot; separately-published LOAs are their own documents in a later tranche.
@@ -83,3 +75,4873 @@ Statutes and rules the agreement's text cites are recorded in frontmatter
 `relationships.references_external` (5 citation(s)) and resolve into
 `executive-regulatory-frameworks` as cites — this corpus asserts no
 `implements` edge anywhere.
+
+## Full text
+
+             between
+
+             DAS
+         THE DEPARTMENT OF
+       ADMINISTRATIVE SERVICES
+           on behalf of the
+         DEPARTMENT OF THE
+         STATE FIRE MARSHAL
+                 and
+
+
+        AFSCME
+      LOCAL 3765 / COUNCIL 75,
+AMERICAN FEDERATION OF STATE, COUNTY,
+ AND MUNICIPAL EMPLOYEES (AFL-CIO)
+                                                                                   TABLE OF CONTENTS
+ARTICLE 1 - REC OGNITION .................................................................................................................................................................... 2
+ARTICLE 2 - MANAGEMENT'S RIGHTS ................................................................................................................................................... 2
+ARTICLE 3 - UNION RIGHTS, SECURITY, AND STEWA RDS ....................................................................................................................... 3
+ARTICLE 4 - ADMINISTRATIV E PROVISIONS .......................................................................................................................................... 7
+ARTICLE 5 - PERSONNEL REC ORDS ........................................................................................................................................................ 9
+ARTICLE 6 - DISCIPLINE, DISCHARGE, AND GRIEVANC E PROCEDURE ................................................................................................... 11
+ARTICLE 7 – QUARTERLY CHECK -INS ................................................................................................................................................... 15
+ARTICLE 8 - POSITION DESCRIP TIONS ................................................................................................................................................. 16
+ARTICLE 9 - FILLING OF VACANCIES..................................................................................................................................................... 16
+ARTICLE 10 - LIMITED DURA TION APPOINTM ENTS ............................................................................................................................. 17
+ARTICLE 11 - LAYOFF .......................................................................................................................................................................... 18
+ARTICLE 12 - TRIAL SERVIC E................................................................................................................................................................ 24
+ARTICLE 13 - HOURS OF WORK/ OVERTIM E ........................................................................................................................................ 25
+ARTICLE 14 - CLASSIFICATION AND CLASSIFICA TION CHANGES ........................................................................................................... 28
+ARTICLE 15 - EQUAL EMPLOYMENT OPP ORTUNITY AND AFFIRMATIVE AC TION ................................................................................. 33
+ARTICLE 16 - HOLIDAYS ...................................................................................................................................................................... 33
+ARTICLE 17 - VACATION LEAVE ........................................................................................................................................................... 34
+ARTICLE 18 - SICK LEAVE ..................................................................................................................................................................... 37
+ARTICLE 19 - OTHER LEAVES ............................................................................................................................................................... 38
+ARTICLE 20 - SALARY ADMINISTRA TION ............................................................................................................................................. 42
+ARTICLE 21 - SALARIES........................................................................................................................................................................ 45
+ARTICLE 22 - DIFFERENTIALS............................................................................................................................................................... 47
+ARTICLE 23 - HEALTH AND DENTAL INSURA NCE ................................................................................................................................. 49
+ARTICLE 24 - TRAVEL, MILEAGE AND MOVING EXP ENSE REIMBURSEM ENT ........................................................................................ 51
+ARTICLE 26 - LABOR-MA NAGEM ENT COMMITTEE .............................................................................................................................. 51
+ARTICLE 27 - HARDSHIP LEAVE ........................................................................................................................................................... 52
+ARTICLE 28 - SAFETY AND HEALTH ...................................................................................................................................................... 53
+ARTICLE 29 - CONTRACTING OUT........................................................................................................................................................ 55
+ARTICLE 30 - RECOUPMENT OF WAGE AND BENEFIT OVERPAYMENTS AND UNDERPAYMENTS ......................................................... 57
+ARTICLE 31 - IMPLEMENTATION OF NEW CLASSES —APPEALS PROCESS ............................................................................................. 58
+ARTICLE 32 - DELETED ARTICLE 2025-2027.......................................................................................................................................... 60
+ARTICLE 33 - AGENCY-OWNED CLOTHING/COMM ERCIAL LAUNDERING ............................................................................................. 60
+ARTICLE 34 - TEMP ORARY INTERRUPTION OF EMPLOYM ENT............................................................................................................. 60
+ARTICLE 35 – INCLEMENT WEATHER/HA ZARDOUS C ONDITIONS LEAVE ............................................................................................. 61
+ARTICLE 36 - AOC AND DRIVE TEAM DIFFERENTIALS .......................................................................................................................... 64
+ARTICLE 37 - PROFESSIONAL MEMBERSHIPS ...................................................................................................................................... 65
+ARTICLE 38 - VOLUNTARY MEDICAL SEPARA TION .............................................................................................................................. 65
+ARTICLE 39 – EXIT INTERVIEWS .......................................................................................................................................................... 66
+ARTICLE 40 – AIR QUALITY.................................................................................................................................................................. 66
+ARTICLE 41 - WORKING REMOTELY .................................................................................................................................................... 67
+ARTICLE 42 – INCIDENT MANAGEMENT TEAM (IMT) .......................................................................................................................... 70
+ARTICLE 43 - PAID LEAVE OREGON ..................................................................................................................................................... 70
+ARTICLE 44 - ESSENTIAL WORKER PAY ................................................................................................................................................ 71
+LETTER OF AGREEMENT – ARTICLE 21 - SALARY AND BENEFIT REP ORT .............................................................................................. 72
+LETTER OF AGREEMENT – ARTICLE 23 - PEBB MEMBER ADVISORY COMMITTEE ................................................................................ 73
+LETTER OF AGREEMENT – NEW EMPLOY EE NOTIC E/UNION ACCESS ................................................................................................... 74
+LETTER OF AGREEMENT – OREGON UNIONS STATE WORKER TRAINING FUND .................................................................................. 75
+LETTER OF AGREEMENT – CONTRAC T SPECIALIST............................................................................................................................... 76
+LETTER OF AGREEMENT – STATE P OLICY 50.050.01 WORKING REM OTELY UPDATES .......................................................................... 79
+LETTER OF AGREEMENT – EQUAL PAY ................................................................................................................................................ 80
+LETTER OF AGREEMENT – AGENCY OPERA TIONS C ENTER .................................................................................................................. 83
+LETTER OF AGREEMENT – AMERICANS WITH DISA BILITIES ACT (ADA ) ............................................................................................... 84
+LETTER OF AGREEMENT – EDUCATION, TRAINING, JOB ROTA TIONS, AND CAREER DEVELOPM ENT OPP ORTUNTIES .......................... 85
+LETTER OF AGREEMENT – STATEWIDE LABOR MANAGEM ENT COMMITTEE ....................................................................................... 86
+LETTER OF AGREEMENT – ADMINISTRA TIVE LEAVE/DUTY STA TIONED AT HOM E INVESTIGA TION COMMUNICATION ....................... 87
+LETTER OF AGREEMENT – UNDERFILL DIFFERENTIAL .......................................................................................................................... 88
+LETTER OF AGREEMENT – STRUC TURAL CHANGES TO PAY PRACTIC ES ............................................................................................... 90
+APPENDIX A - SALARY ADMINISTRATION EXAMPLES .......................................................................................................................... 94
+APPENDIX B - CLASSIFICATION PLAN .................................................................................................................................................. 95
+APPENDIX C - SALARY SCHEDULE – SALARY SCHEDUL ES ..................................................................................................................... 88
+SIGNA TURE PAGE – AFSCME Department of State Fire Marshall, OSFM ............................................................................................. 92
+
+
+
+
+2025-2027 Oregon State Fire Marshal                                                      ii                                                         Collective Bargaining Agreement
+### ARTICLE 1 - RECOGNITION
+
+Section 1.
+This Agreement is made and entered into by and between the State of Oregon
+(hereinafter the "Employer"), acting by and through its Department of Administrative
+Services on behalf of the Department of State Fire Marshal (hereinafter the "OSFM"), and
+the American Federation of State, County, and Municipal Employees, Council 75
+(hereinafter the "Union").
+
+Section 2.
+The Employer and the Agency recognize the Union as the sole and exclusive bargaining
+agent for: All classified employees of the Agency, excluding managerial, supervisory,
+confidential, temporary, and part-time employees working less than thirty-two (32) hours
+per month.
+
+This Agreement binds the Union, its members and any person designated by it to act on
+behalf of the Union. Likewise, this Agreement binds the Employer and the Agency and
+any person designated by it to act on its behalf.
+
+Section 3.
+The Employer will make changes regarding mandatory subjects of bargaining only after
+compliance with any bargaining obligations under ORS Chapter 243. Alleged violations
+of this Article shall not be grievable but shall be addressed exclusively by unfair labor
+practice complaints under ORS 243.672(1)(e). The Union agrees any unfair labor
+practice complaint will be filed no later than ninety (90) days after the alleged unilateral
+change.
+
+Section 4.
+Nothing in this Section is intended to inhibit the Employer from issuing directives and/or
+statements which interpret or effectuate a contractual obligation; however, a copy of such
+statements or directives shall be sent to the Union on or before the date of issue.
+                                                                                     REV: 2019,2023
+
+
+### ARTICLE 2 - MANAGEMENT'S RIGHTS
+
+Section 1.
+The Agency retains all rights customarily attributed to the management and operation of
+the Agency unless otherwise specifically abridged by the provision of this Agreement.
+
+Section 2.
+These rights include but are not limited to the following: the right to operate and manage
+the Agency; to maintain order and efficiency; to direct employees and to determine job
+assignments and working schedules; to determine the method, means, standards, and
+personnel to be used; to implement improved operational methods and procedures; to
+determine staffing requirements; to determine whether the whole or the part of the
+operation shall continue to operate; to recruit, examine, select, and hire employees; to
+promote, transfer, assign, and reassign employees; to suspend, discharge, or take other
+proper disciplinary action against employees; to lay off employees; to recall employees;
+to require overtime work of employees; and to promulgate rules, regulations, and policies,
+
+
+2025-2027 Oregon State Fire Marshal           2              Collective Bargaining Agreement
+provided such rights shall not be exercised so as to violate any of the specific provisions
+of this Agreement.
+                                                                                         REV:,2023
+
+
+### ARTICLE 3 - UNION RIGHTS, SECURITY, AND STEWARDS
+
+Section 1. Notice of Representatives.
+The Union will provide a written list, which will be kept current, to the Agency and the
+Department of Administrative Services of its representatives from Council 75 who will be
+"Union Representatives."
+
+Section 2. Union Representative Visits.
+After advance notice to the Agency or designee and Agency Employee Services of the
+intent of the Union Representative to be present on the worksite and the reason(s), the
+Agency will allow a Union Representative(s) reasonable access to the worksite during the
+work day. Such visits will not interfere with the normal flow of work.
+
+Section 3. Union Business.
+Employees shall conduct the internal business of the Union during their nonduty hours.
+
+Section 4. Building Use.
+Upon request to the Agency or designee and Agency Employee Services, the Agency
+may allow the Union use of Agency facilities during nonduty hours for meetings when
+such facilities are available. Such meetings will not interfere with the business of the
+Agency.
+
+Section 5. Bulletin Boards.
+The Agency shall provide bulletin board space for the use of the Union to communicate
+meetings and other official Union business.
+
+Section 6. Union Notices to Employees.
+The Agency shall furnish each new employee with a written notice, provided by the Union,
+that the Union is the certified collective bargaining representative and of the employee's
+obligation for declaration of dues or payment in lieu of dues (fair share) deduction. The
+Agency shall provide the name of new hires and work locations to the Union within thirty
+(30) days of hire. The Local President or their designee will be provided thirty (30)
+minutes of duty time to meet with each new employee during the scheduled new
+employee orientation or at another time as close as possible to the new employee’s start
+date if a formal orientation is not scheduled by the Agency.
+
+Section 7. Payroll Deductions.
+A.    The Employer agrees to deduct the monthly fees from the pay of those employees
+      the Union has certified in writing to the Employer as having authorized in writing
+      such deductions be made from their paychecks. This deduction shall begin on the
+      first (1st) payroll period following the Union’s written notice to the Employer that
+      such authorization start and shall continue from month to month until notified by
+      the Union, pursuant to the membership card.
+
+
+
+
+2025-2027 Oregon State Fire Marshal       3                 Collective Bargaining Agreement
+B.      The Employer shall continue to deduct dues from employees as long as the
+        employee remains on the same payroll, except when the Union requests
+        cancellation of the dues deduction in writing, including reemployed seasonals, and
+        employees recalled from layoff lists.
+
+C.      The Union agrees that it will indemnify, defend and save the Employer and Agency
+        harmless from all suits, actions, proceedings and claims against the Employer and
+        the Agency or person(s) acting on their behalf of the Employer and the Agency
+        whether the damage, compensation, reinstatement, or combination thereof arising
+        out of the Agency implementation of this Article. This provision does not limit,
+        waive, or in any way impact the State’s liability to AFSCME if the State fails to
+        withhold and remit lawful dues to AFSCME as obligated under the Agreement.
+
+Section 8. Employer Held Harmless.
+The Union agrees that it will indemnify, defend and save the Employer and the Agency
+harmless from all suits, actions, proceedings, and claims against the Employer and the
+Agency or person(s) acting on behalf of the Employer and the Agency whether for
+damage, compensation, reinstatement, or combination thereof arising out the Agency's
+implementation of this Article.
+
+Section 9. Shop Steward.
+A.    Twelve (12) Shop Stewards shall be allowed access to all represented Division
+      employees. Such Stewards shall be selected from and represent employees. The
+      Union shall immediately notify the Agency, the Agency Labor Relations Unit, and
+      the Department of Administrative Services Labor Relations Unit of the names of
+      Shop Stewards and their designated representation area. The Union shall update
+      the list as necessary.
+
+B.      Union Stewards, President and Vice President will be granted mutually agreed
+        upon time off during regularly scheduled working hours to investigate and process
+        grievances upon notice to their immediate supervisor. If the permitted activities
+        would interfere with the work the Steward or employee is expected to perform, the
+        immediate supervisor shall, within the next work day, arrange a mutually
+        satisfactory time for the requested activity.
+
+        Union Stewards, President and Vice President will receive their regular rate of pay
+        for time spent processing grievances and representing bargaining unit employees
+        during their regularly scheduled hours of employment. However, only one (1)
+        Union representative will be in pay status for any one (1) grievance except where
+        a grievance involves employees in more than one (1) work section. Supervisors
+        may request that Stewards, President and Vice President maintain and submit a
+        monthly activity report of work time spent investigating and processing grievances.
+
+        The Employer is not responsible for any compensation of employees or their
+        representative for time spent processing grievances or distributing Union material
+        outside their regularly scheduled hours of employment. The Employer is not
+        responsible for any travel or subsistence expenses incurred by a grievant or Union
+        Steward, President and Vice President in the processing of grievances. Grievance
+
+
+
+2025-2027 Oregon State Fire Marshal       4                 Collective Bargaining Agreement
+        meetings between Union and Management shall be held in the central office in
+        Salem.
+
+C.      The Agency agrees there shall be no reprisal, coercion, intimidation or
+        discrimination against any Shop Steward or member of the Union for the conduct
+        of the functions described in this Article.
+
+D.      At the Union’s request and subject to the operating requirements of the Agency,
+        personnel selected as Shop Stewards for the Union shall be granted personal
+        leave, accrued vacation leave, accrued compensatory time, or leave of absence
+        without pay to attend the Union ’s Shop Steward training session.
+
+Section 10.
+The Agency agrees to attendance by the President or their designee of the Local Union
+without loss of regular pay at meetings where their presence is required by the Agency.
+
+Before such time may be taken, the President or designee shall give notice to their
+supervisors. If the permitted activities would interfere with the President’s or designee’s
+duties, the direct supervisor shall, within the next working day, arrange a mutually
+satisfactory time for the requested activity.
+
+Section 11. AFSCME President Leave.
+A.    Long Term. Upon written request from the Executive Director of AFSCME Council
+      75 to DAS Labor Relations Unit, one (1) President/designee from an AFSCME
+      Council 75 Central Table participating Agency shall be given release time from
+      their position for a period of time up to one (1) year for the performance of Union
+      duties related to the collective bargaining relationship. However, if the Union
+      President/ designee or Executive Director requests release time for less than their
+      full regular schedule, such release time shall be subject to the Employer’s approval
+      based on the operating needs of the employee’s work unit. AFSCME shall, within
+      thirty (30) days of payment to the employee, reimburse the State for payment of
+      appropriate salary, benefits, paid leave time, pen sion, and all other employer-
+      related costs. Where this reimbursement is expressly prohibited by law or funding
+      source, the employee shall be granted a leave of absence but the Employer will
+      not be responsible for continuing to pay the employee’s salary and benefits.
+      AFSCME shall indemnify and hold the State harmless against any and all claims,
+      damages, suits, or other forms of liability which may arise out of any action taken
+      or not taken by the State for the purpose of complying with this provision.
+
+B.      Short Term. Upon written request from the Executive Director of AFSCME Council
+        75 to DAS Labor Relations Unit and the Agency’s Employee Services Manager,
+        up to four (4) Presidents/designees from AFSCME Council 75 Central Table
+        participating Agencies shall be given release time from their position for a period
+        of time up to three (3) months for the performance of Union duties related to the
+        collective bargaining relationship. Only one (1) employee from a bargaining unit
+        and a total of four (4) employees from all Central Table participating bargaining
+        units may be on such leave at any one (1) period in time. Such requests will be
+        granted unless the affected Agency can demonstrate that the employee’s absence
+        would adversely impact the operating needs of the employee’s work unit. If
+
+2025-2027 Oregon State Fire Marshal       5                 Collective Bargaining Agreement
+        granted, such time may also be taken on an intermittent basis. AFSCME shall,
+        within thirty (30) days of payment to the employee, reimburse the State for
+        payment of appropriate salary, benefits, paid leave time, pension, and all other
+        employer-related costs. Where this reimbursement is expressly prohibited by law
+        or funding source, the employee shall be granted a leave of absence but the
+        Employer will not be responsible for continuing to pay the employee’s salary and
+        benefits.
+
+Section 12.
+Union officers or Union stewards will be allowed to send Union meeting notices through
+the Agency’s e-mail system, which will be limited to approximately one page and will not
+include attachments. Interactive use limited to clarifications regarding the meeting notices
+is allowed, however, recipients of group e-mails shall not use the “reply all” function. Use
+of the Agency’s e-mail system shall be on non-work time.
+
+Section 13. Names of Retirees.
+The Employer will send a monthly report to the Union of the names of individuals that
+have retired the previous month. For purposes of this Agreement, a retiree shall be
+defined as a person who has given the Agency written notice that they are separating
+from State service by retirement and that person has actually separated from State
+service.
+
+Section 14. Reports.
+Reports, policies, notices and/or copies of documents referenced in this Section may be
+provided electronically.
+A.    Upon request and no more than once a quarter the Agency shall provide to the
+      Union the names of any temporary / Limited duration employees (management /
+      unrepresented / bargaining unit) hired, reason for the hire and expected duration
+      of the appointment.
+
+B.      Upon request and no more than once a quarter, the Agency shall provide to the
+        Union the names of all employees in double fill positions, the reason for the double
+        fill and the expected duration of the appointment if available.
+
+C.      Upon request, the Agency shall provide to the Union on an annual basis the
+        Agency organization charts showing management positions and the positions they
+        supervise.
+
+D.      Upon written request by the Union, the Agency shall provide a copy of its written
+        personnel policies to the Union. A current version of personnel policies shall be
+        accessible to employees. Management will notify employees and the Union of
+        personnel policy revisions/changes.
+
+Section 15. Intermittent Union Leave.
+When Union officials (officers and stewards) are designated in writing by the Executive
+Director of Oregon AFSCME to attend AFSCME Council 75 Biennial or AFSCME
+International Conventions, the following provisions apply.
+       A.     The Executive Director of Oregon AFSCME shall notify affected agencies
+              in writing of the name of the employee(s) at least thirty (30) days in advance
+
+2025-2027 Oregon State Fire Marshal        6                 Collective Bargaining Agreement
+                 of the date of the AFSCME Convention. For agencies of 100 or fewer
+                 bargaining unit members, no more than one bargaining unit member per
+                 agency may be designated to attend AFSCME conventions. For agencies
+                 of greater than 100 bargaining unit members, no more than two bargaining
+                 unit members may be designated to attend AFSCME conventions under
+                 this provision.
+
+        B.       Subject to agency head or designee approval based on the operating needs
+                 of the employee’s work unit, including staff availability, the employee will be
+                 authorized release time with pay.
+
+        C.       The paid release time is limited to attendance at the conference and travel
+                 time to the conference if such time occurs during the employee’s regularly
+                 scheduled working hours up to forty (40) hours per calendar year.
+
+        D.       The release time shall be coded as Union business leave or other identified
+                 payroll code as determined by the State.
+
+        E.       The release time shall not be included in the calculation of overtime nor
+                 considered as work related for purposes of workers’ compensation.
+
+        F.       The employee will continue to accrue leaves and appropriate benefits under
+                 the applicable collective bargaining agreement except as limited herein.
+
+        G.       The Union shall, within thirty (30) days of payment to the employee,
+                 reimburse the State’s affected agency for all Employer related costs
+                 associated with the release time, regular base wage and benefits, for
+                 attendance at the applicable conference.
+
+        H.       The Union shall indemnify and the Union and employee shall hold the State
+                 harmless against any and all claims, damages, suits, or other forms of
+                 liability which may arise out of any action taken or not taken by the State for
+                 the purpose of complying with these provisions.
+                                                                              REV: 2017,2019,2023,2025
+
+### ARTICLE 4 - ADMINISTRATIVE PROVISIONS
+
+Section 1. Laws, Regulations and Savings.
+This Agreement is subject to all applicable existing and future State and federal laws and
+regulations.
+
+In the event any provision of this Agreement is declared invalid by any court of competent
+jurisdiction or by ruling of the Employment Relations Board, then only such portion or
+portions shall become null and void and the balance of the Agreement remain in effect.
+The Employer and the Union agree to meet, negotiate, and agree upon a substitute for
+the portion or portions of the Agreement so affected and to bring into conformance
+therewith not over sixty (60) days after notification unless extended by mutual agreement.
+
+
+
+
+2025-2027 Oregon State Fire Marshal          7                  Collective Bargaining Agreement
+Section 2. Legislative Action.
+A.    Provisions of this Agreement not requiring legislative funding or statutory changes
+      before they can be put into effect shall be implemented on the date of signing this
+      Agreement or the date otherwise specified in this Agreement. Necessary bills for
+      implementation of the other provisions shall be submitted to the Legislative
+      Assembly promptly upon the signing of this Agreement.
+
+B.      Upon singing of this Agreement both Parties will jointly recommend to the
+        Legislative Assembly the passage of funding and statutory changes necessary to
+        implement this Agreement.
+
+Section 3. Strikes, Lockouts and Picket Lines.
+The Union agrees that during the life of this Agreement, the Union or its bargaining unit
+members will not authorize, instigate, aid or engage in any work stoppage, slowdown,
+sickout, refusal to work, picketing or strike against the Employer and/or the Agency, its
+goods, property or on its property.
+
+The Agency agrees that during the life of this Agreement there will be no lockout.
+
+Upon notification confirmed in writing by the Employer to the Union that certain bargaining
+unit members covered by this Agreement are engaging in strike activity in violation of this
+Article, the Union shall advise such striking employees in writing, with a copy to the
+Department of Administrative Services, to return to work immediately. Such notification
+by the Union shall not constitute an admission that it has caused or counseled such strike
+activity.
+
+Section 4.
+This labor Agreement contains the full and complete agreement on all subjects upon
+which the parties did bargain or could have bargained pursuant to ORS 243 et. seq.
+Neither party shall be required, during the term of this Agreement, to negotiate or bargain
+upon any other issue. All matters not included in this Agreement shall be deemed to have
+been raised and disposed of as if covered herein.
+
+Section 5. Term of the Agreement.
+A.    Unless otherwise noted in a specific article in the Agreement, this Agreement
+      becomes effective on the date of ratification at the local table and expires June 30,
+      2027. The Union shall send a letter informing the Department of Administrative
+      Services Labor Relations and the affected Agency of the specific ratification date
+      of the tentative agreement. If the Union does not send the letter identifying the
+      date of the ratification vote, the Employer will use the effective date of the
+      agreement as being the first of the month following the date of signature.
+
+B.      Either party may open negotiations for a successor agreement by giving written
+        notice to the other party between the dates of December 1, 2026 and December
+        31, 2026. Negotiations for a successor agreement will start between February 15,
+        2027 and March 15, 2027, unless mutually agreed otherwise by the Parties.
+
+
+
+
+2025-2027 Oregon State Fire Marshal      8                  Collective Bargaining Agreement
+Section 6. Successor Negotiations.
+A.    It is recognized by the Employer that employees representing the Union during the
+       process of negotiations are acting on behalf of the Union as members and not in
+       their capacity as employees of the Employer.
+
+B.      The Employer agrees to release up to five (5) employees with pay for actual
+        negotiating time, including caucus, during sessions when such time occurs during
+        the employees’ normal work schedule and hours of work. Release time will be
+        paid time, unless the Agency notifies the Union by December 1 that a budget deficit
+        exists that makes paid time not feasible. In that circumstance, the Parties agree
+        that the matter of paid or unpaid time for negotiations shall be discussed as a part
+        of the groundrules for the successor negotiations.
+                                                                     REV: 2017, 2019, 2021,2023,2025
+
+
+### ARTICLE 5 - PERSONNEL RECORDS
+
+Section 1.
+The Chief Human Resources Office human resource information system is the system of
+record for all employee records and official employee Personnel File electronic and paper
+documents for which there are appropriate document categories in the system.
+
+The department, or agency under agreement to provide human resource services, stores
+paper documents of the official employee Personnel File and paper documents that are
+not yet able to be kept in the human resource information system. The department, or
+agency under agreement to provide human resource services, also stores paper
+documents of the official employee Personnel File that predate January 1, 2019.
+
+Section 2.
+An employee may, upon request, inspect and obtain a copy of digital or paper documents
+of their official employee Personnel File, paper documents that are not yet able to be kept
+in the human resource information system and paper documents of the official employee
+Personnel File that predate January 1, 2019. No grievance shall be kept in the Personnel
+Files after the grievance has been resolved except the resolution.
+
+Section 3.
+No information reflecting critically upon an employee shall be placed in the employee's
+Personnel File that does not bear the signature of the employee. The employee shall be
+required to sign such material to be placed in the employee's Personnel File provided the
+following disclaimer is attached:
+
+        "Employee's signature confirms only that the supervisor has discussed and given
+        a copy of the material to the employee, and does not indicate agreement or
+        disagreement."
+
+If an employee is not available within a reasonable period of time to sign the material or
+the employee refuses to sign the material, the Agency may place the material in the file
+provided a statement has been signed by two (2) management representatives that a
+copy of the document was mailed to the employee at the employee's address of record.
+A copy will also be mailed to the Union.
+
+
+2025-2027 Oregon State Fire Marshal        9                 Collective Bargaining Agreement
+Section 4.
+If the employee believes that any of the above material is incorrect or a misrepresentation
+of facts, the employee shall be entitled to prepare in writing an explanation or opinion
+regarding the prepared material. This shall be attached to the disputed material included
+as part of the personnel record until the material is removed.
+
+Section 5.
+An employee may include in the Personnel File copies of any relevant material the
+employee wishes, such as letters of favorable comment, licenses, certificates, college
+course credits or any other material which reflects credibly on the employee. The
+employee’s supervisor/manager will ensure the documents are submitted into the
+employee’s official Personnel File in the human resource information system.
+
+Section 6.
+At the employee's request, record of disciplinary actions shall be removed two (2) years
+after the effective date of the action provided no incident of a similar nature has been
+documented in the intervening time. The employee will be sent the requested document
+within five (5) work days from the receipt of request. Any period of leave of absence
+without pay that is more than fifteen (15) days shall extend the retention period for that
+duration of leave.
+
+Section 7. Supervisory/Managerial Working Files.
+A.    An employee’s supervisor/manager may maintain a Working (non human resource
+      information system) File kept in accordance with Agency practice.
+
+B.      Within five (5) business days from the date of an employee request, an employee
+        will be able to inspect their supervisor’s Working Files in the presence of their
+        supervisor. Employees will not remove any material from the File. If the File
+        cannot be made available because of the supervisor’s absence, extensions of up
+        to ten (10) business days will be granted.
+
+C.      Upon request, the employee shall be given a copy of documents in the Working
+        File.
+
+D.      An employee may submit a written statement to be attached to any document in
+        the File and such statement will remain attached as part of the Working File so
+        long as the document remains in the File.
+
+E.      Documents of an adverse nature will be removed from the File no later than
+        eighteen (18) months from the date of the document so long as no reoccurrence
+        of a similar nature has taken place in the intervening period. An employee may
+        request early removal of any adverse document in the File. Such document(s) shall
+        be removed upon mutual agreement between the supervisor and employee.
+
+F.      Any information in a Working File that is past the retention schedule shall not be
+        used in a disciplinary action so long as no reoccurrence of a similar nature has
+        taken place in the intervening period.
+
+
+2025-2027 Oregon State Fire Marshal       10                Collective Bargaining Agreement
+Section 8.
+Personnel Files and Working Files shall not be accessible by state employees beyond
+the immediate supervisor, the Agency Employee Services Director, employee services
+staff, the subject employee, employees with a work related business need as authorized
+by the Agency Employee Services Director, and anyone specifically authorized in writing
+by the subject employee.
+                                                                                      REV: 2019, 2021
+
+
+### ARTICLE 6 - DISCIPLINE, DISCHARGE, AND GRIEVANCE PROCEDURE
+
+Section 1.
+Grievances are defined as acts, omissions, applications or interpretation alleged to be
+violations of the terms and conditions of this Agreement.
+
+Section 2.
+The Parties agree it is in their mutual interest to resolve issues at the lowest level possible
+and, therefore, will communicate openly at all steps of the process either by phone
+conversation or a meeting.
+
+The employee with or without a Union representative can discuss the issue with their
+supervisor in an effort to resolve the issue before filling a grievance.
+
+Section 3. Grievance Steps.
+STEP 1.
+A.    Any employee, with notice to the Union, Union Representative/Steward on the
+      employee's behalf or an employee may file a formal grievance at STEP 1 in writing
+      with their immediate supervisor within thirty (30) calendar days of the date the
+      employee knew or should have known of the alleged violation(s).
+
+B.      The grievance shall be in writing and shall include: (a) a statement of the grievance
+        and the relevant facts sufficient to process the grievance; (b) the specific provision
+        or provisions of the Agreement alleged to be violated; and (c) the remedy sought.
+
+C.      The Union or the immediate supervisor may request a meeting with the other party
+        to discuss the grievance. The supervisor, grievant or union steward shall not be
+        required to meet during non-work hours, however, the Parties understand that
+        schedules may preclude such meeting unless someone volunteers to attend on
+        non-duty time. The immediate supervisor shall respond in writing to the grievance
+        within fifteen (15) calendar days to the employee from the date of receipt of the
+        grievance. A copy of the response will be sent to the Union and to the Employee
+        Services Manager.
+
+        Step 1 grievance settlements shall be reduced to writing and signed by the grievant
+        and first line supervisor, who shall send a copy when signed to the State Fire
+        Marshal, AFSCME headquarters and Labor Relations Units of DAS and the
+        Agency.
+
+
+
+
+2025-2027 Oregon State Fire Marshal         11                 Collective Bargaining Agreement
+        Actions taken pursuant to informal settlement agreements shall not be contrary to
+        Collective Bargaining Agreement or ORS Chapter 243 and shall not give rise to
+        any bargaining or other consequential obligations.
+
+STEP 2. If the grievance remains unresolved Step 1, the Union may file an official
+    grievance on its official grievance form in writing to Employee Services within thirty
+    (30) calendar days after the date that the employee knew or should have known of
+    the alleged violation(s). The grievance shall include: (a) a statement of the
+    grievance and the relevant facts sufficient to process the grievance; (b) the specific
+    provision or provisions of the Agreement alleged to be violated; and (c) the remedy
+    sought. Once the grievance has been filed at STEP 2, it cannot be expanded.
+    Employee Services shall respond in writing within thirty (30) calendar days after
+    receipt of the grievance.
+
+STEP 3. If the grievance remains unresolved at STEP 2, the Union may file the grievance
+     in writing with the State Fire Marshal, within thirty (30) calendar days following the
+     date the response at STEP 2 was due or received. The Agency or designee shall
+     respond within thirty (30) calendar days following receipt of the appeal.
+
+STEP 4. If the grievance remains unresolved at STEP 3, the Union may file the grievance
+     in writing with the Department of Administrative Services, Labor Relations Unit,
+     within thirty (30) calendar days following date the response at STEP 3 was due or
+     received. The Department of Administrative Services shall respond within thirty
+     (30) calendar days following receipt of this STEP 4 appeal to the Department of
+     Administrative Services. For purposes of this article, an appeal in writing can be
+     delivered by first class registered or certified mail, postage paid, by fax or by
+     electronic mail to the Labor Relations Unit email address LRU@das.oregon.gov.
+
+        In the event the response from the Department of Administrative Services is
+        acceptable to the Union, such response shall have the same force and effect as a
+        decision or award of an arbitrator, and shall be final and binding on all parties and
+        they will abide thereby.
+
+STEP 5. If the grievance is unresolved following Department of Administrative Services
+     review, the Union may submit in writing the grievance to arbitration. To be valid, a
+     request for arbitration must made within thirty (30) calendar days after the STEP 4
+     response was due or received.
+
+Section 4. Selection of the Arbitrator.
+The Union request for arbitration will be made through the process established by the
+Employment Relations Board, or successor Agency. The Union will provide State-Arb-
+Notice@omls.oregon.gov as the Employer contact email, and will request a list of the
+names of five (5) Oregon or Washington arbitrators from the Employment Relations
+Board. The parties will select an arbitrator by alternately striking one (1) name from the
+list, with the moving party striking first until only one (1) name remains on the list. The
+name remaining on the list shall serve as the arbitrator. The arbitrator will provide
+available dates to both parties. The parties shall select a mutually agreeable date and
+shall inform the arbitrator.
+
+
+2025-2027 Oregon State Fire Marshal        12                 Collective Bargaining Agreement
+Section 5. Arbitrator's Authority.
+The parties agree that the decision or award of the arbitrator shall be final and binding on
+each of the parties and that they will abide thereby. The arbitrator shall have no authority
+to add to, subtract from, change, or modify any of the terms of this Agreement, to change
+an existing wage rate or establish a new wage rate. The arbitrator shall have the power
+to return a grievant to employee status, with or without back pay, or to mitigate the penalty
+as equity suggests under the facts.
+
+Section 6. Expenses of Arbitration.
+Arbitrator fee and expenses shall be paid by the losing party. If, in the opinion of the
+arbitrator, neither party can be considered the losing party, then such expenses shall be
+divided as in the arbitrator's judgment is equitable. All other expenses sh all be borne
+exclusively by the party requiring the service or item for which payment is to be made.
+
+Section 7. Mediation.
+Subsequent to a valid arbitration request and prior to the selection of an arbitrator, either
+the Department of Administrative Services or the Union may request mediation of the
+grievance. If agreed to by both parties, mediation will be scheduled and conducted by the
+Conciliation Service Division of the Employment Relations Board. Mediation is not a
+mandatory step of the grievance procedure.
+
+Section 8. Discipline and Discharge.
+A.    Progressive discipline shall be used when appropriate. No employee who has
+      completed the initial trial service period shall be disciplined or dismissed without
+      just cause.
+
+B.      An employee reduced in pay, demoted, or suspended shall receive written notice
+        of the discipline and of the specific charges supporting the discipline. An FLSA -
+        exempt employee demoted or suspended for safety violations consistent with the
+        salary basis requirement of the FLSA shall receive written notice of the discipline
+        and of the specific charges supporting the discipline. The reduction, demotion or
+        suspension of a regular status employee may be appealed directly to STEP 2 of
+        the Grievance Procedure and must be within fifteen (15) calendar days from the
+        effective date of the action.
+
+C.      Where discharge may be contemplated, a written predismissal notice shall be
+        given to a regular status employee against whom a charge is presented. Such
+        notice shall include the known complaints, facts and charges, and a statement that
+        the employee may be dismissed. The employee shall be afforded an opportunity
+        to refute such charges or present mitigating circumstances to the Agency at a time
+        and date set forth in the notice which date shall not be less than seven (7) calendar
+        days from the date the notice is received. The employee shall be permitted to
+        have a Union Representative present. At the discretion of the Agency, the
+        employee may be suspended with or without pay, reassigned, or be allowed to
+        continue their work as specified within the predismissal notice. Should an
+        employee be suspended without pay, the employee will first be afforded notice and
+        right to present mitigating circumstances to the Appointing Authority or designee.
+
+
+
+
+2025-2027 Oregon State Fire Marshal        13                 Collective Bargaining Agreement
+D.      Discharge of a regular status employee may be appealed by the Union directly to
+        STEP 3. The appeal must state the reason for the appeal with sufficient specifics
+        to process the grievance and must be submitted in writing to the Agency or
+        designee with fifteen (15) calendar days from the effective date of the discharge.
+
+E.      If the grievance is not resolved at the Agency level, the Union file for arbitration
+         within thirty (30) calendar days following the date the STEP 3 response was due
+         or received, whichever occurs first. The appeal must state the reason for the
+         appeal with sufficient specifics to process the grievance and must be submitted in
+         writing to the Department of Administrative Services Labor Relations Unit.
+
+Section 9.
+Employees are entitled to representation by a Union Representative at any Step in this
+Article. This representation includes a fifteen (15) minute consultation before and after
+the meeting.
+
+Section 10.
+Once a bargaining unit member files a grievance outside of STEP 1, the employee shall
+not be required to discuss the subject matter of the grievance without the presence of the
+Union Representative or Shop Steward.
+
+Section 11.
+Time limits may be extended by agreement of the parties. Such extensions must be in
+writing and shall become part of the grievance record.
+
+Section 12.
+Failure of the aggrieved party or Union to comply with the time limits outlined above shall
+constitute abandonment of the grievance and it cannot be resubmitted.
+
+Section 13.
+If an Agency manager has reason to discipline an employee it shall not be done in front
+of other employees or the public.
+
+Section 14.
+Upon employee approval, notices of predismissal, suspension, reduction, demotion and
+dismissal shall be forwarded to the Union on the same day as the employee is notified.
+
+Section 15.
+Upon request, an employee shall have the right to Union representation during an
+investigatory interview that an employee reasonably believes will result in disciplinary
+action. The employee will have the opportunity to consult with a local Union Steward or
+an AFSCME Council Representative before the interview, but such consultation shall not
+cause an undue delay.
+
+Section 16. Expedited Grievance Arbitration.
+A.    Upon mutual agreement, the Employer and Union may agree to use the expedited
+      arbitration process contained in this subsection for grievances that are timely and
+      properly filed and subject to arbitration as provided for in this agreement. The
+      parties will use language from this section of the article in the selection of the
+
+2025-2027 Oregon State Fire Marshal        14                Collective Bargaining Agreement
+        arbitrator, payment and all other conditions that apply to the hiring of an arbitrator
+        as stated below.
+
+B.      The parties shall select an arbitrator by requesting the Employment Relations
+        Board for a list of seven (7) qualified arbitrators who have offices in Oregon and
+        Washington and agree to work under the rules set forth in this subsection. The
+        order of striking shall be determined by a coin flip. Each party shall have the right
+        to alternately strike a total of three (3) names from the list with the remaining name
+        on the list being the selected arbitrator.
+
+C.      The cost of the arbitration shall be borne by the losing party as stipulated by the
+        arbitrator.
+
+D.      The use of the expedited arbitration process shall be determined at the time the
+        parties schedule dates with the arbitrator.
+
+E.      The parties shall develop a stipulation of facts and affidavits and other time saving
+        methods whenever possible and when mutually agreed upon.
+
+F.      Case presentation will be limited to opening statements, brief recitation of facts,
+        witness presentation and closing oral arguments. No post hearing briefs shall be
+        filed and no court reporter transcripts shall be made. However, nothing prevents
+        either party from keeping their own notes. The hearing will be completed within
+        one (1) business day unless otherwise agreed upon by the parties.
+
+G.      The hearing shall be conducted by the arbitrator in whatever manner will most
+        expeditiously permit full presentation of the evidence and arguments of the parties.
+
+H.      At their discretion, the arbitrator may issue a bench decision at the conclusion of
+        the hearing or may issue a written award no later than seven (7) calendar days
+        from the close of hearing excluding weekends and holidays. The arbitrator’s award
+        shall be based on the record and shall include a brief explanation of the basis for
+        the award.
+
+I.      The award shall be in writing and signed by the arbitrator. If the arbitrator
+        determines a formal opinion is necessary, the award will be in summary fashion.
+
+J.      The arbitration award shall not establish a precedent for any current or future cases
+        on the same or related subject unless the parties agree otherwise prior to the
+        hearing.
+                                                                           REV: 2015,2019, 2021,2023
+
+
+### ARTICLE 7 – QUARTERLY CHECK-INS
+
+Section 1. Quarterly Check-ins.
+Supervisory managers shall conduct check-ins with their employees on a quarterly basis.
+If a quarterly check-in does not occur, the employee may request a check-in for the
+missed time period. Supervisory managers shall conduct the requested check-in within
+thirty (30) calendar days. The employee shall have the opportunity to provide their input
+
+
+2025-2027 Oregon State Fire Marshal        15                 Collective Bargaining Agreement
+during the quarterly check-ins. Any notes completed during the quarterly check-in made
+about an employee shall be provided to the employee, and made available to the
+employee upon request.
+
+Section 2.
+Quarterly check-ins are not grievable nor arbitrable under this Agreement and cannot be
+used for discipline.
+                                                                                     REV: 2021,2023
+
+
+### ARTICLE 8 - POSITION DESCRIPTIONS
+
+Position descriptions shall be in writing and will delineate the specific duties assigned to
+the position. A dated copy of the position description , signed by the employee’s
+supervisor, shall be given to the employee within ten (10) business days of the
+assumption of the position and at such time as the position description is amended.
+
+The position description will be reviewed by the employee and the employee’s supervisor
+at the time of the performance appraisal.
+
+Nothing contained herein shall compromise the right or responsibility of the Agency to
+assign work consistent with class specifications.
+                                                                                          REV:2023
+
+
+### ARTICLE 9 - FILLING OF VACANCIES
+
+Section 1.
+The Agency desires to fill vacancies with the best qualified applicants available. Within
+that context, the Agency intends to provide AFSCME bargaining unit employees with
+opportunities to compete for openings within the bargaining units. The Agency advocates
+promotion of its employees and is committed to upward mobility where feasible to obtain
+the best applicant for the position. To this end, qualified internal candidates will be
+seriously considered during the selection process.
+
+The Agency will determine whether a vacancy is to be filled and the method/means to fill
+that vacancy. If the vacancy is to be filled, the Agency will post the open positions on
+the on-line job application system and it will remain open for a minimum of seven (7)
+calendar days. Employees shall apply for the vacancy by submitting an application
+pursuant to the announcement. Employee Services will send a weekly e-mail announcing
+all newly opened Agency positions.
+
+Agency employees will be provided an opportunity to apply to the vacancy by submitting
+an application pursuant to the announcement. A supervisor who is hiring may consider
+internal candidates only or may consider both internal candidates and other candidates.
+
+Internal Agency candidates are current employees of the Agency. All internal applicants
+who meet the minimum qualification and special qualifications for the vacancy will be
+offered an interview. Management will assess minimum, special qualifications, and
+preferred skills. The term “special qualifications and preferred skills” means any
+qualification(s) or skill(s) beyond the minimum requirements identified in the classification
+specification. Such qualifications and skills assessment may include, but not be limited
+
+2025-2027 Oregon State Fire Marshal         16               Collective Bargaining Agreement
+to: communication skills, ability to work well with others, and references. All things being
+equal, seniority within the Agency shall prevail.
+
+An employee not selected for a vacant position may ask to meet with the hiring manager
+and shall be granted a meeting to discuss the employee’s qualifications and reasons for
+not being selected.
+
+Section 2.
+The employee is responsible for preparation for advancement and qualifying for
+promotion. It shall be the employee's responsibility to see that they have updated their
+records and profile necessary to apply for job opportunities.
+
+The Agency will make training available to employees with the on-line application process
+and interviewing/testing skills, upon request.
+
+Section 3.
+Involuntary geographic transfers shall require a thirty (30) day advance notice of the
+Employer’s intent to transfer the employee. Employees will be notified by e-mail of all
+vacancies to be filled.
+
+Section 4.
+An employee not selected for a vacant position may ask to meet with the hiring manager
+and shall be granted a meeting to discuss the employee’s qualifications and interview.
+
+Section 5. Underfilling of Deputy State Fire Marshal Position.
+Employees appointed to the classification of Entry Level Deputy State Fire Marshal shall
+be given written notice at the time of hire of the requirements for reclassification to the
+Deputy State Fire Marshal position which they are underfilling. A required time frame
+shall accompany this notice.
+                                                                     REV: 2015, 2017, 2019,2023,2025
+
+
+### ARTICLE 10 - LIMITED DURATION APPOINTMENTS
+
+Section 1.
+Persons may be hired for special studies or projects of uncertain or limited duration which
+are subject to the continuation of funding for a specific project. Such appointments shall
+be for a stated period not exceeding two (2) years but shall expire upon the earlier
+termination of the special study or projects unless extended by Legislative process.
+Management will clearly state in its posting that the limited duration appointment requires
+the employee to vacate their permanent position.
+
+Employee Services shall notify the Union of any new or renewed limited duration
+employee position it establishes. The notification shall include the approximate duration
+for which the employee is being hired.
+
+Employee Services shall notify the Union when it receives permanent funding for limited
+duration positions that are occupied. Regular status employees occupying these
+positions shall be direct appointed provided they were competitively hired into the limited
+duration position.
+
+
+2025-2027 Oregon State Fire Marshal       17                 Collective Bargaining Agreement
+Section 2.
+A.    An employee initially hired to State government on a limited duration appointment
+      in this Agency is not entitled to layoff rights during such appointment .
+
+B.      An employee appointed from regular status from any State agency to a limited
+        duration appointment in the Agency shall be reinstated to their former classification
+        when the limited duration appointment is terminated. Such return rights to their
+        former classification and to the previous Agency, shall not apply if they are
+        discharged as provided in Article 6 (Discipline, Discharge, and Grievance
+        Procedure).
+
+Section 3.
+A person accepting a limited duration appointment shall be notified of the conditions of
+the appointment and acknowledge in writing that they accept that appointment under
+these conditions. Such notification shall include the following:
+A.    That the appointment is of limited duration.
+
+B.      The persons who accept a limited duration appointment shall have no layoff rights
+        under this Agreement except those provided under Section 2 (B) of this Article.
+
+C.      That in all other respects, limited duration appointees have all rights and privileges
+        of other classified employees including but not limited to wages, benefits and Union
+        representation under this Agreement.
+                                                                                REV: 2017, 2021,2023
+
+
+### ARTICLE 11 - LAYOFF
+
+Section 1. Alterative to Layoff
+A.    When the Agency believes that a lack of funds requires a layoff, the Agency will
+      notify the Union no fewer than fifteen (15) calendar days before the Agency issues
+      initial layoff notices. The parties will meet, if requested by either the Agency or
+      Union, to consider alternatives to layoffs such as voluntary reductions in hours or
+      workdays, temporary interruptions of employment or other voluntary employment
+      options. Alternatives to the layoffs shall require mutual agreement between the
+      Agency and Union. In the absence of any mutual agreement, the Agency will
+      implement layoff procedures consistent with the current applicable agreement.
+
+B.      Agency and Union discussions under this agreement shall not constitute interim
+        bargaining under the Public Employees Collective Bargaining Act. The parties
+        shall not be required to use the dispute resolution procedures contained in the
+        Public Employees Collective Bargaining Act.
+
+Section 2.
+A layoff is defined as a separation from the service for involuntary reasons not reflecting
+discredit on an employee. An employee shall be given written notice of layoff as far in
+advance as possible but not less than fifteen (15) calendar days before the effective date,
+stating the reasons for the layoff.
+
+
+
+
+2025-2027 Oregon State Fire Marshal         18                Collective Bargaining Agreement
+Section 3.
+The layoff procedure shall occur in the following manner:
+A.    The Agency shall determine the specific positions to be vacated and employees in
+      those positions shall be notified of layoff. The Agency shall notify, in writing, all
+      affected employees of their service credits and contractual bumping rights. The
+      Agency shall notify the Union of the service credits of all employees in all affected
+      positions in writing. The Agency shall also post a copy of the service credits of all
+      affected positions on employee bulletin board and mail a copy to all employees not
+      having a formal office.
+
+B.      Temporary employees working in the classification in which a layoff occurs shall
+        be terminated prior to the layoff of trial service or regular employees.
+
+C.      Employees shall be laid off and service credits calculated within the following
+        separate categories:        Permanent full-time positions; Permanent part-time
+        positions. An initial trial service employee can not displace any regular status
+        employee.
+
+D.      An employee notified of a pending layoff shall select one (1) of the following options
+        and communicate such choice in writing to the Agency Employee Services Office
+        within five (5) calendar days from the date the employee is notified in writing and
+        has a service credits list provided (in hand) to the affected employee.
+        1.     The employee may displace an employee in the Agency with the lowest
+               service credits in the same classification for which they are qualified.
+
+        2.       The employee may demote to the lowest service credits position in any
+                 classification for which they are qualified within the Agency. Employees
+                 who elect to demote shall be placed on any layoff list of their choice, within
+                 the Agency, for the classification from which they demoted.
+
+        3.       The employee may elect to be laid off. An employee who elects to be laid
+                 off shall be placed on any layoff list of their choice, within the Agency, for
+                 the classification from which they were laid off.
+
+E.      To be qualified for the options under Section 3(D)(1) and (2) the employee must
+        meet all of the minimum qualifications for the position's classification and must be
+        capable of performing the specific requirements of the position as stated in the
+        position description within thirty (30) days. An employee who is seeking to bump
+        another employee has no right to a trial service period of any duration in the
+        position into which the employee is attempting to bump. Further, the thirty (30)
+        day time period is for the purposes of orienting an employee to the position, not
+        training the employee to perform the work. Therefore, it is necessary that the
+        employee can perform all of the duties and responsibilities of the position as
+        determined by the Agency prior to bumping into the position.
+
+        If an employee meets the minimum qualifications but is not capable of performing
+        the specific requirements of the lowest service credit position, they may displace
+        or demote to the next lowest service credit position in the classification, provided
+        that the incumbent in the next lowest position has a lower service credit than the
+
+2025-2027 Oregon State Fire Marshal          19                 Collective Bargaining Agreement
+        employee displacing or demoting and that the employee is capable of performing
+        the specific requirements of the position.
+
+F.      When exercising an option under Section 3(D)(1) and (2) an employee shall only
+        be eligible to displace another employee with a lower service credit.
+
+Section 4.
+Computation of service credit for regular status employees shall be made as follows:
+One (1) point per month for each full month of unbroken service in Agency service and
+one-half (.5) point per month for each full month of unbroken State service in another
+state agency excluding temporary service. A break in service is a separation or
+interruption of employment without pay of more than two (2) years. All part-time service
+shall be credited on a prorated basis. Authorized leaves of absence from the Agency,
+including time spent in the armed forces, military leave of absence, authorized leaves with
+pay, and time lost because of duty-connected disability, shall be included in the
+computation of service credits. Periods of non-FMLA/OFLA leave without pay will be
+deducted from service credit calculations. When a layoff is announced, service credit
+scores shall be frozen on that date until the layoff and any subsequent bumping activity
+is completed.
+
+If two (2) or more employees have equal service credits, the tie shall be broken as follows,
+with most credit given to:
+        1.     Length of continuous service with the Agency;
+
+        2.       Length of continuous service in the job classification.
+
+Section 5.
+Any trial service employee who is laid off or demoted in lieu of layoff shall not be placed
+on the Agency layoff list, but shall be restored to the eligible list from which certification
+was made if the eligible list is still active. Restoration of the list shall be for the remaining
+period of eligibility that existed at the time of appointment from the list.
+
+Section 6.
+Any employee demoted in lieu of layoff may request at that time and shall be paid for all
+accrued compensatory time at the rate being earned prior to demotion in lieu of layoff.
+
+Section 7. Agency Layoff Lists.
+Names of regular status employees of the Agency who have separated from the service
+of the State in good standing by layoff or who have demoted in lieu of layoff shall be
+placed on layoff lists in service credit order established by the classification from which
+the employee was laid off or demoted in lieu of layoff.
+
+The employee shall designate in writing the locations they wish to be considered for recall.
+The term of eligibility of candidates placed on the list shall be two (2) years from the date
+of placement on the list.
+
+Section 8. Recall.
+Employees who are on an Agency layoff list and have designated in writing the positions
+and locations shall be recalled in service credit order beginning with the employee with
+
+2025-2027 Oregon State Fire Marshal         20                  Collective Bargaining Agreement
+the highest service credits who meets all of the minimum qualifications for the position
+and who is capable of performing the specific requirements of the position as stated on
+the position description within thirty (30) days. An employee who is seeking recall has no
+right to a trial service period of any duration in the position into which the employee is
+attempting to return. Further, the thirty (30) day time period is for the purposes of orienting
+an employee to the position, not training the employee to do the work. Therefore, it is
+necessary that the employee can perform all of the duties and responsibilities of the
+position as determined by the Agency prior to being recalled to the position.
+
+If an employee on a layoff list is offered a position, they may refuse the position, but their
+name will be removed from the layoff list.
+
+An employee appointed to a position from a layoff list shall be removed from all other
+layoff lists.
+
+If a temporary appointment is necessary and is expected to last longer than forty-five (45)
+days and there is a layoff list for that classification, employees on the layoff list shall first
+be offered the temporary appointment prior to hiring any other temporary. Not accepting
+a temporary job does not constitute a right of refusal under this Section. This shall only
+apply to employees separated from State service. Such employees shall be appointed
+as a temporary employee, remain on the layoff list, and will not be eligible for any benefits
+covered under this Agreement.
+
+Section 9. Geographic Area.
+Statewide.
+
+Section 10.
+Any temporary interruption of employment because of lack of work or unexpected or
+unusual reasons beyond the Employer's control which does not exceed fifteen (15)
+consecutive days, shall not be considered a layoff if, at the termination of such conditions,
+employee(s) are to be returned to employment. Such interruptions of employment shall
+be recorded and reported as leave without pay.
+
+Section 11.
+It is understood and agreed that employees who elect to displace, demote and/or return
+from layoff do not receive reimbursement for travel nor moving expenses.
+
+Section 12.
+There shall be no cross bumping between management service, unrepresented service,
+other bargaining units and the Agency bargaining unit. However, after termination of
+unclassified, exempt or management service for reasons other than specified by ORS
+240.555, employees who held positions in the same agency and service prior to the
+appointment to the unclassified, management or exempt services shall be restored to
+their former status, classification, or similar classification for which qualified in Classified
+Service. If a reduction in force is required in connection with such return, it shall be
+accomplished through this Article as if the employee returning had always been a part of
+the bargaining unit.
+
+
+
+
+2025-2027 Oregon State Fire Marshal         21                  Collective Bargaining Agreement
+Section 13. Secondary Recall Rights.
+Application. These rights apply to all employees in bargaining units represented by
+AFSCME at Central Table negotiations as well as the Department of Corrections and
+Board of Parole except employees who are laid off during initial trial service.
+
+Definitions.
+1.     Geographic areas, for the purpose of secondary recall, are each location for which
+       an employee may indicate their willingness to relocate through the Human
+       Resource Information System application process.
+
+2.      Agency Layoff Lists are intra-agency layoff lists, as defined in each AFSCME
+        Central Table agency and/or Department of Corrections and Board of Parole
+        bargaining unit Contract.
+
+3.      Secondary Recall List is an inter-agency layoff list, which consists of regular status
+        employees who have been separated by layoff from Union-represented positions
+        in AFSCME Central Table agencies and/or Department of Corrections and Board
+        of Parole and who have elected to be placed on such list, consistent with the
+        definitions of geographic areas defined above.
+
+Coordination with Filling of Vacancy and Layoff Articles: The recall options provided
+herein shall be consistent with the priority of recall to positions from layoff within an
+Agency, as specified within each Agency’s contract, except that recall from Agency Layoff
+Lists shall take precedence over recall from the Secondary Recall List.
+
+Procedures.
+1.    Placement on the Secondary Recall List.
+      (a)   Regular status employees who are separated from the service of the State
+            in good standing (meaning no record of economic disciplinary sanctions in
+            their personnel file) by layoff or transferred outside State government due
+            to intergovernmental transfer shall, in addition to their right to be placed on
+            the Agency Layoff List, be given the option of electing placement on the
+            Secondary Recall List by geographic area for other AFSCME-represented
+            bargaining units which utilize the same or successor classification from
+            which they were laid off. The term of eligibility of candidates placed on the
+            list shall be two (2) years from the date of layoff. When an employee is
+            prohibited from participating in the secondary recall process due to the
+            presence of an economic disciplinary sanction in their personnel file, that
+            employee may request and shall be placed on the Secondary Recall List for
+            the remainder of the two (2) years eligibility following layoff once the
+            discipline has remained in the file for the length of time required by the
+            agency’s contract.
+
+        (b)      Employees who elect to be placed on the Secondary Recall List shall
+                 specify in writing the AFSCME Central Table and/or Department of
+                 Corrections and Board of Parole bargaining units and geographic areas to
+                 which they are willing to be recalled.
+
+
+
+
+2025-2027 Oregon State Fire Marshal        22                 Collective Bargaining Agreement
+2.      Use of the Secondary Recall List.
+        (a)   After the exhaustion of the Agency Layoff List for a specific classification
+              within a geographic area, the Secondary Recall List shall be used to fill all
+              positions within a specific classification and geographic area consistent with
+              Section (C) above, until such secondary list is exhausted.
+
+        (b)      To be eligible for appointment from the Secondary Recall List, a laid off
+                 employee on such list must meet the minimum qualifications for the
+                 classification and any special qualifications for the position.
+
+        (c)      Agencies shall utilize the Secondary Recall List to fill positions by calling for
+                 certifications from the list of the five (5) most senior employees who meet
+                 the minimum qualifications for the classification and any special
+                 qualifications for the position to be filled by selecting one of the five (5) so
+                 certified. Seniority for this purpose shall be computed as described per the
+                 layoff article of each agency’s contract.
+
+        (d)      Where fewer than five (5) eligible employees remain on the Secondary
+                 Recall List, the agency shall select one (1) of these employees who meets
+                 the minimum qualifications for the class and any special qualifications for
+                 the position.
+
+3.      Appointments/Refusals of Appointments from the Secondary Recall List.
+        (a)   A laid off employee on the Secondary Recall List who is offered an
+              appointment from the list and refuses to accept the appointment shall have
+              their name removed from the Secondary Recall List; however, an agency
+              will not remove an employee’s name from the Secondary Recall List where
+              that individual had been a day shift employee and subsequently refuses the
+              offer of a position with swing shift or nigh t shift hours.
+
+        (b)      Employees appointed to positions from the Secondary Recall List shall have
+                 their names removed from their Agency Layoff List(s) and the Secondary
+                 Recall List.
+
+        (c)      Employees appointed to positions from the Secondary Recall List shall
+                 serve a trial service period not to exceed three (3) full months, except that
+                 employees hired into the Offender Information and Sentence Unit as Prison
+                 Term Analysts (PTA) shall serve a trial service period consistent with the
+                 Department of Corrections agreement. Administration of the trial service
+                 period shall be consistent with the hiring Agency’s contract. However,
+                 employees who fail to successfully complete this trial service period shall
+                 have their names restored to the Agency Layoff List(s) on which they
+                 previously had standing. Restoration to the Agency Layoff List(s) shall be
+                 for the remaining period of eligibility that existed at the time of appointment
+                 from the Secondary Recall List. An employee may also petition the DAS-
+                 Labor Relations Unit to also be restored to the Secondary Recall List for the
+                 remainder of the initial twenty-four (24)-month recall period where the trial
+                 service removal was not related to potential miscondu ct warranting an
+
+
+2025-2027 Oregon State Fire Marshal           23                 Collective Bargaining Agreement
+                 economic or dismissal sanction. In no instance shall the DAS-Labor
+                 Relations Unit’s decision be grievable.
+
+        (d)      Employees appointed to positions from the Secondary Recall List shall not
+                 be entitled to moving expenses.
+                                                                                REV: 2015, 2019,2023
+
+
+### ARTICLE 12 - TRIAL SERVICE
+
+Section 1.
+All employees appointed to a bargaining unit position shall serve a trial service period of
+six (6) months.
+
+Section 2.
+The supervisor shall evaluate the employees’ work habits and ability to perform their
+duties satisfactorily and provide the employee written feedback within the trial service
+period with the goal to provide an opportunity for the employee to be successful.
+
+Section 3.
+At any time during the trial service period, the Agency may remove an employee if, in the
+judgment of the Agency, the employee is unable or unwilling to perform their duties
+satisfactorily or if, in the judgment of the Agency, their habits and dependability do not
+merit their continuance in the position.
+
+If an employee is removed from their position during the trial service period the employee
+shall not have rights to appeal the Agency’s decision under this Agreement. Upon
+removal, the Agency shall notify the employee in writing and provide a copy of the removal
+letter to the Union.
+
+If such employee was previously a regular status employee in a bargaining unit position
+in the Agency immediately prior to their present appointment, they shall be reinstated to
+their former classification as a regular status employee unless they are discharged as
+provided in Article 6 of this Agreement.
+
+Section 4.
+An employee who is transferred or demoted to another position in the bargaining unit in
+the Agency prior to the completion of the trial service period shall complete a new trial
+service period of six (6) months.
+
+Section 5.
+An employee's trial service period may be extended in instances where an employee has
+a leave of absence. A leave of absence shall extend the trial service period by the number
+of calendar days of the leave taken by the employee.
+
+An employee's trial service may also be extended for the purpose of developing the skills
+or knowledge necessary for competent job performance. Written notice of extensions will
+be provided to the employee and a copy of the extension shall be forwarded to AFSCME
+Council 75 and the Department of Administrative Services, Labor Relations Unit.
+
+
+
+2025-2027 Oregon State Fire Marshal             24            Collective Bargaining Agreement
+Section 6. Outside Agency Transfer or Promotional Trial Service
+A.    A regular status employee who is removed from lateral or promotional trial service
+      from an executive branch state agency shall have right of return to their former
+      Agency/Bargaining Unit. The Agency shall restore the employee to their former
+      position if it is vacant. If it is not vacant the employee shall be restored to a position
+      in their former classification in their former bargaining unit so long as the employee
+      meets any special qualifications for the position unless charges are filed and they
+      are terminated from employment.
+B.    If an employee is reinstated into a position in their former classification in the
+      bargaining unit and this requires a change in the employee’s official work site, the
+      employee will be eligible for moving reimbursement in accordance with the
+      Employer’s policy titled, ‘Current or Recalled Employee Relocation’ (40.055.10) or
+      successor policy.
+                                                                            REV: 2017, 2019,2023,2025
+
+
+### ARTICLE 13 - HOURS OF WORK/OVERTIME
+
+Section 1. General.
+This Article is intended to provide a definition of hours of work and a basis for the
+calculation of overtime and none of its provisions shall be construed as a guarantee of
+any minimum or maximum hours of work or weeks of work to any employee or to any
+group of employees.
+
+Section 2. Work Week.
+The work week shall begin at 00:01 on Sunday and end at 24:00 midnight the following
+Saturday.
+
+Work schedule is defined as the time of day and the days of the week the employee is
+assigned to work. A regular work schedule is five (5) consecutive eight (8) hour days,
+usually 8 a.m. to 5 p.m. Alternative work schedules are anything other than five (5)
+consecutive eight (8) hour days. Work shifts and starting and stopping times may be
+adjusted based on the operational needs of the Agency. The Agency may consider
+employee requests for adjusted schedules pursuant to Section 9, of this Article. For work
+schedule changes, management will provide seven (7) days notice to the affected
+employees. If the Agency is unable to provide seven (7) days notice of a work schedule
+change which requires the employee to work outside of the employees established
+schedule, then the employee may choose to receive overtime or compensation time.
+
+Section 3. Meal and Rest Breaks
+Employees who are not scheduled a duty-free meal period shall have meal periods
+counted as hours worked. All other employees shall be granted a meal period of not less
+than thirty (30) minutes nor more than one (1) hour unless mutually agreed otherwise
+between the employee and the Supervisor. Meal periods shall be scheduled at
+approximately mid-period of the employees’ work shift.
+
+A rest period of fifteen (15) minutes shall be allowed during each consecutive work period
+of four (4) hours or more. Such rest periods shall be in accordance with operating
+requirements.
+
+
+
+2025-2027 Oregon State Fire Marshal         25                 Collective Bargaining Agreement
+Section 4. Overtime.
+Eligible employees, as defined by FLSA, shall be compensated at the rate of time and
+one-half (1-1/2) in the form of pay or compensatory time off for authorized overtime
+worked in excess of eight (8) and/or alternate scheduled hours in a day or forty (40) hours
+in any one (1) workweek. No application of this Article shall be interpreted to provide for
+compensation for overtime at a rate exceeding time and one-half (1-1/2).
+
+Employees will be given the opportunity to provide input to management when notified
+that management is adjusting their work schedules within the same workweek for the
+purpose of leveling the workweek not to exceed forty (40) hours and avoid overtime
+liability. Such input does not abridge management’s right to adjust work schedules.
+
+Time worked for the purpose of this Agreement is all the regular rate of pay time worked
+and paid leave.
+
+Section 5. Notice of Overtime.
+The Agency shall give reasonable notice of any planned overtime to be worked. Planned
+overtime worked will be subject to prior management authorization. Prior authorization
+shall be granted on a case-by-case basis.
+
+Section 6. Call Back.
+When called to duty on a day off or on a duty day after a break in service of one (1) hour
+or more, a minimum of two (2) hours at time and one-half (1 ½) will be guaranteed. Any
+hours worked exceeding two (2) hours will be paid at time and one-half (1½).
+
+If the employee is called back to work, and is instructed by management to respond
+immediately, the employee’s time worked begins with the manager’s request. For
+purposes of this Section, “immediately” means that a response is required within two (2)
+hours from the manager’s request. Otherwise, the callback begins with the time the
+employee reports for work at the employee’s assigned duty station.
+
+If the employee is called back to work in an emergency situation, the employee may be
+assigned by the Agency to handle other situations occurring during the period of the
+callback without the Agency incurring two (2) callback payment liabilities.
+
+Employees who receive a telephone call or electronic message that calls them back to
+duty, but does not require them to physically report to work shall be compensated at time
+and one-half (1½) for a minimum of thirty (30) minutes or the length of the call and
+associated duties, whichever is greater.
+
+Section 7.
+Subject to the operating requirements of the Agency and in advance of the requested
+time off, an employee shall have their choice of scheduling compensatory time off on a
+first-come, first-served basis. If two (2) or more employees under the same supervisor
+request the same period of time off on the same day and this conflicts with operating
+requirements, the employee having the greatest seniority with the Agency shall be
+granted the time off if the matter cannot be resolved by agreement between the
+employees concerned. However, an employee shall not be given this length of service
+
+
+2025-2027 Oregon State Fire Marshal       26                Collective Bargaining Agreement
+consideration more than once in every two (2) years. Compensatory time may be taken
+in time increments of less than eight (8) hours.
+
+Section 8. Compensatory Time Accrual.
+An FLSA-eligible employee may accrue up to one hundred and fifty (150) hours of
+compensatory time off. At the discretion of the Agency, accrual above one hundred and
+fifty (150) hours may be paid to the employee or, subject to operating requirements of the
+Agency, scheduled off with mutual agreement of the supervisor and the employee, within
+thirty (30) days of the excess accrual or permitted to remain on the Agency’s official
+payroll records for a longer period of time and subject to immediate payoff. Accrued
+compensatory time balances are paid in full upon separation and may be converted to
+pay under special circumstances. Cost codes associated with incident response will not
+be used to accrue compensatory time.
+
+Section 9. Alternate Work Schedules.
+A.    A regular work schedule is defined as a work schedule that is five (5) consecutive
+      eight (8) hour days.
+
+B.      An alternate work schedule is defined as a work schedule that is other than a five
+        (5) day eight (8) hour work schedule with regularly established starting and
+        stopping times.
+
+C.      A flexible work schedule is a work schedule which varies the number of hours on
+        a daily basis, but not necessarily each day, or a work schedule in which starting
+        and stopping times vary on a daily basis but not necessarily each day but maintains
+        the forty (40) hour work week. Flexible work schedules must be approved by the
+        supervisor. When a change to a flexible schedule is requested by an employee
+        and approved by the supervisor, daily and Sunday overtime shall be waived by the
+        employee.
+
+D.      An employee desiring to work an alternate work schedule, flexible work schedule,
+        or who wishes to modify the starting/stopping times of their regular schedule, must
+        submit a written request to their immediate supervisor. The employee’s written
+        request will address the following areas: 1) the requested alternate work schedule
+        will not interfere with the employee’s ability and availability to perform assigned
+        duties; 2) continue to meet Agency/work unit operational needs; 3) the needs of
+        the public will be met; 4) the request will not impact other employee’s ability to
+        schedule leave to extend their weekends; 5) the forty (40) hour work week will be
+        maintained. The supervisor will review the request and either approve or deny the
+        request which includes consideration of the above criteria. If approved, the
+        employee waives any penalty or premium pay as a result of the change into or out
+        of the requested schedule.
+
+E.      Requests for alternate work schedules, or regular schedules with different
+        stop/start times, (adjusted), shall be considered in order of application. If more
+        than one (1) employee requests an alternative or adjusted work schedule on the
+        same day and both requests cannot be accommodated, preference shall be given
+        to the employee with the most seniority in the Agency if possible.
+
+
+2025-2027 Oregon State Fire Marshal       27                Collective Bargaining Agreement
+F.      Approved alternate/adjusted work schedules will be reviewed at least annually at
+        the time of the employee’s performance evaluation.
+
+G.      The supervisor’s decision to grant or deny such a request may be grieved by the
+        Union up to the Department of Administrative Services grievance appeal step. At
+        the employee’s request, the immediate supervisor will meet with the employee in
+        an effort to fully discuss all concepts.
+
+H.      The supervisor may revoke an employee’s alternate/adjusted work schedule if the
+        schedule no longer meets criteria cited above with fourteen (14) calendar days
+        notice. The Agency’s decision shall not be subject to the grievance procedure.
+
+I.      The Employer agrees to provide flexibility in granting employee requests to flex
+        their work hours within a given workweek to accommodate appointments and other
+        personal obligations so long as operational needs are met. Employees commit to
+        considering operational needs when making these requests.
+
+Section 10. Exempt Employees.
+Employees occupying positions which have been determined by the Agency to be
+executive, administrative or professional as defined by the Fair Labor Standards Act shall
+receive time off for authorized time worked in excess of forty (40) hours in a workweek.
+The rate of compensation shall be one (1) hour off for one (1) hour of overtime worked.
+Time off shall be used within the fiscal year earned or shall be lost. The scheduling of
+time off shall be consistent with provisions for requesting accrued leave time or Agency
+practice whichever is applicable. However, in situations when responding to an
+emergency, Exempt employees shall be compensated in cash.
+
+Section 11. Travel Pay.
+When the employee is required by the agency to travel, the actual travel time shall be
+considered time worked. Where required travel is outside an employee’s regular work
+hours (excluding normal commuting time), the employer may temporarily modify the
+employee’s weekly schedule without daily overtime or schedule change penalty. Where
+such schedule modification still results in the need for additional work hours, the
+employee shall be paid the appropriate rate of pay for all time worked over forty hours in
+that workweek.
+                                                                   REV: 2015, 2017, 2019,2023,2025
+
+
+### ARTICLE 14 - CLASSIFICATION AND CLASSIFICATION CHANGES
+
+Section 1. Work Out of Classification.
+A.    When an employee is assigned, in writing, by the Agency for a limited time period
+      to perform the major distinguishing duties of a position at a higher level
+      classification for ten (10) consecutive calendar days, that employee shall be
+      receive a work-out-of-classification differential.
+
+        When assignments are made to work out of classification for more than ten (10)
+        consecutive calendar days, the employee shall be compensated for all hours
+        worked beginning from the first day of the assignment for the full period of that
+        particular assignment.
+
+
+2025-2027 Oregon State Fire Marshal      28                Collective Bargaining Agreement
+B.      The Agency’s appointing authority or management designee will conduct an
+        internal assessment to determine the appropriate rate of the differential. The
+        amount of the differential will not be less than five percent (5%)
+            1. If the assessment results in one step above, equal to, or below the
+                employee’s current pay rate, the differential will be five percent (5%) or a
+                dollar amount based on the first step of the higher salary range, whichever
+                is greater.
+            2. If the assessment results in two steps or more above the employee’s current
+                pay rate, the agency will use the outcome of the assessment to determine
+                the dollar amount of the differential.
+        3.     If the differential is a dollar amount, the amount will be adjusted due to
+        changes to the base salary (e.g. COLA or step increase).
+C.      An employee performing duties out of classification for training or developmental
+        purposes shall be informed in writing of the purpose and length of the assignment
+        during which there shall be no extra pay for the work. A copy of the notice shall
+        be placed in the employee's file.
+
+D.      Assignments of work out of classification shall not be made in a manner which will
+        subvert or circumvent the administration of this Article.
+
+E.      An employee who has been assigned and is working out-of-class to fill a vacant
+        position for more than six (6) months, shall receive the next higher full step in the
+        new salary range, upon promotion.
+
+Section 2. Revision of Classification Series.
+Prior to implementation of new classifications, or major revisions of existing
+classifications, the parties will negotiate rates of pay, effective date and method of
+implementation.
+
+Section 3. Reclassification Procedure.
+A.    Employees may request reclassification by submitting a completed Position
+      Description Form and written explanation for the proposed reclassification to a
+      specific bargaining unit classification to the Agency Employee Services.
+      Reclassification must be based on a finding that the duties and responsibilities of
+      a position have been significantly enlarged, diminished or altered, but the
+      knowledge, skills and abilities required are still essentially similar to those
+      previously required.
+
+B.      The Agency shall review and verify the duties assigned to the position. Within thirty
+        (30) days after receipt of the reclassification request, the Agency shall notify the
+        Union of its findings. If the findings indicate reclassification, the Agency shall
+        decide to seek approval if necessary or remove the duties.
+
+Section 4. Upward Reclassification.
+When a position is reclassified upward, a regular incumbent shall be continued in the
+position. They shall be advanced to the higher class with the same status held in the
+lower class if they meet minimum experience and training requirements. When a position
+is reclassified upward and the incumbent does not have regular status, the position will
+be filled competitively at the higher level.
+
+2025-2027 Oregon State Fire Marshal        29                 Collective Bargaining Agreement
+Section 5. Pay for Upward Reclassification.
+      Rate of pay upon upward reclassification shall be Determined by following Section
+      3 – Salary on Promotion – of the Salary Administration Article.
+
+Section 6. Pay Date of Upward Reclassification.
+The effective date of a reclassification shall be the date the reclassification was finalized
+in the budget and a note will be added to the CHRO human resources information system
+with the date that the reclassification was requested. If the reclassification receives
+legislative or Department of Administrative Services approval, the employee will receive
+a lump sum payment if eligible. The lump sum payment shall be the difference between
+the current salary rate including work out of classification pay, if any, and the proposed
+salary rate. The lump sum payment will cover the period beginning the first of the month
+following the month in which the reclass request was received by the Agency to the date
+the reclassification is implemented.
+
+The employee does not retain the employee’s old salary eligibility date. A new salary
+eligibility date will be established twelve (12) months from the effective date of the
+reclassification.
+
+Section 7. Pay for Upward Reclassification Denial.
+If the Legislature does not approve the reclassification request, the employee shall be
+paid the rate of pay of the higher level classification from the first of the month following
+the month in which the reclassification request was received by the Agency Employee
+Services to the date the duties were removed. Any work out of classification pay received
+during that period shall be deducted from the proposed salary rate.
+
+Section 8. Downward Reclassification.
+A.    When a position is reclassified to another class that carries a lower salary range,
+      the incumbent trial service or regular employee shall be accorded corresponding
+      status in the new classification.
+
+B.      The Agency shall notify an employee in writing of a downward reclassification of
+        the employee's position, and the specific reasons for doing so within sixty (60) days
+        prior to the effective date.
+
+When an employee is reclassified downward, the agency’s appointing authority or
+management designee will follow Section 2 - Salary on Demotion - of the Salary
+Administration Article to determine the appropriate rate of pay.
+     No employee shall be reclassified downward while other employees with less
+     service credits remain in the original class..
+
+Section 9. Equal Reclassification Rate.
+When an employee is reclassified to an equal or lateral classification, the agency’s
+appointing authority or management designee will follow Section 4 - Salary on Lateral
+Transfer - of the Salary Administration Article to determine the appropriate rate of pay.
+The employee’s benefit service date will remain unchanged.
+
+
+
+
+2025-2027 Oregon State Fire Marshal        30                 Collective Bargaining Agreement
+Section 10. Denied Reclassification/Involuntary Reclassification Appeal Process.
+Agency Appeal: If an employee’s requested reclassification is denied or the Agency
+      reclassifies an employee’s position, the Union may appeal the decision in writing
+      to the Agency Head or designee within fifteen (15) calendar days after receipt of
+      the Agency’s decision. The appeal must identify the reason(s) the Agency’s
+      decision is incorrect. The Agency shall respond to the appeal in writing within
+      fifteen (15) calendar days from receipt of the Union’s appeal.
+
+Committee Appeal: If the Agency denies an employee’s reclassification request or if the
+    Agency reclassifies an employee’s position, the Union may appeal the decision to
+    the Employer/Union Classification Appeal Committee. The appeal must be in
+    writing and submitted within fifteen (15) calendar days from the date the Agency’s
+    final decision. All appeals must be supported with copies of documents originally
+    provided to the Agency for the reclassification request, including written
+    explanation of the request and all relevant documentation. No new documentation
+    or information will be considered by the Committee unless mutually agreed upon.
+    Upon request, the Union and employee shall have one (1) opportunity to address
+    the committee.
+
+Employer/Union Classification Appeal Committee: The committee shall be composed of
+     one (1) Employer representative and one (1) Union staff representative. The
+     Committee’s sole mission will be to consider appeals pursuant to this section of
+     the article and make decisions which maintain the integrity of the classification
+     system by correctly applying the classification specifications. Each representative
+     shall have experience making classification decisions.
+
+Appeal Decision Process: The Committee will attempt to resolve the appeal by jointly
+       determining whether the current or another classification more accurately depicts
+       the overall assigned duties, authorities and responsibilities of the position. In this
+       process each of the designees may identify one (1) alternate class that they
+       determine most accurately depicts the purpose of the job and overall assigned
+       duties. The Committee will prepare an initial written decision to the Agency and
+       Union within thirty (30) calendar days of receipt which will include the reasons for
+       the decision. Agency management retains the right to modify duties to ensure
+       consistency with the Agency’s work, goals and objectives. If the finding of the
+       committee determines the assigned duties are appropriately classified at a higher
+       salary range and the Agency subsequently removes the higher level duties, the
+       employee will receive a lump sum payment for the difference between the current
+       salary rate including work out of classification as determined by the committee.
+       This payment shall be for the time period beginning the first of the month following
+       the month in which the reclassification request was received by the Agency to the
+       date the duties are removed.
+Arbitration: If there is no resolution, the Union may request arbitration in writing within
+       fifteen (15) calendar days from the date of receipt of the Committee’s final written
+       decision. The Union’s request must be sent to the Department of Administrative
+       Services Labor Relations Unit and shall include the reasons why the Agency’s
+       decision is incorrect.
+
+
+
+
+2025-2027 Oregon State Fire Marshal       31                 Collective Bargaining Agreement
+        The Parties agree to the appointment of a panel of three (3) arbitrators to hear all
+        appeals under this article. Arbitrators shall be assigned on a rotational basis. The
+        arbitrators shall have experience resolving classification issues. An arbitrator may
+        be removed from the panel by mutual agreement of the Parties. However, each
+        party retains the right to initiate a change in that arbitrator’s appointment upon
+        notice to the other party. If this occurs, the Parties agree to select another qualified
+        arbitrator. The change in assigned arbitrator shall be effective for any case not yet
+        scheduled for arbitration. The arbitrator’s fee and expenses shall be paid by the
+        losing party. If, in the opinion of the arbitrator, neither party can be considered the
+        losing party, then such expenses shall apportioned as in the arbitrator’s judgment
+        is equitable. All other expenses shall be borne by the Party requiring the service
+        or item for which payment is to be made.
+
+        The arbitrator shall allow the Agency’s decision to stand unless they conclude that
+        the proposed classification more accurately depicts the overall assigned duties,
+        authority, and responsibilities using the criteria specified below. In the event the
+        arbitrator finds in favor of the proposed or alternate classification, Agency
+        management may elect to remove/modify duties at any point during the process.
+        However, if the agency removes the higher level duties, the employee will receive
+        a lump sum payment for the difference between the current salary rate including
+        work out of classification pay already paid if any, and the appropriate salary rate
+        for the classification as determined by the committee. This payment shall be for
+        the time period beginning the date in which the request was received by the
+        Agency to the date the duties are removed.
+
+Classification Criteria: For purposes of this section, a reclassification must be based on
+       findings that the purpose of the position is consistent with the concept of the
+       proposed classification and that the class specifications for the proposed
+       classification more accurately depicts the overall assigned duties, authority and
+       responsibilities of the position.
+
+        Terms used above shall be defined as follows:
+        a.    the purpose of the position shall be determined by the statement of purpose
+              and assigned duties of the position description and other relevant evidence
+              of duties assigned by the Agency;
+
+        b.       the concept of the proposed classification shall be determined by the
+                 general description and distinguishing features of its class specifications;
+                 and
+
+        c.   the overall duties, authority and responsibilities of the position shall be
+             determined by the position description and other relevant evidence of duties
+             assigned by the Agency.
+This Section supersedes any provisions contained in the Agency’s grievance procedure.
+
+Section 11. Underfill Differential.
+When the agency selects an employee to fill a higher-level classification position as an
+underfill, the employee shall be notified in writing that they are an underfill, provided with
+the reasons for the underfill, and informed of the requirements needed to meet the
+
+2025-2027 Oregon State Fire Marshal         32                 Collective Bargaining Agreement
+minimum qualifications of the position’s classification. An employee’s rate of pay will be
+determined by following Section 3 - Salary on Promotion - of the Salary Administration
+Article.
+See LOA: Work Out of Class
+                                                                              REV: 2015, 2017,2023,2025
+
+
+### ARTICLE 15 - EQUAL EMPLOYMENT OPPORTUNITY AND AFFIRMATIVE ACTION
+
+Section 1.
+The provisions of this Agreement shall apply equally to all employees in the bargaining
+unit without regard to age, race, color, religion, sex, sexual orientation, national origin,
+disability, marital status, or political affiliation. The Union further agrees that it will support
+the Agency implementation of applicable federal and State laws, regulations, and
+guidelines including but not limited to Presidential Executive Order 11246 as amended by
+Presidential Executive Order 11375 and the Governor's policy and guidelines for
+affirmative action plans in State agencies.
+
+Section 2.
+All complaints alleging any form of discrimination, in violation of this Contract shall be
+submitted to the Director or designee in writing within thirty (30) days of the date of the
+occurrence. A meeting with the complainant will be held within fifteen (15) calendar days
+of the receipt of the complaint. If satisfactory solution cannot be reached, the Director or
+the designee will communicate in writing, within thirty (30) calendar days from receipt of
+the complaint, the position of the Agency to the complainant and the Union. If the
+complaint is not resolved, the employee or the Union may submit such complaint to the
+Bureau of Labor and Industries, Civil Rights Division; except that complaints alleging
+discrimination because of political affiliation may be submitted to the Department of
+Administrative Services, Labor Relations Unit, if unresolved by the Agency within fifteen
+(15) calendar days after receipt of the Director’s or designee's response. Department of
+Administrative Services, Labor Relations Un it will review the complaint, attempt to resolve
+it, and/or issue its findings to the employee and the Union.
+
+### ARTICLE 16 - HOLIDAYS
+
+Section 1.
+The following compensable holidays shall be recognized:
+      A.    New Year's Day on January 1;
+      B.    Martin Luther King, Jr.'s Birthday on the third Monday in January;
+      C.    President's Day on the third Monday in February;
+      D.    Memorial Day on the last Monday in May;
+      E.    Juneteenth on June 19;
+      F.    Independence Day on July 4;
+      G.    Labor Day on the first Monday in September;
+      H.    Veterans Day on November 11;
+      I.    Thanksgiving Day on the fourth Thursday in November;
+      J.    Native American Heritage Day on the day after Thanksgiving;
+      K.    Christmas Day on December 25;
+
+
+
+
+2025-2027 Oregon State Fire Marshal          33                  Collective Bargaining Agreement
+        L.       Every day appointed by the President of the United States as a day of
+                 mourning, rejoicing or other special observance only when the Governor
+                 also appoints that day as a holiday.
+
+When a holiday specified in this Section falls on a Saturday, the preceding Friday shall
+be recognized as the holiday. When a holiday specified in this Section falls on a Sunday,
+the following Monday shall be recognized as the holiday.
+
+Section 2.
+Full-time employees shall be compensated at the straight time rate for eight (8) hours for
+each recognized holiday listed in Section 1. All part-time employees shall be
+compensated at the straight time rate on a pro rata basis for each recognized holiday.
+This holiday compensation is called holiday pay. Recognized holidays which occur during
+paid vacation or paid sick leave will be charged as a holiday rather than vacation or sick
+leave.
+
+Section 3.
+Employees who are required to work on recognized holidays shall be entitled to the
+holiday pay as provided for by Section 2 of this Article plus compensatory time off or cash
+for all such time worked at the rate of time and one-half (1-1/2). The rate at which an
+employee shall be compensated for working on a holiday shall not exceed the rate of time
+and one-half (1-1/2) in addition to holiday pay. An employee will receive compensatory
+time off for holiday time worked unless the employee makes advance written request for
+cash, before the payroll cutoff date.
+
+Section 4.
+In addition to the holidays specified in this Article, full-time employees shall receive eight
+(8) hours of paid leave. Employees may request the option of using this paid leave on
+any workday during the calendar year. Approved usage of this leave shall be taken in a
+single block of time and granted on a basis which shall preclude the closure of state
+facilities.
+                                                                      REV: 2015, 2017, 2021,2023,2025
+
+
+### ARTICLE 17 - VACATION LEAVE
+
+Section 1. Vacation Leave for Full-Time Employees.
+Full-time classified employees shall accrue vacation leave in accordance with the
+schedule below. Employees who are new to state service may use accrued vacation
+leave during the first six months of employment; however, if an employee separates from
+state service prior to the completion of six months, any accumulated vacation time not
+utilized will be lost and is not compensable upon separation .
+
+Initial appointment to state service        Twelve (12) workdays for each twelve (12)
+through fifth (5th) year                    months of service (eight (8) hours per month)
+
+After fifth (5th) year through              Fifteen (15) workdays for each twelve (12)
+tenth (10th) year                           months of service (ten (10) hours per month)
+
+
+
+
+2025-2027 Oregon State Fire Marshal         34                Collective Bargaining Agreement
+After tenth (10th) year through          Eighteen (18) workdays for each twelve (12)
+fifteenth (15th) year                    months of service (twelve (12) hours per month)
+
+After fifteenth (15th) year              Twenty-one (21) workdays for each twelve
+through twentieth (20th) year            (12) months of service (fourteen (14) hours per
+                                         month)
+
+After twentieth (20th) year              Twenty-four (24) workdays for each twelve
+                                         through twenty-fifth (25th ) (12) months of
+                                         service (sixteen (16) hours per month)
+
+After twenty-fifth (25th ) year          Twenty-seven (27) workdays for each twelve
+                                         (12) months of service (eighteen (18) hours per
+                                         month)
+
+Part-time employees and full-time employees working less than a month shall accrue
+vacation leave on a pro rata basis. If an employee has a break in service and that break
+does not exceed two (2) years, the employee shall be given credit for the time worked
+prior to the break in service for purposes of determining the level of accrual.
+
+Section 2. Determination of Eligibility for Vacation Accrual.
+Time spent by an employee in actual State service or on Peace Corps, military, or
+job-incurred disability leave without pay shall be considered as time in the State service
+in determining length of service for vacation credits.
+
+Section 3. Determination for Accrual of Vacation Leave.
+All time in the exempt or unclassified service, shall be counted as long as there is not a
+break in service of more than two (2) years in determining the level of accrual.
+
+Section 4. Termination Vacation Pay.
+An employee who is laid off or terminates after six (6) months of Agency service shall be
+paid upon separation from Agency service for accrued vacation time except as provided
+to offset for damages or misappropriation of State property or equipment. Employees on
+military leave of absence may request payment for accrued vacation. Employees may
+request the option of using this paid leave on any workday during the calendar year.
+Approved usage of this leave shall be taken in a single block of time and granted on a
+basis which shall preclude the closure of state facilities.
+
+Section 5. Scheduling of Vacations.
+Vacations shall be scheduled at a time mutually acceptable to the Agency and the
+employee and consistent with the work requirements of the Agency. All vacation leaves
+require advanced written authorization by the employee's immediate supervisor;
+however, management may verbally approve short notice requests, subject to submission
+of written leave request form upon return . Employees shall be able to request forecasted
+accrued vacation leave. Such leave may only be taken if the accrued vacation leave is
+actually accrued by the date the leave is to be used.
+
+
+
+
+2025-2027 Oregon State Fire Marshal      35                Collective Bargaining Agreement
+Section 6. Vacation Accrual.
+An employee shall be allowed to accumulate a maximum of three hundred fifty (350)
+hours of vacation leave; however, in the event of layoff, resignation, retirement or
+termination, any unused vacation up to three hundred (300) hours will be paid to the
+employee. An employee transferring in from another State agency may transfer up to
+eighty (80) hours of accrued vacation leave. When an employee notifies the Agency they
+plan to separate from Agency service within the next two (2) calendar months, and the
+employee has at the time of such notice more than three hundred (300) hours of accrued
+vacation hours, the Agency and employee will work together to find a mutually agreeable
+time for the employee to take time off to reduce accrued vacation hours down to the three
+hundred (300) hours.
+
+An appointing authority may authorize cash payment of sixty (60) hours, upon determining
+that granting of vacation leave is not appropriate. The designated supervisor must
+document the denial of the vacation leave request. Cash payout for accrued vacation
+leave must not be granted more than once in each fiscal year.
+
+To avoid losing accrued vacation leave, an employee who is on a compensable work-
+related injury may request to use accrued vacation leave in lieu of accrued sick leave
+prior to the date the vacation leave would be lost.
+
+The employee may later request to return to utilizing paid sick leave provided accrued
+sick leave is available to use.
+
+Section 7.
+Compensation for use of accrued vacation shall be at the employee's prevailing straight
+time rate of pay.
+
+Section 8.
+In the event of an employee's death, all monies due them for accrued vacation and salary
+shall be paid as provided by law, unless otherwise designated in writing by the employee.
+
+Section 9. Vacation Cashout.
+In addition to Article 17, Section 6 of the Agreement, employees may cash out up to forty
+(40) hours of accrued vacation hours each State fiscal year under the following conditions:
+       A.      Employees must have regular status at the time of the request;
+
+        B.       Employees shall receive payment within thirty (30) days from the date of
+                 their cash out request made through the human resources information
+                 system.
+
+        C.       After cash out, employees must have in their leave balance at least sixty
+                 (60) hours of accrued vacation leave hours;
+
+        D.       Payment shall be the employee’s straight time rate of pay;
+
+        E.       Employees on unprotected leave without pay at the time the payment is
+                 requested are not eligible to cash out accrued vacation hours.
+
+
+2025-2027 Oregon State Fire Marshal         36               Collective Bargaining Agreement
+To avoid losing vacation, the employee must request vacation leave. An Agency may
+authorize cash payment of sixty (60) hours, upon determining that granting of vacation
+leave is not appropriate.
+                                                                             REV: 2017, 2019, 2021,2023
+
+
+### ARTICLE 18 - SICK LEAVE
+
+Section 1. Accrual Rate of Sick Leave With Pay Credits.
+Full-time employees shall accrue eight (8) hours of sick leave with pay credits for each
+full month worked. Employees who work less than the full month but at least thirty-two
+(32) hours during the month shall accrue sick leave with pay on a pro rata basis for the
+month.
+
+Section 2. Eligibility for Sick Leave With Pay.
+Employees shall be eligible for sick leave with pay immediately upon accrual.
+
+Section 3. Determination of Service for Sick Leave With Pay.
+Regular scheduled time worked and all leave with pay shall be included in determining
+the pro rata accrual of sick leave credits each month, provided that the employee works
+thirty-two (32) hours or more in that month.
+
+Section 4. Use of Sick Leave With Pay.
+Employees who have earned sick leave credits shall be eligible for sick leave for any
+period of absence from employment which is due to the employee's illness, bodily injury,
+disability resulting from pregnancy, necessity for medical or dental care, exposu re to
+contagious disease, Paid Leave Oregon, for the employee to donate blood that is made
+in connection with the voluntary program for the donation of blood approved or accredited
+by the American Association of Blood Banks or the American Red Cross, attendance
+upon members of the employee's immediate family (employee's parents, wife, husband,
+children, foster children, brother, sister, grandchildren, grandmother, grandfather,
+father-in-law, mother-in-law, son-in-law, daughter-in-law, or another member of the
+immediate household) where employee's presence is required because of illness or death
+in the immediate family of the employee or the employee's spouse. The employee has
+the duty to make other arrangements, within a reasonable period of time, for the
+attendance upon children or other persons in the employee's care. Certification of an
+attending physician or practitioner may be required by the Agency to support the
+employee's claim for sick leave, if the employee is absent in excess of three (3)
+consecutive days, or if the Agency believes that the employee is abusing sick leave
+privileges. The Agency may also require such certificate from an employee to determine
+whether the employee should be allowed to return to work where the Agency has reason
+to believe that the employee's return to work would be a health hazard to either the
+employee or to others.
+
+After all earned sick leave has been exhausted, an employee may request, in cases of
+illness, to use other accrued paid leaves prior to going into leave without pay.
+
+Section 5. Sick Leave With Pay on Termination.
+Compensation for accrued sick leave shall not be paid to an employee on termination for
+any reason.
+
+
+2025-2027 Oregon State Fire Marshal           37                Collective Bargaining Agreement
+Section 6. Restoration of Sick Leave Credits.
+Employees who have been separated from the State service and return to a position
+within two (2) years shall have unused sick leave credits accrued during previous
+employment restored.
+
+Section 7. Sick Leave Without Pay.
+The Agency shall grant sick leave without pay for any job-incurred injury or illness for a
+period which shall terminate upon demand by the employee for reinstatement
+accompanied by a certificate issued by a duly licensed attending physician and/or
+practitioner that the employee is physically and/or mentally able to perform the duties of
+that position.
+
+After earned sick leave has been exhausted, the Agency may grant sick leave without
+pay for any non-job-incurred injury or illness of a continuous and an extended nature to
+any employee upon request for a period up to one (1) year. Employees granted sick
+leave without pay shall be returned to their former position, shift, and days off, if still in
+existence, when released to work. If the position has been eliminated, the employee shall
+be reinstated to a vacancy in the previous classification in the previ ous work unit if
+available or if not, a vacancy within the bargaining unit for which they meet the minimum
+qualifications. If no vacancy exists, the returning employee shall displace the least senior
+employee within the bargaining unit in the previous classification
+
+The Agency may require that the employee submit a certificate from the attending
+physician or practitioner in verification of disability. Any cost associated with the supplying
+of a certificate concerning a job-incurred injury or illness that is not covered by Workers'
+Compensation benefits shall be borne by the Agency. Any cost associated with the
+supplying of a certificate concerning a non -job-incurred injury or illness shall be borne by
+the employee. In the event of a failure or refusal to supply such a certificate, or if the
+certificate does not clearly show sufficient disability to preclude that employee from the
+performance of duties, such sick leave may be canceled and the employee's service
+terminated.
+
+Section 8.
+An employee shall have all of their accrued sick leave credits transferred when the
+employee is transferred to the Agency from a different State agency. An employee shall
+have all of their accrued sick leave credits transferred when the employee is transferred
+to a different State agency if allowed by that agency's rules or Collective Bargaining
+Agreement.
+                                                                                           REV: 2019
+
+
+### ARTICLE 19 - OTHER LEAVES
+
+Section 1. Leaves With Pay.
+A.    Personal Leave. All employees after completion of initial trial service shall be
+      entitled to receive personal leave days in the following manner:
+      1.     All full-time employees shall be entitled to twenty-four (24) hours of personal
+             leave with pay each fiscal year;
+
+
+
+2025-2027 Oregon State Fire Marshal             38            Collective Bargaining Agreement
+        2.       Part-time, seasonal and job share employees shall be granted such leave
+                 in a prorated amount of twenty-four (24) hours based on the same
+                 percentage or fraction of month they are hired to work, or is subsequently
+                 formally modified, provided it is anticipated that they will work 1,040 hours
+                 during the fiscal year.
+
+                 Should any employee fail to work 1,040 hours for the fiscal year, the value
+                 of personal leave time used may be recovered from the employee.
+                 Personal leave shall not be cumulative from year to year nor is any unused
+                 leave compensable in any other manner.
+
+                 Such leave may be used by an employee for any purpose they desire and
+                 may be taken at times mutually agreeable to the Agency and the employee.
+
+B.      Service With A Jury. An employee shall be granted leave with pay for service with
+        a jury. The employee may keep any money paid by the court for serving on a jury.
+        The Agency reserves the right to petition for removal of the employee from jury
+        duty if, in the Agency’s judgment, the operating requirements of the Agency would
+        be hampered.
+
+C.      Military Training Leave. An employee who has served with the State of Oregon
+        or its counties, municipalities or other political subdivisions for six (6) months or
+        more immediately preceding a request for paid military training leave, and who is
+        a member of the National Guard or any reserve components of the armed forces
+        of the United States is entitled to fifteen (15) days or one hundred and twenty (120)
+        hours of paid military leave per federal fiscal year, un less a greater number of days
+        is provided by law. In no event may an employee receive more than the number
+        of days provided by law.
+
+D.      Military leave shall be granted in accordance with applicable Law and state policy.
+        In addition, employees shall be allowed to utilize paid military leave for travel to
+        and from their place of duty and for the time spent on militarily obligated status or
+        military duty regardless of the length of their military status or duty.
+
+E.      Subject to supervisory approval, employees may be allowed to voluntarily adjust
+        their shifts to accommodate military duty.
+
+F.      Court Appearance Leave With Pay. When any employee is not the plaintiff or
+        defendant, they shall be granted leave with pay for appearance before a court,
+        legislative committee or judicial or quasi-judicial body as a witness in response to
+        a valid subpoena or other direction by proper authority for matters related to the
+        employee's officially assigned duties. When the employee is in paid status, the
+        employee shall turn into the Agency any money in connection with the appearance.
+
+G.      Pre-Retirement Planning Leave. Employees shall be granted up to twenty-eight
+        (28) hours leave with pay for retirement planning. This leave shall be granted upon
+        hire for use throughout their employment with the state. Employees shall request
+        the use of leave provided in this Section at least five (5) days prior to the intended
+        date of use. Approval for pre-retirement planning leave shall be granted unless
+
+2025-2027 Oregon State Fire Marshal          39                Collective Bargaining Agreement
+        the Agency determines that its use would affect the operational needs of the
+        employee’s work unit. Requests for leave with shorter notice are subject to
+        management’s discretion.
+
+        Pre-retirement leave may be used to investigate and assemble the employee's
+        retirement program, including PERS, Social Security, Oregon Growth Savings
+        Plan Insurance, and other retirement income.
+
+H.      Test and Interview Leave. With notice to the supervisor, an employee shall be
+        allowed appropriate time off with pay to participate in the competitive process
+        related to job opportunities within State Government.
+
+        Up to eight (8) hours each fiscal year with pay shall be allowed for an interview for
+        a position within State government. During periods of layoff within Agency,
+        employees may use up to eight (8) additional hours for interviews within State
+        government each fiscal year. In no event shall the interview leave exceed sixteen
+        (16) hours per fiscal year. When an agency requires that an employee applicant
+        must complete on-site additional prescreening/assessments provided by that
+        agency prior to interviewing, the employee may also utilize available leave.
+
+        Authorization for the use of test and interview leave shall not be withheld unless
+        the Agency determines that the use of such leave shall adversely impact the
+        efficiency of the employee's work unit.
+
+I.      Bereavement Leave.
+        1.    Notwithstanding the hardship or sick leave eligibility criteria of the
+              Agreement employees shall be eligible for a maximum of twenty-four (24)
+              hours of paid bereavement leave per event of an immediate family member
+              which shall be prorated for part-time employees. In the event of the death
+              of a coworker, employees may be granted up to eight (8) hours of
+              bereavement leave per biennium to grieve, or attend the funeral or memorial
+              service provided that the absence does not unduly disrupt departmental
+              operations. A coworker is defined as a fellow State employee, or recent
+              retiree, of the same Agency. Subject to management approval, an
+              employee may use bereavement leave for a coworker from another Agency.
+              The Agency may request documentation.
+
+        2.       For employees that qualify for OFLA bereavement leave, paid bereavement
+                 leave under this Agreement shall run concurrently with OFLA bereavement
+                 leave.
+
+        3.       After OFLA eligible leave for bereavement is exhausted, if additional leave
+                 is needed, an employee may, with prior authorization, use any accrued
+                 leave or leave without pay at the option of the employee for a period of
+                 absence from employment to discharge the customary obligations arising
+                 from a death in the immediate family or the employee’s spouse.
+
+
+
+
+2025-2027 Oregon State Fire Marshal         40                Collective Bargaining Agreement
+        4.       Regular and trial service employees may be eligible to receive up to forty
+                 (40) hours of donated leave, to be used consecutively. The employee must
+                 exhaust all available accrued leave to qualify to receive hardship leave.
+
+        5.       For purposes of this Article, “immediate family” shall include:
+                 •     the employee’s or the employee’s spouse’s parent (includes one who
+                       stood in loco parentis (in place of a parent)) when the employee was
+                       a child);
+                 •     spouse;
+                 •     child, and child’s spouse (includes a child for whom the employee
+                       stood in loco parentis and includes step child from a previous
+                       marriage);
+
+                 •        sibling;
+                 •        grandparent;
+                 •        grandchild;
+                 •        aunt or uncle;
+                 •        niece or nephew;
+                 •        or the equivalent of each of the above for domestic partners, or
+                          another member of the immediate household.
+
+        Note: Immediate family shall include the current in -laws and step family members
+        who qualify per the above list.
+
+J.      Natural Disaster Leave
+        1.    An employee who, due to a natural disaster, has:
+              a)     lost their home (primary residence);,
+              b)     lost use of their primary residence (deemed uninhabitable); or
+              c)     lost access to their primary residence,
+              shall be eligible for a maximum of eighty (80) hours of paid administrative
+              leave, prorated for part-time employees. This leave will be available for
+              intermittent use.
+
+        2.       Employees who have used the eighty (80) hours of paid administrative
+                 leave identified in #1 may request donated leave. Donated leave received
+                 will not exceed the amount needed to cover the absence. Donators may
+                 donate their accrued vacation or compensatory leave.
+
+Section 2. Leaves Without Pay.
+A.    Military Leave Without Pay. An employee in the State service shall be entitled to
+      a military leave of absence without pay during a period of service with the armed
+      forces of the United States. They shall, upon honorable discharge from such
+      service, be returned to a position in the same class as their last held position, at
+      the salary rate prevailing for such class, without loss of seniority or employment
+      rights. Employees shall make application for reinstatement within ninety (90) days
+      and shall report for duty within six (6) months following separation from active duty.
+      Failure to comply may terminate military leave. If it is established that they are not
+      physically qualified to perform the duties of their former position by reason of such
+      service, they shall be reinstated in other work that they are able to perform at the
+
+2025-2027 Oregon State Fire Marshal          41               Collective Bargaining Agreement
+        nearest appropriate level of pay of their former class. An employee voluntarily or
+        involuntarily seeking military leave without pay to attend service school shall be
+        entitled to such leave during a period of active duty training. Military leaves of
+        absence without pay shall be granted in compliance with the Veterans'
+        Reemployment Rights Law, Title 38 USC Chapter 43.
+
+B.      Court Appearance Leave Without Pay. An employee may request and shall be
+        granted leave without pay for the time required to make an appearance as a
+        plaintiff or defendant in a civil or criminal court proceeding that is not connected
+        with the employee's officially assigned duties. However, such reduction in salary
+        will not be made for an FLSA-exempt employee to testify in court or at a deposition
+        except for full workweek increments where such testimony causes an absence of
+        one (1) or more full workweeks.
+
+C.      Leave of Absence/Educational Leave. In instances where the work of the Agency
+        will not be adversely impacted by the temporary absence of an employee, the
+        employee shall be granted a leave of absence without pay or educational leave
+        without pay for up to one (1) year, subject to Agency approval.
+
+D.      Unauthorized Absence. Unauthorized leave from duty shall be deemed to be
+        without pay and may be grounds for disciplinary action by the Agency. Employees
+        may be allowed to cover such absences with accrued vacation time or
+        compensatory time if extenuating circumstances existed. Any employee who is
+        absent for three (3) consecutive workdays without authorized leave shall be
+        deemed to have resigned unless prevented from notifying the Employer due to
+        circumstances beyond their control.
+
+E.      FMLA/OFLA. Leave shall be granted in accordance with State and/or federal law
+        as appropriate. Extensions beyond the twelve (12) weeks may be arranged at the
+        discretion of the Agency and in accordance with applicable law.
+
+        After exhaustion of all sick leave, an employee may retain up to a total
+        accumulation of twenty-four (24) hours of personal business, vacation, and/or
+        compensatory time, except use of such leave will be in accordance with this
+        Agreement. Whenever possible, this designation shall be made prior to the
+        beginning of the leave.
+
+        At the discretion of the Agency, an employee may be granted a leave of absence
+        without pay for up to six (6) months to care for a newborn or newly adopted baby.
+                                                                          REV: 2015, 2019, 2021,2023
+
+
+### ARTICLE 20 - SALARY ADMINISTRATION
+
+Section 1. Step Salary Increase.
+Employees shall be eligible for consideration for step salary increases following:
+      A.    Completion of the initial twelve (12) months of service.
+
+        B.       Completion of six (6) months of service following promotion.
+
+
+
+2025-2027 Oregon State Fire Marshal        42                Collective Bargaining Agreement
+        C.       Annual periods after (A) or (B) above until the employee has reached the
+                 top of the salary range.
+
+Section 2. Salary on Promotion and Upward Reclassification.
+When an employee is promoted, the agency’s appointing authority or management
+designee will conduct an internal assessment to determine the appropriate rate of pay.
+      A.     For promotion, if the assessment results in a step equal to or below the
+             employee’s current pay rate, their pay will be increased to the next higher
+             step in the new salary range. If that step provides an increase of less than
+             two and five-tenths percent (2.5%), the agency will apply the next higher
+             step in the new classification’s salary range.
+
+        B.       If the assessment results in a step above the employee’s current pay rate,
+                 the agency will use the outcome of the assessment. If this increase is still
+                 less than two and five tenths percent (2.5%), the agency will move the
+                 employee to the next higher step in the new classification’s salary range.
+
+        C.       Any employee reclassified upward shall move into the new range at the
+                 closest step that is higher than their current rate but not less than a four
+                 percent (4%) increase except where such increase would exceed the top
+                 step of the new salary range.
+
+        D.   If the employee’s benefit service date falls within forty-five (45) calendar
+             days of the start date of their new position and they have not yet reached
+             the top step of their current range, the promotion will be processed as if the
+             employee had already reached their benefit service date*.
+The benefit service date is adjusted to six (6) months from the date of promotion unless
+the employee is already at the top step of the new salary range.
+
+Section 3. Salary on Demotion or Reclassification Downward.
+When an employee is demoted or reclassified downward, the agency’s appointing
+authority or management designee will conduct an internal assessment to determine the
+appropriate rate of pay.
+      A.      Upon demotion, if the employee’s current pay exceeds the top step of the
+              new classification, their pay will be reduced to the top step of the new
+              classification. In the event of a downward reclassification, if the employee’s
+              current pay exceeds the top step of the new classification, the agency will
+              retain their current salary. The agency will red-circle their rate of pay until
+              a step of the classification equals or exceeds the employee’s salary.
+              Employees who are red-circled are not eligible for cost-of-living increases.
+              When a step of the classification equals or exceed the employee’s red-
+              circled rate of pay, an agency will adjust the rate of pay appropriately and
+              the employee becomes eligible for cost-of-living increases.
+
+        B.       If the employee’s current pay falls within the new classification’s salary
+                 range and the assessment results in a step equal to or greater than their
+                 current pay, the agency will apply the outcome of the assessment.
+
+
+
+
+2025-2027 Oregon State Fire Marshal         43                Collective Bargaining Agreement
+        C.       If the employee’s current pay falls within the new classification’s salary
+                 range but the assessment results in a step below their current pay, the
+                 agency will maintain the employee’s current pay. If this places the
+                 employee off-step in the new classification, the employee will advance to
+                 the next higher salary step at their next benefit service date, followed by an
+                 additional step increase — not to exceed the top step of the range*.
+
+The benefit service date remains the same unless the employee is already at the top step
+of the new salary range.
+
+Section 4. Salary on Lateral Transfer or Equal Reclassification Rate.
+When an employee makes a lateral transfer, the agency’s appointing authority or
+management designee will conduct an internal assessment to determine the appropriate
+rate of pay.
+        A.   If the employee’s current pay exceeds the top step of the new classification,
+             they will be placed at the top step of the new classification. In the case of
+             equal reclassifications, the agency will retain their current salary and red-
+             circle their rate of pay until a step of the classification equals or exceeds the
+             employee’s salary. Employees who are red-circled are not eligible for cost-
+             of-living increases. When a step of the classification equals or exceed the
+             employee’s red-circled rate of pay, an agency will adjust the rate of pay
+             appropriately and the employee becomes eligible for cost-of-living
+             increases.
+
+        B.       If the employee’s current pay falls within the new classification’s range and
+                 the assessment results in a step equal to or greater than their current pay,
+                 the agency will apply the outcome of the assessment.
+
+        C.       If the employee’s current pay falls within the new classification’s range but
+                 the assessment places them below their current pay rate, the agency will
+                 retain their current salary. If this places the employee off-step, they will
+                 advance to the next higher step at their next benefit service date and then
+                 move up an additional step — not to exceed the top step of the range.
+
+        D.       In no instance will a lateral transfer or equal reclassification result in a
+                 decrease in pay.
+
+The benefit service date remains unchanged.
+
+Section 5. Effect of Break in Service.
+When an employee separates from the Agency and subsequently returns to the Agency
+within a two (2) year period, except as a temporary employee, the employee's previous
+benefit service date shall be adjusted by the amount of break in service.
+
+Section 6. Rate of Pay on Appointment from Layoff List.
+When an employee returns from layoff, the agency’s appointing authority or management
+designee will conduct an internal assessment to determine the appropriate rate of pay.
+      A.     If the assessment results in a step equal to or lower than the step the
+             employee held at the time of layoff, they will be returned to that same step.
+
+2025-2027 Oregon State Fire Marshal          44                Collective Bargaining Agreement
+        B.       If the assessment results in a higher step, the agency will apply the outcome
+                 of the assessment.
+
+The employee’s previous benefit service date, adjusted by the amount of the break in
+service, shall be restored.
+
+Section 7. Payday and Pay Advances.
+A.    All employees shall normally be paid no later than the first of the month. When a
+      payday occurs on Monday through Friday, payroll checks shall be released to
+      employees on that day. When a payday falls on a Saturday, Sunday or banking
+      Holiday, employee paychecks shall be made available after 8:00 a.m. on the last
+      working day of the month. The release day for December paychecks dated
+      January 1 shall be the first working day in January to avoid the risk of December's
+      paychecks being included in the prior year's earnings for tax.
+
+B.      Employees will be allowed one (1) pay advance during their first thirty (30) days of
+        employment.
+
+C.   The parties agree that pay advances will be kept to an absolute minimum and are
+     for emergencies and unexpected financial hardships within that context,
+     employees may obtain an advance on their salary subject to management's
+     approval. The amount of the request shall not exceed sixty percent (60%) of gross
+     pay earned to date in the month, but shall be at least one hundred dollars
+     ($100.00). Employees may convert accrued compensatory time or vacation time
+     in lieu of a payday advance. Employees may submit requests up to the final
+     monthly payroll cutoff date. Pay advance requests will normally be submitted to
+     the payroll office by the fifteenth (15th) of the month. If any employee requests
+     more than one (1) pay advance in any twelve (12)-month period, management has
+     the right to deny it, if a valid emergency does not exist.
+See Appendix A – Salary Administration Examples
+                                                                            REV: 2017, 2019,2023,2025
+
+
+### ARTICLE 21 - SALARIES
+
+Section 1. Public Employees Retirement System (“PERS”) Members.
+For purposes of this Article, a PERS participating member is an employee who has
+established membership in PERS (Tier 1, Tier 2, or OPSRP) and who is presently
+employed in a qualifying position.
+
+Section 2. PERS Participating Member Retirement Contributions.
+Effective February 1, 2019, compensation plan salary rates for PERS participating
+members were increased by six and nine five one hundredths percent (6.95%) and the
+State ceased “picking up” the six percent (6%) employee contribution. The State will
+deduct from an employee’s salary and make the six percent (6%) employee contribution
+to their PERS account or Individual Account Program (“IAP”) account as applicable.
+Employees’ contributions shall be treated as ‘pre tax’ contributions pursuant to Internal
+Revenue Code Section 414(h)(2).
+
+
+
+
+2025-2027 Oregon State Fire Marshal          45                Collective Bargaining Agreement
+The parties acknowledge that various challenges have been filed that contest the
+lawfulness, including the constitutionality, of various aspects of PERS reform legislation
+enacted by the 2003 Legislative Assembly, including Chapters 67 (HB 2003) and 68 (HB
+2004) of Oregon Laws 2003 . The Parties acknowledge that challenges have been or
+may be filed that contest the legislation enacted by the 2019 Legislative Assembly,
+including SB1049 (“PERS Litigation”). Nothing in this Agreement shall constitute a waiver
+of any party’s rights, claims or defenses with respect to the PERS Litigation.
+
+Section 3. PERS Pickup
+Effective February 1, 2019 compensation plan salary rates for PERS participating
+members shall be increased by six and ninety five one hundredths percent (6.95%). At
+that time bargaining unit employees will begin to make their own six percent (6%)
+contributions to their PERS account or the Individual Account Program as applicable.
+Employees’ contributions shall be treated as ‘pretax’ contributions pursuant to Internal
+Revenue Code Section 414(h)(2).
+
+Section 4. Cost of Living Adjustment
+A.    Effective February 1, 2026 or on the first of the month following receipt of an
+      interest arbitration award whichever is later, all pay rates will be increased by two
+      and one half percent (2.5%).
+
+B.      Effective January 1, 2027 all pay rates will be increased by four percent (4%).
+
+C.    Effective February 1, 2027, an additional step shall be added to all salary ranges.
+      Employees who are at top step prior to implementation of the new top step will
+      have and have been employed with the State for ten (10) or more years will be
+      moved to the next step in the salary range on February 1, 2027. All employees
+      who are at the top step prior to implementation but have been employed with the
+      State for less than ten (10) years will have their prior Benefit Service Date (BSD)
+      restored, using the same month and day, and will be eligible to move to the new
+      top step on their next BSD after implementation.
+Section 5. Selective Salary Adjustment
+Class #      Classification Title                              From To
+6821          Medical Laboratory Technician 2                  20    21
+1481-1488 Information Systems specialist Series                Class Study
+Effective July 1, 2025, the salary selective will be implemented as follows:
+       •      Employees whose base salary falls below the first step of the new range
+              will be placed on the first step of the new range.
+       •      Employees whose base salary falls on a step in the new salary range will
+              be placed on the equivalent step number in the new range (i.e., Step 6 to
+              Step 6).
+       •      Employees who are off step will be placed on the next higher step in the
+              old range and then placed on the equivalent step number in the new range
+              (i.e., Step 6 to Step 6).
+       •      Employees whose base salary is above the top step of the new range will
+              be red circled*
+       •      All benefit service dates (BSDs) will remain the same.
+*Per State Policy: 10.000.01 - Red-Circle: a term sometimes used to refer to a procedure
+in which an employee's previous rate of pay above the top step of a new salary range is
+
+2025-2027 Oregon State Fire Marshal       46                Collective Bargaining Agreement
+retained, provided the employee remains in the reclassified position until the rate is equal
+to or exceeded by the top step of the new salary range..
+See LOA: Salary and Benefit Report
+                                                                REV: 2015, 2017, 2019, 2021,2023,2025
+
+
+### ARTICLE 22 - DIFFERENTIALS
+
+Section 1. Lead Work.
+Leadwork duties shall be formally assigned in writing by the supervisor to employees who
+while performing essentially the same duties as workers led are directed to assign and
+reassign tasks to accomplish prescribed work efficiently; give direction to workers
+concerning work procedures; transmit established standards of performance to workers;
+review work of employees for conformance to standards; provide informational
+assessment of workers' performance to supervisor; and orient new employees.
+
+Employees shall receive a five percent (5%) differential for work performing assigned
+leadwork duties over employees for ten (10) consecutive calendar days or more provided
+the leadwork or team leader duties are not included in the classification specification for
+the employee’s position.
+
+Management will provide notice to regular status employees in the work group when an
+opportunity for a lead work assignment is expected to continue for more than sixty (60)
+days and the work group has three (3) or more employees. The notice shall be given to
+employees for a minimum of seven (7) days and shall provide a general description of the
+assignment and the estimated duration. Employees may express their interest and any
+special skills pertinent to the role. Management reserves the right to select and assign
+lead work and such decision is not grievable.
+
+Where leadwork differential is applicable to all hours worked in a month, it shall be applied
+to all hours paid.
+
+Leadwork differential shall not apply for voluntary training and development purposes
+which are mutually agreed to in writing between the supervisor and the employee.
+
+Section 2. Information Service Team Leader Differential
+A.    Bargaining unit employees occupying positions that are classified as Information
+      Specialist 1-8 will be eligible for the differential.
+
+B.      The differential shall be ten percent (10%) above the employee’s base salary rate
+        beginning from the first day the duties are formally assigned in writing.
+
+C.      Bargaining unit employees shall not be eligible for any work out of class pay,
+        leadwork differentials or any other premium pay except for overtime and penalty
+        payments as compensation for team leader duties. If an employee receives more
+        than one (1) differential (except overtime as mandated by FLSA), the differentials
+        will be calculated on the base so that no ‘pyramiding’ occurs (i.e. if an employee is
+        receiving the team leader differential and out of class differential, the two (2)
+        differentials would be calculated separately and then added onto the base pay).
+
+
+
+2025-2027 Oregon State Fire Marshal             47            Collective Bargaining Agreement
+D.      For a bargaining unit employee to be eligible for the differential, the Agency must
+        formally assign the employee in writing to perform team lead duties, the employee
+        leads a team of employees and performs substantially all of the following duties
+        under supervisory direction:
+        1.     Plans for short and long term needs of team, including such areas as
+               technology to be used, user requirements, resources required, training
+               necessary, methods to accomplish work, multiple project timelines and
+               competing priorities.
+
+        2.       Establishes and coordinates multiple interrelated project schedules for all
+                 projects on which the team is working.
+
+        3.       Works directly with multiple users to identify broad user needs and
+                 requested timelines when projects are submitted for the team.
+
+        4.       Provides technical/operation guidance to contractors and monitors quality
+                 assurance.
+
+        5.       Develops technical standards and monitors team members’ work for
+                 compliance.
+
+        6.       Performs leadwork duties on a recurring daily basis as stated in Section 1
+                 of this Article. Those duties include orienting new employees, if appropriate,
+                 assign and reassign tasks to accomplish prescribed work efficiently, give
+                 direction to workers concerning work procedures, transmit established
+                 standards of performance to workers, review work of employees for
+                 conformance to standards and provide informal assessment of workers’
+                 performance to the supervisor.
+
+Section 3. Shift Differential
+Employees who are assigned to work by their supervisor between the hours of 6 pm and
+6 am or on Saturday and/or Sunday, shall be paid a differential of one dollar and fifty
+cents ($1.50) differential for hours worked. When a work schedule is requested by an
+employee and approved by the Agency, and the requested schedule contains hours
+outside of the hours designated for the employee’s position by the Agency, shift
+differential pay shall be waived by the employee for the hours affected by the change.
+Employees receiving the AOC shift differential and/or Drive Team differential are not
+eligible to receive this differential.
+
+Section 4. On-Call Differential
+A.    On-Call Duty
+      1.    Employees shall be paid one (1) hour of pay at the regular straight time rate
+            for each six (6) hours of assigned on -call duty. Employees who are
+            assigned on-call duty for less than six (6) hours shall be paid on a prorated
+            basis.
+
+        2.       Employees assigned on-call duty on a holiday shall be paid one (1) hour of
+                 pay at time and one-half (1½) their regular hourly rate for each six (6) hours
+
+
+2025-2027 Oregon State Fire Marshal          48                 Collective Bargaining Agreement
+                 of assigned on-call duty. Employees are assigned on-call duty for less than
+                 six (6) hours shall be paid on a prorated basis.
+
+        3.       An employee shall be assigned on -call duty when specifically required by
+                 management to be available for work outside their working hours and not
+                 subject to restrictions which would prevent the employee from using the
+                 time while on-call effectively for the employee’s own purposes.
+
+        4.       No employee is eligible for any premium pay compensation while on on -call
+                 duty except as expressly stated in this Article.
+
+        5.       On-call duty time shall not be counted as time worked in the computation of
+                 overtime hours worked but time actually worked shall be included in the
+                 calculation of the overtime rate of pay.
+
+B.      Compensation for Time Worked.
+        1.   An employee shall not be on-call duty once they actually commence
+             performing assigned duties and receives the appropriate rate of pay for time
+             worked.
+
+        2.       An employee shall be paid a minimum of the equivalent of one (1) hour pay
+                 at the appropriate rate of pay computed from when the employee actually
+                 begins work.
+
+        3.       The employee will not receive additional compensation if the employee
+                 receives additional calls during the same one (1) hour period, including the
+                 resumption of on-call duty.
+
+Section 5. Bilingual Differential
+Employees who demonstrate proficiency in Spanish, Russian, Vietnamese, Chinese
+and/or American Sign Language (ASL) will receive a differential of five percent (5%) to
+their base pay. The interpretation and translation skills must be formally assigned in
+writing. Once the employee demonstrates the required proficiency, they will receive back
+pay to the date of their approved request for testing.
+
+In addition to the above languages, a differential of five percent (5%) of their regular base
+pay will be paid to employees that demonstrate proficient use of bilingual skills when
+Management determines the need for such skills. Management will determine the
+appropriate proficiency level and the language.
+                                                                                 REV: 2019,2023,2025
+
+
+### ARTICLE 23 - HEALTH AND DENTAL INSURANCE
+
+Section 1.
+An Employer contribution will be made for each eligible employee who has at least eighty
+(80) paid regular hours in the month unless required by law.
+
+
+
+
+2025-2027 Oregon State Fire Marshal         49                Collective Bargaining Agreement
+Section 2.
+The contribution for eligible participating part-time employees with eighty (80) or more
+paid regular hours for the month the Employer shall contribute a prorated amount of the
+contribution for full-time employees unless otherwise required by law. “Regular hours”
+means all hours of work or paid leave except overtime hours, i.e., those above eight (8)
+hours in a day or forty (40) hours in a week. Thus, “regular hours” shall include additional
+non-overtime hours worked above an employee’s regular work schedule. In the event
+that a part-time employee, who is regularly scheduled to work half-time or more, fails to
+maintain at least half-time paid regular hours because of the effect of prorated holiday
+time or other paid or unpaid time off, they shall be allowed to use available vacation or
+comp time to maintain their eligibility for benefits and the Employer’s contribution for such
+benefits.
+   1. The Employer contribution amount of the plan selected by the employee will be
+       calculated as follows:
+           a. Part-Time Employees Electing Part-Time Insurance.
+               Part-Time premium rate x Employer contribution percentage (as defined in
+               Section 3) x the ratio of paid regular hours to full time hours to the nearest
+               full percent = Employer contribution.
+
+                 In addition, there shall be a subsidy based on the employee’s coverage tier
+                 for the Plan Years covered in this Article. The part-time subsidy shall be
+                 determined by PEBB for each plan year.
+
+                 The employee will pay the premium balance.
+
+             b. Part-Time Employees Electing Full-Time Insurance.
+                Full-time premium rate x Employer contribution percentage (as defined in
+                Section 3) x the ratio of paid regular hours to full-time hours to the nearest
+                full percent = Employer contribution.
+
+                 The employee will pay the premium balance.
+
+Section 3. Plan Years 2025 through 2027.
+For Plan Year2025 the Employer will pay ninety-five percent (95%) and the employee will
+pay five percent (5%) of the monthly premium rate as determined by PEBB. For
+employees who enroll in a medical plan that is at least ten percent (10%) lower in cost
+than the monthly premium rate for the highest cost plan available to the majority of
+employees, the Employer shall pay ninety-nine percent (99%) of the monthly premium for
+PEBB health, vision, dental and basic life insurance benefits and the employee shall pay
+one percent (1%).
+
+For Plan Years 2026 and 2027, the Employer will pay ninety-five percent (95%) and the
+employee will pay five percent (5%) of the monthly premium rate as determined by PEBB.
+For employees who enroll in a medical plan that is at least five percent (5%) lower in cost
+than the monthly premium rate for the highest cost medical plan available to the majority
+of employees, the Employer shall pay ninety-nine percent (99%) of the monthly premium
+for PEBB health, vision, dental and basic life insurance benefits and the employee shall
+pay the remaining one percent (1%).
+
+
+2025-2027 Oregon State Fire Marshal         50                 Collective Bargaining Agreement
+Section 4.
+If the Collective Bargaining Agreement provides for a COLA with an effective date in the
+second (2nd ) year of a biennium and the difference in the projected increase in the PEBB
+composite rate for the following calendar year falls below three point four percent (3.4%),
+then the COLA will be moved up by one (1) full month for each month it is sufficiently
+funded by the savings.
+                                                              REV: 2015, 2017, 2019, 2021,2023,2025
+
+
+### ARTICLE 24 - TRAVEL, MILEAGE AND MOVING EXPENSE REIMBURSEMENT
+
+Section 1. Travel and Mileage.
+Reimbursements and procedures will be in accordance with Oregon Accounting Manual,
+Policy No. 40.10.00 PO, and its successors. Changes in this policy will be automatically
+incorporated into this contract article.
+
+Section 2. Moving Expenses.
+Reimbursements and procedures will be in accordance with the Department of
+Administrative Services, Human Resource Services Division Policy 40.055.10, and its
+successors. Changes in this policy will be automatically incorporated into this contract
+article.
+
+Section 3. Special Lunch Provision.
+An employee who is unexpectedly called out/directed to travel at least forty (40) direct
+road miles from their work site, and who spends greater than one half (1/2) of their
+assigned shift in this circumstance, is eligible for the special meal provision. The special
+meal provision is to reimburse an employee for the cost of a luncheon meal of up to six
+dollars and fifty cents ($6.50). The luncheon meal is a lunch meal (reimbursement of up
+to six dollars and fifty cents ($6.50) taken near the middle of the employee’s shift,
+regardless of the time of day.
+                                                                                         REV: 2017
+
+
+### ARTICLE 26 - LABOR-MANAGEMENT COMMITTEE
+
+Section 1. Purpose.
+In order to facilitate communication between the parties and to promote cooperative
+employer-employee relations, the Employer and AFSCME agree to form a joint
+Labor/Management Committee which shall meet monthly to discuss matters of mutual
+concern. The Labor Management Committee will meet, confer, discuss matters effecting
+the Union membership, and share information of mutual interest pertaining to the Agency.
+However, the Labor Management Committee does not have the authority to negotiate or
+enter into binding agreements that would contravene any provision of the Collective
+Bargaining Agreement.
+
+Section 2. Committee Composition.
+The Committee shall be composed of up to five (5) members appointed by the Union and
+up to five (5) members of management appointed by the Agency head or designee. At
+least three (3) of the management representatives appointed will be a member of the
+Agency’s leadership team.          Representatives from Department of Administrative
+Services, the Union, or other individuals may be invited, who may provide information or
+act as advisors. Agency employees appointed to the committee shall be in pay status
+
+2025-2027 Oregon State Fire Marshal       51                Collective Bargaining Agreement
+during time spent in committee meetings, however, such attendance must not result in
+overtime pay.
+
+Section 3. Meetings and Agenda.
+The Labor/Management Committee shall meet monthly; the committee members may,
+however, mutually agree to cancel a meeting.
+
+Labor/Management Committee meeting agendas shall be prepared in advance. Items
+for inclusion on an agenda shall be provided to all members at least five (5) working days
+in advance of the scheduled meeting when practicable. Management will provide regular
+updates pertaining to policy development and revision, training and development and the
+Agency’s strategic objectives.
+
+The Employer will provide a vacancy status report to the Union upon request, but no less
+than each quarter. The report will contain all bargaining unit vacancies, the date the
+position was vacated, and an update regarding the filling of the position. When a position
+has been vacant for more than one (1) quarter, management will discuss with the Union
+the redistribution or curtailing of duties of the vacant position.
+
+Labor/Management Committee meetings shall be conducted in good faith. The parties
+shall alternate responsibility for chairing the meetings; the chair shall be responsible for
+preparing and distribution of meeting minutes. Decision making shall be by consensus.
+At least once a year, the Labor/Management Committee shall review the bylaws and
+procedures and make any changes, as necessary.
+
+Section 4. Authority of Committee.
+The Labor/Management Committee shall have no power to contravene any provision of
+this Agreement, nor to enter into any Letter of Agreement; negotiate, or to resolve
+disputes concerning the interpretation or application of any provision of this Agreement.
+The Committee shall be empowered to make joint recommendations on issues which are
+brought before it. Such recommendations approved by the Committee shall be presented
+to the Agency head or designee for response and/or action. Such response shall be in
+writing and shall be submitted to the Committee and all concerned parties.
+
+No discussion or review of any matter by the Labor/Management Committee shall forfeit
+or affect the timeframes of the settlement of disputes procedure (Article 6).
+                                                                               REV: 2017, 2019,2023
+
+
+### ARTICLE 27 - HARDSHIP LEAVE
+
+Section 1.
+As used in this Article:
+A.    "Accumulated Leave" includes but is not limited to sick, vacation, and
+      compensatory leave.
+
+B.      "Prolonged Illness or Injury" means inability to work because of a serious illness or
+        injury or major medical treatment that the treating physician certifies in writing.
+
+
+
+
+2025-2027 Oregon State Fire Marshal         52               Collective Bargaining Agreement
+Section 2.
+Agency employees may make irrevocable donations of accrued compensatory time sick,
+personal leave or vacation leave, in one (1)-hour increments, to another employee of the
+Agency. who has exhausted all accumulated leave while the immediate family member
+as defined in Article 18, Section 4 or employee is recuperating or recovering from a
+catastrophic prolonged illness or injury. Donations shall be posted to the donee's leave
+balance as needed. Donations not used will not be deducted from the donor's vacation
+leave balance.
+
+Section 3.
+Donations shall be credited at the donor's current regular hourly rate of pay.
+
+Section 4.
+Applicants for hardship leave shall be submitted through Human Resource Information
+System (HRIS) and accompanied by the treating physician's written statement certifying
+that the prolonged catastrophic illness or injury, or major medical treatment (i.e.,
+chemotherapy) will continue after the employee is projected to exhaust all accumulated
+leave.
+
+Section 5.
+Upon determination that an employee's request satisfies "prolonged illness or injury"
+requirements, Agency approval shall be subject to availability of donations from Agency
+employees to cover all hardship leave costs. The Agency Employee Services Office or
+designee shall initiate and collect donations on a form(s) the Agency provides. The
+donated leave received for the illness or injury may be used intermittently, as appropriate,
+for related medical appointments/treatments.
+
+Section 6.
+Employees on Workers' Compensation, or PERS retirement benefits shall not be eligible
+for hardship leave either as donors or donees.
+
+Section 7.
+The donor and recipient will hold the Employer harmless for any tax liabilities.
+
+Section 8.
+To donate to a specific employee in a different Agency, the employee may follow the
+applicable process as outlined in the Human Resource Information System (HRIS).
+                                                                           REV: 2015, 2019,2023,2025
+
+
+### ARTICLE 28 - SAFETY AND HEALTH
+
+Section 1.
+It is further the intent of this Agreement that the parties will mutually strive to maintain a
+suitable and safe working environment for all employees. The Employer agrees to abide
+by standards of safety and health in accordance with Oregon Statutes and Administrative
+Rules. Issues arising under this Section are not arbitrable.
+
+The Agency will give serious consideration to safety and health issues/recommendations
+received from the joint Labor/Management Committee or Safety Committee.
+
+
+2025-2027 Oregon State Fire Marshal        53                 Collective Bargaining Agreement
+Section 2.
+The Agency shall provide and maintain necessary equipment, as determined by the
+Agency, and shall make such equipment available to employees required to use such
+equipment.
+
+Section 3.
+The Agency shall make available training to affected employees, as determined by the
+Agency, in the use of required safety equipment necessary for the performance of
+assigned duties. Such required training shall be at Agency expense.
+
+Section 4. Respectful Workplace
+A.    The Employer is committed to taking appropriate measures to create and maintain
+      a workplace that is respectful and free from inappropriate workplace behavior for
+      all Agency employees pursuant to the statewide policy titled ‘Maintaining a
+      Professional Workplace Policy’ (50.010.03).
+
+B.      If an Agency employee believes an Agency employee, supervisor or manager has
+        violated the statewide policy titled ‘Maintaining a Professional Workplace’
+        (50.010.03), the employee shall submit a complaint pursuant to the process
+        outlined in the policy. The Agency complaint form will be accessible to all
+        employees both online and through the Agency’s Employee Services Office.
+
+C.      The employee may have a Union representative present during regular work hours
+        when reporting inappropriate workplace behavior and through the process outlined
+        in this section.
+
+D.      The Agency shall investigate the complaint and shall provide a written response to
+        the employee filing the complaint within thirty (30) calendar days of the complaint
+        being filed. When circumstances warrant it, the Agency and the Union may
+        mutually agree on additional time needed to complete the investigation. The
+        Agency will notify the Union and employee filing the complaint of the specific
+        reason(s) for the additional time needed. The response will include whether the
+        complaint was substantiated and an y relevant non confidential information
+        pertaining to the remedial steps taken, if any. Repeated behavior or conduct shall
+        be reported to the Agency Employee Services Office.
+
+E.      For purposes of this Section, the grievance procedure in Subsection f replaces the
+        grievance procedure outlined in the local agreement.
+
+F.
+        1.       If the employee who filed the complaint believes that the Agency did not
+                 respond to the complaint or the complaint process was not followed, the
+                 Union, on behalf of the employee, may file a grievance directly with the
+                 Agency Head. The Agency Head or designee shall respond to the
+                 grievance within thirty (30) calendar days from the date of receipt of the
+                 grievance.
+
+        2.       If the employee continues to believe the Agency did not respond to the
+                 complaint or did not follow the complaint process, the Union, on behalf of
+                 the employee may, within fifteen (15) calendar days of the Agency Head or
+
+2025-2027 Oregon State Fire Marshal        54                Collective Bargaining Agreement
+                 designee’s response, file the grievance with the Department of
+                 Administrative Services Labor Relations Unit. The grievance will be
+                 investigated and a response provided within thirty (30) calendar days from
+                 the date the grievance was appealed to the Department of Administrative
+                 Services.
+
+        3.       If the Department of Administrative Services Labor Relations Unit’s
+                 response did not respond to the complaint or did not address whether the
+                 complaint process was followed, the Union may file for arbitration in
+                 accordance with the Grievance Procedure article..
+
+        4.       The arbitrator shall not have authority to impose any employment actions,
+                 including but not limited to discipline on any employee, supervisor or
+                 manager, transfer of any employee, supervisor or manager, reassign an
+                 employee, supervisor or manager to another work location or duties or
+                 otherwise affect staffing. In addition, the arbitrator shall not have authority
+                 to impose or establish any monetary penalties or costs, award front or back
+                 pay, issue any monetary damages for pain and suffering or stress related
+                 claims.
+
+G.      No employee shall be subject to retaliation for reporting or filing a complaint,
+        providing a statement or otherwise participating in the administration of the
+        statewide policy or grievance process outlined in this section. Reports of retaliation
+        shall be reported to the Agency Employee Services Office.
+                                                                                        REV: 2017,2023
+
+
+### ARTICLE 29 - CONTRACTING OUT
+
+Section 1.
+The Union recognizes that the Employer has the management right, during the term of
+this Agreement, to decide to contract out work performed by bargaining unit members.
+However, when the contracting out will displace bargaining unit members, such decisions
+shall be made only after the affected Agency has conducted a formal feasibility study
+determining the potential costs and other benefits which would result from contracting out
+the work in question. The Employer agrees to notify the Union within one (1) week of its
+decision to conduct a formal feasibility study, indicating the job classifications and work
+areas affected. The Employer shall provide the Union with no less than thirty (30) days
+notice that it intends to request bids or proposals to contract out bargaining unit work
+where the decision would result in displacement of bargaining unit members. During this
+thirty (30) day period, the Employer shall not request any bids or proposals and the Union
+shall have the opportunity to submit an alternate proposal. The notification by the
+Employer to the Union of the results of the feasibility study will include all pertinent
+information upon which the Employer based its decision to contract out the work including,
+but not limited to, the total cost savings the Employer anticipates.
+
+Feasibility studies will not be required when: (1) an emergency situation exists as defined
+in ORS 279.011(4), and (2) either the work in question cannot be done by available
+bargaining unit employees or necessary equipment is not readily available.
+
+
+
+2025-2027 Oregon State Fire Marshal          55                 Collective Bargaining Agreement
+Nothing in this Article shall prevent the Employer from continually analyzing its operation
+for the purpose of identifying cost-saving opportunities.
+
+Section 2.
+The Employer shall evaluate the Union’s alternate proposal provided under Section 1. If
+the Employer’s evaluation of the Union’s alternate proposal confirms that it would result
+in providing quality and savings equal to or greater than that identified in the management
+plan, the Parties will agree in writing to implement the Union proposal.
+
+Section 3.
+Should any full-time bargaining unit member become displaced as a result of contracting
+out, the Employer and the Union shall meet to discuss the effect on bargaining unit
+members. The Employer’s obligation to discuss the effect of such contracting does n ot
+obligate it to secure the agreement of the Union or to exhaust the dispute resolution
+procedure of ORS 243.712, 243.722, or 243.742, concerning the decision or the impact.
+
+“Displaced” as used in this Article means when the work an employee is performing is
+contracted to another entity outside state government and the employee is removed from
+their job.
+
+Section 4.
+Once an Agency makes a decision to contract out, the Agency will choose either A or B
+below. The Agency will notify affected employees of the option selected. The Agency
+will post and provide to the Union, a list of service credits for employees in all potentially
+affected classifications within the Agency. Within five (5) business days of the notice, the
+affected employees will notify the Agency of acceptance of the Agency’s option or
+decision to exercise their rights under C below:
+A.     Require the contractor to hire employees displaced by the contract at the same
+       rate of pay for a minimum of six (6) months subject only to “just cause”
+       terminations. In this instance, the state will continue to provide each such
+       employee with six (6) months of health and dental insurance coverage through the
+       Public Employee Benefits Board, if continuation of coverage under the Bargaining
+       Unit Benefits Board is allowed by law and pertinent rules of eligibility. Pursuant to
+       Article 11, an eligible employee shall be placed on the Agency layoff list and may,
+       at the employee’s discretion, be placed on a secondary recall list for a period of
+       two (2) years; or
+
+B.      Place employees displaced by a contract elsewhere in state government in the
+        following order of priority: within the Agency, within the department, or within state
+        service generally. Salaries of employees placed in lower classifications will be red-
+        circled. To the extent this Article conflicts with Article 9, Filling of Vacancies, this
+        Article shall prevail.
+
+C.      An employee may exercise all applicable rights under Article 11, Layoff.
+
+Section 5.
+The following provisions govern the administration of the requirement under this Article
+to conduct feasibility studies in cases of contracting out and will supplement the provisions
+included in the contract.
+
+2025-2027 Oregon State Fire Marshal         56                 Collective Bargaining Agreement
+A.      The Employer agrees that all AFSCME represented state agencies will conduct a
+        feasibility study in instances of contracting out work performed by bargaining unit
+        employees when contracting out will result in displacement of bargaining unit
+        employees.
+
+B.      The Parties agree that AFSCME-represented agencies will send directly to
+        AFSCME’s Executive Director and to DAS CHRO Labor Relations Unit all future
+        notices of intent to conduct a feasibility study pursuant to Section 1.
+
+Section 6. Review of Contracted Work
+Upon request, the union may view state contracts deemed public records. The union will
+contact the agency manager responsible for procurement and contracts to arrange a time
+to review the contracts. The agency will let the union review any contracts that the agency
+itself stores, and are available through public records request. The union will contact the
+state archivist for older contracts under the public records law. The union may submit
+suggestions to the agency on agency initiated contracts as to h ow bargaining unit
+members could perform the work more efficiently (at reduced cost) and effectively
+(improved quality).      The parties may discuss the union suggestions at their
+labor/management meetings and determine the most effective and efficient way to
+accomplish the work in the future for Agency initiated contracts. Decisions around
+reviewing of contracted work are not subject to the grievance procedure.
+
+### ARTICLE 30 - RECOUPMENT OF WAGE AND BENEFIT OVERPAYMENTS AND
+                         UNDERPAYMENTS
+
+Section 1. Overpayments.
+A.    In the event that an employee receives wages or benefits from the Agency to which
+      the employee is not entitled, regardless of whether the employee knew or should
+      have known of the overpayment, the Agency shall notify the employee in writing of
+      the overpayment which will include information supporting that an overpayment
+      exists and the amount of wages and/or benefits to be repaid. For purposes of
+      recovering overpayments by payroll deduction, the following shall apply:
+      1.      Provide written notice with itemized and detailed explanation of an
+              overpayment to the employee within ten (10) calendar days from the date
+              of discovery;
+
+        2.       The Agency will notify the employee of the overpayment and establish an
+                 automatic repayment plan of five percent (5%) through payroll deduction.
+                 The employee may request an alternate method of repayment by contacting
+                 their Agency payroll manager. The Agency will not deduct overpayments
+                 via payroll deduction for overpayments dating more than twenty-four (24)
+                 months prior to the date the employee was notified.
+
+        3.       If the overpayment amount to be repaid is more than five percent (5%) of
+                 the employee’s regular monthly base salary, the overpayment shall be
+                 recovered in monthly amounts not exceeding five percent (5%) of the
+                 employee’s regular monthly base salary, unless the employee requests a
+                 higher recovery percentage. If an overpayment is less than five percent
+                 (5%) of the employee’s regular monthly base salary, the overpayment shall
+
+
+2025-2027 Oregon State Fire Marshal        57               Collective Bargaining Agreement
+                 be recovered in a lump-sum deduction from the employee’s paycheck. If
+                 an employee leaves Agency service before the Agency fully recovers the
+                 overpayment, the remaining amount may be deducted from the employee’s
+                 final check.
+
+An employee who disagrees with the Agency’s determination that an overpayment has
+been made to the employee may grieve the determination through the grievance
+procedure.
+
+The Article does not waive the Agency’s right to pursue other legal procedures and
+processes to recoup an overpayment made to an employee at any time.
+
+Section 2. Underpayments.
+A.    In the event the employee does not receive the wages or benefits to which the
+      record/documentation has for all times indicated the employer agreed the
+      employee was entitled, the Agency shall notify the employee in writing of the
+      underpayment. This notification will include information showing that an
+      underpayment exists and the amount of wages and/or benefits to be repaid. The
+      Agency shall correct such underpayment made within a maximum period of two
+      (2) years before the notification. Employees may report underpayments to the
+      Employer. All confirmed underpayments shall be repaid in accordance with State
+      wage and hour laws.
+
+B.      This provision shall not apply to claims disputing eligibility for payments which
+        result from this Agreement. Employees claiming eligibility for such things as
+        leadwork, work out of classification pay or reclassification must pursue those
+        claims pursuant to the timelines elsewhere in this Agreement.
+
+Section 3. Payroll Reconciliation.
+Section 1, subsections A.2, shall not apply to payroll adjustments necessitated by a
+discrepancy between actual hours of paid time versus hours projected for payroll
+purposes from one pay period to another. The employee's pay and benefit entitlements
+may be adjusted on the following month's paycheck.
+                                                                                    REV: 2019,2023
+
+
+### ARTICLE 31 - IMPLEMENTATION OF NEW CLASSES—APPEALS PROCESS
+
+The appeals process is designed to allocate employees into new classes. Employees in
+positions allocated to a new classification, who dispute their placement within the new
+class, can appeal their placement using the following process:
+A.     An appeal may be filed by an individual employee or a Steward or a Council
+       Representative on behalf of the employee to the Agency Employee Services Office
+       within fifteen (15) calendar days of written notification by the Agency of placement
+       into the new class. Employees sharing the same or substantially similar position
+       descriptions or employees the Agency agrees to treat as a group may file an
+       appeal as a group. The initial filing should describe the individual or group,
+       including the names of affected members, identify the proposed placement, and
+       the placement believed to be correct by the affected employees. The appeal must
+
+
+
+2025-2027 Oregon State Fire Marshal       58                Collective Bargaining Agreement
+        include current, signed position descriptions. Because the old classifications are
+        to be abolished, correct placement cannot be back to the prior classification.
+        The Agency shall conduct a review of the allocation using the following criteria:
+        1.     The purpose of the job shall be determined by the statement of purpose and
+               assigned duties of the position description and other relevant evidence of
+               duties assigned by the Agency;
+
+        2.       The concept of the proposed classification shall be determined by the
+                 general description and distinguishing features of its class specification; and
+
+        3.       The overall duties, authority and responsibilities of the position shall be
+                 determined by the position description and other relevant evidence of duties
+                 assigned by the Agency. This decision shall be made within thirty (30)
+                 calendar days of receipt of the appeal and provided to the affected
+                 employees in writing and with a summary of the classification analysis.
+
+B.      If denied, the Union may appeal the Agency's decision in writing to the Labor
+         Relations Unit within fifteen (15) calendar days of receipt of the written denial. The
+         appeals will be considered by the Employer designee (or an alternate) and the
+         Union designee (or an alternate) who shall form the committee charged with the
+         responsibility to consider appeals and make decisions which maintain the integrity
+         of the classification system by correctly applying the classification specifications.
+         Additionally, the committee may utilize two (2) resource persons, one (1)
+         designated by each party, to provide technical expertise concerning a specific
+         series, The committee will attempt to resolve the matter by jointly determining
+         whether the current or proposed class more accurately depicts the overall
+         assigned duties, authorities and responsibilities of the position using the criteria
+         specified above.
+
+        In this process each of the designees may identify one (1) alternate class that they
+        determine most accurately depicts the purpose of the job and overall assigned
+        duties. If an alternate class is identified, both the Union and Labor Relations Unit
+        shall be notified. If the parties concur that shall end the allocation appeal. In the
+        event the committee concludes that the proposed or alternate class is more
+        appropriate, management retains the right to modify the work assignment on a
+        timely basis to make it consistent with the Agency's allocation.
+
+        Appeals shall be decided in order of receipt by the Labor Relations Unit.
+
+        Decisions shall be rendered by the designees no later than sixty (60) calendar
+        days of receipt of the appeal by the committee.
+
+C.      The decision of the designees shall be binding on the parties. However, agencies
+        may elect to remove/modify duties at any point during the process.
+
+D.      If the appeals committee cannot make a decision, the Union may request final and
+         binding arbitration by a written notice to the Labor Relations Unit within the next
+         forty-five (45) calendar day period. Each party may go forward with only one (1)
+         class. Each party may choose to take to arbitration either the current class, class
+
+2025-2027 Oregon State Fire Marshal          59                 Collective Bargaining Agreement
+        appealed to, or an alternate class identified by a committee member. The
+        arbitrator shall allow the decision of the Agency to stand unless they conclude that
+        the proposed classification more accurately depicts the overall assigned duties,
+        authority, and responsibilities of the position.
+
+E.      Where a position is vacated after the filing of the initial appeal, the Union may
+        continue the appeal process and such appeals will be reviewed by the committee
+        only after the review of all filled positions appeals is completed and where the
+        Agency indicates that no change in duties is anticipated prior to refilling the
+        position.
+
+F.      This process terminates upon completion of the allocation process.
+                                                                                          REV:2023
+
+
+### ARTICLE 32 - DELETED ARTICLE 2025-2027
+
+### ARTICLE 33 - AGENCY-OWNED CLOTHING/COMMERCIAL LAUNDERING
+
+The Agency agrees to provide commercial cleaning services for employees who are
+issued Agency-owned clothing (e.g., coveralls, turnouts, wildland fire clothing, rain coats,
+etc.).
+The Agency agrees to reimburse employees for commercial cleaning expenses of
+Agency-owned clothing and shall authorize reasonable on -duty time to establish and
+maintain such cleaning services. Receipts will be required prior to payment by the
+Agency.
+
+Agency will reimburse employees for reasonable replacement costs for articles of clothing
+damaged while performing official field duties. To obtain such reimbursement the
+employee must submit a written request to management for approval, explaining how the
+damage occurred, along with the damaged item of clothing. A receipt for the replacement
+cost will be provided to management. It is not intended that th is provision apply to normal
+wear and tear.
+                                                                                          REV:2023
+
+
+### ARTICLE 34 - TEMPORARY INTERRUPTION OF EMPLOYMENT
+
+When the Employer declares that a temporary interruption of employment should be
+considered because of lack of funds, either party may provide the other with written notice
+to meet and discuss possible terms of such interruption or alternative options. Such
+meeting must occur within thirty (30) days of the declaration. Terms and alternatives shall
+be subject to mutual agreement by the Union and the Employer. The parties agree that
+any and all discussions that take place under this Section shall not be su bject to the
+Complete Agreement articles of any of the agreements or constitute interim negotiations
+under PECBA. In addition, the parties will not be required to use the dispute resolution
+process contained in the PECBA.
+
+
+
+
+2025-2027 Oregon State Fire Marshal       60                 Collective Bargaining Agreement
+### ARTICLE 35 – INCLEMENT WEATHER/HAZARDOUS CONDITIONS LEAVE
+
+Section 1.
+A.    The Employer/Agency designated official(s) may close or curtail offices, facilities,
+      or operations because of inclement/environmental weather, weather related or
+      hazardous conditions, including shooter or threat of violence.                 The
+      Employer/Agency will announce such closure or curtailment to employees. The
+      Employer/Agency shall factor in the safety of State employees and the public to
+      determine a closure. An employee shall have the right to leave work if they deem
+      it is necessary for safety. Subject to the operating needs of the agency and
+      notification to their immediate supervisor, an employee may leave work early due
+      to inclement weather or hazardous conditions and code their time as accrued sick
+      leave, vacation, compensatory time off, personal leave or approved leave without
+      pay. The Employer/Agency will strive to make its decision to close and/or
+      postpone day shift no later than 5 a.m.; however, the parties recognize that
+      changing conditions may require further adjustment. The Employer/Agency may
+      provide this information through methods such as mass notification systems, pre-
+      designated internet web sites, phone trees, radio stations and/or television media.
+      Notifications do not apply to employees who are required to report to work.
+      Notifications do not apply to employees who are essential employees.
+
+B.      For purposes of this Article essential staff are those staff who cannot perform their
+        core job duties or essential Agency functions from a remote work location. The
+        Agency shall notify employees of these designations and post the notices on
+        Agency bulletin boards by November 1st of each year. Notifications do not apply
+        to employees who are required to report to work. Essential staff/positions shall be
+        designated by the Agency by November 1 of each year. Such designations may
+        be modified with two (2) weeks advance notice to the affected employee(s).
+        Essential staff who are required to report to work by the Employer/Agency shall be
+        on approved leave without pay status if absent, unless the employee elects to use
+        accrued leave. If an employee shows up within two (2) hours of their scheduled
+        shift, subject to operating requirements and supervisory approval, they may make
+        up the work time missed during the same workweek, provided work is available.
+
+C.      Where the Employer/Agency has announced a delayed opening pursuant to
+        Section 1(A), employees are responsible for continuing to monitor the reporting
+        sites for updated information related to the delay or potential closure. Employees
+        may be allowed up to two (2) hours commuting time as reasonably needed to
+        report for work after a delayed opening has been announced. Where an employee
+        arrives late due to this extended commute, they may flex their time with manager’s
+        approval, or cover the time with accrued sick leave, vacation, compensatory time
+        off, personal leave or approved leave without pay.
+
+D.      When a closure has been determined before the start of an employee’s work day
+        the employee may:
+        1.    will work from home, with manager’s approval or
+
+        2.       Work from an alternate work location that is no more than fifty (50) miles
+                 from their regular work location or
+
+2025-2027 Oregon State Fire Marshal        61                Collective Bargaining Agreement
+        3.       Use inclement weather/hazardous conditions leave if no alternative
+                 worksite is available as allowed for in Section 6 of this Article.
+
+Section 2. FLSA Non Exempt Employees Only.
+If no work is available or the employee is unable to work from home or alternate work
+location, the employee will:
+       1.     use accrued vacation hours, compensatory time off, personal leave time,
+              leave without pay; or
+
+        2.       use inclement weather/hazardous conditions leave not to exceed forty (40)
+                 hours a biennium, or,
+
+        3.       The employee may, with Agency prior approval, temporarily adjust their
+                 work hours during the same workweek to make up for hours not worked.
+                 The Agency shall not suffer any overtime or penalty payments as a result
+                 of this schedule change. The employee may be approved to flex their time
+                 to engage in training through the electronic employee training platform or
+                 other Agency approved resources remotely. Such approval will not be
+                 unreasonably denied. Employees engaging in these options will waive their
+                 shift differential for such time; or,
+
+        4.       Complete supervisory approved remote training courses.
+
+Once the forty (40) hours of inclement weather/hazardous conditions leave is used, and
+there are more Agency closures or curtailments during the biennium, if unable to work
+remotely, the employee will use accrued vacation hours, personal leave or compensatory
+time off, leave without pay or, with prior Agency approval, temporarily adjust their work
+hours during the same workweek. The Agency shall not suffer any overtime or other
+penalty payments as a result of the change in schedule.
+
+Section 3. FLSA Exempt Employees.
+When the Employer/Agency notifies employees not to report to work pursuant to Section
+1, prior to the beginning of the work shift, FLSA exempt employees shall be paid for the
+work shift. A FLSA-exempt employee may be required to use paid leave or leave without
+pay where the closure applies to that employee for one (1) or more full workweek(s).
+
+Section 4.
+Employees will not be eligible for inclement/hazardous conditions leave when their regular
+days off occur on a day the Agency closes an office or facility, or when the employee is
+on prescheduled leave or already scheduled to work, or have the ability to work, from an
+alternate location. Only employees who are scheduled to report to work at the location
+which is closed or curtailed, the day of the closure or curtailment are eligible for any use
+of the inclement weather leave.
+
+Inclement weather/hazardous conditions leave shall not count as hours worked for the
+purpose of overtime calculation.
+
+
+
+
+2025-2027 Oregon State Fire Marshal        62                Collective Bargaining Agreement
+Inclement weather/hazardous conditions leave not used during the biennium will be lost
+and will not be rolled over into the next biennium. Inclement weather/hazardous
+conditions leave is not compensable if the employee separates from state service.
+
+Part time employees will receive a prorated amount of inclement weather leave when
+applicable.
+
+Section 5.
+When in the judgment of the Employer/Agency, inclement/environmental weather or
+weather-related or hazardous conditions, including active shooter or threat of violence
+require the closing of the work place following the beginning of an employee’s work shift,
+the employee shall be paid for the remainder of their work shift unless an alternate work
+location is available.
+
+Section 6. Alternate Work Sites.
+Employees may be assigned or authorized to report to work at an alternative work site(s)
+and be paid for the time worked. Employees who have been pre-approved to work
+remotely and are unable to complete their assigned duties due to a loss of electricity, loss
+of internet service, or comparable circumstance, due to inclement or hazardous
+conditions will pursue alternative methods for completing their assigned duties. However,
+employees unable to work through an alternative method will be eligible for
+inclement/hazardous conditions leave not to exceed the forty (40) hours a biennium.
+
+Section 7. Late or Unable to Report.
+Where the Agency remains open and an employee notifies their supervisors that they are
+unable to report to work, or will be late, due to inclement weather, weather-related, or
+hazardous conditions including active shooter or threat of violence, the employee shall
+be allowed to work from home with the approval of their supervisor, use accrued vacation
+leave, compensatory time off, personal leave or approved leave without pay, or accrued
+sick leave. Where the Employer and the employee mutually agree, the employee may
+be permitted to flex their time.
+
+Section 8. Employees on Pre-scheduled Leave.
+If an employee is on pre-scheduled leave the day of the closure, the employee will be
+compensated according to the approved leave.
+
+Section 9. Make-up Time Provisions
+Subject to Agency operating requirements and supervisory approval, employees who do
+not work pursuant to Sections 2 and 5 of this Article may make-up part or all of their work
+time missed during the same workweek. In no instance will time worked during th e make-
+up period result in overtime being charged to the Agency. The Employer/Agency shall
+not be liable for any penalty or overtime payments when employees are authorized to
+make up work.
+
+Section 10.
+If the Employer/Agency anticipates the inclement condition will last longer than fourteen
+(14) calendar days, the Parties will meet and discuss impacts of the inclement weather
+and/or hazardous conditions.
+
+
+2025-2027 Oregon State Fire Marshal       63                Collective Bargaining Agreement
+Section 11. Non-Essential Workers Required During Inclement Weather /
+Hazardous Condition.
+When a situation arises that requires management to direct a non -essential worker to
+report to work, in-person, during a Inclement Weather/Hazardous Conditions event, the
+employee shall receive the Essential Worker Inclement Weather/Hazardous Conditions
+Pay differential under Article 44.
+                                                                           REV: 2017, 2021,2023,2025
+
+
+### ARTICLE 36 - AOC AND DRIVE TEAM DIFFERENTIALS
+
+Section 1.
+To receive the Agency Operation Center (AOC) or Drive Team Differential, employees
+must be assigned by Agency management or agree when contacted by Agency
+management, to work in the AOC or on the Drive Team. The differential will be paid for
+each hour or major portion thereof (i.e., thirty (30) minutes or more) worked at the AOC
+or actively driving to or returning vehicles from declared emergencies or conflagration as
+part of a Drive Team assignment between the hours of 6:00 p.m. and 6 a.m. and for each
+hour or major portion thereof worked on Saturday or Sunday. The amount of the AOC
+and Drive Team differentials is one dollar and fifty cents ($1.50) per hour. This differential
+shall apply if the employee is working regular hours or in over-time status.
+
+Section 2.
+Agency management may request employees to act as on-call AOC Activation Team and
+Drive Team members. Employees accepting this duty will receive on-call duty pay as
+follows:
+       A.  On-call duty shall be paid one (1) hour of pay at the regular straight time
+           rate for each six (6) hours of assigned on -call duty. Employees who are
+           assigned on-call duty for fewer than six (6) hours shall be paid on a prorated
+           basis.
+
+        B.       An employee shall be assigned on -call duty when specifically required to be
+                 available for work outside the employee’s working hours and not subject to
+                 restrictions which would prevent the employee from using the time while on-
+                 call effectively for the employee’s own purposes.
+
+        C.       No employee is eligible for any premium pay compensation while assigned
+                 on-call duty.
+
+        D.       On-call duty time shall not be counted as time worked in the computation of
+                 hours worked but on-call pay shall be included in the calculation of the
+                 overtime rate of pay.
+
+        E.       An employee shall not be considered on -call once the employee actually
+                 commences performing assigned duties and receives the appropriate rate
+                 of pay for time worked.
+
+        F.       The Agency will schedule on-call for AOC Activation Teams and Drive
+                 Teams by April 1st of each year for weekends that fall within June 15th
+                 through September 15th. If the fifteenth (15th ) of June falls on a weekend,
+
+
+2025-2027 Oregon State Fire Marshal         64                Collective Bargaining Agreement
+                 that weekend will be scheduled with an activation team. The AOC
+                 Activation team will be taken off on -call status if the AOC is already open.
+                 An Activation Team and Drive Team will each consist of two (2) team
+                 members. Activation team and Drive Team members will be permitted to
+                 trade shifts with other respective team members upon approval of the
+                 Assistant Chief Deputy of Emergency Response Services Division or
+                 designee. Such approval will not be unreasonably denied.
+
+        G.       When weekend on-call is needed, the Agency will schedule Activation Team
+                 and Drive Team members beginning Friday at 4:00 p.m. or at the end of the
+                 employee’s workday, whichever is later, until Monday at 8:00 a.m. or the
+                 start of the employee’s work day whichever is earlier. Management will
+                 attempt to avoid scheduling back to back on -call shifts.
+
+                 During holiday weekends when Monday is the holiday, on -call shifts will end
+                 on Tuesday at 8:00 a.m. or the start of the employee’s work day whichever
+                 is earlier. When Friday is the holiday, the on -call shift will begin on
+                 Thursday at 4:00 p.m. or at the end of the employee’s workday, whichever
+                 is later.
+
+        H.       Nothing in this section precludes management from offering on -call as
+                 needed to address operational and emergent concerns. Activation Teams
+                 will not be scheduled for on -call if the AOC is scheduled to be open for a
+                 planned event.
+                                                                                 REV: 2017, 2021,2023
+
+
+### ARTICLE 37 - PROFESSIONAL MEMBERSHIPS
+
+If Agency requires an employee to obtain a membership in a work-related organization,
+the cost of the membership shall be paid by Agency.
+                                                                                            REV: 2023
+
+
+
+### ARTICLE 38 - VOLUNTARY MEDICAL SEPARATION
+
+Section 1.
+A regular status employee with a serious health condition who has exhausted all of their
+own accrued paid leave balances may submit a written request to the Agency for a
+‘voluntary medical separation’. A voluntary medical separation is a voluntary resignation
+for medical reasons. The employee shall attach a doctor’s certification to the request
+attesting to the employee’s serious health condition.
+
+Section 2.
+If, based on the doctor’s certification, the employee has a serious health condition, the
+Agency will approve the employee’s written request for voluntary medical separation so
+long as the employee is not under investigation for any performance and/or misconduct.
+
+
+
+
+2025-2027 Oregon State Fire Marshal         65                 Collective Bargaining Agreement
+Section 3.
+An employee who receives a voluntary medical separation will be notified that they will
+be placed on the Agency’s Layoff List and may be eligible for recall provided all of the
+following conditions are met:
+       A.    The employee will be placed on the Agency’s Layoff List in order of seniority
+             but not eligible for recall until the employee becomes fit for duty. To be fit
+             for recall the employee must submit a doctor’s certification that they are fit
+             to return to work full-time without restrictions.
+
+        B.       The position the employee may be recalled back to is in the same
+                 classification they occupied before their voluntary resignation;
+
+        C.       The employee must meet the minimum qualifications and special
+                 qualifications for the recalled position;
+
+        D.       The employee will be eligible for recall only in their former bargaining unit
+                 and former work location (city/county);
+
+        E.       The employee will be eligible for recall to a position when there is a vacant
+                 position the Agency intends to fill;
+
+        F.       The employee’s name shall remain on the Agency Layoff List for two (2)
+                 years from the date of voluntary resignation, and,
+
+        G.       If the employee rejects a recall offer for their former work location, the
+                 employee’s name will be removed from the list.
+                                                                                            NEW: 2019
+
+
+### ARTICLE 39 – EXIT INTERVIEWS
+
+A.      If a regular status employee provides timely notice that they are voluntarily
+        separating from Agency service, the Agency will offer an exit interview that focuses
+        on the reason(s) for the employee leaving Agency service and what changes they
+        recommend to the Agency to improve Agency operations, or,
+
+B.      Upon request, but no more than two (2) times a year, the Union can receive a
+        report of the Department of Administrative Services written instrument results from
+        employee feedback on their Agency experience.
+                                                                                       NEW: 2019,2023
+
+### ARTICLE 40 – AIR QUALITY
+Section 1.
+The Air Quality Index (AQI) was developed by the US Environmental Protection Agency
+as an indicator of overall air quality and is based on the five (5) criteria pollutants regulated
+under the Clean Air Act: ground-level ozone, particulate matter, carbon monoxide, sulfur
+dioxide, and nitrogen dioxide. Employee exposure levels to wildfire smoke is determined
+by the current workplace ambient air concentration for particulate matter 2.5 (PM2.5),
+regardless of the concentrations for other pollutants.
+
+
+
+
+2025-2027 Oregon State Fire Marshal          66                 Collective Bargaining Agreement
+Section 2. Outdoor Work and Air Quality.
+Employees who are required to work outside when outdoor air concentration for PM2.5
+reach at or above 55.5 ug/m3 (equivalent to an AQI at or above 151) will be provided with
+the appropriate OSHA recommended safety equipment.
+
+Section 3.
+When elevated AQI levels require a building closure or delayed opening, the Inclement
+Conditions/Hazardous Condition Leave will apply. All other provision of Article 35—
+Inclement Weather/Hazardous Conditions apply for elevated AQI which falls under a
+Hazardous Condition.
+                                                                                        NEW: 2021
+
+
+
+### ARTICLE 41 - WORKING REMOTELY
+Section 1.
+Oregon state government encourages working remotely where it is a viable option that
+benefits both the employee and the agency. Use of remote work options promote the
+health and safety of Oregonians; ensures high -quality work and optimal use of
+resources for agencies; ensures cultural, equity and accessibility issues are addressed
+in a meaningful way; and supports flexibility and work-life balance for employees. It
+also offers the opportunity to be more flexible in interactions with the Oregonians we
+serve and decreases an agency's impact on the environment. Remote work
+arrangements are subject to the State Policy 50.050.01 (Working Remotely) and the
+terms and conditions of this collective bargaining agreement.
+
+Section 2.
+Where all or a portion of an employee’s duties can be successfully performed away
+from their primary duty station, an employee is eligible for remote work, upon agency
+approval.
+
+Section 3. Remote Work Requests.
+Requests to work remotely may be initiated by an employee and must be approved by
+the employee’s supervisor to ensure that all or a portion of the position’s duties are
+suitable for remote work and meets the agency’s business and operational needs, as
+well as those of the agency’s customers and the employee. Remote work agreements
+must be documented through the working remotely process in the state human
+resources information system. Remote work requests will not be unreasonably denied.
+Agency decisions will be made as soon as possible, but in no case more than thirty
+(30) days after the employee’s request. Where more than one (1) qualified employee
+requests remote work for a particular period of time and all requests cannot be
+accommodated, the remote work opportunities will be evenly distributed or rotated. Ad
+hoc in person meetings, trainings or other in -person requirements shall not be the sole
+reason to determine if an employee is ineligible for a remote and/or hybrid work
+agreement.
+
+Section 4. Remote Work Denials or Rescissions.
+If an employee’s request to work remotely is denied or rescinded, or permanently
+modified in any way, the supervisor must provide a written response within ten (10)
+calendar days to the employee documenting the reason(s) for the denial or rescission.
+In the case of remote work being rescinded, management shall include detailed
+
+2025-2027 Oregon State Fire Marshal        67               Collective Bargaining Agreement
+information on why the job duties can no longer be completed remotely before a
+rescission is implemented. Remote work requests shall not be arbitrarily denied or
+rescinded. Upon request, the Union, and Employer shall meet at a mutually agreed
+upon time within fifteen (15) calendar days, to discuss the denial or rescission.
+Rescissions of remote work by the employer may be made with at least ten (10)
+calendar days advance notice. The Agency or the employee may terminate individual
+agreements, in whole or in part, upon at least ten (10) calendar days notice.
+Employees who rescind their remote work agreement, in whole or in part, shall be
+guaranteed a workspace at an Employer facility. Employees who have either
+rescinded their remote work or had their remote work rescinded by the employer shall
+be eligible to be considered for remote work in the future.
+
+Section 5. Inclement conditions may arise in remote work locations.
+If utility providers experience outages that prevent an employee from working,
+employees may access inclement weather/hazardous conditions leave, unless there is
+an alternate work location available.
+
+Section 6.
+A.    Any alleged violations of this article may be appealed directly to the DAS Labor
+      Relations Unit within thirty (30) days of the alleged violation. Such appeals are
+      not arbitrable.
+
+B.      Any alleged violations of sections (3) or (4) of this article may be appealed
+        directly to an appeal panel consisting of a representative of the DAS LRU and
+        a Union designee. Decisions and remedies shall be rendered by the panel no
+        later than thirty (30) days after receipt of the appeal by the panel. The decision
+        and remedy are not arbitrable and will be binding on the parties. If no decision
+        is rendered by the panel then the supervisor’s decision will stand.
+
+Section 7. Equipment.
+In the event of equipment malfunction or other circumstances which may interfere with
+the performance of work assignments, the employee shall promptly notify the
+supervisor. The agency provides basic technology equipment and related devices
+necessary for the employee to perform their assigned job duties at the primary or
+alternate worksite. The equipment and devices are for agency business only and must
+comply with the agency’s desktop security and maintenance policies and practices.
+Employees will not conduct state business on the following personal equipment:
+phones, computers, laptops or other information storing devices. Exceptions are
+subject to the approval of the State Chief Operating Officer. Additional technology and
+devices may be provided to the employee at the discretion of the agency or in
+accordance with the Americans with Disabilities Act (ADA).
+
+Employees who work remotely will enter all assets (equipment, office furniture, etc.)
+provided to them in the state human resources information system.
+
+Section 8. Remote Work Supplies.
+Remote work office supplies shall be provided by the Agency. Equipment, software or
+supplies which are provided by the Agency for remote work shall be for the purposes
+of conducting Agency business only.
+
+2025-2027 Oregon State Fire Marshal        68                 Collective Bargaining Agreement
+Section 9. Remote Worksite.
+Office furniture shall normally be provided by the employee working remotely. Subject
+to management approval, employees working remotely may access the State surplus
+warehouse for office furniture for their remote work location. An ergonomic study may
+be requested by the employee or the supervisor.
+
+The employee maintains a safe remote workspace. The employee must immediately
+report to the supervisor any injury that occurs during work hours. The state is not
+responsible for loss, damage, repair, replacement or wear of personal property.
+
+SAIF or Agency safety representatives shall have reasonable access to the home
+worksite to conduct accident investigations or job site evaluations.
+
+Section 10. Work Location, Mileage and Travel Time.
+The employee’s central worksite will be assigned by the agency. In addition,
+employees may be required to report to Agency or non -Agency locations for purposes
+such as meetings, training sessions and policy/practice coverage. For hybrid work
+agreements, employees shall request approval to flex in -office workdays as needed.
+Business visits, meetings with Agency customers or meetings with co-workers shall
+not be held at the remote worksite unless approved by the employee’s supervisor.
+Mileage will be paid in accordance with the DAS OAM Travel Policy. Travel time will
+be compensated in accordance with the Fair Labor and Standards Act (FLSA).
+Effective September 1, 2023, employees will no longer be reimbursed for travel
+expenses between the alternate workplace and the central workplace, regardless of
+their remote work status. This change is not intended to impact employees otherwise
+entitled to travel expenses per the Oregon Accounting Manual and/or DAS Policy
+Working Remotely 50-050-01.
+
+Section 11. Expectations and Goals.
+Remote work employees and their managers will develop a clear set of expectations
+and goals for the work to be performed on remote work days. Such expectations may
+include checking E-Mail and voice-mail on a regular basis and returning phone calls in
+a timely manner. Employees will review and acknowledge the State of Oregon
+Employees Working Remotely Acknowledgement Form in the state human resources
+information system.
+
+Section 12. Training.
+Appropriate training will be provided for participating managers and employees.
+
+Section 13. Other Provisions.
+These provisions are applicable to all Sections listed above.
+      A.     Call back and overtime will be handled as outlined in the applicable
+             provisions of this collective bargaining agreement.
+
+        B.       Since supervisors must continue to be in a position to evaluate employee
+                 performance, certify the accuracy of time sheets and attendance records,
+                 and perform a variety of other supervisory responsibilities, employees
+                 should anticipate that, in addition to being supervised pursuant to normal
+
+2025-2027 Oregon State Fire Marshal         69                 Collective Bargaining Agreement
+                 office procedures, there will also be the possibility that they will receive
+                 telephone calls at the phone number employees have designated in their
+                 remote work arrangement.
+        C.       In the event of a work stoppage, remote work arrangements utilized by
+                 represented employees shall be suspended.
+        D.       Members have the right to Union representation as enumerated in this
+                 collective bargaining agreement or as guaranteed by the law.
+        E.       The Agency or the Union may initiate discussions with the other party to
+                 develop working groups to consider options relating to remote work.
+        F.        The Agency shall not compel an employee to work remotely. Employees
+                 who choose to work in office shall be guaranteed a workspace at an
+                 Employer facility.
+                                                                             NEW: 2021 REV:2023,2025
+
+
+### ARTICLE 42 – INCIDENT MANAGEMENT TEAM (IMT)
+
+
+A.      Agency employees are eligible to apply to IMT with supervisor approval.
+        Employees will be responsible to follow the procedures of the IMT Program.
+
+B.      An Incident Management Team member will receive pay for work performed
+        according to the Oregon Fire Service Mobilization Plan. Pay shall cover the entire
+        period of the emergency, from the departure time as logged by the Agency
+        Operation Center through demobilization and return to home base as logged by
+        the Agency Operation Center. Discrepancies in pay are grievable.
+
+C.      Pay for a response to an Emergency Management Assistive Compact (EMAC)
+        request or as an individual to a non -conflagration or non-Bureau Indian Affairs
+        (BIA) incident will be for hours worked.
+                                                                                            NEW: 2023
+
+
+### ARTICLE 43 - PAID LEAVE OREGON
+
+Paid Leave Oregon is administered by the Oregon Employment Department. The State
+of Oregon, as an Employer, shall comply with the provisions of Paid Leave Oregon, as
+provided for in the DAS statewide Paid Leave Oregon Policy (60.000.04), including but
+not limited to the following section on Use of Paid Leave:
+
+Section 1.
+Employees may choose and will be allowed to use sick, vacation, or personal business
+leave to make up any difference between Paid Leave Oregon benefits and their average
+weekly wage, as determined by the Oregon Employment Department. An employee
+receiving Paid Leave Oregon benefits and who is protected by Family and Medical Leave
+or Oregon Family Leave (FMLA/OFLA) will use accrued leave in accordance with any
+existing contract language relating to FMLA/OFLA.
+                                                                                            NEW: 2023
+
+
+
+
+2025-2027 Oregon State Fire Marshal          70                 Collective Bargaining Agreement
+### ARTICLE 44 - ESSENTIAL WORKER PAY
+
+When a situation exists that would otherwise close or curtail state offices, essential
+workers having to report to work, in -person, shall receive the Essential Worker Inclement
+Weather/Hazardous Conditions Pay differential.
+
+The Essential Worker Inclement Weather/Hazardous Conditions Pay differential shall be
+four dollars ($4.00) per hour. Employees will be paid for their whole shift that falls within
+a designated closure day, regardless of the starting or ending time of the closure.
+Employees will be paid for their whole shift when their shift falls during a curtailment.
+
+Staff working at agencies with 24/7 operations that are not curtailed shall receive the
+Essential Worker Inclement Weather/Hazardous Conditions Pay benefits when any state
+agency offices are formally closed by DAS or ODOT in accordance with State HR Policy
+60.015.01 within the county of their worksite. For 24/7 operations, if inclement weather
+occurs on a weekend (and would normally result in a closure of a state agency office in
+the county of their worksite during Monday through Friday), staff shall recei ve the
+Essential Worker Inclement Weather/Hazardous Conditions Pay. DAS or ODOT will
+determine if a closure would have occurred on a weekend and/or a holiday when state
+offices are otherwise closed.
+                                                                                         NEW: 2025
+
+
+                                                                                      /////////////////
+
+
+
+
+2025-2027 Oregon State Fire Marshal       71                 Collective Bargaining Agreement
+### LETTER OF AGREEMENT – ARTICLE 21 - SALARY AND BENEFIT REPORT
+
+This Agreement is between the State of Oregon, acting through its Department of
+Administrative Services (DAS) and the AFSCME Local 75, (Union).
+
+DAS Classification and Compensation will provide a draft Salary and Benefit report to
+AFSCME no later than December 31 of even numbered years. AFSCME will have 14
+calendar days to review and comment on the draft report. DAS Classification and
+Compensation will provide the final report to AFSCME no later than January 31.
+
+If the DAS Classification and Compensation Unit intends to modify the methodology used
+in the most recent salary and benefit report, ASCME will be given an opportunity to
+provide feedback to identify key areas of concern and opportunities for improvement, as
+well as providing insight into the climate and concerns of the employee population.
+
+DAS Classification and Compensation is committed to providing the Union with a training
+on the State’s salary selective process.
+
+This Letter of Agreement will sunset on June 30, 2027, unless extended by mutual
+agreement.
+
+
+
+
+2025-2027 Oregon State Fire Marshal     72               Collective Bargaining Agreement
+### LETTER OF AGREEMENT – ARTICLE 23 - PEBB MEMBER ADVISORY
+                              COMMITTEE
+
+
+This Agreement is between the State of Oregon, acting through its Department of
+Administrative Services (Employer) and AFSCME Council 75 (Union).
+
+The Employer and Union share a commitment to PEBB achieving its vision of better
+health, better care and affordable costs. Both Parties recognize that the structure of
+PEBB is authorized in Oregon Revised Statutes, and is also designed to provide the input
+and perspective of members in PEBB decisions. In addition, the Employer and Union
+representatives share governance and decision making within the authorized structure of
+PEBB. The Employer and the Union share an interest in further informing the PEBB
+decision making process through an additional layer of direct member engagement in
+health and wellness.
+
+Therefore, the Parties agree to the following:
+         1.     PEBB is directed to create and staff a PEBB Member Advisory
+                Committee (PMAC).
+         2.     The PMAC will be comprised of PEBB members, including both
+                management and labor, with up to four (4) members appointed by
+                AFSCME. Appointment to the PMAC will be for a two (2) year period.
+                Management will select the one management co-chair and Labor will
+                select their co-chair.
+         3.     The PMAC will meet at least once per calendar quarter.
+         4.     The PMAC will provide advice on:
+                a. Member engagement
+                b. Health and Welfare strategies including the Health Engagement
+                     Model and wellness programs.
+                c. Educating and engaging members as active leaders in their health.
+         5.     PEBB is required to present updates to the PMAC about the progress
+                towards its vision of better health, better care and affordable costs.
+         6.     Participants on the committee will be on paid status and shall be
+                reimbursed as per state travel policy. Agencies will not incur any
+                overtime liability as a result of committee meetings or travel.
+
+This Agreement will sunset on June 30, 2027.
+
+
+
+
+2025-2027 Oregon State Fire Marshal     73                Collective Bargaining Agreement
+### LETTER OF AGREEMENT – NEW EMPLOYEE NOTICE/UNION ACCESS
+
+1.      Notice
+           a. The Employer shall provide the Union, in an editable digital file format, the
+               following information for each employee quarterly:
+                     i. Employee name; date of hire; EIN
+                    ii. Contact information, including: cell, home and work telephone
+                        numbers (when available);
+                   iii. Means of electronic communication, including work, personal
+                        electronic mail address;
+                   iv. Home address or personal mailing address; and
+                    v. Department/Agency/Office, Job Classification, Job Title, base salary,
+                        and work site location.
+           b. Each business day, the Employer shall provide a report of newly hired
+               AFSCME represented workers as long as the new hire business process
+               has been successfully completed in the business day prior.
+           c. The State CHRO information unit will provide AFSCME with a report of new,
+               terminated, retired or transferring employees in AFSCME covered positions
+               no later than the 10th of each month.
+
+2.      New Employee Onboarding
+          a. Within the first ten (10) calendar days from the date of hire, the Union
+             representative shall be granted thirty (30) minutes of paid time to meet with
+             the new employees without loss of pay. Designated representatives shall
+             be given time off with pay to make the presentation. Employee attendance
+             at the Uplift Oregon benefits workshop does not prevent an employee from
+             attending a union presentation at a union new employee orientation.
+          b. Employees within their first twelve (12) months of employment shall be
+             allowed an additional one hundred and twenty (120) minutes of paid time to
+             meet with a Union representative for follow-up orientation issues without
+             loss of pay.
+          c. All AFSCME State agencies shall send their new employees to the Uplift
+             Oregon benefits workshop. AFSCME State agencies shall send their new
+             employees to the training within fourteen (14) days of hire. The Union shall
+             have time allotted during this training to share union information with
+             AFSCME represented employees.
+          d. Meetings under this Section may remain confidential.
+
+
+
+
+2025-2027 Oregon State Fire Marshal       74                 Collective Bargaining Agreement
+### LETTER OF AGREEMENT – OREGON UNIONS STATE WORKER TRAINING FUND
+
+The Parties recognize that both the State and its workers benefit from workers
+understanding their different health care options, understanding their retirement benefits
+and finding solutions to increase wellness and equity in the workplace
+
+Therefore, the State of Oregon, along with participating unions will work together to come
+up with creative and long-term solutions by working in collaboration to develop and deliver
+the trainings.
+
+In order to accomplish these goals, the Parties will:
+    • Establish a State Worker Training and Education Fund (Oregon Unions State
+       Worker Training Fund), appoint the State Worker Fund governing board of trustees
+       of ten (10) people with equal representation from union representatives and
+       Employers, and hire a qualified leader (“Director”) to report to such board of
+       trustees.
+           o Union Representatives will be split proportionally between participating
+              labor unions.
+    • Fund the start-up of the State Worker Training Fund from October 1, 2019 to June
+       30, 2020. The start-up will be funded by an Agency assessment of one cent
+       ($0.01) per hour per employee of straight-time worked that would be due to the
+       trust no later than October 1, 2019 in order to hire a director and choose one (1)
+       or two (2) pilot locations to learn and adjust a roll out of a statewide plan. Ongoing,
+       State Worker Training Fund will be funded two cents ($0.02) per hour worked,
+       including all paid leaves, per employee starting July 1, 2020 with a goal of the
+       training and resources being available statewide by January 1, 2021. Agencies
+       can pay monthly. At a minimum, per hour payments will be paid quarterly.
+           o Agencies with under fifty (50) employees shall not make per hour payments.
+
+The State Worker Training Fund will develop a plan to deliver trainings and programs on:
+   • PEBB and PERS. The PEBB and PERS training will be mandatory for new hires
+      and the PEBB training will be offered within fourteen (14) days of a new hire. When
+      possible, employees’ will sign up for their health insurance after going through the
+      PEBB training.
+   • Organizational Equity and Inclusion. Creating trainings focused on ensuring
+      nondiscrimination and best practices to equity and inclusion in the workplace.
+   • Wellness. The wellness initiatives should focus on agencies where there are clear
+      challenges identified by management and bargaining unit. The trust shall identify
+      one (1) Agency to pilot the wellness initiative.
+   • After a program is developed for the first three (3) stated goals, the Board of
+      Trustees will discuss other programs that potentially meet goals identified by the
+      State and the Unions.
+
+
+
+
+2025-2027 Oregon State Fire Marshal        75                 Collective Bargaining Agreement
+### LETTER OF AGREEMENT – CONTRACT SPECIALIST
+
+This Agreement is between the State of Oregon, acting through its Department of
+Administrative Services (Employer) on behalf of all Agencies covered under the
+jurisdiction of the AFSCME Central Table (Agency) and AFSCME Council 75 (Union).
+
+The purpose of this Agreement is to establish Employer paid Contract Specialists to
+improve labor/management relationships at all levels of state government.
+
+The Parties agree to the following:
+
+Selection and Appointment of Contract Specialists:
+A.     The selection and appointment of a Contract Specialist shall be mutually agreed
+       upon by the Employer and Union.
+B.     The Union may have four (4) Contract Specialist positions from Agencies that are
+       within the jurisdiction of the AFSCME Central Table and Department of
+       Corrections.
+C.     The duration of a Contract Specialist shall be mutually agreed upon by the
+       Employer and Union.
+D.     The Parties shall establish an agreement which shall be signed by all Parties
+       stipulating to the terms and conditions of the Contract Specialist assignment.
+E.     Employees selected as Contract Specialist must maintain all necessary
+       certifications, licensures and training requirements of their Agency position with
+       costs and reimbursements if applicable governed under the Agreement.
+F.     While the State is the Employer of record, the Union has the sole control, oversight
+       and direction of employees appointed as Contract Specialists. Therefore, the
+       Union shall indemnify and save the Employer harmless from any and all costs,
+       should any arise, associated with actions taken by the Contract Specialist on
+       behalf of the Union.
+G.     In the event the Employer/Agency determines a Contract Specialist is potentially
+       violating law or not complying with Employer/Agency policies or the local Agency
+       Collective Bargaining Agreement, the Agency shall immediately notify the Union.
+       The Agency shall investigate the matter and take action as necessary consistent
+       with the local Agency Collective Bargaining Agreement including disciplinary
+       action. Before any Agency action is taken, the Union may remove the employee
+       from the assigned worksites.
+
+Pay and Benefits:
+A.    The Agency shall continue to pay salary and benefits which includes pension
+      contribution, insurance and paid leave time consistent with what they earned
+      before their appointment. Employees appointed as a Contract Specialist shall not
+      be eligible for reimbursement for uniforms, boots or other ancillary items while
+      serving as a Contract Specialist the specifics which will be noted in the employee’s
+      Contract Specialist agreement.
+B.    Contract Specialists shall submit monthly timesheets recording a maximum of forty
+      (40) hours of work each week. The timesheet shall be signed and verified by the
+      Executive Director or designee of the Union. All leave taken, regardless of type,
+      must be clearly identified.
+
+
+2025-2027 Oregon State Fire Marshal      76                 Collective Bargaining Agreement
+C.      The Agency shall place the Contract Specialist on leave with pay for the duration
+        of the assignment. The calculation of seniority shall be consistent with the terms
+        of the applicable local Agency Collective Bargaining Agreement.
+D.      Where the Union has designated Contract Specialist, the Agency shall pay up to
+        eighty-five thousand ($85,000) a year for the Contract Specialist which includes
+        pay and benefits. Any costs above eighty-five thousand ($85,000) per year shall
+        be paid by the Union by reimbursing the Agency using Agency established policies
+        and procedures for reimbursement.
+E.      The Agency shall not be liable for any overtime costs while the Contract Specialist
+        is on assignment with the Union.
+
+Travel and Reimbursements:
+A.     Time spent traveling on behalf of the Union shall be on Agency time. The Union
+       shall be responsible for time spent traveling if such travel extends beyond forty
+       (40) hours in a workweek.
+B.     The Union shall be responsible for all travel expenses including but not limited to
+       mileage, lodging, meals and other incidental travel expenses.
+C.     Contract Specialists shall not use or be assigned a state car for travel.
+
+Duties:
+A.    The Contract Specialist, DAS Labor Relations Unit and Agency Human Resources
+      staff shall work cooperatively when performing the following duties:
+      1.      Interpret and administer the local Agency Collective Bargaining Agreement.
+      2.      Education on the local Agency Collective Bargaining Agreement.
+      3.      Provide guidance in grievance and problem resolution.
+      4.      Improve steward capacity.
+      5.      Work toward consistent application of the local Agency Collective
+              Bargaining Agreement.
+      6.      Provide guidance on developing and improving labor/management
+              committees.
+      7.      Participate in new employee orientation as provided for in the local Agency
+              Collective Bargaining Agreement.
+      8.      Attend labor management committee meetings as a non -participating
+              member, unless they are participating for their own local, in which case they
+              shall be able to attend as a neutral participant.
+B.    If a DOJ attorney is appointed to serve as a Contract Specialist, the attorney shall
+      stipulate in the signed agreement that they will not practice law as that term is used
+      in law and Oregon State Bar rules, regulations, official opinions and decisions.
+C.    The Contract Specialist shall follow all applicable Employer and Agency policies
+      while serving in the capacity of a Contract Specialist.
+D.    The Contract Specialist shall not be assigned duties that involve the following:
+      strike preparation, strike planning, strike coordination activities or interest
+      arbitration preparation, BOLI claim preparation, and Unfair Labor Practice
+      preparation, filing grievances, leading contract negotiations, acting in the role of a
+      union steward, and participation and other actions taken by the Union in a legal
+      forum.
+E.    Contract Specialists who remain in their official Union delegate or Board member
+      role during their Contract Specialist assignment are required to use paid leave or
+
+
+2025-2027 Oregon State Fire Marshal       77                 Collective Bargaining Agreement
+       temporarily modify their schedule while performing official union delegate or board
+       duties.
+Dispute Resolution:
+Notwithstanding any agreements that include grievance/arbitration procedure, if there is
+a disagreement between the Employer and the Union regarding the interpretation and
+application of this Letter of Agreement, the Employer and Union shall meet and attempt
+to resolve the matter. If, after fourteen (14) calendar days there no resolution, the moving
+party may request arbitration. The Parties shall use the arbitration procedure outlined in
+the agreement where the employee is employed.
+
+Indemnification:
+The Union shall indemnify and the Union and Contract Specialists hold the Employer and
+Agency harmless against any and all claims, damages, suits or other forms of liability
+which may arise out of any action taken or not taken by the Employer/Agency for th e
+purpose of complying with this Letter of Agreement on Contract Specialists.
+
+The Union shall not indemnify the Employer/Agency for grievance/arbitration disputes.
+
+Term of Agreement:
+This Agreement becomes effective on the date of the last signature and ends on June 30,
+2027 unless renewed by the Parties or the Parties agree to amend its provisions.
+
+
+
+
+2025-2027 Oregon State Fire Marshal       78                Collective Bargaining Agreement
+### LETTER OF AGREEMENT – STATE POLICY 50.050.01 WORKING REMOTELY
+                            UPDATES
+
+This Letter of Agreement is between the State of Oregon, acting through its Department
+of Administrative Services (Employer on behalf of the Agencies covered under the
+jurisdiction of the AFSCME Central Table (Agencies) and AFSCME Council 75 (Union).
+
+The Parties acknowledge that nothing in this Agreement shall constitute a waiver of any
+Party’s rights, claims or defenses with respect to mandatory subjects of bargaining and
+the impacts of changes to the state policy 50.050.01 Working Remotely policy.
+
+This Agreement becomes effective on the date of the last signature below and ends June
+30, 2027.
+
+
+
+
+2025-2027 Oregon State Fire Marshal     79               Collective Bargaining Agreement
+### LETTER OF AGREEMENT – EQUAL PAY
+
+This Agreement is entered into by the State of Oregon, acting through its Department of
+Administrative Services, Labor Relations Unit (Employer), on behalf of the Agencies
+covered by this Agreement (Agency) and the AFSCME Council 75 (Union).
+
+This Agreement applies to all of the Union’s bargaining units inside of the executive
+branch of state government.
+
+The purpose of this Agreement is to provide procedures to implement unscheduled equal
+pay adjustments consistent with Oregon law, and, to identify the appeal procedure to have
+Agency or Employer decisions concerning equal pay reviewed.
+
+The Parties agree to the following:
+      1.     Application to Current Employees: The Employer, an Agency Head or
+             designee (with CHRO approval) may provide an unscheduled salary step
+             increase to correct a pay inequity between employees who perform work of
+             a comparable character and are similarly-situated based on relevant
+             factors, identified in Oregon Revised Statute [ORS 652.220(2)], by which
+             individual employees may be compensated differently. Unscheduled salary
+             step increases may be initiated by:
+             (a)    Periodic statewide equal pay analysis (appeal process section 10)
+             (b)    Employee request (appeal process section 9)
+             (c)    Agency identified inequity (appeal process section 9)
+2.    Application to Returning Employees (including but not limited to reemployment and
+      return from layoff): An Agency Head or designee may offer a higher step than
+      prescribed in the applicable labor agreement when the Agency identifies a pay
+      inequity between employees in the same classification who perform work of a
+      comparable character.
+3.    If an Agency plans to grant an unscheduled salary step increase to an
+      employee(s), the Agency shall first forward the recommendation to CHRO,
+      Classification & Compensation for review and analysis. The CHRO shall approve
+      or disapprove the Agency recommendation and shall provide a written response
+      back to the Agency. If approved, the Agency may take action to implement the
+      equal pay adjustment.
+4.    An employee may request an equal pay review by submitting a written request to
+      the Agency Human Resource Department. This includes employees who are
+      appealing equal pay assessments conducted at the time of hire or internal
+      movements (transfer, promotion, etc.) to new positions where equal pay
+      assessments are performed. The Agency Human Resource Department shall
+      review the merits of the request based on the relevant factors and issue a written
+      decision within sixty (60) calendar days, unless otherwise mutually agreed upon in
+      writing.
+5.    Equal pay adjustments are effective on the date an employee made a written
+      request to the Agency or the date the Agency submitted a request to DAS
+      Classification and Compensation Unit, whichever was earlier.
+6.    In the event an employee receives an unscheduled salary step adjustment for any
+      of the reasons identified in Section 1, the employee’s benefit service date shall
+      remain the same.
+
+2025-2027 Oregon State Fire Marshal       80               Collective Bargaining Agreement
+7.      Agencies shall retain all documents pertaining to decisions involving equal pay.
+8.      If the employee meets with the Agency or Employer, the employee may request
+        and obtain Union representation.
+9.      Appeal Procedure - Agency Level Equal Pay Decisions.
+        (a)     If an employee wishes to appeal an Agency’s pay equity decision as filed
+                under Section 4 of this Agreement, the employee shall submit a completed
+                Pay Equity Appeal Form to the Agency Head (or designee) within fifteen
+                (15) days of receipt of the Agency’s decision. The Agency shall respond to
+                the appeal within thirty (30) days of receipt of the appeal. The appeal must
+                be based on one (1) or more of the factors listed in ORS 652.220(2) and the
+                compensation of other employees performing work of a comparable
+                character.
+        (b)     If the employee disagrees with the Agency’s decision, the employee, or the
+                Union on the employee’s behalf, may submit a written appeal to the
+                Department of Administrative Services Labor Relations Unit (LRU) no later
+                than thirty (30) calendar days from receipt of the Agency’s decision. The
+                employee, or the Union on the employee’s behalf, shall forward all written
+                documents as part of the appeal. The employee shall identify factors, as
+                outlined above, the Agency did not properly consider. The Department of
+                Administrative Services Labor Relations Unit (LRU) shall respond to the
+                appeal in writing within thirty (30) calendar days.
+        (c)     Equal Pay appeals are not subject to arbitration. However, nothing in this
+                Agreement precludes the employee from submitting a claim to the Bureau
+                of Labor and Industries (BOLI) in accordance with BOLI’s administrative
+                rules or pursuing other legal recourse. The timelines for filing with BOLI or
+                pursuing other legal recourse apply regardless of whether the employee
+                appeals the decision under this section.
+        (d)     For purposes of this Agreement only, the appeal process in this Agreement
+                replaces the grievance procedure outlined in the applicable labor
+                agreement covering the employee.
+        (e)     The Employer and Union may agree to an extensions of time in this
+                Agreement upon mutual agreement in writing.
+10.     Appeal Procedure – DAS Statewide Equal Pay Analysis Decisions
+        (a)     An employee may appeal the Employer’s decision concerning the
+                employee’s salary that resulted from a statewide equal pay analysis. The
+                appeal must be based on one (1) or more of the factors listed in ORS
+                652.220(2) and the compensation of other employees performing work of a
+                comparable character.
+        (b)     An appeal of the Employers’ equal pay analysis decision may be filed by
+                sending a completed DAS Equal Pay Appeal Form no later than thirty (30)
+                calendar days from the date the employee receives notification of the equal
+                pay analysis results. The Employer shall make a good faith effort to respond
+                with a decision regarding the employee’s appeal within one hundred and
+                twenty (120) calendar days.
+        (c)     The timelines for filing with BOLI or pursuing other legal recourse apply
+                regardless of whether the employee appeals the Employer’s decision under
+                this section.
+        (d)     Pay adjustments made as a result of accepted appeals shall have the same
+                effective date as the date set for the Statewide Equal Pay Analysis. The
+
+2025-2027 Oregon State Fire Marshal        81                Collective Bargaining Agreement
+               most recent Statewide Equal Pay Analysis was conducted in January 2024
+               and Subsequent Statewide Equal Pay Analysis shall be conducted every
+               three years thereafter. DAS shall provide written notice to the Union of the
+               implementation date of any Statewide Equal Pay Analysis.
+        (e)    To be eligible to file an appeal of the DAS statewide equal pay analysis
+               decision an employee must have been employed by a state executive
+               branch agency as of the effective date of the Statewide Equal Pay Analysis.
+               Employees who do not meet this eligibility requirements may pursue an
+               appeal through Section 9 of this Agreement.
+        (f)    Employees at the top step of the salary range assigned to their job
+               classification on or before the effective date of the Statewide Equal Pay
+               Analysis, are not eligible to file an appeal.
+        (g)    The Employer shall notify an employee in writing of the outcome of the
+               employee’s appeal, including reasons for the decision.
+        (h)    If the employee disagrees with the Employer’s response, the employee may
+               submit a claim to the Bureau of Labor and Industries or pursue other legal
+               recourse. Equal Pay appeals are not subject to arbitration.
+        (i)    For purposes of this Agreement only, the appeal procedure in this
+               Agreement replaces the grievance procedure outlined in the applicable
+               labor agreement covering the employee.
+11.     This Agreement becomes effective on the date of the last signature below and
+        expires June 30, 2027.
+
+
+
+
+2025-2027 Oregon State Fire Marshal       82                Collective Bargaining Agreement
+### LETTER OF AGREEMENT – AGENCY OPERATIONS CENTER
+
+This Letter of Agreement is between the State of Oregon, acting through its Department
+of Administrative Services and the Oregon State Fire Marshal (Employer) and AFSCME
+Council 75 (Union).
+
+The purpose of this Agreement is to provide employees with a clear, predictable and
+transparent process for employees to work in the Agency Operations Center (AOC).
+
+The Parties agree to the following:
+      1.     The agency will distribute the AOC shift schedule guidelines and
+             procedures document to all OSFM employees prior to each fire season, as
+             practicable.
+
+        2.       After the fire season, OSFM will conduct an After Action Review (AAR)
+                 where data from the fire season, such as AOC staffing information, will be
+                 reviewed and discussed. The AAR includes all who worked to support fire
+                 season operations (represented and management service employees).
+
+This Letter of Agreement will sunset on June 30, 2027, unless extended by mutual
+agreement.
+
+
+
+
+2025-2027 Oregon State Fire Marshal        83                Collective Bargaining Agreement
+### LETTER OF AGREEMENT – AMERICANS WITH DISABILITIES ACT (ADA)
+
+This Agreement is between the State of Oregon, acting through its Department of
+Administrative Services (Employer) and AFSCME Council 75, Local 3765 (Union).
+
+The Americans with Disability Act (ADA) is a federal civil rights statute in place to remove
+barriers that prevent qualified people with disabilities from enjoying the same employment
+opportunities available to people without disabilities. As the Employer and the Union are
+both committed to people receiving the accommodations they need to be a successful
+employee, the Employer agrees to ensure that information regarding the ADA and any
+Agency-specific procedures for requesting reasonable accommodations is readily
+accessible to employees via the Agency's bulletin boards and/or public or intranet
+website.
+
+In addition,
+       ●     Agencies will acknowledge in writing all written requests for
+             accommodations made under this LOA within seven (7) calendar days of
+             receiving them.
+
+        ●        At an employee’s request, a union steward may be present at the interactive
+                 meeting. The presence of the steward during the meeting is to support the
+                 employee, not to represent the employee in the capacity of a union steward.
+
+        ●        Once the Agency has received all of the necessary documentation relating
+                 to the ADA request, the Agency shall respond to the ADA request within
+                 thirty (30) calendar days. If an extension is needed, the Agency will notify
+                 the employee.
+
+        ●        If an Agency does not adhere to the timelines required in the Letter of
+                 Agreement, an employee may utilize the grievance and arbitration
+                 procedure outlined in Article 6. Any other application of this LOA shall not
+                 be subject to the grievance and arbitration procedure, including the
+                 Agency's decision regarding the employee’s specific ADA accommodation
+                 request.
+
+
+
+
+2025-2027 Oregon State Fire Marshal         84                Collective Bargaining Agreement
+### LETTER OF AGREEMENT – EDUCATION, TRAINING, JOB ROTATIONS, AND
+                CAREER DEVELOPMENT OPPORTUNTIES
+
+The Parties agree to the following:
+
+        1.       The Employer shall make every reasonable effort to promote the continuing
+                 education, training, and development of employees in areas that are job-
+                 related. Furthermore, the Employer shall make every reasonable effort to
+                 meet personnel needs through career development to prepare for career
+                 advancement. Employees may request or be directed to participate in job-
+                 related training, career development, or educational programs for the
+                 purposes of enhancing job functionality or career development, at the
+                 discretion of the agency and dependent of workload.
+
+        2.       Employees may utilize the quarterly check-in meetings to discuss with their
+                 supervisor potential job-related training, opportunities for career
+                 development, special assignments, job shadowing or cross training.
+
+        3.       Agency management will provide, upon request, instruction for employees
+                 to document in the system their participation in outside agency training, job
+                 rotations and special assignments.
+
+This Letter of Agreement will sunset on June 30, 2027, unless extended by mutual
+agreement.
+
+
+
+
+2025-2027 Oregon State Fire Marshal          85                Collective Bargaining Agreement
+### LETTER OF AGREEMENT – STATEWIDE LABOR MANAGEMENT COMMITTEE
+
+This Agreement is entered into by the State of Oregon, acting through its Department of
+Administrative Services, Labor Relations Unit (Employer), on behalf of the Agencies
+covered by this Agreement (Agency) and the AFSCME Council 75 (Union).
+
+
+The Parties shall establish and maintain a Statewide Labor Management Committee
+(LMC) to facilitate collaboration.
+
+AFSCME may have ten (10) labor representatives from Central Table Bargaining units
+participate in the LMC. The State may have ten (10) employer representatives from
+Central Table Agencies participate in the LMC. Two (2) AFSCME Staff and two (2) DAS
+Labor Relations Managers may also participate.
+
+The committee shall meet on a monthly basis for the first six (6) months after ratification
+and will reassess meeting frequency as needed. Parties shall send agenda items at least
+one (1) week prior to each meeting. LMC facilitation shall rotate between Parties. The
+party facilitating shall be responsible for finalizing and distributing the agenda. Parties
+may mutually agree to cancel LMC.
+
+Participants on the Committee will be on paid status and shall be reimbursed for
+authorized travel expenses when in-person meetings are mutually agreed to as per State
+Travel Policy. Agencies will not incur any overtime as a result of Committee meetings or
+travel. Flexing schedules will be allowed to avoid overtime.
+
+This Agreement becomes effective on the date of the last signature and expires June 30,
+2027.
+
+
+
+
+2025-2027 Oregon State Fire Marshal      86                 Collective Bargaining Agreement
+### LETTER OF AGREEMENT – ADMINISTRATIVE LEAVE/DUTY STATIONED AT
+                HOME INVESTIGATION COMMUNICATION
+
+This Agreement is between the State of Oregon, acting through its Department of
+Administrative Services (Employer) on behalf of all Agencies covered under the
+jurisdiction of the AFSCME Central Table (Agency) and AFSCME Council 75 (Union).
+
+When an employee is placed on administrative leave or duty stationed at home, the
+agency shall have a discussion with the employee regarding agency communication. The
+employee and agency will decide, by mutual agreement, on the frequency and the
+designee for agency check-ins with the employee. The agency shall meet the mutually
+agreed upon commitment during the duration the employee is on administrative leave or
+duty stationed. Either Party may request a change to that communication at any time.
+
+
+
+
+2025-2027 Oregon State Fire Marshal    87               Collective Bargaining Agreement
+### LETTER OF AGREEMENT – UNDERFILL DIFFERENTIAL
+
+
+This Agreement is between the State of Oregon, acting through its Department of
+Administrative Services (Employer), acting on behalf of all agencies in the executive
+branch of state government that have AFSCME agreements (Agencies) and AFSCME
+Council 75 (Union).
+
+This LOA supersedes existing language in the Agreements covered under the AFSCME
+Central Table regarding determining compensation for an employee in an underfill
+position.
+
+The Parties agree that:
+     Underfill Differential.
+     When the agency selects an employee to fill a higher-level classification position
+      as an underfill, the employee shall be notified in writing that they are an underfill,
+      provided with the reasons for the underfill, and informed of the requirements
+      needed to meet the minimum qualifications of the position’s classification.
+      A.       New Hire
+             i.      An agency appointing authority or management designee will
+                     conduct an internal assessment to determine the appropriate rate of
+                     pay in the employee’s base position upon hire. The agency’s
+                     appointing authority or management designee will then conduct an
+                     internal assessment to determine the appropriate dollar amount of
+                     the underfill differential. The assessment will be conducted using
+                     the work of a comparable character in the higher-level classification.
+            ii.      If the assessment results in a step equal to or below the employee’s
+                     current pay rate, the differential will be a dollar amount based on the
+                     next higher step in the new salary range. If that step provides an
+                     increase of less than two and five-tenths percent (2.5%), the agency
+                     will apply the next higher step in the new classification’s salary
+                     range.
+           iii.      If the assessment results in a step above the employee’s current pay
+                     rate, the agency will use the outcome of the assessment to
+                     determine the dollar amount of the differential. If this increase is still
+                     less than two-point five percent (2.5%), the agency use the next
+                     higher step in the new classification’s salary range to determine the
+                     dollar amount of the differential.
+           iv.       The differential will be adjusted due to changes to the base salary
+                     (e.g. COLA or step increase).
+            v.       Once the employee meets the minimum qualifications of the
+                     position, the Agency shall administratively move the employee to the
+                     higher classification and the underfill differential shall be
+                     removed. This action is not considered a reclassification.
+           vi.       When the employee is administratively moved to the higher position,
+                     the benefit service date remains unchanged.
+      B.       Current State Employee
+             i.      The agency’s appointing authority or management designee will
+                     conduct an internal assessment to determine the appropriate dollar
+
+2025-2027 Oregon State Fire Marshal        88                  Collective Bargaining Agreement
+                          amount of the underfill differential. The assessment will be
+                          conducted using the work of a comparable character in the higher-
+                          level classification.
+               ii.        If the assessment results in a step equal to or below the employee’s
+                          current pay rate, the differential will be a dollar amount based on the
+                          next higher step in the new salary range. If that step provides an
+                          increase of less than two and five-tenths percent (2.5%), the agency
+                          will apply the next higher step in the new classification’s salary
+                          range.
+              iii.        If the assessment results in a step above the employee’s current pay
+                          rate, the agency will use the outcome of the assessment to
+                          determine the dollar amount of the differential. If this increase is still
+                          less than two-point five percent (2.5%), the agency use the next
+                          higher step in the new classification’s salary range to determine the
+                          dollar amount of the differential.
+              iv.         The differential will be adjusted due to changes to the base salary
+                          (e.g. COLA or step increase).
+               v.         The employee’s benefit service date is set out six (6) months from
+                          the date of placement into the underfill position. The employee will
+                          be eligible for a step increase at the conclusion of the six months
+                          from the date of placement into the underfill and annually thereafter
+                          until they have reached top step in the higher classification’s salary
+                          range, consistent with the collective bargaining agreement.
+              vi.         Once the employee meets the minimum qualifications of the
+                          position, the Agency shall administratively move the employee to the
+                          higher classification and the underfill differential shall be
+                          removed. This action is not considered a reclassification.
+              vii.        The benefit service date shall remain the date determined by
+                          subsection (v).
+
+This Agreement is in effect upon ratification of the applicable local table Agreement and
+will remain in effect through June 30, 2027.
+
+
+
+
+2025-2027 Oregon State Fire Marshal             89                 Collective Bargaining Agreement
+### LETTER OF AGREEMENT – STRUCTURAL CHANGES TO PAY PRACTICES
+
+This Letter of Agreement is between the State of Oregon, acting through its Department
+of Administrative Services (Employer), and the AFSCME Council 75 (Union).
+
+The Parties agree to the following:
+      1.     Based on the timeline set out in this LOA, the State will implement the
+             following structural changes to the State’s pay practices:
+             a.     The State will pay employees utilizing a lag period (rather than
+                    forecasting hours).
+             b.     The State will pay FLSA non-exempt employees on an hourly basis.
+             c.     The State will transition all employees to bi-weekly pay periods.
+      2.     The current Workday configuration complies with the 2025-2027 Collective
+             Bargaining Agreement for the duration of the Agreement.
+      3.     During the term of the 2025-2027 contract, a joint labor-management
+             advisory committee will be established to discuss and make
+             recommendations to the Payroll Transformation Governance Committee.
+             The advisory committee shall be comprised of ten (10) members, with four
+             (4) AFSCME represented employees appointed by the Union, four (4)
+             management representatives, one (1) AFSCME staff and one (1) DAS State
+             Labor Relations Manager. The Union and State may have additional staff
+             work with the committee as needed.
+             a.     The advisory committee shall meet on a schedule it chooses, but no
+                    less frequently than once per month.
+             b.     Committee and workgroup members convened in accordance with
+                    the LOA will be on paid status and shall be reimbursed for authorized
+                    travel expenses as per State Travel Policy. Agencies will not incur
+                    any overtime as a result of committee meetings or travel. Flexing
+                    schedules will be allowed to avoid overtime.
+      4.     The advisory committee will be tasked with the following items:
+             a.     The committee will review the time entry interface and payslips, and
+                    make recommendations for user experience and clarity.
+             b.     The committee will preview and give feedback on the payroll training
+                    programs that are created for employees.
+             c.     The opportunity to participate as users to conduct testing during the
+                    testing phases of the project.
+             d.     Assist with planning, reviewing and advising on payroll related
+                    communications (including topics, types and frequency).
+             e.     Provide recommendations for employee payroll training (including
+                    topics, types and frequency), support, and technical assistance.
+             f.     Identify and create toolkits that include transition support resources
+                    available to employees at no cost, such as financial counseling
+                    services and planning resources.
+             g.     The advisory committee will develop a plan and recommended
+                    timeline for transitioning agencies whose workweek is not currently
+                    a Sunday to Saturday workweek to that workweek.
+             h.     The committee will identify the areas of the Collective Bargaining
+                    Agreement where the agreed upon structural changes are applied
+                    such as: pay dates, pay frequency, references to monthly salary
+
+2025-2027 Oregon State Fire Marshal      90                Collective Bargaining Agreement
+                        versus hourly pay, deductions, leave accruals, holiday proration,
+                        union dues, PEBB contributions, etc. This list is not exhaustive and
+                        may be expanded as the contract is reviewed by the committee in
+                        preparation of implementing the structural changes.               These
+                        recommendations will be shared with the union and state bargaining
+                        teams prior to the commencement of 2027-2029 successor
+                        negotiations.
+        5.       The Transformation Project team will provide the following to the advisory
+                 committee:
+                 a.     The list of finalized system requirements.
+                 b.     Monthly updates on project progress including, but not limited to:
+                        anticipated project schedule, milestones completed, and information
+                        on upcoming project work.
+                 c.     Independent Quality Management Status (IQMS) reports on a
+                        regular basis, but no less than quarterly.
+                 d.     Changes to Appendix A.
+        6.       Timely and Accurate Pay:
+                 a.     It is the Employer’s responsibility to ensure timely and accurate pay.
+                 b.     Employees are expected to prepare and present accurate and timely
+                        documentation of their time and attendance.
+                 c.     Supervisors must review all entries on the employee’s time record.
+                        The review should consider each time element reported as well as
+                        considering time elements not reported. If errors are detected on the
+                        time record, the supervisor must coordinate with the employee to
+                        correct the time record timely according to the payroll calendar.
+                 d.     An FLSA non-exempt employee’s FTE will remain the same with the
+                        transition from paying employees on a salaried basis to paying
+                        employees on an hourly basis.
+                 e.     All Managers/supervisors will be required to take an initial live
+                        training with Q and A on payroll entry, payroll approval, and how to
+                        read paystubs. These trainings will have no more than one hundred
+                        (100) people per training. They will be offered regularly and on an
+                        ongoing basis. Current employees will have the option to take these
+                        training sessions and will be allowed to retake them. All new
+                        employees will receive the training.
+                 f.     All payroll staff will receive a live training to ensure that payroll is
+                        being handled in a standard way statewide. Answers to the most
+                        frequently asked questions that represented and supervisory staff
+                        ask will be included in this training. This FAQ will also be posted with
+                        the payroll system for employees to access.
+                 g.     Employees will receive an example paystub and training on how to
+                        read the paystub and how to enter their time.
+                 h.     There will be a payroll system assistance team accessible by phone
+                        and email that will provide support to phone calls and emails within
+                        twenty-four (24) hours.
+        7.       Transition support:
+                 a.     For a limited period of six (6) months prior to the transition through
+                        six (6) months after the transition employees may utilize their existing
+                        pre-retirement planning leave to participate in financial counseling
+
+2025-2027 Oregon State Fire Marshal          91                 Collective Bargaining Agreement
+                       through EAP or to make any necessary financial changes such as
+                       contacting debtors to adjust payment due dates or to make changes
+                       to current payroll deductions.
+              b.       During the transition period (one (1) month prior to the transition date
+                       to three (3) months after the transition date), the State will maintain
+                       a rapid payroll error response system. Underpayments will be
+                       resolved pursuant to existing CBA language.
+    8. Transition timeframe:
+       •      July 1, 2027 – Final Full Month Pay (for June 2027)
+       •      July 16, 2027 – Pay Period (July 1 - July 3) Average sixteen (16) hours for
+              M-F employee
+       •      July 30, 2027 – Pay Period (July 4 - July 17) eighty (80) hours for FT
+              employee
+       •      August 13, 2027 – Pay Period (July 18 – July 31) eighty (80) hours for FT
+              employee
+       •      August 27, 2027 – Pay Period (August 1 - August 14) eighty (80) hours for
+              FT employee
+       •      September 10, 2027 - Pay Period (August 15 - August 28) eighty (80) hours
+              for FT employee
+       •      September 24, 2027 – Pay Period (August 29 – September 11) eighty (80)
+              hours for FT employee
+       •      October 8, 2027 – Pay Period (September 12 – September 25) eighty (80)
+              hours for FT employee
+       •      October 22, 2027 - Pay Period (September 26 – October 09) eighty (80)
+              hours for FT employee
+       •      November 05, 2027 – Pay Period (October 10 – October 23) eighty (80)
+              hours for FT employee
+       •      November 19, 2027 - Pay Period (October 24 – November 06) eighty (80)
+              hours for FT employee
+       •      December 03, 2027 - Pay Period (November 07 – November 20) eighty (80)
+              hours for FT employee
+       •      December 17, 2027 - Pay Period (November 21 – December 04) eighty (80)
+              hours for FT employee
+       •      December 31, 2027 - Pay Period (December 05 – December 18) eighty (80)
+              hours for FT employee
+              If it is determined that the transition cannot occur within the timelines
+              outlined above, the State will notify the Union of the delay as early as
+              possible, but no later than four (4) months prior to July 1, 2027. The Parties
+              will meet and discuss the new timelines.
+       9.     Transition Support:
+               a.      One-time allotment of paid leave:
+                     i.       Eligible employees will be granted a one-time allotment of
+                              forty (40) hours of paid leave ninety (90) days prior to the
+                              implementation date of the payroll transition.
+                              1.      Employees may choose to use the leave as paid time
+                                      off or request to cash the leave out. Requests and
+                                      approvals to use the paid time for leave purposes will
+
+
+
+2025-2027 Oregon State Fire Marshal        92                  Collective Bargaining Agreement
+                                        follow all applicable contract language related to the
+                                        use of vacation
+                               2.       Within nine (9) months of receiving the forty (40) hours
+                                        of paid leave, employees may elect to cash the leave
+                                        out in full or in smaller increments, not to exceed two
+                                        (2) cashouts during the nine (9) month period.
+                               3.       The forty (40) hours of paid leave will be given in a
+                                        distinct bank of leave separate from an employee’s
+                                        vacation bank. The distinct bank of leave will not
+                                        impact an employee’s vacation accrual limit, the ability
+                                        to carry vacation when transferring to another Agency
+                                        or the amount of vacation an employee may cash out
+                                        upon separation.
+                               4.       All paid leave hours granted in this Agreement that are
+                                        not used will be cashed out to the employee one (1)
+                                        year after they were granted.
+                 b.      One-time Payment:
+                       i.      A one-time payment of one thousand seven hundred ($1,700)
+                               dollars will be issued to eligible employees. The one-time
+                               payment will be pro-rated for part-time and seasonal
+                               employees based on their FTE in the system.
+                      ii.      Eligible employees will receive the one-time payment on the
+                               first (1st) paycheck issued on a bi-weekly basis, unless the first
+                               (1st) paycheck issued on a bi-weekly basis occurs after July 1,
+                               2027. If the first (1st) paycheck issued on a bi-weekly basis
+                               occurs after July 1, 2027, the one-time payment will be issued
+                               on the last monthly paycheck in the 2025-2027 biennium.
+                     iii.      Should the State provide any additional payments to any other
+                               State bargaining unit related to a grievance resolution over the
+                               Workday core calculation, the State shall extend such
+                               additional payments to AFSCME members.
+        10.      Transition details:
+                 a.      An employee’s hourly rate will be determined by the following:
+                         Month salary * 12/2080 hours = hourly rate of pay
+                 b.      Time entry in the system is intended for payroll and leave reporting
+                         purposes.
+
+
+
+
+2025-2027 Oregon State Fire Marshal           93                 Collective Bargaining Agreement
+### APPENDIX A - SALARY ADMINISTRATION EXAMPLES
+
+Salary on Promotion or Upward Reclassification
+
+If the employee’s benefit service date falls within forty-five (45) calendar days of the start
+date of their new position and they have not yet reached the top step of their current
+range, the promotion will be processed as if the employee had already reached their
+benefit service date*.
+
+        EXAMPLE: An employee at Step 6 in their current range and has a benefit eligibility
+        date of July 1 and has a start date in their new position of June 1. The employee's
+        current rate of pay for determining their new promotion pay rate will be based off
+        of Step 7 of their current range.
+
+Salary on Demotion or Downward Reclassification
+
+If the employee’s current pay falls within the new classification’s salary range but the
+assessment results in a step below their current pay, the agency will maintain the
+employee’s current pay. If this places the employee off-step in the new classification, the
+employee will advance to the next higher salary step at their next benefit service date,
+followed by an additional step increase — not to exceed the top step of the range*.
+
+        EXAMPLE: An employee's current rate of pay is between Step 4 and Step 5 of
+        their new salary range - the employee will retain their current rate of pay and then
+        will advance to Step 6 on their next benefit service date.
+
+
+
+
+2025-2027 Oregon State Fire Marshal        94                 Collective Bargaining Agreement
+### APPENDIX B - CLASSIFICATION PLAN
+
+
+ Classification                       SR         Learning & Development Specialist 28
+ Accountant 1                         23         2
+ Accountant 2                         27         Office Specialist 1               13C
+
+ Accountant 3                         30         Office Specialist 2                     15C
+ Accounting Technician                19         Operations & Policy Analyst 1           23
+
+ Administrative Specialist 1          17         Operations & Policy Analyst 2           27
+
+ Administrative Specialist 2     20              Operations & Policy Analyst 3           30
+ Communications System Analyst 1 23              Operations & Policy Analyst 4           32
+
+ Communications System Analyst 2 25              Payroll Analyst                         21
+
+ Compliance Specialist 1              21         Procurement & Contract Specialist       23
+                                                 1
+ Compliance Specialist 2              25
+                                                 Procurement & Contract Specialist       27
+ Compliance Specialist 3              29         2
+ Deputy State Fire Marshal            31T        Procurement & Contract Specialist       29
+ Deputy State Fire Marshal/Entry      24         3
+ Environmental Specialist 1           20         Procurement And Contract                19
+                                                 Assistant
+ Environmental Specialist 2           23
+                                                 Program Analyst 1                       23
+ Environmental Specialist 3           26
+                                                 Program Analyst 2                       27
+ Executive Support Specialist 2       20
+                                                 Program Analyst 3                       29
+ Fiscal Analyst 1                     23
+                                                 Program Analyst 4                       31
+ Fiscal Analyst 2                     27
+                                                 Public Affairs Specialist 1             25
+ Fiscal Analyst 3                     30
+                                                 Public Affairs Specialist 2             29
+ Information Systems Specialist 1     17
+                                                 Public Affairs Specialist 3             31
+ Information Systems Specialist 2     21
+                                                 Public Safety Training Specialist 2     30
+ Information Systems Specialist 3     24
+                                                 Research Analyst 1                      19
+ Information Systems Specialist 4     25
+                                                 Research Analyst 2                      23
+ Information Systems Specialist 5     28
+                                                 Research Analyst 3                      26
+ Information Systems Specialist 6     29
+                                                 Research Analyst 4                      30
+ Information Systems Specialist 7     31
+                                                 Supply Specialist 2                     20
+ Information Systems Specialist 8     34
+                                                 Word Processing Technician 3            15
+ Learning & Development Specialist 24
+ 1
+
+
+
+
+2025-2027 Oregon State Fire Marshal         95               Collective Bargaining Agreement
+### APPENDIX C - SALARY SCHEDULE – SALARY SCHEDULES
+
+                                         SALARY SCHEDULE AS OF JULY 1, 2025
+    SR       Step 1     Step 2        Step 3   Step 4   Step 5    Step 6     Step 7     Step 8     Step 9    Step 10
+   13C                                         3,649    3,793     3,951       4,116      4,294     4,496       4,715
+    15                                3,649    3,793    3,951     4,116       4,294      4,496     4,715       4,942
+   15C                                3,720    3,872    4,034     4,206       4,394      4,605     4,829       5,063
+    17                                3,951    4,116    4,297     4,496       4,715      4,942     5,177       5,415
+   17I                                4,082    4,262    4,461     4,671       4,886      5,112     5,353       5,602
+    19                                4,294    4,496    4,715     4,942       5,170      5,415     5,690       5,960
+    20                                4,496    4,715    4,942     5,170       5,415      5,690     5,960       6,243
+    21                                4,715    4,942    5,170     5,415       5,690      5,960     6,243       6,545
+   21I                                4,763    4,982    5,217     5,464       5,715      5,987     6,265       6,556
+    23        4,715      4,942        5,170    5,415    5,690     5,960       6,243      6,545     6,861       7,200
+    24        4,942      5,170        5,415    5,690    5,960     6,243       6,545      6,861     7,200       7,557
+   24I        4,974      5,209        5,459    5,708    5,975     6,258       6,552      6,860     7,183       7,523
+    25        5,170      5,415        5,690    5,960    6,243     6,545       6,861      7,200     7,557       7,918
+   25I        5,398      5,650        5,912    6,193    6,483     6,788       7,106      7,440     7,790       8,157
+    26        5,415      5,690        5,960    6,243    6,545     6,861       7,200      7,557     7,918       8,309
+    27        5,690      5,960        6,243    6,545    6,861     7,201       7,557      7,918     8,309       8,707
+    28        5,960      6,243        6,545    6,861    7,200     7,557       7,918      8,309     8,707       9,138
+   28I        6,023      6,310        6,603    6,916    7,241     7,580       7,939      8,312     8,704       9,113
+    29        6,243      6,545        6,861    7,200    7,557     7,918       8,309      8,707     9,138       9,587
+   29I        6,444      6,744        7,063    7,396    7,745     8,107       8,489      8,892     9,307       9,742
+    30        6,545      6,861        7,200    7,557    7,918     8,309       8,707      9,138     9,587      10,063
+    31        6,861      7,200        7,557    7,918    8,309     8,707       9,138      9,586     10,063     10,561
+   31I        7,135      7,470        7,822    8,189    8,575     8,980       9,402      9,843     10,302     10,784
+   31T        8,707      9,138        9,568    10,021   10,506    11,016
+    32        7,200      7,557        7,918    8,309    8,707     9,138      9,586      10,063     10,561     11,055
+   34I        8,138      8,523        8,925    9,350    9,784     10,251     10,740     11,248     11,782     12,340
+
+ Where the system rates and the rates printed in the CBA differ by two dollars ($2.00) or less per month, the system
+ shall be considered the official rate and shall supersede the rate printed in the CBA.
+ Note: Range Option A will be calculated using a reverse differential and rates will not be specifically listed in the
+ Agreement.
+
+
+
+
+2025-2027 Oregon State Fire Marshal                88                   Collective Bargaining Agreement
+                                      SALARY SCHEDULE AS OF FEBRUARY 1, 2026
+    SR       Step 1     Step 2        Step 3   Step 4   Step 5    Step 6     Step 7     Step 8      Step 9     Step
+                                                                                                                10
+   13C                                         3740     3888       4050       4219       4401       4608      4833
+    15                                3740     3888     4050       4219       4401       4608       4833      5066
+   15C                                3813     3969     4135       4311       4504       4720       4950      5190
+    17                                4050     4219     4404       4608       4833       5066       5306      5550
+   17I                                4184     4369     4573       4788       5008       5240       5487      5742
+    19                                4401     4608     4833       5066       5299       5550       5832      6109
+    20                                4608     4833     5066       5299       5550       5832       6109      6399
+    21                                4833     5066     5299       5550       5832       6109       6399      6709
+   21I                                4882     5107     5347       5601       5858       6137       6422      6720
+    23        4833       5066         5299     5550     5832       6109       6399       6709       7033      7380
+    24        5066       5299         5550     5832     6109       6399       6709       7033       7380      7746
+   24I        5098       5339         5595     5851     6124       6414       6716       7032       7363      7711
+    25        5299       5550         5832     6109     6399       6709       7033       7380       7746      8116
+   25I        5533       5791         6060     6348     6645       6958       7284       7626       7985      8361
+    26        5550       5832         6109     6399     6709       7033       7380       7746       8116      8517
+    27        5832       6109         6399     6709     7033       7381       7746       8116       8517      8925
+    28        6109       6399         6709     7033     7380       7746       8116       8517       8925      9366
+   28I        6174       6468         6768     7089     7422       7770       8137       8520       8922      9341
+    29        6399       6709         7033     7380     7746       8116       8517       8925       9366      9827
+   29I        6605       6913         7240     7581     7939       8310       8701       9114       9540      9986
+    30        6709       7033         7380     7746     8116       8517       8925       9366       9827      10315
+    31        7033       7380         7746     8116     8517       8925       9366       9826       10315     10825
+   31I        7313       7657         8018     8394     8789       9205       9637       10089      10560     11054
+   31T        8925       9366         9807     10272    10769      11291
+    32        7380       7746         8116     8517     8925       9366       9826       10315      10825     11331
+   34I        8341       8736         9148     9584     10029      10507      11009      11529      12077     12649
+
+ Where the system rates and the rates printed in the CBA differ by two dollars ($2.00) or less per month, the system
+ shall be considered the official rate and shall supersede the rate printed in the CBA.
+ Note: Range Option A will be calculated using a reverse differential and rates will not be specifically listed in the
+ Agreement.
+
+
+
+
+2025-2027 Oregon State Fire Marshal                89                    Collective Bargaining Agreement
+                                       SALARY SCHEDULE AS OF JANUARY 1, 2027
+    SR       Step 1     Step 2        Step 3   Step 4    Step 5   Step 6      Step 7     Step 8     Step 9     Step
+                                                                                                                10
+   13C                                          3890      4044      4212        4388       4577       4792     5026
+    15                                 3890     4044      4212      4388        4577       4792       5026     5269
+   15C                                 3966     4128      4300      4483        4684       4909       5148     5398
+    17                                 4212     4388      4580      4792        5026       5269       5518     5772
+   17I                                 4351     4544      4756      4980        5208       5450       5706     5972
+    19                                 4577     4792      5026      5269        5511       5772       6065     6353
+    20                                 4792     5026      5269      5511        5772       6065       6353     6655
+    21                                 5026     5269      5511      5772        6065       6353       6655     6977
+   21I                                 5077     5311      5561      5825        6092       6382       6679     6989
+    23        5026       5269          5511     5772      6065      6353        6655       6977       7314     7675
+    24        5269       5511          5772     6065      6353      6655        6977       7314       7675     8056
+   24I        5302       5553          5819     6085      6369      6671        6985       7313       7658     8019
+    25        5511       5772          6065     6353      6655      6977        7314       7675       8056     8441
+   25I        5754       6023          6302     6602      6911      7236        7575       7931       8304     8695
+    26        5772       6065          6353     6655      6977      7314        7675       8056       8441     8858
+    27        6065       6353          6655     6977      7314      7676        8056       8441       8858     9282
+    28        6353       6655          6977     7314      7675      8056        8441       8858       9282     9741
+   28I        6421       6727          7039     7373      7719      8081        8462       8861       9279     9715
+    29        6655       6977          7314     7675      8056      8441        8858       9282       9741    10220
+   29I        6869       7190          7530     7884      8257      8642        9049       9479       9922    10385
+    30        6977       7314          7675     8056      8441      8858        9282       9741      10220    10728
+    31        7314       7675          8056     8441      8858      9282        9741      10219      10728    11258
+   31I        7606       7963          8339     8730      9141      9573       10022      10493      10982    11496
+   31T        9282       9741         10199    10683     11200     11743
+    32        7675       8056          8441     8858      9282      9741       10219      10728      11258    11784
+   34I        8675       9085          9514     9967     10430     10927       11449      11990      12560    13155
+
+ Where the system rates and the rates printed in the CBA differ by two dollars ($2.00) or less per month, the
+ system shall be considered the official rate and shall supersede the rate printed in the CBA.
+ Note: Range Option A will be calculated using a reverse differential and rates will not be specifically listed in the
+ Agreement.
+
+
+
+
+2025-2027 Oregon State Fire Marshal                 90                     Collective Bargaining Agreement
+                                  SALARY SCHEDULE AS OF FEBRUARY 1, 2027
+   SR       Step      Step      Step    Step      Step     Step      Step     Step      Step      Step     Step
+              1         2         3       4         5        6         7        8         9        10       11
+  13C                                  3890      4044      4212     4388      4577      4792     5026       5269
+   15                          3890    4044      4212      4388     4577      4792      5026     5269       5518
+  15C                          3966    4128      4300      4483     4684      4909      5148     5398       5640
+   17                          4212    4388      4580      4792     5026      5269      5518     5772       6065
+  17I                          4351    4544      4756      4980     5208      5450      5706     5972       6248
+   19                          4577    4792      5026      5269     5511      5772      6065     6353       6655
+   20                          4792    5026      5269      5511     5772      6065      6353     6655       6977
+   21                          5026    5269      5511      5772     6065      6353      6655     6977       7314
+  21I                          5077    5311      5561      5825     6092      6382      6679     6989       7316
+   23       5026      5269     5511    5772      6065      6353     6655      6977      7314     7675       8056
+   24       5269      5511     5772    6065      6353      6655     6977      7314      7675     8056       8441
+  24I       5302      5553     5819    6085      6369      6671     6985      7313      7658     8019       8396
+   25       5511      5772     6065    6353      6655      6977     7314      7675      8056     8441       8858
+  25I       5754      6023     6302    6602      6911      7236     7575      7931      8304     8695       9103
+   26       5772      6065     6353    6655      6977      7314     7675      8056      8441     8858       9282
+   27       6065      6353     6655    6977      7314      7676     8056      8441      8858     9282       9741
+   28       6353      6655     6977    7314      7675      8056     8441      8858      9282     9741      10220
+  28I       6421      6727     7039    7373      7719      8081     8462      8861      9279     9715      10172
+   29       6655      6977     7314    7675      8056      8441     8858      9282      9741     10220     10728
+  29I       6869      7190     7530    7884      8257      8642     9049      9479      9922     10385     10873
+   30       6977      7314     7675    8056      8441      8858     9282      9741      10220    10728     11258
+   31       7314      7675     8056    8441      8858      9282     9741      10219     10728    11258     11784
+  31I       7606      7963     8339    8730      9141      9573     10022     10493     10982    11496     12036
+  31T       9282      9741     10199   10683     11200     11743    12309
+   32       7675      8056     8441    8858      9282      9741     10219     10728     11258    11784     11258
+  34I       8675      9085     9514    9967      10430     10927    11449     11990     12560    13155     13778
+
+ Where the system rates and the rates printed in the CBA differ by two dollars ($2.00) or less per month, the
+ system shall be considered the official rate and shall supersede the rate printed in the CBA.
+ Note: Range Option A will be calculated using a reverse differential and rates will not be specifically listed in
+ the Agreement.
+
+
+
+
+2025-2027 Oregon State Fire Marshal                91                    Collective Bargaining Agreement
+                                      Signature Page – AFSCME - Oregon State Fire Marshal
+                                                   Signed this 18th day of August, 2025 at Salem Oregon
+FOR THE STATE OF OREGON                                                        FOR THE AMERICAN FEDERATION
+                                                                               OF STATE, COUNTY AND MUNICIPAL
+                                                                               EMPLOYEES
+
+
+
+X
+ B e t s y Im h o l t
+ D A S D ir e c to r                                                            Teresa Hofstrand
+                                                                                AFSCME Council Representative
+
+
+X
+ Joh n N ees
+ D A S - L R U C h ie f N e g o tia to r                                        Erik Rau
+                                                                                Local 3765 President/Team Member
+
+
+X
+ D e n n is L e e
+ O S F M - B a r g a in in g T e a m M e m b e r                                Christian Paul
+                                                                                Local 3765 Bargaining Team Member
+
+
+X
+ T h e r e s a P ie tz o ld
+ O S F M - B a r g a in in g T e a m M e m b e r                                Michelle Slay
+                                                                                Local 3765 Bargaining Team Member
+
+
+X
+ C h a d H a w k in s
+ O S F M - B a r g a in in g T e a m M e m b e r                                Verina Manriquez
+                                                                                Local 3765 Bargaining Team Member
+
+
+X
+ S heri H ubert
+ O S F M - B a r g a in in g T e a m M e m b e r                                Travis Lock
+                                                                                Local 3765 Bargaining Team Member
+
+
+X        A m b e r C ro s s
+ A m ber C ross
+ O S F M - B a r g a in in g T e a m M e m b e r
+Department of Administrative Services
+Chief Human Resources Office
+Labor Relations Unit
+155 Cottage Street NE
+Salem, OR 97301-3971
+LRU@das.oregon.gov
+
+
+The official version of this Agreement is held by the Department of Administrative Services Labor Relations
+Unit on its electronic files at the website below. The Department of Administrative Services does not
+recognize any other copies or publications of this Agreement.
+Electronic version of the Agreement located at:
+http://www.oregon.gov/das/HR/Pages/LRU.aspx
+
+
+
+2025-2027 Oregon State Fire Marshal              93                    Collective Bargaining Agreement
+

@@ -103,7 +103,7 @@ This Agreement sets forth the establishment of an equitable and peaceful procedu
 resolution of differences and conditions affecting the fringe benefits and other conditions of
 employment.
 
-                                          ARTICLE 1 – DEFINITIONS
+### ARTICLE 1 – DEFINITIONS
 
 1.1      “Emergency” is a situation involving actual or potential injury to persons or property that
          cannot be remedied within normal work schedules. The declaration by a responsible
@@ -141,7 +141,7 @@ Washington County/Teamsters (2022-2026)                                         
          all aspects of the work involved in an efficient and safe manner, in the sole discretion of
          the County.
 
-                                          ARTICLE 2 – RECOGNITION
+### ARTICLE 2 – RECOGNITION
 
 
 2.1      The County recognizes the Union as the sole and exclusive collective bargaining agent
@@ -191,7 +191,7 @@ Washington County/Teamsters (2022-2026)                                         
          than six (6) consecutive months in a calendar year.
 
 
-                                  ARTICLE 3 – SCOPE OF AGREEMENT
+### ARTICLE 3 – SCOPE OF AGREEMENT
 
 
 3.1      The parties acknowledge that during the negotiations which preceded this Agreement
@@ -213,7 +213,7 @@ Washington County/Teamsters (2022-2026)                                         
          otherwise mutually agreed.
 
 
-                                  ARTICLE 4 – MANAGEMENT RIGHTS
+### ARTICLE 4 – MANAGEMENT RIGHTS
 
 
 4.1      The Union recognizes and agrees that responsibility for management of the County and
@@ -236,7 +236,7 @@ Washington County/Teamsters (2022-2026)                                         
 
 
 Washington County/Teamsters (2022-2026)                                                              3
-                                          ARTICLE 5 – DUES DEDUCTION
+### ARTICLE 5 – DUES DEDUCTION
 
 
 5.1      The County agrees to honor and abide by the terms of any authorization agreement
@@ -266,7 +266,7 @@ Washington County/Teamsters (2022-2026)                                         
          error.
 
 
-                      ARTICLE 6 – EQUAL EMPLOYMENT OPPORTUNITY
+### ARTICLE 6 – EQUAL EMPLOYMENT OPPORTUNITY
 
 
 6.1      The County and the Union agree that the provisions of this Agreement shall be applied
@@ -291,7 +291,7 @@ Washington County/Teamsters (2022-2026)                                         
          employees.
 
 
-                                          ARTICLE 7 – HOURS OF WORK
+### ARTICLE 7 – HOURS OF WORK
 
 
 7.1      Regular.
@@ -456,7 +456,7 @@ Washington County/Teamsters (2022-2026)                                         
          position or neutral in both appearance and practice.
 
 
-                                          ARTICLE 8 – WAGES
+### ARTICLE 8 – WAGES
 
 
 Administration of Salary Schedules; the following rules shall govern the use of the salary ranges
@@ -581,7 +581,7 @@ Washington County/Teamsters (2022-2026)                                         
          returned to the appropriate list and/or to the incumbent’s former position in like manner.
 
 
-                                          ARTICLE 9 – OVERTIME
+### ARTICLE 9 – OVERTIME
 
          For the purposes of Article 9, the following definitions will apply:
 
@@ -822,7 +822,7 @@ Washington County/Teamsters (2022-2026)                                         
                                   given administrative leave for all unworked portions of that shift.
 
 
-                   ARTICLE 10 – CURTAILMENT OF NORMAL OPERATIONS
+### ARTICLE 10 – CURTAILMENT OF NORMAL OPERATIONS
 
 
 10.1
@@ -846,7 +846,7 @@ Washington County/Teamsters (2022-2026)                                         
          10.1.3         This Article does not apply to overtime work.
 
 
-                         ARTICLE 11 – HIGHER CLASSIFICATION WORK
+### ARTICLE 11 – HIGHER CLASSIFICATION WORK
 
 
 11.1     Except for on-the-job training purposes, whenever an employee is required to perform
@@ -937,7 +937,7 @@ Washington County/Teamsters (2022-2026)                                         
                         for lack of work or for medical reasons, or retire due to medical reasons.
 
 
-                                          ARTICLE 12 – SENIORITY
+### ARTICLE 12 – SENIORITY
 
 
 12.1     Determination.
@@ -1052,7 +1052,7 @@ Washington County/Teamsters (2022-2026)                                         
                         leave or active military duty.
 
 
-                                          ARTICLE 13 – PAID HOLIDAYS
+### ARTICLE 13 – PAID HOLIDAYS
 
 
 13.1     Holidays.
@@ -1107,7 +1107,7 @@ Washington County/Teamsters (2022-2026)                                         
          his/her sick or vacation leave accumulation.
 
 
-                                      ARTICLE 14 – VACATION LEAVE
+### ARTICLE 14 – VACATION LEAVE
 
 
 14.1     Accrual of Vacation.
@@ -1171,7 +1171,7 @@ Washington County/Teamsters (2022-2026)                                         
          the same improvements.
 
 
-                                          ARTICLE 15 – SICK LEAVE
+### ARTICLE 15 – SICK LEAVE
 
 
 15.1     Accrual.
@@ -1219,7 +1219,7 @@ Washington County/Teamsters (2022-2026)                                         
                         County policies.
 
 
-                                          ARTICLE 16 – OTHER LEAVES
+### ARTICLE 16 – OTHER LEAVES
 
 
 16.1     Leave of Absence.
@@ -1306,7 +1306,7 @@ Washington County/Teamsters (2022-2026)                                         
                         eight (8) hours to attend funeral services for a fellow County employee.
 
 
-                             ARTICLE 17 – WORKERS’ COMPENSATION
+### ARTICLE 17 – WORKERS’ COMPENSATION
 
 
 17.1     Coverage.
@@ -1383,7 +1383,7 @@ Washington County/Teamsters (2022-2026)                                         
 
 
 Washington County/Teamsters (2022-2026)                                                              27
-                                          ARTICLE 18 – PHYSICAL EXAM
+### ARTICLE 18 – PHYSICAL EXAM
 
 
 18.1     Employees covered by this Agreement may be required by the County to undergo an
@@ -1395,7 +1395,7 @@ Washington County/Teamsters (2022-2026)                                         
          employee upon written request.
 
 
-                                   ARTICLE 19 – HEALTH INSURANCE
+### ARTICLE 19 – HEALTH INSURANCE
 
 
 19.1     Medical Insurance.
@@ -1497,7 +1497,7 @@ Washington County/Teamsters (2022-2026)                                         
                         of the plan provided for in this Agreement.
 
 
-                                          ARTICLE 20 – RETIREMENT
+### ARTICLE 20 – RETIREMENT
 
 
 20.1     The County agrees to maintain the existing Retirement Plan as a member of the Public
@@ -1512,7 +1512,7 @@ Washington County/Teamsters (2022-2026)                                         
          employees, bargaining unit employees will receive the same benefit.
 
 
-                                            ARTICLE 21 – TOOLS
+### ARTICLE 21 – TOOLS
 
 
 21.1     The County shall furnish all tools necessary for the employees to perform his/her duties
@@ -1529,7 +1529,7 @@ Washington County/Teamsters (2022-2026)                                         
 
 
 Washington County/Teamsters (2022-2026)                                                              30
-                                ARTICLE 22 – PROTECTIVE CLOTHING
+### ARTICLE 22 – PROTECTIVE CLOTHING
 
 
 22.1     Personal Protective Equipment (PPE).
@@ -1578,7 +1578,7 @@ Washington County/Teamsters (2022-2026)                                         
          has not received such allowance during the prior three months.
 
 
-                                          ARTICLE 23 – SAFETY
+### ARTICLE 23 – SAFETY
 
 
 23.1     The County will exert every reasonable effort to provide and maintain safe working
@@ -1604,7 +1604,7 @@ Washington County/Teamsters (2022-2026)                                         
          to what constitutes such a hazardous condition when the question arises.
 
 
-          ARTICLE 24 – LEARNING PLAN AND PERFORMANCE ASSESSMENT
+### ARTICLE 24 – LEARNING PLAN AND PERFORMANCE ASSESSMENT
 
 
 24.1     Employee Learning Plan and Performance Assessment will continue in accordance with
@@ -1623,7 +1623,7 @@ Washington County/Teamsters (2022-2026)                                         
 
 
 Washington County/Teamsters (2022-2026)                                                            32
-                                          ARTICLE 25 – UNION BUSINESS
+### ARTICLE 25 – UNION BUSINESS
 
 
 25.1     The County agrees that accredited representatives of the Union, upon reasonable and
@@ -1780,7 +1780,7 @@ Washington County/Teamsters (2022-2026)                                         
          Each party may have at least two (2) representatives at such meeting.
 
 
-                             ARTICLE 26 – DISCIPLINE AND DISCHARGE
+### ARTICLE 26 – DISCIPLINE AND DISCHARGE
 
 
 26.1     Discipline.
@@ -1830,7 +1830,7 @@ Washington County/Teamsters (2022-2026)                                         
          discharge.
 
 
-                                      ARTICLE 27 – PERSONNEL FILE
+### ARTICLE 27 – PERSONNEL FILE
 
 
 27.1     Each employee shall have the right, upon request, to review and obtain, at his/her own
@@ -1849,7 +1849,7 @@ Washington County/Teamsters (2022-2026)                                         
          a Union official and shall have the right to call witnesses on his/her behalf.
 
 
-                                ARTICLE 28 – GRIEVANCE PROCEDURE
+### ARTICLE 28 – GRIEVANCE PROCEDURE
 
 
 28.1     Any grievance or dispute which may arise between the parties regarding the application,
@@ -1926,7 +1926,7 @@ Washington County/Teamsters (2022-2026)                                         
 29.3     The time periods described in this article shall be suspended for the duration of an
          emergency.
 
-                                 ARTICLE 29 – SPECIAL CONFERENCES
+### ARTICLE 29 – SPECIAL CONFERENCES
 
 
 29.1     Special conferences for important matters not addressed in this Agreement will be
@@ -1945,7 +1945,7 @@ Washington County/Teamsters (2022-2026)                                         
          Union to address matters under the contract.
 
 
-                        ARTICLE 30 – STRIKES AND LOCKOUTS BARRED
+### ARTICLE 30 – STRIKES AND LOCKOUTS BARRED
 
 
 30.1     There shall be no lockouts on the part of the County or suspension of work on the part of
@@ -2106,7 +2106,7 @@ Washington County/Teamsters (2022-2026)                                         
 
 
 Washington County/Teamsters (2022-2026)                       44
-                                          Memorandum of Understanding
+### Memorandum of Understanding
                                                    Between
                                               Washington County
                                                     And
@@ -2209,7 +2209,7 @@ subject to management’s ability to find a suitable alternate to take that pers
 
 
 Washington County/Teamsters (2022-2026)                                                              46
-                                      Memorandum of Understanding
+### Memorandum of Understanding
                                   Road Maintenance Worker Classifications
 
 This Memorandum of Understanding (the “MOU”) between Teamsters Local 223 (the “Union”)

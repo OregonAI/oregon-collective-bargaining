@@ -396,7 +396,7 @@ PREAMBLE                                                                        
 
 
 
-                                         ARTICLE 1
+### ARTICLE 1
                                         RECOGNITION
 
 Section 1 – Recognition
@@ -424,7 +424,7 @@ unforeseen circumstances arise that require their temporary assignment.
 
 
 
-ARTICLE 1
+### ARTICLE 1
 RECOGNITION                                                                              11 of 92
                                                                              AFSCME Agreement
                                                                                     2024-2027
@@ -432,7 +432,7 @@ RECOGNITION                                                                     
 
 
 
-                                       ARTICLE 2
+### ARTICLE 2
                                    MANAGEMENT RIGHTS
 
 Section 1 – Retention of Rights
@@ -477,7 +477,7 @@ of this Agreement.
 
 
 
-ARTICLE 2
+### ARTICLE 2
 MANAGEMENT RIGHTS                                                                         12 of 92
                                                                           AFSCME Agreement
                                                                                  2024-2027
@@ -485,7 +485,7 @@ MANAGEMENT RIGHTS                                                               
 
 
 
-                                     ARTICLE 3
+### ARTICLE 3
                              DEDUCTION OF DUES AND FEES
 
 Section 1 – Deduction of Dues and Fees
@@ -530,7 +530,7 @@ Section 2 – Deduction Transmittal/Hold Harmless
        defense to the UNION. Reasonable costs incurred in the defense of the COUNTY by the
        UNION in any legal action or proceeding brought against the COUNTY for implementing
 
-ARTICLE 3
+### ARTICLE 3
 DEDUCTION OF DUES AND FEES                                                             13 of 92
                                                                             AFSCME Agreement
                                                                                    2024-2027
@@ -572,7 +572,7 @@ authorization forms upon request.
 
 
 
-ARTICLE 3
+### ARTICLE 3
 DEDUCTION OF DUES AND FEES                                                               14 of 92
                                                                            AFSCME Agreement
                                                                                   2024-2027
@@ -580,7 +580,7 @@ DEDUCTION OF DUES AND FEES                                                      
 
 
 
-                                        ARTICLE 4
+### ARTICLE 4
                                        UNION RIGHTS
 
 Section 1 – Union Activity
@@ -625,7 +625,7 @@ Section 1 – Union Activity
 
       (1) An employee, but not more than two (2) at any one time, nor more than one (1) from
           any department, who accepts an official position with the UNION may, if no serious
-ARTICLE 4
+### ARTICLE 4
 UNION RIGHTS                                                                            15 of 92
                                                                               AFSCME Agreement
                                                                                      2024-2027
@@ -677,7 +677,7 @@ Section 2 – PECBA Requests for Information
        information related to disciplinary matters involving a UNION represented employee, the
        COUNTY shall provide the UNION with an electronic copy of the final investigation
        report relied on by the COUNTY, including supporting documentation, at no charge to
-ARTICLE 4
+### ARTICLE 4
 UNION RIGHTS                                                                                16 of 92
                                                                               AFSCME Agreement
                                                                                      2024-2027
@@ -729,7 +729,7 @@ Section 5 – Protection of Rights
        subject exclusively to the applicable Oregon Revised Statutes and Oregon
        Administrative Procedures.
 
-ARTICLE 4
+### ARTICLE 4
 UNION RIGHTS                                                                               17 of 92
                                                                             AFSCME Agreement
                                                                                    2024-2027
@@ -752,7 +752,7 @@ representatives to meet with new employees on paid time.
 
 
 
-ARTICLE 4
+### ARTICLE 4
 UNION RIGHTS                                                                             18 of 92
                                                                                AFSCME Agreement
                                                                                       2024-2027
@@ -760,7 +760,7 @@ UNION RIGHTS                                                                    
 
 
 
-                                         ARTICLE 5
+### ARTICLE 5
                                  DISCIPLINE AND DISCHARGE
 
 Section 1 – Causes for Discipline
@@ -808,7 +808,7 @@ Section 1 – Causes for Discipline
        conducted which may result in discipline, the Department will also notify the UNION and
        advise the UNION of anticipated length of the investigation. This notification requirement
 
-ARTICLE 5
+### ARTICLE 5
 DISCIPLINE AND DISCHARGE                                                                    19 of 92
                                                                               AFSCME Agreement
                                                                                      2024-2027
@@ -859,7 +859,7 @@ Extensions to the time limits shall be permitted under the following circumstanc
 
 
 
-ARTICLE 5
+### ARTICLE 5
 DISCIPLINE AND DISCHARGE                                                                   20 of 92
                                                                             AFSCME Agreement
                                                                                    2024-2027
@@ -867,7 +867,7 @@ DISCIPLINE AND DISCHARGE                                                        
 
 
 
-                                       ARTICLE 6
+### ARTICLE 6
                                  GRIEVANCE PROCEDURE
 
 Section 1 – Purpose
@@ -914,7 +914,7 @@ Section 2 – Grievance Steps
 
 
 
-ARTICLE 6
+### ARTICLE 6
 GRIEVANCE PROCEDURE                                                                         21 of 92
                                                                                AFSCME Agreement
                                                                                       2024-2027
@@ -969,7 +969,7 @@ Section 3 – Arbitration Guidelines
 
 
 
-ARTICLE 6
+### ARTICLE 6
 GRIEVANCE PROCEDURE                                                                         22 of 92
                                                                                AFSCME Agreement
                                                                                       2024-2027
@@ -1023,7 +1023,7 @@ Section 4 – General Provisions
        to the designated representative of the UNION on the same day as the grievant.
 
 
-ARTICLE 6
+### ARTICLE 6
 GRIEVANCE PROCEDURE                                                                          23 of 92
                                                                           AFSCME Agreement
                                                                                  2024-2027
@@ -1052,7 +1052,7 @@ Section 5 – Time Limits
 
 
 
-ARTICLE 6
+### ARTICLE 6
 GRIEVANCE PROCEDURE                                                                    24 of 92
                                                                              AFSCME Agreement
                                                                                     2024-2027
@@ -1060,7 +1060,7 @@ GRIEVANCE PROCEDURE                                                             
 
 
 
-                                       ARTICLE 7
+### ARTICLE 7
                                    GENERAL PROVISIONS
 
 Section 1 – Employee Information
@@ -1107,7 +1107,7 @@ regulations and orders in an appropriate manner.
 
 
 
-ARTICLE 7
+### ARTICLE 7
 GENERAL PROVISIONS                                                                        25 of 92
                                                                             AFSCME Agreement
                                                                                    2024-2027
@@ -1159,7 +1159,7 @@ Section 8 – Parking
        (2) The parties agree to meet and develop mutually agreeable strategies to address
            safety concerns raised by employees.
 
-ARTICLE 7
+### ARTICLE 7
 GENERAL PROVISIONS                                                                       26 of 92
                                                                              AFSCME Agreement
                                                                                     2024-2027
@@ -1212,7 +1212,7 @@ Section 11 – Loan Repayment Programs
 
 
 
-ARTICLE 7
+### ARTICLE 7
 GENERAL PROVISIONS                                                                         27 of 92
                                                                              AFSCME Agreement
                                                                                     2024-2027
@@ -1220,7 +1220,7 @@ GENERAL PROVISIONS                                                              
 
 
 
-                                        ARTICLE 8
+### ARTICLE 8
                                    SELECTION/PROMOTION
 
 Section 1 – Job Posting
@@ -1266,7 +1266,7 @@ Section 3 – Promotional Preference
    (D) Veteran’s Preference – Employees who are veterans will have five (5) points added to
        their score after providing required documentation. Employees who are disabled
 
-ARTICLE 8
+### ARTICLE 8
 SELECTION/PROMOTION                                                                       28 of 92
                                                                             AFSCME Agreement
                                                                                    2024-2027
@@ -1319,7 +1319,7 @@ Section 4 – Internal Recruitment
 
 
 
-ARTICLE 8
+### ARTICLE 8
 SELECTION/PROMOTION                                                                      29 of 92
                                                                                AFSCME Agreement
                                                                                       2024-2027
@@ -1373,7 +1373,7 @@ Parole and Probation shall be excluded from Sections 3 through 5 of this Article
 employees working in public safety positions shall be fully eligible for promotional preference for
 all other bargaining unit positions as provided in this Article.
 
-ARTICLE 8
+### ARTICLE 8
 SELECTION/PROMOTION                                                                         30 of 92
                                                                                 AFSCME Agreement
                                                                                        2024-2027
@@ -1427,7 +1427,7 @@ following:
        request to be moved to the journey level. Such request shall be approved or denied by
 
 
-ARTICLE 8
+### ARTICLE 8
 SELECTION/PROMOTION                                                                           31 of 92
                                                                                AFSCME Agreement
                                                                                       2024-2027
@@ -1481,7 +1481,7 @@ Section 9 – Probationary Period
        given to the UNION when a bargaining unit employee's probationary period is extended.
 
 
-ARTICLE 8
+### ARTICLE 8
 SELECTION/PROMOTION                                                                           32 of 92
                                                                              AFSCME Agreement
                                                                                     2024-2027
@@ -1531,7 +1531,7 @@ SELECTION/PROMOTION                                                             
 
 
 
-ARTICLE 8
+### ARTICLE 8
 SELECTION/PROMOTION                                                                        33 of 92
                                                                               AFSCME Agreement
                                                                                      2024-2027
@@ -1539,7 +1539,7 @@ SELECTION/PROMOTION                                                             
 
 
 
-                                       ARTICLE 9
+### ARTICLE 9
                               HOURS OF WORK AND OVERTIME
 
 Section 1 – Workday/Workweek
@@ -1583,7 +1583,7 @@ Section 3 – Employee Work Schedule
 
 
 
-ARTICLE 9
+### ARTICLE 9
 HOURS OF WORK AND OVERTIME                                                                  34 of 92
                                                                            AFSCME Agreement
                                                                                   2024-2027
@@ -1637,7 +1637,7 @@ Section 5 – Alternate Work Schedules
        alternate work schedule shall be at the sole discretion of the Department Director and
 
 
-ARTICLE 9
+### ARTICLE 9
 HOURS OF WORK AND OVERTIME                                                              35 of 92
                                                                              AFSCME Agreement
                                                                                     2024-2027
@@ -1689,7 +1689,7 @@ When the COUNTY requires employees to work overtime, the following shall apply:
        (8) hours per workday pay total for purposes of calculating overtime and double
        overtime. For the purposes of overtime and double time calculations, the first day
 
-ARTICLE 9
+### ARTICLE 9
 HOURS OF WORK AND OVERTIME                                                                 36 of 92
                                                                           AFSCME Agreement
                                                                                  2024-2027
@@ -1741,7 +1741,7 @@ HOURS OF WORK AND OVERTIME                                                      
        hours on Monday, Tuesday, Wednesday and Thursday. Employee does not work on
        Friday, their normal day off. Employee works four (4) hours on Saturday and four (4)
        hours on Sunday. The hours on Saturday and Sunday will be calculated as overtime.
-ARTICLE 9
+### ARTICLE 9
 HOURS OF WORK AND OVERTIME                                                             37 of 92
                                                                               AFSCME Agreement
                                                                                      2024-2027
@@ -1796,7 +1796,7 @@ Section 7 – Meal/Rest Periods
    (C) Unpaid meal periods shall not be less than thirty (30) minutes, nor more than one (1)
        hour in duration, near the middle of their scheduled shift. Employees required to work
 
-ARTICLE 9
+### ARTICLE 9
 HOURS OF WORK AND OVERTIME                                                                 38 of 92
                                                                              AFSCME Agreement
                                                                                     2024-2027
@@ -1848,7 +1848,7 @@ Section 10 – On-Call
    (D) Calls or electronic communication received during off duty hours for notification of
        change to reporting place shall be compensated for a minimum of fifteen (15) minutes at
 
-ARTICLE 9
+### ARTICLE 9
 HOURS OF WORK AND OVERTIME                                                                39 of 92
                                                                             AFSCME Agreement
                                                                                    2024-2027
@@ -1868,7 +1868,7 @@ overtime rate.
 
 
 
-ARTICLE 9
+### ARTICLE 9
 HOURS OF WORK AND OVERTIME                                                               40 of 92
                                                                                AFSCME Agreement
                                                                                       2024-2027
@@ -1876,7 +1876,7 @@ HOURS OF WORK AND OVERTIME                                                      
 
 
 
-                                           ARTICLE 10
+### ARTICLE 10
                                             WAGES
 
 Section 1 – Salary Range Adjustments
@@ -1922,7 +1922,7 @@ Section 2 – Steps in Compensation Plan
        deficiency is alleged to be unsubstantiated or the denial is alleged to be inequitable. The
 
 
-ARTICLE 10
+### ARTICLE 10
 WAGES                                                                                       41 of 92
                                                                                  AFSCME Agreement
                                                                                         2024-2027
@@ -1976,7 +1976,7 @@ Section 5 – Bilingual Differential
 
    (D) The COUNTY may test for appropriate minimum qualifications for level of fluency to
        meet the minimum qualifications for the classification specification; this may include
-ARTICLE 10
+### ARTICLE 10
 WAGES                                                                                           42 of 92
                                                                               AFSCME Agreement
                                                                                      2024-2027
@@ -2029,7 +2029,7 @@ program shall include the protocols outlined below.
    (B) Direct deposit may be made to multiple financial institutions at the same time.
 
 
-ARTICLE 10
+### ARTICLE 10
 WAGES                                                                                      43 of 92
                                                                              AFSCME Agreement
                                                                                     2024-2027
@@ -2062,7 +2062,7 @@ Section 8 – Deferred Compensation
 
 
 
-ARTICLE 10
+### ARTICLE 10
 WAGES                                                                                     44 of 92
                                                                              AFSCME Agreement
                                                                                     2024-2027
@@ -2070,7 +2070,7 @@ WAGES                                                                           
 
 
 
-                                        ARTICLE 11
+### ARTICLE 11
                                  LEAVE TIME AND HOLIDAYS
 
 Section 1 – Holidays
@@ -2117,7 +2117,7 @@ of paragraphs (A) and (B) of this section:
               option of reverting to a five (5) day, eight (8) hour schedule on a week including a
               holiday or of remaining on the alternate schedule and using two (2) hours of
 
-ARTICLE 11
+### ARTICLE 11
 LEAVE TIME AND HOLIDAYS                                                                   45 of 92
                                                                            AFSCME Agreement
                                                                                   2024-2027
@@ -2170,7 +2170,7 @@ LEAVE TIME AND HOLIDAYS                                                         
                would work, or
 
 
-ARTICLE 11
+### ARTICLE 11
 LEAVE TIME AND HOLIDAYS                                                                 46 of 92
                                                                            AFSCME Agreement
                                                                                   2024-2027
@@ -2222,7 +2222,7 @@ LEAVE TIME AND HOLIDAYS                                                         
 
 
 
-ARTICLE 11
+### ARTICLE 11
 LEAVE TIME AND HOLIDAYS                                                                 47 of 92
                                                                              AFSCME Agreement
                                                                                     2024-2027
@@ -2277,7 +2277,7 @@ Section 2 – Time Management
 
 
 
-ARTICLE 11
+### ARTICLE 11
 LEAVE TIME AND HOLIDAYS                                                                    48 of 92
                                                                             AFSCME Agreement
                                                                                    2024-2027
@@ -2331,7 +2331,7 @@ LEAVE TIME AND HOLIDAYS                                                         
 
 
 
-ARTICLE 11
+### ARTICLE 11
 LEAVE TIME AND HOLIDAYS                                                                  49 of 92
                                                                            AFSCME Agreement
                                                                                   2024-2027
@@ -2383,7 +2383,7 @@ LEAVE TIME AND HOLIDAYS                                                         
           (c) Supervisors shall respond in a timely fashion to written requests for leave.
               Requests for leave submitted after the January 31 seniority option, shall be
               deemed to be approved if not denied within fourteen (14) days of receipt for
-ARTICLE 11
+### ARTICLE 11
 LEAVE TIME AND HOLIDAYS                                                                 50 of 92
                                                                               AFSCME Agreement
                                                                                      2024-2027
@@ -2437,7 +2437,7 @@ LEAVE TIME AND HOLIDAYS                                                         
           request.
 
 
-ARTICLE 11
+### ARTICLE 11
 LEAVE TIME AND HOLIDAYS                                                                    51 of 92
                                                                                 AFSCME Agreement
                                                                                        2024-2027
@@ -2490,7 +2490,7 @@ Section 4 – Paid Family Medical Leave
        take PFML within twenty-four (24) hours of the commencement of the leave and must
        provide written notice within three (3) days of starting leave.
 
-ARTICLE 11
+### ARTICLE 11
 LEAVE TIME AND HOLIDAYS                                                                       52 of 92
                                                                               AFSCME Agreement
                                                                                      2024-2027
@@ -2543,7 +2543,7 @@ Section 5 – Non-Occupational Disability Leave
        occupational disability leave.
 
 
-ARTICLE 11
+### ARTICLE 11
 LEAVE TIME AND HOLIDAYS                                                                     53 of 92
                                                                               AFSCME Agreement
                                                                                      2024-2027
@@ -2595,7 +2595,7 @@ worked with a maximum accrual of 124 hours in a fiscal year.
 
    (C) PTO will be paid upon end of the fiscal year, termination or upon the depletion of the
        1040 hours.
-ARTICLE 11
+### ARTICLE 11
 LEAVE TIME AND HOLIDAYS                                                                    54 of 92
                                                                                AFSCME Agreement
                                                                                       2024-2027
@@ -2648,7 +2648,7 @@ from jury duty at least two (2) hours before the end of their regular shift, the
 report to work.
 
 
-ARTICLE 11
+### ARTICLE 11
 LEAVE TIME AND HOLIDAYS                                                                      55 of 92
                                                                               AFSCME Agreement
                                                                                      2024-2027
@@ -2702,7 +2702,7 @@ Section 11 – Military Leave
       reserve component of the Armed Forces of the United States is entitled to a leave of
       absence for a period not to exceed twenty-one (21) workdays in any training year for
 
-ARTICLE 11
+### ARTICLE 11
 LEAVE TIME AND HOLIDAYS                                                                     56 of 92
                                                                              AFSCME Agreement
                                                                                     2024-2027
@@ -2748,7 +2748,7 @@ wages and medical costs.
 
 
 
-ARTICLE 11
+### ARTICLE 11
 LEAVE TIME AND HOLIDAYS                                                                    57 of 92
                                                                             AFSCME Agreement
                                                                                    2024-2027
@@ -2756,7 +2756,7 @@ LEAVE TIME AND HOLIDAYS                                                         
 
 
 
-                                       ARTICLE 12
+### ARTICLE 12
                                  INSURANCE AND RELATED
 
 Section 1 – Types of Insurance
@@ -2802,7 +2802,7 @@ Section 2 – Health Insurance Plan
        or after January 1, 2025 will have the choice between the Plus Plan or the HDHP with a
        Health Savings Account (HSA/HRA-VEBA). All three (3) plans include coverage for a
 
-ARTICLE 12
+### ARTICLE 12
 INSURANCE AND RELATED                                                                    58 of 92
                                                                             AFSCME Agreement
                                                                                    2024-2027
@@ -2856,7 +2856,7 @@ INSURANCE AND RELATED                                                           
 
 
 
-ARTICLE 12
+### ARTICLE 12
 INSURANCE AND RELATED                                                                      59 of 92
                                                                            AFSCME Agreement
                                                                                   2024-2027
@@ -2910,7 +2910,7 @@ The COUNTY agrees to enroll each eligible and qualified employee in the followin
 
 
 
-ARTICLE 12
+### ARTICLE 12
 INSURANCE AND RELATED                                                                   60 of 92
                                                                             AFSCME Agreement
                                                                                    2024-2027
@@ -2962,7 +2962,7 @@ Loss or damage to personal property shall be compensated for by the COUNTY, prov
 
 
 
-ARTICLE 12
+### ARTICLE 12
 INSURANCE AND RELATED                                                                    61 of 92
                                                                            AFSCME Agreement
                                                                                   2024-2027
@@ -2990,7 +2990,7 @@ COUNTY and the UNION agree to reopen the bargaining for this benefit.
 
 
 
-ARTICLE 12
+### ARTICLE 12
 INSURANCE AND RELATED                                                                   62 of 92
                                                                            AFSCME Agreement
                                                                                   2024-2027
@@ -2998,7 +2998,7 @@ INSURANCE AND RELATED                                                           
 
 
 
-                                         ARTICLE 13
+### ARTICLE 13
                                           SAFETY
 
 Section 1 – Safety Policy
@@ -3033,7 +3033,7 @@ coats to employees who are required to wear them.
 
 
 
-ARTICLE 13
+### ARTICLE 13
 SAFETY                                                                                  63 of 92
                                                                               AFSCME Agreement
                                                                                      2024-2027
@@ -3041,7 +3041,7 @@ SAFETY                                                                          
 
 
 
-                                           ARTICLE 14
+### ARTICLE 14
                                             TRAINING
 
 Section 1 – Employee Requests
@@ -3086,7 +3086,7 @@ Section 4 – Continuing Education
 
    (A) The COUNTY agrees to make a good faith effort to allow up to sixty (60) hours with pay
        per year for full time bargaining unit employees for voluntary educational training directly
-ARTICLE 14
+### ARTICLE 14
 TRAINING                                                                                   64 of 92
                                                                             AFSCME Agreement
                                                                                    2024-2027
@@ -3133,7 +3133,7 @@ time or flex working hours.
 
 
 
-ARTICLE 14
+### ARTICLE 14
 TRAINING                                                                                  65 of 92
                                                                                AFSCME Agreement
                                                                                       2024-2027
@@ -3141,7 +3141,7 @@ TRAINING                                                                        
 
 
 
-                                            ARTICLE 15
+### ARTICLE 15
                                             SENIORITY
 
 Section 1 – Definition
@@ -3174,7 +3174,7 @@ promotion.
 
 
 
-ARTICLE 15
+### ARTICLE 15
 SENIORITY                                                                                    66 of 92
                                                                               AFSCME Agreement
                                                                                      2024-2027
@@ -3182,7 +3182,7 @@ SENIORITY                                                                       
 
 
 
-                                         ARTICLE 16
+### ARTICLE 16
                                      LAYOFF AND RECALL
 
 Section 1 – Layoff
@@ -3229,7 +3229,7 @@ Section 2 – Recall
 
    (C) Response and Status While Subject to Recall
 
-ARTICLE 16
+### ARTICLE 16
 LAYOFF AND RECALL                                                                          67 of 92
                                                                                AFSCME Agreement
                                                                                       2024-2027
@@ -3283,7 +3283,7 @@ Section 3 – Responsibilities
           notices. The options are electronic notification via personal email, or certified letter
           via United States Postal Service (USPS). If delivery is by USPS, the notice will go to
 
-ARTICLE 16
+### ARTICLE 16
 LAYOFF AND RECALL                                                                            68 of 92
                                                                              AFSCME Agreement
                                                                                     2024-2027
@@ -3337,7 +3337,7 @@ LAYOFF AND RECALL                                                               
 
 
 
-ARTICLE 16
+### ARTICLE 16
 LAYOFF AND RECALL                                                                         69 of 92
                                                                             AFSCME Agreement
                                                                                    2024-2027
@@ -3391,7 +3391,7 @@ Section 6 – Protection/Rights During Layoff
 
 
 
-ARTICLE 16
+### ARTICLE 16
 LAYOFF AND RECALL                                                                         70 of 92
                                                                               AFSCME Agreement
                                                                                      2024-2027
@@ -3414,7 +3414,7 @@ reinstatement.
 
 
 
-ARTICLE 16
+### ARTICLE 16
 LAYOFF AND RECALL                                                                          71 of 92
                                                                               AFSCME Agreement
                                                                                      2024-2027
@@ -3422,7 +3422,7 @@ LAYOFF AND RECALL                                                               
 
 
 
-                                          ARTICLE 17
+### ARTICLE 17
                                         RELATIONSHIPS
 
 Section 1 – Change in Conditions
@@ -3466,7 +3466,7 @@ Section 4 – Joint Labor Relations Committee
        with other work unit committees when issues of common interest are identified. Joint
 
 
-ARTICLE 17
+### ARTICLE 17
 RELATIONSHIPS                                                                              72 of 92
                                                                            AFSCME Agreement
                                                                                   2024-2027
@@ -3489,7 +3489,7 @@ RELATIONSHIPS                                                                   
 
 
 
-ARTICLE 17
+### ARTICLE 17
 RELATIONSHIPS                                                                           73 of 92
                                                                            AFSCME Agreement
                                                                                   2024-2027
@@ -3497,7 +3497,7 @@ RELATIONSHIPS                                                                   
 
 
 
-                                    ARTICLE 18
+### ARTICLE 18
                         EXPANDED PRACTICE DENTAL HYGIENISTS
 
 The following shall apply to employees classified as part-time Expanded Practice Dental
@@ -3541,7 +3541,7 @@ Section 2 – Insurance
        provided or employee elected benefits as would be received in active status. Any
        contributions made by the employee will go into arrearage and will be collected from the
        next paycheck upon return to active status.
-ARTICLE 18
+### ARTICLE 18
 EXPANDED PRACTICE DENTAL HYGIENISTS                                                     74 of 92
                                                                             AFSCME Agreement
                                                                                    2024-2027
@@ -3579,7 +3579,7 @@ Break and Winter Break.
 
 
 
-ARTICLE 18
+### ARTICLE 18
 EXPANDED PRACTICE DENTAL HYGIENISTS                                                      75 of 92
                                                                                AFSCME Agreement
                                                                                       2024-2027
@@ -3587,7 +3587,7 @@ EXPANDED PRACTICE DENTAL HYGIENISTS                                             
 
 
 
-                                      ARTICLE 19
+### ARTICLE 19
                               ADVANCED PRACTICE CLINICIANS
 
 Section 1 – Patient Access Work Group
@@ -3632,7 +3632,7 @@ compensation as follows:
 
 
 
-ARTICLE 19
+### ARTICLE 19
 ADVANCED PRACTICE CLINICIANS                                                                76 of 92
                                                                                AFSCME Agreement
                                                                                       2024-2027
@@ -3640,7 +3640,7 @@ ADVANCED PRACTICE CLINICIANS                                                    
 
 
 
-                                           ARTICLE 20
+### ARTICLE 20
                                           TERMINATION
 
 Section 1 – Duration
@@ -3670,7 +3670,7 @@ During the period of negotiations, this Agreement shall remain in full force and
 
 
 
-ARTICLE 20
+### ARTICLE 20
 TERMINATION                                                                                 77 of 92
                                                                        AFSCME Agreement
                                                                               2024-2027
@@ -3705,7 +3705,7 @@ SIGNATURES                                                                      
 
 
 
-                                                APPENDIX A
+### APPENDIX A
                                      Flex-Staffed Classification Series
 
 
@@ -3719,7 +3719,7 @@ Community Health Nurse 2
 
 
 
-APPENDIX A
+### APPENDIX A
 Flex-Staffed Classification Series                                                 79 of 92
                                                                        AFSCME Agreement
                                                                               2024-2027
@@ -3727,7 +3727,7 @@ Flex-Staffed Classification Series                                              
 
 
 
-                                           APPENDIX B
+### APPENDIX B
                                           Classifications
 
 
@@ -3760,7 +3760,7 @@ B065 – Medical Assistant 1
 
 
 
-APPENDIX B
+### APPENDIX B
 Classifications                                                                 80 of 92
                                                                          AFSCME Agreement
                                                                                 2024-2027
@@ -3768,7 +3768,7 @@ Classifications                                                                 
 
 
 
-                                        APPENDIX C
+### APPENDIX C
                                   Bilingual Classifications
 
 
@@ -3786,7 +3786,7 @@ B078B – Physician Associate – Bilingual
 
 
 
-APPENDIX C
+### APPENDIX C
 Bilingual Classifications                                                         81 of 92
                                                                             AFSCME Agreement
                                                                                    2024-2027
@@ -3794,7 +3794,7 @@ Bilingual Classifications                                                       
 
 
 
-                                        APPENDIX D
+### APPENDIX D
                                    INFORMATION REQUESTS
 
 Section 1 - Procedure for Information Requests
@@ -3840,7 +3840,7 @@ Section 3 - Contract Disputes & Collective Bargaining
        request. In cases in which the UNION will be charged for paper copies, the parties will
 
 
-APPENDIX D
+### APPENDIX D
 INFORMATION REQUESTS                                                                     82 of 92
                                                                               AFSCME Agreement
                                                                                      2024-2027
@@ -3893,7 +3893,7 @@ Section 4 – Confidentiality
 
 
 
-APPENDIX D
+### APPENDIX D
 INFORMATION REQUESTS                                                                        83 of 92
                                                                             AFSCME Agreement
                                                                                    2024-2027
@@ -3945,7 +3945,7 @@ INFORMATION REQUESTS                                                            
 
 
 
-APPENDIX D
+### APPENDIX D
 INFORMATION REQUESTS                                                                     84 of 92
                                                                              AFSCME Agreement
                                                                                     2024-2027
@@ -3988,7 +3988,7 @@ Section 5 – Additional Terms
 
 
 
-APPENDIX D
+### APPENDIX D
 INFORMATION REQUESTS                                                                       85 of 92
                                                                                AFSCME Agreement
                                                                                       2024-2027

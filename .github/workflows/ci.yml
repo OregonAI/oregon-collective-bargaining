@@ -6,29 +6,51 @@ on:
 
 jobs:
   frontmatter:
-    uses: OregonAI/corpus-toolkit/.github/workflows/validate-frontmatter.yml@v1.20.1
+    uses: OregonAI/corpus-toolkit/.github/workflows/validate-frontmatter.yml@v1.23.0
     with:
       # Pin the CODE, not just the workflow file above — separate knobs.
-      toolkit-ref: v1.20.1
+      toolkit-ref: v1.23.0
   provenance:
-    uses: OregonAI/corpus-toolkit/.github/workflows/verify-provenance.yml@v1.20.1
+    uses: OregonAI/corpus-toolkit/.github/workflows/verify-provenance.yml@v1.23.0
     with:
       # Pin the CODE, not just the workflow file above — separate knobs.
-      toolkit-ref: v1.20.1
+      toolkit-ref: v1.23.0
   links:
-    uses: OregonAI/corpus-toolkit/.github/workflows/check-links.yml@v1.20.1
+    uses: OregonAI/corpus-toolkit/.github/workflows/check-links.yml@v1.23.0
     with:
       # Pin the CODE, not just the workflow file above — separate knobs.
-      toolkit-ref: v1.20.1
+      toolkit-ref: v1.23.0
       # lychee walks './**/*.md'. Without these exclusions it crawls
       # _meta/templates/document.md — a skeleton whose example URLs are not meant
       # to resolve — and every PR fails on link rot that is not link rot.
       # _meta/snapshots/ is excluded because a large corpus's snapshots would drag
       # hundreds of upstream URLs into a per-PR gate; upstream availability is what
       # the scheduled drift job is for.
+      #
+      # agreements/ JOINED THAT LIST AT THE VERBATIM FLIP, for exactly the snapshot
+      # reason: the bodies are now the contracts themselves, so every URL an employer
+      # and a union wrote into an agreement is inside them. The first run after the
+      # flip failed on nine — a county intranet page (web1.clackamas.us/des/
+      # drugtesting.html) cited by two 2020-era agreements, and a DHS form whose TLS
+      # chain lychee will not trust. NONE OF THOSE ARE ACTIONABLE HERE. A dead URL
+      # inside a ratified contract is a historical fact about that contract; editing
+      # it would alter the mirrored text, which is the one thing this corpus must
+      # never do, and provenance would reject the edit anyway. The set only grows as
+      # agreements are added.
+      #
+      # What this does NOT give up: source_url reachability, which is frontmatter and
+      # was never lychee's job — the weekly `drift` job in scheduled.yml fetches every
+      # source_url, which is the same "upstream availability lives in the scheduled
+      # job" split the snapshot exclusion above already makes. Relationship integrity
+      # is still gated here, by the workflow's own corpus-validate-frontmatter step.
+      #
+      # A surgical alternative — exclude by URL pattern rather than by path — is not
+      # available: the reusable workflow exposes only exclude-paths and accept-codes.
+      # Filed as corpus-toolkit#51.
       exclude-paths: |
         _meta/snapshots
         _meta/templates
+        agreements
 
   # EVERY COMMITTED GENERATED ARTIFACT MUST BE CURRENT, checked on every PR.
   #
@@ -47,9 +69,18 @@ jobs:
   # document and leave the published status wrong for six days with nothing saying so.
   #
   # _meta/corpus-index.json is deliberately ABSENT from this list. The platform builds
-  # it at deploy time in publish-index.yml and never commits it, precisely so it cannot
-  # fall behind its own corpus in a way that damages a SIBLING repo's citation
-  # resolution. Do not commit one and then gate it here; publish it instead.
+  # it at deploy time in pages.yml (via src/build_site.py) and never commits it,
+  # precisely so it cannot fall behind its own corpus in a way that damages a SIBLING
+  # repo's citation resolution. Do not commit one and then gate it here; publish it
+  # instead.
+  #
+  # That reasoning once named publish-index.yml, a workflow deleted from main in
+  # fc86a85. Deleting it from main did not stop it: GitHub fires `schedule` only from
+  # the DEFAULT branch, this repo's default branch was still the pre-ingest
+  # discovery/state-and-county-sources, and the copy living there kept running weekly
+  # against a tree with zero documents -- publishing `{"n_documents": 0}` over the good
+  # index and passing green, because generating an index for an empty corpus is not an
+  # error. Fixed by pointing the default branch at main (issue #12).
   #
   # ADD A STEP HERE FOR EVERY GENERATED FILE YOU COMMIT. A generated file with no step
   # is the failure this whole job exists to prevent, and it is silent by construction.
@@ -70,7 +101,7 @@ jobs:
       - uses: actions/checkout@v4
         with:
           repository: OregonAI/corpus-toolkit
-          ref: v1.20.1
+          ref: v1.23.0
           path: .toolkit
       - uses: actions/setup-python@v5
         with:
@@ -99,3 +130,19 @@ jobs:
           fi
       - name: STATUS.md must be current
         run: corpus-generate-status --config _meta/corpus.yml --output STATUS.md --check
+      # THE GATE PROVENANCE CANNOT BE. corpus-verify-provenance compares the body
+      # against the snapshot; when the SNAPSHOT is garbage the two agree perfectly and
+      # it passes while the corpus publishes noise as the terms of a labor contract.
+      # Four such extractions were found at the verbatim flip — one a raw PDF committed
+      # under a .txt name, two whose font encoding pdftotext could not map, one that
+      # yielded 2% of a 53-page agreement. This fails on any NEW one.
+      - name: Every committed extraction must be readable text
+        run: python3 src/extraction_quality.py --check
+      # Anchors and bodies are written by two passes that must not drift: the snapshot
+      # carries `### ` article anchors and the body is a copy of it. If either is
+      # re-run without the other, provenance still passes (the hash is recomputed from
+      # whichever the body came from) but navigation silently rots.
+      - name: Article anchors must be current
+        run: python3 src/anchor_sections.py --check
+      - name: Full text must match its extraction
+        run: python3 src/promote_full_text.py --check

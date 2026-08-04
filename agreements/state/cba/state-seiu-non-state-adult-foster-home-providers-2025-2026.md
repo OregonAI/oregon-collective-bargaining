@@ -16,12 +16,11 @@ agency_registry_slugs: []
 source_url: https://www.oregon.gov/das/HR/CBA/SEIU%20Non%20State%20Adult%20Foster%20Home%20Providers%202025-2026.pdf
 source_format: pdf
 retrieved: '2026-08-02'
-source_sha256: e4901038513c5daea6f46f2d1371749ea5e7dac98b9a943f8e19024c0a3846d7
+source_sha256: d64807e621c839e98c436a8ef5c7b3a703519b514cb70af77f62fe054a8445d9
 snapshot_policy: hash-only
 status: current
-content_mode: summary
-reproduction_basis: 'jointly-authored contract; summary + official link per the class determination
-  in corpus.yml schema.doc_types (verbatim: false)'
+content_mode: 'verbatim'
+reproduction_basis: 'public record of a public body (ORS 192.311-192.478); the employer publishes the executed agreement in full at source_url; a ratified agreement is an official act (Georgia v. Public.Resource.Org, 590 U.S. 255 (2020)) — mirrored in full per the class determination in corpus.yml schema.doc_types (verbatim: true)'
 conversion_notes: pdftotext -layout; 78 pages, 154253 characters extracted; NOT human-verified
 last_verified: ''
 verified_by: ''
@@ -48,8 +47,8 @@ tags:
 - non-state-unit
 ---
 
-> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated
-> summary, not the agreement's official text. Verify against the official
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a non-authoritative
+> mirror of the agreement's text, not the official record. Verify against the official
 > source: https://www.oregon.gov/das/HR/CBA/SEIU%20Non%20State%20Adult%20Foster%20Home%20Providers%202025-2026.pdf (retrieved 2026-08-02).
 
 # SEIU Non State Adult Foster Home Providers 2025-2026
@@ -63,18 +62,11 @@ Collective bargaining agreement between the State of Oregon (DAS Labor Relations
 - Expiry stated in the document's text: 2026-06-30 (effectiveness is typically conditional on ratification and is recorded only when the document states a date)
 - Source document: 78 pages (PDF, DAS CBA library)
 
-This corpus is **summary-first for agreements**: the contract's text is not
-reproduced here (see Curator notes), and nothing on this page states or
-paraphrases the agreement's terms. Read the agreement itself at the official
-source link above.
 
 ## Curator notes
 
-Summary-first is the recorded class determination (`corpus.yml
-schema.doc_types`, `verbatim: false`): a CBA is jointly authored with private
-parties, and "public record" and "freely reproducible" are not the same claim.
-If the operator later flips the class, full text lands in a follow-up PR — the
-committed snapshot extraction already carries what would be diffed.
+The full executed text is mirrored below from the committed extraction; the
+official PDF at the source link above remains the authoritative record.
 
 Letters of agreement bound into this PDF by DAS are part of this source
 snapshot; separately-published LOAs are their own documents in a later tranche.
@@ -89,3 +81,2799 @@ Statutes and rules the agreement's text cites are recorded in frontmatter
 `relationships.references_external` (9 citation(s)) and resolve into
 `executive-regulatory-frameworks` as cites — this corpus asserts no
 `implements` edge anywhere.
+
+## Full text
+
+                   Collective Bargaining Agreement
+
+
+
+                                                                   Between
+                                                                   The Department of
+                                                                   Administrative Services,
+                                                                   on Behalf of the State of
+                                                                   Oregon
+
+                                                                   And
+
+                                                                   Service Employees
+                                                                   International Union
+                                                                   Local 503, Oregon Public
+                                                                   Employees Union:
+                                                                   Adult Foster Home Providers
+
+
+
+
+                                          Adult Foster Home Providers
+
+
+
+
+2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement
+                                                    TABLE OF CONTENTS
+
+
+ARTICLE 1 – PARTIES TO THE AGREEMENT........................................................................ 5
+ARTICLE 2 – RECOGNITION ..................................................................................................... 6
+   2.1 EXCLUSIVE REPRESENTATIVE ................................................................................. 6
+   2.2 BARGAINING UNIT DEFINITION................................................................................ 6
+   2.3 BARGAINING UNIT MODIFICATIONS....................................................................... 7
+ARTICLE 3 – TERM OF AGREEMENT ...................................................................................... 8
+   3.1 EFFECTIVE DATE. ......................................................................................................... 8
+   3.2 NOTICE TO NEGOTIATE. ............................................................................................. 8
+   3.3 COMMENCING NEGOTIATIONS. ................................................................................ 8
+   3.4 SCHEDULING NEGOTIATIONS. .................................................................................. 8
+   3.5 MEDIATION AND BINDING ARBITRATION. ............................................................ 8
+   3.6 AGREEMENT EXTENSION........................................................................................... 9
+   3.7 PROCESS TO OPEN AGREEMENT DURING TERM.................................................. 9
+ARTICLE 4 – COMPLETE AGREEMENT ................................................................................ 10
+   4.1…. ..................................................................................................................................... 10
+   4.2. .................................................................................................................................... ….10
+   4.3.. ........................................................................................................................................ 10
+   4.4.. ........................................................................................................................................ 10
+   4.5.. ........................................................................................................................................ 10
+ARTICLE 5 – SEPARABILITY .................................................................................................. 11
+ARTICLE 6 – UNION RIGHTS .................................................................................................. 12
+   6.1 BULLETIN BOARDS .................................................................................................... 12
+   6.2 UNION PRESENTATION AT TRAININGS AND ORIENTATIONS......................... 12
+   6.3 UNIQUE IDENTIFICATION NUMBER....................................................................... 12
+   6.4 LIST AND INFORMATION .......................................................................................... 13
+   6.5 LIST OF REPRESENTATIVES ..................................................................................... 13
+   6.6 INDEMNIFICATION ..................................................................................................... 13
+   6.7 NOTIFICATION OF OAR CHARGES.......................................................................... 13
+ARTICLE 7 – GRIEVANCE PROCEDURE ............................................................................... 14
+   7.1 DEFINITION OF A GRIEVANCE ................................................................................ 14
+   7.2 INFORMAL RESOLUTION .......................................................................................... 14
+   7.3 GRIEVANCE PROCEDURE ......................................................................................... 14
+   7.4 TIME LIMITS ................................................................................................................. 17
+   7.5 REPRESENTATIVE COMPENSATION ...................................................................... 17
+   7.6 INFORMATION REQUESTS ........................................................................................ 17
+ARTICLE 8 – NO DISCRIMINATION....................................................................................... 18
+   8.1 NO DISCRIMINATION DEFINITION AND PROCEDURE ....................................... 18
+   8.2 RESIDENT’S RIGHTS ................................................................................................... 18
+   8.3 STATE’S AUTHORITY ................................................................................................. 18
+ARTICLE 9 – SERVICE FEES.................................................................................................... 19
+   9.1 SERVICE FEES PREAMBLE ........................................................................................ 19
+   9.2 USE OF RESIDENT ASSESSMENT TOOL FOR RATE DETERMINATIONS ........ 19
+   9.3 RESIDENT SERVICE RATES AND SUPPORT NEEDS ............................................ 26
+   9.4 SERVICE PAYMENTS FOR AFH SERVING INDIVIDUALS IN THE
+       BEHAVIORAL HEALTH SYSTEM ............................................................................. 27
+
+2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement
+   9.5 SERVICE PAYMENTS FOR AFH PROVIDERS ......................................................... 27
+   9.6 PAYMENTS FOR DAYS OF SERVICE ...................................................................... 28
+   9.7 TRAINING AND MATERIALS .................................................................................... 28
+   9.8 NOTIFICATION OF PAYMENT SYSTEM CHANGES.............................................. 29
+   9.9 CHANGES TO SERVICE PLAN AND PAYMENTS................................................... 29
+   9.10 ASSESSMENT REVIEWS........................................................................................... 30
+   9.11 NOTIFICATION TO PROVIDERS ............................................................................. 31
+   9.12 OVERPAYMENTS....................................................................................................... 31
+   9.13 OREGON MINIMUM WAGE COMPLIANCE .......................................................... 32
+   9.14 COST OF LIVING ADJUSTMENT ............................................................................ 32
+   9.15 RESIDENT MANAGER SCHEDULES ..................................................................... 32
+   9.16 ADMINISTRATIVE RULES ...................................................................................... 32
+ARTICLE 10 – PRE-PLACEMENT PLANNING....................................................................... 34
+   10.1 PRE-ADMISSION PROCESS...................................................................................... 34
+   10.2 PLACEMENT IN AN APD, OHA and ODDS ADULT FOSTER HOME.................. 34
+   10.3 ADULT FOSTER HOME PROVIDER RESPONSIBILITIES.................................... 35
+   10.4 PRIVATE PLACEMENTS ........................................................................................... 35
+ARTICLE 11 – UNION REPRESENTATION ............................................................................ 36
+   11.1 RIGHT TO UNION REPRESENTATION ................................................................... 36
+   11.2. CONTESTED CASE HEARINGS .............................................................................. 36
+   11.3 INVESTIGATION PROCESSES ................................................................................. 36
+   11.4 CONFIDENTIALITY ................................................................................................... 36
+   11.5 GRIEVANCE DEFINITION ........................................................................................ 37
+   11.6 INVESTIGATION STATUS REQUESTS ................................................................... 37
+   11.7 REVIEW OF CASE FILES.......................................................................................... 37
+   11.8 PROTECTIVE SERVICE INVESTIGATIONS RESULTING IN SUBSTANTIATED
+       FINDINGS ...................................................................................................................... 38
+ARTICLE 12 - AFH PROVIDER COMPLAINT RESOLUTION PROCESS............................ 39
+   12.1 COMPLAINT PROCESS PROCEDURE..................................................................... 39
+   12.2 COMPLAINT PROCESS STAFFING ......................................................................... 39
+   12.3 DATA TRACKING ...................................................................................................... 39
+   12.4 ANNOUNCEMENTS TO PROVIDERS...................................................................... 39
+   12.5 LOCAL RESOLUTION................................................................................................ 40
+   12.6 COMPLAINT SUBMISSION PROCESS .................................................................... 40
+ARTICLE 13 – NO RETALIATION ........................................................................................... 41
+   13.1 PROTECTED UNION ACTIVITIES ........................................................................... 41
+   13.2 LEGAL AND CONTRACTUAL RIGHTS .................................................................. 41
+   13.3 CLAIMS PROCESS...................................................................................................... 41
+ARTICLE 14 – INSPECTION VISITS ........................................................................................ 42
+ARTICLE 15 – SUBCONTRACTORS........................................................................................ 43
+ARTICLE 16 - LABOR MANAGEMENT COMMITTEE ......................................................... 44
+ARTICLE 17 - STANDARDIZE CRIMINAL BACKGROUND CHECK PROCESS FOR ALL
+      AFH PROVIDERS ........................................................................................................... 46
+ARTICLE 18 – SPECIFIC NEEDS CONTRACTS ..................................................................... 47
+LETTER OF AGREEMENT - JOINT CONTRACT TRAINING............................................... 48
+LETTER OF AGREEMENT – SPECIFIC NEEDS CONTRACTS ............................................ 49
+STATEMENT OF INTENT - TRAINING................................................................................... 50
+LETTER OF AGREEMENT - RN DELEGATION ................................................................... 52
+
+2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement
+LETTER OF AGREEMENT - MH PROVIDERS AND IMPLEMENTATION OF 410
+     DOCUMENTATION STANDARDS .............................................................................. 53
+LETTER OF UNDERSTANDING – LONG TERM CARE COMMUNITY NURSING
+     PROGRAM....................................................................................................................... 55
+LETTER OF AGREEMENT – NEW PROVIDER ORIENTATION.......................................... 56
+LETTER OF AGREEMENT – CONTINUANCE OF SPECIFIC NEEDS CONTRACT TYPES
+     ........................................................................................................................................... 57
+LETTER OF AGREEMENT – RESIDENT CHOICE AND DOCUMENTATION
+     WORKGROUP................................................................................................................. 58
+LETTER OF AGREEMENT – OHA ASSESSMENT TOOL (interRAI) ................................... 59
+LETTER OF AGREEMENT - PROVIDER NOTIFICATION OF CESSATION OF PAYMENT
+     ........................................................................................................................................... 60
+LETTER OF AGREEMENT – FUNDING FOR DD AND MH PROVIDER RATE
+     INCREASES..................................................................................................................... 61
+APPENDIX A - Rates for Adult Foster Homes Serving Individuals with Developmental
+     Disabilities ........................................................................................................................ 62
+APPENDIX B - Oregon Health Authority and Addictions and Mental Health Division Adult
+     Foster Home Base Rate and Add-Ons Table .................................................................... 68
+APPENDIX C - Service Rates for Adult Foster Homes Serving Individuals in Aging and People
+     with Disabilities Programs ................................................................................................ 71
+CONTACT PAGE ........................................................................................................................ 76
+SIGNATURE PAGE .................................................................................................................... 77
+
+
+
+
+2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement
+### ARTICLE 1 – PARTIES TO THE AGREEMENT
+
+
+
+This Agreement is made and entered into at Salem, Oregon, pursuant to the provisions of the Oregon
+Revised Statutes, by and between the State of Oregon, hereinafter referred to as “the STATE", through
+the Department of Administrative Services (DAS), the Oregon Department of Human Services (ODHS)
+and the Oregon Health Authority (OHA) hereinafter known as “the State” and the Service Employees
+International Union (SEIU) Local 503, OPEU hereinafter referred to as “the UNION” and jointly hereafter
+referred to as “the PARTIES”.
+
+
+It is the purpose of this Agreement to achieve and maintain harmonious relations between the STATE
+and the UNION, to provide for equitable and peaceful adjustments of differences which may arise.
+
+
+
+
+2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement   5
+### ARTICLE 2 – RECOGNITION
+
+
+
+
+2.1 EXCLUSIVE REPRESENTATIVE
+
+The State recognizes the Union as the exclusive representative for a single strike-prohibited bargaining
+unit consisting of all eligible licensed Adult Foster Home Providers as listed in Section 2 of this Article.
+
+
+
+2.2 BARGAINING UNIT DEFINITION
+The bargaining unit consists of all Adult Foster Home Providers as defined in this Section, excluding
+substitute caregivers, employees of the Provider and Providers who do not live in one of their adult
+foster homes and other employees excluded from the protection of the Public Employee Collective
+Bargaining Act.
+
+
+A.        For purposes of this Agreement, the term "Adult Foster Home Provider" means:
+
+
+          (I)       any natural person who:
+
+
+                    (i)       is licensed to and provides adult client services in and lives in the Provider’s home;
+                              and
+
+
+                    (ii)      receives service payment from any state funds under Oregon Department of
+                              Human Services/Oregon Health Authority Adult Foster Home Programs or State
+                              funds that are passed through outside contractors and/or counties to pay the
+                              Provider.
+
+
+          (II)      any natural person who:
+
+
+                    (ii)      is licensed to and provides adult client services in and lives in the
+                              Provider’s own home; and
+
+
+                    (ii)      owns a controlling interest in, or is an officer or partner of, an entity (e.g.,
+                              corporation,          Limited        Liability   Corporation   (LLC)   or   partnership)   that
+                              receives service payment from state funds under Oregon Department of Human
+2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement    6
+                              Services/Oregon Health Authority Adult Foster Home Programs for services
+                              provided in such Provider’s own home or State funds that are passed through
+                              outside contractors and/or counties to pay Provider.
+
+
+B.        For purposes of this Agreement, the following definitions apply:
+          •         "own home" means one's full-time domicile that is the licensed Adult Foster Home and
+                    where the Provider customarily and regularly conducts his or her activities of daily living,
+                    e.g., sleeping, eating, bathing, and recreating at that domicile. This language does not
+                    mean that the Provider is required to be present twenty-four (24) hours a day or seven
+                    (7) days a week, but rather is meant to clarify that a Provider resides on a full-time basis
+                    with a state-funded resident at that licensed domicile.
+
+
+          •         "partner" means an individual who, with one or more other persons, is co-owner of a
+                    business for profit (ORS 67.005(7)).
+
+
+          •         “officer" means a corporation's president or secretary and other officers not to exceed a
+                    total of three (3) for the corporation.
+
+
+          •         “controlling" means a majority interest in the Provider entity.
+
+
+
+
+2.3 BARGAINING UNIT MODIFICATIONS
+
+When there has been a determination of the Employment Relations Board to modify the bargaining unit
+listed in Section 2 of this Article or when the Parties reach mutual agreement to modify, negotiations
+will be entered into as needed or as required by law.
+
+
+
+
+2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement   7
+### ARTICLE 3 – TERM OF AGREEMENT
+
+
+3.1 EFFECTIVE DATE.
+Unless otherwise noted in a specific article in the Agreement, this Agreement becomes effective on the
+date of ratification and expires June 30, 2026. The Union shall send a communication informing the
+Department of Administrative Services Labor Relations and the affected Agencies of the specific
+ratification date of the tentative agreement. If the Union does not send the communication identifying
+the date of the ratification vote, the Employer will use the effective date of the Agreement as being the
+first of the month following the date of signature.
+
+
+
+3.2 NOTICE TO NEGOTIATE.
+Either party may give written notice no less than one hundred and eighty (180)-days preceding the
+expiration of the Agreement of its desire to negotiate a successor Agreement.
+
+
+
+3.3 COMMENCING NEGOTIATIONS.
+
+Negotiations for a successor agreement shall commence during the first (1st) full week of May 2026, or
+such other date as may be mutually agreed upon, in writing, by the Parties. The Parties shall present
+any proposed changes desired in a Successor Agreement by the beginning of the second (2nd ) meeting.
+
+
+
+3.4 SCHEDULING NEGOTIATIONS.
+
+During the first (1st) meeting, the Parties agree to schedule at least two (2) negotiating dates per month
+for May, June and July unless mutually agreed upon otherwise, in writing, at that meeting.
+
+
+
+3.5 MEDIATION AND BINDING ARBITRATION.
+
+Either Party may invoke mediation on or after June 30 th of 2026 and any subsequent bargaining session
+shall include the Mediator on dates mutually agreed to by the Parties and the Mediator. Thereafter, the
+time lines and procedures set out in ORS 243.712 and 243.742 shall apply unless the Parties mutually
+agree, in writing, otherwise.
+
+
+
+
+2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement   8
+3.6 AGREEMENT EXTENSION.
+
+The Parties may, by mutual agreement, extend this Agreement in part or in its entirety without
+conducting Successor Agreement negotiations on the timelines outlined above. If the Parties do not
+conduct negotiations as outlined above and fail to reach agreement on a new successor Agreement on
+or before June 30, 2026, the Agreement shall be automatically extended until a new Agreement is
+reached or an opinion and order is promulgated pursuant to ORS 243.746(5).
+
+
+
+3.7 PROCESS TO OPEN AGREEMENT DURING TERM.
+
+No opening of this Agreement may take place unless specifically authorized herein or by mutual
+agreement, in writing, by the Parties or by operation of law.
+                                                                                   REV: 2021,2023,2025
+
+
+
+
+2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement   9
+### ARTICLE 4 – COMPLETE AGREEMENT
+
+
+4.1
+Pursuant to their statutory obligations to bargain in good faith, the State and the Union have met in full
+and free discussion concerning matters in “employment relations” as defined by ORS 243.650(7). This
+Agreement incorporates the sole and complete agreement between the State and the Union resulting
+from these negotiations.
+
+
+
+4.2
+
+The Parties recognize the full right of the State to issue rules, regulations and procedures and that
+these rights are diminished only by the law and this Agreement, including interpretative decisions which
+may evolve pursuant to the proper exercise of authority given by the law or this Agreement.
+
+
+
+4.3
+
+The State agrees to bargain over any change(s) it proposes to make to mandatory subjects of
+bargaining not covered by the Agreement pursuant to the Public Employee Collective Bargaining Act
+(PECBA). Changes to any of the terms and conditions contained in the Agreement may be made by
+mutual agreement or as otherwise allowed by ORS 243.698 or ORS 243.702.
+
+
+
+4.4
+
+The Employer agrees to bargain if there is an increase in state or federal funding that can be directed
+towards Adult Foster Home Providers during the term of this Agreement if the State has the authority
+to use the funds for Provider service payments or benefits. Such negotiation shall follow the timelines
+pursuant to ORS 243.698. After the ninety (90) day period of negotiations either Party may declare
+impasse and proceed to binding arbitration in accordance with ORS 243.742.
+
+
+
+4.5
+
+The Collective Bargaining Agreement shall not limit the State from consideration of a temporary or
+permanent rate increase for AFH Providers covered under this agreement. AFH Providers shall be
+included in any rate increases for CBC Providers if allowed or directed by the legislature and state law.
+                                                                                              REV: 2021,2023
+
+
+2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement   10
+### ARTICLE 5 – SEPARABILITY
+
+
+
+In the event that any provision of this Agreement is at any time declared invalid by any court of
+competent jurisdiction, declared invalid by final Employment Relations Board (ERB) order, made illegal
+through enactment of federal or state law or through government regulations having the full force and
+effect of law, such action shall not invalidate the entire Agreement, it being the express intent of the
+Parties hereto that all other provisions not invalidated shall remain in full force and effect. The
+invalidated provision shall be subject to re-negotiation by the Parties within a reasonable period of time
+from either Party’s request.
+
+
+
+
+2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement   11
+### ARTICLE 6 – UNION RIGHTS
+
+
+6.1 BULLETIN BOARDS
+The Union shall be allowed to provide and maintain a bulletin board or share space on an existing
+bulletin board in an area regularly accessible by the Provider where space is deemed available by the
+Adult Foster Care and Relative Adult Foster Care Providers and the local field representatives
+(ODHS/OHA or Area Agencies on Aging (AAA), or Community Mental Health Program (CMHP)), or the
+Community Developmental Disability Program (CDDP). Such space shall not be denied for arbitrary
+or capricious reasons.
+
+
+
+6.2 UNION PRESENTATION AT TRAININGS AND ORIENTATIONS
+The Union shall be granted thirty (30) minutes to discuss Union business at all scheduled training,
+continuing education trainings, and scheduled group orientation s for Adult Foster Home Providers or
+persons interested in becoming Adult Foster Home Providers. For group orientations, the Union shall
+be permitted the thirty (30) minutes, at the beginning or end of the scheduled orientation, at a mutually
+agreeable time. For trainings and continuing education trainings, unless time during the training has
+been mutually agreed to, time and space will be available before or after the training.
+
+
+The State shall notify the Union via email at least fifteen (15) days prior to a scheduled formal training
+and group orientations for Adult Foster Home Providers or persons interested in becoming Adult Foster
+Home Providers.
+
+
+Any contract that the State enters into with any organization to which it has targeted Adult Foster Home
+training responsibilities shall include the requirements listed above in Section 6.2.
+
+
+
+6.3 UNIQUE IDENTIFICATION NUMBER
+The State shall ensure that each contracted Adult Foster Care Provider in the bargaining unit is
+assigned a unique identification number based on their tax ID number. This number shall consistently
+be used to identify the Provider whenever the Provider is enrolled for payment within the Adult Foster
+Care bargaining unit as long as the Provider uses their same tax ID number. This number will be used
+for SEIU reporting regardless of the Provider numbers in the State payment system.
+
+
+
+2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement   12
+6.4 LIST AND INFORMATION
+
+By the tenth (10th ) calendar day of each month ODHS/OHA shall transmit an electronic file of all Adult
+Foster Home Providers in the bargaining unit that have a Provider Enrollment Agreement with and
+received payment from ODHS/OHA in the previous month. The file shall include: Service Period Begin
+Date; Service Period End Date; Provider Unique Identification Number; Number of Medicaid residents;
+Provider Name; Provider Street Address; Provider Telephone Number; Provider City; State; Zip;
+Provider e-mail addresses (if available centrally in electronic format); Medicaid payment made by
+ODHS/OHA/State Contractor for each Adult Foster Care resident, to include separately the total service
+rate and the ODHS/OHA/State Contractor-paid portion.
+
+
+
+6.5 LIST OF REPRESENTATIVES
+
+The Union shall provide the State with a list of the names of authorized Union staff representatives ,
+elected officers and stewards, and shall update those lists as necessary.
+
+
+
+6.6 INDEMNIFICATION
+The Union shall indemnify and hold the State or designee harmless against claims, demands, suits, or
+other forms of liability which may arise out of action taken by the State for the purpose of complying
+with the provisions of this Article to the extent required by law.
+
+
+
+6.7 NOTIFICATION OF OAR CHARGES
+
+ODHS/OHA will provide notification to the Union at the same time as other interested parties who
+receive notices of proposed new or modifications to existing OAR. During licensing and renewals, the
+State will provide Adult Foster Home Providers with information about signing up for alerts regarding
+OAR updates.
+                                                                                           REV: 2021,2023
+
+
+
+
+2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement   13
+### ARTICLE 7 – GRIEVANCE PROCEDURE
+
+
+7.1 DEFINITION OF A GRIEVANCE
+Grievances are defined as acts, omissions, applications, or interpretations alleged to be violations of
+the terms or conditions of this Collective Bargaining Agreement.
+
+
+
+7.2 INFORMAL RESOLUTION
+
+The Parties encourage, whenever possible, an informal resolution approach between the Adult Foster
+and local field representatives (ODHS/OHA/CCO or Area Agencies on Aging (AAA), or Community
+Mental Health Program (CMHP), or the Community Developmental Disability Program (CDDP)) over
+the application of the terms and conditions of the Collective Bargaining Agreement that are within their
+authority to administer.
+
+
+If a Provider initiates the informal resolution process, the applicable agencies will notify the Provider of
+the following process/timelines:
+a) The Informal resolution shall conclude within fourteen (14) calendar days, unless mutually agreed
+          to by the Provider and the local field agency. In the event that the issue is not resolved informally
+          the issue may be formally grieved by either the grievan t or the Union.
+
+
+
+7.3 GRIEVANCE PROCEDURE
+
+Grievances shall be filed within thirty (30) calendar days of the date the grievant or the Union knows
+or, by reasonable diligence, should have known of the alleged grievance or within thirty (30) calendar
+days of the conclusion of the Informal Resolution process. Once filed, the Union shall not expand upon
+the original elements and substance of the written grievance.
+
+
+Grievances shall be reduced to writing, stating the name(s) of the grievant or grievants; the specific
+Article(s) alleged to have been violated, a clear explanation of the alleged violation, and the requested
+remedy. Grievances shall be processed in the following manner:
+
+
+       Step 1.
+       a)      Grievances shall be filed within thirty (30) calendar days with the designated State Labor
+               Relations Manager at the Department of Administrative Services, or designee.
+
+2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement   14
+       b)      A Union representative, who may be accompanied by the grievant, shall meet with the State
+               Labor Relations Manager, or designee within fourteen (14) calendar days following receipt
+               of the grievance. If the grievance is regarding a pay issue, the meeting shall occur within ten
+               (10) calendar days. The meeting may be in person or via teleconference.
+
+
+               Failure to meet shall not impact the merits of the grievance or its further processing. The
+               State Labor Relations Manager, or designee shall respond to the grievance by e-mail no later
+               than fifteen (15) calendar days following the Step 1 meeting or thirty (30) calendar days after
+               the grievance was filed, whichever is sooner. Such response shall state specifically the basis
+               for the Designee’s granting or denial of the grievance.
+
+
+       c)      If the grievance is not resolved at Step 1, the Union may appeal the grievance to arbitration
+               by written or e-mail notice to the State Labor Relations Manager, or designee within forty-
+               five (45) calendar days of the denial of the grievance. Failure by the Designee to issue a
+               written disposition of the grievances at Step 1 will permit the Union to invoke arbitration within
+               forty-five (45) calendar days after the Step 1 response was due under the terms of this Article.
+
+
+       Step 2.
+       Arbitration. The Parties shall meet within thirty (30) calendar days from the date of a tentative
+       settlement being reached on this Agreement to establish a list of five (5) arbitrators. The Employer
+       and the Union shall each designate a representative to reach mutual agreement to establish a list
+       of five (5) arbitrators within thirty (30) calendar days form the date of this package proposal being
+       tentatively agreed to. The Parties will meet to attempt mutual agreement of five (5) arbitrators. If
+       the Parties are unable to reach mutual agreement, then the Parties will strike from the ERB list of
+       arbitrators, in succession, until five (5) names remain. The five (5) remaining names shall
+       comprise the panel of arbitrators.                     Within five (5) calendar days of the Union’s appeal of a
+       grievance to arbitration, designated representative of the Parties shall confer to designate an
+       Arbitrator to hear the grievances. Arbitrators will be selected from the following list on a rotating
+       basis:
+               1.     Sylvia Skratek
+               2.     Kathryn Whalen
+               3.     Howell Lankford
+               4.     James Lundberg
+               5.     Timothy Williams
+
+2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement   15
+       Arbitrator List Modifications. The Parties may elect, during periods when the Agreement is open,
+       to modify the list of arbitrators through elimination, addition or replacement. Any such change
+       shall be by mutual agreement, in writing.
+
+
+       Arbitration Scheduling. The Parties shall mutually select dates, provided by the arbitrator for
+       arbitration, in a prompt fashion.
+
+
+       Opinion and Award Timelines. Arbitrators will endeavor to issue a written opinion and award in
+       the grievance within thirty (30) calendar days of the submission of briefs in the case or upon closing
+       of the record if no briefs are filed.
+
+
+       Authority of the Arbitrator. The Arbitrator shall have no authority to rule contrary to, to amend, add
+       to, subtract from, change or eliminate any of the terms of the Agreement. The findings of the
+       Arbitrator shall be final and binding on the Parties. Arbitrations will be handled in accordance with
+       the rules of the American Arbitration Association.
+
+
+       Arbitration Costs. The costs of arbitration shall be borne equally by the Parties. Each party shall
+       bear the cost of its own presentation, including preparation and post-hearing briefs, if any.
+
+
+       Other Complaints, Charges or Claims. Nothing in this Article or Agreement restricts the right of
+       either Party to file complaints, charges, claims or the like with Employment Relations Board or any
+       other State or Federal entity.
+
+
+       Optional Mediations. At any point after a grievance is filed, either Party may request that the
+       matter be submitted to mediation under the rules and procedures of the Employment Relations
+       Board and the Public Employees Collective Bargaining Act (PECBA). Any such submission must
+       be by mutual agreement, in writing. Costs of any agreed to mediation shall be equally shared by
+       the Parties. The conduct of mediation shall not affect the timelines and steps of the grievance
+       process and any change in the timelin es and procedures during mediation shall occur only upon
+       mutual agreement, in writing.
+
+
+
+
+2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement   16
+7.4 TIME LIMITS
+
+The time limits specified in this Article shall be strictly observed, unless either Party requests a specific
+extension of time, which, if mutually agreed to, must be stipulated in writing and shall become part of
+the grievance record. “Filed” for purposes of all steps shall mean date of receipt by mail, hand delivery,
+by facsimile (fax), email, or as otherwise agreed to by the ODHS/OHA designee, and the Union. If the
+State or its designee fails to issue a response within the time limits, the Union may advance the
+grievance by written notice to the next step unless withdrawn by the Union. If the Union fails to meet
+the specified time limits, the grievance shall be considered withdrawn and cannot be resubmitted.
+
+
+
+7.5 REPRESENTATIVE COMPENSATION
+
+The State is not responsible for any compensation of Providers or their representative for time spent
+investigating or processing grievances nor any travel or subsistence expenses incurred by a grievant
+or Union Steward in the investigation or processing of grievances.
+
+
+
+7.6 INFORMATION REQUESTS
+
+Information requests concerning grievances shall be specific and relevant to the grievance
+investigation. The State or Union will provide the information , to which the requesting party is lawfully
+entitled, in timely manner. Reasonable costs shall be borne by the requesting party. The requesting
+party shall be notified of any costs before the information is compiled.
+                                                                                                 REV: 2017,2023
+
+
+
+
+2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement   17
+### ARTICLE 8 – NO DISCRIMINATION
+
+
+8.1 NO DISCRIMINATION DEFINITION AND PROCEDURE
+The Union and the State agree not to engage in unlawful discrimination against any Provider because
+of religion, sex, race, creed, color, national origin, sexual orientation, age, physical or mental disability
+or Union activities. Written claims of discrimination against the State (ODHS or OHA) may be submitted
+to the Agency Director or designee. The Director or designee will investigate and respond within thirty
+(30) days of the date of the alleged claim. Discrimination claims may be grieved at Step 2 of Article 7
+within fifteen (15) days of receipt of the Director’s or designee’s response if the response by the Director
+or designee does not resolve the claim.                            However, should it be determined that such claims are
+appealable to the Bureau of Labor and Industries (BOLI) or the Equal Employment Opportunity
+Commission (EEOC) the appeal shall be submitted to BOLI or EEOC and not subject to the grievance
+procedure.
+
+
+
+8.2 RESIDENT’S RIGHTS
+
+This Article does not apply to the resident’s sole and undisputed rights provided in the law, including
+the selection and termination of placement with a Provider.
+
+
+
+8.3 STATE’S AUTHORITY
+
+This Article does not affect the State’s (or its designee’s) authority, as provided in law, to license and
+regulate the Provider.
+
+
+
+
+2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement    18
+### ARTICLE 9 – SERVICE FEES
+
+
+9.1 SERVICE FEES PREAMBLE
+The Parties acknowledge that the State has the authority and right, with appropriate input from the
+individual resident, Provider, and other assessment team individuals, to assess residents and otherwise
+determine the particular forms of care and services that are to be provided to each individual resident,
+and that the assessments of individual residents are not a subject for collective bargaining. However,
+the Parties agree Provider rates (which are comprised of various component tasks and/or groups of
+tasks that are given monetary values) are mandatory subjects for collective bargaining, including the
+legal requirements of notice to and bargaining with the Union and subject only to exceptions recognized
+by law, while the assessment tools (or any similar other mechanism for calculating Provider rates and
+their components) are permissive subjects of bargaining as defined by law.
+
+
+The State will seek to pay Providers reimbursements in accordance with Federal and State laws.
+Cessation or recoupment of payments to Providers will be addressed under the applicable Federal and
+State laws. Nothing in this Agreement grants the State any additional rights or means to recoup or
+cease payment to Providers than otherwise exist in law.
+
+
+In the event an assessment tool is modified which impacts the way a rate is determined, ODHS/OHA
+shall provide the Union with a copy of the revised tool with written identification of the specific
+modifications. If either Party believes that the modifications affect rates paid to Providers, they may
+request negotiation on the rates and other mandatory subjects of bargaining. Such negotiation shall
+follow the timelines pursuant to ORS 243.698. After the ninety (90) day period of negotiations either
+Party may declare impasse and proceed to binding arbitration in accordance with ORS 243.742.
+
+
+It is understood by the Parties that assessments and re-assessments of a Resident shall be conducted
+in person, face-to-face, by the appropriate case management entity unless a Resident requests another
+format for the assessment and as allowed by administrative rule.
+
+9.2 USE OF RESIDENT ASSESSMENT TOOL FOR RATE DETERMINATIONS
+
+(a)       Office of Developmental Disabilities Services (ODDS). The ODDS assessment and rate setting
+          tool, the SNAP, shall be used for each resident with a developmental disability upon initial entry
+          of ODDS foster services or when a ODDS service rate needs to be reassessed. The SNAP tool
+          consists of a base rate and additional identified supports. Appendix A provides the ODDS rates.
+
+2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement   19
+          For the ODDS assessment tool, the term “base rate” is inclusive of the first forty-seven (47)
+          hours per month of assessed support and is the minimum rate for Individuals whose specific
+          care needs are assessed to require less than forty-eight (48) hours per month.
+
+
+(b)       Oregon Health Authority (OHA).                       Admissions to Adult Foster Homes are governed by OAR
+          309-040, OAR 410-172 and OAR 410-173.
+
+
+          OHA has adopted the Level of Care Utilization System (LOCUS) and the Level of Service
+          Inventory (LSI) for Adult Foster Care and shall require the Independent Qualified Agent (IQA) to
+          follow these tools for the assessment and OAR Chapter 410. The LSI shall be used to support
+          and describe the type and intensity of services required to care for the individual. The LSI shall
+          be used by OHA to assign a service payment as shown in Appendix B. The LOCUS provides
+          additional information regarding the individual’s needs and required services and supports to be
+          documented in the person-centered service plan. Should the LOCUS identify a level of care
+          other than AFH, that will not impact the rate paid to the Provider.
+
+
+          To support timely authorization and re-authorization of service authorization requests, the
+          following standards shall be followed:
+
+
+          1) The Provider will be responsible for submitting the following documents to the IQA:
+                    a) A complete prior authorization cover sheet as provided by OHA or its designee (CH-
+                         006 Form);
+                    b) Legal Guardianship Paperwork (if applicable)
+                    c) Progress Notes - AFH, RTH, RTF (six (6) - twelve (12) months if monthly/weekly, most
+                         recent sixty (60) days if daily)
+                    d) Progress Notes - Change in Condition / Status (thirty (30+) days (if applicable)
+                    e) APD/DD license (for all APD/DD placements)
+                    f) Incident Reports (if applicable))
+                    g) Nursing Delegation Form(s) CH-011 and supporting documentation (if applicable)
+                    h) Mental health assessment signed by Qualified Mental Health Professional (QMHP)
+                         within one (1) year of service start date for current authorization from the CMHP.
+                         Providers having issues with receiving the complete mental health assessment from
+
+2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement   20
+                         the CMHP prior to the assessment due date shall contact the OHA Designated person
+                         to assist them in obtaining the documentation.
+                    i) Documentation, signed by a licensed healthcare professional, which provides that the
+                         Individual/Consumer for whom services are being requested has a diagnosis of a
+                         chronic mental illness.
+                    j) Residential Care Plan and/or Treatment Plan which must address all the BH
+                         consumer’s service needs dated within one (1) year of the service authorization start
+                         date (this is the Provider’s Care Plan)
+                    k) Conditional Release/Community Evaluation for consumers involved with Psychiatric
+                         Security Review Board (PSRB) (if applicable)
+                    l) Rish Management Plan that will either be contained in the MHA document or provided
+                         by CMHP/QMHP as a separate but related document (for identified behavioral or other
+                         risks)
+                    m) Signed Consent for Release of Information and Participation in the Oregon Behavioral
+                         Health Support Program (signed by guardian if applicable)
+                    n) Any additional information supporting the services requested.
+                    o) Medical or Clinical documentation submitted by AFH Providers must be completed by
+                         the individual’s licensed medical professional or qualified clinician, not by the AFH
+                         Provider, and must be unaltered in any form.
+
+
+          2)        All required documents regardless of date shall reflect the current needs of the individual.
+
+
+          3)        OHA or its designee will accept and process requests for re-authorization up to sixty (60)
+                    days prior to expiration of the current authorization.
+
+
+          4)        Providers submitting requests electronically shall receive a confirmation from OHA or its
+                    designee regarding receipt of the request and confirmation the request is complete as
+                    described in 1 of this Section.
+
+
+          5)        Providers submitting requests by mail, fax or other means shall be responsible for
+                    verification of receipt by OHA or its designee.
+
+
+
+
+2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement   21
+          6)        If the request is incomplete or documentation is insufficient to support the request, OHA
+                    or its designee will notify the provider within three (3) business days of any specific issues
+                    in writing. The provider shall have ten (10) business days to provide additional written
+                    documentation. If the documentation is not received within ten (10) business days of
+                    receipt of the notification, the request will be cancelled without further notice to the
+                    provider. If a provider does not have access to the required documentation and its is held
+                    by a third party with which the State contracts, the Provider will notify OHA and provide a
+                    copy of the request, including date, time and who they submitted request to, and OHA
+                    who will reach out to the OHA third party directly to request the third party sends the
+                    information to the Provider. The ten (10) business-day timeline does not go into effect
+                    until the Provider receives the documentation from the third party.
+
+
+          7)        Within ten (10) calendar days of receiving the request, OHA or its designee will make an
+                    authorization or re-authorization decision. For Medicaid recipients, OHA or it’s designee
+                    will update MMIS accordingly.                       An authorization decision means that the prior
+                    authorization request has been reviewed and either approved or denied by OHA or it’s
+                    designee. For Medicaid recipients an authorization decision also means that a service
+                    authorization has been entered into MMIS.
+
+                    Once Authorization or re-authorization has been approved payment will not be withheld.
+
+          8)        Providers shall receive a written Service Authorization Notice within ten (10) business
+                    days of a completed authorization decision. For Medicaid recipients, notice of prior
+                    authorization decisions will be in the form of the automated authorization notification letter
+                    generated by MMIS. The authorization notification will be sent to the provider at the
+                    address of record submitted when the provider enrolled as a Medicaid provider.
+
+
+(c)       Aging and People with Disabilities (APD). The Client Assessment/Planning System (CA/PS)
+          assessment tool will be used for each individual eligible through the APD delivery system. The
+          rate will be paid based on the assessed need of the Individual. The rate is comprised of a base
+          rate, add-ons and exceptions, if applicable. No later than July 1, 2026, APD will adopt an acuity-
+          based rate model with five (5) tiers (if approved by the legislative assembly). Appendix C
+          provides the APD rate chart.
+
+
+
+
+2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement   22
+          Base Rate, Add-Ons, Tiered Rates and Exceptions (APD)
+          For Individuals with authorized service plans prior to the effective date of the new acuity
+          methodology, APD will pay a Base Rate with up to one (1) Add-on in each of the categories of:
+          ADL, Behavior and Complex Medical needs (three (3) Add-on maximum).
+
+
+          The new acuity methodology and tiered payment rates will be effective on January 1 st, 2026.
+          Providers who have exceptional rates will be reduced by the number of hours provided by each
+          resident’s tiered rate.
+
+
+          Exceptions will be calculated based on the staffing needs for the entire home rather than the
+          Individual. No provider’s overall household payment will be reduced unless any of their
+          consumers’ acuity decreases, a consumer moves out or the provider does not provide the
+          required staffing level as funded by their rate, contract or exception.
+
+
+          There will be five (5) tiers, with Tier 1 being the lowest need and Tier 5 being the highest need.
+          The Individual’s tier level will be based on their assessed need in each component of an Activity
+          of Daily Living (ADL) or Instrumental Activity of Daily Living (IADL).
+
+
+          For ADLs or IADLs assessed as:
+                    Independent = 1 point
+                    Minimum Assist = 2 points
+                    Assist = 3 points
+                    Substantial Assist = 5 points
+                    Full Assist = 6 points
+
+
+          Individuals who are assessed as a full assist in these components of cognition: self -preservation,
+          decision making or ability to make self-understood will receive an additional ten (10) points.
+          Individuals assessed as substantial assist or full assist in the component of challenging
+          behaviors will receive an additional twenty (20) points. An individual receives no more than
+          twenty (20) additional points for cognition.
+
+
+          Individuals with assessed treatment needs will receive additional points as follows:
+                    •         One (1) Point for intermittent support (meaning less than daily)
+                    •         Three (3) Points for daily and every time the support is needed.
+2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement   23
+          Transferring Scores to Rates:
+                                    Assessed Level                 Score Range   Level
+                                    Low                            0-40          Tier 1
+                                    Moderate                       41-55         Tier 2
+                                    Medium High                    56-82         Tier 3
+                                    High                           83-106        Tier 4
+                                    Very High                      107+          Tier 5
+
+
+          All rates fund one (1) caregiver on duty 24 hours per day, 7 days per week. Tiers 2-5 fund
+          additional caregiving hours as specified in the APD rate table (Appendix C.1). The additional
+          caregiving hours must be provided.
+
+
+          Requests for payment for additional assessed needs which require staffing beyond what is
+          provided by standard Add-ons or provided by an Individual’s assessed tier must go through the
+          exceptional rates process and be prior approved by the Agency. Once approved, the provider
+          will be paid the additional hours of service at a rate identified in the rate table. Changes to
+          exceptional rates based on the change in “additional hours of service rate” will be updated at the
+          time of annual reassessment, or as a chan ge in condition occurs. Additionally, when a provider
+          is not providing the additional hours of services as funded or is unable to demonstrate the
+          additional hours of service as funded based on the Agency approval of the exceptional needs
+          request, the exception may be reduced or terminated. Before the exception is reduced or
+          terminated, Providers will have the opportunity to come into compliance and provide appropriate
+          documentation unless they refuse to come into compliance. Providers will have no more than
+          thirty (30) days to come into compliance and no more than sixty (60) days to demonstrate the
+          compliance. Approved requests for additional payment through this process are approved until
+          the Individual’s’ next assessment.
+
+
+               •    The term “base rate” means the payment amount due for providing basic services to the
+                    Individual when the assessment does not indicate the need for Add-ons or Exception
+                    payments.          Add-ons means payment amounts due for providing specific additional
+                    services to clients based on the individual’s assessed needs in accordance with the
+                    respective assessment tool.
+
+
+
+
+2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement   24
+               •    Upon completion of an assessment and approval authorizing an add-on payment, the
+                    add-on or tier will be effective to the date of the assessment supporting the need for the
+                    add-on.
+               •    Exceptional payments, as determined appropriate by the Agency, will be approved on the
+                    date the provider submits the request and a staffing plan in writing that justifies the
+                    exception and any other exceptions in the Adult Foster Home, to the case manager at the
+                    AAA or APD office. If the provider submits a staffing plan that does not justify the
+                    exception and other exceptions in the Adult Foster Home, the provider will be given
+                    fourteen (14) days to submit a staffing plan that will be approved by the ODHS or the
+                    exception may be denied.
+               •    Denials of exceptions shall be in writing stating the specific reason(s) for the denial.
+
+
+(d)       In the event an assessment tool is modified, which impacts the way a rate is determined,
+          ODHS/OHA shall provide the Union with an electronic version of the revised tool with written
+          identification of the specific modifications.
+
+
+(e)       Providers shall be allowed to provide documentation for an individual’s assessment, including
+          but not limited to person-centered service plan documentation, Incident Reports, Personal Care
+          Plans, Behavioral Support Plans, staffing schedules medical records, treatment plans or records,
+          and doctor’s orders. Assessments will not be completed until the Provider has the opportunity
+          to provide appropriate documentation. Documentation provided by the Provider shall be
+          considered in the assessment. Documentation must be provided no later than ten (10) business
+          days after the individual’s Assessment date.
+(f)       If an individual does not want a Provider to attend an assessment, the Provider will have an
+          opportunity to submit both verbal and written information about the individual to inform the
+          assessor completing the assessment. Providers will not be required to sign a copy of the
+          assessment or Budget Summary. The Resident’s Care Plan/ISP will be adjusted to reflect any
+          service need changes identified in a new assessment.
+
+
+(g)       APD/ODDS Providers will be mailed or emailed a copy of assessment documents and rate tool
+          summaries including, but not limited to the APD Service Plan or ODDS Support Needs Summary
+          no later than ten (10) business days after the assessment is finalized.
+
+
+
+
+2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement   25
+(h)       For OHA AFH Providers a copy of the assessment used to determine the needs and level of
+          care including the total and composite scores for each tool shall be given at the time of the
+          completed assessment to the individual, their legal or authorized representative and provider
+          within ten (10) days of the completion of the written assessment and development of the person -
+          centered service plan. A completed written assessment is a comprehensive record that i ncludes
+          the mental health assessment, the face-to-face assessment conducted with the individual, and
+          all supporting documentation. This compilation provides a full clinical and functional picture of
+          the individual to inform service planning and ensure regulatory compliance.
+
+
+(i)       For ODDS Individuals: Payments for Individuals in the ODDS Program residing in an AFH that
+          is licensed by APD or OHA, will be based on the SNAP Tool.
+
+
+(j)       For APD Individuals: At the discretion of the Department, payments for Individuals in the APD
+          Program residing in an AFH that is licensed by ODDS or OHA, will be based on the assessment
+          best meeting the unique needs, but no lower than those established in the APD Service Rate
+          Chart.
+
+
+(k)       For OHA Individuals: Payments for Individuals in the OHA Program residing in an ODHS
+          Licensed AFHs, will be based on the OHA assessment tool.
+
+
+(l)       For all AFH providers; Full payment is made for each day of service as defined by rule or law.
+
+
+9.3 RESIDENT SERVICE RATES AND SUPPORT NEEDS
+ODHS/OHA shall provide the following in writing:
+
+
+          •         Each Individual’s service rate that shows the amounts for the base rate, supports/add-
+                    ons and exceptions where applicable, and
+          •         Each Individual’s service and support needs.
+          •         Upon completion of an assessment and approval authorizing an add-on , payment for the
+                    add-on will be paid retroactive to the assessment supporting the need for the add-on if
+                    an assessment is needed or to the date the request is approved for situations which do
+                    not require an assessment.
+
+
+
+
+2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement   26
+The information above shall be available prior to an Individual’s admission into an AFH home unless
+the AFH chooses to accept the individual without that information in an emergency situation .
+
+
+
+9.4 SERVICE PAYMENTS FOR AFH SERVING INDIVIDUALS IN THE BEHAVIORAL HEALTH
+SYSTEM
+
+(a)       Timely Payments. OHA Providers serving Medicaid eligible individuals in the behavioral health
+          system must submit service payment requests through the MMIS Web Portal or using the CMS
+          1500. Such requests properly submitted by noon on Friday will be processed each Friday,
+          excluding holidays, and will be sent to the Provider’s financial institution through Electronic
+          Transfer (EFT) within three (3) business days. If a holiday occurs on Friday, the payment claims
+          will be processed within a day earlier or later. All Providers will be notified of this alternative
+          payment schedule. Providers who request to have their checks mailed to them will receive the
+          check within seven (7) to ten (10) business days following proper submission.
+
+
+(b)       Notification of Errors. Providers’ claims that are not properly submitted through the Web Portal
+          will receive immediate feedback from the system. Providers may then correct the error(s) in
+          “real time.” A Provider who submits a CMS 1500 will receive a Remittance Advice (RA) by mail
+          within seven (7) to ten (10) business days following submission.
+
+
+          For Providers serving Individuals enrolled in Medicaid managed care, Providers shall submit
+          claims to the Individuals assigned coordinated care organization using the billing and claiming
+          procedures established by the coordinated care organization.
+
+
+          OHA shall immediately notify the Providers of any expected changes in client income, such as
+          adjustments to SSI payments.
+
+
+
+9.5 SERVICE PAYMENTS FOR AFH PROVIDERS
+(a)       For APD only: Payments for AFH Providers paid through the ODHS Community Based Care
+          (CBC) payment system will be processed within two (2) working days of the first of the month
+          for services with prior authorization that have cleared eligibility. Payment is made for services
+          provided in the previous month.
+
+
+
+2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement   27
+(b)       For ODDS only: Payment for AFH Providers is paid through the eXPRS payment system,
+          Providers will be required to submit a claim via the web-based system for the days the service
+          was provided and the individual was in the home overnight. Payments for approved claims will
+          be processed within two (2) working days.
+
+
+
+9.6 PAYMENTS FOR DAYS OF SERVICE
+When an individual does not sleep in the Adult Foster Home overnight, the Adult Foster Home (AFH)
+Provider may still file a claim for that day when one (1) of the following is true, can be documented and
+the individual intends to return to the home: Within an accumulated period of at least eight (8) hours in
+a twenty-four (24) hour period (12:00AM – 11:59P), the Provider was responsible for the primary care,
+support, safety and wellbeing of a the individual including, but not limited to the following: Providing
+intermittent physical support or care; Providing stand-by support with the ability to respond in person
+within the person centered plan team agreed upon response times as outlined in the most current
+person centered plan. Being responsible to communicate reciprocally within the response times agreed
+upon by the person centered plan team and based on an individual’s identified support issue and
+documented within the most current person centered plan. The AFH Provider is not eligible to file a
+claim for the day (12:00AM – 11:59PM) when the individual is: - admitted to a hospital, - admitted to a
+nursing facility, - outside the United States – held in detention or jail, AFH Providers are not required to
+remain with an individual to provide unpaid supports once an individual is “admitted” to the hospital or
+nursing facility. All services not directly provided by the AFH Provider or the care giver, must be billed
+by the rendering AFH Provider. Examples of this are behavioral consultants, nursing Providers and
+employment Providers.
+
+
+The above paragraph does not apply when an individual is transitioned to another care setting that is
+being paid for those services.
+
+
+
+9.7 TRAINING AND MATERIALS
+
+(a)       Providers enrolled with the OHA to bill for services using MMIS have access to training and
+          technical support to ensure that Providers can perform the following: request prior authorization,
+          submit claims, adjust claims and reading remittance advice for payments received. OHA shall
+          notify Providers of date, time and locations for training, in accordance with Article 6.2.
+
+
+
+
+2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement   28
+(b)       Providers of Adult Foster Care services will have the same access to training and information as
+          all OHA enrolled service Providers using MMIS.
+
+
+(c)       Providers of ODDS Adult Foster Care services will have access to training materials (written and
+          video) and information using eXPRS.
+
+
+
+9.8 NOTIFICATION OF PAYMENT SYSTEM CHANGES
+
+Whenever changes are made to the payment processing systems, all affected Providers will be notified
+of and provided to or have access to training materials on changes at least thirty (30) days prior to
+implementation.
+
+
+
+9.9 CHANGES TO SERVICE PLAN AND PAYMENTS
+
+(a)       Providers shall be issued documentation of the specific services they are expected to provide.
+
+
+(b)       Providers shall be given written notice of the amount they will be paid for said service(s) and
+          may include explanation of the base rates, add-on/supports and exceptions where applicable.
+          Written notice will be given for the following within seven (7) to ten (10) days of a completed
+          reassessment:
+          1)          Change in Service Plan
+
+
+          2)          Changes in Service Payment(s)
+
+
+(c)       Rates that stay the same or increase will be effective on the date of the completed assessment.
+
+
+(d)       Rate amounts that decrease will take effect no sooner than ten (10) business days after date of
+          the notification is sent to the Provider.
+(e)       Reassessments. Upon receipt of a proper request for reassessment due to a change in
+          condition of the Individual, the date of the reassessment will be scheduled within ten (10)
+          business days in order to occur within the required forty-five (45) day period. If a Resident’s
+          reassessment (SNAP, CAPS or LSI) result in different service needs, the applicable care
+          plan/ISP will be adjusted accordingly.                        If a resident’s support needs increase after a
+          hospitalization, a reassessment shall be conducted within thirty (30) days after their discharge
+          back to AFH. Any increase to service payments resulting from a reassessment will become
+2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement   29
+          effective upon the actual date of the reassessment. Any increase to service payments resulting
+          from a reassessment after a readmission from a hospital stay, will become effective retroactive
+          to the date of the request for reassessment,
+
+
+          It is recognized that some client conditions are of greater immediacy of reassessment than
+          others and are a priority for scheduling a reassessment. Any time there may be a significant
+          change in an individual’s support needs, the case management entity can determine, based on
+          information provided in a request for a reassessment, that a more urgent assessment may be
+          needed due to immediate risk of harm to the individual or others resulting from the change in
+          support needs. When such determination is made, the date of the reassessment will be
+          scheduled within five (5) business days in order to occur within twenty-one (21) calendar days.
+
+
+Request means:
+          1)        the request is in writing, and
+
+
+          2)        the reasons for the request are stated based on the change in individual conditions.
+
+
+       However, if the change in conditions is not based on the Individual’s clinical, medical, physical or
+       behavioral health needs, the request will not meet criteria for a reassessment. The Provider will
+       be notified that the consumer does not meet the criteria for reassessment within seven (7)
+       business days.
+
+
+
+9.10 ASSESSMENT REVIEWS
+
+(a)       Assessment Review. If the Provider believes an error was made in notation of the assessment
+          tool, the Provider can request the assessor or case manager to review and verify the area of
+          concern. If the Provider’s concern is not resolved, the Provider must submit a request in writing
+          to the ODHS/OHA designated complaint contact within thirty (30) days of the completed
+          assessment. ODHS/OHA will respond within two (2) weeks of the written request. Contact
+          information will be posted on the appropriate provider websites. At the time of licensing and
+          relicensing, the State will inform Adult Foster Home Providers of the website address with the
+          ODHS/OHA designated complaint contact.                        To the extent that a Provider requests an
+          explanation of changes as provided for in subsection c below, the thirty (30) day timeline for
+          requesting this review shall start at the time of receiving the explanation of changes.
+
+2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement   30
+(b)       If the Provider feels the issue is not resolved, they may initiate the complaint process within thirty
+          (30) days of the ODHS/OHA response. The provider will receive a response within thirty (30)
+          days of submission of the complaint.
+
+
+(c)       Rate Change Explanation. If an Individual’s rate increases or decreases based on change of
+          need as identified in a reassessment, the Provider can ask for an explanation of the change(s)
+          made by the reassessment. The request must be made in writing to the ODHS/OHA designated
+          contact within thirty (30) days of the completed assessment. ODHS/OHA will respond with an
+          explanation of the change(s) within two (2) weeks of the written request. The designated email
+          addresses for these requests are as follows:
+
+
+          For ODDS: ODDS.AssessmentRequests@odhsoha.oregon .gov
+          FOR APD: apd.afhrates@odhsoha.oregon.gov
+          FOR OHA: 1915i.MedicaidPolicy@odhsoha.oregon.gov.
+
+
+
+9.11 NOTIFICATION TO PROVIDERS
+Agency personnel shall notify the relevant Provider when they become aware that an established
+resident is not returning to the Provider’s home.
+
+
+
+9.12 OVERPAYMENTS
+
+(a)       Overpayments resulting from Employer or Provider error shall be recouped according to
+          applicable Oregon Administrative Rules, which do allow a Provider to negotiate a payment
+          schedule between the Provider and ODHS/OHA; in general, repayment will occur within six (6)
+          months, but if the amount would be larger than twenty percent (20%) of the Provider’s monthly
+          service payments, payment plans may be as long as eighteen (18) months. If the Provider
+          discontinues his/her work as an AFH Provider before the overpayment has been fully recovered,
+          the remaining amount may be deducted from the Provider’s final payment.
+
+
+(b)       The Provider shall receive a written notification of the overpayment prior to any recovery efforts.
+          The notification will include information about the ability to negotiate a payment schedule within
+          ten (10) business days between the Provider and ODHS/OHA.
+
+
+
+
+2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement   31
+(c)       A Provider who disagrees with the determination that an overpayment has occurred, may grieve
+          the determination through the grievance procedure.
+
+
+
+
+9.13 OREGON MINIMUM WAGE COMPLIANCE
+If during the term of this Agreement, the Oregon minimum wage increases to exceed any AFH rates
+driven by staffing costs, including but not limited to 1:1 rates, 2:1 rates and exception based rates, then
+the Parties shall commence bargaining. The Parties agree that these negotiations shall be limited to
+increases to Provider rates to cover increased staffing costs due to the minimum wage increase. The
+Parties agree to commence bargaining within thirty (30) days of the passage of any legislation or ballot
+initiative. Either Party may invoke Mediation after bargaining has commenced for at least sixty (60)
+days. Thereafter, the timelines and procedures set out in ORS 243.712 and 243.742 shall apply unless
+the Parties mutually agree in writing, otherwise.
+
+
+
+
+9.14 COST OF LIVING ADJUSTMENT
+Effective January 1, 2026, the service payments of all APD licensed Providers shall be in accordance
+with Appendix C.
+
+
+For APD: Exceptional Rates will be granted when a resident and Provider meets the requirements
+found in OAR 411-027 or the Resident requires nighttime services that prevent a Provider from getting
+at least five (5) hours uninterrupted sleep per night.
+
+9.15 RESIDENT MANAGER SCHEDULES
+
+In order to be in compliance with FLSA and overtime regulations, Providers may apply for and be
+granted variances to the specific day per week Resident Manager requirement.
+
+
+
+9.16 ADMINISTRATIVE RULES
+
+Providers will only be required to comply with the OARs under which they are licensed, except as
+outlined below, when admitting a Resident from another licensing group.
+
+
+OHA Providers must comply with the Medicaid documentation requirements outlined in 410-120-1360,
+410-172-0620 and 410-173-0045.
+2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement   32
+Providers agree to comply with the applicable OARs when admitting a client from a program other than
+the program under which the provider is licensed or certified. The Provider will not be expected to
+comply with additional OARs unless it has been specified in the individual’s care plan and funded
+accordingly. The Department will provide the standardized list of applicable rules upon admitting a
+client from a program other than the program under which the provider is licensed or certified.
+                                                                               REV: 2017,2019, 2021,2023,2025
+
+
+
+
+2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement   33
+### ARTICLE 10 – PRE-PLACEMENT PLANNING
+
+
+10.1 PRE-ADMISSION PROCESS
+Prior to any admission, the Adult Foster Home Provider and the local case manager/office should work
+cooperatively to ensure that an appropriate placement occurs.
+
+
+
+10.2 PLACEMENT IN AN APD, OHA and ODDS ADULT FOSTER HOME
+
+Prior to approving the placement of a Medicaid resident for admission to an Adult Foster Home, the
+local case manager, Resident Specialist, or other State representative shall provide all relevant
+information, in accordance with administrative rules and federal regulations relevant to the care of the
+individual, to the Adult Foster Home Provider so the provider can make informed decisions about
+placement in the provider’s home.                       At minimum, such information will include the following when
+contained in the case file:
+          1.        any history of prior placements
+
+
+          2.        Income: amount of any offset
+
+
+          3.        Medical: a medical history including current medical insurance, prescription drug
+                    coverage, dental coverage, current medical, dental, mental health prescribers, any
+                    current or past medical and mental health, addictions diagnoses, current physical,
+                    psychological exam/assessment, current mental health assessment, treatment plan, and
+                    current medications, and all current physician’s orders. Any protected health information
+                    will be provided in a manner that assures HIPAA compliance.
+
+
+          4.        Support Needs: a summary of support needs for activities of daily living, any recent care
+                    plans, any recent behavioral plans, any transportation eligibility, current work programs
+                    available and any known behavioral and/or risk factors, including but not limited to
+                    criminal history contained in the case file or related to service provided by AFH .
+
+
+          5.        Medicaid Eligibility (if applicable): proof of Medicaid and program eligibility of the resident
+                    and a guarantee of payment if the resident has an authorized service plan, and the
+                    Resident maintains Medicaid and 1915(k) or 1915(i) eligibility.
+
+
+
+2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement   34
+10.3 ADULT FOSTER HOME PROVIDER RESPONSIBILITIES
+
+Notwithstanding information listed in Section 2 of this Article, the Adult Foster Care Provider continues
+to be responsible for the following prior to any private or public placement into the home: conducting
+and documenting their own screening and assessment of the resident’s needs in accordance with the
+rules to determine the Provider’s capability to support the individual; obtaining the approval of the
+individual’s case manager or CDDP prior to any admission; and to not accept any placement until all
+necessary information is available to provide care. The provider will retain the right to deny admission
+of any person for any reason not specially prohibited by rule or law.
+
+
+APD Only: Pursuant to OAR 411-049-0135 Providers will be required to have either a Succession Plan
+or current AFH Back-up Provider Agreement. Providers shall be informed of the option to have a
+succession plan upon licensure and renewal.
+
+
+
+10.4 PRIVATE PLACEMENTS
+Placements made privately by families, through private placement agencies, directly by hospitals or
+any other agency without the involvement of a case manager, or by brokerages or Community
+Developmental Disabilities Program (CDDP) for respite services do not apply to this Article.
+                                                                                         REV: 2019, 2021,2023
+
+
+
+
+2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement   35
+### ARTICLE 11 – UNION REPRESENTATION
+
+
+11.1 RIGHT TO UNION REPRESENTATION
+ODHS/OHA shall not preclude the Provider from having a Union representative present (either in-
+person or by telephone) to provide assistance and support to the Provider during an abuse or neglect
+investigation, licensing visit, or informal conference between the Provider and licensing authority of the
+State. A licensing visit includes an annual licensing inspection or a monitoring visit.
+
+
+
+11.2. CONTESTED CASE HEARINGS
+
+Pursuant to State law a Provider may represent him or herself in a contested case, otherwise he/she
+must be represented by an attorney.
+
+
+
+11.3 INVESTIGATION PROCESSES
+ODHS/OHA (or designee) will notify a Provider of any investigation opened against the Provider,
+License or Home, as legally required. ODHS/OHA will inform the Provider of the nature of the
+investigation, including the OARs potentially violated and the general rights and responsibilities of the
+Provider as legally required.                  ODHS/OHA will allow Providers an opportunity to offer additional
+information or evidence, as legally required. The outcome of the investigation will not be finalized until
+such information has been reviewed. ODHS/OHA will make reasonable efforts to accommodate a
+Provider’s request to include a Union representative during the activities outlined in Section 1 of this
+Article.     Such requests will not unreasonably delay those activities nor will a request for Union
+representation result in the re-scheduling of a licensing or investigatory visit that would otherwise be
+conducted without advance notice. The Union representative shall not be allowed to interfere with the
+ability of the licensing authority or its design ee to conduct or complete the activities outlined above and
+will not be allowed to interfere with the health and safety of residents in the adult foster home. A Union
+representative will not be allowed to participate in witness interviews.
+
+
+
+11.4 CONFIDENTIALITY
+It is the responsibility of Providers to follow HIPAA Standards at all times. A Union representative will
+be expected to sign a confidentiality agreement prior to having access to or receiving any confidential
+information. Any Union representative present during any interaction between ODHS/OHA or its
+designee and a Provider as set forth above, and who had access to client-specific protected health
+2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement   36
+information during the course of that interaction, shall keep such information confidential and shall not
+use or disclose such confidential information for any purpose other than for the provision of assistance
+and support to the Provider. Union representatives will be bound by all relevant statutes governing
+confidentially of health care information, including but not limited to statutes applying to drug and alcohol
+treatment.
+
+
+Due to confidentiality requirements, names of all complainants, reported victims, witnesses and
+perpetrators shall be omitted for purposes of Union representations.
+
+
+Abbreviations used (written and verbal):
+          C or CC             Complainant
+          RV                  Reported Victim
+          W or Wit            Witness
+          RP                  Reported Perpetrator
+
+
+
+11.5 GRIEVANCE DEFINITION
+
+Grievances for alleged violations of this Article shall be limited to the denial of rights provided by this
+Article.
+
+
+
+11.6 INVESTIGATION STATUS REQUESTS
+
+Providers or Union Stewards can request a status update from the local office or OTIS regarding any
+active investigation and will receive a response within fourteen (14) days of that request. If the Provider
+or Union Steward does not receive a response they may go through the AFH Complaint Resolution
+Process for assistance. This Section is not considered grievable under this CBA.
+
+
+
+11.7 REVIEW OF CASE FILES
+
+Provider will have the ability to review all case files held at the county, state or any contractor designated
+by state or county that involves their adult foster home and the Provider shall have an opportunity to
+respond to any changes in their record.
+
+
+
+
+2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement   37
+11.8 PROTECTIVE SERVICE INVESTIGATIONS RESULTING IN SUBSTANTIATED FINDINGS
+
+Investigations of protective services will investigate allegations of abuse and substantiations shall be
+apportioned to the individual(s) who committed the abuse. Persons with substantiated findings may
+have the opportunity to appeal the decision or request a petition for reconsideration pursuant to the
+ODHS/OHA/OTIS Administrative Rule. The apportionment of substantiation in no way diminishes the
+Departments’ ability or authority to issue a civil penalty as appropriate. ODDS investigations do not
+include apportionment.
+                                                                                        REV: 2017,2019,2021
+
+
+
+
+2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement   38
+### ARTICLE 12 - AFH PROVIDER COMPLAINT RESOLUTION PROCESS
+
+
+12.1 COMPLAINT PROCESS PROCEDURE
+It is the intent of ODHS/OHA to have an efficient and effective resolution process for complaints from
+represented Adult Foster Home Providers about complaints not covered by the Collective Bargaining
+Agreement.
+
+
+Provider concerns or complaints may include such things as licenser or investigator behavior,
+timeliness of re-assessment or response to a reported change of condition, timely provision of client-
+specific information, or instances where the Provider believes ODHS/OHA did not follow rule. This
+complaint resolution process will not supplant other due process rights specified in applicable Oregon
+Administrative Rules.
+
+
+To this end, the Parties agree to the following:
+
+
+
+12.2 COMPLAINT PROCESS STAFFING
+A staff person, or back-up, will be designated as the single point of contact to receive, track and respond
+to AFH Provider complaints. This staff person will coordinate with SEIU and all three adult foster home
+programs (APD, ODDS, AMH) and local offices, as the single point of contact to receive, track and
+respond to AFH Provider complaints. A written response will be sent through email, fax or postal letter
+to the Provider acknowledging the complaint has been received and the expected timeline for an i nitial
+response, when the Provider submits contact information with the complaint.
+
+
+
+12.3 DATA TRACKING
+
+The designated staff persons will use a data base or electronic spreadsheet to track AFH Provider
+complaints. Non-confidential information contained within the complaint training database will be
+transmitted to the Union on a quarterly basis and in electronic format.
+
+
+
+12.4 ANNOUNCEMENTS TO PROVIDERS
+
+ODHS/OHA will announce to Providers at the time of initial Medicaid Enrollment and annually
+thereafter, its process for Providers to contact the staff designee with complaints, (i.e., designated e-
+mail address). The announcement will include the following information:
+2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement   39
+          (a)       If the Provider is represented, the Provider may request Union representation through the
+                    SEIU Member Resource Center (MRC).
+
+
+          (b)       Providers should first attempt resolution with their local office.
+
+
+          (c)       This complaint resolution process is intended for use by Providers only.
+
+
+
+12.5 LOCAL RESOLUTION
+This complaint resolution process should not supplant Provider contact with a local office to reach a
+resolution. After that initial setup, Providers, with support from the SEIU MRC if requested, may submit
+concerns through the Complaint Resolution process.
+
+
+
+12.6 COMPLAINT SUBMISSION PROCESS
+SEIU and AFH Providers agree to submit concerns and complaints to ODHS/OHA in writing using a
+designated form. Complaints completed using the designated form may then be submitted through the
+designated email address, fax number or postal address. Submitted complaints shall be forwarded to
+the Parties Labor Management Committee.
+                                                                                                     REV: 2023
+
+
+
+
+2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement   40
+### ARTICLE 13 – NO RETALIATION
+
+
+13.1 PROTECTED UNION ACTIVITIES
+The State agrees that no Provider, on account of membership or non -membership, shall be retaliated
+against, intimidated, restrained or coerced in or on account of the exercise of rights granted by the
+Collective Bargaining Agreement or in protected activities on behalf of the Union.
+
+
+
+13.2 LEGAL AND CONTRACTUAL RIGHTS
+No agent of the State shall engage in any act of retaliation against any Provider for seeking to exercise
+any legal or contractual right or seeking to fulfill or comply with any legal or contractual obligation.
+
+
+
+13.3 CLAIMS PROCESS
+
+The State and the Union agree that behaviors that contribute to a hostile, humiliating, or intimidating
+environment are unacceptable and shall not be tolerated.
+
+
+Providers who believe they are subject to such behavior by any agent of the State should first attempt
+resolution through the AFH Provider Complaint Resolution Process. The Provider should initiate the
+process as soon as possible, but no later than ninety (90) days from the occurrence of any incident.
+
+
+If resolution is not reached through the Complaint Process within thirty (30) days, the Provider may
+report their concerns directly to the OHA/ODHS Director or designee. The OHA/ODHS Director or
+designee shall provide a written response within thirty (30) days. No Provider shall be subject to
+retaliation for filing a complaint, giving a statement or otherwise participating in the administration of
+this process.
+
+
+The written response/decision of the ODHS/OHA Director under this Section is not grievable under this
+Agreement.
+
+
+
+
+2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement   41
+### ARTICLE 14 – INSPECTION VISITS
+
+
+Inspections by ODHS/OHA and/or their contractors, shall be conducted as follows:
+
+        (a)         Inspectors are required to show valid department ID.
+
+
+        (b)         Inspections may be conducted with or without an appointment except if advance notice
+                    may obstruct or seriously diminish the effectiveness of the inspection or enforcement of
+                    rules. This provision is not intended to conflict with the Oregon Administrative Rules for
+                    each program and where there is a conflict the appropriate OAR will prevail.
+
+
+        (c)         In order to ensure consumers have the attentive care they need, ODHS/OHA and/or their
+                    contractors shall consider, when determining whether or not to schedule a renewal visit
+                    by appointment at a date and time agreeable to all parties, whether or not the visit might
+                    require the licensee or their staff to divert their attention from a consumer to the inspector
+                    (e.g. the inspection of provider files and paperwork). This provision is designed to
+                    acknowledge and respect the provider, the sanctity of the home and the range of support
+                    needs for residents who rely on staff for their support and care.
+
+          (d)       The Parties agree that provider privacy and rights are important and should be respected.
+                    In order to ensure this, the State will train licensors to respect the privacy of the provider’s
+                    living area. Nothing in this Agreement will prevent the State from entering the Provider’s
+                    living area when doing so is essential for conducting OAR compliance during licensing
+                    inspections, complaint investigations, and adult protective services investigations. The
+                    licensor will not have access to the provider’s personal belongings such as opening
+                    dressers, cabinets, and any other personal property contained within the provider’s room
+                    unless access is required for an OAR compliance purpose. A licensor, or investigator,
+                    shall only access the provider’s personal space with the provider, or caregiver, present.
+                                                                                                  NEW: 2019,REV: 2025
+
+
+
+
+2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement   42
+### ARTICLE 15 – SUBCONTRACTORS
+
+
+
+The State shall provide, to all subcontractors and third parties to which it has delegated responsibilities
+related to the licensing and supervision of Adult Foster Homes, a copy of this Collective Bargaining
+Agreement and shall train the responsible parties on its contents. The State shall require all such
+subcontractors and third parties shall be responsible for adhering to all provisions in this Collective
+Bargaining Agreement, and the State shall not enter into any contract with such entities that contradicts
+this Collective Bargaining Agreement in whole or in part.
+                                                                                                  NEW: 2021
+
+
+
+
+2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement   43
+### ARTICLE 16 - LABOR MANAGEMENT COMMITTEE
+
+
+
+16.1 PURPOSE AND SCOPE
+To facilitate communication between the Parties, a joint Labor Management Committee shall be
+established to facilitate open, honest and respectful communication and provide a structured way to
+discuss potential policy changes, state agency updates and general issues impacting Adult Foster
+Home Providers. The Committee shall take steps to ensure consistency with the Collective Bargaining
+Agreement. The Committee shall be on a meet-and-confer basis only and shall not be construed as
+having the authority nor entitlement to negotiate.
+
+
+The Committees shall have no power to contravene any provision of the Collective Bargaining
+Agreement, nor to enter into any agreements binding on the Parties to this Agreement or resolve issues
+or disputes surrounding the implementation of the Contract. Matters which may require a Letter of
+Agreement shall not be implemented until a Letter of Agreement has been signed by the DAS Labor
+Relations Manager and the Executive Director of the SEIU Local 503, OPEU.
+
+
+No discussion or review of any matter by the committees shall forfeit or affect the time frames related
+to the grievance procedure. Matters that should be resolved through the grievance procedure shall be
+handled pursuant to ARTICLE 7 –GRIEVANCE PROCEDURE. At the conclusion of each fiscal year,
+the Parties shall discuss the concept of Labor-Management Committee and whether it should be
+modified, continued, or discontinued.
+
+
+16.2 COMPOSITION
+The Committee shall be composed of five (5) AFH members appointed by the Union and five (5)
+members representing the State including one (1) representative from each of the three (3) program
+areas. The State and the Union may mutually agree to establish joint subcommittees.
+
+
+16.3 MEETING SCHEDULE
+The Committee shall meet every other month, unless mutually agreed otherwise.
+
+
+16.4 STANDING AGENDA ITEM – SPECIFIC PROVIDER CONCERNS
+There shall be dedicated time during the quarterly Labor Management Committee meeting for
+represented AFH providers to bring individualized and specific concerns forward for discussion and
+
+
+2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement   44
+review in an attempt to resolve those issues. Upon request of the individual Provider the applicable
+Licensing Entity shall be invited to join the meeting for this portion of the agenda.
+
+
+16.5 STRUCTURE OF MEETINGS
+Effective with the first (1 st) meeting following ratification of this Agreement, the Parties will spend the time
+necessary to draft a Labor-Management Committee (LMC) Charter which outlines the purpose, structure,
+and operational guidelines for the committee. The Charter may include, but may not be limited to, 1)
+Purpose, 2) Membership, 3) Meeting Schedule (cadence); 4) Documentation & Follow-Up.
+
+
+Each Party shall send their agenda items for the next meeting at least one (1) week in advance of the
+meeting. If neither Party sends any agenda items, the meeting may be cancelled by either Party.
+                                                                                        NEW: 2021 REV: 2023,2025
+
+
+
+
+2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement   45
+### ARTICLE 17 - STANDARDIZE CRIMINAL BACKGROUND CHECK PROCESS FOR ALL AFH
+
+                                                                   PROVIDERS
+
+
+
+Purpose: To ensure a criminal background check system that is standardized and efficient, by enabling
+Providers the ability to conduct Oregon Criminal History and Abuse Records Data System
+(ORCHARDS) checks and provide preliminary approval in a prompt man ner. Providers are then able
+to hire and train and retain caregivers. A Subject Individual (SI) who has been hired on a preliminary
+basis shall be actively supervised at all times by an individual who has been approved without
+restrictions.       Active supervision, whether inside or outside of the facility, means the preliminary
+caregiver must be within direct line of sight and hearing of an individual approved without restrictions
+at all times.
+
+
+The State shall maintain a standardized criminal background check system for all Providers statewide.
+This system shall do the following:
+
+
+1.        Grant all Providers, or their designees, who meet the requirements of, and who are approved to
+          be, a ODHS Qualified Entity Designee: and who complete all applicable requirements under the
+          Department Background Check Unit, including record retention and confidentiality, access to
+          conduct criminal background checks for potential employees.
+
+
+2.        APD-licensed Providers may use the Long Term Care Registry component of ORCHARDS for
+          lists of immediately hirable employees. If statute changes to include ODDS or AMH providers
+          in the Long Term Care Registry, the Parties agree to modify this Article accordingly.
+
+
+3.        Upon ratification of this Agreement, the State shall modify any existing OARs to allow for the
+          preliminary approval of SIs as outlined above.
+
+
+4.        The State will provide all Adult Foster Home providers information on how to sign up for
+          ORCHARDS on an annual basis.
+                                                                                                  NEW: 2021
+
+
+
+
+2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement    46
+### ARTICLE 18 – SPECIFIC NEEDS CONTRACTS
+
+
+
+Any amendments to Specific Needs Contracts, including those required for legal and compliance
+purposes, will be communicated to the Union and to the affected provider no later than ninety (90) days
+prior to the intended implementation. Upon a demand to bargain, the Parties will meet to discuss the
+impact of those changes.
+
+
+For individualized specific needs contract types the Agency may immediately implement but shall still
+provide notice concurrently to the Union .
+
+
+Upon request by the provider to discuss the changes to their Individualized Specific Needs Contract, a
+state representative of the Specific Need Contract Team will meet with the provider to discuss the terms
+and conditions and they shall be informed by the representative of their right to have a Union
+Representative during these conversations.
+
+
+All Specific Needs contracts will explicitly acknowledge that the rate of pay is determined by the SEIU
+Local 503 Adult Foster Home Collective Bargaining Agreement.
+
+
+
+
+2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement   47
+### LETTER OF AGREEMENT - JOINT CONTRACT TRAINING
+
+
+
+The Parties have a mutual interest to ensure that key staff and partners with AFH program responsibility
+share mutual knowledge and perspectives on the terms of the Collective Bargaining Agreement.
+
+
+To that end, within ninety (90) business days of ratification of the Collective Bargaining Agreement the
+State shall present instructor-led training on essential aspects of the Agreement to the key staff and
+Case Management entities and licensors for all provider types. If requested, the Union shall collaborate
+in preparing and presenting this training.
+
+
+
+
+2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement   48
+### LETTER OF AGREEMENT – SPECIFIC NEEDS CONTRACTS
+
+
+
+This Letter of Agreement (LOA) is entered into between the Department of Administrative Services
+(DAS) on behalf of the Oregon Department of Human Services, Aging and People with Disabilities, (the
+“Agency”) and SEIU Local 503 (the “Union”) and collectively (the “Parties”).
+
+
+The purpose of this Agreement is to develop a joint workgroup that will focus on the expectations of
+Specific Needs contracts, how providers can meet those contract requirements as defined in the
+statement of work, and recommend certain parameters for and terms to be included in Specific Needs
+Contracts.
+
+
+The Parties agree to the following:
+          1.        The workgroup shall consist of no more than four (4) Union representatives and four (4)
+                    Agency representatives.
+          2.        The workgroup will have two co-chairs; one representing the State and one representing
+                    SEIU 503 who will be responsible for convening the meetings and creating the agendas.
+          3.        The workgroup will develop tools to help providers be successful in complying with the
+                    provisions of their specific needs contracts.
+          4.        The workgroup will jointly create recommendations for improvements to specific needs
+                    contracts that meet the contract requirements. The workgroup will complete these
+                    recommendations and submit them to APD/ODHS (the “agency”) as needed.
+          5.        The workgroup will work collaboratively to develop and maintain a manual for Complex,
+                    Basic and Advance contracts.
+          6.        The workgroup shall meet at least once every quarter, or less if mutually agreed upon by
+                    the co-chairs.
+               a. If allowed by law and OAR, all Specific Needs contracts will explicitly acknowledge that
+                    the rate of pay is based on the SEIU Local 503 Adult Foster Home Collective Bargaining
+                    Agreement.
+
+
+If both Parties agree that the committee has completed the work outlined in this Agreement, the
+workgroup can conclude and no longer meet.
+
+
+This agreement shall expire on June 30, 2026.
+
+
+2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement   49
+                                             STATEMENT OF INTENT - TRAINING
+
+
+
+Section 1. Training Initiative.
+A.     It is the intent of the Parties to the Collective Bargaining Agreement to continue the Adult Foster
+       Home (AFH) Training Committee with goals and responsibilities outlined below. The Training
+       Committee shall continue a subcommittee for OHA with a minimum of three (3) OHA providers to
+       address specific areas of concern. The training committee may appoint additional subcommittees
+       for other specific program areas.                      The Training Committee may disband subcommittees by
+       consensus decision. The AFH Training Committee shall consist of the following members:
+
+
+       1.      A maximum of three (3) with mutual agreement, representatives from ODHS/OHA Central
+               and local offices, who bring specific program knowledge and expertise related to the services
+               provided by Adult Foster Care Providers covered under this Collective Bargaining Agreement
+               (CBA).
+
+
+       2.      A maximum of three (3) with mutual agreement, representatives from SEIU/AFH.
+
+
+B.     Based on a shared understanding that quality training enhances skills and improves services
+       provided to residents, the Committee shall have the following broad training goals:
+
+
+       1.      Continue to improve and streamline the process for approval of AFH training and/or
+               continuing education unit requirements, including identifying categories of qualified
+               community partners pre-approved to provide training.
+
+
+       2.      Continue to explore opportunities to work with agencies and community partners to provide
+               more comprehensive training and alternative methods to deliver training to AFH Providers.
+
+
+       3.      Continue to explore methods to make training opportunities to AFH Providers more
+               accessible, such as on-line course study, and in-classroom settings.
+
+
+       4.      Communicate approved training opportunities through provider alerts which can be
+               subscribed at the following link which shall be included on the relicensing forms:
+               https://service.govdelivery.com/accounts/ORDHS/subscriber/new?topic_id=ORDHS_311
+
+
+2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement   50
+               as soon as reasonably possible after ratification of this Agreement but no later than March 1,
+               2024.
+
+
+       5.      Continue to invite other appropriate partners, as necessary or as requested by the committee
+               members, to attend the meeting(s) to provide their expertise on training-related topics/issues.
+
+
+       6.      Continue and explore free and low-cost on-line training options that meet mandated annual
+               continuing education (training) requirements.
+
+
+                    (a)    Maintain the minimum number of required hours/courses available for free on-line
+                           (twelve (12) hours for APD, ODDS and twelve (12) hours for OHA (including the
+                           eight (8) required areas). Some courses may meet the requirements for all three (3)
+                           program areas.
+
+
+                    (b)    Continue to convert current non-digital training to an on-line format during the term
+                           of this Agreement.
+
+
+                    (c)    Discuss appropriate disclaimers to post on the ODHS/OHA website to ensure
+                           Providers understand that repeat classes may not meet requirements and that the
+                           posted ‘approved’ classes meet the minimum requirements only and may not reflect
+                           Agency endorsement.
+
+
+                    (d)    Will continue to develop and identify areas of need for online or self-study training
+                           related to the most common licensing deficiencies.
+
+
+The results of the committee’s work, including recommendations, shall be sent to the program
+leadership at Oregon Department of Human Services (ODHS) Administrators and Oregon Health
+Authority (OHA).
+
+
+
+
+2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement   51
+### LETTER OF AGREEMENT - RN DELEGATION
+
+
+Purpose: To continue efforts from workgroup recommendations from the 2013-2015 Adult Foster Home
+CBA Statement of Intent: RN Delegation.
+
+
+1.        By January 1st, 2016, the Department will review and update relevant curriculum for the AFH
+          orientations (ODDS & APD) and include information to State and County staff through a
+          transmittal to include the following:
+
+          a.        Information on options for AFH providers to become Long Term Care Community Nurse.
+
+
+          b.        Information about wrap around services available when delegated task is needed during
+                    off-hours (nights, weekends, holidays). Hospital/Doctor responsibility to set-up plan for
+                    meeting needs (Home Health / Agency / Family Member) until delegation available.
+
+
+          c.        Clarity around options available to the Provider when an Individual’s care needs change,
+                    resulting in care that exceed the providers licensed ability, and there is not available wrap -
+                    around services with appropriate licensure.
+
+
+
+2.        Nurse delegation services will be billed by the rendering RN Provider unless it is a requirement
+          in the specific needs contract. The State will inform Adult Foster Home Providers, on an annual
+          basis, how the individual and Provider can access RN delegation services.
+
+
+
+
+          If a Medicaid resident is hospitalized and the Provider is unable to provide safe care on
+          readmission due to lack of nursing delegation, the Provider shall not be required to readmit the
+          resident until the necessary nursing delegation services are available. The Provider must work
+          with the case management entity on a resolution. This Article does not override the requirements
+          in Oregon Administrative Rules.
+
+
+
+
+2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement   52
+### LETTER OF AGREEMENT - MH PROVIDERS AND IMPLEMENTATION OF 410
+
+                                                 DOCUMENTATION STANDARDS
+
+
+This Agreement is made and entered into at Salem, Oregon, pursuant to the provisions of the Oregon
+Revised Statutes, by and between the State of Oregon, hereinafter referred to as “the STATE", through
+the Department of Administrative Services (DAS), the Oregon Department of Human Services (ODHS)
+and the Oregon Health Authority (OHA) hereinafter known as “the State” and the Service Employees
+International Union (SEIU) Local 503, OPEU hereinafter referred to as “the UNION” and jointly hereafter
+referred to as “the PARTIES”.
+
+
+Recitals
+Adult Foster Home (AFH) Mental Health (MH) Providers are required to follow the documentation
+standards in OAR 410-172-0620, 410-120-1360 and 410-173-0045. Prior to the negotiations for the
+2021-2023 successor Collective Bargaining Agreement, AFH MH Providers may not have been aware
+that these documentation standards applied to them, and they may not have known exactly how to
+comply with these standards. The current enforcement of these standards may be causing confusion
+amongst Providers, and they are unsure about any new costs they may incur in order to meet these
+documentation standards. In order to ensure compliance with these rules the Parties enter into the
+following agreement.
+
+
+Time Study
+The State agrees to conduct a time study specifically for documentation time following the OARs
+provided above. The study will be completed by June 30, 2024 unless the parties mutually agree to
+extend. The Union agrees to fully support the study, will provide input and be kept abridged of the
+methods and plans used to conduct the study. The results of the Study shall be shared with the Union.
+
+
+Training and Templates
+The State agrees to provide training and templates Providers may use for documentation within sixty
+(60) calendar days of completion of the time study. The State will also provide examples of acceptable
+documentation complying with the OAR standards provided above. The training, templates and
+recordings of the training will be posted online.
+
+
+
+
+2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement   53
+MH Provider Workgroup
+The State and Union agree to create a workgroup comprised of no more than five (5) Union
+representatives and five (5) State representatives to jointly discuss and explore how the MH Providers
+could more easily comply with all documentation standards. The workgroup shall also be used for Union
+input and collaboration for all the subjects covered in this letter of agreement. The workgroup shall
+begin meeting within thirty (30) calendar days of ratification of this Agreement.
+
+
+Between ratification of this Agreement and December 31, 2025, the workgrup shall conduct three (3)
+more meetings.
+
+
+Right to Bargain
+
+
+This Agreement shall not limit the Parties rights under ORS 243.698 to bargain the impact of the results
+of the time study.
+
+
+This LOA shall sunset effective January 1, 2026.
+
+
+
+
+2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement   54
+    LETTER OF UNDERSTANDING – LONG TERM CARE COMMUNITY NURSING PROGRAM
+
+
+
+An Adult Foster Home Provider may apply for the Long-term Care Community Nursing Program while
+still operating as an Adult Foster Home Provider. They are responsible for following all policies,
+procedures and administrative rules under the Long-term Care Community Nursing program while
+ensuring compliance with administrative rule, policy and procedures for their respective Adult Foster
+Home program.
+
+
+With prior case manager authorization, an Adult Foster Home Provider who is licensed in Oregon as a
+Registered Nurse (RN) may be paid for Long-term Care Community Nursing services for clients in their
+own foster home. Prior authorization is based on case management and client determination and an
+Adult Foster Home Provider is not guaranteed to have authorization for a client residing in their own
+Adult Foster Home for Long-term Care Community Nursing services. An Adult Foster Home Provider
+must have a Long-term Care Community Nursing services contract and a separate and distinct
+Medicaid Provider number from their Adult Foster Home contract and Medicaid Provider number.
+
+
+Adult Foster Home Providers who are performing duties as a Long-term Community Nurse must assure
+that the needs of other residents in their home are met up to and including additional staffing.
+
+
+The State will notify local offices of this policy clarification within sixty (60) days of contract ratification.
+This only applies to Providers and clients eligible for Long-term Care Community Nursing Services in
+Aging and People with Disabilities (APD) and Developmental Disabilities (ODDS) programs.
+
+
+Adult Foster Home Providers in the Addictions and Mental Health (AMH) programs should work in their
+Community Mental Health Program (CMHP) or the patient’s Primary Care Provider.
+
+
+
+
+2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement   55
+### LETTER OF AGREEMENT – NEW PROVIDER ORIENTATION
+
+
+
+This Agreement is entered into the Department of Administrative Services (DAS) on behalf of the
+Oregon Department of Human Services (ODHS), the Oregon Health Authority (OHA), hereinafter
+referred to as the “the State” and the Service Employees International Union (SEIU) Local 503, OPEU
+hereinafter referred to as “the Union” and jointly hereafter referred to as “the Parties”.
+
+
+The Parties agree that orienting new AFH providers to applicable procedures and systems is essential
+for success of the programs. To support this goal, the Union will submit content recommendations
+regarding specific topics and processes to be included in the revised orientation no later than ninety
+(90) days after ratification of this Agreement. By January 2027, the State will review the
+recommendations as part of the development of the new AFH orientation. The goal is to ensure that all
+new AFH providers receive comprehensive, up-to-date training that reflects current standards and best
+practices.
+
+
+This Agreement shall expire on June 30, 2027, unless extended by mutual agreement.
+
+
+
+
+2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement   56
+### LETTER OF AGREEMENT – CONTINUANCE OF SPECIFIC NEEDS CONTRACT TYPES
+
+
+
+This Agreement is entered into the Department of Administrative Services (DAS) on behalf of the
+Oregon Department of Human Services (ODHS), hereinafter referred to as the “the State” and the
+Service Employees International Union (SEIU) Local 503, OPEU hereinafter referred to as “the Union”
+and jointly hereafter referred to as “the Parties”.
+
+
+Contingent upon legislative funding, to the extent the State determines that one (1) or more specific
+needs contract types will no longer be offered, the existing contracts provided by AFH providers with a
+current Specific Needs Contract will not be canceled unless there are licensing violations or contract
+non-compliance. If a provider moves, the Parties agree that the contract follows the provider, not the
+location, if the new location is licensed as an APD Adult Foster Home Provider.
+
+
+
+
+2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement   57
+### LETTER OF AGREEMENT – RESIDENT CHOICE AND DOCUMENTATION WORKGROUP
+
+
+
+This Agreement is made and entered into at Salem, Oregon, pursuant to the provisions of the Oregon
+Revised Statutes, by and between the State of Oregon, hereinafter referred to as “the STATE", through
+the Department of Administrative Services (DAS), the Oregon Department of Human Services (ODHS)
+and the Oregon Health Authority (OHA) hereinafter known as “the State” and the Service Employees
+International Union (SEIU) Local 503, OPEU hereinafter referred to as “the UNION” and jointly hereafter
+referred to as “the PARTIES”.
+
+
+The Parties acknowledge that Oregon law protects the rights of residents to make their own choices and
+significantly limits the scenarios in which those rights can be restrained. The Parties also acknowledge that
+there are instances when a resident may make a choice that has harmful impacts on that resident, other
+residents, employees, and/or the provider.
+
+
+Within ninety (90) days of ratification of this Agreement, the Parties will convene a workgroup to discuss this
+issue, including but not limited to in what circumstances a provider needs to act, what education should be
+available to providers, and what additional documentation, if any, may be necessary i n these situations. The
+workgroup will consist of three (3) representatives from the Union and three (3) from the Agencies and may
+include subject matter experts as needed. The workgroup will meet quarterly at a mutually agreed time. During
+the first meeting, the workgroup will develop ground rules for the meetings.
+
+
+This Agreement shall expire on June 30, 2027.
+
+
+
+
+   2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement   58
+### LETTER OF AGREEMENT – OHA ASSESSMENT TOOL (interRAI)
+
+
+
+This Letter of Agreement (LOA) is entered into between the Department of Administrative Services
+(DAS) on behalf of the Oregon Health Authority, (the “Agency”) and SEIU Local 503 (the “Union”) and
+collectively (the “Parties”).
+
+
+RECITALS: The Oregon Health Authority intends to transition its assessment tool from the Level of
+Service Inventory and Level of Care Utilization System to the interRAI assessment tool.
+
+
+The Oregon Health Authority (OHA) has engaged with vendors Optumas and Myers and Stauffer to
+identify and implement a new functional needs assessment tool, the interRAI. The interRAI tool is a
+comprehensive tool used to improve continuity of care, promote person -centered planning approaches
+and improve upon the state’s ability to measure clinical outcomes. It is internationally standardized and
+widely used. Additionally, the interRAI assessment tool measures client acuity on eight (8) tier levels.
+
+
+OHA was interested in a tool that not only captured Instrumental Activities of Daily Living (IADL) skills
+and Activities of Daily Living (ADL) skills, but also behaviors and needs that are not addressed by the
+current functional needs assessment tool.                           Specifically, OHA wants a tool to capture medical
+complexities and forensic need areas in addition to IADL and ADL needs. The interRAI assessment
+tool was piloted by the independent and qualified agent, Comagine Health, in a statewide effort to
+gather data so the tool could be validated for Oregon’s mental health populations. As part of
+preparation to begin using the new tool, OHA will work with Optumas to assign rates to the different
+tiers.
+
+
+Accordingly, the Parties agree to the following:
+     1. The State will inform the Union in writing of the intended date of implementation of the interRAI
+          assessment tool at least ninety (90) days prior to the intended date of implementation.
+
+
+     2. The Parties will meet and discuss the potential impact the interRAI assessment tool may have
+          on service payment rates for OHA licensed Adult Foster Home Providers.
+
+
+This Agreement shall expire on June 30, 2027.
+
+
+
+2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement   59
+### LETTER OF AGREEMENT - PROVIDER NOTIFICATION OF CESSATION OF PAYMENT
+
+
+
+This Agreement is made and entered into at Salem, Oregon, pursuant to the provisions of the Oregon
+
+Revised Statutes, by and between the State of Oregon, hereinafter referred to as “the STATE", through
+
+the Department of Administrative Services (DAS), the Oregon Department of Human Services (ODHS)
+
+and the Oregon Health Authority (OHA) hereinafter known as “the State” and the Service Employees
+
+International Union (SEIU) Local 503, OPEU hereinafter referred to as “the UNION” and jointly hereafter
+
+referred to as “the PARTIES”.
+
+
+
+RECITALS:
+
+The Parties have discussed consumer Medicaid eligibility and Provider notification when consumers
+
+are no longer eligible for Medicaid. The Parties have discussed the issue of some Providers not
+
+receiving notice of cessation of payment. Accordingly, the Parties have agreed to the following:
+
+
+
+The Agencies will work on solutions to inform providers about the individual's eligibility and eligibility
+
+deadline and how providers can be given adequate notice of at least thirty (30) days prior to any
+
+cessation of payment. The Agencies will report on progress to the Joint Labor Management Committee
+
+no later than July 1, 2026.
+
+
+
+This Agreement shall expire on June 30, 2027, unless extended by mutual agreement.
+
+
+
+
+2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement   60
+### LETTER OF AGREEMENT – FUNDING FOR DD AND MH PROVIDER RATE INCREASES
+
+
+
+This Agreement is made and entered into at Salem, Oregon, pursuant to the provisions of the Oregon
+Revised Statutes, by and between the State of Oregon, hereinafter referred to as “the STATE", through
+the Department of Administrative Services (DAS), the Oregon Department of Human Services (ODHS)
+and the Oregon Health Authority (OHA) hereinafter known as “the State” and the Service Employees
+International Union (SEIU) Local 503, OPEU hereinafter referred to as “the UNION” and jointly hereafter
+referred to as “the PARTIES”.
+
+
+If the Union intends to ask the Legislature for additional AFH funding during the term of this Agreement, the
+Union may request relative and supporting data from the Agencies. The Agencies will try to comply with the
+request to the best of their ability.
+
+
+
+
+   2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement   61
+### APPENDIX A - Rates for Adult Foster Homes Serving Individuals with Developmental
+
+                                                                   Disabilities
+
+
+
+All rates, rate rules, and components of the SNAP Tool, except equipment, outlined below shall be
+adjusted in accordance with the COLA rate provided for in Article 9.13.
+
+
+A.1 RATE RULES
+1.        Base Rate is inclusive of the first forty-seven (47) hours per month of assessed support and is
+          the minimum rate for individuals whose specific care needs are assessed to require less than
+          forty-eight (48) hours per month (only “over 18-age residents”):
+                    December 1, 2023                        $982.33
+                    January 1, 2025                         $1,026.53
+
+
+2.        Total maximum rate (before consideration of 2:1 needs):
+                    December 1, 2023                        $9,610.52
+                    January 1, 2025                         $10,043.00
+
+
+3.        Additional rate for 2:1 assists:
+
+
+          (a)       Effective July 1, 2020: $14.16/hr for the additional staff for the 2:1 hours approved.
+          (b)       Effective July 1, 2021: adjusted per the COLA percent in Article 9.
+          (c)       Effective December 1, 2023: $15.97/hr for the additional staff for the 2:1 hours approved.
+          (d)       Effective January 1, 2025: $16.69/hr for the additional staff for the 2:1 hours approved.
+
+          Any 2:1 services required in an Individual’s ISP shall be funded in accordance with the hourly
+          rates outlined above and include timesheets verifying 2:1 hours by a caregiver. Timesheets
+          must be available upon request.
+
+
+4.        Combination of ADL, Medical, and Behavior Needs Sections cannot exceed $5,800.25
+
+
+RATE INCREASES FOR DD PROVIDERS
+
+
+2023-2025 rates will be applied against existing rates as of 11/30/2023.
+
+
+2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement    62
+A.2 SNAP ASSESSMENT TOOL SECTIONS
+The SNAP assessment tool consists of four sections for determining assessed rates as of July 1, 2015,
+for Individuals:
+                    A. Activities of Daily Living Section
+                    B. Medical Section
+                    C. Nighttime Needs Section
+                    D. Behavioral Needs Section
+
+
+A.) Activities of Daily Living Section:
+ Maximum Section Rate allowed (Before 2:1 Rate)
+                                                                              $   2,289.20   $   2,403.66    $   2,511.82
+                                                                   Supports
+ Supports Title                       Level of Assist                             4/1/2022       12/1/2023       1/1/2025
+                                                                    Value
+
+ Ambulation/Mobility Full Assist                                     plus     $    763.49    $     801.66    $    837.74
+   in the: home      2 Person Assist                               2:1 RATE   $    763.49    $     801.66    $    837.74
+
+      Community               Full Assist                            plus     $    763.49    $     801.66    $    837.74
+                              2 Person Assist                      2:1 RATE   $    763.49    $     801.66    $    837.74
+
+
+
+   Transferring and           Full Assist                            plus     $    763.49    $     801.66    $    837.74
+      Positioning
+                              2 Person Assist                      2:1 RATE   $    763.49    $     801.66    $    837.74
+
+                              Partial Assist - Intermittent                   $     763.49   $     801.66    $     837.74
+    Eating/Drinking           Full Assist                                     $   1,144.60   $   1,201.83    $   1,255.91
+                              Full Assist Constant/ Aspiration Risk           $   1,144.60   $   1,201.83    $   1,255.91
+
+ Toileting                    Full Assist                                     $    381.12    $     400.18    $    418.18
+
+ Bladder Control              Partial Assist                                  $    191.19    $     200.75    $    209.78
+                              Full Assist                                     $    763.48    $     801.65    $    837.73
+
+ Bowel Control                Partial Assist                                  $    191.19    $     200.75    $    209.78
+                              Full Assist                                     $    763.48    $     801.65    $    837.73
+
+
+ Menses                       Partial Assist                                  $     94.98    $      99.73    $    104.22
+                              Full Assist                                     $    191.19    $     200.75    $    209.78
+
+
+
+
+2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement    63
+ Bathing                      Full Assist                            plus     $   381.12   $   400.18   $   418.18
+                              2 Person Assist                      2:1 RATE   $   381.12   $   400.18   $   418.18
+
+
+ Oral Hygiene                 Full Assist                                     $    94.98   $   99.73    $   104.22
+
+
+ Dressing & Hair Care         Full Assist                                     $   254.08   $   266.78   $   278.79
+
+ Shaving                      Full Assist                                     $   127.03   $   133.38   $   139.38
+
+
+
+
+2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement    64
+B) Medical Section:
+Maximum Section Rate Allowed (Before 2:1 Rate)                              $   4,603.31   $   4,833.48    $   5,050.98
+                                                                 Supports
+Supports Title                      Level of Assist                             4/1/2022       12/1/2023       1/1/2025
+                                                                  Value
+
+Communication -
+                           Full Assist
+Expressive                                                                  $     381.12   $     400.18    $    418.18
+
+Communication -
+                            Full Assist
+Receptive                                                                   $     381.12   $     400.18    $    418.18
+
+Safety                     Full Assist                                      $     572.30   $     600.92    $    627.96
+
+Fire Evacuation            Full Assist                                      $      18.51   $      19.44    $      20.31
+
+    Medication             Full Assist 5 or 6                               $     191.19   $     200.75    $    209.78
+   Management
+   Support Oral            Full Assist 7 or more                            $     381.12   $     400.18    $    418.18
+
+   Medication
+  Management               Partial Assist
+                                                                            $     191.19   $     200.75    $    209.78
+Support Inhalants,
+   Topicals or             Full Assist
+  Suppositories                                                             $     381.12   $     400.18    $    418.18
+
+Health Management
+                   Full Assist
+Supports - General                                                          $     191.19   $     200.75    $    209.78
+
+                                    Partial Assist - Weekly                 $     381.12   $     400.18    $    418.18
+                                 Partial Assist - 1 to 3 per days           $     729.54   $     766.02    $     800.49
+Health Management                    Full Assist 3 per day                  $   2,290.44   $   2,404.96    $   2,513.19
+Supports - Complex            Full Assist & Monitoring Exclusive
+                                             Focus                          $   4,580.85   $   4,809.89    $   5,026.34
+                           2 Person Assist & Monitoring Exclusive
+                                          Focus (+ 2:1)                     $   4,580.85   $   4,809.89    $   5,026.34
+
+
+
+
+   2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement   65
+Equipment (considered part of the medical section): The value of the highest price item is yielded for each section.
+Maximum Allowed for this Equipment Section:
+                                                                4/1/2022              12/1/2023            1/1/2025
+described in table
+
+Leg Braces                                                                 $    32.65   $   34.28    $          35.83
+
+Ankle or Foot Orthotics                                                    $    32.65   $   34.28    $          35.83
+                                                         64
+Arm Splints                                                                $    32.65   $   34.28    $          35.83
+
+Grab bars in bathroom                                                      $    5.30    $   68.57    $          71.65
+
+Shower Gurney                                                              $    65.30   $   68.57    $          71.65
+
+Hoyer Lift                                                                 $   129.39   $   135.86   $         141.97
+
+Transfer Boards                                                            $   129.39   $   135.86   $         141.97
+
+Body Jacket                                                                $    65.30   $   68.57    $          71.65
+
+Manual Wheelchair                                                          $    32.65   $   34.28    $          35.83
+
+Electric Power Wheelchair                                                  $    32.65   $   34.28    $          35.83
+
+Prone Stander                                                              $    32.65   $   34.28    $          35.83
+
+Sidelyer                                                                   $    32.65   $   34.28    $          35.83
+
+Nebulizers                                                                 $    65.30   $   68.57    $          71.65
+
+C-PAP                                                                      $    65.30   $   68.57    $          71.65
+
+Oxygen                                                                     $    65.30   $   68.57    $          71.65
+
+Ventilator                                                                 $   129.40   $   135.87   $         141.98
+
+Pulse Oxymeter                                                             $    32.65   $   34.28    $          35.83
+
+Heart Monitor                                                              $    32.65   $   34.28    $          35.83
+
+Suctioning Equipment                                                       $   129.39   $   135.86   $         141.97
+
+Vagal Stimulator                                                           $    65.30   $   68.57    $          71.65
+
+Diabetic insulin pump                                                      $    65.30   $   68.57    $          71.65
+
+        2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement                                  66
+Baclofen pump                                                                $        32.65   $         34.28      $                35.83
+
+Prosthetics                                                                  $        13.31   $         13.98      $                14.60
+
+C.) Nighttime Needs Section:
+Maximum Rate Allowed before 2:1 needs                                            $ 2,671.54       $   2,805.12         $       2,931.35
+                                                                    Supports
+Supports Title      Level of Assist for Night time Needs                              4/1/2022        12/1/2023                1/1/2025
+                                                                     Value
+
+              Assists Weekly                                                     $      381.12    $      400.18            $        418.18
+  Nighttime   Assists Intermittently Nightly                                     $    1,144.60    $     1,201.83           $    1,255.91
+Needs Medical Assists Ongoing Nightly                                            $    2,290.43    $     2,404.95           $    2,513.17
+   Support    1:1 Assist                                                         $    2,671.54    $     2,805.12           $    2,931.35
+                    2:1 Assist; plus 2:1 Rate                                    $    2,671.54    $     2,805.12           $    2,931.35
+
+                    Assists Weekly                                               $      381.12    $       400.18       $          418.18
+  Nighttime         Assists Intermittently Nightly                               $    1,144.60    $     1,201.83       $        1,255.91
+    Needs
+                    Assists Ongoing Nightly                                      $    2,290.43    $     2,404.95           $    2,513.17
+  Behavior
+   Support          1:1 Assist                                                   $    2,671.54    $     2,805.12           $    2,931.35
+                    2:1 Assist; plus 2:1 Rate                                    $    2,671.54    $     2,805.12           $    2,931.35
+
+D.) Behavioral Needs Section
+Maximum Rate Allowed before 2:1 needs                                            $ 4,580.85       $   4,809.89         $       5,026.34
+                         Level of Assist for Behavioral           Supports
+Supports Title                                                                        4/1/2022        12/1/2023                1/1/2025
+                                    Needs                          Value
+
+Behavior Supports Within Hearing or Visual distance                               $     572.30    $      600.92        $        627.96
+- No Formal Plan
+Supervision &     Within Hearing & Visual distance
+Monitoring                                                                        $     763.48    $      801.65        $        837.73
+
+Behavior Supports Behavior Plan - no physical intervention                        $     381.12    $      400.18        $        418.18
+- Home and        Behavior Plan                                                   $     763.48    $      801.65        $        837.73
+Community         Mental Health Plan                                              $     763.48    $      801.65        $        837.73
+
+Behavior Supports Within Hearing or Visual distance                               $     572.30    $      600.92        $        627.96
+- Supervision
+Home              Within Hearing & Visual distance                                $     763.48    $      801.65        $        837.73
+
+
+
+
+      2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement                                                         67
+### APPENDIX B - Oregon Health Authority and Addictions and Mental Health
+
+                  Division Adult Foster Home Base Rate and Add-Ons Table
+
+
+
+B.1 RATE TABLE
+All rates outlined below, and currently existing Exceptional rates, shall be adjusted in
+accordance with the COLA in Article 9..
+
+
+Effective December 1, 2023, rates will be calculated utilizing the LSI as follows:
+ LSI Score              Base Rate              LSI Score           Base Rate   LSI Score   Base Rate
+ 0-34                   $ 2,179                35-79               $2,738      80-100      $ 3,485
+ ADD ON 1               $ 2,233                ADD ON 1            $ 2,834     ADD ON 1    $ 3,644
+ ADD ON 2               $ 2,288                ADD ON 2            $ 2,934     ADD ON 2    $ 3,805
+ ADD ON 3               $ 2,346                ADD ON 3            $ 3,307     ADD ON 3    $ 3,976
+ ADD ON 4               $ 2,405                ADD ON 4            $ 3,143     ADD ON 4    $ 4,156
+ ADD ON 5               $ 2,464                ADD ON 5            $ 3,252     ADD ON 5    $ 4,344
+ ADD ON 6               $ 2,525                ADD ON 6            $ 3,365     ADD ON 6    $ 4,539
+                                               ADD ON 7            $ 3,484     ADD ON 7    $ 4,744
+
+
+Effective January 1, 2025, rates will be calculated utilizing the LSI as follows:
+ LSI Score              Base Rate              LSI Score           Base Rate   LSI Score   Base Rate
+ 0-34                   $ 2,277                35-79               $ 2,862     80-100      $ 3,462
+ ADD ON 1               $ 2,334                ADD ON 1            $ 2,967     ADD ON 1    $ 3,807
+ ADD ON 2               $ 2,391                ADD ON 2            $ 3,066     ADD ON 2    $ 3,976
+ ADD ON 3               $ 2,451                ADD ON 3            $ 3,173     ADD ON 3    $ 4,155
+ ADD ON 4               $ 2,513                ADD ON 4            $ 3,284     ADD ON 4    $ 4,343
+ ADD ON 5               $ 2,575                ADD ON 5            $ 3,398     ADD ON 5    $ 4,539
+ ADD ON 6               $ 2,639                ADD ON 6            $ 3,517     ADD ON 6    $ 4,743
+                                               ADD ON 7            $ 3,641     ADD ON 7    $ 4,957
+
+
+
+
+2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement                                       68
+B.2 EXCEPTIONAL NEEDS CLIENTS
+In recognition of the increased services or staffing needs required to provide safe and
+effective care to certain high-needs individuals on a time-limited basis, providers will
+receive an additional $16.67 per hour for every hour an individual requires and receives
+1:1 services or staffing as recommended by an individual’s psychiatrist, Mental Health
+Psychiatric Nurse Practitioner (MHPNP) or other Clinician and approved by the Rate
+Review Committee (RRC). Effective January 1, 2023, this rate will increase to $17.77.
+Effective December 1, 2023, this rate shall increase to $18.66/hr. Effective January 1,
+2025, this rate shall increase to $19.50/hr. This payment is in addition to any add-ons in
+the table in B.1 of this Appendix.
+
+
+As these services/supports are intensive and time limited, approval from the RRC will not
+exceed a one hundred and twenty (120)-day authorization period. If services or staffing
+is needed beyond the authorization, the provider will need to again submit an RRC
+request.
+
+
+To submit an RRC request, provider must submit the request using the OHA-approved
+request form along with the following documentation:
+
+
+     1. Recommendation from psychiatrist, or Mental Health Psychiatric Nurse
+          Practitioner (MHPNP), or clinician that includes:
+               a. Identified services assessed as needed that requires additional support or
+                    1:1 staffing;
+               b. Specific number of hours per day and when the services or staffing is
+                    needed;
+               c. Duration of additional services or staffing; and
+               d. Expected benefit and outcome of additional services or staffing.
+
+
+     2. Appropriate documentation to support the need for 1:1 services or staffing which
+          may include the following, when available to the provider:
+               a. Most recent LSI completed by OHA’s Independent Qualified Agent;
+               b. Most recent LOCUS from CMHP/CCO clinician;
+
+2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement                         69
+               c. Current treatment plan;
+               d. Current Person-Centered Service Plan (PCSP);
+               e. Current mental health assessment including current history and physical;
+               f. Provider needs synopsis;
+               g. CMHP needs synopsis;
+               h. Progress Notes;
+               i. Medication Orders and Medication Administration Record (MAR);
+               j.   Incident Reports;
+               k. Individually Based Limitations (IBL) as applicable; and
+               l. Other documentation as appropriate.
+
+
+     3. If a provider is submitting a request to continue an exceptional rate, the provider
+          will submit the following documents and information:
+               a. An attestation from the client’s psychiatrist, Mental Health Psychiatric Nurse
+                    Practitioner (MHPNP), or clinician indicating that the client’s condition hasn’t
+                    substantially changed
+               b. Progress Notes;
+               c. Medication Orders and Medication Administration Record (MAR)
+
+
+The State will provide the Union, on a quarterly basis, the number of approvals and
+denials for exceptional needs rates. The State will provide the Union with the criteria it
+uses to determine whether to grant or deny Exceptional Needs requests.
+
+
+B.3 DETERMINATION OF RATES
+The Level of Service Inventory, Mental Health Adult Foster Home User Manual will be
+used for determine the LSI scores, add-ons, and the calculation of rates.
+                                                                                       REV: 2021,2023
+
+
+
+
+2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement                                 70
+### APPENDIX C - Service Rates for Adult Foster Homes Serving Individuals in Aging
+
+                                   and People with Disabilities Programs
+
+
+
+Rates will be paid as follows:
+
+
+C.1 APD RATE TABLE Base Rate and Add-Ons
+                                                                   Rate Per Month
+                                                                      Effective
+                                                                   January 1, 2025
+                        Base                                $                 2,119.89
+                        Base plus 1 add-on                  $                 2,506.12
+                        Base plus 2 add-ons                 $                 2,891.25
+                        Base plus 3 add-ons                 $                 3,276.39
+                        Add-on Rate                         $                    385.13
+                                                                    Rate Per Hour
+                        Approved additional
+                        hours of service                    $                      19.50
+
+
+C.2 TIERED RATE MODEL PER MONTH effective January 1, 2026.
+The following rate table replaces the rate table in C.1 above.
+                                                       Monthly                       Funded minimum
+                                                                                   additional Caregiving
+ New Methodology
+                                                                                     hours per day per
+                                                                                         Individual
+ Tier 1                                                $2,332                  0
+ Tier 2                                                $3,327                  2 hours
+ Tier 3                                                $3,863                  4 hours
+ Tier 4                                                $5,916                  8 hours
+ Tier 5                                                $7,773                  10 hours per day
+                                                                                           Rate Per Hour
+ Hourly rate for exceptional hours                                             $ 21.50
+
+
+
+
+2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement                                      71
+TIERED RATE MODEL PER MONTH effective January 1, 2027.
+                                                                   Monthly            Funded minimum
+                                                                                    additional Caregiving
+ New Methodology
+                                                                                      hours per day per
+                                                                                          Individual
+ Tier 1                                                             $2,477                       0
+ Tier 2                                                             $4,052                    2 hours
+ Tier 3                                                             $4,704                    4 hours
+ Tier 4                                                             $7,205                    8 hours
+ Tier 5                                                             $9,467                10 hours per day
+                                                                                          Rate Per Hour
+ Hourly rate for exceptional hours                                                            $21.50
+C.3 ADD ON CRITERIA
+ODHS will post add-on criteria on the Provider Tools website, notify AFHs about the
+location of the information and will train case managers on appropriate application of the
+add-on criteria. This Section will sunset no later than January 1, 2026. ODHS will post
+the tier criteria on the Provider Tools website prior to implementation of the Tiered rate
+methodology.
+
+
+C.4 AFH-SPECIFIC NEEDS CONTRACT AND EXCEPTIONAL RATES
+Specific Needs Contracts and other specific need rates are outside of the standardized
+APD-AFH rate structure and have their own distinct rate schedule defined below.
+
+
+Providers with Advanced, Basic, Complex, Traumatic Brian injury, and Bariatric contracts
+will receive a three (3%) percent COLA on January 1, 2026 and a three (3%) percent
+COLA on January 1, 2027.
+
+Specific Need Contract rates effective January 1, 2026:
+ Specific Need Contract Rate                                                 Rate Per Month
+ Complex                                                                        $12,922
+ Advanced                                                                       $10,062
+ Basic                                                                           $8,804
+ Traumatic Brain Injury                                                          $9,268
+ Bariatric                                                                      $10,062
+2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement                                         72
+Specific Need Contract rates effective January 1, 2027:
+ Specific Need Contract Rate                                       Rate Per Month
+ Complex                                                              $13,310
+ Advanced                                                             $10,364
+ Basic                                                                 $9,069
+ Traumatic Brain Injury                                                $9,546
+ Bariatric                                                            $10,364
+
+
+ Ventilator Care Rates based on capacity Rate Per Month as of July 1, 2025
+ 1-2 individuals approved for the ventilator
+ rate                                                                 $17,000
+ 3 individuals approved for the ventilator
+ rate                                                                 $15,500
+ 4-5 individuals approved for the ventilator
+ rate                                                                 $14,000
+
+
+To qualify for a ventilator rate, the adult foster home must be licensed to serve individuals
+on a mechanical ventilator and the Individual must be approved by the Agency as
+qualifying for ventilator care. When an Individual no longer requires mechanical ventilator
+care, the provider will be paid at the Individual’s assessed rate and any exceptional hours
+if approved by the Agency. The Agency retains sole discretion in determining if an
+individual qualifies for one of the ventilator care rates. Ventilator Care Rates will increase
+by three (3%) percent on January 1, 2026 and three (3%) percent on January 1, 2027.
+
+
+The Specific Needs such as memory care, bariatric care, brain injuries, complex medical,
+complex ADL or neurological conditions may fall into the Basic, Advanced or Complex
+rate categories, depending on care and staffing needs of the Individuals served if the
+individuals meet the contract’s target group.
+
+
+AFHs receiving AFH Specific Needs Contracts must comply with the contracted
+Statement of Work. Rates will only be provided for Individuals living in the AFH who meet
+the service and eligibility criteria specified in the Statement of Work and approved by APD
+Central Office. Specific Needs Contracts will require additional staffing, services and
+
+2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement                           73
+ongoing documentation of compliance with the Statement of Work as defined by the
+Agency. The Agency retains sole discretion in determining when an individual qualifies
+to be served under a specific need contract.
+
+
+
+
+2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement                   74
+Specific Needs Contract Provider Compliance Process:
+Providers shall be notified thirty (30) days in advance of an upcoming routine compliance
+process. Providers shall have fifteen (15) business days from initial notification of the
+compliance process to provide requested documentation requested during a routine
+compliance process. This does not prohibit the Agency from conducting unannounced
+visits at any time to verify staffing levels or other services that are provided as required
+by the contract and/or to ensure the safety of residents.
+
+
+If the requirements of the Specific Needs Contracts are not met, Specific Needs Contract
+may be terminated. Before Specific Needs Contracts are terminated, Providers will have
+the opportunity to come into compliance with the contract unless the contract violation
+possesses an imminent risk to the Individu al/s in the AFH, as determined by the Agency.
+Providers will have no more than sixty (60) days to come into compliance before
+termination of the Specific Needs Contract.
+
+
+For multiple related occurrences of intentional non-compliance the Agency may terminate
+the contract as specified in the Specific Needs Contract.
+
+
+When a contract is terminated by the Agency, appropriate transition plans including
+necessary funding through the exceptional rates process will be made if the assessed
+needs of the Individual continue to demonstrate needs exceeding that of the staffing
+levels required by Assessed rate or assessed tiered rate.
+
+
+The Agency retains sole discretion in determining Exceptional Rate and Specific Need
+Contract Providers.
+
+
+
+
+2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement                         75
+                                                   CONTACT PAGE
+
+
+
+
+APD       (800) 241-3013
+
+ODDS           (503) 373-2227, otherwise go through the local office
+
+OHA       (503) 945-5600
+
+MRC (844) 734-8255
+
+***        Please note that there is not one number that addresses all situations. You may
+           be referred to another number to address your specific issue.
+
+
+
+
+2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement                       76
+           SIGNATURE PAGE – SEIU – ADULT FOSTER HOME PROVIDERS
+                                              April 2026, at Salem, Oregon.
+                                  17 day of _______
+                      Signed this ___
+
+
+
+
+                 FOR THE STATE OF OREGON:
+
+
+
+Betsy Imholt, Director                              Nadja Gulley, State Labor Relations Manager
+Department of Administrative Services (DAS)         DAS CHRO Labor Relations
+
+
+
+
+              FOR THE SERVICE EMPLOYEES INTERNATIONAL UNION, LOCAL 503:
+
+
+
+Melissa Unger, Executive Director                   Brian Rüdiger, Negotiator
+SEIU Local 503                                      SEIU Local 503
+
+
+Anthonette Guy, Bargaining Team
+
+Brandon Trujillo, Bargaining Team
+
+Charlotte Kreftmeyer, Bargaining Team
+
+Clay Stubblefield, Bargaining Team
+
+Jaime Lee Fletcher, Bargaining Team
+
+John Grimm, Bargaining Team
+
+Tom Johnson, Bargaining Team
+
+
+
+
+2025-2026 SEIU Local 503 AFH Signature Page
+Department of Administrative Services
+Chief Human Resources Office
+Labor Relations Unit
+155 Cottage Street NE
+Salem, OR 97301-3971
+LRU@das.oregon.gov
+
+          The official version of this Agreement is held by the Department of Administrative
+          Services Labor Relations Unit on its electronic files at the website below. The
+          Department of Administrative Services does not recognize any other copies or
+          publications of this Agreement.
+
+Electronic version of the Agreement located at:
+http://www.oregon.gov/das/HR/Pages/LRU.aspx
+
+2025-2026 SEIU Adult Foster Home Collective Bargaining Agreement                               78
+

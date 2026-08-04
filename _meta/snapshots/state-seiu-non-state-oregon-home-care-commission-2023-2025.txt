@@ -326,7 +326,7 @@ the 2015-2017 Agreement.
 
 
 2023-2025 SEIU Homecare                        ix                        Collective Bargaining Agreement
-                          ARTICLE 1 – PARTIES TO THE AGREEMENT
+### ARTICLE 1 – PARTIES TO THE AGREEMENT
 
 
 This Agreement is made and entered into at Salem, Oregon, pursuant to the provisions
@@ -345,7 +345,7 @@ adjustments of differences which may arise.
 
 
 2023-2025 SEIU Homecare                  1                          Collective Bargaining Agreement
-                                  ARTICLE 2 – RECOGNITION
+### ARTICLE 2 – RECOGNITION
 
 
 Section 1.
@@ -412,7 +412,7 @@ agreement to modify, negotiations will be entered into as needed or as required 
 
 
 2023-2025 SEIU Homecare                      3                         Collective Bargaining Agreement
-                          ARTICLE 3 – TERM OF AGREEMENT
+### ARTICLE 3 – TERM OF AGREEMENT
 
 
 Section 1. Effective Date.
@@ -466,7 +466,7 @@ by mutual Agreement, in writing, by the Parties or by operation of law.
 
 
 2023-2025 SEIU Homecare                  5                          Collective Bargaining Agreement
-                          ARTICLE 4 – COMPLETE AGREEMENT
+### ARTICLE 4 – COMPLETE AGREEMENT
 
 
 Section 1.
@@ -504,7 +504,7 @@ either Party may declare impasse and proceed to binding arbitration in accordanc
 ORS 243.742.
 
 2023-2025 SEIU Homecare                 6                          Collective Bargaining Agreement
-                             ARTICLE 5 – SEPARABILITY
+### ARTICLE 5 – SEPARABILITY
 
 
 In the event that any provision of this Agreement is at any time declared invalid by any
@@ -520,7 +520,7 @@ time from either party’s request.
 
 
 2023-2025 SEIU Homecare                   7                           Collective Bargaining Agreement
-                          ARTICLE 6 – NO STRIKE/NO LOCKOUT
+### ARTICLE 6 – NO STRIKE/NO LOCKOUT
 
 
 Section 1.
@@ -542,7 +542,7 @@ law, including the selection and termination of employment of the Employee.
 
 
 2023-2025 SEIU Homecare                   8                           Collective Bargaining Agreement
-                               ARTICLE 7 – UNION RIGHTS
+### ARTICLE 7 – UNION RIGHTS
 
 
 Section 1. Centralized State Payment System.
@@ -802,7 +802,7 @@ collective bargaining purposes only.
 
 
 2023-2025 SEIU Homecare                     15                         Collective Bargaining Agreement
-                                ARTICLE 8 – PAYROLL SYSTEMS
+### ARTICLE 8 – PAYROLL SYSTEMS
 
 
 This Article shall apply to all Homecare Workers (HCWs), Personal Care Attendants
@@ -1383,7 +1383,7 @@ may face disciplinary action, up to and including termination of their provider 
 
 
 2023-2025 SEIU Homecare                  30                            Collective Bargaining Agreement
-                              ARTICLE 9 – NO DISCRIMINATION
+### ARTICLE 9 – NO DISCRIMINATION
 
 
 Section 1. No Discrimination.
@@ -1418,7 +1418,7 @@ terminate any Provider who is providing services to them.
 
 
 2023-2025 SEIU Homecare                   31                          Collective Bargaining Agreement
-     ARTICLE 10 – OREGON HOME CARE COMMISSION REGISTRY (Registry)
+### ARTICLE 10 – OREGON HOME CARE COMMISSION REGISTRY (Registry)
 
 
 Section 1. Inclusion in the Registry
@@ -1666,7 +1666,7 @@ Registry.
 
 
 2023-2025 SEIU Homecare              38                        Collective Bargaining Agreement
-                          ARTICLE 11 – GRIEVANCE PROCEDURE
+### ARTICLE 11 – GRIEVANCE PROCEDURE
 
 
 Section 1. Grievance Definitions.
@@ -1897,7 +1897,7 @@ processing of grievances except as required by law.
 
 
 2023-2025 SEIU Homecare                  44                           Collective Bargaining Agreement
-                          ARTICLE 13 – WORKERS’ COMPENSATION
+### ARTICLE 13 – WORKERS’ COMPENSATION
 
 
 Section 1.
@@ -1926,7 +1926,7 @@ Health & Safety web page and in OHCC Care Provider Guide.
 
 
 2023-2025 SEIU Homecare                    45                         Collective Bargaining Agreement
-                              ARTICLE 14 – SERVICE PAYMENTS
+### ARTICLE 14 – SERVICE PAYMENTS
 
 
 Section 1. Prior Authorization
@@ -2226,7 +2226,7 @@ hours of services they worked regardless of the number of consumers.
 
 
 2023-2025 SEIU Homecare                   53                        Collective Bargaining Agreement
-          ARTICLE 14.1 – SERVICE PAYMENTS FOR HOMECARE WORKERS
+### ARTICLE 14.1 – SERVICE PAYMENTS FOR HOMECARE WORKERS
 
 
 Section 1. Rates.
@@ -2329,7 +2329,7 @@ f)       If a new Assessment is performed and the consumer no longer qualifies f
 
 
 2023-2025 SEIU Homecare                   56                          Collective Bargaining Agreement
-     ARTICLE 14.2 – SERVICE PAYMENTS OF PERSONAL SUPPORT WORKERS
+### ARTICLE 14.2 – SERVICE PAYMENTS OF PERSONAL SUPPORT WORKERS
 
 
 Section 1. Wage Maintenance.
@@ -2515,7 +2515,7 @@ b)       PSWs shall receive the hourly training stipend for completing Departmen
 
 
 2023-2025 SEIU Homecare                   61                         Collective Bargaining Agreement
-   ARTICLE 14.3 – SERVICE PAYMENTS FOR PERSONAL CARE ATTENDANTS
+### ARTICLE 14.3 – SERVICE PAYMENTS FOR PERSONAL CARE ATTENDANTS
 
 
 Section 1. Wage Maintenance
@@ -2538,7 +2538,7 @@ Health Authority (OHA) or the Oregon Department of Human Services (ODHS).
 
 
 2023-2025 SEIU Homecare                62                        Collective Bargaining Agreement
-            ARTICLE 15 – TRAVEL TIME, TRANSPORTATION AND MILEAGE
+### ARTICLE 15 – TRAVEL TIME, TRANSPORTATION AND MILEAGE
                                     REIMBURSEMENT
 
 
@@ -2687,7 +2687,7 @@ or other injury related to driving and may have any paid claims recovered.
 
 
 2023-2025 SEIU Homecare                    66                           Collective Bargaining Agreement
-                          ARTICLE 16 – TIME-OFF REQUEST PROCESS
+### ARTICLE 16 – TIME-OFF REQUEST PROCESS
 
 
 It is not the Homecare or Personal Support Worker’s responsibility to find their own
@@ -2704,7 +2704,7 @@ provider.
 
 
 2023-2025 SEIU Homecare                  67                          Collective Bargaining Agreement
-     ARTICLE 17.1 – TASK LIST OF AUTHORIZED SERVICES FOR HOMECARE
+### ARTICLE 17.1 – TASK LIST OF AUTHORIZED SERVICES FOR HOMECARE
                                       WORKERS
 
 
@@ -2756,7 +2756,7 @@ at any time.
 
 
 2023-2025 SEIU Homecare                69                        Collective Bargaining Agreement
- ARTICLE 17.2 – SERVICE AGREEMENT FOR PERSONAL SUPPORT WORKERS
+### ARTICLE 17.2 – SERVICE AGREEMENT FOR PERSONAL SUPPORT WORKERS
 
 
 Section 1. Service Agreement or Client Service Plan.
@@ -2786,7 +2786,7 @@ Sections 1 through 3 of this Article do not apply to Independent Choices PSWs.
 
 
 2023-2025 SEIU Homecare                  70                          Collective Bargaining Agreement
-       ARTICLE 17.3 – SERVICE AGREEMENT OR CLIENT SERVICE PLAN OF
+### ARTICLE 17.3 – SERVICE AGREEMENT OR CLIENT SERVICE PLAN OF
               AUTHORIZED SERVICES FOR PERSONAL CARE ATTENDANT
 
 
@@ -2816,7 +2816,7 @@ Agency to the Consumer and Common Law Employer.
 
 
 2023-2025 SEIU Homecare                  71                          Collective Bargaining Agreement
-                     ARTICLE 19 – SERVICE PAYMENT OVERPAYMENTS
+### ARTICLE 19 – SERVICE PAYMENT OVERPAYMENTS
 
 
 Section 1. Overpayments.
@@ -2902,7 +2902,7 @@ may grieve the determination through the grievance procedure.
 
 
 2023-2025 SEIU Homecare                   73                            Collective Bargaining Agreement
-                          ARTICLE 20 – HEALTH AND SAFETY
+### ARTICLE 20 – HEALTH AND SAFETY
 
 
 Section 1. Safe and Healthy Work Environment.
@@ -3078,7 +3078,7 @@ Independent Choices Program PSWs are to follow the guidelines in this Article.
 
 
 2023-2025 SEIU Homecare                 78                         Collective Bargaining Agreement
-                          ARTICLE 21 – OHCC TRAINING COMMITTEE
+### ARTICLE 21 – OHCC TRAINING COMMITTEE
 
 
 Section 1. Committee Membership
@@ -3156,7 +3156,7 @@ for Providers.
 
 
 2023-2025 SEIU Homecare                       80                          Collective Bargaining Agreement
-                 ARTICLE 22 – JOINT LABOR MANAGEMENT COMMITTEE
+### ARTICLE 22 – JOINT LABOR MANAGEMENT COMMITTEE
 
 
 Section 1.
@@ -3208,7 +3208,7 @@ committee meeting. Advisors and guests shall not be voting members of the commit
 
 
 2023-2025 SEIU Homecare                   82                      Collective Bargaining Agreement
-                            ARTICLE 24 – OVERTIME AND HOURS
+### ARTICLE 24 – OVERTIME AND HOURS
 
 
 Section 1. Work Week
@@ -3259,7 +3259,7 @@ exception.
 
 
 2023-2025 SEIU Homecare               84                         Collective Bargaining Agreement
-                ARTICLE 25 – PROVIDER NUMBER TERMINATION RIGHTS
+### ARTICLE 25 – PROVIDER NUMBER TERMINATION RIGHTS
 
 
 Section 1. Homecare Provider Number Termination.
@@ -3330,7 +3330,7 @@ provide legal representation.
 
 
 2023-2025 SEIU Homecare                   86                          Collective Bargaining Agreement
-                          ARTICLE 26 – RETIREMENT SECURITY
+### ARTICLE 26 – RETIREMENT SECURITY
 
 
 The State of Oregon and SEIU have a shared interested in ensuring all Oregonians have
@@ -3351,7 +3351,7 @@ Saves Program, PPL and APD’s payment systems.
 
 
 2023-2025 SEIU Homecare                87                         Collective Bargaining Agreement
-ARTICLE 27 – AMERICANS WITH DISABILITIES ACT (ADA) ACCOMMODATIONS
+### ARTICLE 27 – AMERICANS WITH DISABILITIES ACT (ADA) ACCOMMODATIONS
 
 
 Providers shall have the right to request an ADA accommodation.
@@ -3423,7 +3423,7 @@ requests:
 
 
 2023-2025 SEIU Homecare                      89                         Collective Bargaining Agreement
-                          ARTICLE 28 – LANGUAGE ACCESS
+### ARTICLE 28 – LANGUAGE ACCESS
 
 Upon implementation of the Universal Provider Portal (UPP), the State shall provide the
 opportunity for Providers to enter demographic information to include the Provider’s
@@ -3444,7 +3444,7 @@ language.
 
 
 2023-2025 SEIU Homecare                   90                           Collective Bargaining Agreement
-                                    ARTICLE 29 – HOLIDAYS
+### ARTICLE 29 – HOLIDAYS
 
 The Parties agree, effective January 1, 2024, as follows:
          1.        The following days will be recognized as holidays:
@@ -3474,7 +3474,7 @@ The Parties agree, effective January 1, 2024, as follows:
 
 
 2023-2025 SEIU Homecare                        91                           Collective Bargaining Agreement
-         LETTER OF AGREEMENT – Electronic Visit Verification for DD PSWs
+### LETTER OF AGREEMENT – Electronic Visit Verification for DD PSWs
 
 
 This Letter of Agreement (LOA) is entered into between the Department of
@@ -3600,7 +3600,7 @@ Agreement:
 
 
 2023-2025 SEIU Homecare                      94                            Collective Bargaining Agreement
- LETTER OF AGREEMENT – Implementation of Provider Time Capture (PTC) for
+### LETTER OF AGREEMENT – Implementation of Provider Time Capture (PTC) for
      Homecare Workers and Personal Care Attendants Paid through the Client
                           Employed Provider (CEP) Payment System
 
@@ -3835,7 +3835,7 @@ communication prior to it being sent to workers.
 
 
 2023-2025 SEIU Homecare                         100                            Collective Bargaining Agreement
-         LETTER OF AGREEMENT – Visual Aids for Common Provider Issues
+### LETTER OF AGREEMENT – Visual Aids for Common Provider Issues
 
 
 This Letter of Agreement (LOA) is entered into between the Department of
@@ -3853,7 +3853,7 @@ common languages used by the bargaining unit.
 
 
 2023-2025 SEIU Homecare                  101                          Collective Bargaining Agreement
-       LETTER OF AGREEMENT – Data and Reports Coordination Workgroup
+### LETTER OF AGREEMENT – Data and Reports Coordination Workgroup
 
 
 This Letter of Agreement (LOA) is entered into between the Department of
@@ -3880,7 +3880,7 @@ This Agreement shall expire on June 30, 2025, unless extended by mutual agreemen
 
 
 2023-2025 SEIU Homecare                   102                         Collective Bargaining Agreement
-       LETTER OF AGREEMENT – Supplemental, Benefit and Training Trusts
+### LETTER OF AGREEMENT – Supplemental, Benefit and Training Trusts
 
 
 This Letter of Agreement (LOA) is entered into between the Department of
@@ -3948,7 +3948,7 @@ shall be the policy holder of any insurance policy offered by and through such T
 
 
 2023-2025 SEIU Homecare                  104                          Collective Bargaining Agreement
-                          LETTER OF AGREEMENT – Administrative Time
+### LETTER OF AGREEMENT – Administrative Time
 
 
 This Letter of Agreement (LOA) is entered into as a pilot program between the
@@ -3971,7 +3971,7 @@ This Agreement shall expire on June 30, 2025, unless extended by mutual agreemen
 
 
 2023-2025 SEIU Homecare                    105                     Collective Bargaining Agreement
-              LETTER OF AGREEMENT – PTCS/EVV System Improvements
+### LETTER OF AGREEMENT – PTCS/EVV System Improvements
 
 
 This Letter of Agreement (LOA) is entered into between the Department of
@@ -4009,7 +4009,7 @@ This Agreement shall expire on June 30, 2025, unless extended by mutual agreemen
 
 
 2023-2025 SEIU Homecare                       106                           Collective Bargaining Agreement
-       LETTER OF AGREEMENT – Personal Care Attendant Enhanced Wages
+### LETTER OF AGREEMENT – Personal Care Attendant Enhanced Wages
 
 
 This Letter of Agreement (LOA) is entered into between the Department of
@@ -4048,7 +4048,7 @@ This Agreement shall expire on June 30, 2025 unless extended by mutual agreement
 
 
 2023-2025 SEIU Homecare                   107                        Collective Bargaining Agreement
-     LETTER OF AGREEMENT – Emotional Support and Services Animal Care
+### LETTER OF AGREEMENT – Emotional Support and Services Animal Care
 
 
 This Letter of Agreement (LOA) is entered into between the Department of
@@ -4073,7 +4073,7 @@ This Agreement shall expire on June 30, 2025, unless extended by mutual agreemen
 
 
 2023-2025 SEIU Homecare                108                        Collective Bargaining Agreement
-                          LETTER OF AGREEMENT – Consumer Choice
+### LETTER OF AGREEMENT – Consumer Choice
 
 
 This Letter of Agreement (LOA) is entered into between the Department of
@@ -4108,7 +4108,7 @@ This Agreement shall expire on June 30, 2025, unless extended by mutual agreemen
 
 
 2023-2025 SEIU Homecare                   109                       Collective Bargaining Agreement
-   LETTER OF AGREEMENT – Marketing Administrative Rules, Rate Study and
+### LETTER OF AGREEMENT – Marketing Administrative Rules, Rate Study and
                                   Agency with Choice
 
 
@@ -4169,7 +4169,7 @@ This Agreement shall expire on June 30, 2025, unless extended by mutual agreemen
 
 
 2023-2025 SEIU Homecare                111                        Collective Bargaining Agreement
- LETTER OF AGREEMENT – Legacy Workers (PSWs Paid Above the Negotiated
+### LETTER OF AGREEMENT – Legacy Workers (PSWs Paid Above the Negotiated
                                          Hourly Rates)
 
 
@@ -4245,7 +4245,7 @@ Agreement.
 
 
 2023-2025 SEIU Homecare                      113                          Collective Bargaining Agreement
-                                 APPENDIX A – PAY SCALE
+### APPENDIX A – PAY SCALE
 
 
 The Base Rate for all non-legacy Providers shall be seventeen dollars and seventy-

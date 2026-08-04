@@ -16,13 +16,12 @@ agency_registry_slugs: []
 source_url: https://co.coos.or.us/files/1d95d5c8c/ona%5Fcba%5F2024-2027.pdf
 source_format: pdf
 retrieved: '2026-08-02'
-source_sha256: 2ed8e4b39e99c46a8b38c2460fcce84c2e97d771e0d8f4305d68082609fb89e8
+source_sha256: 849f568ccedc7ba24c2654b677e0521a3309300875e0beeb1a1a7db8942800b9
 snapshot_policy: hash-only
 status: current
-content_mode: summary
+content_mode: 'verbatim'
 text_source: ocr
-reproduction_basis: 'jointly-authored contract; summary + official link per the class determination
-  in corpus.yml schema.doc_types (verbatim: false)'
+reproduction_basis: 'public record of a public body (ORS 192.311-192.478); the employer publishes the executed agreement in full at source_url; a ratified agreement is an official act (Georgia v. Public.Resource.Org, 590 U.S. 255 (2020)) — mirrored in full per the class determination in corpus.yml schema.doc_types (verbatim: true)'
 conversion_notes: no text layer in the source PDF; text recovered by OCR. Two independent
   engines (tesseract (ocrmypdf) + paddleocr PP-OCRv6) agree on 99% of the word sequence and
   90% of the 555 figures, 99% dictionary-recognizable; 26 heading/letterhead token(s) lost
@@ -43,8 +42,8 @@ tags:
 - coos-county
 ---
 
-> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated
-> summary, not the agreement's official text. Verify against the official
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a non-authoritative
+> mirror of the agreement's text, not the official record. Verify against the official
 > source: <https://co.coos.or.us/files/1d95d5c8c/ona%5Fcba%5F2024-2027.pdf> (retrieved 2026-08-02).
 
 # Coos County — ONA CBA 2024-2027
@@ -58,10 +57,6 @@ Collective bargaining agreement between **Coos County** and **ONA** — **2024-2
 - Source document: 39 pages (PDF)
 - **The source is an image-only scan.** Its committed text is a machine reading corroborated by two independent OCR engines (99% word-sequence agreement — see conversion_notes). Dates and terms above come from that reading; statute citations are deliberately not extracted, because digits are where engines diverge.
 
-This corpus is **summary-first for agreements**: the contract's text is not
-reproduced here (see Curator notes), and nothing on this page states or
-paraphrases the agreement's terms. Read the agreement itself at the official
-source link above.
 
 ## Curator notes
 
@@ -79,3 +74,1837 @@ Statutes and rules the document's text cites are recorded in frontmatter
 `relationships.references_external` (0 citation(s)) and resolve into
 `executive-regulatory-frameworks` as cites — this corpus asserts no
 `implements` edge anywhere.
+
+## Full text
+
+                   COLLECTIVE BARGAINING AGREEMENT
+
+
+
+
+                                          Between
+
+
+
+                                     COOS COUNTY
+
+
+                                             And
+
+
+
+                            OREGON    NURSES ASSOCIATION
+
+
+
+
+                              July 1, 2024 through June 30, 2027
+
+
+
+
+Coos County/ONA 2024-2027                          i
+                                 Table of Contents
+
+
+ARTICLE 1 - PREAMBLE ooo... ccceceeeeeseceneteeesereeeenserneeseeeecnenteniasnneens 4
+
+
+ARTICLE 3 - RECOGNITION .......cccceseeeer
+                               ree eetcsrseessnssercseereeseseessaaees 6
+
+
+ARTICLE 4 - RIGHTS OF PARTIES vo... ce cccece ce tesesserseeresreeseetanrsenaee 7
+
+
+ARTICLE 5 - MANAGEMENT               RIGHTS uc. eeee ee eee eter retserereretseasans 7
+
+
+ARTICLE 6 - WORK RULES ......              cect     cee cen ence nea teernerereseQnniannncnenies 8
+
+
+ARTICLE 7 - ASSOCIATION MEMBERSHIP.......ccccscseseseeesseetesessenees 8
+
+
+ARTICLE 8 - HOLIDAYS 00... eect                 cee cence cect rsaessausereeereeseasernannenneenaes 9
+
+
+ARTICLE 9 - VACATION LEAVE .0.....ecccecccceseeescrseecceeeesseneteesenereeneneieees 11
+
+
+ARTICLE 10 - SICK LEAVE. .....ccccccceesscsscesereeerenscesseesneeenaeeeeeeseneaniiaeees 14
+
+
+ARTICLE 11] - OTHER LEAVE .....cccccscscecettecnsereenerenettiieccreneeerneeeees 16
+
+
+ARTICLE 12 - HOURS OF WORK oo ceiccctee
+                                 eens erteerneeteesecnanteanennieers 19
+
+
+ARTICLE 13 - OVERTIME ......ccccccceseceseseseretnsesseseerersteeaascenserneessasees 20
+
+
+ARTICLE 14 - WAGES 0.00. cece              teenie rie eer ees erentenerecererennerensceneaniets 22
+
+
+ARTICLE 15 - HEALTH & LIFE INSURANCE... ccccsessccseeeressetseerineane 25
+
+
+ARTICLE 16 - PENSION.......cccesccccceseceserseeereeesssssesceeeneessteestenssnseeees 26
+
+
+ARTICLE 17 - WORKERS! COMPENSATION |... cccccseresecetetessseateereeens 26
+
+
+Coos County/ONA 2024-2027                             ii
+ARTICLE 18 - OTHER BENEFITS ooo. cccccccccceeneeneesssesssecaeteteeteeneenes 27
+
+
+ARTICLE 19 - ADJUDICATION OF RIGHTS ooo...            eee ceesceseeveeereeeneentees 29
+
+ARTICLE 20 - SPECIAL CONFERENCES ......ccccccccesererseeesseteenanteennetae 30
+
+
+ARTICLE 21 - DISCIPLINE AND DISCHARGE ..0....cccecseeeeeseeeeneeeees 31
+
+
+ARTICLE 22 - GENERAL PROVISIONS .....c ccc eect tec tsteeseerneereeee 32
+
+
+ARTICLE 23 - SENIORITY AND LAY OFF...                ccc ecetersrsererneeniees 33
+
+
+ARTICLE 24 - STRIKES AND LOCKOUTS.....c            ec ccneeseteesneeterteenneree 36
+
+
+### ARTICLE 25 - WARRANTY OF AUTHORITY ou... cc ccceceeeesneeeeneeniees 36
+
+
+### ARTICLE 26 - REPRODUCTION COSTS oo. ccce ccc te ceteris sneererereeeaatee 36
+
+
+### ARTICLE 27 - SAVINGS CLAUSE .occcc cece              cen ee iceeeennernerserenreeties 36
+
+
+### ARTICLE 28 - CONTRACT NEGOTIATIONS 0...               i eccerecseeteeeseeteertereens 37
+
+
+### ARTICLE 29 - DURATION AND TERMINATION |... ccccseeeresteeneeee 37
+
+
+
+
+Coos County/ONA 2024-2027                    iii
+### ARTICLE 1 - PREAMBLE
+
+
+                This agreement is entered into by Coos County, Oregon hereinafter called the
+
+"County," and the Oregon Nurses Association, hereinafter referred to as the "Association."
+
+The purpose of this Agreement is to set forth the full and complete agreement concerning
+
+collective bargaining matters including wages, hours, working conditions and other matters
+
+specified in the Public Employee Collective Bargaining Act (PECBA).
+
+
+### ARTICLE 2 - DEFINITION OF TERMS
+
+
+                SECTION      1. "Employee" means any nurse employed by the County who
+
+fills a position in one of the classifications listed in the article of recognition.
+
+
+                SECTION 2. "Extra help" means an employee who is not considered to be
+
+either a regular full time or regular part time employee.     Such employee shall be ineligible
+
+for any of the benefits provided in this contract, including but not limited to vacation, sick
+leave, health and welfare coverage and pension contributions. Hours worked by an extra
+
+employee shall not exceed 1040 in any employee's twelve (12) consecutive month period of
+
+time.
+
+
+                SECTION 3. A “regular full-time employee” shall be defined as any
+
+employee who regularly works or is scheduled to work forty (40) hours per week for a
+
+period of six (6) consecutive months.
+
+
+                SECTION 4. A “regular part time employee” is an employee who is
+
+regularly scheduled to work less than forty (40) hours per week for six (6) consecutive
+
+months.
+                 SECTION 5. A “probationary employee” means a regular full time or
+
+regular part time employee who, when initially hired, or promoted, serves a probationary
+period consisting of one year following initial employment with the County or promotion to
+
+a new classification or position within the bargaining unit. During the probationary period,
+
+a probationary employee may be dismissed, or returned to their former position with or
+
+without cause at the sole discretion of the County.   This probationary period may be
+
+extended by mutual written agreement between the employee and the County for up to six
+
+months. The Extension Agreement shall describe the reasons for such extension.
+
+                In the event of a promotion, (which is not merely an assignment to a different
+position) the newly promoted employee shall serve a probationary period consisting of no
+
+less than six months. The probationary period for a newly promoted employee may be
+
+extended up to an additional six months, provided however, in no event will the newly
+
+promoted employee's probationary period last more than one (1) year from the date the
+
+employee first assumed the new position.    The employee who is promoted does not have to
+
+re-qualify for benefits. The employee who is promoted shall have no right to return to their
+
+former position after thirty G0) days of employment in the new position. Within thirty (30)
+
+days of the promotion, if the employee’s former position remains vacant, the employee may
+
+return to their former position, or the employer may place the employee back in her former
+position. The County shall have the unlimited right to fill a vacated position as a result of a
+
+promotion for thirty (30) days with extra-help. After thirty G0) days, the County shall
+
+follow its customary practice with respect to use of extra-help.
+
+
+                 SECTION 6, The feminine gender includes the masculine and the singular
+
+tense includes the plural. “Days” means calendar days unless otherwise specified.
+
+
+
+
+Coos County/ONA 2024-2027                        5
+                 SECTION 7. “Family member" is defined as husband, wife, same-sex
+
+domestic partner, son, daughter, mother, father, brother, sister, brother-in-law, sister-in-law,
+
+daughter-in-law, son-in-law, father-in-law, mother-in-law, grandparent, grandchild, uncle,
+
+aunt, nephew, niece, stepparent or stepchild of the individual, unless otherwise provided by
+law. Legally adoptive or foster parents or children of the employee are included in the
+
+definitions of “father,” “mother,” 2 66, “son,” and “daughter.”
+
+
+
+### ARTICLE 3 - RECOGNITION
+
+
+                The County recognizes the Association as the sole and exclusive bargaining
+
+agent for the purpose of establishing wages, hours and other conditions of employment for
+
+all regular full time and regular part time employees of the County employed in the Public
+
+Health Nurse position.
+
+
+                The employees in the recognized bargaining unit described above shall be
+
+covered by the terms of this Agreement only when such employees are working in
+
+classifications contained in this Agreement. This Agreement is not intended to cover any
+
+other employee classification not specifically referred to in the prior paragraph. Nothing in
+this Agreement shall be construed to prohibit supervisors or other employees from doing
+
+work customarily performed by employees in this bargaining unit on a non-routine basis. In
+
+addition to such non-routine work, supervisors shall not be regularly scheduled to perform
+
+the work of bargaining unit members in excess of thirty-five percent (35%) of their time.
+
+Examples of such non-routine work shall include but are not necessarily limited to work
+
+performed during an emergency; when employees are absent due to illness or vacation; and
+
+when employees are attending meetings or performing work out of town.
+
+
+
+
+Coos County/ONA 2024-2027                            6
+### ARTICLE 4 - RIGHTS OF PARTIES
+
+
+                 The provisions of this Agreement shall be applied equally to all employees in
+
+the bargaining unit without discrimination as to age, marital status, sex, sexual orientation,
+
+race, color, creed, national origin, or political affiliation. The Association shall share
+
+equally with the County the responsibility for applying the provisions of this Agreement.
+
+
+                 The County and Association agree not to interfere with the rights of
+
+employees to become members of the Association. There shall be no discrimination,
+
+interference, restraint, or coercion by the County or any County representative or the
+Association or Association representative against any employee acting in an official capacity
+
+on behalf of the Association or County, or for any other lawful cause, provided such activity
+
+or other cause does not interfere with the effectiveness and efficiency of County operation in
+
+serving and carrying out its responsibility to the public.
+
+
+
+### ARTICLE 5 - MANAGEMENT              RIGHTS
+
+
+                 It is recognized that the County retains certain powers, duties and obligations
+
+to be exercised in the interest of the public health, safety and welfare which cannot be
+
+delegated or contracted away.       It is further recognized by the parties that the County retains
+
+all managerial rights and prerogatives except as specifically modified by a provision of this
+contract; and that they include, but are not limited to, the right and prerogative to:
+
+
+                 1.         Direct employees.
+
+                2.          Evaluate, hire, promote, transfer, assign and retain employees in
+
+positions, and to suspend, demote, discharge or take other disciplinary action against
+
+employees.
+
+
+
+Coos County/ONA 2024-2027                            7
+                 3.         Relieve employees from duties because of lack of work or other
+legitimate reason.
+
+
+                4.          Maintain the efficiency of governmental and County operations.
+
+
+                5.          Determine the methods, means and personnel by which operations are
+
+to be conducted,
+
+
+                6.          Take whatever action may be necessary to carry out the missions of
+
+the County in situations of emergency.
+
+
+                 7,         Determine reasonable schedules of work and establish the methods
+
+and processes by which such work is performed.
+
+
+                 8.         Determine the need for, and assign employees to, educational and
+training programs, on-the-job training and other educational activities.
+
+
+
+### ARTICLE 6 - WORK RULES
+
+                It is jointly recognized that the County retains broad authority to fulfill its
+
+responsibilities and may do so by implementing work rules, oral or written. It is agreed,
+
+however, that no work rule will be adopted or implemented which is inconsistent with any
+
+specific provision of this Agreement. The County agrees the Association has the right to
+
+challenge work rules in the grievance procedure if it believes the work rule to be arbitrary
+
+and/or capricious.
+
+### ARTICLE 7 - ASSOCIATION MEMBERSHIP
+
+
+        Section 1, The County agrees to deduct once each month the Association
+
+membership dues of those Association members who individually authorize such deductions
+
+Coos County/ONA 2024-2027                           8
+in writing on a form supplied by the Association. The Association shall provide written
+
+authorization to deduct and/or cease deduction of membership dues to the County within ten
+
+(10) calendar days of receiving a membership application form or opt out request form from
+
+any nurse who is a member of the bargaining unit. Therefore, the cost per employee is fixed
+
+proportionately at the amount of dues uniformly required by each member of the
+
+Association, which amount shall be deducted monthly from Association member's
+
+compensation and remitted monthly in the aggregate to the Association.
+
+         Section 2. Such uniform amounts as the Association certifies to the County as the
+
+monthly dues approved by the members of the Association shall be the amount deducted
+
+hereunder. If applicable, the County agrees to deduct Union initiation fees.
+
+         Section 3, If the County acts in compliance with the provisions of this Article, the
+
+Association will indemnify, defend and hold the County harmless against any claims made
+
+and against any suit instituted against the County as a result of the County's enforcement of
+
+this Article.
+
+         Section 4. The County will provide the Association with a list of nurses every 120
+
+calendar days showing: name, address, date of hire, job classification, OSBN license
+
+number, telephone number and FTE status. The County will also provide a list of newly
+
+hired nurses with the same information and the names of terminated nurses whenever a
+
+member of the bargaining unit is hired or terminated.
+
+
+### ARTICLE 8 - HOLIDAYS
+
+
+                 SECTION 1. The following days are paid holidays.
+
+
+
+
+Coos County/ONA 2024-2027                         9
+                  New Year's Day                            Independence Day
+
+                  Martin Luther King, Jr.'s Birthday        Labor Day
+
+                  Presidents' Day                           Veteran's Day
+
+                  Memorial Day                              Thanksgiving Day
+                  Friday following Thanksgiving Day       | Christmas Day
+
+
+                 Any day declared by the Governor of Oregon as a holiday for purposes of
+national mourning or celebration.
+
+
+                 After ninety (90) calendar days of employment from the date of hire, two (2)
+
+floating holidays will be granted to regular full or part time employee(s).   Part time
+
+employees shall receive pro rata floating holiday pay. Such holidays must be taken once
+
+during any fiscal year and will not be cumulative.     The department head and the employee
+
+will schedule a mutually convenient time for observance of the floating holidays. After
+
+completion of ten (10) years of continuous county service, regular full and part-time
+
+employees shall be granted one (1) additional floating holiday to be taken once during any
+fiscal year and will not be cumulative. After completion of fifteen (15) years of continuous
+
+County service regular full and part time employees shall be granted one (1) additional
+
+floating holiday to be taken once during any fiscal year and will not be cumulative.
+
+
+                 SECTION 2. Whenever a holiday falls on a weekend, or a nonscheduled
+work day, the closest scheduled work day to the actual holiday shali be taken as the
+
+observed holiday. In order to be eligible for holiday pay, an employee must work the
+
+scheduled day before and the scheduled day after such holiday or be on paid leave (as that
+term is defined in this Agreement) and have worked or been on paid leave no less than
+
+eighty (80) hours in the calendar month of the holiday. The eighty (80) hour requirement
+
+
+
+
+Coos County/ONA 2024-2027                        10
+ shall be pro rata for part time employees,   An employee who fails to meet all of the above-
+
+ described requirements shali not receive holiday pay.
+
+
+                  SECTION 3. Regular full time employees who do not work on a holiday
+ shall receive the equivalent of one full day's pay for that holiday. Regular part time
+
+ employees shall have pro-rated holidays, the number of hours of which will be in direct
+
+ proportion to the percentage of the forty (40) hour work week worked by the regular part
+
+ time employees. If an employee works on a holiday, the employee shall receive his or her
+
+ regular pay plus overtime for the number of those hours actually worked, For all hours in
+
+ excess of eight (8) hours worked on a holiday, the employee will receive double time for all
+
+ hours worked. If a holiday falls on a regular work day, a part time employee shall have the
+
+ option to make up the lost time due to said holiday during that pay period. If a holiday is
+
+ observed on a part time employee's regular day off, the County may schedule such accrued
+
+ time off so long as the employee has accrued sufficient holiday time so that a full shift off
+
+ can be scheduled without loss of pay.
+
+
+                  SECTION 4. Holidays which occur during a vacation or paid leave shall not
+
+. be charged toward such vacation or paid leave.
+
+
+
+### ARTICLE 9 - VACATION LEAVE
+
+                  SECTION 1. Accrual. After having served six (6) continuous months of
+ regular full-time service, employees shall be eligible and shall be credited with forty-eight
+
+ (48) hours of vacation leave. After having served six (6) continuous months of regular part
+
+ time service, employees shall be eligible and shail be credited with a pro rata portion of
+
+ forty-eight (48) hours of vacation leave based upon the actual number of hours worked each
+
+ month during the six (6) month period.
+
+
+
+ Coos County/ONA 2024-2027                         11
+                In order to be eligible for vacation accrual, a regular full-time employee must
+
+have worked or been on paid leave no less than eighty (80) hours in the month. Regular part
+
+time employees shall accumulate vacation leave on a pro rata basis. Employees shall accrue
+
+vacation leave at the rates provided on the following schedule of continuous services:
+
+       (a)      Less than five (5) full years’ service, eight (8) hours for each month of
+
+                service cumulative to a maximum of one hundred ninety-two (192) hours (24
+
+                days). After six (6) months of service, the employee shall be entitled to
+
+                forty-eight (48) hours vacation.
+
+        (b)      Five (5) full years, but less than ten (10) full years of service, ten (10) hours
+                 for each month of service cumulative to a maximum of two hundred forty
+
+                 (240) hours (30 days).
+
+        (c)      Ten (10) full years, but less than fifteen (15) full years of service, twelve
+
+                 (12) hours for each month of service cumulative to a maximum of two
+
+                 hundred eighty-eight (288) hours (36 days).
+
+
+        (d)      Fifteen (15) full years but less than twenty (20) full years of service, fourteen
+                 (14) hours for each month of service, cumulative to a maximum of three
+
+                 hundred thirty-six (336) hours (42 days).
+
+
+        )       Twenty (20) or more full years service, sixteen (16) hours for each month of
+
+                service, cumulative to a maximum of three hundred eighty-four (384) hours
+                (48 days).
+
+
+                Employees shall not accumulate vacation hours in excess of the amounts
+
+indicated in paragraphs (a), (b), (c), (d) and (e). Whenever it appears that an employee will
+
+lose vacation hours because of accrual limitations they shall be notified in writing by the
+
+department at least three (3) months prior to the time that such vacation time would be lost.
+
+
+Coos County/ONA 2024-2027                          12
+Such notification shall be countersigned by the employee and a copy kept of record by the
+
+department head. The employee and department shall arrange for a mutually convenient
+
+time for vacation time to be taken within the three (3) month period.
+
+
+                  Earned and unused vacation time exceeding the maximum allowed shall be
+
+forfeited, except that vacation time exceeding the maximum amount to be accrued shall not
+
+be forfeited whenever, as a result of a requirement of the department head, such time cannot
+
+be taken. Vacation time not forfeited shall be taken as soon as possible and as mutually
+
+agreed. Vacation accrual shall be prorated for part time employees.
+
+
+                  SECTION 2. Vacation Accrual During Leave and After Lay Off, Ail
+
+authorized leave taken as a part of the employee's continuous service shall be counted for the
+
+purpose of determining the employee's accrual rate. The employee shall accrue vacation
+
+leave when on paid leave. To the extent permitted by applicable law, an employee on a
+
+short-term disability or an employee off work as a result of a workers' compensation injury
+
+shall not accrue vacation or other benefits during the period of such leave.
+
+
+                  Prior service of employees returning from lay off status shall be counted for
+
+the purpose of determining the employee's accrual rate, but the time during lay off shall not
+
+be counted.
+
+
+                  SECTION 3, Vacation Times. Employees shall be permitted to choose
+
+either split or entire vacation periods, and shall take not less than five (5) working days
+
+annually,     Whenever practicable, and consistent with the needs of the County and the
+
+availability of vacation relief, employees shall have the right to select vacation times. It
+
+shall be the responsibility of supervisors annually to establish lists showing the vacation
+
+periods chosen by individual employees for planning purposes. In the event of a conflict
+between employees over choice of vacation dates during the first ninety (90) calendar days
+
+Coos County/ONA 2024-2027                         13
+of any calendar year, the conflict shall be resolved by the senior employee having the right
+
+to select the preferred vacation time. Each employee shall be permitted to exercise his or
+
+her right of seniority for vacation scheduling only one (1) time every other calendar year.
+
+After the first ninety (90) calendar days of the calendar year, vacation requests will be
+
+granted on a first come, first served basis.
+
+
+                 SECTION 4. Termination or Death.      In the event of the termination or death
+
+of an employee, all accumulated vacation credits shall be paid at that employee's current
+
+salary rate either to the employee or to their heirs. An employee who is terminated for just
+
+cause shall not be eligible for any accrued but unused vacation pay.
+
+
+
+### ARTICLE 16 - SICK LEAVE
+
+
+                 SECTION 1, Regular full-time employees shall accumulate sick leave at the
+
+rate of eight (8) hours per month of service at their regular rates of pay for each month in
+
+which he or she works and/or is on paid leave for eighty (80) hours or more. Regular part
+
+time employees shall accumulate sick leave at a rate proportionate to the actual amount of
+time worked. Regular employees are eligible for use of accrued sick leave upon completion
+
+of one (1) month of employment.
+
+
+                 SECTION 2. Accrued sick leave may be utilized by an employee when he or
+she is unable to perform his or her duties by reason of his or her personal illness or injury,
+
+necessity for medical or dental care including check-ups, exposure to contagious disease,
+
+because of illness or injury to his or her family member, or for any other reason permitted
+
+under ORS 653.601 ef seq. (i.e., “Oregon’s Sick Time Law”).       The employee may be
+
+required to furnish satisfactory evidence of illness, consistent with state and federal law.
+
+
+
+
+Coos County/ONA 2024-2027                        14
+                 SECTION 3. No compensation for accrued sick leave shall be provided for
+
+any employee for any other purpose, except as provided herein, Upon an employee’s death,
+
+or termination of employment for whatever reason (excluding termination for just cause),
+and the employee has completed one (1) continuous year of service, either the employee or
+
+the employee’s heirs shall be paid twenty-five percent (25%) of his/her unused sick leave up
+
+to nine hundred sixty (960) hours. Upon retirement, the balance of sick leave hours shall be
+reported to PERS. Payments upon termination shal! be based upon the employee's final rate
+
+of pay. Sick leave shall not accrue during any period of leave of absence or layoff.
+
+
+                 SECTION 4. Sick Leave Abuse, There is no presumption of sick leave
+abuse, and it is presumed that employees in the bargaining unit will always endeavor to
+
+maintain the highest standards of personal and official integrity.
+
+
+                 SECTION 5. Transfer of Sick Leave. An employee having accumulated sick
+
+leave may transfer a portion of his or her accumulated sick leave to any other County
+employee who is suffering from an injury, disability or illness preventing the employee from
+
+returning to work and who has exhausted all of his or her accumulated sick leave, accrued
+
+vacation leave and other leave with pay to which he or she may be entitled. Sick leave
+
+contributions may be made only in units of eight (8) hours. Contributions of sick leave shall
+
+be limited as follows: Only employees who have accumulated more than two hundred forty
+
+(240) hours may make contributions, and no employee may contribute more than forty (40)
+
+hours per year to any other employee.   No employee can receive more than two hundred
+
+forty (240) hours contributed sick leave in any one (1) calendar year.
+
+
+                 SECTION 6. The County agrees to unlimited accumulation of sick leave for
+Public Employees Retirement System (PERS) benefits. Sick leave accumulation may be
+
+
+
+
+Coos County/ONA 2024-2027                       15
+used to increase employee retirement benefits by applying the total accumulation to the last
+three (3) years of work for the purpose of determining retirement benefits.
+
+
+
+### ARTICLE 11 - OTHER LEAVE
+
+                  SECTION 1. Personal Leave of Absence. A personal leave of absence up to
+six (6) months may be granted within the discretion of the County for good cause shown
+
+when applied for in writing and in advance, except in extreme circumstances.   The Board of
+
+Commissioners has the authority to extend such leaves. Leaves of absence shall not be
+
+approved for employees accepting other employment.
+
+                  SECTION 2. Family Medical Leave.     Family Medical leave of absence shall
+
+be as required by relevant State and Federal statutes and County Personnel Policies and
+
+Procedures. An employee must use accrued sick, vacation and compensatory time during
+
+such leave consistent with the County Personnel Policies and Procedures. Leave in excess
+of that allowed by statute may be granted by the County.
+
+
+                  SECTION 3. Jury Duty. An employee shall be granted jury leave with pay
+
+for jury duty, up to a maximum of thirty (30) paid days in any consecutive twenty-four (24)
+
+calendar month period, provided that the compensation paid to the employee during the jury
+
+duty shall be reduced by the amount of money, if any, received by the employee for such
+
+duties excluding mileage reimbursement associated with such jury duty unless operating a
+
+County vehicle.
+
+
+                  SECTION 4. Military Leave. Military, alternative service, and Peace Corps
+
+leave shall be granted in accordance with Federal and State Law.
+
+
+
+
+Coos County/ONA 2024-2027                       16
+                  SECTION 5. Court Appearance.        When an employee is subpoenaed for a
+
+court appearance regarding County business, the employee shall be paid at his regular rate of
+
+pay provided that the compensation paid to the employee during the court appearance shall
+
+be reduced by the amount of money, if any, received by the employee for such duties,
+
+excluding mileage reimbursement associated with such court appearance unless operating a
+County vehicle.
+
+
+                  SECTION 6. Educational Leave. After completing one (1) year of service,
+
+an employee upon request may be granted leave of absence without pay for educational
+purposes at an accredited school when it is related to his employment,     The Administrator of
+
+the Department shall have the sole discretion to determine whether the requested leave of
+absence is approved. The decision of the Administrator shail be final and binding. A period
+
+of such leave shall not exceed one (1) year, but it may be renewed or extended by the
+
+County at the request of the employee when necessary. Employees may also be granted
+
+leaves of absence, with or without pay, for educational purposes for reasonable lengths of
+
+time to attend conferences, seminars and other functions of a similar nature that are intended
+
+to improve or upgrade the individual's skills or professional ability, provided that, in the sole
+
+discretion of the County, it does not interfere with the operation of the County.
+
+
+                  SECTION 7. Expenses. Upon written authorization, food, lodging and travel
+
+expenses shall be paid pursuant to County policy to a nurse who is required by the County to
+attend a conference or meeting away from home or job location upon receipt of a proper
+
+detailed County expense form,    Changes to the previously issued written authorization
+
+require supervisory approval. County will pay tuition and instructional material costs for
+
+any employee required by the County to attend a regular course of instruction. The County
+
+may continue its current practice of advancing monies to nurses who submit proper expense
+
+forms.
+
+
+Coos County/ONA 2024-2027                        17
+                 SECTION 8, Bereavement Leave,       Bereavement leave shall be granted as
+
+required by Oregon Revised Statutes. In addition, regular full-time employees shall be
+
+allowed up to forty (40) hours for bereavement leave, to be used concurrently with leave
+
+required under Oregon Revised Statutes, with pay at straight-time, for the purpose of
+
+grieving the death of an employee’s family member. Regular part time employees shall have
+pro-rated bereavement leave, the number of hours of which will be in direct proportion to
+
+the percentage of the forty (40) hour work week worked by the regular part time employees
+for the purpose of grieving the death of an employee's family member.      Bereavement leave
+
+may be extended up to one (1) week if the death occurs outside the state and the employee
+
+does in fact travel outside the state of Oregon to attend the funeral; provided however, that
+the employee shail use any available accruals or be granted leave without pay to cover such
+
+additional leave. Paid days off will be limited to the employee's scheduled workdays.
+
+Scheduled days off wili not be changed to avoid payment of bereavement leave. Should the
+
+employee be notified on the job of such death, he/she will also get the remainder of that day
+off with pay. Time off for the death of relatives not covered under the definition of family
+
+member, or time off in addition to the days specified above, may be taken as unpaid leave
+
+provided the employee has received the authorization from the department head. It shall be
+
+the duty of the employee to notify the department head of a pending absence.
+
+
+                 SECTION 9. Association Business.     An employee may be granted an unpaid
+
+leave of absence in order to participate in Association business. Requests for such leave
+shall be in writing and shall not be unreasonably denied by the County.   Denial of leave is
+
+subject to the grievance process. The County has no obligation to grant more than ten (10)
+
+calendar days off to any bargaining unit nurse in any calendar year for purposes of attending
+
+to Association business.
+
+
+
+
+Coos County/ONA 2024-2027                       18
+                SECTION 10. Educational Training.      At such time as the Oregon State
+
+Board of Nursing adopts mandatory educational requirements for license maintenance, the
+
+County and the Association will negotiate this Article. During these negotiations, Article
+
+XXIV shail not apply.
+
+### ARTICLE 12 - HOURS OF WORK
+
+
+                SECTION 1. The normal workday for regular full or part time nurses shall
+
+consist of eight (8) consecutive hours of work, or ten (10) consecutive hours, excluding
+
+lunch periods. Employees shall be scheduled to work on a regular work shift and each shift
+shall have regular starting and ending times. The basic work week shall consist of seven (7)
+
+consecutive days starting at 12:01 AM Sunday and ending the following Saturday at
+
+midnight and shali normally consist of five (5) consecutive days of work, commencing on
+
+Monday and ending on Friday.
+
+
+                 SECTION 2. Each employee shall be afforded a fifteen (15) minute rest
+period during the first four (4) hours of the work day and a fifteen (15) minute rest period
+
+during the second four (4) hours of the work day.
+
+
+                 SECTION 3. Each employee shall be afforded a one (1) hour lunch period
+
+on the employee's time, which shall be scheduled as near as possible to the middle of the
+
+work day.
+
+
+                 SECTION 4. County will attempt to give an employee seven (7) days’ notice
+
+of any work to be performed outside of the normal work day or normal work week.        If less
+
+than 48 hours’ notice is provided, all work performed outside of the normal work day or
+
+normal work week and within 48 hours of the employee's receipt of notice shall be
+
+compensated at the overtime rate. This section applies to both temporary and permanent
+
+schedule changes.
+
+
+Coos County/ONA 2024-2027                       19
+                 SECTION 5. So that the employee can more effectively meet the health
+
+needs of the community, he or she may, with the consent of the County, elect to work
+
+outside of the normal work day or normal work week.     However, under this provision,
+
+except as provided in Article 13, Section 4 of this agreement, no employee may work more
+
+than forty (40) hours in any one (1) week.   By mutual agreement between an employee and
+
+the individual manager, the employee will be able to work a schedule equivalent to a four
+
+(4) day/ ten (10) hour day workweek. The employee would be paid one and one-half (1/2)
+
+times their regular rate of pay for work performed over forty (40) hours in a week.
+
+
+                 SECTION 6. The overtime provisions of this Article and of Article 13 -
+Overtime shall not apply to time spent in employee-initiated travel to and from and
+
+participation in County authorized professional training sessions. If an employee is
+
+authorized by the County to participate in such training on the employee's regular day off,
+
+the County shall provide an equal amount of compensatory time off.
+
+
+                 SECTION 7. Travel required by the County or in relation to authorized
+
+professional training, shall be compensated pursuant to the terms of this Agreement and
+
+County policy.
+
+### ARTICLE 13 - OVERTIME
+
+                 SECTION 1. Except in an emergency, all overtime must be approved in
+
+advance by the County. Overtime is work performed in excess of forty (40) hours in a seven
+
+(7) consecutive day period. For those employees assigned to work a four (4) day/ ten (10)
+
+hour work week, overtime is work performed in excess of ten (10) hours in one day or forty
+
+(40) hours in a seven (7) consecutive day period.
+
+
+
+
+Coos County/ONA 2024-2027                       20
+                 SECTION 2. Overtime as defined in section 1 shall be compensated by cash
+
+or by time off computed at the rate of one and one-half (1-1/2) times for each hour or quarter
+
+of an hour of overtime worked, taken within the same quarter.
+
+
+                 The employee may elect to take cash or compensatory time off, providing
+
+funds remain in the department budget for payment of cash. In all cases, the employee will
+have the consent of the department regarding when the compensatory time may be taken.       If
+
+an agreement cannot be reached as to when the time may be taken, the County shall pay the
+
+employee cash.
+
+
+                 SECTION 3. Call Back Time.     Any employee who has been off duty and is
+
+called back to work to their work site location outside their regular work shift shal! be
+
+compensated by cash or time off a minimum of two (2) hours at the rate of one and one-half
+
+(1-1/2) times their normal pay.
+
+
+                 SECTION 4. Flex Time.     Employees shall be paid overtime as stated in
+
+Sections 1, 2 and 3 with the following exceptions:
+
+
+                 Employees whose work assignments require work in excess of their regular
+
+eight (8) or ten (10) hours in one day shall be granted compensatory time off (Flex Time) at
+
+straight time which shall be taken within the twenty-six (26) week periods earned and set
+
+forth below. To the extent possible and consistent with operational requirements such comp
+time shall be taken at the convenience of the employee. If an employee fails to request
+
+specific times off, when accrued Flex-Time hours balance exceeds twenty-four (24) hours,
+
+or when the County is unable to accommodate the specific time(s) requested by the
+employee, the County may select the dates and/or times to be taken off.     The parties
+
+recognize that for the purpose of effectuating the Flex Time arrangements in this Article, the
+
+parties have entered into a valid “1040 plan” pursuant to 29 USC§ 207(B). The parties
+
+Coos County/ONA 2024-2027                       21
+agree that the twenty-six (26) consecutive week periods will begin on January 1 and July 1
+
+of each year.
+
+### ARTICLE 14 - WAGES
+
+                SECTION 1. Effective July 1, 2024, wage rates shail be increased by 4% as
+
+set forth in Exhibit A, which is attached hereto and incorporated herein by this reference and
+
+which represents an increase in wages compared to the wages in effect on June 30, 2024.
+
+Nurses shall receive retroactive pay from July 1, 2024 to ratification for the difference
+
+between the nurses prior wage rate and the new wage rate for all hours compensated during
+such time period.
+
+
+                Effective July 1, 2025, and July 1, 2026 wages shall be increased by 4%
+
+
+                 SECTION 2. A new émployee will receive a step increase at one (1) year
+
+and yearly thereafter if job performance is acceptable.   Thereafter, employees will receive
+
+yearly step increases if job performance is acceptable until Step 5 is reached. The
+acceptability of job performance shall be determined by the employee's annual job
+
+evaluation. In the event of an unsatisfactory evaluation, the employee will be denied the
+
+regular step increase which would otherwise apply. In the event of such a denial, the
+
+employee will be given five hundred twenty (520) hours of work to improve their
+performance to acceptable standards.    In the event that the employee's work performance
+
+does not improve in this five hundred twenty (520) hours of work period, the step increase
+
+shall not be credited to the employee until such time as the next yearly step increase may be
+
+earned.   Promotion to higher classification will be based, in part, on whether vacancies exist
+
+in higher classifications and whether funds are available for the position. The Administrator
+shall assess experience required. Employees promoted to a higher classification shall serve
+
+the probationary period referenced in Article 2, Section 5 for that classification providing
+
+
+
+Coos County/ONA 2024-2027                       22
+management the ability to evaluate acceptable job performance in the new classification.
+
+Subject to receipt of a satisfactory performance evaluation, a promoted employee may be
+
+eligible for a step increase and a new anniversary date upon completion of six (6) months in
+
+the new position. If an employee's job performance is unsatisfactory, the employee shall be
+
+returned to the job classification at the same salary step held prior to the promotion.
+
+
+                 Step level at which an employee is placed in this higher classification will
+
+provide a salary increase of not less than one (1) step above the employee's former salary. If
+
+an employee's duties and responsibility decrease, the employee may be reduced in
+classification accordingly.
+
+
+                 Employees within the bargaining unit shall be hired at Step 1 of the
+
+appropriate salary, unless a new employee is more qualified than other employees currently
+
+employed at that rate. If a new employee is more qualified, he or she may be hired at any
+
+rate up to the rate at which he or she is as qualified as present employees in that step. Such
+qualifications may be measured by any of the following:
+
+
+                 (a)        Skills required for that position.
+
+
+                 (b)        Any appropriate merit tests.
+
+
+                 (c)        Additional education or formal training beyond the minimum
+
+requirement for the position appropriate for the job classification.
+
+
+                 (d)        Outside nursing experience directly related to the work required
+
+beyond the minimum required for the job classification at a rate of two (2) years for step
+
+longevity.
+
+
+
+
+Coos County/ONA 2024-2027                             23
+                 (e)        If the employee holds any credentials required or preferred in the
+
+classification one range above that being filled, he or she may be hired up to Step 3,
+
+provided no one is employed in Step 1 or 2 who holds such credentials. The County may
+
+require, upon one (1) calendar week notice at the County expense, any employee to take any
+test necessary to implement this section, provided that no employee shall be required for the
+
+purpose of this section to be tested more frequently than once every six (6) months.
+
+
+                EXCEPTION:          The new hire provisions above are not applicable to any
+
+positions established by the County under any program funded in whole or in part by
+agencies outside the County and intended to provide employment or training to minority or
+
+unemployed persons.         Employees hired under such programs may receive the same seniority
+
+rights as other employees.
+
+
+                 SECTION 3. Whenever an employee is required to assume all of the
+
+essential duties and responsibilities in a classification above that which the employee is
+
+classified, for two (2) working weeks or more, the employee shall be paid retroactively for
+
+such work at the rate in which they would be entitled if he or she were promoted to Step 1 of
+
+that position. In no case will the employee make less than an amount equal to one (1) step
+
+above his or her current rate.
+
+
+                 This section does not apply in situations where an employee is assuming the
+
+duties of a higher classification for training purposes and where the County and the
+
+Association have agreed to the classification change without a change in pay.
+
+
+                 Section 4. Longevity Pay. Commencing on an employee’s anniversary date,
+
+employees that are eligible for Longevity Pay will follow the schedule as outlined below.
+
+
+                After ten (10) years of service, an additional one percent (1%) on base pay.
+
+
+Coos County/ONA 2024-2027                           24
+                After fifteen (15) years of service, an additional one and one half percent
+
+(1.5%) on base pay.
+
+
+                After twenty (20) years of service, an additional two percent (2%) on base.
+
+
+
+### ARTICLE 15 - HEALTH & LIFE INSURANCE
+
+
+                The County agrees to make a Health and Welfare monthly premium payment
+
+for each employee for medical; dental; and vision; benefits (G/W/L, D-5, V-4 subject to
+
+availability from OTET). The parties agree that any contribution required by an employee
+
+will be deducted from the employee’s paycheck.
+
+                  Effective July 1, 2021, the County’s contribution towards medical, dental,
+
+and vision benefits shall not exceed an average monthly composite rate of one thousand four
+
+hundred dollars ($1,400.00) per month, per eligible employee unless and until the total
+
+premium for medical, dental and vision benefits exceeds $1,556.00 per month.        If the
+
+monthly premium for medical dental, and vision benefits exceeds $1,556 per month during
+
+the term of this CBA, the County shali contribute a monthly composite rate of ninety percent
+
+(90%) of the monthly premiums for each eligible employee.
+
+                 SECTION 1.    Eligibility. All regular full time and regular part time
+
+employees who are on paid status for eighty (80) or more hours per month shall be eligible
+
+for health insurance the first (1°) day of the month following the first (1) month in which
+
+the employee was on paid status for eighty (80) hours or more. For the purpose of this
+
+agreement, “paid status” includes hours worked (excluding overtime) and hours the
+
+employee was away from work on approved paid leave.
+
+
+Coos County/ONA 2024-2027                       25
+                 SECTION 2.    Individual Health Care Account,    Effective January 1, 2008,
+
+the County shall contribute an amount equal to 2.4% of the employee’s regular wages each
+
+month to a tax free, tax exempt, Individual Health Care Account (i.e. voluntary employees’
+
+beneficiary association [VEBA] account) for all regular full-time and regular part-time
+
+employees who are on paid status for eighty (80) or more hours per month and who have
+
+established eligibility under Section 2 above. The cost to the County of this benefit shall not
+
+exceed an amount equal to 2.4% of the employee’s regular wages. For the purpose of this
+
+section, an employee’s “regular wages” includes all straight time hours worked, overtime
+
+pay, vacation pay, holiday pay, and sick leave pay.
+
+### ARTICLE 16 - PENSION
+
+                 The County shall participate in the Public Employees Retirement System.
+
+Benefits will be provided under the Oregon Public Employees Retirement System (PERS) or
+
+Oregon Public Service Retirement Plan (OPSRP), whichever is applicable pursuant to ORS
+
+238 and 238 A. Effective January 1, 2008, the County shall pick up the six percent (6%)
+
+employee contribution to PERS or OPSERP whichever is appropriate. The County shall
+
+provide for a PERS credit for unused sick leave upon retirement under O.R.S, 237.153.
+
+
+### ARTICLE    17 - WORKERS'       COMPENSATION
+
+                 SECTION 1. Insured Personnel. All County employees will be insured
+
+under the provisions of the Workers' Compensation Act for injuries/illnesses received while
+
+at work for the County.
+
+                 SECTION 2. Supplemental Insurance.     The County will maintain
+
+Supplemental Workers’ Compensation Insurance for each employee covered by this
+
+agreement. The insurance will be provided by the Standard Insurance Company or another
+
+
+
+Coos County/ONA 2024-2027                      26
+comparable carrier. The insurance shall supplement the amount received by the employee
+
+from Workers' Compensation for on-the-job injuries in an amount to insure the injured
+
+employee one hundred percent (100%) of his or her monthly net take home pay up to a
+
+period of six (6) months.
+
+                 SECTION 3. Long Term Disability Insurance.           The County shall maintain
+
+insurance to cover employees in the bargaining unit for long term disabilities. Such
+
+insurance shall supplement Workers' Compensation or Social Security for a period of five
+
+(5) years beginning after the first six (6) months of disability at a rate of sixty percent (60%)
+
+of base monthly pay.
+
+                 SECTION 4. On-the-Job Injury.           Employees off work due to an on-the-job
+
+injury and receiving Workers' Compensation benefits shali continue to accrue seniority
+
+while off work from the beginning of the leave due to the on-the-job injury.
+
+
+
+### ARTICLE 18 - OTHER BENEFITS
+
+
+                 SECTION 1, Bulletin Boards.        The County agrees to furnish and maintain
+
+suitable bulletin boards in convenient places in each work area to be used by the Association
+
+and to allow posting of all notices of the Association. The Association shall limit its posting
+
+of notices and builetins to such bulletin boards.
+
+                 SECTION 2. Association Representatives.          Accredited representatives of the
+
+Association, upon reasonable and proper introduction, shall have reasonable access to the
+
+premises of the County at any time during working hours to examine work conditions,
+
+provided that such visits shall not interfere with or cause neglect of employees' work.
+
+                 SECTION 3. Transportation. If the County provides employees with
+
+vehicles, it will assume responsibility for maintaining and cleaning such vehicles. Vehicles
+
+will be maintained in safe working condition by the County. Any unsafe condition coming
+
+
+Coos County/ONA 2024-2027                           27
+to the attention of the employee shall be reported in writing to the County, and the County
+shall restore the vehicle to a safe and healthful condition as soon as possible or shall remove
+
+the vehicle from service. The Road Department mechanic shall make the determination as to
+
+the safe and healthful condition of any County vehicle. No employee shall be required to
+operate a vehicle which has been reported as unsafe or unhealthy.
+
+
+                    An employee whose job requires driving from home to a job location or
+
+locations other than the Health Department office and back home in his or her vehicle shall!
+
+receive the County designated rates per mile for all such travel. Such mileage
+
+reimbursement shail also be paid for all miles driven in response to County business,
+
+including travel between job locations or Health Department offices when a County vehicle
+is not available.
+
+
+                    SECTION 4. Tuition Reimbursement.     The County may reimburse an
+employee for the cost of tuition, to a maximum of six (6) course hours in a calendar year, for
+
+any course taken on the employee's own time and which is related to his or her position and
+
+will result in professional improvement. The determination of whether the course is related
+
+to an employee's position shall be made by the Administrator, whose decision shail be final
+
+and binding. A denial of the request may be subject to the grievance procedure.      Such denial
+
+shall not be made in an arbitrary or capricious manner.    Reimbursement will be made only if
+
+the employee is able to obtain a grade of "C" or better in the course, if grades, or a "pass" if
+
+the course carries no grade.
+
+
+
+
+Coos County/ONA 2024-2027                         28
+                  SECTION 5. Flu Vaccinations/Pandemic Vaccinations.         The County shall
+
+         make appropriate and timely FLU/Pandemic vaccines at no cost to direct care staff.
+
+
+### ARTICLE 19 - ADJUDICATION OF RIGHTS
+
+                Adjudication of a dispute concerning a regular employee's rights which are
+
+granted by this Agreement shall be accomplished as follows:
+
+
+                STEP1. Within seven (7) calendar days of the occurrence of the matters
+
+causing the dispute, or if the employee is unaware of such matters at the time, then within
+seven (7) calendar days after the employee becomes cognizant of such matters, the
+employee shall present the dispute to his supervisor in writing. The writing shall state the
+
+nature of the dispute, the provisions of the contract which grants the affected right and the
+
+remedy requested.
+
+
+                STEP2. If the dispute is not settled within seven (7) calendar days of the
+
+presentation to the supervisor, the dispute may be presented to the department head or his
+designee within an additional seven (7) calendar days. The department head, or his designee,
+
+and such representatives as he may select shall meet promptly with the employee and the
+
+employee's representative to attempt to settle the dispute.
+
+                STEP3. If the dispute is not settled within fourteen (14) calendar days of its
+
+presentation to the department head, the dispute may be submitted to the Board of County
+
+Commissioners or their designee within fourteen (14) calendar days thereafter.     The Board
+
+of County Commissioners or their designee shall consider the matter and shall issue a
+
+decision within fourteen (14) calendar days of the date that the dispute is submitted to them.
+
+
+                 STEP 4. If the employee is dissatisfied with the decision he may, within
+
+twenty-eight (28) calendar days of the date of the submission of the dispute to the Board of
+
+
+Coos County/ONA 2024-2027                       29
+County Commissioners, serve notice of his intention to arbitrate the dispute. Such notice
+shall be in writing and delivered to the Board of Commissioners,
+
+
+                After the dispute has been so submitted, the parties, or their representatives,
+
+shall jointly request Employment Relations Board for a list of the names of five (5)
+
+arbitrators. The parties shall select an arbitrator from the list by such method as they may
+
+jointly elect or, if they are unable to agree, then by the method of alternative striking of
+
+names under which the employee shall strike the first name objectionable to him and the
+
+County shall strike a name objectionable to it. The final name left on the list shall be the
+
+arbitrator. Nothing in this section shall prohibit the parties from agreeing upon a permanent
+arbitrator or permanent list. The arbitrator’s decision shall be final and binding, but he shall
+
+have no power to alter, modify, add to or detract from the terms of this agreement.     His
+
+decision shall be within the scope and terms of this agreement and in writing. The arbitrator
+
+shall be asked but not required to submit his award within twenty-one (21) calendar days
+
+from the close of the hearing.   His decision may also provide retroactivity not exceeding
+
+forty-two (42) calendar days. The County and the Association shall equally divide the
+
+compensation of the arbitrator's fee, the cost of any hearing room and the cost of shorthand
+
+reports, if mutually agreed to, unless such are paid by the State of Oregon.
+
+
+
+### ARTICLE 20 - SPECIAL CONFERENCES
+
+
+                 Special conferences for important matters may be arranged between
+
+designated representatives of the Association and the County upon request of either party.
+
+The matters to be discussed at such a conference shall be proposed at the time the
+conference is requested. Two (2) Association representatives may participate in such
+
+conferences without loss of pay.
+
+
+
+Coos County/ONA 2024-2027                        30
+### ARTICLE 21 - DISCIPLINE AND DISCHARGE
+
+
+                 SECTION 1. Discipline. Disciplinary action or measures shall include only
+
+the following: oral reprimand, written reprimand, suspension without pay with notice in
+
+writing, demotion, decision-making leave, or discharge.
+
+
+                 The County shall not discipline any employee without just cause. Any
+
+disciplinary action or measure imposed upon an employee may be processed through the
+
+adjudication of rights procedure. If the County has reason to reprimand an employee, it
+
+shall be done in manner that will not embarrass the employee before other employees or the
+public.
+
+
+                 SECTION 2. Suspension/Discharge. The employee and his Association
+
+representative, unless the employee requests otherwise, will be immediately notified in
+
+writing that the employee has been suspended or discharged.      Such notification shall state in
+
+detail the nature of the alleged offense and shall include dates, locations and other
+
+corroborative details.
+
+
+                 The Association shall have the right to take up the suspension and/or
+discharge at Step 3 of the Adjudication of Rights procedure.
+
+
+                 SECTION 3, This article does not apply to probationary employees.
+
+
+                 SECTION 4. Personnel Records and Performance Evaluations.          Personnel
+
+Records: Pursuant to ORS 652.750: At the request of the employee the County shall provide
+
+reasonable opportunity for the employee to inspect the employee's official personnel records
+
+which are used or have been used to determine the employee's qualification for employment,
+promotion, additional compensation or employment termination or other disciplinary action.
+
+At the request of the employee, the County shall furnish a certified copy of such records.
+
+
+Coos County/ONA 2024-2027                       31
+An employee may be obligated to pay any required costs of copying for such certified
+
+records.
+
+
+                Performance Evaluation: Performance evaluations shall be done on an annual
+
+basis. The employee shall be provided with a copy of the evaluation at the time of the
+evaluation.
+
+### ARTICLE 22 - GENERAL PROVISIONS
+
+                 SECTION 1.     Reduction in Personnel. In case of budgetary limitations
+
+requiring a reduction in personnel, the decision to lay off is based on performance, fitness,
+
+seniority and program specialty.   Where otherwise equal in performance, fitness, and
+
+program specialty, persons with the highest seniority will be retained.
+
+
+                 SECTION 2. Change in Assignment.         Current employees will be given
+
+preference in the filling of new positions. A nurse who desires a change in assignments
+
+shall make his/her desires known in writing to the individual designated by the appropriate
+department or division head who shall retain such requests for subsequent consideration
+
+when an opening occurs. The department will post or circulate a list of job vacancies as
+
+they occur. Where there are two (2) or more qualified employees bidding for a vacant
+
+position, preference shall be given to the most senior.
+
+                 SECTION 3.     Alternative Leave Accrual/Longevity.      With the prior
+
+approval of the County and the Association, an employee returning to employment within
+
+two (2) years of their most recent date of separation, shall be credited with their total length
+
+of service for the purpose of determining vacation leave accrual, floating holiday accrual,
+
+and longevity pay.
+
+
+
+
+Coos County/ONA 2024-2027                        32
+### ARTICLE 23 - SENIORITY AND LAY OFF
+
+                 SECTION 1. Seniority shall mean the length of continuous service with the
+County.
+
+
+                 SECTION 2. For the purposes of determining the length of service with the
+County, the accumulation period shall commence with the most recent date of hire for
+
+regular part time or regular full time employees.
+
+
+                 Seniority shall be accumulated separately for regular part time and regular
+
+full time employees.
+
+
+                 SECTION 3. A layoffis defined as an involuntary separation from County
+
+service. A position can be designated for layoff due to lack of work, lack of funds,
+
+abolishment of position or for other involuntary reasons not reflecting discredit on the
+
+employee.    A written notice of layoff stating the reasons for it shall be given at least fifteen
+
+(15) calendar days before the effective date of layoff except in emergency situations. Layoff
+rights pursuant to this article shall extend twenty-four (24) months from the date of
+
+involuntary separation.
+
+
+                 SECTION 4. In the event of lay off or a reduction in hours, employees may
+
+then bump other employees in the following order:
+
+                 (a)        Temporary and extra help employees
+
+                 (b)        Probationary employees
+
+                 (c)        The least senior part time employee in a classification
+
+                 (d)        The least senior full time employee in a classification
+
+
+
+
+Coos County/ONA 2024-2027                            33
+                SECTION 5. An employee subject to layoff in an affected position shall
+
+have the right to "bump" the least senior employee in an equal or lower job classification,
+
+subject to the following:
+
+
+                (a)         The employee must have more seniority than the employee being
+                            "bumped".
+
+                (b)         The employee must have the required skills, ability and qualifications
+
+                            to effectively perform the work of the remaining position without a
+
+                            training period.
+
+
+                (c)         If the employee bumps into a lower classification, such employee
+
+                            shall be placed on a step on the lower pay range which represents an
+
+                            amount closest to, but not more than, the employee's existing salary.
+
+                            Employees who bump to an equal position shall continue at their
+
+                            regular pay rate.
+
+
+                (d)         A part time employee who is eligible to bump a full time employee or
+
+                            an employee with more hours, must agree to work ail of the hours
+
+                            required of the new position.
+
+
+
+                ©)          The decision of the Administrator shall be final with respect to an
+
+                            employee's qualifications to perform the remaining work. The
+                            Administrator's decision may be challenged under the grievance
+
+                            procedure only if made in an arbitrary or capricious manner.
+
+
+
+
+Coos County/ONA 2024-2027                            34
+                (f)         Reduction of hours is defined as a reduced work schedule. A
+
+                            reduction in hours is not subject to bumping rights until the reduction
+
+                            in hours has reached a level that the employee is no longer eligible for
+
+                            County paid benefits. It is agreed that temporary, probationary and
+
+                            extra help employees shall be laid off before a reduction in hours may
+                            be implemented subject to the other provisions of this Article.
+
+
+                (g)    | Areduction in work may, if mutually agreed by the County and the
+
+                            effected employee, be accomplished by a distribution among
+                            employees.
+
+
+                 (h)   = The County shall determine the position(s) to be laid off or reduced in
+
+hours. Layoffs or a reduction in hours may be accomplished by seeking volunteers.
+
+
+                 SECTION 6, Employees shall have re-employment rights in the reverse
+
+order of layoffs. Employees will be notified of re-employment opportunities by certified
+
+mail, return receipt, sent to the last address given by the employee to the County Human
+
+Resources Office. The employee will have five (5) calendar days from postmark date of
+
+such notice to notify the department head of his/her intention to return on the date specified
+
+by the County. Failure to respond timely shall! result in forfeiture of all re-employment
+rights, It shall be the responsibility of the employee who has been laid off to provide the
+
+current telephone number and address where he or she may be reached. Employees outside
+
+the department shall not be employed for a vacancy in the unit if there is an employee on the
+
+layoff list with the required experience and qualifications. Benefits and seniority shall not
+
+accumulate during the layoff period.
+
+                 SECTION 7. Seniority shall be lost for any of the following reasons:
+
+
+
+Coos County/ONA 2024-2027                           35
+                 (a)        Termination, except that permanent employees who resign their
+
+                            position in order to accept a relief or temporary position shall have
+
+                            their accrued seniority restored upon return to permanent status;
+
+
+                 (b)        Layoff or lack of work that has continued for more than twenty-four
+
+                            (24) consecutive months.
+
+### ARTICLE 24 - STRIKES AND LOCKOUTS
+
+                 During the term of this Agreement there will be no strikes, withholding of
+
+professional services or work slowdowns by the employees or lockouts by the County.
+
+### ARTICLE 25 - WARRANTY                OF AUTHORITY
+
+
+                 Persons executing this Agreement on behalf of County and of the Association
+
+hereby warrant and guarantee that they have the authority to act for, bind and collectively
+
+bargain on the behalf of the organizations which they represent.
+
+### ARTICLE 26 - REPRODUCTION COSTS
+
+                 The cost of reproducing copies of this agreement for members of the
+
+bargaining unit and for the County will be shared through a mutual agreement between the
+
+County and the Association.
+
+### ARTICLE 27 - SAVINGS CLAUSE
+
+                 If any part of this agreement should be held unlawful or unenforceable by any
+
+court of competent jurisdiction, the remainder of this agreement shall not be affected thereby
+
+and the parties will immediately enter into collective bargaining negotiations for the purpose
+of arriving at a mutually satisfactory replacement.
+
+
+
+
+Coos County/ONA 2024-2027                            36
+### ARTICLE 28 - CONTRACT NEGOTIATIONS
+
+
+                 A negotiating team for the Association to include no more than two (2)
+
+employees may attend negotiation meetings with County representative to secure renewal of
+
+this contract without loss of pay. The County's obligation shall be to pay each representative
+
+no more than eight (8) hours of straight time pay for each day of contract negotiations. No
+
+pay shall be provided to Association representatives who are not members of the bargaining
+
+unit. Employees shall only receive compensation for time actually spent in collective
+
+bargaining with the County's collective bargaining representatives. During the collective
+
+bargaining process, the County shali not be obligated under any circumstances to provide
+more than one hundred fifty (150) hours of total straight time compensation to the
+employee-representative(s) selected by the Association to participate in the collective
+
+bargaining process. If such paid hours are exceeded before the contract bargaining process
+
+is completed, the date, time and place for negotiation meetings shall be established by
+
+mutual agreement between the parties. In addition, the Association shall be provided notice
+
+and an opportunity to bargain on any County proposed changes in mandatory subjects
+during the term of this Agreement.
+
+### ARTICLE 29 - DURATION AND TERMINATION
+                 This agreement shall be effective upon execution by the parties and shall
+
+remain in force through June 30, 2027, subject to Article XI, Section 10 of the Oregon
+
+Constitution and the provisions of Oregon's Local Budget Law. If either party wishes to
+
+renew or modify this agreement it shall notify the other party in writing not more than one
+
+hundred twenty (120) calendar days or less than ninety (90) calendar days prior to the
+
+expiration of this agreement.
+
+
+
+
+Coos County/ONA 2024-2027                       37
+COOS COUNTY                 OREGON NURSES            ASSOCIATION
+
+By:    ObsexI-              By:                         ‘
+Title: Chg      /                      we   , om
+
+                                  SS
+
+                                       Labor Representative
+
+                            Date:      Al    OS
+
+
+
+                            HEALTH-DEPAR                IT
+
+
+                            Coos Health & Wellness Director”
+                                        02/19/2025
+                            Date:
+
+
+
+
+Coos County/ONA 2024-2027    38
+                                      ONA WAGES
+
+                                           2024-2025
+
+                                   Effective July 1, 2024
+
+
+
+
+               Pay      STEP       STEP         STEP          STEP             STEP            STEP
+RANGE     |   Grade         1        2            3              4                5               6
+
+
+PHN            600      5,667      5,936        6,215         6,510            6,842           7,164
+                         32.6042 | 34.2462 | 35.8558          37.5577          39.4731         473308
+                       $ 66,004 | $ 71,232|  $ 74,580|      $      78,120]   $      82704;   $     85,968
+
+
+
+
+Coos County/ONA 2024-2027                              39
+

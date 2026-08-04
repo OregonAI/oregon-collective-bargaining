@@ -17,12 +17,11 @@ agency_registry_slugs: []
 source_url: https://multco.us/file/federation%5Fof%5Fparole%5Fand%5Fprobation%5Fofficers%5F2024-2027%5Fcontract/download
 source_format: pdf
 retrieved: '2026-08-02'
-source_sha256: 0587bdd757fa85e9636eeaf1d4d0803fc20d329626e4aff4cdf54e335b29a718
+source_sha256: d2502d79850012c1fab45587814db522d5429d9fd73686086b7fab4e104a8ce7
 snapshot_policy: hash-only
 status: current
-content_mode: summary
-reproduction_basis: 'jointly-authored contract; summary + official link per the class determination
-  in corpus.yml schema.doc_types (verbatim: false)'
+content_mode: 'verbatim'
+reproduction_basis: 'public record of a public body (ORS 192.311-192.478); the employer publishes the executed agreement in full at source_url; a ratified agreement is an official act (Georgia v. Public.Resource.Org, 590 U.S. 255 (2020)) — mirrored in full per the class determination in corpus.yml schema.doc_types (verbatim: true)'
 conversion_notes: pdftotext -layout; 152 pages, 280550 characters extracted; NOT human-verified
 last_verified: ''
 verified_by: ''
@@ -54,8 +53,8 @@ tags:
 - multnomah-county
 ---
 
-> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated
-> summary, not the agreement's official text. Verify against the official
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a non-authoritative
+> mirror of the agreement's text, not the official record. Verify against the official
 > source: <https://multco.us/file/federation%5Fof%5Fparole%5Fand%5Fprobation%5Fofficers%5F2024-2027%5Fcontract/download> (retrieved 2026-08-02).
 
 # Multnomah County — Federation of Parole and Probation Officers 2024-2027 Contract
@@ -68,10 +67,6 @@ Collective bargaining agreement between **Multnomah County** and **the signatory
 - Expiry stated in the document's text: 2027-06-30
 - Source document: 152 pages (PDF)
 
-This corpus is **summary-first for agreements**: the contract's text is not
-reproduced here (see Curator notes), and nothing on this page states or
-paraphrases the agreement's terms. Read the agreement itself at the official
-source link above.
 
 ## Curator notes
 
@@ -89,3 +84,5156 @@ Statutes and rules the document's text cites are recorded in frontmatter
 `relationships.references_external` (15 citation(s)) and resolve into
 `executive-regulatory-frameworks` as cites — this corpus asserts no
 `implements` edge anywhere.
+
+## Full text
+
+2024-2027
+
+
+
+
+AGREEMENT
+
+Between
+
+Multnomah County, Oregon
+
+And
+
+Federation of Oregon Parole and Probation Officers
+                  July 1, 2024 – June 30, 2027
+
+                         AGREEMENT
+
+                           BETWEEN
+
+               MULTNOMAH COUNTY, OREGON
+
+                            AND THE
+
+FEDERATION OF OREGON PAROLE AND PROBATION OFFICERS
+
+
+
+
+                       Labor Relations
+                 501 SE Hawthorne, Suite 300
+                     Portland, OR 97214
+                        (503) 988-5135
+
+
+
+
+   This document is available in accessible format upon request
+                                                                                    1
+
+
+                                  TABLE OF CONTENTS
+
+
+            PREAMBLE                                                            1
+
+### ARTICLE 1 DEFINITIONS                                                           2
+
+### ARTICLE 2 RECOGNITION                                                           4
+
+### ARTICLE 3 FEDERATION SECURITY                                                   5
+
+            1.   Rights of Bargaining Unit Employees                            5
+            2.   Deduction of Federation Dues and Fair Share Service Fees       5
+            3.   Administration and Use of Fair Share Service Fees              5
+            4.   Authorization and Certification of Dues and Fair Share Fees    5
+            5.   Appointment to Excluded Positions                              6
+            6.   Monthly Listing of New and Terminated Employees                6
+            7.   Visits by Federation Representatives                           6
+            8.   Indemnification                                                6
+            9.   List of Federation Officers and Stewards                       6
+
+### ARTICLE 4 MANAGEMENT RIGHTS                                                     7
+
+### ARTICLE 5 NO STRIKE OR LOCKOUT                                                  8
+
+### ARTICLE 6 HOLIDAYS                                                              9
+
+            1. Recognized Holidays                                              9
+            2. Holiday Observance                                               9
+            3. Hours of Paid Leave on Observed Holiday                         10
+            4. Holiday During Leave                                            10
+            5. Holiday Pay                                                     10
+            6. Unused Holiday                                                  11
+
+### ARTICLE 7        VACATION LEAVE                                                12
+
+            1. Accrual                                                         12
+            2. Scheduling Accrued Vacation                                     13
+            3. Payoff Upon Termination, Death, or Retirement                   14
+            4. Retiring Employees                                              14
+            5. Transfer of Accruals                                            14
+            6. Working in Management Classifications                           14
+
+### ARTICLE 8 SICK LEAVE                                                           15
+
+            1. Allowable Use                                                   15
+            2. Accrual                                                         16
+2
+
+         3. Reporting of Sick Leave                                  16
+         4. Use and Misuse of Leave for Sick Leave Purposes          17
+         5. Disability Insurance and Catastrophic Leave              23
+         6. Sick Leave Records                                       24
+         7. Other Sick Leave Provisions                              24
+         8. Use of Sick Leave During Leave                           24
+         9. Fitness for Duty                                         24
+         10. Catastrophic Leave Program                              26
+         11. Transfer of Accruals                                    26
+         12. Retirement                                              27
+
+### ARTICLE 9 OTHER LEAVES                                               28
+
+         1. Unpaid Leaves of Absence                                 28
+         2. Jury Service                                             28
+         3. Subpoenas                                                28
+         4. Military Leave                                           29
+         5. Bereavement Leave                                        29
+         6. Coworker Funeral or Memorial Service Leave               30
+         7. Personnel Examinations / Interviews                      30
+         8. Inclement Weather and Natural Disasters Policy           30
+         9. Educational Leave                                        31
+         10. Federation Leave                                        31
+         11. Use of Deadly Force                                     33
+         12. Travel and Training Leave                               33
+
+### ARTICLE 10 HEALTH AND WELFARE                                        34
+
+         1. Medical and Dental Insurance                             34
+         2. Other Benefits                                           47
+         3. Retiree Life Insurance                                   48
+         3. Death in the Line of Duty                                49
+
+### ARTICLE 11 COMPENSATION                                              50
+
+         1. Wage Adjustments                                         50
+         2. Budget Shortfall Crisis                                  51
+         3. Pay Periods                                              51
+         4. Step Placement and Step Increase Dates                   51
+         5. Reporting to Work Outside of Regularly Scheduled Hours   53
+         6. Overtime and Comp Time                                   54
+         7. Temporary Work in a Higher Classification                55
+         8. Trainer Premium                                          56
+         9. Involuntary On-Call                                      57
+         10. Deferred Compensation Plan                              57
+         11. Overpayments and Payments in Violation of Contract      57
+         12. Waiver of State Overtime Requirements                   58
+         13. Bilingual pay                                           58
+                                                                                   3
+
+          14. Longevity                                                       58
+          15. Auto Allowance                                                  59
+          16. Culturally-Specific Knowledge, Skills, and Abilities Position
+              Compensation                                                    61
+
+### ARTICLE 12 WORKERS COMPENSATION                                               62
+
+          1. Coverage                                                         62
+          2. Seniority                                                        62
+          3. Probationary Employees                                           62
+          4. Supplemental Benefits                                            62
+          5. Denied Claims                                                    63
+          6. Benefits                                                         64
+
+### ARTICLE 13 SENIORITY AND LAYOFF                                               66
+
+          1. Definitions                                                      66
+          2. Seniority                                                        66
+          3. Layoff                                                           67
+          4. Notice and Recall List                                           71
+          5. Recall                                                           72
+          6. Seniority Application                                            73
+          7. Posting Process                                                  73
+          8. Seniority of and Bumping Non-Bargaining Unit Employees           74
+          9. Special Provisions to Save Employees from Layoff                 74
+
+### ARTICLE 14 HOURS OF WORK                                                      76
+
+          1. Scheduling                                                       76
+          2. Posting of Work Schedules                                        77
+          3. Right to Compensation for Regularly Scheduled Hours              77
+          4. Changing Scheduled Days of Work and Days Off                     77
+          5. Scheduling the Work Day                                          77
+
+### ARTICLE 15 DISCIPLINE AND DISCHARGE                                           81
+
+          1. General Principles                                               81
+          2. Corrective Action                                                81
+          3. Disciplinary Action                                              81
+          4. Disciplinary Notice                                              82
+          5. Pre-Discipline Notice                                            83
+          6. Administration of Discipline                                     83
+          7. Personnel Records and Information                                83
+          8. Removal of File Materials                                        83
+          9. Investigatory Procedures                                         84
+
+### ARTICLE 16 SETTLEMENT OF DISPUTES                                             87
+4
+
+          1. Scope of Grievance Procedure                                         87
+          2. Grievance Procedure                                                  87
+          3. Arbitration                                                          87
+          4. County Grievances                                                    87
+          5. Time Limits                                                          87
+          6. Unfair Labor Practices                                               87
+
+### ARTICLE 17 WORKLOAD / TRAINING / PERFORMANCE EVALUATION                           92
+
+          1. Workloads and Standards                                              92
+          2. Employee Development and Training                                    92
+          3. Performance Evaluations                                              93
+
+### ARTICLE 18 GENERAL PROVISIONS                                                     94
+
+          1. No Discrimination                                                    94
+          2. No Prejudicial Harassment                                            94
+          3. Federation Member Rights                                             94
+          4. Rules                                                                96
+          5. Changes in Existing Conditions                                       97
+          6. Loss of Personal Property                                            97
+          7. Labor Management Committee                                           97
+          8. Public Records Requests                                              98
+
+### ARTICLE 19 SAFETY AND HEALTH                                                      99
+
+          1. Facility Standards Maintenance                                        99
+          2. Safe Place of Employment                                              99
+          3. Individual First Aid Kits (IFAK), Trauma Kits, and Automated External
+          Defibrillators (AED)                                                     99
+          4. Personal Protective Equipment (PPE)                                   99
+          5. Vehicles                                                            100
+          6. Firearms                                                            100
+          7. Reimbursements                                                      101
+
+### ARTICLE 20 DEFENSE OF CIVIL CLAIMS                                               102
+
+          1. Legal Defense                                                       102
+
+### ARTICLE 21 USE OF FORCE                                                          103
+
+### ARTICLE 22 PENSIONS                                                              104
+
+          1. Pension                                                             104
+          2. Retiree Medical Insurance                                           105
+
+### ARTICLE 23 MODIFICATION OF WORK PERFORMED: CONTRACTING                           109
+                                                                                   5
+
+### ARTICLE 24 SHIFT AND WORK ASSIGNMENT                                         110
+
+          1. Vacancy                                                         110
+          2. Regular Employee Temporary Work Assignments                     110
+          3. Regular Employee Permanent Shift / Work Assignment              110
+          4. Trial Service Periods                                           112
+          5. Work Unit and Work Assignment Determination and Specification   113
+          6. Designated Work Assignments                                     113
+          7. Trial Service Employee Assignment                               115
+          8. Transfers for Safety                                            115
+
+### ARTICLE 25 SAVINGS CLAUSE                                                    116
+
+### ARTICLE 26 ENTIRE AGREEMENT                                                  117
+
+### ARTICLE 27 TERMINATION                                                       118
+
+ADDENDUM A WAGES                                                             119
+
+ADDENDUM B LEAD WORKER ASSIGNMENT AND PAY                                    120
+
+          1. Duties Defined                                                  120
+          2. Assignment, Selection, Modification and Termination             120
+          3. Pay                                                             121
+
+ADDENDUM C SENIORITY LISTING                                                 122
+
+ADDENDUM D DRUG AND ALCOHOL POLICY                                           125
+
+          1. Drug Free Workplace Act                                         125
+          2. Holders of Commercial Drivers Licenses                          125
+          3. Alcohol and Drug Policy Work Rules and Discipline               125
+          4. Testing                                                         130
+          5. Definitions                                                     133
+          6. Sample Last Chance Agreement                                    135
+
+ADDENDUM E TEMPORARY EMPLOYEES                                               139
+
+SIGNATURE PAGE                                                               141
+
+INDEX                                                                        142
+                                                                                       1
+
+
+
+                                   AGREEMENT
+                                        Between
+                           MULTNOMAH COUNTY, OREGON
+                                           and
+         FEDERATION OF OREGON PAROLE AND PROBATION OFFICERS
+
+
+
+
+                                       PREAMBLE
+
+
+         This Agreement is entered into by Multnomah County, Oregon, hereinafter
+referred to as the “County,” and the Federation of Oregon Parole and Probation
+Officers, hereinafter referred to as the “Federation.”
+         The purpose of this Agreement is to set forth those matters pertaining to rates
+of pay, hours of work, fringe benefits, and other matters pertaining to employment,
+consistent with the parties’ objective of enhancing community safety and reducing
+criminal activity to protect the people of Multnomah County and to provide an orderly
+and peaceful means of resolving any misunderstandings or differences which may
+arise.
+         Except as otherwise required by law, regulation or grant provisions, the parties
+agree as follows:
+
+
+
+
+                                       PREAMBLE
+2
+
+
+
+### ARTICLE 1
+                                   DEFINITIONS
+
+
+1.    Department:     For the purpose of this Agreement is the Department of
+Community Justice. The Department of Community Justice Director or Designee
+shall be deemed "Department Director" for any functional purpose of this Agreement.
+
+2.    Flex Time: Employee Initiated, voluntary changes to the employee’s own
+regular schedule that do not result in exceeding forty (40) hours worked in a seven
+(7) day work week.
+
+3.    Full-time Employee: An employee regularly scheduled to work thirty-two (32)
+or more hours per work week if on an eight (8) hour per work day schedule; or an
+employee regularly scheduled to work thirty (30) or more hours per work week if on a
+ten (10) hour per work day schedule.
+
+4.    Performance Evaluation: A procedure to measure and/or evaluate an
+employee’s work and results based on their job responsibilities or manager
+expectations where the record is retained for a period longer than ninety (90) days.
+Performance evaluations may include written, audio or video recordings.
+
+5.    Regular Employee: An employee who has passed their initial trial service
+period and has been employed by the County continuously since passing the trial
+service period. In addition, the following are deemed to be regular employees:
+      A.     An employee who passed the initial one (1) year trial service period,
+      terminated employment, and has been reinstated.
+6.    Temporary Employee: An employee whose appointment is uncertain due to
+an emergency workload, absence of an employee or because of a short-term need
+for a skill or ability. A temporary employee must meet the minimum standards for
+employment as a parole and probation officer as outlined in the department’s job
+description and in accordance with OAR 259-008-0010 (11) and whose appointment
+is uncertain due to an emergency workload or absence of an employee. Temporary
+employees are limited to current Multnomah County employees working out of class
+
+
+                             ARTICLE 1, DEFINITIONS
+                                                                                      3
+
+
+
+and Multnomah County Parole and Probation Officers who have retired or resigned in
+good standing. A temporary appointment may be made for up to two thousand and
+eighty (2080) hours within any twelve (12) month calendar year. The County shall
+provide to the Federation on a monthly basis all hours worked by temporary
+employees along with the start and end dates. No temporary employee shall
+accumulate more than a total of three thousand one hundred and twenty (3120)
+hours working in the position of Parole and Probation Officer. Hours accumulated
+prior to July 1, 2024, shall not be calculated towards the 3,120 hours. Additionally,
+hours accumulated to fill behind an employee on protected leave shall not count
+toward the 3,120 hours.
+7.     Trial Service Employee:
+
+       A.     An employee serving a one (1) year period to determine their suitability
+for continued employment. Such trial service period shall begin on the date of
+appointment from a certified list of eligibles.
+
+       B.     When a temporary employee becomes a regular employee, time spent
+in temporary status shall not apply to the trial service period.
+
+       C.     During the trial service period, the employee may be removed from the
+Parole and Probation Officer classification without recourse to the grievance
+procedure if, in the opinion of the employee’s supervisor, their continued service
+would not be in the best interest of the County.
+       D.     The length of an employee’s trial service period may be extended by
+forty-five (45) days if the employee is absent from work for a period of forty-five (45)
+days or more or has a temporary physical limitation. The parties may mutually agree
+to a longer extension for lengthy leaves of absence or physical limitations.
+
+
+
+
+                               ARTICLE 1, DEFINITIONS
+4
+
+
+
+### ARTICLE 2
+                                  RECOGNITION
+
+
+      The County recognizes the Federation as the exclusive bargaining agent for
+the purposes of establishing wages, hours, and other conditions of employment for all
+County employees classified as Parole/ Probation Officers; except supervisory and
+confidential employees, temporary employees (as defined in Article 1) and
+employees regularly working a schedule of less than twenty (20) hours per week.
+
+
+
+
+                            ARTICLE 2, RECOGNITION
+                                                                                       5
+
+
+
+### ARTICLE 3
+                                FEDERATION SECURITY
+
+
+1.      Rights of Bargaining Unit Employees:
+        Employees shall have the right to self-organize, to form, join or assist labor
+organizations or to refrain there from, to bargain collectively through representatives
+of their own choosing, and there shall be no discrimination exercised against any
+employee covered by this Agreement because of their membership or Federation
+activities.
+2.      Deduction of Federation Dues and Service Fees:
+        The County agrees to deduct each payroll period an amount authorized in
+writing to the County by the FOPPO Treasurer, of the gross monthly salary for those
+Federation members who individually request such deductions in writing on the form
+provided by the Federation.
+3.      Administration and Use of Service Fees:
+        The Service Fee shall be applied as required by law.
+4.      Authorization and Certification of Dues:
+              Deduction of membership dues must be authorized in writing on the form
+provided by the Federation. The amount to be deducted for dues and Service Fees
+shall be certified in writing to the County by the FOPPO Treasurer. The aggregate of
+all deductions shall be remitted, together with an itemized statement, to the Treasurer
+of the Federation at an address certified to the County in writing by the FOPPO
+President or their designee, within five (5) working days after it is withheld or by such
+time as the parties mutually agree in writing. If requested by FOPPO, the County
+shall remit dues and/or Service Fees to a designated FOPPO financial account via
+Electronic Funds Transfer (EFT).
+5.      Appointment to Excluded Positions:
+
+
+
+
+                          ARTICLE 3, FEDERATION SECURITY
+6
+
+
+
+       Deductions for Service Fees and Federation dues shall cease beginning with
+the pay period following an employee’s regular appointment to a position which is
+excluded from the bargaining unit.
+6.     Monthly Listing of New and Terminated Employees:
+       The County agrees to furnish the Federation by the tenth (10th) of each month
+a listing of the following:
+       A.      All new bargaining unit employees hired during the previous month and
+all employees who terminated during the previous month. Such listing shall contain
+the names of the employees, along with their work location, and mailing address.
+       B.         All   bargaining   unit   members,   their   employee    ID    number,
+department/section, classification, base pay, birthday, full time/part-time status and
+number of scheduled hours, county seniority date, classification seniority date and
+mailing address.
+7.     Visits by Federation Representatives:
+       The County agrees that accredited officers, the chief steward and the
+member-at-large of FOPPO, upon reasonable and proper introduction, shall have
+reasonable access to the premises of the County at any time during working hours to
+conduct Federation business. The Federation agrees that such visits will cause no
+disruptions or interruptions of work. Such access shall include appropriate keys,
+proxys and alarm access. Employees with access shall immediately return any cards
+and access information to management upon cessation of their term of office.
+8.     Indemnification:
+       FOPPO will indemnify and hold the County harmless from claims arising out of
+application of this Article for any amount of any unauthorized deduction resulting from
+the County’s reliance on any FOPPO provided list of authorized dues payment.
+9.     List of Federation Officers and Stewards:
+       The Federation will provide the County with a written list of its current officers
+and stewards upon ratification of this Agreement and will provide an updated written
+list to the County whenever there is a change in officer(s) and/or steward(s).
+
+
+
+
+                          ARTICLE 3, FEDERATION SECURITY
+                                                                                      7
+
+
+
+### ARTICLE 4
+                              MANAGEMENT RIGHTS
+
+
+      The County shall retain the exclusive right to exercise the customary functions
+of management including, but not limited to, directing the activities of the department,
+determining the levels of service and methods of operation and the introduction of
+new equipment; the right to hire, layoff, transfer and promote; to discipline or
+discharge for just cause; the exclusive right to determine staffing, to establish work
+schedules and to assign work; and any other such rights not specifically referred to in
+this Agreement. Management rights, except where abridged by specific provisions of
+this agreement, or general law, are not subject to the grievance procedure.
+
+
+
+
+                        ARTICLE 4, MANAGEMENT RIGHTS
+8
+
+
+
+### ARTICLE 5
+                             NO STRIKE OR LOCKOUT
+
+
+      No employee covered by this Agreement shall engage in any work stoppage,
+slowdown, or strike at any County facility or at any location where County Services
+are performed during the life and duration of this Agreement. If any such work
+stoppage, slowdown, or strike takes place, the Federation will immediately notify any
+members so engaging in such activities to cease and desist, and it shall publicly
+declare that such work stoppage, slowdown, or strike is in violation of this
+Agreement, and unauthorized, and otherwise use all reasonable efforts and means to
+prevent a continued violation of this Agreement by its members. Employees in the
+bargaining unit, while acting in the course of their employment, shall not refuse to
+cross any picket line established by any labor organization. Any employee engaging
+in any activity in violation of this Article shall be subject to immediate disciplinary
+action, including discharge, by the County.
+      There will be no lockout of employees in the unit by the County as a
+consequence of any dispute arising during the life and duration of this Agreement.
+
+
+
+
+                        ARTICLE 4, MANAGEMENT RIGHTS
+                                                                                           9
+
+
+
+### ARTICLE 6
+                                          HOLIDAYS
+
+
+1.        Recognized Holidays:
+          A.      The following days shall be recognized and observed as paid holidays:
+                  1.     Any    day the President, Governor or Board of County
+Commissioners declares as a holiday for public sector employees.
+                  2.     New Year’s Day (January 1st)
+                  3.     Dr. Rev. Martin Luther King Jr.’s Birthday (3rd Monday in January)
+                  4.     Presidents’ Day (3rd Monday in February)
+                  5.     Memorial Day (Last Monday in May)
+                  6.     Juneteenth (June 19th)
+                  7.     Independence Day (July 4th)
+                  8.     Labor Day (1st Monday in September)
+                  9.     Veterans’ Day (November 11th)
+                  10.    Thanksgiving Day (4th Thursday in November)
+                  11.    Christmas Day (December 25th)
+               * Christmas Day (December 25th) may, with the approval of the supervisor,
+               be traded for any other religious holiday during the fiscal year, provided the
+               employee uses paid leave for, or works on December 25th.
+     B.           Three (3) days designated as “Floating Holiday” to be credited on July 1
+annually. The employee shall be credited with three (3) days, as outlined in Section 3
+of this article, of Saved Holiday time. The leave shall be prorated for part-time
+employees based on their normal FTE.
+     To be eligible for pay on an observed holiday, an employee must be in pay status
+both on the employee’s scheduled work day before and the employee’s scheduled
+work day after the holiday.
+2.        Holiday Observance:
+
+
+
+
+                                    ARTICLE 6, HOLIDAYS
+10
+
+
+
+       A.     Employees working five (5) consecutive days shall observe a holiday
+falling on their first (1st) day off on the preceding business day. If a holiday falls on an
+employee’s second (2nd) day off, the following business day will serve as the
+observed holiday.
+       B.     Employees working four (4) consecutive days shall observe a holiday
+falling on their first (1st) or second (2nd) day off on the preceding business day. If a
+holiday falls on an employees’ third (3rd) day off, the following business day will serve
+as the observed holiday.
+       C.     Employees working four (4) non-consecutive days shall observe
+holidays falling on their two (2) consecutive days off as outlined in Section A. If a
+holiday falls on the employees’ individual day off, the employee, with agreement from
+Management, may observe the holiday on either the preceding or following business
+day.
+3.     Hours of Paid Leave on Observed Holidays:
+       The provisions of this section apply to Observed Holidays, and “Floating
+Holidays”. Employees scheduled to work five (5) eight (8) hour shifts per week shall
+be entitled to eight (8) hours of leave per holiday; employees scheduled to work four
+(4) ten (10) hour shifts per week shall be entitled to ten (10) hours of leave per
+holiday. Employees scheduled to work a 9-80 or irregular shifts shall be entitled to
+nine (9) hours of leave per holiday. Part-time employees shall be entitled to leave
+prorated based on their FTE.
+4.     Holiday During Leave:
+       If an employee is on an authorized leave with pay when an observed holiday
+occurs, such holiday shall not be charged against such leave.
+5.     Holiday Pay:
+       A.     Work performed on a holiday which falls within an employee’s work
+week shall be considered as overtime and shall be compensated at one and one-half
+(1-1/2) time in addition to the normal pay. It is the employee’s option to receive
+compensation time in lieu of pay.
+
+
+                                 ARTICLE 6, HOLIDAYS
+                                                                                       11
+
+
+
+       B.     The employee, with their supervisor’s approval, may voluntarily choose
+to work a holiday that falls on an employee’s regularly scheduled work day at their
+straight time rate of pay. The holiday time under this section will be credited to the
+employee’s holiday bank to be used with their supervisor’s approval.
+6.     Unused Holiday:
+       A.     Unused holiday leave shall be paid to the employee at the regular rate
+of pay at the time of separation from service. In the event of an employee’s death,
+unused holiday leave shall be paid to the employee’s heirs or designated
+beneficiaries at the regular rate of pay.
+       B.     Unused holiday leave which has not been used by June 30 of the fiscal
+year in which the time was earned shall be forfeited, with the following exceptions:
+              1.     Employees working five (5) eight (8) hour shifts per week shall
+be entitled to carry over into the next fiscal year up to twenty-four (24) hours of
+unused holiday leave;
+              2.     Employees working four (4) ten (10) hour shifts per week shall
+be entitled to carry over into the next fiscal year up to thirty (30) hours of unused
+holiday leave;
+              3.     Employees working 9-80 or irregular shifts shall be entitled to
+carry over into the next fiscal year up to twenty-seven (27) hours of unused holiday
+leave; and
+              4.     Part-time employees shall be entitled to carry the equivalent
+hours of three (3) holidays as accrued in Section 3 above.
+       C.     In no event may an employee’s beginning holiday balance exceed forty
+(40) hours of unused holiday leave as of July 1 of any fiscal year.
+       D.     Scheduling Unused Holiday Leave. The scheduling of unused holiday
+leave shall be in accordance with Article 7, Section 3.
+
+
+
+
+                                ARTICLE 6, HOLIDAYS
+12
+
+
+
+### ARTICLE 7
+                                 VACATION LEAVE
+
+
+1.    Accrual:
+      Each regular employee shall begin to accrue vacation leave from the first (1st)
+day of regular employment. Vacation leave shall be accrued in accordance with the
+accrual of the labor agreement between the parties with the balance reflected on the
+employees bi-monthly check stub.
+      Employees shall accrue vacation time in accordance with the following
+schedule:
+      A.     Less than two (2) years of County service, 4.67 vacation hours shall be
+accrued per pay period equaling one hundred and twelve (112) hours (or 2.8 weeks)
+accrued per year, cumulative to a maximum of two hundred twenty-four (224) hours.
+      B.     Two (2) years of County service, but less than five (5) years of County
+service, 5.33 vacation hours shall be accrued per pay period equaling one-hundred
+and twenty-eight (128) hours (or 3.2 weeks) accrued per year, cumulative to a
+maximum of two hundred and sixty-four (264) hours.
+      C.     Five (5) years of County service, but less than eight (8) years of County
+service, 6.33 vacation hours shall be accrued per pay period equaling one hundred
+and fifty-two (152) hours (or 3.8 weeks) accrued per year, cumulative to a maximum
+of two hundred and ninety-six (296) hours.
+      D.     Eight (8) years of County service, but less than fifteen (15) years of
+County service, 7.66 vacation hours shall be accrued per pay period equaling one
+hundred and eighty-four(184) hours (or 4.6 weeks) accrued per year, cumulative to a
+maximum of three hundred sixty-eight (368) hours.
+      E.     Fifteen (15) years of County service but less than twenty (20), nine (9)
+vacation hours shall be accrued per pay period equaling two hundred and sixteen
+(216) hours (or 5.4 weeks) accrued per year, cumulative to a maximum of four
+hundred and sixty (460) hours.
+
+
+                          ARTICLE 7, VACATION LEAVE
+                                                                                      13
+
+
+
+         F.   Twenty (20) years of County service or more, nine (9) vacation hours
+shall be accrued per pay period equaling two hundred and sixteen (216) hours (or 5.4
+weeks) accrued per year, cumulative to a maximum of five hundred (500) hours.
+         G.   Accrual rates apply to straight time hours worked and hours of paid
+leave.
+2.       Scheduling Accrued Vacation:
+         A.   Employees shall submit their request for vacation to their immediate
+supervisor or on-duty supervisor for approval. Each vacation request shall be
+completed by the supervisor and returned to the employee within two (2) business
+days whenever possible. If the supervisor is unable to return the approved or denied
+request to the employee within two (2) business days, the supervisor will so inform
+the employee and let the employee know of the date by which the supervisor will be
+able to respond.
+         B.   Employees shall be able to choose either a split or continuous vacation
+period.
+         C.   Wherever possible, consistent with the needs of the Department and
+requirement for vacation coverage, employees shall have the right to determine their
+vacation dates.
+         D.   If there is a coverage conflict, the vacation leave request will be granted
+based on the date and time of the request. If there are two requests on the same
+date, the employee’s request with the most seniority, within the classification of
+Parole and Probation Officer, will be granted. Additionally, each employee will be
+allowed to exercise the right of seniority only once for no more than two (2) periods of
+consecutive days in each calendar year.
+         E.   Approved vacation requests shall not be rescinded or altered by
+management unless in a bona fide emergency. An employee retains the right to
+rescind an approved vacation request and must inform the supervisor as soon as the
+employee determines that they wish to rescind their approved vacation. An employee
+
+
+
+
+                           ARTICLE 7, VACATION LEAVE
+14
+
+
+
+also retains the right to alter their approved vacation request, with the approval of
+management.
+3.     Payoff Upon Termination, Death, or Retirement:
+       Unused vacation leave shall be paid to the employee at their regular rate of
+pay at the time of separation of service. In the event of an employee’s death, all
+unused vacation leave shall be paid to the employee’s heirs or designated
+beneficiaries at their regular rate of pay.
+4.     Retiring Employees:
+       In the last year of employment prior to retirement, employees will be able to
+sell back up to fifty (50) hours of vacation. The employee will be responsible to notify
+the County of intent to retire in order to exercise this provision. This is a one-time
+option.
+5.     Transfer of Accruals:
+       When an employee is promoted, transferred, demoted, appointed, or
+otherwise moves to another department or classification within the County, the
+employee’s accumulated vacation leave balances shall be transferred with the
+employee to the gaining department / classification.
+6.     Working in Management Classifications:
+       When an employee works in a management classification and accrues
+vacation leave in excess of the maximum accruals outlined in Section 1 above, the
+employee must use the excess vacation within six (6) months of returning to the
+Parole and Probation Officer classification or the excess leave will be forfeited.
+
+
+
+
+                             ARTICLE 7, VACATION LEAVE
+                                                                                      15
+
+
+
+### ARTICLE 8
+                                        SICK LEAVE
+
+
+1.     Allowable Use:
+       Sick leave is a leave of absence with pay which may be used when the
+employee is directly affected by any of the health conditions listed below, or when
+specified others are affected by the conditions listed, and require the employee’s
+care. As used in this Article, “protected sick time” refers to sick leave protected under
+Oregon’s state sick time law, ORS 653.601 et. seq. The first forty (40) hours per year
+of “paid sick time,” as defined under ORS 653.601(6), are protected under Oregon’s
+state sick leave law. Accrued sick leave taken in excess of forty (40) hours per year
+is not covered or protected under the state sick leave law, but may be considered
+protected leave under other state and federal laws.
+       A.        Specified Others:
+                      Members of the employee’s immediate household, the employee’s
+spouse      or   domestic    partner,   parents,   step-parents, children, siblings and
+step-siblings, step-children, parents-in-law, and the parents, step-parents, siblings
+and step-siblings of their spouse or domestic partner. The legal meaning of these
+terms shall be as defined in the federal Family and Medical Leave Act (hereinafter
+referred to as the FMLA) and the Oregon Family Leave Act (hereinafter referred to as
+OFLA).
+       B.        Covered Health Conditions:
+                 1.     Mental or physical illness, injury, or health condition; need for
+medical diagnosis, care or treatment of a mental or physical illness, injury or health
+condition; or time off needed for preventative care; or
+                 2.     Any qualified condition covered by FMLA, OFLA, WA Paid Sick
+Leave, or Paid Leave Oregon, regardless of whether the employee meets statutory
+eligibility requirements; or
+                 3.     Medical,     dental,   and    employee    assistance    program
+
+
+                                   ARTICLE 8, SICK LEAVE
+16
+
+
+
+appointments; or
+              4.     Any qualified purpose allowed under Oregon’s domestic
+violence, harassment, sexual assault or stalking law; or
+              5.     Any other illness, injury, or quarantine based on exposure to
+contagious disease, or
+              6.       In the event of a public health emergency, including upon an
+order of a general or specific public health emergency.
+       C.     Parental Leave:
+              Sick leave may be used by employees during Parental Leave as
+defined by FMLA, OFLA, WA Paid Sick Leave, or Paid Leave Oregon, except that
+the amount of leave taken by the other parent of the employee's child will not affect
+the amount of Parental Leave available to the employee.
+       D.     Paid Leave Oregon:
+              Employees may be eligible to receive partially paid leave from work
+through the Paid Leave Oregon statewide paid family insurance program. Employees
+who do not receive Paid Leave Oregon benefits equal to 100% of the employees
+average weekly wage may supplement their benefit using available accrued leave
+but are not required to do so consistent with applicable law.
+       E.     Occupationally Related Conditions:
+                Use of sick leave for occupationally related conditions is limited to the
+provisions of Article 12, Workers’ Compensation.
+2.     Accrual:
+       A.     Employees shall accrue sick leave at the rate of .05 hours for each
+County-paid hour worked..
+       B.     Sick leave may be accrued on an unlimited basis.
+3.     Reporting of Sick Leave:
+       A.     Employees must notify their immediate supervisor, if available, or work
+site no later than fifteen (15) minutes after the start of their shift. Failure to so report
+may result in discipline pursuant to Article 15. The provisions of this section do not
+
+
+                                ARTICLE 8, SICK LEAVE
+                                                                                          17
+
+
+
+apply if the employee cannot reasonably report such sick leave due to unforeseen
+circumstances.
+       B.     Employees shall submit their sick leave request to their immediate
+supervisor or on-duty supervisor for those circumstances which allow prior notice
+[example – a health care provider appointment]. Each sick leave request shall be
+completed by the supervisor and returned to the employee within two (2) business
+days whenever possible. Approved sick leave requests shall not be rescinded or
+altered by management unless a bona fide emergency exists. An employee retains
+the right to rescind an approved sick leave request. An employee also retains the
+right to alter their request, with the approval of management.
+4.     Use and Misuse of Leave for Sick Leave Purposes:
+       A.     Counting Against FMLA, OFLA Entitlements:
+                 Sick leave and any other forms of paid or unpaid leave used for FMLA
+and/or OFLA qualifying conditions, or absence due to a deferred or approved
+Workers Compensation claim based on such conditions, will be counted against an
+employee’s annual FMLA and/or OFLA leave entitlements, except that Workers
+Compensation leave will not be counted against OFLA leave entitlements.
+       B.     Legitimate Use:
+                   Protected sick time is limited to the first forty (40) hours of sick time
+taken by an employee each calendar year. Sick leave taken in excess of forty (40)
+hours each calendar year is not considered protected sick time. Reliable and
+consistent attendance is an expectation of all county employees. Employees must
+only use sick leave for legitimate purposes as defined in Section 1.B. of this article.
+              1.       Verification of use:
+                       a.     Pursuant to Multnomah County policy, management must
+require the completion of a certification form by the employee’s health care provider
+and any other verifications provided for under the provisions of the FMLA, OFLA, or
+their successors.
+
+
+
+
+                                 ARTICLE 8, SICK LEAVE
+18
+
+
+
+                        b.   The County may require medical verification of absence
+due to qualified protected sick time under the following conditions:
+                             i.        The employee has missed work due to illness for
+more than three consecutive work days; or
+                             ii.       The   employee has requested leave that is
+scheduled to last more than three scheduled work days; or
+                             iii.      The employee has exhausted all sick leave; or
+                             iv.       The employee commences sick time without
+providing prior notice required by the County, unless medical circumstances prevent
+the employee from providing notice prior to commencing sick time and the employee
+provides notice to the County as soon as is practicable; or
+                             v.        Management      reasonably     suspects    that   an
+employee is abusing sick time, including engaging in a pattern of sick leave abuse.
+                             vi.       If medical verification is requested, the County will
+pay any and all reasonable costs associated with obtaining medical verification.
+                        c.   The County may require an employee to submit written
+medical verification of absence due to non-FMLA, non-OFLA, and non-protected
+Oregon sick leave covered illness or injury from an employee’s physician or other
+acceptable verification of eligibility to receive sick leave benefit under any of the
+following conditions:
+                             i.        Whenever the employee’s absence exceeds three
+(3) consecutive workdays for a given event;
+                             ii.       Whenever the County can articulate reasonable
+cause to believe that a misuse or abuse of sick leave has occurred, including but not
+limited to questionable usage, questionable patterns of usage or calling in sick on a
+previously denied day off, provided the employee has been previously notified by a
+supervisor or Human Resources representative in writing that, due to such concerns,
+future verification may be required. A copy of such notice will be provided to FOPPO.
+Employees notified of such reasonable cause may be required to furnish a
+
+
+                                    ARTICLE 8, SICK LEAVE
+                                                                                       19
+
+
+
+certification for each use of sick leave for a period not to exceed six (6) months
+following the notice.
+                        d.    If the employee is required to provide medical verification,
+the County will pay the out-of-pocket cost not covered by insurance or another
+benefit plan.
+                2.      Discipline: Subject to the limitations of law, including but not
+limited to those of the FMLA and/or OFLA, discipline may be imposed under the
+following conditions:
+                        a.    Abuse of sick leave: Misuse of leave, violation of orders,
+directives, or contractual requirements concerning the use of sick leave and other
+forms of leave used in lieu of sick leave are cause for disciplinary action.
+                        b.    Use of accrued sick leave: Use of accrued sick leave,
+without abuse of such leave, will not be cause for discipline. When the intermittent
+use of accrued sick leave or other paid or unpaid leave used in lieu of sick leave
+interferes significantly with an employee’s ability to perform the duties of their job,
+management may do the following (subject to the requirements of law, including, but
+not limited to, the FMLA, OFLA, WA Paid Sick Leave, or Paid Leave Oregon, and
+the Employer Accommodation for Pregnancy Act): Require the employee to take
+continuous leave; or change the employee’s work assignment for six (6) months or
+until use of intermittent leave ends, whichever comes sooner; in such cases the
+provisions of Article 24 will not apply.
+                        c.    Excessive absenteeism:        The parties recognize that
+every employee has a duty to be reliably present at work, and that failure to confine
+sick leave usage to accrued and available sick leave raises the possibility of
+discipline for excessive absenteeism. Such cases, however, are subject to just cause
+review and require systematic examination of relevant factors, including but not
+limited to:
+
+
+
+
+                                 ARTICLE 8, SICK LEAVE
+20
+
+
+
+                              i.       Any legal requirements, including, but not limited to
+those of the FMLA, OFLA, WA Paid Sick Leave, Paid Leave Oregon, Oregon state
+sick leave law, or the ADA.
+                              ii.      The tenure and work history of the employee,
+specifically to include whether there have been previous instances of this pattern of
+absenteeism;
+                              iii.     Whether there is a likelihood of improvement within
+a reasonable period of time based on credible Health Care Provider evidence;
+                              iv.      The particular attendance requirements of the
+employee’s job;
+                              v.       The pattern of use, and whether the absences are
+clearly for bona fide sick leave purposes.
+       C.    Sequencing of Leaves: The use of vacation leave, saved holiday time,
+compensatory time, and leave without pay is subject to approval by management
+according to the requirements of Articles 7, 8, 9, and 11, respectively. However,
+unless otherwise required by law, forms of leave shall be used and exhausted in the
+following sequences:
+             1.     Leave for illness or injury that does not qualify for FMLA, OFLA,
+WA Paid Sick Leave, or Paid Leave Oregon will be taken in the following order: Sick
+leave until it is exhausted; Vacation leave, saved holiday time, or compensatory time,
+sequenced at the employee’s option, until they are exhausted; Leave without pay.
+             2.     Leave that qualifies under FMLA, OFLA, WA Paid Sick Leave, or
+Paid Leave Oregon will be taken in the following order: Paid leave until it is
+exhausted; employees will determine what order paid leave is used; Leave without
+pay.
+             3.     Leave for other purposes will be taken in the following order:
+Vacation leave, saved holiday time, or compensatory time, sequenced at the
+employee’s option (to the extent allowed by vacation sign-up provisions) until they
+are exhausted; Leave without pay.
+
+
+                                    ARTICLE 8, SICK LEAVE
+                                                                                       21
+
+
+
+       D.     Reinstatement of Sick Leave Accruals:
+              1.     Any    employee    who    leaves   County employment and is
+subsequently re-employed as a regular status employee within one hundred eighty
+(180) days is entitled to credit for all sick leave accrued up to the last day of prior
+employment. Sick leave shall not accrue during the period between leaving County
+employment and re-employment.
+              2.     Any    employee    who    leaves   County employment and is
+subsequently re-employed as a temporary status employee within one hundred
+eighty (180) days is entitled to credit for sick leave accrued up to the last day of prior
+employment up to a maximum of eighty (80) hours. Sick leave shall not accrue during
+the period between leaving County employment and re-employment.
+              3.     Any employee who is re-employed after more than one hundred
+eighty (180) days is not entitled to credit for sick leave that accrued during prior
+County service. Sick leave will begin accruing anew in accordance with applicable
+accrual sections.
+              4.     Employees who are laid off and recalled from a recall list, will
+have their sick leave balance restored at the time they are recalled.
+              5.     Employees who retire from County service under PERS full
+formula or formula plus annuity and are subsequently re-employed by the County will
+not be entitled to credit for sick leave accrued during prior County service. Sick leave
+will begin accruing anew in accordance with applicable accrual sections.
+              6.     Employees who retire under PERS money match or OPSRP who
+are subsequently re-employed by the County within one hundred eighty (180) days of
+their retirement date will be entitled to credit for all sick leave accrued up to the last
+day of prior employment. Sick leave shall not accrue during the period between
+leaving County employment and re-employment.
+              7.     Any employee who is re-employed after more than one hundred
+eighty (180) days is not entitled to credit for sick leave that accrued during prior
+
+
+
+
+                               ARTICLE 8, SICK LEAVE
+22
+
+
+
+County service. Sick leave will begin accruing anew in accordance with applicable
+accrual sections.
+       E.     Limitations on the Use of Leave Without Pay in Lieu of Sick Leave:
+                 Use of leave without pay in lieu of sick leave for non-FMLA, non-OFLA,
+non-WA State Sick Leave, non-Washington Paid Family and Medical Leave, and
+non-Paid Leave Oregon qualifying conditions is subject to the approval of
+management and further subject to the following provisions:
+              1.      Continuous leave:
+                      a.     In the event of a continuous leave of absence without pay
+in excess of any legal requirement of the FMLA, OFLA, WA Paid Sick Leave, or Paid
+Leave Oregon, the County may require from the employee’s Health Care Provider,
+and/or arrange for the employee to see a Health Care Provider selected by the
+County to examine the employee and provide a statement of the disability, current
+condition, and the anticipated length of current absence.
+                     b.      If the County requires the employee to see a Health Care
+Provider it has selected, it will pay the costs.
+                     c.      If deemed necessary by the County, such an examination
+shall be repeated every thirty (30) days.
+                     d.      If management determines that continued leave would not
+be in the best interest of the County, then any resulting termination would be subject
+to review under the just cause standard as to the reasonableness of this
+determination.
+                     e.      Following six (6) months of leave without pay, to include
+time spent on unpaid FMLA, OFLA, WA Paid Family and Medical Leave, or
+unsupplemented Paid Leave Oregon leave, any extension of the leave shall be
+deemed permissive on the part of the County and if the employee’s leave is not
+extended, and the employee does not return to work, the employee will be deemed to
+have resigned.
+
+
+
+
+                                ARTICLE 8, SICK LEAVE
+                                                                                     23
+
+
+
+              2.     Intermittent leave:     Intermittent leave without pay used in lieu
+of sick leave is not subject to the six (6) month entitlement provided for above. When
+such leave significantly affects an employee’s job performance and is not subject to
+the requirements of law (including but not limited to the FMLA/OFLA/WA Paid Sick
+Leave/Paid Leave Oregon), management may evaluate the employee’s use of leave
+according to the criteria of “Section B.2.c” above. Health Care Provider information as
+provided for in “Section D.1” above may be required for the evaluation. After
+completing the evaluation, management may do one of the following:
+                     a.     Approve a similar pattern of intermittent use of unpaid
+leave for a specified period followed by another evaluation; or
+                     b.     Put the employee on a work plan to manage the use of
+leave without pay, followed by disciplinary action if the plan is not successfully
+completed; or
+                     c.     Proceed with the disciplinary process.
+       F.     Use of Paid Leave in Counting FMLA/OFLA Eligibility:
+                Only actual hours worked will be counted when reviewing the number
+of hours worked to determine if an employee meets the minimum hours worked
+eligibility requirements to be covered under FMLA and/or OFLA. Paid time off (such
+as vacation leave, sick leave, and compensatory time taken) does not count toward
+FMLA and OFLA requirements.
+       G.     Medical Releases: The County shall provide employees with specific
+information needed on medical releases in order to return to duty.
+5.     Disability Insurance and Catastrophic Leave:
+       A.     Disability Insurance:
+              1.     Short term disability: Any employee covered by this Agreement
+may participate in the short-term disability insurance program developed by the
+Federation and the County (consistent with carrier contract(s)), the monthly premium
+to be paid individually through payroll deduction.
+              2.     Long-term disability:
+
+
+                              ARTICLE 8, SICK LEAVE
+24
+
+
+
+                    a.     All bargaining unit employees will be covered by a
+County-paid group long-term disability insurance policy, the provisions of which will
+be specific to the Federation in the group policy available to Multnomah County
+employees.
+                    b.     The County will pay for COBRA medical and dental
+insurance coverage for a period of up to six (6) months beyond the month in which
+benefits would normally terminate for an employee with an approved long-term
+disability claim. However, employees who "opt out" of benefits coverage under the
+provisions of Article 10, “Section 1. D.” of this Agreement will not be eligible for
+continued County-paid coverage under this subsection.
+                    c.     If proposed by management and approved by the
+Federation, changes in short term and long-term disability insurance coverage will be
+put into effect.
+6.     Sick Leave Records:        The medical or psychological records will be
+maintained in accordance with requirements of the Americans with Disabilities Act or
+other applicable law.
+7.     Other Sick Leave Provisions: Employees who are absent on sick leave for a
+period in excess of their accrued sick leave shall be allowed to use their accrued
+vacation, saved holiday, and/or compensatory time to cover such time off. At the
+option of the employee, the employee may retain up to forty (40) hours of vacation
+time prior to being placed on leave without pay. Leaves without pay shall be subject
+to the approval of management.
+8.     Use of Sick Leave During Leave: Sick leave may not be used during the
+term of any unpaid leave of absence. Sick leave may not be used during vacation
+except when the employee notifies the supervisor of the interruption of their
+scheduled vacation and presents reasonable evidence of a bona fide illness or injury
+upon returning to work.
+9.     Fitness for Duty:
+
+
+
+
+                             ARTICLE 8, SICK LEAVE
+                                                                                        25
+
+
+
+       A.     The parties recognize that employees have the responsibility to report
+to work fit for duty. Any employee who feels unable to perform their duties shall
+promptly notify a supervisor.
+       B.     To ensure such fitness, management may send employees for medical
+or psychological examination when the supervisor articulates why they reasonably
+believe that the employee is not fit for duty and/or may be a danger to themselves or
+others. The Department will select the Health Care Provider that performs the
+examination and will be at County expense.
+       C.     Any employee ordered to receive a fitness for duty examination shall
+comply with the terms of the order and cooperate fully with the Health Care Provider
+regarding any clinical interview, tests administered or other procedures as directed.
+       D.     The Department may request from the employee a Health Care
+Provider’s release of information that relates only to the employee’s ability to perform
+the job. Any written information the HCP provides the Department will also be
+provided to the employee. The Health Care Provider will submit a report which
+indicates whether the employee is fit or unfit for duty and whether the employee
+requires modified working conditions. The Health Care Provider may indicate which
+modification(s) are necessary and the projected duration of such modification(s).
+       E.     Should an employee be required by the Department to undergo a
+fitness for duty examination, the employee shall do so without a loss of pay or
+benefit(s) and the employer shall bear the expense of such examination. To the
+extent practicable, the examination will occur during the employee’s normal work
+hours. The employee shall remain on light duty or paid administrative leave until the
+results of the evaluation are received.
+       F.     If the Health Care Provider conducting the evaluation determines that
+the employee is not fit for duty, the employee can obtain a second non-binding
+opinion at the employee’s expense.
+              a.     Prior to the second evaluation, the employee will provide the
+name of the Health Care Provider to Human Resources, so that the Department can
+
+
+                                ARTICLE 8, SICK LEAVE
+26
+
+
+
+send a copy of the initial evaluation, position description, and other relevant
+information that the Health Care Provider to be considered in their evaluation.
+              b.     If the employee gets a second opinion and the two opinions
+conflict, the Department will evaluate the differences in the two opinions and may
+offer to send the employee for a third evaluation with a mutually agreed upon Health
+Care Provider who considers both reports and makes a final determination on the
+employee’s fitness for duty. The employee may elect to not undergo the third
+evaluation, in which case the County’s initial Health Care Provider determination will
+be binding. In such case, FOPPO may grieve the County’s actions.
+       G.     If the employee is found to be unfit for duty, the employee may go on
+leave using their own leave accruals or may continue on light duty if available. If the
+employee is deemed to be unfit for duty, the Department will make every effort to find
+another position within the County for which the employee may be fit for duty. If the
+County is unable to find a comparable position, the employee may be released from
+employment. If the County offers a comparable position to the employee and the
+employee declines it, the employee will be deemed to have resigned from
+employment.
+       H.     If an employee has been deemed fit for duty, the employee will be
+notified to resume their duties.
+10.    Catastrophic Leave Program:
+       The parties recognize that a Catastrophic Leave Program has been
+implemented which allows the donation of vacation leave, or compensatory time, or
+unused holiday leave to ill or injured county employees who have exhausted all paid
+leave. This program may be terminated only subject to the terms and conditions of
+the implementing Ordinance.
+11.    Transfer of Accruals:
+       When an employee is promoted, transferred, demoted, appointed, or
+otherwise moves to another department or classification within the County, the
+
+
+
+
+                               ARTICLE 8, SICK LEAVE
+                                                                                     27
+
+
+
+employee’s accumulated sick leave balances shall be transferred with the employee
+to the gaining department / classification.
+12.    Retirement:
+       Upon retirement, sick leave shall be reported to and counted for PERS final
+average salary calculation as allowed by PERS.
+
+
+
+
+                               ARTICLE 8, SICK LEAVE
+28
+
+
+
+### ARTICLE 9
+                                    OTHER LEAVES
+
+
+1.      Unpaid Leaves of Absence:
+        Leaves of absence without pay for a period of up to six (6) months may be
+granted by an employee’s supervisor for any reasonable purpose. The sequencing of
+the use of all leaves, including leaves of absence without pay, is specified in Article 8.
+A separate standard for granting any leave of absence for sick leave purpose is
+specified in Article 8. Any time spent on unpaid FMLA or OFLA or state paid leaves
+shall be deducted from the six (6) month period specified above. Extensions of such
+leaves may be granted at the discretion of the supervisor.
+2.      Jury Service:
+        A.    An employee shall be granted leave with full pay in lieu of jury fees on
+any scheduled day of work they are required to report for jury duty, if upon receipt the
+employee submits jury fees to Payroll. (Employees do not have to submit mileage
+and parking reimbursements.)
+        B.    Except during an emergency or due to operational requirements, the
+County will not require employees to report to work after completing a full day on jury
+duty.
+        C.    Any employee who is excused or dismissed from jury duty before the
+end of the day will report back to work if practicable.
+        D.    An employee may be scheduled to work Monday through Friday, eight
+(8) hours per day, on day shift, for the duration of jury duty with less than ten (10)
+days’ notice. An employee may also return to their pre-jury duty schedule with less
+than ten (10) days’ notice after jury duty ends. There shall be no additional cost to the
+County or days off for an employee as a result of any such schedule change.
+3.      Subpoenas:
+        A.    Time spent serving as a witness in a work related legal proceeding will
+be treated as hours worked for pay purposes in accordance with Article 11.
+
+
+                             ARTICLE 9, OTHER LEAVES
+                                                                                   29
+
+
+
+Subpoenas out of county or state will be handled by mutual agreement between the
+employee and the employee’s manager.
+       B.     Under no circumstances will employees be paid for time spent in a
+judicial proceeding or hearing in which they or the Federation is the plaintiff or
+defendant, unless they are being defended and indemnified by the County for
+conduct occurring during the course of employment.
+4.     Military Leave:    The County acknowledges its obligation under state and
+federal law to grant paid and unpaid leave for military service. Information about
+legally mandated military leave will be made available to employees upon request
+from departmental Human Resources.
+5.     Bereavement Leave:
+       A.     Upon an employee’s request, they shall be granted three (3) days leave
+of absence with full pay in event of death in the immediate family or immediate
+household of the employee to make household adjustments or to attend funeral
+services.
+       B.     If such funeral is beyond 350 miles, the employee, upon request, will be
+granted up to three (3) additional days with pay. The amount of additional leave shall
+be at the discretion of the employee’s supervisor on the basis of the employee’s
+travel and personal needs.
+       C.     The bereavement days may be taken up to thirteen (13) months from
+the date of the death and need not be taken consecutively, unless the employee is
+also using the three (3) travel days provided for in this section.
+       D.     For purposes of Bereavement Leave, an employee’s immediate family
+shall be defined as their spouse or domestic partner, parents, step-parents, children,
+step-children, siblings, step-siblings, grandchildren, grandparents, siblings-in-law,,
+and the parents, step-parents, siblings and step-siblings of their spouse or domestic
+partner.    Immediate household shall be defined as any person residing at the
+employee’s residence on a regular basis. In relationships other than those set forth
+
+
+
+
+                             ARTICLE 9, OTHER LEAVES
+30
+
+
+
+above, under exceptional circumstances, the Department Director, upon request,
+may grant such leave of absence.
+        E.    To provide consistency among locations, any denial from an immediate
+supervisor for approval of leave for relationships other than those set forth above or
+travel days, shall automatically, and immediately be forwarded to the Department
+Director or their designee for review. In no case shall this review extend past the
+current working day.
+        F.    Employees may request additional leave beyond the three (3) travel
+days and, upon approval, may use vacation leave or sick leave for such additional
+time.
+        G.    In addition to the County’s paid bereavement leave, the County will
+allow up to a total of two (2) weeks of bereavement leave pursuant to OFLA
+standards.
+6.      Coworker Funeral or Memorial Service Leave: Subject to the Department’s
+business needs, with the approval of the Department Director, employees shall be
+given up to four (4) hours of paid time off to attend the funeral or memorial service of
+a Department employee. In addition, employees appointed by the Assistant Director
+to serve as the Department’s liaison to survivors of the deceased will do so on paid
+time.
+7.      Personnel Examinations/Interviews: Employees shall be given paid time off
+for participating in County examinations and interviews for promotion, demotion, or
+transfer which occur during their regularly scheduled shift.
+8.      Inclement Weather and Natural Disasters Policy:
+        A.    The County reserves the right to establish a policy with respect to
+attendance at work during inclement weather or a natural disaster, and further
+reserves the right to determine whether or not an event qualifies as such event under
+the terms of any such policy.
+        B.    When the County is open, any time an employee is unable to work as
+scheduled due to inclement weather the employee may, at the employee’s discretion,
+
+
+                             ARTICLE 9, OTHER LEAVES
+                                                                                       31
+
+
+
+be charged to: vacation leave, saved holiday time, compensatory time, leave without
+pay, or at the employee’s discretion, they may make up time lost due to inclement
+weather at any other time during the same tour of duty with no reduction of pay or
+other benefits.
+       C.     The provisions of Article 14, Section 3, Right to Compensation for
+Regularly Scheduled Hours, will apply to instances in which an employee reports to
+work at a closed facility, or are otherwise specifically notified by the County that their
+facility is closed, and the employee is not reassigned.
+       D.     The County will communicate delayed openings to employees, and they
+are not expected to arrive until the new opening time and will receive paid
+Administrative Leave for any hours that they are scheduled to work, but were unable
+to do so because of a County closure.
+9.     Educational Leave:
+       After completing one (1) year of service, an employee, upon request and
+approval of management, may be granted a leave of absence without pay for
+educational purposes at an accredited school when it is related to their employment.
+Such leave of absence shall not exceed one (1) year, but it may be renewed or
+extended at the request of the employee, when necessary. One (1) year leaves of
+absence with any requested extension for educational purposes may not be provided
+more than once in any three (3) year period. Employees may also be granted leaves
+of absence with or without pay for educational purposes and additional lengths of
+time to attend conferences, seminars, briefing sessions, or other functions of a similar
+nature that are not intended to improve or upgrade the individual skill or professional
+ability, provided it does not interfere with the operation of the County.
+10.    Federation Leave:
+       A.     Federation Business Leave (County Paid Time):
+                  Federation Business that is considered County Paid Time includes
+functions that are considered County /Federation joint functions such as negotiations
+(including time before and after negotiations for caucuses); participation in
+
+
+                             ARTICLE 9, OTHER LEAVES
+32
+
+
+
+committees that are joint County/Federation committees such as Labor/Management
+committees, the Benefits Committee and the Compensation Committee; duties as a
+steward as defined in this Agreement; hearings and meetings to settle grievances
+and disputes between the parties; and such other Federation Business (County Paid
+Time) mutually agreed upon by the parties. Employees participating in such activities
+will be allowed to do so without loss of pay.
+       B.     Federation Business Leave (Federation Reimbursable Time):
+             1.       Any bargaining unit member selected by the Federation to
+participate in a Federation activity as defined below, shall be considered in
+Federation Business Leave (Federation Reimbursable Time) status and shall be
+granted such leave.
+             2.       Federation Business (Federation Reimbursable Time) addressed
+in this section would pertain to such activities as Contract Administration – such as
+time to cover for staff replacement, time to attend training conferences such as
+arbitration/grievance   training,   and   time   off   to   prepare   for   negotiations;
+Conferences/Other – such as Women’s Convention, appointment Federation Board
+seat or committee; and other mutually agreed activities that would qualify for
+Federation Business (Federation Reimbursable Time).
+            3.        Five (5) days’ written notice of such time away from work shall
+be given to the affected employee’s immediate supervisor and to the County Labor
+Relations Manager. The Federation will make every effort to avoid disruptions of
+work. The Federation shall reimburse the County for one hundred per cent (100%) of
+the affected employee’s salary and benefits (including pro-rata cost of workers’
+compensation premiums, but excluding indirect or overhead charges) for straight time
+spent on Federation activities conducted during regularly scheduled working hours.
+The County shall submit a quarterly statement to the Federation itemizing the amount
+of the Federation’s reimbursement obligations.
+       C.     Federation Business (Unpaid) Leave:
+
+
+
+
+                             ARTICLE 9, OTHER LEAVES
+                                                                                        33
+
+
+
+               1.      Employees selected by the Federation for such activities that are
+considered political activities including political training, conferences, committees, or
+appointment, and time off work on an election race are considered Federation
+Business (Unpaid) Leave.
+               2.      Upon seven (7) days advance notice by the Federation, Officers
+shall, subject to the operating requirements of the department, be granted leave
+without pay for a reasonable period of time not to exceed three (3) consecutive
+working days and not to exceed a total of ten (10) working days for the bargaining
+unit in any given calendar year for purpose of conducting Federation business which
+takes them away from their employment. Such unpaid leave for Officers shall not be
+limited to political activities.
+              3.       Nothing in this section prevents a Federation Officer from
+engaging in Federation business during approved time off.
+       D.      Workers Compensation Benefits While on Federation Leave:
+                    While on Federation Reimbursable Time and Federation Business
+(Unpaid) Leave, employees shall not be eligible for County workers compensation
+benefits arising out of injury or illness occurring during the leave from the County.
+11.    Use of Deadly Force:
+       The County reserves the right to place an employee involved in a use of
+deadly force incident on paid administrative leave in accordance with the provisions
+of the Department’s Use of Deadly Force policy. Any use of deadly force will be
+reported to FOPPO.
+12.    Travel and Training Leave:
+       Travel to and from training out of state and out of the area will be
+compensated in compliance with this collective bargaining agreement or the Fair
+Labor Standards Act (FLSA), whichever is greater.
+
+
+
+
+                                   ARTICLE 9, OTHER LEAVES
+34
+
+
+
+### ARTICLE 10
+                                 HEALTH AND WELFARE
+
+
+1.     Medical and Dental Insurance:
+       A.       Definitions and Contributions Toward Insurance Premiums:
+                1.     Definitions:
+                       a.      Full-Time Employee:
+                               Employees who are regularly scheduled to work at least
+thirty-two (32) hours per week or regularly scheduled to work at least thirty (30) hours
+per week on a ten (10) hour per day schedule.
+                       b.      Part-Time Employee:
+                               Employees who are regularly scheduled to work at least
+twenty (20) hours but less than thirty-two (32) hours per week (however, not
+scheduled for three (3), ten (10) hours per day).
+                 2.    Medical Insurance Contributions:
+                       a.      Full-Time Employees:
+                               Each eligible full-time active enrolled employee’s monthly
+contribution for the purchase of medical benefit plan coverage (which includes
+prescription coverage; routine vision is included with all plans except Moda Major
+Medical) will be calculated as a percentage of the total monthly premium by tier as
+follows:
+
+
+                                   Full-Time Employees
+
+                                                County           Full-Time
+                      Plan Name                Contributio       Employee
+                                                   n            Contribution
+           Moda PPO 400 Plan                     92.5%             7.5%
+           Moda Major Medical Plan (no
+                                                   100%               0%
+           vision)
+           Kaiser 10/20 Medical Plan                95%               5%
+
+                            ARTICLE 10, HEALTH AND WELFARE
+                                                                                    35
+
+
+
+
+                        b.      Part-Time Employees
+       Each eligible part-time active enrolled employee’s monthly contribution for the
+purchase of a medical benefit plan coverage (which includes prescription coverage;
+routine vision is included with all plans except Moda Major Medical) will be calculated
+as a percentage of the total monthly premium by tier as follows:
+
+
+                                   Part-Time Employees
+                                             County         Part-Time
+                      Plan Name             Contributio     Employee
+                                                n          Contribution
+             Moda PPO 400 Plan
+               Single                          60%              40%
+               Two-Party                       56%              44%
+               Family                          54%              46%
+             Moda Major Medical Plan
+                                               100%                0%
+             (no vision)
+             Kaiser 10/20 Medical Plan
+               Single                          70%              30%
+               Two-Party                       64%              36%
+               Family                          63%              37%
+             Kaiser Maintenance
+                                               90%              10%
+             Medical Plan
+
+
+       County contribution rates include a $50 monthly premium subsidy to part-time
+employees who enroll in either the Kaiser 10/20 Plan or the Moda PPO 400 Plan,
+regardless of tier.
+              3.        Dental Insurance Contributions:
+
+
+
+
+                             ARTICLE 10, HEALTH AND WELFARE
+36
+
+
+
+                     a.      Each eligible full-time active enrolled employee’s monthly
+contribution for dental benefit plan coverage will be calculated as a percentage of the
+monthly premium by tier as follows:
+
+
+
+
+                                  Full-Time Employees
+                                                             Full-Time
+                                            County
+                    Plan Name                                Employee
+                                          Contribution
+                                                            Contribution
+           Delta Dental 50 Plan                93%              7%
+           Willamette Dental Group
+                                               93%               7%
+           Plan
+           Kaiser Dental 15 Plan               93%               7%
+
+
+                     b.      Part-time employees may receive dental benefits upon
+payment of fifty percent (50%) of the total monthly dental plan premium by tier.
+
+
+                                Part-Time Employees
+
+                                            County           Part-Time
+                    Plan Name              Contributio       Employee
+                                               n            Contribution
+           Delta Dental 50 Plan               50%              50%
+           Willamette Dental Group
+                                               50%               50%
+           Plan
+           Kaiser Dental 15 Plan               50%               50%
+
+
+      B.     Mandated Changes and Carrier Changes in Plan Designs During
+the Term of Agreement:
+                  The County shall act to update any mandated coverage or changes
+caused by Federal or State laws, rules and regulations or required by the insurance
+carriers. Unilateral changes in benefits initiated solely by the insurance carriers are
+subject only to impact negotiations with the Federation pursuant to PECBA.
+      B.     Premium Calculations:
+
+                          ARTICLE 10, HEALTH AND WELFARE
+                                                                                  37
+
+
+
+               For Kaiser and Willamette Dental Plans, the premium charges shall be
+the amount charged by Kaiser and Willamette Dental to the County. For the Moda
+plans, the premium charges shall be calculated, using sound actuarial principles, and
+include projected claim costs based on plan experience as required by state
+regulations, IBNR expenses, federal and state        Insurance Pool assessments,
+pharmaceutical claim expenses, stop-loss premiums, third-party benefit plan
+administration costs, and an appropriate trend factor selected to limit County
+contributions and employee cost shares while providing adequate funding for plan
+operations.
+      If a government agency or other taxing authority imposes or increases a tax or
+other charge upon the County’s Medical and/or Dental benefit plan(s) or any activity
+of the plan(s), the County may increase the appropriate premium(s) to include the
+new or increased tax or charge.
+      D.      Employee Contribution: Employee’s contributions will be made
+through payroll deductions. Enrollment in a County sponsored medical benefit plan
+and associated employee contribution is mandatory for employees who do not “Opt
+Out” of medical benefit plan coverage.
+      E.      Major Medical Plan Rebates: Full-time employees who elect coverage
+under the Major Medical Plan will be paid $50 (gross) per month, which is taxable
+income.
+      F.      Opt-Out of Medical Plan Benefits:
+              a.    Employees may elect to Opt Out of coverage in the County’s
+medical benefit plan by making that election. Employees making such election must
+provide annually an affidavit or other qualifying proof of coverage that meets the
+Minimum Essential Coverage (MEC) criteria and is not coverage purchased from the
+individual market. Employees will not be eligible to change their election until the
+County’s official annual open enrollment period, unless the employee experiences an
+IRS recognized family status change event that would allow a mid-year health plan
+election change or qualifies for Special Enrollment under HIPAA.
+
+
+                      ARTICLE 10, HEALTH AND WELFARE
+38
+
+
+
+              b.     Full-Time Employees who Opt Out:
+                     Full-time employees who Opt Out of the County’s medical benefit
+plan coverage will receive a reimbursement paid by the County of two-hundred and
+fifty dollars ($250) (gross) per month into the employee’s individual HRA VEBA
+account.
+              c.     Part-Time Employees who Opt Out:
+                     Part-time employees who Opt Out of the County’s medical
+benefit plan coverage will receive a reimbursement paid by the County of
+one-hundred-twenty-five dollars ($125) (gross) per month into the employee’s
+individual VEBA account.
+              d.     Employees may also elect to decline dental plan coverage
+through the County. However, there is no reimbursement associated with declining
+dental coverage and no proof of other dental coverage is required. Employees will
+not be eligible to change this election until the County’s official annual open
+enrollment period unless the employee experiences an IRS-recognized family status
+change event that would allow a mid-year health plan election change or qualifies for
+Special Enrollment under HIPAA.
+       G.     Successor Plans and Carriers:
+              a.     In the event that any of the current insurance plans become
+unavailable, the County agrees to provide to affected employees a substitute plan for
+the same service delivery type, if available, at substantially the same or better benefit
+levels. If a plan or carrier is discontinued and no substitute plan is available of the
+same service delivery type, the employee will be offered the option to enroll in an
+alternative service delivery plan.
+       If the County chooses to change carriers or plans, the County agrees that the
+overall existing level of benefits for each plan will be duplicated as closely as
+possible.
+              b.     Employee Benefit Advisory Team (EBAT):
+
+
+
+
+                        ARTICLE 10, HEALTH AND WELFARE
+                                                                                     39
+
+
+
+                    The Federation and the County have shared interest in
+addressing increasing health insurance costs. In an effort to collaborate together over
+quality health plans, design changes and cost management, the parties agree to
+participate on an Employee Benefits Advisory Team (EBAT) with such other County
+employee bargaining units as agree to participate, to review and consider health
+plans, design changes and cost sharing features. The EBAT will be advisory only,
+and will report member recommendations to the County Chair. EBAT does not
+preclude the parties from entering into any Memoranda of Agreement (MOA)
+authorizing mutually agreed-upon plan changes. The Federation will be entitled to
+one representative bargaining unit member on the EBAT.
+       H.     Premium Reimbursement for Part-Time employees:
+              a.    Reimbursement Eligibility:
+                    Part-time    employees      shall   be    eligible   for   premium
+reimbursement if they work the minimum required number of hours for two (2)
+consecutive pay periods. The two (5) pay periods used for calculation are considered
+a single qualifying block of time. The two (2) consecutive pay period block shall only
+be applied to one reimbursement request. Changes to a submitted reimbursement
+request will be considered only if a submitted payroll period is determined to be
+ineligible.
+              b.    Hours Required for Reimbursement:
+                    1.    “Work” for purposes of this section is defined as hours
+worked, and any paid time such as holidays, vacation or sick time. Overtime hours
+are not considered time worked for purposes of reimbursement calculations.
+                    2.    Hours required for full-time reimbursements per pay period
+will be one hundred and twenty-eight (128) hours cumulative in two (2) pay periods.
+              c.    Reimbursement Options:
+                    1.    Part-time employees may be eligible for full-time
+reimbursements. To qualify, time worked in each pay period must meet the minimum
+qualifying hours for full-time reimbursements for all two (2) consecutive pay periods.
+
+
+                         ARTICLE 10, HEALTH AND WELFARE
+40
+
+
+
+Any such premium reimbursements made to the employee will be adjusted for
+appropriate taxes.
+                     2.    Employees who elect the Kaiser Maintenance Plan will be
+reimbursed for the amount of their part-time employee contribution, as this plan does
+not have a full-time equivalent plan.
+                     3.    Employees who elect the Major Medical Plan will not be
+eligible for medical plan premium reimbursement.
+                     4.    Employees who elect to Opt-Out and/or decline dental plan
+enrollment will not be eligible for premium reimbursement.
+                     5. Reimbursement payment requests must be submitted online
+via the premium reimbursement webform located on Commons within three (3)
+months from the end of the calendar year (e.g. reimbursements will be considered if
+submitted by March 31 for the prior calendar year premium payments).
+       I.     Retirees:
+              Provisions governing retiree participation in County medical and dental
+plans are in Article 22, Section 2.
+       J.     Default Enrollment:
+              1.     New full-time employees who fail to submit timely application to
+Opt Out or enroll into the medical and dental benefit plans described in Section A will
+be enrolled by default in the County’s Major Medical plan and Delta Dental 50 plan,
+with employee only coverage. Eligible dependents of such employees may be
+enrolled in the default plans if the employee submits an application requesting
+dependent enrollment within fifteen (15) days of the date that the default enrollment
+notice is issued.
+              2.     New part-time employees who fail to submit a timely application
+to Opt Out or enroll into the medical and dental benefits plans described in Section A
+above will be enrolled by default in the County’s Major Medical plan, with employee
+only coverage. Eligible dependents of such employees may be enrolled in the default
+
+
+
+
+                          ARTICLE 10, HEALTH AND WELFARE
+                                                                                             41
+
+
+
+plan if the employee submits an application requesting dependent enrollment within
+fifteen (15) days of date default enrollment notice is issued.
+       K.     Eligible Dependents (Enrollment & Termination of Enrollment):
+              1.    Spouses and domestic partners:
+                    a.      Definitions:
+                            i.     A “spouse” is a person to whom the employee is
+married under Oregon law.
+                            ii.    A “domestic partner” is a person with whom the
+employee:
+                                   (a)     Jointly     shares        the   same       permanent
+residence for at least six (6) months immediately preceding the date of signing an
+Affidavit of Marriage or Domestic Partnership; and intends to continue to do so
+indefinitely, or if registered with the Multnomah County partnership registry or State of
+Oregon Domestic Partner registry, the six (6) month waiting period is waived; and
+                                   (b)     Has a close personal relationship.
+                                   (c)     In addition, the employee and the other
+person must share the following characteristics:
+                                           (1)       Are not legally married to anyone;
+                                           (2)       Are each eighteen (18) years of age
+or older;
+                                           (3)       Are not related to each other by blood
+in a degree of kinship closer than would bar marriage in the State of Oregon;
+                                           (4)       Were mentally competent to contract
+when the domestic partnership began;
+                                           (5)       Are   each      other’s   sole    domestic
+partner;
+                                           (6)       Are   jointly    responsible     for   each
+other’s common welfare including “basic living expenses” as defined in the Affidavit of
+Marriage or Domestic Partnership.
+
+
+                         ARTICLE 10, HEALTH AND WELFARE
+42
+
+
+
+                      b.      Enrollment of Spouse/Domestic Partner:
+                              Employees may enroll their spouse or domestic partner in
+County medical and dental plans upon completion of the County’s Affidavit of
+Marriage or Domestic Partnership and applicable enrollment process. Enrollment
+times and other procedures for administration of the medical and dental benefit plans
+shall be applied to employees with domestic partners in the same manner as to
+married employees to the extent allowed by the law. Spouse or domestic partner
+must be enrolled in the same plans as the employee.
+                2.    Children:
+                      a.      Definition:
+                              “Eligible children” includes:
+                              i.     any biological or adoptive child of the employee or
+employee’s spouse/domestic partner who is under the age of twenty-six (26); or
+                              ii.    a court appointed ward of the employee or
+employee’s spouse/domestic partner to the age of majority [most commonly age
+eighteen (18)] or to the age stipulated in the court documents but not to exceed age
+twenty-six (26); or
+                              iii.   anyone under the age of twenty-six (26) for whom
+the employee is required by court order to provide coverage, or
+                              iv.    the newborn child of an enrolled, unmarried,
+eligible child of the employee or employee’s spouse/domestic partner (grandchild of
+employee) if:
+     ● the parent child is under age twenty-six (26) at the time of the grandchild’s
+        birth, and
+     ● both parent child and grandchild reside with County employee.
+                                     Grandchild’s eligibility for coverage ends upon the
+parent child’s twenty-sixth (26th ) birthday or marriage date, whichever occurs first,
+unless the County employee has legal custody of the grandchild.
+                              v.     an eligible dependent who becomes permanently
+
+
+                           ARTICLE 10, HEALTH AND WELFARE
+                                                                                    43
+
+
+
+disabled prior to their twenty-sixth (26th) birth date, may be eligible for health plan
+coverage after reaching the usual maximum dependent age of twenty-six (26).
+Employees with a dependent child in this situation should contact the County
+Employee Benefits Office three (3) months prior to child’s twenty-sixth (26th) birth
+date to initiate eligibility review process.
+                     b.       Enrollment of Dependent Children:
+                              Employee may enroll eligible children in County medical
+and dental benefit plans upon completion of the County’s applicable enrollment
+forms. Children must be enrolled in the same plans as the employee.
+                     c.       Taxability of Dependent Health Plan Coverage:
+                              Health plan coverage provided to domestic partners,
+children of domestic partners, and/or other dependents who do not meet IRS Child,
+Qualified Child, or IRS Qualified Relative requirements is subject to imputed income
+tax on the value of the coverage in accordance with IRS regulations.
+               3.    Termination of Dependent Health Plan Coverage:
+                     Employees must report any termination of marriage or domestic
+partnership or any other change in dependent eligibility status of enrolled dependents
+to the County Employee Benefits Office within sixty (60) days of the dependent status
+change.
+                      a.      To   protect     COBRA   rights, employees must notify
+Employee Benefits Office of the dependent’s status change within sixty (60) days of
+the qualifying event. Federal law shall govern COBRA eligibility for disqualified
+dependents.
+                      b.      Employees whose marriage or domestic partnership ends
+must submit a       statement of Dissolution of Marriage/Domestic Partnership and
+complete the benefit change process to sufficiently report the event.
+                      c.      Employees must remove from coverage a child who has
+become ineligible by completing the benefit change process in Workday.
+                      d.      Employees who fail to remove an ineligible spouse,
+
+
+                           ARTICLE 10, HEALTH AND WELFARE
+44
+
+
+
+domestic partner, or child within sixty (60) days of the qualifying event and have not
+elected to purchase COBRA coverage for the terminated dependent will be required,
+retroactive to the coverage end date, to reimburse the County sponsored health plan
+for claims incurred and paid while the former spouse, partner, or child remained
+enrolled for coverage but was no longer an eligible dependent.
+                     e.      Dependent health plan coverage ends on the last day of
+the calendar month in which the termination event occurs. Examples:
+           Terminating Event                    Coverage End Date
+     Divorce                           End of month divorce became final
+     Dissolution of Oregon State
+                                      End of month dissolution of partnership
+     registered domestic
+                                      became final
+     partnership
+     Dissolution of domestic
+     partnership initiated by
+                                      End of month partner moved out of shared
+     Affidavit or Multnomah County
+                                      residence
+     registry
+
+     Childs reaches maximum           End of month that maximum age birth date
+     dependent ages                   occurs
+
+
+       M.     When Benefits Coverage Begins and Ends:
+              1.    Coverage for new employees:
+                    a.       Medical and Dental Benefits:
+                             The employee and eligible dependents will be covered by
+medical and dental benefits the first (1st) day of the month following or coinciding with
+hire, provided the employee has submitted completed enrollment and other required
+documentation to the Employee Benefits office prior to that date. Employees who
+submit enrollment after the first (1st) day of the month following hire, but within
+thirty-one (31) days of hire, will be covered the first (1st) day of the month following
+date completed enrollment is received by the Employee Benefits Office. Employees
+who do not submit an enrollment within thirty-one (31) days of hire will be enrolled
+based on the default enrollment procedure. Coverage under the default plan(s) will
+begin on the first (1st) day of the month following thirty-one (31) days of employment.
+
+
+                          ARTICLE 10, HEALTH AND WELFARE
+                                                                                    45
+
+
+
+              2.    Benefits coverage for terminating employees:
+                    a.       Retirees:
+                             i.       County-subsidized coverage:
+                                      Benefits options for retirees are provided for in
+Article 22, Section 2.
+                             ii.      Continuation of coverage through COBRA:
+                                      Retirees may continue to participate in County
+medical and dental benefits plans on a self-pay basis as mandated by law.
+                    b.       Other terminating employees:
+                             i.       County sponsored coverage:
+ Last day in Paid
+      Status                       Coverage Ends
+
+1st - 15th of month      End of the month
+16th - 31st of month     End of the following month
+                                     County sponsored medical and dental benefit plan
+coverage ends based on the employees last regularly scheduled working day in pay
+status:
+Example: Employee A’s last working day in paid status is July 15. Employee A’s
+County sponsored health plan coverage will end July 31. Employee B’s last working
+day in paid status is July 16. Employee B’s County sponsored health plan coverage
+will end August 31. Employee B will have additional cost shares deducted from final
+paychecks to cover the cost shares for August coverage.
+                             ii.      Continuation of coverage through COBRA:
+                                      Terminating employees may purchase continued
+coverage under County medical and dental benefits plans on a self-pay basis as
+mandated by law.
+              3.    Employees on unpaid leaves of absence:
+                    a.       Leaves of less than thirty (30) days:
+                             Employees’ benefits plan coverage will not be affected by
+unpaid leaves of absence of less than thirty (30) days’ duration. Unpaid cost shares
+
+
+                         ARTICLE 10, HEALTH AND WELFARE
+46
+
+
+
+will be recovered from the employee when the employee returns to paid status.
+                    b.      FMLA/OFLA/Paid        Leave    Oregon/Washington        Paid
+                            Fmily and Medical Leaves:
+                            i.       The County will contribute toward medical and
+dental benefit plan coverage during unpaid approved FMLA/OFLA/Paid Leave
+Oregon/Washington Paid Family and Medical leave as required by law. Unpaid cost
+shares will be recovered from the employee when the employee returns to paid
+status.
+                            ii.      If the employee remains on unpaid leave for more
+than thirty (30) days after FMLA/OFLA/Paid Leave Oregon/Washington Paid Family
+and Medical leave is exhausted, the leave will be treated as an unpaid leave of
+absence per “Subsection c.i” below, except that the last day of FMLA/OFLA/Paid
+Leave Oregon/Washington Paid Family and Medical leave will be deemed the
+employee’s last day in pay status.
+                    c.      Unprotected          (Non-FMLA/OFLA/Paid              Leave
+Oregon/Washington Paid Family and Medical Leave) Unpaid Leaves:
+                            i.       Lapsing of County-subsidized coverage:
+                                     Lapsing of County-subsidized coverage occurs
+after passage of thirty (30) day leave period. Thirty-first (31st) day of leave with
+unpaid status triggers loss of health plan coverage. If thirty-first (31st) day of unpaid
+non-FMLA/OFLA/Paid Leave Oregon/Washington Paid Family and Medical leave
+occurs:
+ 31st Day of Unpaid
+                                  Coverage Ends
+ Unprotected Leave
+
+1st - 15th of month       End of the month
+16th - 31st of month      End of the following month
+
+
+Example: Employee A goes on unprotected, unpaid leave effective July 15. Leave
+period exceeds thirty (30) days. Thirty-first (31st) day of unpaid leave is August 14.
+Employee A's County sponsored health plan coverage will end August 31. Employee
+
+
+                         ARTICLE 10, HEALTH AND WELFARE
+                                                                                       47
+
+
+
+B goes on unprotected, unpaid leave July 18. Unpaid Leave period exceeds thirty
+(30) days. Thirty-first (31st) day of leave is August 17. Employee B's County
+sponsored health plan coverage will end September 30.
+                             ii.    Continuation of Coverage through COBRA:
+                                    Employees may continue to participate in County
+medical and dental benefits plans on a self-pay basis as mandated by law.
+                             iii.   Benefits Coverage upon Return from a Leave:
+                                    (a)     Employees returning from leave will have
+the same medical and dental benefit plans (or successor plans) they had when they
+left County employment. If they return from leave the first (1st) day of the month,
+coverage will be in effect upon their return from leave; otherwise, coverage will be in
+effect the first (1st) day of the month following their return from leave.
+                                    (b)     Employees      returning   from   unprotected,
+unpaid leave in the following plan year may enroll in different plans within thirty-one
+(31) days of their return. Such employees must notify the County Employee Benefits
+Office and complete health plan enrollment upon their return to work. If submitted
+enrollment is received on the first (1st) day of the month, the coverage will be effective
+that day; otherwise, coverage will be in effect the first (1st) day of the month following
+receipt of the completed enrollment by the County Employee Benefits Office.
+2.     Other Benefits:
+       A.     Flexible Spending Accounts:
+              1.      Medical expenses:
+                      To the extent permitted by law, Medical Expense Reimbursement
+Plan (MERP) accounts, which allow employees to pay for deductibles and
+un-reimbursed medical, dental, and vision expenses with pre-tax wages, will be
+available according to the terms of the Multnomah County Medical Expense
+Reimbursement Plan.
+              2.      Dependent care expenses:
+
+
+
+
+                        ARTICLE 10, HEALTH AND WELFARE
+48
+
+
+
+                      To the extent permitted by law, Dependent Care Assistance Plan
+(DCAP) accounts, which allow employees to pay for dependent care with pre-tax
+wages, will be available according to the terms of the Multnomah County Dependent
+Care Assistance Plan.
+             3.       Transportation expenses:
+                      To the extent permitted by law, Transportation Assistance Plan
+(TRP) accounts, which allow employees to pay for Transit and parking with pre-tax
+wages, will be available according to the terms of the Multnomah County
+Transportation Assistance Plan, as may be modified from time to time.
+      B.     Life Insurance:
+             1.       The County agrees to provide each employee covered by this
+Agreement with term life in the amount of thirty thousand dollars ($30,000) and
+accidental death and dismemberment insurance in the amount of one hundred
+thousand ($100,000). Any increases to the County provided coverage are subject to
+the terms of the insurance contract.
+             2.       Employees may purchase supplemental term life insurance
+coverage for themselves, their spouse or their domestic partner consistent with
+vendor contract(s) by payroll deduction. Premiums will vary according to age of the
+insured.
+      C.     Emergency Treatment:
+                  Employees will be provided with emergency treatment for on-the-job
+injuries, at no cost to the employees, and employees as a condition of receipt of
+emergency treatment, do agree to hold the County harmless for injuries or damage
+sustained as a result thereof, if any. Employees further will promptly sign an
+appropriate Workers' Compensation claim form when presented by the employer.
+      D.     Disability Insurance:
+                   Disability insurance benefits are provided for under Article 8 (Sick
+Leave), Section 6 of this Agreement.
+3.    Retiree Life Insurance:
+
+
+                        ARTICLE 10, HEALTH AND WELFARE
+                                                                                       49
+
+
+
+       Retirees of Multnomah County who have at least ten (10) years of County
+service will be provided with two thousand dollars ($2000) term life insurance
+coverage by the County.
+4.     Death in the Line of Duty:
+       The County shall ensure that all applicable laws that an employer is
+responsible for relating to an Officer’s death in the line of duty are administered within
+statutory timelines.
+
+
+
+
+                        ARTICLE 10, HEALTH AND WELFARE
+50
+
+
+
+### ARTICLE 11
+                                  COMPENSATION
+
+
+1.    Wage Adjustments:
+      A.     July 1, 2024
+               Effective July 1, 2024, the rates and ranges of employees covered by
+this Agreement shall be increased by a three and one-half percent (3.5%) market
+adjustment and a cost of living adjustment equal to 3.3% plus one percent (1%).
+             Additionally, effective upon ratification of this contract, regular status
+and trial service employees covered by this Agreement as of ratification will receive a
+one-time payment of $4,500, prorated by FTE as of date of ratification. This one-time
+payment is to address current job market conditions and employee retention.
+      B.     July 1, 2025
+             Effective July 1, 2025, the rates and range of employees covered by
+this Agreement shall be increased by an amount equal to the annual percentage
+increase in the West - Size A Consumer Price Index for Urban Wage Earners and
+Clerical Workers (2nd Half, second half of 2023 to the second half of 2024 as
+reported in February 2025) with a minimum of one percent (1%) to a maximum of
+four percent (4.0%) plus one percent (1%).
+      C.     July 1, 2026
+             Effective July 1, 2026 the rates and ranges of employees covered by
+this Agreement shall be increased by an amount equal to the annual percentage
+increase in the West – Size A Consumer Price Index for Urban Wage Earners and
+Clerical Workers 2nd Half, second half of 2024 to the second half of 2025 as
+reporting in February 2026 with a minimum of one percent (1.0%) to a maximum of
+four percent (4.0%).
+             Effective July 1, 2026, if the pay rates fall below market average by one
+and one-half percent (1.5%) or more, the County will make a market adjustment to
+match the market average.
+
+
+                            ARTICLE 11, COMPENSATION
+                                                                                    51
+
+
+
+      D.     HRA-VEBA
+             The County shall contribute one percent (1.0%) of each employee’s
+hourly rate (defined as 1.0% of base and overtime wages) toward each employee’s
+individual HRA-VEBA account. The conversion of wages to benefits will reduce the
+employee’s hourly wage by 1.0%. The conversion of 1% of wages to benefits is
+applied to the compensation calculation of base wages and overtime for each payroll
+period. The result is that the 1% will vary based upon the number of hours worked
+and any increases in compensation to the base hourly wage, either as a step
+increase or subsequent COLA increase.
+      This HRA-VEBA contribution process will remain in place unless otherwise
+changed by the parties.
+2.    Budget Shortfall Crisis:
+      Should the County’s estimated fund resources in the executive budget which
+directly affect funding of Parole and Probation services suffer a reduction, and such
+reduction would result in loss of bargaining unit employees and County’s ability to
+continue current level of services, either party may provide the other with written
+notice to meet and discuss possible alternative options that would save bargaining
+unit jobs and County level of services. Such meeting must occur within thirty (30)
+calendar days of said declaration. Alternative resolutions which are in conflict with
+terms and conditions of this collective bargaining agreement shall be subject to
+mutual agreement of the County and the Federation. Parties agree that said
+discussions do not constitute interim negotiations as outlined under ORS 243.698.
+3.    Pay Periods:
+      The salaries and wages of employees shall be paid semi-monthly. Pay dates
+under the semi-monthly system shall be the same as those for exempt county
+employees.
+4.    Step Placement and Step Increase Dates:
+      It is acknowledged by the parties that the County has historically given
+employees covered by this agreement a step increase in wages, effective on the
+
+
+                          ARTICLE 11, COMPENSATION
+52
+
+
+
+employee’s anniversary date of employment. Each employee shall be paid at one (1)
+of the steps in the range prescribed for their classification.
+       A.     New Employees and Rehires:
+              1.      A rehire is an employee who has terminated regular employment
+with the County, and is subsequently selected to occupy a regular position from a civil
+service list. (Former employees who return to regular County employment without
+being selected from a list are not rehired, but reinstated.)
+              2.      Normally new employees and rehires will be appointed at step
+one (1) at the beginning of the trial service period; the director may make an
+appointment to a higher step. An employee who is promoted shall be paid at the
+salary step in the new salary range not less than a one (1) step increase, or in the
+first step of the new range, whichever is greater. A new or promoted employee is
+eligible for consideration for advancement to the next step of their salary range on
+the day following twelve (12) months of service in the Parole and Probation Officer
+classification, and to subsequent steps at subsequent anniversary dates (24, 36, 48,
+60, 72, AND 84 months) to the top step of the pay range.
+              3.      The step increase date for wage increases for new employees
+will be the date of regular appointment, and the date for rehires will be the most
+recent date of regular appointment. However, the step increase date for new
+employees and rehires will be adjusted to reflect any additional seniority credit, such
+as credit for temporary service in the classification, which they receive under the
+provisions of Article 13 – Seniority and Layoff.
+       B.     Step Increases:
+                   An employee not at the maximum of their pay range shall receive a
+step increase upon the completion of one year of service at the current rate. Time in
+service is measured in accordance with Article 13. (Note that part-time work will
+count on a full-time basis.)
+       C.     Failure to Complete Trial Service Period after Promotion:
+
+
+
+
+                               ARTICLE 11, COMPENSATION
+                                                                                    53
+
+
+
+                 When a regular employee is promoted outside the bargaining unit and
+does not complete the trial service period for that classification, they shall be
+reinstated to a position within the Parole/Probation classification per Article 13,
+Section 8. The employee will be placed at the same step in the old range that they
+would have been on but for the promotion. The step increase date for wage
+increases will revert to the step increase date in effect prior to the promotion.
+5.     Reporting to Work Outside of Regularly Scheduled Hours:
+       A.       Reporting After Hours/Scheduled Day Off:            Any employee who
+returns to work at the direction of management outside their regularly scheduled
+working hours or on a scheduled day off, shall have a minimum of four (4) hours
+added to their time worked for purposes of determining overtime.
+       B.       Receiving Work Telephone Calls After Hours:
+                1.    Employees receiving after hours work calls or text messages
+may respond, but are not required to do so.
+                2.    Any employee who is called or sent a text message after work
+hours to respond to an emergency call that requires the employee to make a custody
+decision, and where the employee is not required to report to a work site, shall have
+one (1) hour added to their total time worked for purposes of determining overtime in
+accordance with Section 6 below. Multiple calls less than twenty (20) minutes
+between the end of the 1st and beginning of the 2nd (or more) calls will be considered
+one (1) call.
+                3.    Prior management approval is required to conduct case
+management after work hours and while off duty. This type of call will be
+compensated minute for minute with a minimum of fifteen (15) minutes per call.
+Multiple calls less than twenty (20) minutes between the end of the 1st and the
+beginning of the 2nd (or more) will be considered one call.
+                4.    This provision does not apply to telephone calls or text
+messages regarding work scheduling and/or worksite directions which will be
+compensated minute for minute in accordance with Section 6 below.
+
+
+                            ARTICLE 11, COMPENSATION
+54
+
+
+
+6.      Overtime and Comp time:
+        A.   Employees covered by this Agreement will be compensated for
+overtime based on hours worked in excess of a tour of duty as provided under
+Section 7(K) of the Fair Labor Standards Act (FLSA). A tour of duty for purposes of
+this provision shall consist of eighty-four (84) hours worked in a fourteen (14)
+consecutive-day work period, or such other tour of duty as may be established by the
+County within the options provided under Section 7(K).
+        B.   Employees are scheduled to work forty (40) hours per week. If an
+employee works more than their tour of duty in a week, it must be due to an
+emergent situation, such as for recognizance calls, or with supervisor approval.
+        C.   The time worked over eighty (80) but less than eighty-four (84) hours in
+an employee’s tour of duty shall be taken hour for hour as (1) flex-time off to be
+scheduled by mutual agreement between the employee and supervisor during the
+tour of duty, (2) paid at straight time, or (3) with supervisor approval may be granted
+as compensatory time off in lieu of pay (also at the straight time rate). Flex-time not
+taken during the tour of duty will be paid for at straight time as of the applicable pay
+date.   Overtime for time worked in excess of an employee’s tour of duty will be
+calculated at the rate of time and one-half and will be taken or paid for as determined
+under section B. Paid leave counts as hours worked.
+        D.   Except in emergency situations, all work performed in excess of the
+specified tour of duty must be authorized in advance by the supervisor. Emergency
+overtime work must be reported to the supervisor within two (2) of the employee’s
+work days of its occurrence. An employee who works overtime in excess of their tour
+of duty shall be granted compensatory time off in lieu of overtime pay, at the
+employee’s option and with supervisory approval. Compensatory time shall be taken
+as scheduling permits and with the approval of the supervisor. Nothing in this article
+will be construed to modify the basic workweek schedule, an employee’s obligation to
+account for their time, or the role of the supervisor in approving work outside an
+employee’s basic daily or weekly work schedule.
+
+
+                           ARTICLE 11, COMPENSATION
+                                                                                            55
+
+
+
+       E.     The maximum allowable accumulation of compensatory time off shall
+be eighty (80) hours.
+       F.     In the event the employee terminates for any reason, accrued
+compensatory time shall be paid off in cash to the employee or their heirs.
+7.     Temporary Work in a Higher Classification:
+       A.     Work Out of Class:
+              1.      Definition:   An employee works out of class when they are
+assigned in writing by a supervisor to assume the major distinguishing duties of a
+position in a higher classification and/or to replace another employee in a higher
+classification, and to perform a majority of the principal duties of that classification.
+              2.      Compensation for Work Out of Class:
+                               An employee working out of class will be compensated
+according to the Personnel Rules governing promotions to non-bargaining unit
+positions. Note that if the employee’s pay range and the higher range overlap, the
+policy generally provides for an increase of approximately five percent (5%).
+       3.     Paid leave and work out of class:
+                      a.     When an employee works in a higher classification during
+all hours worked in an FLSA work period or longer period of time, the employee will
+be paid the out of class rate for all hours in pay status on days in which they are on
+leave for less than half a shift.
+                      b.     An employee using leave while working out of class will
+be paid at their regular rate of pay for all hours in pay status on days in which they
+worked half or less of their scheduled hours.
+                      c,     The employee will pay Federation dues or such
+alternatives as are provided by Article 3 – Federation and Security, and will continue
+to be represented by the Federation in Accordance with Article 2 – Recognition.
+       B.     Temporary Appointments:
+               When management anticipates that an employee will be performing the
+principal duties of a higher classification for a period of more than thirty (30) calendar
+
+
+                             ARTICLE 11, COMPENSATION
+56
+
+
+
+days, the employee may be given a temporary appointment to a position in the higher
+classification.
+                  1.   Appointment to a higher classification:
+                       Written verification of the temporary appointment will be placed in
+the employee’s personnel file, and the employee will be notified of the appointment in
+writing. The following provisions will apply:
+                       a.     The employee’s salary will be set according to the
+Personnel Rules governing promotions to non-bargaining unit positions;
+                       b.     If the position is FLSA exempt, the employee is not
+eligible to receive overtime pay, shift differential, or other forms of pay not available to
+permanent employees in the higher classification;
+                       c.     The employee’s health and welfare benefits plan will not
+change;
+                       d.     The employee’s accrual (including maximum accrual
+rates) and use of paid leave will be governed by the rules applying to regular
+employees in the higher classification;
+                       e.     The employee has the right to return to their bargaining
+unit position at the end of the appointment without loss of seniority; and
+                       f.     The employee will pay Federation dues or such
+alternatives as are provided by Article 3 – Federation Security, and will continue to be
+represented by the Federation in accordance with Article 2 – Recognition.
+                       g.     If an employee is appointed to a non-sworn, or out of
+department position, they are responsible for maintaining both department and
+DPSST training requirements.
+8.     Trainer Premium:
+       A differential of five percent (5%) over base rate will be paid to employees
+designated by management as Parole Training Officer. A differential of three percent
+(3%) over base rate will be paid to employees designated by management as
+Survival Skills Instructor, or other trainer designation. The differential specified in this
+
+
+                             ARTICLE 11, COMPENSATION
+                                                                                    57
+
+
+
+paragraph 8 will be paid for each designation. Management reserves the right to
+designate trainers, determine qualifications, and remove the designation with ten (10)
+calendar days’ notice.
+9.     Involuntary On-Call:
+       A.     Employees shall receive one (1) hour of pay or compensatory time off
+subject to Section 6 B at the regular straight time rate for each eight (8) hours of
+assigned on-call duty. Employees who are assigned on-call duty for less than eight
+(8) hours shall be paid on a pro-rated basis at full hour increments.
+       B.     An employee shall be assigned on-call duty when specifically required
+to be available for work outside their working hours and not subject to restrictions
+which would prevent the employee from using the time while on-call effectively for the
+employee’s own purposes.
+       C.     No employee is eligible for premium pay compensation while on-call
+duty except as expressly stated in this article. On-call duty time shall not be counted
+as time worked in the computation of overtime hours. An employee shall not be
+on-call duty once they actually commences performing assigned duties and receives
+appropriate rate of pay for time worked.
+10.    Deferred Compensation Plan: Subject to applicable federal regulations, the
+County agrees to provide a deferred compensation plan that provides for payment at
+a future date for services currently rendered by the eligible employee.
+11.    Overpayments and Payments in Violation of Contract:
+       A.     Any employee receiving unauthorized payments has the obligation to
+call such error to the attention of their supervisor as soon as the overpayment is
+known. The County will make every effort to recover such over payments, by payroll
+deduction over a reasonable period of time as determined by the Labor Relations
+Manager. Where an error occurs which results in a negative impact on the employee,
+upon notification by the employee, and verification by the payroll division, payment in
+correction of the error shall be made in the employee’s paycheck for the current pay
+period.
+
+
+                           ARTICLE 11, COMPENSATION
+58
+
+
+
+      B.     When an employee receives payments due to a clerical, technical, or
+computer error, through no fault of the employee, and where the employee did not
+and could not reasonably have known that the error occurred, the employee will only
+be liable for and the County shall only recover the overpayment for a period of
+one-hundred and eighty (180) days preceding the date of discovery of the error.
+12.   Waiver of State Overtime Requirements:
+      To the extent allowable by law, the provisions of this Article and other
+provisions of this Agreement constitute an express waiver of ORS 653.268. Copies of
+the above cited statutes are available upon employee request to the Labor Relations
+Section.
+13.   Bilingual Pay:
+      A differential of four percent (4%) over base rate will be paid to employees
+who have been directed by the County to translate to and from English to another
+language (including the use of sign language). The proficiency level for interpretation
+and translation skills will be assigned by management.
+14.   Longevity
+      A.     Employees who have completed five (5) years of County service shall
+receive an additional hour longevity incentive payment of one percent (1%) of the
+applicable base hourly wage set forth in Addendum A.
+      B.     Employees who have completed ten (10) years of County service shall
+receive an additional hourly longevity incentive payment of one and a half percent
+(1.5%) of the applicable base hourly wage set forth in Addendum A.
+      C.     Employees who have completed fifteen (15) years of County service
+shall receive an additional hourly longevity incentive payment of two percent (2%) of
+the applicable base hourly wage set forth in Addendum A.
+      D.     Employees who have completed twenty (20) years of County service
+shall receive an additional hourly longevity incentive payment of two and a half
+percent (2.5%) of the applicable base hourly wage set forth in Addendum A.
+
+
+
+
+                           ARTICLE 11, COMPENSATION
+                                                                                     59
+
+
+
+       E.      No other categories of premium or incentive pay shall be compounded
+on top of longevity pay. Nor shall longevity pay be compounded on top of any other
+premium or incentive pay.
+15.    Auto Allowance:
+       A.      Payment:
+               Payment for mileage under this Agreement shall be made on a monthly
+basis, provided the employee has accumulated twenty dollars ($20) of mileage. No
+commuting mileage shall be paid by the County under the terms of “Section B”
+through “Section D” below. In no event will payment be made later than the end of
+the fiscal year.
+       B.      Incidental Use:
+                    An employee who does not drive an automobile as a condition of
+employment shall be reimbursed at the maximum rate per mile approved by the IRS
+as a nontaxable expense reimbursement without documentation (which will
+hereinafter be referred to as "the IRS rate") for miles driven at the requirement of the
+County.
+       C.      Condition of Employment Use:
+               1.     Designation:
+                          The County reserves the right under Article 4, Management
+Rights, to determine the method of transportation for employees during working
+hours and may discontinue or add the requirement for employees occupying certain
+positions to utilize an automobile as a condition of employment provided the
+employees and Federation are notified in writing ten (10) days in advance of the
+change.
+               2.     Payment:
+                         An employee who is required to use their personal automobile
+as a condition of employment shall be paid at the IRS rate and shall also receive a
+base reimbursement of fifty dollars ($50.00) per month, twenty-five dollars ($25.00)
+per month for part-time employees. To qualify for this reimbursement employees
+
+
+                            ARTICLE 11, COMPENSATION
+60
+
+
+
+must be assigned to work in the field and to use their personal transportation. In no
+event, however, shall the aforementioned base payment be made in a month in
+which an employee drives no miles as a condition of employment.
+      D.     Payment Rules for Alterations in Work Site:
+             1.      Temporary reporting place:
+                      Whenever an employee is temporarily required to report to work
+at any location more distant from their home than their regular place of reporting, the
+employee shall be paid for the use of their personal transportation at the rate
+provided in “Section B” or “Section C” above as appropriate for additional miles
+traveled. This provision will not apply when there is a change in an employee’s
+regular reporting location as determined by management with ten (10) calendar days
+written notice to the affected employees and the Federation. In instances in which an
+employee has no regular reporting place, the County will designate one (1) work site
+as a "regular place of reporting" for purposes of mileage reimbursement.
+             2.      Secondary reporting place:
+                     Whenever an employee reports to their regular place of reporting
+and is required to use their personal transportation to report for work at another
+location, the employee shall be paid for the additional miles traveled to and from the
+secondary reporting place in accordance with “Section B” or “Section C” above as
+appropriate. The time involved in traveling from the regular reporting place to and
+from the secondary reporting place to the regular reporting place shall be considered
+time worked for pay purposes.
+      E.     Incidental Parking:
+                  Subject to procedural regulation or supervisory direction as to time,
+place and circumstances of use, when employees on a non-commuter basis are
+required to use their automobile for driving into downtown Portland or elsewhere
+where parking is charged, employees shall be reimbursed for such parking charges.
+      F.     Tri-Met Pass:
+             1.      Statement of Purpose:
+
+
+                            ARTICLE 11, COMPENSATION
+                                                                                  61
+
+
+
+                     For the purposes of encouraging employees to use mass transit
+as part of the County’s ride reduction program under the Oregon Department of
+Environmental Quality (DEQ)’s Employee Commute Options (ECO) mandate, as well
+as part of the County’s commitment to limiting traffic congestion and promoting clean
+air, effective July 2004, each employee shall be eligible to receive a Tri-Met pass
+entirely subsidized by the County for the employee’s personal use while employed by
+the County. Employees’ pass will be inactivated upon their termination of County
+employment.
+              2.    Scope of Subsidy:
+                      The County will provide a one hundred percent (100%) subsidy
+for employee Tri-Met Universal Bus Pass. However, the County may require that the
+employee pay a percentage if the County’s subsidy exceeds the IRS standard for a
+de minimis employee benefit. It will be the employee’s responsibility to request the
+necessary pass from the Employee Benefits Office. Instructions for obtaining the
+pass is available on the Benefits new employee page through Workday. This program
+is offered only by Tri-Met. C-Tran will honor the Tri-Met Universal Bus Pass on all
+C-Tran regular routes (C-Tran Express routes are excluded).
+              3.    Procedural Requirements:
+                            The procedural requirements for obtaining the pass and
+verification that the pass has been used solely by the employee shall be the same as
+apply to managerial employees. Such requirements may change from time to time to
+ensure efficient and effective implementation of the program.
+16.   Culturally-Specific     Knowledge,      Skills,   and     Abilities   Position
+Compensation
+      A differential of four percent (4%) over base rate will be paid to employees in
+positions that have a Culturally-Specific Knowledge, Skills, and Abilities minimum
+qualification attached to them. An employee may not simultaneously receive multiple
+premiums for related KSAs (e.g., premiums for a Spanish Culturally-Specific KSA
+and Bilingual pay for speaking Spanish).
+
+
+                            ARTICLE 11, COMPENSATION
+62
+
+
+
+### ARTICLE 12
+                             WORKERS’ COMPENSATION
+
+
+1.     Coverage:
+       All members of the bargaining unit will be provided full coverage as required
+by the Oregon Workers' Compensation Act.
+2.     Seniority:
+       A.     The period of time that an employee is off the job and unable to work by
+reason of a disability compensable under the Workers' Compensation Law shall not
+interrupt the employee’s continued period of employment with reference to accrual of
+seniority   unless    the   employee's     attending    physician,   the   State    Workers'
+Compensation Department or Board certifies to the County in writing that the
+employee will be permanently disabled to such an extent that they will be unable to
+return to the County and fully perform the duties of the position they last occupied.
+       B.     If an employee is transferred to another classification because of a
+compensable injury, such transfer must be agreed to, in writing, by the affected
+employee, FOPPO, and the County. In such event the employee’s status shall be
+governed exclusively by applicable state statutes related to re-employment and
+non-discrimination.
+       C.     If an injured employee has been released by their attending physician
+to return to the job at injury, they will be reinstated to that position if eligible under the
+provisions of ORS 659A.043, or its successor; provided that such reinstatement shall
+not violate the seniority rights, as contained elsewhere in this Agreement, of any
+other employee.
+3.     Probationary Employees:
+       If an employee sustains an injury during their probationary period, the
+employee’s probation may be extended by written agreement of the Federation, the
+employee, and the County.
+4.     Supplemental Benefits:
+
+
+                      ARTICLE 12, WORKERS’ COMPENSATION
+                                                                                     63
+
+
+
+      The County shall supplement the amount of Workers' Compensation benefits
+received by the employee for temporary disability due to occupational injury, illness or
+disease by an amount which, coupled with Workers' Compensation payments, will
+insure the disabled employee the equivalent of one hundred percent (100%) of their
+semi- monthly net take-home pay (as calculated in accordance with Workers'
+Compensation regulations) subject to the following conditions:
+      A.     Supplemental benefits shall only be payable for those days an
+employee is receiving time loss benefits pursuant to Oregon workers’ compensation
+law. Supplemental benefits shall be paid for no more than twenty-four (24) months of
+the employee's regular working hours. Such payments shall not be chargeable to
+accrued sick leave.
+      B.     To the extent not compensated by Workers' Compensation benefits, the
+first day of occupational disability shall be compensated as time worked.
+      C.     To the extent not compensated by Workers' Compensation benefits, the
+day following the first (1st) day of occupational disability and the next succeeding day
+shall be compensated subject to the provisions of Article 8-Sick Leave, Section 5.C
+(Sequencing of Leaves) if such days would have been work days.
+5.    Denied Claims:
+      A.     If a Workers' Compensation claim is denied, the employee's absence
+from work due to illness or injury shall, to the extent not compensated as Workers'
+Compensation time loss, be subject to the provisions of Article 8 Sick Leave.
+      B.     If a Workers' Compensation claim which has been denied is later held
+compensable upon appeal, any compensable time loss benefits previously paid out
+as leaves shall be reimbursed to the County by the employee and the employee's
+leave accounts credited with an equivalent number of days.
+      C.     If an employee's Workers' Compensation claim is under appeal, and
+they are no longer entitled to medical/dental coverage under Article 10, Health and
+Welfare, they will be entitled to continued coverage under federal COBRA law. The
+
+
+
+
+                      ARTICLE 12, WORKERS’ COMPENSATION
+64
+
+
+
+duration of such coverage will be for the duration permitted by law, provided that the
+employee continues to be eligible and pays the premiums as required.
+       D.      If a denied claim is later held compensable upon appeal, the employee
+will be entitled to:
+               1.      Reimbursement of any premiums paid to the County for
+medical/dental benefits, and
+               2.      Any supplemental benefits not paid in accordance with the next
+section.
+6.     Benefits:
+       A.      The County shall continue to provide medical and dental benefits for an
+employee with a compensable claim and their dependent(s) from the first (1st) day of
+occupational disability, subject to the limitations of Article 10, Health and Welfare, if
+any, for a period of twenty-four (24) months or such longer period as may be required
+by law.
+       B.      The County shall continue to make retirement contributions, based
+upon the appropriate percentage of the gross dollar amount of supplemental benefits
+paid, throughout the period that the employee receives such benefits.
+7.     Occupational Injury or Illness Outside of Oregon:
+       A. County employees traveling for out-of-state work conferences or training
+will be covered through the self-insured program as outlined in Section 1.
+       B. Out-of-state teleworking employees are either covered by the self-insured
+program or through a state specific policy as necessitated by the rules and
+regulations of that individual state in conjunction with the nature of the telework
+assignment.
+       C. When an out-of-state policy is applicable, the rules and coverage benefits
+will be dictated by that state’s regulations including supplemental benefits as defined
+in Section 4 above. There may also be documentation requirements for employees
+before supplemental benefits can be paid. Employees will not be concurrently insured
+through the Oregon self-insured program.
+
+
+                       ARTICLE 12, WORKERS’ COMPENSATION
+                                                                                      65
+
+
+
+       D. To the extent not compensated by Workers' Compensation benefits, the
+hours missed on the first day of occupational disability shall be compensated as time
+worked.
+       E. To the extent not compensated by Workers' Compensation benefits, the
+day(s) following the first day of occupational disability for the duration of the state’s
+waiting period shall be compensated subject to the provisions of Article 8, Sick
+Leave.
+
+
+
+
+                     ARTICLE 12, WORKERS’ COMPENSATION
+66
+
+
+
+### ARTICLE 13
+                                SENIORITY AND LAYOFF
+
+
+1.     Definitions:
+       A.      Layoff:
+               A reduction in force for reasons of lack of funds, lack of work, efficiency
+or reorganization. Reductions in force are identified by position within the Parole and
+Probation classification represented in this agreement.
+       B.      Bumping:
+               The displacement of a trial service employee or the least senior regular
+employee by another regular employee with more seniority within the classification of
+Parole and Probation Officer.
+       C.      Classification Previously Held:
+                A classification or its equivalent in which the employee gained regular
+status and for which they continue to be qualified.
+2.     Seniority:
+       Seniority within the Parole and Probation Officer classification for time served
+prior to July 1, 2004, shall be in accordance with the list given to the Federation by
+the County during prior negotiations. Seniority for time served subsequent to July 1,
+2004, shall be in accordance with the following rules.
+       A.      Determined as Follows:
+               1.     Total length of continuous service within the job classification of
+Parole and Probation Officer. If a tie occurs, then
+               2.     The total length of continuous service with the County. If a tie
+occurs, then
+               3.     Filing date of the application, if available, for the Parole and
+Probation Officer classification; if a tie occurs or if the filing dates of the applications
+are not available, then
+
+
+
+
+                          ARTICLE 13, SENIORITY AND LAYOFF
+                                                                                       67
+
+
+
+               4.       It shall be broken by random selection using a computerized
+logarithm with a member of Central Human Resources and with the Union present
+when the order is selected.
+         B.    Computation of Seniority:
+               1.       Part-time work within the classification will count on a full time
+basis.
+               2.       Time on authorized leave with pay shall be counted.
+               3.       Time spent on a non-FMLA/OFLA leave of absence without pay
+that exceeds thirty (30) days will not count
+               4.       Time spent on layoff will not be counted.
+               5.       Service is broken for purposes of this Article by discharge,
+voluntary quit, or successfully completing a trial service period in another
+classification position outside the bargaining unit, unless such transfer was by reason
+of layoff and the employee remains on the recall list, or pursuant to “Section 4” of this
+Article.
+               6.       Temporary time before regular status appointment to the Parole
+and Probation Officer classification that is continuous and contiguous will count.
+               7.       Employees who are returned to their previously held position as
+a Parole and Probation Officer because of failure to complete a trial service period
+will have their seniority calculated as if they were on leave without pay.
+3.       Layoff:
+         A.    Federation Notice:
+                   In the event of an anticipated layoff, the County shall provide FOPPO
+written notice at least eight (8) weeks prior to the layoff.
+         B.    Reassignment of Regular Employees During a Layoff When There
+are PPO Vacancies within the Department:
+                    Layoffs will be identified by position, location and designated work
+assignment within the department. Parole and Probation Officers holding positions
+that are to be discontinued will be subject to the following in order of seniority (except
+
+
+                          ARTICLE 13, SENIORITY AND LAYOFF
+68
+
+
+
+as limited by Article 13.3.E. and the County’s agreements with other bargaining
+units):
+              1. The impacted PPO(s) are identified by non-regular and work out of
+class first, then trial service PPO’s, then the least senior PPO within the Designated
+Work Assignment, in that order.
+              2. Available vacancies are frozen.
+              3. Volunteers to move into a vacant position are solicited only within
+the impacted Designated Work Assignment.
+              4. Volunteer and impacted PPO(s) will be given no less than thirty (30)
+calendar days’ notice of the layoff.
+              5. Volunteer and impacted PPO(s) are given preference in order of
+PPO seniority to move into a frozen vacancy.
+              6. Vacancies will be unfrozen once volunteer and impacted PPO(s)
+have made their decision(s).
+              7. The movement of PPOs to a vacant position will be implemented no
+sooner than thirty (30) calendar days following the initial 8 week notification period.
+C. Reassignment of Regular Employees During a Layoff When There are No
+PPO Vacancies within the Department:
+              1.      Impacted PPO(s) will be given no less than thirty (30) calendar
+days’ notice of the layoff.
+              2.      Reassignment to a position occupied by a trial service Parole
+and Probation Officer; if there is no trial service employee to bump, then
+              3.      Bump the least senior Parole and Probation Officer or, if the
+employee does not have enough seniority then
+              4.      Reassignment to a position in a classification previously held at
+the employee’s current level or demotion to a position in a classification previously
+held, then
+              5.      Change in status between full-time and part-time, then
+              6.      Layoff.
+
+
+                        ARTICLE 13, SENIORITY AND LAYOFF
+                                                                                     69
+
+
+
+       D.     Non-Regular Employees During a Layoff:
+              1.      Within the classification of Parole and Probation Officer,
+temporary, trial service, and other employees who do not have classified status and
+who are occupying budgeted positions will be terminated before employees with
+regular status are affected by layoff. Employees without regular status who are
+terminated will not be placed on recall lists and do not have bumping rights.
+              2.      An employee who has not completed a trial service period
+following promotion to a classified position and is affected by layoff shall be returned
+to the position previously held as permitted by other bargaining agreements.
+              3.      Trial service employees terminated or demoted in accordance
+with “Subsection 1” and “Subsection 2” of this Article will be placed on the
+reinstatement list for one (1) year from the date of their termination or demotion. At
+management’s option, they may be reinstated to the Parole and Probation Officer
+classification if there are no regular employees who are on a recall list for that
+classification. Trial service employees who are reinstated will be treated as if they
+have been on a leave of absence from the classification for purposes of computing
+seniority and length of trial service period.
+              4.      Employees will not be placed in a classification with a higher
+maximum salary except by normal promotion procedures.
+       E.     Freezing of Vacancies:
+                To ensure that data about vacancies and employee work assignments
+are reliable and that bumping options are accurate, the Department will freeze all
+personnel transactions as determined appropriate beginning up to eight (8) weeks
+prior to the date a layoff is implemented and ending the day immediately following the
+effective date of the layoff.
+       F.     Layoff Processing for Employees on a Leave of Absence
+              1.      Employees on Leave of Absence without Pay:
+                      a.        Employee notification:
+
+
+
+
+                           ARTICLE 13, SENIORITY AND LAYOFF
+70
+
+
+
+                                Employees who are on a leave of absence without pay
+which is scheduled to continue after the layoff effective date and who are expected
+by the County to be affected by an upcoming layoff process will be notified in writing
+and given an option to return from leave.
+                     b.      Use of positions during the layoff process:
+                                 If no response is received by the County within five (5)
+days of written notification, or if the employee declines to return from leave of
+absence, or if the employee is unable to return from leave of absence, the position
+from which the employee is on leave of absence will be treated as a vacant position
+during the layoff process and will be available to be filled by another employee who is
+affected by the layoff process, according to the provisions of this article.
+              2.     Return from Leave:
+                     a.      After     a    layoff   process    affecting    the   employee’s
+classification has occurred, employees who are on Leave will return to the position
+formerly held unless it has been eliminated from the budget or someone more senior
+had a bump right to the position, in which case the returning employee will exercise
+their bumping rights in accordance with this article.
+                     b.      If there is an employee occupying a position that an
+employee returning from leave holds, the employee occupying the position will be
+reassigned according to this article unless that employee would have otherwise had
+the right to bump into the position.
+       G.     The Bumping Process:
+              1.     Vacancies that are created and approved by the Board of County
+Commissioners to be effective the day following the layoff date shall be treated as
+vacancies available during a layoff process.
+              2.     Reassignment          of   employees      to   vacant    positions   and
+reassignment (bumping in) to positions occupied by the least senior employee(s), if
+available, shall be chosen by the employee whose position is eliminated, in order of
+seniority.
+
+
+                          ARTICLE 13, SENIORITY AND LAYOFF
+                                                                                          71
+
+
+
+              3.      If bumping is necessary, trial service and then the least senior
+employee in the Parole and Probation Officer classification will be bumped.
+              4.      If demotion is necessary, employees will be demoted to the
+classification previously held that results in the least reduction in pay and as
+permitted by other bargaining agreements; if the reduction in pay is equal, employees
+will be demoted to the position that affords the greatest seniority.
+              5.      Full-time employees will be reassigned only to full-time positions
+and part-time employees will be reassigned only to part-time positions, unless
+reassignment to the other status is the only available option other than layoff.
+              6.      Employees who are reassigned to a position pursuant to these
+provisions and do not accept that position will be deemed to have resigned.
+              7.      Employees may not be reassigned to positions under this article
+unless qualified to perform the duties of that position. Employees may be denied
+rights otherwise available under these provisions only if they lack knowledge, skills or
+abilities required for the position that are not easily learned on the job within ninety
+(90) days. Employees may be required to take and pass qualifying examinations in
+order to establish their rights to specific positions. Employees who are qualified as
+bilingual or who have a cultural competency in a KSA-identified language, but who do
+not occupy a position with a designated bilingual or cultural KSA, shall not be exempt
+from the layoff and bumping process by virtue of their bilingual skills or cultural
+competencies. However, those employees remain eligible to bump into both KSA and
+non-KSA positions, as their seniority and qualifications permit.
+4.     Notice and Recall List:
+       A.     Employees who are subject to reassignment, demotion, or layoff
+pursuant to the provisions of this article shall receive a notice in writing at least fifteen
+(15) calendar days prior to such action. The notice shall state the reason for the
+action and shall further state that the action does not reflect discredit on the
+employee. The Federation will be provided a copy of the notice.
+
+
+
+
+                        ARTICLE 13, SENIORITY AND LAYOFF
+72
+
+
+
+           B.    Employees who are laid off, demoted, or reassigned to a lateral
+classification and/or reassigned between full-time and part-time status will be placed
+on the recall lists, according to seniority. Employees will be placed on all the recall
+lists that meet the criteria below.
+                 1.    Employees who are laid off, reassigned to a lateral classification,
+or demoted will be placed on the recall list for the Parole and Probation Officer
+classification and previously held classifications as permitted by other bargaining
+agreements.
+                 2.     Employees who are reassigned from full-time to part-time will be
+placed on the list for recall to full-time assignment.
+                 3.    Employees who are reassigned from part-time to full-time will be
+placed on the list for recall to part-time assignment.
+           C.    Employees who are laterally reassigned to a Parole and Probation
+Officer positions, resign, or elect to retire will not be placed on recall lists.
+           D.    Employees will remain on a recall list for twenty-four (24) months from
+the date of placement on the list. Within that time period, employees will be removed
+from the recall list only under the following circumstances:
+                 1.    Upon written request of the employee; or
+                 2.    Upon their retirement; or
+                 3.    Upon acceptance of recall to a regular status position from the
+list; or
+                 4.    Upon declining an offer of recall to a regular status position; or
+                 5.    Upon the employee's failure to respond to a certified letter sent
+to the employee's last known address within fourteen (14) days of mailing; or
+                 6.    Disciplinary termination for cause.
+           E.    Employees who are laid off and are on recall list(s) and return to a
+regular status position at the County will be treated as if they have been on a leave of
+absence without pay for the purpose of computing seniority.
+5.         Recall:
+
+
+                         ARTICLE 13, SENIORITY AND LAYOFF
+                                                                                      73
+
+
+
+       Employees on a recall list will be certified in order of seniority, before
+applicants who qualify through examination. Employees on a recall list shall be
+offered appointment to vacancies, in order of seniority, except when they lack
+knowledge, skills or abilities designated for the position that are not easily learned on
+the job within ninety (90) days. Employees may be required to take and pass
+qualifying examinations in order to establish their rights to specific positions. The
+hiring manager is required to state in writing what qualification(s) the employee lacks
+that the position requires. The employee will remain on the recall list for certification
+to other vacancies during their term of eligibility.
+6.     Seniority Application:
+       The above terms for determination of seniority shall apply not only to the layoff
+process, but also to other situations in which seniority is applied, including total
+service for the purpose of vacation accrual rates. For purposes of vacation bidding,
+the employee's original date of hire with the County pursuant to “Section 2.B” of this
+Article, shall be used to determine vacation selection in accordance with Article 7,
+Vacation Leave, “Section 3”. Seniority determinations shall have no application to
+retirement matters. The County agrees to make available to the Federation upon
+request copies of any personnel list the County maintains regarding seniority or
+classification changes.
+7.     Posting Process:
+       A.     Seniority List Posting:
+                       Lists showing seniority within the County and seniority within
+classification shall be provided to the Federation and posted on the intranet on a
+monthly basis or anytime an employee or employees are notified that their position(s)
+is being eliminated.
+       B.     Seniority List Appeal Process:
+              1.       Employees who have concerns about the calculation of their
+seniority shall notify Central Human Resources with a copy to the Federation. If an
+employee’s concerns remain unresolved, the Federation may file a formal written
+
+
+                        ARTICLE 13, SENIORITY AND LAYOFF
+74
+
+
+
+grievance at Step 3 of the grievance procedure within thirty (30) days of their initial
+consultation with Central Human Resources. If no grievance is filed within that time,
+the seniority calculation is deemed correct.
+             2.      A grievance may be filed only with respect to seniority
+calculations for seniority that has been accrued since the effective date of the
+previous contract. For example, in the 2021-2024 contract, employees may only file
+grievances over seniority that has been accrued since July 1, 2017 contract, which is
+the effective date of the 2017-2020 contract.
+              3.     Seniority dates will be frozen during the bumping/layoff process
+as of May 1st of each year that there are budget reductions in the Parole and
+Probation Officer classification. Seniority appeals will resume after the effective layoff
+date.
+8.      Seniority of and Bumping by Non-Bargaining Unit Employees and Other
+Bargaining Units:
+        A.    The only non-bargaining unit employees, confidential employees or
+members of other bargaining units, who may bump into the bargaining unit are those
+who are in the Classified service, are currently employed within the Department of
+Community Justice without a break in service, and who have previously been a
+“regular employee” of the Bargaining Unit. For purposes of this section, the
+“Bargaining Unit” includes “regular employees” of prior Multnomah County Parole and
+Probation bargaining units, including AFSCME Local 88 and FOPPO.
+        B.    Only time served in the bargaining unit shall apply for bumping
+purposes. Seniority will be calculated using continuous bargaining unit seniority only.
+        C.    An employee with prior bargaining unit status who has been out of the
+bargaining unit for more than three (3) years may not bump an existing bargaining
+member into layoff status. A prior member with over three (3) years out of the unit
+may, upon satisfying Subsection A and B above, only fill a vacant position.
+Employees returning to the bargaining unit within three (3) years will be treated as if
+
+
+
+
+                       ARTICLE 13, SENIORITY AND LAYOFF
+                                                                                      75
+
+
+
+they have been on a leave of absence without pay for the purpose of computing
+seniority.
+9.     Special Provisions to Save Employees from Layoff:
+       A.     It is recognized by the parties that employees who are to be laid off or
+involuntarily demoted because of their seniority face difficult circumstances in being
+placed in alternative employment within the County. Any such employee who is
+placed in a classification not previously held shall be subject to a trial service period
+of one hundred twenty (120) days to demonstrate their ability to perform or fulfill the
+requirements of the new classification. Employees who, in the opinion of the County,
+are unsuccessful during this one hundred twenty (120) day trial service period will be
+removed from their new classification and placed on the recall list.
+       B.     Such employees shall continue to be eligible for placement under the
+provisions of this section as long as management is exploring alternative employment
+opportunities for affected employees.
+
+
+
+
+                       ARTICLE 13, SENIORITY AND LAYOFF
+76
+
+
+
+### ARTICLE 14
+                                   HOURS OF WORK
+
+
+1.     Scheduling:
+       A.     The parties agree that employees in the bargaining unit may work
+irregular hours in the performance of their duties. The official workweek for
+scheduling purposes shall consist of a seven (7)-day period, beginning at 12:01 a.m.
+each Saturday. The normal workweek for Full-Time employees is forty (40) hours,
+falling within the seven (7)-day period.
+       B.     Generally, employees working less than forty (40) hours per week will
+be scheduled to work no more than five (5) days a week, and at least two (2) of their
+days off must be consecutive.
+       C.     Consistent with the best interest of providing adequate and effective
+service and operating requirements, as determined by the County:
+              1.     Each Parole and Probation Officer, upon request and approval of
+their supervisors, shall establish a work schedule that is responsive to the demands
+of their job and meets the needs of the unit. All hours worked shall be at the flat rate,
+on an hour for hour basis, regardless of the starting time, day worked, or length of the
+work day, except as indicated in “Article 11, Section 5.” Split work weeks, varied
+starting and ending time for shifts, and split shifts shall be permitted.
+              2.     Variations of each employee’s established work schedule shall
+be approved or denied by the supervisor within 10 calendar days of the written
+request. If multiple requests impact the supervisor’s ability to respond within this
+timeframe, the supervisor may, upon written notice to the impacted employees, have
+an additional 5 calendar days to respond.
+       D.     Flex Time: Flex time is an employee initiated voluntary change to the
+employee’s regular schedule that does not cause the employee to work over the tour
+of duty as outlined in Article 11.6. Flex time shall be arranged ahead of time with a
+supervisor.
+
+
+                           ARTICLE 14, HOURS OF WORK
+                                                                                      77
+
+
+
+2.     Posting of Work Schedules: Work schedules showing work days and hours
+of work will be posted on bulletin boards or otherwise made accessible to employees
+at all times. Management may change work schedules with ten (10) calendar days’
+written notice to affected employees, and with less notice in the following
+circumstances:
+       A.     Such notice is voluntarily waived in writing by the employee(s)
+       B.     For the duration of an emergency as determined by either the Board of
+County Commissioners (BCC) or the Department.
+3.     Right to Compensation for Regularly Scheduled Hours:
+       An employee who reports to work as scheduled and is excused from duty for
+lack of work, or is specifically directed by their supervisor or manager not to report to
+work, will be paid at their regular rate for the hours they were scheduled to work.
+4.     Changing Scheduled Days of Work and Days Off:
+       A.     Voluntary Changes:       Changes of work days and days off will be
+considered voluntary if they occur at the employee’s request.
+       B.     Involuntary Changes:
+              1.      Changes of work days and days off will be considered
+involuntary if they occur at the discretion or direction of management. Management
+will make every reasonable attempt to ensure that employees are able to work
+sufficient hours in the pay period in which the change occurs so that employees
+receive a regular paycheck.
+              2.      If the employee works more hours than their regularly scheduled
+hours, the employee may work the hours to be paid at straight time, flex the hours
+during the same tour of duty period, or bank the hours as compensatory time at the
+straight time rate.
+5.     Scheduling the Work Day:
+       A.     Normal Work Day:
+              1.      Employees working forty (40) hours a week:
+
+
+
+
+                           ARTICLE 14, HOURS OF WORK
+78
+
+
+
+                     a.     Employees working forty (40) hours per week on a
+schedule agreed upon between the employee and supervisor as provided in Section
+1.A above shall receive breaks and meal periods described in this section.
+Employees on a continuous duty schedule per Section D below shall work
+consecutive hours per day without guaranteed breaks, including the meal period.
+               2.    Employees working less than forty (40) hours a week:
+Employees working less than forty hours a week will be scheduled to work four (4) or
+more consecutive hours a day. Any meal periods to which the employee is entitled
+will be on unpaid time, unless the employee is on a continuous duty schedule per
+Section D below.
+       B.      Breaks: Breaks provided for in this section will be on paid time for
+employees who are not on a continuous duty schedule. Employees who are not on a
+continuous duty schedule may combine their thirty (30)-minute unpaid meal period
+with either or both of their regular paid fifteen (15)-minute rest breaks.
+               1.    During the normal work day
+                     a.     Employees working six (6) or more hours a day:
+Employees scheduled to work six (6) or more hours a day are entitled to a fifteen (15)
+minute break during the first (1st) half of the work day, and another during the second
+(2nd) half, provided that the break in the second (2nd) half of the work day is required
+only if the employee is scheduled to work more than two (2) hours after the previous
+break or meal period. Breaks for employees scheduled to work eight (8) or ten (10)
+hours in a day will be scheduled at the middle of each half of the work day whenever
+practicable.
+               b.    Employees working fewer than six (6) hours a day:
+                      Employees scheduled to work fewer than six (6) hours a day are
+entitled to one (1) fifteen (15)-minute break to be scheduled by management.
+       C.      Meal Periods: Non-continuous Duty Schedule:
+               1.    Entitlement to a meal period:             The work schedules of
+employees working more than six (6) hours in a work day will include a meal period.
+
+
+                           ARTICLE 14, HOURS OF WORK
+                                                                                  79
+
+
+
+An employee who has worked eight (8) or more hours in a work day and who works
+two (2) hours beyond their regular quitting time is entitled to a second (2nd) meal
+period.
+             2.      Unpaid meal periods: Meal periods are on unpaid time unless
+the employee is on a continuous duty schedule.
+                     a.    Length of the meal period:           Employees will be
+scheduled for a thirty (30)-minute meal period unless they request and management
+approves a one (1)-hour meal period. Management may rescind approval for a one
+(1)-hour meal period, subject to the provisions for changing work schedules in
+“Section 1” above.
+                     b.    Scheduling: The meal period for employees working
+eight (8) or more hours will be scheduled in the middle of the work day whenever
+practicable. When a one (1)-hour meal period is requested and approved,
+management will make adjustments to the employee’s starting and/or quitting time,
+subject to the provisions for changing work schedules in “Section 1” above.
+      D.     Continuous Duty Schedules
+             1.      Employees may request a continuous duty schedule in writing
+from their supervisor. Supervisors will evaluate the requests based on the demands
+of the employee’s job and the needs of the unit. A supervisor will approve or deny in
+writing that the employee is being placed on a continuous duty schedule. An
+employee on a continuous duty schedule will remain on the continuous duty schedule
+until the schedule is changed per Section 1.C or Section 2 above or if the employee
+determines they no longer want a continuous duty schedule. Employees on a
+continuous duty schedule shall work consecutive hours as scheduled per day, without
+any guaranteed breaks.
+             2.      Meal periods for such employees will be on paid time.
+Continuous duty employees may not be relieved of duty during their work day.
+Employees on continuous duty are expected to perform work on site and/or in the
+field through their paid meal period and may be required to take meals and breaks
+
+
+                          ARTICLE 14, HOURS OF WORK
+80
+
+
+
+while supervising clients or attending to other duties. Any meal periods or breaks may
+be interrupted or missed without additional compensation.
+              3.    Breaks for employees on a continuous duty schedule will be
+based solely on management’s judgment of the need for supervision of clients or
+involvement in other continuous duty, or may be on an “as time is available” basis.
+              4.    The Federation and its members agree to hold the County
+harmless for any wage and hour claims based on a continuous duty schedule.
+         E.   Clean-Up Time:
+              Employees, upon leaving work, shall be granted not more than a fifteen
+(15) minute personal clean-up time prior to the end of each shift. The County shall
+provide the required facilities for the employee's clean-up time. Neither party to this
+Agreement shall construe "clean-up time" to mean "quit-early time" or "leave-early
+time".
+
+
+
+
+                          ARTICLE 14, HOURS OF WORK
+                                                                                        81
+
+
+
+### ARTICLE 15
+                               DISCIPLINE AND DISCHARGE
+
+
+1.        General Principles:
+          Disciplinary action will only be imposed for just cause. Progressive disciplinary
+action shall be employed, provided that the severity of the offenses may warrant the
+imposition of disciplinary action at any stage of progressive discipline, including
+termination. Disciplinary action shall be subject to the grievance process, except as
+noted below, upon the filing of a written grievance at Step 1 within ten (10) working
+days of such action.
+2.        Corrective Action:
+          Coaching and counseling are used for behavior or performance modification,
+are not considered disciplinary in nature and are not subject to the grievance
+procedure.
+3.        Disciplinary Action: Disciplinary action shall include only the following:
+          A.    Oral Reprimands:
+                     An oral reprimand which is intended to serve as a warning that if
+behavior or performance is not modified more severe discipline may result, and the
+employee is so notified, shall be considered disciplinary in nature, may be the basis
+for further disciplinary action and may be subject to the grievance procedure at Step
+1 only.
+          B.    Written Reprimands:
+                  A written reprimand shall be made a part of an employee’s personnel
+file for all purposes. No written reprimands will be placed into the employee’s
+personnel file unless the employee has signed the document acknowledging receipt.
+If an employee refuses to sign and acknowledge receipt of the document, the
+supervisor shall note that on the document prior to submitting it to the employee’s
+personnel file. In this case, a notice shall also be sent to the Federation.
+
+
+
+
+                       ARTICLE 15, DISCIPLINE AND DISCHARGE
+82
+
+
+
+       Written reprimands are subject to the grievance procedure up to Step 2. In the
+absence of filing a grievance, employees may attach written responses to written
+reprimands by submitting such response within five (5) working days.
+       C.     Suspension Without Pay: Suspension is a commonly used form of
+discipline when oral and written warnings have not achieved the desired results;
+however, it may be used sooner, when, in the Employer’s judgment, the employee’s
+misconduct is of such severity progressive discipline is not warranted. Suspension
+without pay shall not exceed fifteen (15) days unless the result of a grievance
+settlement, an agreement with the Federation, or an arbitrator’s award.
+       D.     Reduction in Pay:
+                A reduction in pay, at the Employer’s option, may be used as a form of
+discipline when other corrective measures have been used and/or the County
+believes the severity of the issue is such that progressive discipline is not warranted
+or does not warrant discharge. A reduction in pay are optional forms of discipline to
+be imposed primarily in performance related disciplinary action.
+       E.     Dismissal:
+               The parties jointly recognize that the professional truthfulness, honesty,
+and integrity of Parole and Probation Officers are essential to effective performance.
+Consequently, the County may dismiss Parole and Probation Officers, for just cause
+which includes but is not limited to, in general, misconduct, inefficiency,
+incompetence, insubordination, or failing to fulfill responsibilities as an employee, and
+specifically, for stealing, untruthfulness in the line of duty, willful falsification of forms
+or other official documents, willful omission of material fact, personal possession or
+use of an illegal controlled substance, and legal convictions which would interfere
+with an employee’s ability to perform as a Probation and Parole Officer
+4.     Disciplinary Notice:
+       A. Oral Reprimands
+       When the department determines that an oral reprimand is appropriate, written
+notice will be given to FOPPO. FOPPO may request an oral summary of the conduct
+
+
+                     ARTICLE 15, DISCIPLINE AND DISCHARGE
+                                                                                  83
+
+
+
+in question, inadequate performance, or the other cause of discipline from the
+disciplining manager.
+       B.     When the department determines that disciplinary action above an oral
+reprimand is appropriate, the employee shall be given written notice thereof with a
+copy to the Federation. The notice shall include:
+              i.     A statement of conduct in question, inadequate performance or
+       other cause for discipline, and
+              ii.    A statement of the disciplinary action to be taken.
+5.     Pre-Discipline Notice:
+       When the department believes just cause for suspension, a reduction in pay,
+or dismissal exists, the department shall give the affected employee and the
+Federation written notice containing:
+       A.     A statement of alleged improper conduct, inadequate performance, or
+other cause for discipline; and
+       B.     A statement that suspension, a reduction in pay, or dismissal is being
+considered as a possible sanction to the stated alleged improper conduct,
+inadequate performance, or other cause; and
+       C.     A statement of the time [a minimum of five (5) scheduled workdays]
+within which the employee may choose to respond to the statement of cause and the
+statement of discipline under consideration.
+6.     Administration of Discipline:
+       Discipline shall be administered in a manner which will not unduly embarrass
+the employee, consistent with the circumstances involved.
+7.     Personnel Records and Information:
+       An employee or their representative, with the written consent of the employee,
+may inspect that employee’s personnel file, or any other file maintained by the
+County. Upon written request, an employee or their authorized representative will be
+given a copy of all materials in the employee’s personnel file.
+8.     Removal of File Materials:
+
+
+                    ARTICLE 15, DISCIPLINE AND DISCHARGE
+84
+
+
+
+       Employees may request and have removed from their personnel file any letter
+of reprimand which is more than two (2) years old. Oral reprimands will not be
+memorialized in writing and will not be placed into an employee’s file. A single letter
+of discipline more severe than a letter of reprimand which is more than five (5) years
+old will be removed from an employee’s personnel file upon their request. If there is
+more than one (1) letter imposing discipline which is more severe than a letter of
+reprimand, none of the letter may be removed until the most recent letter is more
+than five (5) years old. At that time, it and all previous discipline letters will be
+removed from the employees file upon request.
+9.     Investigatory Procedures:
+       When an employee is under investigation by the County regarding allegations
+of misconduct which, if proven, could reasonably lead to discipline, the employee
+shall be afforded the following safeguards:
+       A.     The employee and the Federation will be informed that an investigation
+is commencing, unless the employee is under investigation for violation of the
+Controlled Substance Act, or violations which are punishable as felonies or
+misdemeanors under law, or if doing so would jeopardize either the criminal or
+administrative investigation.
+       B.     Any interview of an employee shall occur when the employee is on
+duty, unless the County reasonably believes that the seriousness of the investigation
+dictates otherwise. If such interview does occur during the employee’s off-duty time,
+the employee shall be compensated for such off-duty time in accordance with the
+provisions of this Agreement.
+       C.     All interviews shall take place at Department facilities, or elsewhere if
+mutually agreed, unless an emergency exists which requires the interview to be
+conducted elsewhere.
+       D.     Unless release of such information would otherwise compromise the
+investigation, the employee under investigation and FOPPO shall be informed, in
+writing, at least forty-eight (48) hours prior to the commencement of the interview that
+
+
+                    ARTICLE 15, DISCIPLINE AND DISCHARGE
+                                                                                     85
+
+
+
+they have a right to have Federation representation during the interview, the names
+of the interviewer and all other persons to be present during the interview.
+       Additionally, the employee under investigation and FOPPO will be provided
+with the specific allegations which form the basis for the investigation and provided
+information necessary to reasonably apprise them of the facts upon which the
+allegations are based. If the employee opts for Federation representation, the
+Federation representative shall not be a subject of the same investigation as the
+employee being interviewed.
+       E.     The employee’s right to have a Federation representative present at the
+interview shall not unreasonably delay the conducting of the interview.
+       F.     Interviews shall be limited in scope to activities, circumstances, events,
+conduct or acts which pertain to the incident or incidents which are the subject of the
+investigation. Nothing in this section shall prohibit the County from questioning the
+employee about information which is developed in the course of the interview.
+       G.     No promise or reward shall be made as an inducement to answering
+any question. The employee may not be subject to intimidation or abusive language
+in the course of the interview.
+       H.     The interview session shall be for a reasonable period taking into
+consideration the gravity and complexity of the issue being investigated. The
+employee shall be entitled to such reasonable intermissions as may be required for
+personal necessities.
+       I.     The County may record, either by tape or digitally, the interview. A copy
+of the complete interview shall be furnished by the County to the employee and/or
+the Federation upon request. If the County elects to have a stenographic record
+made of the interview, a copy will be provided to the employee and/or the Federation
+upon request. The County’s recording shall be considered the official record of the
+interview. The Federation may also record the interview.
+
+
+
+
+                    ARTICLE 15, DISCIPLINE AND DISCHARGE
+86
+
+
+
+      J.     Nothing in this section shall preclude the County from ordering an
+employee to cooperate with other agencies involved in criminal investigations. If the
+employee fails to comply with such directive, they may be subject to discipline.
+      K.     Investigations shall be completed without unreasonable delay, in view
+of circumstances confronted in the investigation.
+
+
+
+
+                    ARTICLE 15, DISCIPLINE AND DISCHARGE
+                                                                                     87
+
+
+
+### ARTICLE 16
+                            SETTLEMENT OF DISPUTES
+
+
+1.    Scope of Grievance Procedure:
+      A.     A grievance shall be defined as, a dispute in the meaning, application
+or interpretation of this Agreement and shall be settled in the following manner.
+      B.     Once a grievance, as defined herein, is filed under Section 2A of this
+Article, the Federation shall have exclusive jurisdiction with respect to the processing
+of such grievance. A decision in good faith by the Federation not to proceed to the
+next step in the grievance procedure or to arbitration shall be final and binding on all
+parties, including the grievant. If the County files a grievance, it shall be filed in
+accordance with the County grievance procedure outlined in Section 4 of this Article.
+      C.     Employees shall be assured freedom from reprisal for use of the
+grievance procedure.
+      D.     A chief steward will be assigned by the Federation. The chief steward
+will assign stewards to specific work areas. A steward may not process a grievance
+in any other work area than the one to which they are assigned unless approved to
+do so by the Federation chief steward. The names of the stewards and other
+Federation representatives who may represent employees will be provided in writing
+to the County by the Federation.
+      E.     Employees meeting with stewards to process a grievance and stewards
+conducting investigatory interviews will be permitted to do so without loss of pay
+during working hours. All efforts will be made to avoid disruptions and interruptions
+of work.
+2.    Grievance Procedure:
+      Should an employee believe that their rights under a specific provision of this
+Agreement have been violated, the matter shall be reported by the employee to their
+supervisor, within ten (10) working days of the date the employee knew or reasonably
+should have known of the occurrence giving rise to the grievance. If the grievance is
+
+
+                     ARTICLE 16, SETTLEMENT OF DISPUTES
+88
+
+
+
+against the employee’s direct supervisor, the employee may elect to file the
+grievance with the District Manager. The parties will attempt to resolve complaints
+informally prior to filing a formal grievance.
+       A.     Step 1: If not resolved informally on this basis between the employee
+and supervisor, the employee, together with their Federation representative, shall
+within ten (10) working days of the date of the informal meeting, submit the matter, in
+writing, to the employee’s immediate supervisor and to the Personnel Division. The
+written grievance shall include:
+              1.      The name and position of the employee.
+              2.      The date of the circumstances giving rise to the grievance.
+              3.      A clear and concise statement of the grievance including the
+relevant facts necessary to reach a full and objective understanding of the
+employee’s position.
+              4.      The specific provision or provisions of this Agreement alleged to
+have been violated.
+              5.      The remedy or relief sought by the employee.
+              6.             Name of the employee or the FOPPO representative
+submitting the grievance.
+              Within ten (10) working days after receipt of such report, the immediate
+supervisor shall attempt to resolve the matter and submit their answer in writing, to
+the employee and their Federation representative.
+       B.     Step 2: If the grievance has not been settled, it may be presented in
+writing by the Federation representative to the department head within ten (10)
+working days after the supervisor’s response is due. The department head or their
+designee shall respond to the Federation representative in writing within ten (10)
+working days.
+       C.     Step 3: If the grievance has not been settled, it may be presented in
+writing by the Federation representative to Labor Relations within ten (10) working
+
+
+
+
+                       ARTICLE 16, SETTLEMENT OF DISPUTES
+                                                                                         89
+
+
+
+days from the date of such response. Labor Relations or their designee shall respond
+to the Federation representative in writing within ten (10) working days.
+       D.     Step 4: If the grievance still remains unresolved, the Federation may
+submit the matter in writing to binding arbitration but must do so within ten (10)
+working days following receipt of Labor Relations’ response.
+3.     Arbitration:
+       A.     Within ten (10) working days after notice has been given, the
+Federation shall request the State Employment Relations Board to provide a panel of
+nine (9) Oregon/Washington arbitrators. A flip of the coin shall determine which party
+shall strike first. The parties shall each alternately strike two (2) names. The
+remaining name on the list shall be the arbitrator. The power of the arbitrator shall be
+limited to interpreting this Agreement and determining if the specific alleged violation
+occurred and to resolve the grievance within the terms of this Agreement.
+       B.     The decision of the arbitrator shall be binding on both parties; however,
+they shall have no power to alter, modify, amend, add to or detract from the terms of
+this Agreement. The arbitrator’s decision shall be within the scope and terms of the
+agreement and in writing. Any decision of the arbitrator may provide retroactivity not
+exceeding sixty (60) days prior to the date the grievance was first filed, and it shall
+state the effective date of the award.
+       C.     The arbitrator’s fee and expenses shall be paid by the losing party.
+Each party shall be responsible for compensating its own representatives and
+witnesses. If, in the opinion of the arbitrator, neither party can be considered the
+losing party, then such expenses shall be apportioned as, in the arbitrator’s judgment
+is equitable. All other expenses shall be borne exclusively by the party requiring the
+service or item for which payment is to be made.
+       D.     If the arbitrator is faced with a question of arbitrability at the arbitration
+hearing, then the arbitrator shall be obligated to first hear arguments and evidence
+and decide that question. If the arbitrator affirmatively decides the question of
+arbitrability in favor of arbitration, then the arbitrator may hear arguments and
+
+
+                      ARTICLE 16, SETTLEMENT OF DISPUTES
+90
+
+
+
+evidence on the merits of the grievance. If requested by either the Federation or the
+County, the hearings for a question of arbitrability shall be held separately from any
+hearing on the merits of the grievance. The decision(s) of the arbitrator shall be
+binding on both parties to this Agreement.
+       E.     Upon mutual agreement, in writing by the Federation and the County at
+the conclusion of the evidentiary portion of the arbitration, the parties may agree to
+oral closing arguments in lieu of written closing briefs.
+       F.     If the parties mutually agree to oral closing arguments, the parties may
+also mutually agree in writing to have the arbitrator issue an oral bench decision. The
+oral bench decision shall be recorded and transcribed by the parties as the formal
+record of the arbitration. The arbitrator shall issue the oral bench decision within two
+(2) hours of the conclusion of the arbitration hearing unless extended by mutual
+agreement of the parties.
+4.     County Grievances:
+       When the County has a grievance, it shall be deemed the moving party and
+shall present its grievance in writing to the Federation. The parties will each then
+promptly appoint two (2) persons to serve as a Board of Adjustment to consider the
+grievance of the County and resolve the dispute. If the Board of Adjustment is unable
+to resolve the dispute within fifteen (15) working days of the notification to the
+Federation, then the County may request arbitration under Section 3 of this Article by
+written notice to the Federation. A County grievance may be terminated at any time
+upon receipt of a signed statement from the County that the matter has been
+resolved.
+5.     Time limits:
+       Failure on the part of the respondent to reply in accordance with the time limits
+specified in this Article shall allow the moving party, if it so chooses, to move the
+grievance to the next step of the grievance procedure. Failure on the part of the
+moving party to process grievances within the time limits at any step in accordance
+with the provisions of this Article shall constitute a waiver of the grievance. The time
+
+
+                      ARTICLE 16, SETTLEMENT OF DISPUTES
+                                                                                    91
+
+
+
+limits and procedures specified in this Article may be extended or waived by written
+mutual agreement of the parties. An employee or Federation grievance may be
+terminated at any time upon receipt of a signed statement from the Federation that
+the matter has been resolved.
+6.    Unfair Labor Practices:
+      If the County or the Federation intends to file an unfair labor practice charge
+against the other party, it shall give that party advance written notice of such intent
+and a reasonable opportunity to meet to discuss the basis of such charge and
+possible resolution prior to filing the charge, unless the delay needed for such a
+discussion would cause prejudice to the claim; in the latter event, the notice and
+meeting is not excused, but may occur after the filing of the charge.
+
+
+
+
+                    ARTICLE 16, SETTLEMENT OF DISPUTES
+92
+
+
+
+### ARTICLE 17
+             WORKLOAD / TRAINING / PERFORMANCE EVALUATION
+
+
+1.     Workloads and Standards:
+       It is the County’s right to establish the workload for employees. In addressing
+the assigned workload, the employee’s supervisor may establish reasonable job
+performance standards. Such standards shall be posted, or individually stated, to
+each affected employee, in order to assure advance comprehension and
+understanding of performance requirements. No employee shall be subject to
+disciplinary action for failure to meet standards of performance unless such employee
+has been fully advised of such expected performance standards, in advance of the
+work period in question.
+2.     Employee Development and Training:
+       A.     Mandatory Training:
+              1.     Any time an employee is specifically required by management to
+participate in any development and training it shall be considered time worked for pay
+purposes, and all tuition, texts, training materials, and other expenses incident to
+such employee’s participation shall be assumed by the county.
+              2.     When a mandatory training requires that an employee complete
+additional work outside of scheduled training hours, the employee shall be paid in
+accordance with Article 11, Section 6 for time worked.
+             3.      The department may not involuntarily require an employee to flex
+their regularly scheduled hours when mandatory training causes the employee’s
+hours worked to exceed Article 11, Section 6 for purposes of overtime.
+       B.     Non-Mandatory Training:
+                        The County may subsidize an employee’s participation in
+non-mandatory training or education based on relevance to the employee’s job. The
+subsidy may be made in the form of a partial or total reimbursement for expenses
+and/or time off with pay for part or all of the time required to attend.
+
+
+      ARTICLE 17, WORKLOAD / TRAINING / PERFORMANCE EVALUATION
+                                                                                        93
+
+
+
+       C.     Travel and Training
+              1.      One Day Assignments:         When an employee is authorized to
+attend a training that is over thirty (30) miles away from their regular reporting
+location, the time spent traveling to the training is paid travel time.
+              2.      Overnight Travel: All time an employee spends traveling
+during their normal work hours is compensated even if it is on their day of rest.
+Non-work hours are not compensated, unless the employee is the driver of a vehicle
+or is actively engaged in doing work tasks. Passengers, regardless of the mode of
+travel, are compensated only for travel time during their normal work hours if they are
+actively engaged in doing work tasks.
+       D.     DPSST Reporting of Training Hours: The County will comply with all
+DPSST employer training reporting requirements. Employees are required to report
+to DPSST training hours that are not sponsored or verified by the County.
+3.     Performance Evaluation:
+       A.     The County shall implement and maintain a performance evaluation
+process involving members of the bargaining unit.
+       B.     Employees shall have the right to attach a response to any evaluations
+prior to being placed in their personnel file. No evaluations will be placed in an
+employee’s personnel file unless that employee has been provided an opportunity to
+review and sign the evaluation and to acknowledge the receipt of a copy of the
+evaluation. Where an employee refuses to sign their evaluation, the supervisor may
+sign a statement indicating the date and time a copy of the evaluation was provided
+to the employee.
+       C.     All performance evaluations shall be signed by the employee’s
+supervisor, who shall bear ultimate responsibility for the content of the evaluation.
+       D.     Employee and supervisor signatures may be electronic.
+       E.     Upon request, an employee may request where their various
+performance records are stored that are outside of their personnel file.
+
+
+
+
+      ARTICLE 17, WORKLOAD / TRAINING / PERFORMANCE EVALUATION
+94
+
+
+
+### ARTICLE 18
+                                GENERAL PROVISIONS
+
+
+1.     No Discrimination
+       A.     Contractually Prohibited Discrimination
+              1.      The provisions of this Agreement shall be applied equally to all
+employees in the bargaining unit without discrimination as to age, marital status,
+race, color, sex, creed, religion, national origin, sexual orientation, political affiliation,
+gender identity, source of income or family status. It is further agreed that there will
+be no discrimination against a person with a disability unless bona fide job related
+reasons exist as provided by the Americans with Disabilities Act and rules
+promulgated under its terms.
+              2.      The Federation shall share equally with the County the
+responsibility for applying the provisions of the Agreement; provided that this
+responsibility shall be limited to those matters under the Federation’s influence or
+control, including but not limited to the behavior of shop stewards and the contents of
+Federation bulletin boards.
+       B.     Legally     Prohibited      Discrimination      and     County     Complaint
+Procedure:
+              The County will maintain a complaint procedure for allegations of
+discrimination in violation of law.
+2.     No Prejudicial Harassment
+       A.     Prejudicial Acts Prohibited: The County and the Federation shall not
+condone and/or tolerate prejudicial remarks, actions, slurs, and jokes directed at, or
+expressed that are offensive to persons with disabilities, or are based on race,
+religious preferences, sexual orientation, gender identity, national origin, familial
+status or source of income.
+       B.     Sexual Harassment Prohibited: No employee(s) shall be subjected to
+un-welcomed sexual advances, requests for sexual favors, or any form of verbal or
+
+
+                         ARTICLE 18, GENERAL PROVISIONS
+                                                                                      95
+
+
+
+physical conduct of a sexual nature that is offensive, hostile or intimidating that
+interferes with the work performance of such employee(s).
+3.     Federation Member Rights:
+       The County agrees not to interfere with the rights of employees to become
+members of the Federation, and there shall be no discrimination, interference,
+restraint, or coercion by the County, or any County representative, against any
+employee because of Federation membership or because of any employee activity in
+an official capacity on behalf of the Federation, or for any other cause. Nothing in this
+section shall be construed to limit the county’s right to effectively and efficiently run
+the County’s operations.
+       A.     Access to Workers:
+                   Authorized representatives of the Federation may visit the work
+locations of employees covered by this Agreement at reasonable times, provided
+such visitations do not interfere with the work of the employees.
+       B.     Federation Negotiators:
+                      Employees selected by the Federation to act as Federation
+representatives for the purpose of negotiating amendments or modifications to this
+Agreement shall be known as the Federation of Oregon Parole and Probation
+Officers Negotiating Committee. The names of employees so designated shall be
+certified in writing to the County by the Federation. All negotiation meetings with the
+County shall be held during working hours and without loss of pay for a maximum of
+six (6) Parole and Probation Officers.
+       C.     Federation Business:
+              Elected officers and negotiators will be allowed a reasonable amount of
+work hours to handle labor relations matters. This will include that time necessary to
+attend Labor-Management meetings when scheduled by mutual agreement.
+       D.     Communication with Members:
+              1.     Bulletin Boards: The County agrees to provide suitable bulletin
+boards and allow convenient places within each work area for purposes of
+
+
+                        ARTICLE 18, GENERAL PROVISIONS
+96
+
+
+
+communication with Federation members. The Federation shall limit its postings of
+notices and bulletins to such boards. All postings by the Federation shall be dated by
+the Federation posting member.
+             2.     Electronic Mail and Internet Connections: County computers
+may be used for Federation business involving E-Mail or Internet connections when
+such use is de minimis and incidental, such as arranging a meeting with a fellow
+shop steward or Council representative. Computer use may be further used for the
+purpose of conducting an investigation of a grievance, interacting with the County’s
+Representatives concerning Federation-County Business, on the employee’s own
+time, and to link to a Federation Internet site. The uses outlined may continue only to
+the extent that they are at no additional cost to the County, and are contingent on the
+continued use of the cited computers, Internet connection, or intranet connection for
+other County purposes. The content of any and all communications using the County
+computer system is not privileged and may be subject to County review.
+             3.     New Employee Orientation:
+                      The President or designee shall be provided a total of up to one
+(1) hour per quarter, without loss of pay, to meet the newly hired employee(s), to
+discuss the Federation and this Agreement The Federation will provide advance
+notice to managers of each of the employee meetings and each employee will
+accurately record and code their time spent in such meetings. The County will
+provide the Federation with a list of new member hires each month.
+4.    Rules:
+      County personnel rules affecting Federation members will be submitted to the
+Federation for review 30 days prior to their adoption. The personnel rules shall be
+subject to discussion with the Federation before becoming effective. Changes made
+in mandatory subjects addressed in the rules shall be made in accordance with the
+Public Employees Collective Bargaining Act (PECBA). The County agrees to make
+available to each employee in the bargaining unit a copy of all existing work rules and
+to provide a copy of new rules before their effective date, when possible. New
+
+
+                       ARTICLE 18, GENERAL PROVISIONS
+                                                                                     97
+
+
+
+employees shall be provided a copy of the rules at the time of hire.
+5.     Changes in Existing Conditions:
+       A Policy Revision Committee shall be established to discuss and review
+proposed changes to Department of Community Justice policies that directly affect
+members of the Federation. The Federation shall appoint two (2) members to the
+Committee to attend meetings held by the Policy Revision Committee without loss of
+pay. The appointees shall be authorized to speak on behalf of the Federation and to
+bind the Federation. If both the Federation appointees agree to any policy change,
+the County shall have no further obligation to bargain the proposed changes with the
+Federation. In the event the Federation appointees do not agree and the matter
+involves a mandatory subject of bargaining or the impact of a mandatory subject of
+bargaining under the PECBA, the County and the Federation agree to bargain in
+accordance with the PECBA. Nothing in this Agreement prevents the County from
+implementing permissive subjects of bargaining that do not impact a mandatory
+subject without bargaining. The County’s agreement to discuss potentially permissive
+subjects does not render the matter a mandatory subject of bargaining nor does it
+compel either party to make concessions.
+6.     Loss of Personal Property
+       A.      Procedure for Advancing Claims: Employees who suffer a loss of
+personal property on County premises shall be provided a claims form by the Risk
+Management Division upon request.        Premises, for this purpose, are defined as
+County facilities and vehicles. The Risk Management Division shall provide the
+requesting employee with a determination in writing by the County of the legal liability
+the County may have in the matter. The County will pay claims for which it
+determines it has legal liability.
+       B.      Exclusion of Personal Vehicles:         Unless authorized for County
+business, personal vehicles are expressly excluded from this provision. Loss or
+damage to employees' personal vehicles are the sole responsibility of the employee.
+7.     Labor Management Committee:
+
+
+                         ARTICLE 18, GENERAL PROVISIONS
+98
+
+
+
+      The parties agree to the principles of labor management cooperation in order
+to promote harmonious relations and provide internal communications. The
+committee will determine the schedule and frequency of meeting. Federation
+members to the Labor Management Committee will be released with pay to attend
+meetings. These meetings will not take the place of collective bargaining nor will they
+result in decisions about matters that are mandatory subjects of bargaining.
+8.    Public Records Requests:
+      Within three (3) business days of receipt by the Department of a public records
+request related to an employee, the Department shall provide notification of such
+request to the affected employee. The Department will also provide a summary of the
+information released, and at the employee’s option, the Department will provide a
+copy of the information released.
+
+
+
+
+                       ARTICLE 18, GENERAL PROVISIONS
+                                                                                     99
+
+
+
+### ARTICLE 19
+                                SAFETY AND HEALTH
+
+
+1.     Facility Standards Maintenance:
+       The County agrees to abide by and maintain in its facilities and work operation
+standards of safety and health in accordance with the State of Oregon Safe
+Employment Act.
+2.     Safe Place of Employment:
+       It is the responsibility of the County to make every reasonable effort to provide
+and maintain a safe place of employment. It is the responsibility of all employees to
+practice safe working habits and to report any observed unsafe conditions
+immediately. The employee will report any personally observed unsafe practice or
+conditions to the immediate supervisor. The Labor Management Committee shall
+seek to resolve any differences in interpretation or practice as to what constitutes an
+unsafe practice or condition.
+3.     Individual First Aid Kits (IFAK), Trauma Kits, and Automated External
+Defibrillators (AED):
+       As recommended by Risk Management, the County shall provide first aid kits,
+IFAKs, Trauma Kits, and AEDs in sufficient quantity to serve the employees at each
+work location. All kits shall be managed and maintained by the county and shall be
+inspected in accordance with industry standards and manufacture specifications.
+Employees shall be responsible for ongoing notification to their chain of command
+regarding any malfunctioning and depletion of items in kits that need to be replaced
+and their supervisor shall be responsible to complete a RSK-2 form.
+4.     Personal Protective Equipment (PPE):
+       A.     Protective Clothing: If any employee is required to wear protective
+clothing, such protective clothing shall be furnished to the employee by the County.
+The initial cost of purchase and tailoring will be paid by the County.
+
+
+
+
+                         ARTICLE 19, SAFETY AND HEALTH
+100
+
+
+
+      B.      Safety Equipment: Body armor will be provided to all field Officers
+and replaced by the County per manufacturer’s warranty.
+      C.      Medically Required Personal Protective Equipment:
+                  The County is not obligated to purchase or supply non-specialty
+prescription safety eyewear and other items as identified in OAR 437-002-0134
+Subsections (4)(b)-(e), however, upon an employee’s request and subject to prior
+supervisor approval, the County may in its discretion reimburse an employee up to
+one-hundred fifty dollars ($150) biennially for prescription safety glasses that meets
+the ANSI Z87.1 standard.
+5.    Vehicles:
+      Each vehicle which is provided for use by Parole and Probation Officers shall
+be properly maintained in a safe and serviceable condition. Each vehicle will have in
+it a first aid kit, IFKA or higher Trauma Kit, AED as recommended by Risk
+Management, as well as road flares, a fire extinguisher, two blood borne pathogen
+kits and jumper cables or jump starter. All kits shall be managed and maintained by
+the county and shall be inspected in accordance with industry standards and
+manufacture specifications. Employees shall be responsible for ongoing notification
+to their chain of command regarding any malfunctioning and depletion of items in kits
+that need to be replaced and their supervisor shall be responsible to complete a
+RSK-2 form.
+6.    Firearms:
+      Employees may carry their Department issued firearm with badge visible,
+while in a DCJ field office or other location as designated by the Assistant Director
+and not engaged in active field work without all of their other safety equipment. The
+Department shall designate the required holsters for concealed and unconcealed
+carry, whether in the office or the field. Employees may carry their firearm
+unconcealed in the field while wearing all required duty gear including apparel clearly
+marked “Parole Officer” on the back with the department badge clearly displayed.
+
+
+
+
+                        ARTICLE 19, SAFETY AND HEALTH
+                                                                                   101
+
+
+
+The County will provide safe and secure storage for firearms at the employee’s
+assigned work location.
+7.     Reimbursements
+           Glasses, contact lenses and clothing that are lost or damaged in the line of
+duty shall be replaced at no cost to the employee.
+          A. Clothing and Footwear Allowance
+          The County will reimburse an employee up to three hundred and fifty dollars
+($350) per fiscal year for field-related work boots and clothing that are required for
+the job, subject to supervisor approval.
+          B. Bed Bugs
+The County will reimburse an employee up to five hundred dollars ($500) for the cost
+of eradicating bed bugs from their home and personal property as well as up to three
+(3) paid leave days to deal with the infestation. To be eligible for both the
+reimbursement for eradication and paid leave time, it must be documented including
+verification from a secondary source that the employee came into contact with bed
+bugs in the line of duty.
+
+
+
+
+                            ARTICLE 19, SAFETY AND HEALTH
+102
+
+
+
+### ARTICLE 20
+                           DEFENSE OF CIVIL CLAIMS
+
+
+1.    Legal Defense: The employer shall provide legal counsel to any current or
+former employee in connection with any civil action brought against them arising out
+of the performance of their duties in accordance with ORS 30.260 – 30.300 (Oregon
+Tort Claims Act). Employees will be made aware of any claim or action involving the
+employee within a reasonable amount of time after the County Attorney’s Office
+(CAO) becomes aware of such claim or action; provided, however, that such notice
+will not be given more than fifteen (15) days from the date the Department is made
+aware of such action.
+2.    An employee who is a named defendant shall be notified by the Department of
+Community Justice (DCJ), and provided a copy of the complaint, within five (5)
+business days after the CAO has notified DCJ of such claim or action.
+3.    Upon written request by an employee involved in such claim or action, the
+County shall provide copies of information, related to the employee’s involvement in
+such claim or action, to the requesting employee.
+
+
+
+
+                    ARTICLE 20, DEFENSE OF CIVIL CLAIMS
+                                                                                103
+
+
+
+### ARTICLE 21
+                                   USE OF FORCE
+
+
+       The Federation President or designee will appoint two (2) members to actively
+participate on any use of force review board convened by the County. The member
+appointed shall participate without loss of pay.
+
+
+
+
+                            ARTICLE 21, USE OF FORCE
+104
+
+
+
+### ARTICLE 22
+                                    PENSIONS
+
+
+1.    Pension:
+      A.     PERS/OPSRP Membership:             Employees shall be eligible for
+participation in the Oregon Public Employees Retirement System (PERS) (coverage
+for Police Officers and Firefighters) and the Oregon Public Service Retirement Plan
+(OPSRP) (coverage for Police Officers and Firefighters), pursuant to ORS Chapters
+237, 238, and 238A and subject to the terms and conditions of the Agreement, dated
+January 22, 1982, integrating the Multnomah County Employees' Retirement System
+and PERS, such Agreement having been entered into between the Oregon Public
+Employees' Retirement Board and Multnomah County pursuant to the former
+provisions of ORS 237.051 (now ORS 238.680).
+      B.     PERS "Pick-Up" and "Pick-Up" Under IRC Section 414 (h) (2):
+             1.     The County shall "pick-up" the employee contribution to PERS,
+six percent (6%), as permitted by ORS 238.205. The parties acknowledge that the
+pick-up payment is inapplicable to employees who are not PERS members due to
+insufficient service. Pursuant to ORS 238.205(5) and (6), the parties agree and
+acknowledge that employee compensation was reduced in order to generate the
+funds needed to make these employee contributions to the employee accounts; the
+employer will file any required notices with the Public Employees Retirement Board.
+             2.     OPSRP “Pick-Up”
+                    The County shall “pick up” the employee contribution to OPSRP
+as permitted by ORS 238A.335(1). Pursuant to ORS 238A.335(2)(a) and (3), the
+parties agree and acknowledge that employee compensation was reduced in order to
+generate the funds needed to make these employee contributions to the employee
+accounts; the employer will file any required notices with the Public Employees
+Retirement Board.
+
+
+
+
+                             ARTICLE 22, PENSIONS
+                                                                                   105
+
+
+
+              3.      To the extent allowable by law, the required employee
+contribution of 6% of wages to PERS is deemed to be "picked up" by the County for
+the limited purposes of Section 414(h)(2) of the Internal Revenue Code and any
+related federal or state tax policies.
+              4.      Sick Leave in Application to Final Average Salary (PERS): In
+accordance with the terms and limitations of ORS 238.350, one half (1/2) of the
+accumulated unused sick leave with pay will be applied to final average salary for the
+purpose of pension benefit determination.
+2.     Retiree Health Insurance:
+       A.     Definitions: For purposes of this section, a "retiree" refers to a person
+who was eligible to initiate a PERS pension upon separation from the County and, at
+the time of retirement, occupied a position covered by this bargaining unit. For
+purposes of this section, a "member" refers to an active employee(s) in a position
+covered by this Agreement.
+       B.     Right to Participate: Except as otherwise provided by this section,
+retirees may continue to participate in the County health plan available to members.
+Coverage of eligible dependents uniformly terminates when coverage of the retiree
+terminates, except as otherwise required by applicable state or federal law.
+C.     Choice of Plan: To the extent members are permitted to choose from among
+two (2) or more health insurance plans, retirees shall be permitted to choose between
+the same plans under the same conditions and at the same time as apply to
+members. Retirees participating in the members' health insurance plan shall be
+subject to the application of any change or elimination of benefits, carrier,
+administrator or administrative procedure to the same extent and at the same time as
+members.
+       D.     Retiree Responsibilities: The retiree shall be responsible for promptly
+notifying the Benefits Administrator of any changes in the retiree's current address
+and of any changes in retiree or dependent eligibility for coverage.
+
+
+
+
+                                ARTICLE 22, PENSIONS
+106
+
+
+
+       E.      Eligibility for County Payment of One Half of Premium:                        The
+following terms related to benefit payments, service, and age requirements shall also
+apply :
+               1.      Payment at fifty (50):       If retiree is fifty (50) years old and has
+thirty (30) years of continuous County service, the County shall pay one-half (1/2) of
+the monthly medical insurance premium on behalf of the retiree and their eligible
+dependents, until the retiree’s sixty-fifth (65th) birthday, death, or eligibility for
+Medicare, whichever is earlier.
+               2.      Payment at fifty-eight (58):       The County shall pay one-half
+(1/2) of the monthly medical insurance premium on behalf of the retiree and their
+eligible dependents from the retiree’s fifty-eighth (58th) birthday or date of retirement,
+whichever is later, until the retiree’s sixty-fifth (65th) birthday, death, or eligibility for
+Medicare, whichever is earlier, if the retiree had:
+                       a.     Five (5) years of continuous County service immediately
+preceding retirement at or after age fifty-eight (58) years, or
+                       b.     Ten (10) years of continuous County service immediately
+preceding retirement prior to age fifty-eight (58) years.
+       3.      Payment at Any Age:            If a retiree has ten (10) years of continuous
+County service immediately preceding approval for PERS disability retirement
+regardless of age, the County shall pay one-half (1/2) of the monthly medical
+insurance premium on behalf of the retiree and their eligible dependents until the
+retiree’s sixty-fifth (65th) birthday, death, or eligibility for Medicare, whichever is
+earlier.
+               4.      Grandfathering Provision:
+                       In addition to the above eligibility requirements, employees who
+are members of the Federation as of July 1, 2021 will also be eligible for the
+following:
+                       a.     The County shall pay one-half (1/2) of the monthly
+medical insurance premium on behalf of a retiree and their eligible dependents from
+
+
+                                  ARTICLE 22, PENSIONS
+                                                                                           107
+
+
+
+the retiree’s fifty-fifth (55th) birthday or date of retirement, whichever is later, until the
+retiree’s sixty-fifth (65th) birthday, death, or eligibility for Medicare, whichever is
+earlier, if the employee had:
+                              i.      Thirty (30) years of continuous service with
+employers who are members of the Oregon Public Employee Retirement System
+(PERS) and twenty (20) or more years of continuous County service immediately
+preceding retirement; provided, however that employees employed on or before July
+1, 1992, who are eligible for PERS regular retirement and have thirty (30) years of
+PERS service and twenty (20) years of County service shall be eligible for County
+payment of half the medical premium without waiting until age fifty-five (55).
+       F.       Eligibility for Medicare: Actual application for Medicare shall not be
+required for a finding that a retiree is "eligible for Medicare" under “Subsection E" of
+this section.
+       G.       Part-Time Prorating: Part-time service in a regular budgeted position
+shall be pro-rated as half for purposes of the service requirements under “Subsection
+E" of this section. (For example, part-time service for two (2) months would equal one
+(1) month toward the applicable service requirement.)
+       H.       Requirement to Continuously Participate:
+                1.    In addition to the other requirements of this section, continued
+medical plan participation or benefit of County contributions is conditioned on the
+retiree's continuous participation in the member's medical insurance plan from the
+time of retirement, and upon the retiree's timely payment of the applicable retiree
+portion (i.e., 50% or 100% as applicable) of the monthly premium. Failure to
+continuously participate or make timely and sufficient payment of the applicable
+retiree portion of the monthly premium shall terminate the retiree's rights under this
+section.
+                2.    A retiree will be allowed an opportunity to leave County medical
+and County dental coverage one time each and then opt back onto a County plan. To
+receive this benefit, the retiree must demonstrate continuous coverage under another
+
+
+                                   ARTICLE 22, PENSIONS
+108
+
+
+
+dental or under a medical plan that meets the Minimum Essential Coverage (MEC)
+as defined under the Affordable Care Act (ACA) and is not coverage in the individual
+market. The retiree must enroll within sixty (60) calendar days of loss of coverage.
+The effective date of coverage will be the first day of the month on or after receipt of
+all enrollment forms and documentation.
+            3.       Payments by retirees of their portion of the monthly premiums
+under this section shall be timely if the retiree has directed PERS to regularly deduct
+their portion of the monthly premium from their pension check and remit the proceeds
+to the County's collection agent, or if the retiree has directed the County’s collection
+agent to invoice or electronically transfer funds (EFT) from their account. The Central
+Human Resources Division shall inform the retiree at the time they sign up for
+continued medical insurance coverage of the identity and address of the County's
+collection agent and shall thereafter inform the retiree of any change in collection
+agent at least forty-five (45) days prior to the effective date of such change.
+       I.     State and Federal Tax Offset: In the event County medical insurance
+premium payments on behalf of retirees or their dependents are made subject to
+state or federal taxation, any additional costs to the County shall be directly offset
+against such payments required under this section. (For example, if the effect on the
+County of the additional tax is to increase the County's outlay by an amount
+equivalent to ten percent (10%) of aggregate monthly retiree premium, the County's
+contribution shall be reduced to forty percent (40%) of the premium so that net
+County costs will remain unchanged.
+
+
+
+
+                               ARTICLE 22, PENSIONS
+                                                                                 109
+
+
+
+### ARTICLE 23
+            MODIFICATION OF WORK PERFORMED: CONTRACTING
+
+
+1.    Unless mutually agreed, the County will not contract out or subcontract any
+work now performed by employees covered by this Agreement when such would
+result in layoff of any bargaining unit employee(s) and the County is unable to find
+suitable or comparable alternate employment for the employee(s). However, this
+provision shall not apply to contracting out or subcontracting work when such was
+anticipated and considered as part of the budgeting process and when the
+Federation Representative and/or President have been notified of the specific plan
+and its probable impact at least thirty (30) days prior to adoption of the annual
+executive budget or formal Board consideration of budget modifications.
+2.    The County agrees to meet with the Federation to discuss the effect of
+proposed contracting out or subcontracting prior to the presentation of the proposal
+to the County Chair or Board for formal Action.
+3.    The County further agrees to meet with the Federation at its request to explore
+the alternative work force reduction by attrition. The County also agrees that to the
+extent practicable transfers shall be made to open vacancies and re-employment of
+employees affected by such action shall occur for as long as they are so qualified in
+accordance with established layoff guidelines. The Federation agrees to assist the
+County in minimizing the impact on such affected employee(s).
+
+
+
+
+     ARTICLE 23, MODIFICATION OF WORK PERFORMED: CONTRACTING
+110
+
+
+
+### ARTICLE 24
+                          SHIFT AND WORK ASSIGNMENT
+
+
+1.     Vacancy: A vacancy shall exist when:
+       A.     The employee assigned to a budgeted position abandons such position
+because of transfer, promotion, or demotion to another position or County agency; or
+upon voluntary or involuntary termination of County employment;
+       B.     Additional budgeted positions are allocated;
+       C.     Workload requirements necessitate reallocation of duties for a period in
+excess of ninety (90) calendar days, for example, a training assignment or
+assignment to another unit with a workload issue;
+       D.     When an employee is on unpaid leave that will exceed ninety (90) days.
+Management shall determine whether any of the conditions cited above create a
+vacancy within ten (10) calendar days of that condition’s occurrence.
+2.     Regular Employee Temporary Work Assignments:
+       A.     One hundred eighty (180) Days or Less (Temporary Assignments)
+& Employee Rotation Plans:
+              1.     Work assignments and employee rotation plans of one hundred
+eighty calendar (180) days or less shall be solely at the discretion of management
+and shall be communicated in writing to the impacted employee with a copy to the
+Federation. Following such a short-term assignment, the employee will be returned to
+their regular assignment. Regular employees shall not be rotated more often than
+once in a twenty-four (24) month period.
+              2.     To further employee development or motivation, the County may
+rotate employees in the same classification between job assignments within a work
+unit or between work units, subject to the following limitations:
+                     a.     Any such rotation plan shall be posted ten calendar (10)
+days in advance with a copy provided to the Federation.
+                     b.     The terms and criteria of the rotation plan shall apply to all
+
+
+                   ARTICLE 24, SHIFT AND WORK ASSIGNMENT
+                                                                                       111
+
+
+
+employees in the affected job classification within a work unit or work units.
+                         c.    The County shall have a plan to reasonably cover the
+transferred employee’s regular assignment.
+3.      Regular Employee Shift/Work Assignment:                A regular vacancy is a
+vacancy determined by management to be for a duration of over six (6) months.
+Whenever there is one (1) or more work assignment within the same job
+classification within a work unit, regular vacancies shall be filled in the following
+manner:
+       A.     Management will provide employees a notice of such vacancy, the
+person to contact, and the deadline for consideration, which shall be ten (10)
+calendar days following the notice.
+       B.     The vacancy shall be filled by a regular employee on the basis of
+seniority provided the employee is able to perform the work in question and has
+indicated their preference in writing. An employee who accepts a vacant position
+shall be transferred to that position within thirty (30) calendar days of acceptance. If
+an employee is not transferred within this timeframe, they shall remain in their current
+position as a temporary assignment for no longer than 150 days.Exceptions to
+seniority preference assignment may be made in the following situations:
+              1.         In regard to work assignment only, when a less senior employee
+is substantially more qualified for the position in question. For purposes of this article,
+the factors for consideration in assignment include, but are not limited to, the
+following. However, even these factors will be evaluated on a case-by-case basis:
+                         a.   Employee must have successfully completed their trial
+service period.
+                         b.   Employee is not on a work improvement plan or currently
+subject to discipline.
+                         c.    Unique or particularly strong skills developed as a result
+of previous experience, training, education, desire and interest.
+                         d.    Training history and/or certification that demonstrate a
+
+
+                   ARTICLE 24, SHIFT AND WORK ASSIGNMENT
+112
+
+
+
+willingness to participate in ongoing training in order to maintain proficiency and
+expertise.
+                     e.     Required certification, such as CADC, Mental Health
+licensure or Alcohol/Evaluation certification.
+                     f.    Knowledge of the issues related to the current offense(s),
+including criminal history and behavior patterns that require a certain level of
+expertise and a unique set of supervision skills.
+                     g. The position is designated to require knowledge, skills or
+abilities that are not easily learned on the job within ninety (90) days.
+       C.     A regular employee who has applied for, and accepted, a transfer within
+the previous twelve (12) months is not eligible for transfer unless as determined by
+management that extenuating circumstances dictate otherwise.
+       D.     In the event no expression of preference exists for a shift or work
+assignment, management may fill a vacancy with a trial service employee or the least
+senior qualified regular employee in the work unit.        Involuntary changes in shift
+assignment shall require ten (10) calendar days advance written notice to the
+affected employee.
+       E.     When a new work assignment with substantially different duties is
+created, it shall be posted for ten (10) calendar days to permit regular employees to
+indicate their preference for the assignment.
+4.     Trial Service Periods:
+       Upon appointment to a new regular work assignment, including transfers, and
+specifically including any lateral transfer to another classification, the employee will
+serve a trial service period of one hundred and twenty (120) calendar days to
+demonstrate their ability to fulfill the requirements of the assignment. If the employee
+does not satisfactorily fulfill the requirements of the assignment, such employee will
+be returned, first, to their previous work assignment, or if it is not available, to a
+vacant position. Such determination of satisfactory performance within the one
+hundred and twenty calendar (120) day trial service period will be made by
+
+
+                   ARTICLE 24, SHIFT AND WORK ASSIGNMENT
+                                                                                 113
+
+
+
+management.
+5.    Work Unit and Work Assignment Determination and Specification
+      A.     Departmental Determination:
+             The Department shall determine the work units and work assignment
+structure of its organization and may change this determination from time to time to
+reflect changes in the organization’s structure and/or needs. For example, the
+Department may choose to treat the entire Department as a work unit with the site
+locations as work assignments. Whenever practicable, to ensure communication with
+employees and discussion of the implementation process and/or of alternatives, the
+Department will notify the Federation thirty (30) calendar days in advance of any
+planned change in the determination of work units.
+      B.     Listing of Units: In order to assist the Federation in enforcing the
+terms of the Agreement both in this article as well as in others, the Department will
+provide no later than April 1 of each year a comprehensive listing of all work units
+within the Department.
+6.    Designated Work Assignments
+      A.      The Department has the sole right to designate, undesignate and/or
+modify Designated Work Assignment for the purposes of this Section (Article 24.6.).
+The Department will maintain a list of Designated Work Assignments on the County
+intranet (“MultCo Commons”). Designated Work Assignments are based on the
+operational needs of the Department. The Department will provide thirty (30)
+calendar days’ written notice to the Federation prior to any modification to the
+Designated Work Assignments.
+      B.   Relocation of an Entire Designated Work Assignment From One
+Geographic Location to Another.
+             1. The Designated Work Assignment and location are identified. (For
+example: all sex offender work assignments).
+             2.   The impacted PPO(s) are identified. (For example: all PPOs
+currently in the MTEA sex offender work assignments).
+
+
+                  ARTICLE 24, SHIFT AND WORK ASSIGNMENT
+114
+
+
+
+                 3. Available vacancies are frozen.
+                 4. No volunteers are solicited because all of the Designated Work
+Assignments are being moved from the geographic location.
+                 5. Per Article 24, Section 5.A, impacted PPO(s) are given no less than
+thirty (30) calendar days of advanced notice of geographic location move.
+                 6. Impacted PPO(s) are given preference in order of PPO seniority to
+move into a frozen vacancy or move to the new geographic location with their current
+work assignment.
+                 7. Vacancies are unfrozen once the impacted PPO(s) have made their
+decision(s).
+                 8. The movement of PPOs and Designated Work Assignments is
+implemented no less than thirty (30) calendar days following the initial written
+notification.
+                 9.   If impacted employees elect to fill a frozen vacancy rather than
+move with their work assignment, the relocated work assignments may be filled in
+accordance with Article 24, Section 2 or Article 24, Section 3, above.
+       C.       Relocation of Part of a Designated Work Assignments from One
+Geographic Location to Another.
+                 1. The Designated Work Assignment(s) and location are identified. (For
+example, one out of three MTEA sex offender Designated work assignments are
+being moved to MTSW).
+                 2. The impacted PPO(s) are identified by the least senior PPO within
+the Designated Work Assignment, within the impacted geographic location.
+                 3. Available vacancies are frozen.
+                 4.   Volunteers are solicited within the effected Designated Work
+Assignment (For example, volunteers are solicited from only the MTEA sex offender
+PPOs).
+                 5. Per Article 24, Section 5.A, above, impacted PPO(s) are given no
+less than a thirty 30 calendar days’ notice of geographic location move.
+
+
+                      ARTICLE 24, SHIFT AND WORK ASSIGNMENT
+                                                                                   115
+
+
+
+               6. Impacted PPO(s) are given preference in order of PPO seniority to
+move into a frozen vacancy or move to the new geographic location with their current
+work assignment.
+               7.   Vacancies are unfrozen once impacted PPO(s) have made their
+decision(s).
+               8. The movement of PPOs and work assignments is implemented no
+less than thirty (30) calendar days following the initial written notification.
+               9. If impacted employees elect to fill a frozen vacancy rather than move
+with their Designated Work Assignment, the relocated work assignments may be
+filled in accordance with Article 24.2 or Article 24.3, above.
+7.     Trial Service Employee Assignment
+       Trial Service employees are not subject to the shift and work assignment
+provisions set forth in Sections 2 and 3 of this Article. Trial Service employees may
+be assigned or reassigned at the County’s discretion during the Trial Service period.
+8.     Transfers for Safety:
+       If the parties mutually agree that there is a safety concern with one or more
+Federation members due to their work assignment, the parties will engage in
+discussions on how to alleviate the safety concern. The parties may enter into
+Memorandums of Exception to agree to terms that differ from contract language to
+address the concern.
+
+
+
+
+                    ARTICLE 24, SHIFT AND WORK ASSIGNMENT
+116
+
+
+
+### ARTICLE 25
+                                  SAVINGS CLAUSE
+
+
+       Should any Article, Section, or portion thereof, of this Agreement be held
+unlawful and unenforceable by any Court of competent jurisdiction, such decision of
+the Court shall apply to the specific Article, Section or portion thereof, directly
+specified in the decisions; upon the issuance of such a decision, the parties agree
+immediately to negotiate a substitute, if possible, for the invalidated Article, Section or
+portion thereof.
+
+
+
+
+                           ARTICLE 25, SAVINGS CLAUSE
+                                                                                   117
+
+
+
+### ARTICLE 26
+                               ENTIRE AGREEMENT
+
+
+      This document constitutes the sole and complete agreement between the
+Federation and the County and embodies all the agreed to terms and conditions
+governing the employment of the employees in the negotiating unit. The parties
+acknowledge that they have had the opportunity to present and discuss proposals on
+any subject which is or may be subject to negotiation. Any prior written or unwritten
+commitment or agreement between the County and the Federation that is in conflict
+with this Agreement is hereby superseded by the terms of this agreement. Nothing in
+this Article shall preclude the parties during the term of this agreement from
+voluntarily entering into amendments to the Agreement; nor shall the Federation and
+the County Chair or their designee(s) for labor relations be precluded from voluntarily
+entering into Memoranda of Understanding, Interpretation, Agreement or Exception
+concerning matters of contract administration.
+
+
+
+
+                        ARTICLE 26, ENTIRE AGREEMENT
+118
+
+
+
+### ARTICLE 27
+                                    TERMINATION
+
+
+      Except as provided herein, this Agreement shall become effective upon
+ratification or the date of the arbitrator’s award, whichever is applicable, and shall
+remain in full force and effect until the 30th day of June 2027, and each year
+thereafter, unless either party shall notify the other in writing no later than March 1,
+that it desires to modify this Agreement. In the event notice to modify is given,
+negotiations shall begin no later than April 1. The contract shall remain in full force
+and effect during the period of negotiations and any Arbitration process.
+
+
+
+
+                            ARTICLE 27, TERMINATION
+                                                                               119
+
+
+
+                                     ADDENDUM A
+                                        WAGES
+
+
+      1.       Effective July 1, 2024, the rates and ranges of employees covered by
+this Agreement shall be increased by a three and one-half percent (3.5%) market
+adjustment and a four and three-tenths (4.3%) COLA .
+
+
+                           ADDENDUM A – TABLE I, WAGES
+      Base Hourly Rates Effective July 1, 2024 – 7.8% Pay Increase (Note: 1% of
+Base Wages will be contributed to a VEBA account per Article 11, Sec. 1.D)
+
+
+                   Step     Step      Step    Step     Step     Step
+                    1         2        3        4       5        6
+  Parole and
+   Probation
+    Officer       $38.74    $40.67   $42.66   $44.80   $47.06   $49.41
+
+
+
+
+                                  ADDENDUM A, WAGES
+120
+
+
+
+                                    ADDENDUM B
+                     LEAD WORKER ASSIGNMENT AND PAY
+
+
+1.     Duties Defined:
+       A Lead Worker assignment involves certain limited supervisory and
+administrative duties which are deemed not to warrant a separate classification.
+These duties include, but are not limited to: laying out the work for other employees,
+balancing the work, directing the work, reviewing the work and employee conduct for
+adherence to standards and rules, and making such reports as may be required to
+supervisory employees. Lead Workers typically spend a substantial portion of their
+time in performing the duties of the base classification. Normally, the employees
+directed by a Lead Worker are in the same classification, but additional classifications
+are sometimes involved. An employee assigned to be a Lead Worker will not impose
+or effectively recommend (as that term is intended in Oregon law) formal discipline,
+i.e. an oral reprimand or above. Lead Workers shall not issue any discipline. Lead
+Workers shall not be present when discipline is issued. Lead Workers shall not
+prepare or issue performance evaluations and any involvement of Lead Workers in
+performance evaluation shall conform to the restrictions of Article 17, Section 3.
+2.     Assignment, Selection, Modification, and Termination:
+       Assignment and selection of Lead Workers shall be at the sole discretion of
+the County. Lead worker assignments for over sixty (60) continuous days will be
+posted in the affected designated work assignment or unit for no less than five (5)
+work days. Employees in the designated work assignment or unit interested in the
+lead worker assignment shall submit a letter of interest to the unit manager or Human
+Resources and will be considered for the assignment through an interview process.
+An employee assigned as a Lead Worker for six (6) months or more shall be given
+ten (10) calendar days’ notice prior to the termination of such an assignment unless
+the duration or end date of the assignment was designated at the time the Lead
+Worker assignment was made. Termination of the assignment shall be at the sole
+
+
+             ADDENDUM B, LEAD WORKER ASSIGNMENT AND PAY
+                                                                                   121
+
+
+
+discretion of the County. A copy of the termination notice will be simultaneously given
+to the Federation. Significant modifications of Lead Worker duties deemed by the
+County to warrant a modification in the amount of compensation shall also be with
+ten (10) day’s notice, with notice to the Federation of such change. All lead worker
+assignments will be reviewed for continuation at least once every two (2) years.
+3.       Pay:
+         The Lead rate for the Probation / Parole Officer Classification shall be
+calculated by increasing the base hourly pay rates by six and eight-tenths percent
+(6.8%)
+
+
+
+
+                ADDENDUM B, LEAD WORKER ASSIGNMENT AND PAY
+122
+
+
+
+
+                               ADDENDUM C
+                            SENIORITY LISTING
+
+                        FOPPO Seniority List
+                            April 1, 2025
+
+Seniority                                      Class        Countywide
+ Order      Emp.No.   Name                     Seniority    Seniority
+    1        6700     Steven Padilla           1/2/1992     1/7/1990
+    2        1487     Debbie Mitchell          1/27/1997    6/10/1995
+    3        4633     Lisa Mc Innis            2/2/1998     11/2/1994
+    4        1118     Jennifer Reiser          3/3/1998     11/29/1993
+    5        6605     Alan Trautwein           4/1/1998     7/12/1996
+    6        3637     Dane Warnke              6/1/1998     10/11/1993
+    7        4595     Tracey Madsen            7/20/1998    1/5/1998
+    8        4088     Brenda Bunce             9/1/1998     9/1/1998
+    9        3493     Scott Nielsen            10/5/1998    3/7/1994
+   10         935     Laurie Calderbank        5/6/2000     5/6/2000
+   11        7505     Jani McCord              2/1/2001     2/1/2001
+   12        7508     Thomas White             2/12/2001    2/12/2001
+   13        5819     Hiedi Lesh               2/28/2001    8/27/1997
+   14        7797     Tomasina                 11/10/2001   8/19/2001
+                      Tavai-Porotesano
+   15        3702     Jodi Leahy               11/26/2001   12/2/1997
+   16        5746     Charles Adler            12/14/2001   12/14/2001
+   17        1372     Carmen Montano           10/26/2002   4/16/2000
+   18        4471     Joshua Sandberg          12/29/2002   11/3/1997
+   19        3619     Chelsea Fonua            6/1/2004     11/20/1998
+   20        6193     Leslie Dewar             10/29/2004   12/29/1998
+   21        10055    Jerry Garza              1/31/2005    1/31/2005
+   22        1374     Kerrie Behrman           2/15/2005    2/15/2005
+   23        4706     Jolyn Roy                9/26/2005    1/4/1999
+   24        7439     Kristina Radich          10/29/2005   7/23/2001
+   25        1732     Thanh Vu                 4/5/2006     10/30/1999
+   26        4942     Nadine Purington         4/12/2006    7/29/1998
+   27        11132    Gina Meza                1/31/2007    1/31/2007
+   28        11398    Monika Rystwej           8/26/2007    8/26/2007
+   29        11566    Linda Wollstein          10/4/2007    10/4/2007
+   30        11731    Barbara Fletcher         1/16/2008    1/16/2008
+   31        8134     Jessica Harrison         2/4/2008     2/4/2008
+
+
+                      ADDENDUM C, SENIORITY LISTING
+                                                                     123
+
+
+
+   32        10967    Jodell Wright        3/19/2008    3/19/2008
+   33        3219     Jay Burke            8/16/2008    11/15/1999
+   34        14072    Tiffany Hopwood      1/9/2012     1/9/2012
+
+   35        14375    Tosha Vanderburg     10/8/2012    10/8/2012
+Seniority                                  Class        Countywide
+ Order      Emp.No.   Name                 Seniority    Seniority
+   36         9110    David Main           11/20/2012   1/21/2009
+   37        12471    Colleen Kim          6/3/2013     1/5/2009
+   38        15052    Rochelle Reed        7/15/2013    7/15/2013
+   39        15046    Andrew Skidmore      7/15/2013    7/15/2013
+   40        9227     Erik Zilz            8/19/2013    8/19/2013
+   41        7000     Kelly Johnson        9/25/2013    9/25/2013
+   42        15337    Flemming Greene      11/12/2013   11/12/2013
+   43        15377    Matthew Scott        12/2/2013    12/2/2013
+   44        15392    Harley Earl          12/10/2013   12/10/2013
+   45        15443    Jacob Skokan         1/13/2014    1/13/2014
+   46        15099    Kristin Casey        6/24/2014    8/12/2013
+   47        15928    Stephanie Allen      8/18/2014    8/18/2014
+   48        15927    Jeff Garvin          8/18/2014    8/18/2014
+   49        1344     Paul Lively          9/5/2014     9/5/2014
+   50        16140    Erik Plaza           10/6/2014    10/6/2014
+   51        4463     James Sandberg       10/20/2014   10/20/2014
+   52        15423    Joelle Smykowski     12/3/2014    1/3/2014
+   53        16387    Amy Vetters          2/5/2015     2/5/2015
+   54        15981    Matthew Baxter       3/23/2015    9/5/2014
+   55        17094    Laura Hastings       11/9/2015    11/9/2015
+   56        17090    Brandon Taylor       11/9/2015    11/9/2015
+   57        16730    Kevin Novinger       2/16/2016    2/16/2016
+   58        17354    Maria Randall        3/21/2016    3/21/2016
+   59        15044    Sanya Weber          7/1/2016     8/28/2014
+   60        16532    Joseph Wenhold       10/12/2016   4/13/2015
+   61        17943    Lea Beckwith         10/24/2016   10/24/2016
+   62        10346    Jamie Cruz           12/14/2016   9/6/2005
+   63        18124    Vannak Kong          2/6/2017     2/6/2017
+   64        7412     Linda Nguyen         8/16/2017    8/19/2013
+   65        14992    Ann Beckman          9/6/2017     9/6/2017
+   66        10044    Laura Vejar          2/26/2018    3/20/2005
+   67        15480    Rodney Sofich        2/26/2018    4/7/2014
+   68        17813    Kari Page            2/26/2018    11/28/2017
+   69        18843    Eileen Bailey        2/26/2018    2/26/2018
+   70        16227    Molly Seel           4/16/2018    4/16/2018
+   71        11889    Shryvonne McGee      10/17/2018   4/10/2008
+   72        13071    Stephanie Jackson    11/1/2021    7/18/2011
+   73        14579    Amanda Miller        11/1/2021    6/24/2013
+
+                      ADDENDUM C, SENIORITY LISTING
+124
+
+
+
+   74        15706    Dorcie Johnson           11/1/2021    5/29/2014
+   75        32619    Juan Cornejo             11/1/2021    11/1/2021
+   76        29592    Journey Pearce           11/1/2021    11/1/2021
+   77        16388    Amie Kellogg             2/10/2022    2/10/2022
+   78        18729    Shalae Moore             8/8/2022     12/20/2017
+Seniority                                      Class        Countywide
+ Order      Emp.No.   Name                     Seniority    Seniority
+   79        28082    Jacqueline Jones         8/8/2022     4/6/2020
+   80        34993    Zachary Baier            8/8/2022     8/8/2022
+   81        27113    Ben Phillips             8/8/2022     8/8/2022
+   82        34978    Jamie Robinson           8/8/2022     8/8/2022
+   83        18786    Whitney Zacarias Silva   8/8/2022     8/8/2022
+   84        36225    Elmer Yarborough         2/24/2023    2/24/2023
+   85        37908    Marissa Dunne            6/30/2023    6/30/2023
+   86        11683    Patricia Sylvester       12/18/2023   8/2/2019
+   87        19254    Mikel Rusk               1/2/2024     9/10/2018
+   88        39345    Daniel Spring            1/2/2024     1/2/2024
+   89        16645    Franklin Bourette        4/22/2024    12/26/207
+   90        30796    Jordan Niles             5/20/2024    4/1/2022
+   91        40533    Paula Ferguson           5/20/2024    5/20/2024
+   92        40532    Craig Baumbach           5/20/2024    5/20/2024
+   93        40655    Kier Gunnells            5/20/2024    5/20/2024
+   94        18429    Krista Richey            2/3/2025     7/17/2017
+   95        42656    Jesus Cruz-Carrasco      2/3/2025     2/3/2025
+
+
+
+
+                      ADDENDUM C, SENIORITY LISTING
+                                                                                     125
+
+
+
+                                     ADDENDUM D
+                            DRUG AND ALCOHOL POLICY
+
+
+1.     Drug Free Workplace Act:
+       Multnomah County, in keeping with the provisions of the federal Drug Free
+Workplace Act of 1988, is committed to establishing and maintaining a work place
+which is free of alcohol and drugs and free of the effects of prohibited alcohol and
+drug use.
+2.     Holders of Commercial Drivers Licenses:
+       While references to rules governing holders of Commercial Drivers Licenses
+(CDLs) are included below, they are not comprehensive. CDL holders are
+responsible for complying with all laws, work rules, or County procedures pertaining
+to them, in addition to the requirements of this addendum.
+3.     Alcohol and Drug Policy Work Rules and Discipline
+       A.     Conduct Warranting Discipline
+              1.       While on duty, or on County premises, or operating County
+vehicles, employees shall obey the work rules listed in "Section B" below. As with all
+work rules, violations may result in discipline per the provisions of Article 17,
+Disciplinary Action.
+              2.       Employees will not be subject to discipline for seeking treatment
+for alcohol or drug dependency. However, employees will be held fully accountable
+for their behavior. Seeking treatment will not mitigate discipline for rule violations or
+other unacceptable conduct caused by such dependency.
+       B.     Work Rules:
+              1.       Possession, consumption, and distribution of alcohol and
+                       drugs while on duty
+                       Employees shall:
+                       a.    Not possess, consume, manufacture, distribute, cause to
+be brought, dispense, or sell alcohol or alcohol containers in or to the work place
+
+
+                   ADDENDUM D, DRUG AND ALCOHOL POLICY
+126
+
+
+
+except when lawfully required as part of the job. An exception will be sealed alcohol
+containers for gift purposes; supervisors must be notified when such containers are
+brought to the work place. The "work place" includes County vehicles and any other
+vehicle while being used for County business.
+                        b.    Not possess, consume, manufacture, distribute, cause to
+be brought, dispense, or sell illegal drugs or drug paraphernalia, in or to the work
+place except when lawfully required as part of the job.
+                        c.    Not distribute, dispense or sell prescription medications
+except when lawfully required as part of the job.
+                        d.    Not possess or consume prescription medications without
+a valid prescription.
+              2.        Possession, consumption, and distribution of alcohol and
+drugs while off duty on County premises
+                        Employees shall:
+                        a.    Not use, possess, or distribute illegal drugs.
+                        b.    Not use or distribute alcohol without authorization.
+              3.        Fitness for duty:
+                        Employees shall:
+                        a.    Not report for duty while "under the influence" of alcohol
+or drugs. An individual is considered to be "under the influence" of alcohol if a
+breathalyzer test indicates the presence of alcohol at or above the .04% level. An
+individual is considered to be "under the influence" of drugs when testing indicates
+the presence of controlled substances at or above the levels applying to CDL
+holders.
+                        b.    Not render themselves unfit to fully perform work duties
+because of the use of alcohol or illegal drugs, or because of the abuse of prescription
+or non-prescription medications.
+                        c.    Comply with legally mandated occupational requirements,
+whether or not they are specifically included in this policy. For example, by law
+
+
+                   ADDENDUM D, DRUG AND ALCOHOL POLICY
+                                                                                       127
+
+
+
+holders of CDLs may not perform safety sensitive functions, such as driving, at or
+above the .02% level.
+                     d.     Not be absent from work because of the use of alcohol or
+illegal drugs, or because of the abuse of prescription or non-prescription medications,
+except when absent to participate in a bona fide assessment and rehabilitation
+program while on FMLA and/or OFLA leave.
+                     e.     Inform themselves of the effects of any prescription or
+non-prescription medications by obtaining information from health care providers,
+pharmacists, medication packages and brochures, or other authoritative sources in
+advance of performing work duties.
+                     f.     Notify Human Resources in advance in writing when their
+use of prescription or non-prescription medications may impair the employee’s ability
+to perform the essential functions of their position that will result in a direct threat to
+others. Such employees include, but are not limited to, sworn officers, holders of a
+CDL and those handling hazardous equipment or materials. Employees who drive a
+motor vehicle as part of their job, whether a County vehicle or their personal vehicle
+should report when they are taking any medication that may impair their ability to
+drive.
+              4.     Cooperation with Policy Administration
+                     Employees shall:
+                     a.     Not interfere with the administration of this Drug and
+Alcohol Policy. Examples include, but are not limited to, the following: tainting,
+tampering, or substitution of urine samples; falsifying information regarding the use of
+prescribed medications or controlled substances; or failure to cooperate with any
+tests outlined in this policy to determine the presence of drugs or alcohol.
+                     b.     Provide to Human Resources within twenty four (24)
+hours of request a current valid prescription in the employee's name for any drug or
+medication which the employee alleges gave rise to reasonable suspicion of being
+under the influence of alcohol or drugs.
+
+
+                   ADDENDUM D, DRUG AND ALCOHOL POLICY
+128
+
+
+
+                     c.       Respond fully and accurately to inquiries from the
+County’s Medical Review Officer (MRO); authorize MRO contact with treating health
+care providers upon request.
+                     d.       Complete any assessments or treatment programs
+required under this Policy.
+                     e.       Sign a waiver upon request authorizing treatment
+providers to disclose confidential information necessary to verify successful
+completion of any assessment or treatment program required under this Policy.
+                     f.       Disclose promptly (upon the next working day) and fully to
+their supervisor:
+                              i.    All   drug   or alcohol-related arrests, citations,
+convictions, guilty pleas, no contest pleas or diversions which resulted from conduct
+which occurred while the employee was on duty, on County property, or in a County
+vehicle; or
+                              ii.   Any other violation of laws regulating use of alcohol
+and controlled substances which adversely affects an employee's ability to perform
+major job functions, specifically to include loss or limitation of driving privileges when
+the employee's job is identified as requiring a valid license.
+       C.     Levels of Discipline:
+              1.     The level of discipline imposed on trial service employees for
+violation of the Alcohol and Drug Policy Work Rules above or other violations
+resulting from the use of alcohol or drugs will be according to the provisions of Article
+15, Discipline and Discharge.
+              2.     Employees will be held fully accountable for their behavior. Use
+of alcohol or drugs, or alcohol or drug dependency, will not mitigate the discipline
+imposed for rule violations, misconduct, or poor performance except as specifically
+provided in the section on last chance agreements below.
+              3.     The Parties acknowledge that, all other things being equal,
+certain duties imply a higher standard of accountability for compliance with the
+
+
+                    ADDENDUM D, DRUG AND ALCOHOL POLICY
+                                                                                      129
+
+
+
+requirements of this policy than others. These duties include, but are not limited to,
+the following:
+                       a.    Carrying firearms,
+                       b.    Work in the criminal justice system,
+                       c.    Responsibility for public safety or the safety of co-workers,
+                       d.    Handling narcotics or other controlled substances,
+                       e.    Handling hazardous equipment or materials,
+                       f.    Influencing the behavior of minors, and
+                       g.    Holding a Commercial Driver’s License.
+                 4.    In instances in which the County determines that an employee’s
+conduct warrants termination, the County may offer the employee continued
+employment under the terms of a Last Chance Agreement if there are mitigating
+circumstances, such as substances abuse dependence or other good cause. An
+example of a Last Chance Agreement is included as an attachment to this
+Addendum.
+                       a.    Any Last Chance Agreement will include but not be limited
+to the following:
+                             i.     The   requirement     that   the   employee    enroll,
+participate in, and successfully complete a treatment program as recommended by
+the Substance Abuse Professional;
+                             ii.    The right for the County to administer any number
+of unannounced follow up drug or alcohol tests at any time during the work day for a
+period of two (2) years from completion of any required treatment or education
+program;
+                             iii.   The signatures of the employee’s supervisor, the
+employee, and the employee’s Federation representative.
+                       b.    The offer of a Last Chance Agreement will not set
+precedent for the discipline of other employees in the future. Any discipline
+
+
+
+
+                      ADDENDUM D, DRUG AND ALCOHOL POLICY
+130
+
+
+
+incorporated in a Last Chance Agreement may not be grieved under the provisions of
+Article 16, Settlement of Disputes.
+       D.     Mandatory Assessment and Treatment:
+              1.      Employees who are disciplined for conduct which is related to
+the use of alcohol or drugs may be required to undergo assessment and to complete
+a program of education and/or treatment prescribed by a Substance Abuse
+Professional selected by the County. Employees who test positive for alcohol or
+controlled substances will be required to undergo assessment at the earliest
+opportunity, regardless of whether disciplinary action has been taken.
+              2.      The County will verify employees’ attendance, and that the
+assessment and treatment have been completed. This verification and any other
+information concerning alcohol and drug dependency will be treated as confidential
+medical information per applicable state and federal law and County Administrative
+Procedures.
+              3.      Policy on the use of leave for assessment and treatment will be
+the same as for any other illness.
+              4.      If the employee changes treatment providers, they must notify
+the County’s Drug and Alcohol Policy Coordinator within three (3) working days.
+       E.     Return to Work Testing:
+              Employees who test positive for being "under the influence" of drugs
+will be required to test negative before returning to work. (Note that Federal law
+requires CDL holders performing safety sensitive functions to undergo return to work
+testing after a positive alcohol or drug test.)
+4.     Testing:
+       A.     Basis for Testing:
+              1.      All employees may be tested:
+                      a.     Based on reasonable suspicion of being "under the
+influence" of alcohol or prohibited drugs;
+
+
+
+
+                   ADDENDUM D, DRUG AND ALCOHOL POLICY
+                                                                                    131
+
+
+
+                     b.     Before returning to work after testing positive for being
+"under the influence" of alcohol or drugs, or
+                     c.     As part of a program of unannounced follow-up testing
+provided for in a Last Chance Agreement.
+              2.     An employee applying for a different County position will be
+subject to testing on the same basis, and using the same procedures and methods,
+as outside applicants.
+       B.     Establishing Reasonable Suspicion:
+              1.     Definition:
+                           "Reasonable suspicion" is a set of objective and specific
+observations or facts which lead a supervisor to suspect that an employee is under
+the influence of drugs, controlled substances, or alcohol. Examples include, but are
+not limited to: slurred speech, alcohol on the breath, loss of balance or coordination,
+dilated or constricted pupils, apparent hallucinations, high absenteeism or a
+persistent pattern of unexplained absenteeism, erratic work performance, persistent
+poor judgment, difficulty concentrating, theft from office or from other persons,
+unexplained absences during office hours, or employee's admission of use of
+prohibited substances.
+              2.     Supervisory training:
+                     The County will provide training to all supervisors on establishing
+reasonable suspicion and the nature of alcohol and drug dependency. Supervisors
+who have not been trained will not have the authority to direct employees to be
+tested on the basis of reasonable suspicion of being under the influence.
+              3.     Lead Workers:
+                           Lead Workers who oversee day to day work activities are
+"supervisors" for the purposes of establishing reasonable suspicion and directing
+employees to be tested on that basis. This provision applies to lead workers who
+supervise or act as lead workers as part of their job description, (such as Corrections
+
+
+
+
+                   ADDENDUM D, DRUG AND ALCOHOL POLICY
+132
+
+
+
+Records Supervisors and Maintenance Crew Leaders), as well as to those who
+receive premium pay under Addendum B, Lead Worker Assignment and Pay.
+              4.     Additional precautions:
+                          Application of the "Reasonable Suspicion" standard to any
+employee in this bargaining unit shall include the following additional precautions:
+                     a.     The supervisor shall articulate orally a summary of the
+specific facts which form the basis for believing that the employee is under the
+influence of drugs or alcohol; and
+                     b.     The supervisor shall provide upon request within forty
+eight two (2) working days of the oral determination of "reasonable suspicion" a
+written specification of the grounds for reasonable suspicion; and
+                     c.     Except in field or shift circumstances, which render
+contact difficult, no supervisor shall refer an employee for a drug or alcohol test
+based on "reasonable suspicion" unless the supervisor has consulted with another
+supervisor or exempt person regarding the grounds for the suspicion.
+       C.     Testing Methodology:
+              Testing procedures for all employees will be governed by the same
+standards as apply to CDL drivers under federal law. These standards include, but
+are not limited to, those governing sample acquisition, the chain of custody,
+laboratory selection, testing methods and procedures, and verification of test results.
+              1.     Drug Testing
+                     a.     Drug tests are conducted using urine specimens. In
+accordance with CDL standards, the County will contract with a medical doctor
+trained in toxicology to act as an MRO (Medical Review Officer). In the case of
+positive tests, the MRO will attempt to contact employees to review preliminary
+positive test results with employees and any relevant health care providers before the
+results are reported to the County. Based on the MRO’s professional judgment, the
+MRO may change the preliminary test result to negative. The County will not be able
+
+
+
+
+                   ADDENDUM D, DRUG AND ALCOHOL POLICY
+                                                                                     133
+
+
+
+to distinguish a test result that is negative by MRO intervention from any other
+negative result.
+                      b.    In addition to compliance with federal guidelines, the
+following safeguards will also be applied:
+                            i.     Test results will be issued by the MRO or the
+testing laboratory only to the County’s Drug and Alcohol Policy Coordinator. The
+results will be sent by certified mail or hand-delivered to the employee within three (3)
+working days of receipt of results by the County.
+                             ii.   Appeals.
+                                      If an employee disagrees with the results of the
+alcohol or drug test, the employee may request, in writing within five (5) days of
+receipt of test results, that the original sample be re-tested at the employee's
+expense by the testing laboratory. The result of any such retest will be deemed final
+and binding and not subject to any further test. Failure to make a timely written
+request for a retest shall be deemed acceptance of the test results. If an employee
+requests a retest, any disciplinary action shall be stayed pending the results of the
+re-testing.
+              2.      Alcohol Testing
+                      a.    Alcohol   tests are conducted using a breathalyzer
+screening test. Employees who test 0.02 or higher will be required to submit to a
+confirmation test. Test results will be issued only to the County’s Drug and Alcohol
+Policy Coordinator. The results will be sent by certified mail or hand-delivered to the
+employee within three (3) working days of receipt of the results by the County.
+                      b.    Alcohol confirmation tests are considered final, they may
+not be appealed.
+              3.      Test reports are medical records, and will be handled according
+to applicable state and federal law and County Administrative Procedures which
+insure the confidentiality of such records.
+5.     Definitions:
+
+
+                   ADDENDUM D, DRUG AND ALCOHOL POLICY
+134
+
+
+
+        A.     Alcohol: Ethyl alcohol and all beverages or liquids containing ethyl
+alcohol. Levels of alcohol present in the body will be measured using a breathalyzer
+test.
+        B.     Controlled   Substance:       All forms of narcotics, depressants,
+stimulants, analgesics, hallucinogens, and cannabis, as classified in Schedules I-V
+under the Federal Controlled Substances Act (21 USC § 811-812) as modified under
+ORS 475.035, whose sale, purchase, transfer, use, or possession is prohibited or
+restricted by law.
+        C.     County: Multnomah County, Oregon.
+        D.     Drug Paraphernalia:       Drug paraphernalia means any and all
+equipment, products, and materials of any kind, as more particularly defined in
+ORS 475.525(2), which are or can be used in connection with the production,
+delivery, or use of a controlled substance as that term is defined by ORS 475.005.
+
+
+        E.     Drug Test: A laboratory analysis of a urine sample to determine the
+presence of certain prohibited drugs or their metabolites in the body.
+        F.     Drugs: Controlled substances, designer drugs (drug substances not
+approved for medical or other use by the U.S. Drug Enforcement Administration or
+the U.S. Food and Drug Administration), and/or over-the-counter preparations
+available without a prescription from a medical doctor that are capable of impairing
+an employee's mental or physical ability to safely, efficiently, and accurately perform
+work duties.
+        G.     Medical Review Officer (MRO): A medical doctor trained in toxicology
+who contracts with employers primarily to review positive preliminary drug test results
+with employees. The MRO determines whether or not the results are likely to have
+been caused by factors other than drug abuse.
+        H.     On Duty: The period of time during which an employee is engaged in
+activities which are compensable as work performed on behalf of the County, or the
+period of time before or after work when an employee is wearing a uniform, badge, or
+
+
+                     ADDENDUM D, DRUG AND ALCOHOL POLICY
+                                                                                   135
+
+
+
+other insignia provided by the County, or operating a vehicle or equipment which
+identifies Multnomah County.
+       I.     Prescription Medication:       A medication for which an employee is
+required by law to have a valid, current prescription.
+       J.     Reasonable Suspicion of Being Under the Influence of Drugs or
+Alcohol: See "Section 4. B. 1. a" above.
+       K.     Substance Abuse Professional (SAP):            A licensed physician, or
+licensed or certified psychologist, social worker, employee assistance professional, or
+addiction counselor with knowledge of and clinical experience in the diagnosis and
+treatment of alcohol and controlled substance-related disorders.
+       L.     Under the Influence of Alcohol: See "Section 3. B. 3" above.
+       M.     Under the Influence of Drugs: See "Section 3. B. 3" above.
+6.     Sample Last Chance Agreement
+
+
+                            LAST CHANCE AGREEMENT
+
+
+The following agreement is entered into between Multnomah County, FOPPO and
+the Employee. Failure on the part of the employee to meet the expectations below
+will result in the termination of their employment with the County.
+1.     I agree to be evaluated by a qualified alcohol/substance abuse counselor, and
+if required, I shall immediately enroll and continue in a bona fide alcohol/drug
+inpatient or outpatient rehabilitation program approved by the County. I fully
+understand that should I fail to complete either the inpatient or outpatient program or
+fail to stay in good standing with the maintenance and/or aftercare program, my
+employment with the County will be terminated.
+2.     I agree to comply with and complete the conditions of my "Treatment Plan",
+which may include participation in a maintenance or aftercare program, as
+recommended by my treatment counselor. If I must be absent from my aftercare or
+maintenance program, I must notify the County. The County has my permission to
+
+
+                   ADDENDUM D, DRUG AND ALCOHOL POLICY
+136
+
+
+
+verify my attendance at required meetings. If I do not continue in the or maintenance
+program, I understand that my employment will be terminated.
+3.     I understand that the signing of this agreement shall allow the County the right
+to communicate with my physician and/or counselors regarding my status and
+progress of rehabilitation and aftercare. I further agree to sign any authorization or
+release of information necessary to allow for such communication.
+4.     I agree to submit to periodic, unannounced, unscheduled drug or alcohol
+testing (urinalysis or and breath test) by the County for a period of twenty-four (24)
+months from the date I return to work. (This time period will increase accordingly if I
+am absent from work, for any reason, for a cumulative period of one month or more).
+I understand that if I refuse to take a drug and/or alcohol test or if a test is positive,
+my employment will be terminated.
+5.     I agree to return to work upon successful completion of an alcohol/drug
+rehabilitation program if my substance abuse counselor requires inpatient treatment.
+If enrolled in outpatient treatment, I may return when I am substance free and in good
+standing in my maintenance program, at such time as recommended by my
+treatment counselor.
+6.     It is understood that this agreement constitutes a final warning.
+7.     I understand the Employee Assistance Program is available to me should
+personal problems arise in the future that may have an effect on my ability to remain
+in compliance with the drug and alcohol policy and/or this agreement.
+8.     I realize that violation of the drug and alcohol rules and/or policies at any time
+in the future is cause for termination.
+9.     I realize that my employment will be terminated if I fail to meet the
+expectations outlined in this Agreement and the letter attached.
+
+
+Disciplinary Action
+I understand that the disciplinary action imposed in the attached letter may not be
+grieved under the grievance procedure in the Federation of Oregon Parole and
+
+
+                   ADDENDUM D, DRUG AND ALCOHOL POLICY
+                                                                                      137
+
+
+
+Probation Officers’ contract and that if I violate this Last Chance Agreement FOPPO
+will not grieve my violation.
+
+
+Personal Commitment
+I pledge and agree to abide by the terms of this agreement. I understand that a
+violation of or noncompliance with any of these terms will result in my being
+terminated. Further, I pledge to remain free of all illegal drugs and also not to abuse
+legal drugs (including alcohol). I hereby consent to the County's contacting any
+treatment or health care provider who may have information on my alcohol or drug
+dependency condition and/or compliance with the terms of this agreement and
+authorize the provider to furnish such information to the County.
+
+
+I understand the terms and conditions of this letter. I also understand that, except as
+expressly stated in this agreement, my terms and conditions of employment will be
+determined by the County's policies and rules, and that this agreement does not
+guarantee me employment for any set period of time. I have had sufficient time to
+study it away from the work place and to consult anyone I desire about it. I sign it free
+of any duress or coercion. This letter will become part of my personnel file.
+
+
+
+
+_________________________________                ____________________________________
+(Employee)                      (Date)           (Managerial          Employee              with
+(Date)
+                                                 Disciplinary Authority)**
+
+
+____________________________________             ____________________________________
+(FOPPO Representative)          (Date)           (Employee's    Immediate       Supervisor***)
+(Date)
+
+
+
+
+                   ADDENDUM D, DRUG AND ALCOHOL POLICY
+138
+
+
+
+____________________________________
+(Multnomah County                  (Date)
+Labor Relations, if applicable*)
+
+
+Footnotes:
+  *    Necessary only if terms of the Labor Agreement are waived or excepted.
+**     Always necessary.
+***    Optional in cases in which immediate supervisor does not have termination
+       authority.
+
+
+
+
+                    ADDENDUM D, DRUG AND ALCOHOL POLICY
+                                                                                  139
+
+
+
+                                     ADDENDUM E
+                              TEMPORARY EMPLOYEES
+
+
+The Department agrees to the following terms concerning its usage of temporary
+employees:
+   1. Temporary parole officers shall meet Multnomah County Parole and Probation
+       Officer minimum qualifications.
+   2. An Additional background check will be performed that meets DPSST
+       standards prior to assignment.
+   3. A temporary identification card will be provided to the employee.
+   4. No badge will be assigned to a temporary employee.
+   5. Temporary employees will be used in accordance with Article 1, CBA.
+   6. Temporary employees will be provided orientation with CJM, including review
+       of Parole and Probation officer policies and Probation/Parole Officer
+       Requirements for Temporary Assignments and Temporary Employments.
+   7. Temporary employees will be sworn in by the Assistant Director or designee.
+   8. CJMs will conduct an exit performance evaluation on Temporary PPOs at the
+       end of each assignment.
+   9. Temporary Employees will not be approved for a schedule or telework
+       agreement that a regular PPO would be denied.
+
+
+The Department agrees that temporary parole officer duties are enumerated, but not
+limited to, the duties outlined below.
+   1. Signing of affidavits requesting warrants from the Court.
+   2. Imposing of sanctions and interventions with manager or designee signature.
+   3. Filing of detainers with manager or designee signature (not on after-hours call
+       list).
+
+
+
+
+                     ADDENDUM E, TEMPORARY EMPLOYEES
+140
+
+
+
+The Department and FOPPO agree that the following are prohibited duties for
+temporaries:
+   1. No field work.
+   2. No arrests or assisting with arrests. All arrests have to be approved by the
+      CJM or Lead PPO.
+   3. No searches or assisting with searches.
+   4. Not authorized to carry a firearm, ASP baton or OC Spray.
+   5. Not authorized to use of force above officer presence and verbal commands
+      except in exigent circumstances.
+   6. May not accumulate more than 3,120 total hours working as a temporary
+      Parole and Probation Officer. Hours accumulated while filling behind an
+      employee on protected leave shall not count toward the 3,120 total hours.
+   7. The Department and FOPPO agree that the Department’s goal each year will
+      be to continue hiring and training qualified full-time regular employees by
+      maintaining an ongoing recruitment and hiring process whenever the
+      department does not have a full complement of regular FTEs and to limit the
+      use of temporary employees in covering shortages in staffing.
+
+
+
+
+                    ADDENDUM E, TEMPORARY EMPLOYEES
+IN WITNESS WHEREOF, the Parties hereto have set their hands this 1st day of May,
+2025.
+
+FEDERATION OF OREGON                     MULTNOMAH COUNTY, OREGON
+PAROLE AND PROBATION
+OFFICERS
+
+
+
+_______________________________          __________________________________
+Tosha Vanderburg, President              Jessica Vega Pederson, County Chair
+
+
+                                         __________________________________
+                                         Meghan Moyer, Commissioner, District 1
+
+
+                                         __________________________________
+                                         Shannon Singleton, Commissioner, District 2
+
+
+                                         __________________________________
+                                         Julia Brim-Edwards, Commissioner, District 3
+
+
+                                         __________________________________
+                                         Vince Jones-Dixon, Commissioner, District 4
+
+
+NEGOTIATED FOR THE UNION BY:             NEGOTIATED FOR THE COUNTY BY:
+
+
+
+_______________________________          _________________________________
+Seth Davis                               Matt Davies
+FOPPO Lead Counsel                       Labor Relations Manager
+                                         Department of County Management
+
+                                         REVIEWED:
+                                         Kathy Short, County Attorney
+                                         For Multnomah County, Oregon:
+
+
+                                         __________________________________
+                                         By: Kathryn A. Short
+                                         Deputy County Attorney
+
+
+
+                               SIGNATURE PAGE
+

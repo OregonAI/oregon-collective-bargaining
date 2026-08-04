@@ -100,7 +100,7 @@ SIGNATURE PAGE .................................................................
 
 
 2023-2025 Department of State Lands                                 - iii -                            Collective Bargaining Agreement
-                                       ARTICLE 1 - PREAMBLE
+### ARTICLE 1 - PREAMBLE
 
 This Agreement is between the State of Oregon, acting through its Department of
 Administrative Services (Employer) on behalf of the Department of State Lands
@@ -109,7 +109,7 @@ Council 75 (Union) for the purpose of fixing wages, hours, benefits, conditions 
 employment and other matters affecting members of the bargaining unit as certified by
 the Employment Relations Board.
 
-                                      ARTICLE 2 - RECOGNITION
+### ARTICLE 2 - RECOGNITION
 
 Section 1.
 The Employer and Agency recognize the Union as the sole and exclusive bargaining
@@ -127,7 +127,7 @@ Section 3.
 Any dispute concerning bargaining unit composition shall be resolved by the
 Employment Relations Board.
 
-                ARTICLE 3 - LAWS AND REGULATIONS/SAVINGS CLAUSE
+### ARTICLE 3 - LAWS AND REGULATIONS/SAVINGS CLAUSE
 
 This Agreement is subject to all applicable existing and future laws and regulations of
 the State of Oregon and the United States.
@@ -139,7 +139,7 @@ remain in effect. The Employer and the Union agree to immediately meet, negotiat
 agree upon a substitute for the portion or portions of the Agreement so affected and
 bring the provisions into conformance.
 
-                                 ARTICLE 4 - MANAGEMENT RIGHTS
+### ARTICLE 4 - MANAGEMENT RIGHTS
 
 Except as may be specifically modified by the terms of this Agreement, the parties
 agree that the Employer and the Agency have the right to operate and manage the
@@ -164,21 +164,21 @@ Agency, including, but not limited to, the right to:
          abridge any provision of this Agreement; and
 (m)      suspend, discharge, or take proper disciplinary action against employees.
 
-                          ARTICLE 5 - AGENCY PERSONNEL POLICIES
+### ARTICLE 5 - AGENCY PERSONNEL POLICIES
 
 Upon request, the Agency shall provide the Union a copy of its written personnel
 policies. If there is a policy change that involves a mandatory subject of bargaining, a
 copy will be sent to the Union. Agency written personnel policies and any updates shall
 be made available to employees at the Agency’s central and field offices.
 
-                               ARTICLE 6 - COMPLETE AGREEMENT
+### ARTICLE 6 - COMPLETE AGREEMENT
 
 This Agreement contains the full and complete agreement on all subjects upon which
 the parties did bargain or could have bargained pursuant to ORS 243 et seq. Neither
 party shall be required, during the term of this Agreement, to negotiate upon any other
 issue.
 
-                                  ARTICLE 7 - LEGISLATIVE ACTION
+### ARTICLE 7 - LEGISLATIVE ACTION
 
 Section 1.
 Provisions of this Agreement not requiring legislative funding or statutory changes
@@ -197,7 +197,7 @@ submitted to them under the preceding sections, then the Employer and Union shal
 immediately meet, negotiate and agree on modifications or substitutions for the affected
 portion or portions of this Agreement.
 
-                 ARTICLE 8 - NO STRIKES, LOCKOUTS AND PICKET LINES
+### ARTICLE 8 - NO STRIKES, LOCKOUTS AND PICKET LINES
 
 Section 1.
 The Union agrees that during the life of this Agreement, the Union or its bargaining unit
@@ -220,7 +220,7 @@ copy to the Employer, to return to work immediately. Such notification by the Un
 shall not constitute an admission that it has caused or counseled such activity.
 
 
-                                      ARTICLE 9 - UNION RIGHTS
+### ARTICLE 9 - UNION RIGHTS
 
 Section 1.
 The Union will provide the Agency Human Resources Manager with the names of its
@@ -368,7 +368,7 @@ International Conventions, the following provisions apply:
 
 
 
-                                      ARTICLE 10 - UNION SECURITY
+### ARTICLE 10 - UNION SECURITY
 
 1.       The Employer agrees to deduct the monthly fees from the pay of those
          employees the Union has certified in writing to the Employer as having
@@ -388,7 +388,7 @@ International Conventions, the following provisions apply:
                                                                                            REV: 2019
 
 
-                                      ARTICLE 11 - UNION STEWARDS
+### ARTICLE 11 - UNION STEWARDS
 
 Section 1.
 The Agency shall recognize up to six (6) Stewards selected from Agency employees to
@@ -455,7 +455,7 @@ Section 4.
 Discrimination complaints will not be subject to the grievance procedure contained in
 this Agreement.
 
-                                      ARTICLE 13 - PERSONNEL FILES
+### ARTICLE 13 - PERSONNEL FILES
 
 Section 1.
 The Chief Human Resources Office human resource information system is the system of record
@@ -548,7 +548,7 @@ Resource Director, and anyone specifically authorized in writing by the subject 
                                                                                          Rev: 2015, 2021
 
 
-                                      ARTICLE 14 - SALARIES
+### ARTICLE 14 - SALARIES
 
 Section 1. PERS Pickup
 Effective February 1, 2019 compensation plan salary rates for PERS participating
@@ -607,7 +607,7 @@ COLA
                                                                       Rev: 2015, 2017, 2019, 2021,2023
 
 
-                                      ARTICLE 15 - DIFFERENTIAL PAY
+### ARTICLE 15 - DIFFERENTIAL PAY
 
 Section 1. Shift Differential.
 (a)   Employees shall be paid a differential for each hour or major portion thereof
@@ -689,7 +689,7 @@ employee’s position description.
 
 
 
-                                      ARTICLE 16 - INSURANCE
+### ARTICLE 16 - INSURANCE
 
 Section 1.
 An Employer contribution will be made for each eligible employee who has at least
@@ -751,7 +751,7 @@ sufficiently funded by the savings.
                                                                    Rev: 2015, 2017, 2019, 2021,2023
 
 
-                                      ARTICLE 17 - TRIAL SERVICE
+### ARTICLE 17 - TRIAL SERVICE
 
 Section 1.
 The trial service period is recognized as an extension of the selection process. Each
@@ -826,7 +826,7 @@ Section 5. Outside Agency Transfer or Promotional Trial Service
 
 
 
-                              ARTICLE 18 - POSITION DESCRIPTIONS
+### ARTICLE 18 - POSITION DESCRIPTIONS
 
 Position descriptions shall be reduced to writing and delineate the specific duties
 assigned to an employee’s position. A dated copy of the position description shall be
@@ -843,7 +843,7 @@ assign work consistent with class specifications.
 
 
 2023-2025 Department of State Lands       - 14 -                    Collective Bargaining Agreement
-                               ARTICLE 19 - QUARTERLY CHECK-INS
+### ARTICLE 19 - QUARTERLY CHECK-INS
 
 Section 1.
 Supervisory managers shall conduct check-ins with their employees on a quarterly
@@ -860,7 +860,7 @@ used for discipline.
 
 
 
-                             ARTICLE 20 - SALARY ADMINISTRATION
+### ARTICLE 20 - SALARY ADMINISTRATION
 
 Section 1. Salary Increases.
 (a)   Employees shall be eligible for consideration for salary increases following:
@@ -916,7 +916,7 @@ salary step they received at the time of layoff.
 
 
 
-    ARTICLE 21 - RECOUPMENT OF WAGE/BENEFIT OVER/UNDERPAYMENTS
+### ARTICLE 21 - RECOUPMENT OF WAGE/BENEFIT OVER/UNDERPAYMENTS
 
 Section 1. Overpayments.
 (a)   In the event that an employee receives wages or benefits from the Agency to
@@ -974,7 +974,7 @@ Section 2. Underpayments.
                                                                                   Rev: 2015,2023
 
 
-           ARTICLE 22 - CLASSIFICATION AND CLASSIFICATION CHANGES
+### ARTICLE 22 - CLASSIFICATION AND CLASSIFICATION CHANGES
 
 Section 1. Reclassification Procedure.
 (a)   Employees may request reclassification review of their position by submitting the
@@ -1175,7 +1175,7 @@ This Section supersedes any provisions contained in the Agency’s grievance pro
                                                                                  Rev: 2015, 2017,2023
 
 
-                                      ARTICLE 23 - PAY ADVANCES
+### ARTICLE 23 - PAY ADVANCES
 
 Pay advances will be given upon request, but in no instances will an employee be given
 more than three (3) pay advances in any one (1) calendar year (January 1 through
@@ -1185,7 +1185,7 @@ gross pay earned to date in the month, but shall be at least one hundred dollars
 Pay advance requests will normally be submitted to the payroll office by the fifteenth
 (15th) of the month.
 
-      ARTICLE 24 - IMPLEMENTATION OF NEW CLASSES-APPEALS PROCESS
+### ARTICLE 24 - IMPLEMENTATION OF NEW CLASSES-APPEALS PROCESS
 
 The appeals process is designed to allocate employees into new classes. Employees in
 positions allocated to a new classification, who dispute their placement within the new
@@ -1264,7 +1264,7 @@ Section 1.
 
 
 2023-2025 Department of State Lands        - 22 -                       Collective Bargaining Agreement
-                                      ARTICLE 25 - LAYOFF
+### ARTICLE 25 - LAYOFF
 
 Section 1. Alternate to Layoff
 (1)   When the Agency believes that a lack of funds requires a layoff, the Agency will
@@ -1534,7 +1534,7 @@ Section 13. Secondary Recall Rights.
                                                                                              Rev: 2015
 
 
-                        ARTICLE 26 - WORK SCHEDULES & WORKWEEK
+### ARTICLE 26 - WORK SCHEDULES & WORKWEEK
 
 Section 1.
 The workweek is defined as seven (7) consecutive calendar days beginning on 12:00
@@ -1649,7 +1649,7 @@ employee shall be paid the appropriate rate of pay for all time worked over fort
 hours in that workweek.
                                                                                  REV: 2017,2023
 
-                                      ARTICLE 27 - OVERTIME
+### ARTICLE 27 - OVERTIME
 
 Section 1.
 This Article is intended only to provide a basis for the calculation of overtime and none
@@ -1706,7 +1706,7 @@ Section 6. FLSA-Exempt Overtime Compensation.
       any agreement or Agency practice to modify an employee’s work schedule
       during the same workweek in which authorized overtime is worked.
 
-                           ARTICLE 28 - DISCIPLINE AND DISCHARGE
+### ARTICLE 28 - DISCIPLINE AND DISCHARGE
 
 Section 1.
 The principles of progressive discipline shall be used when appropriate. Discipline shall
@@ -1776,7 +1776,7 @@ action. Obtaining Union representation shall not cause an undue delay.
 
 
 
-                              ARTICLE 29 - GRIEVANCE PROCEDURE
+### ARTICLE 29 - GRIEVANCE PROCEDURE
 
 Section 1.
 Grievances shall be defined as acts, omissions, applications or interpretations alleged
@@ -1973,7 +1973,7 @@ Section 15. Expedited Grievance Arbitration.
                                                                               Rev: 2015 ,2019, 2021
 
 
-                                      ARTICLE 30 - HOLIDAYS
+### ARTICLE 30 - HOLIDAYS
 
 Section 1.
 The following holidays shall be recognized and paid for at the regular straight time rate
@@ -2033,7 +2033,7 @@ schedule for the workweek.
                                                                                Rev: 2015, 2021,2023
 
 
-                                      ARTICLE 31 - OTHER LEAVES
+### ARTICLE 31 - OTHER LEAVES
 
 Section 1. Leaves with Pay.
 (a)   Personal Leave. After completion of initial trial service in the Agency, full-time
@@ -2178,7 +2178,7 @@ Section 2. Leaves Without Pay.
          leaves in accordance with FMLA and OFLA.
                                                                                      Rev: 2015, 2019, 2021
 
-                                      ARTICLE 32 - VACATION LEAVE
+### ARTICLE 32 - VACATION LEAVE
 
 Section 1. Vacation Leave.
 Full-time employees shall accrue vacation leave in accordance with the schedule below.
@@ -2328,14 +2328,14 @@ leave is not appropriate.
 
 
 
-               ARTICLE 33 - SCHEDULING OF COMPENSATORY TIME OFF
+### ARTICLE 33 - SCHEDULING OF COMPENSATORY TIME OFF
 
 Subject to the operating requirements of the Agency and in advance of the requested
 time off, an employee shall have their choice of scheduling compensatory time off.
 Employees shall follow Section 7 of Article 32 (Vacation Leave) for the procedures to
 schedule compensatory time off.
 
-                                      ARTICLE 34 - SICK LEAVE
+### ARTICLE 34 - SICK LEAVE
 
 Section 1. Accrual Rate of Sick Leave with Pay Credits.
 Employees shall accrue eight (8) hours of sick leave with pay credits for each full month
@@ -2408,7 +2408,7 @@ Employees who have been separated from the State service and return to a positio
 within two (2) years shall have unused sick leave credits accrued during previous
 employment restored.
 
-                                      ARTICLE 35 - DONATED LEAVE
+### ARTICLE 35 - DONATED LEAVE
 
 Section 1.
 This Article shall apply for the purpose of allowing employees to donate accrued
@@ -2457,7 +2457,7 @@ sources and/or other legitimate business reasons.
                                                                                    Rev: 2015, 2019
 
 
-                ARTICLE 36 - TRAVEL, MILEAGE AND MOVING EXPENSES
+### ARTICLE 36 - TRAVEL, MILEAGE AND MOVING EXPENSES
 
 Section 1.
 Travel and mileage reimbursement rates and conditions shall be established in the
@@ -2469,7 +2469,7 @@ Moving expenses reimbursement shall be consistent with Department of Administrat
 Services Chief Human Resource Office Policy 40.055.10. Changes in this policy will be
 automatically incorporated into this Article.
 
-                            ARTICLE 37 - WORKERS COMPENSATION
+### ARTICLE 37 - WORKERS COMPENSATION
 
 Sick leave resulting from a condition incurred on the job and also covered by Workers
 Compensation, shall, if elected to be used by the employee, be used to equal the
@@ -2488,10 +2488,10 @@ difference between the Workers Compensation for lost time and the employee’s r
 salary rate. In such instances, prorated charges will be made against accrued vacation
 leave or against accrued compensatory time off.
 
-                                  ARTICLE 38 - DELETED 2019-2021
+### ARTICLE 38 - DELETED 2019-2021
 
 
-                               ARTICLE 39 - FILLING OF VACANCIES
+### ARTICLE 39 - FILLING OF VACANCIES
 
 Section 1.
 The Agency desires to fill vacancies with the best qualified applicants available. Within
@@ -2534,7 +2534,7 @@ notification will include the reasons for the exception.
 
 
 2023-2025 Department of State Lands         - 46 -                  Collective Bargaining Agreement
-                       ARTICLE 40 - LABOR/MANAGEMENT COMMITTEE
+### ARTICLE 40 - LABOR/MANAGEMENT COMMITTEE
 
 Section 1.
 The parties agree to establish a Labor/Management Committee, in order to facilitate
@@ -2570,7 +2570,7 @@ At the conclusion of each calendar year, the parties shall discuss the
 Labor/Management Committee concept and shall review any needed changes in the
 Charter for future success of the Committee.
 
-                                ARTICLE 41 - TERM OF AGREEMENT
+### ARTICLE 41 - TERM OF AGREEMENT
 
 Section 1.
 Unless otherwise noted in a specific article in the Agreement, this Agreement becomes
@@ -2595,7 +2595,7 @@ ground rules for the successor negotiations.
                                                                   Rev: 2015, 2017, 2019, 2021,2023
 
 
-                                 ARTICLE 42 - SAFETY AND HEALTH
+### ARTICLE 42 - SAFETY AND HEALTH
 
 Section 1.
 The Agency agrees to abide by standards of safety and health in accordance with the
@@ -2710,7 +2710,7 @@ Section 6. Respectful Workplace
                                                                                   Rev: 2015, 2017,2023
 
 
-               ARTICLE 43 - TEMPORARY INTERRUPTION OF EMPLOYMENT
+### ARTICLE 43 - TEMPORARY INTERRUPTION OF EMPLOYMENT
 
 When the Employer declares that a temporary interruption of employment should be
 considered because of lack of funds, either party may provide the other with written
@@ -2722,7 +2722,7 @@ subject to the Complete Agreement articles of any of the agreements or constitut
 interim negotiations under PECBA. In addition, the parties will not be required to use
 the dispute resolution process contained in the PECBA.
 
-      ARTICLE 44 - INCLEMENT WEATHER/HAZARDOUS CONDITIONS LEAVE
+### ARTICLE 44 - INCLEMENT WEATHER/HAZARDOUS CONDITIONS LEAVE
 
 Section 1.
 (a)   The Employer/Agency designated official(s) may close or curtail offices, facilities,
@@ -2866,7 +2866,7 @@ and/or hazardous conditions.
 
 
 
-                               ARTICLE 45 - SEASONAL EMPLOYEES
+### ARTICLE 45 - SEASONAL EMPLOYEES
 
 Section 1. Definition.
 Positions which occur, terminate, and recur periodically and regularly, regardless of the
@@ -2905,7 +2905,7 @@ rights and benefits accrued by full-time or part-time employees, whichever is ap
 during their employment season.
 
 
-                      ARTICLE 46 - LIMITED DURATION APPOINTMENTS
+### ARTICLE 46 - LIMITED DURATION APPOINTMENTS
 
 Section 1.
 Persons may be hired for special studies or projects of uncertain or limited duration
@@ -2951,7 +2951,7 @@ these conditions. Such notification shall include the following:
 
 
 2023-2025 Department of State Lands    - 54 -                    Collective Bargaining Agreement
-                      ARTICLE 47 – VOLUNTARY MEDICAL SEPARATION
+### ARTICLE 47 – VOLUNTARY MEDICAL SEPARATION
 
 Section 1.
 A regular status employee with a serious health condition who has exhausted all of their
@@ -2985,7 +2985,7 @@ following conditions are met:
        g.    If the employee rejects a recall offer for their former work location, the
              employee’s name will be removed from the list.
 
-                                      ARTICLE 48 – EXIT INTERVIEWS
+### ARTICLE 48 – EXIT INTERVIEWS
 
 
 (a)      If a regular status employee provides timely notice that they are voluntarily
@@ -3002,7 +3002,7 @@ following conditions are met:
 
 
 2023-2025 Department of State Lands            - 55 -                Collective Bargaining Agreement
-                                 ARTICLE 50 - WORKING REMOTELY
+### ARTICLE 50 - WORKING REMOTELY
 
 Section 1.
 Oregon state government encourages working remotely where it is a viable option
@@ -3158,7 +3158,7 @@ These provisions are applicable to all Sections listed above.
 
 
 
-                                      ARTICLE 51 – AIR QUALITY
+### ARTICLE 51 – AIR QUALITY
 
 Section 1.
 The Air Quality Index (AQI) was developed by the US Environmental Protection Agency
@@ -3181,7 +3181,7 @@ Hazardous Condition.
                                                                                        NEW: 2021
 
 
-                                 ARTICLE 52 - PAID LEAVE OREGON
+### ARTICLE 52 - PAID LEAVE OREGON
 
 
 Paid Leave Oregon is administered by the Oregon Employment Department. The State
@@ -3204,7 +3204,7 @@ any existing contract language relating to FMLA/OFLA.
 
 
 2023-2025 Department of State Lands          - 59 -               Collective Bargaining Agreement
-     LETTER OF AGREEMENT – ARTICLE 14 - SALARY AND BENEFIT REPORT
+### LETTER OF AGREEMENT – ARTICLE 14 - SALARY AND BENEFIT REPORT
 
 
 This Agreement is between the State of Oregon, acting through its Department of
@@ -3225,7 +3225,7 @@ agreement.
 
 
 2023-2025 Department of State Lands   - 60 -                   Collective Bargaining Agreement
-      LETTER OF AGREEMENT – ARTICLE 14 - SALARY RANGE TRUNCATION
+### LETTER OF AGREEMENT – ARTICLE 14 - SALARY RANGE TRUNCATION
 
 
 This Agreement is entered into between the State of Oregon, acting through its
@@ -3369,7 +3369,7 @@ Agreement (Agency) and the AFSCME Council 75 (Union).
 
 
 2023-2025 Department of State Lands       - 63 -                      Collective Bargaining Agreement
-        LETTER OF AGREEMENT – ARTICLE 14 – ONE-TIME PAYMENT COLA
+### LETTER OF AGREEMENT – ARTICLE 14 – ONE-TIME PAYMENT COLA
 
 
 This Agreement is entered into between the State of Oregon, acting through its
@@ -3391,7 +3391,7 @@ This Letter of Agreement will sunset on June 30, 2025.
 
 
 2023-2025 Department of State Lands       - 64 -                      Collective Bargaining Agreement
-LETTER OF AGREEMENT – ARTICLE 16, PEBB MEMBER ADVISORY COMMITTEE
+### LETTER OF AGREEMENT – ARTICLE 16, PEBB MEMBER ADVISORY COMMITTEE
 
 This Agreement is between the State of Oregon, acting through its Department of
 Administrative Services (Employer) and AFSCME Council 75 (Union).
@@ -3432,7 +3432,7 @@ This Agreement will sunset on June 30, 2025.
 
 
 2023-2025 Department of State Lands   - 65 -                   Collective Bargaining Agreement
-                        LETTER OF AGREEMENT – CONTRACTING OUT
+### LETTER OF AGREEMENT – CONTRACTING OUT
 
 Section 1.
 The Union recognizes that the Employer has the management right, during the term of
@@ -3534,7 +3534,7 @@ reviewing of contracted work are not subject to the grievance procedure.
 
 
 2023-2025 Department of State Lands     - 67 -                     Collective Bargaining Agreement
-         LETTER OF AGREEMENT – CONTRACTING OUT FEASIBLITY STUDY
+### LETTER OF AGREEMENT – CONTRACTING OUT FEASIBLITY STUDY
 
 This Letter of Agreement is entered into between the State of Oregon Department of
 Administrative Services, on behalf of all State Agencies covered by the State of Oregon
@@ -3553,7 +3553,7 @@ This Agreement is effective through June 30, 2025.
 
 
 2023-2025 Department of State Lands     - 68 -                  Collective Bargaining Agreement
-    LETTER OF AGREEMENT – LABOR MANAGEMENT COMMITTEE UPDATES
+### LETTER OF AGREEMENT – LABOR MANAGEMENT COMMITTEE UPDATES
 
 This Agreement is entered into by the State of Oregon, acting through its Department of
 Administrative Services (Employer) on behalf of the Department of State Lands
@@ -3572,7 +3572,7 @@ This Letter of Agreement will sunset June 30, 2025.
 
 
 2023-2025 Department of State Lands   - 69 -                    Collective Bargaining Agreement
-        LETTER OF AGREEMENT – NEW EMPLOYEE NOTICE/UNION ACCESS
+### LETTER OF AGREEMENT – NEW EMPLOYEE NOTICE/UNION ACCESS
 
 
     3. Notice
@@ -3616,7 +3616,7 @@ This Letter of Agreement will sunset June 30, 2025.
 
 
 2023-2025 Department of State Lands     - 70 -                    Collective Bargaining Agreement
-LETTER OF AGREEMENT – OREGON UNIONS STATE WORKER TRAINING FUND
+### LETTER OF AGREEMENT – OREGON UNIONS STATE WORKER TRAINING FUND
 
 
 The Parties recognize that both the State and its workers benefit from workers
@@ -3667,7 +3667,7 @@ on:
 
 
 2023-2025 Department of State Lands    - 71 -                     Collective Bargaining Agreement
-                     LETTER OF AGREEMENT – CONTRACT SPECIALIST
+### LETTER OF AGREEMENT – CONTRACT SPECIALIST
 
 
 This Agreement is between the State of Oregon, acting through its Department of
@@ -3785,7 +3785,7 @@ This Agreement becomes effective on the date of the last signature and ends on J
 
 
 2023-2025 Department of State Lands    - 74 -                    Collective Bargaining Agreement
-              LETTER OF AGREEMENT – ESSENTIAL WORKER INCLEMENT
+### LETTER OF AGREEMENT – ESSENTIAL WORKER INCLEMENT
                       WEATHER/HAZARDOUS CONDITIONS PAY
 
 
@@ -3813,7 +3813,7 @@ shall receive the Essential Worker Inclement Weather/Hazardous Conditions Pay.
 
 
 2023-2025 Department of State Lands    - 75 -                    Collective Bargaining Agreement
-                  LETTER OF AGREEMENT – NATURAL DISASTER LEAVE
+### LETTER OF AGREEMENT – NATURAL DISASTER LEAVE
 
 
 This Agreement is between the State of Oregon, acting through its Department of
@@ -3847,7 +3847,7 @@ agreement.
 
 
 2023-2025 Department of State Lands         - 76 -                    Collective Bargaining Agreement
-    LETTER OF AGREEMENT – STATE POLICY 50.050.01 WORKING REMOTELY
+### LETTER OF AGREEMENT – STATE POLICY 50.050.01 WORKING REMOTELY
                               UPDATES
 
 
@@ -3866,7 +3866,7 @@ June 30, 2025.
 
 
 2023-2025 Department of State Lands   - 77 -                    Collective Bargaining Agreement
-                       LETTER OF AGREEMENT – SECURITY CAMERAS
+### LETTER OF AGREEMENT – SECURITY CAMERAS
 
 
 This Agreement is entered into by the State of Oregon, acting through its Department of
@@ -3889,7 +3889,7 @@ This Letter of Agreement will sunset June 30, 2025.
 
 
 2023-2025 Department of State Lands   - 78 -                    Collective Bargaining Agreement
-             LETTER OF AGREEMENT – AGENCY EQUIPMENT COMMITTEE
+### LETTER OF AGREEMENT – AGENCY EQUIPMENT COMMITTEE
 
 
 This Agreement is between the State of Oregon, acting through its Department of
@@ -3915,7 +3915,7 @@ contract.
 
 
 2023-2025 Department of State Lands   - 79 -                    Collective Bargaining Agreement
-         LETTER OF AGREEMENT - SEARCH AND RESCUE AND VOLUNTEER
+### LETTER OF AGREEMENT - SEARCH AND RESCUE AND VOLUNTEER
                            FIREFIGHTER LEAVE
 
 
@@ -3961,7 +3961,7 @@ This Agreement will sunset on June 30, 2025, unless extended by mutual agreement
 
 
 2023-2025 Department of State Lands     - 80 -                    Collective Bargaining Agreement
-    LETTER OF AGREEMENT – CHILDCARE AND ELDERCARE EXPLORATORY
+### LETTER OF AGREEMENT – CHILDCARE AND ELDERCARE EXPLORATORY
                              COMMITTEE
 
 
@@ -3996,7 +3996,7 @@ committee shall be jointly led by the Employer and the Union.
 
 
 2023-2025 Department of State Lands     - 81 -                     Collective Bargaining Agreement
-                              LETTER OF AGREEMENT – PAY EQUITY
+### LETTER OF AGREEMENT – PAY EQUITY
 
 
 This Agreement is entered into by the State of Oregon, acting through its Department of
@@ -4120,7 +4120,7 @@ The Parties agree to the following:
 
 
 2023-2025 Department of State Lands   - 84 -                    Collective Bargaining Agreement
-            LETTER OF AGREEMENT—BI-WEEKLY PAY PERIOD/WORKDAY
+### LETTER OF AGREEMENT—BI-WEEKLY PAY PERIOD/WORKDAY
 
 
 This Letter of Agreement is between the State of Oregon, acting through its Department
@@ -4265,7 +4265,7 @@ Both parties retain their rights under PECBA.
 
 
 2023-2025 Department of State Lands          - 88 -                        Collective Bargaining Agreement
-                                      APPENDIX C – SALARY CHARTS
+### APPENDIX C – SALARY CHARTS
 
                                         SALARY SCHEDULE AS OF JULY 1, 2023
                     Pay /

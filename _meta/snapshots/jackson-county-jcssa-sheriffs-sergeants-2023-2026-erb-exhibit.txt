@@ -328,7 +328,7 @@ the responsibility of the Board or the Sheriff, in accordance with such statutes
 
 
          Jackson County/JCSSA Collective Bargaining Agreement 2025-2027 - 8
-                                    ARTICLE 1 – RECOGNITION
+### ARTICLE 1 – RECOGNITION
 
 1.1    Exclusive Bargaining Agent.
 
@@ -347,7 +347,7 @@ budgeted position authorized at a minimum of a one-half (0.50) full-time equival
 Confidential employees shall include the administrative staff for the Sheriff and any division
 supervisor.
 
-                              ARTICLE 2 - MANAGEMENT RIGHTS
+### ARTICLE 2 - MANAGEMENT RIGHTS
 
 It is recognized that an area of responsibility must be reserved to the employer if the County is to
 effectively serve the public. Except as specifically abridged in this Agreement or in accordance
@@ -387,7 +387,7 @@ listed as such management functions:
                determine schedules of work; the right to purchase, dispose and assign equipment
                or supplies; and the right to contract or subcontract any work.
 
-                               ARTICLE 3 – HOURS OF WORK
+### ARTICLE 3 – HOURS OF WORK
 
 3.1    Work Shift.
 
@@ -790,7 +790,7 @@ agreement.
        C. Sick leave accrual is based on eight (8) hours per calendar month, to a total of 96
            hours annually.
 
-                                    ARTICLE 4 - HOLIDAYS
+### ARTICLE 4 - HOLIDAYS
 
 4.1    Holidays.
 
@@ -823,7 +823,7 @@ No Sergeant may earn holiday leave credits during leaves without pay.
 
 
          Jackson County/JCSSA Collective Bargaining Agreement 2025-2027 - 18
-                                  ARTICLE 5 - VACATION LEAVE
+### ARTICLE 5 - VACATION LEAVE
 
    5.1     Accrual.
 
@@ -940,7 +940,7 @@ waived if the employee has requested time off and has been denied.
 
 Vacation balances sold back to the County may be taken as paid or contributed to the
 employee’s HRA VEBA.
-                                 ARTICLE 6 - SICK LEAVE
+### ARTICLE 6 - SICK LEAVE
 
 6.1    Accrual.
 
@@ -1062,7 +1062,7 @@ during previous employment restored.
 
 
            Jackson County/JCSSA Collective Bargaining Agreement 2025-2027 - 23
-                                 ARTICLE 7 - OTHER LEAVES
+### ARTICLE 7 - OTHER LEAVES
 
 7.1    Jury Duty.
 
@@ -1107,7 +1107,7 @@ family leave laws. All leaves for that purpose will run concurrently.
 
 
           Jackson County/JCSSA Collective Bargaining Agreement 2025-2027 - 24
-      ARTICLE 8 - FRINGE BENEFITS COVERED BY INSURANCE CONTRACTS—
+### ARTICLE 8 - FRINGE BENEFITS COVERED BY INSURANCE CONTRACTS—
       ASSOCITION OPENS
 
 8.1    Benefits Provided.
@@ -1207,7 +1207,7 @@ Insurance coverage thought payroll deduction, and have the choice of plan and co
    gross monthly wages into a n HRA VEBA Account to be agreed upon by the parties.
 
              Jackson County/JCSSA Collective Bargaining Agreement 2025-2027 - 26
-                           ARTICLE 9 - LIABILITY INSURANCE
+### ARTICLE 9 - LIABILITY INSURANCE
 
 9.1    Provision of Insurance.
 
@@ -1227,7 +1227,7 @@ Tort Claims Act.
 The County shall contribute $10 per month to each bargaining unit members’ legal defense plan.
 
 
-                                 ARTICLE 10 - RETIREMENT
+### ARTICLE 10 - RETIREMENT
 
 10.1   Plan Options.
 
@@ -1312,7 +1312,7 @@ regular compensation.
 
 
 
-                               ARTICLE 11 - JOB DESCRIPTION
+### ARTICLE 11 - JOB DESCRIPTION
 
 11.1   Job Description Preparation.
 
@@ -1337,7 +1337,7 @@ of pay established. If the Association disagrees with the rate established for t
 the rate of pay may be submitted to arbitration pursuant to Section 14.1, Step 5, on written notice
 within seven (7) calendar days.
 
-                       ARTICLE 12 - DISCIPLINE AND DISCHARGE
+### ARTICLE 12 - DISCIPLINE AND DISCHARGE
 
 12.1    Probationary Status.
 
@@ -1487,7 +1487,7 @@ be allowed association and legal representation .
 subordinate members of the office.
 
 
-                               ARTICLE 13 - PERSONNEL FILE
+### ARTICLE 13 - PERSONNEL FILE
 
 13.1    Inspection.
 
@@ -1513,7 +1513,7 @@ shall become a part of their personnel file so long as the Sergeant responds wit
           Jackson County/JCSSA Collective Bargaining Agreement 2025-2027 - 32
 calendar days following receipt of the document.
 
-                        ARTICLE 14 - SETTLEMENT OF DISPUTES
+### ARTICLE 14 - SETTLEMENT OF DISPUTES
 
 14.1   Grievance Procedure.
 
@@ -1659,7 +1659,7 @@ parties shall share evenly in the cost of the reporter and the record. The losin
 responsible for all arbitrator's expenses and fees. The arbitrator shall designate the losing party
 for the purposes of this provision.
 
-                           ARTICLE 15 - GENERAL PROVISIONS
+### ARTICLE 15 - GENERAL PROVISIONS
 
 15.1   No Discrimination.
 
@@ -1935,7 +1935,7 @@ expenses from subsequent law enforcement units for Sergeants who voluntarily lea
 employment.
 
          Jackson County/JCSSA Collective Bargaining Agreement 2025-2027 - 41
-                               ARTICLE 16 – COMPENSATION
+### ARTICLE 16 – COMPENSATION
 
 16.1   Maintenance of Compensation Plan.
 
@@ -2128,7 +2128,7 @@ any speciality positions.
 
 
           Jackson County/JCSSA Collective Bargaining Agreement 2025-2027 - 45
-                               ARTICLE 17 - SAVINGS CLAUSE
+### ARTICLE 17 - SAVINGS CLAUSE
 
 17.1    Unlawful and Unenforceable Sections of this Agreement.
 
@@ -2139,7 +2139,7 @@ issuance of such a decision the parties shall agree immediately to negotiate a s
 possible, for the invalidated article, section, or portion thereof.
 
 
-                           ARTICLE 18 – TERM OF AGREEMENT
+### ARTICLE 18 – TERM OF AGREEMENT
 
 18.1   Term of Agreement.
 

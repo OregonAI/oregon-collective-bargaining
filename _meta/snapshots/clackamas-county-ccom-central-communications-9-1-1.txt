@@ -7,7 +7,7 @@ Preamble
 This Agreement is entered into between Clackamas County, Oregon, hereinafter referred to as the "County" and Clackamas County 'C-Com' Employees Local 350-7, Council 75 of the American Federation of State, County and Municipal Employees, AFL-CIO hereinafter referred to as the "Union." The purpose of this agreement is the promotion of harmonious relations between the County and the Union; and the establishment of an equitable and peaceful procedure for the resolutions of differences; and the establishment of rates of pay, hours of work, and other conditions of employment.
 ARTICLE&nbsp;1 - Recognition
 The County recognizes the Union as the sole and exclusive collective bargaining agent for the purpose of establishing salaries, wages, hours and other conditions of employment for all full-time and regular part-time Call Takers,&nbsp;Dispatchers and Non-operations staff employed by Clackamas County, excluding supervisory and confidential employees as defined by ORS 243.650
-ARTICLE 2 – Definitions
+### ARTICLE 2 – Definitions
 REGULAR EMPLOYEE &nbsp; A regular employee means any employee who has been appointed to a position in the classified service in accordance with the law governing regular appointments and who has successfully completed their probationary period.
 REGULAR PART-TIME EMPLOYEE&nbsp;
 A regular part-time employee means a part-time employee who works less than thirty (30) hours per week on a regular basis.
@@ -32,7 +32,7 @@ STAFF ENHANCEMENT
 “Staff enhancement” refers to additional employees scheduled for particular shifts for special events, training purposes, or other situations in which additional staff are required to cover the anticipated workload.
 OPEN SHIFT OR HOURS &nbsp; “Open shift or hours” refers to shifts or hours which count towards the staffing levels, but which do not have a regularly scheduled employee assigned to work.
 EMERGENCY CONDITIONS &nbsp; Significant events/conditions such as Emergency Conditions refer to circumstances above "normal operations" which may include the need for enhanced staffing, activation of the departmental Continuity of Operations Plan, or declaration of emergency by the County. C-COM Director shall actively signify to the bargaining unit leadership that the department is operating under "emergency conditions" when this occurs so there is no confusion among the membership and what may be expected as it relates to departmental operations.
-ARTICLE 3 – Seniority
+### ARTICLE 3 – Seniority
 Seniority will be established based on hire date to the classification.
 Employees who have been promoted from any certified position (e.g., CT, D1, D2) to a non-represented position or a non-operations position within the department, who return to a previous bargaining unit classification (e.g. Operations Supervisor to D1/D2, any Technical position to D1) will retain their original seniority date of hire to the returning classification if they return to the position within six (6) months of their last dispatch classification.
 A Dispatch Trainee (DT) will accrue seniority within their classification as a DT. There are two ways this seniority time may be applied. If a DT completes Dispatcher Certification, this accrued time will be added to their Dispatcher (D1) seniority and D1 seniority date will become the date of promotion to the DT classification. If a DT demotes back to Call-Taker, the seniority date for the employee as a Call-Taker will remain as their original CT seniority date as if they had not left the CT classification.
@@ -76,18 +76,18 @@ The determination of the governmental services to be rendered to the citizens of
 The determination of the County’s financial, budgetary and accounting procedures.
 The management and direction of the work force including, but not limited to, the right to determine the methods, processes and manner of performing work; the right to hire, promote, transfer within the same pay range and retain employees; the right to discipline or discharge for proper cause; the right to lay off for lack of funds; the right to create or abolish positions or reorganize the departments or division; the right to determine schedules of work; the right to purchase, dispose and assign equipment or supplies; and the right to contract or subcontract for work.
 The County, in exercise of the above-mentioned functions, will not discriminate against any employee because of their membership in the Union.
-ARTICLE 5 -Union Dues
+### ARTICLE 5 -Union Dues
 All employees covered by the terms and conditions of this Agreement shall have the voluntary choice of whether to become members of the Union.&nbsp; The County agrees to deduct dues in an amount determined by the Union from the wages of each employee who chooses to become a member of the Union in accordance with the terms of the contract between the employee and the Union.&nbsp; The County agrees to deposit the total amount deducted from all members into an established account designated by the Union, on a monthly basis.&nbsp;
 Such uniform amounts as the Union certifies to the County as the monthly dues approved by the members of the Union shall remain as the amount to be deducted hereunder.
 Employees terminating with less than ten (10) working days in any calendar month will not be subject to dues deduction.
 The County will not be liable for check-off errors, but will make proper adjustments with the Union for errors as soon, as is practicable if notified within ten (10) consecutive days of the error. In no case shall such an adjustment extend beyond the following pay period. In order for both parties to have adequate information on dues check off, an up-to-date list of eligible members of the bargaining unit will be delivered to the Union. Such list shall include all members paying dues in the previous pay period.
 The Union agrees to indemnify and hold the County harmless from and against any and all claims, suits, orders or judgments brought against the County as a result of the County’s compliance with the provisions of this Section and to reimburse any fees, costs or expenses incurred by the County in connection with the same.
 The County shall furnish monthly to the Union an electronic list of new employees who have accepted positions represented by the Union along with anticipated start dates. The list shall contain the name, job title, employee identification number, address, phone number, department, and monthly salary.
-ARTICLE 6 –&nbsp;PEOPLE and AVIP
+### ARTICLE 6 –&nbsp;PEOPLE and AVIP
 To the extent allowable by law, employees may authorize payroll deductions for the AFSCME PEOPLE (Public Employees Organized to Promote Legislative Equality) or AVIP (AFSCME Values In Practice). The Union agrees to provide the Employer a list of employees that are making PEOPLE and/or AVIP contributions and amount deducted per employee on a monthly basis in the same report it provides to the County for dues deduction as required by Article 5.
 All PEOPLE contributions shall be voluntary and may be revoked at any time by giving written notice to the Union and the County. It is expressly understood that PEOPLE contributions are not required as a condition of employment.
 The Union shall indemnify and save the County harmless against any and all claims, damages, suits or other forms of liability which may arise out of action taken or not taken by the County for the purpose of complying with the provisions of this Article.
-ARTICLE 7 - HOURS OF WORK
+### ARTICLE 7 - HOURS OF WORK
 REGULAR HOURS
 “Regular Hours” refers to the hours of the shift that a D1, D2, or Call Taker has bid on and has been assigned in shift bid or is assigned at sign off. The regular hours of work each day for Operations employees shall be consecutive except for interruptions for a paid lunch break and two (2) twelve (12) minute paid breaks. Non-Operations, TQAC’s, and Part-time employees will have regularly scheduled hours of work that may be adjusted via mutual agreement between the employee and their supervisor to meet the needs of their position. Regular hours do not apply to trainees, to include T2’s, who are actively in a training status.
 WORK WEEK &nbsp; The workweek will be based on the following staffing levels: The standard workweek for full time Dispatchers, Shift Leaders, and Call Takers is four (4) days on, three (3) days off with ten (10) hour shifts. Trainees will work four (4) days on, three (3) days off, ten (10) hour shifts. Trainees’ work schedules for on-the-floor and off-the-floor training may be altered by mutual agreement between management and Union leadership. Exceptions may be made to trainee work schedules for off-the-floor training needs. The Non-Operations staff shall have a regular work schedule of five (5) consecutive eight (8) hour days followed by two (2) consecutive days off. Upon the request of the employee and with approval of the director, the non-Operations staff may work a different schedule as long as it totals 40 hours per week and has consecutive days off. Non-Operations employees shall be charged for vacation and sick leave according to their schedule, e.g., for a ten (10) hour schedule, ten (10) hours would be charged. The parties agree to continue their existing committee to evaluate all future scheduling options that meet user interests, employee interests, and operational needs. Employees are expected to accurately record their actual hours worked on their timesheets and comply with department and county requirements for submitting timesheets.
@@ -131,7 +131,7 @@ During the period in which an employee is assigned to standby, the employee shal
 An employee assigned to standby must respond to the initial contact within twenty (20) minutes via phone call or text. If the employee’s presence at the worksite is required, the employee must report to work within a period of one (1) hour of receiving the request.
 An employee assigned to standby who responds to a work-related phone call that does not require the employee to respond to the worksite shall be compensated at the overtime rate for the time actually spent responding to the call, related calls, and time spent logging or recording required information about the call. If the employee is required to report to the worksite, the employee will be compensated at the overtime rate from the time of the call until their work ends, as well as for the time spent traveling home (travel time not to exceed one (1) hour). The overtime hourly rate of pay will be calculated in fifteen (15) minute increments.
 In the event an employee does not respond to a request to report for duty while assigned to standby, or fails to respond within the timelines described above, the employee automatically forfeits the standby compensation and may be subject to disciplinary action. Tech Team employees are eligible for sabbatical from being on standby for a one (1) month period after a County-recognized life altering event with approval from the C-COM Director.
-ARTICLE 8 – HOLIDAYS
+### ARTICLE 8 – HOLIDAYS
 HOLIDAYS
 The following holidays shall be recognized and observed as paid holidays for all non-certified, and non-dispatch employees.
 New Year's Day (January 1st) Martin Luther King, Jr. Day (Third Monday in January) President's Day (Third Monday in February) Memorial Day (Last Monday in May) Juneteenth (June 19th) Independence Day (July 4th) Labor Day (First Monday in September) Veteran’s Day (November 11th) Thanksgiving Day (Fourth Thursday in November) Christmas Day (December 25th)
@@ -174,7 +174,7 @@ SVA Round 2
 5
 SVA Round 1
 6
-ARTICLE 9 – VACATION
+### ARTICLE 9 – VACATION
 ACCRUAL
 &nbsp;
 Vacation Option – New Hires.
@@ -252,7 +252,7 @@ The fifteen (15) hours must be worked within a one (1) calendar month time perio
 The bonus is in addition to regular overtime pay earned and/or comp time, if that option is selected.
 People calling in sick for time signed up for will not be paid a bonus until actual overtime hours worked in that month reach fifteen (15) hours of the early sign-up time.
 Once an employee has committed to a time period, they are obligated to work that time slot. If they cannot work the time slot, they are obligated to find a replacement worker, and these hours will not count toward the bonus.
-ARTICLE 10 - SICK LEAVE
+### ARTICLE 10 - SICK LEAVE
 ACCRUAL
 All employees in a paid status, defined as regular wages or County accrued leave, for eighty-eight (88) hours (prorated for FTE status) or more in any month shall accrue sick leave for the next month on the first of that month at the rate of eight (8) hours for each month worked. Accrual of sick leave shall be unlimited.
 USE OF SICK LEAVE
@@ -267,7 +267,7 @@ HOURS CHARGED
 Sick Leave shall be charged at the rate of one (1) hour for each hour taken.
 VACATION OPTION
 Employees who are absent on sick leave for a period in excess of their accrued sick leave shall be required to use their accrued vacation time to cover such time off. At the option of the employee on approved FMLA/OFLA/PFML, the employee may retain up to 40 hours of vacation time prior to being placed on leave without pay.
-ARTICLE 11 - OTHER LEAVES
+### ARTICLE 11 - OTHER LEAVES
 LEAVE OF ABSENCE
 Leaves of absence are covered by County Code and policy. The employee's service date and salary increase date will be adjusted for any month in which the employee is not in paid status, defined as regular wages or County accrued leave, for at least or eighty-eight (88) hours (prorated for FTE status) in a month. Vacation leave accrual during a leave of absence will be in accordance with Article 9, Section 1(B). Sick Leave Accrual during a leave of absence will be in accordance with Article 10, Section 1.
 JURY DUTY
@@ -281,7 +281,7 @@ Employees shall also be granted leaves-of-absence with pay for educational purpo
 Compensation will not be paid for employees who attend training activities which are not a condition of employment, without regard to the nature of the training activity.
 MAJOR EMERGENCIES, DISASTERS, OR INCLEMENT WEATHER&nbsp;
 When an employee is excused by their supervisor from reporting to work because of inclement weather, the employee will have the option of either making up the missed time in the same work week with the approval of the supervisor or using vacation or leave without pay. Employees who are deemed not onsite essential during County building closures due to major emergencies, disaster or inclement weather, and who have the ability to work remotely shall do so during times the County building is closed, unless directed otherwise by their manager or department director
-ARTICLE 12 - HEALTH AND WELFARE
+### ARTICLE 12 - HEALTH AND WELFARE
 1. MEDICAL COVERAGE&nbsp;
 The County agrees to contribute toward the monthly composite premium for each medical plan for eligible employees and their eligible family members, who elect medical coverage. The design of the medical plan(s) shall be determined by the Benefits Review Committee as described in Section 10 of this Article.
 Effective January 1 of each year of the contract, the County agrees to contribute an amount equivalent to 95% of the monthly composite premium for at least one medical plan up to a maximum of 105% of the County contribution in the previous calendar year.
@@ -324,7 +324,7 @@ The County shall act to update any mandated coverage or changes caused by Federa
 13. DEFERRED COMPENSATION PLAN
 Subject to applicable federal regulations, the County agrees to provide an employee-paid deferred compensation plan that provides for payment at a future date for services currently rendered by the eligible employee. In addition, the County shall match an employee’s contribution to the deferred compensation plan up to three and one-half percent (3.5%) of the employee’s base compensation as defined in the deferred compensation plan document.
 Deferred compensation benefits shall become effective with the next available payroll after the employee enrolls in the deferred compensation retirement plan with the record keeper. New employees include newly hired employees, rehired employees and employees changing employment status from temporary to regular.
-ARTICLE 13 - WORKERS COMPENSATION
+### ARTICLE 13 - WORKERS COMPENSATION
 1. All County employees will be insured under the provisions of the Oregon Workers’ Compensation Law for injuries that arise out of and occur in the course of employment for the County. The County is self-insured for workers’ compensation claims. The County and Association acknowledge the right of employees to receive workers’ compensation benefits as provided by state law and this Article.
 2. The County will compensate the employee for injuries that result in an inability to work with sufficient medical authorization that arise out of and occur in the course of employment where the claim has been accepted in an amount equal to the injured employee’s regular pay, including any regular additional pay, such as longevity, that the employee was receiving at the time of the injury for up to and including one hundred and eighty (180) days from the date of injury. This wage continuation provision will continue for up to and including one hundred and eighty (180) calendar days from the date of injury, and is subject to the following conditions:
 A. The day of injury shall be considered a workday, and the employee will receive their normal salary for that day.
@@ -335,7 +335,7 @@ D. While the employee is receiving wage continuation under this provision, the e
 After one hundred and eighty (180) calendar days from the date of injury, the employee may elect to use accrued leaves to supplement the difference between statutory workers’ compensation benefits and the employee’s regular pay (including any regular additional pay).
 4. Medical and dental insurance coverage shall continue to be provided for employees as was in place prior to the injury for as long as employee remains employed during this period. Employees are responsible for any applicable insurance premium cost share as provided for in Article 12.[AA7][AC8]
 5. The County may request the employee to return to modified or light duty, subject to medical release. An injured employee that refuses to return to modified or light duty may be subject to loss of reinstatement rights and reduction of temporary total disability benefits.
-ARTICLE 14 – WAGES
+### ARTICLE 14 – WAGES
 1. WAGE STEPS&nbsp;
 New employees shall be paid at step one rates, unless an upper-step appointment is made based on the bona fide factors of seniority and/or experience. Promoted and transferred employees will be paid as set forth in Article 22 (General Provisions), Sections 5 (Promotions and Transfers) and 7 (Transferred Employees from Other Agencies). Employees who voluntarily demote will be paid as set forth in Article 22, Section 6. New employees or promoted employees shall be eligible for advancement to the next step of the salary range for their classification six (6) months from the first of the month following appointment to the position. Thereafter, employees are eligible for a step increase at the conclusion of twelve (12) months of continuous service since their last step increase. Eligibility for step increases shall continue until employees reach the last step in their respective salary range. Step increases shall be granted by the appointing authority for those employees who have demonstrated satisfactory work performance.
 When any classification not listed on the wage schedule and which properly belongs in the bargaining unit is established, the County shall designate a pay range for the classification. In the event the Union does not agree that the range is proper, the Union shall have the right to submit the issue as a grievance at Step IV of the Grievance Procedure.
@@ -504,7 +504,7 @@ Certificate pay will commence effective the first day of the pay period followin
 This incentive pay is not cumulative and employees are eligible for one level only.
 &nbsp;
 Any employee wishing to receive certificate pay shall submit an application to the Director, or designee, of the Department. In order to receive certificate pay, the application must meet the requirements as outlined in the Department policy on DPSST Intermediate and Advanced Certification. The Director shall have thirty (30) days to review such application and upon approval by the Director, the employee shall receive the certificate pay. If after director approval, the application is not approved by DPSST, or the employee fails to meet the training requirements to maintain the certificate pay, as outlined in the Department policy on DPSST Intermediate and Advanced Certification, the certificate pay shall stop until such time the employee is again eligible for the pay.
-ARTICLE 15 - JOB SHARE
+### ARTICLE 15 - JOB SHARE
 1. DEFINITION
 “Job sharing position” means a situation in which no more than two (2) individuals on a shared time basis perform the duties and responsibilities of the one (1) full-time position. To be a job share, the two (2) employees must ONLY be performing the duties that would be assigned if the position was filled by one (1) full time employee.
 2. HOURS OF WORK
@@ -543,13 +543,13 @@ Job share employees shall accrue seniority on a pro-rated basis.
 * For the purposes of shift bid, the job share partners will be considered as one (1) person using the date determined by averaging the seniority dates of the partners. This seniority date will be calculated one (1) month prior to shift bid.
 * For the purposes of vacation bidding, each individual partner will have their personal seniority date pro-rated and calculated yearly. They will pass on the first and second rounds and be allowed to have first choice in the third round.
 * For the purposes of overtime sign up and short notice call the partners’ names will be placed on the list after the full time employees, but before the part-time employees.
-ARTICLE 16 - PERSONNEL RECORDS AND INFORMATION
+### ARTICLE 16 - PERSONNEL RECORDS AND INFORMATION
 1. For purposes of this section, "personnel file" shall refer to the formal file or files of personnel documents maintained by the Human Resources and/or by the employees department or division.
 2. An employee or their representative, with written consent of the employee, may inspect that employee's personnel file. Upon written request, an employee or their authorized representative shall be given a copy of any materials in the employee's personnel file.
 3. An employee shall be furnished a copy of any statement written for inclusion in the employee's personnel file concerning the employee's conduct or work performance.
 4. The employee shall have the opportunity to submit a written statement in opposition to all derogatory materials placed into the employee's personnel file.
 5. Material reflecting warning, admonishment and reprimand placed in an employee's personnel file cannot be used for progressive discipline purposes after three years unless there are repeat occurrences. No material reflecting critically on an employee shall be placed in an employee’s personnel file which does not bear the signature of the employee indicating they have seen a copy of the material. If an employee refuses to sign, it shall be so noted by the supervisor, and if the employee so requests, a copy of such notice to the Union.
-ARTICLE 17 - DISCIPLINE AND DISCHARGE
+### ARTICLE 17 - DISCIPLINE AND DISCHARGE
 1. Regular employees may, in good faith for just cause, be subject to disciplinary action by oral or written reprimand, unpaid suspension, demotion, or discharge; provided, however, such action shall take effect only after the supervisor gives written notice of the action and cause to the employee except for cases of oral reprimand. In the case of oral reprimands a written record may be kept by a supervisor as to the date of the reprimand, but such written record shall not be made a part of the official County personnel file. It is specifically understood that just cause for discharge shall include inability or failure on the part of a trainee to meet the requirements of the position classification for Communications Dispatcher 1 in accordance with the Initial Probationary period outlined in Section 6 of this Article.
 2. Any regular employee in the bargaining unit who is disciplined in writing, suspended, demoted or discharged shall have the right to appeal the action through the grievance procedure. The Union shall submit such grievance at Step 1 of the procedure not later than fourteen (14) calendar days after the effective date of the disciplinary action. If the Director and supervisor are absent on the fourteenth (14th) day, the time will be extended to the first day when the Director or a supervisor is present. The grievance procedure shall be the sole and exclusive procedure for resolution of discipline and discharge disputes.
 Likewise, should the County wish to discipline an employee, the County shall notify the employee and initiate an investigation within fourteen (14) calendar days of when the County became aware of the cause for disciplinary action. The County will make reasonable efforts to conduct and conclude internal investigations within 45 days. The employee and a supervisor or the Director or designee must be present on the forty-fifth day, and if not, the time will be extended to the employee’s first regularly scheduled and worked day when a supervisor or the Director or designee is present. The deadline may be extended under special circumstances by mutual agreement.
@@ -562,7 +562,7 @@ Probationary periods will be extended by the full amount of any paid or unpaid l
 The Director may reprimand, suspend, demote, or discharge the probationary employee. Every such action shall be accompanied by written documentation stating the reasons for such action.
 Initial probationary employees are not protected by the just cause standard, and are subject to discipline and discharge without prior notice or an opportunity to respond to the charges prior to discipline.
 Any initial probationary employee in the bargaining unit who is disciplined in writing, suspended, or discharged, shall have the right to utilize Steps 1, 2, and 3 of the Grievance Procedure described in Article 19 (Settlement of Disputes). The determination at Step 3 shall be the final determination, except that an employee may request an administrative review of a suspension, demotion, or dismissal from the Director of Human Resources subject to the Personnel Ordinance 2.05.220.
-ARTICLE 18 - LAYOFF AND RECALL
+### ARTICLE 18 - LAYOFF AND RECALL
 1. REASON FOR LAYOFF
 The County may lay off an employee because the employee is physically unable to perform the job, and there is no other job the employee can perform. The County may lay off an employee because of shortage of funds or work or reorganization of the unit, if, in the opinion of the County, there is no satisfactory alternative to layoff such as voluntary demotion, furlough or reduced workweek. Discussions regarding layoffs may be initiated by either the County or the Union. The County retains the final authority to determine whether layoffs should occur.
 2. LAYOFF
@@ -572,7 +572,7 @@ The appointing authority may make an exception to the order of layoff when the r
 When an employee is laid off due to a reduction in the work force, the employee shall be permitted to exercise bumping rights by displacing an employee with less seniority in a job classification at the same or lower salary grade provided the employee is qualified to hold the position. If funds are increased and the higher level position is reestablished within two (2) years, the bumping employee will be restored to the higher level position.
 4. RECALL
 Those employees who exercise bumping rights or are laid off shall be eligible for recall to their classification for a period of two years without loss of seniority or benefits subject to contract limitations. Recall shall be on the basis of seniority. Eligible, interested recalled employees will be re-employed before any new hires or transfers, provided the employee possesses the qualifications for the position.
-ARTICLE 19- SETTLEMENT OF DISPUTES
+### ARTICLE 19- SETTLEMENT OF DISPUTES
 1. GRIEVANCE AND ARBITRATION PROCEDURE
 Any grievance or dispute which may arise between the parties involving the application, meaning, or interpretation of the Agreement shall be settled in the following manner:
 STEP I: The Union Representative and the employee, at the employee’s option, may take up the grievance or dispute with the Operations Manager within fourteen (14) calendar days of the occurrence by submitting a written grievance. The written grievance shall identify the facts sufficient to explain the nature of the grievance, specific contract provision(s) allegedly violated, and requested remedy. The Operations Manager, the Union Representative, and the employee, at the employee’s option, shall meet at a mutually scheduled time to discuss and attempt to resolve the issue. If the issue remains unresolved, the Operations Manager shall respond to the employee and the Union Representative within fourteen (14) calendar days.
@@ -585,18 +585,18 @@ When the Director of Human Resources or their designee has denied a grievance an
 A single Steward shall be allowed to investigate and process grievances during working hours within reasonable limits without loss of pay.
 Any time limits specified in the grievance procedure may be waived by mutual consent of both parties.
 When an employee voluntarily separates from County employment, all pending grievances related to discipline filed on behalf of such employee shall be considered withdrawn with prejudice.
-ARTICLE 20- NON-DISCRIMINATION
+### ARTICLE 20- NON-DISCRIMINATION
 1. NON-DISCRIMINATION
 The provisions of this Agreement shall be applied equally to all employees in the bargaining unit without discrimination as to age, sex, sexual preference, marital status, race, color, creed, national origin, or political affiliation. The Union shall share equally with the County the responsibility for applying this provision of the Agreement. The Union shall not share any legal costs incurred by the County relating to the enforcement of this section.
 2. UNION MEMBERSHIP
 The County agrees not to interfere with the rights of employees to become members of the Union and there shall be no discrimination, interference, restraint, or coercion by the County or any County Representative against any employee because of any employee activity in an official capacity on behalf of the Union, or for any other cause, provided such activity or other cause does not interfere with the effectiveness and efficiency of County operations in serving and carrying out its responsibility to the public.
-ARTICLE 21- UNION BUSINESS
+### ARTICLE 21- UNION BUSINESS
 1. VISITS BY UNION REPRESENTATIVES
 The County agrees that an accredited representative of the Union, whether local Union representatives, District Council representatives, or International representatives, upon proper introduction, shall have reasonable access to the premises of the County.
 2. NEGOTIATING SESSIONS
 The Board of County Commissioners or its designee(s) shall meet at mutually convenient times with the Union negotiating committee.
 The Union negotiating committee shall consist of not more than three (3) employee members each, with each side selecting their own negotiating committee. No more than two (2) Union negotiating committee members shall be on scheduled shift duty during any meeting.
-ARTICLE 22 - GENERAL PROVISIONS
+### ARTICLE 22 - GENERAL PROVISIONS
 1. BULLETIN BOARDS
 The County agrees to furnish and maintain a suitable Union bulletin board to be used by the Union at the Emergency Operation Center Building, in an area commonly accessible to employees. Bulletin Board to be of reasonable dimensions, approximately 4' x 4'. The bulletin board shall be limited to Union Business Notices and Bulletins.
 2. EXISTING CONDITIONS
@@ -632,7 +632,7 @@ D. to request Association representation in matters concerning the meaning, appl
 4. In addition to collective bargaining matters, Union representatives are permitted to use County email system to communicate with bargaining-unit members regarding matters involving the governance or business of the Union.
 5. It is understood that there is no expectation of confidentiality or privacy concerning communications sent over the County email system, and that the County reserves the right to access and disclose all messages sent over the County email system for any purpose.
 6. The County email system will not be used for political purposes at any time, and this limitation shall override any of the permissible uses of the email system listed above. “Political purposes” shall include matters related to support or opposition to candidates or measures in any election (County elections, union candidate elections, or otherwise).
-ARTICLE 23 – COMMITTEES
+### ARTICLE 23 – COMMITTEES
 1. LABOR MANAGEMENT PARTNERSHIP
 The County and Union agree to establish a joint Labor-Management Committee as a mechanism for a dialogue between the parties to discuss issues mutually agreeable to the parties. It is further agreed that the parties may further create subcommittees as are deemed appropriate. The makeup for the main committee shall be the Director of C-COM and/or the Operations Manager and/or two Supervisors from Management (the total not to exceed three (3)) and the Council Representative and Local President and/or two Dispatchers from the Union (the total not to exceed three (3)). The makeup and number of members of any subcommittees will be determined by mutual agreement between the parties.
 A. The Committee shall meet as necessary to address any and all issues involving the parties during the term of this Agreement, but in no event less than once each quarter.
@@ -652,7 +652,7 @@ Decision makers are employees who facilitate the meeting or are decision makers 
 * Labor Management Committee
 * Dispatch Review Committee
 Labor-Management will meet at least annually to adjust committee priorities based on agency needs and available staffing. If mutual agreement is not made, the language above will be set minimum.
-ARTICLE 24 – DISASTER STAFFING
+### ARTICLE 24 – DISASTER STAFFING
 1. DISASTER STAFFING
 For the purposes of this article, “disaster” will be defined as any natural or manmade event that severely impacts the operations of C-COM. Disaster staffing will be differentiated from emergency staffing in that:
 A. Disasters are events that have expected operational impact beyond 24 hours;
@@ -682,11 +682,11 @@ If an employee’s primary residence falls into a Level 2 or Level 3 evacuation 
 If the County has granted employer-paid leave at any time during the emergency incident which resulted in the relocation, C-COM employees will be allowed up to ten (10) hours of administrative leave to reoccupy their homes or deal with the outcomes of the emergency event, even if the County use window has expired.
 7. PAUSE OF TIMELINES
 If C-COM has declared emergency conditions, under this Article, all investigatory, disciplinary and grievance processes would be temporarily paused until four (4) business days after C-COM has resumed to normal operational conditions.
-ARTICLE 25 - DRUG AND ALCOHOL POLICY
+### ARTICLE 25 - DRUG AND ALCOHOL POLICY
 The County and the Union adopt the County's Drug Free Workplace policy proclamation dated August 15, 1989.
-ARTICLE 26- SAVINGS CLAUSE
+### ARTICLE 26- SAVINGS CLAUSE
 Should any Article, Section or portion thereof of this Agreement be held unlawful and unenforceable by a court of competent jurisdiction, such decision of the court shall apply only to specific Article, Section or portion thereof, directly specified in the decisions; upon the issuance of such a decision, the parties agree immediately to negotiate a substitute, if possible, for the invalidated Article, Section or portion thereof.
-ARTICLE 27 – OVER/UNDER PAYMENTS
+### ARTICLE 27 – OVER/UNDER PAYMENTS
 Any employee receiving unauthorized payments has the obligation to call such error to the attention of his or her supervisor.
 A. Underpayments
 When an error occurs resulting in a negative impact on the employee, upon notification by the employee, in writing to the Payroll Supervisor, and verification by the payroll division, payment in correction of the error shall be made in the employee’s paycheck for the current pay period.
@@ -701,10 +701,10 @@ As soon as the overpayment is known, the County will make every effort to recove
 5. An employee who has a factual disagreement with the County’s determination that the overpayment has been made to the employee may grieve the determination through the grievance procedure.
 6. This Article/Section does not waive the County’s right to pursue other legal procedures and processes to recoup an overpayment made to former employees.
 D. Employees can elect to either establish a payment plan through payroll deductions as described under this Article (C)(4) or may elect to pay overpayment in one (1) lump sum. In the event the employee chooses to make a lump sum payment to the County, the County will adjust the amount owed for any tax paid, and will reduce the amount of employees’ wages for the year on the employee’s W2 form by the amount repaid.
-ARTICLE 28 - TERM OF AGREEMENT
+### ARTICLE 28 - TERM OF AGREEMENT
 This Agreement shall become effective upon full ratification by both parties and shall remain in full force and effect until the 30th day of June 2026, or the date of signing a subsequent Agreement, whichever last occurs. This Agreement shall be automatically renewed July 1, 2026, and each year thereafter unless either party shall notify the other in writing no later than January 1, 2026, that it desires to either terminate or modify this Agreement. In the event notice to modify is given, negotiations shall begin no later than March 1st. In the event that notification of termination is given, it shall become effective thirty (30) days after the date of notice is received.
 This Agreement may be amended at any time by mutual agreement of the Union and County; such amendments shall be in writing and signed by both parties.
-APPENDIX A - CERTIFICATE PAY REQUIREMENTS
+### APPENDIX A - CERTIFICATE PAY REQUIREMENTS
 Requirements for obtaining Intermediate and Advanced certification are the same as the DPSST Certification standards
 CATEGORY
 PORTFOLIO ITEM

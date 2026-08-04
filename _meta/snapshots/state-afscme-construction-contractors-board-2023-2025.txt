@@ -101,7 +101,7 @@ the American Federation of State, County and Municipal Employees, (hereinafter t
 other matters affecting members of the bargaining unit as certified by the Employment
 Relations Board.
 
-                                            ARTICLE 1 - RECOGNITION
+### ARTICLE 1 - RECOGNITION
 
 Section 1.
 The Employer and the Agency recognize the Union as the sole and exclusive bargaining
@@ -115,7 +115,7 @@ This Agreement binds the Union and any person designated by it to act on behalf 
 Union. Likewise, this Agreement binds the Employer and the Agency and any person
 designated by it to act on its behalf.
 
-                                      ARTICLE 2 - MANAGEMENT RIGHTS
+### ARTICLE 2 - MANAGEMENT RIGHTS
 
 The Parties agree that the Employer and the Agency have the right to operate and manage
 the Agency, including, but not limited to the right to maintain order and efficiency; to direct
@@ -129,7 +129,7 @@ employees; to require reasonable overtime work of employees; and to promulgate r
 regulations and personnel policies, provided that such rights shall not be exercised so as to
 violate any of the specific provisions of this Agreement.
 
-                                            ARTICLE 3 - UNION RIGHTS
+### ARTICLE 3 - UNION RIGHTS
 
 Section 1.
 The Union will select certain of its agents, who are not Agency employees as "Union
@@ -266,7 +266,7 @@ organization charts showing management positions and the positions they supervis
                                                                                                REV: 2015
 
 
-                       ARTICLE 4 - LAWS AND REGULATIONS AND SAVINGS
+### ARTICLE 4 - LAWS AND REGULATIONS AND SAVINGS
 
 Section 1.
 This Agreement is subject to all applicable existing and future laws of the State of Oregon
@@ -283,7 +283,7 @@ substitute for the portion or portions of the Agreement so affected and to bring
 conformance therewith not over sixty (60) days after notification unless extended by mutual
 agreement.
 
-                                        ARTICLE 5 - UNIT CLARIFICATION
+### ARTICLE 5 - UNIT CLARIFICATION
 
 Section 1.
 Any dispute concerning bargaining unit composition shall be resolved by the Employment
@@ -296,7 +296,7 @@ descriptions to the Union. Those positions questioned by the Union shall be disc
 the Employer within ten (10) days from the date of formal written notification.
 
 2023‐ 2025 Construction Contractors Board               7                Collective Bargaining Agreement
-   ARTICLE 6 - EQUAL EMPLOYMENT OPPORTUNITY AND AFFIRMATIVE ACTION
+### ARTICLE 6 - EQUAL EMPLOYMENT OPPORTUNITY AND AFFIRMATIVE ACTION
 
 Section 1.
 The provisions of this Agreement shall apply equally to all employees in the bargaining unit
@@ -333,13 +333,13 @@ harassment.
                                                                                                 REV: 2017
 
 
-                 ARTICLE 7 - AVAILABILITY OF THE PARTIES TO EACH OTHER
+### ARTICLE 7 - AVAILABILITY OF THE PARTIES TO EACH OTHER
 
 The Parties agree that the Employer and representatives of the Union are each obligated to
 meet at reasonable times, at the request of the other Party, to discuss the interpretation and
 application of the Collective Bargaining Agreement and other workplace concerns.
 
-                                            ARTICLE 8 - UNION SECURITY
+### ARTICLE 8 - UNION SECURITY
 
 Section 1. Dues Deduction.
 a.    The Employer agrees to deduct the monthly fees from the pay of those employees
@@ -369,7 +369,7 @@ shall be billed to the Local Union making the request.
                                                                                                 REV: 2019
 
 
-                       ARTICLE 9 - COMPLETE AGREEMENT/PAST PRACTICE
+### ARTICLE 9 - COMPLETE AGREEMENT/PAST PRACTICE
 
 Section 1.
 This Agreement incorporates the sole and complete agreement between the Parties
@@ -442,7 +442,7 @@ Time limits specified in this procedure must be observed, unless either party re
 specific extension of time which, if agreed to, must be stipulated in writing and shall become
 part of the record.
 
-                              ARTICLE 10 - AGENCY PERSONNEL POLICIES
+### ARTICLE 10 - AGENCY PERSONNEL POLICIES
 
 Upon request, the Agency shall provide a copy of its written personnel policies to the Union.
 When a change of a policy occurs, a copy will be sent to the Union, and a copy will be
@@ -451,7 +451,7 @@ posted.
 
 
 2023‐ 2025 Construction Contractors Board           10                    Collective Bargaining Agreement
-                                ARTICLE 11 - DISCIPLINE AND DISCHARGE
+### ARTICLE 11 - DISCIPLINE AND DISCHARGE
 
 Section 1.
 The principles of progressive discipline shall be used. An employee may only be given a
@@ -520,7 +520,7 @@ demotion, predismissal, and dismissal to the Union on the same day it notifies t
                                                                                                  REV: 2015
 
 
-                                   ARTICLE 12 - GRIEVANCE PROCEDURE
+### ARTICLE 12 - GRIEVANCE PROCEDURE
 
 Section 1.
 A grievance is a dispute which arises concerning the application, meaning or interpretation
@@ -681,7 +681,7 @@ j.        The arbitration award shall not establish a precedent for any current 
                                                                                     REV: 2015, 2019, 2021
 
 
-                                            ARTICLE 13 – UNION STEWARDS
+### ARTICLE 13 – UNION STEWARDS
 
 Section 1.
 The Agency shall recognize one (1) Union Stewards per twenty (20) represented employees
@@ -717,7 +717,7 @@ Training Session.
                                                                                              REV: 2015
 
 
-                                     ARTICLE 14 - PERSONNEL RECORDS
+### ARTICLE 14 - PERSONNEL RECORDS
 
 Section 1.
 The Chief Human Resources Office human resource information system is the system of
@@ -807,7 +807,7 @@ subject employee.
 
 
 2023‐ 2025 Construction Contractors Board        17                    Collective Bargaining Agreement
-                                     ARTICLE 15 - FILLING OF VACANCIES
+### ARTICLE 15 - FILLING OF VACANCIES
 
 Section 1.
 The Agency desires to fill bargaining unit vacancies with the best suited applicants available.
@@ -877,7 +877,7 @@ The provisions of Senate Bill 822 do not apply to grievance settlements, court m
 Agency recall from layoff and injured worker returns to employment. Secondary recall lists
 are applicable to the provisions of Senate Bill 822.
 
-                                            ARTICLE 16 - TRIAL SERVICE
+### ARTICLE 16 - TRIAL SERVICE
 
 Section 1.
 All employees hired, appointed, promoted, or re-employed to a position shall serve a trial
@@ -928,7 +928,7 @@ d.    This subsection applies to employees beginning their promotional trial ser
                                                                                         REV: 2017,2023
 
 
-               ARTICLE 17 - CLASSIFICATION AND CLASSIFICATION CHANGES
+### ARTICLE 17 - CLASSIFICATION AND CLASSIFICATION CHANGES
 
 Section 1. Work Out of Classification.
 a.    When an employee is assigned, in writing, by the Agency for a limited time period to
@@ -1100,7 +1100,7 @@ This Section supersedes any provisions contained in the Agencies grievance proce
                                                                                            REV: 2015,2023
 
 
-                                            ARTICLE 18 - LAYOFF
+### ARTICLE 18 - LAYOFF
 
 Section 1. Alternate to Layoff.
 a.   When the Agency believes that a lack of funds requires a layoff, the Agency will notify
@@ -1317,7 +1317,7 @@ contained in the PECBA.
 
 
 2023‐ 2025 Construction Contractors Board              27                     Collective Bargaining Agreement
-                                ARTICLE 19 - PAYDAY AND PAY ADVANCES
+### ARTICLE 19 - PAYDAY AND PAY ADVANCES
 
 Section 1.
 All employees shall normally be paid no later than the first of the month. When a payday
@@ -1340,7 +1340,7 @@ at least one hundred dollars ($100). Employees will submit requests to the Agenc
 office by the twentieth (20th) of the month. If any employee requests more than one pay
 advance in any twelve (12)-month period, management has the right to deny it.
 
-                                       ARTICLE 20 - HEALTH AND SAFETY
+### ARTICLE 20 - HEALTH AND SAFETY
 
 Section 1.
 a.    The Agency will agree to provide and maintain safe working conditions. The Union
@@ -1410,7 +1410,7 @@ g.        No employee shall be subject to retaliation for reporting or filing a 
                                                                                             REV: 2017,2023
 
 
-                                  ARTICLE 21 - EDUCATION AND TRAINING
+### ARTICLE 21 - EDUCATION AND TRAINING
 
 Section 1.
 The Agency will determine training needs, programs, procedures and the selection of
@@ -1424,7 +1424,7 @@ when the Agency directs employees to attend training. Employees may request trai
 educational opportunities will be posted on the employee bulletin board or placed in the
 appropriate box in the library.
 
-                                            ARTICLE 22 - HOURS OF WORK
+### ARTICLE 22 - HOURS OF WORK
 
 Section 1.
  a.   The normal full-time workweek shall consist of forty (40) hours within the designated
@@ -1486,7 +1486,7 @@ weekly schedule without daily overtime or schedule change penalty. Where such sc
 modification still results in the need for additional work hours, the employee shall be paid
 the appropriate rate of pay for all time worked over forty (40) hours in that workweek.
 
-         ARTICLE 23 – INCLEMENT WEATHER/HAZARDOUS CONDITIONS LEAVE
+### ARTICLE 23 – INCLEMENT WEATHER/HAZARDOUS CONDITIONS LEAVE
 
 Section 1.
 a.    The Employer/Agency designated official(s) may close or curtail offices, facilities, or
@@ -1627,7 +1627,7 @@ calendar days, the Parties will meet and discuss impacts of the inclement weathe
 hazardous conditions.
                                                                                  REV: 2017, 2021,2023
 
-                                            ARTICLE 24 - HOLIDAYS
+### ARTICLE 24 - HOLIDAYS
 
 Section 1.
 The following compensable holidays shall be recognized:
@@ -1680,7 +1680,7 @@ time and granted on a basis which shall preclude the closure of state facilities
                                                                                           REV: 2015, 2021,2023
 
 
-                                            ARTICLE 25 - VACATION LEAVE
+### ARTICLE 25 - VACATION LEAVE
 
 Section 1. Vacation Leave for Full-time Employees.
 Full-time classified employees shall accrue vacation leave in accordance with the schedule
@@ -1811,7 +1811,7 @@ is not appropriate.
                                                                          REV: 2017, 2019, 2021,2023
 
 
-                                            ARTICLE 26 - SICK LEAVE
+### ARTICLE 26 - SICK LEAVE
 
 Section 1. Accrual Rate of Sick Leave With Pay Credits.
 Employees shall accrue eight (8) hours of sick leave with pay credits for each full month
@@ -1897,7 +1897,7 @@ approved by the Personnel Coordinator and the employee is on leave without pay s
 that status will continue for the duration of the leave. Such employees are not eligible to
 receive hardship leave donations.
 
-                                            ARTICLE 27 - OTHER LEAVE
+### ARTICLE 27 - OTHER LEAVE
 
 Section 1. Personal Leave.
 Full-time employees shall be entitled to twenty-four (24) hours of personal leave each fiscal
@@ -2034,14 +2034,14 @@ qualify per the above list.
                                                                                    REV: 2015, 2019, 2021
 
 
-                                   ARTICLE 28 - POSITION DESCRIPTIONS
+### ARTICLE 28 - POSITION DESCRIPTIONS
 
 Position descriptions shall be reduced to writing and delineate the specific duties assigned
 to an employee's position. A dated copy of the position description shall be given to the
 employee upon assuming the position and at such time as the position description is
 amended.
 
-                                   ARTICLE 29 - SALARY ADMINISTRATION
+### ARTICLE 29 - SALARY ADMINISTRATION
 
 Section 1. Step Salary Increase.
 Salary eligibility date is defined as the date an employee is eligible for an annual
@@ -2113,7 +2113,7 @@ such employee was being paid at the time of layoff.
                                                                                                REV: 2015
 
 
-                                            ARTICLE 30 - OVERTIME
+### ARTICLE 30 - OVERTIME
 
 Section 1.
 Employees (covered under FLSA) shall be compensated at the rate of time and one-half
@@ -2155,7 +2155,7 @@ b.    Professional employees with accrued compensatory time shall utilize such t
       Agency.
                                                                                                 REV: 2015
 
-                                       ARTICLE 31 - HEALTH & WELFARE
+### ARTICLE 31 - HEALTH & WELFARE
 
 Section 1.
 An Employer contribution will be made for each eligible employee who has at least eighty
@@ -2218,7 +2218,7 @@ See LOAs: PMAC
                                                                                   REV: 2015, 2017, 2021,2023
 
 
-                                  ARTICLE 32 - WORKERS COMPENSATION
+### ARTICLE 32 - WORKERS COMPENSATION
 
 Section 1.
 An employee who sustained a compensable injury shall be reinstated to their former
@@ -2244,7 +2244,7 @@ regular salary rate. In such instances, prorated charges will be made against ac
 vacation and/or compensatory time. No employee shall be required to utilize leave while
 receiving time loss benefits.
 
-    ARTICLE 33 - TRAVEL, MILEAGE AND MOVING EXPENSE REIMBURSEMENTS
+### ARTICLE 33 - TRAVEL, MILEAGE AND MOVING EXPENSE REIMBURSEMENTS
 
 Section 1. Travel and Mileage Allowance.
 Reimbursements and procedures will be in accordance with Oregon Accounting Manual,
@@ -2257,7 +2257,7 @@ Administrative Services, Chief Human Resource Office Policy 40.055.10, and its
 successors. Changes in this policy will be automatically incorporated into this contract
 Article.
 
-     ARTICLE 34 - RECOUPMENT OF WAGE AND BENEFIT OVERPAYMENTS AND
+### ARTICLE 34 - RECOUPMENT OF WAGE AND BENEFIT OVERPAYMENTS AND
                              UNDERPAYMENTS
 
 Section 1. Overpayments.
@@ -2308,13 +2308,13 @@ b.    This provision shall not apply to claims disputing eligibility for payment
       out of classification pay or reclassification must pursue those claims pursuant to the
       timelines elsewhere in this Agreement.
                                                                                                REV: 2023
-                                            ARTICLE 35 - PARKING
+### ARTICLE 35 - PARKING
 
 If there are any proposed changes in parking rates for employees at any State owned or
 operated parking facility, the Agency agrees to notify the staff of such proposals when the
 proposals are made known to the Agency.
 
-                                            ARTICLE 36 - SALARIES
+### ARTICLE 36 - SALARIES
 
 Section 1. PERS Pickup
 Effective February 1, 2019 compensation plan salary rates for PERS participating members
@@ -2366,7 +2366,7 @@ See LOA: Salary and Benefit Report, Salary Range Truncation, One-Time Payment CO
                                                                        REV: 2015, 2017, 2019, 2021,2023
 
 
-                       ARTICLE 37 - STRIKES, LOCKOUTS AND PICKET LINES
+### ARTICLE 37 - STRIKES, LOCKOUTS AND PICKET LINES
 
 The Union agrees that during the life of this Agreement, the Union or its bargaining unit
 members will not authorize, instigate, aid or engage in any work stoppage, slowdown,
@@ -2375,7 +2375,7 @@ or on its property.
 
 The Agency agrees that during the life of this Agreement there will be no lockout.
 
-                                        ARTICLE 38 – CONTRACTING OUT
+### ARTICLE 38 – CONTRACTING OUT
 
 Section 1.
 The Union recognizes that the Employer has the management right, during the term of this
@@ -2471,7 +2471,7 @@ and efficient way to accomplish the work in the future for Agency initiated cont
 Decisions around reviewing of contracted work are not subject to the grievance procedure.
 (See LOA: Feasibility Study)
 
-                                       ARTICLE 39 - LEGISLATIVE ACTION
+### ARTICLE 39 - LEGISLATIVE ACTION
 
 Section 1.
 Provisions of this Agreement not requiring legislative funding, or statutory changes, before
@@ -2491,7 +2491,7 @@ submitted to them under the preceding Sections, then the Employer and Union shal
 portion or portions of this Agreement pursuant to the procedures provided by Article 4
 (Savings).
 
-                                  ARTICLE 40 - LEADWORK DIFFERENTIAL
+### ARTICLE 40 - LEADWORK DIFFERENTIAL
 
 Section 1.
 Leadwork Differential shall be defined as a differential as indicated in Section 4 below for
@@ -2519,7 +2519,7 @@ of pay.
                                                                                              REV: 2015
 
 
-                                            ARTICLE 41 - VEHICLES
+### ARTICLE 41 - VEHICLES
 
 Agency vehicles will be parked nightly on State facilities except when:
 a.   An employee is not able to return the State vehicle to its official garage because of a
@@ -2532,7 +2532,7 @@ c.   A garaging exemption has been authorized:
      2.      In other circumstances where home garaging will clearly reduce the Agency's
              direct cost. (For example, theft, vandalism, etc.).
 
-                                    ARTICLE 42 - QUARTERLY CHECK-INS
+### ARTICLE 42 - QUARTERLY CHECK-INS
 
 Supervisory managers shall conduct check-ins with their employees on a quarterly basis. If
 a quarterly check-in does not occur, the employee may request a check-in for the missed
@@ -2546,7 +2546,7 @@ cannot be used for discipline.
                                                                                             REV: 2021,2023
 
 
-                                      ARTICLE 43 - TERM OF AGREEMENT
+### ARTICLE 43 - TERM OF AGREEMENT
 
 Section 1.
 Unless otherwise noted in a specific article in the Agreement, this Agreement becomes
@@ -2563,7 +2563,7 @@ for a successor agreement will start between February 15, 2025 and March 15, 202
                                                                           REV: 2015, 2017, 2019, 2021,2023
 
 
-                                            ARTICLE 44 - HARDSHIP LEAVE
+### ARTICLE 44 - HARDSHIP LEAVE
 
 Section 1. Hardship Leave Donation
 a.    The Agency shall allow employees to voluntarily transfer vacation leave or
@@ -2606,7 +2606,7 @@ sources and/or other legitimate business reasons.
                                                                                               REV: 2015
 
 
-       ARTICLE 45 - IMPLEMENTATION OF NEW CLASSES—APPEALS PROCESS
+### ARTICLE 45 - IMPLEMENTATION OF NEW CLASSES—APPEALS PROCESS
 
 The appeals process is designed to allocate employees into new classes. Employees in
 positions allocated to a new classification, who dispute their placement within the new class,
@@ -2672,7 +2672,7 @@ e.        Where a position is vacated after the filing of the initial appeal, th
           indicates that no change in duties is anticipated prior to refilling the position.
 f.        This process terminates upon completion of the allocation process.
 
-                                   ARTICLE 46 - BILINGUAL DIFFERENTIAL
+### ARTICLE 46 - BILINGUAL DIFFERENTIAL
 
 When formally assigned in the employee’s position description, an employee assigned to
 interpret to or from another language (including American Sign Language) to English will
@@ -2680,7 +2680,7 @@ receive a differential of five percent (5%) of base pay.
                                                                                                   REV: 2015
 
 
-                                   ARTICLE 48 – COMPLAINT PROCEDURE
+### ARTICLE 48 – COMPLAINT PROCEDURE
 
 In the event the Employer receives a complaint that is non-criminal in nature and determines
 a formal investigation is necessary, the Employer will notify the employee of the
@@ -2689,7 +2689,7 @@ notice shall include the general nature of the complaint. Before the investigati
 completed, the employee will be given the opportunity to provide information the employee
 deems relevant.
 
-                          ARTICLE 49 - VOLUNTARY MEDICAL SEPARATION
+### ARTICLE 49 - VOLUNTARY MEDICAL SEPARATION
 
 Section 1.
        A regular status employee with a serious health condition who has exhausted all of
@@ -2727,7 +2727,7 @@ following conditions are met:
                                                                                                 NEW: 2019
 
 
-                                            ARTICLE 50 – EXIT INTERVIEWS
+### ARTICLE 50 – EXIT INTERVIEWS
 
 a.        If a regular status employee provides timely notice that they are voluntarily separating
           from Agency service, the Agency will offer an exit interview that focuses on the
@@ -2740,7 +2740,7 @@ c.        Upon request, but no more than two (2) times a year, the Union can rec
                                                                                                 NEW: 2019
 
 
-                                      ARTICLE 51 – WORKING REMOTELY
+### ARTICLE 51 – WORKING REMOTELY
 
 Section 1.
 Oregon state government encourages working remotely where it is a viable option that
@@ -2886,7 +2886,7 @@ These provisions are applicable to all Sections listed above.
                                                                                           NEW: 2021,REV: 2023
 
 
-                                            ARTICLE 52 – AIR QUALITY
+### ARTICLE 52 – AIR QUALITY
 
 Section 1.
 The Air Quality Index (AQI) was developed by the US Environmental Protection Agency as an
@@ -2912,7 +2912,7 @@ Weather/Hazardous Conditions apply for elevated AQI which falls under a Hazardou
                                                                                              NEW: 2021
 
 
-                                       ARTICLE 53 - PAID LEAVE OREGON
+### ARTICLE 53 - PAID LEAVE OREGON
 
 Paid Leave Oregon is administered by the Oregon Employment Department. The State of
 Oregon, as an employer, shall comply with the provisions of Paid Leave Oregon, as provided
@@ -2933,7 +2933,7 @@ language relating to FMLA/OFLA.
 
 
 2023‐ 2025 Construction Contractors Board              59               Collective Bargaining Agreement
-  LETTER OF AGREEMENT – ARTICLE 31, PEBB MEMBER ADVISORY COMMITTEE
+### LETTER OF AGREEMENT – ARTICLE 31, PEBB MEMBER ADVISORY COMMITTEE
 
 This agreement is between the State of Oregon, acting through its Department of
 Administrative Services (Employer) and AFSCME Council 75 (Union).
@@ -2972,7 +2972,7 @@ This Agreement will sunset on June 30, 2025.
 
 
 2023‐ 2025 Construction Contractors Board       60                   Collective Bargaining Agreement
-        LETTER OF AGREEMENT – ARTICLE 36 - SALARY AND BENEFIT REPORT
+### LETTER OF AGREEMENT – ARTICLE 36 - SALARY AND BENEFIT REPORT
 
 This Agreement is between the State of Oregon, acting through its Department of
 Administrative Services (DAS) and the AFSCME Local 75, (Union).
@@ -2992,7 +2992,7 @@ agreement.
 
 
 2023‐ 2025 Construction Contractors Board      61                   Collective Bargaining Agreement
-         LETTER OF AGREEMENT – ARTICLE 36 - SALARY RANGE TRUNCATION
+### LETTER OF AGREEMENT – ARTICLE 36 - SALARY RANGE TRUNCATION
 
 This Agreement is entered into between the State of Oregon, acting through its Department
 of Administrative Services (DAS), on behalf of the Agencies covered by this Agreement
@@ -3137,7 +3137,7 @@ of Administrative Services (DAS), on behalf of the Agencies covered by this Agre
 
 
 2023‐ 2025 Construction Contractors Board            64                      Collective Bargaining Agreement
-           LETTER OF AGREEMENT – ARTICLE 36 – ONE-TIME PAYMENT COLA
+### LETTER OF AGREEMENT – ARTICLE 36 – ONE-TIME PAYMENT COLA
 
 This Agreement is entered into between the State of Oregon, acting through its Department
 of Administrative Services (DAS), and the AFSCME Local 75 (Union).
@@ -3158,7 +3158,7 @@ This Letter of Agreement will sunset on June 30, 2025.
 
 
 2023‐ 2025 Construction Contractors Board          65                     Collective Bargaining Agreement
-                                   LETTER OF AGREEMENT – E-MAIL USE
+### LETTER OF AGREEMENT – E-MAIL USE
 
 This Agreement is made and entered into by the State of Oregon (Employer) acting by and
 through its Department of Administrative Services on behalf of the Construction Contractors
@@ -3224,7 +3224,7 @@ This letter of agreement shall expire on June 30, 2025.
 
 
 2023‐ 2025 Construction Contractors Board            67                    Collective Bargaining Agreement
-           LETTER OF AGREEMENT – NEW EMPLOYEE NOTICE/UNION ACCESS
+### LETTER OF AGREEMENT – NEW EMPLOYEE NOTICE/UNION ACCESS
 
      1. Notice
            a. The Employer shall provide the Union, in an editable digital file format, the
@@ -3265,7 +3265,7 @@ This letter of agreement shall expire on June 30, 2025.
 
 
 2023‐ 2025 Construction Contractors Board        68                    Collective Bargaining Agreement
-                         LETTER OF AGREEMENT – CONTRACT SPECIALIST
+### LETTER OF AGREEMENT – CONTRACT SPECIALIST
 
 This Agreement is between the State of Oregon, acting through its Department of
 Administrative Services (Employer) on behalf of all Agencies covered under the jurisdiction
@@ -3375,7 +3375,7 @@ This Agreement becomes effective on the date of the last signature and ends on J
 
 
 2023‐ 2025 Construction Contractors Board    71                   Collective Bargaining Agreement
-  LETTER OF AGREEMENT – OREGON UNIONS STATE WORKER TRAINING FUND
+### LETTER OF AGREEMENT – OREGON UNIONS STATE WORKER TRAINING FUND
 
 The Parties recognize that both the State and its workers benefit from workers
 understanding their different health care options, understanding their retirement benefits and
@@ -3415,7 +3415,7 @@ The State Worker Training Fund will develop a plan to deliver trainings and prog
     After a program is developed for the first three (3) stated goals, the Board of Trustees
       will discuss other programs that potentially meet goals identified by the State and the
       Unions.
-            LETTER OF AGREEMENT – ESSENTIAL WORKER INCLEMENT
+### LETTER OF AGREEMENT – ESSENTIAL WORKER INCLEMENT
                       WEATHER/HAZARDOUS CONDITIONS PAY
 
 This Agreement is between the State of Oregon, acting through its Department of
@@ -3446,7 +3446,7 @@ Worker Inclement Weather/Hazardous Conditions Pay.
 
 
 2023‐ 2025 Construction Contractors Board        73                    Collective Bargaining Agreement
-                      LETTER OF AGREEMENT – NATURAL DISASTER LEAVE
+### LETTER OF AGREEMENT – NATURAL DISASTER LEAVE
 
 This Agreement is between the State of Oregon, acting through its Department of
 Administrative Services (Employer) and AFSCME Council 75 (Union).
@@ -3477,7 +3477,7 @@ agreement.
 
 
 2023‐ 2025 Construction Contractors Board           74                    Collective Bargaining Agreement
-      LETTER OF AGREEMENT – STATE POLICY 50.050.01 WORKING REMOTELY
+### LETTER OF AGREEMENT – STATE POLICY 50.050.01 WORKING REMOTELY
                                 UPDATES
 
 This Letter of Agreement is between the State of Oregon, acting through its Department of
@@ -3495,7 +3495,7 @@ This Agreement becomes effective on the date of the last signature below and end
 
 
 2023‐ 2025 Construction Contractors Board      75                    Collective Bargaining Agreement
-       LETTER OF AGREEMENT – CHILDCARE AND ELDERCARE EXPLORATORY
+### LETTER OF AGREEMENT – CHILDCARE AND ELDERCARE EXPLORATORY
                                 COMMITTEE
 
 This Agreement is between the State of Oregon, acting through its Department of
@@ -3527,7 +3527,7 @@ contract. The committee will complete their work by January 31, 2025.
 
 
 2023‐ 2025 Construction Contractors Board       76                    Collective Bargaining Agreement
-                                   LETTER OF AGREEMENT – PAY EQUITY
+### LETTER OF AGREEMENT – PAY EQUITY
 
 This Agreement is entered into by the State of Oregon, acting through its Department of
 Administrative Services, Labor Relations Unit (Employer), on behalf of the Agencies covered
@@ -3641,7 +3641,7 @@ The Parties agree to the following:
 
 
 2023‐ 2025 Construction Contractors Board    79                   Collective Bargaining Agreement
-               LETTER OF AGREEMENT—BI-WEEKLY PAY PERIOD/WORKDAY
+### LETTER OF AGREEMENT—BI-WEEKLY PAY PERIOD/WORKDAY
 
 This Letter of Agreement is between the State of Oregon, acting through its Department of
 Administrative Services (Employer), and the AFSCME Local 75 (Union).
@@ -3737,7 +3737,7 @@ Both parties retain their rights under PECBA.
 
 
 2023‐ 2025 Construction Contractors Board                81                    Collective Bargaining Agreement
-                  APPENDIX A - CLASS NUMBER, TITLE AND SALARY RANGE
+### APPENDIX A - CLASS NUMBER, TITLE AND SALARY RANGE
 
 
                                     CLASS TITLE                                 SR
@@ -3784,7 +3784,7 @@ Both parties retain their rights under PECBA.
 
 
 2023‐ 2025 Construction Contractors Board                            82              Collective Bargaining Agreement
-                                       APPENDIX B – SALARY SCHEDULE
+### APPENDIX B – SALARY SCHEDULE
 
 
                                                 SALARY SCHEDULE AS OF JULY 1, 2023

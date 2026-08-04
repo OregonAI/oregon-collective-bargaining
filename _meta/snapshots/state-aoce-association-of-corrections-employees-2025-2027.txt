@@ -90,7 +90,7 @@ SIGNATURE PAGE .................................................................
 
 
 2025 – 2027 Association of Oregon Correct ions Employees                     3                                             Collective Bargaining Agreement
-                                           ARTICLE 1 - SCOPE OF AGREEMENT
+### ARTICLE 1 - SCOPE OF AGREEMENT
 
 Section 1.
        This Agreement is made and entered into by and between the State of Oregon (hereinafter the
@@ -186,7 +186,7 @@ B.        When reasonably possible, emergency suspensions of above described con
           scheduled staff which occur from time to time; or, to cover holding over staff on shift during periods
           of minor crisis, which are of local impact in a work unit.
 
-                                            ARTICLE 2 - TERM OF AGREEMENT
+### ARTICLE 2 - TERM OF AGREEMENT
 
 Section 1.
        This Agreement, and attachments hereto, unless otherwise provided for herein, shall be in full force
@@ -213,7 +213,7 @@ before January 1, 2027.
                                                                                         REV: 2017, 2019, 2021, 2023,2025
 
 
-                                           ARTICLE 3 - MANAGEMENT RIGHTS
+### ARTICLE 3 - MANAGEMENT RIGHTS
 
         The Association agrees that the Employer retains all inherent rights of management and hereby
 recognizes the sole and exclusive right of the State of Oregon, as the Employer, to operate and manage its
@@ -229,7 +229,7 @@ circumscribed by the terms of this Agreement. The retention of these rights does
 from filing a grievance, pursuant to Article 44, Grievance and Arbitration Procedure, or seeking a review
 of the exercise of these rights, when it is alleged such exercise violates provisions of this agreement.
 
-                                          ARTICLE 4 - ASSOCIATION SECURITY
+### ARTICLE 4 - ASSOCIATION SECURITY
 
 Section 1. New Employees.
         The Employer agrees to inform all new employees hired into positions included in the bargaining
@@ -432,7 +432,7 @@ to the Association.
                                                                                                           REV: 2017,2019
 
 
-                            ARTICLE 5 - ASSOCIATION/MANAGEMENT MEETINGS
+### ARTICLE 5 - ASSOCIATION/MANAGEMENT MEETINGS
 
 Section 1. Purpose.
        The purpose of this Article is to promote harmonious relations between the parties.
@@ -454,11 +454,11 @@ agreement of any sort unless reduced to writing and subsequently signed by autho
 Contractual type negotiations, attempts to resolve individual grievances, or similar matters must be handled
 in the manner provided within the Contract and will not be proper subject matter for such meeting.
 
-                                             ARTICLE 6 - EMPLOYEE PARKING
+### ARTICLE 6 - EMPLOYEE PARKING
 
           Management shall maintain, without charge, parking facilities at all Institutions.
 
-                                    ARTICLE 7 - SEPARABILITY OF PROVISIONS
+### ARTICLE 7 - SEPARABILITY OF PROVISIONS
 
         If any provision of this Agreement shall be found to be invalid by any court having jurisdiction in
 respect, thereof, such findings as to such provision shall not affect the remainder of this Agreement, and all
@@ -466,7 +466,7 @@ other terms and provisions hereof shall continue in full force and effect as set
 either party, negotiations will commence for the purpose of arriving at a mutually satisfactory replacement
 for such term or provision.
 
-                                               ARTICLE 8 - FIRE ASSIGNMENT
+### ARTICLE 8 - FIRE ASSIGNMENT
 Section 1.
        Each year, the Agency will notify employees of the opportunity to volunteer for firefighting, fire
 camp support and other fire related activities in advance and in writing. The method of selecting employees
@@ -683,7 +683,7 @@ may not be redeployed to any fire for seven (7) calendar days.
                                                                                             NEW: 2019, 2021, 2023,2025
 
 
-                                              ARTICLE 9 - CONTRACTING OUT
+### ARTICLE 9 - CONTRACTING OUT
 
 Section 1.
        The Agency may determine to contract or subcontract work provided that as to work which is
@@ -697,7 +697,7 @@ Section 2.
 bargaining unit member not to exceed two (2) weeks, such personnel may be replaced with non-bargaining
 unit employees, with notice to the Association prior to the assignment.
 
-                                             ARTICLE 10 - SALARY AND WAGES
+### ARTICLE 10 - SALARY AND WAGES
 
 Section 1.
 A.     Effective February 1, 2026 increase all pay rates by two and one-half percent (2.5%).
@@ -742,7 +742,7 @@ B.        By this adjustment, the DPSST certification differential in Article 13
                                                                                        REV: 2017, 2019, 2021,2023,2025
 
 
-                                       ARTICLE 11 - SALARY ADMINISTRATION
+### ARTICLE 11 - SALARY ADMINISTRATION
 
 Section 1.
         Prior to making a job offer, an agency appointing authority or management designee will conduct an
@@ -952,7 +952,7 @@ C.        This Section shall not apply to claims disputing eligibility for payme
 
 
 2025 – 2027 Association of Oregon Correct ions Employees   22                             Collective Bargaining Agreement
-                                                     ARTICLE 12 - OVERTIME
+### ARTICLE 12 - OVERTIME
 
 Section 1.
        All time for which an employee is compensated at the regular straight time rate of pay, except
@@ -1267,7 +1267,7 @@ B.        If the Agency is not able to find a volunteer to work an overtime assi
                                                                                             REV: 2017, 2019, 2021,2023,2025
 
 
-                                                 ARTICLE 13 - DIFFERENTIALS
+### ARTICLE 13 - DIFFERENTIALS
 
 Section 1. Shift Differentials.
 A.     Upon bargaining unit ratification, shift differential shall apply to all bargaining unit members, except
@@ -1457,7 +1457,7 @@ first will receive an additional differential of two and five tenths percent (2.
                                                                                        REV: 2017, 2019, 2021,2023,2025
 
 
-                                 ARTICLE 14 - CALL BACK AND REPORTING PAY
+### ARTICLE 14 - CALL BACK AND REPORTING PAY
 
 Section 1. Call Back.
 A.     An employee who is called back to work outside their regular shift will receive overtime
@@ -1478,7 +1478,7 @@ Section 2. Reporting Pay.
        An employee who is scheduled for work and reports to work and there is not work available for the
 employee, may be excused from duty, but shall be paid at their regular rate for the shift of work scheduled.
 
-                                              ARTICLE 15 - ON-CALL/STANDBY
+### ARTICLE 15 - ON-CALL/STANDBY
 
 Section 1. On-Call.
 A.     Corrections Professionals. Employees shall be paid one (1) hour of pay at the regular straight time
@@ -1524,7 +1524,7 @@ Section 5.
                                                                                                            REV: 2019
 
 
-                     ARTICLE 16 - WORK OUT OF CLASSIFICATION/JOB ROTATION
+### ARTICLE 16 - WORK OUT OF CLASSIFICATION/JOB ROTATION
 
 Section 1.
         Except for employees assigned as variable relief pursuant to Article 13, Section 4, when an employee
@@ -1589,7 +1589,7 @@ Section 4.
                                                                                             REV: 2019, 2021,2023,2025
 
 
-                                      ARTICLE 17 - LEAD WORK DIFFERENTIAL
+### ARTICLE 17 - LEAD WORK DIFFERENTIAL
 
 Section 1.
         Lead work differential shall be defined as a differential for employees who have been formally
@@ -1635,14 +1635,14 @@ Manager.
                                                                                                            REV: 2019
 
 
-                         ARTICLE 18 - PER DIEM/MILEAGE/MOVING ALLOWANCE
+### ARTICLE 18 - PER DIEM/MILEAGE/MOVING ALLOWANCE
 
       All bargaining unit employees will be reimbursed for per diem and mileage as set forth in the
 Department of Administrative Services Policy Number 40.10.00.PO and moving expenses as set forth in
 the Department of Administrative Services Policy Number 40.055.10. The rates referred therein shall
 change as the policy changes during the life of the Agreement for members of the Association.
 
-                                                     ARTICLE 19 - INSURANCE
+### ARTICLE 19 - INSURANCE
 
 Section 1.
        An Employer contribution will be made for each eligible employee who has at least eighty (80) paid
@@ -1713,7 +1713,7 @@ process.
 
 
 2025 – 2027 Association of Oregon Correct ions Employees   39                          Collective Bargaining Agreement
-                                                     ARTICLE 20 - HOLIDAYS
+### ARTICLE 20 - HOLIDAYS
 
 Section 1.
        The following holidays will be recognized and paid for at the regular straight time rate of pay and
@@ -1770,7 +1770,7 @@ Section 5.
                                                                                                  REV: 2021,2023,2025
 
 
-                                               ARTICLE 21 - VACATION LEAVE
+### ARTICLE 21 - VACATION LEAVE
 
 Section 1.
 A.     Vacation leave shall be accrued on the appropriate schedule below. Employees who are new to state
@@ -1981,7 +1981,7 @@ Section 14.
 
 
 2025 – 2027 Association of Oregon Correct ions Employees   45                            Collective Bargaining Agreement
-                                           ARTICLE 22 - SICK LEAVE WITH PAY
+### ARTICLE 22 - SICK LEAVE WITH PAY
 
 Section 1.
        Employees shall accrue eight (8) hours of sick leave for each full month worked. Employees
@@ -2210,7 +2210,7 @@ J.        Paid Leave Oregon:
                                                                                       REV: 2017, 2019, 2021,2023,2025
 
 
-                                       ARTICLE 23 - SICK LEAVE WITHOUT PAY
+### ARTICLE 23 - SICK LEAVE WITHOUT PAY
 
 Section 1.
 A.     After earned sick leave has been exhausted, the appointing authority shall grant sick leave without
@@ -2248,7 +2248,7 @@ counseling. Abuse of sick leave without pay may be subject to disciplinary actio
 
 
 2025 – 2027 Association of Oregon Correct ions Employees   51                         Collective Bargaining Agreement
-                                        ARTICLE 24 - INCLEMENT CONDITIONS
+### ARTICLE 24 - INCLEMENT CONDITIONS
                                           (Excludes Correctional Officer Series)
 
 Section 1.
@@ -2271,7 +2271,7 @@ of work, they shall be assigned work and paid for the full shift of work.
                                                                                                             REV: 2025
 
 
-                                              ARTICLE 25 - LEAVES WITH PAY
+### ARTICLE 25 - LEAVES WITH PAY
 
 Section 1. Service with a jury.
         The employee, upon request from the Employer, will pay any money paid by the court for serving
@@ -2316,7 +2316,7 @@ Section 6. Job Interview Leave.
        Leave with pay for job interviewing and testing for employment opportunities in state government
 may be granted by the supervisor, who will also determine the amount of time that is appropriate.
 
-                                ARTICLE 26 - LEAVE OF ABSENCE WITHOUT PAY
+### ARTICLE 26 - LEAVE OF ABSENCE WITHOUT PAY
 
 Section 1.
        Applying for leave of absence without pay will be in writing and submitted to the immediate
@@ -2351,7 +2351,7 @@ institution.
                                                                                                    REV: 2019, 2023
 
 
-                               ARTICLE 27 - PRE-RETIREMENT PLANNING LEAVE
+### ARTICLE 27 - PRE-RETIREMENT PLANNING LEAVE
 
         Employees shall be granted up to twenty-eight (28) hours of leave with pay for retirement planning.
 This leave shall be granted upon hire for use throughout their employment with the State. Employees shall
@@ -2366,7 +2366,7 @@ income.
                                                                                                     REV: 2021,2025
 
 
-                                          ARTICLE 28 - WORKING CONDITIONS
+### ARTICLE 28 - WORKING CONDITIONS
 
 Section 1. Work Week.
 The workweek shall begin at 12:01 a.m. Sunday and end at 12:00 midnight the following Saturday. All
@@ -2719,7 +2719,7 @@ During OSP SMH first shift, there should be at least one (1) staff in MHI, one (
                                                                                      REV: 2017, 2019, 2021,2023,2025
 
 
-                           ARTICLE 29 - UNIFORMS AND PROTECTIVE CLOTHING
+### ARTICLE 29 - UNIFORMS AND PROTECTIVE CLOTHING
 
 Section 1. Institutional Uniforms.
          Institutional uniforms and protective clothing as provided by the Employer shall be continued.
@@ -2770,7 +2770,7 @@ C.        Nurse Practitioners, Physician Assistants, Registered Nurses, Health S
                                                                                           REV: 2017, 2021,2023,2025
 
 
-                                                       ARTICLE 30 – LAYOFF
+### ARTICLE 30 – LAYOFF
 
 Section 1. Procedure Before Layoffs.
         When the Agency declares that a lack of funds will necessitate a layoff, the parties will meet, if
@@ -2879,7 +2879,7 @@ from a layoff list.
                                                                                                      REV: 2021, 2023
 
 
-                                            ARTICLE 31 - SAFETY AND HEALTH
+### ARTICLE 31 - SAFETY AND HEALTH
 
 Section 1.
        Proper safety devices and clothing shall be provided by the Employer for all employees engaged in
@@ -2944,7 +2944,7 @@ staff.
                                                                                                     REV: 2021, 2023
 
 
-                                                   ARTICLE 32 - JOB SHARING
+### ARTICLE 32 - JOB SHARING
 
 Section 1.
         "Job sharing position" means a full-time position in the classified service that may be held by more
@@ -2984,7 +2984,7 @@ approval of the Functional Unit Manager, the remaining employee may elect to tra
 time position in the same classification or to voluntarily demote. If the above conditions are not available
 or acceptable, the employee agrees to resign.
 
-                                    ARTICLE 33 - STRESS/CAREER COUNSELING
+### ARTICLE 33 - STRESS/CAREER COUNSELING
 
 Section 1.
         Any employee during the performance of their work who is seized and detained by force or threat
@@ -3008,7 +3008,7 @@ employee in any subsequent disciplinary procedure unless otherwise proven. The E
 keep current all available educational programs, seminars, and workshops relating to stress management.
 
 2025 – 2027 Association of Oregon Correct ions Employees   68                         Collective Bargaining Agreement
-                                                 ARTICLE 34 - TRIAL SERVICE
+### ARTICLE 34 - TRIAL SERVICE
 
 Section 1.
         Each employee appointed to a position in the bargaining unit by initial appointment to the Agency,
@@ -3053,7 +3053,7 @@ Department of Corrections, which includes the Oregon Corrections Enterprise.
 
 
 2025 – 2027 Association of Oregon Correct ions Employees    69                             Collective Bargaining Agreement
-                                    ARTICLE 35 - PROMOTIONS/ADVANCEMENT
+### ARTICLE 35 - PROMOTIONS/ADVANCEMENT
 
 Section 1.
        The Employer reserves the right to determine the appropriate method of filling vacancies. When
@@ -3113,7 +3113,7 @@ the employee of the reason for the removal, including being provided meaningful 
                                                                                                     REV: 2023,2025
 
 
-                                           ARTICLE 36 - TRAINING/EDUCATION
+### ARTICLE 36 - TRAINING/EDUCATION
 
 Section 1.
         The Employer will pay incurred tuition/registration and allowable travel, per diem and salary when
@@ -3160,7 +3160,7 @@ unit’s business needs.
                                                                                                  REV: 2019, 2021,2025
 
 
-                              ARTICLE 37 - REVIEW OF CLASSIFICATION SERIES
+### ARTICLE 37 - REVIEW OF CLASSIFICATION SERIES
 
 Section 1.
        The Employer will provide reasonable opportunity for review and input by the Association before
@@ -3189,7 +3189,7 @@ be the position description signed by the appointing authority and in effect at 
 by DAS to allocate within the new or revised classification(s).
 
 2025 – 2027 Association of Oregon Correct ions Employees   72                          Collective Bargaining Agreement
-                                  ARTICLE 38 - RECLASSIFICATION PROCEDURE
+### ARTICLE 38 - RECLASSIFICATION PROCEDURE
 
           The Parties shall use the following procedure to process reclassification requests:
 
@@ -3252,7 +3252,7 @@ A.     Should the duties of the position support the proposed reclassification, 
 B.        For Corrections Professionals, once a reclassification has been approved by the
           Classification/Compensation Unit of the Agency, and its implementation is being held pending
           permanent financing, the employee shall receive work out of classification differential pursuant to
-          Article 16. The effective date for such payment shall be the first (1 st) of the month following receipt
+### Article 16. The effective date for such payment shall be the first (1 st) of the month following receipt
           by the Classification/Compensation Unit’s receipt of the request.
 
 Section 7.
@@ -3394,7 +3394,7 @@ B.        Current State Employee
                                                                                                       REV: 2017, 2019,2025
 
 
-                                                     ARTICLE 39 - SENIORITY
+### ARTICLE 39 - SENIORITY
 
 Section 1. Custody Classifications.
 A.     Overtime, Layoff & Tie Breaker on Promotion.
@@ -3498,7 +3498,7 @@ agreement.
                                                                                                    REV: 2019, 2021, 2023
 
 
-                                               ARTICLE 40 - PERSONNEL FILES
+### ARTICLE 40 - PERSONNEL FILES
 
 Section 1.
        An employee's signature on any adverse report, correspondence or document shall not be construed
@@ -3527,7 +3527,7 @@ Manager entries into Workday will be restricted to those appropriate for an offi
                                                                                                             REV: 2025
 
 
-                                              ARTICLE 41 - EMPLOYEE RIGHTS
+### ARTICLE 41 - EMPLOYEE RIGHTS
 
         Both Parties recognize that it is important to investigate allegations of misconduct to protect the
 Employer from claims of liability and to clear the good name of the employee. Both sides recognize that
@@ -3691,7 +3691,7 @@ Director.
 
 
 2025 – 2027 Association of Oregon Correct ions Employees   83                             Collective Bargaining Agreement
-                                                 ARTICLE 42 – DRUG TESTING
+### ARTICLE 42 – DRUG TESTING
 
 Section 1. Policy.
        The Department of Corrections considers its employees to be its most valuable asset and is
@@ -3945,7 +3945,7 @@ should receive training in how to recognize and deal effectively with substance 
 Accordingly, the Agency will provide such training to supervisors. Supervisors enforce the requirements
 of this Article.
 
-                                     ARTICLE 43 - DISCIPLINE AND DISCHARGE
+### ARTICLE 43 - DISCIPLINE AND DISCHARGE
 
 Section 1.
        No employee who has completed the initial trial service period shall be disciplined, dismissed or
@@ -4009,7 +4009,7 @@ Discipline (LESC), found at OAR Chapter 265.
                                                                                                        REV: 2017,2025
 
 
-                                   ARTICLE 44 - GRIEVANCE AND ARBITRATION
+### ARTICLE 44 - GRIEVANCE AND ARBITRATION
 
 Section 1.
         Grievances are defined as acts, omissions, applications or interpretations alleged to be violations of
@@ -4099,7 +4099,7 @@ of such meetings.
                                                                                                          REV: 2021
 
 
-                                           ARTICLE 45 – WORKING REMOTELY
+### ARTICLE 45 – WORKING REMOTELY
 
 Section 1.
        Oregon state government encourages working remotely where it is a viable option that benefits both
@@ -4219,7 +4219,7 @@ Section 12. Other Provisions.
 
 
 2025 – 2027 Association of Oregon Correct ions Employees   95                           Collective Bargaining Agreement
-                                                        APPENDIX A – SALARY SCHEDULES
+### APPENDIX A – SALARY SCHEDULES
                                                              SALARY SCHEDULE AS OF JULY 1, 2025
                                                 Salary     Pay/Rng    Step    Step    Step    Step    Step    Step    Step      Step      Step      Step
               Classification
@@ -4722,13 +4722,13 @@ Note: Range Option A will be calculated using a reverse differential and rates w
 
 
          2025 – 2027 Association of Oregon Correct ions Employees              107                                         Collective Bargaining Agreement
-                                        APPENDIX B – POSITION REVIEW FORM
+### APPENDIX B – POSITION REVIEW FORM
 
 
 
 
 2025 – 2027 Association of Oregon Correct ions Employees   108              Collective Bargaining Agreement
-                                       APPENDIX C – RETIREE MEDICAL TRUST
+### APPENDIX C – RETIREE MEDICAL TRUST
 
 This Letter of Agreement by and between the Association of Oregon Correction Employees (AOCE) and
 the State of Oregon, acting through its Department of Administrative Services (Employer), on behalf of the
@@ -4801,7 +4801,7 @@ This Appendix is effective upon ratification of the 2017-2019 Agreement.
 
 
 2025 – 2027 Association of Oregon Correct ions Employees   110                        Collective Bargaining Agreement
-                                             LETTER OF AGREEMENT #1 - OSCI
+### LETTER OF AGREEMENT #1 - OSCI
          The Parties agree that the Recreational Security posts will be scheduled for noon to 8:30 p.m.
 effective the February 2010 bid. The Recreational Security staff will then be eligible for shift differential
 in Article 13 of the CBA.
@@ -4810,7 +4810,7 @@ in Article 13 of the CBA.
 
 
 2025 – 2027 Association of Oregon Correct ions Employees   111                      Collective Bargaining Agreement
-                                         LETTER OF AGREEMENT #2 - SMH/DSU
+### LETTER OF AGREEMENT #2 - SMH/DSU
 
 This Letter of Agreement is entered into between the State of Oregon by the Department of Administrative
 Services, Labor Relations Unit on behalf of the Department of Corrections and the Association of Oregon
@@ -4827,7 +4827,7 @@ Article 12 (Overtime) Section 6 A. There will be two voluntary overtime lists ma
 will be one voluntary overtime list for employees who wish to work overtime in General Population, and
 there will be one voluntary overtime list maintained in Special Housing for those employees who wish to
 work overtime in Special Housing. Both lists will operate separately from one another in accordance with
-Article 12 Section 6. Employees may sign up to be on both lists. Employees will only be considered for
+### Article 12 Section 6. Employees may sign up to be on both lists. Employees will only be considered for
 overtime in the area in which they sign the voluntary overtime roster.
 
 
@@ -4876,7 +4876,7 @@ For the Employer                          Date                   For AOCE       
 
 
 2025 – 2027 Association of Oregon Correct ions Employees   113                            Collective Bargaining Agreement
- LETTER OF AGREEMENT #3 - USE OF CONTRACTED NURSES AT THE OREGON STATE
+### LETTER OF AGREEMENT #3 - USE OF CONTRACTED NURSES AT THE OREGON STATE
                               PENITENTIARY
 
 This Agreement is between the State of Oregon, acting through its Department of Administrative Services
@@ -4909,7 +4909,7 @@ FOR THE ASSOCIATION: ____________________ DATE: _____________
 
 
 2025 – 2027 Association of Oregon Correct ions Employees   114                        Collective Bargaining Agreement
-                           LETTER OF AGREEMENT #4 - PULL/FIXED POSTS/OSCI
+### LETTER OF AGREEMENT #4 - PULL/FIXED POSTS/OSCI
 
 This Agreement is between the State of Oregon, acting through its Department of Administrative Services
 (Employer) on behalf of the Department of Corrections (Agency) and the Association of Oregon Corrections
@@ -4940,7 +4940,7 @@ The Parties agree to the following:
 
 
 2025 – 2027 Association of Oregon Correct ions Employees   115                          Collective Bargaining Agreement
-        LETTER OF AGREEMENT # 5 - SPECIAL HOUSING EVALUATION COMMITTEE
+### LETTER OF AGREEMENT # 5 - SPECIAL HOUSING EVALUATION COMMITTEE
                          OREGON STATE PENITENTIARY
 
 The Special Housing Evaluation Committee will review and appraise staff for selection in the Special
@@ -5006,7 +5006,7 @@ FOR THE ASSOCIATION: ________________________ DATE: ___________________
 
 
 2025 – 2027 Association of Oregon Correct ions Employees   117                         Collective Bargaining Agreement
-      LETTER OF AGREEMENT #6 – ARMED ESCORT IN THE COMMUNITY TRAINING
+### LETTER OF AGREEMENT #6 – ARMED ESCORT IN THE COMMUNITY TRAINING
                                   OSCI/OSP
 
 This Agreement is between the State of Oregon, acting through its Department of Administrative Services
@@ -5037,7 +5037,7 @@ The Parties agree to the following:
 
 
 2025 – 2027 Association of Oregon Correct ions Employees   118                        Collective Bargaining Agreement
-             LETTER OF AGREEMENT #7 – OREGON STATE PENITENTIARY COFFEE
+### LETTER OF AGREEMENT #7 – OREGON STATE PENITENTIARY COFFEE
 
 This Agreement is between the State of Oregon, acting through its Department of Administrative Services
 (Employer) on behalf of the Department of Corrections (Agency) at the Oregon State Penitentiary
@@ -5057,7 +5057,7 @@ The Parties agree to the following:
 
 
 2025 – 2027 Association of Oregon Correct ions Employees   119                         Collective Bargaining Agreement
-                        LETTER OF AGREEMENT #8 – NATURAL DISASTER LEAVE
+### LETTER OF AGREEMENT #8 – NATURAL DISASTER LEAVE
 
 This Agreement is between the State of Oregon, acting through its Department of Administrative Services
 (Employer) on behalf of the Department of Corrections (Agency) and the Association of Oregon
@@ -5087,7 +5087,7 @@ This Letter of Agreement will sunset on June 30, 2027, unless extended by mutual
 
 
 2025 – 2027 Association of Oregon Correct ions Employees   120                       Collective Bargaining Agreement
-                   LETTER OF AGREEMENT #9 – ESSENTIAL WORKER INCLEMENT
+### LETTER OF AGREEMENT #9 – ESSENTIAL WORKER INCLEMENT
                            WEATHER/HAZARDOUS CONDITIONS PAY
 
 This Agreement is between the State of Oregon, acting through its Department of Administrative Services
@@ -5121,7 +5121,7 @@ be made.
 
 
 2025 – 2027 Association of Oregon Correct ions Employees   121                        Collective Bargaining Agreement
-        LETTER OF AGREEMENT #10 – TRADES APPRENTICESHIP PROGRAM - PILOT
+### LETTER OF AGREEMENT #10 – TRADES APPRENTICESHIP PROGRAM - PILOT
 
 This Agreement is between the State of Oregon, acting through its Department of Administrative Services
 (Employer), on behalf of the Oregon Department of Corrections (Agency), and the Association of Oregon
@@ -5151,7 +5151,7 @@ both parties mutually agree to extend.
 
 
 2025 – 2027 Association of Oregon Correct ions Employees   122                        Collective Bargaining Agreement
-   LETTER OF AGREEMENT #11 - PEBB PROJECTED FUNDING COMPOSITE RATE AND
+### LETTER OF AGREEMENT #11 - PEBB PROJECTED FUNDING COMPOSITE RATE AND
                                     COLA
 
 This Agreement is between the State of Oregon, acting through its Department of Administrative Services
@@ -5166,7 +5166,7 @@ calendar year falls below three and four tenths’ percent (3.4%), then the COLA
 
 
 2025 – 2027 Association of Oregon Correct ions Employees   123                  Collective Bargaining Agreement
-    LETTER OF AGREEMENT #12 - SEXUAL ABUSE RESPONSE TEAM (SART) MEMBER
+### LETTER OF AGREEMENT #12 - SEXUAL ABUSE RESPONSE TEAM (SART) MEMBER
                             DIFFERENTIAL PILOT
 
 This Agreement is between the State of Oregon, acting through its Department of Administrative Services
@@ -5213,7 +5213,7 @@ Therefore, the Parties agree to the following:
 
 
 2025 – 2027 Association of Oregon Correct ions Employees   124                          Collective Bargaining Agreement
-  LETTER OF AGREEMENT #13 – OPSRP EMPLOYEE SICK LEAVE CONVERSION PILOT
+### LETTER OF AGREEMENT #13 – OPSRP EMPLOYEE SICK LEAVE CONVERSION PILOT
                                 PROGRAM
 
 This Letter of Agreement (LOA) is between the State of Oregon, acting through the Department of
@@ -5249,7 +5249,7 @@ This Pilot LOA will automatically sunset June 30, 2027, unless renewed by the Pa
 
 
 2025 – 2027 Association of Oregon Correct ions Employees   125                    Collective Bargaining Agreement
-                                     LETTER OF AGREEMENT #14 – EQUAL PAY
+### LETTER OF AGREEMENT #14 – EQUAL PAY
 
 This Agreement is between the State of Oregon, acting through its Department of Administrative Services
 (Employer), on behalf of the Department of Corrections (Agency) and the Association of Oregon
@@ -5365,7 +5365,7 @@ The Parties agree to the following:
 
 
 2025 – 2027 Association of Oregon Correct ions Employees   128                             Collective Bargaining Agreement
-                                       LETTER OF AGREEMENT #15 – AIC MAIL
+### LETTER OF AGREEMENT #15 – AIC MAIL
 
 This Agreement is between the State of Oregon, acting through its Department of Administrative Services
 (Employer) and the Association of Oregon Corrections Employees (Association).
@@ -5378,7 +5378,7 @@ the agendas sent out by the DOC.
 
 
 2025 – 2027 Association of Oregon Correct ions Employees   129                  Collective Bargaining Agreement
-     LETTER OF AGREEMENT #16 – RE: PILOT PROJECT FOR OSP 2026 VACATION BID
+### LETTER OF AGREEMENT #16 – RE: PILOT PROJECT FOR OSP 2026 VACATION BID
 
 This Letter of Agreement is between the Department of Administrative Services (Employer), on behalf of
 the Oregon Department of Corrections (Agency), and the Association of Oregon Corrections Employees
@@ -5411,7 +5411,7 @@ The Parties agree to the following:
 
 
 2025 – 2027 Association of Oregon Correct ions Employees   130                        Collective Bargaining Agreement
-  LETTER OF AGREEMENT #17 - OSP NURSE PRACTITIONER TELEPHONE PAY WHILE
+### LETTER OF AGREEMENT #17 - OSP NURSE PRACTITIONER TELEPHONE PAY WHILE
                                  ON-CALL
 
 This Letter of Agreement is between the Department of Administrative Services (Employer), on behalf of
@@ -5439,7 +5439,7 @@ This Agreement becomes effective as of the date of the last signature below and 
 
 
 2025 – 2027 Association of Oregon Correct ions Employees   131                        Collective Bargaining Agreement
-         LETTER OF AGREEMENT #18 – STRUCTURAL CHANGES TO PAY PRACTICES
+### LETTER OF AGREEMENT #18 – STRUCTURAL CHANGES TO PAY PRACTICES
 
 This Letter of Agreement is between the State of Oregon, acting through its Department of Administrative
 Services (Employer), and the Association of Oregon Corrections Employees (AOCE or Association).
@@ -5613,7 +5613,7 @@ Therefore, the Parties agree to the following:
 
 
 2025 – 2027 Association of Oregon Correct ions Employees   135                            Collective Bargaining Agreement
-  Memorandum of Understanding (MOU) #1 - For Oregon State Correctional Institution (OSCI)
+### Memorandum of Understanding (MOU) #1 - For Oregon State Correctional Institution (OSCI)
                                Re: Special Housing Units
 
 This MOU is between the State of Oregon, acting through its Department of Administrative Services
@@ -5654,7 +5654,7 @@ Printed Name                    Signature                Date
 
 
 2025 – 2027 Association of Oregon Correct ions Employees   136                     Collective Bargaining Agreement
-   Memorandum of Understanding #2 - Clarification of Eight Hour Work Schedule Oregon State
+### Memorandum of Understanding #2 - Clarification of Eight Hour Work Schedule Oregon State
                                  Correctional Institution
 
 This Agreement is between the State of Oregon, acting through its Department of Administrative Services

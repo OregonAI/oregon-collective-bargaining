@@ -51,7 +51,7 @@ benefits, and other matters pertaining to employment.
 
 
 
-                                   ARTICLE 1 —- RECOGNITION
+### ARTICLE 1 —- RECOGNITION
 
 The County recognizes the Union as the sole and exclusive bargaining agent for the purpose of
 establishing salaries, wages, hours and other conditions of employment for all full time and part
@@ -62,7 +62,7 @@ extra employees (part time working less than 600 hours per year).
 
 
 
-                             ARTICLE 2 - MANAGEMENT RIGHTS
+### ARTICLE 2 - MANAGEMENT RIGHTS
 
 It is recognized that, except as expressly provided in this agreement, the County           shall retain
 whatever rights and authority are necessary for it to operate and direct the affairs of the Department
@@ -89,7 +89,7 @@ or transfer of the Solid Waste Facility, the County agrees to the following:
 
 
 
-                        ARTICLE 3- UNION SECURITY AND CHECK OFF
+### ARTICLE 3- UNION SECURITY AND CHECK OFF
 
 Section 1.    No member of the bargaining unit shall be required to become or remain a member of
 the Union as a condition of employment. Each member shall have the right to freely join or decline
@@ -133,7 +133,7 @@ instituted against the County as a result of the County’s enforcement of this 
 
 
 
-                                  ARTICLE 4 —- SHOP STEWARDS
+### ARTICLE 4 —- SHOP STEWARDS
 
 The Union may designate stewards from among the employees.            The authority of the stewards
 shall be to investigate grievances and to transmit information to the Union and to the employees.
@@ -144,7 +144,7 @@ Management and County Personnel Officer of whom is designated as a steward.
 
 
 
-                                 ARTICLE 5 —- HOURS OF WORK
+### ARTICLE 5 —- HOURS OF WORK
 
 Section 1. Application. This Article is intended to define the hours of work per day and per week
 in effect at the time of execution of this Agreement.
@@ -173,7 +173,7 @@ agreement between the affected parties.
 
 
 
-                                      ARTICLE 6 —- HOLIDAYS
+### ARTICLE 6 —- HOLIDAYS
 
 Section 1, Holidays. The following days shall be recognized and observed as paid holidays.
                  New Year's Day                         Labor Day
@@ -229,7 +229,7 @@ or granted compensatory time;
 
 
 
-                                     ARTICLE 7 — SICK LEAVE
+### ARTICLE 7 — SICK LEAVE
 
 
 Section 1, Accrual.    Employees shall accrue sick leave at the regular rates of pay, and at the rate
@@ -267,7 +267,7 @@ Section 5. Definition of “Family Member of Employee.”           For the purp
 “Family Member of the employee” shall have the same meaning as set forth in Article 9, section 5
 of this agreement.
 
-                                      ARTICLE 8 - VACATION
+### ARTICLE 8 - VACATION
 
 Section 1. Accrual of Vacation Time.         In order to be eligible for vacation accrual, an employee
 must have worked or been on paid leave no less than eighty (80) hours in the month. Vacation
@@ -346,7 +346,7 @@ salary due to the decedent is paid.
 
 
 
-                                   ARTICLE 9 - OTHER LEAVE
+### ARTICLE 9 - OTHER LEAVE
 
 Section 1. Leave of Absence. After an employee has exhausted all accrued paid leaves, a leave of
 absence without pay for a limited period not to exceed six (6) months may be granted by the Solid
@@ -432,7 +432,7 @@ granted by the County in its discretion.
 
 Coos County and Teamsters Local 206 — Solid Waste                                                        10
 Collective Bargaining Agreement 2024 ~ 2027       -
-                        ARTICLE 10 - HEALTH AND LIFE INSURANCE
+### ARTICLE 10 - HEALTH AND LIFE INSURANCE
 
 Section 1. Health Insurance.
 The County     will contribute as indicated below toward the cost of the following medical, dental
@@ -477,7 +477,7 @@ bargaining unit for long term disabilities which have occurred on or off the job
 shall supplement     Workers'   Compensation      or Social   Security   for a period of five (5) years
 beginning after the first six (6) months of disability at a rate of sixty (60%) percent of base monthly
 pay.
-                                       ARTICLE 11 - WAGES
+### ARTICLE 11 - WAGES
 
 Section 1. Wages. Wages for all classifications shall be increased each year by 7% on July 1,
 2024, 3% on July 1, 2025, and 3% on July 1, 2026. The County shall pick up the six percent
@@ -579,7 +579,7 @@ shall be based on an objective, consistent and verifiable system to ensure compl
 Oregon Pay Equity Law.
 
 
-                                     ARTICLE 12 - SENIORITY
+### ARTICLE 12 - SENIORITY
 
 Section   1. Definition.    Seniority is defined as the employee's           length of service within the
 Department and it shall be computed from the time of his most recent date of hire.
@@ -643,7 +643,7 @@ work within the 10 day period shall also be considered as immediate voluntary te
 
 
 
-                        ARTICLE 13 - DISCIPLINE AND DISCHARGE
+### ARTICLE 13 - DISCIPLINE AND DISCHARGE
 
 
 Section 1,    Non-probationary employees covered under this Agreement shall be disciplined
@@ -667,7 +667,7 @@ period.
 
 Coos County and Teamsters Local 206 — Solid Waste                                                 16
 Collective Bargaining Agreement 2024 ~ 2027       -
-                          ARTICLE 14- SETTLEMENT OF DISPUTES
+### ARTICLE 14- SETTLEMENT OF DISPUTES
 
 Section 1. Grievance Procedure.         To promote better relations, the parties agree to settle any
 disputes as to the meaning or interpretation of this Agreement by the following procedure:
@@ -753,7 +753,7 @@ Collective Bargaining Agreement 2024 ~ 2027         -
 
 
 
-                                ARTICLE 15 - SAVINGS CLAUSE
+### ARTICLE 15 - SAVINGS CLAUSE
 
 Should any article, section or portion thereof of this Agreement be held unlawful or unenforceable
 by any court of competent jurisdiction or any administrative agency of the State of Oregon having
@@ -839,7 +839,7 @@ to their base wage during the period of assignment.
 Employees at their discretion may decline lead worker assignments.
 
 
-                       ARTICLE 17 - DURATION AND TERMINATION
+### ARTICLE 17 - DURATION AND TERMINATION
 
 
 This Agreement shall be in full force and effect from July 1, 2024 to and including June 30, 2027

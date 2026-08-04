@@ -99,25 +99,25 @@ ARTICLE 23 - SENIORITY AND LAY OFF...                ccc ecetersrsererneeniees 3
 ARTICLE 24 - STRIKES AND LOCKOUTS.....c            ec ccneeseteesneeterteenneree 36
 
 
-ARTICLE 25 - WARRANTY OF AUTHORITY ou... cc ccceceeeesneeeeneeniees 36
+### ARTICLE 25 - WARRANTY OF AUTHORITY ou... cc ccceceeeesneeeeneeniees 36
 
 
-ARTICLE 26 - REPRODUCTION COSTS oo. ccce ccc te ceteris sneererereeeaatee 36
+### ARTICLE 26 - REPRODUCTION COSTS oo. ccce ccc te ceteris sneererereeeaatee 36
 
 
-ARTICLE 27 - SAVINGS CLAUSE .occcc cece              cen ee iceeeennernerserenreeties 36
+### ARTICLE 27 - SAVINGS CLAUSE .occcc cece              cen ee iceeeennernerserenreeties 36
 
 
-ARTICLE 28 - CONTRACT NEGOTIATIONS 0...               i eccerecseeteeeseeteertereens 37
+### ARTICLE 28 - CONTRACT NEGOTIATIONS 0...               i eccerecseeteeeseeteertereens 37
 
 
-ARTICLE 29 - DURATION AND TERMINATION |... ccccseeeresteeneeee 37
+### ARTICLE 29 - DURATION AND TERMINATION |... ccccseeeresteeneeee 37
 
 
 
 
 Coos County/ONA 2024-2027                    iii
-                                   ARTICLE 1 - PREAMBLE
+### ARTICLE 1 - PREAMBLE
 
 
                 This agreement is entered into by Coos County, Oregon hereinafter called the
@@ -131,7 +131,7 @@ collective bargaining matters including wages, hours, working conditions and oth
 specified in the Public Employee Collective Bargaining Act (PECBA).
 
 
-                           ARTICLE 2 - DEFINITION OF TERMS
+### ARTICLE 2 - DEFINITION OF TERMS
 
 
                 SECTION      1. "Employee" means any nurse employed by the County who
@@ -224,7 +224,7 @@ definitions of “father,” “mother,” 2 66, “son,” and “daughter.”
 
 
 
-                                 ARTICLE 3 - RECOGNITION
+### ARTICLE 3 - RECOGNITION
 
 
                 The County recognizes the Association as the sole and exclusive bargaining
@@ -261,7 +261,7 @@ when employees are attending meetings or performing work out of town.
 
 
 Coos County/ONA 2024-2027                            6
-                               ARTICLE 4 - RIGHTS OF PARTIES
+### ARTICLE 4 - RIGHTS OF PARTIES
 
 
                  The provisions of this Agreement shall be applied equally to all employees in
@@ -288,7 +288,7 @@ serving and carrying out its responsibility to the public.
 
 
 
-                             ARTICLE 5 - MANAGEMENT              RIGHTS
+### ARTICLE 5 - MANAGEMENT              RIGHTS
 
 
                  It is recognized that the County retains certain powers, duties and obligations
@@ -339,7 +339,7 @@ training programs, on-the-job training and other educational activities.
 
 
 
-                                   ARTICLE 6 - WORK RULES
+### ARTICLE 6 - WORK RULES
 
                 It is jointly recognized that the County retains broad authority to fulfill its
 
@@ -353,7 +353,7 @@ challenge work rules in the grievance procedure if it believes the work rule to 
 
 and/or capricious.
 
-                       ARTICLE 7 - ASSOCIATION MEMBERSHIP
+### ARTICLE 7 - ASSOCIATION MEMBERSHIP
 
 
         Section 1, The County agrees to deduct once each month the Association
@@ -400,7 +400,7 @@ hired nurses with the same information and the names of terminated nurses whenev
 member of the bargaining unit is hired or terminated.
 
 
-                                  ARTICLE 8 - HOLIDAYS
+### ARTICLE 8 - HOLIDAYS
 
 
                  SECTION 1. The following days are paid holidays.
@@ -492,7 +492,7 @@ Coos County/ONA 2024-2027                        10
 
 
 
-                             ARTICLE 9 - VACATION LEAVE
+### ARTICLE 9 - VACATION LEAVE
 
                   SECTION 1. Accrual. After having served six (6) continuous months of
  regular full-time service, employees shall be eligible and shall be credited with forty-eight
@@ -631,7 +631,7 @@ cause shall not be eligible for any accrued but unused vacation pay.
 
 
 
-                                 ARTICLE 16 - SICK LEAVE
+### ARTICLE 16 - SICK LEAVE
 
 
                  SECTION 1, Regular full-time employees shall accumulate sick leave at the
@@ -714,7 +714,7 @@ three (3) years of work for the purpose of determining retirement benefits.
 
 
 
-                               ARTICLE 11 - OTHER LEAVE
+### ARTICLE 11 - OTHER LEAVE
 
                   SECTION 1. Personal Leave of Absence. A personal leave of absence up to
 six (6) months may be granted within the discretion of the County for good cause shown
@@ -862,7 +862,7 @@ County and the Association will negotiate this Article. During these negotiation
 
 XXIV shail not apply.
 
-                            ARTICLE 12 - HOURS OF WORK
+### ARTICLE 12 - HOURS OF WORK
 
 
                 SECTION 1. The normal workday for regular full or part time nurses shall
@@ -939,7 +939,7 @@ professional training, shall be compensated pursuant to the terms of this Agreem
 
 County policy.
 
-                                ARTICLE 13 - OVERTIME
+### ARTICLE 13 - OVERTIME
 
                  SECTION 1. Except in an emergency, all overtime must be approved in
 
@@ -1009,7 +1009,7 @@ Coos County/ONA 2024-2027                       21
 
 of each year.
 
-                                   ARTICLE 14 - WAGES
+### ARTICLE 14 - WAGES
 
                 SECTION 1. Effective July 1, 2024, wage rates shail be increased by 4% as
 
@@ -1164,7 +1164,7 @@ Coos County/ONA 2024-2027                           24
 
 
 
-                       ARTICLE 15 - HEALTH & LIFE INSURANCE
+### ARTICLE 15 - HEALTH & LIFE INSURANCE
 
 
                 The County agrees to make a Health and Welfare monthly premium payment
@@ -1221,7 +1221,7 @@ section, an employee’s “regular wages” includes all straight time hours wo
 
 pay, vacation pay, holiday pay, and sick leave pay.
 
-                                  ARTICLE 16 - PENSION
+### ARTICLE 16 - PENSION
 
                  The County shall participate in the Public Employees Retirement System.
 
@@ -1236,7 +1236,7 @@ employee contribution to PERS or OPSERP whichever is appropriate. The County sha
 provide for a PERS credit for unused sick leave upon retirement under O.R.S, 237.153.
 
 
-                       ARTICLE    17 - WORKERS'       COMPENSATION
+### ARTICLE    17 - WORKERS'       COMPENSATION
 
                  SECTION 1. Insured Personnel. All County employees will be insured
 
@@ -1279,7 +1279,7 @@ while off work from the beginning of the leave due to the on-the-job injury.
 
 
 
-                            ARTICLE 18 - OTHER BENEFITS
+### ARTICLE 18 - OTHER BENEFITS
 
 
                  SECTION 1, Bulletin Boards.        The County agrees to furnish and maintain
@@ -1353,7 +1353,7 @@ Coos County/ONA 2024-2027                         28
          make appropriate and timely FLU/Pandemic vaccines at no cost to direct care staff.
 
 
-                       ARTICLE 19 - ADJUDICATION OF RIGHTS
+### ARTICLE 19 - ADJUDICATION OF RIGHTS
 
                 Adjudication of a dispute concerning a regular employee's rights which are
 
@@ -1432,7 +1432,7 @@ reports, if mutually agreed to, unless such are paid by the State of Oregon.
 
 
 
-                            ARTICLE 20 - SPECIAL CONFERENCES
+### ARTICLE 20 - SPECIAL CONFERENCES
 
 
                  Special conferences for important matters may be arranged between
@@ -1447,7 +1447,7 @@ conferences without loss of pay.
 
 
 Coos County/ONA 2024-2027                        30
-                      ARTICLE 21 - DISCIPLINE AND DISCHARGE
+### ARTICLE 21 - DISCIPLINE AND DISCHARGE
 
 
                  SECTION 1. Discipline. Disciplinary action or measures shall include only
@@ -1508,7 +1508,7 @@ records.
 basis. The employee shall be provided with a copy of the evaluation at the time of the
 evaluation.
 
-                            ARTICLE 22 - GENERAL PROVISIONS
+### ARTICLE 22 - GENERAL PROVISIONS
 
                  SECTION 1.     Reduction in Personnel. In case of budgetary limitations
 
@@ -1546,7 +1546,7 @@ and longevity pay.
 
 
 Coos County/ONA 2024-2027                        32
-                            ARTICLE 23 - SENIORITY AND LAY OFF
+### ARTICLE 23 - SENIORITY AND LAY OFF
 
                  SECTION 1. Seniority shall mean the length of continuous service with the
 County.
@@ -1700,13 +1700,13 @@ Coos County/ONA 2024-2027                           35
 
                             (24) consecutive months.
 
-                            ARTICLE 24 - STRIKES AND LOCKOUTS
+### ARTICLE 24 - STRIKES AND LOCKOUTS
 
                  During the term of this Agreement there will be no strikes, withholding of
 
 professional services or work slowdowns by the employees or lockouts by the County.
 
-                       ARTICLE 25 - WARRANTY                OF AUTHORITY
+### ARTICLE 25 - WARRANTY                OF AUTHORITY
 
 
                  Persons executing this Agreement on behalf of County and of the Association
@@ -1715,7 +1715,7 @@ hereby warrant and guarantee that they have the authority to act for, bind and c
 
 bargain on the behalf of the organizations which they represent.
 
-                             ARTICLE 26 - REPRODUCTION COSTS
+### ARTICLE 26 - REPRODUCTION COSTS
 
                  The cost of reproducing copies of this agreement for members of the
 
@@ -1723,7 +1723,7 @@ bargaining unit and for the County will be shared through a mutual agreement bet
 
 County and the Association.
 
-                                ARTICLE 27 - SAVINGS CLAUSE
+### ARTICLE 27 - SAVINGS CLAUSE
 
                  If any part of this agreement should be held unlawful or unenforceable by any
 
@@ -1736,7 +1736,7 @@ of arriving at a mutually satisfactory replacement.
 
 
 Coos County/ONA 2024-2027                            36
-                       ARTICLE 28 - CONTRACT NEGOTIATIONS
+### ARTICLE 28 - CONTRACT NEGOTIATIONS
 
 
                  A negotiating team for the Association to include no more than two (2)
@@ -1766,7 +1766,7 @@ mutual agreement between the parties. In addition, the Association shall be prov
 and an opportunity to bargain on any County proposed changes in mandatory subjects
 during the term of this Agreement.
 
-                     ARTICLE 29 - DURATION AND TERMINATION
+### ARTICLE 29 - DURATION AND TERMINATION
                  This agreement shall be effective upon execution by the parties and shall
 
 remain in force through June 30, 2027, subject to Article XI, Section 10 of the Oregon

@@ -16,12 +16,11 @@ agency_registry_slugs: []
 source_url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Oregon%20Liquor%20Control%20Commission%202023-2025.pdf
 source_format: pdf
 retrieved: '2026-08-02'
-source_sha256: 5b8072e4e9feb29108142c3bd36c54481cf24763ce21d59ca0e8595f55aadd23
+source_sha256: 57305a1c20e9d2efdf4bd0b5494efcafbd4423c55fe581dab8e968123a9eb07f
 snapshot_policy: hash-only
 status: superseded
-content_mode: summary
-reproduction_basis: 'jointly-authored contract; summary + official link per the class determination
-  in corpus.yml schema.doc_types (verbatim: false)'
+content_mode: 'verbatim'
+reproduction_basis: 'public record of a public body (ORS 192.311-192.478); the employer publishes the executed agreement in full at source_url; a ratified agreement is an official act (Georgia v. Public.Resource.Org, 590 U.S. 255 (2020)) — mirrored in full per the class determination in corpus.yml schema.doc_types (verbatim: true)'
 conversion_notes: pdftotext -layout; 136 pages, 391272 characters extracted; NOT human-verified
 last_verified: ''
 verified_by: ''
@@ -46,8 +45,8 @@ tags:
 - state-workforce
 ---
 
-> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated
-> summary, not the agreement's official text. Verify against the official
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a non-authoritative
+> mirror of the agreement's text, not the official record. Verify against the official
 > source: https://www.oregon.gov/das/HR/CBA/AFSCME%20Oregon%20Liquor%20Control%20Commission%202023-2025.pdf (retrieved 2026-08-02).
 
 # AFSCME Oregon Liquor Control Commission 2023-2025
@@ -59,18 +58,11 @@ Collective bargaining agreement between the State of Oregon (DAS Labor Relations
 - Bargaining unit (LRU chart): AFSCME OLCC Liquor and Cannabis Commission — repr. code AL
 - Source document: 136 pages (PDF, DAS CBA library)
 
-This corpus is **summary-first for agreements**: the contract's text is not
-reproduced here (see Curator notes), and nothing on this page states or
-paraphrases the agreement's terms. Read the agreement itself at the official
-source link above.
 
 ## Curator notes
 
-Summary-first is the recorded class determination (`corpus.yml
-schema.doc_types`, `verbatim: false`): a CBA is jointly authored with private
-parties, and "public record" and "freely reproducible" are not the same claim.
-If the operator later flips the class, full text lands in a follow-up PR — the
-committed snapshot extraction already carries what would be diffed.
+The full executed text is mirrored below from the committed extraction; the
+official PDF at the source link above remains the authoritative record.
 
 Letters of agreement bound into this PDF by DAS are part of this source
 snapshot; separately-published LOAs are their own documents in a later tranche.
@@ -85,3 +77,6329 @@ Statutes and rules the agreement's text cites are recorded in frontmatter
 `relationships.references_external` (8 citation(s)) and resolve into
 `executive-regulatory-frameworks` as cites — this corpus asserts no
 `implements` edge anywhere.
+
+## Full text
+
+             between
+
+             DAS
+         THE DEPARTMENT OF
+       ADMINISTRATIVE SERVICES
+           on behalf of the
+         OREGON LIQUOR AND
+        CANNABIS COMMISSION
+
+                 and
+
+
+        AFSCME
+      LOCAL 2505 / COUNCIL 75,
+AMERICAN FEDERATION OF STATE, COUNTY,
+ AND MUNICIPAL EMPLOYEES (AFL-CIO)
+                                               TABLE OF CONTENTS
+
+ARTICLE                                                                                                                       Page
+
+
+PREAMBLE 1
+ARTICLE 1 - RECOGNITION..........................................................................................................1
+ARTICLE 2 - MANAGEMENT RIGHTS..........................................................................................1
+ARTICLE 3 - UNION RIGHTS.........................................................................................................1
+ARTICLE 4 - LAWS AND REGULATIONS....................................................................................6
+ARTICLE 5 - UNIT CLARIFICATION .............................................................................................7
+ARTICLE 6 - EQUAL EMPLOYMENT OPPORTUNITY AND AFFIRMATIVE ACTION ..............7
+ARTICLE 7 - DEFINITIONS ............................................................................................................7
+ARTICLE 8 - AVAILABILITY OF THE PARTIES TO EACH OTHER ...........................................9
+ARTICLE 9 - DELETED 2019-2021................................................................................................9
+ARTICLE 10 - COMPLETE AGREEMENT/PAST PRACTICES....................................................9
+ARTICLE 11 - AGENCY PERSONNEL POLICIES......................................................................10
+ARTICLE 12 - DISCIPLINE AND DISCHARGE...........................................................................11
+ARTICLE 13 - GRIEVANCE PROCEDURE .................................................................................13
+ARTICLE 14 - JOB STEWARDS..................................................................................................16
+ARTICLE 15 - PERSONNEL RECORDS .....................................................................................17
+ARTICLE 16 - FILLING OF VACANCIES ....................................................................................18
+ARTICLE 17 - LIMITED DURATION APPOINTMENTS ..............................................................19
+ARTICLE 18 - INVOLUNTARY TRANSFER................................................................................20
+ARTICLE 19 - TRIAL SERVICE ...................................................................................................21
+ARTICLE 20 - CLASSIFICATION AND CLASSIFICATION CHANGES ....................................22
+ARTICLE 21 - CONTRACTING OUT............................................................................................26
+ARTICLE 22 - LAYOFF.................................................................................................................28
+ARTICLE 23 - PAYDAY AND PAY ADVANCES.........................................................................34
+ARTICLE 24 - HEALTH AND SAFETY ........................................................................................35
+ARTICLE 25 – EDUCATION, TRAINING AND CAREER DEVELOPMENT...............................37
+ARTICLE 26 - WORKWEEK, WORKDAY AND WORK SCHEDULE.........................................39
+ARTICLE 27 - REPORTING TIME................................................................................................42
+ARTICLE 28 - SCHEDULING COMPENSATORY TIME OFF.....................................................43
+ARTICLE 29 - INCLEMENT WEATHER/HAZARDOUS CONDITIONS LEAVE.........................44
+ARTICLE 30 - HOLIDAYS ............................................................................................................47
+ARTICLE 31 - VACATION LEAVE...............................................................................................49
+ARTICLE 32 - SICK LEAVE .........................................................................................................53
+ARTICLE 33 - OTHER LEAVES...................................................................................................56
+ARTICLE 34 - POSITION DESCRIPTIONS .................................................................................59
+ARTICLE 35 - SALARY ADMINISTRATION ...............................................................................60
+ARTICLE 36 - OVERTIME ............................................................................................................61
+ARTICLE 37 - SHIFT DIFFERENTIAL .........................................................................................63
+ARTICLE 38 - LANGUAGE DIFFERENTIAL...............................................................................64
+ARTICLE 39 - ON CALL ...............................................................................................................64
+ARTICLE 40 - CALL BACK COMPENSATION...........................................................................64
+ARTICLE 41 - EMERGENCY MESSAGE PROCEDURE............................................................65
+ARTICLE 42 - HEALTH AND WELFARE ....................................................................................65
+ARTICLE 43 - WORKERS COMPENSATION .............................................................................66
+ARTICLE 44 - UNIFORMS............................................................................................................67
+ARTICLE 45 - TRAVEL AND MILEAGE ALLOWANCE .............................................................68
+ARTICLE 46 - LABOR MANAGEMENT COMMITTEE................................................................68
+ARTICLE 47 - PARKING ..............................................................................................................68
+ARTICLE 48 - SALARIES.............................................................................................................68
+ARTICLE 49 - NEW AND REVISED CLASSES ..........................................................................69
+
+
+2023-2025 Oregon Liquor and Cannabis Commission                   ii                        Collective Bargaining Agreement
+ARTICLE 50 - STRIKES, LOCKOUTS AND PICKET LINES......................................................71
+ARTICLE 51 - LEGISLATIVE ACTION ........................................................................................71
+ARTICLE 52 - SAVINGS...............................................................................................................72
+ARTICLE 53 - SUCCESSOR NEGOTIATIONS ...........................................................................72
+ARTICLE 54 - AGENCY REASSIGNMENT .................................................................................72
+ARTICLE 55 - CLIENT COMPLAINT PROCEDURE...................................................................72
+ARTICLE 56 - JOB SHARING......................................................................................................73
+ARTICLE 58 - REIMBURSEMENT FOR PERSONAL PROPERTY............................................74
+ARTICLE 59 - STATE PROPERTY ..............................................................................................75
+ARTICLE 60 - VEHICLES .............................................................................................................75
+ARTICLE 61 - RECOUPMENT OF WAGE/BENEFIT OVER/UNDERPAYMENTS ....................75
+ARTICLE 62 - TERM OF AGREEMENT ......................................................................................76
+ARTICLE 63 – TEMPORARY INTERRUPTION OF EMPLOYMENT..........................................77
+ARTICLE 64 – QUARTERLY CHECK-INS ..................................................................................77
+ARTICLE 65 – TRAINING DIFFERENTIAL .................................................................................77
+ARTICLE 66 – LEADWORK DIFFERENTIAL .............................................................................78
+ARTICLE 67 – DISTRIBUTION CENTER DIFFERENTIALS ......................................................79
+ARTICLE 68 – ADVANCED MARIJUANA LICENSING DIFFERENTIAL ..................................80
+ARTICLE 69 - VOLUNTARY MEDICAL SEPARATION..............................................................81
+ARTICLE 70 – EXIT INTERVIEWS...............................................................................................82
+ARTICLE 71 - WORKING REMOTELY........................................................................................82
+ARTICLE 72 – AIR QUALITY .......................................................................................................85
+ARTICLE 73 - PAID LEAVE OREGON ........................................................................................86
+LETTER OF AGREEMENT - ARTICLE 21 – CONTRACTING OUT - FEASIBILITY STUDY ...87
+LETTER OF AGREEMENT – ARTICLE 26 – WORK WEEK, WORKDAY AND WORK
+             SCHEDULE, WAREHOUSE SCHEDULES AND SHIFT BIDDING ....................88
+LETTER OF AGREEMENT – ARTICLE 42 - PEBB MEMBER ADVISORY COMMITTEE........89
+LETTER OF AGREEMENT – ARTICLE 48 - SALARY AND BENEFIT REPORT .....................90
+LETTER OF AGREEMENT – ARTICLE 48 - SALARY RANGE TRUNCATION........................91
+LETTER OF AGREEMENT – ARTICLE 48 – ONE-TIME PAYMENT COLA .............................94
+LETTER OF AGREEMENT – NEW EMPLOYEE NOTICE/UNION ACCESS.............................95
+LETTER OF AGREEMENT – OREGON UNIONS STATE WORKER TRAINING FUND ..........96
+LETTER OF AGREEMENT – CONTRACT SPECIALIST............................................................97
+LETTER OF AGREEMENT – DISTRIBUTION CENTER SAFETY SHIRTS.............................100
+LETTER OF AGREEMENT – ACADEMY OVERTIME..............................................................101
+LETTER OF AGREEMENT – STATE POLICY 107-011-040 FLEET MANAGEMENT
+             UPDATES ............................................................................................................102
+LETTER OF AGREEMENT – WAREHOUSE BLACKOUT DATES .........................................103
+LETTER OF AGREEMENT – VERBAL DISCIPLINE ................................................................104
+LETTER OF AGREEMENT – ESSENTIAL WORKER INCLEMENT WEATHER/HAZARDOUS
+             CONDITIONS PAY ..............................................................................................105
+LETTER OF AGREEMENT – ARTICLE 21 – WAREHOUSE VACATION SCHEDULING......106
+LETTER OF AGREEMENT – COMPENSATION PLAN CHANGES ........................................107
+LETTER OF AGREEMENT – LDS 1 & 2 COMPENSATION PLAN CHANGES .....................108
+LETTER OF AGREEMENT – NATURAL DISASTER LEAVE ..................................................109
+LETTER OF AGREEMENT – STATE POLICY 50.050.01 WORKING REMOTELY UPDATES
+             ..............................................................................................................................110
+LETTER OF AGREEMENT – CHILDCARE AND ELDERCARE EXPLORATORY COMMITTEE
+             ..............................................................................................................................111
+LETTER OF AGREEMENT – PAY EQUITY ..............................................................................112
+LETTER OF AGREEMENT – REGULATORY SPECALIST LATERAL TRANSFERS............115
+LETTER OF AGREEMENT – REGULATORY SPECIALIST SAFETY EQUIPMENT ..............116
+LETTER OF AGREEMENT – PORTLAND METRO REGULARTORY SPECIALIST SAFETY
+             COMMITTEE........................................................................................................117
+LETTER OF AGREEMENT—BI-WEEKLY PAY PERIOD/WORKDAY.....................................118
+
+
+
+2023-2025 Oregon Liquor and Cannabis Commission                      iii                          Collective Bargaining Agreement
+LETTER OF AGREEMENT – MINOR DECOY & UNDERCOVER OPERATIONS ..................120
+LETTER OF AGREEMENT – LEADWORK DUTIES.................................................................121
+LETTER OF AGREEMENT – OLCC WAREHOUSE BREAK SCHEDULE..............................122
+APPENDIX A – OFFICIAL GRIEVANCE FORM........................................................................123
+APPENDIX B – COMPENSATION PLAN ..................................................................................124
+APPENDIX C – SALARY SCHEDULE.......................................................................................126
+SIGNATURE PAGE.....................................................................................................................131
+
+
+
+
+2023-2025 Oregon Liquor and Cannabis Commission                   iv                        Collective Bargaining Agreement
+                                                  PREAMBLE
+
+This Agreement is made and entered into by and between the State of Oregon (hereinafter
+the "Employer"), acting by and through its Department of Administrative Services on behalf
+of the Oregon Liquor and Cannabis Commission (hereinafter the "Agency"), and the
+American Federation of State, County and Municipal Employees, Local 2505 (hereinafter
+the "Union"), for the purpose of fixing wages, hours, benefits, conditions of employment
+and other matters affecting members of the bargaining unit as certified by the Employment
+Relations Board.
+
+NOW, THEREFORE, IT IS AGREED AS FOLLOWS:
+
+### ARTICLE 1 - RECOGNITION
+
+Section 1.1
+The Employer and the Agency recognize the Union as the sole and exclusive bargaining
+agent for: All classified employees of the Oregon Liquor and Cannabis Commission,
+excluding those who are supervisory or confidential as defined by ORS 243.650 et. seq.
+or any others properly excluded by the Employment Relations Board.
+
+Section 1.2
+The parties agree that the term "classified employee" does not include temporary
+employees appointed under the provisions of ORS 240.306(8), or part-time employees
+who regularly work less than thirty-two (32) hours per month.
+
+Section 1.3
+This Agreement binds the Union and any person designated by it to act on behalf of the
+Union. Likewise, this Agreement binds the Employer and the Agency and any person
+designated by it to act on their behalf.
+
+### ARTICLE 2 - MANAGEMENT RIGHTS
+
+The parties agree that the Employer and the Agency have the right to operate and manage
+the Agency, including, but not limited to the right to maintain order and efficiency; to direct
+employees and to determine job assignments and working schedules; to determine the
+methods, means, standards and personnel to be used; to implement improved operational
+methods and procedures; to determine staffing requirements; to determine whether the
+whole or part of the operation shall continue to operate; to recruit, examine, select and hire
+employees; to promote, transfer, assign and reassign employees; to suspend, discharge
+or take other proper disciplinary action against employees; to lay off employees; to recall
+employees; to require reasonable overtime work of employees; and to promulgate rules,
+regulations and personnel policies, provided that such rights shall not be exercised so as
+to violate any of the specific provisions of this agreement.
+
+### ARTICLE 3 - UNION RIGHTS
+
+Section 3.1
+The Union will select certain of its agents who are not Agency employees as "Union
+Representatives" and certify in writing their names to the Human Resource Director of the
+Agency.
+
+2023-2025 Oregon Liquor and Cannabis Commission      1                   Collective Bargaining Agreement
+Section 3.2
+Union representatives will be allowed to visit the work areas of the employees during work
+hours, after advising the Human Resource Director of the Agency, or their designee if the
+visit is in the Central Administrative Office, or the supervisor of the field office, or their
+designee, of their presence for the purpose of meeting with employees regarding matters
+affecting their employment. Such visits are not to interfere with the normal flow of work.
+
+Section 3.3
+The internal business of the Union shall be conducted by the employees during their
+non-duty hours. Employees serving on the board will be allowed to utilize approved leave
+or flex their schedule up to two (2) hours to accommodate the monthly Union Executive
+Board Meeting.
+
+Section 3.4
+The Union may use Agency facilities for E-Board, bargaining planning, bargaining team,
+Union committee and regular monthly general membership meetings without prior
+management approval provided that the facilities are and continue to be available, the use
+would not interfere with Agency business and the Union has appropriately reserved the
+room on the electronic reservation system with notification to the Human Resources
+Director. For all other meetings, the Union will be allowed the use of Agency facilities with
+prior notification to the Human Resource Director, or designee, provided that the use is
+consistent with State and Agency policies, facilities are and continue to be available and
+the use would not interfere with Agency business.
+
+Section 3.5
+The Agency shall furnish each new employee with notice provided by the Union that the
+Union is the certified collective bargaining representative.
+
+Section 3.6
+Not more than thirty (30) minutes shall be granted for the Union to make a presentation at
+the orientation of new employees on behalf of the Union for the purpose of identifying the
+Union's status, organization benefits, facilities, related information and distributing and
+collecting membership applications. This time is not to be used for discussion of
+labor/management disputes. The Agency shall make arrangements as soon as possible
+to provide the Union reasonable notice of the time and place of new employee orientation
+meetings. If the presenter is an Agency employee they will be allowed one (1) hour of
+Agency time including travel for this presentation.
+
+Section 3.7
+A.    The Agency will continue to provide reasonable bulletin board space for the use of
+      the Union in communications dealing with social functions, meetings, elections,
+      Union appointments and other Union-related information.
+
+B.       Union officers and Stewards may post messages to an electronic bulletin board
+         established for this purpose, and/or use the Agency’s e-mail messaging system,
+         provided the officers, Stewards and employees meet all of the following conditions:
+         (1)    All messages and communications must directly concern internal union
+                business;
+
+
+
+
+2023-2025 Oregon Liquor and Cannabis Commission   2                     Collective Bargaining Agreement
+         (2)      The Stewards, officers and employees do not use the electronic bulletin
+                  board for interactive communications (messages may be accessed, but no
+                  replies made);
+
+         (3)      Employees may access the bulletin board and Union officers and Stewards
+                  may post and access messages only during their authorized breaks and
+                  lunch periods. With prior supervisory approval, Union officers and Stewards
+                  may post and access messages before and/or after their work shift;
+
+         (4)      Use of the Agency’s e-mail system is limited to authorized breaks and lunch
+                  periods. With prior supervisory approval, Union officers and Stewards may
+                  use the Agency’s e-mail system before and/or after their work shift;
+
+         (5)     Use of the electronic bulletin board and e-mail system will comply with the
+                  Agency’s applicable user policies, such as protection of confidential
+                  information and security of equipment;
+
+         (6)      The Agency will incur no additional costs resulting from the electronic bulletin
+                  board and e-mail system use, including printing costs;
+
+         (7)      Use of the bulletin board and e-mail system does not adversely affect the
+                  use of or hinder the performance of the Agency’s computer and/or e-mail
+                  systems for Agency business;
+
+         (8)      Messages and/or communications shall not contain false, unlawful, offensive
+                  or derogatory statements against any person, organization or group of
+                  persons. Messages and/or communications shall not contain profanity,
+                  vulgarity, sexual content, character slurs, threats or threats of violence.
+                  Messages and/or communications shall not contain rude or hostile
+                  references to race, marital status, age, gender, sexual orientation, religious
+                  or political beliefs, national origin, heath or disability;
+
+         (9)      Messages and/or communications shall not be used to lobby, solicit, recruit,
+                  persuade for or against any political candidate, ballot measure, legislative
+                  bill or law, or to initiate or coordinate strikes, walkouts, work stoppages, or
+                  activities that violate the Contract;
+
+         (10)     E-mail messages sent simultaneously to more than five (5) employees shall
+                  be limited to one (1) page and plain or rich text format. Such group e-mails
+                  shall not include attachments or contain graphics (except for the Union logo).
+                  Recipients of such group e-mails shall not use the “reply all” function. This
+                  restriction shall not apply to the local President and Executive Board. The
+                  Agency reserves the right to charge the Union for costs incurred by the
+                  Agency to debug, repair, reset or otherwise secure or maintain its system
+                  resulting from Union access to or use of the e-mail system. An employee
+                  must follow current Commission policy in regard to printing e-mails and
+                  attachments.
+
+C.       Except as modified by this Article, the Agency shall have the right to control its
+         electronic bulletin board and e-mail system, their uses and/or information.
+
+2023-2025 Oregon Liquor and Cannabis Commission   3                         Collective Bargaining Agreement
+D.       It is understood that the electronic bulletin board and e-mail system are not private,
+         privileged or confidential. The Agency reserves the right to trace, review, audit,
+         access, intercept, recover and/or monitor use of its electronic bulletin board and/or
+         e-mail system without notice. Portions of this provision regarding the electronic
+         bulletin board will no longer apply if the Agency loses the ability to maintain an
+         electronic bulletin board.
+
+E.       For purposes of negotiations, Union bargaining team members may communicate
+         among themselves over the Agency’s e-mail system provided that such use
+         conforms to the provisions of subsection b, above.
+
+F.       An employee may forward an e-mail message to their home computer, provided
+         such use is during the employee’s authorized breaks or lunch period.
+
+G.       The Union will hold the Employer and Agency harmless against any lawsuits,
+         claims, complaints or other legal or administrative actions where action is taken
+         against the Union and/or its agents (including Union officers and Stewards)
+         regarding any messages and/or communications or effect of any messages and/or
+         communications that are a direct result of use of the electronic bulletin board and/or
+         e-mail under this Article.
+
+Section 3.8
+A.    Upon request and no more than once a month the Agency shall furnish to the Union
+      an alphabetized listing of the names, classifications, and home addresses of the
+      employees in the bargaining unit as well as a listing of those employees who have
+      terminated since the previous list.
+
+B.       Upon request and no more than once a quarter the Agency shall provide to the
+         Union the names of any temporary/Limited duration employees (management/
+         unrepresented/ bargaining unit) hired, reason for the hire and expected duration of
+         the appointment.
+
+C.       Upon request and no more than once a quarter, the Agency shall provide to the
+         Union the names of all employees in double fill positions, the reason for the double
+         fill and the expected duration of the appointment if available.
+
+D.       Upon request, the Agency shall provide to the union on an annual basis the Agency
+         organization charts showing management positions and the positions they
+         supervise.
+
+Section 3.9 Dues Deductions
+A.    The Employer agrees to deduct the monthly fees from the pay of those employees
+      the Union has certified in writing to the Employer as having authorized in writing
+      such deductions be made from their paychecks. This deduction shall begin on the
+      first (1st) payroll period following the Union’s written notice to the Employer that such
+      authorization start and shall continue from month to month until notified by the
+      Union, pursuant to the membership card.
+
+B.       The Union agrees that it will indemnify, defend and save the Employer and
+         Department/Agency harmless from all suits, actions, proceedings and claims
+         against the Employer and the Department/Agency or person(s) acting on their
+2023-2025 Oregon Liquor and Cannabis Commission   4                      Collective Bargaining Agreement
+         behalf of the Employer and the Department/Agency whether the damage,
+         compensation, reinstatement, or combination thereof arising out of the
+         Department/Agency implementation of this Article. This provision does not limit,
+         waive, or in any way impact the State’s liability to AFSCME if the State fails to
+         withhold and remit lawful dues to AFSCME as obligated under the Agreement.
+
+Section 3.10
+AFSCME President Leave.
+A.    Long Term. Upon written request from the Executive Director of AFSCME Council
+      75 to DAS Labor Relations Unit, one (1) President/designee from an AFSCME
+      Council 75 Central Table participating Agency shall be given release time from their
+      position for a period of time up to one (1) year for the performance of Union duties
+      related to the collective bargaining relationship. However, if the Union
+      President/designee or Executive Director requests release time for less than their
+      full regular schedule, such release time shall be subject to the Employer’s approval
+      based on the operating needs of the employee’s work unit. AFSCME shall, within
+      thirty (30) days of payment to the employee, reimburse the State for payment of
+      appropriate salary, benefits, paid leave time, pension, and all other employer-
+      related costs. Where this reimbursement is expressly prohibited by law or funding
+      source, the employee shall be granted a leave of absence but the Employer will not
+      be responsible for continuing to pay the employee’s salary and benefits. AFSCME
+      shall indemnify and hold the State harmless against any and all claims, damages,
+      suits, or other forms of liability which may arise out of any action taken or not taken
+      by the State for the purpose of complying with this provision.
+
+B.       Short Term. Upon written request from the Executive Director of AFSCME Council
+         75 to DAS Labor Relations Unit and the Agency’s Human Resource Director, up to
+         four (4) Presidents/designees from AFSCME Council 75 Central Table participating
+         Agencies shall be given release time from their position for a period of time up to
+         three (3) months for the performance of Union duties related to the collective
+         bargaining relationship. Only one (1) employee from a bargaining unit and a total
+         of four (4) employees from all Central Table participating bargaining units may be
+         on such leave at any one (1) period in time. Such requests will be granted unless
+         the affected Agency can demonstrate that the employee’s absence would adversely
+         impact the operating needs of the employee’s work unit. If granted, such time may
+         also be taken on an intermittent basis. AFSCME shall, within thirty (30) days of
+         payment to the employee, reimburse the State for payment of appropriate salary,
+         benefits, paid leave time, pension, and all other employer-related costs. Where this
+         reimbursement is expressly prohibited by law or funding source, the employee shall
+         be granted a leave of absence but the Employer will not be responsible for
+         continuing to pay the employee’s salary and benefits.
+
+Section 3.11 Names of Retirees.
+Effective September 1, 2009, the Employer will send a monthly report to the Union of the
+names of individuals that have retired the previous month. For purposes of this
+Agreement, a retiree shall be defined as a person who has given the Agency written notice
+that they are separating from State service by retirement and that person has actually
+separated from State service.
+
+
+
+
+2023-2025 Oregon Liquor and Cannabis Commission   5                     Collective Bargaining Agreement
+Section 3.12 Intermittent Union Leave.
+When Union officials (officers and stewards) are designated in writing by the Executive
+Director of Oregon AFSCME to attend AFSCME Council 75 Biennial or AFSCME
+International Conventions, the following provisions apply:
+       a.     The Executive Director of Oregon AFSCME shall notify affected agencies in
+              writing of the name of the employee(s) at least thirty (30) days in advance of
+              the date of the AFSCME Convention. For agencies of 100 or fewer
+              bargaining unit members, no more than one bargaining unit member per
+              agency may be designated to attend AFSCME conventions. For agencies
+              of greater than 100 bargaining unit members, no more than two bargaining
+              unit members may be designated to attend AFSCME conventions under this
+              provision.
+
+         b.       Subject to agency head or designee approval based on the operating needs
+                  of the employee’s work unit, including staff availability, the employee will be
+                  authorized release time with pay.
+
+         c.       The paid release time is limited to attendance at the conference and travel
+                  time to and from the conference if such time occurs during the employee’s
+                  regularly scheduled working hours up to forty (40) hours per calendar year.
+
+         d.       The release time shall be coded as Union business leave or other identified
+                  payroll code as determined by the State.
+
+         e.       The release time shall not be included in the calculation of overtime nor
+                  considered as work related for purposes of workers’ compensation.
+
+         f.       The employee will continue to accrue leaves and appropriate benefits under
+                  the applicable collective bargaining agreement except as limited herein.
+
+         g.       The Union shall, within thirty (30) days of payment to the employee,
+                  reimburse the State’s affected agency for all Employer related costs
+                  associated with the release time, regular base wage and benefits, for
+                  attendance at the applicable conference.
+
+         h.       The Union shall indemnify and the Union and employee shall hold the State
+                  harmless against any and all claims, damages, suits, or other forms of
+                  liability which may arise out of any action taken or not taken by the State for
+                  the purpose of complying with these provisions.
+                                                                                  REV: 2015, 2017,2019
+
+
+### ARTICLE 4 - LAWS AND REGULATIONS
+
+This Agreement is subject to all applicable existing and future laws of the State of Oregon
+and the United States. In the event of a conflict between a provision of this Agreement
+and a rule or regulation of the Department of Administrative Services or any of its Divisions,
+the terms of this Agreement shall prevail.
+
+
+
+
+2023-2025 Oregon Liquor and Cannabis Commission   6                        Collective Bargaining Agreement
+### ARTICLE 5 - UNIT CLARIFICATION
+
+Any dispute concerning bargaining unit composition shall be resolved by the Employment
+Relations Board.
+
+Upon excluding any positions from the bargaining unit, the Employer shall send a list of
+exclusions to the Union along with position descriptions. Those positions questioned by
+the Union shall be discussed with the Employer within ten (10) days from the date of
+notification.
+
+### ARTICLE 6 - EQUAL EMPLOYMENT OPPORTUNITY AND AFFIRMATIVE ACTION
+
+Section 6.1
+The provisions of this Agreement shall apply equally to all employees in the bargaining
+unit without regard to age, race, religion, sex, color, physical or mental hinder, national
+origin, political affiliation, or marital status. The Union further agrees that it will cooperate
+with the Agency's implementation of applicable Federal and State laws and regulations,
+including but not limited to Presidential Executive Order 11246 as amended by Presidential
+Executive Order 11375, pertaining to affirmative action.
+
+Section 6.2
+All complaints alleging any form of discrimination may be submitted in writing directly to
+the EEO/AA Coordinator. The EEO/AA Coordinator will investigate the complaint within
+ten (10) working days of the receipt of the complaint and will attempt to resolve the issue
+with the employee and/or the Union. Recommendations will be made to the Agency
+Administrator for final disposition. The Agency Administrator or designated representative
+shall advise the employee and the Union in writing, within fifteen (15) calendar days, of
+completion of the investigation of the Agency's position. If the complaint is not satisfactorily
+resolved, the employee may submit the complaint to the Bureau of Labor for resolution.
+
+### ARTICLE 7 - DEFINITIONS
+
+AGENCY LAYOFF LIST - Means a list of laid off persons who have been regular status
+employees in a particular class in the Agency and who are entitled to have their names
+certified for appointment to a vacancy in that class within the Agency.
+
+BREAK IN SERVICE – Means a layoff in excess of twenty-four (24) months or a separation
+from service with the Agency in excess of thirty (30) days. Loss of seniority shall occur in
+each of these circumstances.
+
+COMPENSABLE TIME - Means time for which an employee is compensated at the regular
+straight time rate of pay, including paid leave and compensatory time off, but excluding
+on-call time, call-back compensation and penalty payments.
+
+CONTINUOUS SERVICE - Means uninterrupted employment with the Agency except for
+layoff. An interruption in service may occur only through dismissal or resignation.
+
+DAY - Means calendar days unless otherwise indicated.
+
+DEMOTION - Means a movement of an employee from a position in one (1) class to a
+position in another class having a lower salary range number.
+2023-2025 Oregon Liquor and Cannabis Commission      7                    Collective Bargaining Agreement
+DISMISSAL - Means a complete separation of a regular status employee from State
+service for disciplinary reasons.
+
+FULL TIME EMPLOYEE - Means an employee who works forty (40) hours or more per
+week.
+
+INVOLUNTARY DEMOTION - Means the demotion of an employee for disciplinary
+reasons.
+
+JOB SHARE EMPLOYEE - Means an employee who shares one (1) full-time position with
+one (1) or more employees. Each individual employee works less than full-time.
+
+PART TIME EMPLOYEE - Means an employee in the bargaining unit who works more
+than thirty-one (31) hours per month but less than full-time per month.
+
+POSITION - Means a group of duties, authorities and responsibilities assigned or
+delegated to a specific position by the appointing authority requiring the full-time or part-
+time employment of one (1) person.
+
+POSITION DESCRIPTION - Means a written description of a position which contains the
+title, a statement of duties, authority, responsibilities and the special requirements.
+
+PROMOTION - Means a movement of an employee from a position in one (1) class to a
+position in another class having a higher maximum salary rate.
+
+REGULAR STATUS EMPLOYEE - Means an employee who successfully completes an
+initial trial service period.
+
+REEMPLOYMENT - Means the return of a former regular status employee or trial service
+employee, through a competitive or noncompetitive process, within two (2) years of the
+employee's separation. The Agency Layoff List and the Secondary Recall List will take
+precedence over reemployment.
+
+REPRESENTATIVE - Means any representative of the certified bargaining agent
+authorized by an employee to act on behalf of that employee in employment relations
+matters.
+
+SENIORITY - Unless otherwise indicated in this Agreement, seniority means continuous
+service with the Agency. All authorized leave without pay periods that exceeds ninety (90)
+days shall be deducted from the computation of continuous service.
+
+TRANSFER - Means a movement of an employee (except as a temporary employee) from
+a position to a vacant position in the same or different class with no more than a fifteen
+(15)-calendar day break in service.
+
+TRIAL SERVICE PERIOD - Means a working test period during which an employee is
+required to demonstrate by actual performance of the duties the employee's fitness for the
+position to which they have been certified and appointed.
+
+
+2023-2025 Oregon Liquor and Cannabis Commission   8                    Collective Bargaining Agreement
+UNDERFILLING - Means employment of a person to a classification lower than the
+allocated class of the position.
+
+### ARTICLE 8 - AVAILABILITY OF THE PARTIES TO EACH OTHER
+The parties agree that the Employer and representatives of the Union are each obligated
+to meet at reasonable times, at the request of the other party for discussion of the
+agreement, its interpretation, continuation or modification. Both parties pledge to meet
+expeditiously and in good faith.
+
+### ARTICLE 9 - DELETED 2019-2021
+
+### ARTICLE 10 - COMPLETE AGREEMENT/PAST PRACTICES
+
+Section 10.1
+Complete Agreement. Pursuant to their statutory obligations to bargain in good faith, the
+Agency and the Union have met in full and free discussion concerning matters in
+"employment relations" as defined by ORS 243.650(7). This contract incorporates the
+sole and complete agreement between the Agency and the Union resulting from these
+negotiations. The Union agrees that the Agency has no further obligation during the term
+of this Agreement to bargain wages, hours, or working conditions except as specified
+below. The Agency agrees that during the term of this Agreement it may not unilaterally
+change employee wages or hours. If the Union believes the Agency has unilaterally
+changed an employee's wages or hours, the Union may file a written grievance directly
+with the Department of Administrative Services, Labor Relations Unit within fifteen (15)
+calendar days of the alleged violation. "Working conditions" may be changed subject,
+however, to the restrictions and procedures indicated below.
+
+Section 10.2
+      Past Practices. The parties recognize the Agency's full right to direct the work force
+      and to issue work orders and rules and that these rights are diminished only by the
+      law and this Agreement, including interpretive decisions which may evolve pursuant
+      to the proper exercise of authority given by law or this Agreement.
+
+         The Agency may change or issue new work practices or rules which fall more within
+         the scope of "management functions" as opposed to "employee benefits." Upon
+         specific request, the Agency will send a copy of any change that affects bargaining
+         unit employees to the Union President. If the Union believes such a new or
+         changed work practice or rule adopted by the Agency is unreasonable (For
+         purposes of this Article "unreasonable" means that the balance of reason is in favor
+         of not making a change. In other words, the negative effect on bargaining members
+         outweighs the need or benefit to the Agency), then within thirty (30) days of the date
+         upon which the Union knows, or by reasonable diligence should have known of the
+         subject action, the Union may request the Department of Administrative Services
+         to negotiate the change.
+
+         If the Department of Administrative Services believes the change is a mandatory
+         subject of bargaining, the parties shall meet within ten (10) days of the Union's
+         request to meet. One (1) union Steward from the Agency will be allowed to use
+         Agency time without loss of pay or benefits to participate. Neither the Department
+         of Administrative Services nor the Agency will be liable for any overtime, premium
+         pay, travel reimbursement or mileage for the union Steward. The union Steward
+2023-2025 Oregon Liquor and Cannabis Commission   9                      Collective Bargaining Agreement
+         will not be allowed Agency time to participate in discussions on the Agency's
+         obligation to bargain the Union's demand. If agreement is reached by the parties
+         during the meeting under this subsection, then the agreement shall be reduced to
+         writing and signed by the parties.
+
+         If the Department of Administrative Services believes that the subject change is a
+         permissive or prohibited subject of bargaining, the Department of Administrative
+         Services shall inform the Union it refuses to bargain the subject change within
+         fifteen (15) calendar days of the Department's receipt of the demand to bargain.
+
+         The Union may then file an unfair labor practice complaint with the Employment
+         Relations Board for the refusal to bargain. If the Board rules that the change is a
+         permissive or prohibited subject of bargaining, the Union shall withdraw its demand
+         to bargain. If the Board determines the change is a mandatory subject of
+         bargaining, the parties shall meet to negotiate this subject change.
+
+         If, after bargaining, the parties do not reach agreement, and the Union continues to
+         believe the changed or new work practice or rule is unreasonable, the Union may
+         submit the matter to arbitration. The notice must be received by the Department of
+         Administrative Services within fifteen (15) days immediately following the last date
+         the parties met to negotiate the change.
+
+         The parties agree that the decision of the arbitrator shall be final and binding on
+         each of the parties and that they will abide thereby, unless the award is vacated
+         pursuant to ORS 240.087 or ORS 240.088. The power of the arbitrator in an action
+         brought under this Section shall be limited to determining if the changed or new
+         work practice or rule is itself unreasonable. And, if the parties have not reached
+         agreement on whether the changed or new work practice or rule falls more within
+         the scope of "management functions" as opposed to "employee benefits," this
+         balance shall also be resolved by the arbitrator. If the arbitrator rules that the
+         changed or new work practice or rule is unreasonable, the Agency shall
+         immediately withdraw the changed or new work practice or rule.
+
+         The arbitrator's fee and expenses shall be paid as provided in Article 13 (Grievance
+         Procedure).
+
+         Time limits specified herein must be observed, unless the parties agree to a specific
+         extension of time. Such agreement must be stipulated in writing and shall become
+         part of the record. Failure to act within the time limits waives any rights to further
+         consideration in the matter.
+
+### ARTICLE 11 - AGENCY PERSONNEL POLICIES
+
+The Agency shall provide a copy of its written personnel policies to the Union within ten
+(10) days of implementation. When a change of a policy occurs, a copy will be sent to the
+Union.
+                                                                                            REV: 2017
+
+
+
+
+2023-2025 Oregon Liquor and Cannabis Commission   10                     Collective Bargaining Agreement
+### ARTICLE 12 - DISCIPLINE AND DISCHARGE
+
+Section 12.1
+The principles of progressive discipline which normally begin with verbal warning shall be
+used except when the nature of the problem requires more serious discipline, such as an
+immediate suspension, termination, reduction in pay or demotion. See LOA – Verbal
+Discipline.
+
+A verbal warning may be acknowledged in writing and the employee shall be provided a
+copy.
+
+Section 12.2
+An employee may be suspended, reduced in pay, demoted or discharged only for just
+cause.
+
+Section 12.3
+a.    Discharge of a regular status employee may be appealed by the Union directly to
+      binding arbitration within thirty (30) calendar days from the effective date of the
+      discharge. Such appeal shall be heard pursuant to the terms and conditions
+      outlined in .4 to .5 of Article 13 (Grievance Procedure).
+
+b.       An employee reduced in pay, demoted, or suspended shall receive written notice
+         of the discipline and of the specific charges supporting the discipline.
+
+         The reduction, demotion or suspension of a regular status employee may be
+         appealed to Step 3 of the grievance procedure within fifteen (15) calendar days
+         from the effective date of the action. Any further appeal of an action specified in
+         sub (b) shall follow the procedure and time frames outlined in Article 13 (Grievance
+         Procedure).
+
+Section 12.4
+a.    When practical, an employee will be informed in writing prior to a fact finding
+      meeting. Such notice will include the general nature of the meeting and whether
+      the employee is the subject of the investigation or a witness. A copy of this Article
+      will be provided with the notice, as it pertains to the employees’ rights and what to
+      expect during the investigation process. When practical, the notice will also include
+      any dates and locations that are known to the Agency.
+
+b.       Interviews shall take place during the employee’s normal working hours and at
+         their assigned work location unless mutually agreed or the Agency has a safety
+         concern necessitating otherwise. Following the interview, an employee shall have
+         five (5) days to provide additional information and supporting materials, unless an
+         alternative deadline is mutually agreed upon.
+
+Section 12.5
+A written notice shall be given to a regular status employee against whom a charge, which
+may be cause for dismissal, is presented. Such notice shall include the known complaints,
+facts and charges, and a statement that the employee may be dismissed. The employee
+shall be afforded an opportunity to refute such charges or present mitigating circumstances
+to the Agency at a time and date set forth in the notice which date shall provide employees
+with at least seven (7) calendar days from the date of the notice to prepare for response.
+2023-2025 Oregon Liquor and Cannabis Commission   11                    Collective Bargaining Agreement
+The employee shall be permitted to have an official representative present. At the
+discretion of the Agency Administrator, the employee may be suspended with pay or be
+allowed to continue work as specified within the predismissal notice.
+
+Section 12.6
+The Agency will not formally discipline an employee in front of other employees or the
+public.
+
+Section 12.7
+Unauthorized absence of the employee from duty shall be deemed to be absence without
+pay and may be grounds for disciplinary action by the Agency. Employees may be allowed
+to cover such absences with accrued vacation time or compensatory time if the Agency
+agrees extenuating circumstances existed. Any employee who is absent for five (5)
+consecutive work days without authorized leave shall be deemed to have resigned.
+
+Section 12.8
+The Agency will forward all written reprimands and notices of reduction, suspension,
+demotion, predismissal, and dismissal to the Union on the same day it notifies the
+employee.
+
+Section 12.9
+Upon request, an employee shall have the right to Union representation during an
+investigatory interview that an employee reasonably believes will result in disciplinary
+action.
+
+The employee will have the opportunity to consult with a local union steward or an
+AFSCME Council Representative before the interview, but such consultation shall not
+cause an undue delay.
+
+Section 12.10.
+When an employee is the subject of an investigation that could implicate the employee in
+criminal activity, their Garrity Rights shall be observed.
+
+Section 12.11
+Once an investigation has been completed and is considered closed, if no action (either
+pre-discipline or formal discipline) has been taken, the investigation shall not be placed in
+an employee’s official personnel file. However, the investigation file may be maintained
+by the Agency in another location for records retention purposes and in accordance with
+Article 15, Section 15.7.
+
+Section 12.12
+The Employer is committed to conducting investigations in a timely manner. The Agency
+will make reasonable efforts to begin the investigatory process within thirty (30) days of
+becoming aware of the issue. However, the parties recognize that circumstances and
+complexities of individual cases may delay initiation and/or completion of an
+investigation.
+
+Upon request, the Agency shall give the employee under Weingarten investigation, and
+their steward of record, notification of the status of the Agency’s investigation, every
+thirty (30) days until completed. Upon completion of the investigation, after all reviews
+are completed and a determination made, the Agency will provide the employee and
+2023-2025 Oregon Liquor and Cannabis Commission   12                   Collective Bargaining Agreement
+their steward of record with a written notification of the disposition of the investigation in
+a timely manner.
+                                                                                      REV: 2019, 2021
+
+
+### ARTICLE 13 - GRIEVANCE PROCEDURE
+
+Section 13.1
+A grievance is a dispute which arises concerning the application, meaning or interpretation
+of this Agreement. The Agency and the Union will resolve grievances by informal methods
+if possible. At any Step of the grievance either Party may request a meeting that will be
+mutually arranged, to discuss the merits of the grievance. The Union and Management
+may mutually agree to extend grievance timelines.
+
+Any agreement reached in informal discussions will be put in writing and signed by the
+Parties involved, and a representative of the Union.
+
+         STEP 1:
+         Any affected employee, or the Union on an employee’s behalf, may file a grievance
+         in writing with the HR Director, or designee, within thirty (30) calendar days of the
+         date of the alleged breach of this Agreement, or the date the Union or employee
+         knew of the alleged breach. The grievance must be written on an Official Grievance
+         form and include: (a) a statement of the grievance and relevant facts; (b) the
+         provision(s) of the Agreement alleged to have been violated; and (c) the remedy
+         sought. The grievance can be submitted in person or by e-mail. The HR Director
+         or designee will respond in writing to the grievant, the Union Representative who
+         filed the grievance, and the Council Representative within fifteen (15) calendar days
+         of the date the grievance was received, or date of the Step 1 meeting, whichever
+         was later.
+
+         STEP 2:
+         If the grievance remains unresolved at Step 1, the Union may appeal the grievance
+         directly to the Agency Executive Director, or Executive level designee, within fifteen
+         (15) calendar days after the Step 1 response. The Agency Executive Director, or
+         Executive level designee, will respond in writing within fifteen (15) calendar days
+         after receipt of the grievance or fifteen (15) calendar days following the Step 2
+         meeting, whichever is later. No person/department may be designated to provide
+         a response at both Step 1 and Step 2.
+
+         STEP 3: Department of Administrative Services Review.
+         If the grievance remains unresolved at Step 2, the Union may file the grievance with
+         the Department of Administrative Services, Labor Relations Unit (LRU) within
+         fifteen (15) calendar days following receipt of the response at Step 2. For purposes
+         of this Article, an appeal in writing can be delivered by first class registered or
+         certified mail, postage paid, by fax or by electronic mail to the LRU email address
+         LRU@das.oregon.gov. LRU shall respond within fifteen (15) calendar days
+         following the Step 3 meeting.
+
+         In the event the response from the Department of Administrative Services is
+         acceptable to the Union, such response shall have the same force and effect as a
+         decision or award of an arbitrator, and shall be final and binding on all Parties and
+         they will abide thereby.
+
+2023-2025 Oregon Liquor and Cannabis Commission   13                     Collective Bargaining Agreement
+         STEP 4: Submission to Arbitration.
+         Any grievance, having progressed through the Steps as outlined in this Agreement
+         and remaining unresolved following Department of Administrative Services review,
+         may be submitted to arbitration for settlement. To be valid a request for arbitration
+         must be made within thirty (30) calendar days of the date the response from the
+         Department of Administrative Services review process was received, or due
+         whichever occurs first. In the case of a discharge, as outlined in Article 12, the thirty
+         (30) day period will begin with the date the Employer discharged the employee..
+
+         Failure to file a valid arbitration request within the specified thirty (30) calendar day
+         period shall constitute forfeiture of claim and the case shall be considered closed
+         by all parties.
+
+Section 13.2 Selection of the Arbitrator and Mediation.
+A.    The Union request for arbitration will be made through the process established by
+      the Employment Relations Board, or successor Agency. The Union will provide
+      State-Arb-Notice@omls.oregon.gov as the Employer contact email, and will
+      request from the Employment Relations Board the names of five (5) Oregon or
+      Washington arbitrators.
+
+B.       The Parties will select an arbitrator by alternately striking names, with the moving
+         party striking first, from the Employment Relations Board list one (1) name at a time
+         until only one (1) name remains on the list. The name remaining on the list shall
+         be accepted by the parties as the arbitrator.
+
+Subsequent to a valid arbitration request and prior to the selection of an arbitrator, either
+the Department of Administrative Services, LRU or the Union may request mediation of
+the grievance. If agreed by both Parties, mediation will be scheduled and conducted by
+the Conciliation Service Division of the Employment Relations Board. Mediation is not a
+mandatory step of the grievance procedure. The cost of mediation will be shared by both
+Parties.
+
+Section 13.3 Arbitrator's Authority.
+The parties agree that the decision or award of the arbitrator shall be final and binding on
+each of the parties and that they will abide thereby. The arbitrator shall have no authority
+to add to, subtract from, or change any of the terms of this Agreement, to change an
+existing wage rate or establish a new wage rate. The arbitrator shall have the power to
+return a grievant to employee status, with or without back pay, or to mitigate the penalty
+as equity suggests under the facts.
+
+Section 13.4 Expenses of Arbitration.
+The arbitrator fee and expenses shall be paid by the losing party. If, in the opinion of the
+arbitrator, neither party can be considered the losing party, then such expenses shall be
+apportioned as in the arbitrator's judgment is equitable. All other expenses shall be borne
+exclusively by the party requiring the service or item for which payment is to be made.
+
+Section 13.5
+Once a bargaining unit member files a grievance, the employee shall not be required to
+discuss the subject matter of the grievance without the presence of the Union
+Representative.
+2023-2025 Oregon Liquor and Cannabis Commission   14                       Collective Bargaining Agreement
+Section 13.6
+If the Union files a grievance (the Official Grievance Form, Appendix A) on behalf of three
+(3) or more named employees on exactly the same issue, the Agency will hear the
+grievance at Step 3 of the procedure outlined in this Article.
+
+Section 13.7
+Time limits may be extended by agreement of the parties in writing.
+
+Section 13.8
+Either Party may seek extensions when appropriate. Failure of the aggrieved party to
+comply with the time limits outlined above shall constitute abandonment of the grievance.
+
+Section 13.9. Expedited Grievance Arbitration.
+A.    Upon mutual agreement, the Employer and Union may agree to use the expedited
+      arbitration process contained in this Subsection for grievances that are timely and
+      properly filed and subject to arbitration as provided for in this Agreement. The
+      Parties will use language from this Section of the Article in the selection of the
+      arbitrator, payment and all other conditions that apply to the hiring of an arbitrator
+      as stated below.
+
+B.       The Parties shall select an arbitrator by requesting the Employment Relations
+         Board for a list of seven (7) qualified arbitrators who have offices in Oregon and
+         Washington and agree to work under the rules set forth in this Subsection. The
+         order of striking shall be determined by a coin flip. Each party shall have the right
+         to alternately strike a total of three (3) names from the list with the remaining name
+         on the list being the selected arbitrator.
+
+C.       The cost of the arbitration shall be borne by the losing party as stipulated by the
+         arbitrator.
+
+D.       The use of the expedited arbitration process shall be determined at the time the
+         parties schedule dates with the arbitrator.
+
+E.       The Parties shall develop a stipulation of facts and affidavits and other time saving
+         methods whenever possible and when mutually agreed upon.
+
+F.       Case presentation will be limited to opening statements, brief recitation of facts,
+         witness presentation and closing oral arguments. No post hearing briefs shall be
+         filed and no court reporter transcripts shall be made. However, nothing prevents
+         either party from keeping their own notes. The hearing will be completed within one
+         (1) business day unless otherwise agreed upon by the parties.
+
+G.       The hearing shall be conducted by the arbitrator in whatever manner will most
+         expeditiously permit full presentation of the evidence and arguments of the parties.
+
+H.       At their discretion, the arbitrator may issue a bench decision at the conclusion of
+         the hearing or may issue a written award no later than seven (7) calendar days from
+         the close of hearing excluding weekends and holidays. The arbitrator’s award shall
+         be based on the record and shall include a brief explanation of the basis for the
+         award.
+
+2023-2025 Oregon Liquor and Cannabis Commission   15                     Collective Bargaining Agreement
+I.       The award shall be in writing and signed by the arbitrator. If the arbitrator
+         determines a formal opinion is necessary, the award will be in summary fashion.
+
+J.       The arbitration award shall not establish a precedent for any current or future cases
+         on the same or related subject unless the Parties agree otherwise prior to the
+         hearing.
+                                                                              REV: 2015 ,2019, 2021
+
+
+### ARTICLE 14 - JOB STEWARDS
+
+Section 14.1
+Up to fifteen (15) Job Stewards shall be allowed to ensure access to all Agency
+employees. The Union shall encourage that each region of the state has at least one (1)
+Job Steward whose primary duty station is within this region. Such Stewards shall be
+selected from and represent employees. The Union shall immediately notify the Human
+Resources Manager of the names of Job Stewards and their successors upon their
+selection.
+
+Section 14.2
+Stewards may receive but not solicit, and may discuss, complaints and grievances of
+employees on the premises and time of the Agency, but only to such extent as does not
+neglect, or interfere with the work and duties of the Job Stewards or with the work or duties
+of employees. Upon notice to their immediate supervisor, Job Stewards shall be granted
+reasonable time off during regularly scheduled working hours without loss of pay or other
+benefits to discuss complaints and investigate grievances. Only one (1) Union Steward
+will be in pay status for any one grievance. The Chief Steward may consult on grievances
+on an in-pay status upon prior notice to their immediate supervisor, up to four (4) hours
+per month. Job Stewards will not conduct complaint or grievance work in the Agency's
+work areas. The Agency is not responsible for any miscellaneous expenses a grievant or
+Union Steward incurs in the processing of a grievance.
+
+If the permitted activities would interfere with either the Job Steward's or the grievant's
+duties, the direct supervisor(s) shall, within the next working day, arrange a mutually
+satisfactory time for the requested activities. Time spent in grievance activities without the
+proper notification and release by the supervisor(s) involved will be considered
+unauthorized leave without pay for both the Job Steward and the grieving employee. Each
+Job Steward shall maintain a record of dates and times spent on the functions described
+in this Article. The Chief Job Steward will submit a summary of the stewards’ written
+activities reports to the Human Resources Director on a monthly basis. If a Job Steward
+had no activities, the monthly report will show "no activities."
+
+Section 14.3
+The Agency agrees there shall be no reprisal, coercion, intimidation or discrimination
+against any Job Steward for the conduct of the functions described in this Article.
+
+Section 14.4
+At the Union's request and subject to the bona fide operating requirements of the Agency,
+Job Stewards for the Union shall be granted personal leave, accrued vacation leave,
+accrued compensatory time, or leave of absence without pay to attend the Union's Job
+Steward training session.
+
+
+2023-2025 Oregon Liquor and Cannabis Commission   16                    Collective Bargaining Agreement
+                                                                                         REV: 2017
+
+
+### ARTICLE 15 - PERSONNEL RECORDS
+
+Section 15.1.
+The Chief Human Resources Office human resource information system is the system of
+record for all employee records and official employee Personnel File electronic and paper
+documents for which there are appropriate document categories in the system.
+
+The department, or agency under agreement to provide human resource services, stores
+paper documents of the official employee Personnel File and paper documents that are
+not yet able to be kept in the human resource information system. The department, or
+agency under agreement to provide human resource services, also stores paper
+documents of the official employee Personnel File that predate January 1, 2019.
+
+Section 15.2.
+An employee may, upon request, inspect and obtain a copy of digital or paper documents
+of their official employee Personnel File, paper documents that are not yet able to be kept
+in the human resource information system and paper documents of the official employee
+Personnel File that predate January 1, 2019. No grievance shall be kept in the Personnel
+Files after the grievance has been resolved except the resolution.
+
+Section 15.3.
+No information reflecting critically upon an employee shall be placed in the employee's
+Personnel File that does not bear the signature of the employee. The employee shall be
+required to sign such material to be placed in the employee's Personnel File provided the
+following disclaimer is attached:
+
+         "Employee's signature confirms only that the supervisor has discussed and given a
+         copy of the material to the employee, and does not indicate agreement or
+         disagreement."
+
+If an employee is not available within a reasonable period of time to sign the material or
+the employee refuses to sign the material, the Department may place the material in the
+file provided a statement has been signed by two (2) management representatives that a
+copy of the document was mailed to the employee at the employee's address of record.
+A copy will also be mailed to the Union.
+
+Section 15.4.
+If the employee believes that any of the above material is incorrect or a misrepresentation
+of facts, the employee shall be entitled to prepare in writing an explanation or opinion
+regarding the prepared material. This shall be attached to the disputed material included
+as part of the personnel record until the material is removed.
+
+Section 15.5.
+An employee may include in the Personnel File copies of any relevant material the
+employee wishes, such as letters of favorable comment, licenses, certificates, college
+course credits or any other material which reflects credibly on the employee. The
+employee’s supervisor/manager will ensure the documents are submitted into the
+employee’s official Personnel File in the human resource information system.
+
+
+2023-2025 Oregon Liquor and Cannabis Commission   17                  Collective Bargaining Agreement
+Section 15.6.
+At the employee's request, record of disciplinary actions shall be removed two (2) years
+after the effective date of the action provided no incident of a similar nature has been
+documented in the intervening time. The employee will be sent the requested document
+within five (5) work days from the receipt of request. Any period of leave of absence
+without pay that is more than fifteen (15) days shall extend the retention period for that
+duration of leave.
+
+Section 15.7. Supervisory/Managerial Working Files.
+a.    An employee’s supervisor/manager may maintain a Working (non human resource
+      information system) File kept in accordance with Agency practice.
+
+b.       Within five (5) business days from the date of an employee request, an employee
+         will be able to inspect their supervisor’s Working Files in the presence of their
+         supervisor. Employees will not remove any material from the File. If the File cannot
+         be made available because of the supervisor’s absence, extensions of up to ten
+         (10) business days will be granted.
+
+c.       Upon request, the employee shall be given a copy of documents in the Working
+         File.
+
+d.       An employee may submit a written statement to be attached to any document in
+         the File and such statement will remain attached as part of the Working File so long
+         as the document remains in the File.
+
+e.       Documents of an adverse nature will be removed from the File no later than
+         eighteen (18) months from the date of the document so long as no reoccurrence of
+         a similar nature has taken place in the intervening period. An employee may
+         request early removal of any adverse document in the File. Such document(s) shall
+         be removed upon mutual agreement between the supervisor and employee.
+
+f.       Any information in a Working File that is past the retention schedule shall not be
+         used in a disciplinary action so long as no reoccurrence of a similar nature has
+         taken place in the intervening period.
+
+Section 15.8.
+Personnel Files and Working Files shall not be accessible by state employees beyond the
+immediate supervisor, the Agency Human Resource Director, human resource staff, the
+subject employee, employees with a work related business need as authorized by the
+Agency Human Resource Director, and anyone specifically authorized in writing by the
+subject employee.
+                                                                               REV: 2015,2019, 2021
+
+
+### ARTICLE 16 - FILLING OF VACANCIES
+
+Section 16.1
+Except when recalling employees from a layoff list or using reemployment to fill a vacancy,
+the Agency will post any permanent job vacancy, including a permanent shift opening, that
+occurs in the bargaining unit which the Agency intends to fill, setting forth the job title,
+duties and qualifications, and salary range. Human Resources will post the vacancy
+notices on the warehouse bulletin board, and other appropriate places for ten (10) days.
+2023-2025 Oregon Liquor and Cannabis Commission   18                    Collective Bargaining Agreement
+Notice will also be sent electronically to bargaining unit employees within one (1) business
+day of the recruitment announcement being posted. At the end of the posting period,
+management may consider both internal and other candidates. Each promotion and
+transfer applicant will be interviewed if they followed the job posting instructions, submitted
+the required information within the appropriate timeframe, meet the desired attributes as
+listed in the recruitment announcement and are determined to qualify for the classification
+they seek. If an employee is not selected, they may request in writing and the Agency
+shall respond in writing with the specific reasons why they were not selected. The
+employee may request a meeting to discuss the reasons they were not selected. When
+filling a vacant represented position, the Agency will include a represented employee on
+the interview panel, this will not delay the hiring process.
+
+Section 16.2
+The Agency and the Union agree to the premise that all qualified applicants, regardless of
+race, color, religion, national origin, sex, age, sexual orientation or disability, should have
+an equal opportunity to compete on the basis of their knowledge, skills, and abilities. If at
+the conclusion of the Agency selection process, two (2) or more employees possess equal
+qualifications and are the highest qualified candidates for the position, the Agency will give
+preference to an employee's length of service with the Agency provided this consideration
+does not inhibit the ability of the Agency to reach an employment goal specifically outlined
+in the Agency's Affirmative Action Plan.
+
+Section 16.3
+An employee has a responsibility for preparing for advancement and qualifying for
+promotion within the bargaining unit.
+                                                                                      REV: 2021,2023
+
+
+### ARTICLE 17 - LIMITED DURATION APPOINTMENTS
+
+Section 17.1
+Persons may be hired for special studies or projects of uncertain or limited duration which
+are subject to the continuation of a grant, contract, award, or legislative funding. Persons
+may also be hired as limited duration appointments, for workload purposes, when needed
+to fill short-term or transitional assignments. Limited duration appointments shall not
+exceed two (2) years in duration.
+
+Section 17.2
+A newly hired employee filling a limited duration position, and a regular status employee
+who accepts a limited duration position shall each serve a trial service period in
+accordance with the provisions of Article 19.
+
+Section 17.3
+a.   No newly hired person on a limited duration appointment shall be entitled to layoff
+     rights.
+
+b.      A classified Agency employee appointed from regular status to a limited duration
+        appointment shall be entitled to layoff rights.
+
+
+
+
+2023-2025 Oregon Liquor and Cannabis Commission   19                     Collective Bargaining Agreement
+Section 17.4
+A person accepting a limited duration appointment shall be notified of the conditions of the
+appointment and acknowledge in writing that they accept that appointment under these
+conditions. Such notification shall include the following:
+       a.    That the appointment is of limited duration.
+
+         b.       That the appointment may cease at any time with two (2) calendar weeks
+                  notice.
+
+         c.       That persons who accept a limited duration appointment who are not regular
+                  status classified Agency employees shall have no layoff rights.
+
+         d.       That persons who accept a limited duration appointment who are regular
+                  status classified Agency employees are entitled to layoff rights.
+
+         e.       That in all other respects, limited duration appointees have all rights and
+                  privileges of other classified employees under this Agreement including, but
+                  not limited to, wages, benefits, and Union representation.
+
+Section 17.5
+Whenever a bargaining unit employee is on approved leave or rotational assignment
+(military leave, educational leave, work-out-of-class assignment, job rotation, etc.), the
+Agency may choose to double-fill the position for the period of the employee’s absence
+from the position through a limited duration appointment.
+
+Article 17.6
+Article 16.1 will not apply to limited duration appointments.
+
+### ARTICLE 18 - INVOLUNTARY TRANSFER
+
+Section 18.1
+If, after a reasonable time, the Agency cannot fill a vacancy in accordance with Article 16,
+it may require an employee to transfer.
+
+Section 18.2
+Before requiring an employee to transfer, the Agency shall offer the vacancy to a qualified
+employee who volunteers. If two (2) or more employees volunteer and have demonstrated
+equal knowledge, skills, and abilities for the position, the most senior will be appointed.
+For purposes of this Article, seniority shall mean the total length of continuous service in
+the classification of the vacant position or higher classification with the Agency. Any
+absence of leave without pay for longer than fifteen (15) calendar days, except for illness,
+injury, or education leave, shall break continuous service.
+
+Section 18.3
+If there are no qualified volunteers, the qualified employee with the least Agency seniority
+who has not been transferred within the last twenty-four (24) months, shall be transferred
+to fill the position.
+
+Section 18.4
+The Agency shall not transfer an employee from a filled position to a vacant position on
+an arbitrary basis.
+2023-2025 Oregon Liquor and Cannabis Commission   20                     Collective Bargaining Agreement
+### ARTICLE 19 - TRIAL SERVICE
+
+Section 19.1
+The trial service period is an extension of the selection process and is the time immediately
+following appointment, as defined below. Trial service may be extended by mutual
+agreement between the Union and the Agency where an employee needs additional
+training, job skills and/or development. Trial service may be extended up to an additional
+six (6) months. Trial service may only be extended without mutual agreement due to a
+period of leave as outlined below. Written notice of the extension will be provided to the
+employee.
+        a.     Regulatory Specialists and Licensing Specialists shall serve a twelve (12)-
+               month trial service period all other new employees appointed to a position,
+               and those employees promoted or reemployed shall serve a trial service
+               period of six (6) months..
+
+         b.       Except for voluntary transfers or demotions to Licensing Specialist or
+                  Regulatory Specialist positions, a regular status employee who voluntarily
+                  transfers to another position in the same class, or different class at the same
+                  or lower salary level, shall serve a trial service period of three (3) months in
+                  the new position. A regular status employee who voluntarily transfers or
+                  demotes to a Licensing Specialist or Regulatory Specialist position shall
+                  serve a trial service period of six (6) months in the position.
+
+         c.       Employees who laterally transfer within the same classification to another
+                  position with the same position description are not subject to additional trial
+                  service periods.
+
+Section 19.2
+The immediate supervisor shall judge the employee's willingness and ability to perform
+their duties satisfactorily, and as to habits and dependability within the trial service period.
+
+At any time during the trial service period, the Agency may remove an employee if, in the
+opinion of the Agency, the trial service indicated that such employee is unable or unwilling
+to perform their duties satisfactorily or that their habits and dependability do not merit their
+continuance in the position.
+
+If such employee was previously a regular status employee in another position in the
+Agency immediately prior to their present appointment, they shall be reinstated to their
+former position unless charges are filed and they are discharged as provided in Article 12
+(Discipline and Discharge).
+
+Section 19.3
+An employee who is transferred to another position in the same class, or different class at
+the same or lower salary level, in the Agency prior to the completion of the trial service
+period shall complete the trial service period in the latter position by adding the service in
+the former position.
+
+Section 19.4
+Except Licensing Specialists or Regulatory Specialists, an employee's trial service period
+shall not be extended due to leave unless employee has been on leave for a total of fifteen
+2023-2025 Oregon Liquor and Cannabis Commission    21                       Collective Bargaining Agreement
+(15) days or more. Such leave shall extend the trial service period by the number of days
+of the leave, including the initial fifteen (15) days.
+
+Licensing Specialists and Regulatory Specialists’ trial service period shall not be extended
+due to leave unless an employee has been on leave(s) for a total of thirty (30) days or
+more. Such leave(s) shall extend the trial service period by the number of days of the
+leave(s).
+
+Section 19.5
+If an employee is removed from their position during their trial service period the employee
+shall not have rights to appeal the Agency's decision by Article 13 (Grievance
+Procedure/Arbitration) or Article 12 (Discipline and Discharge).
+
+Section 19.6. Outside Agency Transfer or Promotional Trial Service
+a.    A regular status employee who is removed from lateral transfer or promotional trial
+      service from an executive branch state agency shall have right of return to their
+      former Agency. The Agency shall restore the employee to their former position if it
+      is vacant. If it is not vacant the employee shall be restored to a position in their
+      former classification in their former bargaining unit so long as the employee meets
+      any special qualifications for the position unless charges are filed and they are
+      terminated from employment.
+
+b.       If an employee is reinstated into a position in their former classification in the
+         bargaining unit and this requires a change in the employee’s official work site, the
+         employee will be eligible for moving reimbursement in accordance with the
+         Employer’s policy titled, ‘Current or Recalled Employee Relocation’ (40.055.10).
+
+c.       This Subsection becomes effective on the first (1st) of the month following
+         ratification of the local agreement.
+
+d.       This Subsection applies to employees beginning their promotional trial service after
+         the effective date of the local agreement.
+                                                                               REV: 2015, 2017,2023
+
+
+
+
+### ARTICLE 20 - CLASSIFICATION AND CLASSIFICATION CHANGES
+
+Section 20.1 Work Out of Classification.
+a.    Higher Classification: When the Agency assigns an employee, in writing, for a
+      limited time period to perform the major distinguishing duties of a position at a
+      higher level classification for five (5) consecutive work days, that employee shall be
+      paid at the first step in the assigned classification or five percent (5%) more than
+      their current rate of pay, whichever is greater. This includes a Work Out of
+      Classification Assignment that is pending budgetary approval of a reclassification.
+
+         If applying work out-of-class would not result in additional compensation for an
+         employee, the Agency will provide an additional differential to ensure the employee
+         is receiving at least a five percent (5%) increase while in the work out-of-class
+         assignment. Agencies must document the reasons for the exception.
+
+
+2023-2025 Oregon Liquor and Cannabis Commission   22                    Collective Bargaining Agreement
+         Employees regularly working a schedule of four consecutive ten (10)–hour days
+         who the Agency assigns in writing to perform the major distinguishing duties of a
+         position at a higher level classification for four (4) consecutive ten (10)-hour days,
+         will be paid work-out-of-class pay in accordance with the provisions of this
+         subsection.
+
+         When such assignments are made to work out of classification for four (4) or five
+         (5) consecutive work days, as applicable, the employee shall be compensated for
+         all hours worked beginning from the first day of the assignment and for the full
+         period of that particular assignment.
+
+         When such assignment lasts longer than forty-five (45) days: the assigning
+         manager will post the assignment notice in appropriate places for ten (10) days; the
+         assigning manager will consider all qualified applicants and will give them the
+         opportunity to discuss their qualifications, upon request, prior to selection; an
+         applicant, who is not selected, may request in writing, and the assigning manager
+         will give in writing, the reasons the applicant was not selected.
+
+         A copy of the Work Out of Classification assignment shall be placed in the
+         employee’s personnel file.
+
+         Management will provide a quarterly report to the Local President of Work out of
+         Classification assignments including the following information: 1) Name of
+         employee, 2) employees original classification, 3) Classification of Work Out of
+         Class position, 4) estimated end date of the assignment 5) date the assignment
+         started. Management will not circumvent the work out of a classification through
+         serial assignments of the major distinguishing duties of the higher level
+         classification.
+
+b.       If an employee in a Work Out of Classification assignment chooses to return to their
+         regular position before the completion of the assignment, they will notify
+         management of their decision in writing. Once notification has been provided, the
+         employee and manager shall identify an end date of the assignment that is mutually
+         agreeable but in no circumstances is later than fourteen (14) calendar days from
+         when the notice was given.
+
+c.       An employee who is underfilling a position shall be informed in writing that they are
+         an underfill, the reasons for the underfill, and the requirements necessary for the
+         employee to qualify for reclassification to the allocated level. Upon gaining regular
+         status and meeting the requirements for the allocated level to the position, the
+         employee shall be reclassified.
+
+Section 20.2 Revision of Classification Series.
+Prior to implementation of new classifications, or major revisions of existing classifications,
+the parties will negotiate rates of pay, effective date and method of implementation.
+
+Section 20.3 Reclassification Procedure.
+a.    An employee can initiate the reclassification request by sending a completed
+      Position Description Form and written explanation for a proposed reclassification
+      request shall be submitted to the Agency Personnel Office.
+
+2023-2025 Oregon Liquor and Cannabis Commission   23                     Collective Bargaining Agreement
+b.       The Agency shall review and verify the duties assigned to the position. Within thirty
+         (30) days after receipt of reclassification request, the Agency shall notify the Union
+         of its findings. If the findings indicate reclassification, the Agency shall decide to
+         seek approval if necessary or remove the duties.
+
+Section 20.4 Upward Reclassification.
+When a position is reclassified upward a regular incumbent shall be continued in the
+position. They shall be advanced to the higher class with the same status held in the lower
+class if they meet minimum experience and training requirements. When a position is
+reclassified upward and the incumbent does not have regular status, the position will be
+filled competitively at the higher level.
+
+Section 20.5 Downward Reclassification.
+a.    When a position is reclassified to another class at the same pay level or to a class
+      that carries a lower salary range, the incumbent trial service or regular employee
+      shall be accorded corresponding status in the new class.
+
+b.       The Agency shall notify an employee in writing of a downward reclassification of
+         the employee's position, and the specific reasons for doing so within thirty (30) days
+         prior to the effective date.
+
+c.       If an employee is reclassified downward and their rate of pay is above the maximum
+         of the new classification, their rate of pay will remain the same until a rate in the
+         salary range of the new classification exceeds it, at which time the employee’s
+         salary shall be adjusted to that step.
+
+         If the employee’s rate of pay is the same as a salary step in the new classification,
+         the employee’s salary shall be maintained at the same rate in the lower range.
+
+         If the employee’s rate of pay is within the new salary range but not at a
+         corresponding salary step, the employee’s salary shall be maintained at the current
+         rate until the next eligibility date. At the employee’s next eligibility date, if qualified,
+         the employee shall be granted a salary rate increase of one (1) full step within the
+         new salary range plus that amount that their current salary rate is below the next
+         higher rate in the salary range. This increase shall not exceed the highest step in
+         the new salary range.
+
+Section 20.6 Equal Reclassification Rate.
+When an employee is reclassified to a class having the same salary range, their rate of
+pay will not be changed.
+
+Section 20.7 Pay for Upward Reclassification.
+Rate of pay upon upward reclassification shall be the first step of the new salary range,
+unless the old salary rate was higher than the first step of the new salary range, then
+whatever step of a new salary range constitutes a pay increase.
+
+Section 20.8 Pay Date of Upward Reclassification.
+a.    Effective date of reclassification payment shall be the first of the month following
+      the month in which the reclass request was received by the Department of
+      Administrative Services.
+
+2023-2025 Oregon Liquor and Cannabis Commission   24                          Collective Bargaining Agreement
+b.       The employee does not retain their old eligibility date and will be eligible for salary
+         increase the first of the month following twelve (12) months in the new class.
+
+Section 20.9 Pay for Upward Reclassification Denial.
+If the Legislature does not approve the reclassification request, the employee shall be paid
+the rate of pay of the higher level classification from the first of the month following the
+month in which the reclass request was received by the Agency Personnel Officer to the
+date the duties were removed.
+
+Section 20.10 Denied Reclassification/Involuntary Reclassification Appeal Process
+Agency Appeal:
+If an employee’s requested reclassification is denied or the Agency reclassifies an
+employee’s position, the Union may appeal the decision in writing to the Agency Head or
+designee within fifteen (15) calendar days after receipt of the Agency’s decision. The
+appeal must identify the reason(s) the Agency’s decision is incorrect. The Agency shall
+respond to the appeal in writing within fifteen (15) calendar days from receipt of the Union’s
+appeal.
+
+Committee Appeal:
+If the Agency denies an employee’s reclassification request or if the Agency reclassifies
+an employee’s position, the Union may appeal the decision to the Employer/Union
+Classification Appeal Committee. The appeal must be in writing and submitted within
+fifteen (15) calendar days from the date the Agency’s final decision. All appeals must be
+supported with copies of documents originally provided to the Agency for the
+reclassification request, including written explanation of the request and all relevant
+documentation. No new documentation or information will be considered by the
+Committee unless mutually agreed upon. Upon request, the Union and employee shall
+have one (1) opportunity to address the committee.
+
+Employer/Union Classification Appeal Committee:
+The committee shall be composed of one (1) Employer representative and one (1) Union
+staff representative. The Committee’s sole mission will be to consider appeals pursuant
+to this Section of the Article and make decisions which maintain the integrity of the
+classification system by correctly applying the classification specifications. Each
+representative shall have experience making classification decisions.
+
+Appeal Decision Process:
+The Committee will attempt to resolve the appeal by jointly determining whether the current
+or another classification more accurately depicts the overall assigned duties, authorities
+and responsibilities of the position. In this process each of the designees may identify one
+(1) alternate class that they determine most accurately depicts the purpose of the job and
+overall assigned duties. The Committee will prepare an initial written decision to the
+Agency and Union within thirty (30) calendar days of receipt which will include the reasons
+for the decision. Agency management retains the right to modify duties to ensure
+consistency with the Agency’s work, goals and objectives. If the finding of the committee
+determines the assigned duties are appropriately classified at a higher salary range and
+the Agency subsequently removes the higher level duties, the employee will receive a
+lump sum payment for the difference between the current salary rate including work out of
+classification pay already paid if any, and the appropriate salary rate for the classification
+as determined by the committee. This payment shall be for the time period beginning the
+date in which the request was received by the Agency to the date the duties are removed.
+2023-2025 Oregon Liquor and Cannabis Commission   25                      Collective Bargaining Agreement
+Arbitration:
+If there is no resolution, the Union may request arbitration in writing within fifteen (15)
+calendar days from the date of receipt of the Committee’s final written decision. The
+Union’s request must be sent to the Department of Administrative Services Labor
+Relations Unit and shall include the reasons why the Agency’s decision is incorrect.
+
+The Parties agree to the appointment of a panel of three (3) arbitrators to hear all appeals
+under this Article. Arbitrators shall be assigned on a rotational basis. The arbitrators shall
+have experience resolving classification issues. An arbitrator may be removed from the
+panel by mutual agreement of the Parties. However, each party retains the right to initiate
+a change in that arbitrator’s appointment upon notice to the other party. If this occurs, the
+Parties agree to select another qualified arbitrator. The change in assigned arbitrator shall
+be effective for any case not yet scheduled for arbitration. The arbitrator’s fee and
+expenses shall be paid by the losing party. If, in the opinion of the arbitrator, neither party
+can be considered the losing party, then such expenses shall apportioned as in the
+arbitrators’ judgment is equitable. All other expenses shall be borne by the Party requiring
+the service or item for which payment is to be made.
+
+The arbitrator shall allow the Agency’s decision to stand unless they conclude that the
+proposed classification more accurately depicts the overall assigned duties, authority, and
+responsibilities using the criteria specified below. In the event the arbitrator finds in favor
+of the proposed or alternate classification, Agency management may elect to
+remove/modify duties at any point during the process. However, if the agency removes
+the higher level duties, the employee will receive a lump sum payment for the difference
+between the current salary rate including work out of classification pay already paid if any,
+and the appropriate salary rate for the classification as determined by the committee. This
+payment shall be for the time period beginning the date in which the request was received
+by the Agency to the date the duties are removed.
+
+Classification Criteria.
+For purposes of this section, a reclassification must be based on findings that the purpose
+of the position is consistent with the concept of the proposed classification and that the
+class specifications for the proposed classification more accurately depicts the overall
+assigned duties, authority and responsibilities of the position.
+Terms used above shall be defined as follows: a)the purpose of the position shall be
+determined by the statement of purpose and assigned duties of the position description
+and other relevant evidence of duties assigned by the Agency; b) the concept of the
+proposed classification shall be determined by the general description and distinguishing
+features of its class specifications, and, c) the overall duties, authority and responsibilities
+of the position shall be determined by the position description and other relevant evidence
+of duties assigned by the Agency.
+
+This Section supersedes any provisions contained in the Agency’s grievance procedure.
+                                                                           REV: 2015, 2017, 2021,2023
+
+
+### ARTICLE 21 - CONTRACTING OUT
+
+Section 21.1
+The Union recognizes that the Employer has the management right, during the term of this
+Agreement, to decide to contract out work performed by bargaining unit members.
+However, when the contracting out will displace bargaining unit members, such decisions
+
+2023-2025 Oregon Liquor and Cannabis Commission   26                      Collective Bargaining Agreement
+shall be made only after the affected Agency has conducted a formal feasibility study
+determining the potential costs and other benefits which would result from contracting out
+the work in question. The Employer agrees to notify the Union within one (1) week of its
+decision to conduct a formal feasibility study, indicating the job classifications and work
+areas affected. The Employer shall provide the Union with no less than thirty (30) days
+notice that it intends to request bids or proposals to contract out bargaining unit work where
+the decision would result in displacement of bargaining unit members. During this thirty
+(30) day period, the Employer shall not request any bids or proposals and the Union shall
+have the opportunity to submit an alternate proposal. The notification by the Employer to
+the Union of the results of the feasibility study will include all pertinent information upon
+which the Employer based its decision to contract out the work including, but not limited
+to, the total cost savings the Employer anticipates.
+
+Feasibility studies will not be required when: (1) an emergency situation exists as defined
+in ORS 279.011(4), and (2) either the work in question cannot be done by available
+bargaining unit employees or necessary equipment is not readily available.
+
+Nothing in this Article shall prevent the Employer from continually analyzing its operation
+for the purpose of identifying cost-saving opportunities.
+
+Section 21.2
+The Employer shall evaluate the Union’s alternate proposal provided under Section 1. If
+the Employer’s evaluation of the Union’s alternate proposal confirms that it would result in
+providing quality and savings equal to or greater than that identified in the management
+plan, the Parties will agree in writing to implement the Union proposal.
+
+Section 21.3
+Should any full-time bargaining unit member become displaced as a result of contracting
+out, the Employer and the Union shall meet to discuss the effect on bargaining unit
+members. The Employer’s obligation to discuss the effect of such contracting does not
+obligate it to secure the agreement of the Union or to exhaust the dispute resolution
+procedure of ORS 243.712, 243.722, or 243.742, concerning the decision or the impact.
+
+“Displaced” as used in this Article means when the work an employee is performing is
+contracted to another entity outside state government and the employee is removed from
+their job.
+
+Section 21.4
+Once an Agency makes a decision to contract out, the Agency will choose either (a) or (b)
+below. The Agency will notify affected employees of the option selected. The Agency will
+post and provide to the Union, a list of service credits for employees in all potentially
+affected classifications within the Agency. Within five (5) business days of the notice, the
+affected employees will notify the Agency of acceptance of the Agency’s option or decision
+to exercise their rights under (c) below:
+       a.     Require the contractor to hire employees displaced by the contract at the
+              same rate of pay for a minimum of six (6) months subject only to “just cause”
+              terminations. In this instance, the state will continue to provide each such
+              employee with six (6) months of health and dental insurance coverage
+              through the Public Employee Benefits Board, if continuation of coverage
+              under the Bargaining Unit Benefits Board is allowed by law and pertinent
+              rules of eligibility. Pursuant to Article 22, an eligible employee shall be
+2023-2025 Oregon Liquor and Cannabis Commission   27                    Collective Bargaining Agreement
+                  placed on the Agency layoff list and may, at the employee’s discretion, be
+                  placed on a secondary recall list for a period of two (2) years; or
+
+         b.       Place employees displaced by a contract elsewhere in state government in
+                  the following order of priority: within the Agency, within the department, or
+                  within state service generally. Salaries of employees placed in lower
+                  classifications will be red-circled. To the extent this Article conflicts with
+                  Article 16, Filling of Vacancies, this Article shall prevail.
+
+         c.       An employee may exercise all applicable rights under Article 22, Layoff.
+
+Section 21.5
+The following provisions govern the administration of the requirement under this Article to
+conduct feasibility studies in cases of contracting out and will supplement the provisions
+included in the contract.
+       a.     The Employer agrees that all AFSCME-represented state agencies will
+              conduct a feasibility study in instances of contracting out work performed by
+              bargaining unit employees when contracting out will result in displacement
+              of bargaining unit employees.
+
+         b.       The Parties agree that AFSCME-represented agencies will send directly to
+                  AFSCME’s Executive Director and to DAS HRSD Labor Relations Unit all
+                  future notices of intent to conduct a feasibility study pursuant to Section 1.
+
+Section 21.6
+Upon request, the union may view state contracts deemed public records. The union will
+contact the agency manager responsible for procurement and contracts to arrange a time
+to review the contracts. The agency will let the union review any contracts that the agency
+itself stores, and are available through public records request. The union will contact the
+state archivist for older contracts under the public records law. The union may submit
+suggestions to the agency on agency initiated contracts as to how bargaining unit
+members could perform the work more efficiently (at reduced cost) and effectively
+(improved quality).      The parties may discuss the union suggestions at their
+labor/management meetings and determine the most effective and efficient way to
+accomplish the work in the future for Agency initiated contracts. Decisions around
+reviewing of contracted work are not subject to the grievance procedure.
+SEE LOA: Contracting Out
+
+### ARTICLE 22 - LAYOFF
+
+Section 22.1 Alternatives to Layoff.
+a.    When the Agency believes that a lack of funds requires a layoff, the Agency will
+      notify the Union no fewer than fifteen (15) calendar days before the Agency issues
+      initial layoff notices. The parties will meet, if requested by either the Agency or
+      Union, to consider alternatives to layoffs such as voluntary reductions in hours or
+      workdays, temporary interruptions of employment or other voluntary employment
+      options. Alternatives to the layoffs shall require mutual agreement between the
+      Agency and Union. In the absence of any mutual agreement, the Agency will
+      implement layoff procedures consistent with the current applicable agreement.
+
+
+2023-2025 Oregon Liquor and Cannabis Commission       28                  Collective Bargaining Agreement
+b.
+         (1)      Agency and Union discussions under this Agreement shall not constitute
+                  interim bargaining under the Public Employees Collective Bargaining Act.
+                  The parties shall not be required to use the dispute resolution procedures
+                  contained in the Public Employees Collective Bargaining Act.
+
+         (2)      All discussions that take place under this Agreement shall not be subject to
+                  Article 10 (Complete Agreement/Past Practices) in the Oregon Liquor and
+                  Cannabis Commission/AFSCME Agreement.
+
+Section 22.2 Protection from Layoff.
+a.    The Agency, at its sole discretion, may protect from layoff up to fifteen (15)
+      positions. The Agency will provide the Union a list of employees protected and the
+      rationale. If fewer than fifteen (15) positions are on the list, the Agency is not
+      precluded from adding the remaining available positions and rationale without
+      discussion with the Union. If the Agency substitutes positions for ones that are on
+      the list, the Agency will discuss the change(s) with the Union at least fifteen (15)
+      days prior to the change(s).
+
+b.       Employees not protected by Section 22.1 of this Article will be covered by the
+         provisions of Section 22.2.
+
+Section 22.3 Layoff Procedure.
+A layoff is defined as a separation from the service for involuntary reasons, other than
+resignations, not reflecting discredit on an employee. An employee and the Union shall
+be given written notice of layoff at least fifteen (15) calendar days before the effective date
+stating the reasons for the layoff.
+
+The layoff procedure shall occur in the following manner:
+      a.      The Agency shall determine the specific positions to be vacated.
+
+         b.       Layoff lists will apply to employees in a classification. Any regular status
+                  employee shall be permitted to displace an employee in the same
+                  classification with less seniority unless that employee has been protected
+                  under 22.1.
+
+         c.       A regular status employee notified of a pending layoff may elect to be laid
+                  off or has the options listed below.
+                  (1)     The employee may displace the employee in the same classification
+                          who is the least senior trial service employee not protected in Section
+                          22.1 or who is the least senior regular status employee not protected
+                          in Section 22.1 if there are no trial service employees.
+
+                            To displace either a trial service or regular status employee, the
+                            displacing employee must:
+                            (a)    Have greater seniority than the trial service or regular status
+                                   employee;
+
+                            (b)      Meet any special qualifications for the position as shown in the
+                                     class specification and the position description; and
+
+2023-2025 Oregon Liquor and Cannabis Commission       29                       Collective Bargaining Agreement
+                            (c)      Be capable of performing the specific requirements of the
+                                     position within three (3) weeks. The agency will determine this
+                                     by:
+                                     i.     Reviewing an application/resume submitted by the
+                                            employee; and
+
+                                     ii.          Reviewing the employee’s statement why the employee
+                                                  is qualified for the position; and if needed;
+
+                                     iii.         Testing the employee on the duties of the position
+                                                  sought. The Agency will use the same test with the
+                                                  same answers for all eligible candidates for the specific
+                                                  position. Tests questions and answers shall be
+                                                  confidential.
+
+                                                  If the displacing employee does not meet these criteria
+                                                  for the position held by the least senior employee in the
+                                                  same classification, the Agency will continue to make
+                                                  this determination for the position held by the next least
+                                                  senior employee until the displacing employee meets
+                                                  the requirements for a position in the same classification
+                                                  or there are no more positions in the same classification
+                                                  held by an employee with less seniority who has not
+                                                  been protected under 22.1.
+
+                  (2)       If no option is available in subsection (1) above, the employee may
+                            demote and displace the employee in a lower classification who is the
+                            least senior trial service employee not protected in Section 22.1, or
+                            who is the least senior regular status employee not protected under
+                            22.1 if there are no trial service employees. To demote and displace
+                            either a trial service or regular status employee in a lower
+                            classification, the displacing employee must first consider the most
+                            recent previously held classification, including any predecessor
+                            classification, prior to the employee’s present classification and:
+                            (a)    Have greater seniority than the employee to be displaced;
+
+                            (b)      Meet any minimum or special qualifications for the position;
+
+                            (c)      Have previously held regular status in the lower classification,
+                                     including any predecessor classification; and
+
+                            (d)      Be capable of performing the specific requirements of the
+                                     position within three (3) weeks. The agency will determine this
+                                     by:
+                                     i.     Reviewing an application/resume submitted by the
+                                            employee; and
+
+                                     ii.          Reviewing the employee’s statement why the employee
+                                                  is qualified for the position; and if needed;
+
+
+2023-2025 Oregon Liquor and Cannabis Commission             30                        Collective Bargaining Agreement
+                                     iii.         Testing the employee on the duties of the position
+                                                  sought. The Agency will use the same test with the
+                                                  same answers for all eligible candidates for the specific
+                                                  position. Tests questions and answers shall be
+                                                  confidential.
+
+                                                  If the displacing employee does not satisfy the above
+                                                  requirements for the position held by the least senior
+                                                  employee in the relevant lower classification, the
+                                                  Agency will continue to make this determination for the
+                                                  position held by the next least senior employee until the
+                                                  displacing employee meets the requirements for a
+                                                  position in the lower classification or there are no more
+                                                  positions in the lower classification held by an employee
+                                                  with less seniority who has not been protected under
+                                                  22.1.
+
+                            (e)      If no option is available under subsection (2) above in the most
+                                     recent previously held classification, including any
+                                     predecessor classification, the employee will then consider
+                                     their second most recent previously held classification,
+                                     including any predecessor classification. The employee will
+                                     follow the same process listed above in 22.2 c. (2) (a through
+                                     d). If necessary, this process will continue for as many
+                                     previously held classifications, including predecessor
+                                     classifications, that the displaced worker has held while with
+                                     the agency.
+
+         d.       No trial service or regular status employee in a particular office or duty station
+                  shall be laid off while a temporary employee in the same class is employed
+                  at the same particular office or duty station.
+
+Section 22.4
+The Agency will not pay moving expenses for any moves as a result of an employee
+exercising any rights under 22.2 c. (2).
+
+Section 22.5
+If an employee is underfilling a position, the employee will be considered in the position
+classification for purposes of this Article.
+
+Section 22.6
+Any employee displaced by another employee exercising options under .2 c.(1) and (2)
+may also exercise any option available under .2 c.
+
+Section 22.7
+Computation of seniority for regular status employees, for layoff purposes, shall be made
+as follows:
+        a.   One (1) point per month for each month of service with-in the bargaining unit.
+             All part-time service shall be credited on a prorated basis. Except for military
+             leave without pay, periods of authorized leave without pay that exceed ninety
+             (90) days will be deducted from the computation of continuous service.
+2023-2025 Oregon Liquor and Cannabis Commission             31                       Collective Bargaining Agreement
+                  Military leave without pay will be credited towards continuous service with
+                  the agency. When a layoff is announced, seniority shall be frozen on that
+                  date until the layoff and any subsequent bumping activity is completed.
+
+         b.       If two (2) or more employees have equal seniority, the tie shall be broken as
+                  follows, with most credit given to:
+                  (1)     Length of continuous service in the job classification in the Agency;
+
+                  (2)       Length of continuous service with the Agency.
+
+Section 22.8 Primary Recall Rights
+Names of regular status employees of the Agency who have separated from the service
+of the State in good standing by layoff or who have demoted in lieu of layoff shall be placed
+on layoff lists in seniority order established by the class from which the employee was laid
+off or demoted in lieu of layoff.
+
+An employee currently on a layoff list prior to the effective date of this Agreement, shall be
+placed on the layoff list from which they were laid off. The life of a layoff list shall be
+twenty-four (24) months.
+
+Employees who are on an Agency layoff list shall be recalled in seniority order beginning
+with the employee with the highest seniority.
+
+If an employee is certified from a layoff list and is offered a position from which they
+demoted or was laid off, they shall have one (1) right of refusal. Upon a second refusal,
+however, the employee's name will be removed from the layoff list.
+
+Section 22.9
+Any temporary interruption of employment because of lack of work or unexpected or
+unusual reasons which do not exceed fifteen (15) consecutive days, shall not be
+considered a layoff if, at the termination of such conditions, employee(s) are to be returned
+to employment. An employee who is affected by a temporary interruption of employment
+may use accrued vacation, compensatory time off or personal leave. For FLSA-exempt
+employees, this Section applies only when the interruption is for one (1) or more full
+workweek(s).
+
+Section 22.10 Secondary Recall Rights.
+a.    Application: These rights apply to all employees in bargaining units represented by
+      AFSCME at Central Table negotiations as well as the Department of Corrections
+      and Board of Parole except employees who are laid off during initial trial service.
+
+b.       Definitions:
+         (1)    Geographic areas, for the purpose of secondary recall, are each location for
+                which an employee may indicate their willingness to relocate on the State’s
+                PD100.
+
+         (2)      Agency Layoff Lists are intra-agency layoff lists, as defined in each
+                  AFSCME Central Table Agency and/or Department of Corrections and
+                  Board of Parole bargaining unit Contract.
+
+
+2023-2025 Oregon Liquor and Cannabis Commission   32                        Collective Bargaining Agreement
+         (3)      Secondary Recall List is an inter-agency layoff list, which consists of regular
+                  status employees who have been separated by layoff from Union-
+                  represented positions in AFSCME Central Table Agencies and/or
+                  Department of Corrections and Board of Parole and who have elected to be
+                  placed on such list, consistent with the definitions of geographic areas
+                  defined above.
+
+c.       Coordination with Filling of Vacancy and Layoff Articles: The recall options provided
+         herein shall be consistent with the priority of recall to positions from layoff within an
+         Agency, as specified within each Agency’s contract, except that recall from Agency
+         Layoff Lists shall take precedence over recall from the Secondary Recall List.
+
+d.       Procedures:
+         (1)   Placement on the Secondary Recall List.
+               (a)   Regular status employees who are separated from the service of the
+                     State in good standing (meaning no record of economic disciplinary
+                     sanctions in their personnel file) by layoff or transferred outside State
+                     government due to intergovernmental transfer shall, in addition to
+                     their right to be placed on the Agency Layoff List, be given the option
+                     of electing placement on the Secondary Recall List by geographic
+                     area for other AFSCME-represented bargaining units which utilize the
+                     same or successor classification from which they were laid off. The
+                     term of eligibility of candidates placed on the list shall be two (2) years
+                     from the date of layoff. When an employee is prohibited from
+                     participating in the secondary recall process due to the presence of
+                     an economic disciplinary sanction in their personnel file, that
+                     employee may request and shall be placed on the Secondary Recall
+                     List for the remainder of the two (2) years eligibility following layoff
+                     once the discipline has remained in the file for the length of time
+                     required by the agency’s contract.
+
+                  (b)       Employees who elect to be placed on the Secondary Recall List shall
+                            specify in writing the AFSCME Central Table and/or Department of
+                            Corrections and Board of Parole bargaining units and geographic
+                            areas to which they are willing to be recalled.
+
+         (2)      Use of the Secondary Recall List.
+                  (a)   After the exhaustion of the Agency Layoff List for a specific
+                        classification within a geographic area, the Secondary Recall List
+                        shall be used to fill all positions within a specific classification and
+                        geographic area consistent with Section (c) above, until such
+                        secondary list is exhausted.
+
+                  (b)       To be eligible for appointment from the Secondary Recall List, a laid
+                            off employee on such list must meet the minimum qualifications for
+                            the classification and any special qualifications for the position.
+
+                  (c)       Agencies shall utilize the Secondary Recall List to fill positions by
+                            calling for certifications from the list of the five (5) most senior
+                            employees who meet the minimum qualifications for the classification
+                            and any special qualifications for the position to be filled by selecting
+2023-2025 Oregon Liquor and Cannabis Commission      33                        Collective Bargaining Agreement
+                            one of the five (5) so certified. Seniority for this purpose shall be
+                            computed as described per the layoff article of each Agency’s
+                            contract.
+
+                  (d)       Where fewer than five (5) eligible employees remain on the
+                            Secondary Recall List, the Agency shall select one (1) of these
+                            employees who meets the minimum qualifications for the class and
+                            any special qualifications for the position.
+
+         (3)      Appointments/Refusals of Appointments from the Secondary Recall List.
+                  (a)   A laid off employee on the Secondary Recall List who is offered an
+                        appointment from the list and refuses to accept the appointment shall
+                        have their name removed from the Secondary Recall List; however,
+                        an agency will not remove an employee’s name from the Secondary
+                        Recall List where that individual had been a day shift employee and
+                        subsequently refuses the offer of a position with swing shift or night
+                        shift hours.
+
+                  (b)       Employees appointed to positions from the Secondary Recall List
+                            shall have their names removed from their Agency Layoff List(s) and
+                            the Secondary Recall List.
+
+                  (c)       Employees appointed to positions from the Secondary Recall List
+                            shall serve a trial service period not to exceed three (3) full months,
+                            except that employees hired into the Offender Information and
+                            Sentence Unit as Prison Term Analysts (PTA) shall serve a trial
+                            service period consistent with the Department of Corrections
+                            agreement. Administration of the trial service period shall be
+                            consistent with the hiring Agency’s contract. However, employees
+                            who fail to successfully complete this trial service period shall have
+                            their names restored to the Agency Layoff List(s) on which they
+                            previously had standing. Restoration to the Agency Layoff List(s)
+                            shall be for the remaining period of eligibility that existed at the time
+                            of appointment from the Secondary Recall List. An employee may
+                            also petition the DAS-Labor Relations Unit to also be restored to the
+                            Secondary Recall List for the remainder of the initial twenty-four (24)-
+                            month recall period where the trial service removal was not related to
+                            potential misconduct warranting an economic or dismissal sanction.
+                            In no instance shall the DAS-Labor Relations Unit’s decision be
+                            grievable.
+
+                  (d)       Employees appointed to positions from the Secondary Recall List
+                            shall not be entitled to moving expenses.
+                                                                                                  REV: 2015
+
+
+### ARTICLE 23 - PAYDAY AND PAY ADVANCES
+
+Section 23.1
+All employees shall normally be paid no later than the first of the month. When a payday
+occurs on Monday through Friday, payroll checks shall be released to employees on that
+day. When a payday falls on a Saturday, Sunday or Holiday, employee paychecks shall
+
+2023-2025 Oregon Liquor and Cannabis Commission      34                        Collective Bargaining Agreement
+be made available on the last working day of the month. The Agency shall endeavor to
+pay any earned adjustment(s), other than regular pay, on the supplemental payday
+designated by Oregon State Payroll System. When an employee is not scheduled to work
+on the payday, the paycheck may be released prior to payday if the paycheck is available
+and the employee has completed the "Request for Release of Payroll Check" Form AD20.
+However, the employee may not cash or deposit the check prior to the normal release day.
+Any violation of this provision shall be cause for disciplinary action. The release day for
+December paychecks dated January 1 shall be the first working day in January to avoid
+the risk of December's paychecks being included in the prior year's earnings for tax.
+
+Section 23.2
+The parties agree that pay advances will be kept to an absolute minimum and are for
+emergencies. Within that context, employees may obtain an advance on their salary. The
+amount of the request shall not exceed sixty percent (60%) of gross pay earned, but shall
+be at least one hundred dollars ($100). Employees may submit requests up to the final
+monthly payroll cut off date. If any employee requests more than one (1) pay advance in
+any twelve (12)-month period, management has the right to deny it.
+
+### ARTICLE 24 - HEALTH AND SAFETY
+
+Section 24.1
+The Employer agrees to abide by standards of safety and health in accordance with the
+Oregon Safe Employment Act (ORS 654.011 to 654.991).
+
+Section 24.2
+Proper safety devices and clothing shall be provided by the Agency for all employees
+engaged in work where such devices are necessary to meet the requirements of Oregon
+Occupational Safety and Health Administration (Oregon OSHA). Such equipment, where
+provided, must be used.
+
+Section 24.3
+If an employee claims that assigned equipment is unsafe or might endanger their health,
+and for that reason refuses to use the equipment, the employee shall immediately give
+their reasons for this conclusion to their supervisor, in writing, who shall make an
+immediate determination in consultation with the Agency Safety Officer or their designee
+or a representative of the appropriate governmental agency as to the safety of the
+equipment in question. A Union representative or Job Steward may accompany the above
+representative and employee during this determination.
+
+If an employee claims that a job assignment is unsafe or might endanger their health and
+for that reason refuses to carry out that assignment, the employee shall immediately give
+their reasons for this conclusion to their supervisor who shall make an immediate
+determination.
+
+If the supervisor is not available, the request shall be immediately directed to the next level
+of supervision for determination.
+
+Section 24.4
+Pending determination provided for in this Article, the employee shall be given suitable
+work elsewhere. If no suitable work is available, the employee shall be sent home.
+
+2023-2025 Oregon Liquor and Cannabis Commission   35                     Collective Bargaining Agreement
+Section 24.5
+Time lost by the employee as a result of any refusal to perform work on the grounds that
+it is unsafe or might unduly endanger their health shall not be paid by the Agency unless
+the employee's claim is upheld.
+
+Section 24.6
+If in conduct of official duties, an employee is exposed to serious communicable disease
+which would require immunization or testing, or if required by the Agency, the employee
+shall be provided immunization against or testing for such communicable disease without
+cost to the employee where immunization or testing will help prevent such disease from
+occurring. Where immunization or testing shall prevent or help prevent such disease from
+occurring, employees shall be granted sick leave with pay for the time off from work
+required for the immunization or testing.
+
+Section 24.7
+The Agency shall continue the existing Safety/Accident Review Board Committee. In the
+area of safety, the committee's function will be to review possible safety violations. The
+composition of the committee shall be no less than three (3) represented employees
+appointed by the Union and three (3) management service employees, additional
+members may be added by mutual agreement. Employees shall be given on-duty time if
+the meeting is held during the employee's regular shift, if the meeting is not scheduled
+during the employees shift, the employee will be allowed to flex their schedule.
+
+Section 24.8
+The Agency shall provide space to permit ill or injured employees to rest until disposition
+of need.
+
+Section 24.9
+The Agency shall provide and maintain first aid kits for use in emergencies. Said first aid
+kits shall be in all buildings and vehicles and shall be available for emergency use.
+
+Section 24.10. Respectful Workplace
+A.    The Employer is committed to taking appropriate measures to create and maintain
+      a workplace that is respectful and free from inappropriate workplace behavior for
+      all Agency employees pursuant to the statewide policy titled ‘Maintaining a
+      Professional Workplace Policy’ (50.010.03).
+
+B.       If an Agency employee believes an Agency employee, supervisor or manager has
+         violated the statewide policy titled ‘Maintaining a Professional Workplace’
+         (50.010.03), the employee shall submit a complaint pursuant to the process
+         outlined in the policy. The Agency complaint form will be accessible to all
+         employees both online and through the Agency’s Human Resources Office.
+
+C.       The employee may have a Union representative present during regular work hours
+         when reporting inappropriate workplace behavior and through the process outlined
+         in this section.
+
+D.       The Agency shall investigate the complaint and shall provide a written response to
+         the employee filing the complaint within thirty (30) calendar days of the complaint
+         being filed. When circumstances warrant it, the Agency and the Union may
+         mutually agree on additional time needed to complete the investigation. The
+2023-2025 Oregon Liquor and Cannabis Commission   36                   Collective Bargaining Agreement
+         Agency will notify the Union and employee filing the complaint of the specific
+         reason(s) for the additional time needed. The response will include whether the
+         complaint was substantiated and any relevant non confidential information
+         pertaining to the remedial steps taken, if any. Repeated behavior or conduct shall
+         be reported to the Agency Human Resource Office.
+
+E.       For purposes of this Section, the grievance procedure in Subsection f replaces the
+         grievance procedure outlined in the local agreement.
+
+F.
+         (1)      If the employee who filed the complaint believes that the Agency did not
+                  respond to the complaint or the complaint process was not followed, the
+                  Union, on behalf of the employee, may file a grievance directly with the
+                  Agency Head. The Agency Head or designee shall respond to the grievance
+                  within thirty (30) calendar days from the date of receipt of the grievance.
+
+         (2)      If the employee continues to believe the Agency did not respond to the
+                  complaint or did not follow the complaint process, the Union, on behalf of the
+                  employee may, within fifteen (15) calendar days of the Agency Head or
+                  designee’s response, file the grievance with the Department of
+                  Administrative Services Labor Relations Unit. The grievance will be
+                  investigated and a response provided within thirty (30) calendar days from
+                  the date the grievance was appealed to the Department of Administrative
+                  Services.
+
+         (3)      If the Department of Administrative Services Labor Relations Unit’s response
+                  did not respond to the complaint or did not address whether the complaint
+                  process was followed, the Union may file for arbitration in accordance with
+                  the Grievance Procedure article.
+
+         (4)      The arbitrator shall not have authority to impose any employment actions,
+                  including but not limited to discipline on any employee, supervisor or
+                  manager, transfer of any employee, supervisor or manager, reassign an
+                  employee, supervisor or manager to another work location or duties or
+                  otherwise affect staffing. In addition, the arbitrator shall not have authority
+                  to impose or establish any monetary penalties or costs, award front or back
+                  pay, issue any monetary damages for pain and suffering or stress related
+                  claims.
+
+G.       No employee shall be subject to retaliation for reporting or filing a complaint,
+         providing a statement or otherwise participating in the administration of the
+         statewide policy or grievance process outlined in this section. Reports of retaliation
+         shall be reported to the Agency Human Resources Office.
+                                                                            REV: 2015, 2017,2019,2023
+
+
+### ARTICLE 25 – EDUCATION, TRAINING AND CAREER DEVELOPMENT
+
+Section 25.1
+Career Development increases opportunities for employees to gain experience they need
+in order to reach their career goals. Any employee may apply for a career development
+opportunity if they are able to meet the qualifications of the program. Upon successful
+
+2023-2025 Oregon Liquor and Cannabis Commission   37                       Collective Bargaining Agreement
+completion, they may compete for any open position in that classification. During the first
+half of the assignment, the employee shall receive no extra pay. During the last half of the
+assignment, the employee shall receive appropriate work-out-of-class pay. Employees
+may obtain a copy of the current agency career development policy at PP 845-153-020.
+
+Section 25.2
+Supervisors, in discussion with their interested employees, shall develop and update
+annually a written career development plan for each employee that provides for the
+continuous improvement of the employee’s job related knowledge and skills. The career
+development plan will include an enumeration of career development experiences and
+assignments performed by the employee during the prior year.
+
+Section 25.3
+Training for employees may be conducted both during and outside of an employee's work
+schedule. When an employee's attendance is required by the Agency, they shall be
+notified in writing. Training opportunities shall be offered on an equitable basis, with
+consideration given to differences in classifications, specialized work assignments, and
+work location.
+
+Section 25.4
+The Agency may offer in-house training for employees to improve their knowledge, skills
+and abilities to perform their job. Attendance at such training shall be mandatory without
+loss of pay to the employees. The Agency shall determine the method of travel and shall
+reimburse or pay for those travel expenses. The Agency shall reimburse the employee
+for mileage as provided in Article 45 (Travel and Mileage Reimbursement/Allowance),
+when the Agency has required the employee to use their own car.
+
+Section 25.5
+When the Agency requires, for purposes of meeting Agency needs, employees to attend
+on a part-time basis, designated courses or seminars either during or after work hours, the
+Agency shall reimburse the employee for course registration, books and required
+instructional materials. Upon the Agency’s request, all books and instructional materials
+shall become property of the Agency. The Agency shall reimburse the employee for
+mileage as provided in Article 45 (Travel and Mileage Reimbursement/Allowance), when
+the Agency has required the employee to use their own car.
+
+Section 25.6
+If a regular status employee desires reimbursement for course registration for training
+outside of the Agency, the employee must receive prior written approval from the Agency.
+
+Section 25.7
+The Agency agrees to offer C.P.R. training at least once yearly to those employees who
+want this training.
+
+Section 25.8
+Developmental Assignment in a Higher Classification: When the Agency has a
+developmental opportunity, management will post the assignment notice in appropriate
+places for ten (10) days; all qualified applicants will be interviewed; and an applicant, who
+is not selected, may request in writing, and management will give in writing, the reasons
+the applicant was not selected.
+
+2023-2025 Oregon Liquor and Cannabis Commission   38                   Collective Bargaining Agreement
+An employee who agrees to perform duties out of class for training or developmental
+purposes shall be informed in writing of the purpose and length of the assignment during
+which there shall be no extra pay for the work. Such assignment shall not exceed six (6)
+months. A copy of the notice shall be placed in the employee's file.
+
+### ARTICLE 26 - WORKWEEK, WORKDAY AND WORK SCHEDULE
+
+Section 26.1
+a.    Except for employees working work schedules F and M, the workweek is defined
+      as seven (7) consecutive calendar days beginning at 6:01 a.m. on Sunday and
+      ending on the following Sunday at 6:00 a.m. A work day is the twenty-four (24)
+      hour period beginning at 6:01 a.m. each day and ending the following day at 6:00
+      a.m.
+
+b.       The workweek for employees working work schedule “F” shall begin at 12:01 p.m.
+         Friday and end at 12:00 Noon the following Friday. This workweek shall remain
+         fixed, so long as an employee continues to work a work schedule “F”.
+
+c.       The workweek for employees working work schedule “M” shall begin at 12:01 p.m.
+         Monday and end at 12:00 Noon the following Monday. This work schedule shall
+         remain fixed, so long as an employee continues to work a work schedule “M”.
+
+Section 26.2
+a.    Except for Regulatory Field Operations Division employees, excluding clerical
+      employees, a regular work schedule is five (5) consecutive eight (8)-hour days and
+      an irregular work schedule is either four (4) consecutive ten (10)-hour days or a five
+      (5) consecutive day combination of four (4) nine (9)-hour days and one (1) four (4)-
+      hour day . For Regulatory Field Operations Division employees a regular work
+      schedule is five (5) eight (8)-hour days and an irregular work schedule is either four
+      (4) ten (10)-hour days or a five (5) day combination of four (4) nine (9)-hour days
+      and one (1) four (4)-hour day.
+
+         Distribution Center Only: When a holiday occurs, the Agency may shift the affected
+         employees' irregular work schedule so the affected employees do not work on
+         holidays.
+
+b.       For employees working work schedule “F” the work schedule is: Week one-Monday
+         through Thursday, nine (9) hours, and Friday, eight (8) hours; Week two-Monday-
+         through Thursday, nine (9) hours, and Friday, off; Workweeks will alternate week
+         to week, between week one and week two.
+                      (1) WORK SCHEDULE F
+                                     Tue          Thur
+                        Sun Mon            Wed           Fri     Sat
+                                     s            s
+                                                         4
+                             9       9     9      9
+                                                         4
+                             9       9     9      9      Off
+                                                         4
+                             9       9     9      9
+                                                         4
+                             9       9     9      9      Off
+
+2023-2025 Oregon Liquor and Cannabis Commission   39                  Collective Bargaining Agreement
+c.       For employees working schedule “M” the work schedule is: Week one- Monday,
+         eight (8) hours, Tuesday through Friday, nine (9) hours; Week two-Monday, off,
+         Tuesday through Friday, nine (9) hours; Workweeks will alternate week to week,
+         between week one and week two.
+
+                            (1) WORK SCHEDULE M
+                                       Tue             Thur
+                              Sun Mon       Wed             Fri    Sat
+                                       s               s
+                                   4
+                                       9    9          9    9
+                                   4
+                                   off 9    9          9    9
+                                   4
+                                       9    9          9    9
+                                   4
+                                   off 9    9          9    9
+Section 26.3
+a.    Employees on a Regular Work Schedule
+      A rest period of fifteen (15) minutes shall be allowed during each consecutive work
+      period of four (4) hours or more. Such rest periods shall be scheduled by the
+      Agency in accordance with its bona fide operating requirements.
+
+b.       Employees on an Irregular Work Schedule
+         A rest period of fifteen (15) minutes shall be allowed as close as practicable to the
+         end of the first and third quarters of the ten (10)-hour workday. Such rest periods
+         shall be scheduled by the Agency in accordance with its bona fide operating
+         requirements.
+
+c.       Employees on work schedule “F” or “M”
+         Two (2) rest periods of fifteen (15) minutes shall be allowed on each workday. Rest
+         breaks will be taken so far as practicable in the middle of each working period and
+         considered as time worked for pay purposes.
+
+Section 26.4
+a.    All employees working an eight (8), nine (9) or ten (10) hour workday shall be
+      granted a non-duty meal period of not less than thirty (30) minutes and, except for
+      preapproved Wellness Flex Lunch periods, not more than one (1) hour. Such meal
+      period shall be scheduled as close as possible to the middle of the workday.
+
+b.       In order to promote and accommodate participation in wellness-related activities
+         the Agency will allow employees, with their immediate supervisor’s pre-approval, to
+         take a Wellness Flex Lunch period, subject to the following terms and conditions:
+
+         (1)      The Wellness Flex Lunch period is a longer than normal lunch period, of up
+                  to a maximum of ninety (90) minutes. It is intended to be used for legitimate
+                  wellness activities only, such as walking, weight loss program meetings,
+                  running, Tai Chi, or working out at a health club.
+
+         (2)      Employees must make up the extra time by starting earlier and/or working
+                  later the same day the Wellness Flex Lunch is taken.
+
+
+2023-2025 Oregon Liquor and Cannabis Commission   40                      Collective Bargaining Agreement
+         (3)      Requests for Wellness Flex Lunch periods must be made in writing using the
+                  Agency form and must be pre-approved by the employee’s immediate
+                  supervisor. Because the needs of the work unit may limit or preclude
+                  participation, the employee’s supervisor may suspend, modify, or revoke
+                  approval at any time. Requests may also be approved on a trial basis to
+                  assess the feasibility of the proposed Wellness Flex Lunch schedule.
+
+         (4)      The Wellness Flex Lunch period is the employee’s own time. Neither the
+                  Employer nor the Agency will incur any liability related to Wellness Lunch
+                  period activities.
+
+Section 26.5
+Employees assigned by their supervisor to take a meal period at their desk or office will
+have their meal periods considered on-duty time.
+
+On-duty meal time shall be allowable for Regulatory Specialists working shifts ending at
+midnight or later.
+
+Section 26.6
+Employees currently having their schedule posted shall have their schedule posted at least
+ten (10) calendar days before its effective date.
+
+Management initiated changes to schedules shall be made based on operational needs
+and shall not be made arbitrarily. Except for changes in schedule resulting from the shift
+bid process as outlined in Letter of Agreement – Article 26 – Work Week, Workday and
+Work Schedule, Warehouse schedules and Shift Bidding, employees will be given at least
+thirty (30) days advanced notice for permanent schedule changes. Permanent schedule
+changes are changes that will last for six (6) months or longer. For changes lasting less
+than six (6) months, the Agency will provide as much notice as possible but no less than
+ten (10) calendar days. The Agency shall work with employees that have a hardship to
+provide as much flexibility as possible in their new schedule.
+
+If an employee’s new schedule conflicts with a college or trade course in which the
+employee enrolled prior to the posting, the Agency will allow the employee to use personal
+business or vacation leave, or compensatory time in order to attend class. If the employee
+has exhausted all available paid leave to attend class, the employee may take leave with-
+out pay. Accommodation to attend a college course will be granted to the end of the
+semester or quarter. Accommodation to attend a trade course will be granted for a period
+of no more than one hundred and twenty (120) days, but may be extended if necessary
+with Agency approval. Time off shall only be denied if the Agency determines there is an
+operational need to do so.
+
+Section 26.7
+a.   An employee desiring a change in work schedule may request such change to their
+     supervisor. The supervisor shall approve or disapprove the request based on the
+     bona fide operating requirements of the Agency. If the supervisor approves the
+     change in the employee's work schedule, the employee waives all rights to reporting
+     pay and overtime compensation except for overtime compensation resulting from
+     working over forty (40) hours in a workweek.
+
+
+2023-2025 Oregon Liquor and Cannabis Commission   41                    Collective Bargaining Agreement
+b.      An employee on a four (4) ten (10)-hour days irregular work schedule may request
+        a schedule of four (4) ten (10)-hour workdays that are not consecutive. The
+        supervisor will approve or deny the request based on the Agency’s bona fide
+        operating requirements. If the supervisor approves the schedule, the employee
+        waives all rights to any applicable premium pay.
+
+Section 26.8
+Established work shifts for Regulatory Field Operations Division will not be changed with
+less than ten (10) calendar days advance notice except when operating requirements of
+the Agency require it.
+
+Section 26.9
+Except for schedule changes requested by the employee, if any work schedule requires
+that an employee work more than five (5) consecutive days totaling forty (40) hours work,
+the employee will be paid at the overtime rate for any hours worked in each subsequent
+and consecutive calendar day when scheduled to work. Paid-leave days, leave-without-
+pay days, regular days off and on-call time are not considered hours worked for purposes
+of this Section. A paid-leave day, a leave-without-pay day or a regular day off breaks the
+consecutive calendar workday sequence.
+
+Section 26.10
+If an employee is assigned less than ten (10) hours off between scheduled work shifts
+excluding overtime, the employee will receive penalty pay at time and one-half (1-1/2) for
+all hours worked within that required ten (10)-hour break.
+
+Section 26.11 Travel Time.
+When the employee is required by the agency to travel, the actual travel time shall be
+considered time worked. Where required travel is outside an employee’s regular work
+hours (excluding normal commuting time), the employer may temporarily modify the
+employee’s weekly schedule without daily overtime or schedule change penalty. Where
+such schedule modification still results in the need for additional work hours, the employee
+shall be paid the appropriate rate of pay for all time worked over forty (40) hours in that
+workweek.
+SEE LOA: Warehouse Schedules and Shift Bidding
+                                                                                   REV: 2019, 2021
+
+### ARTICLE 27 - REPORTING TIME
+
+Section 27.1
+Reporting time is the time designated or recognized as the start of the daily work shift or
+schedule.
+
+Section 27.2
+An employee's reporting time may be changed without penalty if the employee is notified
+a minimum of forty-eight (48) hours before the new reporting time. If the employee's
+reporting time is changed without the required notice, the employee shall be entitled to
+penalty payment at time and one-half (1-1/2) for the first two (2) hours worked.
+
+Section 27.3
+An employee who is scheduled for work and reports for work but whose work is not
+required or available shall be excused from duty and paid at the regular rate of pay for a
+
+2023-2025 Oregon Liquor and Cannabis Commission   42                  Collective Bargaining Agreement
+minimum of four (4) hours. However, if the employee's scheduled shift is less than four (4)
+hours, the employee shall be paid for the hours scheduled.
+
+Section 27.4
+When a change in reporting time is requested by an employee and approved by the
+Agency, all forms of overtime compensation and reporting time pay associated with the
+changed schedule shall be waived, except for overtime compensation resulting from
+working over forty (40) hours in a workweek.
+
+Section 27.5
+If an employee reports to work and begins work but the Agency sends the employee home,
+the employee shall be paid for the remaining scheduled hours.
+
+Section 27.6 Temporary Modification of Work Schedule.
+An employee may request to flex his or her work schedule within a workweek to meet an
+unforeseen special need or hardship. The supervisor will approve or deny the request
+based on the Agency‘s bona fide operating requirements, including the maintenance of a
+forty (40)-hour workweek. When the Agency approves such a temporary work schedule
+modification, all forms of overtime compensation, premium and reporting time pay
+associated with the changed schedule shall be waived, except for overtime compensation
+resulting from working over forty (40) hours in a workweek.
+
+Section 27.7
+Nothing in this Article shall apply to scheduled or unscheduled overtime.
+
+Section 27.8
+Temporary modifications to standard start times in the Distribution Center will be offered
+by seniority within classification.
+                                                                                         REV: 2015
+
+
+### ARTICLE 28 - SCHEDULING COMPENSATORY TIME OFF
+
+Section 28.1
+Subject to the bona fide operating requirements of the Agency, an employee shall have
+their choice of scheduling compensatory time off. If two (2) or more employees request
+the same period of time off and the matter cannot be resolved by agreement between the
+employees concerned, the employee having the greatest seniority with the Agency shall
+be granted the time off.
+
+Section 28.2
+Employees shall be allowed the option of taking compensatory time off consecutively with
+vacation leave. However, compensatory time off taken in this manner shall be subject to
+the provisions of Article 31 (Vacation Leave) rather than the provisions of this Article.
+
+Section 28.3
+Employees shall request in writing from their immediate supervisor compensatory time off
+by the 15th of the preceding month in which the employee wants time off. The notification
+period may be waived by the immediate supervisor.
+
+
+
+
+2023-2025 Oregon Liquor and Cannabis Commission   43                  Collective Bargaining Agreement
+Section 28.4
+An employee shall be eligible to accrue up to one hundred twenty (120) hours of
+compensatory time off. Any hours in excess of that number of hours shall be paid to the
+employee by the Agency.
+
+Section 28.5
+When an employee terminates employment with the Agency, the Agency shall pay all
+unused compensatory time hours to the employee in the last paycheck.
+
+Section 28.6
+Scheduling compensatory time off for the Distribution Center employees (LDW 1, LDW 2,
+and LDEO).
+      a.     During January of each year, Distribution Center management will post a
+             notice advising employees to turn in their time off request forms, by the last
+             work day in February, for any requested compensatory time off that begins
+             on any date from May 1st through April 30th of the following year.
+
+         b.       Using the leave slips received, Distribution Center management will
+                  schedule compensatory time off in agency seniority order based on the
+                  Distribution Center operational needs.
+
+                  Management will approve/deny time off requests and return the requests no
+                  later than the fifth work day in March.
+
+         c.       For compensatory time off requests received after the last work day in
+                  February, the employee who first requests the time off is entitled to the time
+                  off. Distribution Center management will respond to these requests within
+                  three (3) work days.
+
+         d.       Compensatory time off requests for Thanksgiving week and Christmas/New
+                  Year’s (the Friday before the week of Christmas, the week of Christmas, the
+                  week of New Year’s Day and the Monday after) will be handled differently.
+                  An employee may request time off for these Thanksgiving/Christmas/New
+                  Year’s periods at any time. Distribution Center management will accumulate
+                  these requests through the second Friday in October. On the following
+                  Monday, Distribution Center management will approve/deny these requests,
+                  in agency seniority order, based on operational needs. For compensatory
+                  time off requests received after the second Friday in October, the employee
+                  who first requests the time off is entitled to the time off.
+
+### ARTICLE 29 - INCLEMENT WEATHER/HAZARDOUS CONDITIONS LEAVE
+
+Section 29.1
+A.    The Employer/Agency designated official(s) may close or curtail offices, facilities,
+      or operations because of inclement/environmental, weather, weather related or
+      hazardous conditions, including active shooter or threat of violence. The
+      Employer/Agency will announce such closure or curtailment to employees. The
+      Employer/Agency shall factor in the safety of State employees and the public to
+      determine a closure. An employee shall have the right to leave work if they deem
+      it is necessary for safety. Subject to the operating needs of the agency and
+      notification to their immediate supervisor, an employee may leave work early due
+2023-2025 Oregon Liquor and Cannabis Commission   44                      Collective Bargaining Agreement
+           to inclement weather or hazardous conditions and code their time as accrued sick
+           leave, vacation, compensatory time off, personal leave or approved leave without
+           pay. The Employer/Agency will strive to make its decision to close and/or postpone
+           day shift no later than 5 am; however, the parties recognize that changing
+           conditions may require further adjustment. The Employer/Agency may provide this
+           information through methods such as mass notification systems, pre-designated
+           internet web sites, phone trees, radio stations and/or television media. Notifications
+           do not apply to employees who are required to report to work.
+
+B.         For purposes of this Article essential staff are those staff who cannot perform their
+           core job duties or essential Agency functions from a remote work location. The
+           Agency shall notify employees of these designations and post the notices on
+           Agency bulletin boards by November 1st of each year. Notifications do not apply
+           to employees who are required to report to work. Essential staff/positions shall be
+           designated by the Agency by November 1st of each year. Essential staff/positions
+           shall be designated by the Agency by November 1 of each year. Such designations
+           may be modified with two weeks advance notice to the affected employee(s).
+           Essential staff who are required to report to work by the Employer/Agency shall be
+           on approved leave without pay status if absent, unless the employee elects to use
+           accrued leave. If an employee shows up within two (2) hours of their scheduled
+           shift, subject to operating requirements and supervisory approval, they may make
+           up the work time missed during the same workweek, provided work is available.
+
+      C.         Where the Employer/Agency has announced a delayed opening pursuant to
+                 Section 29.1a, employees are responsible for continuing to monitor the reporting
+                 sites for updated information related to the delay or potential closure.
+                 Employees may be allowed up to two hours commuting time as reasonably
+                 needed to report for work after a delayed opening has been announced. Where
+                 an employee arrives late due to this extended commute, they may flex their time
+                 with manager’s approval, or cover the time with accrued sick leave, vacation,
+                 compensatory time off, personal leave or approved leave without pay.
+
+
+D..        When a closure has been determined before the start of an employee’s work day
+           the employee may:
+           (1)   work from home, with manager’s approval or
+
+           (2)      work from an alternate work location that is no more than fifty (50) miles from
+                    their regular work location which has been identified by mutual agreement
+                    between the employee and the supervisor; or
+
+           (3)      use inclement weather/hazardous conditions leave as allowed for in Section
+                    6 of this Article.
+
+Section 29.2 FLSA Non Exempt Employees Only.
+If no work is available or the employee is unable to work from home or alternate work
+location, the employee will:
+       (1)    use accrued vacation hours, compensatory time off, personal leave time,
+              leave without pay; or,
+
+
+2023-2025 Oregon Liquor and Cannabis Commission     45                       Collective Bargaining Agreement
+         (2)      use inclement weather/hazardous conditions leave not to exceed forty (40)
+                  hours a biennium, or,
+
+         (3)      The employee may, with Agency prior approval, temporarily adjust their work
+                  hours during the same workweek to make up for hours not worked. The
+                  Agency shall not suffer any overtime or penalty payments as a result of this
+                  schedule change. The employee may be approved to flex their time to
+                  engage in training through the electronic employee training platform or other
+                  Agency approved resources remotely.           Such approval will not be
+                  unreasonably denied. Employees engaging in these options will waive their
+                  shift differential for such time; or,
+
+         (4)      Complete supervisory approved remote training courses.
+
+Once the forty (40) hours of inclement weather/hazardous conditions leave is used, and
+there are more Agency closures during the biennium, if unable to work remotely, the
+employee will use accrued vacation hours, personal leave or compensatory time off, leave
+without pay or, with prior Agency approval, temporarily adjust their work hours during the
+same workweek. The Agency shall not suffer any overtime or other penalty payments as
+a result of the change in schedule.
+
+Section 29.3. FLSA Exempt Employees.
+When the Employer/Agency notifies employees not to report to work pursuant to Section
+29.1a, prior to the beginning of the work shift, FLSA exempt employees shall be paid for
+the work shift. An FLSA exempt employee may be required to use paid leave or leave
+without pay where the closure applies to that employee for one (1) or more full
+workweek(s).
+
+Section 29.4.
+Employees will not be eligible for inclement/hazardous conditions leave when their regular
+days off occur on a day the Agency closes an office or facility, or when the employee is on
+prescheduled leave.
+
+Inclement weather/hazardous conditions leave shall not count as hours worked for the
+purpose of overtime calculation.
+
+Inclement weather/hazardous conditions leave not used during the biennium will be lost
+and will not be rolled over into the next biennium. Inclement weather/hazardous conditions
+leave is not compensable if the employee separates from state service.
+
+Part time employees will receive a prorated amount of inclement weather leave when
+applicable.
+
+Section 29.45
+When in the judgment of the Employer/Agency, inclement/environmental weather or
+weather-related or hazardous conditions, including active shooter or threat of violence
+require the closing of the work place following the beginning of an employee’s work shift,
+the employee shall be paid for the remainder of their work shift.
+
+
+
+
+2023-2025 Oregon Liquor and Cannabis Commission   46                      Collective Bargaining Agreement
+Section 29.6 Alternate Work Sites.
+Employees may be assigned or authorized to report to work at an alternative work site(s)
+and be paid for the time worked. Employees who have been pre-approved to work
+remotely and are unable to complete their assigned duties due to a loss of electricity, loss
+of internet service, or comparable circumstance, due to inclement or hazardous conditions
+will pursue alternative methods for completing their assigned duties. However, employees
+unable to work through an alternative method will be eligible for inclement/hazardous
+conditions leave not to exceed the forty (40) hours a biennium.
+
+Section 29.7 Late or Unable to Report.
+Where the Agency remains open and an employee notifies their supervisors that they are
+unable to report to work, or will be late, due to inclement weather, weather-related, or
+hazardous conditions including active shooter or threat of violence, the employee shall be
+allowed to work from home with the approval of their supervisor, use accrued vacation
+leave, compensatory time off, personal leave or approved leave without pay, or accrued
+sick leave. Where the Employer and the employee mutually agree, the employee may be
+permitted to flex their time.
+
+Section 29.8 Employees on Pre-scheduled Leave.
+If an employee is on pre-scheduled leave the day of the closure, the employee will be
+compensated according to the approved leave.
+
+Section 29.9 Make-up Time Provisions.
+Subject to Agency operating requirements and supervisory approval, employees who do
+not work pursuant to Sections 29.2 and 29.6 of this Article may make-up part or all of their
+work time missed during the same workweek. In no instance will time worked during the
+make-up period result in overtime being charged to the Agency. The Employer/Agency
+shall not be liable for any penalty or overtime payments when employees are authorized
+to make up work.
+
+Section 29.10.
+If the Employer/Agency anticipates the inclement condition will last longer than fourteen
+(14) calendar days the Parties will meet and discuss impacts of the inclement weather
+and/or hazardous conditions.
+                                                                             REV: 2017, 2021,2023
+
+
+### ARTICLE 30 - HOLIDAYS
+
+Section 30.1
+The following compensable holidays shall be recognized:
+       a.    New Year's Day on January 1;
+       b.    Martin Luther King, Jr's Birthday on the third Monday in January;
+       c.    Presidents' Day on the third Monday in February;
+       d.    Memorial Day on the last Monday in May;
+       e.    Juneteenth on June 19;
+       f.    Independence Day on July 4;
+       g.    Labor Day on the first Monday in September;
+       h.    Veterans Day on November 11;
+       i.    Thanksgiving Day on the fourth Thursday in November;
+       j.    The Friday after Thanksgiving;
+       k.    Christmas Day on December 25;
+
+2023-2025 Oregon Liquor and Cannabis Commission      47               Collective Bargaining Agreement
+         l.       Every day appointed by the Governor of the State of Oregon as a holiday
+                  and every day appointed by the President of the United States as a day of
+                  mourning, rejoicing, or other special observance only when the Governor
+                  also appoints that day as a holiday.
+
+                  When a holiday specified in this Section falls on a Saturday, the preceding
+                  Friday shall be recognized as the holiday. When a holiday specified in this
+                  Section falls on a Sunday, the following Monday shall be recognized as the
+                  holiday.
+
+Section 30.2
+When a holiday occurs on what would normally be the first or last workday of the pay
+period, employees who are hired on the first workday or who separate on the last workday
+shall receive pay for the holiday. This holiday compensation is called holiday pay. Full-
+time employees shall receive eight (8) hours of holiday pay. Recognized holidays which
+occur during vacation or sick leave will be charged as a holiday rather than vacation or
+sick leave.
+
+Section 30.3
+Employees who are required to work on recognized holidays shall be entitled to their
+holiday pay plus an additional premium of cash or compensatory time off for all such time
+worked at the rate of time and one-half (1-1/2). The rate at which an employee shall be
+compensated for working on a holiday shall not exceed the rate of time and one-half (1-1/2)
+in addition to holiday pay.
+
+Section 30.4 Special Day (“Governor’s Leave”).
+In addition to the holidays specified in this Article, full-time employees shall receive eight
+(8) hours of paid leave. Part-time employees shall receive a prorated share of eight (8)
+hours of paid leave. Employees may request the option of using this paid leave on any
+workday during the calendar year. Approved usage of this leave shall be taken in a single
+block of time and granted on a basis which shall preclude the closure of state facilities. .
+
+Section 30.5
+A.    Employees shall normally be notified of holiday work schedules at least ten (10)
+      work days in advance except in situations over which the Agency has no control.
+
+B.       Except for Field offices which are staffed by one (1) Liquor Regulatory Specialist,
+         employees shall be given the opportunity to request to work or not to work on a
+         holiday. Such requests shall be granted on the basis of seniority in keeping with
+         the operating needs of the Agency.
+C.       Field offices which are staffed by one (1) Liquor Regulatory Specialist shall be
+         required to work the holiday if the Agency determines work is necessary.
+
+D.       Except for sub (c) above, should no employee request to work on a holiday, the
+         Agency shall assign the work to the employee with the least seniority with the
+         Agency in the field office from those regularly scheduled to work who are qualified
+         to perform the particular tasks.
+
+Section 30.6
+A.    When an employee has been approved to work a four (4) day, ten (10)-hour work
+      schedule or other irregular schedule, and a holiday falls within that week, the work
+2023-2025 Oregon Liquor and Cannabis Commission   48                    Collective Bargaining Agreement
+         schedule may be changed to meet the operating requirements of the Agency.
+         Employees who were scheduled to work that day but receive a holiday instead will
+         receive eight (8) hours holiday pay. They will also have two (2) hours deducted
+         from their accumulated compensatory or vacation accrual balance or may flex up
+         to two (2) hours within the same workweek, with supervisor approval. The agency
+         will deduct two (2) hours leave without pay if the employee has no compensatory
+         or vacation accrual balance or has not flexed his or her schedule. With supervisor
+         approval, employees may request to change their schedule to a five (5) day, eight
+         (8) hour work schedule on week that a holiday occurs or may flex to make up the
+         hours.
+
+B.       An employee on a work schedule “F” or “M” and his or her supervisor will mutually
+         agree to adjust his or her work schedule within the defined workweek period during
+         a workweek when a compensable holiday occurs. The reason for the adjustment
+         is to ensure a record of not to exceed forty (40) hours of paid time that includes the
+         appropriate number of holiday hours. If needed, the employee may use accrued
+         leave or compensatory time, or the employee may request adjustment of his or her
+         work schedule to account for a full forty (40) hours in the workweek. Such
+         adjustment shall be considered additional straight time worked rather than daily
+         overtime hours. When the compensable holiday, or portion thereof, falls on the
+         employee’s scheduled day off, the employee and supervisor will mutually agree on
+         an alternative and commensurate time off within the workweek period.
+
+Section 30.7
+Full time employees who have recognized holidays falling on their scheduled days off will
+have their choice of eight (8) hours of holiday pay or eight (8) hours of compensatory time
+off for these holidays. Effective 7/1/2012, holiday pay received under this section will not
+count as time worked for purposes of calculating overtime. Part-time employees shall
+receive their choice of holiday pay or compensatory time off on a prorated basis based on
+the same percentage of the month as their normal work schedule.
+
+Section 30.8 For Distribution Center Only:
+The Agency will approve employee requests for time off in conjunction with a holiday by
+seniority within classification, subject to the Agency's operating requirements. The Agency
+may require advance notice with a cutoff date.
+                                                                          REV: 2015, 2017, 2021,2023
+
+
+### ARTICLE 31 - VACATION LEAVE
+
+Section 31.1
+Full-time classified employees shall accrue vacation leave in accordance with the
+schedule below. Employees who are new to state service may use accrued vacation leave
+during the first six months of employment; however, if an employee separates from state
+service prior to the completion of six months, any accumulated vacation time not utilized
+will be lost and is not compensable upon separation.
+
+            Initial appointment to state service Twelve (12) work days for each twelve (12)
+            through                              months of service (eight (8)
+            fifth (5th ) year                    hours per month)
+
+
+
+2023-2025 Oregon Liquor and Cannabis Commission   49                     Collective Bargaining Agreement
+            After fifth (5th ) year through         Fifteen (15) work days for each twelve (12)
+            tenth (10th ) year                      months of service (ten (10)
+                                                    hours per month)
+
+            After tenth (10th ) year through        Eighteen (18) work days for each twelve
+            fifteenth (15th ) year                  (12) months of service (twelve (12) hours
+                                                    per month)
+
+            After fifteenth (15th ) year through    Twenty-one (21) work days for each twelve
+            twentieth (20th ) year                  (12) months of service (fourteen (14) hours
+                                                    per month)
+
+            After twentieth (20th ) year through    Twenty-four (24) work days for each twelve
+            twenty-fifth (25th) year                (12) months of service (sixteen (16) hours
+                                                    per month)
+
+            After twenty-fifth (25th ) year         Twenty-seven (27) work days for each
+                                                    twelve (12) months of service (eighteen (18)
+                                                    hours per month)
+
+A full-time employee working less than a month shall accrue vacation leave on a pro rata
+basis.
+
+If an employee has a break in service during the first year of employment and that break
+does not exceed two (2) years, the employee may be given credit for the time worked prior
+to the break in service. In order to facilitate the administration of leave records, vacation
+leave may be accrued on a monthly basis for employees who have completed six (6) full
+calendar months of service. Vacation accrual hours shall not accrue during a leave of
+absence without pay, the duration of which exceeds fifteen (15) calendar days.
+
+Section 31.2 Vacation Leave for Part-Time Employees.
+A part-time employee shall accrue vacation leave on a pro rata basis per the same
+schedule as full-time employees.
+
+Section 31.3 Vacation Leave for Seasonal Employees.
+Seasonal employees who are new to state service may use accrued vacation leave during
+their first one-thousand and forty (1,040) hours of employment; however, if a seasonal
+employee separates from state service prior to the completion of those one-thousand and
+forty (1,040) hours, any accrued vacation time not utilized will be lost and is not
+compensable upon separation. In accumulating this initial six (6) calendar months of
+service, time worked prior to a break in service may be credited if the break does not
+exceed two (2) seasons. (An employee may not be credited with more than one (1) season
+during a calendar year.) Vacation leave shall be accumulated as follows:
+           Initial appointment to state service Twelve (12) work days for each twelve (12)
+           through fifth (5th )                 full calendar months of service (eight (8)
+           annual season                        hours per month)
+
+            After fifth (5th ) annual season        Fifteen (15) work days for each twelve (12)
+            through tenth (10th ) annual            full calendar months of service (ten (10)
+            season                                  hours per month)
+
+2023-2025 Oregon Liquor and Cannabis Commission    50                      Collective Bargaining Agreement
+            After tenth (10th ) annual season      Eighteen (18) work days for each twelve
+            through fifteenth (15th ) annual       (12) full calendar months of service (twelve
+            season                                 (12) hours per month)
+
+            After fifteenth (15th ) annual season Twenty-one (21) work days for each twelve
+            through twentieth (20th ) annual      (12) full calendar months of service
+            season                                (fourteen (14) hours per month)
+
+            After twentieth (20th ) annual Twenty-four (24) work days for each twelve
+            season through twenty-fifth (25th ) (12) full calendar months of service (sixteen
+            annual season                       (16) hours per month)
+
+        After twenty-fifth (25th ) annual Twenty-seven (27) work days for each
+        season                              twelve (12) full calendar months of service
+                                            (eighteen (18 hours per month)
+Vacation leave shall not accrue during a leave of absence without pay, the duration of
+which exceeds fifteen (15) calendar days.
+
+Section 31.4 Eligibility for Vacation Credits.
+Time spent by an employee in actual State service or on Peace Corps, military,
+educational, or job-incurred disability leave without pay shall be considered as time in the
+State service in determining length of service for vacation credits.
+
+Section 31.5 Restoration of Vacation Leave Credits.
+Employees who have been separated from the Agency service and return to a permanent
+position within two (2) years shall be given credit toward additional vacation credits for
+service prior to their separations. All time in the exempt or unclassified service, shall be
+counted as long as there is not a break in service of more than two (2) years.
+
+Section 31.6 Termination Vacation Pay.
+An employee who is laid off or terminates after six (6) full calendar months of Agency
+service shall be paid upon separation from Agency service for accrued vacation time
+except as provided as set off for damages or misappropriation of State property or
+equipment. An employee on educational leave of absence without pay in excess of thirty
+(30) days shall be paid for vacation leave accrued up to the end of the last full month of
+service. Employees on military leave of absence may request payment for accrued
+vacation.
+
+Section 31.7 Scheduling of Vacations.
+A.    Vacations shall be scheduled at a time mutually acceptable to the Agency and the
+      employee and consistent with the work requirements of the Agency. If a manager
+      would limit the number of employees who may have vacation during the same
+      period, the Agency will use the following procedure to determine which request is
+      granted vacation:
+      (1)    When the requested vacation period is thirty (30) days or less in the future,
+             the employee who first requested vacation is entitled to the vacation period.
+
+         (2)      When the requested vacation period is more than thirty (30) days in the
+                  future, the employee's manager will post the vacation request. The more
+                  senior employee is entitled to the vacation period if the employee notifies
+                  their manager in writing within fourteen (14) days of the posting.
+2023-2025 Oregon Liquor and Cannabis Commission   51                      Collective Bargaining Agreement
+                  The procedure described above may not apply if the employees mutually
+                  agree to a different resolution.
+
+B.       An employee who seeks to change their previously designated vacation time may
+         request such a change subject to the Agency's operating requirements, except that
+         this choice shall not require any other employee to change their vacation schedule.
+         The scheduling of vacation leave shall take precedence over the scheduling of
+         compensatory time off.
+
+         (1) Vacation requests shall be responded to within three (3) work days unless the
+             procedure in 31.7a (2) is followed.
+
+         (2) Employees shall be able to request forecasted accrued vacation leave. Such
+             leave may only be taken if the accrued vacation leave is actually accrued by the
+             date the leave is to be used.
+
+C.       Scheduling vacation leave for Distribution Center employees (LDW 1, LDW 2, and
+         LDEO).
+         (1)  During January of each year, Distribution Center management will post a
+              notice advising employees to turn in their leave request forms, by the last
+              work day in February, for any requested vacation leave that begins on any
+              date from May 1st through April 30th of the following year.
+
+         (2)      Using the leave slips received, Distribution Center management will
+                  schedule vacation leave in agency seniority order based on the Distribution
+                  Center operational needs. Management will approve/deny vacation leave
+                  requests and return the requests no later than the fifth work day in March.
+
+         (3)      For vacation leave requests received after the last work day in February, the
+                  employee who first requests the leave is entitled to it. Distribution Center
+                  management will respond to these requests within three (3) work days.
+
+Section 31.8 Vacation Accrual.
+An employee shall be allowed to accumulate a maximum of three hundred fifty (350) hours
+of vacation leave; however, in the event of layoff, resignation, retirement or termination,
+any unused vacation up to three hundred (300) hours will be paid to the employee. When
+an employee notifies the Agency they plan to separate from Agency service within the next
+two (2) calendar months, and the employee has at the time of such notice more than three
+hundred (300) hours of accrued vacation hours, the Agency and employee will work
+together to find a mutually agreeable time for the employee to take time off to reduce
+accrued vacation hours down to the three hundred (300) hours.
+
+An appointing authority may authorize cash payment of sixty (60) hours, upon determining
+that granting of vacation leave is not appropriate. The designated supervisor must
+document the denial of the vacation leave request. Cash payout for accrued vacation
+leave must not be granted more than once in each fiscal year.
+
+Section 31.9
+A.    Cancellation of Scheduled Vacation. Vacations that have been scheduled may not
+      be canceled by the Agency except in the event of an emergency. When
+      unrecoverable deposits for a scheduled vacation are incurred by an employee, their
+2023-2025 Oregon Liquor and Cannabis Commission   52                      Collective Bargaining Agreement
+         vacation shall not be canceled. The Agency may require written proof of
+         unrecoverable deposits. In the event of a schedule change caused by seniority or
+         a transfer at the request of the employee, the provisions of this Section shall not
+         apply.
+
+B.       Payment for Work During a Scheduled Vacation. If the Agency requests that an
+         employee return to work during a scheduled vacation, the employee will be
+         compensated a minimum of three (3) hours at the time and one-half (1-1/2) rate or
+         the actual hours worked at time and one-half (1-1/2), whichever is greater. The
+         Agency will make this payment only for work done during the employee’s scheduled
+         vacation.
+
+Section 31.10
+Compensation for use of accrued vacation shall be at the employee's prevailing straight
+rate of pay.
+
+Section 31.11
+In the event of an employee's death, all monies due for accrued vacation and salary shall
+be paid as provided by law.
+
+Section 31.12. Vacation Cashout.
+In addition to Article 31.8, of the Agreement, employees may cash out up to forty (40)
+hours of accrued vacation hours each State fiscal year under the following conditions:
+      a.      Employees must have regular status at the time of the request;
+
+         b.       Employees shall receive payment within thirty (30) days from the date of their
+                  cash out request made through the human resources information system.
+
+         c.       After cash out, employees must have in their leave balance at least sixty (60)
+                  hours of accrued vacation leave hours;
+
+         d.       Payment shall be the employee’s straight time rate of pay;
+
+         e.       Employees on unprotected leave without pay at the time the payment is
+                  requested are not eligible to cash out accrued vacation hours.
+
+To avoid losing vacation, the employee must request vacation leave. An Agency may
+authorize cash payment of sixty (60) hours, upon determining that granting of vacation
+leave is not appropriate.
+                                                                       REV: 2015, 2017, 2019, 2021,2023
+
+
+### ARTICLE 32 - SICK LEAVE
+
+Section 32.1 Accrual Rate of Sick Leave With Pay Credits.
+Employees shall accrue eight (8) hours of sick leave with pay credits for each full month
+of compensable time. Employees who have Compensable time of less than a full month
+but at least thirty-two (32) hours shall accrue sick leave with pay on a pro rata basis.
+
+Section 32.2 Eligibility for Sick Leave With Pay.
+Employees shall be eligible for sick leave with pay immediately upon accrual.
+
+
+2023-2025 Oregon Liquor and Cannabis Commission     53                     Collective Bargaining Agreement
+Section 32.3 Determination of Service for Sick Leave With Pay.
+All compensable time shall be included in determining the pro rata accrual of sick leave
+credits each month, provided that the employee has at least thirty-two (32) hours or more
+of compensable time in that month.
+
+Section 32.4 Utilization of Sick Leave With Pay.
+Employees who have earned sick leave credits shall be eligible for sick leave for any
+period of absence from employment which is due to the employee's illness, bodily injury,
+disability resulting from pregnancy, necessity for medical or dental care, exposure to
+contagious disease, attendance upon members of the employee's immediate family
+(employee's parents, wife, husband, children, foster children, brother, sister,
+grandchildren, grandmother, grandfather, father-in-law, mother-in-law, son-in-law,
+daughter-in-law, or another member of the immediate household) where employee's
+presence is required because of illness or death in the immediate family of the employee
+or the employee's spouse. The Agency has the duty to require that the employee make
+other arrangements, within a reasonable period of time, for the attendance upon children
+or other persons in the employee's care.
+
+Certification of an attending physician or practitioner may be required by the Agency to
+support the employee's claim for sick leave, if the employee is absent in excess of seven
+(7) consecutive days, or if the Agency has reasonable suspicion that the employee is
+abusing sick leave privileges. The Agency may also require such certificate from an
+employee to determine whether the employee should be allowed to return to work where
+the Agency has reason to believe that the employee's return to work would be a health
+hazard to either the employee or to others.
+
+Section 32.5 Sick Leave With Pay on Termination.
+Compensation for accrued sick leave shall not be paid to an employee on termination for
+any reason.
+
+Section 32.6 Restoration of Sick Leave Credits.
+Employees who have been separated from the State service and return to a position within
+two (2) years shall have unused sick leave credits accrued during previous employment
+restored.
+
+Section 32.7 Sick Leave Without Pay.
+After earned sick leave has been exhausted and the employee has the opportunity in
+writing to exercise the option of using accumulative time as outlined in Article 43.3, the
+Agency shall grant sick leave without pay for any job-incurred injury or illness for a period
+which shall terminate upon demand by the employee for reinstatement accompanied by a
+certificate issued by a duly licensed attending physician that the employee is physically
+and/or mentally able to perform the duties of that position. No compensatory time,
+vacation time or other accumulated time shall be deducted from the employee's time
+unless directed by the employee in writing. If such direction is not given by the employee,
+leave without pay shall be granted.
+
+After earned sick leave has been exhausted, the Agency may, at their discretion, grant
+sick leave without pay for up to ninety (90) calendar days, for any non-job-incurred injury
+or illness with a prolonged recovery period. The Agency may grant additional sick leave
+without pay. Employees must use all accrued leave in conjunction with OFLA and FMLA
+
+2023-2025 Oregon Liquor and Cannabis Commission   54                   Collective Bargaining Agreement
+leave except for a total of eighty (80) hours of accrued vacation and/or compensatory time
+off.
+
+The Agency may require that the employee submit a certificate from the attending
+physician or practitioner in verification of disability. Any cost associated with the supplying
+of a certificate concerning a job-incurred injury or illness that is not covered by Worker's
+Compensation benefits shall be borne by the Agency. Any cost associated with the
+supplying of a certificate concerning a non-job-incurred injury or illness shall be borne by
+the employee. In the event of a failure or refusal to supply such a certificate, or if the
+certificate does not clearly show sufficient disability to preclude that employee from the
+performance of duties, such sick leave may be canceled and the employee's service
+terminated. Employees may use donated leave for leave granted under this section.
+
+Section 32.8
+A.    Donated Leave. As used in this Article:
+      (1)    "Accumulated Leave" includes but is not limited to sick, vacation, and
+             compensatory leave.
+
+         (2)      "Costs" include employee wages, insurance premiums, and employee and
+                  employer payroll taxes.
+
+         (3)      "Prolonged Illness or Injury" means inability to work because of an illness
+                  or injury that the treating physician certifies in writing will continue for at least
+                  thirty (30) consecutive calendar days.
+
+B.       An employee may make donations of accrued vacation leave and/or compensatory
+         time, in two (2) hour increments, to a regular status employee who has exhausted
+         all accumulated leave and who is not enrolled in or eligible to receive short term or
+         long term disability benefits, while recuperating or recovering from a prolonged
+         illness or injury pursuant to the following terms and conditions:
+         (1)     Utilization of such donations shall not exceed the hours necessary to cover
+                 the qualifying absence;
+
+         (2)      Donations shall be credited at the donor's current regular hourly rate of pay.
+
+         (3)      The donor and recipient will hold the Employer harmless for any tax liabilities;
+
+         (4)      Donated leave will not be applied to previous pay periods;
+
+         (5)      Applicants for hardship leave shall apply in writing to the Agency with a copy
+                  to the Union. A treating physician's written statement certifying that the
+                  prolonged illness or injury involved will continue for at least thirty (30)
+                  consecutive calendar days must be submitted to the Agency.
+
+C.       Employees who are eligible for short term disability, but do not have leave to cover
+         the one (1) week waiting period, will be eligible to receive donated leave.
+
+D.       Donated leave may be used on an intermittent basis for the same event after the
+         employee has satisfied the eligibility requirements to receive donated leave,
+         including exhaustion of all accumulated leave. Approval shall be subject to
+         availability of donations from employees to cover all hardship leave costs. Upon
+2023-2025 Oregon Liquor and Cannabis Commission     55                          Collective Bargaining Agreement
+         confirmation from the Agency that the employee has satisfied the eligibility
+         requirements, the Union shall initiate and collect donations on a form(s) the Agency
+         provides. The Union will give the completed forms to the Agency in the same month
+         the hardship leave begins.
+
+E.       The Agency shall administer donations.
+
+F.       Use of donated leave is subject to and must be consistent with the provisions of
+         Section 32.4 of this Article.
+
+G.       Employee's on Workers' Compensation shall not be eligible for hardship leave.
+
+H.       To donate to a specific employee in a different Agency, the employee (donor) must
+         submit a written request to their appointing authority/designee. The appointing
+         authority or designee from both the donor’s and recipient’s Agencies may authorize
+         the transfer of donated leave between Agencies, subject to restrictions on the use
+         of dedicated funding sources and/or other legitimate business reasons.
+
+I.       In no event shall the use of donated leave extend beyond the length of leave
+         available to employees under this Article.
+
+J.       The terms of this Article shall be strictly enforced.
+
+Section 32.9
+An employee shall have all of their accrued sick leave credits transferred when the
+employee is transferred to or from a different State Agency.
+                                                                                           REV: 2017
+
+
+### ARTICLE 33 - OTHER LEAVES
+
+Section 33.1 Personal Leave.
+After six (6) full calendar months of Agency service, full-time employees shall be entitled
+to twenty-four (24) hours of personal leave with pay for each fiscal year. When it is
+anticipated that a part-time or seasonal employee will complete at least 1,040 hours during
+the forthcoming fiscal year, they shall be granted such leave with the twenty-four (24)
+hours prorated according to the forecasted number of hours to be worked during the
+forthcoming fiscal year. Employees shall not accumulate more than twenty-four (24) hours
+personal leave nor is any unused leave compensable in any other manner. Such leave
+may be taken at times mutually agreeable to the Agency and the employee.
+
+Section 33.2 Pre-Retirement Counseling Leave.
+Employees shall be granted up to twenty-eight (28) hours leave with pay to pursue bona
+fide pre-retirement counseling programs. Employees shall request the use of leave
+provided in this Article at least five (5) days prior to the intended date of use.
+
+Authorization for the use of pre-retirement counseling leave shall not be withheld unless
+the Agency determines that the use of such leave shall hinder the efficiency of the
+employee's work unit.
+
+When the dates requested for pre-retirement leave cannot be granted for the above
+reason, the Agency will work with the employee to find an alternate date. The leave
+
+2023-2025 Oregon Liquor and Cannabis Commission   56                    Collective Bargaining Agreement
+discussed under this Section may be used to investigate and assemble the employee's
+retirement program, including PERS, Social Security, Insurance and other retirement
+income.
+
+Section 33.3 Other Leaves of Absence With Pay.
+An employee shall be granted a leave of absence with pay for the following:
+      a.     Service with a Jury. The employee may keep any money paid by the court
+             for serving on a jury.
+
+         b.       Appearance before a court, legislative committee or judicial or quasi-judicial
+                  body as a witness in response to a subpoena or other direction by proper
+                  authority for matters other than the employee's officially assigned duties.
+                  The employee may keep any money paid in connection with the appearance.
+
+         c.       Taking part without pay in a search or rescue operation at the request of any
+                  law enforcement agency, the administrator of the Aeronautics Division, the
+                  United States Forest Service or any local organization for civil defense, for a
+                  period of no more than five (5) days for each operation.
+
+         d.       Any time proclaimed by the Governor as leave of absence with pay.
+
+         e.       Other authorized duties in connection with Agency business.
+
+Section 33.4 Military Training Leave With Pay.
+An employee who has served with the State of Oregon or its counties, municipalities or
+other political subdivisions for six (6) months or more immediately preceding a request for
+paid military training leave, and who is a member of the National Guard or any reserve
+components of the armed forces of the United States is entitled to fifteen (15) days or one
+hundred and twenty (120) hours of paid military leave per federal fiscal year, unless a
+greater number of days is provided by law. In no event may an employee receive more
+than the number of days provided by law.
+
+Military leave shall be granted in accordance with applicable Law and state policy. In
+addition, employees shall be allowed to utilize paid military leave for travel to and from
+their place of duty and for the time spent on militarily obligated status or military duty
+regardless of the length of their military status or duty.
+
+Subject to supervisory approval, employees may be allowed to voluntarily adjust their
+shifts to accommodate military duty.
+
+Section 33.5 Military Leave Without Pay.
+An employee in the State service shall be entitled to a military leave of absence without
+pay during a period of service with the armed forces of the United States. However,
+reduction in salary will not be made for an FLSA-exempt employee on temporary military
+leave except for full workweek increments where such leave causes an absence of one
+(1) or more full workweeks. They shall, upon discharge from such service, be returned to
+a position in the same class as their last held position, at the salary rate prevailing for such
+class, without loss of seniority or employment rights. Employees shall make application
+for reinstatement within ninety (90) days and shall report for duty within six (6) months
+following separation from active duty. Failure to comply may terminate military leave. If it
+is established that they are not physically qualified to perform the duties of their former
+2023-2025 Oregon Liquor and Cannabis Commission   57                       Collective Bargaining Agreement
+position by reason of such service, they shall be reinstated in other work that they are able
+to perform at the nearest appropriate level of pay of their former class.
+
+Section 33.6 Court Appearance Leave Without Pay.
+An employee may request and shall be granted leave without pay for the time required to
+make an appearance as a plaintiff or defendant in a civil or criminal court proceeding that
+is not connected with the employee's officially assigned duties. However, reduction in
+salary will not be made for an FLSA-exempt employee to testify in court or at a deposition
+except for full workweek increments where such testimony causes an absence of one (1)
+or more full workweeks.
+
+Section 33.7 Leave of Absence Without Pay.
+In the instances where the work of an Agency will not be seriously hindered by the
+temporary absence of an employee, the employee may be granted leave of absence
+without pay or educational leave without pay not to exceed one (1) year. Time spent on
+leave without pay which exceeds fifteen (15) consecutive days shall not be considered as
+service in determining the employee's eligibility date for a salary increase unless such time
+has been spent on military leave consistent with Veteran Reemployment Rights Law Title
+38, USC, Chapter 43.
+
+Section 33.8 Parental Leave.
+The Agency will grant a leave of absence up to twelve (12) weeks to an eligible parent in
+the event of a birth or adoption. Subject to Agency operating requirements and
+management discretion, parental leave may be granted on an intermittent basis. An
+employee may request and the Agency may grant additional leave without pay. During
+parental leave, the employee may use vacation, compensatory time off or, consistent with
+state and federal regulations, sick leave, in any combination for the parental leave period.
+If permitted by an applicable short term disability policy, an employee with a short term
+disability claim for a parental leave related event may retain up to forty (40) hours of sick
+leave and be eligible to request leave without pay for the remainder of the parental leave
+period.
+
+Section 33.9 Test and Interview Leave.
+With written notice to the supervisor, an employee shall be allowed appropriate time off
+with pay to take tests or participate in interviews related to promotional opportunities within
+the Agency; up to three (3) hours with pay shall be allowed for an interview for a position
+with another State agency.
+
+Authorization for the use of test and interview leave shall not be withheld unless the
+Agency determines that the use of such leave shall hinder the efficiency of the employee's
+work unit.
+
+Section 33.10 Bereavement Leave.
+A.    Notwithstanding the hardship or sick leave eligibility criteria of the Agreement
+      employees shall be eligible for a maximum of twenty-four (24) hours of paid
+      bereavement leave per event of an immediate family member which shall be
+      prorated for part-time employees. The Agency may request documentation.
+
+B.       For employees that qualify for OFLA bereavement leave, paid bereavement leave
+         under this Agreement shall run concurrently with OFLA bereavement leave.
+
+2023-2025 Oregon Liquor and Cannabis Commission   58                     Collective Bargaining Agreement
+C.       After OFLA eligible leave for bereavement is exhausted, if additional leave is
+         needed, an employee may, with prior authorization, use any accrued leave or leave
+         without pay at the option of the employee for a period of absence from employment
+         to discharge the customary obligations arising from a death in the immediate family
+         or the employee’s spouse.
+
+D.       Regular and trial service employees may be eligible to receive up to forty (40) hours
+         of donated leave, to be used consecutively. The employee must exhaust all
+         available accrued leave to qualify to receive hardship leave.
+
+E.       For purposes of this Article, “immediate family” shall include:
+         •      the employee’s or the employee’s spouse’s parent (includes one who stood
+                in loco parentis (in place of a parent)) when the employee was a child);
+         •      spouse;
+         •      child, and child’s spouse (includes a child for whom the employee stood in
+                loco parentis and includes step child from a previous marriage);
+         •      sibling;
+         •      grandparent;
+         •      grandchild;
+         •      aunt or uncle;
+         •      niece or nephew;
+         •      or the equivalent of each of the above for domestic partners, or another
+                member of the immediate household.
+         Note: Immediate family shall include the current in-laws and step family members
+         who qualify per the above list.
+
+Requirements outlined in Article 32.8 related to “prolonged injury or illness” and
+“physician’s note” do not apply for qualifying for donated leave under this section.
+                                                                              REV: 2015, 2019, 2021
+
+
+### ARTICLE 34 - POSITION DESCRIPTIONS
+
+Position descriptions shall be reduced to writing and delineate the specific duties assigned
+to an employee's position. A dated copy of the position description shall be given
+to the employee upon assuming the position and at such time as the position description
+is amended. Any amendments which change responsibility sufficiently to warrant a
+classification change will be subject to the provisions of Article 20, Classification and
+Classification Changes.
+
+The position description shall be subject to at least an annual review with the employee
+and any changes shall be developed by the employee and their supervisor. Nothing
+contained herein shall compromise the right or the responsibility of the Agency to assign
+work consistent with the classification specification.
+
+The Agency shall provide all current bargaining unit position descriptions to the Union
+upon request once per year.
+                                                                                           REV: 2023
+
+
+
+
+2023-2025 Oregon Liquor and Cannabis Commission   59                    Collective Bargaining Agreement
+### ARTICLE 35 - SALARY ADMINISTRATION
+
+Section 35.1 Step Salary Increase.
+Employees shall be eligible for a step salary increase on their step salary increase date
+following:
+       a.    Completion of the initial twelve (12) months of service.
+
+         b.       Completion of a trial service following promotion.
+
+         c.       Annual periods after (a) or (b) above until the employee has reached the top
+                  of the salary range.
+
+                  The immediate supervisor shall give written notice to an employee of
+                  withholding of a step salary increase prior to the eligibility date, including a
+                  statement of the reason(s) it is being withheld. An employee may use the
+                  grievance procedure outlined in Article 13 if an annual step increase is
+                  withheld.
+
+Section 35.2 Salary on Demotion.
+Whenever an employee demotes to a job classification in a lower range that has a salary
+rate the same as the previous step, the employee's salary shall be maintained at that step
+in the lower range.
+
+Whenever an employee demotes to a job classification in a salary range which does not
+have corresponding salary steps with the employee's previous salary but is within the new
+salary range, the employee's salary shall be maintained at the current rate until the next
+eligibility date. At the employee's next eligibility date, if qualified, the employee shall be
+granted a salary rate increase of one (1) full step within the new salary range plus that
+amount that their current salary rate is below the next higher rate in the new salary range.
+This increase shall not exceed the highest rate in the new salary range.
+
+Whenever an employee demotes to a job classification in a lower range, but the
+employee's salary is above the highest step for that range, the employee shall be paid at
+the highest step in the new salary range.
+
+This section shall not apply to demotions resulting from official disciplinary actions.
+
+Section 35.3 Salary on Promotion.
+An employee shall be given an increase to no less than the next higher rate in the new
+salary range effective on the date of promotion.
+
+Section 35.4 Salary on Lateral Transfer.
+An employee's salary shall remain the same when transferring from one position to
+another which has the same salary range.
+
+Section 35.5 Effect of Break in Service.
+When an employee separates from the Agency and subsequently returns to the Agency,
+except as a temporary employee, the employee's previous salary eligibility date shall be
+adjusted by the amount of break in service.
+
+
+2023-2025 Oregon Liquor and Cannabis Commission   60                        Collective Bargaining Agreement
+Section 35.6 Rate of Pay on Appointment from Layoff List.
+When an individual is appointed from a layoff list to a position in the same class in which
+the person was previously employed, the person shall be shall be paid at the same salary
+step at which such employee was being paid at the time of layoff.
+
+Section 35.7 Rate of Pay on Return to Agency Service by Reemployment.
+When a former employee returns to the Agency within two (2) years, by reemployment, to
+a position in the same classification or successor classification in which he or she was
+previously employed, the employee shall be paid at the same salary range or successor
+salary range and step at which the employee was being paid at the time of separation.
+
+### ARTICLE 36 - OVERTIME
+
+Section 36.1
+This Article is intended only to provide a basis for the calculation of overtime and none of
+its provisions shall be construed as a guarantee of any minimum or maximum hours of
+work or weeks of work to any employee or to any group of employees.
+
+Section 36.2
+Employees shall be compensated at the rate of one and one-half (1-1/2) times the regular
+rate of pay for overtime worked under the following conditions, but in no event shall such
+compensation be received twice for the same hours:
+        a.    Employees on a regular work schedule shall receive overtime for all
+              authorized work in excess of eight (8) hours on any scheduled eight (8)-hour
+              workday or in excess of forty (40) hours in any one (1) workweek.
+
+         b.       Full-time employees on an approved irregular work schedule of four (4) ten
+                  (10)-hour days shall receive overtime for all authorized work in excess of ten
+                  (10) hours each day or in excess of the forty (40) hours in any one (1)
+                  workweek.
+
+         c.       Full-time employees on an approved irregular work schedule of a five (5)-
+                  day combination of four (4) nine (9)- hour days and one (1) four (4)-hour day
+                  will receive overtime for all authorized work in excess of nine (9) hours each
+                  day or in excess of the forty (40) hours in any one (1) workweek.
+
+         d.       Full-time employees on an approved flexible work schedule shall receive
+                  overtime for all authorized work in excess of the agreed upon hours for each
+                  scheduled workday or in excess of forty (40) hours in any one (1) workweek.
+
+         e.       Full-time employees on a work schedule “F” or “M” shall receive overtime for
+                  all authorized work in excess of nine (9) hours for each scheduled nine (9)-
+                  hour workday; for all authorized work in excess of eight (8) hours for each
+                  scheduled eight (8) hours for each scheduled eight (8) hour workday; and all
+                  authorized work in excess of forty (40) hours in any one (1) workweek.
+
+         f.       Part-time employees, working a regular schedule, scheduled for less than
+                  eight (8) hours in a day or forty (40) hours in a week shall receive straight
+                  time for additional time worked rather than overtime until the hours worked
+                  exceed eight (8) hours per day or forty (40) hours per week. Part-time
+                  employees, working an approved irregular schedule, scheduled for less than
+2023-2025 Oregon Liquor and Cannabis Commission     61                    Collective Bargaining Agreement
+                  ten (10) or nine (9) hours in a day, depending on the irregular work schedule,
+                  or forty (40) hours in a week shall receive straight time for additional time
+                  worked rather than overtime until the hours worked exceed ten (10) or nine
+                  (9) hours per day respectively or forty (40) hours per week.
+
+Section 36.3
+For the purpose of this Article, all time for which an employee is compensated at the
+regular straight time rate of pay except for on-call time but including holiday time off,
+compensatory time off, and other paid leave shall be counted as time worked.
+
+Section 36.4 Eligibility for Overtime Compensation
+Employees in overtime eligible positions will receive time and one-half (1-1/2) their regular
+hourly rate unless a determination has been made that the position is executive,
+professional or administrative as defined in the Fair Labor Standards Act.
+
+Employees in positions which have been determined to be executive, professional or
+administrative shall receive time off for authorized time worked in excess of eight (8) hours
+per day or forty (40) hours per week at the rate of one (1) hour off for one (1) hour of
+overtime worked. This time off shall be utilized within one (1) year of being earned or shall
+be lost.
+
+Section 36.5
+A.    For all employees except Distribution Center: Overtime assigned shall be
+      distributed among qualified employees currently performing the kind of work
+      required. The assignment of overtime shall first be offered on a voluntary basis by
+      classification to qualified employees in Agency seniority order by either field office
+      or central office, whichever is appropriate. Where there are no volunteers to meet
+      staffing needs, the Agency shall select and assign qualified employees to work the
+      overtime beginning with the least senior qualified employee and rotating thereafter.
+
+         Employees currently working in or assigned to one of the three inspection and
+         regulatory program areas – Liquor, Recreational Marijuana, or Medical Marijuana –
+         are not considered to be performing the kind of work required of employees in the
+         other two program areas. As such, an employee working in or assigned to one
+         program area will not be eligible for overtime opportunities in the other two program
+         areas, regardless of seniority, classification, or qualification.
+
+B.       For Distribution Center Employees: The Agency will first offer overtime on a
+         voluntary basis, within the work shift during the workweek, in Agency seniority
+         order, to qualified employees within the actual classification needed. When there
+         are insufficient volunteers to meet staffing needs, the Agency will offer the overtime
+         to qualified employees, in Agency seniority order, within all classifications. On
+         weekends, the Agency will first offer overtime on a voluntary basis, in Agency
+         seniority order, to qualified employees within the actual classification needed.
+
+         If there are insufficient volunteers to meet staffing requirements after using the
+         process above, the Agency will first assign qualified employees to work overtime
+         beginning with the least senior employee within the classification. If staffing needs
+         further require, the Agency will assign overtime to qualified employees, beginning
+         with the least senior employee in the classification needed to do the work.
+
+2023-2025 Oregon Liquor and Cannabis Commission   62                      Collective Bargaining Agreement
+         For purposes of overtime assignment, anyone in a work out of class status shall be
+         considered for overtime based on their work out of class classification.
+
+C.       All employees volunteering or mandated to work overtime with less than ten (10)
+         hours notice shall be allowed to make a brief phone call home on an Agency phone.
+
+Section 36.6
+The Agency shall give reasonable notice of any overtime to be worked.
+
+Section 36.7
+Employees shall have the option of cash or compensatory time off for overtime worked.
+The limit of accrual of compensatory time off shall be subject to Article 28 (Scheduling of
+Compensatory Time Off). Overtime worked before the payroll cutoff date will be paid on
+the next regular payday. Overtime worked after the payroll cutoff date will be paid on the
+following payday after the next regular payday.
+
+Section 36.8
+No application of this Article shall be construed or interpreted to provide for compensation
+for overtime at a rate exceeding time and one half (1-1/2) or to effect a "pyramiding" of
+overtime and all forms of premium pay.
+
+Section 36.9
+Effective the date the contract is signed, each time an employee, without reasonable prior
+notification, is assigned to and works two (2) or more hours of overtime immediately at the
+end of their regular shift and completes the scheduled overtime shift, they shall be paid a
+meal allowance of fourteen dollars ($14.00). Reasonable prior notification means that the
+Agency has formally notified the employee at least twenty-four (24) hours before the start
+of the overtime that the employee will be assigned to that overtime. Required prior
+notification means forty-eight (48) hours during September, October, November, and
+December for Liquor Distributor Workers 1 and 2 and Liquor Distributor Equipment
+Operators. This provision shall not apply to employees on travel status.
+                                                                                           REV: 2023
+
+
+### ARTICLE 37 - SHIFT DIFFERENTIAL
+
+Section 37.1
+The Agency will pay a shift differential to an employee whose scheduled shift includes
+work during the hours specified below.
+      a.     For all hours worked or a major portion thereof (thirty (30) minutes or more)
+             between six (6) p.m. and six (6) a.m., a differential of one dollar and fifty
+             cents ($1.50) will be paid.
+
+         b.       One dollar and fifty cents ($1.50) per hour for each hour or major portion
+                  thereof (thirty (30) minutes or more) worked on a Saturday and/or Sunday;
+
+Section 37.2
+This Article shall not apply when an employee is on any paid leave condition.
+
+Section 37.3
+This Article shall apply when an employee is on on-call duty.
+
+
+2023-2025 Oregon Liquor and Cannabis Commission   63                    Collective Bargaining Agreement
+Section 37.4
+Shift Differential rate of pay shall not be pyramided.
+                                                                                     REV: 2015,2023
+
+
+### ARTICLE 38 - LANGUAGE DIFFERENTIAL
+
+When formally assigned in the employee’s position description, an employee assigned to
+interpret to or from another language to English will receive a differential of five percent
+(5%) of base pay.
+
+### ARTICLE 39 - ON CALL
+
+Section 39.1
+An employee shall be on on-call duty when their supervisor:
+      a.     Authorizes and requires the employee to be available for work outside their
+             normal work hours. However, the employee is not subject to restrictions
+             which would prevent the employee from using their own time while on on-
+             call duty for the employee’s own purposes as provided by the Fair Labor
+             Standards Act and Department of Labor regulations on this subject.
+
+         b.       Requires the employee to give a telephone number where the Agency can
+                  reach him/her during a specified time or to wear an electronic pager, and
+
+         c.       Requires that the employee be prepared to report immediately for full-time
+                  work if the need arises.
+
+Section 39.2
+On-call time shall not be counted as time worked in the computation of overtime
+compensation.
+
+Section 39.3
+An employee shall not be on on-call duty once they actually commence performing
+assigned duties and receives the appropriate rate of pay for time worked.
+
+Section 39.4
+Employees shall be paid one (1) hour's pay at the regular straight time rate for each six
+(6) hours of assigned on-call duty. Employees who are assigned on-call duty for less than
+six (6) hours shall be paid on a prorated basis.
+
+Section 39.5
+Employees shall be paid one and one-half (1½) hour’s pay at the regular straight time rate
+for each six (6) hours of assigned on-call duty on holidays. Employees who are assigned
+on-call duty for less than six (6) hours shall be paid on a prorated basis.
+                                                                                           REV: 2023
+
+
+### ARTICLE 40 - CALL BACK COMPENSATION
+
+Section 40.1
+Call back is an occasion where an employee has been released from duty and is called
+back prior to their normal starting time. It is distinguished from overtime work which is
+essentially a continuation of the scheduled work shift.
+
+2023-2025 Oregon Liquor and Cannabis Commission      64                 Collective Bargaining Agreement
+Section 40.2
+An employee who is called back to work outside their scheduled work shift shall be
+compensated a minimum of three (3) hours at the time and one-half (1-1/2) rate or the
+actual hours worked at time and one-half (1-1/2) whichever is greater.
+
+Section 40.3
+A.    An employee who responds to a telephone call or text from a manager while off
+      duty, outside their scheduled work shift, will be compensated at the appropriate rate
+      of pay for actual time spent on the call and/or performing assigned duties at their
+      home pursuant to the call. Regardless of actual time spent by the employee, they
+      will receive compensation for a minimum of fifteen (15) minutes.
+
+B.       The employee will not receive additional compensation if the employee receives
+         multiple telephone calls or texts during the same fifteen (15) minute period.
+
+C.       This section does not apply to overtime work which is essentially a continuation of
+         the scheduled work shift.
+
+D.       This section does not apply to employees who are on on-call duty.
+
+### ARTICLE 41 - EMERGENCY MESSAGE PROCEDURE
+
+Emergency messages received by the Agency shall be delivered as soon as possible to
+the employee. The employee shall be immediately granted access to a telephone to
+inquire into the status of the emergency.
+
+### ARTICLE 42 - HEALTH AND WELFARE
+
+Section 42.1
+An employer contribution will be made for each eligible employees who has at least eighty
+(80) paid regular hours in the month unless required by law.
+
+Section 42.2.
+The contribution for eligible participating part-time employees with eighty (80) or more paid
+regular hours for the month the Employer shall contribute a prorated amount of the
+contribution for full-time employees unless otherwise required by law. “Regular hours”
+means all hours of work or paid leave except overtime hours, i.e., those above eight (8)
+hours in a day or forty (40) hours in a week. Thus, “regular hours” shall include additional
+non-overtime hours worked above an employee’s regular work schedule. In the event that
+a part-time employee, who is regularly scheduled to work half-time or more, fails to
+maintain at least half-time paid regular hours because of the effect of prorated holiday time
+or other paid or unpaid time off, they shall be allowed to use available vacation or comp
+time to maintain their eligibility for benefits and the Employer’s contribution for such
+benefits.
+A.     The Employer contribution amount of the plan selected by the employee will be
+       calculated as follows:
+           a. Part-Time Employees Electing Part-Time Insurance.
+
+
+
+
+2023-2025 Oregon Liquor and Cannabis Commission   65                   Collective Bargaining Agreement
+                  Part-Time premium rate x Employer contribution percentage (as defined in
+                  Section 3) x the ratio of paid regular hours to full-time hours to the nearest
+                  full percent = Employer contribution.
+
+                  In addition, there shall be a subsidy based on the employee’s coverage tier
+                  for the Plan Years covered in this Article. The part-time subsidy shall be
+                  determined by PEBB for each plan year.
+
+                  The employee will pay the premium balance.
+
+              b. Part-Time Employees Electing Full-Time Insurance.
+
+                  Full-time premium rate x Employer contribution percentage (as defined in
+                  Section 3) x the ratio of paid regular hours to full-time hours to the nearest
+                  full percent = Employer contribution.
+
+                  The employee will pay the premium balance.
+
+Section 42.3. Plan Years 2023 through 2025
+For Plan Years 2023, 2024 and 2025 the Employer will pay ninety-five percent (95%) and
+the employee will pay five percent (5%) of the monthly premium rate as determined by
+PEBB. For employees who enroll in a medical plan that is at least ten percent (10%) lower
+in cost than the monthly premium rate for the highest cost plan available to the majority of
+employees, the Employer shall pay ninety-nine percent (99%) of the monthly premium for
+PEBB health, vision, dental and basic life insurance benefits and the employee shall pay
+one percent (1%).
+
+Section 42.4.
+If the Collective Bargaining Agreement provides for a COLA with an effective date in the
+second (2nd ) year of a biennium and the difference in the projected increase in the PEBB
+composite rate for the following calendar year falls below three point four percent (3.4%),
+then the COLA will be moved up by one (1) full month for each month it is sufficiently
+funded by the savings.
+See LOA: PMAC
+                                                                       REV: 2015, 2017,2019, 2021,2023
+
+
+### ARTICLE 43 - WORKERS COMPENSATION
+
+Section 43.1
+An employee who sustained a compensable injury shall be reinstated to their former
+employment or employment of the employee's choice within the Agency, which the Agency
+has determined is available and suitable, upon demand for such reinstatement, provided
+that the employee is not disabled from the performing of the duties of such employment.
+An employee who has an accepted workers compensation claim shall return to work
+without loss of seniority which has accrued during the absence.
+
+Section 43.2
+Upon initial return from the on-the-job injury, certification by the attending physician that
+the physician approves the employee's return to this regular employment shall be prima
+facie evidence that the employee should be able to perform such duties.
+
+
+2023-2025 Oregon Liquor and Cannabis Commission   66                       Collective Bargaining Agreement
+Section 43.3
+Salary paid for a period of sick leave resulting from a condition incurred on the job and
+also covered by Workers Compensation, shall be equal to the difference between the
+Workers Compensation for lost time and the employee's regular salary rate. In such
+instances, prorated charges will be made against accrued sick leave. An employee who
+has exhausted earned sick leave shall have the option to use accumulated compensatory
+time and vacation leave during the period in which Workers Compensation is being
+received, and the salary paid for such a period shall be equal to the difference between
+the Workers Compensation for lost time and the employee's regular salary rate. In such
+instances, prorated charges will be made against accrued vacation and/or compensatory
+time.
+
+### ARTICLE 44 - UNIFORMS
+
+Section 44.1 All Employees
+If an employee is required by the Agency to wear a uniform or protective clothing, the
+Agency shall provide and maintain it. Where a uniform or protective clothing is provided,
+the employee must wear it, subject to Policy requirements or supervisory directive.
+
+Section 44.2 Marijuana Regulatory Specialists
+When a Regulatory Specialist working in the Marijuana Program is required to wear a
+uniform, the Agency shall provide employee with all of the following items:
+      a)     Five (5) long sleeved shirts
+      b)     Five (5) short sleeved shirts
+      c)     Five (5) pairs of pants
+      d)     One (1) trouser belt
+      e)     One (1) multi-purpose cold weather raincoat
+
+If any part of the employee’s uniform, as listed above, becomes unwearable due to regular
+wear and tear, the employee will return the unwearable item to management and
+management will replace the item to the employee.
+
+Should the Agency deem additional uniform items not listed above to be necessary, the
+Agency shall provide the employee with the items at no additional cost to the employee.
+
+Section 44.3 Regulatory Specialists
+Effective July 1, 2019, the Agency shall offset the cost of boots for Regulatory Specialists
+who are required to wear them, subject to Agency policy. Reimbursement shall be as
+follows:
+       a)     Up to two-hundred ($200) dollars for duty boots per biennium for Regulatory
+              Specialist working in the Marijuana or Alcohol Program.
+
+         b)       Up to one-hundred ($100) dollars for knee high, plain toe type rubber upper
+                  boots per biennium for Regulatory Specialists working the Marijuana
+                  Program only.
+                                                                                           REV: 2019
+
+
+
+
+2023-2025 Oregon Liquor and Cannabis Commission     67                  Collective Bargaining Agreement
+### ARTICLE 45 - TRAVEL AND MILEAGE ALLOWANCE
+
+Section 45.1 Travel and Mileage Allowance.
+Reimbursements and procedures will be in accordance with Oregon Accounting Manual,
+Policy No. 40.10.00 PO, and its successors. The current policy may be accessed at
+http://www.oregon.gov/DAS/CFO/SARS/policies/oam/40.10.00.pdf.         Changes in this
+policy will be automatically incorporated into this contract article.
+
+Section 45.2 Moving Expenses.
+Reimbursements and procedures will be in accordance with the Department of
+Administrative Services, Chief Human Resource Office Policy 40.055.10, and its
+successors. Changes in this policy will be automatically incorporated into this contract
+Article.
+
+### ARTICLE 46 - LABOR MANAGEMENT COMMITTEE
+
+The Agency has a labor management committee to facilitate communication and problem
+solving using the interest-based problem solving method to reach consensus. The
+committee will have three (3) employee members appointed by the Union and three (3)
+management employees, unless the committee mutually agrees otherwise. The
+committee will meet when necessary, but at least once each calendar quarter, unless it
+mutually agrees otherwise.
+
+Committee members will be in pay status during the time spent in committee meetings.
+Approved time spent in meetings will not be charged to accrued leave or considered
+overtime worked. All committee members will be trained in the interest based problem-
+solving method. The Union will pay any costs of the training for bargaining unit employees
+who will be in pay status during the training.
+
+The committee has no authority to contravene any provision of this Collective Bargaining
+Agreement, enter into any agreements binding on the parties to this Agreement, or resolve
+issues or disputes surrounding the implementation of this Agreement. Only the
+Department of Administrative Services, Labor Relations Unit, AFSCME Council 75 and
+AFSCME Local 2505 have this authority and only by mutual consent.
+
+The committee actions do not affect the grievance and arbitration procedure described in
+Article 13 (Grievance Procedure).
+
+### ARTICLE 47 - PARKING
+
+If there are any changes in parking rates for employees at any State owned or operated
+parking facility, the Employer shall provide the opportunity for the Union to offer input in
+the determination of such rates. The Union will be afforded the opportunity to offer
+suggestions, make recommendations and introduce any data deemed appropriate.
+
+### ARTICLE 48 - SALARIES
+
+Section 48.1 PERS Pickup
+Effective February 1, 2019 compensation plan salary rates for PERS participating
+members shall be increased by six and ninety five one hundredths percent (6.95%). At
+2023-2025 Oregon Liquor and Cannabis Commission      68               Collective Bargaining Agreement
+that time bargaining unit employees will begin to make their own six percent (6%)
+contributions to their PERS account or the Individual Account Program as applicable.
+Employees’ contributions shall be treated as ‘pretax’ contributions pursuant to Internal
+Revenue Code Section 414(h)(2).
+
+Section 48.2 Cost of Living Adjustment
+a.    Effective December 1, 2023 or on the first of the month following receipt of an
+      interest arbitration award whichever is later, all pay rates will be increased by six
+      and five tenths percent (6.5%).
+
+b.       Effective January 1, 2025* or first of the month following receipt of an interest
+         arbitration award whichever is later, all pay rates will be increased by six and fifty-
+         five hundredths percent (6.55%).
+
+*If the legislature appropriates new funding of at least $13 million in calendar year 2024,
+the 2025 cost of living adjustment will be effective January 1, 2025. If the legislature does
+not appropriate at least $13 million in calendar year 2024, the 2025 cost of living
+adjustment will be effective February 1, 2025.
+
+Section 48.3 Selective Salary Adjustment
+      Class #     Classification Title                                   From To
+      1338        Training and Development Specialist 1                  23    24
+      1339        Training and Development Specialist 2                  27    28
+      6811        Laboratory Technician 2                                18    19
+      0801        Office Coordinator                                     Abolish
+
+Effective July 1, 2023 or the first of the month following ratification of the local agreement
+whichever is later, all employees will retain their current salary rate in the new range except
+that employees whose current rate is below the first step of the new range shall be moved
+to the first step in the new range and a new salary eligibility date what would be twelve
+(12) months from the effective date of the selective salary adjustment will be assigned.
+For an employee whose rate is within the new salary range but not at a corresponding
+step, the employee’s salary shall be adjusted to the next higher rate closest to the
+employee’s current salary rate.
+SEE LOA: Salary and Benefit Report, Salary Range Truncation, One-Time Payment
+COLA
+                                                                      REV: 2015, 2017, 2019, 2021,2023
+
+
+### ARTICLE 49 - NEW AND REVISED CLASSES
+
+Section 49.1 New/Revised Classes.
+Effective October 1, 2007, new and revised classifications will be established at the
+negotiated salary range:
+       0759         Supply Specialist 2    SR 20
+
+         Implementation Procedure for New and Revised Classifications. Effective October
+         1, 2007, all employees will retain their current salary rate in the new classification
+         except that those employees whose current rates are below the first step of the new
+         range shall be moved to the first step in the new range and a new salary eligibility
+         date of October 1, 2008 will be assigned. Employees who are reallocated to a lower
+         salary range classification and whose current salary exceeds that of the new salary
+2023-2025 Oregon Liquor and Cannabis Commission   69                      Collective Bargaining Agreement
+         range shall be red circled until the new classification catches up with the employee’s
+         existing salary.
+
+Section 49.2 Implementation of New Class - Appeals Process.
+The appeals process is designed to allocate employees into new classes. Employees in
+positions allocated to new classifications, who dispute their placement within the new
+class, can appeal their placement using the following process:
+       a.     An appeal may be filed by an individual employee or a Steward or a Council
+              Representative on behalf of the employee, to the Agency personnel office
+              within fifteen (15) calendar days of written notification by the Agency of
+              placement into the new class. Employees sharing the same or substantially
+              similar position descriptions or employees the Agency agrees to treat as a
+              group may file an appeal as a group. The initial filing should describe the
+              individual or group, including the names of affected members, identify the
+              proposed placement, and the placement believed to be correct by the
+              affected employees. The appeal must include current, signed position
+              descriptions. Because the old classifications are to be abolished, correct
+              placement cannot be back to the prior classification. The Agency shall
+              conduct a review of the allocation using the following criteria:
+              (1)    The purpose of the job shall be determined by the statement of
+                     purpose and assigned duties of the position description and other
+                     relevant evidence of duties assigned by the Agency;
+
+                  (2)       The concept of the proposed classification shall be determined by the
+                            general description and distinguishing features of its class
+                            specification; and
+
+                  (3)       The overall duties, authority and responsibilities of the position shall
+                            be determined by the position description and other relevant evidence
+                            of duties assigned by the Agency. This decision shall be made within
+                            thirty (30) calendar days of receipt of the appeal and provided to the
+                            affected employees in writing and with a summary of the classification
+                            analysis.
+
+         b.       If denied, the Union may appeal the Agency's decision in writing to the Labor
+                  Relations Unit within fifteen (15) calendar days of receipt of the written
+                  denial. The appeals will be considered by the Employer designee (or an
+                  alternate) and the Union designee (or an alternate) who shall form the
+                  committee charged with the responsibility to consider appeals and make
+                  decisions which maintain the integrity of the classification system by
+                  correctly applying the classification specifications. Additionally, the
+                  committee may utilize two (2) resource persons, one (1) designated by each
+                  party, to provide technical expertise concerning a specific series, The
+                  committee will attempt to resolve the matter by jointly determining whether
+                  the current or proposed class more accurately depicts the overall assigned
+                  duties, authorities and responsibilities of the position using the criteria
+                  specified above.
+
+                  In this process each of the designees may identify one (1) alternate class
+                  that they determine most accurately depicts the purpose of the job and
+                  overall assigned duties. If an alternate class is identified, both the Union and
+2023-2025 Oregon Liquor and Cannabis Commission      70                       Collective Bargaining Agreement
+                  Labor Relations Unit shall be notified. If the parties concur that shall end the
+                  allocation appeal. In the event the committee concludes that the proposed
+                  or alternate class is more appropriate, management retains the right to
+                  modify the work assignment on a timely basis to make it consistent with the
+                  Agency's allocation. Appeals shall be decided in order of receipt by the
+                  Labor Relations Unit.
+
+                  Decisions shall be rendered by the designees no later than sixty (60)
+                  calendar days of receipt of the appeal by the committee.
+
+         c.       The decision of the designees shall be binding on the parties. However,
+                  agencies may elect to remove/modify duties at any point during the process.
+
+         d.       If the appeals committee cannot make a decision, the Union may request
+                  final and binding arbitration by a written notice to the Labor Relations Unit
+                  within the next forty-five (45) calendar day period. Each party may go
+                  forward with only one (1) class. Each party may choose to take to arbitration
+                  either the current class, class appealed to, or an alternate class identified by
+                  a committee member. The arbitrator shall allow the decision of the Agency
+                  to stand unless they conclude that the proposed classification more
+                  accurately depicts the overall assigned duties, authority, and responsibilities
+                  of the position.
+
+         e.       Where a position is vacated after the filing of the initial appeal, the Union
+                  may continue the appeal process and such appeals will be reviewed by the
+                  committee only after the review of all filled positions appeals is completed
+                  and where the Agency indicates that no change in duties is anticipated prior
+                  to refilling the position.
+
+         f.       This process terminates upon completion of the allocation process.
+
+### ARTICLE 50 - STRIKES, LOCKOUTS AND PICKET LINES
+
+The Union agrees that during the life of this Agreement, the Union or its bargaining unit
+members will not authorize, instigate, aid or engage in any work stoppage, slowdown,
+sickout, refusal to work, picketing or strike against the Employer and the Agency, its goods
+or on its property.
+
+The Agency agrees that during the life of this Agreement there will be no lockout.
+
+### ARTICLE 51 - LEGISLATIVE ACTION
+
+Section 51.1
+Provisions of this Agreement not requiring legislative funding, or statutory changes, before
+such provisions can be put into effect, shall be implemented on the effective date of this
+Agreement or as otherwise specified herein.
+
+Section 51.2
+Upon signing this Agreement, both parties shall promptly submit, and jointly recommend,
+to the Legislative Assembly or to the Emergency Board, the passage of the funding
+necessary to implement this Agreement.
+2023-2025 Oregon Liquor and Cannabis Commission   71                        Collective Bargaining Agreement
+Section 51.3
+Should the Legislative Assembly or the Emergency Board fail to enact or adopt matters
+submitted to them under the preceding Sections, then the Employer and Union shall
+immediately meet, negotiate and agree on modifications or substitutions for the affected
+portion or portions of this Agreement pursuant to the procedures provided by Article 52
+(Savings).
+
+### ARTICLE 52 - SAVINGS
+
+In the event any provision of this Agreement is declared invalid by any court of competent
+jurisdiction or by ruling of the Employment Relations Board, then only such portion or
+portions shall become null and void and the balance of the Agreement remain in effect.
+The Employer and the Union agree to immediately meet, negotiate, and agree upon a
+substitute for the portion or portions of the Agreement so affected and to bring into
+conformance therewith not over sixty (60) days after notification unless extended by
+mutual agreement. If agreement on such matters is not reached within a reasonable
+period of time, the provision of Article 51 (Legislative Action) shall not apply.
+
+### ARTICLE 53 - SUCCESSOR NEGOTIATIONS
+
+Section 53.1
+It is recognized by the Employer that employees representing the Union during the process
+of negotiations are acting on behalf of the Union as members not in their capacity as
+employees of the Employer.
+
+Section 53.2
+Six (6) employee members of the Union's negotiating team will be allowed to participate,
+without loss of pay, in all negotiations between the parties. No more than two (2) employee
+members may be from the same office or duty station. The Agency shall assume no
+overtime obligation as a result of the employees' attendance at such meetings. The
+Agency will allow the use of one (1) State vehicle and thirty (30) hours of paid travel time
+for Union negotiating team members.
+                                                                                   REV: 2017,2019
+
+
+### ARTICLE 54 - AGENCY REASSIGNMENT
+
+The Agency shall not reassign an employee to a different official station on an arbitrary
+basis.
+
+### ARTICLE 55 - CLIENT COMPLAINT PROCEDURE
+
+Section 55.1
+When the Agency receives a written complaint against an employee of an alleged criminal
+law violation, the Agency shall refer the matter to a law enforcement or criminal justice
+agency. The employee will not be informed in advance of the referral. If the law
+enforcement agency or criminal justice agency refers the matter back to the Agency, the
+employee shall be notified.
+
+Section 55.2
+When the Agency receives a non-criminal complaint against an employee which concerns
+a violation of rules, policies or procedures, an investigation may be made. The employee
+
+2023-2025 Oregon Liquor and Cannabis Commission      72               Collective Bargaining Agreement
+shall be informed in writing of a complaint no less than twenty-four (24) hours prior to a
+fact finding meeting. This written notification shall include the location, date and details of
+the allegation if such detailed notice does not jeopardize the investigation, as determined
+by the Agency. The Agency shall give written notification to the employee of the results of
+any investigation.
+
+Section 55.3
+Any disciplinary action taken by the Agency shall be consistent with Article 12 (Discipline/
+Discharge).
+
+Section 55.4
+If the Agency chooses to remove the accused employee from their work assignment during
+the investigation, the employee may be assigned other duties not related to their normal
+work assignment.
+
+Section 55.5
+Internal Employee Conflicts-The Agency shall provide training on the application of the
+“appropriate workplace behavior policy”, emphasizing interpersonal communications, as
+related specifically to the complaint procedure described herein. This training shall be
+provided to both management and employees.
+                                                                                            REV: 2019
+
+
+### ARTICLE 56 - JOB SHARING
+
+Section 56.1
+Any employee who wishes to participate in job sharing may submit a written request to the
+Agency Human Resources Director to be considered for a job-share position. The Agency
+shall notify the employee requesting the job share of the Agency's decision in writing.
+
+Section 56.2
+Job-sharing employees shall accrue vacation leave, sick leave and holiday pay based on
+a pro rate of hours worked in a month during which the employee has been compensated
+for thirty-two (32) hours or more. Individual salary review dates will be established for job-
+share employees.
+
+Section 56.3
+Job-sharing employees shall be entitled to share the full Employer-paid insurance benefits
+for one (1) full-time position based on a pro rate of regular hours scheduled per month. In
+any event, the Employer contribution for insurance benefits in a job-share position is
+limited to the amount authorized for one (1) full-time employee.
+
+Section 56.4
+For purposes of layoff, individuals filling a job-share position which totals a full-time
+equivalent shall be considered as one (1) full-time equivalent. Service credits shall be
+determined by averaging the two (2) individual scores and two (2) individuals shall be
+treated as one (1). Regular status employees who are filling a job-sharing position and
+who elect not to be treated as one (1) full-time equivalent shall be considered permanent
+part-time employees.
+
+
+
+
+2023-2025 Oregon Liquor and Cannabis Commission    73                    Collective Bargaining Agreement
+Section 56.5
+If one (1) job-sharing partner in a job-sharing position is removed, dismissed, resigns or
+otherwise is separated from Agency service, the Agency has the right to determine if job
+sharing is still appropriate for the position. If the Agency determines that job sharing is not
+appropriate for the position or the Agency is unable to recruit qualified employees for the
+job-share position, the remaining employee shall have the right to assume the position on
+a full-time basis. Upon approval of the Agency, the remaining employee may elect to
+transfer to a vacant part-time position in the same classification or to voluntarily demote.
+If the above conditions are not available or acceptable, the employee agrees to resign.
+                                                                                      REV: 2015, 2017
+
+
+### ARTICLE 58 - REIMBURSEMENT FOR PERSONAL PROPERTY
+
+Section 58.1
+Any employee who suffers an accident in the performance of authorized job duties
+resulting in loss through damage of personal affects usually and ordinarily on their person
+while on the job may file a written claim to the Division Director which shall include the
+following:
+       a.      The employee presents a complete written report of the circumstances of
+               the loss through damage;
+
+         b.       The employee certifies that such damage is not because of fault, intent or
+                  negligence on the part of the employee;
+
+         c.       The employee presents written proof of value;
+
+         d.       The employee certifies that replacement or repair of the property is not
+                  reimbursable through either public or private insurance coverage.
+
+Section 58.2
+The claim shall be investigated by the Division Director or designated representative to
+substantiate or disprove the facts indicated on the claim.
+
+The Division Director or designated representative shall approve or disapprove payment
+based on the investigation conducted. The Division Director or designated representative
+shall notify the employee of the results of the investigations. Where a claim is denied, the
+reasons for such denial shall be provided to the employee.
+
+The claim shall be limited to the actual cost as substantiated by receipts for replacement
+or repair of the damage.
+
+Section 58.3
+No claim for loss shall be accepted by the Agency for special or unusual equipment,
+property or clothing which was not previously approved for use by the Agency in writing.
+
+Section 58.4
+In cases of theft of personal property of employees for reasons other than specified in
+Section 1 of this Article, the Agency will notify the local police if the employee requests.
+
+
+
+
+2023-2025 Oregon Liquor and Cannabis Commission   74                     Collective Bargaining Agreement
+### ARTICLE 59 - STATE PROPERTY
+
+Each employee shall make every reasonable effort to report any breakage, damage or
+theft of State property to their assigned supervisor.
+
+### ARTICLE 60 - VEHICLES
+
+Section 60.1
+Commission vehicles will be parked nightly on State facilities except when:
+      a.     Subject to DAS Statewide Policy 107-011-040, an employee is not able to
+             return the State vehicle to its official garage because of a late return from
+             business activities.
+
+         b.       Subject to DAS Statewide Policy 107-011-040, an employee leaves before
+                  or arrives after normal work hours and can reduce the amount of State-paid
+                  travel time by parking a State car at the employee's home.
+
+         c.       A garaging exemption has been authorized subject to DAS Statewide Policy
+                  No 107-011-040 regarding Fleet Management:
+                  (1)   When a regular work assignment requires personnel availability
+                        during non-business hours for frequent, unscheduled or emergency
+                        State business.
+
+                  (2)       In other circumstances where home garaging will clearly reduce the
+                            Commission's direct cost. (For example, theft, vandalism, etc.).
+
+                  (5)  Agency Management has done a cost benefit analysis and determined it is
+                       more effective and efficient to garage the Agency vehicle at the employee’s
+                       home.
+         d.       An employee will not be required to garage an OLCC vehicle at home.
+
+Section 60.2
+Employees will not be required to use personal vehicles for travel between the warehouse
+and the Milport facility.
+                                                                                               REV: 2015
+
+
+### ARTICLE 61 - RECOUPMENT OF WAGE/BENEFIT OVER/UNDERPAYMENTS
+
+Section 61.1 Overpayments
+a.    In the event that an employee receives wages or benefits from the Agency to which
+      the employee is not entitled, regardless of whether the employee knew or should
+      have known of the overpayment, the Agency shall notify the employee in writing of
+      the overpayment which will include information supporting that an overpayment
+      exists and the amount of wages and/or benefits to be repaid. For purposes of
+      recovering overpayments by payroll deduction, the following shall apply:
+      (1)     Provide written notice with itemized and detailed explanation of an
+              overpayment to the employee within ten (10) calendar days from the date of
+              discovery;
+
+
+
+
+2023-2025 Oregon Liquor and Cannabis Commission      75                     Collective Bargaining Agreement
+         (2)      The Agency may, at its discretion, use the payroll deduction process to
+                  correct any overpayment made within a maximum period of two (2) years
+                  before the notification.
+
+         (3)      Where this process is utilized, the employee and Agency shall meet and
+                  attempt to reach mutual agreement on a repayment schedule within thirty
+                  (30) calendar days following written notification.
+
+         (4)      If there is no mutual agreement at the end of the thirty (30)-calendar day
+                  period, the Agency shall implement the repayment schedule stated in sub
+                  (4) below.
+
+         (5)      If the overpayment amount to be repaid is more than five percent (5%) of the
+                  employee's regular monthly base salary, the overpayment shall be
+                  recovered in monthly amounts not exceeding five percent (5%) of the
+                  employee's regular monthly base salary, unless the employee requests a
+                  higher recovery percentage. If an overpayment is less than five percent (5%)
+                  of the employee's regular monthly base salary, the overpayment shall be
+                  recovered in a lump-sum deduction from the employee's paycheck. If an
+                  employee leaves Agency service before the Agency fully recovers the
+                  overpayment, the remaining amount may be deducted from the employee's
+                  final check.
+
+b.       An employee who disagrees with the Agency's determination that an overpayment
+         has been made to the employee may grieve the determination through the
+         grievance procedure.
+
+c.       The Article does not waive the Agency's right to pursue other legal procedures and
+         processes to recoup an overpayment made to an employee at any time.
+
+Section 61.2 Underpayments.
+a.    In the event the employee does not receive the wages or benefits to which the
+      record/documentation has for all times indicated the employer agreed the employee
+      was entitled, the Agency shall notify the employee in writing of the underpayment.
+      This notification will include information showing that an underpayment exists and
+      the amount of wages and/or benefits to be repaid. The Agency shall correct any
+      such underpayment made within a maximum period of two years before the
+      notification. Employees may report underpayments to the Employer. All confirmed
+      underpayments shall be repaid in accordance with State wage and hour laws.
+
+b.       This provision shall not apply to claims disputing eligibility for payments which result
+         from this Agreement. Employees claiming eligibility for such things as leadwork,
+         work-out-of-classification pay or reclassification must pursue those claims pursuant
+         to the timelines elsewhere in this Agreement.
+                                                                                              REV: 2023
+
+
+### ARTICLE 62 - TERM OF AGREEMENT
+
+Section 1.
+Unless otherwise noted in a specific article in the Agreement, this Agreement becomes
+effective on the date of ratification at the local table and expires June 30, 2025. The Union
+
+2023-2025 Oregon Liquor and Cannabis Commission   76                       Collective Bargaining Agreement
+shall send a letter informing the Department of Administrative Services Labor Relations
+and the affected Agency of the specific ratification date of the tentative agreement. If the
+Union does not send the letter identifying the date of the ratification vote, the Employer will
+use the effective date of the agreement as being the first of the month following the date
+of signature.
+
+Section 2.
+Either party may open negotiations for a successor agreement by giving written notice to
+the other party between the dates of December 1, 2024 and December 31, 2024.
+Negotiations for a successor agreement will start between February 15, 2025 and March
+15, 2025.
+                                                                     REV: 2015, 2017, 2019, 2021,2023
+
+
+### ARTICLE 63 – TEMPORARY INTERRUPTION OF EMPLOYMENT
+
+When the Employer declares that a temporary interruption of employment should be
+considered because of lack of funds, either party may provide the other with written notice
+to meet and discuss possible terms of such interruption or alternative options. Such
+meeting must occur within thirty (30) days of the declaration. Terms and alternatives shall
+be subject to mutual agreement by the Union and the Employer. The parties agree that
+any and all discussions that take place under this Section shall not be subject to the
+Complete Agreement articles of any of the Agreements or constitute interim negotiations
+under PECBA. In addition, the parties will not be required to use the dispute resolution
+process contained in the PECBA.
+
+### ARTICLE 64 – QUARTERLY CHECK-INS
+
+Section 64.1
+Supervisory managers shall conduct check-ins with their employees on a quarterly basis.
+If a quarterly check-in does not occur, the employee may request a check-in for the missed
+time period. Supervisory managers shall conduct the requested check-in within thirty (30)
+calendar days. The employee may provide his or her input during the quarterly check-in.
+Any notes completed during the quarterly check in made about an employee shall be
+provided to the employee, and made available to the employee upon request.
+
+Section 64.2
+Quarterly check-ins are neither grievable nor arbitrable under this Agreement and cannot
+be used for discipline.
+                                                                                      REV: 2021,2023
+
+
+### ARTICLE 65 – TRAINING DIFFERENTIAL
+
+Section 65.1
+Training differential is a differential for employees who meet all of the following criteria:
+       a.     They have been formally assigned “training” by their supervisor in writing;
+
+         b.       The assignment is for forty (40) consecutive work hours or longer, work
+                  hours will be determined based on the employees regular work schedule;
+
+         c.       The training duties are a substantial part of the employee’s overall duties;
+                  and
+
+2023-2025 Oregon Liquor and Cannabis Commission   77                     Collective Bargaining Agreement
+         d.       Training duties are not included in the employee’s class specification.
+
+Section 65.2
+Training is where, on a recurring daily basis, the employee has been assigned to perform
+substantially all of the following functions: to give direction to workers concerning their
+assigned tasks and work procedures; to transmit standards of performance to workers; to
+review work of employees for conformance to standards; and to provide informal worker
+performance assessments to the employee and the supervisor.
+
+Section 65.3
+The differential is five percent (5%) beginning from the first day the duties were formally
+assigned in writing and continuing for the full period of the assignment.
+
+Section 65.4
+If an employee is receiving one or more differentials (including work-out-of-class pay), in
+addition to training differential, each of the differentials will be calculated on base salary
+so that no “pyramiding” occurs (i.e., if an employee is receiving training differential and
+out-of-class pay for duties other than training, the two differentials would be calculated
+separately on base salary, and then added to the base pay). Likewise, in an overtime or
+holiday pay situation, training differential will be calculated on base salary rather than at
+the time and one-half rate. Training differential shall, however, be included in the
+calculation of the regular rate of pay for overtime purposes.
+
+Section 65.5
+Training differential shall not be paid for developmental assignments under Article 25.8.
+
+Section 65.6
+If an employee believes that they are performing duties that meet the criteria in Section 2
+but the duties have not been formally assigned in writing, the employee has recourse
+through the grievance process as outlined in Article 13 (Grievance Procedure).
+                                                                                            REV: 2017
+
+
+### ARTICLE 66 – LEADWORK DIFFERENTIAL
+
+Section 66.1
+Leadwork differential is a differential for employees who meet all of the following criteria:
+      a.     They have been formally assigned “leadwork” by their supervisor in writing;
+
+         b.       For employees on a schedule of five (5) consecutive work days, the
+                  assignment is for five (5) consecutive work days or longer;
+
+         c.       For employees regularly working a schedule of four (4) consecutive ten (10)-
+                  hour days, the assignment is for four (4) consecutive work days or longer;
+                  and
+
+         d.       Neither leadwork nor team leader duties are included in the employees’ class
+                  specification.
+
+Section 66.2
+Leadwork is where, on a recurring daily basis, the employee has been assigned to perform
+substantially all of the following functions: to orient new employees, if appropriate; to
+
+2023-2025 Oregon Liquor and Cannabis Commission   78                     Collective Bargaining Agreement
+assign and reassign tasks to accomplish prescribed work; to give direction to workers
+concerning their assigned tasks and work procedures; to transmit standards of
+performance to workers; to review work of employees for conformance to standards; and
+to provide informal worker performance assessments to the supervisor.
+
+Section 66.3
+The differential is five percent (5%) beginning from the first day the duties were formally
+assigned in writing and continuing for the full period of the assignment.
+
+Section 66.4
+If an employee is receiving one or more differentials (including work-out-of-class pay), in
+addition to leadwork differential, each of the differentials will be calculated on base salary
+so that no “pyramiding” occurs (i.e., if an employee is receiving leadwork differential and
+out-of-class pay for duties other than leadwork, the two differentials would be calculated
+separately on base salary, and then added to the base pay). Likewise, in an overtime or
+holiday pay situation, leadwork will be calculated on base salary rather than at the time
+and one-half rate. Leadwork differential shall, however, be included in the calculation of
+the regular rate of pay for overtime purposes.
+
+Section 66.5
+Leadwork differential shall not be paid for voluntary training and/or developmental
+assignments.
+
+Section 66.6
+If an employee believes that they are performing duties that meet the criteria in Section 2
+but the duties have not been formally assigned in writing, the employee has recourse
+through the grievance process as outlined in Article 13 (Grievance Procedure).
+
+Section 66.7
+Leadwork assignments in excess of sixty (60) days will be posted for ten (10) work days
+to allow employees the opportunity to indicate their interest, in writing, in the leadwork
+assignment. At the end of the posting period management has the sole discretion to
+assign the leadwork. Leadwork assignments will be re-posted annually for ten (10) work
+days to allow all interested employees, including the incumbent leadworker, the
+opportunity to indicate their interest, in writing, in the leadwork assignment. At the end of
+the posting period management has the sole discretion to assign the leadwork.
+
+### ARTICLE 67 – DISTRIBUTION CENTER DIFFERENTIALS
+
+The following differentials are utilized for Distribution Center employees only.
+
+Section 67.1 Commercial Driver’s License (CDL) Differential
+The Agency has discretion to determine which positions require a CDL. Employees
+required to hold a Commercial Driver’s License (CDL) as part of their employment will
+receive a five percent (5%) CDL differential.
+       a.     An employee who is assigned to perform the major duties of a position that
+              requires a CDL for one (1) or more days will receive the five percent (5%)
+              CDL differential for the duration of the assignment when:
+              1. Employee possesses a current valid CDL, and
+
+                  2.        Employee is part of the OLCC CDL Pool.
+2023-2025 Oregon Liquor and Cannabis Commission   79                    Collective Bargaining Agreement
+Employees possessing a CDL whose position description does not require a CDL may
+elect, but will not be required, to participate in the CDL Pool, subject to management
+approval.’
+       a.      If an employee is receiving one (1) or more differentials (including work-out-
+               of-class pay) in addition to the CDL differential, each of the differentials will
+               be calculated on base salary so that no “pyramiding” occurs (i.e., if an
+               employee is receiving a CDL differential and out-of-class pay for duties other
+               than CDL, the two differentials would be calculated separately on base
+               salary, and then added to the base pay). Likewise, in an overtime or holiday
+               pay situation, CDL will be calculated on base salary rather than at the time
+               and one-half rate. CDL differential shall, however, be included in the
+               calculation of the regular rate of pay for overtime purposes.
+
+         b.       The Agency will pay the cost of internal training for the CDL, will reimburse
+                  an employee for the cost of the CDL test and license when the employee
+                  acquires the CDL, and will also reimburse the employee for the CDL portion
+                  of the employee’s license fee when the employee renews. The Agency will
+                  not pay for the CDL portion of an employee’s license renewal fee if the
+                  employee’s position does not require a CDL.
+
+         c.       Pursuant to the American with Disabilities Act (ADA), the Agency will make
+                  reasonable accommodations for employees whose positions require a CDL
+                  and who no longer qualify for the CDL due to a medical condition.
+
+Section 67.2 Distribution Center High Work Differential
+Employees working in the Distribution Center that are required to perform duties that place
+the employee at heights that exceed twenty (20) feet will receive a distribution center high
+work differential. The distribution center high work differential will be seventy-five cents
+($0.75) per hour for all hours the employee is assigned remote order selector duties.
+
+Section 67.3 Open/Close Differential
+Employees working in the Distribution Center that are assigned, in writing, to perform
+duties that require them to secure the Distribution Center at the end of the duty day and
+open the Distribution Center at the start of the duty day will receive a Distribution Center
+Open/Close Differential of two and one-half percent (2½) for all hours work during the
+assignment. Management will notify an employee, in writing, when the assignment will
+end.
+
+Section 67.4 Equipment Operator Differential
+Employees classified as a Liquor Distribution Worker 1 whose position description
+includes Equipment Operator duties, or who have been assigned Equipment Operator
+Duties in writing for at least three (3) consecutive days of at least four hours or more each
+day, will receive a two and one half percent (2.5%) differential.
+                                                                           REV: 2015, 2019, 2021,2023
+
+
+### ARTICLE 68 – ADVANCED MARIJUANA LICENSING DIFFERENTIAL
+
+Section 68.1
+Advanced marijuana licensing differential is for employees who have been formally
+assigned “advanced marijuana licensing: by their supervisor in writing.
+
+2023-2025 Oregon Liquor and Cannabis Commission   80                      Collective Bargaining Agreement
+Section 68.2
+The differential is three percent (3%) beginning from the first (1st) day the duties were
+formally assigned in writing and continuing for the full period of the assignment.
+
+Section 68.3
+If an employee is receiving one (1) or more differentials (including work-out-of-class pay),
+in addition to advanced marijuana licensing differential, each of the differentials will be
+calculated on base salary so that no “pyramiding” occurs (i.e. if an employee is receiving
+advanced marijuana licensing, the two (2) differentials would be calculated separately on
+base salary, and then added to the base pay). Likewise, in an overtime or holiday pay
+situation, advanced marijuana licensing differential will be calculated on base pay rather
+than at time and one-half rate. Advanced marijuana licensing differential shall, however,
+be included in the calculation of the regular rate of pay for overtime purposes.
+
+Section 68.4
+Advanced marijuana licensing differential shall not be paid for voluntary training, career
+development and/or developmental assignments.
+
+Section 68.5
+Advanced marijuana licensing assignments in excess of sixty (60) days will be posted for
+ten (10) days to allow employees the opportunity to indicate their interest, in writing, in the
+advanced marijuana licensing assignment. At the end of the posting period management
+has the sole discretion to assign the duties. Advanced marijuana licensing assignments
+will be re-posted annually for ten (10) work days to all interested employees, including an
+incumbent, the opportunity to indicate their interest, in writing, in the advanced marijuana
+licensing assignment. At the end of the posting period management has the sole
+discretion to assign the duties. This Section shall not apply if all Marijuana Licensing
+Specialist are already receiving the advanced marijuana licensing differential.
+                                                                                            REV: 2019
+
+
+### ARTICLE 69 - VOLUNTARY MEDICAL SEPARATION
+
+Section 69.1
+A regular status employee with a serious health condition who has exhausted all of their
+own accrued paid leave balances may submit a written request to the Agency for a
+‘voluntary medical separation’. A voluntary medical separation is a voluntary resignation
+for medical reasons. The employee shall attach a doctor’s certification to the request
+attesting to the employee’s serious health condition.
+
+Section 69.2
+If, based on the doctor’s certification, the employee has a serious health condition, the
+Agency will approve the employee’s written request for voluntary medical separation so
+long as the employee is not under investigation for any performance and/or misconduct.
+
+Section 69.3
+An employee who receives a voluntary medical separation will be notified that they will be
+placed on the Agency’s Layoff List and may be eligible for recall provided all of the
+following conditions are met:
+       a.    The employee will be placed on the Agency’s Layoff List in order of seniority
+             but not eligible for recall until the employee becomes fit for duty. To be fit for
+
+
+2023-2025 Oregon Liquor and Cannabis Commission   81                     Collective Bargaining Agreement
+                  recall the employee must submit a doctor’s certification that they are fit to
+                  return to work full-time without restrictions.
+
+         b.       The position the employee may be recalled back to is in the same
+                  classification they occupied before their voluntary resignation;
+
+         c.       The employee must meet the minimum qualifications and special
+                  qualifications for the recalled position;
+
+         d.       The employee will be eligible for recall only in their former bargaining unit
+                  and former work location (city/county);
+
+         e.       The employee will be eligible for recall to a position when there is a vacant
+                  position the Agency intends to fill;
+
+         f.       The employee’s name shall remain on the Agency Layoff List for two (2)
+                  years from the date of voluntary resignation, and,
+
+         g.       If the employee rejects a recall offer for their former work location, the
+                  employee’s name will be removed from the list.
+                                                                                            NEW: 2019
+
+
+### ARTICLE 70 – EXIT INTERVIEWS
+
+A.       If a regular status employee provides timely notice that they are voluntarily
+         separating from Agency service, the Agency will offer an exit interview that focuses
+         on the reason(s) for the employee leaving Agency service and what changes they
+         recommend to the Agency to improve Agency operations, or,
+
+B.       A Department of Administrative Services written instrument.
+
+C.       Upon request, but no more than two (2) times a year, the Union can receive a report
+         of the Department of Administrative Services written instrument results from
+         employee feedback on their Agency experience.
+                                                                                            NEW: 2019
+
+### ARTICLE 71 - WORKING REMOTELY
+Section 71.1.
+Oregon state government encourages working remotely where it is a viable option that
+benefits both the employee and the agency. Use of remote work options promote the
+health and safety of Oregonians; ensures high-quality work and optimal use of
+resources for agencies; ensures cultural, equity and accessibility issues are addressed
+in a meaningful way; and supports flexibility and work-life balance for employees. It also
+offers the opportunity to be more flexible in interactions with the Oregonians we serve
+and decreases an agency's impact on the environment. Remote work arrangements
+are subject to the State Policy 50.050.01 (Working Remotely) and the terms and
+conditions of this collective bargaining agreement.
+
+Section 71.2.
+Where all or a portion of an employee’s duties can be successfully performed away
+from their primary duty station, an employee is eligible for a remote work, upon agency
+approval.
+2023-2025 Oregon Liquor and Cannabis Commission    82                     Collective Bargaining Agreement
+Section 71.3. Remote Work Requests.
+Requests to work remotely may be initiated by an employee and must be approved by
+the employee’s supervisor to ensure that all or a portion of the position’s duties are
+suitable for remote work and meets the agency’s business and operational needs, as
+well as those of the agency’s customers and the employee. Remote work agreements
+must be documented through the working remotely process in the state human
+resources information system. Remote work requests will not be unreasonably denied.
+Agency decisions will be made as soon as possible, but in no case more than thirty (30)
+days after the employee’s request. Where more than one (1) qualified employee
+requests remote work for a particular period of time and all requests cannot be
+accommodated, the remote work opportunities will be evenly distributed or rotated.
+
+Section 71.4. Remote Work Denials or Rescissions.
+If an employee’s request to work remotely is denied or rescinded, the supervisor must
+provide a written response within ten (10) calendar days to the employee documenting
+the reason(s) for the denial or rescission. Rescissions of remote work by the employer
+may be made with at least ten (10) calendar days advance notice. The Agency or the
+employee may terminate individual agreements, in whole or in part, upon at least ten
+(10) calendar days notice. The Employer will provide a minimum of thirty (30) calendar
+days’ advance notice if they are rescinding a remote work agreement for an employee
+who lives seventy-five (75) miles or more from their previously assigned worksite.
+Employees who have either rescinded their remote work or had their remote work
+rescinded by the employer shall be eligible to be considered for remote work in the
+future. Employees who rescind their remote work agreement, in whole or in part, shall
+be guaranteed a workspace at an Employer facility.
+
+Section 71.5. Inclement conditions may arise in remote work locations.
+If utility providers experience outages that prevent an employee from working,
+employees may access inclement weather/hazardous conditions leave, unless there is
+an alternate work location available.
+
+Section 71.6.
+A.    Any alleged violations of this article may be appealed directly to the DAS Labor
+      Relations Unit within thirty (30) days of the alleged violation. Such appeals are
+      not arbitrable.
+
+B.       Any alleged violations of sections (3) or (4) of this article may be appealed
+         directly to an appeal panel consisting of a representative of the DAS LRU and a
+         Union designee. Decisions and remedies shall be rendered by the panel no later
+         than thirty (30) days after receipt of the appeal by the panel. The decision and
+         remedy are not arbitrable and will be binding on the parties. If no decision is
+         rendered by the panel then the supervisor’s decision will stand.
+
+Section 71.7. Equipment.
+In the event of equipment malfunction or other circumstances which may interfere with
+the performance of work assignments, the employee shall promptly notify the
+supervisor. The agency provides basic technology equipment and related devices
+necessary for the employee to perform their assigned job duties at the primary or
+alternate worksite. The equipment and devices are for agency business only and must
+comply with the agency’s desktop security and maintenance policies and practices.
+Employees will not conduct state business on the following personal equipment:
+2023-2025 Oregon Liquor and Cannabis Commission   83                   Collective Bargaining Agreement
+phones, computers, laptops or other information storing devices. Exceptions are subject
+to the approval of the State Chief Operating Officer. Additional technology and devices
+may be provided to the employee at the discretion of the agency or in accordance with
+the Americans with Disabilities Act (ADA).
+
+Employees who work remotely will enter all assets (equipment, office furniture, etc.)
+provided to them in the state human resources information system.
+
+Section 71.8. Remote Work Supplies.
+Remote work office supplies shall be provided by the Agency. Equipment, software or
+supplies which are provided by the Agency for remote work shall be for the purposes of
+conducting Agency business only.
+
+Section 71.9. Remote Worksite.
+Office furniture shall normally be provided by the employee working remotely. Subject
+to management approval, employees working remotely may access the State surplus
+warehouse for office furniture for their remote work location. An ergonomic study may
+be requested by the employee or the supervisor.
+
+The employee maintains a safe remote workspace. The employee must immediately
+report to the supervisor any injury that occurs during work hours. The state is not
+responsible for loss, damage, repair, replacement or wear of personal property.
+
+SAIF or Agency safety representatives shall have reasonable access to the home
+worksite to conduct accident investigations or job site evaluations.
+
+Section 71.10. Work Location, Mileage and Travel Time.
+The employee’s central worksite will be assigned by the agency. In addition, employees
+may be required to report to Agency or non-Agency locations for purposes such as
+meetings, training sessions and policy/practice coverage. Business visits, meetings with
+Agency customers or meetings with co-workers shall not be held at the remote worksite
+unless approved by the employee’s supervisor. Mileage will be paid in accordance with
+the DAS OAM Travel Policy. Travel time will be compensated in accordance with the
+Fair Labor and Standards Act (FLSA). Effective September 1, 2023, employees will no
+longer be reimbursed for travel expenses between the alternate workplace and the
+central workplace, regardless of their remote work status. This change is not intended
+to impact employees otherwise entitled to travel expenses per the Oregon Accounting
+Manual and/or DAS Policy Working Remotely 50-050-01.
+
+Section 71.11. Expectations and Goals.
+Remote work employees and their managers will develop a clear set of expectations
+and goals for the work to be performed on remote work days. Such expectations may
+include checking E-Mail and voice-mail on a regular basis and returning phone calls in
+a timely manner. Employees will review and acknowledge the State of Oregon
+Employees Working Remotely Acknowledgement Form in the state human resources
+information system.
+
+Section 71.12. Training.
+Appropriate training will be provided for participating managers and employees.
+
+
+2023-2025 Oregon Liquor and Cannabis Commission   84                 Collective Bargaining Agreement
+Section 71.13. Other Provisions.
+These provisions are applicable to all Sections listed above.
+      A.     Call back and overtime will be handled as outlined in the applicable
+             provisions of this collective bargaining agreement.
+
+         B.       Since supervisors must continue to be in a position to evaluate employee
+                  performance, certify the accuracy of time sheets and attendance records,
+                  and perform a variety of other supervisory responsibilities, employees
+                  should anticipate that, in addition to being supervised pursuant to normal
+                  office procedures, there will also be the possibility that they will receive
+                  telephone calls at the phone number employees have designated in their
+                  remote work arrangement.
+
+         C.       In the event of a work stoppage, remote work arrangements utilized by
+                  represented employees shall be suspended.
+
+         D.       Members have the right to Union representation as enumerated in this
+                  collective bargaining agreement or as guaranteed by the law.
+
+         E.       The Agency or the Union may initiate discussions with the other party to
+                  develop working groups to consider options relating to remote work.
+
+         F.       The Agency shall not compel an employee to work remotely. Employees
+                  who choose to work in office shall be guaranteed a workspace at an
+                  Employer facility.
+                                                                                   NEW: 2021, REV: 2023
+
+
+### ARTICLE 72 – AIR QUALITY
+
+Section 72.1.
+The Air Quality Index (AQI) was developed by the US Environmental Protection Agency as an
+indicator of overall air quality and is based on the five (5) criteria pollutants regulated under the
+Clean Air Act: ground-level ozone, particulate matter, carbon monoxide, sulfur dioxide, and
+nitrogen dioxide. Employee exposure levels to wildfire smoke is determined by the current
+workplace ambient air concentration for particulate matter 2.5 (PM2.5), regardless of the
+concentrations for other pollutants.
+
+Section 72.2. Outdoor Work and Air Quality.
+Employees who are required to work outside when outdoor air concentration for PM2.5 reach at
+or above 55.5 ug/m 3 (equivalent to an AQI at or above 151) will be provided with the appropriate
+OSHA recommended safety equipment.
+
+Section 72.3.
+When elevated AQI levels require a building closure or delayed opening, the Inclement
+Conditions/Hazardous Condition Leave will apply. All other provision of Article 29—Inclement
+Weather/Hazardous Conditions apply for elevated AQI which falls under a Hazardous Condition.
+                                                                                               NEW: 2021
+
+
+
+
+2023-2025 Oregon Liquor and Cannabis Commission      85                      Collective Bargaining Agreement
+### ARTICLE 73 - PAID LEAVE OREGON
+
+Paid Leave Oregon is administered by the Oregon Employment Department. The State of
+Oregon, as an employer, shall comply with the provisions of Paid Leave Oregon, as
+provided for in the DAS statewide Paid Leave Oregon Policy (60.000.04), including but not
+limited to the following section on Use of Paid Leave:
+
+Section 1.
+Employees may choose and will be allowed to use sick, vacation, or personal business
+leave to make up any difference between Paid Leave Oregon benefits and their average
+weekly wage, as determined by the Oregon Employment Department. An employee
+receiving Paid Leave Oregon benefits and who is protected by Family and Medical Leave
+or Oregon Family Leave (FMLA/OFLA) will use accrued leave in accordance with any
+existing contract language relating to FMLA/OFLA.
+                                                                                       NEW: 2023
+
+                                                                                            \\\\\\\\\\\
+
+
+
+
+2023-2025 Oregon Liquor and Cannabis Commission   86                 Collective Bargaining Agreement
+### LETTER OF AGREEMENT - ARTICLE 21 – CONTRACTING OUT - FEASIBILITY STUDY
+
+This Letter of Agreement is entered into between the State of Oregon Department of
+Administrative Services, on behalf of all State Agencies covered by the State of Oregon
+and AFSCME Central Table.
+
+When the provisions of Article 21, Section 5, require a feasibility study, the following will
+apply:
+
+         The Employer will count eighty percent (80%) of the affected employee’s
+         straight-time wage rate when comparing the two (2) plans.
+
+This Agreement is effective through June 30, 2025.
+
+
+
+
+2023-2025 Oregon Liquor and Cannabis Commission   87                   Collective Bargaining Agreement
+### LETTER OF AGREEMENT – ARTICLE 26 – WORK WEEK, WORKDAY AND WORK
+        SCHEDULE, WAREHOUSE SCHEDULES AND SHIFT BIDDING
+
+Liquor Distribution Workers (LDW) 1 and 2, and Liquor Distribution Equipment Operations
+(LDEO) shifts will be bid on by seniority within classification starting in January 2016 and
+continuing through the biennium. The shift bidding process will be completed each year
+by January thirty-first (31st) of each year, and the results of the shift bid will be implemented
+no later than March first (1st) of each year.
+
+Shift bid will occur within each classification for all shifts. Employees must meet specific
+requirements/endorsements for the position sought.
+
+Leadwork will be re-posted subsequent to the results of the annual shift bid.
+
+Within ninety (90) days following implementation, the Labor/Management Committee will
+discuss the shift bid process and specifically address areas of concern and/or
+improvement.
+
+Nothing in this Letter of Agreement alters management’s right to assign shifts and
+schedules pursuant to the Collective Bargaining Agreement.
+
+This Letter of Agreement will sunset June 30, 2025.
+
+
+
+
+2023-2025 Oregon Liquor and Cannabis Commission   88                      Collective Bargaining Agreement
+### LETTER OF AGREEMENT – ARTICLE 42 - PEBB MEMBER ADVISORY COMMITTEE
+
+This Agreement is between the State of Oregon, acting through its Department of
+Administrative Services (Employer) and AFSCME Council 75 (Union).
+
+The Employer and Union share a commitment to PEBB achieving its vision of better health,
+better care and affordable costs. Both Parties recognize that the structure of PEBB is
+authorized in Oregon Revised Statutes, and is also designed to provide the input and
+perspective of members in PEBB decisions. In addition, the Employer and Union
+representatives share governance and decision making within the authorized structure of
+PEBB. The Employer and the Union share an interest in further informing the PEBB
+decision making process through an additional layer of direct member engagement in
+health and wellness.
+
+Therefore, the Parties agree to the following:
+
+1.       PEBB is directed to create and staff a PEBB Member Advisory Committee (PMAC).
+
+2.       The PMAC will be comprised of PEBB members, including both management and
+         labor, with up to four (4) members appointed by AFSCME. Appointment to the
+         PMAC will be for a two (2) year period. Management will select the one
+         management co-chair and Labor will select their co-chair.
+
+3.       The PMAC will meet at least once per calendar quarter.
+
+4.       The PMAC will provide advice on:
+
+         a. Member engagement
+
+         b. Health and Welfare strategies including the Health Engagement Model and
+            wellness programs.
+
+         c. Educating and engaging members as active leaders in their health.
+
+5.       PEBB is required to present updates to the PMAC about the progress towards its
+         vision of better health, better care and affordable costs.
+
+6.       Participants on the committee will be on paid status and shall be reimbursed as per
+         state travel policy. Agencies will not incur any overtime liability as a result of
+         committee meetings or travel.
+
+This Agreement will sunset on June 30, 2025.
+
+
+
+
+2023-2025 Oregon Liquor and Cannabis Commission   89                   Collective Bargaining Agreement
+### LETTER OF AGREEMENT – ARTICLE 48 - SALARY AND BENEFIT REPORT
+
+This Agreement is between the State of Oregon, acting through its Department of
+Administrative Services (DAS) and the AFSCME Local 75, (Union).
+
+DAS Classification and Compensation will provide a draft Salary and Benefit report to
+AFSCME no later than December 31 of even numbered years. AFSCME will have 14
+calendar days to review and comment on the draft report. DAS Classification and
+Compensation will provide the final report to AFSCME no later than January 31.
+
+DAS Classification and Compensation is committed to providing the Union with a training
+on the State’s salary selective process.
+
+This Letter of Agreement will sunset on June 30, 2025, unless extended by mutual
+agreement.
+
+
+
+
+2023-2025 Oregon Liquor and Cannabis Commission   90               Collective Bargaining Agreement
+### LETTER OF AGREEMENT – ARTICLE 48 - SALARY RANGE TRUNCATION
+
+This Agreement is entered into between the State of Oregon, acting through its
+Department of Administrative Services (DAS), on behalf of the Agencies covered by this
+Agreement (Agency) and the AFSCME Council 75 (Union).
+
+1.       Effective April 1, 2024, the following classifications in salary range 21 and below
+         will be truncated by removing the first two steps in each salary range:
+                              Classification Title                      Class    SR
+                                                                           #      #
+          Accounting Technician                                        0212      19
+          Administrative Specialist 1                                  0107      17
+          Administrative Specialist 2                                  0108      20
+          Automotive Technician 1                                      4418      19
+          Behavior/Vocational Specialist 1                             6296      20
+          Cartographer 1                                               3116      13
+          Cartographer 2                                               3117      17
+          Cartographer 3                                               3118      19
+          Compliance Specialist 1                                      5246      21
+          Cook                                                         9117      17
+          Criminal Justice/Emergency Communications                    1461      20
+          Specialist
+          Custodial Services Coordinator                               4103      13
+          Custodian                                                    4101      10
+          Data Entry Operator                                          0501       9
+          Data Entry Operator                                          0501      11
+          Electronic Publishing Design Specialist 1                    2510      17
+          Environmental Specialist 1                                   3820      20
+          Equipment Operator                                           4422      21
+          Executive Support Specialist 1                               0118      17
+          Executive Support Specialist 2                               0119      20
+          Facility Energy Technician 1                                 4032      18
+          Facility Maintenance Specialist                              4012      18
+          Fingerprint Technician                                       3786      17
+          Force Protection Leader                                      5521      20
+          Force Protection Officer                                     5519      18
+          Forensic Laboratory Support Specialist                       0803      16
+          Forest Officer Entry                                         8256      19
+          General Maintenance Mechanic                                 4409      21
+          Grounds Maintenance Worker 1                                 4109      14
+          Grounds Maintenance Worker 2                                 4110      17
+          Habilitative Training Technician 1                           6725      14
+          Heavy Equipment Technician Entry                             4436      19
+          Information Systems Specialist 1                             1481      17
+          Information Systems Specialist 2                             1482      21
+          Investigator 1                                               5231      19
+          Investigator 2                                               5232      21
+          Laboratory Technician 1                                      6810      13
+2023-2025 Oregon Liquor and Cannabis Commission   91                   Collective Bargaining Agreement
+           Laboratory Technician 2                                  6811          18
+           Laborer/Student Worker                                   4116          12
+           Legal Secretary                                          0110          18
+           Mail Services Assistant                                  0405          10
+           Medical Laboratory Technician 1                          6820          18
+           Medical Laboratory Technician 2                          6821          20
+           Medical Transcriptionist                                 0011          15
+           Natural Resource Specialist 1                            8501          21
+           Office Assistant 1                                       0101          8
+           Office Assistant 2                                       0102          10
+           Office Coordinator                                       0801          15
+           Office Specialist 1                                      0103         13C
+           Office Specialist 2                                      0104         15C
+           Park Ranger Assistant                                    8433          12
+           Parts Specialist 1                                       0782          15
+           Parts Specialist 2                                       0783          20
+           Payroll Analyst                                          0214          21
+           Physical/Electronic Security Technician                  4037          17
+           Physical/Electronic Security Technician 2                4038          21
+           Procurement And Contract Assistant                       0435          19
+           Public Service Representative 1                          0321          9
+           Public Service Representative 2                          0322         13C
+           Public Service Representative 3                          0323          15
+           Public Service Representative 3                          0323         15V
+           Public Service Representative 4                          0324          20
+           Research Analyst 1                                       1115          19
+           Revenue Agent 1                                          5110          17
+           Revenue Agent 2                                          5111          19
+           Scientific Instrument Technician                         4339          21
+           Student Professional/Technical Worker                    0150          11
+           Supply Specialist 1                                      0758          14
+           Supply Specialist 2                                      0759          20
+           Teaching Assistant                                       2302          13
+           Transportation Maintenance Specialist 1                  4151          17
+           Transportation Maintenance Specialist 2                  4152          19
+           Vehicle Emission Technician 1                            3807          16
+           Vehicle Emission Technician 2                            3808          18
+           Welder 1                                                 4020          20
+           Wildland Fire Suppression Specialist                     8255          17
+           Wildland Fire Suppression Specialist Entry               8254          13
+           Word Processing Technician 1                             0530          11
+           Word Processing Technician 2                             0531          13
+           Word Processing Technician 3                             0532          15
+
+2.       Effective April 1, 2024, salary range 7 will be removed from the Compensation
+         Plan. The following classification in that range will be moved to the truncated
+
+
+2023-2025 Oregon Liquor and Cannabis Commission   92                   Collective Bargaining Agreement
+         salary range 8 and the affected employees will be placed on the first step of the
+         truncated salary range 8:
+
+                  Classification Title                            Class #         SR#
+                  Student Office Worker                           0100            07
+
+3.       Effective April 1, 2024, the following classifications in salary range 21 and below
+         will be truncated by removing the first three steps in each salary range:
+          Classification Title                                     Class #       SR#
+          Direct Support Crisis Specialist                          6705           19
+          Group Life Coordinator 1                                  6750           16
+          Group Life Coordinator 2                                  6751           20
+          Health Crisis Technician                                  6726           18
+          Health Services Technician                                6138           17
+          Licensed Practical Nurse                                  6135           18
+          Manual Arts Instructor                                    2304           19
+          Mental Health Therapy Technician                          6710          16S
+          Resident Support Specialist                               6301           20
+
+         Effective April 1, 2025, the classifications listed above shall have an additional step
+         removed from the truncated range.
+
+4.       Effective April 1, 2024, the following classifications will be truncated by removing
+         the first step in each salary range:
+           Classification Title                                 Class #          SR#
+           Behavior Professional                                 6302             26
+           Behavioral Health Specialist 2                        6534             27
+           Dentist                                               7510            47S
+           Group Life Coordinator 3                              6752             22
+           Psychiatric Social Worker                             6720             28
+           Respiratory Care Practitioner                         6550             26
+
+         Effective April 1, 2025, the classifications listed above shall have an additional step
+         removed from the truncated range.
+
+5.       For each effective date listed in Sections 1-4, employees whose current rate is
+         below the first step of the new truncated salary range shall be moved to the first
+         step of the truncated range and shall remain there until their next salary eligibility
+         date. Employees will maintain their current salary eligibility date.
+
+         Employees whose current rate is within the new truncated salary range shall remain
+         at their current rate in the truncated range and shall remain there until their next
+         salary eligibility date. Employees will maintain their current salary eligibility date.
+
+
+
+
+2023-2025 Oregon Liquor and Cannabis Commission   93                      Collective Bargaining Agreement
+### LETTER OF AGREEMENT – ARTICLE 48 – ONE-TIME PAYMENT COLA
+
+This Agreement is entered into between the State of Oregon, acting through its
+Department of Administrative Services (DAS), and the AFSCME Local 75 (Union).
+
+In recognition of the high rate of inflation, the parties agree to the following:
+
+All employees as of July 1, 2023, that are still employed as of August 24, 2023 and also
+returning seasonals who return between July 2, 2023 and August 24, 2023, will receive a
+one-time one-thousand five hundred dollar ($1500) cost of living payment with their
+September 1, 2023 paycheck.
+
+Payments issued through this Letter of Agreement will be considered wages for tax
+purposes and are PERS subject.
+
+This Letter of Agreement will sunset on June 30, 2025.
+
+
+
+
+2023-2025 Oregon Liquor and Cannabis Commission   94                     Collective Bargaining Agreement
+### LETTER OF AGREEMENT – NEW EMPLOYEE NOTICE/UNION ACCESS
+
+    1. Notice
+          a. The Employer shall provide the Union, in an editable digital file format, the
+              following information for each employee quarterly:
+                    i. Employee name; date of hire; EIN
+                   ii. Contact information, including: cell, home and work telephone
+                       numbers (when available);
+                  iii. Means of electronic communication, including work, personal
+                       electronic mail address;
+                  iv. Home address or personal mailing address; and
+                   v. Department/Agency/Office, Job Classification, Job Title, base salary,
+                       and work site location.
+          b. Each business day, the Employer shall provide a report of newly hired
+              AFSCME represented workers as long as the new hire business process has
+              been successfully completed in the business day prior.
+          c. The State CHRO information unit will provide AFSCME with a report of new,
+              terminated, retired or transferring employees in AFSCME covered positions
+              no later than the 10th of each month.
+
+    2. New Employee Onboarding
+         a. Within the first ten (10) calendar days from the date of hire, the Union
+            representative shall be granted thirty (30) minutes of paid time to meet with
+            the new employees without loss of pay. Designated representatives shall
+            be given time off with pay to make the presentation. Employee attendance
+            at the Uplift Oregon benefits workshop does not prevent an employee from
+            attending a union presentation at a union new employee orientation.
+         b. Employees within their first twelve (12) months of employment shall be
+            allowed an additional one hundred and twenty (120) minutes of paid time to
+            meet with a Union representative for follow-up orientation issues without loss
+            of pay.
+         c. All AFSCME State agencies shall send their new employees to the Uplift
+            Oregon benefits workshop. AFSCME State agencies shall send their new
+            employees to the training within fourteen (14) days of hire. The Union shall
+            have time allotted during this training to share union information with
+            AFSCME represented employees.
+         d. Meetings under this section may remain confidential.
+
+
+
+
+2023-2025 Oregon Liquor and Cannabis Commission   95                  Collective Bargaining Agreement
+### LETTER OF AGREEMENT – OREGON UNIONS STATE WORKER TRAINING FUND
+
+The Parties recognize that both the State and its workers benefit from workers
+understanding their different health care options, understanding their retirement benefits
+and finding solutions to increase wellness and equity in the workplace
+
+Therefore, the State of Oregon, along with participating unions will work together to come
+up with creative and long-term solutions by working in collaboration to develop and deliver
+the trainings.
+
+In order to accomplish these goals, the Parties will:
+    • Establish a State Worker Training and Education Fund (Oregon Unions State
+       Worker Training Fund), appoint the State Worker Fund governing board of trustees
+       of ten (10) people with equal representation from union representatives and
+       Employers, and hire a qualified leader (“Director”) to report to such board of
+       trustees.
+           o Union Representatives will be split proportionally between participating labor
+               unions.
+    • Fund the start-up of the State Worker Training Fund from October 1, 2019 to June
+       30, 2020. The start-up will be funded by an Agency assessment of one cent ($0.01)
+       per hour per employee of straight-time worked that would be due to the trust no
+       later than October 1, 2019 in order to hire a director and choose one (1) or two (2)
+       pilot locations to learn and adjust a roll out of a statewide plan. Ongoing, State
+       Worker Training Fund will be funded two cents ($0.02) per hour worked, including
+       all paid leaves, per employee . Agencies can pay monthly. At a minimum, per hour
+       payments will be paid quarterly.
+           o Agencies with under fifty (50) employees shall not make per hour payments.
+
+The State Worker Training Fund will develop a plan to deliver trainings and programs on:
+   • PEBB and PERS. The PEBB and PERS training will be mandatory for new hires
+      and the PEBB training will be offered within fourteen (14) days of a new hire. When
+      possible, employees’ will sign up for their health insurance after going through the
+      PEBB training.
+   • Organizational Equity and Inclusion. Creating trainings focused on ensuring
+      nondiscrimination and best practices to equity and inclusion in the workplace.
+   • Wellness. The wellness initiatives should focus on agencies where there are clear
+      challenges identified by management and bargaining unit. The trust shall identify
+      one (1) Agency to pilot the wellness initiative.
+   • After a program is developed for the first three (3) stated goals, the Board of
+      Trustees will discuss other programs that potentially meet goals identified by the
+      State and the Unions.
+
+
+
+
+2023-2025 Oregon Liquor and Cannabis Commission   96                  Collective Bargaining Agreement
+### LETTER OF AGREEMENT – CONTRACT SPECIALIST
+
+This Agreement is between the State of Oregon, acting through its Department of
+Administrative Services (Employer) on behalf of all Agencies covered under the jurisdiction
+of the AFSCME Central Table (Agency) and AFSCME Council 75 (Union).
+
+The purpose of this Agreement is to establish Employer paid Contract Specialists to
+improve labor/management relationships at all levels of state government.
+
+The Parties agree to the following:
+
+Selection and Appointment of Contract Specialists:
+A.     The selection and appointment of a Contract Specialist shall be mutually agreed
+       upon by the Employer and Union.
+B.     The Union may have no more than one (1) Contract Specialist for every two
+       thousand (2,000) FTE bargaining unit positions from Agencies that are within the
+       jurisdiction of the AFSCME Central Table and Department of Corrections.
+C.     The duration of a Contract Specialist shall be mutually agreed upon by the
+       Employer and Union.
+D.     The Parties shall establish an agreement which shall be signed by all Parties
+       stipulating to the terms and conditions of the Contract Specialist assignment.
+E.     Employees selected as Contract Specialist must maintain all necessary
+       certifications, licensures and training requirements of their Agency position with
+       costs and reimbursements if applicable governed under the Agreement.
+F.     While the State is the Employer of record, the Union has the sole control, oversight
+       and direction of employees appointed as Contract Specialists. Therefore, the Union
+       shall indemnify and save the Employer harmless from any and all costs, should any
+       arise, associated with actions taken by the Contract Specialist on behalf of the
+       Union.
+G.     In the event the Employer/Agency determines a Contract Specialist is potentially
+       violating law or not complying with Employer/Agency policies or the local Agency
+       Collective Bargaining Agreement, the Agency shall immediately notify the Union.
+       The Agency shall investigate the matter and take action as necessary consistent
+       with the local Agency Collective Bargaining Agreement including disciplinary action.
+       Before any Agency action is taken, the Union may remove the employee from the
+       assigned worksites.
+
+Pay and Benefits:
+A.    The Agency shall continue to pay salary and benefits which includes pension
+      contribution, insurance and paid leave time consistent with what they earned before
+      their appointment. Employees appointed as a Contract Specialist shall not be
+      eligible for reimbursement for uniforms, boots or other ancillary items while serving
+      as a Contract Specialist the specifics which will be noted in the employee’s Contract
+      Specialist agreement.
+B.    Contract Specialists shall submit monthly timesheets recording a maximum of forty
+      (40) hours of work each week. The timesheet shall be signed and verified by the
+      Executive Director or designee of the Union. All leave taken, regardless of type,
+      must be clearly identified.
+C.    The Agency shall place the Contract Specialist on leave with pay for the duration of
+      the assignment. The calculation of seniority shall be consistent with the terms of
+      the applicable local Agency Collective Bargaining Agreement.
+2023-2025 Oregon Liquor and Cannabis Commission   97                  Collective Bargaining Agreement
+D.       Where the Union has designated Contract Specialist, the Agency shall pay up to
+         eighty-five thousand ($85,000) a year for the Contract Specialist which includes pay
+         and benefits. Any costs above eighty-five thousand ($85,000) per year shall be
+         paid by the Union by reimbursing the Agency using Agency established policies
+         and procedures for reimbursement.
+E.       The Agency shall not be liable for any overtime costs while the Contract Specialist
+         is on assignment with the Union.
+
+Travel and Reimbursements:
+A.     Time spent traveling on behalf of the Union shall be on Agency time.
+B.     The Union shall be responsible for all travel expenses including but not limited to
+       mileage, lodging, meals and other incidental travel expenses.
+C.     Contract Specialists shall not use or be assigned a state car for travel.
+
+Duties:
+A.    The Contract Specialist, DAS Labor Relations Unit and Agency Human Resources
+      staff shall work cooperatively when performing the following duties:
+          a. Interpret and administer the local Agency Collective Bargaining Agreement.
+          b. Education on the local Agency Collective Bargaining Agreement.
+          c. Provide guidance in grievance and problem resolution.
+          d. Improve steward capacity.
+          e. Work toward consistent application of the local Agency Collective Bargaining
+              Agreement.
+          f. Provide guidance on developing and improving labor/management
+              committees.
+          g. Participate in new employee orientation as provided for in the local Agency
+              Collective Bargaining Agreement.
+B.    If a DOJ attorney is appointed to serve as a Contract Specialist, the attorney shall
+      stipulate in the signed agreement that they will not practice law as that term is used
+      in law and Oregon State Bar rules, regulations, official opinions and decisions.
+C.    The Contract Specialist shall follow all applicable Employer and Agency policies
+      while serving in the capacity of a Contract Specialist.
+D.    The Contract Specialist shall not be assigned duties that involve strike preparation,
+      strike planning, strike coordination activities or interest arbitration preparation.
+
+Dispute Resolution:
+Notwithstanding any agreements that include grievance/arbitration procedure, if there is a
+disagreement between the Employer and the Union regarding the interpretation and
+application of this Letter of Agreement, the Employer and Union shall meet and attempt to
+resolve the matter. If, after fourteen (14) calendar days there no resolution, the moving
+party may request arbitration. The Parties shall use the arbitration procedure outlined in
+the agreement where the employee is employed.
+
+Indemnification:
+The Union shall indemnify and the Union and Contract Specialists hold the Employer and
+Agency harmless against any and all claims, damages, suits or other forms of liability
+which may arise out of any action taken or not taken by the Employer/Agency for the
+purpose of complying with this Letter of Agreement on Contract Specialists.
+
+The Union shall not indemnify the Employer/Agency for grievance/arbitration disputes.
+
+2023-2025 Oregon Liquor and Cannabis Commission   98                    Collective Bargaining Agreement
+Term of Agreement:
+This Agreement becomes effective on the date of the last signature and ends on June 30,
+2025 unless renewed by the Parties or the Parties agree to amend its provisions.
+
+
+
+
+2023-2025 Oregon Liquor and Cannabis Commission   99               Collective Bargaining Agreement
+### LETTER OF AGREEMENT – DISTRIBUTION CENTER SAFETY SHIRTS
+
+This Agreement is between the State of Oregon, acting through its Department of
+Administrative Services and the Oregon Liquor and Cannabis Commission (Employer) and
+AFSCME Council 75 (Union).
+
+The purpose of this Agreement is to establish the protocol for how safety shirts will be
+provided for distribution (warehouse) workers by the employer with the employees being
+responsible for the laundering and maintenance of these shirts.
+
+The Parties agree to the following:
+
+    1. The employer will provide each distribution employee with five (5) designated safety
+       shirts. A safety shirt (or a safety vest) will be worn and be visible while working in
+       the warehouse.
+
+    2. The warehouse employees will be responsible for all upkeep including laundering
+       of safety shirts.
+    3. If an employee’s safety shirt becomes unwearable due to regular wear and tear,
+       the employee will return the unwearable shirt to management and management will
+       replace the safety shirt to the employee.
+
+    4. Safety shirts are to be worn during working hours in the warehouse. If a worker
+       does not wear a safety shirt while working they will be required to wear a safety
+       vest during work hours.
+
+    5. Employees will follow the warehouse policy, procedure, or memorandum for High
+       Visibility Safety Vests & Safety Shirts.
+    6. Safety shirts are intended for work only.
+
+    7. The safety shirts have the OLCC name and/or logo on them. If employees wear
+       the shirts while traveling to and from work or out in public, employees must conduct
+       themselves in a professional manner when identifiable as an OLCC employee.
+
+    8. Damage to the shirts that is not warehouse work or laundry-related will be the
+       responsibility of the employee to pay for the replacement of the damaged shirt.
+This Letter of Agreement will sunset June 30, 2025.
+
+
+
+
+2023-2025 Oregon Liquor and Cannabis Commission   100                  Collective Bargaining Agreement
+### LETTER OF AGREEMENT – ACADEMY OVERTIME
+
+This Agreement is executed by AFSCME Local 2505 (Union) and the State of Oregon,
+acting through the Department of Administrative Services, Labor Relations Unit
+(DAS/LRU) on behalf of the Oregon Liquor and Cannabis Commission (Agency). The
+Parties agree that the following provisions will be effective on April 4, 2017.
+
+AFSCME Local 2505 represented employees who are required to attend a two (2) week
+licensing pre-academy and a four (4) week Department of Public Safety Standards and
+Training (DPSST) academy for the purposes of becoming certified in their role as a sworn
+peach officer, in the position of Regulatory Specialist; will be paid overtime for hours
+worked above forty (40) hours per work week for academy attendance as follows:
+
+1.       All travel time to and from the academy will be paid in accordance with Article 25 –
+         Education, Training and Career Development with the following exception:
+         a.      Academy attendees will not be paid for daily commuting travel time to and
+                 from the academy.
+
+         b.       Academy attends who do not commute daily to the academy will be paid
+                  travel time for travel from their regular duty station to the academy on Sunday
+                  and to return to their regular duty station on Friday each week of the
+                  academy.
+
+2.       Hours worked over forty (40) hours per week during the licensing pre-academy will
+         be paid actual overtime hours worked up to a maximum of five and one half (5 ½)
+         hours of overtime per week.
+
+3.       Hours worked over forty (40) hours per week during the four (4) week DPSST
+         academy will be paid actual overtime hours worked up to a maximum of six and
+         one half (6 ½) hours of overtime per week.
+
+This Letter of Agreement expires on June 30, 2025.
+
+
+
+
+2023-2025 Oregon Liquor and Cannabis Commission   101                      Collective Bargaining Agreement
+### LETTER OF AGREEMENT – STATE POLICY 107-011-040 FLEET MANAGEMENT
+                           UPDATES
+
+This Agreement is executed by AFSCME Local 2505 (Union) and the State of Oregon,
+acting through the Department of Administrative Services, Labor Relations Unit
+(DAS/LRU) on behalf of the Oregon Liquor and Cannabis Commission (Agency).
+
+The Parties acknowledge that nothing in this Agreement shall constitute a waiver of any
+Party’s rights, claims or defenses with respect to mandatory subjects of bargaining and
+the impact of changes to the State policy 107-011-040 Fleet Management.
+
+This Letter of Agreement is effective upon ratification of the Agreement and expires on
+June 30, 2025.
+
+
+
+
+2023-2025 Oregon Liquor and Cannabis Commission   102              Collective Bargaining Agreement
+### LETTER OF AGREEMENT – WAREHOUSE BLACKOUT DATES
+
+
+This Agreement is executed by AFSCME Local 2505 (Union) and the State of Oregon,
+acting through the Department of Administrative Services, Labor Relations Unit
+(DAS/LRU) on behalf of the Oregon Liquor and Cannabis Commission (Agency).
+
+The Agency agrees there will not be any vacation blackout dates for employees working
+in the Warehouse during the 2023-2025 biennium. Effective January 1, 2024, the Agency
+and the Union agree to meet in good faith in accordance with the LOA Warehouse
+Vacation scheduling “The Parties recognize the increase in volume to the OLCC
+Distribution Center. As such, the Parties will develop a workgroup to discuss options to
+allow employees in the Warehouse to expand utilization of their vacation leave. The
+workgroup may make recommendations to the Director on potential changes in process.”
+
+This Letter of Agreement is effective upon ratification of the Agreement and expires on
+June 30, 2025.
+
+
+
+
+2023-2025 Oregon Liquor and Cannabis Commission   103              Collective Bargaining Agreement
+### LETTER OF AGREEMENT – VERBAL DISCIPLINE
+
+This agreement is between the State of Oregon, acting through its Department of
+Administrative Services (DAS) on behalf of the Oregon Liquor and Cannabis Commission
+(OLCC or Agency) and Oregon AFSCME Council 75 (Union)/AFSCME Local 2505.
+
+1.       The Parties agree that it is the Agency’s practice that the issuance of Discipline
+         prevents employees from promoting or advancing within the Agency or from
+         applying for or holding Lead Work positions. The Parties agree that, per the 2019-
+         2021 Collective Bargaining Agreement, formal discipline typically begins with a
+         Verbal Warning and as such is subject to this practice.
+
+2.       The Parties agree that while it is the ongoing practice of the Agency, it is not a
+         specific provision addressed in the Collective Bargaining Agreement.
+
+3.       Both Parties wish to encourage opportunities for advancement within the Agency.
+
+Therefore both parties agree to the following:
+      1.     Verbal Warnings shall be considered pre-disciplinary.
+
+         2.       Verbal Warnings shall not prevent or harm an employee’s ability to promote
+                  or advance within the Agency or to apply for or hold Lead Work positions.
+
+         3.       The Union cannot grieve a Verbal Warning as it is a pre-disciplinary action.
+
+         4.       Any current and future records of Verbal Discipline shall be considered a
+                  Verbal Warning and be removed in accordance with Article 15 of the 2019-
+                  2021 Collective Bargaining Agreement.
+
+The Agreement shall sunset on June 30, 2025.
+
+
+
+
+2023-2025 Oregon Liquor and Cannabis Commission   104                    Collective Bargaining Agreement
+### LETTER OF AGREEMENT – ESSENTIAL WORKER INCLEMENT WEATHER/HAZARDOUS
+                           CONDITIONS PAY
+
+This Agreement is between the State of Oregon, acting through its Department of
+Administrative Services (Employer) and AFSCME Council 75 (Union).
+
+The Parties agree to the following:
+When a situation exists that would otherwise close or curtail state offices, essential
+workers having to report to work, in-person, shall receive the Essential Worker Inclement
+Weather/Hazardous Conditions Pay differential.
+
+The Essential Worker Inclement Weather/Hazardous Conditions Pay differential shall be
+three dollars ($3.00) per hour for all hours worked on a designated closure or curtailment
+day, regardless of the starting or ending time.
+
+Staff working at agencies with 24/7 operations that are not curtailed shall receive the
+Essential Worker Inclement Weather/Hazardous Conditions Pay benefits when any state
+agency offices are closed or are closed to the public due to inclement weather/hazardous
+conditions within the county of their worksite. For 24/7 operations, if inclement weather
+occurs on a weekend (and would normally result in a closure of a state agency office in
+the county of their worksite during Monday through Friday), staff shall receive the Essential
+Worker Inclement Weather/Hazardous Conditions Pay.
+
+
+
+
+2023-2025 Oregon Liquor and Cannabis Commission   105                  Collective Bargaining Agreement
+### LETTER OF AGREEMENT – ARTICLE 21 – WAREHOUSE VACATION SCHEDULING
+
+This Agreement is executed by AFSCME Council 75 on behalf of the Oregon Liquor and
+Cannabis Commission Unit (Union) and the State of Oregon, acting through the
+Department of Administrative Services, Labor Relations Unit (DAS/LRU) on behalf of the
+Oregon Liquor and Cannabis Commission (Agency).
+
+The parties recognize the increase in volume to the OLCC Distribution Center. As such,
+the parties will develop a workgroup to discuss options to allow employees in the
+Warehouse to expand utilization of their vacation leave. The workgroup may make
+recommendations to the Director on potential changes in process.
+
+The workgroup will consist of no more than six (6) represented members from the
+Warehouse (with no more than three (3) from either shift) and up to three (3) members of
+management. The workgroup will have two (2) paid meetings, each meeting will not
+exceed two (2) hours and shall be held on a Friday during the shift change period.
+Additional paid meetings may be scheduled by mutual agreement of the parties. Those
+meetings will not exceed two (2) hours and will be held on a Friday during the shift change
+period.
+
+Employees on sick leave or other protected leave shall not impact the ability for any other
+employees to be approved for paid time off.
+
+This Letter of Agreement will automatically sunset on June 30, 2025.
+
+
+
+
+2023-2025 Oregon Liquor and Cannabis Commission   106                 Collective Bargaining Agreement
+### LETTER OF AGREEMENT – COMPENSATION PLAN CHANGES
+
+Effective October 1, 2023, the following classifications will be added to the compensation
+plan:
+
+ CLASSIFICATION                                                        Classification      SALARY
+                                                                       Number              RANGE
+ Case Presenters                                                       C5752               31D
+
+
+The rates for the Case Presenters, Salary Range 31D will be established as follows:
+ Salary      Pay/Rng        Step Step             Step Step     Step   Step   Step   Step       Step      Step
+ Range       Option         1    2                3    4        5      6      7      8          9         10
+ 31D         DP             6345 6659             6977 7322     7673   8053   8448   8868       9307      9742
+
+The rates above will be adjusted in the event the Parties agree to a cost of living
+adjustment prior to the implementation of the new classification.
+
+The Agency will allocate positions to the new classification as applicable. Employees
+whose current rate is below the first step of the new range shall be moved to the first step
+in the new range and a new salary eligibility date what would be twelve (12) months from
+the effective date of the implementation will be assigned. For an employee whose rate is
+within the new salary range but not at a corresponding step, the employee’s salary shall
+be adjusted to the next higher rate closest to the employee’s current salary rate.
+Employees will remain at the new step until their next benefit service date.
+
+This Letter of Agreement will automatically sunset on June 30, 2023.
+
+
+
+
+2023-2025 Oregon Liquor and Cannabis Commission           107                        Collective Bargaining Agreement
+### LETTER OF AGREEMENT – LDS 1 & 2 COMPENSATION PLAN CHANGES
+
+Effective October 1, 2023 the following changes will be made to the compensation plan:
+
+ CLASSIFICATION                                                   SALARY
+                                                                  RANGE
+ Liquor Distribution Worker 2                                     18T
+ Liquor Distribution Worker 1                                     16S
+
+The rates for the Liquor Distribution Worker 2, Salary Range 18T and Liquor Distribution
+Worker 1, Salary Range 16S will be established as follows:
+ Salary      Pay/Rng        Step     Step         Step   Step     Step   Step   Step   Step       Step      Step
+ Range       Option         1        2            3      4        5      6      7      8          9         10
+ 16S         AP                                                                 4041   4238       4442      4656
+ 18T         AP                                                                 4355   4556       4774      5014
+
+Employees whose current rate is below the first step of the new truncated salary range
+shall be moved to the first step of the truncated range and shall remain there until their
+next salary eligibility date. Employees will maintain their current salary eligibility date.
+
+Employees whose current rate is within the new truncated salary range shall remain at
+their current rate in the truncated range and shall remain there until their next salary
+eligibility date. Employees will maintain their current salary eligibility date.
+
+This Letter of Agreement will automatically sunset on June 30, 2025.
+
+
+
+
+2023-2025 Oregon Liquor and Cannabis Commission             108                        Collective Bargaining Agreement
+### LETTER OF AGREEMENT – NATURAL DISASTER LEAVE
+
+This Agreement is between the State of Oregon, acting through its Department of
+Administrative Services (Employer) and AFSCME Council 75 (Union).
+
+This Letter of Agreement shall supersede any conflicting provisions in the collective
+bargaining agreements for the duration of the Letter of Agreement.
+
+We recognize that state of Oregon employees provide essential services and benefits to
+Oregonians every day. Their work is often the last or only option for support when
+Oregonians are faced with an emergency.
+
+1.       An employee who, due to a natural disaster, has:
+         a.       lost their home (primary residence);
+         b.       lost use of their primary residence (deemed uninhabitable); or
+         c.       lost access to their primary residence,
+         shall be eligible for a maximum of eighty (80) hours of paid administrative leave,
+         prorated for part-time employees. This leave will be available for intermittent
+         use.
+
+2.       Employees who have used the eighty (80) hours of paid administrative leave
+         identified in #1 may request donated leave. Donated leave received will not
+         exceed the amount needed to cover the absence. Donators may donate their
+         accrued vacation or compensatory leave.
+
+
+This Letter of Agreement will sunset on June 30, 2025, unless extended by mutual
+agreement.
+
+
+
+
+2023-2025 Oregon Liquor and Cannabis Commission   109                    Collective Bargaining Agreement
+### LETTER OF AGREEMENT – STATE POLICY 50.050.01 WORKING REMOTELY UPDATES
+
+This Letter of Agreement is between the State of Oregon, acting through its Department
+of Administrative Services (Employer on behalf of the Agencies covered under the
+jurisdiction of the AFSCME Central Table (Agencies) and AFSCME Council 75 (Union).
+
+The Parties acknowledge that nothing in this Agreement shall constitute a waiver of any
+Party’s rights, claims or defenses with respect to mandatory subjects of bargaining and
+the impacts of changes to the state policy 50.050.01 Working Remotely policy.
+
+This Agreement becomes effective on the date of the last signature below and ends June
+30, 2025.
+
+
+
+
+2023-2025 Oregon Liquor and Cannabis Commission   110             Collective Bargaining Agreement
+### LETTER OF AGREEMENT – CHILDCARE AND ELDERCARE EXPLORATORY COMMITTEE
+
+This Agreement is between the State of Oregon, acting through its Department of
+Administrative Services (Employer) and AFSCME Council 75 (Union).
+
+The purpose of this Agreement is to follow up on recommendations from the 2021-2023
+Childcare and Eldercare Committee and create a statewide joint labor-management
+committee tasked with conducting a feasibility analysis of a pilot program for on-site and
+centrally located childcare facilities and assess options for the creation of a childcare and
+eldercare fund. The committee shall produce a report that contains recommendations and
+any action items for the implementation of a pilot program and fund.
+
+The committee will be composed of equal numbers of union and management
+representatives. AFSCME will appoint three (3) members to the committee. Participants
+on the Committee will be on paid status and shall be reimbursed for authorized travel
+expenses as per State Travel Policy. Agencies will not incur any overtime as a result of
+Committee meetings or travel. Flexing schedules will be allowed to avoid overtime.
+
+In January 2025, the committee shall prepare a report detailing recommendations for the
+Central Table 2025-2027 bargaining committee.
+
+That State will assign staff to support and facilitate work of the committee. The committee
+shall be jointly led by the Employer and the Union.
+
+The committee will convene no later than thirty (30) days after the effective date of the
+contract. The committee will complete their work by January 31, 2025.
+
+
+
+
+2023-2025 Oregon Liquor and Cannabis Commission   111                  Collective Bargaining Agreement
+### LETTER OF AGREEMENT – PAY EQUITY
+
+This Agreement is entered into by the State of Oregon, acting through its Department of
+Administrative Services, Labor Relations Unit (Employer), on behalf of the Agencies
+covered by this Agreement (Agency) and the AFSCME Council 75 (Union).
+
+This Agreement applies to all of the Union’s bargaining units inside of the executive branch
+of state government.
+
+The purpose of this Agreement is to provide procedures to implement unscheduled pay
+equity adjustments consistent with Oregon law, and, to identify the appeal procedure to
+have Agency or Employer decisions concerning pay equity reviewed.
+
+The Parties agree to the following:
+1.    Application to Current Employees: The Employer, an Agency Head or designee
+      (with CHRO approval) may provide an unscheduled salary step increase to correct
+      a pay inequity between employees who perform work of a comparable character
+      and are similarly-situated based on relevant factors, identified in Oregon Revised
+      Statute [ORS 652.220(2)], by which individual employees may be compensated
+      differently. Unscheduled salary step increases may be initiated by:
+              (a) Periodic statewide equal pay analysis (appeal process section 10)
+              (b) Employee request (appeal process section 9)
+              (c) Agency identified inequity (appeal process section 9)
+2.    Application to Returning Employees (including but not limited to reemployment and
+      return from layoff): An Agency Head or designee may offer a higher step than
+      prescribed in the applicable labor agreement when the Agency identifies a pay
+      inequity between employees in the same classification who perform work of a
+      comparable character.
+3.    If an Agency plans to grant an unscheduled salary step increase to an employee(s),
+      the Agency shall first forward the recommendation to CHRO, Classification &
+      Compensation for review and analysis. The CHRO shall approve or disapprove the
+      Agency recommendation and shall provide a written response back to the Agency.
+      If approved, the Agency may take action to implement the pay equity adjustment.
+4.    An employee may request a pay equity review by submitting a Pay Equity Review
+      Request Form to the Agency Human Resource Department. This includes
+      employees who are appealing pay equity assessments conducted at the time of
+      hire or internal movements (transfer, promotion, etc.) to new positions where pay
+      equity assessments are performed. The Agency Human Resource Department
+      shall review the merits of the request based on the relevant factors and issue a
+      written decision within sixty (60) calendar days, unless otherwise mutually agreed
+      upon in writing.
+5.    Pay equity adjustments are generally effective on the date an employee made a
+      written request to the Agency or the date the Agency submitted a request to DAS
+      Classification and Compensation, whichever is earlier.
+6.    In the event an employee receives an unscheduled salary step adjustment for any
+      of the reasons identified in Section 1, the employee’s salary eligibility date shall
+      remain the same.
+7.    Agencies shall retain all documents pertaining to decisions involving pay equity.
+8.    If the employee meets with the Agency or Employer, the employee may request
+      and obtain Union representation.
+9.    Appeal Procedure - Agency Level Pay Equity Decisions.
+2023-2025 Oregon Liquor and Cannabis Commission   112                 Collective Bargaining Agreement
+         (a)  If an employee wishes to appeal an Agency’s pay equity decision as filed
+              under Section 4 of this Agreement, the employee shall submit a completed
+              Pay Equity Appeal Form to the Agency Head (or designee) within fifteen (15)
+              days of receipt of the Agency’s decision. The Agency shall respond to the
+              appeal within thirty (30) days of receipt of the appeal. The appeal must be
+              based on one (1) or more of the factors listed in ORS 652.220(2) and the
+              compensation of other employees performing work of a comparable
+              character.
+         (b)  If the employee disagrees with the Agency’s decision, the employee may
+              submit a written appeal to the Department of Administrative Services Labor
+              Relations Unit (LRU) within fifteen calendar days of receipt of the Agency’s
+              decision. The employee shall forward all written documents as part of the
+              appeal. The employee shall identify factors, as outlined above, the Agency
+              did not properly consider. The Department of Administrative Services Labor
+              Relations Unit (LRU) shall respond to the appeal in writing within thirty (30)
+              calendar days.
+         (c)  Pay equity appeals are not subject to arbitration. However, nothing in this
+              Agreement precludes the employee from submitting a claim to the Bureau of
+              Labor and Industries (BOLI) in accordance with BOLI’s administrative rules
+              or pursuing other legal recourse. The timelines for filing with BOLI or
+              pursuing other legal recourse apply regardless of whether the employee
+              appeals the decision under this section.
+         (d)  For purposes of this Agreement only, the appeal process in this Agreement
+              replaces the grievance procedure outlined in the applicable labor agreement
+              covering the employee.
+         (e)  The Employer and Union may agree to an extensions of time in this
+              Agreement upon mutual agreement in writing.
+10.      Appeal Procedure – DAS Statewide Equal Pay Analysis Decisions
+         (a)  An employee may appeal the Employer’s decision concerning the
+              employee’s salary that resulted from a statewide equal pay analysis. The
+              appeal must be based on one (1) or more of the factors listed in ORS
+              652.220(2) and the compensation of other employees performing work of a
+              comparable character.
+         (b)  An appeal of the Employers’ equal pay analysis decision may be filed by
+              sending a completed DAS Pay Equity Appeal Form via electronic mail to
+              CHRO.CNC@das.Oregon.gov no later than fifteen (15) calendar days from
+              the date the employee receives notification of the equal pay analysis results.
+              The Employer shall make a good faith effort to respond with a decision
+              regarding the employee’s appeal within one hundred and twenty (120)
+              calendar days.
+         (c)  The timelines for filing with BOLI or pursuing other legal recourse apply
+              regardless of whether the employee appeals the Employer’s decision under
+              this section.
+         (d)  Pay adjustments made as a result of accepted appeals shall be made
+              retroactively to January 1, 2025.
+         (e)  To be eligible to file an appeal of the DAS statewide equal pay analysis
+              decision an employee must have been employed by a state executive
+              branch agency as of July 1, 2024. Employees who do not meet this eligibility
+              requirements may pursue an appeal through Section 4 of this Agreement.
+         (f)  Employees at the top step of the salary range assigned to their job
+              classification on or before January 1, 2025, are not eligible to file an appeal.
+2023-2025 Oregon Liquor and Cannabis Commission   113                   Collective Bargaining Agreement
+         (g)    The Employer shall notify an employee in writing of the outcome of the
+                employee’s appeal, including reasons for the decision.
+         (h)    If the employee disagrees with the Employer’s response, the employee may
+                submit a claim to the Bureau of Labor and Industries or pursue other legal
+                recourse. Pay equity appeals are not subject to arbitration.
+         (i)    For purposes of this Agreement only, the appeal procedure in this
+                Agreement replaces the grievance procedure outlined in the applicable labor
+                agreement covering the employee.
+11.      This Agreement becomes effective on the date of the last signature below and
+         expires June 30, 2025.
+
+
+
+
+2023-2025 Oregon Liquor and Cannabis Commission   114                 Collective Bargaining Agreement
+### LETTER OF AGREEMENT – REGULATORY SPECALIST LATERAL TRANSFERS
+
+This Agreement is executed by Local 2505, Oregon AFSCME Council 75 (Union) and the
+State of Oregon, acting through the Department of Administrative Services, Labor
+Relations Unit (DAS/LRU) on behalf of the Oregon Liquor and Cannabis Commission
+(Agency).
+
+When a Regulatory Specialist position opens within the Agency’s bargaining unit, current
+Regulatory Specialist employees in good standing and who will be in regular status at time
+of the transfer will be offered the opportunity to laterally transfer through the state
+recruitment process prior to the agency considering other candidates.
+
+If two (2) or more employees in good standing are interested, the most senior will be
+appointed. For purposes of this Letter of Agreement, seniority shall mean the total length
+of continuous service in the classification of the vacant position or higher classification with
+the Agency. Any absence of leave without pay for longer than fifteen (15) calendar days,
+except for illness, injury, or education leave, shall break continuous service.
+
+If two (2) or more employees have equal seniority, the tie shall be broken as follows, with
+most credit given to: (1) Length of continuous service in the job classification in the Agency;
+(2) Length of continuous service with the Agency.
+
+This LOA will automatically sunset June 30, 2025.
+
+
+
+
+2023-2025 Oregon Liquor and Cannabis Commission   115                    Collective Bargaining Agreement
+### LETTER OF AGREEMENT – REGULATORY SPECIALIST SAFETY EQUIPMENT
+
+Section 1. The Agency shall issue the following equipment to all Regulatory Specialists:
+      a) Rechargeable Flashlight
+      b) Flashlight holder and clip
+      c) Latex gloves and glove holder
+      d) Chemical agent, carrying case and clip.
+      e) Body Armor custom fit for each employee that complies with the appropriate
+           threat level, as determined by management.
+      f)   Hanging badge w/chain
+      g) Wallet/ID Badge
+      h) Handcuff and carrying case (belt and clip)
+      i)   Tactical Handcuff Key
+      j)   Portable radio with microphone and holder
+      k) CPR Mask
+      l)   Stylus UV Light
+      m) Duty belt with keepers
+      n) Cooler Bag
+      o) Insulated Water Bottle
+      p) Reusable Ice Packs
+      q) Cellular Phone (with charger cable, if provided).
+      r)   Sharps Container
+      s) Duty Dufle Bag (x2 for marijuana)
+      t)   PPE for Marijuana Inspectors
+      u) OLCC Issued Polos, Jacket and Uniform pants
+
+Section 2. The Agency shall issue the following equipment to State Vehicles:
+      a)     Two-way radio for field cars
+
+Section 3. Employees shall maintain Agency provided equipment in good working order.
+If the Agency provided equipment is lost or damaged, the employee shall prepare a written
+report that includes the full explanation for the damage or loss of the equipment. Such
+report shall be submitted as soon as is reasonably possible from when the employee
+became aware of the loss or damage to the equipment.
+
+Section 4. Equipment will be inspected by management annually.
+
+This Letter of Agreement will not sunset until mutually agreed to during successor
+negotiations.
+
+
+
+
+2023-2025 Oregon Liquor and Cannabis Commission   116               Collective Bargaining Agreement
+### LETTER OF AGREEMENT – PORTLAND METRO REGULARTORY SPECIALIST SAFETY
+                            COMMITTEE
+
+This Agreement is executed by Local 2505, Oregon AFSCME Council 75 (Union) and the
+State of Oregon, acting through the Department of Administrative Services, Labor
+Relations Unit (DAS/LRU) on behalf of the Oregon Liquor and Cannabis Commission
+(Agency).
+
+The purpose of this Agreement is to codify the Parties agreement concerning the safety
+concerns in the Portland Metro area. The Agency and the Union want to partner to ensure
+the safety of OLCC employees who are required to work in the field in the Porland Metro
+area.
+
+Therefore, the Parties agree to the following pilot project:
+
+              1. Create a Portland Metro Regulatory Specialist Safety committee.
+              2. The Portland Metro Regulatory Specialist Safety Committee will meet monthly. The
+                 meeting will be scheduled by management to ensure that most of the Portland
+                 Metro Regulatory Specialist are scheduled to work.
+                 • Employees shall be given on-duty time if the meeting is held during the
+                      employee’s regular shift, if the meeting is not scheduled during the employee’s
+                      shift, the employee will be allowed to flex their schedule.
+              3. The Committee will include:
+                 • Senior Director of Licensing and Compliance
+                 • Director of Marijuana Compliance
+                 • Director of Alcohol Compliance
+                 • Portland Reginal Alcohol Manager
+                 • Portland Regional Marijuana
+                 • All Portland Regional Regulatory Specialist
+              4. The following may also be invited to attend and present at the monthly meeting,
+                 including but not limited to:
+                 • Porland Police Bureau
+                 • City of Portland, such as:
+                      o Bureau of Development Services
+                 • Old Town/Entertainment Community Association
+              5. Safety Reports placed in the O drive will be used to create the agenda. In addition
+                 to the safety reports on the O drive, Regulatory Specialists or Management can ask
+                 for a location/licensee to be added to the agenda for discussion.
+              6. The goal of the committee is to determine safety protocols for Regulatory
+                 Specialists to following concerning locations within the Portland Metro Area, and to
+                 compile a list of problematic areas or premises.
+              7. The committee shall discuss best practices for compiling, sharing and
+                 communicating information, including possible uses of additional technology.
+              8. By June 2024, the OLCC LMC will discuss the Portland Pilot Project, and determine
+                 if the pilot was successful and if it should be implemented in the different regions in
+                 a similar model.
+
+This Agreement becomes effective immediately and the first meeting will be held within two (2)
+months of contract ratification. The Parties agree that this Agreement will continue in effect unless
+a new Agreement is reached during successor negotiations.
+
+
+
+
+2023-2025 Oregon Liquor and Cannabis Commission     117                         Collective Bargaining Agreement
+### LETTER OF AGREEMENT—BI-WEEKLY PAY PERIOD/WORKDAY
+
+This Letter of Agreement is between the State of Oregon, acting through its Department
+of Administrative Services (Employer), and the AFSCME Local 75 (Union).
+
+To modernize and standardize pay practices, the State will evaluate the potential transition
+from monthly pay periods to bi-weekly pay periods.
+
+Therefore, the Parties agree to the following:
+      1.     The Employer shall convene a Joint Labor/Management Statewide Bi-
+             weekly Payroll Implementation Workgroup comprised of an equal number of
+             labor partners and members from management with three (3) AFSCME
+             members appointed by the Union. The purpose of this workgroup is to assist
+             in the evaluation of a potential transition and design of the bi-weekly payroll
+             including, but not limited to, the assessment of organizational readiness for
+             change, the design of the communication plan, business requirements and
+             testing, change management plan, and employee training. The workgroup
+             shall meet on a schedule it chooses, but no less frequently than once per
+             month.
+      2.     By January 1, 2025, the workgroup will put forth a report on their findings
+             and an opinion as to the Employer’s readiness to launch bi-weekly payroll,
+             which will be shared with the DAS Director and Union Executive Director
+             utilizing the following criteria:
+             a.      System Readiness: ensuring that the bi-weekly payroll system is fully
+                     developed, tested, and ready for deployment.
+             b.      Data Accuracy: Validate the accuracy and integrity of employee data
+                     within the bi-weekly payroll system.
+             c.      Compliance: Ensure that the bi-weekly payroll system complies with
+                     all applicable legal and regulatory requirements, such as tax laws,
+                     employment regulations, and data protection policies.
+             d.      Training and Support: Provide training and resources for employees
+                     who will be using the new payroll system. This includes ensuring that
+                     all relevant personnel are trained on how to operate the system
+                     effectively and efficiently, and that ongoing support mechanisms
+                     are in place to address any questions or issues that may arise.
+             e.      Organizational Readiness: Using standardized change management
+                     tools, such as the ADKAR model, confirm that impacted staff are
+                     ready for implementation of the bi-weekly payroll system.
+      3.     The State shall develop training for all employees and Agency payroll staff
+             on the necessary topics related to the transition. The training will include an
+             explanation of how deductions (for health insurance contributions, PERS
+             contributions, and deferred compensation, for example) and leave accruals
+             (for vacation and sick leave, for example) will be implemented in bi-weekly
+             paychecks. The training will also explain how overtime will be reported,
+             calculated, and paid. The training shall provide multiple avenues of
+             explanation (such as webinars, self-directed learning, in-person training)
+             sufficient to explain that employees’ pay is not reduced annually as a result
+             of the bi-weekly timing of paychecks, and the potential monthly financial
+             impacts of the bi-weekly change to employees.
+      4.     The Parties agree to establish a joint Statewide AFSCME labor-
+             management committee to discuss and identify modifications in areas of the
+2023-2025 Oregon Liquor and Cannabis Commission   118                 Collective Bargaining Agreement
+                  CBAs where calculations of hours worked or frequency of pay are applied
+                  such as: pay dates, deductions, leave accruals, holiday proration, union
+                  dues, PEBB contributions, payslip structure improvements, etc. This list is
+                  not exhaustive and may be expanded as the contract is reviewed by the joint
+                  labor management committee for preparation of bi-weekly pay change
+                  implementation. The Parties also agree to dedicate no less than fifteen (15)
+                  minutes as needed at the beginning or end of each meeting to discuss other
+                  Workday concerns or updates unrelated to payroll. The workgroup will
+                  review non-payroll related Workday concerns and identify potential
+                  modifications needed.
+                  a.      The joint Statewide AFSCME labor management committee shall be
+                          comprised of ten (10) members, with four (4) AFSCME represented
+                          employees appointed by the Union, four (4) management
+                          representatives, one (1) AFSCME staff and one (1) DAS State Labor
+                          Relations Manager. The Union and State may have additional staff
+                          work with the committee. This joint Statewide AFSCME labor
+                          management committee shall be tasked with reviewing modifications
+                          needed in statewide articles.
+                        i.       Each individual local shall utilize existing LMC, or if no LMC is
+                                 established, participate in a subgroup where one (1) member
+                                 from the local, one (1) member from AFSCME staff, one (1)
+                                 member from management, and one (1) DAS Labor Relations
+                                 Manager shall review and identify potential modifications
+                                 needed to in their local-specific articles.
+                       ii.       Each individual local subgroup will submit their identified
+                                 modifications needed in their local-specific articles to the joint
+                                 Statewide AFSCME labor management committee for review.
+                  b.        The joint Statewide AFSCME labor management committee shall
+                            meet on a schedule it chooses, but no less frequently than once per
+                            month.
+                  c.        Committee and workgroup members convened in accordance with
+                            the LOA will be on paid status and shall be reimbursed for authorized
+                            travel expenses as per State Travel Policy. Agencies will not incur any
+                            overtime as a result of committee meetings or travel. Flexing
+                            schedules will be allowed to avoid overtime.
+
+Alleged violations of this LOA are not subject to the grievance and arbitration procedure.
+
+Both parties retain their rights under PECBA.
+
+
+
+
+2023-2025 Oregon Liquor and Cannabis Commission     119                      Collective Bargaining Agreement
+### LETTER OF AGREEMENT – MINOR DECOY & UNDERCOVER OPERATIONS
+
+This Agreement is executed by AFSCME Local 2505 (Union) and the State of Oregon,
+acting through the Department of Administrative Services, Labor Relations Unit
+(DAS/LRU) on behalf of the Oregon Liquor and Cannabis Commission (Agency).
+
+To help facilitate OLCC’s Minor Decoy & Undercover Operations, by August 15, 2023, the
+Agency shall implement a policy that provides funding to perform minor decoy operations,
+with the purpose of preventing regulatory specialists from using their own personal funds
+to perform these duties which is prohibited.
+
+This Letter of Agreement will not sunset unless done so through successor bargaining.
+
+
+
+
+2023-2025 Oregon Liquor and Cannabis Commission   120               Collective Bargaining Agreement
+### LETTER OF AGREEMENT – LEADWORK DUTIES
+
+This Agreement is between the State of Oregon, acting through its Department of
+Administrative Services (DAS) on behalf of the Oregon Liquor and Cannabis Commission
+(OLCC or Agency) and Oregon AFSCME Council 75 (Union)/AFSCME Local 2505.
+
+1.       The Parties agree to discuss and evaluate the appropriateness of an employee’s
+         assigned leadwork duties, if an employee believes a specific assigned duty is
+         beyond the scope of leadwork per CBA Article 66.2:
+
+2.       The Union will bring forward the specific employee’s leadwork duty in question to
+         the next OLCC LMC meeting for the LMC to evaluate for appropriateness.
+
+3.       The OLCC LMC will either decide that the duty in question is appropriate or not. If
+         the Duty is not appropriate per the CBA or Class Spec. the employee will be relieved
+         of that duty. If the duty is appropriate the Employee will then decide to complete
+         the assigned Duty or resign from the Leadwork assignment.
+
+4.       If the OLCC LMC cannot reach an agreement on the appropriateness of the duty in
+         question, the question will be forwarded by OLCC HR to DAS LRU within ten (10)
+         business days.
+
+5.       DAS LRU will then work with DAS Class/Comp to determine if the duty in question
+         is appropriate per the CBA and Class Spec. If the duty in question is not appropriate
+         the employee will be relieved of that specific duty. If the duty is appropriate the
+         Employee will then decide to complete the assigned duty or resign from the
+         Leadwork assignment.
+
+6.       DAS LRU in conjunction with DAS Class/Comp will determine the final finding within
+         thirty (30) business days and that decision is not subject the grievance procedure
+         outline in Article 13.
+
+7.       Leadwork assignments will not be extended by this process. The Agency will not
+         incur any monetary penalties. The only solution is removing the duty if determined
+         to be inappropriately assigned.
+
+8.       Timelines may be extended upon mutual agreement.
+
+The Agreement shall sunset on June 30, 2025.
+
+
+
+
+2023-2025 Oregon Liquor and Cannabis Commission   121                   Collective Bargaining Agreement
+### LETTER OF AGREEMENT – OLCC WAREHOUSE BREAK SCHEDULE
+
+This Agreement is between the State of Oregon, acting through its Department of
+Administrative Services (Employer) on behalf of the Oregon Liquor and Cannabis
+Commission (Agency) and AFSCME Council 75 (Union) of AFSCME Local 2505.
+
+Per the BOLI guidelines for lunch and rest breaks – breaks may not be taken at the
+beginning or end of the work shift; rest breaks cannot be combined with lunch/meal break.
+
+The purpose of this Agreement is to codify the Parties’ agreement concerning the break
+schedules for the OLCC warehouse production floor.
+
+Therefore, the Parties agree to the following:
+      1.     Break periods shall be scheduled as nearly as possible to the middle of each
+             work period before and after the lunch period.
+      2.     A lunch period shall be scheduled as nearly as possible to the middle of the
+             daily work shift.
+      3.     Adjustment to scheduled breaks and lunch period may be made subject to
+             operational needs of the Agency or by mutual Agreement between the
+             employee and a manager.
+      4.     If an employee misses a scheduled break due to leave usage, it will be
+             deemed the employee voluntarily waived the ability to claim that break. If an
+             employee misses a break due to the needs of the Agency, the employee will
+             be compensated for such break.
+      5.     The employee is prohibited from using scheduled breaks in conjunction with
+             leave usage in order to leave the workplace early.
+
+This Agreement becomes effective on the date of the last signature below. [12/12/2022]
+The Parties agree that this Agreement will continue in effect unless a new Agreement is
+reached during successor negotiations.
+
+
+
+
+2023-2025 Oregon Liquor and Cannabis Commission   122                Collective Bargaining Agreement
+### APPENDIX A – OFFICIAL GRIEVANCE FORM
+
+                                                                                        AFSCME LOCAL 2505_
+                                                                                                    STEP 1
+
+
+                                                      OFFICIAL GRIEVANCE FORM
+
+ NAME OF EMPLOYEE:                                      DEPARTMENT:
+ CLASSIFICATION:                                        IMMEDIATE SUPERVISOR:
+ WORK LOCATION:                                         SUPERVISOR’S TITLE:
+
+
+STATEMENT OF GRIEVANCE AND ARTICLE(S) VIOLATED:
+
+
+
+
+Adjustment required:
+
+
+
+
+I authorize A.F.S.C.M.E. Council 75 as my representative to act for me in the disposition of this
+grievance.
+
+Date:                                Signature of Employee:
+
+
+Signature of Union Representative: _____________________________ Title:
+____________________
+
+
+Date Presented to Management Representative:
+
+
+Signature of Management Representative:
+
+
+
+
+2023-2025 Oregon Liquor and Cannabis Commission        123                    Collective Bargaining Agreement
+### APPENDIX B – COMPENSATION PLAN
+
+                                                                7/1/2023   10/1/2023
+                                                                SALARY     SALARY
+                          CLASSIFICATION TITLE
+                                                                RANGE      RANGE
+                          Accountant 1                            23          23
+                          Accountant 2                            27          27
+                          Accountant 3                            30          30
+                          Accounting Technician                   19          19
+                          Administrative Specialist 1             17          17
+                          Administrative Specialist 2             20          20
+                          Case Presenters                         N/A        31D
+                          Compliance Specialist 1                 21          21
+                          Compliance Specialist 2                 25          25
+                          Compliance Specialist 3                 29          29
+                          Construction Project Manager 1          27          27
+                          Custodial Services Coordinator          13          13
+                          Custodian                               10          10
+                          Data Entry Operator                     09          09
+                          Facility Energy Technician 1            18          18
+                          Facility Energy Technician 2            22          22
+                          Facility Energy Technician 3            26          26
+                          Facility Energy Technician 4            29          29
+                          Fiscal Analyst 1                        23          23
+                          Fiscal Analyst 2                        27          27
+                          Fiscal Analyst 3                        30          30
+                          Fiscal Auditor 1                        23          23
+                          Fiscal Auditor 2                        26          26
+                          General Maintenance Mechanic            21          21
+                          Grounds Maintenance Worker 2            17          17
+                          Inf ormation Systems Specialist 1       17I         17I
+                          Inf ormation Systems Specialist 2       21I         21I
+                          Inf ormation Systems Specialist 3       24I         24I
+                          Inf ormation Systems Specialist 4       25I         25I
+                          Inf ormation Systems Specialist 5       28I         28I
+                          Inf ormation Systems Specialist 6       29I         29I
+                          Inf ormation Systems Specialist 7       31I         31I
+                          Inf ormation Systems Specialist 8       34I         34I
+                          Licensing Specialist                    25          25
+                          Liquor Distribution Worker 1            16T        16S
+                          Liquor Distribution Worker 2            17S        18T
+                          Liquor Regulatory Specialist            25          25
+                          Of f ice Assistant 2                    10          10
+                          Of f ice Specialist 1                   13C        13C
+                          Of f ice Specialist 2                   15C        15C
+                          Operations & Policy Analyst 1           23          23
+
+2023-2025 Oregon Liquor and Cannabis Commission           124                       Collective Bargaining Agreement
+                          Operations & Policy Analyst 2         27   27
+                          Operations & Policy Analyst 3         30   30
+                          Operations & Policy Analyst 4         32   32
+                          Payroll Analyst                       21   21
+                          Procurement & Contract Specialist 1   23   23
+                          Procurement & Contract Specialist 2   27   27
+                          Procurement & Contract Specialist 3   29   29
+                          Procurement And Contract Assistant    19   19
+                          Program Analyst 1                     23   23
+                          Program Analyst 2                     27   27
+                          Program Analyst 3                     29   29
+                          Program Analyst 4                     31   31
+                          Public Af f airs Specialist 1         25   25
+                          Public Af f airs Specialist 2         29   29
+                          Public Af f airs Specialist 3         31   31
+                          Public Service Representative 3       15   15
+                          Regulatory Specialist                 27   27
+                          Supply Specialist 1                   15   15
+                          Supply Specialist 2                   20   20
+                          Training & Development Specialist 1   24   24
+                          Training & Development Specialist 2   28   28
+                          Word Processing Technician 2          13   13
+
+
+
+
+2023-2025 Oregon Liquor and Cannabis Commission           125             Collective Bargaining Agreement
+### APPENDIX C – SALARY SCHEDULE
+
+                                SALARY SCHEDULE AS OF JULY 1, 2023
+ Salary     Pay / Rng       Step  Step Step Step Step Step Step                    Step     Step        Step
+ Range       Option          1     2    3     4     5     6      7                  8         9          10
+    9          AP                                               3005               3116     3216        3343
+   10          AP                                        3005 3116                 3216     3343        3482
+   13          AP                      3005 3116 3216 3343 3482                    3627     3784        3962
+  13C          AP                 3005 3116 3216 3343 3482 3627                    3784     3962        4155
+   15          AP           3005 3116 3216 3343 3482 3627 3784                     3962     4155        4355
+  15C          AP           3061 3164 3278 3412 3555 3706 3872                     4058     4255        4462
+  16T          AP                           3482 3627 3784 3962                    4155     4355        4565
+   17          AP           3216 3343 3482 3627 3787 3962 4155                     4355     4562        4772
+  17I          IP           3325 3461 3597 3756 3931 4116 4306                     4505     4717        4937
+  17S          AP                           3718 3879 4061 4259                    4464     4669        4884
+   18          AP           3343 3482 3627 3784 3962 4155 4355                     4556     4772        5014
+   19          AP           3482 3627 3784 3962 4155 4355 4556                     4772     5014        5253
+   20          AP           3627 3784 3962 4155 4355 4556 4772                     5014     5253        5501
+   21          AP           3784 3962 4155 4355 4556 4772 5014                     5253     5501        5768
+  21I          IP           3830 4011 4197 4391 4597 4815 5037                     5276     5521        5777
+   22          AP           3962 4155 4355 4556 4772 5014 5253                     5501     5768        6046
+   23          AP           4155 4355 4556 4772 5014 5253 5501                     5768     6046        6345
+   24          AP           4355 4556 4772 5014 5253 5501 5768                     6046     6345        6659
+  24I          IP           4383 4591 4810 5030 5266 5515 5774                     6045     6330        6630
+   25          AP           4556 4772 5014 5253 5501 5768 6046                     6345     6659        6977
+  25I          IP           4757 4979 5210 5457 5713 5982 6262                     6557     6865        7189
+   26          AP           4772 5014 5253 5501 5768 6046 6345                     6659     6977        7322
+   27          AP           5014 5253 5501 5768 6046 6346 6659                     6977     7322        7673
+   28          AP           5253 5501 5768 6046 6345 6659 6977                     7322     7673        8053
+  28I          IP           5308 5561 5819 6095 6381 6680 6996                     7325     7670        8031
+   29          AP           5501 5768 6046 6345 6659 6977 7322                     7673     8053        8449
+  29I          IP           5679 5943 6224 6517 6825 7145 7481                     7836     8202        8585
+   30          AP           5768 6046 6345 6659 6977 7322 7673                     8053     8449        8868
+   31          AP           6046 6345 6659 6977 7322 7673 8053                     8448     8868        9307
+  31I          IP           6287 6583 6893 7217 7557 7914 8285                     8674     9079        9503
+   32          AP           6345 6659 6977 7322 7673 8053 8448                     8868     9307        9742
+  34I          IP           7172 7511 7865 8239 8623 9034 9465                     9913     10383      10874
+
+
+ Where the system rates and the rates printed in the CBA dif f er by two dollars ($2.00) or less per
+ month, the system shall be considered the of f icial rate and shall supersede the rate printed in the
+ CBA.
+
+ Note: Range Option A will be calculated using a reverse dif f erential and rates will not be specif ically
+ listed in the Agreement.
+
+
+
+
+2023-2025 Oregon Liquor and Cannabis Commission        126                            Collective Bargaining Agreement
+                               SALARY SCHEDULE AS OF OCTOBER 1, 2023
+   Salary     Pay / Rng      Step Step Step Step Step Step Step                     Step     Step        Step
+   Range       Option         1     2    3     4     5    6      7                   8         9          10
+      9          AP                                             3005                3116     3216        3343
+     10          AP                                      3005 3116                  3216     3343        3482
+     13          AP                     3005 3116 3216 3343 3482                    3627     3784        3962
+    13C          AP                3005 3116 3216 3343 3482 3627                    3784     3962        4155
+     15          AP          3005 3116 3216 3343 3482 3627 3784                     3962     4155        4355
+    15C          AP          3061 3164 3278 3412 3555 3706 3872                     4058     4255        4462
+    16S          AP                                             4041                4238     4442        4656
+     17          AP          3216 3343 3482 3627 3787 3962 4155                     4355     4562        4772
+     17I         IP          3325 3461 3597 3756 3931 4116 4306                     4505     4717        4937
+     18          AP          3343 3482 3627 3784 3962 4155 4355                     4556     4772        5014
+    18T          AP                                             4355                4556     4774        5014
+     19          AP          3482 3627 3784 3962 4155 4355 4556                     4772     5014        5253
+     20          AP          3627 3784 3962 4155 4355 4556 4772                     5014     5253        5501
+     21          AP          3784 3962 4155 4355 4556 4772 5014                     5253     5501        5768
+     21I         IP          3830 4011 4197 4391 4597 4815 5037                     5276     5521        5777
+     22          AP          3962 4155 4355 4556 4772 5014 5253                     5501     5768        6046
+     23          AP          4155 4355 4556 4772 5014 5253 5501                     5768     6046        6345
+     24          AP          4355 4556 4772 5014 5253 5501 5768                     6046     6345        6659
+     24I         IP          4383 4591 4810 5030 5266 5515 5774                     6045     6330        6630
+     25          AP          4556 4772 5014 5253 5501 5768 6046                     6345     6659        6977
+     25I         IP          4757 4979 5210 5457 5713 5982 6262                     6557     6865        7189
+     26          AP          4772 5014 5253 5501 5768 6046 6345                     6659     6977        7322
+     27          AP          5014 5253 5501 5768 6046 6346 6659                     6977     7322        7673
+     28          AP          5253 5501 5768 6046 6345 6659 6977                     7322     7673        8053
+     28I         IP          5308 5561 5819 6095 6381 6680 6996                     7325     7670        8031
+     29          AP          5501 5768 6046 6345 6659 6977 7322                     7673     8053        8449
+     29I         IP          5679 5943 6224 6517 6825 7145 7481                     7836     8202        8585
+     30          AP          5768 6046 6345 6659 6977 7322 7673                     8053     8449        8868
+     31          AP          6046 6345 6659 6977 7322 7673 8053                     8448     8868        9307
+    31D          DP          6345 6659 6977 7322 7673 8053 8448                     8868     9307        9742
+     31I         IP          6287 6583 6893 7217 7557 7914 8285                     8674     9079        9503
+     32          AP          6345 6659 6977 7322 7673 8053 8448                     8868     9307        9742
+     34I         IP          7172 7511 7865 8239 8623 9034 9465                     9913     10383      10874
+
+
+  Where the system rates and the rates printed in the CBA dif f er by two dollars ($2.00) or less per
+  month, the system shall be considered the of f icial rate and shall supersede the rate printed in the
+  CBA.
+
+  Note: Range Option A will be calculated using a reverse dif f erential and rates will not be specif ically
+  listed in the Agreement.
+
+
+
+
+2023-2025 Oregon Liquor and Cannabis Commission        127                           Collective Bargaining Agreement
+                               SALARY SCHEDULE AS OF OCTOBER 1, 2023
+  Salary     Pay / Rng      Step Step Step Step Step Step      Step                  Step      Step        Step
+  Range       Option         1     2     3    4     5     6      7                     8         9          10
+     9          AP                                             3200                  3319      3425        3560
+    10          AP                                       3200  3319                  3425      3560        3708
+    13          AP                     3200 3319 3425 3560     3708                  3863      4030        4220
+   13C          AP                3200 3319 3425 3560 3708     3863                  4030      4220        4425
+    15          AP          3200 3319 3425 3560 3708 3863      4030                  4220      4425        4638
+   15C          AP          3260 3370 3491 3634 3786 3947      4124                  4322      4532        4752
+   16S          AP                                             4304                  4513      4731        4959
+    17          AP          3425 3560 3708 3863 4033 4220      4425                  4638      4859        5082
+    17I         IP          3541 3686 3831 4000 4187 4384      4586                  4798      5024        5258
+    18          AP          3560 3708 3863 4030 4220 4425      4638                  4852      5082        5340
+   18T          AP                                             4638                  4852      5084        5340
+    19          AP          3708 3863 4030 4220 4425 4638      4852                  5082      5340        5594
+    20          AP          3863 4030 4220 4425 4638 4852      5082                  5340      5594        5859
+    21          AP          4030 4220 4425 4638 4852 5082      5340                  5594      5859        6143
+    21I         IP          4079 4272 4470 4676 4896 5128      5364                  5619      5880        6153
+    22          AP          4220 4425 4638 4852 5082 5340      5594                  5859      6143        6439
+    23          AP          4425 4638 4852 5082 5340 5594      5859                  6143      6439        6757
+    24          AP          4638 4852 5082 5340 5594 5859      6143                  6439      6757        7092
+    24I         IP          4668 4889 5123 5357 5608 5873      6149                  6438      6741        7061
+    25          AP          4852 5082 5340 5594 5859 6143      6439                  6757      7092        7431
+    25I         IP          5066 5303 5549 5812 6084 6371      6669                  6983      7311        7656
+    26          AP          5082 5340 5594 5859 6143 6439      6757                  7092      7431        7798
+    27          AP          5340 5594 5859 6143 6439 6758      7092                  7431      7798        8172
+    28          AP          5594 5859 6143 6439 6757 7092      7431                  7798      8172        8576
+    28I         IP          5653 5922 6197 6491 6796 7114      7451                  7801      8169        8553
+    29          AP          5859 6143 6439 6757 7092 7431      7798                  8172      8576        8998
+    29I         IP          6048 6329 6629 6941 7269 7609      7967                  8345      8735        9143
+    30          AP          6143 6439 6757 7092 7431 7798      8172                  8576      8998        9444
+    31          AP          6439 6757 7092 7431 7798 8172      8576                  8997      9444        9912
+   31D          DP          6757 7092 7431 7798 8172 8576      8997                  9444      9912       10375
+    31I         IP          6696 7011 7341 7686 8048 8428      8824                  9238      9669       10121
+    32          AP          6757 7092 7431 7798 8172 8576      8997                  9444      9912       10375
+    34I         IP          7638 7999 8376 8775 9183 9621 10080                      10557     11058      11581
+
+
+
+  Where the system rates and the rates printed in the CBA dif f er by two dollars ($2.00) or less per
+  month, the system shall be considered the of f icial rate and shall supersede the rate printed in the CBA.
+
+  Note: Range Option A will be calculated using a reverse dif f erential and rates will not be specif ically
+  listed in the Agreement.
+
+
+
+
+2023-2025 Oregon Liquor and Cannabis Commission        128                            Collective Bargaining Agreement
+                                SALARY SCHEDULE AS OF APRIL 1, 2024
+  Salary     Pay / Rng      Step Step Step Step Step Step       Step                 Step      Step        Step
+  Range       Option         1    2     3    4     5     6        7                    8         9          10
+     9          AP                                              3200                 3319      3425        3560
+    10          AP                                      3200    3319                 3425      3560        3708
+    13          AP                                3425 3560     3708                 3863      4030        4220
+   13C          AP                          3425 3560 3708      3863                 4030      4220        4425
+    15          AP                     3425 3560 3708 3863      4030                 4220      4425        4638
+   15C          AP                     3491 3634 3786 3947      4124                 4322      4532        4752
+   16S          AP                                              4304                 4513      4731        4959
+    17          AP                     3708 3863 4033 4220      4425                 4638      4859        5082
+    17I         IP                     3831 4000 4187 4384      4586                 4798      5024        5258
+    18          AP                     3863 4030 4220 4425      4638                 4852      5082        5340
+   18T          AP                                              4638                 4852      5084        5340
+    19          AP                     4030 4220 4425 4638      4852                 5082      5340        5594
+    20          AP                     4220 4425 4638 4852      5082                 5340      5594        5859
+    21          AP                     4425 4638 4852 5082      5340                 5594      5859        6143
+    21I         IP                     4470 4676 4896 5128      5364                 5619      5880        6153
+    22          AP          4220 4425 4638 4852 5082 5340       5594                 5859      6143        6439
+    23          AP          4425 4638 4852 5082 5340 5594       5859                 6143      6439        6757
+    24          AP          4638 4852 5082 5340 5594 5859       6143                 6439      6757        7092
+    24I         IP          4668 4889 5123 5357 5608 5873       6149                 6438      6741        7061
+    25          AP          4852 5082 5340 5594 5859 6143       6439                 6757      7092        7431
+    25I         IP          5066 5303 5549 5812 6084 6371       6669                 6983      7311        7656
+    26          AP          5082 5340 5594 5859 6143 6439       6757                 7092      7431        7798
+    27          AP          5340 5594 5859 6143 6439 6758       7092                 7431      7798        8172
+    28          AP          5594 5859 6143 6439 6757 7092       7431                 7798      8172        8576
+    28I         IP          5653 5922 6197 6491 6796 7114       7451                 7801      8169        8553
+    29          AP          5859 6143 6439 6757 7092 7431       7798                 8172      8576        8998
+    29I         IP          6048 6329 6629 6941 7269 7609       7967                 8345      8735        9143
+    30          AP          6143 6439 6757 7092 7431 7798       8172                 8576      8998        9444
+    31          AP          6439 6757 7092 7431 7798 8172       8576                 8997      9444        9912
+   31D          DP          6757 7092 7431 7798 8172 8576       8997                 9444      9912       10375
+    31I         IP          6696 7011 7341 7686 8048 8428       8824                 9238      9669       10121
+    32          AP          6757 7092 7431 7798 8172 8576       8997                 9444      9912       10375
+    34I         IP          7638 7999 8376 8775 9183 9621 10080                      10557     11058      11581
+
+
+
+  Where the system rates and the rates printed in the CBA dif f er by two dollars ($2.00) or less per
+  month, the system shall be considered the of f icial rate and shall supersede the rate printed in the CBA.
+
+  Note: Range Option A will be calculated using a reverse dif f erential and rates will not be specif ically
+  listed in the Agreement.
+
+
+
+
+2023-2025 Oregon Liquor and Cannabis Commission        129                            Collective Bargaining Agreement
+    SALARY SCHEDULE AS OF JANUARY 1, 2025 OR FEBRUARY 1, 2025 (Per Salaries Article)
+ Salary Pay / Rng Step Step Step Step Step       Step  Step     Step    Step      Step
+ Range   Option    1     2     3      4     5      6     7        8       9        10
+    9      AP                                          3410     3536    3649      3793
+   10      AP                                    3410  3536     3649    3793      3951
+   13      AP                              3649  3793  3951     4116    4294      4496
+  13C      AP                       3649 3793    3951  4116     4294    4496      4715
+   15      AP                 3649 3793 3951     4116  4294     4496    4715      4942
+  15C      AP                 3720 3872 4034     4206  4394     4605    4829      5063
+  16S      AP                                          4586     4809    5041      5284
+   17      AP                 3951 4116 4297     4496  4715     4942    5177      5415
+   17I     IP                 4082 4262 4461     4671  4886     5112    5353      5602
+   18      AP                 4116 4294 4496     4715  4942     5170    5415      5690
+  18T      AP                                          4942     5170    5417      5690
+   19      AP                 4294 4496 4715     4942  5170     5415    5690      5960
+   20      AP                 4496 4715 4942     5170  5415     5690    5960      6243
+   21      AP                 4715 4942 5170     5415  5690     5960    6243      6545
+   21I     IP                 4763 4982 5217     5464  5715     5987    6265      6556
+   22      AP     4496 4715 4942 5170 5415       5690  5960     6243    6545      6861
+   23      AP     4715 4942 5170 5415 5690       5960  6243     6545    6861      7200
+   24      AP     4942 5170 5415 5690 5960       6243  6545     6861    7200      7557
+   24I     IP     4974 5209 5459 5708 5975       6258  6552     6860    7183      7523
+   25      AP     5170 5415 5690 5960 6243       6545  6861     7200    7557      7918
+   25I     IP     5398 5650 5912 6193 6483       6788  7106     7440    7790      8157
+   26      AP     5415 5690 5960 6243 6545       6861  7200     7557    7918      8309
+   27      AP     5690 5960 6243 6545 6861       7201  7557     7918    8309      8707
+   28      AP     5960 6243 6545 6861 7200       7557  7918     8309    8707      9138
+   28I     IP     6023 6310 6603 6916 7241       7580  7939     8312    8704      9113
+   29      AP     6243 6545 6861 7200 7557       7918  8309     8707    9138      9587
+   29I     IP     6444 6744 7063 7396 7745       8107  8489     8892    9307      9742
+   30      AP     6545 6861 7200 7557 7918       8309  8707     9138    9587     10063
+   31      AP     6861 7200 7557 7918 8309       8707  9138     9586   10063 10561
+  31D      DP     7200 7557 7918 8309 8707       9138  9586    10063 10561 11055
+   31I     IP     7135 7470 7822 8189 8575       8980  9402     9843   10302 10784
+   32      AP     7200 7557 7918 8309 8707       9138  9586    10063 10561 11055
+   34I     IP     8138 8523 8925 9350 9784 10251 10740 11248 11782 12340
+
+
+
+ Where the system rates and the rates printed in the CBA dif f er by two dollars ($2.00) or less per month,
+ the system shall be considered the of f icial rate and shall supersede the rate printed in the CBA.
+
+ Note: Range Option A will be calculated using a reverse dif f erential and rates will not be specif ically
+ listed in the Agreement.
+
+
+
+
+2023-2025 Oregon Liquor and Cannabis Commission        130                            Collective Bargaining Agreement
+               Signature Page AFSCME Oregon Liquor & Cannabis Commission
+
+             21
+Signed this _________        August
+                      day of ______________ , 2023, at Salem, Oregon.
+
+FOR THE EMPLOYER                                  FOR THE UNION
+
+
+                                                  ___________________________________________
+Berrie Leslie, Director                           Chris Stout, Council Representative
+Department of Administrative Services (DAS)       AFSCME Council 75
+
+
+
+Joshua W. Wetzel, State Labor Relations Manager   Zoe Blumenshine, President
+DAS, CHRO Labor Relations Unit                    AFSCME Local 2505
+
+
+
+Tara Wasiak, Deputy Director
+Oregon Liquor Control Commission
+
+
+
+
+2023-2025 OLCC Signature Page
+                  Department of Administrative Services
+                     Chief Human Resources Office
+                          Labor Relations Unit
+                         155 Cottage Street NE
+                         Salem, OR 97301-3971
+                         LRU@das.oregon.gov
+
+
+The official version of this Agreement is held by the Department of Administrative
+Services Labor Relations Unit on its electronic files at the website below. The
+Department of Administrative Services does not recognize any other copies or
+publications of this Agreement.
+             Electronic version of the Agreement located at:
+              http://www.oregon.gov/das/HR/Pages/LRU.aspx
+

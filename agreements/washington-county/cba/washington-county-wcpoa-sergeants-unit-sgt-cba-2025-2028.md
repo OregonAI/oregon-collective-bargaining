@@ -16,12 +16,11 @@ agency_registry_slugs: []
 source_url: https://www.washingtoncountyor.gov/hr/documents/wcpoa-sergeants-unit-sgt-cba-2025-2028/download?inline
 source_format: pdf
 retrieved: '2026-08-02'
-source_sha256: 05e34e70569a760b58f7e87aee1e600f9a5163d637e7aa311530bfe63d101cf4
+source_sha256: bec59170ffcc984acedca8d4e6ae98278ec0b28fbbaf407d1a3e36bb1e148344
 snapshot_policy: hash-only
 status: current
-content_mode: summary
-reproduction_basis: 'jointly-authored contract; summary + official link per the class determination
-  in corpus.yml schema.doc_types (verbatim: false)'
+content_mode: 'verbatim'
+reproduction_basis: 'public record of a public body (ORS 192.311-192.478); the employer publishes the executed agreement in full at source_url; a ratified agreement is an official act (Georgia v. Public.Resource.Org, 590 U.S. 255 (2020)) — mirrored in full per the class determination in corpus.yml schema.doc_types (verbatim: true)'
 conversion_notes: pdftotext -layout; 83 pages, 197655 characters extracted; NOT human-verified
 last_verified: ''
 verified_by: ''
@@ -45,8 +44,8 @@ tags:
 - washington-county
 ---
 
-> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated
-> summary, not the agreement's official text. Verify against the official
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a non-authoritative
+> mirror of the agreement's text, not the official record. Verify against the official
 > source: <https://www.washingtoncountyor.gov/hr/documents/wcpoa-sergeants-unit-sgt-cba-2025-2028/download?inline> (retrieved 2026-08-02).
 
 # Washington County — WCPOA Sergeants Unit (SGT) CBA 2025-2028
@@ -57,10 +56,6 @@ Collective bargaining agreement between **Washington County** and **WCPOA** — 
 - Listed on the county's labor agreements index as: “WCPOA Sergeants Unit (SGT) CBA 2025-2028” (index archived in `_meta/discovery/`)
 - Source document: 83 pages (PDF)
 
-This corpus is **summary-first for agreements**: the contract's text is not
-reproduced here (see Curator notes), and nothing on this page states or
-paraphrases the agreement's terms. Read the agreement itself at the official
-source link above.
 
 ## Curator notes
 
@@ -78,3 +73,3089 @@ Statutes and rules the document's text cites are recorded in frontmatter
 `relationships.references_external` (7 citation(s)) and resolve into
 `executive-regulatory-frameworks` as cites — this corpus asserts no
 `implements` edge anywhere.
+
+## Full text
+
+WASHINGTON COUNTY / WASHINGTON COUNTY SHERIFF’S
+                    OFFICE
+
+                       and
+
+WASHINGTON COUNTY POLICE OFFICERS’ ASSOCIATION –
+               SERGEANTS UNIT
+
+
+       COLLECTIVE BARGAINING AGREEMENT
+
+
+              THROUGH JUNE 30, 2028
+                                   TABLE OF CONTENTS
+
+ARTICLE 1 – RECOGNITION ................................................................................... 1
+ARTICLE 2 – DEFINITIONS ..................................................................................... 3
+ARTICLE 3 – EXISTING CONDITIONS ..................................................................... 4
+ARTICLE 4 – LABOR MANAGEMENT COMMITTEE ................................................. 5
+ARTICLE 5 – ELECTRONIC TECHNOLOGY ............................................................. 6
+ARTICLE 6 – EQUAL EMPLOYMENT OPPORTUNITY ............................................. 8
+ARTICLE 7 – SCOPE OF AGREEMENT .................................................................... 9
+ARTICLE 8 – EMPLOYEE & ASSOCIATION RIGHTS .............................................. 10
+ARTICLE 9 – MANAGEMENT RIGHTS ................................................................... 13
+ARTICLE 10 – HOURS OF WORK .......................................................................... 14
+ARTICLE 11 – OVERTIME ..................................................................................... 16
+ARTICLE 12 – CALL BACK AND COURT TIME ...................................................... 19
+ARTICLE 13 – WORKING IN HIGHER CLASSIFICATION ....................................... 22
+ARTICLE 14 – SENIORITY ..................................................................................... 23
+ARTICLE 15 – UNIFORMS ..................................................................................... 25
+ARTICLE 16 – TIME OFF IN LIEU OF HOLIDAYS ................................................. 26
+ARTICLE 17 – VACATION LEAVE .......................................................................... 27
+ARTICLE 18 – SICK LEAVE ................................................................................... 29
+ARTICLE 19 – OTHER LEAVES .............................................................................. 32
+ARTICLE 20 – ADMINISTRATION OF THE SALARY PLAN ..................................... 38
+ARTICLE 21 – INCENTIVE PAY ............................................................................. 42
+ARTICLE 22 – TRANSITIONAL (LIGHT) DUTY ASSIGNMENT AND PAY ................. 44
+ARTICLE 23 – RESERVED FOR FUTURE USE ....................................................... 45
+ARTICLE 24 – ASSOCIATION REPRESENTATIVES ................................................ 46
+ARTICLE 25 – OVERPAYMENT & REPAYMENT .................................................... 48
+ARTICLE 26 – MENTAL HEALTH & PHYSICAL FITNESS ....................................... 50
+ARTICLE 27 – TRAVEL PAY ................................................................................... 55
+ARTICLE 28 – MANDATED BENEFITS .................................................................. 56
+ARTICLE 29 – INSURANCE ................................................................................... 57
+ARTICLE 30 – PERSONNEL FILE .......................................................................... 61
+ARTICLE 31 – DISCIPLINE AND DISCHARGE ....................................................... 62
+ARTICLE 32 – GRIEVANCE PROCEDURE ............................................................. 67
+ARTICLE 33 – LAYOFF AND RECALL .................................................................... 69
+ARTICLE 34 – NO STRIKE AND NO LOCKOUT ..................................................... 72
+ARTICLE 35 – SAVINGS CLAUSE .......................................................................... 73
+ARTICLE 36 – TRAINING ....................................................................................... 74
+ARTICLE 37 – DRUG AND ALCOHOL TESTING .................................................... 75
+ARTICLE 38 – EFFECTIVE DATE AND DURATION ............................................... 79
+
+
+Washington County / WCPOA v2 – Sergeants CBA 2025-2028 – i
+SCHEDULE A ........................................................................................................ 80
+
+
+
+
+Washington County / WCPOA – Sergeants CBA 2025-2028 – ii
+### ARTICLE 1 – RECOGNITION
+
+1.1     The County recognizes the Association as the exclusive collective bargaining agent for
+        all full-time employees in the following classifications:
+
+                 Enforcement Sergeant
+                 Jail Sergeant
+
+        Temporary, seasonal, and confidential employees shall be excluded from the bargaining
+        unit and not covered by this Agreement when deemed excluded by agreement of the
+        parties or by a legal and final determination of the Oregon Employment Relations Board.
+        There shall be no variable hour or part-time employees serving in any Sergeant
+        classification.
+
+        Bargaining unit employees shall have priority for the scheduling of bargaining unit
+        assignments, hours and overtime. Non-bargaining unit employees shall not be scheduled
+        to work any bargaining unit work and/or assignments when there is a bargaining unit
+        employee who is willing, ready and able to perform the work. If no bargaining unit
+        employee is ready, willing and able to perform the work and a non-bargaining unit
+        employee is scheduled, once scheduled, there shall be no opportunity to “bump” a non-
+        bargaining unit employee from any of the assignment or work opportunity that the non-
+        bargaining unit employee is filling. Regardless of whether a non-bargaining unit
+        employee is performing or filling bargaining unit work or assignment – the bargaining
+        unit work and/or assignment will remain the purview and work/assignment of the
+        Association.
+
+1.2     The class titles used above are for descriptive purposes only. Copies of the current class
+        titles set forth in Section 1.1 shall be made available to the Association electronically.
+
+        Their use is neither an indication nor a guarantee that these classes or titles will continue
+        to be utilized by the County.
+
+1.3     The County shall promptly notify the Association of its decision to change any of the
+        classifications listed in Section 1.1 above. Such changes must be bargained before
+        implementation. If there is a successor classification or new classification doing any of
+        the current work or duties or functions of classifications and/or employees represented by
+        the Association then the successor/new classification shall automatically be recognized as
+        a part of the Association and covered by this Agreement.
+
+        Any changes to the promotional policy will be bargained per the PECBA.
+
+
+1.4     New classifications may be developed within the Sheriff’s Office by the County and
+        assigned a wage scale. The County shall notify the Association President of the new
+        classification and forward a job description and wage scale to the Association President
+
+
+Washington County / WCPOA – Sergeants CBA 2025-2028 – 1
+        for review. Pursuant to ORS 243.650 et seq., the Association shall have the right to
+        bargain about mandatory subjects and/or subjects with mandatory impacts, related to the
+        new classification. During bargaining about the new classification, as long as the new
+        classification has been placed within the Association, the County may proceed with the
+        hiring process with the understanding that any subsequent agreed upon changes related to
+        the new classification will be made retroactive to the employee’s date of hire. The
+        County further recognizes that the Association reserves the right to challenge the
+        exclusion of a new classification through PECBA procedures.
+
+
+
+
+Washington County / WCPOA – Sergeants CBA 2025-2028 – 2
+### ARTICLE 2 – DEFINITIONS
+
+2.1     The following definitions shall be applicable to this Agreement:
+
+        A.       “Employee” means any person employed by the County who fills a position in
+                 one of the classifications listed in the Recognition Article.
+
+        B.       “Probationary Employee” means an employee who has not completed the
+                 probationary period of their first twelve (12) months following effective date of
+                 promotion to Sergeant.
+
+                 The parties agree that an employee’s probationary period, whether it be an initial
+                 probationary period as provided in this Section or an additional probationary
+                 period as provided in Sections 2.1(C) and 2.1(D), shall be automatically extended
+                 in the event the employee is unable to perform all duties of their classification for
+                 a period of one (1) month or longer due to a qualifying health care reason. In that
+                 situation, the probationary period shall be extended by the length of time the
+                 employee is unable to perform such duties.
+
+        C.       “Certified Lateral Hire Employee/Lateral Employee” means a newly hired
+                 employee who holds a certification recognized by the State of Oregon DPSST and
+                 is not required to attend the DPSST basic academy.
+
+                 The lateral hire probationary period will be defined as a minimum of twelve (12)
+                 months with completion of DPSST certification following appointment to County
+                 service.
+
+                 Unless a lateral employee possesses it at entry, all newly hired lateral employees
+                 must obtain Oregon DPSST certification within twelve (12) months of
+                 appointment. Exceptions may only be granted at the discretion of the Washington
+                 County Sheriff.
+
+        D.       “Career Employee” means: an employee who has successfully completed the
+                 initial probationary period of twelve (12) months following the effective date of
+                 promotion to Sergeant.
+
+
+
+
+Washington County / WCPOA – Sergeants CBA 2025-2028 – 3
+### ARTICLE 3 – EXISTING CONDITIONS
+
+3.1     Standards of employment related to wages, hours and working conditions that constitute
+        mandatory subjects of bargaining shall be continued at not less than the level in effect at
+        the time of the signing of this Agreement.
+
+
+
+
+Washington County / WCPOA – Sergeants CBA 2025-2028 – 4
+### ARTICLE 4 – LABOR MANAGEMENT COMMITTEE
+
+4.1     The County and the Association shall establish a Labor-Management Committee to
+        advance communications on matters of concern to either party. The purpose of the Labor-
+        Management Committee is to foster improved communications, the sharing of
+        information, and effective problem solving between the County and the Association. The
+        Committee generally serves as an advisory rather than a decision-making body. The
+        Committee shall meet periodically and shall consist of the members of the Sheriff’s
+        Office command staff selected by the Sheriff and members of the Association’s
+        Executive Board selected by the Association President. Association counsel and the
+        County’s legal counsel, as well as representatives of Human Resources, may also attend
+        as ex-officio members of the Committee. Employees will be permitted to attend on duty.
+        The Committee shall not become involved in individual grievances nor shall the
+        committee meetings be construed as formal contract negotiations.
+
+4.2     The Association and the County shall appoint no more than five (5) total representatives
+        each to the Labor Management Committee (LMC). The committee shall consist of the
+        members of the Sheriff’s Office command staff selected by the Sheriff and members of
+        the Association’s Executive Board selected by the Association President. Representatives
+        of Human Resources may also attend as ex-officio members of the Committee.
+
+        The committee will meet to establish a meeting schedule to share information and discuss
+        issues, which may be appropriate for future LMC activity. It is agreed that this time shall
+        be County-paid time. The parties mutually agree to utilize a consensus method involving
+        all recommendations of the committee.
+
+
+
+
+Washington County / WCPOA – Sergeants CBA 2025-2028 – 5
+### ARTICLE 5 – ELECTRONIC TECHNOLOGY
+
+5.1     Electronic Technology (E-Tech) used by the County and Sheriff’s Office encompasses
+        and includes, but is not limited to Body-Worn Camera (BWC), Global Positioning
+        System (GPS), Automatic Vehicle Location System (AVL), Artificial Intelligence (AI)
+        and all other electronic technology capable of tracking the movements and/or location of
+        an employee represented by the Association (i.e., Cellular Phones, Laptops, Tablets,
+        MDCs, etc.). E-Tech is an effective law enforcement tool that can enhance the
+        understanding of interactions between law enforcement officers and the public. E-Tech
+        provides additional documentation of public safety-public encounters and can be an
+        important tool for collecting evidence and maintaining public trust.
+
+5.2     E-Tech Restrictions. Supervisors shall not use E-Tech for the purpose of general
+        performance review without giving the employee the opportunity to include incidents of
+        their choosing. Supervisors shall not use E-Tech for the sole purpose to discover policy
+        violations. This restriction does not limit the Sheriff’s Office’s ability to review E-Tech
+        for verification of official complaints.
+
+        Individual employees’ E-Tech recording(s) will be made available to assist with the
+        investigation and report documentation.
+
+        Individual employee E-Tech recording(s) will be controlled and only accessed for official
+        use. Employees shall not be authorized to view E-Tech recordings outside of official
+        duties.
+
+5.3     Access and Use of E-Tech. When E-Tech is used by the Sheriff’s Office as part of an
+        allegation of policy violations and/or disciplinary investigation, the Association and
+        employees, whose voice or image was captured by E-Tech, will be notified that E-Tech is
+        being used as part of the investigation process and the Association and employees, whose
+        voice or image was captured by E-Tech, will be provided access to and provided copies
+        of all of the E-Tech at least twenty-four (24) hours prior to any Internal Affairs Unit
+        employee interview or disciplinary-type meeting that uses and/or relies upon any E-Tech
+        as part of an allegation of policy violations and/or discipline investigation process.
+
+        Employees will have the right to view all of their own E-Tech in order to complete their
+        official duties (example: report writing).
+
+        Audio and video recordings from E-Tech shall be provided and viewed by an involved
+        employee, the Association and/or their legal representative during their representation of
+        an employee. Except as allowed by state or federal law, non-department personnel shall
+        not be allowed to review E-Tech information and/or recordings without the consent of the
+        Sheriff or the authorized designee.
+
+5.4     Use of Force and E-Tech. If the employee is giving a statement (oral, written or report)
+        about use of force and the employee’s voice or image was captured by E-Tech, then the
+        employee shall:
+
+
+
+Washington County / WCPOA – Sergeants CBA 2025-2028 – 6
+        A.       Have the option of reviewing their own E-Tech information and/or recordings in
+                 the presence of the employee’s attorney and/or Association representative; and
+
+        B.       On a case-by-case basis, have the right to have the WCPOA, on behalf of the
+                 employee, engage in a collaborative discussion with the Sheriff or Sheriff’s
+                 designee about whether the Sheriff’s Office will provide pre-interview pre-report
+                 access to and review of other E-Tech that captured the employee’s image and/or
+                 voice during the incident and/or events that are the subject of the investigation;
+
+         C.       Employees involved in a use of deadly force or critical incident will have the
+                  opportunity to review their own E-Tech information and/or recording(s) and any
+                  other E-Tech that captures their image or voice at least twenty-four (24) hours
+                  before giving a statement (oral or written). This does not prevent the Sheriff’s
+                  Office from requiring a public safety statement.
+
+5.5     The usage of E-Tech systems for the below enumerated reasons are specifically
+        prohibited because these usages of E-Tech deal with sensitive information and there is a
+        higher risk that the usage of E-Tech for these enumerated prohibitions can cause harm.
+        The following usages of E-Tech are specifically prohibited:
+
+         A.       Real-time and covert biometric identification.
+
+         B.       Emotion analysis, or the use of computer vision techniques to classify human
+                  facial and body movements into certain emotions or sentiment (e.g., positive,
+                  negative, neutral, happy, angry, nervous).
+
+         C.       Fully automated decisions that do not require any meaningful human oversight
+                  but substantially impact individuals.
+
+         D.       Social scoring, or the use of algorithmic systems to track and classify individuals
+                  based on their behaviors, socioeconomic status, or personal characteristics.
+
+5.6     The County and employees shall not submit any sensitive, confidential, or regulated data,
+        or any personally identifiable data about members of the public or any County employee,
+        to an E-Tech system without prior consent from the Sheriff or Sheriff’s designee.
+
+
+
+
+Washington County / WCPOA – Sergeants CBA 2025-2028 – 7
+### ARTICLE 6 – EQUAL EMPLOYMENT OPPORTUNITY
+
+6.1     The County and the Association agree that the provisions of this Agreement shall be
+        applied equally to all employees of the bargaining unit without discrimination as to race,
+        color, religion, sex, national origin, sexual orientation, age, mental or physical disability,
+        which can be reasonably accommodated, or gender identity, as defined by federal and
+        state law. Nor shall there be any discrimination against veterans, as defined by federal
+        law. The County and the Association also agree to nondiscrimination in employment as
+        defined by state law, which includes nondiscrimination because of marital status, family
+        status, domestic partnership, juvenile record, union affiliation, on-the-job injury and the
+        reporting by employees of unsafe working conditions, or other protected status or activity
+        in accordance with applicable state or federal law. Nothing in this section, however, shall
+        be construed to prohibit actions taken because of bona fide occupational qualifications,
+        seniority rights, legitimate employer business necessity.
+
+6.2     The Association shall share equally with the County the responsibility for applying the
+        provisions of the Agreement.
+
+6.3     Gender Reference. All references to employees in this Agreement designate all gender
+        identities. Whenever gender is used it shall be construed to include all employees.
+
+
+
+
+Washington County / WCPOA – Sergeants CBA 2025-2028 – 8
+### ARTICLE 7 – SCOPE OF AGREEMENT
+
+7.1     The parties acknowledge that during negotiations which preceded this Agreement, each
+        had the unlimited right and opportunity to make demands and proposals with respect to
+        any subject or matter and that the understandings and agreements arrived at by the parties
+        after the exercise of that right and opportunity are set forth in this Agreement. Therefore,
+        for the life of this Agreement, the County and the Association each voluntarily and
+        unqualifiedly waives the right and each agrees that the other shall not be obligated to
+        negotiate collectively with respect to any subject or matter not specifically referred to or
+        covered in this Agreement, even though such subject or matters may not have been
+        within the knowledge or contemplation of either or both the parties at the time of the
+        negotiation or signing of this Agreement.
+
+
+
+
+Washington County / WCPOA – Sergeants CBA 2025-2028 – 9
+### ARTICLE 8 – EMPLOYEE & ASSOCIATION RIGHTS
+
+8.1     Employees shall have the right to form, join and participate in the activities of employee
+        organizations of their own choosing, for the purpose of representation on matters of
+        employment relations. Employees shall also have the right to refuse to participate in the
+        activities of any employee organization. No employee shall be interfered with,
+        intimidated, restrained, coerced, or discriminated against by the County or by any
+        employee organization because of their exercise of these rights or because of their
+        political affiliation.
+
+8.2     Membership. Paid membership or non-paid membership in the Association shall be the
+        guaranteed individual choice of employees within the bargaining unit.
+
+8.3     Collection of Dues Deduction and Association Fees.
+
+        A.       The County, when so authorized and notified by the Association, via email with a
+                 copy to the involved employee, or by an employee represented by the
+                 Association, will deduct regular Association dues from wages of the employee.
+                 Any authorization for payroll deductions of dues may be canceled by the
+                 employee upon written notice to the County and the Association prior to the 15th
+                 day of each month, to be effective on the first day of the following pay period.
+                 The County will make proper adjustments for errors as soon as practical. When
+                 necessary, in compliance with the PECBA, or when requested by the County, the
+                 Association will provide the record of dues deductions authorizations made to the
+                 Association by an employee.
+
+        B.       The County, when so notified by the Association, via email, will deduct
+                 Association assessed fees from an employee’s wages via payroll deduction and
+                 remit such deduction to the Association. The Association’s email notification to
+                 the County will include a copy of the employee’s authorized fee deduction with a
+                 copy to the involved employee.
+
+8.4     Indemnification. The Association will indemnify, defend and hold the County harmless
+        from all suits, actions, proceedings, and claims against the County or persons acting on
+        behalf of the County, whether for damages, compensation, reinstatement, costs and/or
+        fees or any combination thereof, arising from the County’s application of and/or
+        compliance with this Article. In the event that any part of this Article should be declared
+        invalid or that the monthly service fee should be ordered reimbursed to any nonmember,
+        the Association and its members shall be solely responsible for such reimbursement.
+
+8.5     Bulletin Board. The County agrees to furnish up to ten (10) suitable bulletin boards in
+        reasonably convenient locations. (These ten (10) bulletin boards will be for use by the
+        Association for all Association bargaining units.) The board is for use by employees and
+        the Association for matters of their collective concern. This bulletin board is to be
+        maintained by the Association, including periodic clearing of outdated materials. Posting
+        of notices and other material by employees is restricted to Association business and
+
+
+Washington County / WCPOA – Sergeants CBA 2025-2028 – 10
+        training or education announcements and shall be limited within County facilities to these
+        Bulletin Boards. The Association may place notices in the members' mailboxes.
+
+8.6     New Hires. The County will notify the President of the Association, in writing, of all
+        newly hired employees for positions in the bargaining unit within no later than ten (10)
+        calendar days of the first working day of the new employee. Such notification shall
+        include the name, mailing address, salary step, phone number(s), email address, position,
+        and rate of pay of the new employee.
+
+8.7     Employee Orientations and Access to Bargaining Unit Employees.
+
+        A.       Employee Orientations. At employee orientations, the County shall provide the
+                 Association with no less than thirty (30) minutes and up to one hundred twenty
+                 (120) minutes to make a presentation to all bargaining unit employees without
+                 undue interference. No employee shall suffer a loss in compensation or benefits as
+                 a result of participating in or attending the Association presentation.
+
+        B.       When a bargaining unit employee is hired after the employee orientation or when
+                 the County does not conduct an orientation, the Association shall be permitted to
+                 meet with the newly hired bargaining unit employees for up to sixty (60) minutes
+                 during work hours without loss in compensation or benefits for the newly hired
+                 employee or for the designated representatives attending the meeting. Unless
+                 otherwise agreed, meeting with newly hired employees shall take place at the
+                 newly hired employees’ regular work location, within thirty (30) calendar days
+                 from the date of hire.
+
+8.8     Association Access. Association representatives shall be allowed access to the employee
+        work areas for the purpose of processing grievances or contacting members of the
+        Association, however, such representatives shall not enter any work location without the
+        consent of the supervisor.
+
+        Access shall not be unreasonably withheld. Access shall not interfere with normal
+        operations of the Office or with established safety or security requirements, and
+        Association representatives will endeavor, to the extent reasonably possible, to conduct
+        Association business at times and places which do not interrupt work.
+
+8.9     Association Business. Association officers selected to serve as authorized representatives
+        shall be certified in writing to the County. Association representatives shall be granted
+        time off without loss of regular pay for the purpose of meeting with the County within the
+        scope of representation. The Association shall endeavor to give the County at least
+        twenty-four (24) hours written notice in advance when an authorized representative seeks
+        time off with or without pay to conduct Association business.
+
+8.10    Attendance at Bargaining. No more than five (5) on-duty employees shall be permitted to
+        attend negotiating sessions with the County without loss of regular pay. Notice shall be
+        given to the County at least twenty-four (24) hours in advance of the anticipated absence.
+
+
+Washington County / WCPOA – Sergeants CBA 2025-2028 – 11
+        The dates, times and places for these negotiating sessions shall be established by mutual
+        consent of the parties. Any Association member not scheduled to be on-duty during the
+        negotiating sessions may adjust their shift in order to attend without loss of pay.
+
+8.11    Special Conferences. Special conferences for important matters may be arranged between
+        the Association President and the County upon agreement of the parties. Such meetings
+        shall be arranged in advance, and an agenda of matters to be discussed at the meeting
+        shall be presented at the time the agreement to meet is made. Association members shall
+        not lose time or pay for time spent in such conferences.
+
+8.12    Manual of Rules and Procedures and Collective Bargaining Agreement. The County
+        agrees to make the County Personnel Policies Manual, the Sheriff’s Office Manual and
+        this Agreement electronically available to all employees represented by the Association
+        and to Association representatives. Additionally, any revisions to these manuals and/or
+        this Agreement that involve mandatory subjects of bargaining or have impacts on
+        mandatory subjects of bargaining will be made available and employees represented by
+        the Association and Association representatives will receive email from the County
+        notifying them of any revisions and will be responsible for reading all such revision
+        emails.
+
+
+
+
+Washington County / WCPOA – Sergeants CBA 2025-2028 – 12
+### ARTICLE 9 – MANAGEMENT RIGHTS
+
+9.1     It is recognized that an area of responsibility must be reserved to the employer if the
+        County is to effectively serve the public. Except to the extent expressly abridged by a
+        specific provision of this Agreement, it is recognized that the responsibilities of
+        management are exclusively functions to be exercised by the County and are not subject
+        to negotiation or grievance. By way of illustration and not of limitation, the following are
+        listed as such management rights and functions:
+
+        A.       The determination of the services to be rendered to the citizens served by the
+                 County.
+
+        B.       The determination of the employer’s financial, budgetary, accounting and
+                 organization policies and procedures.
+
+        C.       The continuous overseeing of personnel policies, procedures and programs
+                 promulgated under any ordinance or administrative order of the County
+                 establishing personnel rules and regulations not inconsistent with any other term
+                 of this Agreement.
+
+        D.       The management and direction of the work force including, but not limited to,
+                 the right to determine the methods, processes and manner of performing work;
+                 the determination of the duties and qualifications of job classifications; the
+                 right to hire, promote, train, demote, transfer and retain employees; the right to
+                 discipline or discharge for just cause; the right to lay off for lack of work or
+                 funds (subject to Article 33); the right to abolish positions or reorganize the
+                 departments or divisions; the right to determine schedules or work (subject to
+                 Article 10); the right to schedule employee vacations (subject to Articles 14
+                 and 17); the right to purchase, dispose and assign equipment or supplies; and
+                 the right to contract or subcontract any work.
+
+        The County shall provide written notice of changes, modifications, alterations, additions,
+        and deletions to current County policies and new County policies. During the term of a
+        CBA when the parties are not engaged in CBA negotiations pursuant to ORS 243.698 et
+        seq., WCPOA shall have fourteen (14) days to initiate a timely written demand to bargain
+        pursuant to PECBA. During CBA negotiations, the County shall be obligated to bring
+        proposed changes to policies or proposed new policies to the bargaining table in
+        accordance with PECBA.
+
+
+
+
+Washington County / WCPOA – Sergeants CBA 2025-2028 – 13
+### ARTICLE 10 – HOURS OF WORK
+
+10.1    The workweek shall be from 0001 (12:01 a.m.) Saturday through 0000 (midnight) Friday
+        night. The regular hours of each workday shall be consecutive. The workday shall consist
+        of a twenty-four (24)-hour period. The first workday shall commence at the start of an
+        employee’s regularly scheduled workweek.
+
+        Employees who work the extra hour for daylight savings time (DST) shall be
+        compensated for the extra hour they work for the time change. Employees who work an
+        hour less than their regular work shift will either need to us an hour of vacation, holiday
+        or comp time; or work an extra hour to compensate for the time change.
+
+10.2    An employee’s normal work schedule shall, consist of eight (8) consecutive hours per
+        consecutive twenty-four (24)-hour period (a schedule of five (5) consecutive workdays
+        followed by two (2) consecutive days off; (5-8 schedule)) or ten (10) consecutive hours
+        per twenty-four (24)-hour period (a schedule of four (4) consecutive workdays followed
+        by three (3) consecutive days off; (4-10 schedule)). In addition, a “flexible” work
+        schedule may be utilized which shall be equal to forty (40) hours worked during the work
+        week, but shall have no maximum or minimum number of work hours per day or work
+        days per week. Such flexible work schedule shall not be in effect unless agreed upon in
+        advance by the individual affected employee and the County and the WCPOA. Upon
+        mutual consent of the Sheriff and the employee, employees may work an alternative
+        nine/eighty (9/80) work schedule in a consecutive fourteen (14) day work period, which
+        must coincide with the County payroll period.
+
+10.3    Except in the case of an emergency or other circumstances beyond the control of the
+        Sheriff’s Office, not less than two (2) weeks’ notice will be given to the impacted
+        employee and the Association prior to a change in an impacted employee’s work
+        schedule. The requirement of two (2) weeks’ notice may be waived in writing by the
+        impacted employee. If an employee’s schedule is changed under this provision, the
+        supervisor will notify the employee via County email upon the change in schedule.
+
+10.4    All employees’ work schedules outside of the jail division shall provide for two (2)
+        fifteen (15) minute rest periods in the middle of each half of the shift when practicable,
+        and one-half (1/2) hour meal period in the middle of each shift when practical.
+
+10.5    Employees’ work schedules in the jail division shall provide for one fifteen (15) minute
+        rest period and one forty-five (45) minute meal period in the middle of each shift when
+        practical.
+
+        For all employees, if an employee attends training where the County does not have
+        control of the schedule, the lunch period(s) at such training will be unpaid. Trainees who
+        attend the new employee in service academy will have one-half (1/2) hour unpaid lunch.
+
+10.6    Seniority Shift Bidding: Subject to the considerations and provisions of Article 14 and
+        this Section, shift selection shall be based upon Classification Seniority. Sergeant’s bid
+
+
+
+Washington County / WCPOA – Sergeants CBA 2025-2028 – 14
+        shall be completed no less than seven (7) days prior to the ECU shift bid. The work
+        schedules shall be posted and remain unchanged seven (7) days in advance of the new
+        work schedule bid.
+
+        This Section 10.6 is not intended to prohibit employees from trading shifts or days off
+        with the Sheriff’s approval for good and just reason, such as class schedule related to
+        employment, on other than the previously stated selection dates. There will be no
+        bumping prior to the stated selection dates in the event an employee returns to a shift
+        from a Special Assignment.
+
+        An employee returning from a special team assignment to a seniority shift bid assignment
+        due to completion of the assignment, and such reassignment occurs in the middle of a
+        seniority shift bid period or after the seniority shift bid has been completed, will be
+        placed on a shift that is closest to the hours of work and days off of the specialty
+        assignment.
+
+        An employee returning from a special team assignment to a seniority shift bid assignment
+        voluntarily or involuntarily due to discipline or documented performance issues will be
+        placed on any available shift.
+
+        An employee placed on critical incident leave shall continue their regular hours of work
+        and days off subject to being called in for investigative or other purposes necessary to
+        return the employee to regular duty.
+
+10.7    Lateral-hire Sergeants (Lateral Academy) enrolled in a DPSST Training Academy are
+        responsible for reporting work hours to their WCSO Supervisor (typically, the FTEP
+        Lieutenant) on a weekly basis. Generally, the DPSST Academy is arranged around a
+        Monday through Friday, eight (8) hours per workday work schedule. However, actual
+        daily schedules (start of day, break periods, and end of day), will vary depending on the
+        material being covered, and the eight (8) hours of the workday, at the DPSST Academy,
+        may be non-consecutive due to long break periods between classes and other required
+        activities. Mandatory activities such as instruction time, flag raising, and physical fitness
+        classes shall be considered work time. Sergeants will be paid overtime (time-and-a-half
+        (1.5)) for all required work time exceeding forty (40) hours per week. Sergeants will not
+        be compensated for personal study time, or any other voluntary activities, while at the
+        DPSST Academy. Sergeants must document their work hours on a timesheet and submit
+        overtime slips (if any) to the WCSO Lieutenant on a weekly basis.
+
+        The DPSST Training Academy is the primary duty station for Sergeants enrolled there.
+        Because Sergeants are provided the opportunity to stay (live) at the academy during their
+        enrollment, voluntary travel time to and from the Academy grounds is generally not
+        compensated, unless prior arrangements have been approved by a WCSO Lieutenant.
+
+10.8    All hours paid by the County to an employee, in any form, (i.e. ILH, Ad Leave, Vacation,
+        Comp Time, etc.) count as hours of work for purposes of Qualified Payroll Periods,
+        health and welfare benefits.
+
+
+
+Washington County / WCPOA – Sergeants CBA 2025-2028 – 15
+### ARTICLE 11 – OVERTIME
+
+11.1    Time and one-half (1.5) the employee’s regular hourly rate of pay shall be paid for
+        authorized work under any of the following conditions, but compensation shall not be
+        paid twice (2x) for the same hours:
+
+        A.       Work performed in excess of eight (8) hours (5-8 workweek), ten (10) hours (4-10
+                 workweek), or nine (9) hours (9/80 schedule) per day, except when the work is
+                 performed as part of a flexible schedule as provided in Article 10, Section 10.2.
+                 However, work performed in excess of ten (10) hours per day shall still be
+                 compensated with overtime pay under Article 10, Section 10.2;
+
+        B.       Work performed in excess of forty (40) hours in any workweek, except
+                 employees on a 9/80 schedule, who shall receive overtime pay under this section
+                 for work performed in excess of eighty (80) hours in any pay period. A pay period
+                 is defined as two (2) workweeks (fourteen (14) consecutive calendar days);
+
+        C.       Subject to the provisions of Article 12, work performed in the performance of
+                 their duties in court, other than during regular shift;
+
+        D.       Subject to paragraph B above, work performed on a regularly scheduled day off,
+                 except when the day is worked in conjunction with a shift change, or with a shift
+                 adjustment to enable the employee to receive training, in which event overtime
+                 pay for work on a regularly scheduled day off shall not apply.
+
+        E.       The County shall not split work shift to avoid overtime.
+
+11.2    Overtime worked in conjunction with a regular shift shall be computed in fifteen (15)-
+        minute increments; for example, work performed over seven (7) minutes in excess of the
+        workday shall be compensated as one-quarter (1/4) hour of overtime, over twenty-two
+        (22) minutes shall be compensated as one-half (1/2) hour of overtime, over thirty-seven
+        (37) minutes shall be compensated as three-quarters (3/4) hour of overtime, etc.
+
+11.3    Sergeants are required to report all off-duty time worked. For purposes of compensating
+        authorized off-duty communications to a Sergeant requiring an immediate response
+        outside of the Sergeant’s regularly scheduled workday, such communication will be
+        compensated for one (1) hour at the straight time rate. A subsequent communication to an
+        off-duty Sergeant within an hour of the first call will not be compensated. A subsequent
+        call more than an hour after the first call that requires an immediate response outside of
+        the employee’s regularly scheduled workday will be compensated as a separate one (1)
+        hour increment.
+
+11.4    The commanding officer in charge of a division or a shift, or their supervisory designee,
+        is the only person authorized to require overtime by subordinates. An employee shall be
+        given at least two (2) hours’ notice of mandatory overtime that the employee is ordered to
+        work, unless it is an unforeseen circumstance that could not have been identified earlier.
+
+
+
+Washington County / WCPOA – Sergeants CBA 2025-2028 – 16
+          Mandating a Sergeant for overtime requires the authorization of a Lieutenant or above.
+
+11.5      Employees shall have the option to take overtime as compensatory time off or in cash
+          payment, subject to a maximum accumulation of eighty (80) hours in their compensatory
+          time bank at any time during the calendar year. This comp bank is called Comp80 and is
+          refillable up to eighty (80) hours maximum any time during the calendar year.
+          Compensatory time shall be scheduled and taken off in accordance with the Fair Labor
+          Standards Act (FLSA). The County reserves the right to cash out an employee’s comp
+          leave bank in excess of fifty (50) hours in the event the employee is promoted or becomes
+          eligible for an incentive pay increase of at least four percent (4%). All comp leave banks
+          as of December 31 of each year will be cashed out in the first full pay period of the
+          following calendar year.
+
+11.6      Safety Release. Employees actually working sixteen (16) or more hours in a twenty-four
+          (24) hour work day1 shall be provided at least nine (9) hours of County-paid safety
+          release time before beginning their next regularly scheduled shift.
+
+          A.       Notification Requirement. The employee shall advise an on-call shift Lieutenant
+                   as soon possible after the employee reaches twelve (12) hours of work and
+                   reasonably believes their shift could reach sixteen (16) hours and no later than one
+                   (1) hour before reaching the sixteen (16) hour threshold, unless to do so is not
+                   feasible.
+
+          B.       Safety Release Activated. Once an employee has worked sixteen (16) or more
+                   hours in a continuous twenty-four (24) hour period:
+
+                   1.       The employee shall be released by a supervisor or OIC as soon as feasible.
+
+                   2.       The employee shall not be required to report to their next regularly
+                            scheduled shift if that shift will commence nine (9) or fewer hours from
+                            the time they leave work. Additionally, the employee shall be given
+                            County-paid safety release leave for all unworked portions of that shift.
+                            An employee on safety release who is mandated to attend court or grand
+                            jury during their safety release shall be compensated at their regular
+                            overtime rate for the time of their attendance during their safety release
+                            time.
+
+                   3.       When determining whether the Safety Release threshold has been reached,
+                            gaps between work periods of five (5) or fewer hours (i.e., shift and court,
+                            shift and callout) shall be included in the sixteen (16) hour threshold
+                            calculation.
+
+          C.       Voluntary Overtime. If an employee triggers the safety release clause as a result
+                   of working two (2) or more voluntary overtime hours in a continuous twenty-four
+                   (24) -hour period, the employee will be required to use their own leave accruals
+ 1
+     Not including hours paid but not worked, such as mandatory call-back pay.
+
+
+Washington County / WCPOA – Sergeants CBA 2025-2028 – 17
+                 for the time away from their next regularly scheduled shift (instead of receiving
+                 County-paid safety release leave).
+
+11.7    Overtime Opportunities for Sergeants. Overtime opportunities for bargaining unit
+        positions will be offered in the following order: (1) to Association-represented Sergeants
+        working in the division the overtime is posted in; (2) to qualified Association-represented
+        employees out of the division.
+
+        Once scheduled, there shall be no opportunity to “bump” a non-bargaining unit employee
+        from any of these assignments or work opportunities.
+
+        Sufficient time must be allowed for bargaining unit employees to sign up for bargaining
+        unit assignments, hours and overtime before offering it to a non-bargaining unit
+        employee. Sufficient time shall be defined as half (1/2) of the available time for overtime
+        sign up.
+
+
+
+
+Washington County / WCPOA – Sergeants CBA 2025-2028 – 18
+### ARTICLE 12 – CALL BACK AND COURT TIME
+
+12.1    Call-Back. Any employee who is approved and required to report to work from off-duty
+        status on a regularly scheduled day off shall receive four (4) hours minimum and if it is
+        outside their regular shift on a regularly scheduled workday, they shall be compensated
+        for a minimum of three (3) hours of work at the rate of time-and-a-half (1.5). When
+        applicable, regular shift compensation shall not be paid in addition to compensation paid
+        in accordance with this Article for the same hours of work.
+
+        A.       Any employee who has previously been approved for discretionary leave, or
+                 protected leave, and is then subsequently required to report to work shall be
+                 compensated at time-and-a-half (1.5) for a minimum of four (4) hours and for
+                 every hour worked in excess of four (4) hours. The employee shall not be eligible
+                 to receive any other form of compensation for those hours worked and shall not
+                 have any time worked deducted from their discretionary leave accruals.
+
+        B.       Employees are prohibited from requesting discretionary leave for the purpose of
+                 making themselves available to perform overtime work in another division or
+                 workgroup during the period of authorized leave.
+
+        C.       Employees who perform work less than three (3) hours prior to the start of their
+                 regular shift shall not be eligible to receive a three (3)-hour call back minimum.
+                 Actual hours worked in these circumstances up until the commencement of the
+                 regular shift shall be compensated at time-and-a-half (1.5).
+
+        D.       Any employee who is out on unscheduled unprotected sick leave but is
+                 subsequently required to report to work as a result of complying with a lawfully
+                 issued subpoena, shall be paid straight time for all hours that fall within what
+                 would have been the employee’s regular shift. To the extent that the subpoena
+                 requires the employee to work during hours that are outside of what would have
+                 been their regularly scheduled shift, the employee shall be paid time-and-a-half
+                 (1.5) or call back pay as applicable based upon the regularly scheduled shift.
+
+        E.       Employees shall be prohibited from requesting discretionary leave for time where
+                 they have received advance notice of an event requiring their mandatory
+                 attendance including but not limited to attendance required as a result of a
+                 lawfully issued subpoena. This does not prevent employees from taking
+                 discretionary leave after the mandatory event has concluded or prior to it
+                 beginning.
+
+        F.       If an employee takes sick leave or FMLA/OFLA leave or other state or federal
+                 protected leave for a regular shift, and then voluntarily works an overtime shift
+                 within twenty-four (24) hours of the start of the regular shift that was missed, the
+                 employee’s time will be flexed, meaning that the employee will be paid straight
+                 time for the time worked and the County will credit back the employee’s leave
+                 time. This Section 12.1 will not apply if an employee accepts call-back duty but is
+
+
+
+Washington County / WCPOA – Sergeants CBA 2025-2028 – 19
+                 subsequently not available to report as assigned. However, if an employee accepts
+                 call-back duty, and such duty is subsequently cancelled by the County, the
+                 employee will receive the minimum four (4) hours of call-back pay as outlined in
+                 this Section 12.1. If a voluntary assignment was less than four (4) hours, and is
+                 subsequently cancelled by the County, the employee will receive the number of
+                 hours for which they signed up.
+
+12.2    Court Appearance.
+
+         A.       For the purpose of this Article, court appearance by an employee shall mean a
+                  court appearance or quasi-judicial or administrative agency hearing or
+                  appearance on behalf of the County which is required because of the employee’s
+                  official capacity with Washington County.
+
+         B.       Any employee required to report for a court appearance more than three (3)
+                  hours before the beginning or more than three (3) hours after the end of their
+                  regular shift shall be compensated for a minimum of three (3) hours of work at
+                  the rate of time-and-a-half (1.5). For the purpose of this Article, reporting time is
+                  deemed to be one-half (1/2) hour before a scheduled court appearance.
+
+         C.       Any employee required to report for a court appearance three (3) hours or less
+                  before the beginning or three (3) hours or less after the end of their regular shift,
+                  shall be compensated at the rate of time-and-a-half (1.5) for the time elapsed
+                  between (1) the reporting time and the beginning of the regular shift, or (2) the
+                  end of the regular shift and the time the employee is released from the court
+                  appearance, whichever is applicable.
+
+         D.       Any employee required to report for a court appearance on the employee’s
+                  scheduled day off shall be compensated for a minimum of four (4) hours of work
+                  at the rate of time-and-a-half (1.5). For the purpose of this Article, reporting time
+                  is deemed to be one-half (1/2) hour before a scheduled court appearance.
+
+         E.       If an employee complies with all pertinent Sheriff’s Office regulations prior to
+                  the date of a court appearance, and is notified on the day prior to the court
+                  appearance that the court appearance is still scheduled and the next day is a
+                  weekend day off, then the employee shall be entitled to receive a minimum of
+                  two (2) hours of overtime (1.5) even if the court appearance is thereafter
+                  canceled.
+
+12.3    Employees who are on off-duty status shall not be required to do work upon the
+        completion of a specific call back or court appearance.
+
+12.4    Public Information Officer On-Call Pay. When an employee is required to be available
+        for call back for PIO work during assigned designated off-duty hours, the employee will
+        be considered on-call. Employees scheduled to be on-call shall be paid one (1) hour at the
+        employee’s regular hourly rate for every eight (8) hours on-call. (This does not waive the
+
+
+
+Washington County / WCPOA – Sergeants CBA 2025-2028 – 20
+        employee’s rights under Sections 11.3 and 12.1.)
+
+
+
+
+Washington County / WCPOA – Sergeants CBA 2025-2028 – 21
+### ARTICLE 13 – WORKING IN HIGHER CLASSIFICATION
+
+13.1    When an employee is assigned to fulfill the duties and responsibilities of a position in a
+        classification higher than their own for a continuous period of more than four (4)
+        workdays, they shall be paid at the next higher rate of pay according to promotional
+        policy for all time worked while assigned in the higher classification.
+
+13.2    However, for training purposes, the Sheriff may assign an employee to a higher
+        classification for a maximum of six (6) months with the consent of the employee.
+
+
+
+
+Washington County / WCPOA – Sergeants CBA 2025-2028 – 22
+### ARTICLE 14 – SENIORITY
+
+14.1    Definitions of Seniority.
+
+        A.       “Office Seniority” means the length of service by the employee in all bargaining
+                 unit classifications occupied within the Sheriff's Office cumulatively.
+
+        B.       “Division Seniority” means the cumulative length of service by the employee in
+                 all bargaining unit classifications occupied within the employee’s Division.
+
+        C.       “Classification Seniority” means the length of service by the employee in the
+                 Sheriff's Office within the employee’s service classification. It shall be the
+                 responsibility of the Association to track employees’ Classification Seniority.
+
+14.2    For purposes of Classification Seniority, a probationary employee shall be treated as the
+        same classification.
+
+14.3    Subject to the reasonable operating needs of the Office, including its needs to utilize the
+        special skills and expertise of employees to meet staffing requirements, Classification
+        Seniority shall be the factor in the selection of shifts, days off, holidays and
+        compensatory time off.
+
+14.4    Those full-time employees performing Sheriff's Office classification work as listed in
+        Article 1 (Recognition) and being funded from revenue other than County funds (e.g.,
+        federal or state funded jobs) shall accrue seniority regardless of the source of revenue
+        they receive as a salary.
+
+14.5    In the case two (2) or more employees have the same seniority date, order of seniority
+        will be determined by a method determined by the Association, for all purposes under
+        this Agreement. The Association will provide written notice of the result to the Sheriff.
+        An employee whose seniority date is adjusted by reason of demotion, suspension or leave
+        of absence will retain priority over any employee or employees having the same seniority
+        date.
+
+14.6    The County shall provide the Association with a membership list upon request, in a
+        usable electronic format, but no more than once per month. The County shall provide the
+        Association with written notice of new bargaining unit employees hired and of bargaining
+        unit employees whose service has ended.
+
+14.7    Lateral Hires. The County will follow the Oregon Equal Pay Law, which recognizes
+        experience and education, when establishing the pay rate and leave accruals for lateral
+        hires.
+
+        The Sheriff's Office will provide the Association access to an electronic file on the
+        Sheriff's Office electronic storage system where the Association and all employees
+        represented by the Association can see and access this Seniority file. The Association
+
+
+
+Washington County / WCPOA – Sergeants CBA 2025-2028 – 23
+        shall be responsible for maintaining and updating the Seniority file.
+
+
+
+
+Washington County / WCPOA – Sergeants CBA 2025-2028 – 24
+### ARTICLE 15 – UNIFORMS
+
+15.1    If an employee is required to wear a uniform, such uniform shall be furnished to the
+        employee by the County. The cost of the uniform including initial tailoring to make the
+        uniform serviceable shall be paid by the County.
+
+15.2    When an employee is assigned to plain clothes duty full-time, the employee shall receive
+        a clothing allowance of the same amount as is established in Article 15 of the WCPOA
+        ECU CBA per month payable after their first complete month on duty.
+
+15.3    The County shall reimburse employees for personal property reasonably and necessarily
+        worn or carried when such property is stolen, damaged, or destroyed as a direct result of
+        the employee’s performance of his official duties. Reimbursement shall not be granted if
+        the negligence or wrongful conduct of the employee was a substantial contributing factor
+        to the theft, damage, or destruction. The employee must notify the District Attorney’s
+        office in writing seeking restitution for such property to qualify for this article.
+
+15.4    The County will provide employees assigned to uniformed positions who are required by
+        the County to wear Department authorized footwear with a footwear allowance of the
+        same amount as is established in Article 15 of the WCPOA ECU CBA every year which
+        shall be paid in the first paycheck falling on a Friday in December each year.
+
+
+
+
+Washington County / WCPOA – Sergeants CBA 2025-2028 – 25
+### ARTICLE 16 – TIME OFF IN LIEU OF HOLIDAYS
+
+16.1    Through June 30, 2025, employees shall accrue 4.0001 hours per regular payroll period
+        of Time Off In Lieu of Holidays (ILH). Effective the first regular pay period after July 1,
+        2025, employees shall accrue 4.31 hours per payroll period of Time Off In Lieu of
+        Holidays (ILH).
+
+16.2    ILH shall be taken off in the same manner as vacation as described in Article 17,
+        Vacation Leave.
+
+16.3    On the first full regular July pay period, any accumulated ILH in excess of forty (40)
+        hours shall be paid off in cash. The remaining forty (40) hours may be carried over to the
+        next fiscal year.
+
+16.4    Any additional holidays which increase the accrual rates provided to any other
+        represented employee employed by the County or non-represented employee employed
+        by the County shall automatically be provided to employees represented by the
+        Association.
+
+
+
+
+Washington County / WCPOA – Sergeants CBA 2025-2028 – 26
+### ARTICLE 17 – VACATION LEAVE
+
+17.1    Upon hire, all full-time employees shall accrue vacation on the following basis:
+
+                 No. of Qualified                          Hours of Vacation Leave Per
+                 Payroll Periods                           Qualified Payroll Period
+                 1 to 130                                  3.6924
+                 131 to 260                                4.6154
+                 261 to 390                                5.5385
+                 391 to 520                                6.4616
+                 521 to 650                                7.3847
+                 651 and over                              8.0000
+
+17.2    Maximum Accrual. The maximum accrual of vacation leave for any employee shall be
+        three hundred eighty (380) hours. When an employee’s accrual exceeds three hundred
+        eighty (380) hours, the employee must use the excess time (over three hundred eighty
+        (380) hours) within ninety (90) days, at the mutual convenience of the County and the
+        employee. When an employee leaves the employer’s service, the employee may be paid
+        for not more than three hundred eighty (380) hours.
+
+17.3    Vacation Selection. Where consistent with the reasonable operating needs of the Sheriff’s
+        Office, such as minimum levels of staffing, the desires of employees will be
+        accomplished as set forth herein.
+
+        There will be two (2) vacation signups during each year, to be conducted no sooner than
+        seven (7) days after the completion of shift and days off selection, as follows:
+
+        A.       At least seven (7) days after shift bids (as set forth in this Agreement), employees
+                 will be given two (2) opportunities, in order of seniority, to select a continuous
+                 block of vacation time, not to exceed the employees annual vacation accrual, for
+                 the six (6) month period beginning for March and September rotations. An Office
+                 vacation schedule will be determined, based on employee preference on the
+                 Division Seniority basis, and will be posted at the conclusion of the vacation bid.
+                 Employees may also state preferences for other blocks of vacation time within
+                 each six (6) month period, which will be granted by seniority or on a first-come,
+                 first-served basis as set forth in Sheriff’s Office policy 405-R05.
+
+        B.       Vacations which are bid and/or scheduled may be altered by mutual written
+                 agreement between the employee and supervisor, except that a previously
+                 scheduled vacation may be altered by the Sheriff’s Office if the employee has
+                 voluntarily changed to a different shift between the time the vacation was
+                 scheduled and the time it would otherwise be taken. Vacations not scheduled in
+                 this manner will be scheduled on a first come basis by mutual written agreement
+                 between the employee and supervisor. With the approval of the employee’s
+
+
+Washington County / WCPOA – Sergeants CBA 2025-2028 – 27
+                 supervisor(s), employees may trade vacation schedules. Any such trade must be
+                 documented in writing by all involved parties.
+
+        C.       Non-represented employees may not be used as a basis to deny or alter the
+                 vacation selection process.
+
+17.4    Payment of Leave. An employee who is terminated or laid off shall be compensated for
+        their accrued and unused vacation leave, in lieu of holiday leave (ILH), and
+        compensatory time accruals. In the event of death, payment of vacation leave, in lieu of
+        holiday leave (ILH), and compensatory time accruals, shall be made to the surviving
+        spouse, and if there is none, then to the employee’s estate.
+
+17.5    Donated Vacation or Holiday Hours. Employees may donate accrued but unused vacation
+        or holiday hours to another employee under the following conditions: (1) The donation is
+        truly voluntary; (2) the donating employee receives no payment for the donated time; and
+        (3) the employee to whom the time is being donated has less than one hundred (100)
+        hours accrued vacation, holiday and sick leave; and (4) the employee receiving the
+        donation must provide a health care provider certification (including estimate of time
+        away from work) attesting to a serious health condition that would preclude them from
+        performing the duties of their job or attesting that the employee is needed to care for a
+        member of the employee’s immediate family with a serious health condition or to care for
+        the employee’s immediate family member as otherwise allowed by state or federal law.
+
+17.6    Time off requests (Vacation/ILH) submitted in excess of sixty-seven (67) days prior to
+        the time requested shall be granted or denied no less than sixty (60) days prior to the time
+        requested. Time off requests (Vacation/ILH) submitted between sixty-seven (67) and
+        fourteen (14) days prior to the time requested shall be granted or denied within seven (7)
+        days of receipt of the employee’s time off request. Time off requests (Vacation/ILH)
+        submitted less than fourteen (14) days prior to the time requested shall be granted or
+        denied within two (2) days of receipt of the employee’s time off request.
+
+17.7    Future Improvements. If the County improves Vacation Leave accruals, and/or increases
+        the cap on Vacation accruals, for non-represented hourly employees, bargaining unit
+        employees will receive the same improvements.
+
+17.8    Certified Lateral Employee Vacation. A newly hired Certified Lateral Employee shall
+        accrue vacation using an accrual matrix set forth based upon total years of previous
+        relevant work experience as a full-time public safety employee at another law
+        enforcement agency (or agencies) plus time served at the Sheriff’s Office will count
+        toward years of service.
+
+        A newly hired Certified Lateral Employee shall be provided with forty (40) hours
+        vacation leave upon verification of DPSST certification.
+
+
+
+
+Washington County / WCPOA – Sergeants CBA 2025-2028 – 28
+### ARTICLE 18 – SICK LEAVE
+
+18.1    Employees shall accumulate sick leave at the rate of 0.0462 hours for each hour worked.
+        Sick leave accumulated prior to the date of execution of this Agreement shall be credited
+        to each employee’s accumulated sick leave. The maximum accrual of sick leave for any
+        employee shall be ninety-six (96) hours per calendar year. Any unused sick leave may be
+        carried over and used in the following calendar year. Sick leave may be accumulated
+        without limit. Except for conversion of sick leave benefits pursuant to the Public
+        Employees Retirement (PERS) Act, sick leave shall not be paid upon termination or
+        death.
+
+18.2    Use of Sick Leave. An employee who is unable to perform their duties by reason of
+        personal illness or injury, pregnancy, necessity for health care, exposure to contagious
+        diseases or viruses, or for any reason covered by applicable laws and statutes governing
+        the use of sick leave may utilize their accrued sick leave.
+
+        A.       In the event that an employee requires the use of sick leave for more than three (3)
+                 consecutive scheduled workdays, they may be required to provide verification
+                 from a health care provider (HCP), or other satisfactory evidence of the need to
+                 use sick leave.
+
+        B.       Sick leave not to exceed five (5) consecutive workdays per incident shall be
+                 authorized because of illness in the employee’s immediate family, if the
+                 employee’s attendance is necessary to help care for an immediate family member.
+                 Use of qualifying sick leave will be considered protected leave up to the amount
+                 allowed under the Family Medical Leave Act, the Oregon Family Leave Act, Paid
+                 Leave Oregon, and other applicable laws and statutes governing the use of sick
+                 leave.
+
+        C.       In the case of an employee’s personal illness, exposure, or injury, notification
+                 should be given of the employee’s intent to use accrued sick leave as soon as is
+                 practicable. For a temporary absence covered by sick leave which is predictable,
+                 i.e., surgery or pregnancy, the employee shall give the County sufficient notice to
+                 plan for staffing during the employee’s absence and shall provide the County with
+                 a written statement from the attending HCP stating the date the leave is to begin.
+                 The employee shall notify the County as soon as the attending HCP releases the
+                 employee to return to work.
+
+        D.       As used in this Article, “immediate family” means the employee’s spouse or
+                 spousal equivalent and their parents, stepparents, adoptive parents, foster parents,
+                 biological or adopted children, stepchildren, foster children, sisters, brothers,
+                 grandparents, grandchildren, whether or not residing with the employee, and
+                 father-in-law, mother-in-law, brother-in-law, sister-in-law, son-in-law, daughter-
+                 in-law, and other close relatives who reside in the employee’s household unless
+                 otherwise provided by law.
+
+
+
+
+Washington County / WCPOA – Sergeants CBA 2025-2028 – 29
+        E.       Employees who are taking qualified “parental leave” under the FMLA may elect
+                 to use up to the equivalent of twelve (12) weeks of accrued sick leave prior to
+                 using other accrued paid leaves. Once twelve (12) weeks of accrued sick leave
+                 has been used, the employee will be required to use all other accrued paid leave
+                 (includes vacation, holiday (ILH) and comp time) for the duration of their
+                 qualified “parental leave” prior to beginning unpaid leave. The use of other
+                 accrued paid leave shall be as designated by the employee. Upon exhaustion of
+                 all other accrued paid leave, an employee may elect to use any remaining
+                 accrued sick leave or may begin unpaid leave for the duration of their qualified
+                 “parental leave.” The County will use a rolling forward calendar year when
+                 calculating available FMLA leave for the employee.
+
+18.3    Abuse of Sick Leave. Where there is probable cause to believe that an abuse of sick leave
+        has occurred, either by patterns or extent of utilization, or otherwise, the employee
+        suspected of abusing sick leave may be required to furnish a HCP’s certificate for each
+        use of sick leave for a period not to exceed one (1) year. Prior to being required to furnish
+        HCP’s certificates for each use of sick leave the Sheriff’s Office must conduct a full fair
+        and complete investigation, pursuant to Article 31 and sustain an abuse of sick leave
+        violation. In addition to the requirement to furnish HCP certificates for each use of sick
+        leave, proven abuse of sick leave may be cause for disciplinary action including
+        discharge. Due to HIPAA and privacy issues, all abuse of sick leave investigative
+        materials will be provided by the County directly to the Association’s designated legal
+        counsel rather than an Association-employee representative.
+
+18.4    Sick Leave Without Pay. Upon application of an employee sick leave without pay shall
+        be granted by the County for the remaining period of disability after earned sick leave has
+        been exhausted. Due to HIPAA and privacy issues, a copy of the employee’s application
+        and/or the County’s denial/approval of the employee’s application will be provided by
+        the County directly to the Association’s designated legal counsel rather than an
+        Association-employee representative. The maximum amount of sick leave without pay
+        allowable shall be determined on the following basis:
+
+        Years of Service                                   Maximum Sick Leave Without Pay
+
+        Less than 5                                        Sixty (60) days
+
+        5-10                                               Ninety (90) days
+
+        Over 10                                            One hundred and twenty (120) days (with
+                                                           approval of County Administrator)
+
+
+        Satisfactory evidence may be required by the County the same as in Section 18.2A above.
+
+18.5    Future Improvements. If the County improves Sick Leave accruals for non-represented
+        hourly employees, or employees in a bargaining unit that are not represented by
+        WCPOA, WCPOA bargaining unit employees will receive the same improvements.
+
+
+Washington County / WCPOA – Sergeants CBA 2025-2028 – 30
+18.6    Paid Leave Oregon. The State of Oregon requires that Washington County and its
+        employees comply and contribute to Paid Leave Oregon to fund the state’s paid family,
+        medical and safe leave benefits. Employees shall be responsible for the employee
+        contribution as determined by state law.
+
+
+
+
+Washington County / WCPOA – Sergeants CBA 2025-2028 – 31
+### ARTICLE 19 – OTHER LEAVES
+
+19.1    Leave of Absence Without Pay.
+
+        A.       Leaves of absence without pay for a limited period not to exceed ninety (90) days
+                 may be granted by the Sheriff or designee for any reasonable purpose consistent
+                 with the needs of the Sheriff’s Office. Reasonable purpose may include time off
+                 for temporary disability after the employee’s health care provider (HCP) has
+                 released the employee to return to work.
+
+        B.       Request for such leave must be in writing and must provide reasonable
+                 justification for such request. Such leaves may be renewed or extended for any
+                 reasonable period of time, however, leaves of absence without pay in excess of
+                 ninety (90) days require a recommendation from the Sheriff or designee to the
+                 County Administrator or designee and require approval by the County
+                 Administrator or designee. No leave will be granted to any employee who accepts
+                 employment in any other capacity, except for military employment as provided by
+                 federal and/or state law.
+
+        C.       A regular employee shall not be authorized a leave of absence without pay until
+                 all accumulated qualifying leave accruals have been applied toward payment for
+                 the absence.
+
+19.2    Jury Duty and Witness Appearances.
+
+        A.       Employees shall be granted Leave with Pay when required to report for jury duty
+                 or as a witness in cases in which the employee has no interest. The employee shall
+                 waive all witness fees or pay for jury duty, except mileage expense, unless the
+                 employee receives said compensation while on an authorized leave of absence
+                 without pay. County part-time employees will be granted jury or witness leave
+                 only if the jury or witness duty coincides with the employee’s regularly scheduled
+                 hours.
+
+        B.       An employee required to report for jury duty or as a witness may be excused, with
+                 approval from the employee’s supervisor, from appearing for the employee’s
+                 normal shift on that workday if the jury duty or witness responsibility exceeds
+                 four (4) hours.
+
+        C.       If jury duty or witness responsibilities continue for four (4) hours or less,
+                 employees on the day shift shall report for the remainder of their workday.
+                 Employees on other than day shift shall have the number of hours spent on jury or
+                 witness duty deducted from their normal shift on that workday and shall report for
+                 the first remaining hours of their work shift.
+
+19.3    Leave for Educational Purposes.
+
+
+
+
+Washington County / WCPOA – Sergeants CBA 2025-2028 – 32
+        A.       After completing one (1) year of service, the employee, upon request, may be
+                 granted a leave of absence, without pay, for educational purposes related to their
+                 employment, at an accredited school. The period of such leave of absence shall
+                 not exceed one (1) year, but it may be renewed or extended at the request of the
+                 employee, when necessary, upon approval by the County.
+
+        B.       Employees may also be granted leaves of absence with or without pay for
+                 educational purposes for reasonable lengths of time to attend conferences,
+                 seminars and other functions of a similar nature that are intended to improve or
+                 upgrade the individual’s skill or professional ability, provided it does not interfere
+                 with the operation of the County.
+
+19.4    Military, Alternative Service, and Peace Corps Leaves. Military, alternative service, and
+        Peace Corps leaves shall be granted in accordance with state and federal law.
+
+19.5    Travel and Training Expense.
+
+        A.       Food, lodging and travel expenses, or any of them, shall be paid by the County
+                 according to an approved per diem schedule and receipt of proper detailed County
+                 expense form, to an employee required to attend a conference or business meeting
+                 when the conference or business meeting is held at locations other than the
+                 employee’s regular home or job location.
+
+        B.       The County shall pay tuition and instructional material costs of any employee
+                 required by the County to attend a regular course of instruction. An employee
+                 who voluntarily attends a course of instruction which is directly related to the
+                 business of the County may receive tuition from the County if the employee has
+                 successfully completed the course of instruction, and prior to the employee
+                 attending the course of instruction, if the County agrees in writing to pay tuition
+                 and costs.
+
+19.6    Workers’ Compensation Supplement.
+
+        A.       All employees are insured under the provisions of the Oregon State Workers’
+                 Compensation Act for injuries received during the scope and course of
+                 employment for the County. The day of the injury shall be considered a workday,
+                 and employees will receive their normal salary for that day to include time being
+                 treated. If that treatment extends into time that exceeds the end of their scheduled
+                 shift, then overtime will be paid until the employee either returns to their assigned
+                 precinct to clock out/return equipment or the equipment is given to a fellow
+                 officer/supervisor and the employee is discharged from treatment. If the injury
+                 and subsequent treatment is completed prior to the end of their regularly
+                 scheduled shift, the employee will be paid ten (10) hours of straight time. If the
+                 employee is admitted to the hospital, workers’ compensation rules apply. In order
+                 to receive workers’ compensation leave, the employee must have completed the
+                 workers’ compensation forms. A supervisor, or employee’s designee, may
+
+
+Washington County / WCPOA – Sergeants CBA 2025-2028 – 33
+                 complete the necessary forms and reports in the event an employee is
+                 incapacitated or unable to do so.
+
+        B.       An employee who sustains any injury or illness compensable under the workers’
+                 compensation law, and is eligible for workers’ compensation time loss payments
+                 (replacement wages), shall receive from the County regular straight time wages
+                 (including incentive or specialty pay (except motorcycle officer), and
+                 certification pay) for a period not to exceed one hundred and eighty (180)
+                 calendar days from the date upon which time loss payments commence. These
+                 wages will commence after the required three (3) day waiting period has been met
+                 and are calculated based upon the employee’s regular working schedule exclusive
+                 of overtime. These County- provided wages are provided in lieu of time loss
+                 payments generally issued by the County’s Workers’ Compensation Third Party
+                 Administrator. If, after the one- hundred and eighty (180) calendar days period the
+                 employee is still eligible for time loss payments under workers’ compensation
+                 law, the employee will begin receiving those time loss payments directly from the
+                 County’s Third Party Administrator (TPA). In accordance with ORS 656, the
+                 employee receives compensation equal to sixty-six and two-thirds (66-2/3)
+                 percent of wages, which is not taxable income. The employee may then use
+                 accrued leave to cover the difference between workers’ compensation payments
+                 and the employee’s pay under the workers’ compensation leave provision. Sick
+                 Leave without Pay shall be granted after all accumulated sick leave has been
+                 exhausted.
+
+        C.       The employee may utilize the workers’ compensation leave provision only while
+                 receiving workers’ compensation payments. Employees shall not complete
+                 qualified payroll periods after the one hundred and eighty (180) calendar days’
+                 workers’ compensation leave.
+
+        D.       The employee shall be responsible for notifying their supervisor and County Risk
+                 Management as soon as the employee is permitted to return to work on a limited
+                 or full-time basis. Failure to notify the County shall be cause for disciplinary
+                 action. Employees who are authorized by their HCP to perform light duty and
+                 who elect not to accept a light duty assignment shall not continue to receive the
+                 workers’ compensation supplemental pay from the County. In addition, in
+                 conformance with applicable workers’ compensation laws, non-acceptance of a
+                 light duty assignment by the employee after authorization and release by the
+                 employee’s HCP may reduce or discontinue time loss benefits payable to and/or
+                 received by the employee.
+
+        E.       Employees shall not be required to use leave for HCP appointments related to a
+                 workplace injury. Time spent traveling to and from and attendance at any medical
+                 appointments related to a workplace injury shall be paid by the County, if such
+                 travel occurs during an employee’s regularly scheduled workday. Employees
+                 released to light or limited duty from a work-related injury will not be required to
+                 change shifts. However, if an employee declines a light or limited duty
+
+
+Washington County / WCPOA – Sergeants CBA 2025-2028 – 34
+                 assignment, whether on the same or different shift, it may impact their payment
+                 under this Section 19.6, and/or payment under ORS 656.
+
+19.7    Bereavement Leave.
+
+        A.       An employee shall be allowed five (5) workdays off with pay for death and/or
+                 bereavement leave related to death in the employee’s immediate family or for a
+                 miscarriage. For purposes of this paragraph, immediate family means the
+                 employee’s spouse or spousal equivalent and their parents, step-parents, step-
+                 children, children, sister, brother, grandparents, and grandchildren, father-in-law,
+                 mother-in-law, brother-in-law, sister-in-law, son-in-law, and daughter-in-law
+                 whether or not residing with the employee, and other close relatives who reside in
+                 the employee’s household.
+
+        B.       An employee qualified for leave under the Oregon Family Leave Act (OFLA) will
+                 be allowed up to two (2) weeks of unpaid bereavement leave for the death of a
+                 family member qualified under OFLA, up to a maximum of four (4) weeks in a
+                 leave year. The two (2) weeks of bereavement leave granted is inclusive of any
+                 bereavement leave taken under this section and all bereavement leave must be
+                 completed within sixty (60) days from the date the employee was notified of the
+                 death of the family member. OFLA bereavement leave is to be taken in one (1)
+                 continuous block of time. An employee may choose to use any accrued leave
+                 during their OFLA bereavement leave.
+
+        C.       Under exceptional circumstances, leave for death may be granted by the Sheriff
+                 upon death of a relative other than the employee’s immediate family. The County
+                 agrees to abide by any change in the law regarding bereavement leave.
+
+19.8    Governmental Appointments. An employee shall be granted full duty status whenever an
+        employee is appointed to a position by the Sheriff, Washington County Commissioners,
+        DPSST, the Attorney General, the Governor of the State of Oregon, or the President of
+        the United States. The appointment must be related to the employee’s official duties as an
+        employee of the Washington County Sheriff’s Office.
+
+19.9    Leave to Participate in Managed Care Organization (MCO).
+
+        A.       The parties have agreed to establish guidelines for the participation of Association
+                 members with accepted workers’ compensation claims that meet certain criteria in
+                 a Managed Care Organization (MCO) through the County’s workers’
+                 compensation third-party claims administrator (TPA).
+
+        B.       The goal of this MCO partnership is to help ensure employees are receiving the
+                 most appropriate and timely health care available, and to ensure that employees
+                 are receiving the best health care available for their work-related injuries. A MCO
+                 is a group of health care service providers that provide managed health care
+                 services to enrolled injured employees. Health care services and medical
+
+
+
+Washington County / WCPOA – Sergeants CBA 2025-2028 – 35
+                 treatment for workers’ compensation claims are provided through participating
+                 care providers (physicians and/or other health care specialists (HCPs)). To ensure
+                 continuity of care, the County, will arrange to contract MCO services with both
+                 Kaiser and Providence and will enroll the injured employee into the MCO based
+                 upon the employee’s selection of private medical insurance plan.
+
+        C.       The intent of the MCO is to provide additional oversight and experience for the
+                 sole purpose of ensuring that injured employees receive the best health care and
+                 treatment possible, to maximize positive recovery outcomes and successfully
+                 return the employee to work. Further, the MCO is intended to ensure compliance
+                 with statutory requirements related to the administration of workers’
+                 compensation claims. The MCO partnership includes such things as: HCP
+                 recommendations that may better match an employee’s treatment needs,
+                 recommendations of different treatment courses if current ones are not
+                 progressing toward recovery, or extending current treatment courses, all with the
+                 intent of promoting maximized health care improvement for injured employees.
+
+        D.       At no cost to any employee, Washington County will enroll currently accepted
+                 and future workers’ compensation claims in the MCO partnership program based
+                 upon the standard enrollment requirements set forth below. Standardized
+                 enrollment requirements for all employees will promote fairness and objectivity
+                 for affected employees. Employees will be enrolled in the MCO if their claim
+                 meets one (1) of the following criteria:
+
+                 1.      Primary criteria: The injured employee will be enrolled in the MCO if
+                         their HCP expects them to be fully off work for thirty (30) consecutive or
+                         thirty (30) non-consecutive calendar days or more.
+
+                 2.      Secondary criteria: The injured employee will be enrolled in the MCO if
+                         they have not been released to full regular duty by their attending HCP
+                         within ninety (90) consecutive calendar days from the date of injury or
+                         date the injury was accepted for workers’ compensation coverage,
+                         whichever was later.
+
+                 3.      Alternate criteria: For possible exceptions to the primary/secondary
+                         criteria listed above, or for consideration of MCO enrollment on any claim
+                         that warrants their involvement, the County Risk Manager, in consultation
+                         with the injured employee or the employee’s attorney and the injured
+                         employee’s chosen HCP, reserves the right to make this decision based on
+                         a review of available information. Such criteria could include, but is not
+                         limited to, workers’ compensation claims extending over multiple years or
+                         continued HCP treatment for an injured employee over an extended period
+                         of time that does not appear to be moving the injured employee toward
+                         recovery.
+
+                 4.      Injured employees enrolled in Ready Rebound will NOT be subject to
+
+
+
+Washington County / WCPOA – Sergeants CBA 2025-2028 – 36
+                         MCO enrollment at any point during their claim.
+
+        E.       Washington County may in its sole discretion elect to end the MCO program at
+                 any time and for any reason.
+
+        F.       Participation by the Association-represented employees in the MCO program is
+                 not intended to abrogate any right or requirement pursuant to workers’
+                 compensation law.
+
+        G.       On a quarterly basis Washington County shall provide to the Association
+                 President a list of the names of Association-represented employees that have been
+                 enrolled in the MCO program.
+
+
+
+
+Washington County / WCPOA – Sergeants CBA 2025-2028 – 37
+### ARTICLE 20 – ADMINISTRATION OF THE SALARY PLAN
+
+20.1    The following rules shall govern the use of the salary ranges set forth in Schedule A,
+        which is made a part thereof.
+
+        A.       Oregon Equal Pay Law. All pay, to include regular wages and incentive pays will
+                 be determined in line with the provisions of the Oregon Equal Pay Law. The
+                 Oregon Equal Pay Act of 2017 (HB 2005) was introduced to reduce pay
+                 disparities and expand protections for employees who are subject to
+                 discriminatory pay practices. All decisions regarding employee pay must be made
+                 in compliance with ORS 652.220, which prohibits discrimination in the payment
+                 of wages for work. Compensation for work of comparable character and skill
+                 must be equitable and not discriminate against protected classes.
+
+                 However, the County agrees and specifically recognizes that exceptions exist in
+                 accordance with ORS 652.220 – where a collective bargaining agreement, such as
+                 this CBA, provides for different compensation levels.
+
+        B.       Rates of Pay. Each employee shall be paid at one (1) of the steps of the range
+                 prescribed for the classification. Specifically, ORS 652.220 provides that differing
+                 pay rates for employees performing work of comparable character will be based
+                 upon one or more bona fide factors as follows:
+
+                 1.      A seniority system.
+
+                 2.      A merit system.
+
+                 3.      A system that measures earnings by quantity or quality of production,
+                         including piece-rate work.
+
+                 4.      Workplace locations.
+
+                 5.      Travel, if travel is necessary and regular for the employee.
+
+                 6.      Education.
+
+                 7.      Training.
+
+                 8.      Experience.
+
+                 9.      Any combination of the factors described in the subsection above, if the
+                         combination of factors accounts for the entire compensation differential.
+
+        C.       For all purposes, an employee’s anniversary date shall be the date the
+                 appointment, promotion or reinstatement occurs. However, changes in the wage
+                 rate shall be effective the first day of the payroll period in which the day of
+
+
+
+Washington County / WCPOA – Sergeants CBA 2025-2028 – 38
+                 appointment or promotion occurs.
+
+        D.       Merit Increases – Regular Employees. When the Sheriff determines that an
+                 employee has performed satisfactorily, the employee shall be granted an increase
+                 at the completion of twenty-six (26) payroll periods from the employee’s date of
+                 appointment as a sergeant, and additionally, an increase to the next succeeding
+                 step of the range shall be granted upon satisfactory performance as determined
+                 pursuant to the Employee Performance Evaluation System for the twenty-six (26)
+                 payroll periods since the last in range increase until the employee has reached the
+                 top of the salary range for the classification. The Performance Evaluation shall be
+                 subject to the grievance procedure only if it is the basis for withholding a step
+                 increase, merit increase, or incentive pay.
+
+        E.       Promotions. A promotion is an appointment to a position in a classification which
+                 has a higher maximum salary rate than the employee’s present classification.
+                 However, the final pay will be determined by utilizing both methods listed below.
+                 The promotional pay shall be determined by the method that yields the higher pay
+                 rate.
+
+                     •   Human Resources will complete a salary analysis utilizing a Hiring
+                         Compensation Decision Matrix and Compensation Request Form, which
+                         is in accordance with the provision of the Oregon Equal Pay Law as set
+                         forth in this Article 20. The Hiring Compensation Decision Matrix and
+                         Compensation Request Form compares the employee’s education and
+                         experience with the minimum qualifications for the promotional position
+                         and assigns an appropriate salary, hourly rate, or step in the new range of
+                         the promotional position. A copy of the salary analysis will be provided
+                         to the impacted employee and the Association President upon request.
+
+                     •   Human Resources will determine the salary, hourly rate, or step in the
+                         new pay range that is closest to a five percent (5%) increase but is not
+                         less than three percent (3%) above the employee’s base pay rate
+                         immediately prior to the date of promotion.
+
+        F.       Voluntary Classification Demotion or Demotion in Lieu of Layoff. When a
+                 voluntary classification demotion or demotion in lieu of layoff occurs, the
+                 employee’s pay will be determined by a salary analysis in accordance with the
+                 provisions of the Oregon Equal Pay Law as set forth in this Article 20. The salary
+                 shall be within the salary range of the lower classification. The new salary may
+                 not be greater than the employee’s regularly assigned salary prior to the demotion.
+                 A copy of the salary analysis will be provided to the impacted employee and the
+                 Association President upon request.
+
+        G.       Involuntary Demotion and Demotion from Career Probation. Upon an involuntary
+                 demotion, disciplinary demotion, or a demotion from Career Probation, pay will
+                 be determined by salary analysis in accordance with the provisions of the Oregon
+
+
+
+Washington County / WCPOA – Sergeants CBA 2025-2028 – 39
+                 Equal Pay Law as set forth in this Article 20. The salary shall be within the salary
+                 range of the lower classification. The new salary may not be greater than the
+                 employee’s regularly assigned salary prior to the demotion. A copy of the salary
+                 analysis will be provided to the impacted employee and the Association President
+                 upon request.
+
+        H.       In either a class demotion, a disciplinary demotion, or a salary demotion,
+                 regardless of whether it is voluntary or involuntary, the employee shall retain the
+                 same anniversary date.
+
+        I.       Transfers.
+
+                 1.      Position Transfer. A position transfer is an appointment to a position in the
+                         same classification and the employee’s pay remains the same.
+
+                 2.      Classification Transfer. When an employee is appointed to a position in a
+                         different classification which has the same pay range, the employee’s pay
+                         will be determined by a salary analysis in accordance with the provisions
+                         of the Oregon Equal Pay Law as set forth in this Article 20. The salary
+                         shall be within the salary range of the new classification. The new salary
+                         may not be greater than the employee’s regularly assigned salary prior to
+                         the transfer. The employee may be required to serve a probationary period
+                         of twenty-six (26) payroll periods if the employee transfers into a
+                         classification not previously held or where the employee had not
+                         previously attained “Career Employee” status. However, the employee
+                         will retain the same anniversary date. Should the employee not
+                         successfully complete the probationary period, the employee shall return
+                         to the former position. A copy of the salary analysis will be provided to
+                         the impacted employee and the Association President upon request.
+
+        J.       Range Changes. When a range is changed, the employee’s pay is based on the
+                 same step of the new range as in the old. Such change shall not alter the
+                 employee’s anniversary date.
+
+        K.       Payment of Salary.
+
+                 1.      The Salary Step Schedule for each classification represented by the
+                         Association is set forth as Schedule A. Unless indicated otherwise in
+                         Schedule A, compensation shall be deemed to mean compensation per
+                         month. All employees shall be paid on the basis of the ratio of the actual
+                         number of days or hours worked, including authorized absences with pay,
+                         to the total number of working days or hours, including authorized
+                         holidays, in each month. Where appropriate, the hourly rate may be used
+                         at set forth in the conversion schedule.
+
+                 2.      Payday shall be bi-weekly and in no case shall more than fourteen (14)
+
+
+
+Washington County / WCPOA – Sergeants CBA 2025-2028 – 40
+                         days of pay be held back.
+
+                 3.      In case an employee is laid off, quits or is discharged, the employee shall
+                         receive their pay in compliance with state law.
+
+                 4.      The first Sergeant salary step listed in the Sergeant Schedule A will be
+                         five percent (5%) above the top step Corporal salary step set forth in
+                         Schedule A of the WCPOA ECU CBA.
+
+                 5.      There shall be six (6) Sergeant salary steps listed in Schedule A. There
+                         shall be a five percent (5%) increased differential between each step.
+
+
+
+
+Washington County / WCPOA – Sergeants CBA 2025-2028 – 41
+### ARTICLE 21 – INCENTIVE PAY
+
+21.1    DPSST Incentive Program. Employees covered by the bargaining unit who are certified
+        by the Oregon Department of Public Safety Standards and Training (DPSST) shall
+        receive incentive pay in the following amounts:
+
+                Supervisors Certification – one and one-half percent (1.5%)
+                Police Certification – one and one-half percent (1.5%)
+
+        The above amounts are stackable (i.e., a Sergeant with both Supervisors certification and
+        Police certification will receive three percent (3.0%)). The Leadership Development
+        Program (LDP) will be discontinued upon ratification of this Agreement.
+
+21.2    Jail CERT Team and Air Support Unit. Members of the Jail CERT team and the Air
+        Support Unit shall receive a monthly premium of two percent (2%) of their base pay.
+
+21.3    TNT Team. In lieu of hazardous duty pay, members of the TNT team shall receive a
+        monthly premium of five percent (5%) of their base pay.
+
+21.4    Motorcycle Sergeants. It is anticipated that Motorcycle Sergeants will provide normal
+        maintenance of their assigned motorcycles outside the Sergeant’s normal work hours. In
+        consideration of these activities, employees working in the assignment of Motorcycle
+        Sergeant shall receive additional compensation added to their base pay for every hour of
+        work performed as a Motorcycle Sergeant. The additional compensation will be at the
+        same rate as established for Motorcycle Officers in the WCPOA ECU collective
+        bargaining agreement. In the event a Motorcycle Sergeant works in that capacity outside
+        their normal work hours, the Motorcycle Sergeant shall be entitled to overtime
+        compensation at a rate that reflects one and one-half times (1.5x) their regular salary rate.
+        Prior approval of overtime work by the Motorcycle Sergeant’s supervisor is required.
+
+21.5    Canine Sergeants. It is anticipated that Canine Sergeants will provide maintenance of
+        their assigned dogs, including feeding, grooming, some training and other normal dog
+        maintenance responsibilities, outside the Canine Sergeant’s normal work hours. In
+        consideration of this activity, Canine Sergeants shall receive additional compensation at
+        the same rate as established for Canine Officers in the WCPOA ECU collective
+        bargaining agreement for that period of time that the Sergeant is functioning as a Canine
+        Sergeant. In the event a Canine Sergeant is called out to perform with the dog outside the
+        normal work hours, the Canine Sergeant shall be entitled to overtime compensation at a
+        rate that reflects one and one-half times (1.5x) their regular salary rate. Prior approval of
+        overtime work by the Canine Sergeant’s supervisor is required. The Canine Sergeant
+        premium will be inapplicable to all vacation leave time if the police dog is placed in a
+        kennel at County expense. Any dog assigned to the Canine Program shall be the property
+        of the Sheriff’s Office. Canine Sergeants shall be responsible for the day-to-day
+        maintenance of the dog. The dog shall reside at the home of the Canine Sergeant when
+        not on duty or attending any training. Canine Sergeants shall be responsible for making
+        necessary arrangements for maintaining the dog in their home. The Sheriff’s Office shall
+
+
+Washington County / WCPOA – Sergeants CBA 2025-2028 – 42
+        be responsible for providing a proper kennel and dog run at the Canine Sergeant’s home,
+        food and any necessary medical attention required by the dog. The Sheriff’s Office shall
+        be responsible for the conduct and acts of the dog. Canine Sergeants shall also receive
+        one (1) hour of paid release kennel time per shift.
+
+21.6    Language Proficiency. Employees who meet the County standard for demonstrated skill
+        in speaking a language other than English shall receive an additional five percent (5%) of
+        base rate per pay period, provided there is a demonstrated business need as determined by
+        the Sheriff. The County will continue to provide the language incentive for any language
+        covered as of July 1, 2013. The County agrees that if the County enhances its language
+        proficiency policy to increase the incentive and/or to modify the testing to provide an
+        incentive for conversational bilingual skills, it will provide the enhancements to the
+        bargaining unit.
+
+
+21.7    Eligibility. Eligibility for incentive pay is subject to the following conditions:
+
+        A.       Competent performance must be maintained. Employees who are deemed to be
+                 performing at non-competent levels will be placed on a written performance
+                 improvement plan (not to exceed one hundred and eighty (180) days) in order to
+                 give them an opportunity to correct the specific concern(s). Loss of incentive pay
+                 will occur only after an employee fails their performance improvement plan. The
+                 determination that an employee has failed a performance improvement plan is
+                 grievable.
+
+        B.       Any decision to remove an employee from an incentive pay assignment based on
+                 performance will be documented through a performance improvement plan,
+                 internal investigation/SRIM or in the Compass Check system. The employee will
+                 be made aware and have a reasonable period of time to demonstrate adequate and
+                 sustained improvement.
+
+        All adjustments to the incentive pay shall be effective at the beginning of the first payroll
+        period following meeting the above conditions.
+
+
+
+
+Washington County / WCPOA – Sergeants CBA 2025-2028 – 43
+### ARTICLE 22 – TRANSITIONAL (LIGHT) DUTY ASSIGNMENT AND PAY
+
+22.1    An employee who is unable to perform the regular duties of their position because of a
+        compensable work-related injury or illness may be assigned by the County to other work
+        which they are qualified and physically able to perform, whether such work is or is not of
+        a type normally performed by employees in the bargaining unit. The County will make
+        best efforts to retain the employee in their assigned shift days and hours.
+
+22.2    Nothing in this Article shall prohibit the County from offering a transitional duty
+        assignment that is on different shift days and/or hours if the County determines this to be
+        in the best interest of the County and the employee. Such positions or work assignments
+        are temporary and at the discretion of the County. Employment in transitional duty shall
+        not cause a reduction in the employee’s regular compensation or benefits. The employee
+        will receive their regular compensation and benefits while working in a modified or
+        transitional duty assignment. The County reserves the right to discontinue or change any
+        transitional duty at any time.
+
+22.3    If an employee’s work restrictions result from a work-related incident, the employee will
+        have the choice between working their normal assigned hours and days or a modified
+        schedule the employee and County mutually agree to. If the work restrictions result from
+        a non-work-related incident, the employee may be offered a transitional work schedule
+        mutually agreed upon between the employee and the County.
+
+
+22.4    Work Schedule and compensation changes for a represented employee associated with
+        work-related or non-work-related injuries, shall be documented in writing and provided
+        to the Association upon request.
+
+
+
+
+Washington County / WCPOA – Sergeants CBA 2025-2028 – 44
+### ARTICLE 23 – RESERVED FOR FUTURE USE
+
+
+                                         [intentionally left blank]
+
+
+
+
+Washington County / WCPOA – Sergeants CBA 2025-2028 – 45
+### ARTICLE 24 – ASSOCIATION REPRESENTATIVES
+
+
+24.1    Members of the bargaining unit selected to serve as authorized representatives (E-Board
+        members) shall be certified in writing to the Sheriff by the President of the Association.
+        Representatives will normally be expected to perform Association business on their own
+        time. When an E-Board meeting requires on-duty members’ attendance, not more than
+        four (4) total members across all three (3) WCPOA bargaining units will be allowed to
+        attend the meeting on duty time, unless it would create a hardship to the County. On-duty
+        E-Board members shall be allowed no more than two (2) hours away from duty to attend
+        E-Board meetings. With the approval of their respective supervisors, they may exceed
+        two (2) hours, but shall use their own time or Association leave as authorized by the
+        Association President.
+
+24.2    The Association’s President shall be assigned a standard day shift and days off schedule
+        within the President’s Division as determined by the Association. If the Association votes
+        to put its President on half-time Association-paid status, the Association may elect such
+        status in lieu of Section 8.10. Such election will be for a period of time determined by the
+        Association, but not to exceed the duration of the contract. In such event, the
+        Association’s President will be placed on a half-time status for purpose of work schedule,
+        full-time pay and benefits, provided the Association reimburses the County for one-half
+        (1/2) of wages, incentive pay, and allocable fringe benefits costs.
+
+24.3    The Association shall be provided three hundred and fifty (350) hours paid leave per year
+        which shall be taken in increments no smaller than fifteen (15) minutes for Association
+        business. An additional one hundred and seventy-five (175) hours paid leave per year will
+        be provided for on-duty Association Representatives who are representing an employee
+        who is the subject of an investigation. This total amount is to cover work on behalf of all
+        three (3) WCPOA bargaining units.
+
+        Association leave may be taken for any purpose attendant to the administration or
+        negotiation of the contract, including attendance at negotiations, labor seminars, hearings
+        before the Employment Relations Board, arbitration, fact-finding and mediation sessions,
+        and any labor relation matters not covered in Section 24.1 or Section 8.10 of this
+        Agreement as follows:
+
+        A.       Except as provided in Paragraph B, requests for Association time shall be made at
+                 least twenty-four (24) hours in advance. Requests for Association time shall be
+                 granted when the request is made twenty-four (24) hours in advance.
+
+        B.       Requests for Association time with less than twenty-four (24) hours’ notice shall
+                 be subject to the reasonable operating needs of the County, including staffing
+                 needs. Provided that if the Association time is used for representation of an
+                 employee in an investigatory interview (internal investigations and pre-
+                 disciplinary hearings) and less than twenty-four (24) hours’ notice of the
+                 interview is provided to the Association, the interview shall be rescheduled if an
+
+
+
+Washington County / WCPOA – Sergeants CBA 2025-2028 – 46
+                 Association representative cannot attend the interview. The County shall
+                 immediately notify the Association President of requests for representation in
+                 disciplinary interviews. If the President cannot be reached, the notice shall be
+                 provided to the Association’s Secretary-Treasurer. If the Secretary-Treasurer
+                 cannot be reached, then the notice shall be provided to a member of the
+                 Association’s Executive Board.
+
+        C.       All Association time must be documented by the individual(s) using the
+                 Association Time. Association time shall be submitted to the County each pay
+                 period by the individual(s) using the time.
+
+        D.       The choice of who will represent the Association in a disciplinary or other matter,
+                 provided the employee desires such representation, shall reside solely with the
+                 Association.
+
+        E.       In addition to the provisions listed in this Section 24.3, an employee participating
+                 in Association business, approved by the Association President or designee, may
+                 request to use their own accrued vacation, ILH, or compensatory time for
+                 Association activities and business. An employee who chooses to use such leave
+                 will not have such leave accruals denied if the leave request is made at least sixty
+                 (60) days in advance.
+
+
+
+
+Washington County / WCPOA – Sergeants CBA 2025-2028 – 47
+### ARTICLE 25 – OVERPAYMENT & REPAYMENT
+
+25.1    In the event an employee is either overpaid or underpaid by the County, each party has an
+        obligation to report the error to the other party as soon as it is discovered., WCPOA will
+        be informed when an overpayment or underpayment is discovered and of the final
+        outcome of any overpayment or underpayment.
+
+        The County, employee, and WCPOA will work collaboratively to correct the error.
+
+25.2    In the event that an employee receives wages or benefits from the County to which the
+        employee is not entitled, regardless of whether the employee knew or should have known
+        of the overpayment, the County shall notify the employee in writing of the overpayment
+        which will include information supporting that an overpayment exists and the amount of
+        wages and/or benefits to be repaid.
+
+25.3    The County shall be limited in calculating overpayments up to a maximum period of
+        three (3) years before the notification. An employee who disagrees with the County’s
+        determination that an overpayment has been made to the employee may grieve the
+        determination through the grievance procedure.
+
+25.4    For purposes of recovering overpayments the following shall apply:
+
+        A.       The employee and the County shall attempt to reach mutual agreement on a
+                 repayment schedule within thirty (30) calendar days following written
+                 notification.
+
+                 1.      The employee may elect to have the entire overpayment recouped from
+                         the next available payroll check following the discovery and verification
+                         of the overpayment; or
+
+                 2.      The employee may elect to repay the overpayment in equal increments
+                         over the same number of pay periods in which the error occurred. For
+                         example, if an employee was overpaid by $100 per pay period for five (5)
+                         pay periods, the employee may repay $100 per pay period during the next
+                         five (5) pay periods after the error is discovered.
+
+        B.       If there is no mutual agreement at the end of the thirty (30) calendar day period,
+                 the County shall implement the repayment schedule stated in the subsection
+                 (B)(1) below.
+
+                 1.      The overpayment shall be recovered in amounts not exceeding five
+                         percent (5%) of the employee’s gross wages per pay period. If an
+                         employee leaves County service before the County fully recovers the
+                         overpayment, the remaining amount may be deducted from the
+                         employee’s final check(s).
+
+
+
+
+Washington County / WCPOA – Sergeants CBA 2025-2028 – 48
+        C.       When the parties all agree to an overpayment amount to be repaid the terms of the
+                 overpayment will be documented.
+
+25.5    The Article does not waive the County’s right to pursue other legal procedures and
+        processes to recoup an overpayment made to an employee at any time.
+
+25.6    Underpayments. When an error is made that results in an underpayment of an employee’s
+        pay by more than five percent (5%) of the employee’s gross wages due on the regular
+        payday, the County will issue a check payment for the difference within three (3)
+        business days of notification and verification (or mutual agreement) of the unpaid
+        amount. All other underpayment adjustments will be made in accordance with the regular
+        pay schedule.
+
+
+
+
+Washington County / WCPOA – Sergeants CBA 2025-2028 – 49
+### ARTICLE 26 – MENTAL HEALTH & PHYSICAL FITNESS
+
+26.1    The Washington County Sheriff’s Office (WCSO) recognizes that the health and fitness
+        of its employees is essential and is committed to fostering a culture of wellness to best
+        serve its employees, their families, and the community. Increased employee wellness can
+        lead to better decision-making, community interactions, and safety, which can lead to
+        increased trust by members of the community. The goal is to enhance the physical,
+        mental, emotional, social, and financial health for members while increasing
+        organizational wellness, excellence, and efficiency. WCSO strives to increase readiness
+        and resiliency, enhance morale, increase productivity, reduce sick leave use, and increase
+        job and life satisfaction. WCSO is committed to furthering employee wellness.
+
+        Participation in all Wellness Activities is strictly voluntary and only applies to all full-
+        time, DPSST-certified hourly employees. Employees must first successfully complete the
+        Field Training and Evaluation Program (FTEP) or comparable onboarding to be eligible.
+
+26.2    Wellness on duty: Employees must remain in communication and available while
+        participating in wellness activities. Employees who have been issued radios or cellphones
+        must keep and monitor these devices while participating in wellness activities, unless
+        otherwise approved by a supervisor. Employees who have not been issued a
+        communication device must ensure their supervisor has a reliable way to immediately
+        contact them.
+
+        A.       While engaged in wellness activities, employees must stay within close proximity,
+                 i.e., ten (10) minutes, of the precinct or County facility to which they have been
+                 assigned. Exceptions may be approved by a division commander/manager.
+
+        B.       Staff logged into Computer Aided Dispatch (CAD) should indicate status as
+                 “Detail Unavailable” with notes about wellness time. All other employees must
+                 notify their supervisor before beginning wellness time.
+
+        C.       Employees will log their wellness activity using the “Wellness” tab in PSWeb /
+                 PSWebGO. This data is used for the purpose of ensuring that wellness time and
+                 denial of wellness time is applied equitably.
+
+26.3    On-duty Injuries Sustained During a Wellness Activity Covered Through Workers
+        Compensation: Any injury incurred while participating in an on-duty wellness activity
+        may be considered an on-duty injury and may be covered through the Workers’
+        Compensation process. All claims will be processed according to established County
+        policies and procedures.
+
+26.4    Wellness activity time may only be used during regular (non-overtime) work. Staff may
+        not participate in wellness sessions while working overtime and overtime will not be
+        permitted to facilitate wellness time.
+
+26.5    Duty firearms and equipment must be secured while participating in Wellness activities.
+
+
+
+Washington County / WCPOA – Sergeants CBA 2025-2028 – 50
+        Refer to Policy 2506, Defensive Tools.
+
+                                       ALLOWED ACTIVITIES
+
+26.6    Employees may use pre-approved venues for on-duty Wellness sessions. Pre-approved
+        venues for on-duty wellness activities are the fitness centers and wellness rooms located
+        at all WCSO facilities.
+
+        A.       Employees who live within ten (10) minutes of their on-duty assignment may
+                 practice wellness activities at their home.
+
+        B.       Employees who wish to run or walk outside of their assigned duty post will
+                 request permission from their supervisor.
+
+                               WELLNESS SESSION ALLOTMENT
+
+26.7    Employees May Receive a Maximum of Three (3) sixty (60)-minute Wellness Sessions
+        Per Work Week: Each employee may be provided up to sixty (60) minutes per each
+        wellness session for wellness activities and a total of no more than three wellness
+        sessions per work week.
+
+        A.       Wellness activities can include, but are not limited to, physical, mental, social,
+                 financial, intellectual, spiritual, occupational, or environmental well-being.
+                 Examples of wellness activities include but are not limited to, physical exercise,
+                 meditation, mental health services, creative artistic outlets, and wellness-related
+                 educational opportunities.
+
+        B.       Wellness time cannot be broken into smaller intervals to cover more days or allow
+                 multiple sessions per shift.
+
+        C.       Wellness time does not roll over from day-to-day or week-to-week.
+
+        D.       Showering and changing clothes must be accomplished within the allotted
+                 wellness session.
+
+        E.       Wellness time may not impact officer safety, supervisor communications, or
+                 attendance at shift briefings or training.
+
+        F.       Employees are expected to either be participating in a wellness activity or be on
+                 duty as scheduled and may not utilize wellness time for other uses.
+
+        G.       Wellness time has no cash value.
+
+                                   OVERSIGHT AND APPROVAL
+
+26.8    The Sheriff or designee may discontinue any employee’s participation in Wellness
+
+
+
+Washington County / WCPOA – Sergeants CBA 2025-2028 – 51
+        activities due to documented performance issues.
+
+26.9    Employees Are Not Guaranteed Time for Wellness: Wellness time and participation will
+        be managed at the division/work group level, and each employee's direct supervisor will
+        approve or deny daily permission to participate based on the operational needs of WCSO.
+
+        A.       Consideration will be given to deployment, staffing, and activity level. Wellness
+                 time may be changed or canceled at the discretion of an on-duty supervisor and
+                 without recourse under the grievance procedure.
+
+        B.       Nothing in this policy will supersede the operational needs of WCSO which
+                 includes meal breaks, calls for service, and other operational needs to keep the
+                 office functioning.
+
+26.10 Mental Health.
+
+         A.       An employee may visit a mental health provider for an annual check-up between
+                  January 1 and June 30 of the applicable year. The purpose of the check-up is to
+                  help the employee identify any potential issues and to give them tools with
+                  which they can nurture their own mental health. An employee may utilize any
+                  certified or qualified mental health professional.
+
+         B.       Like most other health care providers’ appointments, the information shared
+                  during these visits is privileged and confidential as between the employee and
+                  their mental health provider. To be eligible for the wellness incentive, the only
+                  information the employee will provide is the explanation of benefits from the
+                  insurance carrier, a bill for the visit (which will include the employee’s name as
+                  proof of the appointment) or a simple form solely verifying attendance to the
+                  appointment (to be developed and agreed upon by WCPOA and the County).
+                  Any follow-up regarding the consultation or recommendations made by the
+                  employee’s provider for further care or treatment will be the employee’s
+                  responsibility. Charges associated for these mental health checkups will be the
+                  responsibility of the employee.
+
+         C.       Complying with any recommendations made by the employee’s chosen mental
+                  health provider is completely voluntary on behalf of the employee. The Sheriff’s
+                  Office will not seek to obtain information regarding the results of the
+                  consultation or any recommendations, unless the employee relies on the
+                  consultation or recommendations to request an accommodation or obtain an
+                  employment right or benefit.
+
+         D.       Because this program is voluntary and is predominantly for the employee’s
+                  benefit, the time spent by the employee in obtaining the consultation is not work
+                  time. Employees will not be paid for that time by the County.
+
+         E.       An employee who participates in a voluntarily annual mental health checkup
+
+
+
+Washington County / WCPOA – Sergeants CBA 2025-2028 – 52
+                  will receive a two-hundred and fifty dollars ($250) incentive to be deposited in
+                  the employee’s VEBA.
+
+26.11 Physical Fitness.
+
+        A.       There are many aspects of physical fitness that can benefit employees, such as
+                 overall health and stress management, that the County would like to promote.
+                 Increased physical fitness prepares employees for the challenges of the job and
+                 can result in fewer on the job injuries.
+
+        B.       Employees may voluntarily take the Physical Abilities Test (PAT) and receive a
+                 passing time of no more than six (6) minutes once a year during the January 1 -
+                 June 30 window to complete the requirements. The PAT is a hybrid physical
+                 functioning test which assesses both physical fitness and the ability to complete
+                 sample work tasks. This test is the same used in the hiring process for certified
+                 positions and is an obstacle course designed to evaluate the essential physical
+                 capacities required to satisfactorily perform their day-to-day job duties. One (1)
+                 lap of the PAT consists of the following:
+
+                 1.      207’ run
+                 2.      Crossing a balance beam 15’ long, 6” wide and 10” high
+                 3.      Jumping over an obstacle 5’ long by 3’ wide
+                 4.      Climbing up and down 5 sets of stars
+                 5.      Crawling under an obstacle 30” high and 36” wide
+                 6.      Jumping over two obstacles 18” high
+                 7.      Vaulting over a 3’ high obstacle
+                 8.      Falling to your back or stomach multiple times and stand back upright
+
+                 Successful completion of the course is six (6) laps and a 165-pound “Dummy
+                 Drag” for twenty-five (25) feet for a total time of not more than six (6) minutes.
+
+        C.       Employees who wish to qualify for the physical fitness incentive will be expected
+                 to complete the PAT between January 1 and June 30 of the applicable year. An
+                 employee who achieves a passing time will receive a two-hundred and fifty
+                 dollars ($250) incentive to be deposited in the employee’s VEBA.
+
+        D.       The fitness test will be administered by a proctor who has received training, as
+                 identified by the Sheriff or Sheriff’s designee. The passing score will be based on
+                 the DPSST new hire requirements.
+
+        E.       Because this program is voluntary and is predominantly for the benefit of the
+                 employee, the time spent taking the test is not work time. Employees will not be
+                 paid for their time while they are preparing for the test and will not be paid for
+                 their time while taking the test unless they are granted approval by their
+                 supervisor to take the test while on duty.
+
+
+
+
+Washington County / WCPOA – Sergeants CBA 2025-2028 – 53
+26.12 Summary.
+
+        A.       The wellness program is voluntary and, as stated above, there will be no adverse
+                 effect on employment status or employment opportunities if an employee chooses
+                 not to participate. Employees will have the opportunity, between January 1 and
+                 June 30 of the applicable year, to complete either or both components of the
+                 wellness incentive.
+
+        B.       Upon verification of successfully completing both the mental health and fitness
+                 components, the earned incentive will be paid after proof of both requirements is
+                 presented to the Sheriff’s Office, at a total of up to five hundred dollars ($500)
+                 into the employee’s VEBA account paid in the first paycheck falling on a Friday
+                 in December each year. Verification of the incentive must be provided to the
+                 County no later than ninety (90) days after completion of the incentive to be
+                 eligible for the December payment.
+
+        C.       This wellness program monetary incentives described in this Article 26 will begin
+                 January 1, 2026.
+
+
+
+
+Washington County / WCPOA – Sergeants CBA 2025-2028 – 54
+### ARTICLE 27 – TRAVEL PAY
+
+27.1    Whenever an employee is required to report to work at any location other than their
+        established place of work, or whenever any employee, as a part of their regular work, is
+        required to travel, they shall be paid for the use of their personal transportation at the
+        current County rate.
+
+27.2    Commuting Time. The parties agree that commuting to work to a duty location within the
+        normal commuting distance of the employee or within a thirty (30) mile radius of the
+        employee’s regular worksite, whichever is greater, does not constitute “hours of work”
+        unless called to duty during the commute, regardless of whether the employee is utilizing
+        a County or personal vehicle.
+
+        A.       Commuting time to and from training outside of regular work hours does not
+                 constitute work hours unless called to duty or required to act.
+
+27.3    Sergeants with assigned vehicles are expected to begin their work shift at their regular
+        worksite.
+
+        A.       Sergeants may go “in-service” and in an official Sheriff’s Office capacity during
+                 their commute in a County vehicle if they are called to work on their commute in
+                 and if they are necessary to cover operations once they are inside Washington
+                 County. Sergeants are not required to log in or monitor their radio prior to going
+                 in-service.
+
+
+
+
+Washington County / WCPOA – Sergeants CBA 2025-2028 – 55
+### ARTICLE 28 – MANDATED BENEFITS
+
+
+28.1    Public Employees’ Retirement System.
+
+        A.       The County shall maintain the existing retirement plans -- Public Employees
+                 Retirement System (PERS) and Oregon Public Service Retirement Plan (OPSRP)
+                 -- for employees eligible to participate in the respective plans.
+
+        B.       The County agrees to supplement retirement benefits for eligible employees by
+                 providing the sick leave credits as authorized by the Public Employees’
+                 Retirement System for members of the bargaining unit.
+
+        C.       Effective the first full pay period following ratification of this Agreement, the
+                 County agrees to pay the employee’s contribution to the Public Employees’
+                 Retirement System (PERS pick-up), or to the Oregon Public Service Retirement
+                 Plan (OPSRP), whichever is applicable, at the applicable rate as authorized in the
+                 statute. At the same time, the Leadership Development Program (LDP) pay will
+                 be discontinued.
+
+28.2    Other Mandated Benefits. The County will provide social security, unemployment
+        insurance and workers’ compensation insurance coverage as required by state law.
+
+
+
+
+Washington County / WCPOA – Sergeants CBA 2025-2028 – 56
+### ARTICLE 29 – INSURANCE
+
+29.1    Medical, Dental and Vision. The County agrees to provide employees a choice between
+        the standard medical insurance plans for Providence or Kaiser Permanente; or a choice of
+        reasonably comparable overall benefits offered by other carriers. Coverage under these
+        plans is subject to the carriers’ eligibility requirements. The County agrees to provide
+        dental and vision insurance, similar to coverage currently offered through Delta Dental or
+        Kaiser Dental; or plans of other carriers offering equal to overall benefits, subject to the
+        following:
+
+        For the duration of this Agreement, the County will provide the following health
+        insurance options:
+
+                PPO: A High Deductible Plan, a Low Deductible Plan and a High Deductible
+                 Health Plan (HDHP) with HRA VEBA Incentive Plan through Providence or a
+                 substantially similar plan with reasonably comparable overall benefit.
+
+                HMO: A High Deductible Plan, a Low Deductible Plan and a High Deductible
+                 Health Plan (HDHP) with HRA VEBA Incentive Plan through Kaiser HMO or a
+                 similar plan with reasonably comparable overall benefit.
+
+        Employees enrolling in the High Deductible Health Plan with an added HRA VEBA
+        incentive plan will receive sixty percent (60%) of the health insurance cost savings in
+        premiums between the similar level Low Deductible Plan and the High Deductible Health
+        Plan (HDHP) with an added HRA VEBA incentive. The sixty percent (60%) Health
+        Insurance premium cost savings shall be calculated for each employee for each plan year
+        during the term of this Agreement as follows:
+
+                 The monthly Low Deductible Plan premium rate minus the monthly
+                 HDHP premium rate multiplied by .60 (60%) equals the amount of
+                 premium cost savings deposited to the employee’s HRA VEBA account
+                 each month.
+
+        The funds associated with the employee’s sixty percent (60%) incentive will be deposited
+        during the first pay period and second pay period of each month into the employee’s
+        standard HRA VEBA account established through Washington County. The sixty percent
+        (60%) premium cost savings deposits for each eligible employee will occur twice (2x)
+        per month in alignment with insurance contribution deductions already scheduled through
+        payroll deductions. This contribution will only occur for the length of time an employee
+        has opted into a plan that provides that the employee will receive the sixty percent (60%)
+        premium savings contributed into their HRA VEBA account. Couples and partners that
+        work for the County and who both opt into the High Deductible Health Plan (HDHP)
+        with an added HRA VEBA incentive plan will both be eligible to receive the sixty
+        percent (60%) premium savings contributed into each of their respective HRA VEBA
+        accounts.
+
+
+
+
+Washington County / WCPOA – Sergeants CBA 2025-2028 – 57
+        The County and the Association agree to participate in the County Wellness Points
+        Committee comprising no more than fifteen (15) members, of which up to four (4)
+        members will be appointed by the Association to represent the ECU, SSG, and SGT
+        bargaining units. This work group will seek information and input from the County’s
+        benefits consultant as it determines the wellness point system. In the event the work
+        group is unable to reach a consensus on the wellness point system, the system shall be
+        determined by the County and will be subject to interim bargaining with the Association
+        under ORS 243.698 except that the interim bargaining period shall be forty-five (45) days
+        beginning from the date that the County provides a written proposal to the Association,
+        that at a minimum includes a summary of the wellness points system that was selected.
+
+        Each plan under the PPO and HMO will have its own established rate based on actuarial
+        cost of the plan. The County’s maximum contributions for medical, dental and vision will
+        be ninety percent (90%) for the plan selected by the employee, and the employee will
+        contribute ten percent (10%).
+
+        For those employees that meet the Wellness Points requirement, the County’s maximum
+        contribution for medical, dental, and vision will be ninety-five percent (95%) for the
+        selected plan by the employee, and the employee will contribute five percent (5%).
+
+        To qualify for the lower employee premium contribution rate, the employee is required to
+        meet wellness point requirements as determined by a work group of the County Wellness
+        Points Committee. Wellness points earned in each points year will determine the
+        employee’s premium contribution rate for the following calendar year.2
+
+        Should the County determine that health insurance premiums may increase by ten percent
+        (10%) or more over the preceding year, either the County or the Association may use
+        ORS 243.698 et seq. to reopen discussion concerning the restructuring of contribution
+        rates and/or a restructuring of benefit plan design except that the mid-term bargaining
+        period shall be forty-five (45) days beginning from the date that the County provides a
+        written proposal to the Association, that at a minimum includes plan and design changes
+        and economic impacts/effects.
+
+        The County acknowledges and agrees that the County also has an obligation to bargain
+        with the Association pursuant to ORS 243.698 about the impacts/effects of any changes
+        to mandatory subjects of bargaining that are not deemed to be reasonably comparable to
+        the overall benefits in the current health and welfare benefits and/or health and welfare
+        plan designs. However, the parties agree that the expedited bargaining period shall be
+        forty-five (45) days, beginning from the date that the County provides a written proposal
+        to the Association, that at a minimum includes plan and design changes and economic
+        impacts/effects.
+
+29.2    Opt-Out Provision. The County will provide a contribution to a VEBA account in the
+        amount of one hundred and twenty-five dollars ($125) per month (equally divided and
+
+2
+ The WCPOA agrees to encourage its members to participate in the Wellness Point Criteria as determined by the
+Wellness Points Committee.
+
+
+Washington County / WCPOA – Sergeants CBA 2025-2028 – 58
+        paid on the first two (2) pay periods of the month only) for eligible employees that
+        choose to opt out of the County’s medical, dental, and vision insurance plans. In order to
+        qualify for the Opt-Out contribution, the employee must provide proof that they are
+        covered by another qualified group health plan that meets the minimum value
+        requirements set forth under the Affordable Care Act.
+
+29.3    Standard HRA VEBA Account (VEBA) – County Contribution. The County agrees to
+        establish a VEBA account for each eligible employee. The County will contribute one
+        hundred and sixty dollars ($160.00) per month to each eligible employee's VEBA
+        account.
+
+        Funds in the Standard HRA VEBA Member Account shall only be used for member
+        health insurance premiums or health care expenses, as allowed by law. There shall be no
+        individual Association member election/option available to take any such amounts in
+        unrestricted cash.
+
+        VEBA accounts are administered in accordance with Internal Revenue Code Section
+        501(c) (9). The employee, and not the County, shall be responsible for any tax due on
+        non-qualified distributions from their VEBA accounts.
+
+        Definition of Eligible employee: For purposes of this provision, the term "eligible
+        employee" shall mean an employee who completes the VEBA enrollment process and is
+        enrolled in one (1) of the County's medical plans or other qualified group health plan.
+
+29.4    Life Insurance. The County shall provide each employee with life insurance coverage
+        equivalent to one times (1x) the employee’s annual earnings, up to $200,000 with a
+        double indemnity provision throughout the term of this Agreement.
+
+        If an employee dies on duty, the County will provide continuing medical/dental/vision
+        coverage for the employee’s spouse or domestic partner and/or dependents for a period of
+        forty-eight (48) months, or until the employee’s spouse or domestic partner is eligible for
+        Medicare, whichever is earlier, unless the spouse or domestic partner and/or dependents
+        is or becomes enrolled in an alternative medical/dental/vision insurance plan.
+
+29.5    Long-Term Disability. The County shall provide each employee with a long-term
+        disability plan to insure a maximum of sixty (60%) percent of their pre-disability base
+        earnings or two thousand and five hundred dollars ($2,500), whichever is less. This
+        insurance will provide salary protection following the first ninety (90) days of continuous
+        total disability or the period during which the employee receives sick leave benefits,
+        whichever is longer.
+
+29.6    The County intends to establish a County-wide health benefit committee during the term
+        of this Agreement to explore options to the issues of health benefit cost containment and
+        benefit levels. This work group will seek information and input from the County’s
+        benefits consultant and provides recommendations for the County with respect to benefits
+        plan design. In the event the work group is unable to reach a consensus regarding benefits
+
+
+
+Washington County / WCPOA – Sergeants CBA 2025-2028 – 59
+        plan design, such benefits shall be determined by the County and will be subject to
+        interim bargaining with the Association under ORS 243.698. However, the parties agree
+        that the expedited bargaining period shall be reduced to forty-five (45) days. The
+        Association will be afforded four (4) representatives on the committee to represent the
+        SSG, SGT and ECU bargaining units, without loss of pay.
+
+29.7    Deferred Compensation. If the County implements a Deferred Compensation Plan for
+        non-represented hourly employees, bargaining unit employees will participate in the
+        same Deferred Compensation Plan.
+
+
+
+
+Washington County / WCPOA – Sergeants CBA 2025-2028 – 60
+### ARTICLE 30 – PERSONNEL FILE
+
+
+30.1    If derogatory material is placed in an employee’s personnel file, a copy of such material
+        shall be furnished to the employee, within seventy-two (72) hours. Each employee may
+        respond in writing to any item placed in that employee’s personnel file and that response
+        shall become a part of the file.
+
+30.2    Any employee and the Association, upon written request, shall have access to an
+        individual employee’s personnel file, within three (3) County business days of the
+        request, and may reproduce such in full or in part at no cost to the employee and/or the
+        Association if the cost of reproduction is less than fifty dollars ($50).
+
+30.3    Employee personnel files, working files, medical records and IA files will be maintained
+        as confidential records to the full extent allowed by law. No portion of an employee’s file
+        shall be transmitted outside the County without the employee’s consent and knowledge,
+        without authorization by a court of competent jurisdiction, or in response to a valid
+        subpoena. If an employee’s information is going to be released, the County shall provide
+        seven (7) calendar days’ written notice to the employee and the Association prior to the
+        release.
+
+30.4    Written copies and materials to be provided to the employee and the Association pursuant
+        to this Article shall be provided by electronic means, either via EMAIL or on a portable
+        “thumb/jump” drive furnished at no cost to the employee and the Association if the cost
+        of reproduction is less than fifty dollars ($50).
+
+
+
+
+Washington County / WCPOA – Sergeants CBA 2025-2028 – 61
+### ARTICLE 31 – DISCIPLINE AND DISCHARGE
+
+31.1    A.      Discipline shall be limited to oral reprimand, written reprimand, demotion,
+                suspension and discharge or an alternative form of disciplinary sanction. Removal
+                from a specialty assignment or collateral duty that has incentive pay associated
+                with it as a result of discipline must have a documented nexus to the underlying
+                misconduct.
+
+        B.       Disciplinary action shall be progressive in nature but may be imposed at any
+                 level as determined by the severity of the conduct involved and all relevant
+                 circumstances. Notice of disciplinary action (other than oral reprimand) shall be
+                 in writing and given to the employee, with a copy to the Association on the
+                 same day issuance of the discipline occurs. No career employee shall be
+                 disciplined without just cause. For law enforcement officers (ORS 131.930),
+                 “just cause” for discipline shall be determined in accordance with ORS 243.808,
+                 243.809, 243.812, OAR Chapter 265 and 236.350 et seq. Oral reprimand shall
+                 be documented in writing stating that it is an “oral reprimand” and such
+                 documentation shall be contemporaneously provided to the employee and the
+                 Association.
+
+31.2    If the County has reason to discipline an employee, it shall be done in a manner that will
+        not embarrass the employee before other employees or the public.
+
+31.3    A.      Internal investigations will be conducted in accordance with WCSO Policy.
+                Conduct as described in the OAR Chapter 265 discipline matrix is a Class 1
+                allegation. [NOTE: Per WCSO, all current discipline policies that have
+                historically been #552 and #553 are being revised. WCSO has agreed that any and
+                all revisions to such policies will be provided to WCPOA and that ORS 243.698
+                et seq. bargaining and PECBA dispute resolution will occur as to the WCSO
+                revisions.]
+
+        B.      The Association may designate up to two (2) representatives to participate in any
+                interviews conducted with the subject of the investigation who is in a
+                classification represented by the Association whether the interview be of a
+                subject, witness or complainant. The Association and/or the employee may not
+                designate a representative who is a relative or significant other, a subject of, the
+                complainant, or a potential witness in, the investigation.
+
+        C.      The County shall notify WCPOA of any investigation pertaining to an employee
+                represented by WCPOA. WCPOA shall have at least forty-eight (48) hours to
+                speak with the employee prior to any interview of the employee.
+
+                 1.      If an employee in a classification represented by the Association declines
+                         Association representation, WCPOA may inform the employee that their
+                         decision to participate in an interview without the Association present
+                         cannot be used or relied upon by the employee in any future meetings or
+
+
+
+Washington County / WCPOA – Sergeants CBA 2025-2028 – 62
+                         actions against the Association as a basis to claim the Association did not
+                         execute or perform the Association’s Duty of Fair Representation for the
+                         employee.
+
+                 2.      When the employee is interviewed, WCPOA will be present for the
+                         beginning of the recorded interview. WCPOA may request, on the record,
+                         that the employee sign a written acknowledgement and waiver confirming
+                         what is set forth in Section 31.3.C.1. If the employee still declines
+                         representation, WCPOA will be excused prior to continuing with the
+                         interview.
+
+                 3.      Upon continuing the interview, the interviewer will ask the employee to
+                         confirm that they decline the opportunity to have an Association
+                         representative, and that they were presented with a waiver form by
+                         WCPOA.
+
+        D.       If WCPOA is not present at the interview due to the employee’s request, the
+                 County will electronically record the interview(s) and will provide WCPOA a
+                 copy of the electronic recording and associated documents within twenty-four
+                 (24) hours of the conclusion of the interview. If any “confidential” information is
+                 involved or used in the interview, including but not limited to medical
+                 records/information, all “confidential” information and documents shall be timely
+                 provided to the Association attorney unredacted through a confidentiality
+                 agreement.
+
+        E.       The Sheriff’s Office will not use or designate an investigator that is known to be a
+                 complainant or potential witness in the investigation of a Class 1 allegation, an
+                 investigation covered by OAR Chapter 265 and/or an investigation that likely will
+                 result in economic discipline.
+
+        F.       The designated Association representative may not be required to disclose, or be
+                 subject to discipline for refusing to disclose, information related to matters
+                 received from the employee in the course of representing the employee in the
+                 investigation.
+
+        G.       At least forty-eight (48) hours prior to the interview, the interviewer will inform
+                 the employee who is the subject of the investigation, and/or any witness employee
+                 represented by the Association and the Association representative(s), about the
+                 allegations being investigated. The interviewer, the Association and the employee
+                 being investigated and/or interviewed may audio and video record the interview
+                 of a Class 1 allegation, an investigation covered by OAR Chapter 265, or an
+                 investigation that, if sustained, may result in economic discipline.
+
+        H.       Within seventy-two (72) hours of the conclusion of the audio/video recorded
+                 interview, the County shall upload the recording to the WCPOA Dropbox
+                 link/account referenced in Article 31.13.
+
+
+
+Washington County / WCPOA – Sergeants CBA 2025-2028 – 63
+        I.       All Class 1, OAR Chapter 265 discipline matrix investigations and/or an
+                 investigation that, if sustained, may result in economic discipline that are
+                 audio/video recorded shall be transcribed by the Sheriff’s Office (for the subject
+                 interview) and an electronic copy of the transcription shall be uploaded to the
+                 WCPOA Dropbox link/account referenced in Article 31.13 at least seven (7) days
+                 prior to any pre-disciplinary meeting associated with the audio/video.
+
+        J.       The County will notify the Association, the complainant, and the affected
+                 employees when a request to extend any of the time frames related to a Class 1 or
+                 Class 2 investigation is granted and the reason for the extension.
+
+        K.       The County will follow applicable Oregon Administrative Rules (OAR) for
+                 retention of internal investigation files.
+
+        L.       Prior to any changes in the internal investigation procedures, input will be
+                 solicited from the Association, and changes that are mandatory subjects of
+                 bargaining or that have mandatory impacts shall be subject to bargaining
+                 requirements under ORS 243.650 and ORS 243.698 et seq.
+
+        M.       At least seven (7) calendar days prior to a represented employee’s pre-disciplinary
+                 meeting, associated with a Class 1 or Class 2 investigation, the County shall
+                 provide a complete copy of all materials in the possession of the County related to
+                 the Class 1 or Class 2 investigation. None of the information and/or materials
+                 provided may be redacted by the County; however, with mutual agreement, the
+                 County and WCPOA may enter into confidentiality and protective agreements as
+                 to use and/or disclosure of the PECBA information and materials the County
+                 provides to WCPOA.
+
+31.4    If a supervisor is interviewing an employee on a matter that may lead to discipline, the
+        supervisor shall inform the employee and the employee’s Association representative, if
+        present, that the interview may lead to discipline.
+
+31.5    Oral and Written reprimands older than five (5) years shall not be considered relevant for
+        disciplinary purposes, if the employee has not received any further disciplinary action
+        during that time period. Such Oral and Written reprimands shall have a “stale” notation
+        attached to them and retained in the employee files in accordance with state law.
+
+31.6    A.      Pre-disciplinary meetings shall be offered by the County prior to the issuance of
+                any discipline greater than a written reprimand or any discipline associated with
+                OAR Chapter 265. The employee and/or the Association, on behalf of and as the
+                representative of the employee, may accept or decline the pre-disciplinary
+                meeting offer and such meeting will not be used to compel answers from the
+                employee.
+
+
+
+
+Washington County / WCPOA – Sergeants CBA 2025-2028 – 64
+        B.       Typically, only one (1) form of discipline may be imposed for each disciplinary
+                 investigation/action. However, the parties recognize that the discipline of
+                 employees who are in special assignments or assigned collateral duties may
+                 include removal from the special assignment or collateral duty in addition to the
+                 traditional forms of discipline listed in Section 31.1.A. If the Sheriff or designee
+                 is considering the imposition of a traditional form of discipline AND removal
+                 or suspension from a special assignment or collateral duty, the pre-disciplinary
+                 notice provided to the employee and the Association will clearly indicate this.
+
+        C.       When a video-recorded interview is relied upon by the decision maker to be
+                 evidence in making the proposed discipline determination, the basis for reliance
+                 on the video recording shall be described and substantiated by the decision
+                 maker so that the subject employee and/or the Association are able to assess
+                 whether to address it as part of the pre-disciplinary meeting.
+
+31.7    After the time for the pre-disciplinary hearing has passed, and after the County has
+        considered any pre-disciplinary meeting information presented by the Association and/or
+        the employee, if the County has decided to terminate an employee, the County shall
+        notify the employee and the Association in writing of the specific effective date of the
+        termination and in the discipline decision issued the County will include the date that the
+        County believes any Step 2 potential grievance challenging the discipline would be
+        initially due from the Association and/or the terminated employee. In the event the
+        County has decided to terminate an employee, the County shall impose a two (2) week
+        unpaid suspension prior to the effective date of the termination, unless the parties
+        mutually agree to extend the timeline, in writing. Any work during the two (2)-week
+        unpaid suspension required or directed by the County will be paid time to the employee
+        based upon the call-back minimum time per this Agreement, except that employees will
+        not be paid for any time spent returning County-owned equipment. All County-owned
+        equipment must be returned by the employee to the County prior to the end of the two
+        (2)-week unpaid suspension.
+
+31.8    A disciplinary suspension will not impact an employee’s healthcare benefits and/or
+        insurance coverage.
+
+31.9    Alert Witness (Brady List) Referral.
+
+        A.       Employees who are placed on the Washington County District Attorney’s Office
+                 Alert Witness list (Tier 1 Brady List) – and as a result will not be called to testify
+                 as a witness – (Brady v. Maryland, 373 U.S. 83 (1963)) shall be laid off due to the
+                 inability to perform an essential function of their job. WCPOA shall not grieve or
+                 otherwise contest the layoff action.
+
+        B.       Any disciplinary information transmitted by the County or Sheriff’s Office to
+                 DPSST or to a prosecutor’s office will be contemporaneously provided to the
+                 Association.
+
+
+
+
+Washington County / WCPOA – Sergeants CBA 2025-2028 – 65
+31.10 All final economic discipline and all discipline covered by OAR Chapter 265 must
+      contain an analysis by the disciplinary decision maker that addresses all applicable
+      mitigating and/or aggravating factors, that led to the discipline imposed.
+
+31.11 At the conclusion of any Class 2 investigation where the subject is an Association
+      represented employee, upon the request of the Association, the County shall provide the
+      Association with a complete copy of the investigation.
+
+31.12 At the conclusion of any discipline investigation process, and when the County/WCSO
+      have issued their discipline decision, the County/WCSO shall contemporaneously
+      provide to WCPOA any and all information transmitted and/or communicated to DPSST,
+      or any Prosecutor’s office.
+
+31.13 For the purposes of receiving any materials, PECBA information, documentation, or
+      evidence related to this Agreement and the labor relationship between the County/WCSO
+      and WCPOA, WCPOA will establish a DROPBOX link/account into which the
+      County/WCSO will send/submit materials, PECBA information, documentation, or
+      evidence. The County/WCSO obligations as to disclosure and/or notice to the
+      Association per this Agreement will be satisfied so long as the County/WCSO
+      contemporaneously sends an email associated with the placement of material or PECBA
+      information or evidence into the DROPBOX link/account provided and established by
+      the WCPOA for use by the County/WCSO.
+
+
+
+
+Washington County / WCPOA – Sergeants CBA 2025-2028 – 66
+### ARTICLE 32 – GRIEVANCE PROCEDURE
+
+32.1    Any grievance or dispute which may arise between the parties, regarding the application,
+        meaning or interpretation of this agreement, may be settled as set forth below. For
+        disciplinary grievances involving law enforcement officers (as defined by ORS 131.930),
+        arbitrator selection shall be in accordance with ORS 243.808, 243.809, ORS 243.812, and
+        OAR Chapter 265.
+
+        Step 1. The employee and/or the Association may take up the grievance or dispute within
+                fourteen (14) calendar days of its occurrence; or within fourteen (14) calendar
+                days of when the employee should reasonably have become aware of the
+                occurrence. The grievance shall be reduced to writing, setting forth its basis. The
+                Step 1 grievance will be filed with the Undersheriff. The grievance will then be
+                referred to the supervisor or authority who is responsible for the Step 1 response
+                and WCPOA will be notified. The supervisor or authority receiving the Step 1
+                grievance shall then attempt to adjust the matter and respond to WCPOA within
+                fourteen (14) days in writing. A disciplinary action involving discharge,
+                demotion, or suspension of greater than one day taken against a career employee
+                shall be initiated and grieved by the Association or the employee at Step 2 of the
+                grievance procedure.
+
+        Step 2. If the grievance has not been settled, the grievance may be presented by the
+                Association to the Sheriff within fourteen (14) calendar days after the response
+                from the supervisor or responding authority at Step 1 is due. The Sheriff shall
+                respond to the Association in writing within fourteen (14) calendar days of receipt
+                of the grievance.
+
+        Step 3. If the grievance remains unadjusted, it may be presented in writing by the
+                Association to the County Administrator or their designee, within fourteen (14)
+                calendar days after the response of the Sheriff is due. The County Administrator
+                or their designee shall respond in writing to the Association within fourteen (14)
+                calendar days after receipt of the grievance.
+
+        Step 4. If the grievance still remains unadjusted, only the Association and not the
+                employee may, within fourteen (14) calendar days after the reply of the County is
+                due, serve written notice of the Association’s intention to arbitrate the grievance.
+                Such notice shall be in writing and delivered to the County Administrator.
+
+                 Nothing in Steps 1 through 4 above shall constrain or restrict the WCPOA and the
+                 County from meeting to discuss any grievance, so long as the timelines for each
+                 step are adhered to or waived by mutual agreement.
+
+32.2    A.      After the Association has indicated the Association’s desire to take a grievance,
+                not subject to ORS 243.808 and OAR Chapter 265, to arbitration, the Association
+                shall request the Employment Relations Board (ERB) for a list of names of seven
+                (7) Oregon arbitrators. The parties shall select an arbitrator from the ERB
+
+
+
+Washington County / WCPOA – Sergeants CBA 2025-2028 – 67
+                 provided list by such method as they may jointly elect or, if they are unable to
+                 agree on such method, then by the method of alternative striking of names under
+                 which the party striking the first name shall be determined by lot.
+
+        B.       Nothing in this Section or Article shall prohibit the parties from mutually agreeing
+                 upon an arbitrator from the list provided by ERB or any other mutually agreed
+                 upon arbitrator. The Arbitrator’s decision shall be final and binding, but the
+                 Arbitrator shall have no power to alter, modify, add to or detract from the terms of
+                 the Agreement. The Arbitrator’s decision shall be within the scope and terms of
+                 the Agreement and in writing. The Arbitrator fee and expenses shall be borne by
+                 the losing party as determined by the Arbitrator. If the Arbitrator determines
+                 neither side is the losing party, the Arbitrator may apportion the fee and expenses
+                 between the parties. All other expenses shall be borne exclusively by the party
+                 requiring the service or item for which payment is to be made.
+
+        C.       If either party desires a verbatim recording of the proceedings, it may cause such
+                 a record to be made, provided it pays for the appearance fee, record and makes a
+                 copy available without charge to the Arbitrator. If the other party desires a copy,
+                 both parties shall jointly share in all appearance fees and the costs of producing
+                 three (3) copies of the transcript. In lieu of a court reporter, the parties can agree
+                 to audio record the proceedings and then have the audio record transcribed.
+
+        D.       Arbitrator selection for grievances involving discipline of law enforcement
+                 employees shall be made in accordance with ORS 243.808. The arbitrator’s
+                 decision shall comply with ORS 243.808 et seq and OAR Chapter 265. If the
+                 arbitrator remands the discipline to the decision maker, any subsequent arbitration
+                 of the matter will be continued before the same arbitrator.
+
+        E.       The arbitrator shall issue their arbitration decision within thirty (30) calendar days
+                 of close of the hearing or receipt of post-hearing briefs if briefs are filed.
+
+        F.       The parties may mutually agree to oral closing arguments and such shall be
+                 transcribed as part of the record and provided to the Arbitrator as soon as
+                 practical.
+
+32.3    Oral and/or written reprimands may not be grieved. However, within fourteen (14)
+        calendar days of its receipt, a written rebuttal may be submitted by the reprimanded
+        employee and/or the Association to the Sheriff for review and filing in the investigation
+        file with the reprimand. The Sheriff’s decision on review is not subject to appeal.
+
+32.4    Timelines specified in this Article may be waived or extended only upon mutual written
+        agreement of the parties.
+
+
+
+
+Washington County / WCPOA – Sergeants CBA 2025-2028 – 68
+### ARTICLE 33 – LAYOFF AND RECALL
+
+33.1    Layoff.
+
+        A.        Classification to be Reduced. The County shall determine the classes and numbers
+                  of positions to be affected by layoff. The Sheriff shall request the Personnel
+                  Department to prepare a layoff list for each classification to be reduced. The
+                  Personnel Department shall supply the Association with copies of seniority and
+                  layoff lists for each classification not less than twenty-one (21) calendar days
+                  before the effective date of layoff.
+
+        B.        Layoff List. In the event of layoff, employees shall be laid off in the inverse order
+                  of their classification seniority as defined in Article 14.
+
+        C.        Notification of Layoff. In every case of layoff of an employee, the employee and
+                  the Association shall be notified in writing twenty-one (21) calendar days before
+                  the effective date thereof. The notice shall state (1) the effective date of layoff, (2)
+                  that the layoff is for reasons not reflecting discredit on the employee, and (3) that
+                  the employee has the right to bump, but must exercise this option within seventy-
+                  two (72) hours of notification of layoff.
+
+        D.        No employee represented by WCPOA shall be laid off due to lack of work or lack
+                  of funds prior to all non-represented part time, temporary, seasonal or variable
+                  hour employees performing bargaining unit work of the WCPOA.
+
+33.2    Bumping.
+
+        A.        Bumping Rights. An employee who is laid off may “bump” to an equal or lower
+                  classification in the bargaining unit, provided that the employee is qualified for
+                  the work involved and has greater seniority in the bargaining unit than the least
+                  senior employee in the classification the employee seeks to bump into.
+
+        B.        Bumping Restricted to Classification Groups. Bumping shall be permitted within
+                  classification groups and lower classifications in which the Sergeant has
+                  previously worked and has seniority rights. For definitional purposes, the
+                  following classification groups are identified: (1) Jail Sergeant and Enforcement
+                  Sergeant; (2) Detective, Enforcement Corporal, Enforcement Deputy, Civil
+                  Deputy, Recruit Deputy; (3) Jail Corporal, Jail Deputy, Civil Deputy, Jail Recruit;
+                  and (4) Forensic Analyst, Forensic Technician 2 and 1, Evidence Officer Senior, 2
+                  and 1.
+
+        C.        Requests to Bump. Employees to be laid off shall submit written requests to bump
+                  to the Sheriff with a copy to the Association within seven (7) calendar days of the
+                  date of official notification of the layoff. The County shall notify the employees
+                  and Association in writing whether bumping requests are granted or denied. If
+                  denied, the reasons shall be stated. If a written request to bump is granted, the
+
+
+
+Washington County / WCPOA – Sergeants CBA 2025-2028 – 69
+                 employee bumped shall, in turn, acquire the rights under this Section.
+
+        D.       Bumping into the Bargaining Unit. A non-bargaining unit employee has no
+                 bumping rights to displace a represented employee. If a vacancy exists, any
+                 eligible employee may voluntarily be placed into a bargaining unit position for
+                 which they qualify.
+
+33.3    Recall. Employees shall be recalled from layoff in the reverse order in which they were
+        laid off provided the employee is qualified. The term of eligibility for recall of a laid-off
+        employee shall be eighteen (18) months from the date of layoff. If an appointing
+        authority refuses to reinstate a laid-off employee certified to a vacancy in a classification
+        for which the employee qualified, the refusal shall be deemed a dismissal, and shall be
+        subject to the provisions concerning discharge and discipline in this Agreement.
+
+33.4    Rate of Pay on Appointment from Layoff List. When an individual is appointed from a
+        layoff list to a position in the same class in which the person was previously employed,
+        the employee shall be paid at the same salary step at which such employee was being
+        paid at the time of the layoff. The employee shall begin to accrue benefits and status
+        toward merit increases as if there has been no break in service.
+
+33.5    Removal of Names from Recall List.
+
+        A.       The Human Resources Division may remove the name of a person from a recall
+                 list if the laid off employee fails to return to work within sixteen (16) days from
+                 actual written notice of the recall. Actual notice shall consist of written notice sent
+                 by certified mail.
+
+        B.       The failure by the employee to return to work within twenty-one (21) days of the
+                 sending of written notice of recall by certified mail shall result in the employee’s
+                 name being removed from the recall list.
+
+        C.       The County shall notify the Association in writing upon the sending of any
+                 certified mail notice in Section 33.5, of the names, addresses and telephone
+                 numbers of the employees receiving such notices. The County shall also provide
+                 the Association with copies of all layoff notices upon the sending of such notices.
+
+        D.       Employees on the recall list must advise the County of any changes in address or
+                 telephone numbers.
+
+        E.       Vacation Leave.
+
+                 1.      An employee who is laid off will be paid for unused vacation leave at their
+                         regular rate of pay, provided the employee has completed at least thirteen
+                         (13) qualified payroll periods of service and is eligible for vacation
+                         benefits. An employee’s rate of accrual for vacation leave will remain the
+                         same as it was at the time of layoff upon reappointment from the recall
+
+
+
+Washington County / WCPOA – Sergeants CBA 2025-2028 – 70
+                         list.
+
+                 2.      Employees who wish not to be paid for accrued vacation time when laid
+                         off may request this in writing to the Human Resources Division at least
+                         three (3) days before the last day worked. The accrued vacation days will
+                         be held for a maximum of eighteen (18) months from layoff. Requests for
+                         payment of accrued vacation days must be submitted in writing to the
+                         Human Resources Division. Vacation time not paid to the employee will
+                         be restored in the same manner as sick leave (see Section 33.5 F) upon
+                         reappointment from the recall list.
+
+        F.       Sick Leave. Employees who are laid off will retain their accrued sick leave during
+                 the time they are on the recall list. Accrued sick leave will become available for
+                 use upon reappointment from the recall list. Sick leave is lost when the term of
+                 eligibility for recall expires.
+
+        G.       Seniority. Laid off employees retain, but do not continue to accrue, seniority
+                 during the time they are on the recall list. Seniority is lost when the term of
+                 eligibility for recall expires.
+
+        H.       Insurance. County paid insurance is discontinued on the last day of the month in
+                 which the layoff occurs. Laid off employees may continue to self-pay for health
+                 insurance benefits and coverage for up to eighteen (18) months, under certain
+                 conditions, if the employee pays the premium. Federal COBRA laws also apply to
+                 allow laid off employees to continue coverage.
+
+        I.       Salary Administration. Upon reappointment from a recall list, an employee shall
+                 receive the same step in the salary range that the employee was on when laid off
+                 or demoted. The anniversary date of a recalled employee will be adjusted so that
+                 the time spent on layoff or in a lower-level classification will not count toward
+                 merit increases.
+
+
+
+
+Washington County / WCPOA – Sergeants CBA 2025-2028 – 71
+### ARTICLE 34 – NO STRIKE AND NO LOCKOUT
+
+34.1    The Association agrees that during the life of this Agreement there shall be neither strike
+        nor work slowdowns.
+
+34.2    During the term of this Agreement there will be no lockout of employees represented by
+        the Association by the County. There shall be no lockouts on the part of the County nor
+        suspension of work on the part of the employees. This Agreement is guarantee that for
+        the duration of this Agreement, there will be neither strikes nor lockouts and that all
+        complaints, grievances or disputes arising under its provisions will be settled pursuant to
+        this Agreement’s grievance procedure and/or PECBA dispute resolution process.
+
+
+
+
+Washington County / WCPOA – Sergeants CBA 2025-2028 – 72
+### ARTICLE 35 – SAVINGS CLAUSE
+
+35.1    If any Article or Section of this Agreement or any addition thereto shall be held invalid
+        by operation of law, or by any lawful tribunal having jurisdiction, or if compliance with
+        or enforcement of any Article or Section should be restricted by such tribunal, the parties
+        shall enter into immediate collective bargaining negotiations for the purpose of arriving at
+        a mutually satisfactory replacement agreement under the terms of ORS 243.702. The
+        purpose of the negotiations shall be to restore to the parties the benefits of the bargain
+        reached by this Agreement before any section of this Agreement was declared unlawful
+        or unenforceable. The parties agree that the labor agreement will not serve or restrict the
+        County’s obligation to comply with federal and state law concerning its duty to
+        reasonable accommodate individuals with disabilities.
+
+
+
+
+Washington County / WCPOA – Sergeants CBA 2025-2028 – 73
+### ARTICLE 36 – TRAINING
+
+36.1    For classifications that have mandatory training, the Sheriff’s Office and the County will
+        maintain a mandatory training schedule for each fiscal year during the life of this
+        Agreement. It is agreed that training will be provided by the Sheriff’s Office and shall be
+        required.
+
+36.2    The parties recognize that flexibility in scheduling is needed to provide training to
+        bargaining unit employees. An employee’s work schedule may be changed on seventy-
+        two (72) hours’ written notice if such change of schedule is necessary due to
+        unanticipated circumstances in order to provide the employee with a training opportunity
+        which has previously been scheduled or on short notice becomes available. The seventy-
+        two (72) hours’ written notice may be waived in writing by an employee.
+
+36.3    For purpose of training, a short-term shift change may be required if an employee is
+        scheduled to work before and/or after the training. The employee must have a minimum
+        of eight (8) hours’ rest between the training and the employee’s regularly scheduled shift.
+        If there is less than eight (8) hours between the training and the employee’s regularly
+        scheduled shift, the employee will be compensated at a rate of time and one half (1.5) for
+        the number of hours under the eight (8) hour minimum rest period.
+
+        If training is less than four (4) hours, the employee will be compensated at a rate of time
+        and one half (1.5) for the actual training time.
+
+        If the employee is scheduled to work before and after the training, one (1) of the
+        following applies:
+
+        A.       If the training is more than four (4) hours and there are eight (8) or more hours
+                 between the end of the employee’s regularly scheduled shift and the start of the
+                 training period, this training period will be considered a temporary shift change
+                 and the employee will be working the training shift in lieu of the employee’s
+                 following regularly scheduled shift.
+
+        B.       If the training is more than four (4) hours and there is less than eight (8) hours
+                 between the end of the employee’s regularly scheduled shift and the start of
+                 training, the employee will not work the employee’s shift closest to the training
+                 and will be compensated at a rate of time and one half (1.5) for the number of
+                 hours under the eight (8) hours minimum required between the training and the
+                 shift worked.
+
+36.4    An employee’s performance in training which is required and provided under this Article
+        may be considered in periodic performance evaluations which may lead to loss of
+        incentive pay.
+
+
+
+
+Washington County / WCPOA – Sergeants CBA 2025-2028 – 74
+### ARTICLE 37 – DRUG AND ALCOHOL TESTING
+
+37.1    Statements of Principle.
+
+        The County and the Association jointly recognize that the use of drugs and alcohol,
+        whether on or off the job or "recreational" purposes or otherwise, which adversely affects
+        job performance, constitutes a serious threat to the health and safety of the public, to the
+        safety of fellow officers, and to efficient operation of the Office.
+
+37.2    Preconditions to Testing.
+
+        Before any employee may be tested for drugs and/or alcohol, the County must meet the
+        following prerequisites.
+
+        A.       All employees represented by the Association must be clearly informed of what
+                 drugs, substances, and/or alcohol are prohibited by the County.
+
+        B.       Any testing policy which is applied to any employee represented by the
+                 Association must be applied to all Sheriff’s Office personnel.
+
+        C.       The County and the Association shall jointly select the laboratory or laboratories
+                 which will perform the testing. Every two (2) years a list of laboratories shall be
+                 maintained that the parties have agreed upon.
+
+37.3    Grounds for Testing.
+
+        A.       Random drug testing of any kind is prohibited unless required by State or Federal
+                 law.
+
+        B.       The performance of drug and/or alcohol testing by means other than the taking of
+                 urine sample or breathalyzer is prohibited, for purposes of this Article.
+
+        C.       Drug and/or alcohol testing is prohibited unless the County possesses facts that
+                 give rise to a reasonable suspicion that an employee is currently or has recently
+                 been engaging in the use of illegal drugs or is noticeably impacted such as to be
+                 unable to perform the essential functions of their position or is a health and/or
+                 safety risk to their co-workers and/or the public.
+
+        D.       Testing will be conducted in accordance with the Sheriff’s Office drug and
+                 alcohol free workplace policy 209 and Class 1/Class 2 Complaint Investigations
+                 policy 551.
+
+37.4    Testing Mechanisms. The following testing mechanisms shall be used for any drug test
+        performed on an employee represented by the Association:
+
+        A.       Any initial screening test for controlled substances shall be conducted using a
+
+
+
+Washington County / WCPOA – Sergeants CBA 2025-2028 – 75
+                 method recognized by state guidelines for workplace drug testing.
+
+        B.       Any positive result from the initial screening test shall be confirmed using Gas
+                 Chromatography/Mass Spectrometry (GC/MS) or an alternative method
+                 recognized as equally or more reliable by federal or state authorities.
+
+        C.       In the event that a more reliable testing method becomes available, the
+                 Association and the County may mutually agree to use the more reliable testing
+                 method or, alternatively, the Association may immediately initiate ORS 243.698
+                 et seq. bargaining with the County.
+
+37.5    Procedures to be Used When the Sample is Given. The following procedure shall be used
+        whenever an employee is requested to give a urine sample and an Association
+        representative/observer, designated by the Association, will be present with the employee
+        throughout the process and procedures:
+
+        A.       Prior to testing, the employee will be required to list all drugs currently being
+                 used by the employee on a form supplied by the County. This form, and all
+                 documents and information concerning drug testing, shall remain confidential
+                 pursuant to the terms in Section 37.7 of this Article.
+
+        B.       A urine sample will be taken of the employee. The test shall be given in such a
+                 manner as to protect the authenticity and reliability of the sample and the privacy
+                 of the tested employee.
+
+        C.       Immediately after the sample has been given, the test sample will be divided into
+                 two (2) equal portions. Each of the two (2) portions of the sample will be
+                 separately sealed, labeled, and stored in a secure and refrigerated atmosphere. One
+                 (1) of the samples will then be sent or delivered to a testing laboratory mutually
+                 agreeable to the Association and the County.
+
+        D.       The sample sent or delivered to the testing laboratory will first be tested using the
+                 screening procedure set forth in Section 37.4(A) of this Article. If the sample tests
+                 are positive for any prohibited drug, the confirmatory test specified in Section
+                 37.4(B) of this Article will be employed.
+
+        E.       If the confirmatory test is positive for the presence of an illegal drug, the
+                 employee and the Association designated representative will be notified of the
+                 positive result within twenty-four (24) hours after the County learns of the results
+                 and will be provided with copies of all documents pertinent to the test sent to or
+                 from the County by the laboratory. The employee and/or the Association will then
+                 have the option of having the untested sample submitted to a laboratory of the
+                 employee's and/or Association’s own choosing. The County will be given a copy
+                 of the results from this testing.
+
+        F.       Each step in the collecting and processing of the urine specimens shall be
+
+
+
+Washington County / WCPOA – Sergeants CBA 2025-2028 – 76
+                 documented to establish procedural integrity and a chain of evidence.
+
+37.6    Consequences of Positive Test Results. The Association on behalf of a represented
+        employee and/or an employee who tests positive shall have the right to challenge the
+        accuracy of the test results. Such employee shall be subject to unannounced testing for a
+        period of one (1) year following the inception of treatment. If the employee violates the
+        terms of treatment or again tests positive during such period, the employee shall be
+        subject to immediate discharge.
+
+37.7    Employee Rights.
+
+        A.       The employee shall have the right to an Association representative designated by
+                 the Association present up to and including the time the sample is given. Nothing
+                 herein shall restrict the employee's right to representation under general law.
+
+        B.       If at any point the results of the testing procedures specified in the Article are
+                 negative, all further testing shall be discontinued. The employee and the
+                 Association will be provided a copy of the results, and all other copies of the
+                 results (including the original) shall be destroyed within twenty-four (24) hours
+                 after the test results have been received by the County. All positive test results
+                 will be kept confidential, and will be available only to the Sheriff, a representative
+                 designated by the Association, and the employee.
+
+        C.       The Association and an employee who tests positive shall be given access to all
+                 written documentation available from the testing laboratory which verifies the
+                 accuracy of the equipment used in the testing process, the chain of custody of the
+                 specimen and the accuracy rate of the laboratory.
+
+        D.       If the results of the drug test are negative, the Association shall have the right to
+                 challenge whether reasonable suspicion existed for the ordering of the test. In
+                 such a case, the Arbitrator shall have the power to fashion a remedy that is
+                 appropriate under the circumstances. If the results of the drug test are positive,
+                 neither the Association nor the employee shall have the right to challenge whether
+                 reasonable suspicion existed for the ordering of the test.
+
+37.8    Prohibited Conduct.
+
+        A.       The following conduct is prohibited, unless lawfully allowed as part of an official
+                 job function or specifically allowed by another Sheriff’s Office policy:
+
+                 1.      Possessing, selling, purchasing, distributing or using/consuming any
+                         controlled substance;
+
+                 2.      Reporting for work or working under the influence of alcohol or
+                         controlled substances including a BAC result of any detectable amount of
+                         alcohol;
+
+
+
+Washington County / WCPOA – Sergeants CBA 2025-2028 – 77
+                 3.      Abusing any controlled substance which is lawfully prescribed for the
+                         employee’s use (i.e. by taking it contrary to the employee’s HCP
+                         instructions, or by unlawfully obtaining it for the purposes of abuse);
+
+                 4.      Failure to report use of prescribed medication or over-the counter drugs
+                         that may affect the employee’s ability to safely perform assigned duties;
+
+                 5.      Failure to report reasonably known exposure or reasonably known
+                         unintentional ingestion of a controlled substance so that appropriate
+                         medical steps may be taken to ensure the employee’s health and safety;
+
+                 6.      Failure to comply with “reasonable suspicion testing” and other directives
+                         required by the County for enforcement of this Policy. Examples may
+                         include tainting, tampering or diluting samples, refusal to test, falsifying
+                         information on testing forms, delaying attendance at a testing location,
+                         etc.; or
+
+                 7.      Employees who consume alcohol as part of their work duties shall not do
+                         so to the extent of impairing on-duty performance.
+
+        B.       Employees are required to report known violations of this Policy. Any staff
+                 having a reasonable basis to believe that other staff may be illegally using,
+                 possessing, or under the influence of any controlled substance or alcohol while on
+                 duty shall immediately report the facts and circumstances via the chain of
+                 command.
+
+        C.       It is not a violation of this Article for an employee, while functioning as a
+                 caregiver/provider for a family member (as defined by FMLA), to follow the
+                 recommendations, orders or authorizations of an HCP, and to lawfully obtain
+                 and/or possess a medically prescribed controlled substance for the benefit of a
+                 family member under the care of an HCP.
+
+37.9    The parties agree that there shall be no expectation of privacy in property provided by the
+        County to its employees, which includes, but is not limited to: desks, file cabinets, files,
+        offices, drawers, equipment, County vehicles, lockers, etc., all of which remain the
+        property of the County, and will be subject to search at the County’s discretion without
+        notice. Refusal to cooperate with lawful searches of County property will be considered
+        a violation of this Article and may result in discipline.
+
+
+
+
+Washington County / WCPOA – Sergeants CBA 2025-2028 – 78
+8-26-25
+                                                                              SCHEDULE A
+
+
+
+                  Washington County Police Officers' Association - Sergeants Unit
+
+                                                    FISCAL YEAR 2025-2026 - Effective 07/05/2025
+
+
+Class            Title        Range                         Step A                Step B               Step C                Step D              Step E        Step F
+                                          Hour                      $42.52              $44.66                $46.89                $49.25          $51.65       $54.24
+ 112       Corporal              501      Month                   $7,370.13          $7,741.07             $8,127.60             $8,536.67       $8,952.67     $9,401.60
+                                          Annual              $88,441.60            $92,892.80           $97,531.20           $102,440.00     $107,432.00    $112,819.20
+                                          Hour                      $56.95              $59.80                $62.79                $65.93          $69.23       $72.69
+ 117       Sergeant              502      Month                   $9,871.33         $10,365.33           $10,883.60            $11,427.87      $11,999.87     $12,599.60
+                                          Annual            $118,456.00           $124,384.00           $130,603.20           $137,134.40     $143,998.40    $151,195.20
+
+
+           *Corporal range provided in reference for the Sergeant pay range and schedule. Corporal pay schedule is not bargained in this specific CBA
+
+
+
+
+       Washington County / WCPOA – Sergeants CBA 2025-2028 – 80
+

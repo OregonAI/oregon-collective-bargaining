@@ -84,7 +84,7 @@ SIGNATURE PAGE .................................................................
 
 
 2025-2027 Department of Land Conservation and Development                      3                                    Collective Bargaining Agreement
-                                               ARTICLE 1 - RECOGNITION
+### ARTICLE 1 - RECOGNITION
 
 Section 1.
 This Agreement is made and entered into by and between the State of Oregon (hereinafter the
@@ -104,7 +104,7 @@ binds the Union and any person designated by it to act on behalf of the Union. L
 Agreement binds the Employer and the Agency and any person designated by it to act on its
 behalf.
 
-                                       ARTICLE 2 - MANAGEMENT'S RIGHTS
+### ARTICLE 2 - MANAGEMENT'S RIGHTS
 
 The parties agree that the Employer and the Agency have the right to operate and manage the
 Agency, including, but not limited to, the right to maintain order and efficiency; to direct
@@ -117,7 +117,7 @@ disciplinary action against employees; to lay off employees; to recall employees
 overtime work of employees; and to promulgate rules, regulations, and policies, provided such
 rights are not specifically abridged by any provision of this Agreement.
 
-                       ARTICLE 3 - UNION RIGHTS, SECURITY, AND STEWARDS
+### ARTICLE 3 - UNION RIGHTS, SECURITY, AND STEWARDS
 
 Section 1. Notice of Representatives
 The Union will provide the Agency's Director with the names of its representatives from the
@@ -299,7 +299,7 @@ Conventions, the following provisions apply:
                                                                                             REV: 2019,2023
 
 
-                                  ARTICLE 4 - ADMINISTRATIVE PROVISIONS
+### ARTICLE 4 - ADMINISTRATIVE PROVISIONS
 
 Section 1. Laws, Regulations
 This Agreement is subject to all applicable existing and future State of Oregon and federal laws.
@@ -371,7 +371,7 @@ employees.
                                                                              Rev: 2015, 2017, 2019,2023,2025
 
 
-                                        ARTICLE 5 - PERSONNEL RECORDS
+### ARTICLE 5 - PERSONNEL RECORDS
 
 Section 1.
 The Chief Human Resources Office human resource information system is the system of record
@@ -461,7 +461,7 @@ Resource Director, and anyone specifically authorized in writing by the subject 
                                                                                             REV: 2019, 2021
 
 
-                                   ARTICLE 6 - DISCIPLINE AND DISCHARGE
+### ARTICLE 6 - DISCIPLINE AND DISCHARGE
 
 Section 1. Discipline and Discharge
 A.    The principles of progressive discipline shall be used except when the nature of the
@@ -521,7 +521,7 @@ the Grievance Procedure. The employee or Union may appeal the discharge by filin
 grievance with the Department of Administrative Services, Labor Relations Un it within fifteen
 (15) calendar days from the effective date of the discharge.
 
-                                      ARTICLE 7 - GRIEVANCE PROCEDURE
+### ARTICLE 7 - GRIEVANCE PROCEDURE
 
 Section 1. Definition and Intent
 Grievances are defined as acts, omissions, applications or interpretation alleged to be violations
@@ -728,7 +728,7 @@ J.       The arbitration award shall not establish a precedent for any current o
                                                                                       Rev: 2015,2019, 2021
 
 
-                                        ARTICLE 8 - FILLING OF VACANCIES
+### ARTICLE 8 - FILLING OF VACANCIES
 
 Section 1.
 The Agency desires to fill vacancies with the best qualified applicants available. Within that
@@ -747,7 +747,7 @@ Section 3.
 Employees will be notified by E-mail of all Agency vacancies to be filled and will be encouraged
 to apply.
 
-                                              ARTICLE 9 - TRIAL SERVICE
+### ARTICLE 9 - TRIAL SERVICE
 
 Section 1. Trial Service Period
 A trial service period is an extension of the selection process during which the employee must
@@ -818,7 +818,7 @@ C.       This subsection becomes effective on the first (1 st) of the month foll
                                                                                             REV: 2017,2023
 
 
-     ARTICLE 10 - EQUAL EMPLOYMENT OPPORTUNITY AND AFFIRMATIVE ACTION
+### ARTICLE 10 - EQUAL EMPLOYMENT OPPORTUNITY AND AFFIRMATIVE ACTION
 
 Section 1.
 The provisions of this Agreement shall apply equally to all members in the bargaining unit without
@@ -845,7 +845,7 @@ Services, Labor Relations Unit will review the complaint, attempt to resolve it,
 findings to the employee and the Union within thirty (30) days.
 
 
-                                      ARTICLE 11 - QUARTERLY CHECK-INS
+### ARTICLE 11 - QUARTERLY CHECK-INS
 
 The Agency and the Union recognize the need for continuing open communication in all phases
 of an employment relationship. Informal communication should be ongoing. The performance
@@ -872,7 +872,7 @@ process.
                                                                                            REV: 2021,2023
 
 
-                                  ARTICLE 12 - HOURS OF WORK/OVERTIME
+### ARTICLE 12 - HOURS OF WORK/OVERTIME
 
 Section 1. Hours of Work
 A.    Workweek
@@ -986,7 +986,7 @@ D.       Nothing in this Article modifies, amends or eliminates any specific lan
                                                                                             REV: 2017, 2019
 
 
-                                        ARTICLE 13 - LAYOFF AND RECALL
+### ARTICLE 13 - LAYOFF AND RECALL
 
 Section 1. Alternate to Layoff
 A.    When the Agency believes that a lack of funds requires a layoff, the Agency will notify the
@@ -1247,7 +1247,7 @@ D.       Procedures.
                                                                                                  Rev: 2015, 2017
 
 
-                                                  ARTICLE 14 - HOLIDAYS
+### ARTICLE 14 - HOLIDAYS
 
 Section 1. Recognized Holidays
 The following compensable holidays shall be recognized:
@@ -1340,7 +1340,7 @@ granted on a basis which shall preclude the closure of state facilities.
 
 
 2025-2027 Department of Land Conservation and Development   27               Collective Bargaining Agreement
-                                            ARTICLE 15 - VACATION LEAVE
+### ARTICLE 15 - VACATION LEAVE
 
 Section 1. Vacation Leave for Full-Time Employees
 Full-time classified employees shall accrue vacation leave in accordance with the schedule
@@ -1453,7 +1453,7 @@ appropriate.
                                                                                   Rev: 2017, 2019, 2021,2023
 
 
-                                                ARTICLE 16 - SICK LEAVE
+### ARTICLE 16 - SICK LEAVE
 
 Section 1. Accrual Rate of Sick Leave With Pay Credits
 Full-time employees shall accrue eight (8) hours of sick leave with pay credits for each full month
@@ -1579,7 +1579,7 @@ the following circumstances:
                                                                                               Rev: 2015,2023,2025
 
 
-                                             ARTICLE 17 - OTHER LEAVES
+### ARTICLE 17 - OTHER LEAVES
 
 Section 1. Leaves With Pay
 A.    Personal Leave.
@@ -1758,7 +1758,7 @@ E.       Family Medical Leave and Parental Leave
 
 
 2025-2027 Department of Land Conservation and Development   35                 Collective Bargaining Agreement
-                                     ARTICLE 18 - SALARY ADMINISTRATION
+### ARTICLE 18 - SALARY ADMINISTRATION
 
 Section 1. Step Increase
 Employees shall be eligible for consideration for merit salary increases following:
@@ -1890,7 +1890,7 @@ See Appendix XX - Salary Administration Examples
                                                                                                 Rev: 2015,2025
 
 
-                                                ARTICLE 19 - INSURANCE
+### ARTICLE 19 - INSURANCE
 
 Section 1.
 An Employer contribution will be made for each eligible employee who has at least eighty (80)
@@ -1954,7 +1954,7 @@ See LOAs: PMAC
                                                                            Rev: 2015, 2017,2019, 2021,2023,2025
 
 
-                             ARTICLE 20 – LABOR/MANAGEMENT COMMITTEE
+### ARTICLE 20 – LABOR/MANAGEMENT COMMITTEE
 
 Section 1.
 In order to facilitate communication between the parties and to promote cooperative
@@ -2019,7 +2019,7 @@ area of staff development and education.
 
 
 2025-2027 Department of Land Conservation and Development   40             Collective Bargaining Agreement
-                                                    ARTICLE 21 - WAGES
+### ARTICLE 21 - WAGES
 
 Section 1. PERS Pickup
 Effective February 1, 2019 compensation plan salary rates for PERS participating members shall
@@ -2071,7 +2071,7 @@ See LOA: Salary and Benefit Report
 
 
 2025-2027 Department of Land Conservation and Development     41                         Collective Bargaining Agreement
-       ARTICLE 22 - TRAVEL, MILEAGE AND MOVING EXPENSE REIMBURSEMENTS
+### ARTICLE 22 - TRAVEL, MILEAGE AND MOVING EXPENSE REIMBURSEMENTS
 
 Section 1. Travel and Mileage Allowance
 Reimbursements and procedures will be in accordance with Oregon Accounting Manual, and it
@@ -2088,7 +2088,7 @@ Reimbursements and procedures will be in accordance with the Department of Admin
 Services, Chief Human Resource Office Policy, and its successors. Changes in this policy will
 be automatically incorporated into this contract Article.
 
-   ARTICLE 23 - POSITION DESCRIPTIONS/CLASSIFICATIONS/WORK OUT OF CLASS
+### ARTICLE 23 - POSITION DESCRIPTIONS/CLASSIFICATIONS/WORK OUT OF CLASS
 
 Section 1.
 Position descriptions shall be in writing and will delineate the specific duties assigned to the
@@ -2280,7 +2280,7 @@ This Section supersedes any provisions contained in the Agencies grievance proce
 
 
 2025-2027 Department of Land Conservation and Development   45                Collective Bargaining Agreement
-                          ARTICLE 24 - RECOUPMENT OF WAGE AND BENEFIT
+### ARTICLE 24 - RECOUPMENT OF WAGE AND BENEFIT
                               OVERPAYMENTS AND UNDERPAYMENTS
 
 Section 1. Overpayments
@@ -2339,7 +2339,7 @@ A.    In the event the employee does not receive the wages or benefits to which 
                                                                                                       REV: 2023
 
 
-         ARTICLE 25 - IMPLEMENTATION OF NEW CLASSES—APPEALS PROCESS
+### ARTICLE 25 - IMPLEMENTATION OF NEW CLASSES—APPEALS PROCESS
 
 The appeals process is designed to allocate employees into new classes. Employees in
 positions allocated to a new classification, who dispute their placement within the new class, can
@@ -2416,7 +2416,7 @@ E.       Where a position is vacated after the filing of the initial appeal, the
 
 F.       This process terminates upon completion of the allocation process.
 
-                                    ARTICLE 26 – BILINGUAL DIFFERENTIAL
+### ARTICLE 26 – BILINGUAL DIFFERENTIAL
 
 When formally assigned in the employee’s position description, an employee assigned to
 interpret to or from another language (including American Sign Language) to English will receive
@@ -2424,7 +2424,7 @@ a differential of five percent (5%) of base pay.
                                                                                                   REV: 2025
 
 
-                                    ARTICLE 27 - LEADWORK DIFFERENTIAL
+### ARTICLE 27 - LEADWORK DIFFERENTIAL
 
 Section 1.
 Leadwork differential shall be defined as a differential for employees who have been formally
@@ -2468,7 +2468,7 @@ If the Agency concludes that the duties are not leadwork, the Agency shall notif
 in writing within fifteen (15) calendar days from receipt of the employee’s notification to the
 Human Resources Officer.
 
-                                         ARTICLE 28 - CONTRACTING OUT
+### ARTICLE 28 - CONTRACTING OUT
 
 Section 1.
 The Union recognizes that the Employer has the management right, during the term of this
@@ -2568,7 +2568,7 @@ way to accomplish the work in the future for Agency initiated contracts. Decisio
 reviewing of contracted work are not subject to the grievance procedure.
 (See LOA: Feasibility Study)
 
-                      ARTICLE 29 - PROFESSIONAL DIFFERENCES OF OPINION
+### ARTICLE 29 - PROFESSIONAL DIFFERENCES OF OPINION
 
 Section 1.
 The Agency will encourage staff to express professional opinions and will encourage an open
@@ -2607,7 +2607,7 @@ only if:
 
          D.        The opinion was expressed within the scope of their employment.
 
-                   ARTICLE 30 - TEMPORARY INTERRUPTION OF EMPLOYMENT
+### ARTICLE 30 - TEMPORARY INTERRUPTION OF EMPLOYMENT
 
 When the Employer declares that a temporary interruption of employment should be considered
 because of lack of funds, either party may provide the other with written notice to meet and
@@ -2618,7 +2618,7 @@ take place under this Section shall not be subject to the Complete Agreement art
 the agreements or constitute interim negotiations under PECBA. In addition, the parties will not
 be required to use the dispute resolution process contained in the PECBA.
 
-           ARTICLE 31 – INCLEMENT WEATHER/HAZARDOUS CONDITIONS LEAVE
+### ARTICLE 31 – INCLEMENT WEATHER/HAZARDOUS CONDITIONS LEAVE
 
 Section 1.
 A.    The Employer/Agency designated official(s) may close or curtail offices, facilities, or
@@ -2771,7 +2771,7 @@ Article 42.
                                                                                   REV: 2017, 2021,2023,2025
 
 
-                            ARTICLE 32 – LIMITED DURATION APPOINTMENTS
+### ARTICLE 32 – LIMITED DURATION APPOINTMENTS
 
 Section 1. Limited Duration Appointment Notification
 A person accepting a Limited Duration (LD) appointment shall be notified and shall acknowledge
@@ -2806,7 +2806,7 @@ employees including but not limited to wages, benefits and Union representation 
 DLCD Collective Bargaining Agreement, except that an LD appointee has no layoff rights other
 than provided in Section 3.
 
-                               ARTICLE 33 – PRE-TAX MASS TRANSIT OPTION
+### ARTICLE 33 – PRE-TAX MASS TRANSIT OPTION
 
 Subject to mutual agreement between SEIU OPEU Local 503 and the State of Oregon and
 subject to feasibility and approval by the Public Employers Benefit Board:
@@ -2816,7 +2816,7 @@ ability to purchase mass transit passes or pay vanpool fares with a pre-tax dedu
 accordance with Section 132 of the Internal Revenue Code. The Employer will notify employees
 of this program during the health insurance open enrollment in 2014.
 
-                                        ARTICLE 35 – SAFETY AND HEALTH
+### ARTICLE 35 – SAFETY AND HEALTH
 Section 1. Respectful Workplace
 A.    The Employer is committed to taking appropriate measures to create and maintain a
       workplace that is respectful and free from inappropriate workplace behavior for all Agency
@@ -2882,7 +2882,7 @@ G.           No employee shall be subject to retaliation for reporting or filing
                                                                                                NEW: 2017,2023
 
 
-                            ARTICLE 36 - VOLUNTARY MEDICAL SEPARATION
+### ARTICLE 36 - VOLUNTARY MEDICAL SEPARATION
 
 Section 1.
 A regular status employee with a serious health condition who has exhau sted all of their own
@@ -2927,7 +2927,7 @@ G.       If the employee rejects a recall offer for their former work location, 
                                                                                                   NEW: 2019
 
 
-                                           ARTICLE 37 – EXIT INTERVIEWS
+### ARTICLE 37 – EXIT INTERVIEWS
 
 A.       If a regular status employee provides timely notice that they are voluntarily separating
          from Agency service, the Agency will offer an exit interview that focuses on the reason(s)
@@ -2942,7 +2942,7 @@ C.       Upon request, but no more than two (2) times a year, the Union can rece
                                                                                                   NEW: 2019
 
 
-                               ARTICLE 38 - BICYCLE COMMUTING PROGRAM
+### ARTICLE 38 - BICYCLE COMMUTING PROGRAM
 
 The Agency agrees to provide bicycle equipment and maintenance for all employees who agree
 to commute via bicycle at least one day per week.
@@ -2955,7 +2955,7 @@ at least one day per week.
                                                                                        NEW: 2021,REV: 2023
 
 
-                                        ARTICLE 39 - WORKING REMOTELY
+### ARTICLE 39 - WORKING REMOTELY
 
 Section 1.
 Oregon state government encourages working remotely where it is a viable option that
@@ -3105,7 +3105,7 @@ These provisions are applicable to all Sections listed above.
                                                                                      NEW: 2021, REV: 2023,2025
 
 
-                                               ARTICLE 40 – AIR QUALITY
+### ARTICLE 40 – AIR QUALITY
 Section 1.
 The Air Quality Index (AQI) was developed by the US Environmental Protection Agency as an
 indicator of overall air quality and is based on the five (5) criteria pollutants regulated under the
@@ -3130,7 +3130,7 @@ Weather/Hazardous Conditions apply for elevated AQI which falls under a Hazardou
                                                                                                  NEW: 2021
 
 
-                                         ARTICLE 41 - PAID LEAVE OREGON
+### ARTICLE 41 - PAID LEAVE OREGON
 
 Paid Leave Oregon is administered by the Oregon Employment Department. The State of
 Oregon, as an employer, shall comply with the provisions of Paid Leave Oregon, as provided for
@@ -3147,7 +3147,7 @@ to FMLA/OFLA.
                                                                                                  NEW: 2023
 
 
-                                     ARTICLE 42 - ESSENTIAL WORKER PAY
+### ARTICLE 42 - ESSENTIAL WORKER PAY
 
 When a situation exists that would otherwise close or curtail state offices, essential workers
 having to report to work, in-person, shall receive the Essential Worker Inclement
@@ -3175,7 +3175,7 @@ and/or a holiday when state offices are otherwise closed.
 
 
 2025-2027 Department of Land Conservation and Development   62                Collective Bargaining Agreement
-   LETTER OF AGREEMENT – ARTICLE 19 - PEBB MEMBER ADVISORY COMMITTEE
+### LETTER OF AGREEMENT – ARTICLE 19 - PEBB MEMBER ADVISORY COMMITTEE
 
 This Agreement is between the State of Oregon, acting through its Department of Administrative
 Services (Employer) and AFSCME Council 75 (Union).
@@ -3220,7 +3220,7 @@ This Agreement will sunset on June 30, 2027.
 
 
 2025-2027 Department of Land Conservation and Development   63                   Collective Bargaining Agreement
-         LETTER OF AGREEMENT – ARTICLE 21 - SALARY AND BENEFIT REPORT
+### LETTER OF AGREEMENT – ARTICLE 21 - SALARY AND BENEFIT REPORT
 
 This Agreement is between the State of Oregon, acting through its Department of Administrative
 Services (DAS) and the AFSCME Local 75, (Union).
@@ -3243,7 +3243,7 @@ This Letter of Agreement will sunset on June 30, 2027, unless extended by mutual
 
 
 2025-2027 Department of Land Conservation and Development   64            Collective Bargaining Agreement
-                  LETTER OF AGREEMENT – MASS PUBLIC TRANSIT PROGRAM
+### LETTER OF AGREEMENT – MASS PUBLIC TRANSIT PROGRAM
 
 The Agency and Union have a shared interest in supporting land conservation, and encouraging
 the use of bus transit for promoting more sustainable practices in the environment and a healthier
@@ -3273,7 +3273,7 @@ available funds will be distributed equally among all eligible applicants.
 
 
 2025-2027 Department of Land Conservation and Development   65              Collective Bargaining Agreement
-             LETTER OF AGREEMENT – NEW EMPLOYEE NOTICE/UNION ACCESS
+### LETTER OF AGREEMENT – NEW EMPLOYEE NOTICE/UNION ACCESS
 
     1. Notice
           a. The Employer shall provide the Union, in an editable digital file format, the following
@@ -3314,7 +3314,7 @@ available funds will be distributed equally among all eligible applicants.
 
 
 2025-2027 Department of Land Conservation and Development   66               Collective Bargaining Agreement
-    LETTER OF AGREEMENT – OREGON UNIONS STATE WORKER TRAINING FUND
+### LETTER OF AGREEMENT – OREGON UNIONS STATE WORKER TRAINING FUND
 
 The Parties recognize that both the State and its workers benefit from workers understanding
 their different health care options, understanding their retirement benefits and finding solutions
@@ -3356,7 +3356,7 @@ The State Worker Training Fund will develop a plan to deliver trainings and prog
 
 
 2025-2027 Department of Land Conservation and Development   67              Collective Bargaining Agreement
-                           LETTER OF AGREEMENT – CONTRACT SPECIALIST
+### LETTER OF AGREEMENT – CONTRACT SPECIALIST
 
 This Agreement is between the State of Oregon, acting through its Department of Administrative
 Services (Employer) on behalf of all Agencies covered under the jurisdiction of the AFSCME
@@ -3476,7 +3476,7 @@ unless renewed by the Parties or the Parties agree to amend its provisions.
 
 
 2025-2027 Department of Land Conservation and Development   70           Collective Bargaining Agreement
-LETTER OF AGREEMENT – STATE POLICY 50.050.01 WORKING REMOTELY UPDATES
+### LETTER OF AGREEMENT – STATE POLICY 50.050.01 WORKING REMOTELY UPDATES
 
 This Letter of Agreement is between the State of Oregon, acting through its Department of
 Administrative Services (Employer on behalf of the Agencies covered under the jurisdiction of
@@ -3493,7 +3493,7 @@ This Agreement becomes effective on the date of the last signature below and end
 
 
 2025-2027 Department of Land Conservation and Development   71           Collective Bargaining Agreement
-                                     LETTER OF AGREEMENT – EQUAL PAY
+### LETTER OF AGREEMENT – EQUAL PAY
 
 This Agreement is entered into by the State of Oregon, acting through its Department of
 Administrative Services, Labor Relations Unit (Employer), on behalf of the Agencies covered by
@@ -3615,7 +3615,7 @@ The Parties agree to the following:
 
 
 2025-2027 Department of Land Conservation and Development   74               Collective Bargaining Agreement
-         LETTER OF AGREEMENT – STRUCTURAL CHANGES TO PAY PRACTICES
+### LETTER OF AGREEMENT – STRUCTURAL CHANGES TO PAY PRACTICES
 
 This Letter of Agreement is between the State of Oregon, acting through its Department of
 Administrative Services (Employer), and the AFSCME Council 75 (Union).
@@ -3800,7 +3800,7 @@ The Parties agree to the following:
 
 
 2025-2027 Department of Land Conservation and Development   78                     Collective Bargaining Agreement
-       LETTER OF AGREEMENT – STATEWIDE LABOR MANAGEMENT COMMITTEE
+### LETTER OF AGREEMENT – STATEWIDE LABOR MANAGEMENT COMMITTEE
 
 This Agreement is entered into by the State of Oregon, acting through its Department of
 Administrative Services, Labor Relations Unit (Employer), on behalf of the Agencies covered by
@@ -3832,7 +3832,7 @@ This Agreement becomes effective on the date of the last signature and expires J
 
 
 2025-2027 Department of Land Conservation and Development   79               Collective Bargaining Agreement
-   LETTER OF AGREEMENT – ADMINISTRATIVE LEAVE/DUTY STATIONED AT HOME
+### LETTER OF AGREEMENT – ADMINISTRATIVE LEAVE/DUTY STATIONED AT HOME
                      INVESTIGATION COMMUNICATION
 
 
@@ -3851,7 +3851,7 @@ change to that communication at any time.
 
 
 2025-2027 Department of Land Conservation and Development   80           Collective Bargaining Agreement
-                        LETTER OF AGREEMENT – UNDERFILL DIFFERENTIAL
+### LETTER OF AGREEMENT – UNDERFILL DIFFERENTIAL
 
 
 This Agreement is between the State of Oregon, acting through its Department of Administrative
@@ -3934,7 +3934,7 @@ remain in effect through June 30, 2027.
 
 
 2025-2027 Department of Land Conservation and Development   82                      Collective Bargaining Agreement
-                          APPENDIX A - SALARY ADMINISTRATION EXAMPLES
+### APPENDIX A - SALARY ADMINISTRATION EXAMPLES
 
 Salary on Promotion or Upward Reclassification
 
@@ -3963,7 +3963,7 @@ not to exceed the top step of the range*.
 
 
 2025-2027 Department of Land Conservation and Development   83               Collective Bargaining Agreement
-                                       APPENDIX B – COMPENSATION PLAN
+### APPENDIX B – COMPENSATION PLAN
 
  CLASSIFICTAION                                 SR               Natural Resource Specialist 4         30
  Accountant 1                                   23               Natural Resource Specialist 5         32
@@ -3994,7 +3994,7 @@ not to exceed the top step of the range*.
 
 
 2025-2027 Department of Land Conservation and Development   84                           Collective Bargaining Agreement
-                                        APPENDIX C - SALARY SCHEDULES
+### APPENDIX C - SALARY SCHEDULES
 
                                                SALARY SCHEDULE AS OF JULY 1, 2025
     SR         Step 1       Step 2       Step 3       Step 4   Step 5   Step 6   Step 7   Step 8      Step 9      Step 10

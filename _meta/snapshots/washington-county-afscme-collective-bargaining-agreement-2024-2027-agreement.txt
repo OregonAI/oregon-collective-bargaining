@@ -171,7 +171,7 @@ Washington County/AFSCME CBA 2024 2027                                          
 
 
 Washington County/AFSCME CBA 2024 2027                                                                                                   Vl
-                                  ARTICLE 1 - PREAMBLE
+### ARTICLE 1 - PREAMBLE
 
 This Agreement is entered into between Washington County, Oregon, hereinafter referred to as
 the "County," and American Federation of State, County and Municipal Employees (AFSCME)
@@ -187,7 +187,7 @@ employment.
 
                                                                                                  7
 Washington County/AFSCME CBA 2024 - 2027
-                               ARTICLE 2 DEFINITIONS
+### ARTICLE 2 DEFINITIONS
 2.1   "Career Employee" means a regular employee who has successfully completed the initial
       probationary period following appointment to regular County service.
 
@@ -265,7 +265,7 @@ Washington County/AFSCME CBA          2024 - 2027
 
                                                                                                   9
 Washington County/AFSCME CBA          2024 - 2027
-                               ARTICLE 3 - RECOGNITION
+### ARTICLE 3 - RECOGNITION
 
 3.1   The County recognizes the Union as the sole and exclusive collective bargaining agent
       for the establishment of rates of pay, hours of work, fringe benefits and other conditions
@@ -302,7 +302,7 @@ Washington County/AFSCME CBA          2024 - 2027
 
 
 Washington County/AFSCME CBA 2024 - 2027
-                       ARTICLE 4 - SCOPE OF AGREEMENT
+### ARTICLE 4 - SCOPE OF AGREEMENT
 
 The parties acknowledge that during the negotiations which preceded this
 Agreement each had the unlimited right and opportunity to make demands and
@@ -328,7 +328,7 @@ exceed forty-five (45) days, unless otherwise mutually agreed.
 
                                                                                     11
 Washington County/AFSCME CBA 2024 - 2027
-                         ARTICLE 5 - MANAGEMENT RIGHTS
+### ARTICLE 5 - MANAGEMENT RIGHTS
 5.1   The parties agree that all rights and decision-making prerogatives incident or in any way
       related to management of the department are retained by the County unless modified by a
       specific provision of this Agreement and are not subject to bargaining or to the grievance
@@ -396,7 +396,7 @@ Washington County/AFSCME CBA 2024 - 2027
 
                                                                                                13
 Washington County/AFSCME CBA 2024 - 2027
-                            ARTICLE 6 - EMPLOYEE RIGHTS
+### ARTICLE 6 - EMPLOYEE RIGHTS
 
 It is agreed that employees represented by the Union shall have the right to form, join and
 participate in the activities of employee organizations of their own choosing for the purpose of
@@ -410,7 +410,7 @@ discriminated against by the County or by the Union because of the exercise of t
 
                                                                                                    14
 Washington County/AFSCME CBA 2024 - 2027
-                 ARTICLE 7 - EQUAL EMPLOYMENT OPPORTUNITY
+### ARTICLE 7 - EQUAL EMPLOYMENT OPPORTUNITY
 
 7 .1   The County and the Union agree that the provisions of this Agreement shall be applied
        equally to all employees of the bargaining unit without discrimination as to race, color,
@@ -434,7 +434,7 @@ Washington County/AFSCME CBA 2024 - 2027
 
                                                                                                 15
 Washington County/AFSCME CBA 2024 - 2027
-                       ARTICLE 8 - UNION DUES DEDUCTION
+### ARTICLE 8 - UNION DUES DEDUCTION
 
 8.1   Employees who are members of the Union shall make dues payments to the Union in an
       amount equal to that certified by the Union in writing. The County agrees to deduct from
@@ -464,7 +464,7 @@ Washington County/AFSCME CBA 2024 - 2027
 
                                                                                                 16
 Washington County/AFSCME CBA 2024 - 2027
-                                    ARTICLE 9 - HOLIDAYS
+### ARTICLE 9 - HOLIDAYS
 9.1   Holidays
 
       The following days (eight hours) shall be recognized and observed as paid holidays for
@@ -534,7 +534,7 @@ Washington County/AFSCME CBA            2024 - 2027
 
                                                                                                 18
 Washington County/AFSCME CBA 2024 - 2027
-                                 ARTICLE 10 - SICK LEAVE
+### ARTICLE 10 - SICK LEAVE
 
 10.1   Accrual
 
@@ -755,7 +755,7 @@ Washington County/AFSCME CBA 2024 - 2027
 
                                                                                             23
 Washington County/AFSCME CBA 2024 - 2027
-                                     ARTICLE 12 - WAGES
+### ARTICLE 12 - WAGES
 
 Administration of Salary Schedules
 
@@ -998,7 +998,7 @@ Washington County/AFSCME CBA          2024 - 2027
 
                                                                                                28
 Washington County/AFSCME CBA           2024 - 2027
-                                ARTICLE 13 - RETIREMENT
+### ARTICLE 13 - RETIREMENT
 
 13.1   Public Employees Retirement System:
 
@@ -1152,7 +1152,7 @@ Washington County/AFSCME CBA           2024 - 2027
 
                                                                                             32
 Washington County/AFSCME CBA 2024 - 2027
-                      ARTICLE 15 - DISCIPLINE AND DISCHARGE
+### ARTICLE 15 - DISCIPLINE AND DISCHARGE
 
 15.1   An oral warning may be the first step taken for minor issues and shall be considered non­
        disciplinary and not subject to the grievance procedure. Nothing herein shall be construed
@@ -1217,7 +1217,7 @@ Washington County/AFSCME CBA 2024-2027
 
                                                                                         34
 Washington County/AFSCME CBA 2024 - 2027
-                        ARTICLE 16 - GRIEVANCE PROCEDURE
+### ARTICLE 16 - GRIEVANCE PROCEDURE
 
 16.1   Grievance Procedure
 
@@ -1303,7 +1303,7 @@ Washington County/AFSCME CBA           2024 - 2027
 
                                                                                                   36
 Washington County/AFSCME CBA           2024 - 2027
-                             ARTICLE 17 - HOURS OF WORK
+### ARTICLE 17 - HOURS OF WORK
 
 17.1   The workweek shall be from 12:01 a.m. Saturday through midnight Friday night.
        Employees who work the extra hour for daylight savings time (DST) shall be
@@ -1422,7 +1422,7 @@ Washington County/AFSCME CBA 2024 - 2027
 
                                                                                                  39
 Washington County/AFSCME CBA 2024-2027
-                                  ARTICLE 18 - OVERTIME
+### ARTICLE 18 - OVERTIME
 18.1   Overtime
 
        Overtime shall be paid for all work in excess of forty (40) hours per week. For purposes
@@ -1728,7 +1728,7 @@ overtime at the Community Corrections Center, unless the parties agree otherwise
 
                                                                                                 46
 Washington County/AFSCME CBA 2024 - 2027
-                             ARTICLE 19 - VACATION LEAVE
+### ARTICLE 19 - VACATION LEAVE
 
 19.1   Accrual of Vacation
 
@@ -1805,7 +1805,7 @@ Washington County/AFSCME CBA          2024 - 2027
 
                                                                                               48
 Washington County/AFSCME CBA 2024 - 2027
-                   ARTICLE 20 - SENIORITY, LAYOFF, AND RECALL
+### ARTICLE 20 - SENIORITY, LAYOFF, AND RECALL
 
 20.1   Seniority
 
@@ -2059,7 +2059,7 @@ Washington County/AFSCME CBA          2024 - 2027
 
                                                                                  54
 Washington County/AFSCME CBA 2024 - 2027
-                               ARTICLE 21 - UNION BUSINESS
+### ARTICLE 21 - UNION BUSINESS
 
 21.1   Bulletin Boards
 
@@ -2267,7 +2267,7 @@ Washington County/AFSCME CBA              2024 - 2027
 
                                                                                            59
 Washington County/AFSCME CBA 2024 - 2027
-                ARTICLE 22 - STRIKES AND LOCKOUTS BARRED
+### ARTICLE 22 - STRIKES AND LOCKOUTS BARRED
 
 There shall be no lockouts on the part of the County nor suspension of work on the
 part of the employees. This Agreement is guarantee that for its duration, there will
@@ -2279,7 +2279,7 @@ arising under its provisions will be settled pursuant to its grievance procedure
 
                                                                                   60
 Washington County/AFSCME CBA 2024 - 2027
-                              ARTICLE 23 - PERSONNEL FILE
+### ARTICLE 23 - PERSONNEL FILE
 
 23.1   Each employee shall have the right, upon request, to review and obtain copies of the
        contents of their personnel file, exclusive of materials received prior to the date of their
@@ -2312,7 +2312,7 @@ Washington County/AFSCME CBA 2024 - 2027
 
                                                                                                     61
 Washington County/AFSCME CBA 2024 - 2027
-                          ARTICLE 24 - SAVINGS CLAUSE
+### ARTICLE 24 - SAVINGS CLAUSE
 
 Should any part hereof or any provision herein contained be rendered or declared
 invalid by reason of any existing or subsequently enacted legislation or by a decree
@@ -2327,7 +2327,7 @@ remain in full force and effect.
 
                                                                                     62
 Washington County/AFSCME CBA 2024 - 2027
-                                 ARTICLE 25 - INSURANCE
+### ARTICLE 25 - INSURANCE
 
 25.1   Medical
 
@@ -2441,7 +2441,7 @@ Washington County/AFSCME CBA 2024 - 2027
 
                                                                                               65
 Washington County/AFSCME CBA 2024 - 2027
-                               ARTICLE 26 - JOB SHARE
+### ARTICLE 26 - JOB SHARE
 
      The parties mutually agree to utilize the County's job share policy. For the purposes of
      determining seniority, layoff and recall rights contract language will apply.
@@ -2451,7 +2451,7 @@ Washington County/AFSCME CBA 2024 - 2027
 
                                                                                                 66
 Washington County/AFSCME CBA 2024 - 2027
-                 ARTICLE 27 - LABOR MANAGEMENT COMMITTEE
+### ARTICLE 27 - LABOR MANAGEMENT COMMITTEE
 
 27.1   Labor Management
 
@@ -2480,7 +2480,7 @@ Washington County/AFSCME CBA 2024 - 2027
 
                                                                                                67
 Washington County/AFSCME CBA 2024 - 2027
-                                  ARTICLE 28 - TRAINING
+### ARTICLE 28 - TRAINING
 
 28.1   Authorized Travel, Training and Conference Attendance
 
@@ -2504,7 +2504,7 @@ Washington County/AFSCME CBA 2024 - 2027
 
                                                                                                 68
 Washington County/AFSCME CBA 2024 - 2027
-                    ARTICLE 29 - EFFECTIVE DATE AND DURATION
+### ARTICLE 29 - EFFECTIVE DATE AND DURATION
 
 29.1     This Agreement is effective upon execution and shall remain in full force and effect
          through June 30, 2027. After June 30, 2027, this Agreement shall be automatically
@@ -2549,7 +2549,7 @@ Washington County/AFSCME CBA 2024 - 2027
 
                                                                                                   69
 Washington County/AFSCME CBA 2024 - 2027
-                                       APPENDIX A
+### APPENDIX A
                                 AFSCME and Washington County
 
 Year One

@@ -96,9 +96,9 @@ Erin Calvert, ACA                                          Patrick Altiere, Pres
 
 
 092524 — Consolidated MOA for WCPOA — ECU, SSG, SGT Article 29-Health Insurance                   Page 2 of 20
-APPENDIX 1.1 - WCPOA — Enforcement/Corrections Unit (ECU)
+### APPENDIX 1.1 - WCPOA — Enforcement/Corrections Unit (ECU)
 
-                                  ARTICLE 29 — INSURANCE
+### ARTICLE 29 — INSURANCE
 
 
 29.1   Medical, Dental and Vision
@@ -324,9 +324,9 @@ Erin Calvert, ACA                                          Patrick Altiere, Pres
 
 
 092524 — Consolidated MOA for WCPOA — ECU, SSG, SGT Article 29-Health Insurance         Page 7 of 20
-APPENDIX 2.1 - WCPOA - SSG
+### APPENDIX 2.1 - WCPOA - SSG
 
-                                  ARTICLE 29 — INSURANCE
+### ARTICLE 29 — INSURANCE
 
 
 29.4   Medical, Dental and Vision
@@ -544,9 +544,9 @@ Erin Calvert, ACA                                          Patrick Altiere, Pres
 
 
 092524 — Consolidated MOA for WCPOA — ECU, SSG, SGT Article 29-Health Insurance     Page 12 of 20
-APPENDIX 3.1 - WCPOA — (SGTs)
+### APPENDIX 3.1 - WCPOA — (SGTs)
 
-                                  ARTICLE 29 — INSURANCE
+### ARTICLE 29 — INSURANCE
 
 
 29.7   Medical, Dental and Vision

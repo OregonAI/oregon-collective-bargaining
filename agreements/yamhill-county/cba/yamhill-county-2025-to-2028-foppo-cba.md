@@ -16,12 +16,11 @@ agency_registry_slugs: []
 source_url: https://www.yamhillcounty.gov/DocumentCenter/View/20243/2025-to-2028-FOPPO-CBA-PDF
 source_format: pdf
 retrieved: '2026-08-02'
-source_sha256: c412e9c873be05dc427a2568864adb9c953fb6758f9f78be9570f89a6fa465a0
+source_sha256: 5c91aa5966fb036fc03e221daf737bc41d34ee2795b82f0e46e87a54b6e0350a
 snapshot_policy: hash-only
 status: current
-content_mode: summary
-reproduction_basis: 'jointly-authored contract; summary + official link per the class determination
-  in corpus.yml schema.doc_types (verbatim: false)'
+content_mode: 'verbatim'
+reproduction_basis: 'public record of a public body (ORS 192.311-192.478); the employer publishes the executed agreement in full at source_url; a ratified agreement is an official act (Georgia v. Public.Resource.Org, 590 U.S. 255 (2020)) — mirrored in full per the class determination in corpus.yml schema.doc_types (verbatim: true)'
 conversion_notes: pdftotext -layout; 43 pages, 131816 characters extracted; NOT human-verified
 last_verified: ''
 verified_by: ''
@@ -42,8 +41,8 @@ tags:
 - yamhill-county
 ---
 
-> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated
-> summary, not the agreement's official text. Verify against the official
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a non-authoritative
+> mirror of the agreement's text, not the official record. Verify against the official
 > source: <https://www.yamhillcounty.gov/DocumentCenter/View/20243/2025-to-2028-FOPPO-CBA-PDF> (retrieved 2026-08-02).
 
 # Yamhill County — 2025 to 2028 FOPPO CBA
@@ -54,10 +53,6 @@ Collective bargaining agreement between **Yamhill County** and **FOPPO** — **2
 - Listed on the county's labor agreements index as: “2025 to 2028 FOPPO CBA” (index archived in `_meta/discovery/`)
 - Source document: 43 pages (PDF)
 
-This corpus is **summary-first for agreements**: the contract's text is not
-reproduced here (see Curator notes), and nothing on this page states or
-paraphrases the agreement's terms. Read the agreement itself at the official
-source link above.
 
 ## Curator notes
 
@@ -75,3 +70,1945 @@ Statutes and rules the document's text cites are recorded in frontmatter
 `relationships.references_external` (4 citation(s)) and resolve into
 `executive-regulatory-frameworks` as cites — this corpus asserts no
 `implements` edge anywhere.
+
+## Full text
+
+        2025  2028
+
+
+         Collective
+   Bargaining Agreement
+
+
+          between
+
+      Yamhill County
+
+           and the
+
+    Federation of Oregon
+Parole and Probation Officers
+          (FOPPO)
+
+
+
+
+                                B.O. 25-414
+                            2025-2028 Collective Bargaining Agreement
+                Yamhill County and the Federal of Oregon Parole & Probation Officers
+                                                                           TABLE OF CONTENTS
+
+PREAMBLE ........................................................................................................................................................................................1
+
+
+ARTICLE I                               SCOPE OF AGREEMENT AND RECOGNITION .....................................................1
+
+1.1                                    Scope of Bargaining Unit ......................................................................................................................1
+1.2                                    Recognition ................................................................................................................................................1
+1.3                                    Intent .............................................................................................................................................................1
+1.4                                    Copies...........................................................................................................................................................1
+
+
+ARTICLE II                              MANAGEMENT RIGHTS..........................................................................................................2
+
+2.1                                    Rights Retained by County...................................................................................................................2
+2.2                                    Illustrations..................................................................................................................................................2
+
+
+ARTICLES III                            NO STRIKE OR LOCKOUT DURING TERM OF AGREEMEN ...................3
+
+3.1                                    No Strike......................................................................................................................................................3
+
+ARTICLE IV                              HOURS OF WORK .........................................................................................................................3
+
+
+ARTICLE V                               FEDERATION SECURITY AND CHECK-OFF...........................................................4
+
+5.1                                    Right to Organize......................................................................................................................................4
+5.2                                    Deduction of Membership Dues.........................................................................................................4
+5.3                                    New Employees.......................................................................................................................................5
+
+
+ARTICLE VI                              SALARY AND WAGES................................................................................................................5
+
+6.1                                    Wages...........................................................................................................................................................5
+6.2                                    Merit Increase ............................................................................................................................................5
+6.3                                    When Assigned to a Higher Classification ......................................................................................5
+6.4                                    Lead PPO Worker ...................................................................................................................................6
+6.5                                    DPSST Certification Required to Advance to Step 3, Exception.............................................6
+6.6                                    BI-Lingual Premium...............................................................................................................................6
+6.7                                    After-Hours Duty Officer ......................................................................................................................7
+6.8                                    DPSST Certification Pay.......................................................................................................................7
+
+                                                                                                  I
+                                                                                                                                                                                                         B.O. 25-414
+6.9            New Employee Orientation..................................................................................................................7
+6.10           Longevity Pay............................................................................................................................................8
+
+
+ARTICLE VII    HOLIDAYS............................................................................................................................................9
+
+7.1            Holidays.......................................................................................................................................................9
+7.2            Holiday Pay................................................................................................................................................9
+7.3            Holiday Work............................................................................................................................................9
+
+
+ARTICLE VIII   VACATIONS.........................................................................................................................................9
+
+8.1            Vacations Leave Accrual.......................................................................................................................9
+8.2            Continuous Service............................................................................................................................... 11
+8.3            Maximum Accumulation .................................................................................................................. 11
+8.4            Vacation Scheduling ............................................................................................................................ 11
+8.5            Termination of Employment............................................................................................................. 11
+8.6            Vacation Sell-Back ............................................................................................................................... 11
+
+
+ARTICLE IX      SICK LEAVE .................................................................................................................................... 12
+
+9.1            Statutory Compliance .......................................................................................................................... 12
+9.2            Sick Leave Accrual............................................................................................................................... 12
+9.3            Utilization of Sick Leave..................................................................................................................... 12
+9.4            Sick Leave Scheduling........................................................................................................................ 14
+9.5            Sick Leave Verification....................................................................................................................... 14
+9.6            Integration with Workers Compensation ...................................................................................... 14
+9.7            Sick Leave Without Pay ..................................................................................................................... 15
+9.8            Retirement from Employment...........................................................................................................15
+9.9            Donated Leave....................................................................................................................................... 16
+
+
+ARTICLE X      OTHER LEAVES AND ABSENCES.................................................................................. 16
+
+10.1           Criteria and Procedure......................................................................................................................... 16
+10.2           Jury Duty ................................................................................................................................................. 16
+10.3           Appearances .......................................................................................................................................... 16
+10.4           Federation Business.............................................................................................................................. 16
+10.5           Election Day........................................................................................................................................... 17
+10.6           Family Medical Leave........................................................................................................................ 17
+10.7           Educational Leave ................................................................................................................................ 17
+10.8           Conferences ............................................................................................................................................ 17
+10.9           Military Leave With Pay.................................................................................................................... 17
+                                                                        II
+                                                                                                                                                                            B.O. 25-414
+10.10          Military Leave Without Pay .............................................................................................................. 17
+10.11          Bereavement Leave.............................................................................................................................. 17
+10.12          Continuation of Benefits ..................................................................................................................... 18
+
+
+ARTICLE XI     HEALTH AND WELFARE...................................................................................................... 18
+
+11.1            Medical/Dental...................................................................................................................................... 18
+11.2           Life Insurance......................................................................................................................................... 18
+11.3           Retirement............................................................................................................................................... 18
+11.4           Deferred Compensation...................................................................................................................... 19
+11.5           Eligible Employees .............................................................................................................................. 19
+11.6           Retirement Benefit................................................................................................................................ 19
+11.7           Short Term Disability ........................................................................................................................... 19
+
+
+ARTICLE XII    DISCIPLINE AND DISCHARGE......................................................................................... 19
+
+12.1           Cause for Discharge............................................................................................................................. 19
+12.2           Warning Notice..................................................................................................................................... 20
+12.3           Protest........................................................................................................................................................ 20
+12.4           Notice to Federation............................................................................................................................. 20
+12.5           Records..................................................................................................................................................... 20
+12.6           Definitions ............................................................................................................................................... 20
+
+
+ARTICLE XIII    GRIEVANCE PROCEDURE ................................................................................................. 21
+
+13.1           Discrimination Complaint.................................................................................................................. 21
+13.2           Dismissal or Suspension Disputes................................................................................................... 21
+13.3           Timeliness of Grievance..................................................................................................................... 21
+13.4           Assignment of Grievance Step......................................................................................................... 21
+13.5           Grievance Steps..................................................................................................................................... 21
+13.6           Grievance Step Time Limits............................................................................................................. 22
+13.7           Employee Assurance........................................................................................................................... 22
+13.8           Employees Representation Rights Regarding Grievances.................................................... 22
+13.9           Official Statement of Grievance ...................................................................................................... 22
+13.10          Observance of Time limits for Grievance Procedures ............................................................. 22
+13.11          Mediation................................................................................................................................................. 22
+13.12          Federations Right to Request Arbitration for Unsolved Grievance..................................... 22
+13.13          Selection of an Arbitrator ................................................................................................................... 22
+13.14          Binding Arbitration for Grievance Resolution............................................................................. 23
+13.15          Arbitration Fees and Expenses ......................................................................................................... 23
+
+
+
+                                                                       III
+                                                                                                                                                                              B.O. 25-414
+ARTICLE XIV                    PROBATION PERIOD .............................................................................................................. 23
+
+14.1                          Purpose .................................................................................................................................................... 23
+14.2                          Duration of Probationary Period ..................................................................................................... 23
+14.3                          Probationary Conditions..................................................................................................................... 23
+
+
+ARTICLE XV                    SENIORITY AND LAYOFF .................................................................................................... 23
+
+15.1                          Definition of Seniority......................................................................................................................... 23
+15.2                          Application of Seniority in Promotions ..........................................................................................24
+15.3                          When Layoffs Occur........................................................................................................................... 24
+15.4                          Recall ........................................................................................................................................................ 24
+
+
+ARTICLE XVI                    GENERAL PROVISIONS......................................................................................................... 24
+
+16.1                          No Discrimination ................................................................................................................................ 24
+16.2                          Existing Conditions .............................................................................................................................. 25
+16.3                          Changes in Existing Conditions....................................................................................................... 25
+16.4                          Negotiations Meetings ........................................................................................................................ 25
+16.5                          Pay Days.................................................................................................................................................. 25
+16.6                          Copies of Agreement........................................................................................................................... 25
+16.7                          Copy Machine....................................................................................................................................... 25
+16.8                          Moonlighting.......................................................................................................................................... 26
+16.9                          Caseload Audits..................................................................................................................................... 26
+16.10                         Safety......................................................................................................................................................... 26
+16.11                         Firearms in the Field ............................................................................................................................. 26
+16.12                         Use of County E-Mail System ......................................................................................................... 27
+16.13                         Drug and Alcohol Testing Policy..................................................................................................... 27
+
+ARTICLE XVII                  SAVINGS CLAUSE AND FUNDING ..................................................................................27
+17.1                          Savings Clause........................................................................................................................................ 27
+17.2                          Funding .................................................................................................................................................... 27
+
+
+ARTICLE XVIII                  TRAVEL EXPENSE REIMBURSEMENT ................................................................... 28
+
+18.1                          Reimbursement .................................................................................................................................... 28
+
+ARTICLE XIX                    DURATION AND RATIFICATION .................................................................................. 28
+
+ATTACHMENT A  Drug and Alcohol Testing Policy .................................................................................................. 29
+
+
+
+
+                                                                                      IV
+                                                                                                                                                                                             B.O. 25-414
+                                           PREAMBLE
+               THIS AGREEMENT is entered into by Yamhill County, a political subdivision of
+the State of Oregon, hereinafter referred to as "COUNTY", and the Federation of Oregon Parole
+and Probation Officers (hereinafter referred to as "FEDERATION") (collectively, the parties).
+The parties acknowledge that there is a statutory division of authority and responsibility between
+the Board of Commissioners and certain elected officials or department heads with respect to
+administration of departments affected by this Agreement and that the statutes shall control in the
+event of conflict with any provision of this Agreement. Unless otherwise indicated, the term
+"COUNTY" shall include the Board of Commissioners and elected officials.
+
+               This document represents the full agreement between COUNTY and
+FEDERATION. The purpose of this Agreement is to set forth those matters pertaining to rates
+of pay, hours of work, fringe benefits, and other matters pertaining to employment and to
+promote general efficiency of the employees covered in providing services to the citizens of
+COUNTY. All previous agreements between the parties or individual employees covered by this
+Agreement are hereby superseded.
+
+
+### ARTICLE I
+
+                     SCOPE OF AGREEMENT AND RECOGNITION
+
+
+1.1              SCOPE OF BARGAINING UNIT. The bargaining unit, through agreement,
+shall apply to all COUNTY parole and probation officers, excluding temporary hires (6 months
+or less), interns, part-time employees who work less than 20 hours per week, supervisory
+employees, and confidential employees.
+
+1.2            RECOGNITION. COUNTY recognizes the Federation of Oregon Parole and
+Probation Officers (hereinafter referred to as "FEDERATION") as the exclusive bargaining
+representative of all COUNTY parole and probation officers.
+
+1.3            INTENT. The intent of this Agreement is to set forth and record herein the basic
+and full agreement between the parties on those matters pertaining to employment relations,
+which includes, but is not limited to, matters concerning direct or indirect monetary benefits,
+hours of work, vacation, sick leave, grievance procedures, and other conditions of employment.
+
+1.4            COPIES. There shall be at least two signed copies of the final Agreement for the
+purpose of records. At least one copy shall be retained by COUNTY and one by
+FEDERATION.
+
+
+
+
+                  2025  2028 COLLECTIVE BARGAINING AGREEMENT
+                               (Yamhill County and FOPPO)  Page 1
+                                                                                                  B.O. 25-414
+### ARTICLE II
+
+                                  MANAGEMENT RIGHTS
+
+2.1            RIGHTS RETAINED BY COUNTY. COUNTY retains all the customary usual
+and exclusive rights, decision-making prerogatives, functions, and authority connected with or in
+any way incident to its responsibility to manage the affairs of COUNTY and any COUNTY
+department. The rights of employees in the bargaining unit and FEDERATION are limited to
+those specifically set forth in this Agreement and the Public Employees Collective Bargaining
+Act (PECBA), subject to the requirements of PECBA, including COUNTYS obligation to
+bargain under PECBA to the extent the exercise of these rights involves a mandatory subject of
+bargaining or impacts a mandatory subject of bargaining.
+
+2.2            ILLUSTRATIONS. Without limitation, but by way of illustration, the exclusive
+prerogatives, functions, and rights of COUNTY shall include the following:
+
+(a)    To direct and supervise all operations, functions and policies of the departments in which
+employees in the bargaining unit are employed, as well as operations, functions, and policies in
+the remainder of COUNTY as they may affect employees in the bargaining unit.
+
+(b)     To close or liquidate an office, branch, operation, facility, service program, or
+combination thereof, or to relocate, reorganize or combine the work of divisions, programs,
+offices, branches, operations, or facilities for budgetary or other reasons.
+
+(c)     To determine the levels of service and methods of operation, including the subcontracting
+of duties other than those required to be performed by a certified parole and probation officer
+(PPO) and the introduction of new equipment, the right to hire, lay off, transfer, promote,
+determine duties and qualifications to be required, job classifications, discipline and discharge
+for cause, determine work schedules and assign work, and any other such rights not specifically
+referred to in this Agreement.
+
+(d)     The exercise of any management prerogative, function or right which is not specifically
+modified by this Agreement is not subject to the grievance procedure. The application of the
+above management rights with respect to a particular employee or group of employees shall not
+be subject to Article XIII. The exercise of these rights is subject to the Countys obligation to
+bargain in good faith under the Public Employees Collective Bargaining Act to the extent the
+exercise of these rights involves a mandatory subject of bargaining or impacts a mandatory
+subject of bargaining. Nothing in this Article is intended to inhibit or restrict informal, routine
+discussion of working conditions between FEDERATION and COUNTY representatives. Such
+discussions are encouraged for the purpose of providing mutually advantageous conditions and a
+high level of service to the citizens of Yamhill County.
+
+
+
+
+                  2025  2028 COLLECTIVE BARGAINING AGREEMENT
+                               (Yamhill County and FOPPO)  Page 2
+                                                                                                  B.O. 25-414
+### ARTICLE III
+
+             NO STRIKE OR LOCKOUT DURING TERM OF AGREEMENT
+
+3.1              NO STRIKE. FEDERATION and its members, as individuals or as a group, will
+not initiate, cause, permit, or participate or join in any strike, work stoppage, slowdown, or
+picketing, affecting the operations of any COUNTY department or any other restriction of work
+at any location in the COUNTY. Employees in the bargaining unit, while acting in the course of
+their employment, shall not refuse to cross any picket line established by any labor organization
+when called upon to cross such picket line in the line of duty. COUNTY shall not lock out any
+employee during the term of this Agreement. Upon notification confirmed in writing by
+COUNTY to FEDERATION that certain bargaining unit employees covered by this Agreement
+are engaged in strike activity in violation of this article, FEDERATION shall, upon receipt of a
+mailing list, advise such striking employees in writing with a copy to COUNTY to return to
+work immediately. Such notification by FEDERATION shall not constitute an admission that it
+has caused or counseled such strike activities. The notification to the employees covered by this
+Agreement by the FEDERATION shall be made solely at the request of COUNTY.
+
+### ARTICLE IV
+
+                                      HOURS OF WORK
+
+It is recognized by both parties that employees in the bargaining unit work irregular hours in the
+performance of their duties. The official work week shall consist of a seven-day period,
+commencing at 12:05 a.m. each Sunday and ending at 12:04 a.m. each Sunday. The regular
+work week consists of forty (40) hours falling within the seven-day period. It is, therefore,
+incumbent on the employees and the supervisors to work together in scheduling these hours in
+the best interest of providing adequate and effective service. "Trade time" within the work week
+may be allowed with the permission of a supervisor.
+
+Employees may be allowed a flexible work schedule (including a 4-10 work schedule) upon
+individual request. Approval may be granted, withheld, and/or revoked by management.
+COUNTY Administrator must approve any employees change to a flexible work schedule.
+
+Except in emergency situations, all work performed in excess of 40 hours per work week must
+be authorized in advance by the supervisor. Emergency overtime must be reported to the
+supervisor within 72 hours of its occurrence. An employee who works more than forty (40)
+hours in a work week shall receive compensatory time off at the rate of 1.5 hours for each 1 hour
+worked in excess of 40 hours per work week.
+
+
+
+
+                  2025  2028 COLLECTIVE BARGAINING AGREEMENT
+                               (Yamhill County and FOPPO)  Page 3
+                                                                                                     B.O. 25-414
+### ARTICLE V
+                      FEDERATION SECURITY AND CHECK-OFF
+
+5.1             RIGHT TO ORGANIZE. Employees shall have the right to self-organize, to
+form, join, or assist FEDERATION, or to refrain therefrom. There shall be no discrimination
+exercised against any employee covered by this Agreement because of his/her membership or
+FEDERATION activities.
+
+5.2            DEDUCTION OF MEMBERSHIP DUES.
+
+(a)    Eligible employees may have FEDERATION dues deducted from his or her wages by
+submitting properly executed written dues authorization cards or statements to FEDERATION
+with copy to COUNTY. Employees who are current members of FEDERATION shall be
+presumed to have submitted such authorization until written notice of cancellation is provided to
+COUNTY by the FEDERATION. However, COUNTY shall no longer collect in lieu of dues
+payments as of the date of execution of this Agreement and shall presume all previous written
+authorizations for in lieu of dues payments to be rescinded in light of Janus v. American
+Federation of State, County, and Municipal Employees.
+
+COUNTY shall have no duty to deduct dues for an employee until actual receipt of such
+authorization. Upon receipt of such authorization by COUNTY, dues shall be deducted in
+accordance with regular COUNTY payroll practices beginning with the next payroll period after
+receipt of such authorization and, thereafter, the dues shall be transmitted to FEDERATION or
+its designated depository. The aggregate deductions of all employees shall be remitted together
+with an itemized statement to FEDERATION no later than the month following the month for
+which the deductions were made. Any discrepancy in the amount remitted to FEDERATION
+shall be corrected within a reasonable time period.
+
+(b)    FEDERATION shall have sole responsibility to notify COUNTY of any change in the
+amount of dues to be deducted at least sixty (60) days in advance of said change. Under no
+circumstances shall COUNTY be required to deduct FEDERATION fines, penalties, or other
+assessments from the wages of any member.
+
+(c)     Any authorization for dues deduction may be cancelled by the employee upon written
+notice to FEDERATION. The cancellation will become effective and shall be implemented no
+later than the second payroll after receipt of notice from FEDERATION to COUNTY.
+
+(d)     When an employee separates from employment with COUNTY or is laid off, regardless
+of the reason for separation or lay off, any unpaid dues owed to FEDERATION will be deducted
+from the employees last paycheck if funds are available for such deduction after statutory,
+court-ordered, and other voluntary deductions and/or wage withholdings have been made.
+
+
+
+
+                  2025  2028 COLLECTIVE BARGAINING AGREEMENT
+                               (Yamhill County and FOPPO)  Page 4
+                                                                                                    B.O. 25-414
+(e)     FEDERATION agrees to defend, indemnify, and hold COUNTY harmless against any
+and all claims, suits, orders, judgments, or any other actions brought or issued against COUNTY
+as a result of any actions taken pursuant to implementation of the provisions of this Article, so
+long as COUNTY has acted in good faith with the provisions outlined in this Article. COUNTY
+shall have no responsibility or liability for the improper or incorrect deduction of any dues.
+FEDERATION shall hold COUNTY harmless for any errors in the administration of the dues
+deduction system.
+
+5.3             NEW EMPLOYEES. COUNTY agrees to furnish FEDERATION by the 10th of
+each month a list of all new employees hired during the preceding month and of all employees
+who terminated during the month. Such list shall contain the names of the employees, along
+with their job classification, work location, and home address.
+
+### ARTICLE VI
+
+                                     SALARY AND WAGES
+
+6.1            COLA
+
+(a)    Cost of Living Increases.
+
+Effective and retroactive to the first day of the pay period after July 1, 2025, all bargaining unit
+members employed by COUNTY as of the date this Agreement is fully ratified, shall receive a
+3.00% cost of living increase over salaries in effect on June 30, 2024.
+
+Effective the first day of the pay period after July 1, 2026, all bargaining unit members employed
+by COUNTY on June 30, 2026, shall receive a 3.00% cost of living increase over salaries in
+effect on June 30, 2025.
+
+Effective the first day of the pay period after July 1, 2027, all bargaining unit members employed
+by COUNTY on June 30, 2027, shall receive a 3.00% cost of living increase over salaries in
+effect on June 30, 2026.
+
+6.2            MERIT INCREASE.
+
+(a)     Employees receiving a rating of "meets expectations" on their annual evaluation shall
+receive a merit increase to the next highest step on the salary schedule on their anniversary date.
+Employees at the top step of the salary schedule for their job classification will not receive a
+merit raise.
+
+(b)    The annual evaluation shall be performed prior to the employee's anniversary hire date.
+
+6.3             WHEN ASSIGNED TO A HIGHER CLASSIFICATION. Whenever an
+employee is assigned to and does perform substantially all the duties of a budgeted position
+which is in a higher classification for one shift within a calendar month, the employee will be
+
+                   2025  2028 COLLECTIVE BARGAINING AGREEMENT
+                                (Yamhill County and FOPPO)  Page 5
+                                                                                                       B.O. 25-414
+paid for all shifts worked at the higher classification at a rate no less than that step on the salary
+schedule for the higher classification which is closest to but higher than the employee's current
+rate.
+
+6.4             LEAD PPO WORKER. "Lead PPO" shall be defined as an employee who
+voluntarily accepts an assignment by the Director of the Department of Community Justice in
+writing for "Lead PPO Work." "Lead PPO Work" is defined as, on a recurring daily basis, while
+performing essentially the same duties as the employees led, the employee designated Lead
+PPO has agreed to perform substantially all of the following functions: orient new employees,
+students, and volunteers; assign and reassign tasks to accomplish prescribed work efficiently;
+give direction to employees concerning work procedures; transmit established standards of
+performance to employees; review work of employees for conformance to standards; review and
+approve reports and documents for distribution to the District Attorneys Office and releasing
+authority; and provide informal assessment of employee performance to the Director of the
+Department of Community Justice. It is not the intent of this section to authorize a Lead PPO to
+conduct performance appraisals or issue discipline.
+
+An employee designated in writing by the Director of the Department of Community Justice as
+Lead PPO shall receive an additional $225.00 per month in salary, which shall be pro-rated if
+appointment is made on a day other than the first of the month.
+
+In order to qualify for Lead PPO status, PPOs must not be on probationary status, must possess a
+valid Intermediate DPSST Certification or higher, must not have received any disciplinary action
+in the previous 12 months, and must be in good standing. A list of qualified Lead PPO will be
+established, and they will be assigned to fulfill these duties on a rotational basis so that each
+receives an equal opportunity and equal period of time to perform these duties.
+
+COUNTY considers implementing Lead PPO Work opportunities in this manner to be a
+privilege and an opportunity for current qualifying PPOs to gain leadership experience and
+enhance their ability to compete for future opportunities in a leadership position, and as a benefit
+to the Department of Community Justice as assistance to the leadership team. The Director of
+the Department of Community Justice may de-designate Lead PPO status at any time.
+
+6.5    DPSST CERTIFICATION REQUIRED TO ADVANCE TO STEP 3, EXCEPTION. A
+PPO must be certified as a parole and probation officer by the Department of Public Safety
+Standards and Training (DPSST) before being eligible to advance to step 3; provided,
+however, that this restriction shall not apply to an employee who is currently certified as a parole
+and probation officer at the federal level or in another state.
+
+6.6     BI-LINGUAL PREMIUM.
+
+At the sole discretion of the Director of the Department of Community Justice, an employee is
+eligible for a premium of $72.50 per pay period if the employee is bi-lingual in English and
+Spanish and demonstrates significant and necessary use of bi-lingual skills in the performance of
+                   2025  2028 COLLECTIVE BARGAINING AGREEMENT
+                                 (Yamhill County and FOPPO)  Page 6
+                                                                                                         B.O. 25-414
+job duties. The Director of the Department of Community Justice may terminate the employees
+eligibility for the bi-lingual premium at any time upon the Director of the Department of
+Community Justices determination that an employees use of bi-lingual skills in the
+performance of duties is no longer significant or necessary.
+
+6.7    AFTER-HOURS DUTY OFFICER.
+
+(a)     DPSST certified employees may serve as after-hours duty officer for a seven-day period
+on a rotational basis. While serving as after-hours duty officer, the employee will carry
+equipment provided by COUNTY in order to respond to law enforcement inquiries regarding an
+offender when dispatch is unable to reach the primary officer or officer of record.
+
+(b)     The after-hours duty officer will be paid a premium of $225.00 for the seven-day period.
+Further, the after-hours duty officer may be paid overtime for each non-assigned client call,
+calculated in 15-minute increments for calls from 5:01 a.m. to 10:59 p.m. and in 30-minute
+increments for calls from 11:00 p.m. to 5:00 a.m.
+
+6.8    DPSST CERTIFICATION PAY. The following amounts of incentive pay shall be paid
+per pay period to all members who are currently certified by the Department of Public Safety and
+Standards during that pay period.
+
+(a)     Intermediate DPSST certification pay. A certified employee shall be paid a monthly
+premium of 3% per pay period, calculated based on the base salary per pay period as stated on
+the salary schedule if the employee holds a current intermediate Parole and Probation DPSST
+certification.
+
+(b)    Advanced DPSST certification pay. A certified employee shall be paid a premium of 6%
+per pay period, calculated based on the base salary per pay period as stated on the salary
+schedule if the employee holds a current advanced parole and probation DPSST certification.
+
+(c)     Certification pay non-cumulative. DPSST certification pay is not cumulative.
+Qualifying employees earn either intermediate DPSST certification pay or advanced DPSST
+certification pay, not both.
+
+6.9     NEW EMPLOYEE ORIENTATION
+
+Definitions:
+
+        NEOP: The New Employee Orientation Program during the first 3-4 weeks of the PTO
+training program.
+
+       Ghost Phase: The last phase of the PTO training program phase after the trainee
+successfully completes Phase A, B, C, D, and evaluation weeks.
+
+ (a)   Parole and Probation Training Officers (PTO): PTO assignments shall be made or
+revoked at the sole discretion of the department head or designee. To qualify for a PTO
+                  2025  2028 COLLECTIVE BARGAINING AGREEMENT
+                               (Yamhill County and FOPPO)  Page 7
+                                                                                                   B.O. 25-414
+assignment, the employee must be in good standing and possess at least an intermediate Parole
+and Probation DPSST Certification. An employee assigned and working as a PTO shall be paid
+a premium of 5% of the regular base wage hourly rate for actual time worked performing
+specified PTO duties during NEOP, Phases A, B, C, and D, evaluation weeks, prescriptive
+training weeks, and Ghost Phase. Additionally, during an assigned PTOs absence, a supervisor
+may reassign another employee qualified for a PTO assignment to work as a PTO and they shall
+be paid the same 5% premium of the regular base wage hourly rate for actual time worked
+performing the above specified PTO duties. Such PTO duties consist of directly training
+trainees, attending PTO meetings, planning lessons, and attending retreats. The premium rate
+shall not apply to paid holidays, leave periods, or other work time.
+
+(b)     Certified Staff Trainers (CST) CST assignments shall be made or revoked at the sole
+discretion of the department head or designee. To qualify for a CST assignment, the employee
+must be in good standing, must have completed a certified training program approved by the
+department head or designee for the training to be performed, and must possess at least an
+intermediate Parole and Probation DPSST Certification. A CST shall be paid a premium of 3%
+of the regular base wage rate for actual time worked performing specified CST duties. Such
+CST duties consist of conducting staff trainings and planning lessons for such staff trainings.
+CST assignments may include but are not limited to CPR/First Aid, firearms, defensive tactics,
+confrontational simulation, Taser, OC, ethics, and other maintenance training approved by the
+department head or designee.
+
+(c)     PTO and CST premium pay is not cumulative. Employees with PTO and CST
+assignments shall be paid a maximum premium of 5% of the regular base wage hourly rate for
+actual time worked performing specified PTO or CST duties. The premium rate shall not apply
+to paid holidays, leave periods, or other work time.
+
+6.10 LONGEVITY PAY. Employees are eligible to receive longevity pay if they (1) meet the
+continuous service requirement; and (2) do not have discipline on their record within the twelve
+(12) months preceding their anniversary date (i.e., disqualifying discipline must have been
+removed following a grievance). Eligible employees shall receive longevity each pay period as
+an additional amount of base monthly wage as described below:
+
+             5 years of continuous service  1% of base monthly wage
+
+             10 years of continuous service  1.5% of base monthly wage
+
+             15 years of continuous service  2% of base monthly wage
+
+             20 years of continuous service  2.5% of base monthly wage
+
+             25 years of continuous service or more  3% of base monthly wage
+
+Levels of longevity pay are not cumulative.
+
+Employees covered by a work improvement plan on their anniversary date will receive longevity
+premium upon satisfactorily completing the work plan.
+
+                  2025  2028 COLLECTIVE BARGAINING AGREEMENT
+                               (Yamhill County and FOPPO)  Page 8
+                                                                                                  B.O. 25-414
+### ARTICLE VII
+
+                                          HOLIDAYS
+
+7.1            HOLIDAYS. The following shall be recognized as paid holidays:
+
+New Year's Day, Martin Luther King Jr.'s Birthday, President's Day, Memorial Day,
+Independence Day, Labor Day, Juneteenth, Veterans' Day, Thanksgiving Day, Day after
+Thanksgiving Day, Christmas Eve, Christmas Day, 2 Floating Personal Holidays and 1
+Commissioners' Day. Personal holidays may be used at the discretion of the employee with the
+consent of his/her employer, provided, however, an employee must be employed for at least
+three months before the personal holiday may be used. In all cases, personal holidays must be
+taken by the end of each fiscal year (June 30). COUNTY shall retain the right to assign work to
+employees sufficient to maintain Department operations during holidays.
+
+Whenever a holiday shall fall on a Sunday, the succeeding Monday shall be observed as the
+holiday. Furthermore, pursuant to ORS 187.020, whenever a holiday shall fall on a Saturday, the
+preceding Friday shall be observed as the holiday.
+
+Commissioners Day may be taken either the day before or the Monday after Thanksgiving
+Day, the day before Christmas Eve or after Christmas Day, or the day before or after New Year's
+Day. Commissioners Day has no cash value.
+
+7.2             HOLIDAY PAY. Eligible employees shall receive one day's pay for each of the
+holidays listed above on which they perform no work. If any employee is on authorized
+vacation, sick leave, or other paid leave when a holiday occurs, the employee shall receive the
+holiday without deducting from accrued paid leave. Unless on a bona fide authorized leave with
+pay, an employee, to be eligible for holiday pay, must work his/her full assigned shifts next
+preceding and following the holiday. Holiday pay shall be prorated for regular part-time
+employees in proportion to their regularly assigned work schedule. For example, a part-time
+employee who would regularly work four (4) hours on a day that falls on a holiday would earn
+four (4) hours of holiday pay.
+
+7.3             HOLIDAY WORK. If an employee is required to work on any of the holidays
+listed in section 7.1 above, he or she shall receive holiday pay and, in addition to the regular
+holiday pay, compensation for all hours worked at one and one-half his/her regular rate of pay.
+
+
+### ARTICLE VIII
+
+                                         VACATIONS
+
+8.1            VACATION LEAVE ACCRUAL. Full-time employees shall accrue vacation
+leave as follows:
+
+
+                  2025  2028 COLLECTIVE BARGAINING AGREEMENT
+                               (Yamhill County and FOPPO)  Page 9
+                                                                                                   B.O. 25-414
+(a)     Employees with less than 12 months of continuous service shall accrue only conditional
+vacation hours. Conditional vacation hours may be used only upon approval by the department
+head or designee. All unused accrued conditional vacation hours are forfeited upon separation
+from employment for any reason before the employee completes 12 months of continuous
+service. Upon completing 12 months of continuous service, unused accrued conditional vacation
+hours shall convert to regular vacation hours.
+
+                           CONDITIONAL VACATION HOURS*
+
+    Completed Continuous Service Accrual Rate Total Annual Accrual Total Cap
+
+    Less than 6 months                  N/A              N/A                      N/A
+
+    6 months                            40 hours         40 hours                 N/A
+
+    9 months                            20 hours         20 hours                 N/A
+
+    12 months                           20 hours         20 hours                 N/A
+
+
+
+
+* This table reflects accrual rates for full-time employees. Part-time employees shall accrue
+conditional vacation hours at a prorated rate based on their regularly assigned work schedule.
+For example, a part-time employee who regularly works twenty (20) hours per work week
+accrues conditional vacation hours at fifty percent (50%) of the rate for full-time employees.
+
+ (b)    Employees with 12 months or more of continuous service shall accrue regular vacation
+hours. Regular vacation hours may be used as set forth herein. All unused accrued regular
+vacation hours shall be paid to the employee at the employees regular wage rate at the time of
+separation.
+
+                              REGULAR VACATION HOURS*
+
+  Completed Continuous Service          Accrual Rate       Total Annual Accrual Total Cap
+
+  12  59 months                     8 hours per month     96 hours per year         250 hours
+
+  60  119 months                    10 hours per month 120 hours per year           250 hours
+
+  120  179 months                   12 hours per month 144 hours per year           250 hours
+
+  180 - 239 months                   14 hours per month 168 hours per year           250 hours
+
+  240 months or more                 16 hours per month 192 hours per year           250 hours
+
+
+
+                   2025  2028 COLLECTIVE BARGAINING AGREEMENT
+                              (Yamhill County and FOPPO)  Page 10
+                                                                                                  B.O. 25-414
+* This table reflects accrual rates for full-time employees. Part-time employees shall accrue
+vacation hours at a prorated rate based on their regularly assigned work schedule. For example, a
+part-time employee who regularly works twenty (20) hours per work week accrues conditional
+vacation hours at fifty percent (50%) of the rate for full-time employees.
+
+8.2            CONTINUOUS SERVICE. For the purpose of determining vacation accrual
+rates, continuous service shall mean employment by COUNTY that has not been interrupted by a
+separation of employment for any reason. Continuous service for rehired employees shall begin
+from the most recent date of hire. Unpaid leave periods shall not be counted as completed
+continuous service for the purpose of advancing to a higher accrual rate, nor shall vacation hours
+accrue during such periods unless doing so would be prohibited by an applicable federal or state
+law. Employees whose anniversary date is between the first and fifteenth day of a month shall be
+considered to have been hired on the first day of the month. Employees whose anniversary date
+is between the 16th and last day of a month shall be considered to have been hired on the first
+day of the next month.
+
+8.3            MAXIMUM ACCUMULATION. The maximum vacation that may be
+accumulated by an employee is 250 hours. Vacation hours in excess of 250 hours shall be
+automatically converted into sick leave and credited to the employees sick leave bank.
+
+8.4            VACATION SCHEDULING. Vacation times shall be scheduled by COUNTY
+based on the sole discretion of the department head or designee as to the needs of efficient
+operations and the availability of vacation relief. Vacation may be approved in the order in
+which the requests are received.
+
+However, if a conflict in vacation dates arises between two or more employees making a
+vacation request, the employee having seniority shall be entitled preference in scheduling.
+
+Vacations shall be scheduled on a first come, first served basis. Scheduling of vacation periods,
+to the extent consistent with operating requirements of COUNTY. Exceptions may be granted at
+the discretion of the department head or designee.
+
+8.5             TERMINATION OF EMPLOYMENT. Upon separation from employment after
+completing twelve (12) months of continuous service, unused accrued regular vacation hours
+shall be cashed out and paid to the employee at the employees regular base wage rate at the time
+of separation. In the event of an employees death, all unused accrued regular vacation hours
+shall be paid to the employees designated beneficiary at the current rate of pay.
+
+8.6            VACATION SELL-BACK. An employee with at least one year of continuous
+service may elect to sell back up to 40 hours of accrued vacation time. An employee with at least
+14 years of continuous service may elect to sell back up to 80 hours of accrued vacation time.
+The employee must have a remaining vacation balance of 40 hours after the sell back. This
+option may be exercised once each fiscal year. Said request shall be in writing on a COUNTY-
+                  2025  2028 COLLECTIVE BARGAINING AGREEMENT
+                               (Yamhill County and FOPPO)  Page 11
+                                                                                                 B.O. 25-414
+approved form and department head approval shall be required. Vacation sell-back may not be
+used in conjunction with any vacation donation. Payment shall be made according to the
+schedule indicated on the request form.
+
+### ARTICLE IX
+
+                                          SICK LEAVE
+
+9.1     STATUTORY COMPLIANCE. COUNTY provides sick leave in accordance with
+Oregon sick time law, as required. In the event of any conflict between the terms set forth in this
+section and applicable law, the law will be followed. No employee will suffer adverse
+employment action, discrimination, or retaliation with respect to any term or condition of
+employment for requesting, using, inquiring about, complaining about, or participating in an
+investigation, proceeding, or hearing related to the use of sick leave, except in cases of abuse,
+fraud, or violation of policies and procedures.
+
+9.2     SICK LEAVE ACCRUAL. Full-time employees shall accrue sick leave at the rate of
+eight hours per full calendar month worked. Exempt full-time employees are presumed to work
+forty (40) hours per work week for the purposes of calculating sick time accrual. Part-time
+employees shall accrue sick leave at a prorated rate based on their regularly assigned work
+schedule. For example, a part-time employee who regularly works twenty (20) hours per work
+week accrues sick leave at fifty percent (50%) of the rate for full-time employees, which is four
+sick leave hours. Full-time employees who work a partial month, excluding periods of paid
+leave or paid holidays, shall accrue sick leave at the same rate as a part-time employee working
+that same work schedule. In all instances, employees shall not accrue sick leave at a rate less
+than one hour for every thirty hours worked.
+
+Sick leave may be accumulated to a total maximum of 1260 hours and may be taken only for the
+purpose specified in section 9.3. Employees who are rehired by COUNTY within six (6) months
+of separation are entitled to use previously unused accrued sick time immediately upon re-
+employment.
+
+Sick leave will be paid at the same wage rate that the employee would have earned but for the
+absence based on the employees regular work schedule. Sick leave pay does not include
+overtime or PTO/CST premium pay.
+
+9.3    UTILIZATION OF SICK LEAVE. Sick leave may be used in increments of one (1)
+hour. Sick leave may be used to cover absences during part of a shift or for an entire shift. Sick
+leave may be used for the following reasons:
+
+       To care for the employee or the employees family member with a mental or physical
+       illness, injury, or health condition, need for medical diagnosis, care, or treatment of a
+       mental or physical illness, injury, or health condition, or need for preventive medical
+       care;
+                  2025  2028 COLLECTIVE BARGAINING AGREEMENT
+                               (Yamhill County and FOPPO)  Page 12
+                                                                                                     B.O. 25-414
+        To care for an infant or newly adopted child under 18 years of age, or for a newly placed
+       foster child under 18 years of age, or for an adopted or foster child older than 18 years of
+       age if the child is incapable of self-care because of a mental or physical disability,
+       completed within 12 months after birth or placement of the child;
+        To recover from or seek treatment for a health condition of the employee that renders the
+       employee unable to perform at least one of the essential functions of the employees
+       regular position;
+       Absences associated with the death of a family member by:
+            · Attending the funeral or alternative to a funeral of the family member;
+            · Making arrangements necessitated by the death of the family member; or
+            · Grieving the death of the family member;
+        Absences related to domestic violence, harassment, sexual assault or stalking:
+        To seek legal or law enforcement assistance or remedies to ensure the health and safety
+       of the employee or the employees minor child or dependent, including preparing for and
+       participating in protective order proceedings or other civil or criminal legal proceedings
+       related to domestic violence, harassment, sexual assault or stalking;
+       To seek medical treatment for or to recover from injuries caused by domestic violence or
+       sexual assault to or harassment or stalking of the eligible employee or the employees
+       minor child or dependent;
+       To obtain, or to assist a minor child or dependent in obtaining, counseling from a licensed
+       mental health professional related to an experience of domestic violence, harassment,
+       sexual assault or stalking;
+       To obtain services from a victim services provider for the eligible employee or the
+       employees minor child or dependent; or
+       To relocate or take steps to secure an existing home to ensure the health and safety of the
+       eligible employee or the employees minor child or dependent;
+        In the event of a public health emergency, including but not limited to:
+            · Closure of the employees place of business, or the school or place of care of the
+               employees child, by order of a public official due to a public health emergency;
+            · A determination by a lawful public health authority or a health care provider that
+               the presence of the employee or the family member of the employee in the
+               community would jeopardize the health of others; or
+            · The exclusion of the employee from workplace under any law or rule that requires
+               the employer to exclude the employee from the workplace for health reasons.
+
+For the purposes of this section, family member means the employees spouse, domestic
+partner (as described in ORS 106.300 to 106.340), biological child, adopted child, stepchild,
+foster child, domestic partners child, parent, adoptive parent, stepparent, foster parent, parent-in-
+law, domestic partners parent, grandparent, grandchild, and any individual with whom an
+employee has or had an in loco parentis relationship. In loco parentis means those individuals
+
+
+                   2025  2028 COLLECTIVE BARGAINING AGREEMENT
+                                (Yamhill County and FOPPO)  Page 13
+                                                                                                     B.O. 25-414
+with day-to-day responsibilities to care for or financially support a child, or who had such
+responsibility for the employee when the employee was a child.
+
+Use of sick leave runs concurrently with state and federal leave laws, including but not limited to
+the Oregon Family Leave Act (OFLA), Oregon domestic violence leave laws, and the Family
+Medical Leave Act (FMLA). Employees may use paid sick leave to supplement time loss
+payments in accepted workers compensation claims up to their regular wages, to the extent
+permitted by law.
+
+9.4      SICK LEAVE SCHEDULING. In such event, the employee shall notify the department
+head or designee of the reasons for the employees absence and expected length thereof, as soon
+as possible and in no event later than the first half of the first regular work shift unless unable to
+do so because of the qualifying reason for use of sick leave. Employees must make reasonable
+efforts to schedule planned sick leave and provide reasonable advance notice, not to exceed ten
+(10) days prior to the first day of the sick leave, so as to not unduly disrupt COUNTY operations.
+
+9.5     SICK LEAVE VERIFICATION. Medical verification or other certification for the use of
+sick leave may be requested by the County Administrator, department head, or designee under
+these circumstances:
+
+       An employee takes more than three consecutively scheduled workdays of sick leave;
+       The need for sick time is foreseeable and is projected to last more than three
+       consecutively scheduled workdays; or
+       An employee commences sick time without providing notice required by this section; or
+       COUNTY has sufficient evidence to suspect that an employee is abusing sick time,
+       including engaging in a pattern of absenteeism, regardless of whether the employee has
+       used sick time for more than three consecutive days. Pattern of abuse includes, but is
+       not limited to, repeated use of unscheduled sick time on or adjacent to weekends,
+       holidays, vacation days, or paydays.
+
+If an employee fails to provide verification or certification when requested, COUNTY shall not
+be required to pay for the use of sick time for the absence taken until the employee provides
+verification or certification verifying that the absence was for a qualifying reason.
+
+9.6      INTEGRATION WITH WORKERS COMPENSATION. During the time an employee
+is entitled to time-loss benefits due to a non-chargeable approved workers compensation claim
+for a work-related injury, the workers compensation carriers time loss payment is
+supplemented by COUNTYs payment to the employee of one-third of the employees regular
+salary. All benefits and accruals (except for the benefits under Article 11 which are specified in
+subparagraph (d)) are calculated on the basis of the one-third payment so long as the one-third
+payment is made. The one-third payments by COUNTY will not be made after 180 days from
+the date of injury.
+
+
+                   2025  2028 COLLECTIVE BARGAINING AGREEMENT
+                                (Yamhill County and FOPPO)  Page 14
+                                                                                                     B.O. 25-414
+       (a)      CHARGEABLE INJURIES. Where the COUNTY reasonably believes that a
+       compensable injury has occurred due to the employees failure to follow proper safety
+       procedure instructions, or was engaged in activities outside the scope of COUNTY
+       employment, the COUNTY may elect to declare the injury a chargeable injury.
+       (b) Where the compensable injury is a chargeable injury, the employee may opt to
+       supplement the workers compensation time loss benefit to an amount not to exceed the
+       workers regular salary by applying accrued compensatory time, accrued vacation leave
+       or accrued sick leave. To exercise this option, the employee must notify COUNTY in
+       advance of the payroll deadline.
+       (c) An employee may appeal the COUNTYS declaration of an injury as chargeable to
+       a review panel of two members appointed by the Association president and two members
+       appointed by COUNTY Administrator. The Review Committees determination is
+       subject to the grievance process in Article XIII, beginning at Step 2.
+        (d)     For approved workers compensation claims resulting from a work-related injury,
+       COUNTY will pay premiums due under Article 11 on behalf of the injured employee
+       until all of the employees accrued leave is exhausted or 18 months from the date of the
+       work-related injury, whichever is later. COUNTY will provide the benefits under Article
+       XI allowed under this section in the same manner as they were provided at the time of the
+       employees work-related injury.
+
+9.7             SICK LEAVE WITHOUT PAY. An employee may apply for sick leave without
+pay, which is unprotected leave provided by COUNTY to qualifying employees after the
+employee has exhausted all accrued paid leave, including but not limited to vacation,
+compensatory, and sick leave hours. Sick leave without pay may be used for recovery from
+injury or illness to the employee for a period of time not to exceed twelve (12) weeks.
+COUNTY may grant sick leave without pay at its discretion, based on the operational needs and
+limits of the department or COUNTY, the requirements of COUNTYs Leave of Absence
+(Unpaid) policy, and medical certification provided by the employee.
+
+So long as the employee is on authorized leave under this section, the employee shall be
+reinstated to his or her former or equivalent position after presenting a return to work release
+from a healthcare provider.
+
+9.8            RETIREMENT FROM EMPLOYMENT. Compensation for accrued sick leave
+shall be provided for any employee upon the employees retirement, separation from COUNTY
+employment due to job-related disability, or separation from COUNTY employment due to the
+employees death at the rate of 25% of the accrued sick leave time. For the purpose of this
+section only, an employee shall be entitled to payment of accrued sick leave upon retirement
+when all of the following conditions are satisfied:
+
+(a)    The employee is at least 50 years old; and
+
+
+
+                  2025  2028 COLLECTIVE BARGAINING AGREEMENT
+                               (Yamhill County and FOPPO)  Page 15
+                                                                                                   B.O. 25-414
+(b)    The employee has worked at least ten years continuous service immediately prior to
+retirement as a COUNTY employee.
+
+Continuous service shall mean employment by COUNTY that has not been interrupted by a
+separation of employment for any reason. Continuous service for rehired employees shall begin
+from the most recent date of hire. One month of completed continuous service means one full
+calendar month of employment by COUNTY in which employee actually worked, regardless of
+the actual date of hire. Unpaid leave periods shall not be counted as completed continuous
+service for the purpose of this section, unless doing so would be prohibited by an applicable
+federal or state law.
+
+9.9           DONATED LEAVE. COUNTY agrees to continue its current donated leave
+program for employees in need of additional leave. Members of this bargaining unit may elect to
+donate vacation leave under COUNTYS program.
+
+### ARTICLE X
+
+                            OTHER LEAVES AND ABSENCES
+
+10.1            CRITERIA AND PROCEDURE. Leave of absence without pay (not to exceed
+90 calendar days) may be granted upon establishment of reasonable justification therefore in
+instances where the operations of the department will not be seriously handicapped by the
+temporary absence of the employee. Requests for such leaves must be in writing. Normally
+such leave will not be approved for an employee for the purpose of accepting employment
+outside the service of COUNTY. Such leaves may be renewed or extended upon request and in
+the discretion of COUNTY Administrator or designee.
+
+10.2           JURY DUTY. Employees shall be granted paid leave for service on a jury. The
+compensation paid to such an employee for the period of such absence shall be reduced by the
+amount of money received by him/her for such jury duty. Upon being excused from jury service
+before the end of the regular workday, employees shall immediately contact the department head
+or other supervisor to receive their work assignment for the remainder of the employees regular
+workday.
+
+10.3             APPEARANCES. Leave with pay shall be granted for appearances before a
+court, legislative committee, judicial or quasi-judicial body as a witness in response to a
+subpoena or other direction by proper authority. The compensation paid to such employee shall
+be reduced by an amount equal to any compensation the employee may receive as a witness fee.
+
+10.4           FEDERATION BUSINESS. FEDERATION or its representatives shall have the
+right to conduct official FEDERATION business on COUNTY property at such time and in a
+manner which does not interrupt COUNTY operations or efficiency. Nothing herein is to be
+construed as a right of an employee to leave the employees station without supervisory
+
+
+                  2025  2028 COLLECTIVE BARGAINING AGREEMENT
+                              (Yamhill County and FOPPO)  Page 16
+                                                                                                B.O. 25-414
+approval. FEDERATION shall conduct all business on other than COUNTY time except as
+expressly authorized elsewhere in this Agreement.
+
+10.5           ELECTION DAY. Employees shall be granted up to two hours of paid leave to
+vote on any election day if, due to scheduling of work, they would not otherwise be able to vote.
+
+10.6          FAMILY MEDICAL LEAVE. Family medical leave shall be granted in
+accordance with applicable Oregon and Federal law.
+
+10.7            EDUCATIONAL LEAVE. After completing one year of continuous service a
+full-time employee, upon written request, may be granted a leave of absence without pay by
+COUNTY for the purpose of upgrading professional ability through enrollment at an accredited
+school or course of study. The period of such leave of absence shall not exceed one year but
+may be renewed or extended upon request of the employee and approval of COUNTY. One-year
+leaves of absence, with requested extension, for educational purposes may not be provided more
+than once in a three-year period.
+
+10.8            CONFERENCES. Employees may also be granted time off with pay for
+educational purposes, for reasonable lengths of time, to attend conferences, seminars, briefing
+sessions, training programs and other programs of a similar nature that are intended to improve
+or upgrade the employee's skill and professional ability when authorized by the department head
+or manager having supervision of the employee.
+
+10.9            MILITARY LEAVE WITH PAY. A regular, full-time employee who has been
+employed for six months preceding an application for military leave, and who has not been on
+military leave at the time of application, will be granted a military leave of absence with pay for
+a period not exceeding 15 days in any one training year, in accordance with ORS 408.290
+
+10.10         MILITARY LEAVE WITHOUT PAY. Military leave is granted to all employees
+who are absent from work because of service in the U.S. uniformed services, in accordance with
+the Uniformed Services Employment and Reemployment Rights Act (USERRA) and state law.
+
+10.11 (a)      BEREAVEMENT LEAVE. An employee may be granted up to 40 hours of paid
+bereavement leave, within a two-week period, in the event of death in the immediate family of
+the employee, for the purpose of making household adjustments and to attend the funeral. An
+employee may also be granted bereavement leave with pay to attend the funeral of a current
+fellow employee. An employee may also be granted bereavement leave without regular pay in
+the event of death of a close friend. Time taken off to attend such friend or fellow employee's
+funeral may be scheduled in half-day increments and shall be limited to no more than one day.
+An eligible employee shall be granted leave under the Oregon Family Leave Act ("OFLA"), as
+provided in ORS 659A.159. Where both leaves coincide, OFL for bereavement shall run
+concurrently with bereavement leave, as stated in this section, and not be additional leave.
+
+       (b)     IMMEDIATE FAMILY. An employee's "immediate family," as used in section
+
+                  2025  2028 COLLECTIVE BARGAINING AGREEMENT
+                               (Yamhill County and FOPPO)  Page 17
+                                                                                                      B.O. 25-414
+10.11(a) above, shall include only the fiancé, domestic partner, spouse, custodial, non-custodial,
+adoptive, foster, or biological parent, parent of domestic partner, grandparent, grandchild,
+biological, adopted, foster or stepchild, brother, sister, mother-in-law, father-in-law, step parent,
+of the employee, the employees spouse, or the employees domestic partner (e.g., spouses
+grandparent) and individuals residing in the same household as the employee.
+
+10.12          CONTINUATION OF BENEFITS. Upon termination, an employee may
+continue at the employee's sole expense COUNTY fringe benefits (excluding retirement) as
+permitted or provided by policy, federal, or state law.
+
+### ARTICLE XI
+
+                                   HEALTH AND WELFARE
+
+11.1           MEDICAL/DENTAL.
+
+(a)    From July 1, 2025, through June 30, 2028, COUNTY shall offer FOPPO members the
+same medical and dental packages, including VEBAs, offered to Yamhill County Employee
+Association, hereinafter referred to as YCEA bargaining unit members in the same period.
+
+From September 1, 2025, through August 31, 2028, the County shall pay 97% of the Providence
+Base plan monthly premium for coverage of full-time employees and their dependents. The
+employee shall pay 3%. In addition, the County shall permit full-time employees to buy-up to
+a different plan. The County shall contribute $125 per month toward the cost of the buy-up
+plan. The employees share shall be paid by payroll deduction.
+
+While this Agreement is in effect, the County will provide a Voluntary Employee Beneficiary
+Association Medical Expense Plan (VEBA) to be administered by a third party of behalf of those
+members who select the Providence Base Plan. Effective September 1, 2025, through August
+31, 2028, the amount of the VEBA is $125 per month.
+
+(b)    The employee shall have choice of coverage under a given plan within a package and
+may select the plan at the time of employment or at the annual open enrollment period.
+
+11.2             LIFE INSURANCE. COUNTY shall provide $10,000 term life insurance for
+each employee and $2,000 for the employees eligible dependents under a plan selected by
+COUNTY. Employees shall designate their beneficiaries. COUNTY will provide an option for
+additional life insurance at the employee's cost.
+
+11.3          RETIREMENT. Effective July 1, 1990, COUNTY shall provide employees with
+prospective PERS/OPSRP police and fire retirement coverage unless otherwise prohibited by
+law.
+
+
+                   2025  2028 COLLECTIVE BARGAINING AGREEMENT
+                                (Yamhill County and FOPPO)  Page 18
+                                                                                                        B.O. 25-414
+11.4          DEFERRED COMPENSATION. COUNTY shall provide the ability for an
+employee to participate in a Deferred Compensation Plan through a qualified financial
+institution.
+
+11.5           ELIGIBLE EMPLOYEES.
+
+(a) Full time employees shall be eligible for the health and welfare benefits set forth in this
+Article on the first day of the calendar month following the date of hire if the employee is hired
+on or before the 15th day of the month. If the employee is hired on or after the 16th day of the
+month, then the employee shall be eligible on the first day of the second calendar month
+following the date of hire.
+
+(b) Regular part time employees shall be eligible for the health and welfare benefits set forth in
+this Article on the first day of the calendar month following the date of hire if the employee is
+hired on or before the 15th day of the month. If the employee is hired on or after the 16th day of
+the month, then the employee shall be eligible on the first day of the second calendar month
+following the date of hire. Eligible regular part time employees shall receive pro-rated benefits
+according to their percentage of working full time.
+
+11.6            RETIREMENT BENEFIT. An employee who has served COUNTY for a
+minimum of 10 years continuous service immediately prior to retirement at or after the age of 55
+will be entitled to an early retirement benefit in the form of severance pay in the sum of $300 for
+each year of the employees age less than 70.
+
+Continuous service shall mean employment by COUNTY that has not been interrupted by a
+separation of employment for any reason. Continuous service for rehired employees shall begin
+from the most recent date of hire. Unpaid leave periods shall not be counted as completed
+continuous service for the purpose of this section, unless doing so would be prohibited by an
+applicable federal or state law.
+
+11.7             SHORT TERM DISABILITY. COUNTY will pay the full premiums for short-
+term disability insurance administered through a private carrier in accordance with standards
+determined and approved by the joint COUNTY and YCEA Benefits Committee.
+
+### ARTICLE XII
+
+                               DISCIPLINE AND DISCHARGE
+
+12.1            CAUSE FOR DISCHARGE. COUNTY may discharge or suspend an employee
+for just cause but no employee shall be discharged or suspended unless a written warning notice
+shall previously have been given to such employee of a complaint against the employee
+concerning the employees work or conduct. However, that no such prior warning notice shall
+be necessary if the cause of discharge or suspension is dishonesty, drinking while on duty or
+operating a COUNTY motor vehicle, violation of the drug and alcohol policy, gross
+insubordination, conviction of a crime, habitual absenteeism, deliberate or reckless destruction of
+                  2025  2028 COLLECTIVE BARGAINING AGREEMENT
+                               (Yamhill County and FOPPO)  Page 19
+                                                                                                     B.O. 25-414
+COUNTY property, willful misrepresentations to the court or officers of the court, intentional
+misrepresentations made under oath, gross misconduct, or sexual misconduct in connection with
+work.
+
+12.2            WARNING NOTICE. The complaint specified in such prior warning notice need
+not concern the same type of misconduct as the cause of discharge or suspension. No such
+warning notice shall remain in effect for a period of more than 12 months. When COUNTY
+issues a warning notice, suspension or termination, it must be within 21 days, exclusive of
+Saturdays, Sundays and holidays, of the day COUNTY first has knowledge of the complaint
+giving rise to the warning notice, suspension, or termination. If the COUNTY is unable to meet
+the 21-day deadline, it will so advise the FEDERATION and request an extension of time in
+which to issue the discipline. Mutual agreement to the extension will not be unreasonably
+withheld. Otherwise, the notice will be disallowed. A copy of such warning notice, suspension,
+or discharge shall be given to FEDERATION and employee immediately upon issuance but in
+no event later than one (1) business day following issuance.
+
+12.3           PROTEST. An employee may protest the employees own termination or
+suspension or any warning notice. FEDERATION shall have the right to protest any such
+discharge, suspension, or warning notice. Any such protest shall be presented to COUNTY in
+writing within 10 days, exclusive of Saturdays, Sundays and holidays, after the discharge,
+suspension or warning notice. If not presented within such period, the right of protest shall be
+waived. The authorized representatives of COUNTY and FEDERATION will try to resolve the
+matter within ten (10) business days. If they fail to reach agreement within 10 business days it
+shall be promptly referred to the grievance procedure.
+
+12.4             NOTICE TO FEDERATION. In no event will an employee be discharged until
+COUNTY has given prior written notice to FEDERATION of said discharge, except in the case
+of dishonesty, drinking related to employment or the operation of a COUNTY motor vehicle, use
+or sale of illegal drugs, gross insubordination, conviction of a crime, habitual absenteeism,
+deliberate or reckless destruction of COUNTY property, willful misrepresentations to the court
+or officers of the court, intentional misrepresentations made under oath, gross misconduct or
+sexual misconduct in connection with work. In these cases, written notice shall be given within
+two (2) business days following such termination.
+
+12.5            RECORDS. An employee subject to discipline shall be given a copy of any
+disciplinary action entered in the employees personnel records within five (5) business days of
+such action.
+
+12.6           DEFINITIONS. For purposes of section 12.1 and 12.4, the following definitions
+shall apply:
+
+(a)    Gross misconduct means any conduct constituting a substantial disregard of the
+standards of behavior which a reasonable employer has the right to expect.
+
+                  2025  2028 COLLECTIVE BARGAINING AGREEMENT
+                              (Yamhill County and FOPPO)  Page 20
+                                                                                                   B.O. 25-414
+(b)    Sexual misconduct in connection with work means any conduct constituting sexual
+harassment under Oregon Administrative Rule 839-005-0030 or any overt sexual activity
+occurring in the workplace in which the employee is a willing participant.
+
+(c)    Illegal drugs means the definition set forth in the applicable Drug and Alcohol Policy.
+
+### ARTICLE XIII
+
+                                GRIEVANCE PROCEDURE
+
+13.1            DISCRIMINATION COMPLAINT. All complaints alleging any form of
+discrimination may be processed through the grievance procedure. A grievant may submit such a
+claim to binding arbitration only if the employee agrees, in writing, to accept the arbitrators
+ruling as final and binding.
+
+13.2           DISMISSAL OR SUSPENSION DISPUTES. Disputes arising from termination
+or suspension of an employee are subject to the grievance and arbitration procedure.
+
+13.3           TIMELINESS OF GRIEVANCE. Grievances are defined as alleged violations
+of this Agreement and must be initiated within fifteen (15) calendar days of the date the
+employee knew or should have known of the occurrence. Grievances filed in a timely manner
+shall be processed according to Section 13.5 of this Article.
+
+13.4            ASSIGNMENT OF GRIEVANCE STEP. Upon mutual agreement by the parties
+to a grievance, when the nature of the grievance is such that it would be perfunctory or
+ineffectual to proceed at a lower step, it may be initiated at the lowest step where successful
+solution may be reasonably expected.
+
+13.5            GRIEVANCE STEPS. Employees are encouraged to resolve their problems
+informally at the immediate supervisor level. If such a problem cannot be resolved, the
+following procedure shall be followed:
+
+Step 1. Any employee, with notice to FEDERATION, or FEDERATION, on an employee's
+behalf (with written permission of the employee), may file a grievance in writing with the
+employees immediate supervisor. Grievances must be timely filed within the deadline set forth
+in Article 13.3. The immediate supervisor shall respond in writing to the grievance within
+fifteen (15) calendar days to the employee with a copy to FEDERATION.
+
+Step 2. If the Step 1 grievance remains unresolved, the decision may be appealed to the Director
+of the Department of Community Justice within fifteen (15) calendar days after the response
+required by Step 1 response. The Director of the Department of Community Justice or
+designated representative shall respond in writing to the grievance within fifteen (15) calendar
+days after receipt of the Step 2 grievance appeal.
+
+
+
+                  2025  2028 COLLECTIVE BARGAINING AGREEMENT
+                              (Yamhill County and FOPPO)  Page 21
+                                                                                                   B.O. 25-414
+Step 3. If the grievance remains unresolved at Step 2, it may be appealed to the County
+Administrator within fifteen (15) calendar days after the Step 2 response was due. The County
+Administrator or its designee shall respond in writing within fifteen (15) calendar days after
+receipt of the grievance.
+
+13.6            GRIEVANCE STEP TIME LIMITS. The intent of both parties is to process
+grievances at each step in as short a period of time as is practical. If a grievance is not advanced
+to the next step within fifteen (15) calendar days of a written decision, it shall be deemed waived.
+
+13.7             EMPLOYEE ASSURANCE. Employees shall be assured freedom from
+retaliation for use of the grievance procedure.
+
+13.8            EMPLOYEES REPRESENTATION RIGHTS REGARDING GRIEVANCES.
+Employees shall have the right to process grievances under this Article through Step 3 with or
+without representation by FEDERATION. A FEDERATION representative shall have the right
+to be present to hear disposition of the grievance when the employee has not requested
+FEDERATION'S representation.
+
+13.9           OFFICIAL STATEMENT OF GRIEVANCE. All grievances shall be reduced to
+writing and shall include the facts giving rise to the grievance and the remedy requested.
+
+13.10           OBSERVANCE OF TIME LIMITS FOR GRIEVANCE PROCEDURE. Time
+limits specified in this procedure must be observed unless a party requests a specific extension of
+time and the parties mutually agree in writing to the requested extension of time or other
+mutually agreed extension of time. The extension of time shall become part of the grievance
+record.
+
+13.11         MEDIATION. At any time in the grievance process, the parties may mutually
+agree to mediation. The parties shall schedule mediation as soon as reasonably practicable for the
+parties.
+
+13.12          FEDERATIONS RIGHT TO REQUEST ARBITRATION FOR UNRESOLVED
+GRIEVANCE. Any grievance, having progressed through the steps outlined in this article, and
+remaining unresolved, may be submitted by FEDERATION to arbitration for resolution. To be
+valid, Federation must submit its written request for arbitration to COUNTY within thirty (30)
+calendar days after receipt of the County Administrators response.
+
+13.13           SELECTION OF AN ARBITRATOR. Arbitrations shall be heard by one (1)
+arbitrator. COUNTY and FEDERATION shall jointly request from the Employment Relations
+Board the names of seven (7) qualified arbitrators. FEDERATION and COUNTY will select an
+arbitrator by alternately striking names. The order of striking names shall be determined by the
+party seeking arbitration, that party strikes first. One (1) name at a time shall be struck until only
+one (1) name remains on the list. The name remaining on the list shall be accepted by the parties
+as the arbitrator and the arbitration hearing shall commence thereafter.
+
+                   2025  2028 COLLECTIVE BARGAINING AGREEMENT
+                                (Yamhill County and FOPPO)  Page 22
+                                                                                                     B.O. 25-414
+13.14            BINDING ARBITRATION FOR GRIEVANCE RESOLUTION. The parties
+agree that the decision or award of the arbitrator shall be final and binding on each party. The
+arbitrator shall have no authority to add to, subtract from, or change any terms of this
+Agreement, change an existing wage rate, or establish a new wage rate.
+
+13.15           ARBITRATION FEES and EXPENSES. The arbitrators fees and expenses
+shall be borne by the non-prevailing party. If the arbitrator is unable to designate either party as
+the prevailing party, the expenses shall be apportioned between the parties in amounts to be
+determined by the arbitrator. All other expenses shall be borne exclusively by the party requiring
+the service or item for which payment is to be made.
+
+### ARTICLE XIV
+
+                                  PROBATIONARY PERIOD
+
+14.1            PURPOSE. The probationary period is an integral part of the employee selection
+process and provides COUNTY with the opportunity to upgrade and improve the quality of its
+service by observing a new employee's work, training the new employee, aiding new employees
+to adjust to their positions, and providing COUNTY with an opportunity to reject any employee
+whose work performance fails to meet required work standards.
+
+14.2            DURATION OF PROBATIONARY PERIOD. Every new employee hired into
+the bargaining unit shall serve a probationary period of eighteen full calendar months. Except for
+vacation leave and sick leave less than five consecutive days, time spent on leave is not included
+in the eighteen-month probationary period. During the probationary period for a newly hired
+employee, COUNTY may terminate the probationary employee for any reason. Any termination
+of a probationary employee is not subject to the grievance process and shall in no event
+constitute a violation of this Agreement. The probationary period may be extended an additional
+six months.
+
+14.3            PROBATIONARY CONDITIONS. FEDERATION recognizes the right of
+COUNTY to terminate probationary employees for any reason and to exercise all rights not
+specifically modified by this Agreement with respect to such employees, including but not
+limited to, the shifting of work schedules and job classifications, the assignment of on-the-job
+training, cross-training to other classifications, the assignment to educational courses and
+training programs, and the requirement that such employees attend training programs on their
+off-duty time for which they will be compensated on a straight time basis by the granting of
+compensatory time off to the extent allowed by the 7(k) exemption.
+
+### ARTICLE XV
+
+                                  SENIORITY AND LAYOFF
+
+15.1           DEFINITION OF SENIORITY. "Seniority" as used in this article is determined
+by the length of an employee's continuous service within the FEDERATION since the
+                   2025  2028 COLLECTIVE BARGAINING AGREEMENT
+                               (Yamhill County and FOPPO)  Page 23
+                                                                                                   B.O. 25-414
+employee's most recent date of hire. For the purpose of determining seniority, continuous service
+shall mean employment by COUNTY within the FEDERATION that has not been interrupted by
+a separation of employment for any reason. Continuous service for rehired employees shall begin
+from the most recent date of hire. Unpaid leave periods shall not be counted as completed
+continuous service for the purpose of gaining seniority, unless doing so would be prohibited by
+an applicable federal or state law.
+
+15.2            APPLICATION OF SENIORITY IN PROMOTIONS. Determinations of
+individuals to be promoted within the bargaining unit shall be based upon the skills and abilities,
+attendance records, disciplinary records, interviews, or other relevant criteria of the employees
+involved. Where skills and abilities of two or more employees are equal, the employee with the
+greater seniority will be promoted. In order to be eligible for promotion, an employee must be in
+good standing for at least twelve (12) months.
+
+15.3           WHEN LAYOFFS OCCUR. In the event layoffs become necessary, the layoffs
+shall be by inverse order of seniority within the FEDERATION.
+
+15.4           RECALL. Employees shall be called back from layoff according to seniority. A
+laid-off employee shall retain the right to recall for a period of twelve (12) months from the date
+of layoff. Laid-off employees shall be recalled only by certified or registered mail, addressed to
+the employee's last address of record with the COUNTY, and the employee shall have five (5)
+calendar days following the first attempt at delivery of such notification in which to inform the
+COUNTY of intent to return to work, and an additional ten (10) days from the notice of intent to
+return to work to report to work.
+
+### ARTICLE XVI
+
+                                   GENERAL PROVISIONS
+
+16.1           NO DISCRIMINATION.
+
+(a)     The provisions of this Agreement shall be applied equally to all employees in the
+bargaining unit without discrimination as based on any class or status protected by Oregon or
+federal laws or membership or non-membership in FEDERATION. FEDERATION shall share
+equally with COUNTY the responsibility for applying the provisions of this Agreement.
+
+(b)    All references to employees in this Agreement designate all genders, and wherever the
+one gender is used it shall be construed to include male, female, and non-binary employees.
+
+(c)     Employees shall have the right to form, join, and participate in the activities of
+FEDERATION or any other labor organization, or to refrain from any or all such activities, and
+there shall be no discrimination by either COUNTY or FEDERATION by reason of the exercise
+of such right except as specifically provided herein.
+
+
+                  2025  2028 COLLECTIVE BARGAINING AGREEMENT
+                               (Yamhill County and FOPPO)  Page 24
+                                                                                                      B.O. 25-414
+(d)    Nothing in this Agreement shall be construed as precluding or limiting the right of an
+individual employee to seek compliance with the terms of this Agreement.
+
+16.2           EXISTING CONDITIONS. No reduction in existing working conditions or
+benefits which constitute mandatory subjects for bargaining not covered elsewhere in this
+Agreement shall be made. COUNTY will bargain proposed changes to mandatory subjects of
+bargaining with FEDERATION in accordance with state law. Any dispute as to whether
+COUNTY has a duty to bargain a change in working conditions or benefits under state law may
+be taken up as a grievance under Article XIII. The benefits provided by this Agreement shall be
+exclusive and shall be in lieu of all economic or related benefits heretofore provided by
+COUNTY. Nothing in this Agreement, however, shall be construed to prohibit or limit the right
+of COUNTY to grant time off with pay for personal reasons, natural disasters, rescue work or
+property damage, consistent with COUNTYS prior practice or orders.
+
+16.3            CHANGES IN EXISTING CONDITIONS. COUNTY will solicit and be
+receptive to the input of FEDERATION regarding changes in existing working conditions
+proposed by COUNTY, and any such changes shall not be made for arbitrary or capricious
+reasons. COUNTY will bargain proposed changes in working conditions with FEDERATION in
+accordance with state law. Any dispute as to whether a change in existing working conditions
+constitutes a mandatory subject of bargaining may be resolved through the grievance procedure.
+Whenever any existing conditions are changed, they shall be posted prominently on all
+Department bulletin boards for a period of 10 consecutive workdays prior to becoming effective.
+
+16.4           NEGOTIATIONS MEETINGS. COUNTY and FEDERATION shall notify each
+other of the names of persons authorized to negotiate for the parties. Negotiations shall, to the
+extent possible, be conducted during normal working hours. FEDERATION negotiators shall be
+allowed time off with pay for the purpose of attending negotiating meetings with COUNTY so
+long as such meetings do not interfere with performance of the employee's job. COUNTY'S
+obligation to pay FEDERATION negotiators under this shall be limited to two employees.
+
+16.5           PAY DAYS. Employees shall be paid twice monthly, on or before the 15th day
+and the last working day of each month, or as permitted or required by law.
+
+16.6            COPIES OF AGREEMENT. COUNTY agrees to pay for the cost of reproducing
+five copies of this Agreement to be supplied to FEDERATION for use by its members.
+
+16.7          COPY MACHINE. COUNTY agrees to set up a monthly charge account on
+behalf of FEDERATION for use of the COUNTY copy machine at the same rate charged other
+non-COUNTY authorized users. Upon receipt of a quarterly statement, FEDERATION agrees
+to promptly pay all costs accrued during that quarter. COUNTY business shall be given priority
+over non-COUNTY business.
+
+
+
+
+                  2025  2028 COLLECTIVE BARGAINING AGREEMENT
+                              (Yamhill County and FOPPO)  Page 25
+                                                                                                  B.O. 25-414
+16.8.          MOONLIGHTING.
+
+(a)     No employee shall apply for, or accept, part time or full time work, with or without
+compensation, whether regular or temporary, with any employer other than COUNTY, where
+said work either adversely affects the employee's job performance or presents a conflict of
+interest.
+
+(b)     Prior written notice of intent to take an outside job will be given by the employee to the
+supervisor at least five (5) working days before such job will begin. The supervisor will restrict
+an employee's ability to take such work only if the job would violate the provision of Section
+16.8(a) of this Article.
+
+16.9            CASELOAD AUDITS. COUNTY agrees to establish and maintain uniform
+criteria for auditing the caseloads of all COUNTY parole and probation officers. Once
+developed, the policy for auditing caseloads will be consistently implemented. FEDERATION
+agrees that criteria and policy may be updated as needed to meet the operational needs of
+COUNTY or to meet regulatory or statutory requirements.
+
+16.10          SAFETY.
+
+(a)    COUNTY shall provide each vehicle assigned for employee business use with a
+rechargeable flashlight and GPS device.
+
+(b)     COUNTY shall provide each employee with a bulletproof vest.
+
+(c)   To the extent allowed by law, COUNTY will allow employees to register their personal
+automobiles at the address of the Department of Community Justice office.
+
+16.11          FIREARMS IN THE FIELD.
+
+(a)    An employee may carry a firearm while in the field and in the office if the employee is
+on-duty, complies with department policy and local, state, and federal laws, and:
+
+(1)     The employee passes any required psychological screening;
+
+(2)     The employee notifies the Director of the Department of Community Justice in writing of
+his/her intent to carry a firearm while on duty; and
+
+(3)    The employee has successfully completed a firearms training program recognized by
+DPSST and continues to meet minimum firearms qualifications applicable to parole and
+probation officers per COUNTY policy and statutory requirements.
+
+(4)     Employees will not be required to carry firearms concealed while in the field.
+
+
+
+
+                  2025  2028 COLLECTIVE BARGAINING AGREEMENT
+                               (Yamhill County and FOPPO)  Page 26
+                                                                                                     B.O. 25-414
+16.12          USE OF COUNTY E-MAIL SYSTEM.
+
+(a)     Subject to subsection (b), FEDERATION employees are authorized to use COUNTY
+email system to communicate to other FEDERATION employees limited, impartial
+FEDERATION business information such as meeting notices. Use of COUNTY email system is
+not authorized to communicate any political information or collection of data for use in
+FEDERATION activities or bargaining without advance written permission of a supervisor.
+
+(b)     Use of COUNTY email system is subject to COUNTY email policies, including review
+by department heads and other persons authorized by COUNTY policy. All COUNTY email is a
+public record and is subject to disclosure unless exempted from disclosure by Oregon law in
+accordance with COUNTY email policy. There is no reasonable expectation or guarantee of
+privacy in the workplace, including, but not limited to, use of COUNTY email system.
+
+16.13          DRUG AND ALCOHOL TESTING POLICY. The policy attached and
+incorporated into this Agreement as Attachment A and labeled Drug and Alcohol Testing
+Policy is hereby made a part of this Agreement.
+
+### ARTICLE XVII
+
+                             SAVINGS CLAUSE AND FUNDING
+
+17.1             SAVINGS CLAUSE. Should any Article, Section, or portion thereof of this
+Agreement be held unlawful and unenforceable by any court of competent jurisdiction, such
+decision of the court shall apply only to the specific Article, Section or portion thereof directly
+specified in the decision, and the remainder of this Agreement shall remain in full force and
+effect. Upon the issuance of such a decision, the parties agree immediately to negotiate a
+substitute, if possible, for the invalidated Article, Section, or portion thereof.
+
+17.2            FUNDING. The parties recognize that revenue needed to fund wages and
+benefits provided by the Agreement must be approved annually by established budget procedures
+and in certain circumstances by vote of the citizens of COUNTY or by state budget procedures.
+All such wages and benefits are therefore contingent upon sources of revenue and, where
+applicable, voter budget approval. COUNTY has no intention of reducing the wages and
+benefits specified in this Agreement because of budgetary limitations, but cannot and does not
+guarantee any level of employment in the bargaining unit covered by this Agreement. COUNTY
+agrees to include in its annual budget request amounts sufficient to fund wages and benefits
+provided by this Agreement, but makes no guarantee as to passage of such budget requests
+pursuant to established budget procedure. This section and COUNTY action thereunder shall not
+be subject to Article XIII.
+
+
+
+
+                   2025  2028 COLLECTIVE BARGAINING AGREEMENT
+                                (Yamhill County and FOPPO)  Page 27
+                                                                                                      B.O. 25-414
+                                         ATTACHMENT A
+
+                          Drug- and Alcohol-Free Workplace POLICY
+
+COUNTY is committed to providing a safe work environment that fosters the well-being of its
+employees. COUNTY has zero tolerance for substance abuse in the workplace, and this policy is
+intended to prevent drug and alcohol possession, use, and abuse in our work environment. The use of
+any drug or alcohol can interfere with safe and effective employee performance and productivity. In the
+workplace, drug and alcohol abuse commonly leads to increased absenteeism, higher health care costs,
+lower job performance and productivity, higher incidents of theft in the workplace, and higher rates of
+on-the-job accidents resulting in injury to the abuser and fellow employees. Not only are billions of
+dollars lost every year due to drug and alcohol abuse, drug and alcohol abuse results in tremendous
+negative social impacts on affected co-workers, families, and friends.
+
+COUNTY follows a drug-free workplace policy that meets its commitment to and promotion of higher
+standards of employee performance, productivity, health, safety, and reliability. In order to provide a
+safe workplace where all employees can perform effectively, COUNTY treats drug and alcohol abuse
+seriously. As a condition of employment, all employees in the bargaining unit of the Federation of
+Oregon Parole and Probation Officers must abide by this policy.
+
+Under this policy, COUNTY strictly prohibits the following conduct by employees while on duty or
+engaged in COUNTY business, regardless of whether such conduct occurs on or off COUNTY
+premises:
+
+        Report for work or remain at work with a detectable level of alcohol or controlled substance,
+        intoxicant, or illegal drug in the employees system in excess of screening and confirmation
+        cutoff levels set forth in this policy;
+        Engage in unauthorized use of any alcohol, controlled substance, intoxicant, or illegal drug on
+        COUNTY premises or on COUNTY time, including rest and meal periods;
+        Except in the performance of official job duties, possess or attempt to distribute, sell, obtain,
+        manufacture, transfer, share, or receive any alcohol, controlled substance, intoxicant, illegal
+        drug, or any other substances that impair job performance or pose a hazard to the safety and
+        welfare of the employee, coworkers, and members of the community;
+        Use, transfer, or possess drug paraphernalia or open alcohol containers for personal use while
+        on COUNTY premises or COUNTY time;
+        Use prescription or over-the-counter drugs in a manner inconsistent with the label or the
+        directions of the prescribing healthcare provider;
+        Refuse to cooperate with the alcohol or drug testing process or otherwise interfere with the test;
+        and
+        Engage in misconduct that damages the COUNTYs reputation or an employees working
+        relationship with the COUNTY.
+
+
+
+
+                  2025  2028 COLLECTIVE BARGAINING AGREEMENT
+                                (Yamhill County and FOPPO)  Page 29
+                                                                                                             B.O. 25-414
+The goal of this policy is to balance our respect for individuals with the need to maintain a safe,
+productive, and alcohol- and drug-free environment. Although COUNTY has no intention of intruding
+upon the private lives of its employees, employees are expected to report to work mentally and
+physically fit to perform their duties. Note that COUNTY policy on searches include situations involving
+the potential use or possession of alcohol or drugs on COUNTY premises or COUNTY time.
+
+Everyone shares responsibility for maintaining a safe work environment for each other, and coworkers
+should encourage anyone who may have an alcohol or drug problem to seek help. We encourage
+employees who have a substance abuse problem to seek treatment and rehabilitation through the
+Employee Assistance Program (EAP) before it impacts their health, relationships, and job.
+
+This policy shall be interpreted so as to conform with the applicable collective bargaining agreement and
+applicable federal and state law. It does not and is not intended to alter or create any terms and conditions
+of employment, nor shall it be construed as a promise of continued employment or employment for any
+length of time.
+
+DEFINITIONS
+
+Controlled Substances  all forms of narcotics, depressants, stimulants, hallucinogens, and cannabis,
+whose sale, purchase, transfer, use, or possession is prohibited by state or federal law.
+
+Drug Paraphernalia  any items which are used for the administering or storing of prohibited drugs.
+
+Illegal Drugs  drugs that are illegal under federal or state law, as well as medically-authorized
+(prescription) or over-the-counter drugs which are used, possessed, transferred, or distributed in a manner
+that is inconsistent with its label or the directions of a licensed healthcare provider. For example, ingesting
+someone elses prescription medication or ingesting your own prescription medication in a manner
+inconsistent with the drug label or the directions of your licensed healthcare provider would violate this
+policy.
+
+Medically-Authorized (Prescription) Drugs  drugs which are used during medical treatment, prescribed
+and authorized for use by a licensed healthcare provider, and used in accordance with the drug label or as
+directed by the licensed healthcare provider.
+
+Marijuana remains an illegal drug under federal law. Use of marijuana, including medical marijuana, is
+prohibited. The use of recreational or medical marijuana where it is legal under state law does not excuse
+a positive test result or other violation of this policy.
+
+Over-the-Counter Drugs  drugs which are generally available for purchase or consumption without
+prescription from a licensed healthcare provider and are limited to those drugs which can impair the
+judgment of an employee to safely perform his or her duties.
+
+Positive Test Result  a detectable level of alcohol or drugs in an employees system in excess of screening
+and confirmation cutoff levels set forth in this policy.
+
+
+
+                    2025  2028 COLLECTIVE BARGAINING AGREEMENT
+                                   (Yamhill County and FOPPO)  Page 30
+                                                                                                              B.O. 25-414
+Reasonable Suspicion  a set of objective and specific observations or facts based on direct observation,
+either by a supervisor or another employee, which leads one to suspect that an employee is under the
+influence of alcohol or drugs, including, but not limited to, physical evidence of controlled substances,
+drug paraphernalia, or illegal drugs, patterns of erratic or abnormal behavior, disorientation or confusion,
+and an inability to complete routine tasks.
+
+MEDICALLY-AUTHORIZED (PRESCRIPTION) DRUGS, OVER-THE-COUNTER DRUGS,
+AND ALCOHOL
+
+When an employee uses over the counter medication or receives a prescription for prescription drugs from
+his or her licensed healthcare provider, the employee must ask whether the drugs will impair his or her
+ability to safely perform his or her job. If so, the employee must submit a healthcare provider statement to
+Human Resources. The healthcare provider should be familiar with the employees work duties before
+signing the statement. The statement need not identify the drug, and it may simply state that the employee
+is unable to perform safety-sensitive functions (or other relevant job duties) due to his or her prescription
+medication. COUNTY may ask the healthcare provider to complete a fitness-for-duty form indicating
+when the employee is expected to be able to perform the identified job duties or to return to work. Where
+possible, COUNTY may but is not required to temporarily assign other work consistent with the
+employees medical condition.
+
+Abuse of medically-authorized or over-the-counter drugs is a violation of this policy. Using another
+persons prescription medication and off-label use of medication in a manner that has not been directed by
+a healthcare provider is also considered abuse in violation of this policy.
+
+DRUG AND ALCOHOL TESTING
+
+COUNTY tests for alcohol and drugs under the circumstances described below. We may require a
+biological sample, such as urine, saliva, breath, and/or blood samples, for an alcohol or drug test. When
+samples are needed for analysis in a laboratory, we will use one that is properly licensed.
+
+ A. APPLICANT TESTING
+    Any offer of employment may be contingent upon satisfying drug-testing requirements. If the
+    applicant fails to comply with this policy or the testing requirements or related COUNTY
+    requirements or if the test result is positive, COUNTY will withdraw the offer of employment.
+    Refusal to submit to testing will be treated as the applicants voluntary withdrawal of his or her
+    application for employment or declination of an offer of employment. An applicant who tampers
+    with, adulterates, or substitutes urine or other bodily samples is permanently barred from employment
+    with COUNTY.
+
+ B. REASONABLE SUSPICION-BASED TESTING
+Employees shall be subject to alcohol or drug testing when there is reasonable suspicion.
+
+When there is reasonable suspicion, the employee may not return to work until fitness for duty has been
+established.
+
+
+
+
+                    2025  2028 COLLECTIVE BARGAINING AGREEMENT
+                                  (Yamhill County and FOPPO)  Page 31
+                                                                                                            B.O. 25-414
+COUNTY reserves the right to decide whether reasonable suspicion exists.
+
+ C. ACCIDENTS
+An accident includes any incident involving property damage, physical injury, or near miss. Any employee
+who contributes to or causes an accident (e.g., an employee who runs over a person while driving) may be
+subject to a drug test, as are any injured employees, at the discretion of COUNTY or as required by law or
+court order.
+
+If subsequent incident investigation results in a recommendation for termination of employment or other
+disciplinary action (i.e., for safety or other policy violation), the termination or other disciplinary action
+will occur regardless of the test results.
+
+ D. TESTING AS REQUIRED BY FEDERAL OR STATE LAW OR REGULATION
+Employees are required to submit to any alcohol or drug tests required by federal or state law or regulation
+while you are working on COUNTY time or on COUNTY premises.
+
+We require all employees to cooperate fully in any COUNTY, administrative, or law enforcement
+investigations related to or resulting from this policy. This includes signing any necessary authorizations
+for releasing test results to us.
+
+ALCOHOL OR DRUG TESTING PROCEDURE
+
+A local medical facility or licensed testing facility will collect samples for alcohol and drug testing. A local
+medical facility or licensed testing facility will conduct laboratory and confirmatory testing on samples.
+When an employee is asked to undergo a drug test, he/she will be informed of the type of sample that must
+be provided and the method of sample collection. The employee will be asked to provide identification to
+the person who collects the sample.
+
+All testing will be conducted immediately before, during, or after a work period. Time spent in testing is
+considered work time for purposes of compensation and benefits. COUNTY will pay all costs associated
+with the alcohol or drug test.
+
+Prior to testing, COUNTY will afford applicants and employees subject to testing the opportunity to list
+all prescription and non-prescription drugs and controlled substances that they have used, as well as the
+opportunity to explain the circumstances surrounding the use of such drugs and controlled substances, to
+the individual or entity administering the alcohol or drug test. Failure of any employee to establish
+adequately a legal basis for the use of any drug or controlled substance with respect to which the employee
+tests positive shall constitute a violation of this policy.
+
+Prior to testing, applicants and employees subject to testing must sign an approved form demonstrating the
+applicant or employees agreement to the testing, authorization to release the test results to COUNTY
+management, and authorization to disclose the results by management to a personnel representative, the
+
+
+
+                     2025  2028 COLLECTIVE BARGAINING AGREEMENT
+                                   (Yamhill County and FOPPO)  Page 32
+                                                                                                               B.O. 25-414
+ employees supervisor, higher management, and other persons. Management will obtain the results of the
+analyses and communicate or disclose such results to a personnel representative, the employees
+supervisor, higher management, and any other person in accordance with COUNTY policies and
+procedures. All samples will be collected under reasonable and sanitary conditions and with due regard to
+the privacy of the individual who is being tested, and in a manner that is reasonably calculated to prevent
+substitution or interference with the collection of a reliable sample. All samples will be labeled in a manner
+that reasonably precludes the probability of erroneous identification or sample tampering.
+
+Any employee tampering with, substituting, adulterating, falsifying, or altering an alcohol or drug sample,
+screening test, or any aspects of the testing process, or providing inaccurate or false information will be
+subject to immediate termination.
+
+We reserve the right to discipline an employee, up to and including termination of employment, or
+withdraw any offer of employment to an applicant who refuses to submit to alcohol or drug testing under
+the conditions described in this policy or who otherwise fails to comply with this policy, the testing
+requirements, or related requests from COUNTY.
+
+Refusal to submit to a test includes failing to produce enough urine, breath, blood, or other approved
+physical sample for an alcohol or drug test without valid medical explanation and/or engaging in conduct
+that clearly obstructs the testing process.
+
+VOLUNTARY DISCLOSURE AND POSITIVE TEST RESULTS
+
+        A.       Voluntary Disclosure of Criminal Drug Statute Conviction
+
+Employees who are convicted of any criminal drug statute for a violation occurring in the workplace must
+report the conviction to his/her supervisor or Human Resources no later than five (5) days after
+the conviction. Failure to do so shall constitute a violation of this policy.
+
+        B.       Voluntary Disclosure of Violation of Policy
+
+We understand that employees may be hesitant or afraid to ask for help. If an employee voluntarily
+discloses alcohol or drug use in violation of this policy to his/her supervisor or Human Resources prior to
+a positive drug test result, COUNTY will assist the employee in obtaining appropriate counseling or
+treatment, if appropriate under the circumstances. Under these circumstances and subject to applicable
+federal and state laws or regulations, COUNTY will consider at its sole discretion whether to offer an
+unpaid leave of absence for the duration of treatment or counseling.
+
+An employees decision to voluntarily seek treatment or counseling will not be used as a basis for
+disciplinary action or in consideration for employment advancement. However, participating in a
+treatment or counseling program will not exempt an employee from the requirements of this policy and
+will not shield employees from disciplinary action for violating it. A request for assistance cannot be used
+as an after-the-fact action to counteract potential disciplinary action as a result of violations of this
+policy.
+
+
+
+                    2025  2028 COLLECTIVE BARGAINING AGREEMENT
+                                  (Yamhill County and FOPPO)  Page 33
+                                                                                                              B.O. 25-414
+Employees must comply with all COUNTY policies, rules, and job performance standards upon returning
+to work after completing a voluntary treatment program.
+
+        Positive Test Result
+
+Screening and confirmation cutoff levels to determine Positive Test Results shall be those published by
+Redwood Toxicology Laboratory, Inc., a California corporation (RTL), at the time of testing. In the
+case of a breath test for alcohol, the cutoff level shall be 0.02% blood alcohol content.
+
+In the event that RTL stops publishing screening and confirmation cutoff levels, the parties agree to use
+RTLs last published screening and confirmation cutoff levels unless the parties agree to different
+screening and confirmation cutoff levels.
+
+All positive tests are retested for confirmation when possible. If the retest confirms the initial positive
+result, we will suspend the employee (without pay) for violation of COUNTY policy. COUNTY may also
+take any other appropriate employment action, including, but not limited to:
+
+        Denying a job application or rescinding a conditional job offer.
+
+        Offering an employee in good standing a Last Chance Agreement with the opportunity to seek
+        treatment at a certified drug and alcohol treatment center in lieu of discipline for a first-time
+        positive drug test result. The following procedure will apply if the employee agrees to the offer:
+
+        o   The employee must meet with an accredited EAP counselor. This counselor will assess the
+            employees alcohol and/or drug use and establish a treatment program. Failure to cooperate
+            with the EAP counselor or to complete the treatment program constitutes a breach of the Last
+            Chance Agreement.
+
+        o   Before returning to work, the employee must submit to an alcohol and/or drug test. This test
+            must be alcohol-free and drug-free to allow the employee to return to work. After returning to
+            work, the employee is required to submit to unscheduled testing at COUNTYs discretion.
+            The time period for unscheduled testing will be stated in the Last Chance Agreement and may
+            range from 12 months to five years. We may also require other conditions. Refusing to take a
+            test during this period constitutes a breach of the Last Chance Agreement.
+
+Employees may enter into only one Last Chance Agreement for the duration of their employment with the
+County, including any subsequent periods of employment. Although an employees medical benefits may
+cover some portion of the cost of treatment or counseling, the employee is solely responsible for
+treatments or counseling costs. COUNTY assumes no financial responsibility for such treatment or
+counseling, regardless of whether it is part of a Last Chance Agreement.
+
+APPEAL PROCEDURE
+
+When a sufficient testing sample remains after initial and confirmatory testing with positive test results,
+the applicant or employee, at his/her expense, may appeal the positive test results by conducting an
+independent confirmatory test on the sample at a licensed or other testing facility mutually approved by
+
+
+                    2025  2028 COLLECTIVE BARGAINING AGREEMENT
+                                  (Yamhill County and FOPPO)  Page 34
+                                                                                                              B.O. 25-414
+COUNTY and the employee. An employee may submit and appeal and request an independent
+confirmatory test by notifying Human Resources in writing within five calendar days of receiving notice
+of the positive test results. The employee must agree to and arrange for the results of the independent
+confirmatory test to be sent directly to COUNTY.
+
+There is no appeal procedure for a confirmed positive breath alcohol test.
+
+SEARCH AND INVESTIGATION
+
+Employees do not have any reasonable expectation of privacy with regard to COUNTY systems,
+equipment, or other property, as well as their personal property on COUNTY premises or other work
+sites. When there is reason to believe that an employee may be in violation of this policy, COUNTY may
+conduct a search of the workplace, including but not limited to drawers, desks, workstations, lockers,
+containers, County vehicles, and any County or personal property on County premises or other work sites.
+COUNTY reserves the right to retain any substances that it believes are prohibited and to deliver them to
+the appropriate law enforcement authorities. If a search reveals the presence of unauthorized alcohol,
+controlled substances, intoxicants, illegal drugs, or drug paraphernalia in violation of this policy, the
+employee may be subject to discipline, up to and including termination. Refusing to submit to a search
+constitutes a violation of this policy and may also result in disciplinary action, up to an including
+termination. Except in emergency situations, searches require the approval of the County Administrator,
+department head, or a designee.
+
+WHERE TO GET ASSISTANCE AND INFORMATION ABOUT DRUG AND ALCOHOL
+ABUSE
+
+Reliant Behavioral Health (RBH), Employee Assistance Program (EAP) offers 24-hour crisis help.
+Confidential and free to employees and any member of their household. Toll free (866) 750-1327 or
+online at MyRBH.com
+
+The National Council on Alcoholism and Drug Dependency Helpline is a federally funded service
+providing referrals to drug and alcohol programs including referrals to programs including referrals to
+programs for those who cannot pay for services. (1-800-662-2255)
+
+Alcoholics Anonymous (AA) provides information and support to recovering alcoholics through local
+chapters in communities nationwide. (Portland 503-684-0415/Salem 503-399-0599)
+
+Narcotics Anonymous (NA) provides information and support to recovering drug addicts through local
+chapters in communities nationwide. (Portland 503-345-9839)
+
+Al-Anon provides information on alcoholism and alcohol abuse and refers callers to local Al-Anon
+support groups established to help friends and families of alcoholics. (Oregon and SW Washington #
+503-292-1333)
+
+
+
+
+                    2025  2028 COLLECTIVE BARGAINING AGREEMENT
+                                 (Yamhill County and FOPPO)  Page 35
+                                                                                                          B.O. 25-414
+                                  EMPLOYEE ACKNOWLEDGMENT
+
+By signing below, I acknowledge that I have read and agree to abide by the terms and conditions of
+COUNTYs Drug- and Alcohol-Free Workplace policy. By signing below, I also consent to alcohol
+and/or drug testing and searches as set forth in this policy.
+
+I understand it is my responsibility to read and understand this policy and to contact my supervisor or
+Human Resources regarding any aspect of the policy that I do not understand. In order to maintain a safe
+work environment for myself and others, as well as to maintain public safety, I understand the importance
+of reporting any violation or suspected violation of this policy to my supervisor or Human Resources.
+
+I understand that this policy does not and is not intended to alter or create any terms or conditions of
+employment that are not contained in the applicable collective bargaining agreement and applicable
+federal or state laws. Neither this policy nor this acknowledgement constitute a promise of continued
+employment or employment for any length of time. I may terminate my employment with COUNTY at
+any time and for any reason, with or without notice, and COUNTY may terminate my employment in
+accordance with the applicable collective bargaining agreement and the policies and procedures of
+COUNTY.
+
+I also understand that COUNTY may change its policies and procedures from time-to-time and that I will
+be expected to abide by those policies and procedures as modified.
+
+
+______________                                           ___________________________________
+DATE                                                     SIGNATURE
+
+
+                                                         ___________________________________
+                                                         PRINT NAME
+
+
+
+
+                    2025  2028 COLLECTIVE BARGAINING AGREEMENT
+                                 (Yamhill County and FOPPO)  Page 36
+                                                                                                           B.O. 25-414
+                         MEMORANDUM OF UNDERSTANDING BETWEEN
+
+                                           YAMHILL COUNTY
+
+                                                    AND
+
+            FEDERATION OF OREGON PAROLE AND PROBATION OFFICERS (FOPPO)
+
+
+THIS MEMORANDUM OF UNDERSTANDING is made a part of the 2025-2028 Collective Bargaining
+Agreement (the CBA) between Yamhill County, a political subdivision of the State of Oregon
+("County") and the Federation of Oregon Parole and Probation Officers ("Federation") (collectively the
+Parties).
+
+WHEREAS:
+
+       A.       Due to the transition from a dollar-based longevity payment to a percentage of base wage
+                longevity payment the exact amount of longevity pay received by eligible employees per
+                month changed under the CBA.
+       B.       The County and Federation agree that, except as provided herein, the percentage of base
+                wage longevity payment shall apply to all eligible bargaining unit members in accordance
+                with the CBA, effective July 1, 2025.
+       C.       The Parties hereby agree that it is appropriate to memorialize how the transition from a
+                dollar-based longevity payment to a percentage of base wage longevity payment will be
+                handled for Employee #1224 only. NOW THEREFORE,
+
+AGREEMENT:
+
+  1.        Employee #1224 became eligible for the 20-year longevity pay benchmark in September 2025
+            and began receiving the applicable dollar-based longevity payment (as provided under the prior
+            collective bargaining agreement) prior to the ratification of the CBA.
+  2.        In order to ensure that Employee #1224 does not receive less in longevity pay under the CBA
+            than they would have received under the prior collective bargaining agreement, the County shall
+            make a single payment once per fiscal year to Employee #1224 to offset any difference between
+            the prior dollar-based longevity payment and the new percentage of base wage longevity
+            payment during the first and second years of the CBA.
+  3.        Any payment to Employee #1224 under this MOU would be made in the last pay period of the
+            fiscal year during the first and second years of the CBA. In the event Employee #1224 leaves
+            County employment before such payment is due, the applicable difference in longevity payment
+            for actual months of County service would be prorated and included in a final check.
+  4.        Until such time as the new longevity pay methodology is implemented by the County, Employee
+            #1224 shall continue to receive the applicable dollar-based longevity pay.
+
+
+
+
+                      2025  2028 COLLECTIVE BARGAINING AGREEMENT
+                                   (Yamhill County and FOPPO)  Page 37
+                                                                                                           B.O. 25-414
+

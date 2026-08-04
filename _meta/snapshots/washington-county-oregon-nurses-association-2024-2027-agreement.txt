@@ -191,7 +191,7 @@ CONTRACT RECEIPT FORM ..........................................................
 
 
 Oregon Nurses Association and Washington County CBA 2024-2027                                              page v
-                                ARTICLE 1 – PREAMBLE
+### ARTICLE 1 – PREAMBLE
 This Agreement is entered into by Washington County, Oregon, hereinafter called "County,"
 and the Oregon Nurses Association, hereinafter referred to as the "Union." The purpose of
 this Agreement is to facilitate the achievement of the mutual goal of improved patient care
@@ -202,7 +202,7 @@ conditions and an equitable and peaceful procedure for the resolution of dispute
 
 
 Oregon Nurses Association and Washington County CBA 2024-2027                     page 1
-                   ARTICLE 2 – DEFINITIONS AND INTERPRETATION
+### ARTICLE 2 – DEFINITIONS AND INTERPRETATION
 2.1    "Employee"
        Means any person employed by the County who fills a position in one (1) of the
        classifications listed in the Article on Recognition.
@@ -283,7 +283,7 @@ Oregon Nurses Association and Washington County CBA 2024-2027                   
 
 
 Oregon Nurses Association and Washington County CBA 2024-2027                       page 3
-                ARTICLE 3 – RECOGNITION AND UNION OBLIGATIONS
+### ARTICLE 3 – RECOGNITION AND UNION OBLIGATIONS
 3.1    Classifications:
        The County recognizes the Union as the sole and exclusive bargaining agent for the
        purpose of establishing wages, hours and other conditions of employment for full-
@@ -382,7 +382,7 @@ Oregon Nurses Association and Washington County CBA 2024-2027                   
 
 
 Oregon Nurses Association and Washington County CBA 2024-2027                        page 6
-                          ARTICLE 4 – SCOPE OF AGREEMENT
+### ARTICLE 4 – SCOPE OF AGREEMENT
 The parties acknowledge that during negotiations which preceded this Agreement each had
 the unlimited right and opportunity to make demands and proposals with respect to any
 subject or matter and that the understandings and Agreements arrived at by the parties
@@ -398,7 +398,7 @@ Agreement.
 
 
 Oregon Nurses Association and Washington County CBA 2024-2027                        page 7
-                            ARTICLE 5 – NO DISCRIMINATION
+### ARTICLE 5 – NO DISCRIMINATION
 The County agrees not to interfere with the rights of employees to become members of the
 Union, and there shall be no discrimination, interference, restraint, or coercion by the
 County or any County representative against any employee because of Union membership
@@ -410,7 +410,7 @@ County operation in serving and carrying out its responsibility to the public.
 
 
 Oregon Nurses Association and Washington County CBA 2024-2027                       page 8
-                  ARTICLE 6 – EQUAL EMPLOYMENT OPPORTUNITY
+### ARTICLE 6 – EQUAL EMPLOYMENT OPPORTUNITY
 6.1    Application:
        The County and the Union agree that the provisions of this Agreement shall be
        applied equally to all employees of the bargaining unit without discrimination as to
@@ -450,7 +450,7 @@ Oregon Nurses Association and Washington County CBA 2024-2027                   
 
 
 Oregon Nurses Association and Washington County CBA 2024-2027                         page 9
-                           ARTICLE 7 – MANAGEMENT RIGHTS
+### ARTICLE 7 – MANAGEMENT RIGHTS
 It is recognized that an area of responsibility must be reserved to the County if it is to
 effectively serve the public. Except to the extent expressly abridged by a specific provision
 of this Agreement, it is recognized that the responsibilities and authority of management are
@@ -499,7 +499,7 @@ Oregon Nurses Association and Washington County CBA 2024-2027                   
 
 
 Oregon Nurses Association and Washington County CBA 2024-2027                page 11
-                                  ARTICLE 8 – HOLIDAYS
+### ARTICLE 8 – HOLIDAYS
 8.1    Paid Holidays: The following days are paid holidays:
 
         New Year's Day                                    Labor Day
@@ -568,7 +568,7 @@ Oregon Nurses Association and Washington County CBA 2024-2027                   
 
 
 Oregon Nurses Association and Washington County CBA 2024-2027                      page 13
-                              ARTICLE 9 – VACATION TIME
+### ARTICLE 9 – VACATION TIME
 9.1    Vacation Accrual:
        Employees shall accrue vacation on the following basis:
                                                 Hours of Vacation Leave Per
@@ -610,7 +610,7 @@ Oregon Nurses Association and Washington County CBA 2024-2027                   
 
 
 Oregon Nurses Association and Washington County CBA 2024-2027                        page 14
-                               ARTICLE 10 – SICK LEAVE
+### ARTICLE 10 – SICK LEAVE
 10.1   Sick Leave Accrual:
        Employees shall accumulate sick leave at the rate of zero point zero four six two
        (0.0462) hours per each hour paid. The maximum accrual of sick leave for any
@@ -660,7 +660,7 @@ Oregon Nurses Association and Washington County CBA 2024-2027                   
 
 
 Oregon Nurses Association and Washington County CBA 2024-2027                   page 16
-                              ARTICLE 11 – OTHER LEAVE
+### ARTICLE 11 – OTHER LEAVE
 11.1   Leave of Absence Without Pay:
        A continuous leave of absence without pay of up to ninety (90) calendar days may
        be granted for reasonable justification (which may, for example, include disaster
@@ -727,7 +727,7 @@ Oregon Nurses Association and Washington County CBA 2024-2027                   
 
 
 Oregon Nurses Association and Washington County CBA 2024-2027                    page 18
-                         ARTICLE 12 – EDUCATIONAL LEAVE
+### ARTICLE 12 – EDUCATIONAL LEAVE
 12.1 Educational Leave Without Pay:
        After completing twelve (12) months of employment, an employee, upon request,
        may be granted leave of absence without pay for educational purposes at an
@@ -795,7 +795,7 @@ Oregon Nurses Association and Washington County CBA 2024-2027                   
 
 
 Oregon Nurses Association and Washington County CBA 2024-2027                 page 20
-                             ARTICLE 13 – HOURS OF WORK
+### ARTICLE 13 – HOURS OF WORK
 Workday, Workweek, and Work Schedule:
        A workday shall consist of a twenty- four (24) hour period, commencing at the start
        of the employee’s regular work shift. The normal workweek shall consist of forty (40)
@@ -894,7 +894,7 @@ Oregon Nurses Association and Washington County CBA 2024-2027                   
 
 
 Oregon Nurses Association and Washington County CBA 2024-2027                       page 23
-                                ARTICLE 14 – OVERTIME
+### ARTICLE 14 – OVERTIME
 14.1   Overtime:
        Overtime is work performed in excess of forty (40) hours in a workweek. All paid
        leave, including vacation, holiday, sick and compensatory time, shall count as hours
@@ -925,7 +925,7 @@ Oregon Nurses Association and Washington County CBA 2024-2027                   
 
 
 Oregon Nurses Association and Washington County CBA 2024-2027                      page 24
-                                   ARTICLE 15 – WAGES
+### ARTICLE 15 – WAGES
 15.1   Employees Covered by this Agreement:
        Employees covered by this Agreement shall be compensated in accordance with
        the wage schedule set forth in Schedule A which is attached to this Agreement and
@@ -1030,7 +1030,7 @@ Oregon Nurses Association and Washington County CBA 2024-2027                   
        Employees in designated bilingual positions hired after August 15, 1997 will be
        protected from the bumping provisions specified in Article 21.2(b) to the extent that
        they will be considered a “specialty area within a classification” as contemplated by
-       Article 4.10.2 A of the Personnel Rules and Regulations. However, a more senior
+### Article 4.10.2 A of the Personnel Rules and Regulations. However, a more senior
        employee with certifiable bilingual skills may bump a less senior person in a
        designated bilingual position.
 
@@ -1045,7 +1045,7 @@ Oregon Nurses Association and Washington County CBA 2024-2027                   
 
 
 Oregon Nurses Association and Washington County CBA 2024-2027                        page 27
-                             ARTICLE 16 – MERIT RATINGS
+### ARTICLE 16 – MERIT RATINGS
 16.1   Performance Evaluations:
        Employees shall receive performance evaluations (merit ratings) in accordance with
        the provisions and guidelines contained in the County's then-current Personnel
@@ -1069,7 +1069,7 @@ Oregon Nurses Association and Washington County CBA 2024-2027                   
 
 
 Oregon Nurses Association and Washington County CBA 2024-2027                     page 28
-                     ARTICLE 17 – HEALTH AND LIFE INSURANCE
+### ARTICLE 17 – HEALTH AND LIFE INSURANCE
 17.1   Medical Insurance:
        Effective for the plan year in 2024, through the duration of this collective bargaining
        agreement, the County will provide eligible employees, as defined in County policy,
@@ -1171,7 +1171,7 @@ Oregon Nurses Association and Washington County CBA 2024-2027                   
 
 
 Oregon Nurses Association and Washington County CBA 2024-2027                    page 31
-           ARTICLE 18 – RETIREMENT AND WORKERS' COMPENSATION
+### ARTICLE 18 – RETIREMENT AND WORKERS' COMPENSATION
 18.1   Public Employees Retirement System (PERS):
        The County shall continue to participate in the Public Employees Retirement System
        (PERS) for employees eligible to participate in the system. The County shall
@@ -1233,7 +1233,7 @@ Oregon Nurses Association and Washington County CBA 2024-2027                   
 
 
 Oregon Nurses Association and Washington County CBA 2024-2027                        page 33
-                               ARTICLE 19 – UNION BUSINESS
+### ARTICLE 19 – UNION BUSINESS
 19.1   Union Representatives:
         19.1.1 The County agrees that accredited representatives of the Union, upon
                 reasonable and proper introduction and notice, shall, with departmental
@@ -1343,7 +1343,7 @@ Oregon Nurses Association and Washington County CBA 2024-2027                   
 
 
 Oregon Nurses Association and Washington County CBA 2024-2027                        page 36
-                              ARTICLE 20 – OTHER BENEFITS
+### ARTICLE 20 – OTHER BENEFITS
 20.1   Medical Examinations:
        If employees are required as a condition of employment to have periodic medical
        examinations, the County will reimburse those employees for the cost of an
@@ -1382,7 +1382,7 @@ Oregon Nurses Association and Washington County CBA 2024-2027                   
 
 
 Oregon Nurses Association and Washington County CBA 2024-2027                        page 37
-                          ARTICLE 21 – LAYOFF AND RECALL
+### ARTICLE 21 – LAYOFF AND RECALL
 21.1   Definition of and Reasons for Layoff:
        A “lay off” is defined as a separation from service for the County (or involuntary
        reduction in hours, meaning a reduction of hours of greater than twenty percent
@@ -1517,7 +1517,7 @@ Oregon Nurses Association and Washington County CBA 2024-2027                   
 
 
 Oregon Nurses Association and Washington County CBA 2024-2027                      page 41
-                      ARTICLE 22 – DISCIPLINE AND DISCHARGE
+### ARTICLE 22 – DISCIPLINE AND DISCHARGE
 22.1   Discipline:
        Discipline shall be limited to oral reprimand, written reprimand, wage reduction,
        demotion, suspension and discharge. No career or career-probationary employee
@@ -1589,7 +1589,7 @@ Oregon Nurses Association and Washington County CBA 2024-2027                   
 
 
 Oregon Nurses Association and Washington County CBA 2024-2027                  page 43
-                       ARTICLE 23 – GRIEVANCE PROCEDURE
+### ARTICLE 23 – GRIEVANCE PROCEDURE
 23.1   Grievance Defined:
        A grievance is defined as any complaint by an employee or the Union about an act
        or omission of the County or its representative(s) in violation of the terms of this
@@ -1667,7 +1667,7 @@ Oregon Nurses Association and Washington County CBA 2024-2027                   
 
 
 Oregon Nurses Association and Washington County CBA 2024-2027                           page 45
-                           ARTICLE 24 – STRIKES AND LOCKOUTS
+### ARTICLE 24 – STRIKES AND LOCKOUTS
 During the term of this Agreement there will be no withholding of professional services,
 strikes, or work slowdowns by the employees or lockouts by the County. In the event of
 employee conduct which is in violation of this provision, the County will notify the Union,
@@ -1679,7 +1679,7 @@ in a violation of this Article.
 
 
 Oregon Nurses Association and Washington County CBA 2024-2027                       page 46
-                           ARTICLE 25 – CELLULAR PHONES
+### ARTICLE 25 – CELLULAR PHONES
 The County shall provide nurses whose practice requires field work with a functional,
 reliable mobile communication device (e.g., cellular phone). Such mobile communication
 devices shall be used pursuant to County policy. A nurse may request a stipend in
@@ -1689,7 +1689,7 @@ accordance with County policy in lieu of a County-provided device.
 
 
 Oregon Nurses Association and Washington County CBA 2024-2027                    page 47
-                             ARTICLE 26 – SAVINGS CLAUSE
+### ARTICLE 26 – SAVINGS CLAUSE
 If any part of this Agreement should be held unlawful or unenforceable by any court of
 competent jurisdiction, the remainder of this Agreement shall not be affected thereby, and
 the parties will immediately enter into collective bargaining negotiations for the purpose of
@@ -1699,7 +1699,7 @@ arriving at a mutually satisfactory replacement.
 
 
 Oregon Nurses Association and Washington County CBA 2024-2027                       page 48
-                       ARTICLE 27 – ASSISTANCE PROGRAM
+### ARTICLE 27 – ASSISTANCE PROGRAM
 The County and Union agree that employees in the bargaining unit represented by the
 Union may participate in the County’s Dependent Care Assistance Program.
 
@@ -1707,7 +1707,7 @@ Union may participate in the County’s Dependent Care Assistance Program.
 
 
 Oregon Nurses Association and Washington County CBA 2024-2027                 page 49
-                    ARTICLE 28 – EFFECTIVE DATE AND DURATION
+### ARTICLE 28 – EFFECTIVE DATE AND DURATION
 Except as otherwise specifically provided herein, this Agreement is effective on the date
 signed by both parties; Appendix A is attached to and made a part of this Agreement. This
 Agreement shall remain in full force and effect through June 30, 2027. Either party may give
@@ -1718,7 +1718,7 @@ Agreement or to negotiate a new Agreement.
 
 
 Oregon Nurses Association and Washington County CBA 2024-2027                          page 50
-           ARTICLE 29 – PAYROLL OVER PAYMENTS AND REPAYMENTS
+### ARTICLE 29 – PAYROLL OVER PAYMENTS AND REPAYMENTS
 29.1   Recoupment of Wage and Benefit Overpayments:
         A. In the event that an employee receives wages or benefits from the County to
            which the employee is not entitled, regardless of whether the employee knew or
@@ -1800,7 +1800,7 @@ Oregon Nurses Association and Washington County CBA 2024-2027                   
 
 
 Oregon Nurses Association and Washington County CBA 2024-2027                     page 52
-                           APPENDIX A – HOURLY WAGE RATES
+### APPENDIX A – HOURLY WAGE RATES
    1. Effective the first full pay period in July 2024, increase wage rates by four-point one
        percent (4.1%) which reflects a cost-of living adjustment.
 

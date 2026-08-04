@@ -12,15 +12,15 @@ FEDERATION OF PAROLE AND PROBATION OFFICERS
   RATIFICATION THROUGH DECEMBER 31, 2026
                                 TABLE OF CONTENTS
 PREAMBLE                                            Page 5
-ARTICLE 1 – DEFINITIONS                             Page 5
-ARTICLE 2 – BARGAINING UNIT RECOGNITION             Page 7
+### ARTICLE 1 – DEFINITIONS                             Page 5
+### ARTICLE 2 – BARGAINING UNIT RECOGNITION             Page 7
       2.1      The Bargaining Unit                  Page 7
       2.2      Recognition                          Page 7
-ARTICLE 3 – FEDERATION RIGHTS                       Page 7
+### ARTICLE 3 – FEDERATION RIGHTS                       Page 7
       3.1      Federation Membership                Page 7
       3.2      Checkoff                             Page 7
       3.3      Rights of the Parties                Page 8
-ARTICLE 4 – HOLIDAYS                                Page 8
+### ARTICLE 4 – HOLIDAYS                                Page 8
       4.1      Recognized Holidays                  Page 8
       4.2      Observed Holidays                    Page 8
       4.3      Floating Holidays                    Page 9
@@ -28,12 +28,12 @@ ARTICLE 4 – HOLIDAYS                                Page 8
       4.5      Holiday Pay                          Page 9
       4.6      Holiday During Leave                 Page 9
       4.7      Holiday Work                         Page 10
-ARTICLE 5 – VACATION LEAVE                          Page 10
+### ARTICLE 5 – VACATION LEAVE                          Page 10
       5.1      Accrual                              Page 10
       5.2      Maximum Accrual and Payment          Page 10
       5.3      Utilization                          Page 11
       5.4      Separation from Service or Death     Page 11
-ARTICLE 6 – SICK LEAVE AND BEREAVEMENT LEAVE        Page 11
+### ARTICLE 6 – SICK LEAVE AND BEREAVEMENT LEAVE        Page 11
       6.1      Accrual                              Page 11
       6.2      Maximum Accrual and Payment          Page 11
       6.3      Scope                                Page 11
@@ -43,7 +43,7 @@ ARTICLE 6 – SICK LEAVE AND BEREAVEMENT LEAVE        Page 11
       6.7      Illness During Leave                 Page 13
       6.8      Layoff or Death                      Page 13
       6.9      Retirement                           Page 13
-ARTICLE 7 – OTHER LEAVES                            Page 13
+### ARTICLE 7 – OTHER LEAVES                            Page 13
       7.1      Leave of Absence                     Page 13
       7.2      Jury Duty                            Page 13
       7.3      Federation Business                  Page 14
@@ -53,9 +53,9 @@ ARTICLE 7 – OTHER LEAVES                            Page 13
       7.7      Military Leave Without Pay           Page 15
       7.8      Administrative Leave                 Page 15
       7.9      General                              Page 15
-ARTICLE 8 – SEVERANCE PAY                           Page 15
+### ARTICLE 8 – SEVERANCE PAY                           Page 15
                                                         2|Page
-ARTICLE 9 – HEALTH/WELFARE/RETIREMENT BENEFITS                            Page 16
+### ARTICLE 9 – HEALTH/WELFARE/RETIREMENT BENEFITS                            Page 16
       9.1     Health Insurance                                            Page 16
       9.2     Life Insurance                                              Page 17
       9.3     Workers’ Compensation                                       Page 18
@@ -64,7 +64,7 @@ ARTICLE 8 – SEVERANCE PAY                           Page 15
       9.6     Loss of Continuation of Benefits                            Page 18
       9.7     Public Employees Retirement System                          Page 19
       9.8     Retiree Health Insurance                                    Page 19
-ARTICLE 10 – WAGES                                                        Page 19
+### ARTICLE 10 – WAGES                                                        Page 19
       10.1 Wages and Classification Schedule                              Page 19
       10.2 Temporary Assignments                                          Page 19
       10.3 Pay Periods                                                    Page 19
@@ -80,7 +80,7 @@ ARTICLE 10 – WAGES                                                        Page
       10.13 Pay for Field Training Assignment                             Page 23
       10.14 Survival Skills Instructor                                    Page 23
       10.15 Longevity Pay                                                 Page 23
-ARTICLE 11 – SENIORITY                                                    Page 23
+### ARTICLE 11 – SENIORITY                                                    Page 23
       11.1 Definition of Seniority                                        Page 23
       11.2 Acquisition of Seniority                                       Page 23
       11.3 Employment Outside the Bargaining Unit                         Page 24
@@ -89,12 +89,12 @@ ARTICLE 11 – SENIORITY                                                    Page
       11.6 Posting and Filling of Vacancies                               Page 24
       11.7 Shift-Work Assignment                                          Page 25
       11.8 Layoff and Recall                                              Page 25
-ARTICLE 12 – DISCIPLINE AND DISMISSAL                                     Page 26
+### ARTICLE 12 – DISCIPLINE AND DISMISSAL                                     Page 26
       12.1 Discipline                                                     Page 26
       12.2 Suspension Without Pay, Demotion and Dismissal                 Page 26
       12.3 Probationary Employees                                         Page 27
       12.4 Personnel Files                                                Page 27
-ARTICLE 13 – SETTLEMENT OF DISPUTES                                       Page 27
+### ARTICLE 13 – SETTLEMENT OF DISPUTES                                       Page 27
       13.1 Grievance and Arbitration Procedure                            Page 27
       13.2 Stewards                                                       Page 29
       13.3 County-Federation or Grievance Committee Meetings              Page 29
@@ -103,7 +103,7 @@ ARTICLE 13 – SETTLEMENT OF DISPUTES                                       Page
                                                                               3|Page
       13.5 Time Periods                            Page 29
       13.6 Civil Service Commission Appeals        Page 30
-ARTICLE 14 – GENERAL PROVISIONS                    Page 30
+### ARTICLE 14 – GENERAL PROVISIONS                    Page 30
       14.1 Non-Discrimination                      Page 30
       14.2 Bulletin Boards                         Page 30
       14.3 Visits By Federation Representatives    Page 30
@@ -115,10 +115,10 @@ ARTICLE 14 – GENERAL PROVISIONS                    Page 30
       14.9 Outside Employment                      Page 32
       14.10 Use of Surveillance Cameras            Page 32
       14.11 Tort Claims Liability                  Page 32
-ARTICLE 15 – STRIKES AND LOCKOUTS                  Page 33
+### ARTICLE 15 – STRIKES AND LOCKOUTS                  Page 33
       15.1 Lockouts                                Page 33
       15.2 Strikes                                 Page 33
-ARTICLE 16 – WORKING CONDITIONS                    Page 33
+### ARTICLE 16 – WORKING CONDITIONS                    Page 33
       16.1 Work Week                               Page 33
       16.2 Work Week Schedule                      Page 33
       16.3 Optional Work Week Schedule             Page 33
@@ -128,7 +128,7 @@ ARTICLE 16 – WORKING CONDITIONS                    Page 33
       16.7 Meal Periods and Meals                  Page 35
       16.8 Clean-Up Time                           Page 35
       16.9 Emergency or Disaster Conditions        Page 35
-ARTICLE 17 – USE OF ALCOHOL AND DRUGS              Page 36
+### ARTICLE 17 – USE OF ALCOHOL AND DRUGS              Page 36
       17.1 Statement of Principle                  Page 36
       17.2 Definitions                             Page 36
       17.3 Prohibited Conduct                      Page 37
@@ -140,11 +140,11 @@ ARTICLE 17 – USE OF ALCOHOL AND DRUGS              Page 36
       17.9 Searches                                Page 39
       17.10 Interference with Policy               Page 39
       17.11 Employee Rights                        Page 39
-ARTICLE 18 – MANAGEMENT RIGHTS                     Page 39
-ARTICLE 19 – SAVINGS CLAUSE                        Page 40
-ARTICLE 20 – TERM AND TERMINATION                  Page 41
-APPENDIX A                                         Page 42
-APPENDIX B                                         Page 43
+### ARTICLE 18 – MANAGEMENT RIGHTS                     Page 39
+### ARTICLE 19 – SAVINGS CLAUSE                        Page 40
+### ARTICLE 20 – TERM AND TERMINATION                  Page 41
+### APPENDIX A                                         Page 42
+### APPENDIX B                                         Page 43
 
                                                        4|Page
                        COLLECTIVE BARGAINING AGREEMENT
@@ -161,7 +161,7 @@ County and the Federation; the establishment of an equitable peaceful procedure 
 resolution of differences; and the establishment of rates of pay, hours of work, and other
 conditions of employment.
 
-                                   ARTICLE 1 – DEFINITIONS
+### ARTICLE 1 – DEFINITIONS
 Anniversary Date – Original: Original anniversary date is the first day of the month in which the
 employee is hired into a particular position, if hired between the 1st and the 15th day of the month
 inclusive, or the first day of the next month if the employee is hired on the 16th day or later in a
@@ -237,7 +237,7 @@ and represented by the bargaining unit, time spent as a temporary employee does 
 towards any benefits accrual, including seniority, longevity pay, leave accruals, salary, and step
 increases.
 
-                  ARTICLE 2 – BARGAINING UNIT AND RECOGNITION
+### ARTICLE 2 – BARGAINING UNIT AND RECOGNITION
 
 2.1    The Bargaining Unit
 The bargaining unit shall consist of all full-time Adult Parole/Probation Officers of Columbia
@@ -247,7 +247,7 @@ The County recognizes the Federation as the exclusive, collective bargaining rep
 all employees in the bargaining unit for the purpose of negotiations with respect to wages, hours
 and related terms and conditions of employment for such employees.
 
-                            ARTICLE 3 – FEDERATION RIGHTS
+### ARTICLE 3 – FEDERATION RIGHTS
 
 3.1    Federation Membership
 Membership or non-membership in the Federation shall be the individual choice of an employee,
@@ -282,7 +282,7 @@ deducting dues.
 The Federation and County agree not to act in an arbitrary, capricious, or unfair manner in the
 application and interpretation of the terms of this Agreement.
 
-                                    ARTICLE 4 – HOLIDAYS
+### ARTICLE 4 – HOLIDAYS
 
 4.1       Recognized Holidays
 The following days shall be recognized as holidays:
@@ -362,7 +362,7 @@ shall be earned only for hours actually worked, subject to minimum call-in time,
 greater, on the recognized holiday and under no circumstance will the County pay time and one-
 half pay for both the recognized holiday and the observed holiday under this Section.
 
-                               ARTICLE 5 – VACATION LEAVE
+### ARTICLE 5 – VACATION LEAVE
 
 5.1    Accrual
 Employees working a designated regular work week shall accrue vacation leave at the following
@@ -413,7 +413,7 @@ employee, or to the employee’s estate or the employee’s spouse. An employee 
 County prior to the completion of six (6) months of service from the date of hire, for reasons
 other than death, shall not be eligible for accumulated vacation pay.
 
-                  ARTICLE 6 – SICK LEAVE AND BEREAVEMENT LEAVE
+### ARTICLE 6 – SICK LEAVE AND BEREAVEMENT LEAVE
 
 6.1    Accrual
 Employees shall accrue sick leave at the rate of eight (8) hours for each month worked. Sick leave
@@ -494,7 +494,7 @@ the employee’s last hourly rate of pay. In addition, fifty percent (50%) of th
 unpaid sick leave shall be reported to the Public Employee’s Retirement System, if allowed by
 law.
 
-                                ARTICLE 7 – OTHER LEAVES
+### ARTICLE 7 – OTHER LEAVES
 
 7.1    Leave of Absence
 Leaves of absence without pay or accrual of other benefits for a limited period, not to exceed six
@@ -583,7 +583,7 @@ Time spent on leaves of absence without pay shall not be counted for holidays, v
 leave accrual, severance pay, health and welfare, wages, step increases, longevity pay, or
 seniority, unless otherwise required by law.
 
-                                ARTICLE 8 – SEVERANCE PAY
+### ARTICLE 8 – SEVERANCE PAY
 Any employee who has completed one (1) full year of service with the County but less than five
 (5) full years of service, and who shall be laid off as a result of causes other than dismissal,
 retirement, or resignation, shall receive two (2) full weeks’ pay. Any employee who has
@@ -597,7 +597,7 @@ higher, the employee’s refusal shall be considered as a resignation, if the em
 perform the essential duties of the job.
 
                                                                                          15 | P a g e
-                 ARTICLE 9 – HEALTH/WELFARE/RETIREMENT BENEFITS
+### ARTICLE 9 – HEALTH/WELFARE/RETIREMENT BENEFITS
 
 9.1      Health Insurance
 The Federation and the County support the creation of the Health Care Benefits Committee and
@@ -731,7 +731,7 @@ Public Employees Retirement Board.
 9.8    Retiree Health Insurance
 Pursuant to ORS 243.303, retired employees shall have the option of continuing in the health
 care insurance coverage of the County.
-                                    ARTICLE 10 – WAGES
+### ARTICLE 10 – WAGES
 
 10.1 Wages and Classification Schedule
 Effective and retroactively applied to July 1, 2024, for all bargaining unit employees employed on
@@ -914,7 +914,7 @@ and Probation Officer at the following benchmarks and rates:
    A. Ten (10) years of service – two (2%) percent of base pay.
    B. Fifteen (15) years of service – four (4%) percent of base pay.
    C. Twenty (20) years of service – six (6%) percent of base pay.
-                                    ARTICLE 11 – SENIORITY
+### ARTICLE 11 – SENIORITY
 
 11.1 Definition of Seniority
 An employee’s seniority shall be the employee’s total length of employment by Columbia County
@@ -1012,7 +1012,7 @@ made only when a vacancy occurs in a desired shift.
        An employee on layoff status shall also have the right to apply for positions as specified
        in Section 11.6.
 
-                        ARTICLE 12 – DISCIPLINE AND DISMISSAL
+### ARTICLE 12 – DISCIPLINE AND DISMISSAL
 
 12.1 Discipline
 Disciplinary action or measures shall include only the following: Written reprimand; suspension
@@ -1073,7 +1073,7 @@ additional discipline during that period. Documentation which is removed may be 
 the County in a separate file or system of records which may be used for purposes of risk
 management and to establish forewarning, but not to escalate progressive discipline.
 
-                         ARTICLE 13 – SETTLEMENT OF DISPUTES
+### ARTICLE 13 – SETTLEMENT OF DISPUTES
 
 13.1 Grievance and Arbitration Procedure
 A grievance is defined as a dispute over the meaning, interpretation or application of any portion
@@ -1177,7 +1177,7 @@ Ordinance and the related rules of the Civil Service Commission.
 Employees who pursue an appeal to hearing before the Civil Service Commission shall be deemed
 to have waived their right to arbitrate their grievance under this Agreement.
 
-                           ARTICLE 14 – GENERAL PROVISIONS
+### ARTICLE 14 – GENERAL PROVISIONS
 
 14.1 Non-Discrimination
 The provisions of this Agreement shall be applied equally to all employees without discrimination
@@ -1295,7 +1295,7 @@ and the employee in advance of any pre-disciplinary meetings or interviews.
 arising out of, the performance of their official duties, subject to the limitations of the Oregon
 Tort Claims Act.
 
-                          ARTICLE 15 – STRIKES AND LOCKOUTS
+### ARTICLE 15 – STRIKES AND LOCKOUTS
 
 15.1 Lockouts
 No lockout of employees shall be instituted by the County during the term of this Agreement.
@@ -1308,7 +1308,7 @@ taken by the County against any employee engaged in a violation of this Article,
 including dismissal. The Federation and the County will take immediate action to correct any
 violation of the provisions of this Article.
 
-                          ARTICLE 16 – WORKING CONDITIONS
+### ARTICLE 16 – WORKING CONDITIONS
 
 16.1 Work Week
 For all full-time employees, the regular work week shall consist of 40 hours of compensated work
@@ -1429,7 +1429,7 @@ on such leave and have the appropriate number of hours deducted from leave balan
 leave as though the Courthouse were not closed. This provision shall not apply for any closure of
 the Courthouse greater than one (1) week in length.
 
-                      ARTICLE 17 – USE OF ALCOHOL AND DRUGS
+### ARTICLE 17 – USE OF ALCOHOL AND DRUGS
 
 17.1 Statement of Principle
 The County and the Federation jointly recognize that the use of drugs and alcohol, whether on
@@ -1569,7 +1569,7 @@ Any employee who tests positive shall be given access to all written documentati
 from the testing laboratory which verifies the accuracy of the testing equipment used in the
 testing process, the chain of custody of the specimen, and the accuracy rate of the laboratory.
 
-                           ARTICLE 18 – MANAGEMENT RIGHTS
+### ARTICLE 18 – MANAGEMENT RIGHTS
 The parties recognize that the elected officials of the County are directly responsible to the public
 and to the citizens of the County, for the performance of the functions and services of the County.
 
@@ -1585,7 +1585,7 @@ this Agreement.
 Nothing in this paragraph will preclude the right of an employee to utilize the provisions of Article
 13, Settlement of Disputes.
 
-                               ARTICLE 19 – SAVINGS CLAUSE
+### ARTICLE 19 – SAVINGS CLAUSE
 Should any article, section, or portion thereof, of this Agreement be held unlawful or
 unenforceable by an opinion of the Attorney General of the State of Oregon or by any court of
 competent jurisdiction, or any administrative agency of the State of Oregon having jurisdiction
@@ -1600,7 +1600,7 @@ hereof.
 
 
                                                                                          40 | P a g e
-APPENDIX A
+### APPENDIX A
 
 Federation of Parole and Probation Officers
 Effective July 1, 2024 – June 30, 2025
@@ -1614,9 +1614,9 @@ Hourly       $31.75   $33.16    $34.61    $36.13   $37.71   $39.39   $41.12   $4
 
 
                                                                               42 | P a g e
-APPENDIX B
+### APPENDIX B
 
-                               Memorandum of Understanding
+### Memorandum of Understanding
                                            between
                                        Columbia County
                                               and

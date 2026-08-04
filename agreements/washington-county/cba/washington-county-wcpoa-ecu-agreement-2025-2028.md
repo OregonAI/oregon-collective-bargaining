@@ -36,6 +36,7 @@ tags:
 - collective-bargaining
 - county
 - washington-county
+content_exception: 'extraction is not usable text (alphabetic ratio 0.01 < 0.45 (encoding damage)); no verbatim text can be published from it, so this document stays metadata-only until the source is re-extracted'
 ---
 
 > **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated

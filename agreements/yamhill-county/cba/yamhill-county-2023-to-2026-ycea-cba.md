@@ -36,6 +36,7 @@ tags:
 - collective-bargaining
 - county
 - yamhill-county
+content_exception: 'extraction is not usable text (2,733 chars from 53 pages (52/page < 300) (fragment)); no verbatim text can be published from it, so this document stays metadata-only until the source is re-extracted'
 ---
 
 > **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated

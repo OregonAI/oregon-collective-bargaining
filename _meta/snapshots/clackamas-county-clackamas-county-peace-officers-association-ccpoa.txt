@@ -82,7 +82,7 @@ referred to as the Association.
 The parties agree as follows:
 
 
-                          ARTICLE 1 – RECOGNITION
+### ARTICLE 1 – RECOGNITION
 
 Section 1. The County recognizes the Association as the exclusive bargaining agent
 for the purpose of establishing wages, hours and other conditions of employment for
@@ -122,7 +122,7 @@ use of temporary employees, the duration of their assignments, and whether or no
 positions should be converted to part-time or full-time positions.
 
 
-             ARTICLE 2 – PRESERVATION OF PUBLIC RIGHTS
+### ARTICLE 2 – PRESERVATION OF PUBLIC RIGHTS
 
 Section 1. The Association recognizes that an area of responsibility must be reserved
 to the County if County government is to effectively serve the public. Therefore, the
@@ -158,7 +158,7 @@ Existing Conditions.
 
 
                                              5
-                     ARTICLE 3 – EXISTING CONDITIONS
+### ARTICLE 3 – EXISTING CONDITIONS
 
 Matters of employment relations, as defined by PECBA, including but not limited to,
 direct or indirect monetary benefits, hours, vacations, sick leave, grievance procedures
@@ -170,7 +170,7 @@ accordance with ORS 243.698.
 
 
 
-                         ARTICLE 4 – HOURS OF WORK
+### ARTICLE 4 – HOURS OF WORK
 
 Section 1. Regular Hours and Workday.
 The regular hours of work each day shall be consecutive. The workday shall consist of
@@ -377,7 +377,7 @@ Civil sergeants will have alternating Fridays or Mondays off as determined by
 management.
 
 
-                    ARTICLE 5 - MEAL AND REST BREAKS
+### ARTICLE 5 - MEAL AND REST BREAKS
 
 Section 1. Meal periods.
 All employees will be granted a meal period during their working shift, during which
@@ -401,7 +401,7 @@ with two twenty (20) minute rest periods during the employee’s shift.
 Rest periods are on paid time.
 
 
-      ARTICLE 6 - SHIFT PREFERENCE, CHANGES AND DAYS OFF
+### ARTICLE 6 - SHIFT PREFERENCE, CHANGES AND DAYS OFF
 
 Section 1. Seniority for Shift Preference and Days Off.
 For the purposes of shift preference and selection of off duty days within a Division,
@@ -631,7 +631,7 @@ the provisions of Article 6, Section 1, with the following additional requiremen
 
 
                                           15
-                              ARTICLE 7- HOLIDAYS
+### ARTICLE 7- HOLIDAYS
 
 Section 1. Holidays.
 The following days, and every day appointed by the Board of Commissioners as a
@@ -702,7 +702,7 @@ shall be eligible for two (2) personal leave days after ninety (90) days of empl
 
 
 
-                            ARTICLE 8 - SICK LEAVE
+### ARTICLE 8 - SICK LEAVE
 
 Section 1. Accrual.
 Employees shall accrue sick leave at the rate of eight (8) hours for each month worked.
@@ -794,7 +794,7 @@ disciplined or counseled for failure to obey a subpoena that is served upon the 
 during a County-approved family medical leave or bona fide sick leave absence.
 
 
-                         ARTICLE 9 - VACATION LEAVE
+### ARTICLE 9 - VACATION LEAVE
 
 Section 1. Accrual.
 A. Vacation Option – New Hires.
@@ -950,7 +950,7 @@ vacation within the employee’s anniversary year.
        exceptional circumstances for reapplying for Section 5 benefits.
 
 
-                         ARTICLE 10 - OTHER LEAVES
+### ARTICLE 10 - OTHER LEAVES
 
 Section 1. Leave of Absence.
 Leaves of absence are covered by County Code and policy.
@@ -985,7 +985,7 @@ the individual’s skill or professional ability, provided it meets with the app
 Sheriff.
 
 
-                    ARTICLE 11 - HEALTH AND WELFARE
+### ARTICLE 11 - HEALTH AND WELFARE
 
 Section 1. Accrual of Benefits.
 A regular status employee working greater than or equal to 20 hours per week is eligible
@@ -1171,7 +1171,7 @@ Employees may participate in the Flexible Savings Account offered by the County 
 the employee’s expense for contributions. Employer will pay the administrative fee.
 
 
-                               ARTICLE 12 – WAGES
+### ARTICLE 12 – WAGES
 
 Section 1. Wages and Classification Schedule.
 Effective July 1, 2023, the pay plan for all classifications within the bargaining unit
@@ -1295,7 +1295,7 @@ eligible for graveyard shift.
 
 
                                            29
-                            ARTICLE 13 – OVERTIME
+### ARTICLE 13 – OVERTIME
 
 Section 1. Overtime.
 Time and one-half (1.5) the employee’s regular hourly rate of pay shall be paid for
@@ -1561,7 +1561,7 @@ Section 12, exceeding 40 hours in any work week. This Section shall apply in lie
 Section 1 of this Article.
 
 
-                      ARTICLE 14 - COURT APPEARANCES
+### ARTICLE 14 - COURT APPEARANCES
 
 Section 1. Time Outside Regular Shift for Court Appearances.
 A court appearance is all authorized time spent by an employee other than on their
@@ -1634,7 +1634,7 @@ receive a minimum of two (2) hours at time and one-half (1.5) regardless if the 
 appearance is on a work day or scheduled day off.
 
 
-                   ARTICLE 15 - CALL BACK/CALL OUTS
+### ARTICLE 15 - CALL BACK/CALL OUTS
 
 Section 1. Call Back.
 “Call Back” is defined as an employee being contacted outside their regular work hours
@@ -1739,7 +1739,7 @@ B.     ITF, CRAFT, CFU and CSI:
        and 4 of this Article for call outs.
 
 
-                            ARTICLE 16 - TRAVEL PAY
+### ARTICLE 16 - TRAVEL PAY
 
 Whenever an employee is required to report for work in any location other than their
 established place of work, and transportation is not provided by the County, they shall
@@ -1776,7 +1776,7 @@ days’ notice before the departure date.
 
 
 
-                           ARTICLE 17 - ON CALL PAY
+### ARTICLE 17 - ON CALL PAY
 
 Section 1. On Call Assignment.
 Employees may be assigned by management to be “on-call.” The assignment requires
@@ -1843,7 +1843,7 @@ compensable value.
 This section shall not apply to CCITF Sergeants.
 
 
-         ARTICLE 18 - WORK ABOVE NORMAL CLASSIFICATION
+### ARTICLE 18 - WORK ABOVE NORMAL CLASSIFICATION
 
 Section 1. Working Out of Classification.
 Whenever an employee is assigned to perform any work for one-half or more of a shift
@@ -1898,7 +1898,7 @@ Section 2. Special Assignments.
        assignment.
 
 
-            ARTICLE 19 - TRAINING/PROBATIONARY PERIODS
+### ARTICLE 19 - TRAINING/PROBATIONARY PERIODS
 
 Section 1. Training.
 Sworn employees shall be provided sufficient training to maintain DPPST certification.
@@ -1956,7 +1956,7 @@ position is open.
 
 
                                             43
-                 ARTICLE 20 - DISCIPLINE AND DISCHARGE
+### ARTICLE 20 - DISCIPLINE AND DISCHARGE
 
 Section 1.
 Disciplinary action may be imposed upon an employee only for just cause, using the
@@ -2165,7 +2165,7 @@ HB 4207 (2020), the County and/or Sheriff’s Office will provide written notice
 employee prior to the release and subject to HB 4207 (2020).
 
 
-                  ARTICLE 21 - SETTLEMENT OF DISPUTES
+### ARTICLE 21 - SETTLEMENT OF DISPUTES
 
 Section 1. Grievance and Arbitration Procedure.
 Any non-disciplinary grievance or dispute which may arise between the parties
@@ -2240,7 +2240,7 @@ agree to equally split the cost of such mediation.
 
 
                                              49
-                         ARTICLE 22 – MISCELLANEOUS
+### ARTICLE 22 – MISCELLANEOUS
 
 Section 1. No Discrimination.
 The provisions of this Agreement shall be applied equally to all employees in
@@ -2343,7 +2343,7 @@ recover overpayments by payroll deduction over a reasonable period of time.
           employee’s W-2 form by the amount repaid.
 
 
-                ARTICLE 23 - USE OF RESERVE PERSONNEL
+### ARTICLE 23 - USE OF RESERVE PERSONNEL
 
 Section 1.
 The County may maintain a Reserve Program. Typical or similar duties that may be
@@ -2378,7 +2378,7 @@ all voluntary and paid duties and hours performed by reserves.
 
 
                                            52
-                        ARTICLE 24 - DUES & CHECKOFF
+### ARTICLE 24 - DUES & CHECKOFF
 
 Section 1.
 All employees whose classification or job title is included in Article 1, Recognition, of
@@ -2408,7 +2408,7 @@ notifying the Association of any such claim.
 
 
 
-                  ARTICLE 25 – WORKERS’ COMPENSATION
+### ARTICLE 25 – WORKERS’ COMPENSATION
 
 Section 1.
 All County employees will be insured under the provisions of the Oregon State
@@ -2480,7 +2480,7 @@ may be subject to loss of reinstatement rights. (See also Article 37, Light Duty
 
 
 
-         ARTICLE 26 - REGULAR PART-TIME EMPLOYEE BENEFITS
+### ARTICLE 26 - REGULAR PART-TIME EMPLOYEE BENEFITS
 
 Benefits for regular part-time employees covered by this Agreement shall be as
 follows:
@@ -2523,13 +2523,13 @@ I.     Overtime will only be paid for all authorized work performed in excess of
        apply to part-time employees.
 
 
-                 ARTICLE 27 - COMPENSATORY TIME OFF
+### ARTICLE 27 - COMPENSATORY TIME OFF
 
 If agreed to by an employee and their supervisor, compensatory leave may be taken in
 lieu of pay for overtime. Such leave shall not accrue beyond forty (40) hours.
 
 
-       ARTICLE 28 - PUBLIC EMPLOYEES RETIREMENT SYSTEM
+### ARTICLE 28 - PUBLIC EMPLOYEES RETIREMENT SYSTEM
 
 Section 1. Employer “Pick-up” of Employees PERS/OPSRP Contribution.
 Eligibility for Public Employees Retirement System (PERS) and Oregon Public
@@ -2668,7 +2668,7 @@ E.   Non-Retire/Rehire Employees: The County is not precluded from offering work
 
 
                                         58
-                              ARTICLE 29 – LAYOFF
+### ARTICLE 29 – LAYOFF
 
 Section 1.
 This Article is to apply to all employees covered by this collective bargaining
@@ -2786,7 +2786,7 @@ eligibility.
 Employees recalled shall have accrued but unused sick leave at the time of lay off
 restored.
 
-                  ARTICLE 30 - TUITION REIMBURSEMENT
+### ARTICLE 30 - TUITION REIMBURSEMENT
 
 Subject to a maximum of one thousand five hundred dollars ($1500.00) per employee
 per fiscal year, the County will reimburse the employees for the cost of books and tuition
@@ -2797,7 +2797,7 @@ reimbursement. Exceptions must be approved by the Sheriff in advance of the cour
 study.
 
 
-                     ARTICLE 31 - INCENTIVE PROGRAM
+### ARTICLE 31 - INCENTIVE PROGRAM
 
 Section 1. Incentive Schedule.
 In order to maintain and improve officers’ law enforcement skills, as well as to increase
@@ -3200,7 +3200,7 @@ reasons without a demand from the Association to bargain the decision or any pay
 issues from the move.
 
 
-                            ARTICLE 32 – EQUIPMENT
+### ARTICLE 32 – EQUIPMENT
 
 Section 1. Repair or replacement of personal property or equipment.
 The County shall repair or replace an employee’s personal property or equipment
@@ -3240,7 +3240,7 @@ All sworn employees hired after the contract ratification date will be required 
 a primary firearm issued by the Sheriff’s Office in performance of their duties.
 
 
-         ARTICLE 33 - CLEANING AND CLOTHING ALLOWANCE
+### ARTICLE 33 - CLEANING AND CLOTHING ALLOWANCE
 
 Section 1. Uniform Cleaning.
 DPSST Certified employees and Community Service Officers required to wear a
@@ -3252,7 +3252,7 @@ rate of $50 per month on the first paycheck of each month. Detectives do not rec
 the uniform cleaning allowance.
 
 
-                     ARTICLE 34 - LEGAL DEFENSE FUND
+### ARTICLE 34 - LEGAL DEFENSE FUND
 
 Legal Defense Plan: For DPSST certified employees, the County will contribute
 towards the PORAC Legal Defense Plan that provides each of its members with an
@@ -3275,7 +3275,7 @@ the scope of regular performance of his or her duty as an employee for the Count
       privilege between the attorney and the member.
 
 
-                         ARTICLE 35 - SAVINGS CLAUSE
+### ARTICLE 35 - SAVINGS CLAUSE
 
 Should any Article, Section, or portion thereof, of this Agreement be determined to be
 unlawful and unenforceable by statute or constitutional amendment, by administrative
@@ -3288,7 +3288,7 @@ immediately to negotiate a substitute, if possible, for the invalidated Article,
 portion thereof under ORS 243.698.
 
 
-                      ARTICLE 36 - ASSOCIATION RIGHTS
+### ARTICLE 36 - ASSOCIATION RIGHTS
 
 Section 1. Association Executive Board.
 Employees selected by the Association to act as Association representatives for
@@ -3350,7 +3350,7 @@ working hours whenever possible and without loss of pay. The purpose of the meet
 may be to discuss issues which would improve the relationship between the parties.
 
 
-                            ARTICLE 37 - LIGHT DUTY
+### ARTICLE 37 - LIGHT DUTY
 
 Section 1.
 Employees have an ongoing responsibility to notify their supervisor if they are unable
@@ -3399,7 +3399,7 @@ to one hundred and eighty (180) days total, except in unusual circumstances to b
 determined at discretion of the Sheriff.
 
 
-  ARTICLE 38 –MEDICOLEGAL DEATH INVESTIGATORS, DISASTER
+### ARTICLE 38 –MEDICOLEGAL DEATH INVESTIGATORS, DISASTER
      MANAGEMENT DEPARTMENT, AND DISTRICT ATTORNEY
                       INVESTIGATORS
 
@@ -3566,7 +3566,7 @@ Leave accruals are consistent with the other Articles of this contract.
 
 
                                             77
-        ARTICLE 39 – EMPLOYEE ASSISTANCE PROGRAM (EAP)
+### ARTICLE 39 – EMPLOYEE ASSISTANCE PROGRAM (EAP)
 
 The Sheriff or designee may, with cause, order any employee to consult with the
 Employee Assistance Program (EAP) counselor as necessary. The employee shall sign
@@ -3579,7 +3579,7 @@ allow for the disclosure to the County medical records of the employee. The
 appointments will be on compensable time.
 
 
-                           ARTICLE 40 - TRANSFERS
+### ARTICLE 40 - TRANSFERS
 
 Employees who wish to transfer between Jail and Patrol may do so upon successful
 completion of the recruitment process and submission and acceptance of the Request
@@ -3589,7 +3589,7 @@ to Voluntarily Transfer.
 
 
                                          78
-                         ARTICLE 41 – TERMINATION
+### ARTICLE 41 – TERMINATION
 
 Section 1.
 Except as otherwise provided, this agreement shall become effective as of the date it
@@ -3609,7 +3609,7 @@ In WITNESS THEREOF, the parties hereto set their hands thus 8th day of November,
 
 
                                           79
-                                         APPENDIX A
+### APPENDIX A
 
                 CLACKAMAS COUNTY SHERIFF’S OFFICE REQUEST
                        TO VOLUNTARILY TRANSFER

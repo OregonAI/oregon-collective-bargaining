@@ -38,19 +38,38 @@ content_roots:
 # This is the first corpus to exercise it — before v1.19.0 a new instrument family
 # cost a toolkit release plus an org-wide pin bump.
 #
-# verbatim: false ON PURPOSE, and it is a gate, not an oversight. A CBA is jointly
-# authored with private parties; "public record" and "freely reproducible" are not
-# the same claim. The house default (seed, "A copyright question to settle BEFORE
-# ingest") is summary-first with official links, per-document basis recorded in
-# `reproduction_basis` frontmatter, the way federal-reference handled CJIS. If the
-# operator later determines a class reproduces freely, flip that class here — in a
-# PR, with the basis in the message — never silently at ingest time.
+# verbatim: true — the operator's class determination of 2026-08-03, replacing the
+# summary-first posture this corpus shipped with. Recorded here because this is the
+# gate: the toolkit unions these names into VERBATIM_REQUIRED, so a document of
+# either type now FAILS provenance unless it carries `## Full text` or an explicit
+# `content_exception`. The flip is enforced, not merely announced.
+#
+# THE BASIS IS NOT "CONTRACTS ARE NOT COPYRIGHTABLE." They can be, and a CBA is
+# jointly authored with a union — a private party. That objection is exactly what
+# made this corpus summary-first, and asserting the broad claim would leave the
+# determination resting on its weakest point. The narrower ground, and the one
+# written into every document's `reproduction_basis`:
+#
+#   * these are public records of a public body, ORS 192.311-192.478;
+#   * the public employer ALREADY publishes the full executed PDF at the source_url
+#     each document cites — we mirror what the government itself distributes;
+#   * a ratified agreement is an official act of that body, which Georgia v.
+#     Public.Resource.Org, 590 U.S. 255 (2020) places outside copyright.
+#
+# What summary-first cost was the corpus's entire purpose: a 69-word median summary
+# cannot answer "what is the grievance procedure in this agreement", which is the
+# question it exists to answer. The reproduction question was real; the answer was
+# wrong, and it was wrong in the direction of publishing nothing useful.
+#
+# Reversing this is the same shape of change in the other direction: flip these to
+# false, and src/promote_full_text.py's --check will fail every document until the
+# bodies are rewritten. Do it in a PR with the basis in the message, never silently.
 schema:
   doc_types:
     - name: collective_bargaining_agreement
-      verbatim: false
+      verbatim: true
     - name: letter_of_agreement
-      verbatim: false
+      verbatim: true
 
 plugins:
   # Shared implementation, not a per-repo copy (see oregon-counties for the reasoning).

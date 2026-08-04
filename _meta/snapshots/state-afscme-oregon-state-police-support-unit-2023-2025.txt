@@ -97,7 +97,7 @@ SIGNATURE PAGE – AFSCME - OSPSU...............................................
 
 
 2023-2025 Oregon State Police Support Unit                                          3                       Collective Bargaining Agreement
-                                         ARTICLE 1 - RECOGNITION
+### ARTICLE 1 - RECOGNITION
 
 Section 1.
 This Agreement is made and entered into by and between the State of Oregon
@@ -164,7 +164,7 @@ Time limits specified in this procedure must be observed, unless either party re
 and is granted a specific extension of time. Such extension must be stipulated in writing
 and shall become part of the record.
 
-                                 ARTICLE 2 - ADMINISTRATIVE PROVISIONS
+### ARTICLE 2 - ADMINISTRATIVE PROVISIONS
 
 Section 1. Laws, Regulations and Savings.
 This Agreement is subject to all applicable existing and future State and Federal laws and
@@ -234,7 +234,7 @@ B.       The Employer agrees to release up to five (5) employees with pay for ac
                                                                   REV: 2015, 2017, 2019, 2021,2023
 
 
-                                     ARTICLE 3 - MANAGEMENT'S RIGHTS
+### ARTICLE 3 - MANAGEMENT'S RIGHTS
 
 Section 1.
 The Agency retains all rights customarily attributed to the management and operation of
@@ -255,7 +255,7 @@ proper disciplinary action against employees; to lay off employees; to recall em
 provided such rights shall not be exercised so as to violate any of the specific provisions
 of this Agreement.
 
-                      ARTICLE 4 - UNION RIGHTS, SECURITY, AND STEWARDS
+### ARTICLE 4 - UNION RIGHTS, SECURITY, AND STEWARDS
 
 Section 1. Notice of Representatives.
 The Union will provide a written list, which will be kept current, to the Agency and the
@@ -511,7 +511,7 @@ International Conventions, the following provisions apply.
                                                                                           REV: 2017, 2019
 
 
-                                         ARTICLE 5 - EMPLOYEE RIGHTS
+### ARTICLE 5 - EMPLOYEE RIGHTS
 
 Section 1.
 Off duty activities of employees will not subject them to disciplinary action by the Employer
@@ -549,7 +549,7 @@ Section 3.
 The Employer may request information regarding the employee’s volunteer activities or
 other sources of income.
 
-      ARTICLE 6 - EQUAL EMPLOYMENT OPPORTUNITY AND AFFIRMATIVE ACTION
+### ARTICLE 6 - EQUAL EMPLOYMENT OPPORTUNITY AND AFFIRMATIVE ACTION
 
 Section 1.
 The provisions of this Agreement shall apply equally to all employees in the bargaining
@@ -575,7 +575,7 @@ it, and/or issue its findings to the employee and the Union. Should the Bureau o
 and industries or EEOC be given jurisdiction, such complaints will be processed in the
 same manner as complaints in this Section.
 
-                                      ARTICLE 7 - PERSONNEL RECORDS
+### ARTICLE 7 - PERSONNEL RECORDS
 
 Section 1.
 The Chief Human Resources Office human resource information system is the system of
@@ -671,7 +671,7 @@ subject employee.
                                                                                    REV: 2017, 2019, 2021
 
 
-                                       ARTICLE 8 - FILLING of VACANCIES
+### ARTICLE 8 - FILLING of VACANCIES
 
 Section 1.
 The Agency desires to fill vacancies with the best qualified applicants available. Within
@@ -742,7 +742,7 @@ and shall be granted a meeting to discuss the employee’s qualifications and in
                                                                                    REV: 2015, 2017, 2019
 
 
-                                     ARTICLE 9 - POSITION DESCRIPTIONS
+### ARTICLE 9 - POSITION DESCRIPTIONS
 
 Position descriptions shall be in writing and will delineate the specific duties assigned to
 the position. A dated copy of the position description, signed by the employee’s
@@ -758,7 +758,7 @@ work consistent with class specifications.
                                                                                                REV: 2015
 
 
-                                             ARTICLE 10 - TRIAL SERVICE
+### ARTICLE 10 - TRIAL SERVICE
 
 Section 1.
 Each person upon initial appointment to state service appointed to a bargaining unit
@@ -819,7 +819,7 @@ B.       If an employee is reinstated into a position in their former classifica
                                                                             REV: 2017, 2019, 2021,2023
 
 
-                                     ARTICLE 11 - QUARTERLY CHECK-INS
+### ARTICLE 11 - QUARTERLY CHECK-INS
 
 Section 1. Quarterly Check-Ins.
 Supervisory managers shall conduct check-ins with their employees on a quarterly basis.
@@ -835,7 +835,7 @@ be used for discipline.
                                                                                   REV: 2017, 2021,2023
 
 
-                           ARTICLE 12 - LIMITED DURATION APPOINTMENTS
+### ARTICLE 12 - LIMITED DURATION APPOINTMENTS
 
 Section 1.
 Persons may be hired for special studies or projects of uncertain or limited duration which
@@ -891,7 +891,7 @@ these conditions. Such notification shall include the following:
                                                                                         REV: 2015, 2019
 
 
-                                             ARTICLE 13 - JOB SHARING
+### ARTICLE 13 - JOB SHARING
 
 Section 1.
 "Job share position" means a full-time position in classified service that may be held by
@@ -938,7 +938,7 @@ C.       If remaining employee requests to remain part-time and upon approval of
          position in the same classification or to voluntarily demote. If the above conditions
          are not available or not acceptable, the employee agrees to resign.
 
-                ARTICLE 14 - CLASSIFICATION AND CLASSIFICATION CHANGES
+### ARTICLE 14 - CLASSIFICATION AND CLASSIFICATION CHANGES
 
 Section 1. Work Out of Classification.
 A.    When an employee is assigned, in writing, by the OSP for a limited time period to
@@ -1159,7 +1159,7 @@ This Section supersedes any provisions contained in the Agency’s grievance pro
                                                                                              REV: 2017,2023
 
 
-                           ARTICLE 15 - REVIEW OF CLASSIFICATION SERIES
+### ARTICLE 15 - REVIEW OF CLASSIFICATION SERIES
 
 Section 1.
 The Department of Administrative Services, CHRO, Labor Relations Unit shall notify the
@@ -1181,7 +1181,7 @@ Administrative Services and Labor Relations Unit indicating the reasons for the 
 such studies.
 (See LOA: Review of Class Series)
 
-                                             ARTICLE 16 - LAYOFF
+### ARTICLE 16 - LAYOFF
 
 Section 1. Alternatives to Layoff
 1.    When the Agency believes that a lack of funds requires a layoff, the Agency will
@@ -1562,7 +1562,7 @@ the bargaining unit.
                                                                                      REV: 2015, 2021
 
 
-                                  ARTICLE 17 - EDUCATION AND TRAINING
+### ARTICLE 17 - EDUCATION AND TRAINING
 
 Section 1.
 The Department will, as far as it is reasonably practicable to do so, provide training and
@@ -1638,7 +1638,7 @@ such certification until such requirement is removed.
 
 
 2023-2025 Oregon State Police Support Unit         33            Collective Bargaining Agreement
-                     ARTICLE 18 - REIMBURSEMENT OF PERSONAL PROPERTY
+### ARTICLE 18 - REIMBURSEMENT OF PERSONAL PROPERTY
 
 Section 1.
 The Agency will follow, and the employee may only pursue claims pursuant to, Risk
@@ -1666,7 +1666,7 @@ working days of the date of hire.
                                                                                       REV: 2021,2023
 
 
-        ARTICLE 19 - TRAVEL, MILEAGE AND MOVING EXPENSE REIMBURSEMENT
+### ARTICLE 19 - TRAVEL, MILEAGE AND MOVING EXPENSE REIMBURSEMENT
 
 Section 1. Travel and Mileage Allowance.
 Reimbursements and procedures will be in accordance with Oregon Accounting Manual,
@@ -1682,7 +1682,7 @@ Article.
 Section 3. Travel Pay.
 See Article 33 – Hours of Work/Overtime, Section 6.
 
-                                       ARTICLE 20 - SAFETY AND HEALTH
+### ARTICLE 20 - SAFETY AND HEALTH
 
 Section 1.
 A.    It is further the intent of this Agreement that the parties will mutually strive to
@@ -1766,7 +1766,7 @@ G.    No employee shall be subject to retaliation for reporting or filing a comp
                                                                                     REV: 2017, 2021,2023
 
 
-                                        ARTICLE 21 - CONTRACTING OUT
+### ARTICLE 21 - CONTRACTING OUT
 
 Section 1.
 The Union recognizes that the Employer has the management right, during the term of
@@ -1865,7 +1865,7 @@ accomplish the work in the future for Agency initiated contracts. Decisions arou
 reviewing of contracted work are not subject to the grievance procedure.
 (See LOA: Feasibility Study)
 
-                                 ARTICLE 22 - DISCIPLINE AND DISCHARGE
+### ARTICLE 22 - DISCIPLINE AND DISCHARGE
 
 Section 1. Weingarten Rights.
 Upon request, an employee shall have the right to Union representation during an
@@ -2002,7 +2002,7 @@ on the same day as the employee is notified.
                                                                                REV: 2017, 2019, 2021
 
 
-                                    ARTICLE 23 - GRIEVANCE PROCEDURE
+### ARTICLE 23 - GRIEVANCE PROCEDURE
 
 Section 1.
 Grievances are defined as act(s), omission(s), application(s) or interpretation(s) alleged
@@ -2202,7 +2202,7 @@ J.       The arbitration award shall not establish a precedent for any current o
 
 
 2023-2025 Oregon State Police Support Unit          44             Collective Bargaining Agreement
-                            ARTICLE 24 - LABOR-MANAGEMENT COMMITTEE
+### ARTICLE 24 - LABOR-MANAGEMENT COMMITTEE
 
 Section 1. Purpose.
 In order to facilitate communication between the parties and to promote cooperative
@@ -2255,7 +2255,7 @@ or affect the time frames of the settlement of disputes procedure (Article 23).
 
 
 2023-2025 Oregon State Police Support Unit       45             Collective Bargaining Agreement
-                                             ARTICLE 25 – SALARIES
+### ARTICLE 25 – SALARIES
 
 Section 1. PERS Pickup
 Effective February 1, 2019 compensation plan salary rates for PERS participating
@@ -2315,7 +2315,7 @@ COLA
                                                                         REV: 2015, 2017, 2019, 2021,2023
 
 
-                                       ARTICLE 26 - HEALTH INSURANCE
+### ARTICLE 26 - HEALTH INSURANCE
 
 Section 1.
 An Employer contribution will be made for each eligible employee who has at least
@@ -2375,7 +2375,7 @@ funded by the savings.
                                                                      REV: 2015, 2017, 2019, 2021,2023
 
 
-                                       ARTICLE 27 - SHIFT DIFFERENTIAL
+### ARTICLE 27 - SHIFT DIFFERENTIAL
 
 Section 1. Regular Shift Differential
 An employee, who is not in paid overtime status for time worked, shall be paid an
@@ -2399,7 +2399,7 @@ or standby duty.
                                                                                  REV: 2015, 2017,2023
 
 
-                                ARTICLE 28 - PAYDAY AND PAY ADVANCES
+### ARTICLE 28 - PAYDAY AND PAY ADVANCES
 
 A.       All employees shall normally be paid no later than the first of the month. When a
          payday occurs on Monday through Friday, payroll checks shall be released to
@@ -2429,7 +2429,7 @@ C.       The parties agree that pay advances will be kept to an absolute minimum
                                                                                          REV: 2015, 2019
 
 
-                                   ARTICLE 29 - SALARY ADMINISTRATION
+### ARTICLE 29 - SALARY ADMINISTRATION
 
 Section 1. Step Salary Increase.
 Employees shall be eligible for consideration for step salary increases following:
@@ -2495,7 +2495,7 @@ at which such employee was being paid at the time of layoff.
                                                                                         REV: 2017,2019
 
 
-                         ARTICLE 30 - RECOUPMENT OF WAGE AND BENEFIT
+### ARTICLE 30 - RECOUPMENT OF WAGE AND BENEFIT
 
 Section 1. Overpayments.
 A.    In the event that an employee receives wages or benefits from the Agency to
@@ -2561,7 +2561,7 @@ may be adjusted on the following month's paycheck.
                                                                                           REV: 2019,2023
 
 
-                                             ARTICLE 31 - REPORTING PAY
+### ARTICLE 31 - REPORTING PAY
 
 An FLSA-eligible employee who is scheduled for work and reports for their regular work
 shift, except for situations addressed in the Inclement Conditions Article, and is released
@@ -2573,7 +2573,7 @@ from work shall be paid the equivalent of two (2) hours pay at the one and one-h
 Part-time, hourly-paid employees, who actually begin their scheduled shift, shall be paid
 for the remainder of their scheduled shift.
 
-                                  ARTICLE 32 - ON-CALL OR STANDBY PAY
+### ARTICLE 32 - ON-CALL OR STANDBY PAY
 
 Section 1. On-Call.
 A.    Employees who are scheduled for or assigned on-call duty shall be paid one (1)
@@ -2608,7 +2608,7 @@ performing assigned duties and receives the appropriate rate of pay for time wor
                                                                                            REV:2023
 
 
-                                 ARTICLE 33 - HOURS OF WORK/OVERTIME
+### ARTICLE 33 - HOURS OF WORK/OVERTIME
 
 Section 1. Work Week.
 The work week shall begin at 00:01 on Sunday and end at 24:00 midnight the following
@@ -2845,7 +2845,7 @@ their most recent eight (8) hour shift schedule.
                                                                                         REV: 2015, 2017,2023
 
 
-                                                ARTICLE 34 - SENIORITY
+### ARTICLE 34 - SENIORITY
 
 For current OSP employees, for purposes of compensatory time off and vacation
 scheduling seniority means all time spent in continuous State service and for employees
@@ -2860,7 +2860,7 @@ with a seniority report listing state service dates.
                                                                                                    REV: 2023
 
 
-                                             ARTICLE 35 - VACATION LEAVE
+### ARTICLE 35 - VACATION LEAVE
 
 Section 1. Vacation Leave for Full-Time Employees.
 Full-time classified employees shall accrue vacation leave in accordance with the
@@ -3023,7 +3023,7 @@ leave is not appropriate.
                                                                                 REV: 2017, 2019, 2021,2023
 
 
-                                             ARTICLE 36 - SICK LEAVE
+### ARTICLE 36 - SICK LEAVE
 
 Section 1. Accrual Rate of Sick Leave With Pay Credits.
 Full-time employees shall accrue eight (8) hours of sick leave with pay credits for each
@@ -3104,7 +3104,7 @@ have all of their accrued sick leave credits transferred when the employee is tr
 to a different State agency if allowed by that agency's rules or Collective Bargaining
 Agreement.
 
-                                             ARTICLE 37 - HARDSHIP LEAVE
+### ARTICLE 37 - HARDSHIP LEAVE
 
 Section 1.
 As used in this Article:
@@ -3164,7 +3164,7 @@ sources and/or other legitimate business reasons.
                                                                                           REV: 2015,2023
 
 
-                                             ARTICLE 38 - HOLIDAYS
+### ARTICLE 38 - HOLIDAYS
 
 Section 1.
 The following compensable holidays shall be recognized:
@@ -3228,7 +3228,7 @@ granted on a basis which shall preclude the closure of state facilities.
                                                                                    REV: 2015, 2021,2023
 
 
-                                             ARTICLE 39 - OTHER LEAVES
+### ARTICLE 39 - OTHER LEAVES
 
 Section 1. Leaves With Pay
 A.    Personal Leave. All employees after completion of initial trial service shall be
@@ -3413,7 +3413,7 @@ Section 4. Parental Leave.
 Parental leave shall be granted in accordance with Federal/State Law as appropriate.
                                                                                  REV: 2015, 2019, 2021
 
-           ARTICLE 40 - INCLEMENT WEATHER/HAZARDOUS CONDITIONS LEAVE
+### ARTICLE 40 - INCLEMENT WEATHER/HAZARDOUS CONDITIONS LEAVE
 
  Section 1.
 A.     The Employer/Agency designated official(s) may close or curtail offices, facilities,
@@ -3570,7 +3570,7 @@ and/or hazardous conditions.
                                                                          REV: 2017, 2019, 2021,2023
 
 
-                                      ARTICLE 41 – WORKING REMOTELY
+### ARTICLE 41 – WORKING REMOTELY
 
 Section 1.
 Oregon state government encourages working remotely where it is a viable option that
@@ -3723,7 +3723,7 @@ These provisions are applicable to all Sections listed above.
                                                                                           REV: 2021,2023
 
 
-                                  ARTICLE 42 - WORKER'S COMPENSATION
+### ARTICLE 42 - WORKER'S COMPENSATION
 
 Injured workers return to work shall be in accordance with appropriate Department Policy
 and State law. Violations shall be pursued through the appropriate Worker's
@@ -3731,7 +3731,7 @@ Compensation Board, BOLI, or insurance carrier.
 
 Provisions contained in the Department Policy may not be less than outlined in the law.
 
-                                             ARTICLE 43 - CALL BACK TIME
+### ARTICLE 43 - CALL BACK TIME
 
 Section 1.
 When called to duty by management authorization on a day off or on a duty day after a
@@ -3762,7 +3762,7 @@ standby or on-call as appropriate.
                                                                                                REV: 2021
 
 
-                                             ARTICLE 44 - LEADWORK
+### ARTICLE 44 - LEADWORK
 
 Section 1.
 Leadwork differential shall be defined as a differential for employees who have been
@@ -3812,7 +3812,7 @@ which are mutually agreed to in writing between the supervisor and the employee.
                                                                                                 REV: 2019
 
 
-         ARTICLE 45 - IMPLEMENTATION OF NEW CLASSES—APPEALS PROCESS
+### ARTICLE 45 - IMPLEMENTATION OF NEW CLASSES—APPEALS PROCESS
 
 The appeals process is designed to allocate employees into new classes. Employees in
 positions allocated to a new classification, who dispute their placement within the new
@@ -3891,7 +3891,7 @@ E.       Where a position is vacated after the filing of the initial appeal, the
 
 F.       This process terminates upon completion of the allocation process.
 
-                                   ARTICLE 46 - BILINGUAL DIFFERENTIAL
+### ARTICLE 46 - BILINGUAL DIFFERENTIAL
 
 Employees who demonstrate proficiency in Spanish, Russian, Vietnamese, Chinese
 and/or American Sign Language (ASL) will receive a differential of five percent (5%) of
@@ -3905,7 +3905,7 @@ base pay will be paid to employees that demonstrate proficient use of bilingual 
 Management determines the need for such skills. Management will determine the
 appropriate proficiency level and the language.
 
-                   ARTICLE 47 - TEMPORARY INTERRUPTION OF EMPLOYMENT
+### ARTICLE 47 - TEMPORARY INTERRUPTION OF EMPLOYMENT
 
 When the Employer declares that a temporary interruption of employment should be
 considered because of lack of funds, either party may provide the other with written notice
@@ -3917,7 +3917,7 @@ Complete Agreement articles of any of the agreements or constitute interim negot
 under PECBA. In addition, the parties will not be required to use the dispute resolution
 process contained in the PECBA.
 
-                           ARTICLE 48 - VOLUNTARY MEDICAL SEPARATION
+### ARTICLE 48 - VOLUNTARY MEDICAL SEPARATION
 
 Section 1.
 A regular status employee with a serious health condition who has exhausted all of their
@@ -3962,7 +3962,7 @@ following conditions are met:
                                                                                               NEW: 2019
 
 
-                                         ARTICLE 49 – EXIT INTERVIEWS
+### ARTICLE 49 – EXIT INTERVIEWS
 
 A.       If a regular status employee provides timely notice that they are voluntarily
          separating from Agency service, the Agency will offer an exit interview that focuses
@@ -3976,7 +3976,7 @@ C.       Upon request, but no more than two (2) times a year, the Union can rece
          employee feedback on their Agency experience.
                                                                                               NEW: 2019
 
-                                             ARTICLE 50 – AIR QUALITY
+### ARTICLE 50 – AIR QUALITY
 Section 1.
 The Air Quality Index (AQI) was developed by the US Environmental Protection Agency
 as an indicator of overall air quality and is based on the five (5) criteria pollutants regulated
@@ -3997,7 +3997,7 @@ Inclement Weather/Hazardous Conditions apply for elevated AQI which falls under 
 Hazardous Condition.
                                                                                               NEW: 2021
 
-                                       ARTICLE 51 - PAID LEAVE OREGON
+### ARTICLE 51 - PAID LEAVE OREGON
 
 Paid Leave Oregon is administered by the Oregon Employment Department. The State
 of Oregon, as an employer, shall comply with the provisions of Paid Leave Oregon, as
@@ -4021,7 +4021,7 @@ existing contract language relating to FMLA/OFLA.
 
 
 2023-2025 Oregon State Police Support Unit    80           Collective Bargaining Agreement
-                    LETTER OF AGREEMENT - ARTICLE 21, CONTRACTING OUT
+### LETTER OF AGREEMENT - ARTICLE 21, CONTRACTING OUT
                                    FEASIBILITY STUDY
 
 This Letter of Agreement is entered into between the State of Oregon Department of
@@ -4040,7 +4040,7 @@ This Agreement is effective through June 30, 2025.
 
 
 2023-2025 Oregon State Police Support Unit        81             Collective Bargaining Agreement
-       LETTER OF AGREEMENT – ARTICLE 24 – LABOR MANAGEMENT COMMITTEE
+### LETTER OF AGREEMENT – ARTICLE 24 – LABOR MANAGEMENT COMMITTEE
 
 This Agreement is executed by AFSCME Council 75 on behalf of the Oregon State Police
 Unit (Union) and the State of Oregon, acting through the Department of Administrative
@@ -4062,7 +4062,7 @@ This Letter of Agreement will sunset June 30, 2025.
 
 
 2023-2025 Oregon State Police Support Unit           82           Collective Bargaining Agreement
-          LETTER OF AGREEMENT – ARTICLE 25 - SALARY AND BENEFIT REPORT
+### LETTER OF AGREEMENT – ARTICLE 25 - SALARY AND BENEFIT REPORT
 
 This Agreement is between the State of Oregon, acting through its Department of
 Administrative Services (DAS) and the AFSCME Local 75, (Union).
@@ -4079,7 +4079,7 @@ agreement.
 
 
 2023-2025 Oregon State Police Support Unit     83            Collective Bargaining Agreement
-           LETTER OF AGREEMENT – ARTICLE 25 - SALARY RANGE TRUNCATION
+### LETTER OF AGREEMENT – ARTICLE 25 - SALARY RANGE TRUNCATION
 
 This Agreement is entered into between the State of Oregon, acting through its
 Department of Administrative Services (DAS), on behalf of the Agencies covered by this
@@ -4223,7 +4223,7 @@ Agreement (Agency) and the AFSCME Council 75 (Union).
 
 
 2023-2025 Oregon State Police Support Unit          86             Collective Bargaining Agreement
-             LETTER OF AGREEMENT – ARTICLE 25 – ONE-TIME PAYMENT COLA
+### LETTER OF AGREEMENT – ARTICLE 25 – ONE-TIME PAYMENT COLA
 
 This Agreement is entered into between the State of Oregon, acting through its
 Department of Administrative Services (DAS), and the AFSCME Local 75 (Union).
@@ -4246,7 +4246,7 @@ This Letter of Agreement will sunset on June 30, 2025.
 
 
 2023-2025 Oregon State Police Support Unit         87              Collective Bargaining Agreement
-    LETTER OF AGREEMENT – ARTICLE 26, PEBB MEMBER ADVISORY COMMITTEE
+### LETTER OF AGREEMENT – ARTICLE 26, PEBB MEMBER ADVISORY COMMITTEE
 
 This Agreement is between the State of Oregon, acting through its Department of
 Administrative Services (Employer) and AFSCME Council 75 (Union).
@@ -4294,7 +4294,7 @@ This Agreement will sunset on June 30, 2025.
 
 
 2023-2025 Oregon State Police Support Unit           88            Collective Bargaining Agreement
-    LETTER OF AGREEMENT – ARTICLE 33 – HOURS OF WORK/OVERTIME – MEAL
+### LETTER OF AGREEMENT – ARTICLE 33 – HOURS OF WORK/OVERTIME – MEAL
                                           PERIOD
 This Agreement is executed by AFSCME Council 75 on behalf of the Oregon State Police
 Unit (Union) and the State of Oregon, acting through the Department of Administrative
@@ -4327,7 +4327,7 @@ This Letter of Agreement will sunset June 30, 2025.
 
 
 2023-2025 Oregon State Police Support Unit            89            Collective Bargaining Agreement
-             LETTER OF AGREEMENT – NEW EMPLOYEE NOTICE/UNION ACCESS
+### LETTER OF AGREEMENT – NEW EMPLOYEE NOTICE/UNION ACCESS
 
     1. Notice
           a. The Employer shall provide the Union, in an editable digital file format, the
@@ -4369,7 +4369,7 @@ This Letter of Agreement will sunset June 30, 2025.
 
 
 2023-2025 Oregon State Police Support Unit       90             Collective Bargaining Agreement
-     LETTER OF AGREEMENT – OREGON UNIONS STATE WORKER TRAINING FUND
+### LETTER OF AGREEMENT – OREGON UNIONS STATE WORKER TRAINING FUND
 
 The Parties recognize that both the State and its workers benefit from workers
 understanding their different health care options, understanding their retirement benefits
@@ -4414,7 +4414,7 @@ The State Worker Training Fund will develop a plan to deliver trainings and prog
 
 
 2023-2025 Oregon State Police Support Unit         91            Collective Bargaining Agreement
-                          LETTER OF AGREEMENT – CONTRACT SPECIALIST
+### LETTER OF AGREEMENT – CONTRACT SPECIALIST
 
 This Agreement is between the State of Oregon, acting through its Department of
 Administrative Services (Employer) on behalf of all Agencies covered under the
@@ -4528,7 +4528,7 @@ This Agreement becomes effective on the date of the last signature and ends on J
 
 
 2023-2025 Oregon State Police Support Unit     94            Collective Bargaining Agreement
-                                        LETTER OF AGREEMENT – JEANS
+### LETTER OF AGREEMENT – JEANS
 
 The Union and the Agency agree that clothing, including jeans that meet standard
 business casual attire may be worn while employees are performing normal work duties.
@@ -4541,7 +4541,7 @@ of other state agencies, or any other official function as identified by the Age
 
 
 2023-2025 Oregon State Police Support Unit           95        Collective Bargaining Agreement
-LETTER OF AGREEMENT – ESSENTIAL WORKER INCLEMENT WEATHER/HAZARDOUS
+### LETTER OF AGREEMENT – ESSENTIAL WORKER INCLEMENT WEATHER/HAZARDOUS
                            CONDITIONS PAY
 
 This Agreement is between the State of Oregon, acting through its Department of
@@ -4568,7 +4568,7 @@ Essential Worker Inclement Weather/Hazardous Conditions Pay.
 
 
 2023-2025 Oregon State Police Support Unit      96             Collective Bargaining Agreement
-                       LETTER OF AGREEMENT – NATURAL DISASTER LEAVE
+### LETTER OF AGREEMENT – NATURAL DISASTER LEAVE
 
 This Agreement is between the State of Oregon, acting through its Department of
 Administrative Services (Employer) and AFSCME Council 75 (Union).
@@ -4601,7 +4601,7 @@ agreement.
 
 
 2023-2025 Oregon State Police Support Unit            97           Collective Bargaining Agreement
-LETTER OF AGREEMENT – STATE POLICY 50.050.01 WORKING REMOTELY UPDATES
+### LETTER OF AGREEMENT – STATE POLICY 50.050.01 WORKING REMOTELY UPDATES
 
 This Letter of Agreement is between the State of Oregon, acting through its Department
 of Administrative Services (Employer on behalf of the Agencies covered under the
@@ -4618,7 +4618,7 @@ This Agreement becomes effective on the date of the last signature below and end
 
 
 2023-2025 Oregon State Police Support Unit     98            Collective Bargaining Agreement
-         LETTER OF AGREEMENT – CHILDCARE AND ELDERCARE EXPLORATORY
+### LETTER OF AGREEMENT – CHILDCARE AND ELDERCARE EXPLORATORY
                                   COMMITTEE
 
 This Agreement is between the State of Oregon, acting through its Department of
@@ -4650,7 +4650,7 @@ contract. The committee will complete their work by January 31, 2025.
 
 
 2023-2025 Oregon State Police Support Unit        99             Collective Bargaining Agreement
-                                  LETTER OF AGREEMENT – PAY EQUITY
+### LETTER OF AGREEMENT – PAY EQUITY
 
    This Agreement is entered into by the State of Oregon, acting through its Department of
    Administrative Services, Labor Relations Unit (Employer), on behalf of the Agencies
@@ -4772,7 +4772,7 @@ contract. The committee will complete their work by January 31, 2025.
 
 
       2023-2025 Oregon State Police Support Unit         102            Collective Bargaining Agreement
-                 LETTER OF AGREEMENT—BI-WEEKLY PAY PERIOD/WORKDAY
+### LETTER OF AGREEMENT—BI-WEEKLY PAY PERIOD/WORKDAY
 
 This Letter of Agreement is between the State of Oregon, acting through its Department
 of Administrative Services (Employer), and the AFSCME Local 75 (Union).
@@ -4869,7 +4869,7 @@ Both Parties retain their rights under PECBA.
 
 
 2023-2025 Oregon State Police Support Unit               104             Collective Bargaining Agreement
-                LETTER OF AGREEMENT – REVIEW OF CLASSIFICATION SERIES
+### LETTER OF AGREEMENT – REVIEW OF CLASSIFICATION SERIES
 
 1.       DAS Classification and Compensation will complete a position review of the
          Laboratory Technician positions and Fingerprint Technician positions within the
@@ -4889,7 +4889,7 @@ Both Parties retain their rights under PECBA.
 
 
 2023-2025 Oregon State Police Support Unit        105           Collective Bargaining Agreement
-                                      APPENDIX A - COMPENSATION PLAN
+### APPENDIX A - COMPENSATION PLAN
 
  CLASSIFICATION TITLE                        SALARY   Laboratory Technician 2                          19
                                              RANGE    Medical Laboratory Technician 1                  18
@@ -4935,7 +4935,7 @@ Both Parties retain their rights under PECBA.
 
 
 2023-2025 Oregon State Police Support Unit            106                   Collective Bargaining Agreement
-                                           APPENDIX B - SALARY CHARTS
+### APPENDIX B - SALARY CHARTS
 
                                      SALARY SCHEDULE AS OF JULY 1, 2023
 Salary      Pay / Rng       Step      Step  Step Step   Step   Step     Step               Step      Step         Step

@@ -19,9 +19,8 @@ retrieved: '2026-08-02'
 source_sha256: 380d1c4dd5c8fb9cf8beb98abac40237e6968f64fc4a53f6f1507394da74eeaf
 snapshot_policy: hash-only
 status: current
-content_mode: summary
-reproduction_basis: 'jointly-authored contract; summary + official link per the class determination
-  in corpus.yml schema.doc_types (verbatim: false)'
+content_mode: 'verbatim'
+reproduction_basis: 'public record of a public body (ORS 192.311-192.478); the employer publishes the executed agreement in full at source_url; a ratified agreement is an official act (Georgia v. Public.Resource.Org, 590 U.S. 255 (2020)) — mirrored in full per the class determination in corpus.yml schema.doc_types (verbatim: true)'
 conversion_notes: pdftotext -layout; 1 pages, 2884 characters extracted; NOT human-verified
 last_verified: ''
 verified_by: ''
@@ -38,8 +37,8 @@ tags:
 - washington-county
 ---
 
-> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated
-> summary, not the agreement's official text. Verify against the official
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a non-authoritative
+> mirror of the agreement's text, not the official record. Verify against the official
 > source: <https://www.washingtoncountyor.gov/hr/documents/wcpoa-moa-recruit-deputy-age-mq-1042024/download?inline> (retrieved 2026-08-02).
 
 # Washington County — WCPOA MOA Recruit Deputy Age MQ 10.4.2024
@@ -51,10 +50,6 @@ Letter of agreement / MOU under **Washington County** and **WCPOA**.
 - No term is stated on the index or found in the document's front matter — `term` is left empty rather than inferred; the county presents this as its operative agreement
 - Source document: 1 pages (PDF)
 
-This corpus is **summary-first for agreements**: the contract's text is not
-reproduced here (see Curator notes), and nothing on this page states or
-paraphrases the agreement's terms. Read the agreement itself at the official
-source link above.
 
 ## Curator notes
 
@@ -72,3 +67,54 @@ Statutes and rules the document's text cites are recorded in frontmatter
 `relationships.references_external` (0 citation(s)) and resolve into
 `executive-regulatory-frameworks` as cites — this corpus asserts no
 `implements` edge anywhere.
+
+## Full text
+
+                                      Memorandum of Agreement
+                                   Recruit Deputy & Jail Recruit
+                             Deputy Classification Specifications
+                                             I. Parties to the Agreement
+The parties to this Memorandum of Agreement (hereafter referred to as "MOA") are
+Washington County, Oregon, (hereinafter referred to as "County"), and Washington
+County Police Officer's Association, (hereinafter referred to as "WCPOA").
+
+
+                                                          II. Background
+1. The Recruit Deputy (Patrol) and Jail Recruit Deputy classification specifications
+currently require employees to be age 21 at time of hire. Recruit deputies must be 21
+years of age to begin firearms training and attend DPSST training. However,
+Washington County Sheriff’s Office Phase Zero and portions of Pre-Academy training
+do not require recruit deputies to be 21 years of age.
+2. The parties agree the Recruit Deputy and Jail Recruit Deputy classification
+specifications age requirement will be changed from “Must be at least 21 years of
+age by date of hire” to “Must be at least 21 years of age within 90 days of hire”.
+
+                                                          Ill. Agreement
+1. This MOA applies only to the minimum qualification of age for the Recruit Deputy
+and Jail Recruit Deputy classification specifications.
+2. Effective October 4, 2024, new and existing Recruit Deputy and Recruit Jail Deputy
+applicants may be hired within 90 days of turning 21 years of age.
+3. Nothing herein shall alter any term of the ECU CBA. This MOA is understood by
+the parties to clarify the agreement for the aforementioned classification
+specification updates only.
+4. Any disputes regarding the interpretation or application of this MOA shall be
+resolved by the Parties using the grievance procedures of the ECU CBA.
+5. This MOA does not establish status quo or otherwise hold precedent-setting value
+in successor bargaining or an interest arbitration.
+
+
+
+AGREED to this date, 10/4/2024
+
+  For WCPOA:                                                          For the County:
+                         Digitally signed by Patrick Altiere                            Digitally signed by Erin Calvert
+  Patrick Altiere Date: 2024.11.09 08:43:28
+                                                                      Erin Calvert      Date: 2024.11.04 09:13:42
+  ____________________________
+                  -08'00'
+                                                                      ____________________________
+                                                                                        -08'00'
+
+  Patrick Altiere                                                     Erin Calvert,
+  WCPOA President                                                     Assistant County Administrator
+

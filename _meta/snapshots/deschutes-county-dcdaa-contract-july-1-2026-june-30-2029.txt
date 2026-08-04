@@ -92,7 +92,7 @@ T         ASSOCIATION               BUSINESS ................ ...... ...........
 
 
 19.       APPENDIX A .... ..... .... -.... .... ..... ...... ..... ...... ...... _..— .......................... ..... .... ........ ........... .. _ _ ...                                                           20
-1.         PREAMBLE AND SCOPE
+### 1.         PREAMBLE AND SCOPE
 
 
           A.         This Agreement is entered into by and between DESCHUTES
@@ -111,7 +111,7 @@ T         ASSOCIATION               BUSINESS ................ ...... ...........
                       referred to as " Members."
 
 
-2.         RECOGNITION
+### 2.         RECOGNITION
 
 
            Members of the Association include three deputy district attorney
@@ -121,7 +121,7 @@ T         ASSOCIATION               BUSINESS ................ ...... ...........
            specified conditions of employment for Members.
 
 
-3.         ASSOCIATION DUES
+### 3.         ASSOCIATION DUES
 
 
            A.         Every employee within the bargaining unit may become a Member
@@ -152,7 +152,7 @@ Deschutes County District Attorneys' Association Contract   effective through Ju
                        whether for damages, compensation, reinstatement, or any
                        combination thereof, involving the application of this Section.
 
- 4.         REPRESENTED                     EMPLOYEE                  RIGHTS
+### 4.         REPRESENTED                     EMPLOYEE                  RIGHTS
 
 
             A.         Members shall have the right to form and join the Association, as
@@ -176,7 +176,7 @@ Deschutes County District Attorneys' Association Contract   effective through Ju
 
 
 
- 5.         MANAGEMENT                       RIGHTS
+### 5.         MANAGEMENT                       RIGHTS
 
 
             A.         The District Attorney and the County each retain all the customary,
@@ -318,7 +318,7 @@ Deschutes County District Attorneys' Association Contract   effective through Ju
                      or considered a waiver of their right to exercise them in some other
                      way not in conflict with a specific provision of this Agreement.
 
-6.        NO STRIKES AND NO LOCKOUTS
+### 6.        NO STRIKES AND NO LOCKOUTS
 
 
           A.         The Association and Members are prohibited from striking or
@@ -345,7 +345,7 @@ Deschutes County District Attorneys' Association Contract   effective through Ju
                      of the Agreement.
 
 
-7.        ASSOCIATION BUSINESS
+### 7.        ASSOCIATION BUSINESS
 
 
           A.          Members elected to serve as authorized representatives of the
@@ -384,7 +384,7 @@ Deschutes County Distract Attorneys' Association Contract   effective through Ju
                         shall not interfere with the normal flow of work.
 
 
-  8.         BULLETIN BOARD
+### 8.         BULLETIN BOARD
 
 
              The County agrees to maintain a bulletin board to be used by the
@@ -485,7 +485,7 @@ Deschutes County District Attorneys' Association Contract   effective through Ju
 
 
 
-  10.        INSURANCE
+### 10.        INSURANCE
 
 
              A.         Members shall be entitled to County health, life, and LTD
@@ -535,7 +535,7 @@ Deschutes County District Attorneys' Association Contract   effective through Ju
                            sending a written demand to the other party in the month of January
                            before the health plan year impacted.
 
-  11.         REDUCTION                       IN WORKFORCE
+### 11.         REDUCTION                       IN WORKFORCE
 
 
               A.           In the event a reduction in workforce becomes necessary, the
@@ -555,7 +555,7 @@ Deschutes County District Attorneys' Association Contract   effective through Ju
                            possible.
 
 
-  12.         GRIEVANCE                       PROCEDURE
+### 12.         GRIEVANCE                       PROCEDURE
 
 
               A.           A grievance is defined as an allegation that a specific provision of
@@ -704,7 +704,7 @@ Deschutes County District Attorneys' Association Contract   effective through Ju
 
             K.          The extension of a probationary period shall not be grievable.
 
-13.         DISCIPLINE                     AND DISCHARGE
+### 13.         DISCIPLINE                     AND DISCHARGE
 
 
             A.          Formal Disciplinary actions include the following:
@@ -857,7 +857,7 @@ Deschutes County District Attorneys' Association Contract   effective through Ju
                        evaluation for which the probationary Member is given an overall
                        rating of meets or exceeds standards.
 
-  14.       BAR DUES AND CONTINUING LEGAL EDUCATION EXPENSES
+### 14.       BAR DUES AND CONTINUING LEGAL EDUCATION EXPENSES
 
 
             A.         Annual Oregon State Bar dues for Members shall be paid by the
@@ -878,7 +878,7 @@ Deschutes County District Attorneys' Association Contract   effective through Ju
 
 
 Deschutes County Dutnct Attorneys' Association Contract   effective through June 30, 2029                             Page 116
-15.       SAVINGS             CLAUSE
+### 15.       SAVINGS             CLAUSE
 
 
           In the event any provision of this Agreement is at any time declared
@@ -896,7 +896,7 @@ Deschutes County Dutnct Attorneys' Association Contract   effective through June
           State law in order to resolve the dispute.
 
 
-16.       COMPLETE                  AGREEMENT
+### 16.       COMPLETE                  AGREEMENT
 
 
           The Agreement               expressed         in this written document              is the complete
@@ -917,7 +917,7 @@ Deschutes County Dutnct Attorneys' Association Contract   effective through June
           to this Agreement.
 
 
-17.        MATTERS              OUTSIDE              OF THE AGREEMENT
+### 17.        MATTERS              OUTSIDE              OF THE AGREEMENT
 
 
           For all matters not covered by this Agreement, the parties will follow
@@ -930,7 +930,7 @@ Deschutes County Dutnct Attorneys' Association Contract   effective through June
            Attorney' s Office, the County and District Attorney agree they will
            bargain any such changes concerning mandatory subjects of bargaining.
 Deschutes County District Attorneys' Association Contract   effective through June 30, 2026                     Page'   17
- 18.        DURATION
+### 18.        DURATION
 
 
             A.         This Agreement shall remain in full force and effect through June
@@ -1051,7 +1051,7 @@ Recording Secretary
 
 
      Deschutes County District Attorneys' Association Contract effeGwe through June 30, 2026                        Pap] 19
-                                                                       APPENDIX             A
+### APPENDIX             A
 
 Wage Scale for Deputy District Attorney I, II, and III Job Classifications
 

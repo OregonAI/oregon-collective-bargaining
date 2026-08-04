@@ -79,7 +79,7 @@ Signature Page .................................................................
 
 
 2023-2025 Parole and Probation Officers Collective Bargaining Agreement                                                                                                    2
-                              ARTICLE 1 - SCOPE OF AGREEMENT
+### ARTICLE 1 - SCOPE OF AGREEMENT
 Section 1. This Agreement is made and entered into by and between the State of Oregon
 (hereinafter the "Employer"), acting through its Department of Administrative Services, Labor
 Relations Unit on behalf of the Department of Corrections (hereinafter the "Agency"), and the
@@ -166,7 +166,7 @@ h)      Time limits specified in this procedure must be observed, unless either 
         become part of the record.
                                                                                             REV: 2021
 
-                               ARTICLE 2 - TERM OF AGREEMENT
+### ARTICLE 2 - TERM OF AGREEMENT
 Section 1. Unless otherwise noted in a specific article in the Agreement, this Agreement
 becomes effective on the date of ratification and expires June 30, 2025. The Federation shall
 send a letter informing the Department of Administrative Services Labor Relations and the
@@ -183,7 +183,7 @@ to the other on or about December 1, 2024. Unless otherwise agreed, negotiations
 successor agreement will begin on or before January 31, 2025.
                                                                             REV: 2017,2019, 2021, 2023
 
-                              ARTICLE 3 - FEDERATION SECURITY
+### ARTICLE 3 - FEDERATION SECURITY
 Section 1. New Employees. The Agency agrees to inform all new employees hired into positions
 included in the bargaining unit of the Federation's exclusive recognition, and shall provide all
 present and future employees in the bargaining unit with a copy of its Agreement, provided the
@@ -317,7 +317,7 @@ duration of the appointment if available.
 organization charts showing management positions and the positions they supervise.
                                                                                          REV: 2019, 2021
 
-             ARTICLE 4 – FEDERATION LABOR/MANAGEMENT MEETINGS
+### ARTICLE 4 – FEDERATION LABOR/MANAGEMENT MEETINGS
 Section 1. Purpose. The purpose of this Article is to promote harmonious relations between the
 parties.
 
@@ -341,7 +341,7 @@ Services and FOPPO. The Committee discussion may include all manner of local wor
 conditions and non-disciplinary grievance issues.
                                                                                          REV: 2017, 2021
 
-                               ARTICLE 5 - LEGISLATIVE ACTION
+### ARTICLE 5 - LEGISLATIVE ACTION
          Provisions of this Agreement not requiring statutory changes or funding by the full
 legislature before they can be put into effect shall be implemented on the effective date of this
 Agreement or the date otherwise specified in this Agreement. Necessary bills for implementation
@@ -353,7 +353,7 @@ session of the Legislature.
          If the Legislature fails to act or approve bills submitted under this Article, the parties shall
 reconvene immediately to renegotiate an alternative provision.
 
-                         ARTICLE 6 - EFFECT OF LAWS AND RULES
+### ARTICLE 6 - EFFECT OF LAWS AND RULES
 Section 1. This Agreement is subject to all applicable existing and future laws of the State of
 Oregon. In the event of a conflict between a provision of this Agreement and a rule or regulation
 of the Department of Administrative Services or any of its Divisions, the terms of this Agreement
@@ -369,14 +369,14 @@ the employee's official capacity, duties or employment in good faith and without
 given legal defense by the State of Oregon. The Agency further agrees to provide written
 procedures which will outline the proper methods for requesting this legal defense.
 
-                        ARTICLE 7 - SEPARABILITY OF PROVISIONS
+### ARTICLE 7 - SEPARABILITY OF PROVISIONS
          If any provision of this Agreement shall be found to be invalid by any court having
 jurisdiction in respect, thereof, such findings as to such provision shall not affect the remainder of
 this Agreement, and all other terms and provisions hereof shall continue in full force and effect as
 set forth herein. In such event, the parties shall enter into immediate negotiations for the purpose
 of arriving at a mutually satisfactory replacement for such term or provision.
 
-                               ARTICLE 8 - EQUAL OPPORTUNITY
+### ARTICLE 8 - EQUAL OPPORTUNITY
 Section 1. The Agency and the Federation agree to continue their policies of not unlawfully
 discriminating against any employee because of race, color, religion, sex, national origin, age,
 mental or physical disability, marital status, political affiliation, or Federation activity. Neither will
@@ -396,7 +396,7 @@ designee shall respond within thirty (30) calendar days of its submission. If un
 process or if the Federation chooses not to submit the complaint to the designated appointing
 authority, the Employment Relations Board shall be the venue to resolve such complaints.
 
-                              ARTICLE 9 - MANAGEMENT RIGHTS
+### ARTICLE 9 - MANAGEMENT RIGHTS
          The Federation agrees that the Employer retains all inherent rights of management and
 hereby recognizes the sole and exclusive right of the State of Oregon, as the Employer, to operate
 and manage its affairs in accordance with its responsibilities to maintain efficient governmental
@@ -411,7 +411,7 @@ pursuant to Article 46, Grievance and
          Arbitration, or seeking a review of the exercise of these rights, when it is alleged such
 exercise violates provisions of this Agreement.
 
-                                ARTICLE 10 - CONTRACTING OUT
+### ARTICLE 10 - CONTRACTING OUT
 Section 1. The Agency may determine to contract or subcontract work provided that, as to work
 which is presently and regularly performed by employees in the bargaining unit, the Agency
 agrees to notify the Federation and negotiate the decision and impact of the pending action. It is
@@ -435,7 +435,7 @@ labor/management meetings and determine the most effective and efficient way to 
 the work in the future for Agency initiated contracts. Decisions around reviewing of contracted
 work are not subject to the grievance procedure.
 
-                                     ARTICLE 11 - INSURANCE
+### ARTICLE 11 - INSURANCE
 Section 1. Eligibility. An Employer contribution will be made for each eligible employee who
 has at least eighty (80) paid regular hours in the month unless required by law.
           The contribution for eligible participating part time employees with eighty (80) or more
@@ -491,7 +491,7 @@ Subsidy, PMAC Education.
                                                                                  REV: 2017, 2019, 2021, 2023
 
 
-                               ARTICLE 12 - SALARY AND WAGES
+### ARTICLE 12 - SALARY AND WAGES
 Section 1. Salary.
                                    SALARY SCHEDULE AS OF JULY 1, 2023
  Salary      Pay / Rng
@@ -612,7 +612,7 @@ c)      This provision shall not apply to claims disputing eligibility for payme
         elsewhere in this Agreement.
                                                                             REV: 2017, 2019, 2021,2023
 
-                           ARTICLE 13 - SALARY ADMINISTRATION
+### ARTICLE 13 - SALARY ADMINISTRATION
 Section 1. Salary eligibility date is defined as the date an employee is eligible for an annual pay
 increase. The salary eligibility date is computed from the date of hire. Employees shall be eligible
 for annual pay increases on the employees' salary eligibility date provided the employee is not at
@@ -676,7 +676,7 @@ b)      Return from Reemployment. When a former employee is reemployed to a posi
         circumstances justify payment of a higher rate. The previous eligibility date adjusted by
         the amount of break in service shall represent the salary eligibility date following return.
                                                                                             REV: 2021
-                                      ARTICLE 14 - OVERTIME
+### ARTICLE 14 - OVERTIME
 Section 1. All time for which an employee is compensated at the regular straight time rate of
 pay, except on-call time but including holiday time off, compensatory time off, and other paid
 leave, shall be counted as time worked.
@@ -723,7 +723,7 @@ f)      Employees shall have the option to either flex their schedule or earn co
 Section 6. The parties agree that an employee's compensatory time is payment for work already
 accomplished. Compensatory time may be used by the employee in lieu of vacation or sick leave.
 
-                                   ARTICLE 15 - DIFFERENTIALS
+### ARTICLE 15 - DIFFERENTIALS
 Section 1. Field Training Officer (FTO). While assigned to perform FTO duties FTOs shall
 receive a four percent (4%) differential of base pay. Payment of this differential will be for the
 length of the program, including any preparation time and final documentation of the trainee’s
@@ -757,7 +757,7 @@ receive a one percent (1%) differential of base pay.
 
 
 2023-2025 Parole and Probation Officers Collective Bargaining Agreement                            14
-         ARTICLE 16 - CALL-BACK TIME AND AFTER HOURS PHONE CALLS
+### ARTICLE 16 - CALL-BACK TIME AND AFTER HOURS PHONE CALLS
 Section 1. Call back is an occasion where an employee has been released from duty and is
 called back prior to his/her normal start time. Employees may be subject to call back during their
 off-duty hours in response to job related duties and emergencies. Employees shall maintain their
@@ -778,7 +778,7 @@ compensated in one half (1/2) hour increments for all time after the initial one
 Phone calls on off duty time that require a detainer be faxed will be compensated at least one-
 half (1/2) hour.
 
-                       ARTICLE 17 - WORK OUT OF CLASSIFICATION
+### ARTICLE 17 - WORK OUT OF CLASSIFICATION
 Section 1. When an employee is assigned in writing for a limited period to perform the duties of
 a position at a higher level classification for five (5) consecutive calendar days or more, or forty
 (40) consecutive straight time hours or more, the employee shall be given a differential of five
@@ -795,7 +795,7 @@ the employee's personnel file and shall be used for annual performance appraisal
 taken into consideration by supervisors during promotional merit ratings.
                                                                                            REV: 2019
 
-                           ARTICLE 18 - LEADWORK DIFFERENTIAL
+### ARTICLE 18 - LEADWORK DIFFERENTIAL
 Section 1. Leadwork differential shall be defined as a differential for employees who have been
 formally assigned by their supervisor, in writing, "leadwork" duties over three (3) or more
 employees in their classification or salary range for ten (10) consecutive calendar days or longer.
@@ -831,7 +831,7 @@ in Section 1, may request a review of the duties as follows:
         d)     If the Agency determines that the duties are not leadworker or wishes to remove
                the duties, the employee will be notified as noted in "b" of this Article.
 
-                        ARTICLE 19 - TRAVEL AND MOVING EXPENSE
+### ARTICLE 19 - TRAVEL AND MOVING EXPENSE
 Section 1. Travel, mileage and moving expenses shall be reimbursed as per the Department of
 Administrative Services Accounting Manual rate adjustments.
 
@@ -843,7 +843,7 @@ is given written notice of transfer that is later rescinded shall be compensated
 incurred which are reimbursable under Section 1 of this Article. The employee shall furnish the
 Agency with normally required receipts of expenses claimed when requesting compensation.
 
-                                   ARTICLE 20 - EMERGENCIES
+### ARTICLE 20 - EMERGENCIES
 Section 1. During periods of bona fide emergency, provisions of this contract regarding work
 assignments and scheduling, job posting, and overtime scheduling may be temporarily
 suspended by the Agency as required for the duration of the emergency. Appropriate notification
@@ -855,7 +855,7 @@ This Section shall not be used by management to justify suspension of the above 
 contract rights to meet the daily operational needs in filling unexpected shift vacancies due to
 absences of scheduled staff which occur from time to time.
 
-                        ARTICLE 21 - USE OF ALCOHOL AND DRUGS
+### ARTICLE 21 - USE OF ALCOHOL AND DRUGS
 Section 1. Policy. The Department of Corrections and FOPPO agree the purpose of this
 Agreement on alcohol and drug testing is to help ensure the work place is free from the effects of
 drug and alcohol abuse, and to do so in a way as to protect each employee’s constitutional and
@@ -1075,7 +1075,7 @@ to perform additional duties and the employee has consumed intoxicants, the empl
 his or her supervisor that he or she has consumed intoxicants and is impaired and therefore is
 unable to report for duty.
 
-                  ARTICLE 22 - WORK WEEK AND WORK SCHEDULING
+### ARTICLE 22 - WORK WEEK AND WORK SCHEDULING
 Section 1. Workweek Definition. The workweek shall begin at 12:01 a.m. Sunday and end at
 12:00 Midnight the following Saturday.
 
@@ -1133,7 +1133,7 @@ consider employee requests prior to assigning.
                                                                                        REV: 2017, 2021
 
 
-     ARTICLE 23 - REIMBURSEMENT FOR PERSONAL PROPERTY DAMAGED OR
+### ARTICLE 23 - REIMBURSEMENT FOR PERSONAL PROPERTY DAMAGED OR
                                DESTROYED
 Section 1. Damage to Personal Clothing. Any employee who suffers a loss through damage,
 destruction or theft of personal property usually and ordinarily on their person while on the job, in
@@ -1168,7 +1168,7 @@ decorate their office.
 Section 4. In cases of theft of personal property of employees for reasons other than specified
 in Section 1 of this Article, the Agency shall notify the appropriate law enforcement agency.
 
-                            ARTICLE 24 - INCLEMENT CONDITIONS
+### ARTICLE 24 - INCLEMENT CONDITIONS
 Section 1. When, in the judgment of the Department of Administrative Services, the Agency
 Head or designee, weather conditions require the curtailing operations within the employees
 regularly scheduled work day and the employees are ordered home, the employees will be paid
@@ -1217,7 +1217,7 @@ work and paid for the full shift of work, or may utilize one (1) of the options 
 Article.
                                                                                       REV: 2017, 2021
 
-                               ARTICLE 25 - SAFETY AND HEALTH
+### ARTICLE 25 - SAFETY AND HEALTH
 Section 1. The Agency agrees to abide by and maintain in its facilities and work operations
 standards of safety and health in accordance with the Oregon Safe Employment Act (ORS
 654.001 to 654.991).
@@ -1265,7 +1265,7 @@ without deduction from accrued sick leave for leave time taken.
 
 
 2023-2025 Parole and Probation Officers Collective Bargaining Agreement                           23
-                                       ARTICLE 26 - HOLIDAYS
+### ARTICLE 26 - HOLIDAYS
 Section 1. The following holidays will be recognized and paid for at the regular straight time rate
 of pay:
         a)   New Year's Day on January 1;
@@ -1312,7 +1312,7 @@ leave.
                                                                                            REV: 2021
 
 
-                                 ARTICLE 27 - VACATION LEAVE
+### ARTICLE 27 - VACATION LEAVE
 Section 1. The parties agree that an employee's vacation accrual is an earned benefit to which
 the employee is entitled. Therefore, at no time shall accrued vacation time be utilized without
 specific authorization of the employee or contract.
@@ -1436,7 +1436,7 @@ under the following conditions:
 
 
 2023-2025 Parole and Probation Officers Collective Bargaining Agreement                         26
-                              ARTICLE 28 - SICK LEAVE WITH PAY
+### ARTICLE 28 - SICK LEAVE WITH PAY
         Sick leave, with pay, shall be determined as follows:
 
 Section 1. Employees shall accrue eight (8) hours of sick leave for each full month worked.
@@ -1547,7 +1547,7 @@ of Paid Leave Oregon, as provided for in the DAS statewide Paid Leave Oregon Pol
 
 
 2023-2025 Parole and Probation Officers Collective Bargaining Agreement                              28
-                           ARTICLE 29 - SICK LEAVE WITHOUT PAY
+### ARTICLE 29 - SICK LEAVE WITHOUT PAY
 Section 1. After earned sick leave has been exhausted, the Appointing Authority shall grant sick
 leave without pay for any job-incurred injury or illness for a period which shall terminate upon
 demand by the employee for reinstatement accompanied by a certificate issued by the duly
@@ -1571,13 +1571,13 @@ disability to preclude that employee from the performance of duties, such sick l
 canceled by registered letter to the last known address. Failure to return to work or supply a
 certificate within five (5) days of delivery or attempted delivery shall be deemed a resignation.
 
-                                   ARTICLE 30 - FAMILY LEAVE
+### ARTICLE 30 - FAMILY LEAVE
         Employees determined to be eligible in accordance with provisions of federal and State
 leave laws shall have all the rights, and be subject to all of the requirements of those laws. Such
 laws include, but are not limited to, the Federal Family and Medical Leave Act of 1993 (FMLA)
 and the Oregon Family Medical Leave Act (OFLA) (ORS 659A.150-186).
 
-                                 ARTICLE 31 - LEAVES WITH PAY
+### ARTICLE 31 - LEAVES WITH PAY
         Employees shall be granted a leave of absence with pay in accordance with the following:
         a)    Service with a jury. The employee may keep any money paid by the court for
               serving on jury.
@@ -1609,7 +1609,7 @@ and the Oregon Family Medical Leave Act (OFLA) (ORS 659A.150-186).
                  more than one (1) year. Vacation leave shall not accrue during an educational
                  leave with pay, the duration of which exceeds fifteen (15) calendar days.
 
-                     ARTICLE 32 - LEAVE OF ABSENCE WITHOUT PAY
+### ARTICLE 32 - LEAVE OF ABSENCE WITHOUT PAY
 Section 1. Applying for leave of absence without pay will be in writing and submitted to the
 immediate supervisor.
 
@@ -1625,7 +1625,7 @@ Section 4. Military Leave. An employee who has received official orders from any
 component of the armed forces of the United States shall be given such military leave without pay
 as may be provided by law.
 
-                  ARTICLE 33 - PRE-RETIREMENT COUNSELING LEAVE
+### ARTICLE 33 - PRE-RETIREMENT COUNSELING LEAVE
        At any time after reaching forty (40) years of age and within ten (10) years of the
 employee’s chosen retirement date, each employee shall be granted up to twenty-eight (28) hours
 leave with pay to pursue bona fide pre-retirement counseling programs. Employees shall request
@@ -1639,7 +1639,7 @@ leave herein discussed may be used to investigate and assemble the employee’s 
 program, including PERS, Social Security, insurance and other retirement income.
                                                                                      REV: 2017,2019
 
-                         ARTICLE 35 - PROMOTIONS/ADVANCEMENT
+### ARTICLE 35 - PROMOTIONS/ADVANCEMENT
 Section 1. The Agency desires to give all the bargaining unit employees an opportunity to fill
 bargaining unit vacancies. To that end, the Agency intends to ensure, subject to the requirements
 of Affirmative Action and Equal Employment Opportunity, that all bargaining unit employees may
@@ -1663,7 +1663,7 @@ employees an opportunity to apply for the vacant positions.
 Section 4. Transfers. Voluntary transfers between counties will be handled in a manner
 consistent with the Department of Corrections policies.
 
-                                   ARTICLE 36 - TRIAL SERVICE
+### ARTICLE 36 - TRIAL SERVICE
 Section 1. Each employee appointed to a position in the bargaining unit shall serve a trial service
 period. Trial service may be extended when a trial service employee has been on cumulative
 leave without pay for at least fifteen (15) days or upon mutual agreement between management
@@ -1688,7 +1688,7 @@ position in a FOPPO bargaining unit immediately prior to the appointment, and pr
 employee has not been charged under ORS 240.555 or subject to the predismissal process.
                                                                                            REV: 2019
 
-                              ARTICLE 37 - TRAINING/EDUCATION
+### ARTICLE 37 - TRAINING/EDUCATION
 Section 1. Training.
 (a)   The Agency will pay incurred tuition/registration and allowable travel, per diem, and salary
       when the Agency directs employees to attend training.
@@ -1719,7 +1719,7 @@ position and shall continue to accrue rights and benefits related to their perma
 Section 3. Employees may be granted time off with pay to take job-related educational courses
 or training sessions.
 
-                                    ARTICLE 38 - JOB SHARING
+### ARTICLE 38 - JOB SHARING
 Section 1. “Job sharing position” means a full-time position in the classified service that may be
 held by more than one (1) individual on a shared time basis whereby the individuals holding the
 position work less than full-time.
@@ -1755,7 +1755,7 @@ employee may elect to transfer to a vacant part-time position in the same classi
 voluntarily demote. If the above conditions are not available or acceptable, the employee agrees
 to resign.
 
-                               ARTICLE 39 - LAYOFF PROCEDURE
+### ARTICLE 39 - LAYOFF PROCEDURE
 Section 1.
 a)    When the Agency believes that a lack of funds requires a layoff, the Agency will notify
       the Federation no fewer than fifteen (15) calendar days before the Agency issues initial
@@ -1866,7 +1866,7 @@ provided that if current seniority scores are available, those scores shall be u
 skills are needed, this section shall not apply.
                                                                                         REV: 2021,2023
 
-                    ARTICLE 40 - REVIEW OF CLASSIFICATION SERIES
+### ARTICLE 40 - REVIEW OF CLASSIFICATION SERIES
 Section 1. It is agreed and understood that procedures for establishing new proposed
 classifications and for material revision of existing classifications will provide reasonable
 opportunity for review and input by the Federation prior to implementation.
@@ -1951,7 +1951,7 @@ in duties is anticipated prior to refilling the position.
 
 Section 10. This process terminates upon completion of the allocation process.
 
-                      ARTICLE 41 - RECLASSIFICATION PROCEDURE
+### ARTICLE 41 - RECLASSIFICATION PROCEDURE
         The parties shall use the following procedure to process reclassification requests.
 
 Section 1. The Agency shall furnish Class Specifications at the request of the Federation or
@@ -2084,7 +2084,7 @@ Classification Criteria: For purposes of this section, a reclassification must b
                      assigned by the Agency.
 This Section supersedes any provisions contained in the Agency’s grievance procedure.
 
-                                ARTICLE 42 - EMPLOYEE RIGHTS
+### ARTICLE 42 - EMPLOYEE RIGHTS
 Section 1. Off duty activities of employees will not subject them to disciplinary action by the
 Agency unless such activities are illegal or a conflict of interest with the employees’ duties or the
 mission of the Agency.
@@ -2142,7 +2142,7 @@ the Parties agree to the following:
            without valid cause.
                                                                                    REV: 2017, 2021, 2023
 
-                     ARTICLE 43 - LIMITED DURATION APPOINTMENT
+### ARTICLE 43 - LIMITED DURATION APPOINTMENT
 Section 1. Persons may be hired for special studies or projects of uncertain or limited duration
 which are subject to the continuation of a grant, contract, award, or legislative funding for a specific
 project. Such appointments shall be for a stated period not exceeding two (2) years, except
@@ -2172,7 +2172,7 @@ c)      That persons who accept a limited duration appointment who were formerly
         classified employees including but not limited to wages, benefits, and Federation
         representation under this Agreement.
 
-                                 ARTICLE 44 - PERSONNEL FILES
+### ARTICLE 44 - PERSONNEL FILES
 Section 1. An employee shall be provided with a copy of any report, correspondence or
 document of an adverse nature entered into the employee’s agency personnel file. An
 employee’s signature on any adverse report, correspondence or document shall not be construed
@@ -2204,7 +2204,7 @@ An employee may request early removal of any adverse document in the file and it
 removed upon mutual agreement between the supervisor and the employee.
                                                                                              REV: 2019
 
-                         ARTICLE 45 - DISCIPLINE AND DISCHARGE
+### ARTICLE 45 - DISCIPLINE AND DISCHARGE
 Section 1. The principles of progressive discipline shall be used when appropriate.
 No employee who has completed the initial trial service period shall be disciplined or dismissed
 without just cause.
@@ -2258,7 +2258,7 @@ with or without the employee’s presence.
                                                                                           REV: 2021
 
 
-                        ARTICLE 46 - GRIEVANCE AND ARBITRATION
+### ARTICLE 46 - GRIEVANCE AND ARBITRATION
 Section 1. Grievances are defined as acts, omissions, applications or interpretations alleged to
 be violations of the terms and conditions of this Agreement. Grievances shall be reduced to
 writing and submitted on the FOPPO Grievance Form. Employees shall meet with the immediate
@@ -2329,7 +2329,7 @@ b)    Group grievances filed by the Federation that cover all bargaining unit em
       filed at Step 3 of the grievance procedure.
                                                                                        REV: 2019, 2021
 
-                              ARTICLE 47 - GENERAL PROVISIONS
+### ARTICLE 47 - GENERAL PROVISIONS
 Section 1. Withdrawal of Resignation. An employee who has given notice of resignation has
 up to twenty-four (24) clock hours during which to rescind the resignation.
         Beyond the twenty-four (24)-hour period, the resignation may be withdrawn only with the
@@ -2339,7 +2339,7 @@ approval of the Appointing Authority.
 
 
 2023-2025 Parole and Probation Officers Collective Bargaining Agreement                            42
-                        ARTICLE 48 - STRESS/CAREER COUNSELING
+### ARTICLE 48 - STRESS/CAREER COUNSELING
 Section 1. Any employee, during the performance of the employee’s work, who is involved in a
 critical incident, shall be allowed reasonable time off immediately after the incident to recover from
 any physical or psychological disability caused by the action. Any period of time beyond one (1)
@@ -2362,7 +2362,7 @@ educational programs, seminars, and workshops relating to stress management.
                                                                                             REV: 2017
 
 
-                                     ARTICLE 49 - EQUIPMENT
+### ARTICLE 49 - EQUIPMENT
 Section 1. The Agency shall issue the following equipment to all employees:
       a)     Flashlights
       b)     Latex gloves and glove holder
@@ -2450,7 +2450,7 @@ Section 9. Agency Provided Clothing.
 
 
 2023-2025 Parole and Probation Officers Collective Bargaining Agreement                          44
-                              ARTICLE 50 - BEREAVEMENT LEAVE
+### ARTICLE 50 - BEREAVEMENT LEAVE
 1.      Notwithstanding the hardship or sick leave eligibility criteria in the agreement, employees
         shall be eligible for a maximum of twenty four (24) hours of paid bereavement leave
         which shall be prorated for part time employees. The Agency may request
@@ -2481,7 +2481,7 @@ Section 9. Agency Provided Clothing.
            Note: Immediate family shall include the current in-laws and step family members who
            qualify per the above list.
                                                                                          REV: 2019
-                        ARTICLE 51 – WORKPLACE INJURY/ILLNESS
+### ARTICLE 51 – WORKPLACE INJURY/ILLNESS
 Section1. Workers’ Compensation Payment.
        Sick leave resulting from a condition incurred on the job and also covered by Workers’
 Compensation, shall, if elected to be used by the employee, be used to equal the difference
@@ -2537,7 +2537,7 @@ Section 4. Reports.
 of all workplace injuries.
                                                                                            REV: 2017
 
-                              ARTICLE 52 – WORKING REMOTELY
+### ARTICLE 52 – WORKING REMOTELY
 
 Section 1. The Agency will allow employees to work remotely in accordance with Article 24 –
 Inclement Conditions and may, in rare situations, allow employees to work remotely, on a case
@@ -2552,7 +2552,7 @@ by case basis, as approved by the supervisor.
 
 
 2023-2025 Parole and Probation Officers Collective Bargaining Agreement                               46
-                             LETTER OF AGREEMENT – Pay Equity
+### LETTER OF AGREEMENT – Pay Equity
 
 This Agreement is between the State of Oregon, acting through its Department of Administrative
 Services (Employer) on behalf of Agencies that have FOPPO bargaining units in the executive
@@ -2678,7 +2678,7 @@ The Parties agree to the following:
 
 
 2023-2025 Parole and Probation Officers Collective Bargaining Agreement                       49
-                      LETTER OF AGREEMENT –Fitness Pilot Program
+### LETTER OF AGREEMENT –Fitness Pilot Program
 
 This Agreement is between the State of Oregon, acting through its Department of Administrative
 Services (Employer) on behalf of the Department of Corrections (Agency) and FOPPO .
@@ -2726,7 +2726,7 @@ This Letter of Agreement will expire on June 30, 2025 unless renewed by the Part
 
 
 2023-2025 Parole and Probation Officers Collective Bargaining Agreement                             50
-                     LETTER OF AGREEMENT – Natural Disaster Leave
+### LETTER OF AGREEMENT – Natural Disaster Leave
 
 This Agreement is between the State of Oregon, acting through its Department of Administrative
 Services (Employer) on behalf of the Department of Corrections (Agency) and Federation of
@@ -2757,7 +2757,7 @@ This Letter of Agreement will sunset on June 30, 2025, unless extended by mutual
 
 
 2023-2025 Parole and Probation Officers Collective Bargaining Agreement                         51
-    LETTER OF AGREEMENT – Essential Worker Inclement Weather/Hazardous
+### LETTER OF AGREEMENT – Essential Worker Inclement Weather/Hazardous
                             Conditions Pay
 
 This Agreement is between the State of Oregon, acting through its Department of Administrative
@@ -2778,7 +2778,7 @@ regardless of the staring or ending time.
 
 
 2023-2025 Parole and Probation Officers Collective Bargaining Agreement                     52
-                       LETTER OF AGREEMENT – Ballot Measure 114
+### LETTER OF AGREEMENT – Ballot Measure 114
 
 This Agreement is between the State of Oregon, acting through the Department of
 Administrative Services (Employer), on behalf of the Department of Corrections (Agency),
@@ -2816,7 +2816,7 @@ Therefore, the Parties agree:
 
 
 2023-2025 Parole and Probation Officers Collective Bargaining Agreement                       53
-                   LETTER OF AGREEMENT - One-Time COLA Payment
+### LETTER OF AGREEMENT - One-Time COLA Payment
 
 This Agreement is entered into between the State of Oregon, acting through its
 Department of Administrative Services (DAS), on behalf of the Oregon Department of
@@ -2837,7 +2837,7 @@ This Letter of Agreement will sunset on June 30, 2025.
 
 
 2023-2025 Parole and Probation Officers Collective Bargaining Agreement                    54
-                      LETTER OF AGREEMENT – Bi-Weekly Pay Period
+### LETTER OF AGREEMENT – Bi-Weekly Pay Period
 
 This Letter of Agreement is between the State of Oregon, acting through its Department
 of Administrative Services (Employer) on behalf of the Department of Corrections
@@ -2912,7 +2912,7 @@ outlined in Article 46.
 
 
 2023-2025 Parole and Probation Officers Collective Bargaining Agreement                  56
-     LETTER OF AGREEMENT - OPSRP Employee Sick Leave Conversion Pilot
+### LETTER OF AGREEMENT - OPSRP Employee Sick Leave Conversion Pilot
                                Program
 
 This Letter of Agreement (LOA) is between the State of Oregon, acting through the

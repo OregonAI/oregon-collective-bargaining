@@ -129,7 +129,7 @@ Facility (Pendleton Cottage) (hereinafter individually referred to by their acro
 “Agency” or, collectively as “Agencies,” depending on the context of the reference), and the
 Oregon Nurses Association (ONA) (hereinafter the “Association”).
 
-                                  ARTICLE 1. RECOGNITION
+### ARTICLE 1. RECOGNITION
         The Employer recognizes the Association as the exclusive bargaining agent and
 representative for all employees in separate bargaining units at (1) SACU (including
 outreach nurses), and (2) Pendleton Cottage working in classifications for which a
@@ -143,7 +143,7 @@ unless an extension is granted by the Department of Administrative Services, but
 understood it is not the intention of the Employer to hire these individuals as permanent
 temporary employees.
 
-                         ARTICLE 2. SCOPE OF AGREEMENT
+### ARTICLE 2. SCOPE OF AGREEMENT
 Section 1.
 This Agreement binds the Association and any person designated by it to act on behalf of
 the Association. Likewise, this Agreement binds the Employer and its employees and any
@@ -157,7 +157,7 @@ Section 3.
 The Association may request, and the Employer may agree, that this agreement apply to
 bargaining units which may be determined in the future.
 
-                    ARTICLE 3. EFFECT OF LAW AND RULES
+### ARTICLE 3. EFFECT OF LAW AND RULES
 Section 1.
 This Agreement is subject to all applicable existing and future laws of the State of Oregon.
 Section 2.
@@ -172,7 +172,7 @@ agreed upon by the parties. The Association shall be notified in advance of all 
 changes regardless of bargainability, and it shall be given an opportunity to comment prior
 to processing the proposed change.
 
-                          ARTICLE 4. LEGISLATIVE ACTION
+### ARTICLE 4. LEGISLATIVE ACTION
 Section 1.
 Provisions of this Agreement not requiring legislative funding or statutory changes before
 they can be put into effect shall be implemented on the effective date of this Agreement or
@@ -184,7 +184,7 @@ Upon signing of this Agreement both parties will jointly recommend to the Legisl
 Assembly the passage of the funding and statutory changes necessary to implement this
 Agreement.
 
-         ARTICLE 5. EQUAL EMPLOYMENT OPPORTUNITY &
+### ARTICLE 5. EQUAL EMPLOYMENT OPPORTUNITY &
                      AFFIRMATIVE ACTION
 Section 1.
 The provisions of this Agreement shall apply equally to all employees in the bargaining unit
@@ -219,12 +219,12 @@ harassment when:
 
 
 2023-2025 Oregon Nurses Association              2                         Collective Bargaining Agreement
-                        ARTICLE 6. REFERENCE TO GENDER
+### ARTICLE 6. REFERENCE TO GENDER
        All references to “employee” or "employees" in this Agreement shall be interpreted
 to designate both sexes. Wherever the male or female gender is used alone, it shall be
 interpreted to include male and female employees.
 
-                       ARTICLE 7. STRIKES AND LOCKOUTS
+### ARTICLE 7. STRIKES AND LOCKOUTS
 Section 1.
 It is agreed by the Employer and the Association that the services performed by employees
 covered by this Agreement are services essential to the public health, safety and welfare.
@@ -253,14 +253,14 @@ Section 5.
 Employees covered by this Agreement who engage in strike activity prohibited by this Article
 will be subject to disciplinary action for misconduct.
 
-                               ARTICLE 8. SAVINGS CLAUSE
+### ARTICLE 8. SAVINGS CLAUSE
        Should any article, section or portion of this Agreement be held unlawful and/or
 unenforceable by a court or board of competent jurisdiction, such invalidation shall apply
 only to the specific article, section or portion directly specified. Upon the receipt of such a
 decision, the parties shall, upon demand, begin negotiations to replace this Agreement's
 invalidated article, section or portion.
 
-                        ARTICLE 9. MANAGEMENT'S RIGHTS
+### ARTICLE 9. MANAGEMENT'S RIGHTS
        Except as may be specifically modified by the terms of this Agreement, the State
 retains all rights of management in the direction of its work force. These rights of
 management shall include, but not be limited to, the right to:
@@ -279,7 +279,7 @@ management shall include, but not be limited to, the right to:
                                                                                             REV: 2017
 
 
-                      ARTICLE 10. ASSOCIATION SECURITY
+### ARTICLE 10. ASSOCIATION SECURITY
 Section 1. Deduction for Dues.
 Upon written request, on the Association form to be available through the Agency, members
 of the Association may have regular monthly dues deducted from their paychecks.
@@ -297,7 +297,7 @@ Article.
 
 
 
-ARTICLE 11. ASSOCIATION PRIVILEGES AND LIMITATIONS
+### ARTICLE 11. ASSOCIATION PRIVILEGES AND LIMITATIONS
 Section 1. Lists.
 The Agency shall furnish to the Association, on a monthly basis, a current alphabetical listing
 of the names, home addresses, home phone numbers when available, Report Distribution
@@ -366,7 +366,7 @@ b.      Upon request, an employee covered by the agreement shall have the right 
 c.      An employee may refuse to participate in an investigatory interview where a request
         for union representation has been made and denied.
 
-                          ARTICLE 12. NEGOTIATING TEAM
+### ARTICLE 12. NEGOTIATING TEAM
        The Association shall be allowed the following maximum number of paid employees
 from each facility as a member of the Negotiating Team with the Agency assuming no
 overtime obligations as a result of employees’ attendance at such meetings:
@@ -378,7 +378,7 @@ overtime obligations as a result of employees’ attendance at such meetings:
        At the discretion of the Association, a reasonable number of unpaid employees may
 attend negotiation sessions as observers. Consultants may be employed by either party.
 
-                            ARTICLE 13. WORK SCHEDULES
+### ARTICLE 13. WORK SCHEDULES
 Section 1. Scheduling of Work.
 Employees' work schedules shall be posted at least twenty-one (21) days in advance of their
 effective date, including vacant positions or shifts known at the time of posting due to
@@ -512,7 +512,7 @@ accommodate the remaining employee during the transition.
                                                                               REV: 2017,2019,2021,2023
 
 
-                                      ARTICLE 14. ON-CALL
+### ARTICLE 14. ON-CALL
 Section 1. Purpose.
 On-call may be used to staff anticipated or unanticipated emergent, emergency, or after-
 hour needs.
@@ -554,7 +554,7 @@ thirty (30) minute period, including the resumption of on-call duty.
 
 
 
-                                      ARTICLE 15. OVERTIME
+### ARTICLE 15. OVERTIME
 Section 1. Work Time.
 All time for which an employee is compensated at the regular straight time rate of pay except
 standby time or on call time, but including holiday time off, compensatory time off, and other
@@ -656,7 +656,7 @@ prevent the allowance of such time.
 
 
 
-              ARTICLE 16. REPORTING & TELEPHONE TIME
+### ARTICLE 16. REPORTING & TELEPHONE TIME
 Section 1. Reporting Pay.
 An employee who is scheduled for work and reports to work and there is no work will be
 paid for a minimum of four (4) hours or one-half (1/2) of their scheduled shift, whichever is
@@ -686,7 +686,7 @@ Compensation shall be for all minutes worked.
 
 
 
-                       ARTICLE 17. ATTENDANCE RECORDS
+### ARTICLE 17. ATTENDANCE RECORDS
 Section 1. Records.
 The Agency shall maintain an adequate set of employee records for the purpose of
 recording attendance. These records shall include the following information:
@@ -699,7 +699,7 @@ Section 2. Records Inspection.
 An individual employee, or the employee's official representative, shall be permitted to
 inspect this attendance records.
 
-                                        ARTICLE 18. SALARY
+### ARTICLE 18. SALARY
 Section 1. Cost of Living Adjustments.
                                          SALARY SCHEDULE AS OF JULY 1, 2023
      Salary    Pay / Rng     Step      Step    Step    Step    Step    Step     Step     Step                    Step
@@ -773,7 +773,7 @@ differentials only for degrees in nursing.
 
 
 
-                    ARTICLE 19. WORKERS COMPENSATION
+### ARTICLE 19. WORKERS COMPENSATION
 Section 1.
 When an employee chooses any of the options #1-#4 below, salary paid for a period of sick
 leave resulting from a condition incurred on the job and also covered by Workers’
@@ -834,7 +834,7 @@ Employer from obtaining further information relative to the employee's condition
 not subject to Lateral Transfers or Promotions procedures. The Association shall be notified
 of such transfers.
 
-                               ARTICLE 20. PERS "PICK-UP"
+### ARTICLE 20. PERS "PICK-UP"
         Effective February 1, 2019 compensation plan salary rates for PERS participating
 members shall be increased by six and ninety-five one hundredths percent (6.95%). At that
 time, the Employer will begin paying the six percent (6%) employee contributions required
@@ -852,7 +852,7 @@ See LOA: PERS Diversion
 
 
 2023-2025 Oregon Nurses Association          14                       Collective Bargaining Agreement
-                               ARTICLE 22. DIFFERENTIALS
+### ARTICLE 22. DIFFERENTIALS
 Section 1. Shift Differential.
 a.      Eligibility.
         (1)      Evening Shift Differential. Employees shall be eligible for the evening shift
@@ -911,7 +911,7 @@ accomplish charge duties, emergent, or emergency situations.
 
 
 
-  ARTICLE 23. POSITION DESCRIPTION AND WORK PLANS
+### ARTICLE 23. POSITION DESCRIPTION AND WORK PLANS
 Section 1. Position Descriptions.
 Position descriptions shall be reduced to writing and delineate the specific duties assigned
 to an employee's position. A dated copy of the position description shall be given to the
@@ -940,7 +940,7 @@ c.     Whenever there is a substantial increase in workload or a directive is is
        shall mutually develop an adjustment of the work plan to set priorities which allow the
        employee to carry out the changes necessary.
 
-                       ARTICLE 24. QUARTERLY CHECK-INS
+### ARTICLE 24. QUARTERLY CHECK-INS
 Section 1. Quarterly Check-Ins
 Supervisory managers shall conduct check-ins with their employees on a quarterly basis. If
 a quarterly check-in does not occur, the employee may request a check-in for the missed
@@ -954,7 +954,7 @@ Agreement.
 
 
 2023-2025 Oregon Nurses Association           16                       Collective Bargaining Agreement
-                    ARTICLE 25. SALARY ADMINISTRATION
+### ARTICLE 25. SALARY ADMINISTRATION
 Section 1. Salary Increases.
 Employees shall be eligible for salary increases as follows:
         a.       Completion of the initial twelve (12) months of service;
@@ -1014,12 +1014,12 @@ b.      If a person is reemployed in a position in a classification with a lower
 
 
 
-           ARTICLE 26. TRAVEL AND MILEAGE ALLOWANCE
+### ARTICLE 26. TRAVEL AND MILEAGE ALLOWANCE
       Reimbursements and procedures will be in accordance with Oregon Accounting
 Manual, Policy No. 40.10.00PO, and its successors. The intent of this language is that
 changes in this policy will be automatically incorporated into this contract Article.
 
-                                       ARTICLE 27. MEALS
+### ARTICLE 27. MEALS
 Section 1.
 If an employee is authorized to work four (4) or more hours into a consecutive shift, the
 Agency will:
@@ -1040,14 +1040,14 @@ Section 3.
 The payment of cash or the provision of a meal is not included in the base rate of pay.
 
 
-                                      ARTICLE 28. PARKING
+### ARTICLE 28. PARKING
         The parties agree that any changes in parking rates for State employees at any State
 owned and operated parking facility shall provide the opportunity for the Association to
 participate in the determination of such rates. The Association will be afforded the
 opportunity to offer suggestions, make recommendations and introduce any data deemed
 appropriate.
 
-                       ARTICLE 29. CLASS SPECIFICATIONS
+### ARTICLE 29. CLASS SPECIFICATIONS
       Class specifications shall include a class title, and a description of the duties and
 responsibilities of the work.
 
@@ -1055,7 +1055,7 @@ responsibilities of the work.
 
 
 2023-2025 Oregon Nurses Association             18                        Collective Bargaining Agreement
-         ARTICLE 30. REVIEW OF CLASSIFICATION SERIES
+### ARTICLE 30. REVIEW OF CLASSIFICATION SERIES
 Section 1.
 The Department of Administrative Services, Chief Human Resource Office shall notify the
 Association of intended classification studies prior to submitting the proposal under Section
@@ -1073,7 +1073,7 @@ The Association may recommend classification studies to be conducted by the Depa
 of Administrative Services, Chief Human Resource Office indicating the reasons for the
 need for such studies.
 
-              ARTICLE 31. RECLASSIFICATION PROCEDURE
+### ARTICLE 31. RECLASSIFICATION PROCEDURE
 Section 1.
 The parties shall use the following procedure to process reclassification requests initiated
 by an employee or the Association.
@@ -1119,7 +1119,7 @@ request was received by the Agency to the date the duties were removed.
 
 
 
-             ARTICLE 32. DOWNWARD RECLASSIFICATION
+### ARTICLE 32. DOWNWARD RECLASSIFICATION
 Section 1.
 The Agency Personnel Department shall notify an incumbent employee and the Association
 in writing sixty (60) days in advance of a downward reclassification of a position and the
@@ -1135,13 +1135,13 @@ of the salary range to which the employee was reclassified.
                            ARTICLE 33. Deleted 2019-2021.
 
 
-         ARTICLE 34. REINSTATEMENT AFTER SEPARATION
+### ARTICLE 34. REINSTATEMENT AFTER SEPARATION
        A former regular or trial service employee who has separated in good standing may
 be reinstated to a position in their former class and division within two (2) years following the
 date of separation. However, a former employee shall not be reinstated if qualified persons
 are on layoff from the class and division or organization unit where the vacancy exists.
 
-                ARTICLE 35. PERSONNEL ADMINISTRATION
+### ARTICLE 35. PERSONNEL ADMINISTRATION
 Section 1. Credit for Previous Experience.
 Employees who are qualified by virtue of previous experience, clinical expertise, or
 advanced education may be paid above the beginning rate of pay for the classification at
@@ -1163,7 +1163,7 @@ and evaluated for their professional performance by supervisors who are register
 This Section does not preclude information from other personnel being used in the
 supervisory and evaluation process.
 
-        ARTICLE 36. INSPECTION OF PERSONNEL RECORDS
+### ARTICLE 36. INSPECTION OF PERSONNEL RECORDS
 Section 1.
 An employee may, upon request, inspect the contents of their official Agency personnel file
 or supervisory working file except for confidential reports from previous employers. If the
@@ -1219,7 +1219,7 @@ The Agency shall not retain in an employee’s official personnel file material 
 grievances, disciplinary actions recommended but not taken, or disciplinary actions which
 have been overturned on appeal.
 
-                                ARTICLE 37. TRIAL SERVICE
+### ARTICLE 37. TRIAL SERVICE
 Section 1.
 All employees shall serve an initial trial service period of six (6) months. Except for
 Pendleton Cottage, all employees rehired after twelve (12) months of separation, and all
@@ -1269,7 +1269,7 @@ days the employees was on such leave.
 
 
 
-                       ARTICLE 38. FILLING OF POSITIONS
+### ARTICLE 38. FILLING OF POSITIONS
 Section 1. Posting of Bargaining Unit Positions.
 Bargaining unit positions in each Agency covered by this Agreement which become
 available shall be posted for a minimum of five (5) calendar days to include at least one (1)
@@ -1301,7 +1301,7 @@ C. Eliot RNs who have less than five (5) years of RN Agency experience will foll
 
 
 
-           ARTICLE 39. LIMITED DURATION APPOINTMENT
+### ARTICLE 39. LIMITED DURATION APPOINTMENT
 Section 1.
 Limited duration appointments may be made for special studies or projects of uncertain or
 limited duration, which are subject to the continuation of a grant, contract, award or
@@ -1339,7 +1339,7 @@ conditions. Such notification shall include the following:
                seniority and service credit accrual, and Association representation under this
                Agreement.
 
-                          ARTICLE 40. LAYOFF AND RECALL
+### ARTICLE 40. LAYOFF AND RECALL
 Section 1. Alternative to Layoff
 A.     When the Agency believes that a lack of funds requires a layoff, the Agency will notify
        the Union as far in advance as possible but not fewer than fifteen (15) calendar days
@@ -1482,7 +1482,7 @@ to select an open shift of their choice during this process.
 
 
 
-  ARTICLE 41. LEVEL AND CONTINUATION OF RIGHTS AND
+### ARTICLE 41. LEVEL AND CONTINUATION OF RIGHTS AND
                        BENEFITS
        All existing employee rights and benefits which are mandatory subjects of bargaining
 and have not been incorporated into this Agreement shall remain unchanged during the
@@ -1491,7 +1491,7 @@ term of this Agreement, unless the Association requests to bargain over the chan
 
 
 
-                                      ARTICLE 42. HOLIDAYS
+### ARTICLE 42. HOLIDAYS
 Section 1.
 The following holidays will be recognized and paid for at the regular straight time rate of pay:
         a.     New Year's Day on January 1.
@@ -1537,7 +1537,7 @@ of six (6) months following the action.
 
 
 
-                                      ARTICLE 43. VACATIONS
+### ARTICLE 43. VACATIONS
 Section 1. Accumulation.
 a.    Full-time. Vacation leave shall be accumulated for full-time employees as follows:
                       In the 1st year through 5th year    114 hours for each 12 months of service
@@ -1599,7 +1599,7 @@ and/or salary shall be paid as provided in ORS 652.190.
                                                                                  REV: 2017, 2021,2023
 
 
-                                      ARTICLE 44. SICK LEAVE
+### ARTICLE 44. SICK LEAVE
 Section 1. Sick Leave with Pay Except for Temporary Employees.
 Sick leave with pay for State employees shall be determined in the following manner:
         a.      Eligibility for Sick Leave with Pay. Employees shall be eligible for sick leave
@@ -1683,7 +1683,7 @@ c.    An employee who receives a voluntary medical separation will be notified t
 
 
 2023-2025 Oregon Nurses Association            30                        Collective Bargaining Agreement
-                ARTICLE 45. HARDSHIP LEAVE DONATIONS
+### ARTICLE 45. HARDSHIP LEAVE DONATIONS
 Section 1.
 The Agency Personnel Manager may, at their discretion, allow regular status employees,
 on a case-by-case basis and without setting precedent, to transfer accumulated vacation
@@ -1722,7 +1722,7 @@ leave shall be subject to the following:
 
 
 
-        ARTICLE 47. PRE-RETIREMENT COUNSELING LEAVE
+### ARTICLE 47. PRE-RETIREMENT COUNSELING LEAVE
        Employees shall be granted up to twenty-eight (28) hours leave with pay to pursue
 bona fide pre-retirement counseling programs. Employees shall request the use of leave
 provided in this Article at least five (5) days prior to the intended date of use.
@@ -1742,7 +1742,7 @@ including PERS, Social Security, insurance and other retirement income.
 
 
 
-                ARTICLE 48. LEAVE OF ABSENCE WITH PAY
+### ARTICLE 48. LEAVE OF ABSENCE WITH PAY
 Section 1.
 An employee shall be granted a leave of absence without loss of pay or other benefits for
 the following:
@@ -1834,7 +1834,7 @@ b.      Employees who have used the eighty (80) hours of paid administrative lea
 
 
 
-                        ARTICLE 49. LEAVES WITHOUT PAY
+### ARTICLE 49. LEAVES WITHOUT PAY
 Section 1. Leave of Absence Without Pay.
 In instances where the work of an Agency will not be seriously hindered by the temporary
 absence of an employee, the employee may be granted a leave of absence without pay or
@@ -1886,7 +1886,7 @@ without pay for the following:
                  parental or family leave consistent with the provisions of Oregon and U.S. law
                  and case law.
 
-                     ARTICLE 50. LEAVE ADMINISTRATION
+### ARTICLE 50. LEAVE ADMINISTRATION
 Section 1. Compensatory Time.
 Compensatory time for holidays and overtime worked may accrue to a maximum of one
 hundred and eighty (180) hours or paid in cash, at the employee’s request. Any hours accrued
@@ -1985,7 +1985,7 @@ or by a copy of the monthly attendance record.
 
 
 
-               ARTICLE 51. UTILIZATION OF BENEFIT TIME
+### ARTICLE 51. UTILIZATION OF BENEFIT TIME
 Section 1.
 The Parties agree that an employee's vacation and compensatory time are earned benefits
 to which the employee is entitled. Therefore, the accrued time will not be
@@ -2010,7 +2010,7 @@ scheduling of work permits. The vacation period in this instance may not exceed 
 (15)-calendar days and any accrued vacation or compensatory time earned prior to the
 proposed leave date will be utilized first.
 
-   ARTICLE 52. VACATION AND SICK LEAVE CREDITS UPON
+### ARTICLE 52. VACATION AND SICK LEAVE CREDITS UPON
                       TRANSFER
 Section 1. Vacation.
 a.      Upon transfer of an employee with six (6)-full months of State service to a different
@@ -2028,12 +2028,12 @@ is transferred to a different State agency.
 
 
 
-        ARTICLE 53. RESTORATION OF SICK LEAVE CREDIT
+### ARTICLE 53. RESTORATION OF SICK LEAVE CREDIT
       Employees who have been separated from the State service and return to a position
 (except as a temporary employee) within two (2) years shall have unused sick leave credits
 accrued during previous employment restored.
 
-                                      ARTICLE 54. INSURANCE
+### ARTICLE 54. INSURANCE
 Section 1. Eligibility.
         An Employer contribution shall be made for full-time employees who has at least
 eighty (80)-paid regular hours in the month, except for employees receiving per-diem
@@ -2091,7 +2091,7 @@ by the savings.
 
 
 
-    ARTICLE 55. INCLEMENT CONDITIONS/ROAD HAZARDS
+### ARTICLE 55. INCLEMENT CONDITIONS/ROAD HAZARDS
 Section 1.
 It is understood that for bargaining unit employees the Agency remains open at all times,
 regardless of weather or road conditions. However, it also is understood that the Employer
@@ -2131,14 +2131,14 @@ When a closure or curtailment announcement is made by the Employer, the Agency w
 make an effort to protect the health and safety of the employee including, when possible,
 arranging overnight lodging at the work site.
 
-                 ARTICLE 56. DEPENDENT AND CHILD CARE
+### ARTICLE 56. DEPENDENT AND CHILD CARE
         The Employer will facilitate pre-tax payroll deductions as provided for under ORS
 243.550-243.585. Employees wishing to have such deductions made from their gross
 earnings resulting from their employment in this bargaining unit shall provide written
 notification to the Employer. Requests to amend or discontinue such payments shall also
 be submitted in writing to the Employer.
 
-                          ARTICLE 57. HEALTH AND SAFETY
+### ARTICLE 57. HEALTH AND SAFETY
 Section 1.
 The parties agree to abide by standards of health and safety in accordance with the Oregon
 Safe Employment Act (ORS 654.001 to 654.295 and 654.991).
@@ -2212,7 +2212,7 @@ See LOA: Safety Committee Review
 
 
 2023-2025 Oregon Nurses Association           40                        Collective Bargaining Agreement
-           ARTICLE 58. DRUG/ALCOHOL FREE WORKPLACE
+### ARTICLE 58. DRUG/ALCOHOL FREE WORKPLACE
         The Employer and the Association recognize the societal damage of drug and/or
 alcohol abuse. The parties agree that State Government must show the way towards
 achieving drug free workplaces through programs designed to offer drug users a helping
@@ -2223,13 +2223,13 @@ public.
         Toward this end, the parties strongly support the standards established for the Nurse
 Monitoring Program of the Oregon State Board of Nursing.
 
-                         ARTICLE 59. PERSONAL PROPERTY
+### ARTICLE 59. PERSONAL PROPERTY
         Submission of a timely claim involving damages to an employee's personal clothing
 or effects incurred in the course of their official duties (not as a result of personal neglect or
 negligence), will be processed for necessary approval and payment in accordance with
 Agency policy.
 
-        ARTICLE 60. CLIENT GRIEVANCE OR CLIENT ABUSE
+### ARTICLE 60. CLIENT GRIEVANCE OR CLIENT ABUSE
                         INVESTIGATION
 Section 1. Client Grievance Investigation.
 a.    When a patient files a grievance against an employee concerning a violation of rules,
@@ -2289,7 +2289,7 @@ Section 2. Allegation of Client Abuse Investigation.
                   upon request, to the employee and to any involved party at the employee’s
                   request.
 
- ARTICLE 61. PROFESSIONAL NURSING CARE COMMITTEES
+### ARTICLE 61. PROFESSIONAL NURSING CARE COMMITTEES
 Section 1.
 Each Agency shall have a Professional Nursing Care Committee (PNCC) composed of
 members of the specific Agency and elected by the Association. Each Committee shall
@@ -2339,7 +2339,7 @@ all meetings on Agency time to the Nurse Manager or nurse designee, as appropria
 five (5) days of the meeting. The PNCC may distribute minutes via electronic mail and post
 at each unit in a conspicuous location.
 
-                         ARTICLE 62. STAFF DEVELOPMENT
+### ARTICLE 62. STAFF DEVELOPMENT
 Section 1. Orientation.
       a.    Within the first month of employment, all newly hired employees, except
             temporary and limited duration employees, will be provided a general
@@ -2448,7 +2448,7 @@ c.     The employee is eligible to receive a differential of one two and one-hal
 
 
 
-               ARTICLE 63. GRIEVANCE AND ARBITRATION
+### ARTICLE 63. GRIEVANCE AND ARBITRATION
 Section 1.
 The grievance/arbitration procedure provides the means by which disputes or problems
 between the parties which arise concerning the application, meaning or interpretation of this
@@ -2592,7 +2592,7 @@ provisions of this Article.
 
 
 
-                 ARTICLE 64. DISCIPLINE AND DISCHARGE
+### ARTICLE 64. DISCIPLINE AND DISCHARGE
 Section 1.
 The principles of progressive discipline shall apply to disciplinary actions except when the
 Agency must take a more immediate action. An FLSA-exempt employee’s suspension will
@@ -2636,7 +2636,7 @@ the Association.
          c.       Adherence to the Oregon Administrative Rules Chapter 851 established by
                   the Board of Nursing pursuant to the Nurse Practice Act.
 
-                       ARTICLE 65. COMPLETE AGREEMENT
+### ARTICLE 65. COMPLETE AGREEMENT
        This contract incorporates the sole and complete Agreement between the Employer
 and the Association. It is acknowledged that during negotiations which resulted in this
 Agreement, each and all had the unlimited right and opportunity to make demands and
@@ -2645,7 +2645,7 @@ the understandings and agreements arrived at by the parties after the exercise o
 and opportunity are set forth in this Agreement. The Agreement shall not be modified in
 whole or in part except by another written instrument duly executed by the parties.
 
-           ARTICLE 66. RECOUPMENT OF WAGE & BENEFIT
+### ARTICLE 66. RECOUPMENT OF WAGE & BENEFIT
                 OVERPAYMENTS & UNDERPAYMENTS
 Section 1.
 In the event that an employee receives wages or benefits from the Agency to which the
@@ -2694,7 +2694,7 @@ The Article does not waive the Agency or Employee’s right to pursue other lega
 and processes to recoup an overpayment or underpayment made to an employee at any
 time, subject to applicable statute of limitations.
 
-                           ARTICLE 67. CONTRACTING OUT
+### ARTICLE 67. CONTRACTING OUT
 Section 1.
 The Association recognizes that the Agency has the management right, during the term of
 this Agreement, to decide to contract out work performed by bargaining unit members.
@@ -2770,7 +2770,7 @@ included in the contract.
                the Association’s Executive Director and to DAS HRSD Labor Relations Unit
                all future notices of intent to conduct a feasibility study pursuant to Section 1.
 
-                         ARTICLE 68. TERM OF AGREEMENT
+### ARTICLE 68. TERM OF AGREEMENT
 Section 1.
 This Agreement is made and entered into July 1, 2023, by and between the parties, or such
 later date as it receives full acceptance by the parties and shall remain in full force and effect
@@ -2786,7 +2786,7 @@ through December 1, that this Agreement is in effect.
 
 
 2023-2025 Oregon Nurses Association             51                        Collective Bargaining Agreement
-            ARTICLE 69. LABOR MANAGEMENT COMMITTEE
+### ARTICLE 69. LABOR MANAGEMENT COMMITTEE
 Section 1.
 a.    A Labor/Management Committee may be formed at the request of either party at
       each bargaining unit (SACU). The Committee shall be comprised of three (3)
@@ -2810,7 +2810,7 @@ d.    The Committees shall have no power to contravene any provision of the Coll
       until a Letter of Agreement has been signed by the DAS Labor Relations Unit and
       the ONA Representative.
 
-                         ARTICLE 70. WORKING REMOTELY
+### ARTICLE 70. WORKING REMOTELY
 Section 1.
 Oregon state government encourages working remotely where it is a viable option that
 benefits both the employee and the agency. Use of remote work options promote the
@@ -2940,13 +2940,13 @@ These provisions are applicable to all Sections listed above.
 
 
 2023-2025 Oregon Nurses Association          54                       Collective Bargaining Agreement
-                   APPENDIX A - LETTERS OF AGREEMENT -
+### APPENDIX A - LETTERS OF AGREEMENT -
 
 
 
 
 2023-2025 Oregon Nurses Association   55          Collective Bargaining Agreement
-LETTER OF AGREEMENT - ARTICLE 13 – WORK SCHEDULES –
+### LETTER OF AGREEMENT - ARTICLE 13 – WORK SCHEDULES –
 
              RN Submittal of Schedules (Pendleton Cottage)
 
@@ -3023,7 +3023,7 @@ agreement.
 
 
 2023-2025 Oregon Nurses Association          57                       Collective Bargaining Agreement
-     LETTER OF AGREEMENT - ARTICLE 20 – PERS PICKUP –
+### LETTER OF AGREEMENT - ARTICLE 20 – PERS PICKUP –
 
                                       PERS DIVERSION
 
@@ -3040,7 +3040,7 @@ the above.
 
 
 2023-2025 Oregon Nurses Association          58                       Collective Bargaining Agreement
-                           LETTER OF AGREEMENT – PAY EQUITY
+### LETTER OF AGREEMENT – PAY EQUITY
 This Agreement is between the State of Oregon, acting through its Department of
 Administrative Services (Employer) on behalf of the Department of Human Services
 (DHS) - Stabilization and Crisis Unit (SACU) and Oregon Health Authority (OHA) -
@@ -3173,7 +3173,7 @@ The Parties agree to the following:
 
 
 2023-2025 Oregon Nurses Association             61                       Collective Bargaining Agreement
- LETTER OF AGREEMENT – ESSENTIAL WORKER INCLEMENT
+### LETTER OF AGREEMENT – ESSENTIAL WORKER INCLEMENT
         WEATHER/HAZARDOUS CONDITIONS PAY
 
 This Agreement is between the State of Oregon, acting by and through the Department of
@@ -3208,7 +3208,7 @@ extend.
 
 
 2023-2025 Oregon Nurses Association         62                       Collective Bargaining Agreement
-       LETTER OF AGREEMENT – NATURAL DISASTER LEAVE
+### LETTER OF AGREEMENT – NATURAL DISASTER LEAVE
 
 This Agreement is between the State of Oregon, acting by and through the Department of
 Administrative Services Chief Human Resource Office, Labor Relations Unit (Employer),
@@ -3241,7 +3241,7 @@ agreement.
 
 
 2023-2025 Oregon Nurses Association            63                       Collective Bargaining Agreement
-              LETTER OF AGREEMENT—PAID LEAVE OREGON
+### LETTER OF AGREEMENT—PAID LEAVE OREGON
 This Agreement is between the State of Oregon, acting through its Department of
 Administrative Services (Employer) and Oregon Nurses Association (Association).
 
@@ -3258,7 +3258,7 @@ extend.
 
 
 2023-2025 Oregon Nurses Association        64                     Collective Bargaining Agreement
-        LETTER OF AGREEMENT – ONE-TIME PAYMENT COLA
+### LETTER OF AGREEMENT – ONE-TIME PAYMENT COLA
 
 This Agreement is entered into between the State of Oregon, acting through its Department
 of Administrative Services (DAS), and the Oregon Nurses Association (Association).
@@ -3290,7 +3290,7 @@ This Letter of Agreement will sunset on June 30, 2025.
 
 
 2023-2025 Oregon Nurses Association             65                        Collective Bargaining Agreement
-         LETTER OF AGREEMENT — BI-WEEKLY PAY PERIOD
+### LETTER OF AGREEMENT — BI-WEEKLY PAY PERIOD
 
 This Letter of Agreement is between the State of Oregon, acting through its Department of
 Administrative Services (Employer), and the Oregon Nurses Association (Association).

@@ -232,7 +232,7 @@ Docusign Envelope ID: A9C74BE6-D3C0-48F5-A242-1D7C191DAE84
 
 
 
-            1                                      ARTICLE 1 – RECOGNITION
+### 1                                      ARTICLE 1 – RECOGNITION
             2    Section 1.1 Association Recognized.
 
             3             The County recognizes the Association as the sole and exclusive bargaining
@@ -383,7 +383,7 @@ Docusign Envelope ID: A9C74BE6-D3C0-48F5-A242-1D7C191DAE84
 
 
 
-            1                                ARTICLE 2 – GENERAL PROVISIONS
+### 1                                ARTICLE 2 – GENERAL PROVISIONS
             2    Section 2.1 Zipper Clause.
             3             Nothing herein shall preclude the County and the Association from meeting
             4             as provided for in the Labor Management Advisory Committee (LMAC) as
@@ -407,7 +407,7 @@ Docusign Envelope ID: A9C74BE6-D3C0-48F5-A242-1D7C191DAE84
 
 
 
-            1                                ARTICLE 3 – MANAGEMENT RIGHTS
+### 1                                ARTICLE 3 – MANAGEMENT RIGHTS
             2    Except as otherwise expressly limited by the terms of this agreement, the County
             3    retains all of the customary, usual, and exclusive rights, decision-making
             4    prerogatives, functions and authorities connected with or in any way incident to its
@@ -506,7 +506,7 @@ Docusign Envelope ID: A9C74BE6-D3C0-48F5-A242-1D7C191DAE84
 
 
 
-            1                                ARTICLE 4 – ASSOCIATION RIGHTS
+### 1                                ARTICLE 4 – ASSOCIATION RIGHTS
             2    Section 4.1 Dues Deduction.
             3             While this agreement is in effect, the County agrees to deduct the monthly
             4             membership dues from the pay of those nurses who individually request, in
@@ -570,7 +570,7 @@ Docusign Envelope ID: A9C74BE6-D3C0-48F5-A242-1D7C191DAE84
 
 
 
-            1                               ARTICLE 5 – ASSOCIATION ACTIVITY
+### 1                               ARTICLE 5 – ASSOCIATION ACTIVITY
             2    Section 5.1 Non-Discrimination.
             3             Neither the County nor the Association shall interfere with the right of nurses
             4             covered by this agreement to become or not become members of the
@@ -673,7 +673,7 @@ Docusign Envelope ID: A9C74BE6-D3C0-48F5-A242-1D7C191DAE84
 
 
 
-            1                              ARTICLE 6 – STRIKES AND LOCKOUTS
+### 1                              ARTICLE 6 – STRIKES AND LOCKOUTS
             2    Section 6.1 No Strike.
             3             During the term of this agreement, the Association and its members, as
             4             individuals and as a group, will not initiate, cause, permit, or participate or
@@ -715,7 +715,7 @@ Docusign Envelope ID: A9C74BE6-D3C0-48F5-A242-1D7C191DAE84
 
 
 
-            1                         ARTICLE 7 – HOURS OF WORK AND OVERTIME
+### 1                         ARTICLE 7 – HOURS OF WORK AND OVERTIME
             2    Section 7.1 Application of This Article.
 
             3             This Article is intended as a basis for calculating overtime payments and
@@ -912,7 +912,7 @@ Docusign Envelope ID: A9C74BE6-D3C0-48F5-A242-1D7C191DAE84
 
 
 
-            1                                        ARTICLE 8 – HOLIDAYS
+### 1                                        ARTICLE 8 – HOLIDAYS
             2    Section 8.1 Holidays.
             3    The following are recognized holidays:
             4        1. New Year’s Day                              January 1st
@@ -1021,7 +1021,7 @@ Docusign Envelope ID: A9C74BE6-D3C0-48F5-A242-1D7C191DAE84
 
 
 
-            1                   ARTICLE 9 – WEATHER AND DISASTER EMERGENCIES
+### 1                   ARTICLE 9 – WEATHER AND DISASTER EMERGENCIES
             2    Section 9.1 Leave Due to Adverse Weather Conditions.
             3             In the event of adverse weather conditions that may jeopardize a nurse's
             4             ability to travel to or from work, the nurse may request paid leave. The nurse
@@ -1052,7 +1052,7 @@ Docusign Envelope ID: A9C74BE6-D3C0-48F5-A242-1D7C191DAE84
 
 
 
-            1                 ARTICLE 10 – PAID TIME OFF (PTO) AND PERSONAL LEAVE
+### 1                 ARTICLE 10 – PAID TIME OFF (PTO) AND PERSONAL LEAVE
             2             •   Paid Time Off (PTO) encompasses vacation time and sick time
             3             •   PTO is owned by the employees.
             4             •   Cash out is one to one (1 to 1) upon departure from County
@@ -1205,7 +1205,7 @@ Docusign Envelope ID: A9C74BE6-D3C0-48F5-A242-1D7C191DAE84
 
 
 
-            1                                       ARTICLE 11 – SICK LEAVE
+### 1                                       ARTICLE 11 – SICK LEAVE
             2
 
             3    Section 11.1 Scope.
@@ -1241,7 +1241,7 @@ Docusign Envelope ID: A9C74BE6-D3C0-48F5-A242-1D7C191DAE84
 
 
 
-            1                 ARTICLE 12 – MEDICAL AND OTHER LEAVES OF ABSENCE
+### 1                 ARTICLE 12 – MEDICAL AND OTHER LEAVES OF ABSENCE
             2    Section 12.1 Leave Procedures.
             3             Nurses may request leaves of absence. Each request shall be judged by the
             4             Department Director on its individual merit and on the basis of the guidelines
@@ -1626,7 +1626,7 @@ Docusign Envelope ID: A9C74BE6-D3C0-48F5-A242-1D7C191DAE84
 
 
 
-            1                               ARTICLE 13 – WAGES AND SALARIES
+### 1                               ARTICLE 13 – WAGES AND SALARIES
             2    Section 13.1 The Total Compensation Package.
             3             This contract represents a Total Compensation Package including
             4             adjustments in PERS, Short- and Long-Term Disability, PTO donation and
@@ -1830,7 +1830,7 @@ Docusign Envelope ID: A9C74BE6-D3C0-48F5-A242-1D7C191DAE84
 
 
 
-            1                               ARTICLE 14 – HEALTH AND WELFARE
+### 1                               ARTICLE 14 – HEALTH AND WELFARE
             2    Section 14.1 Medical/Vision/Dental.
             3             Subject to the provisions of this Article, the County shall provide and maintain
             4             medical insurance, which includes vision insurance coverage and dental
@@ -2090,7 +2090,7 @@ Docusign Envelope ID: A9C74BE6-D3C0-48F5-A242-1D7C191DAE84
 
 
 
-            1                         ARTICLE 15 – PROFESSIONAL DEVELOPMENT
+### 1                         ARTICLE 15 – PROFESSIONAL DEVELOPMENT
             2    The County encourages professional development of all nurses and expects each
             3    nurse to attend training annually, whenever possible. Nurses are responsible for
             4    maintaining current required licensure and certifications. Department Director may
@@ -2203,7 +2203,7 @@ Docusign Envelope ID: A9C74BE6-D3C0-48F5-A242-1D7C191DAE84
 
 
 
-            1                              ARTICLE 16 – PROBATIONARY PERIOD
+### 1                              ARTICLE 16 – PROBATIONARY PERIOD
             2    Section 16.1 Definition.
             3             All nurses newly hired or promoted into a position covered by this agreement
             4             shall be considered probationary until they complete a probationary period.
@@ -2260,7 +2260,7 @@ Docusign Envelope ID: A9C74BE6-D3C0-48F5-A242-1D7C191DAE84
 
 
 
-            1                                       ARTICLE 17 – SENIORITY
+### 1                                       ARTICLE 17 – SENIORITY
             2    Section 17.1 Definition.
             3             The seniority unit shall be the bargaining unit and defined as the total hours
             4             of service within the ONA bargaining unit.
@@ -2433,7 +2433,7 @@ Docusign Envelope ID: A9C74BE6-D3C0-48F5-A242-1D7C191DAE84
 
 
 
-            1                                   ARTICLE 18 – CLASSIFICATION
+### 1                                   ARTICLE 18 – CLASSIFICATION
             2    Section 18.1 Reclassification Request.
             3             Reclassification requests may be initiated by the Union or a member of the
             4             bargaining unit who believes that the duties, responsibilities, and/or required
@@ -2546,7 +2546,7 @@ Docusign Envelope ID: A9C74BE6-D3C0-48F5-A242-1D7C191DAE84
 
 
 
-            1                                         ARTICLE 19 – SAFETY
+### 1                                         ARTICLE 19 – SAFETY
             2    Section 19.1 Safety Rules Generally.
             3             Nurses shall comply with all Countywide and departmental safety rules that
             4             are in force and effect on the date of the signing of this agreement or may
@@ -2570,7 +2570,7 @@ Docusign Envelope ID: A9C74BE6-D3C0-48F5-A242-1D7C191DAE84
 
 
 
-            1                              ARTICLE 20 – RETIREMENT PROGRAM
+### 1                              ARTICLE 20 – RETIREMENT PROGRAM
             2    Section 20.1 Program Definition.
             3             During the term of this agreement, the County shall continue to participate in
             4             the Public Employee’s Retirement System (PERS) and shall pick up, assume
@@ -2603,7 +2603,7 @@ Docusign Envelope ID: A9C74BE6-D3C0-48F5-A242-1D7C191DAE84
 
 
 
-            1                                  ARTICLE 21 – NURSE DISCIPLINE
+### 1                                  ARTICLE 21 – NURSE DISCIPLINE
             2    Section 21.1 Progressive and Corrective Discipline.
             3             The County agrees with the tenets of progressive and corrective discipline,
             4             when appropriate. Progressive discipline will normally start with an oral
@@ -2686,7 +2686,7 @@ Docusign Envelope ID: A9C74BE6-D3C0-48F5-A242-1D7C191DAE84
 
 
 
-            1                          ARTICLE 22 – MISCELLANEOUS PROVISIONS
+### 1                          ARTICLE 22 – MISCELLANEOUS PROVISIONS
             2    Section 22.1 Personnel File.
             3             No disciplinary or corrective information of any kind whatsoever, shall be
             4             deemed official, or usable against any nurse unless it has been received in
@@ -2772,7 +2772,7 @@ Docusign Envelope ID: A9C74BE6-D3C0-48F5-A242-1D7C191DAE84
 
 
 
-            1                             ARTICLE 23 – GRIEVANCE PROCEDURE
+### 1                             ARTICLE 23 – GRIEVANCE PROCEDURE
             2    Section 23.1 Grievance Definition.
             3             A grievance is a dispute raised by a nurse or the Association, against the
             4             County and shall be limited in scope to the interpretation and/or the
@@ -3123,7 +3123,7 @@ Docusign Envelope ID: A9C74BE6-D3C0-48F5-A242-1D7C191DAE84
 
 
 
-            1          ARTICLE 24 – LABOR MANAGEMENT ADVISORY COMMITTEE (LMAC)
+### 1          ARTICLE 24 – LABOR MANAGEMENT ADVISORY COMMITTEE (LMAC)
             2    The parties agree to participate in a Nurses Labor Management Advisory
             3    Committee (“LMAC”). Up to four (4) nurses, selected by the Association, shall serve
             4    on the Nurses LMAC on paid time.
@@ -3152,7 +3152,7 @@ Docusign Envelope ID: A9C74BE6-D3C0-48F5-A242-1D7C191DAE84
 
 
 
-            1                                   ARTICLE 25 – SAVINGS CLAUSE
+### 1                                   ARTICLE 25 – SAVINGS CLAUSE
             2    Should any Article, Section, or portion thereof of this agreement be held unlawful or
             3    unenforceable by an opinion of the Attorney General of the State of Oregon, or by a
             4    Court of competent jurisdiction, or an Administrator Agency of the State of Oregon
@@ -3178,7 +3178,7 @@ Docusign Envelope ID: A9C74BE6-D3C0-48F5-A242-1D7C191DAE84
 
 
 
-            1                               ARTICLE 26 – TERM OF AGREEMENT
+### 1                               ARTICLE 26 – TERM OF AGREEMENT
             2    This agreement covers the period of July 1, 2025, through June 30, 2029. This
             3    agreement shall be effective as the date of execution but in no event before July 1,
             4    2025, and shall remain in full force until June 30, 2029. This agreement shall then

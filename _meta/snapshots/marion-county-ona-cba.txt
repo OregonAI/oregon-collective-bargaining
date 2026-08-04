@@ -61,7 +61,7 @@ enhances the team and service delivery and is a shared value.
 The parties agree as follows:
 
 
-ARTICLE 1 – ASSOCIATION RECOGNITION
+### ARTICLE 1 – ASSOCIATION RECOGNITION
 
 The employer recognizes the Association as the sole and exclusive bargaining agent for the purpose of
 establishing salaries, wages, hours, and other conditions of employment for employees in the Health and
@@ -70,7 +70,7 @@ confidential and supervisory employees.
 
 
 
-ARTICLE 2 – MANAGEMENT’S RIGHTS
+### ARTICLE 2 – MANAGEMENT’S RIGHTS
 
 Except as may be specifically modified or expressly limited by the terms of this agreement, the employer
 retains all the customary, usual and exclusive rights, decision making, management prerogatives,
@@ -112,7 +112,7 @@ problems and for generally improving relations between the parties, or (2) negot
 negotiation period before termination as provided in Article 24.
 
 
-ARTICLE 3 – ASSOCIATION SECURITY
+### ARTICLE 3 – ASSOCIATION SECURITY
 
 Dues will continue to be deducted until the employee rescinds the request in writing pursuant to
 applicable law. Copies of all such requests for membership cancellation shall be transmitted to the
@@ -142,7 +142,7 @@ above information and the names of nurses who have terminated or changed status.
 
 
 
-ARTICLE 4 – HOURS OF WORK
+### ARTICLE 4 – HOURS OF WORK
 
 Section 1. Normal Hours of Operation. Normal hours of operation for Marion County Health and Human
 Services Department are 0800 to 1700, Monday through Friday. Operational hours outside of 0800 to
@@ -211,7 +211,7 @@ option, be charged to accrued vacation leave, compensatory time, personal leave 
 as leave without pay.
 
 
-ARTICLE 5 – JOB PLACEMENT AND LAYOFF
+### ARTICLE 5 – JOB PLACEMENT AND LAYOFF
 
 Section 1. Definition. Seniority is defined as time spent in continuous service with the County. Time spent
 as a temporary employee shall not count towards seniority.
@@ -309,7 +309,7 @@ authority, the employee and an Oregon Nurses Association representative for a pe
 
 
 
-ARTICLE 6 – HOLIDAYS
+### ARTICLE 6 – HOLIDAYS
 
 Section 1. Observed Holidays. The following days will be observed as paid holidays for all full and regular
 part-time employees:
@@ -363,7 +363,7 @@ same proportion.
                                         OREGON NURSES ASSOCIATION COLLECTIVE BARGAININ AGREEMENT
                                                                                         2024-2026
 
-ARTICLE 7 – VACATION LEAVE
+### ARTICLE 7 – VACATION LEAVE
 
 Section 1. Vacation Accumulation. After having served in the County service for six (6) consecutive full
 months, full-time employees shall have access to accrued vacation leave. Vacation leave shall be credited
@@ -478,7 +478,7 @@ the higher salary provided for in Section 7. Once enrolled in this program, this
 an employee may not return to receiving compensation credits and pay at the lower salary schedule.
 
 
-ARTICLE 8 – SICK LEAVE
+### ARTICLE 8 – SICK LEAVE
 
 Section 1. The County will follow any and all Oregon State sick time laws and regulations. The benefits
 provided in this article shall run concurrently with the County’s statutory and regulatory obligations.
@@ -545,7 +545,7 @@ voluntary separation, may have up to one-half (1/2) of their previously accumula
 restored as determined by the County.
 
 
-ARTICLE 9 – OTHER LEAVES
+### ARTICLE 9 – OTHER LEAVES
 
 Section 1. Other Leaves of Absence with Pay. An employee holding a position in the County service shall
 be granted a leave of absence with pay for:
@@ -620,7 +620,7 @@ year. The personal day shall be scheduled in accordance with Article 7, Section 
 
 
 
-ARTICLE 10 – HEALTH AND WELFARE
+### ARTICLE 10 – HEALTH AND WELFARE
 
 Section 1. Marion County Benefit Plan. Marion County shall, within the maximum contribution provided
 by the County, attempt to provide the best value, most effective health, dental and vision benefits
@@ -719,7 +719,7 @@ Section 4. Employer Health Insurance Contributions.
 
 
 
-ARTICLE 11 – WORKERS' COMPENSATION
+### ARTICLE 11 – WORKERS' COMPENSATION
 
 The employee is covered by workers' compensation, either insured or self-insured, under the County
 workers' compensation program (described in the Injured Worker Policy), which can be accessed on the
@@ -732,7 +732,7 @@ intranet page for risk management.
                                      OREGON NURSES ASSOCIATION COLLECTIVE BARGAININ AGREEMENT
                                                                                      2024-2026
 
-ARTICLE 12 – WAGES
+### ARTICLE 12 – WAGES
 
 Section 1. Compensation Plan. The County has adopted a compensation plan under which employees
 covered by this agreement have been and shall continue to be compensated. Compensation Plans can be
@@ -915,7 +915,7 @@ receive a five percent (5%) differential for all hours worked. Eligibility for t
 passing a valid, reliable, professionally recognized foreign language test.
 
 
-ARTICLE 13 – RECOUPMENT OF WAGE AND BENEFIT OVERPAYMENTS AND UNDERPAYMENTS
+### ARTICLE 13 – RECOUPMENT OF WAGE AND BENEFIT OVERPAYMENTS AND UNDERPAYMENTS
 
 Sec�on 1. Overpayments. In the event that an employee receives wages or beneﬁts from the County to
 which the employee is not en�tled, regardless of whether the employee knew or should have known of
@@ -955,7 +955,7 @@ made within a maximum period of two (2) years before the notification.
                                      OREGON NURSES ASSOCIATION COLLECTIVE BARGAININ AGREEMENT
                                                                                      2024-2026
 
-ARTICLE 14 – TRAVEL ALLOWANCES
+### ARTICLE 14 – TRAVEL ALLOWANCES
 
 Section 1. Cost of In-State Transportation. All in-state travel must be approved in advance. The cost of
 transportation shall be reimbursable to the terms of this agreement. Receipts shall be submitted with the
@@ -985,7 +985,7 @@ attendance at voluntary education, training conferences, or meetings.
 Section 5. Mandatory training is fully reimbursable subject to Sections 1, 2, and 3 above.
 
 
-ARTICLE 15 – HEALTH AND SAFETY REGULATIONS
+### ARTICLE 15 – HEALTH AND SAFETY REGULATIONS
 
 Section 1. The County shall make reasonable provisions and exercise due consideration regarding the
 health and safety of its employees during the hours of their employment. Employees shall follow County
@@ -1023,7 +1023,7 @@ unsafe assignment nor shall reasonable refusals to perform such assignments be c
 insubordination.
 
 
-ARTICLE 16 – DISCIPLINE AND DISMISSAL
+### ARTICLE 16 – DISCIPLINE AND DISMISSAL
 
 Section 1. Disciplinary action may be imposed upon an employee only for just cause using the principles of
 progressive discipline.
@@ -1111,7 +1111,7 @@ subsequent grievance or arbitration. Any suspension, reduction in pay or dismiss
 ten (10) calendar days of the effective date of the action at Step 3 of the grievance procedure.
 
 
-ARTICLE 17 – GENERAL PROVISIONS
+### ARTICLE 17 – GENERAL PROVISIONS
 
 Section 1. Non-Discrimination. The provisions of this agreement shall be applied equally to all employees
  in the bargaining unit without discrimination as to age, marital status, race, color, creed, sex, national
@@ -1214,7 +1214,7 @@ orientation and training.
 
 
 
-ARTICLE 18 – EDUCATIONAL ASSISTANCE
+### ARTICLE 18 – EDUCATIONAL ASSISTANCE
 
 The County will make a good faith effort to allow up to an average of forty (40) hours per year for all
 training and education activities for full-time Nurse Practitioners and up to an average of twenty-four (24)
@@ -1234,7 +1234,7 @@ Requests for time to attend education and training requires management approval.
 conferences must be submitted six (6) weeks prior to the anticipated leave to allow for scheduling.
 
 
-ARTICLE 19 – LABOR-MANAGEMENT COMMITTEE
+### ARTICLE 19 – LABOR-MANAGEMENT COMMITTEE
 
 Marion County and the Oregon Nurses Association hereby agree to create a joint committee for the
 purpose of facilitating communication and fostering a model of cooperative problem solving of issues
@@ -1269,7 +1269,7 @@ the next contract negotiations.
                                       OREGON NURSES ASSOCIATION COLLECTIVE BARGAININ AGREEMENT
                                                                                       2024-2026
 
-ARTICLE 20 – SETTLEMENT OF DISPUTES
+### ARTICLE 20 – SETTLEMENT OF DISPUTES
 
 Section 1. Definitions.
 
@@ -1365,7 +1365,7 @@ for costs of presenting its own case to arbitration.
 
 
 
-ARTICLE 21 – SCOPE OF AGREEMENT
+### ARTICLE 21 – SCOPE OF AGREEMENT
 
 This document constitutes the sole and complete agreement between the Association and the Employer
 and embodies all the terms and conditions governing the employment of employees in the bargaining unit.
@@ -1376,7 +1376,7 @@ covered by this agreement is hereby superseded by the terms of this agreement.
 
 
 
-ARTICLE 22 – SAVINGS CLAUSE
+### ARTICLE 22 – SAVINGS CLAUSE
 
 Should any of the provisions of this agreement be found by a court of competent jurisdiction to be
 unlawful, unenforceable, or made illegal through enactment of state or federal law, all other provisions of
@@ -1384,7 +1384,7 @@ this agreement shall remain in full force and effect for the duration of this ag
 
 
 
-ARTICLE 23 – CONTRACTING OUT
+### ARTICLE 23 – CONTRACTING OUT
 
 Section 1. Definition. “Contracting out” is defined as follows: Entering into an agreement/contract with
 the private sector or public agency to provide a service previously performed by bargaining unit
@@ -1432,7 +1432,7 @@ shall select the most qualified applicant.
 
 
 
-ARTICLE 24 – SEASONAL POSITIONS
+### ARTICLE 24 – SEASONAL POSITIONS
 
 Section 1. Seasonal positions are positions designated as positions that are filled only for the academic
 year on an ongoing basis. Annually, the positions will be furloughed at the end of the school year.
@@ -1462,7 +1462,7 @@ If the employee is on unpaid leave for a length of time that affects medical and
 employee will contact Benefits to discuss options.
 
 
-ARTICLE 25 – LIFE OF AGREEMENT AND TERMINATION
+### ARTICLE 25 – LIFE OF AGREEMENT AND TERMINATION
 
 Section 1. This agreement shall be in effect as of July 1, 2024, and shall remain in full force and effect until
 the 30th day of June 2026. If either party wishes to renew or modify the agreement as of July 1, 2026,

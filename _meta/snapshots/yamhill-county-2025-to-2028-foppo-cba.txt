@@ -229,7 +229,7 @@ COUNTY. All previous agreements between the parties or individual employees cove
 Agreement are hereby superseded.
 
 
-                                           ARTICLE I
+### ARTICLE I
 
                      SCOPE OF AGREEMENT AND RECOGNITION
 
@@ -258,7 +258,7 @@ FEDERATION.
                   2025  2028 COLLECTIVE BARGAINING AGREEMENT
                                (Yamhill County and FOPPO)  Page 1
                                                                                                   B.O. 25-414
-                                          ARTICLE II
+### ARTICLE II
 
                                   MANAGEMENT RIGHTS
 
@@ -306,7 +306,7 @@ high level of service to the citizens of Yamhill County.
                   2025  2028 COLLECTIVE BARGAINING AGREEMENT
                                (Yamhill County and FOPPO)  Page 2
                                                                                                   B.O. 25-414
-                                         ARTICLE III
+### ARTICLE III
 
              NO STRIKE OR LOCKOUT DURING TERM OF AGREEMENT
 
@@ -324,7 +324,7 @@ work immediately. Such notification by FEDERATION shall not constitute an admiss
 has caused or counseled such strike activities. The notification to the employees covered by this
 Agreement by the FEDERATION shall be made solely at the request of COUNTY.
 
-                                         ARTICLE IV
+### ARTICLE IV
 
                                       HOURS OF WORK
 
@@ -352,7 +352,7 @@ worked in excess of 40 hours per work week.
                   2025  2028 COLLECTIVE BARGAINING AGREEMENT
                                (Yamhill County and FOPPO)  Page 3
                                                                                                      B.O. 25-414
-                                  ARTICLE V
+### ARTICLE V
                       FEDERATION SECURITY AND CHECK-OFF
 
 5.1             RIGHT TO ORGANIZE. Employees shall have the right to self-organize, to
@@ -413,7 +413,7 @@ each month a list of all new employees hired during the preceding month and of a
 who terminated during the month. Such list shall contain the names of the employees, along
 with their job classification, work location, and home address.
 
-                                           ARTICLE VI
+### ARTICLE VI
 
                                      SALARY AND WAGES
 
@@ -596,7 +596,7 @@ premium upon satisfactorily completing the work plan.
                   2025  2028 COLLECTIVE BARGAINING AGREEMENT
                                (Yamhill County and FOPPO)  Page 8
                                                                                                   B.O. 25-414
-                                         ARTICLE VII
+### ARTICLE VII
 
                                           HOLIDAYS
 
@@ -634,7 +634,7 @@ listed in section 7.1 above, he or she shall receive holiday pay and, in additio
 holiday pay, compensation for all hours worked at one and one-half his/her regular rate of pay.
 
 
-                                        ARTICLE VIII
+### ARTICLE VIII
 
                                          VACATIONS
 
@@ -746,7 +746,7 @@ option may be exercised once each fiscal year. Said request shall be in writing 
 used in conjunction with any vacation donation. Payment shall be made according to the
 schedule indicated on the request form.
 
-                                          ARTICLE IX
+### ARTICLE IX
 
                                           SICK LEAVE
 
@@ -943,7 +943,7 @@ federal or state law.
 program for employees in need of additional leave. Members of this bargaining unit may elect to
 donate vacation leave under COUNTYS program.
 
-                                         ARTICLE X
+### ARTICLE X
 
                             OTHER LEAVES AND ABSENCES
 
@@ -1034,7 +1034,7 @@ grandparent) and individuals residing in the same household as the employee.
 continue at the employee's sole expense COUNTY fringe benefits (excluding retirement) as
 permitted or provided by policy, federal, or state law.
 
-                                           ARTICLE XI
+### ARTICLE XI
 
                                    HEALTH AND WELFARE
 
@@ -1105,7 +1105,7 @@ applicable federal or state law.
 term disability insurance administered through a private carrier in accordance with standards
 determined and approved by the joint COUNTY and YCEA Benefits Committee.
 
-                                         ARTICLE XII
+### ARTICLE XII
 
                                DISCIPLINE AND DISCHARGE
 
@@ -1172,7 +1172,7 @@ occurring in the workplace in which the employee is a willing participant.
 
 (c)    Illegal drugs means the definition set forth in the applicable Drug and Alcohol Policy.
 
-                                        ARTICLE XIII
+### ARTICLE XIII
 
                                 GRIEVANCE PROCEDURE
 
@@ -1274,7 +1274,7 @@ the prevailing party, the expenses shall be apportioned between the parties in a
 determined by the arbitrator. All other expenses shall be borne exclusively by the party requiring
 the service or item for which payment is to be made.
 
-                                         ARTICLE XIV
+### ARTICLE XIV
 
                                   PROBATIONARY PERIOD
 
@@ -1302,7 +1302,7 @@ training programs, and the requirement that such employees attend training progr
 off-duty time for which they will be compensated on a straight time basis by the granting of
 compensatory time off to the extent allowed by the 7(k) exemption.
 
-                                         ARTICLE XV
+### ARTICLE XV
 
                                   SENIORITY AND LAYOFF
 
@@ -1336,7 +1336,7 @@ calendar days following the first attempt at delivery of such notification in wh
 COUNTY of intent to return to work, and an additional ten (10) days from the notice of intent to
 return to work to report to work.
 
-                                         ARTICLE XVI
+### ARTICLE XVI
 
                                    GENERAL PROVISIONS
 
@@ -1475,7 +1475,7 @@ privacy in the workplace, including, but not limited to, use of COUNTY email sys
 incorporated into this Agreement as Attachment A and labeled Drug and Alcohol Testing
 Policy is hereby made a part of this Agreement.
 
-                                         ARTICLE XVII
+### ARTICLE XVII
 
                              SAVINGS CLAUSE AND FUNDING
 

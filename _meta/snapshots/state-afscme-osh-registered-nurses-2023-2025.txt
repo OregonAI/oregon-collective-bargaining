@@ -115,7 +115,7 @@ Hospital (hereinafter the "Agency"), and the Oregon American Federation of State
 Municipal Employees (AFSCME) (hereinafter the "Union").
 
 
-                                     ARTICLE 1 - RECOGNITION
+### ARTICLE 1 - RECOGNITION
 
          The Employer recognizes the Union as the exclusive bargaining agent and representative
 for all employees at the Oregon State Hospital working in classifications for which a RN license
@@ -123,7 +123,7 @@ is required, except employees who are excluded by the Employment Relations Board
 managerial, supervisory and confidential employees, and temporary employees.
 
 
-                               ARTICLE 2 - SCOPE OF AGREEMENT
+### ARTICLE 2 - SCOPE OF AGREEMENT
 
 Section 1.
 This Agreement binds the Union and any person designated by it to act on behalf of the Union.
@@ -135,7 +135,7 @@ Section 2.
 The Agreement supersedes all prior Agreements between the Union and the State.
 
 
-                            ARTICLE 3 - EFFECT OF LAW AND RULES
+### ARTICLE 3 - EFFECT OF LAW AND RULES
 
 Section 1.
 This Agreement is subject to all applicable existing and future laws of the State of Oregon.
@@ -153,7 +153,7 @@ to them by the rules of the Department of Administrative Services, Chief Human R
 in all matters which are not addressed in this Agreement.
                                                                                          REV: 2017
 
-                                ARTICLE 4 - LEGISLATIVE ACTION
+### ARTICLE 4 - LEGISLATIVE ACTION
 
 Section 1.
 Provisions of this Agreement not requiring legislative funding or statutory changes before they
@@ -170,7 +170,7 @@ Upon signing of this Agreement both parties will jointly recommend to the Legisl
 the passage of the funding and statutory changes necessary to implement this Agreement.
 
 
-     ARTICLE 5 - EQUAL EMPLOYMENT OPPORTUNITY AND AFFIRMATIVE ACTION
+### ARTICLE 5 - EQUAL EMPLOYMENT OPPORTUNITY AND AFFIRMATIVE ACTION
 
 Section 1.
 The provisions of this Agreement shall apply equally to all employees in the bargaining unit without
@@ -207,7 +207,7 @@ or physical conduct of a sexual nature constitutes sexual harassment when:
 
 
 
-                              ARTICLE 6 - STRIKES AND LOCKOUTS
+### ARTICLE 6 - STRIKES AND LOCKOUTS
 
         It is agreed by the Employer and the Union that the services performed by employees
 covered by this Agreement are services essential to the public health, safety and welfare.
@@ -237,7 +237,7 @@ request of the Employer.
 Article will be subject to disciplinary action for misconduct.
 
 
-                                   ARTICLE 7 - SAVINGS CLAUSE
+### ARTICLE 7 - SAVINGS CLAUSE
 
         Should any article, section or portion of this Agreement be held unlawful and/or
 unenforceable by a court or board of competent jurisdiction, such invalidation shall apply only to
@@ -246,7 +246,7 @@ parties shall, upon demand, begin negotiations to replace this Agreement's inval
 section or portion.
 
 
-                              ARTICLE 8 - MANAGEMENT'S RIGHTS
+### ARTICLE 8 - MANAGEMENT'S RIGHTS
 
          Except as may be specifically modified by the terms of this Agreement, the State retains
 all rights of management in the direction of its work force. These rights of management shall
@@ -261,7 +261,7 @@ include, but not be limited to, the right to:
                 conducted.
 
 
-                                   ARTICLE 9 - UNION SECURITY
+### ARTICLE 9 - UNION SECURITY
 
 Section 1. Deduction for Dues.
 A)     The Employer agrees to deduct the monthly fees from the pay of those employees the
@@ -301,7 +301,7 @@ organization charts showing management positions and the positions they supervis
                                                                                  REV: 2017,2019,2023
 
 
-                      ARTICLE 10 - UNION PRIVILEGES AND LIMITATIONS
+### ARTICLE 10 - UNION PRIVILEGES AND LIMITATIONS
 
 Section 1. Lists.
 The Agency shall furnish to the Union, on a monthly basis, a current alphabetical listing of the
@@ -433,7 +433,7 @@ D)     Participation. Members of the Labor Management Committee shall be paid at
 
 
 
-                                ARTICLE 11 - NEGOTIATING TEAM
+### ARTICLE 11 - NEGOTIATING TEAM
 
        Upon notification of bargaining the successor agreement, prior to commencing to bargain,
 the Union agrees to provide the employer in writing the names of the members designated as
@@ -445,7 +445,7 @@ such meetings. At the discretion of the Union, a reasonable number of unpaid emp
 attend negotiation sessions as observers. Consultants may be employed by either party.
 
 
-                                 ARTICLE 12 - WORK SCHEDULES
+### ARTICLE 12 - WORK SCHEDULES
 
 Section 1. Scheduling of Work.
 RN work schedules shall be posted at least fourteen (14) days in advance of their effective date
@@ -550,7 +550,7 @@ See LOA: Section 1 - Work Schedules, Section 12 - Work Schedules
 
 
 
-                                       ARTICLE 13 - OVERTIME
+### ARTICLE 13 - OVERTIME
 
 Section 1.
 All time for which an employee is compensated at the regular straight time rate of pay except
@@ -640,7 +640,7 @@ the unit in need.
 
 
 
-                                  ARTICLE 14 - REPORTING TIME
+### ARTICLE 14 - REPORTING TIME
 
         An employee who is scheduled for work and reports to work and there is no work will be
 paid for a minimum of five (5) hours or five-eighths (5/8) of their scheduled shift, whichever is
@@ -651,7 +651,7 @@ herein contained is intended to deny the Agency the right to require the employe
 the period for which they are being paid.
 
 
-                                        ARTICLE 16 - SALARY
+### ARTICLE 16 - SALARY
 
 Section 1. Cost of Living Adjustment.
 A.     Effective December 1, 2023 or on the first of the month following receipt of an interest
@@ -670,7 +670,7 @@ Payment COLA
 
 
 
-                  ARTICLE 17 - WORKERS' COMPENSATION APPLICATIONS
+### ARTICLE 17 - WORKERS' COMPENSATION APPLICATIONS
 
         Salary paid for a period of sick leave resulting from a condition incurred on the job and
 also covered by Workers' Compensation, shall be equal to the difference between the Workers'
@@ -680,7 +680,7 @@ sick leave may elect to use accrued vacation and compensatory leave during a per
 Workers' Compensation is being received.
 
 
-                                   ARTICLE 18 - PERS "PICK-UP"
+### ARTICLE 18 - PERS "PICK-UP"
 
 Section 1. PERS and PERS Pickup.
 Effective February 1, 2019 compensation plan salary rates for PERS participating members shall
@@ -695,7 +695,7 @@ the Individual Account Program as applicable. Employees’ contributions shall b
 
 
 
-                              ARTICLE 19 - PER DIEM DIFFERENTIAL
+### ARTICLE 19 - PER DIEM DIFFERENTIAL
 
 Section 1.
 There shall be a per diem differential of fifteen percent (15%) of the base hourly rate for all hours
@@ -710,7 +710,7 @@ Employees who work fewer than thirty-two (32) hours per month shall be paid the 
 differential.
 
 
-                                   ARTICLE 20 - DIFFERENTIALS
+### ARTICLE 20 - DIFFERENTIALS
 
 Section 1. Shift Differential.
 A)       Employees shall be eligible for the swing shift differential for all hours worked, or major
@@ -860,7 +860,7 @@ C)     Nurse Practitioner Leadwork Differential.
 
 
 2023-2025 Oregon State Hospital Registered Nurses                                                Page 13
-                                ARTICLE 21 - ON-CALL/CALL BACK
+### ARTICLE 21 - ON-CALL/CALL BACK
 
 Section 1.
 Employees shall be paid one (1) hour of pay at the regular straight time rate for each six (6) hours
@@ -892,7 +892,7 @@ Agency from calling employees for information not requiring call back. The emplo
 be required to remain at home or available unless on on-call status.
 
 
-                              ARTICLE 22 - POSITION DESCRIPTION
+### ARTICLE 22 - POSITION DESCRIPTION
 
        Position descriptions shall be reduced to writing and delineate the specific duties assigned
 to an employee's position. A dated copy of the position description shall be given to the employee
@@ -900,7 +900,7 @@ upon assuming the position and at such time as the duties of the position are su
 changed.
 
 
-                              ARTICLE 23 - QUARTERLY CHECK-INS
+### ARTICLE 23 - QUARTERLY CHECK-INS
 
 Section 1.
 Supervisory managers shall conduct check-ins with the employees on a quarterly basis. If a
@@ -916,7 +916,7 @@ grievable nor arbitrable under this Agreement and cannot be used for discipline.
 
 
 2023-2025 Oregon State Hospital Registered Nurses                                           Page 14
-                             ARTICLE 24 - SALARY ADMINISTRATION
+### ARTICLE 24 - SALARY ADMINISTRATION
 
 Section 1. Step Salary Increases.
 Employees shall be eligible for step salary increases on their date of hire following:
@@ -973,7 +973,7 @@ are not limited to the following circumstances:
 
 
 2023-2025 Oregon State Hospital Registered Nurses                                             Page 15
-      ARTICLE 25 - TRAVEL, MILEAGE AND MOVING EXPENSE REIMBURSEMENTS
+### ARTICLE 25 - TRAVEL, MILEAGE AND MOVING EXPENSE REIMBURSEMENTS
 
 Section 1. Travel and Mileage Allowance.
 Reimbursements and procedures will be in accordance with Oregon Accounting Manual, Policy
@@ -985,7 +985,7 @@ Services, Chief Human Resource Office Policy 40.055.10 and its successors. Chang
 policy will be automatically incorporated into this contract Article.
 
 
-                                         ARTICLE 26 - MEALS
+### ARTICLE 26 - MEALS
 
        If an employee works two (2) consecutive shifts, or the greater part of the second shift,
 one of which must be unplanned, the Agency will:
@@ -997,7 +997,7 @@ Agency will pay the employee eight ($8.00) dollars as a penalty payment.
 incorporated into the base rate of pay for overtime purposes.
 
 
-                      ARTICLE 27 - REVIEW OF CLASSIFICATION SERIES
+### ARTICLE 27 - REVIEW OF CLASSIFICATION SERIES
 
 Section 1.
 The Department of Administrative Services, Chief Human Resource Office shall notify the Union
@@ -1015,7 +1015,7 @@ Administrative Services, Chief Human Resource Office indicating the reasons for 
 such studies.
 
 
-                        ARTICLE 28 - RECLASSIFICATION PROCEDURE
+### ARTICLE 28 - RECLASSIFICATION PROCEDURE
 
 Section 1.
 The parties shall use the following procedure to process reclassification requests initiated by an
@@ -1144,7 +1144,7 @@ This Section supersedes any provisions contained in the Agency’s grievance pro
 
 
 2023-2025 Oregon State Hospital Registered Nurses                                               Page 18
-        ARTICLE 30 - IMPLEMENTATION OF NEW CLASSES—APPEALS PROCESS
+### ARTICLE 30 - IMPLEMENTATION OF NEW CLASSES—APPEALS PROCESS
 
         The appeals process is designed to allocate employees into new classes. Employees in
 positions allocated to a new classification, who dispute their placement within the new class, can
@@ -1212,7 +1212,7 @@ E)      Where a position is vacated after the filing of the initial appeal, the 
 F)      This process terminates upon completion of the allocation process.
 
 
-                     ARTICLE 32 - REINSTATEMENT AFTER SEPARATION
+### ARTICLE 32 - REINSTATEMENT AFTER SEPARATION
 
          A former regular or trial service employee who has separated in good standing may be
 reinstated to a position in their former class and division within two (2) years following the date of
@@ -1223,7 +1223,7 @@ separation. However, a former employee shall not be reinstated until the require
 
 
 
-                          ARTICLE 33 - PERSONNEL ADMINISTRATION
+### ARTICLE 33 - PERSONNEL ADMINISTRATION
 
 Section 1. Exit Interview.
 Nurses terminating employment with the Employer will be provided an opportunity to receive an
@@ -1236,7 +1236,7 @@ their professional performance by other RN supervisors only. This Section does n
 information from other personnel being used in the supervisory and evaluation process.
 
 
-                               ARTICLE 34 - PERSONNEL RECORDS
+### ARTICLE 34 - PERSONNEL RECORDS
 
 Section 1.
 The Chief Human Resources Office human resource information system is the system of record
@@ -1316,7 +1316,7 @@ Resource Director, and anyone specifically authorized in writing by the subject 
 
 
 2023-2025 Oregon State Hospital Registered Nurses                                             Page 21
-                                    ARTICLE 35 - TRIAL SERVICE
+### ARTICLE 35 - TRIAL SERVICE
 
 Section 1. Initial Trial Service.
 A)     Duration. The trial service period is recognized as an extension of the selection process
@@ -1380,7 +1380,7 @@ C)     This Subsection becomes effective on the first (1st) of the month followi
 
 
 
-                               ARTICLE 36 - FILLING OF POSITIONS
+### ARTICLE 36 - FILLING OF POSITIONS
 
 Section 1. Lateral Transfer Opportunities.
 OSH will determine whether a vacancy is to be filled and the method/means to fill that vacancy.
@@ -1449,7 +1449,7 @@ See LOA: Lateral Transfer and Promotional Eligibility
 
 
 
-                                ARTICLE 37 - LAYOFF AND RECALL
+### ARTICLE 37 - LAYOFF AND RECALL
 
 Section 1. Alternative to Layoff.
 1.         When the Agency believes that a lack of funds requires a layoff, the Agency will notify the
@@ -1634,7 +1634,7 @@ D)      Procedures:
 
 
 
-                                       ARTICLE 38 - HOLIDAYS
+### ARTICLE 38 - HOLIDAYS
 
 Section 1.
 The following holidays will be recognized and paid for at the regular straight time rate of pay:
@@ -1687,7 +1687,7 @@ to the Institution and the employee.
 
 
 
-                                      ARTICLE 39 - VACATIONS
+### ARTICLE 39 - VACATIONS
 
 Section 1. Accumulation.
 A)     Full-time. Vacation leave shall be accumulated for full-time employees as follows:
@@ -1764,7 +1764,7 @@ leave is not appropriate.
 
 
 
-                                      ARTICLE 40 - SICK LEAVE
+### ARTICLE 40 - SICK LEAVE
 
 Section 1. Sick Leave with Pay except for Temporary Employees.
 Sick leave with pay for State employees shall be determined in the following manner:
@@ -1800,7 +1800,7 @@ either the employee or to others. The employee shall be entitled to use accrued 
 compensatory time or leave without pay in any combination for the period of maternity leave.
 
 
-                                  ARTICLE 41 - HARDSHIP LEAVE
+### ARTICLE 41 - HARDSHIP LEAVE
 
          These provisions shall apply for the purpose of allowing employees to donate accrued
 vacation leave and compensatory time for use by eligible recipients as sick leave. The
@@ -1837,7 +1837,7 @@ F)       To donate to a specific employee in a different Agency, the employee (d
 
 
 
-                    ARTICLE 42 - PRE-RETIREMENT COUNSELING LEAVE
+### ARTICLE 42 - PRE-RETIREMENT COUNSELING LEAVE
 
          Employees shall be granted up to twenty-eight (28) hours leave with pay to pursue bona
 fide pre-retirement counseling programs. Employees shall request the use of leave provided in
@@ -1853,7 +1853,7 @@ including PERS, Social Security, Insurance and other retirement income.
 
 
 
-                          ARTICLE 43 - LEAVE OF ABSENCE WITH PAY
+### ARTICLE 43 - LEAVE OF ABSENCE WITH PAY
 
 Section 1.
 An employee shall be granted a leave of absence without loss of pay or other benefits for the
@@ -1976,7 +1976,7 @@ B)     Where the employee is off work due to a serious physical injury directly 
 
 
 
-                       ARTICLE 44 - LEAVE OF ABSENCE WITHOUT PAY
+### ARTICLE 44 - LEAVE OF ABSENCE WITHOUT PAY
 
 Section 1. Leave of Absence without Pay.
 In instances where the work of an Agency will not be seriously hindered by the temporary absence
@@ -2024,7 +2024,7 @@ pay for the following:
                 service shall be cause for termination.
 
 
-                              ARTICLE 45 - LEAVE ADMINISTRATION
+### ARTICLE 45 - LEAVE ADMINISTRATION
 
 Section 1. Compensatory Time.
 Compensatory time for holidays and overtime worked may be accrued to a maximum of two
@@ -2120,7 +2120,7 @@ leave or leave without pay. Prior notification requirements for leave requests w
 
 
 2023-2025 Oregon State Hospital Registered Nurses                                              Page 35
-                          ARTICLE 46 - UTILIZATION OF BENEFIT TIME
+### ARTICLE 46 - UTILIZATION OF BENEFIT TIME
 
 Section 1.
 The parties agree that an employee's vacation and compensatory time off is an earned benefit to
@@ -2145,7 +2145,7 @@ the qualifying leave.
 
 
 
-          ARTICLE 47 - VACATION AND SICK LEAVE CREDITS UPON TRANSFER
+### ARTICLE 47 - VACATION AND SICK LEAVE CREDITS UPON TRANSFER
 
 Section 1. Vacation.
 A)      Upon transfer of an employee with six (6) full months of State service to a different State
@@ -2157,14 +2157,14 @@ An employee shall have all of their accrued sick leave credits transferred when 
 transferred to a different State agency.
 
 
-                     ARTICLE 48 - RESTORATION OF SICK LEAVE CREDIT
+### ARTICLE 48 - RESTORATION OF SICK LEAVE CREDIT
 
         Employees who have been separated from the State service and return to a
 position (except as a temporary employee) within two (2) years shall have unused sick leave
 credits accrued during previous employment restored.
 
 
-                        ARTICLE 49 - EFFECT OF LEAVE WITHOUT PAY
+### ARTICLE 49 - EFFECT OF LEAVE WITHOUT PAY
 
         Time spent on leave without pay in excess of fifteen (15) consecutive calendar days or
 leave without pay for the purposes of maternity leave in excess of ninety (90) consecutive
@@ -2172,7 +2172,7 @@ calendar days shall not be considered as service in determining the employee's e
 a salary increase unless such time has been spent on leave resulting from a job incurred disability.
 
 
-                                      ARTICLE 50 - INSURANCE
+### ARTICLE 50 - INSURANCE
 
 Section 1.
 An employer contribution will be made for each eligible employee who has at least eighty (80)
@@ -2225,7 +2225,7 @@ See LOA’s: PEBB Member Advisory Committee
 
 
 
-          ARTICLE 51 - INCLEMENT WEATHER/HAZARDOUS CONDITIONS LEAVE
+### ARTICLE 51 - INCLEMENT WEATHER/HAZARDOUS CONDITIONS LEAVE
 
 Section 1.
    A) The Employer/Agency designated official(s) may close or curtail offices, facilities, or
@@ -2341,7 +2341,7 @@ hazardous conditions.
 
 
 
-                                ARTICLE 52 - HEALTH AND SAFETY
+### ARTICLE 52 - HEALTH AND SAFETY
 
 Section 1.
 The parties agree to abide by standards of health and safety in accordance with the Oregon Safe
@@ -2481,7 +2481,7 @@ G)      No employee shall be subject to retaliation for reporting or filing a co
 
 
 
-                               ARTICLE 53 - STAFF DEVELOPMENT
+### ARTICLE 53 - STAFF DEVELOPMENT
 
 Section 1. New Employee Orientation.
 A)     Within the first month of employment, all newly hired employee will be provided a general
@@ -2554,7 +2554,7 @@ first two (2) months of orientation.
 
 
 
-                         ARTICLE 54 - GRIEVANCE AND ARBITRATION
+### ARTICLE 54 - GRIEVANCE AND ARBITRATION
 
 Section 1.
 The grievance/arbitration procedure provides the means by which disputes or problems between
@@ -2683,7 +2683,7 @@ J)     The arbitration award shall not establish a precedent for any current or 
 
 
 
-                           ARTICLE 55 - DISCIPLINE AND DISCHARGE
+### ARTICLE 55 - DISCIPLINE AND DISCHARGE
 
 Section 1.
 The principles of progressive discipline shall apply to disciplinary actions except when the Agency
@@ -2760,7 +2760,7 @@ C)       If the investigation of an allegation of patient abuse is not completed
 
 
 
-       ARTICLE 56 - RECOUPMENT OF WAGE AND BENEFIT OVERPAYMENTS AND
+### ARTICLE 56 - RECOUPMENT OF WAGE AND BENEFIT OVERPAYMENTS AND
                                UNDERPAYMENTS
 
 Section 1. Overpayments.
@@ -2813,7 +2813,7 @@ B)     This provision shall not apply to claims disputing eligibility for paymen
 
 
 2023-2025 Oregon State Hospital Registered Nurses                                           Page 47
-                       ARTICLE 57 - ABUSE/NEGLECT INVESTIGATIONS
+### ARTICLE 57 - ABUSE/NEGLECT INVESTIGATIONS
 
 Section 1.
 A)     The employee shall be informed in writing of the charges against him/her before the
@@ -2827,7 +2827,7 @@ Nurses removed from their usual stations for the duration of the investigation s
 other duties.
 
 
-                              ARTICLE 58 - COMPLETE AGREEMENT
+### ARTICLE 58 - COMPLETE AGREEMENT
 
         This contract incorporates the sole and complete Agreement between the Employer and
 the Union. It is acknowledged that during negotiations which resulted in the Agreement, each nd
@@ -2838,7 +2838,7 @@ in this Agreement. The Agreement shall not be modified in whole or in part excep
 written instrument duly executed by the parties.
 
 
-                               ARTICLE 59 - TERM OF AGREEMENT
+### ARTICLE 59 - TERM OF AGREEMENT
 
 Section 1.
 Unless otherwise noted in a specific article in the Agreement, this Agreement becomes effective
@@ -2855,7 +2855,7 @@ successor agreement will start between February 15, 2025 and March 15, 2025.
 
 
 
-                ARTICLE 60 - TEMPORARY INTERRUPTION OF EMPLOYMENT
+### ARTICLE 60 - TEMPORARY INTERRUPTION OF EMPLOYMENT
 
         When the Employer declares that a temporary interruption of employment should be
 considered because of lack of funds, either party may provide the other with written notice to meet
@@ -2870,7 +2870,7 @@ be required to use the dispute resolution process contained in the PECBA.
 
 
 2023-2025 Oregon State Hospital Registered Nurses                                                  Page 48
-                                 ARTICLE 61 - CONTRACTING OUT
+### ARTICLE 61 - CONTRACTING OUT
 
 Section 1.
 The Union recognizes that the Employer has the management right, during the term of this
@@ -2958,7 +2958,7 @@ See LOA: Contracting Out
 
 
 
-                              ARTICLE 63 – NURSE PRACTITIONERS
+### ARTICLE 63 – NURSE PRACTITIONERS
 
 Section 1. Nurse Practitioner Supervision.
 Nurse Practitioners shall be supervised and evaluated for their professional performance by
@@ -3000,7 +3000,7 @@ available to safely treat the patient.
 
 
 
-                      ARTICLE 64 - VOLUNTARY MEDICAL SEPARATION
+### ARTICLE 64 - VOLUNTARY MEDICAL SEPARATION
 
 Section 1.
 A regular status employee with a serious health condition who has exhausted all of their own
@@ -3036,7 +3036,7 @@ are met:
 
 
 
-                                  ARTICLE 65 – EXIT INTERVIEWS
+### ARTICLE 65 – EXIT INTERVIEWS
 
 
 A)      If a regular status employee provides timely notice that they are voluntarily separating
@@ -3053,7 +3053,7 @@ C)      Upon request, but no more than two (2) times a year, the Union can recei
                                                                                              NEW: 2019
 
 
-                                     ARTICLE 66 – AIR QUALITY
+### ARTICLE 66 – AIR QUALITY
 
 Section 1.
 The Air Quality Index (AQI) was developed by the US Environmental Protection Agency as an
@@ -3075,7 +3075,7 @@ Weather/Hazardous Conditions apply for elevated AQI which falls under a Hazardou
 
 
 
-                               ARTICLE 67 – WORKING REMOTELY
+### ARTICLE 67 – WORKING REMOTELY
 
 Section 1.
 Oregon State government encourages working remotely where it is a viable option that benefits
@@ -3184,7 +3184,7 @@ E.     The Agency or the Union may initiate discussions with the other party to 
                                                                                                      NEW: 2021
 
 
-                         ARTICLE 68 – WORK OUT OF CLASSIFCATION
+### ARTICLE 68 – WORK OUT OF CLASSIFCATION
 
 If applying work out-of-class would not result in additional compensation for an employee, the
 Agency will provide an additional differential to ensure the employee is receiving at least a five
@@ -3193,7 +3193,7 @@ reasons for the exceptions.
                                                                                                      NEW: 2023
 
 
-                            ARTICLE 69 - PAID LEAVE OREGON (PLO)
+### ARTICLE 69 - PAID LEAVE OREGON (PLO)
 
 Paid Leave Oregon is administered by the Oregon Employment Department. The State of
 Oregon, as an employer, shall comply with the provisions of Paid Leave Oregon, as provided for
@@ -3214,7 +3214,7 @@ to FMLA/OFLA.
 
 
 2023-2025 Oregon State Hospital Registered Nurses                                                       Page 54
-                  LETTER OF AGREEMENT – ARTICLE 16 - SALARY STUDY
+### LETTER OF AGREEMENT – ARTICLE 16 - SALARY STUDY
 
 This Letter of Agreement is entered into between the State of Oregon by the Department of
 Administrative Services (DAS), Labor Relations Unit (LRU), on behalf of the Oregon Health
@@ -3235,7 +3235,7 @@ The salary study shall be completed during the 2023-2025 Agreement.
 
 
 2023-2025 Oregon State Hospital Registered Nurses                                           Page 55
-        LETTER OF AGREEMENT – ARTICLE 16 - SALARY AND BENEFIT REPORT
+### LETTER OF AGREEMENT – ARTICLE 16 - SALARY AND BENEFIT REPORT
 
 This Agreement is between the State of Oregon, acting through its Department of Administrative
 Services (DAS) and the AFSCME Local 75, (Union).
@@ -3254,7 +3254,7 @@ This Letter of Agreement will sunset on June 30, 2025, unless extended by mutual
 
 
 2023-2025 Oregon State Hospital Registered Nurses                                      Page 56
-         LETTER OF AGREEMENT – ARTICLE 16 - SALARY RANGE TRUNCATION
+### LETTER OF AGREEMENT – ARTICLE 16 - SALARY RANGE TRUNCATION
 
 This Agreement is entered into between the State of Oregon, acting through its Department of
 Administrative Services (DAS), on behalf of the Agencies covered by this Agreement (Agency)
@@ -3398,7 +3398,7 @@ and the AFSCME Council 75 (Union).
 
 
 2023-2025 Oregon State Hospital Registered Nurses                                             Page 59
-           LETTER OF AGREEMENT – ARTICLE 16 – ONE-TIME PAYMENT COLA
+### LETTER OF AGREEMENT – ARTICLE 16 – ONE-TIME PAYMENT COLA
 
 This Agreement is entered into between the State of Oregon, acting through its Department of
 Administrative Services (DAS), and the AFSCME Local 75 (Union).
@@ -3419,7 +3419,7 @@ This Letter of Agreement will sunset on June 30, 2025.
 
 
 2023-2025 Oregon State Hospital Registered Nurses                                         Page 60
-    LETTER OF AGREEMENT – ARTICLE 50, PEBB MEMBER ADVISORY COMMITTEE
+### LETTER OF AGREEMENT – ARTICLE 50, PEBB MEMBER ADVISORY COMMITTEE
 
 This Agreement is between the State of Oregon, acting through its Department of Administrative
 Services (Employer) and AFSCME Council 75 (Union).
@@ -3457,7 +3457,7 @@ This Agreement will sunset on June 30, 2025.
 
 
 2023-2025 Oregon State Hospital Registered Nurses                                        Page 61
-      LETTER OF AGREEMENT - ARTICLE 61, CONTRACT OUT FEASIBILITY STUDY
+### LETTER OF AGREEMENT - ARTICLE 61, CONTRACT OUT FEASIBILITY STUDY
 
 This Letter of Agreement is entered into between the State of Oregon Department of
 Administrative Services, on behalf of all State Agencies covered by the State of Oregon and
@@ -3474,7 +3474,7 @@ This Agreement is effective through June 30, 2025.
 
 
 2023-2025 Oregon State Hospital Registered Nurses                                             Page 62
-           LETTER OF AGREEMENT – NEW EMPLOYEE NOTICE/UNION ACCESS
+### LETTER OF AGREEMENT – NEW EMPLOYEE NOTICE/UNION ACCESS
 
     1. Notice
           a. The Employer shall provide the Union, in an editable digital file format, the following
@@ -3515,7 +3515,7 @@ This Agreement is effective through June 30, 2025.
 
 
 2023-2025 Oregon State Hospital Registered Nurses                                           Page 63
-     LETTER OF AGREEMENT – OREGON UNIONS STATE WORKER TRAINING FUND
+### LETTER OF AGREEMENT – OREGON UNIONS STATE WORKER TRAINING FUND
 
 
 The Parties recognize that both the State and its workers benefit from workers understanding
@@ -3554,7 +3554,7 @@ The State Worker Training Fund will develop a plan to deliver trainings and prog
        Agency to pilot the wellness initiative.
     After a program is developed for the first three (3) stated goals, the Board of Trustees will
        discuss other programs that potentially meet goals identified by the State and the Unions.
-                      LETTER OF AGREEMENT – CONTRACT SPECIALIST
+### LETTER OF AGREEMENT – CONTRACT SPECIALIST
 
 
 This Agreement is between the State of Oregon, acting through its Department of Administrative
@@ -3668,7 +3668,7 @@ unless renewed by the Parties or the Parties agree to amend its provisions.
 
 
 2023-2025 Oregon State Hospital Registered Nurses                                             Page 66
-                       LETTER OF AGREEMENT - OVERTIME SELECTION
+### LETTER OF AGREEMENT - OVERTIME SELECTION
 
 
 This Letter of Agreement is entered into between the State of Oregon by the Department of
@@ -3701,7 +3701,7 @@ This Agreement is effective through June 30, 2025.
 
 
 2023-2025 Oregon State Hospital Registered Nurses                                        Page 67
-        LETTER OF AGREEMENT – UNION REPRESENTATION ON HIRING PANELS
+### LETTER OF AGREEMENT – UNION REPRESENTATION ON HIRING PANELS
 
 
 The Employer and Union recognize the benefit of diversified interview panels. The Employer and
@@ -3725,7 +3725,7 @@ accommodate interview participation.
 
 
 2023-2025 Oregon State Hospital Registered Nurses                                          Page 68
- LETTER OF AGREEMENT – STATE POLICY 50.050.01 WORKING REMOTELY UPDATES
+### LETTER OF AGREEMENT – STATE POLICY 50.050.01 WORKING REMOTELY UPDATES
 
 
 This Letter of Agreement is between the State of Oregon, acting through its Department of
@@ -3743,7 +3743,7 @@ This Agreement becomes effective on the date of the last signature below and end
 
 
 2023-2025 Oregon State Hospital Registered Nurses                                        Page 69
-LETTER OF AGREEMENT – ESSENTIAL WORKER INCLEMENT WEATHER/HAZARDOUS
+### LETTER OF AGREEMENT – ESSENTIAL WORKER INCLEMENT WEATHER/HAZARDOUS
                            CONDITIONS PAY
 
 
@@ -3771,7 +3771,7 @@ Conditions Pay.
 
 
 2023-2025 Oregon State Hospital Registered Nurses                                         Page 70
-                   LETTER OF AGREEMENT – NATURAL DISASTER LEAVE
+### LETTER OF AGREEMENT – NATURAL DISASTER LEAVE
 
 
 This Agreement is between the State of Oregon, acting through its Department of Administrative
@@ -3802,7 +3802,7 @@ This Letter of Agreement will sunset on June 30, 2025, unless extended by mutual
 
 
 2023-2025 Oregon State Hospital Registered Nurses                                        Page 71
-LETTER OF AGREEMENT – CHILDCARE AND ELDERCARE EXPLORATORY COMMITTEE
+### LETTER OF AGREEMENT – CHILDCARE AND ELDERCARE EXPLORATORY COMMITTEE
 
 This Agreement is between the State of Oregon, acting through its Department of Administrative
 Services (Employer) and AFSCME Council 75 (Union).
@@ -3833,7 +3833,7 @@ The committee will complete their work by January 31, 2025.
 
 
 2023-2025 Oregon State Hospital Registered Nurses                                           Page 72
-             LETTER OF AGREEMENT – CRITICAL NEED AND SHIFT INCENTIVE
+### LETTER OF AGREEMENT – CRITICAL NEED AND SHIFT INCENTIVE
 
 This Letter of Agreement is entered into between the State of Oregon by the Department of
 Administrative Services (DAS), Labor Relations Unit (LRU), on behalf of the Oregon Health
@@ -3864,7 +3864,7 @@ This Letter of Agreement shall sunset on June 30, 2024.
 
 
 2023-2025 Oregon State Hospital Registered Nurses                                               Page 73
-                             LETTER OF AGREEMENT – PAY EQUITY
+### LETTER OF AGREEMENT – PAY EQUITY
 
 This Agreement is entered into by the State of Oregon, acting through its Department of
 Administrative Services, Labor Relations Unit (Employer), on behalf of the Agencies covered by
@@ -3978,7 +3978,7 @@ The Parties agree to the following:
 
 
 2023-2025 Oregon State Hospital Registered Nurses                                          Page 75
-              LETTER OF AGREEMENT—BI-WEEKLY PAY PERIOD/WORKDAY
+### LETTER OF AGREEMENT—BI-WEEKLY PAY PERIOD/WORKDAY
 
 This Letter of Agreement is between the State of Oregon, acting through its Department of
 Administrative Services (Employer), and the AFSCME Local 75 (Union).
@@ -4073,7 +4073,7 @@ Both parties retain their rights under PECBA.
 
 
 2023-2025 Oregon State Hospital Registered Nurses                                                   Page 77
-                              APPENDIX A - CLASSIFICATION PLAN
+### APPENDIX A - CLASSIFICATION PLAN
 
 
                            CLASSIFICATION TITLE              SALARY
@@ -4088,7 +4088,7 @@ Both parties retain their rights under PECBA.
 
 
 2023-2025 Oregon State Hospital Registered Nurses                     Page 78
-                                  APPENDIX B - SALARY CHARTS
+### APPENDIX B - SALARY CHARTS
 
 
 

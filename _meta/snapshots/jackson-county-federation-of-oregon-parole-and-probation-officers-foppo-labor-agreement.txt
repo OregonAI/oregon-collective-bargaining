@@ -187,7 +187,7 @@ Agreement concerning the interpretation or application of this Agreement.
 
 
                                                      6
-                  ARTICLE 1-RECOGNITION AND SCOPE OF AGREEMENT
+### ARTICLE 1-RECOGNITION AND SCOPE OF AGREEMENT
 
 Section 1. Recognition.
 
@@ -212,7 +212,7 @@ time employees are members of the bargaining unit.
 
 
                                                        7
-                                ARTICLE 2 - NON-DISCRIMINATION
+### ARTICLE 2 - NON-DISCRIMINATION
 
 Section 1. Nondiscrimination.
 
@@ -224,7 +224,7 @@ hereby declares their acceptance and support of such laws.
 
 
                                                        8
-                              ARTICLE 3 - DURATION OF CONTRACT
+### ARTICLE 3 - DURATION OF CONTRACT
 
 Section 1. Contract Duration.
 
@@ -244,7 +244,7 @@ submit proposals and counter proposals with respect to any proper subject of col
 
 
                                                        9
-                                    ARTICLE 4- UNION SECURITY
+### ARTICLE 4- UNION SECURITY
 
 Section 1. Membership/Payment in Lieu of Dues.
 
@@ -296,7 +296,7 @@ the case may be, unless a claim of error is made in writing to the County Admini
 days after the date such deductions were or should have been made.
 
                                                        10
-                               ARTICLE 5 - MANAGEMENT RIGHTS
+### ARTICLE 5 - MANAGEMENT RIGHTS
 
 Section 1. Management Rights, Generally.
 
@@ -338,7 +338,7 @@ agreement is expressly retained by the County.
 
 
                                                       11
-                                   ARTICLE 6 - HOURS OF WORK
+### ARTICLE 6 - HOURS OF WORK
 
 Section 1. Pay Period .
 
@@ -422,7 +422,7 @@ and are subject to the operation needs of the County.
 
 
                                                       13
-                                        ARTICLE 7 - HOLIDAYS
+### ARTICLE 7 - HOLIDAYS
 
 Section 1. Holidays Defined.
 
@@ -512,7 +512,7 @@ department.
 
 
                                                       15
-                                        ARTICLE 8 - VA CATION
+### ARTICLE 8 - VA CATION
 
 Section 1. Vacation Accrual.
 
@@ -594,7 +594,7 @@ heirs shall receive any accumulated vacation pay.
 
 
                                                      17
-                                        ARTICLE 9 - SICK LEAVE
+### ARTICLE 9 - SICK LEAVE
 
 Section 1. Sick Leave Accrual.
 
@@ -658,7 +658,7 @@ time equivalent (FTE) in the pay period.
 
 
                                                      19
-                                     ARTICLE 10 - OTHER LEAVES
+### ARTICLE 10 - OTHER LEAVES
 
 The leaves of absence set forth in this Article shall be without pay except as specifically stated herein.
 
@@ -759,7 +759,7 @@ cause them to be paid in excess of their budgeted full-time equivalent (FTE) in 
 
 
                                                        21
-                                        ARTICLE 11-SENIORITY
+### ARTICLE 11-SENIORITY
 
 Section 1. Seniority Defined.
 
@@ -800,7 +800,7 @@ e.     Retirement.
 
 
                                                          22
-                                           ARTICLE 12 - LAYOFF
+### ARTICLE 12 - LAYOFF
 
 Section 1. Defined.
 
@@ -867,7 +867,7 @@ accordance with the Public Employees Transfer Law.
 
 
                                                         24
-                             ARTICLE 13 - DISCIPLINE AND DISCHARGE
+### ARTICLE 13 - DISCIPLINE AND DISCHARGE
 
 Section 1. Probationary Status.
 
@@ -946,7 +946,7 @@ in the LESC rules, the provisions of this Agreement shall govern the discipline 
 
 
                                                      26
-                                    ARTICLE 14 - COMPENSATION
+### ARTICLE 14 - COMPENSATION
 
 Section 1. Compensation Adjustment.
 
@@ -1080,7 +1080,7 @@ Resources is notified otherwise in writing no later than the last day of employm
 
 
                                                        29
-                                   ARTICLE 15 - FRINGE BENEFITS
+### ARTICLE 15 - FRINGE BENEFITS
 
 Section 1. Definitions.
 
@@ -1227,7 +1227,7 @@ average salary calculation used to determine retirement benefits.
 
 
                                                      32
-                             ARTICLE 16 - OTHER FRINGE BENEFITS
+### ARTICLE 16 - OTHER FRINGE BENEFITS
 
 Section 1. Concealment and Protective Clothing.
 
@@ -1265,7 +1265,7 @@ authorizes the deduction in writing.
 
 
                                                       33
-                                     ARTICLE 17 - PER DIEM
+### ARTICLE 17 - PER DIEM
 
 Employees traveling on County business shall receive allowances and reimbursements for expenses, meals,
 and lodging as set forth by County policy.
@@ -1274,7 +1274,7 @@ and lodging as set forth by County policy.
 
 
                                                    34
-                                     ARTICLE 18 - EVALUATION
+### ARTICLE 18 - EVALUATION
 
 Section 1. County to Provide Evaluations.
 
@@ -1311,7 +1311,7 @@ work and innovation.
 
 
                                                       35
-                                   ARTICLE 19 - PERSONNEL FILE
+### ARTICLE 19 - PERSONNEL FILE
 Section 1. File Maintenance.
 
 A personnel file may be established and maintained for each employee. An employee or, upon the
@@ -1349,7 +1349,7 @@ discretion of the Director. The Director's decision will not be grievable.
 
 
                                                        36
-                 ARTICLE 20 - JOB REPRESENTATIVES AND UNION RIGHTS
+### ARTICLE 20 - JOB REPRESENTATIVES AND UNION RIGHTS
 
 Section I. Officers and Stewards.
 
@@ -1412,7 +1412,7 @@ function related to collective bargaining.
 
 
                                                     38
-                            ARTICLE 21 - SETTLEMENT OF DISPUTES
+### ARTICLE 21 - SETTLEMENT OF DISPUTES
 
 Section 1. Grievance Procedure.
 
@@ -1509,7 +1509,7 @@ on their behalf, by reason of their participation in the grievance procedure or 
 
 
                                                        40
-                              ARTICLE 22 - CLASSIFICATION REVIEW
+### ARTICLE 22 - CLASSIFICATION REVIEW
 
 Section 1. County to Establish Job Classifications.
 
@@ -1546,7 +1546,7 @@ remain unchanged.
 
 
                                                        41
-                                ARTICLE 23 - HEALTH AND SAFETY
+### ARTICLE 23 - HEALTH AND SAFETY
 
 Section 1. Health and Safety Committees and Laws.
 
@@ -1578,7 +1578,7 @@ approved provider.
 
 
                                                        42
-                         ARTICLE 24 - SAVINGS CLAUSE AND FUNDING
+### ARTICLE 24 - SAVINGS CLAUSE AND FUNDING
 
 Section 1. Savings Clause.
 
@@ -1601,7 +1601,7 @@ of budget requests, voter approval thereof, or necessary sources ofrevenue.
 
 
                                                       43
-                  ARTICLE 25 - EDUCATION, TRAINING AND DEVELOPMENT
+### ARTICLE 25 - EDUCATION, TRAINING AND DEVELOPMENT
 
 Section 1. Time for Education Programs.
 
@@ -1642,7 +1642,7 @@ this Article. Location, cost and scheduling shall be subject to supervisor appro
 
 
                                                        44
-                                       ARTICLE 26 - POLICIES
+### ARTICLE 26 - POLICIES
 
 Copies of written County policies shall be furnished to FOPPO at the time they are issued.
 
@@ -1650,7 +1650,7 @@ Copies of written County policies shall be furnished to FOPPO at the time they a
 
 
                                                     45
-                 ARTICLE 27 - JOINT LABOR-MANAGEMENT COMMITTEE
+### ARTICLE 27 - JOINT LABOR-MANAGEMENT COMMITTEE
 
 The Director or their designee(s) and the FOPPO designee(s) sha ll meet at times mutually agreed upon to
 discuss areas of mutual concern. Reasonable efforts shall be made to reach resolution of the concerns.
@@ -1659,7 +1659,7 @@ discuss areas of mutual concern. Reasonable efforts shall be made to reach resol
 
 
                                                     46
-                        ARTICLE 28 - SUBCONTRACTING OF SERVICES
+### ARTICLE 28 - SUBCONTRACTING OF SERVICES
 
 FOPPO recognizes the County's right to subcontract services. It is the County's intention to compete for cost
 effective delivery of services with the private sector, the non-profit sector and other governmental entities.
@@ -1690,7 +1690,7 @@ costs to deliver County services.
 
 
                                                       47
-                             ARTICLE 29 - SCOPE OF AGREEMENT
+### ARTICLE 29 - SCOPE OF AGREEMENT
 
 FOPPO and the County acknowledge that they have had the opportunity to present and discuss proposals on
 any matter which is or may be subject to negotiation. Accordingly, this document constitutes the sole and
@@ -1701,7 +1701,7 @@ concerning the employment of employees in the bargaining unit.
 
 
                                                    48
-               ARTICLE 30-NEW EMPLOYEE ORIENTATION INFORMATION
+### ARTICLE 30-NEW EMPLOYEE ORIENTATION INFORMATION
 
 FOPPO shal l be granted reasonable time at new Employee Orientations for a representative of FOPPO to
 make a presentation on behalf of FOPPO for the purpose of identifying the organization's representation
@@ -1715,7 +1715,7 @@ emp loyees with information. FOPPO shall be responsible for providing sufficient
 
 
                                                     49
-                                ARTICLE 31 - CASELOAD MANAGEMENT
+### ARTICLE 31 - CASELOAD MANAGEMENT
 
 If caseload maximums exceed by more than ten percent (10%) the average caseloads of Deschutes, Lane and
 Douglas counties over a three (3) month period, the parties agree to meet and confer regarding caseload

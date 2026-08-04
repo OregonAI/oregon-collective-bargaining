@@ -62,7 +62,7 @@ LETTER OF AGREEMENT -- LAYOFF PROCEDURE COMMITTEE...............................
 
 
 3
-ARTICLE 1 – PARTIES TO THE AGREEMENT/RECOGNITION
+### ARTICLE 1 – PARTIES TO THE AGREEMENT/RECOGNITION
 This Agreement is made and entered into by and between the American Federation of
 State, County, Municipal Employees (AFSCME), (hereinafter “the Union”) and Office of
 Public Defense Services (hereinafter the “Employer”).
@@ -71,7 +71,7 @@ for all Appellate Divisions attorneys including but not limited to those in the
 classification of Deputy Defender, and Senior Deputy Defenders, excluding temporary,
 managerial, confidential, and supervisory attorneys.
 
-ARTICLE 2 – TERM OF AGREEMENT
+### ARTICLE 2 – TERM OF AGREEMENT
 a. Unless otherwise noted in this agreement, this agreement becomes effective on the
    date of the Union’s ratification of the agreement and ends September 30, 2025.
 
@@ -88,7 +88,7 @@ c. If the Employer is added to the Executive Branch’s AFSCME Central Table for
     and March 15, 2025. If the Employer is not placed into the AFSCME Central Table
     jurisdiction, subsection ‘b’ will apply.
 
-ARTICLE 3 – COMPLETE AGREEMENT/SEVERABILITY
+### ARTICLE 3 – COMPLETE AGREEMENT/SEVERABILITY
 Section 1. Complete Agreement
 This Agreement is the full and complete Agreement between the Employer and the
 Union resulting from negotiations held pursuant to the provisions of ORS 243.650 eq.
@@ -121,7 +121,7 @@ therewith as soon as practically possible aspiring to do so within sixty (60) da
 notification. Any dispute or question concerning bargaining unit composition shall be
 resolved by the Employment Relations Board.
 
-ARTICLE 4 – NO STRIKE OR LOCKOUT
+### ARTICLE 4 – NO STRIKE OR LOCKOUT
 Section 1.
 The Union agrees that during the term of this Agreement, the Union or its bargaining
 unit members shall not authorize, instigate, aid or engage in any work stoppage,
@@ -159,7 +159,7 @@ Any alleged violation of this Article by either party may be referred to the gri
 arbitration procedure or may be pursued in the Courts at the discretion of the moving
 party.
 
-ARTICLE 5 – EQUAL OPPORTUNITY
+### ARTICLE 5 – EQUAL OPPORTUNITY
 Section 1.
 a. The Employer offers equal employment opportunities without regard to race, color,
    national origin, sex, sexual orientation, union orientations, gender identity or
@@ -202,7 +202,7 @@ b. Any and all complaints alleging unlawful discrimination which are brought to 
    the complaint, file a complaint with the Bureau of Labor/Industries or Equal
    Employment Opportunity Commission (EEOC) for final resolution.
 
-ARTICLE 6 – MANAGEMENT RIGHTS
+### ARTICLE 6 – MANAGEMENT RIGHTS
 Section 1.
 Except as expressly and specifically limited and restricted by a written provision of this
 Agreement, the Employer has and shall retain the full right of management and of the
@@ -244,7 +244,7 @@ modified or eliminate without violation of this contract or negotiations with th
 Mandatory subjects of bargaining that are expressly included in this Agreement may not
 be unilaterally changed.
 
-ARTICLE 7 – TEMPORARY INTERRUPTION OF EMPLOYMENT
+### ARTICLE 7 – TEMPORARY INTERRUPTION OF EMPLOYMENT
 Section 1.
 When the Employer decides that furloughs will occur due to lack of funds, the Employer
 will develop a furlough plan and call a meeting of the Labor Management committee to
@@ -363,7 +363,7 @@ requires the employee to perform an essential function of their position on a sp
 day, the employee and supervisor shall make arrangements to perform the duty on a
 different day.
 
-ARTICLE 8 – OTHER LEAVES
+### ARTICLE 8 – OTHER LEAVES
 Section 1. Leaves with Pay
 
 a. Pre-Retirement Planning Leave. A full-time employee shall be granted up to 28
@@ -505,7 +505,7 @@ c. Other Leave. At the discretion of the Employer when the work of the Agency wi
    238.650. Leave of up to one (1) year will not affect an employee’s salary eligibility
    date.
 
-ARTICLE 9 – CLASSIFICATION AND CLASSIFICATION CHANGES
+### ARTICLE 9 – CLASSIFICATION AND CLASSIFICATION CHANGES
 The Employer shall give the Union notice when it creates a new bargaining unit position
 that is not listed in Appendix A of this Agreement, or substantially changes the
 description of an existing bargaining unit job classification. The Employer and the Union
@@ -515,13 +515,13 @@ newly created position prior to its implementation, the Employer may set the pay
 for that position and the Union can request renegotiation of that pay scale upon
 expiration of the Agreement.
 
-ARTICLE 10 – MILEAGE AND LODGING
+### ARTICLE 10 – MILEAGE AND LODGING
 When the Employer requires the employee to travel, mileage and lodging
 reimbursements will be in accordance with the Oregon Accounting Manual, Policy No.
 40.10.00PO, and its successors. Changes in this policy will be incorporated into this
 Article automatically.
 
-ARTICLE 11 – PAID HOLIDAYS
+### ARTICLE 11 – PAID HOLIDAYS
 Section 1.
 The Employer will observe all state holidays as defined in ORS 187.010 and 187.020:
 a. New Year’s Day on January 1;
@@ -577,7 +577,7 @@ If an employee wishes to work in the Agency’s offices on a designated holiday 
 section 1 of this article, although the employee is not being required by the Agency to
 work, the employee will provide prior notification to their supervisor.
 
-ARTICLE 12 – VACATION
+### ARTICLE 12 – VACATION
 Section 1. Monthly Accrual
 
 Full-time Employees. Full-time employees shall accrue vacation leave at a rate based
@@ -658,7 +658,7 @@ e. Any approved payment shall automatically reduce the number of accrued vacatio
 f. Employees on unprotected leave without pay status at the time of the cash out is
    requested are not eligible to cash out accrued vacation hours.
 
-ARTICLE 13 – DONATED LEAVE
+### ARTICLE 13 – DONATED LEAVE
 Section 1.
 The Employer administers a donated leave program allowing employees to support
 other employees in serious need of leave by allowing donations of paid vacation leave.
@@ -728,7 +728,7 @@ The donor and recipient will hold the Employer harmless for any tax liabilities.
 Unused donated leave will be retained by the donating employee.
 
 
-ARTICLE 14 – PERSONAL BUSINESS LEAVE
+### ARTICLE 14 – PERSONAL BUSINESS LEAVE
 Section 1.
 Full-time employees shall be granted 24 hours of personal business leave on July 1 of
 each year. Use of such leave shall be subject to prior approval by the Employer. Part-
@@ -754,7 +754,7 @@ July 1 of the calendar year is which the employee was hired will be pro-rated, s
 employee receives no more than 12 personal business leave for the 6-month period
 January through June, or July through December. (See Appendix B.)
 
-ARTICLE 15 – SICK LEAVE
+### ARTICLE 15 – SICK LEAVE
 Section 1. Monthly Accrual
 Full-time employees shall accrue eight (8) hours of sick leave for each full-calendar
 month employed.
@@ -844,7 +844,7 @@ such period shall be equal to the difference between the Workers’ Compensation
 lost time and the employee’s regular salary rate. In such instances, prorated charges
 will be made against accrued vacation leave.
 
-ARTICLE 16 – UNION SECURITY
+### ARTICLE 16 – UNION SECURITY
 Section 1. Union Orientation
 Reasonable paid time shall be granted for a Union representative to make a
 presentation on behalf of the Union at New Employee Orientation to identify the
@@ -987,7 +987,7 @@ defined as an employee who has given the Employer written notices that he/she is
 separating from State service by retirement and that person has actually separated from
 State service.
 
-ARTICLE 17 – PERSONNEL RECORDS
+### ARTICLE 17 – PERSONNEL RECORDS
 Section 1.
 An employee may, upon request, inspect the contents of their official Employer
 personnel file except for confidential report from previous employers. No grievance
@@ -1035,7 +1035,7 @@ Ins.
 
 
 28
-ARTICLE 18 – GRIEVANCE PROCEDURES
+### ARTICLE 18 – GRIEVANCE PROCEDURES
 Section 1.
 A grievance shall be any disagreement or dispute which arises concerning the
 application, meaning, or interpretation of this Agreement raised by an employee or by
@@ -1125,7 +1125,7 @@ Once a bargaining unit member files a grievance, the employee shall not be requi
 discuss the subject matter of the grievance without the presence of the Union
 representative if the employee elects to be represented by the Union.
 
-ARTICLE 19 – DISCIPLINE AND DISCHARGE
+### ARTICLE 19 – DISCIPLINE AND DISCHARGE
 Section 1.
 The principles of progressive discipline shall be used except when the nature of the
 problem requires an immediate suspension, termination, reduction of pay, or demotion.
@@ -1177,7 +1177,7 @@ action. The employee will have the opportunity to consult with a local union ste
 an AFSCME Council Representative before the interview, but such consultation shall not
 cause an undue delay.
 
-ARTICLE 20 – TRIAL SERVICE
+### ARTICLE 20 – TRIAL SERVICE
 Section 1. Initial Trial Service
 All new employees appointed to a position shall serve an initial trial service period of six
 (6) months with the Employer.
@@ -1222,7 +1222,7 @@ Employees removed from promotional trial service shall be demoted to the
 classification previously held and the employee’s former salary eligibility date will be
 restored.
 
-ARTICLE 21 – QUARTERLY CHECK-INS
+### ARTICLE 21 – QUARTERLY CHECK-INS
 Section 1.
 a. Effective October 1, 2022, supervisors will conduct check-ins with their employees on
    a calendar quarter basis. These check-ins shall be informal, and the supervisor will
@@ -1237,7 +1237,7 @@ a. Effective October 1, 2022, supervisors will conduct check-ins with their empl
 Section 2. Quarterly check-ins are neither grievable nor arbitrable under this
 agreement.
 
-ARTICLE 22 – RETIREMENT
+### ARTICLE 22 – RETIREMENT
 Section 1.
 The Employer will offer the retirement plan or plans available to its employees through
 PERS.
@@ -1250,7 +1250,7 @@ contribution to their PERS or IAP as appropriate. Employees’ contributions sha
 treated as pre-tax pursuant to IRS
 Code Section 414(h)(2).
 
-ARTICLE 23 – SALARIES
+### ARTICLE 23 – SALARIES
 Section 1.
    (a) If an agreement is reached by September 30, 2023, effective December 1, 2023,
        all pay rates will be increased by six and five tenths’ percent (6.50%).
@@ -1269,14 +1269,14 @@ Legislature does not appropriate at least $13 million in calendar year 2024, the
 cost of living adjustment will be effective February 1, 2025.
 
 34
-ARTICLE 24 – DIFFERENTIALS
+### ARTICLE 24 – DIFFERENTIALS
 The Employer will pay 5% differential of base pay when it assigns in writing:
 a. An employee to interpret a non-English language;
 b. Additional duties that the Employer recognizes as significantly more complex than
    the scope of the duties assigned to the employees’ classification, such as parole
    duties, as currently assigned to a Deputy II.
 
-ARTICLE 25 – HEALTH AND DENTAL INSURANCE
+### ARTICLE 25 – HEALTH AND DENTAL INSURANCE
 Section 1. An Employer contribution will be made for each eligible employee who has
 at least eighty (80) paid regular hours in the month unless required by law.
 
@@ -1307,7 +1307,7 @@ sufficiently funded by the savings.
 
 
 35
-ARTICLE 26 – SALARY ADMINISTRATION
+### ARTICLE 26 – SALARY ADMINISTRATION
 Section 1. Salary on Demotion.
 Whenever an employee demotes to a job classification in a lower range that has a salary
 rate the same as the previous salary, the employee’s salary shall be maintained at least
@@ -1350,7 +1350,7 @@ When an employee is appointed from a layoff list to a position in the same class
 which the employee was previously employed, the employee shall be paid at the same
 salary step at which such employee was being paid at the time of layoff.
 
-ARTICLE 27 – REMOTE WORK
+### ARTICLE 27 – REMOTE WORK
 Section 1. Initiation of Remote Work and Conditions.
 a. Remote work can be either a voluntary employee requested option or by Agency
    assignment. All remote work assignments begin, end, or change only with prior
@@ -1483,7 +1483,7 @@ work to be performed on remote workdays. Employees will review and acknowledge
 the Agency’s remote work acknowledgement form in the State’s human resources
 information system.
 
-ARTICLE 28 – SAFETY AND HEALTH
+### ARTICLE 28 – SAFETY AND HEALTH
 Section 1. It is the intent of this Agreement that the parties will mutually strive to
 maintain a suitable and safe working environment for all employees consistent with the
 requirements outlined in ORS 654.001 to 654.295 and 654.991.
@@ -1541,7 +1541,7 @@ Section 2. Respectful Workplace
 
 
 41
-ARTICLE 29 – LABOR/MANAGEMENT COMMITTEE
+### ARTICLE 29 – LABOR/MANAGEMENT COMMITTEE
 Section 1. To facilitate communication between the parties, a joint labor/management
 committee shall be established.
 Section 2. The Committee shall be composed of up to two (2) employee members
@@ -1575,7 +1575,7 @@ subjects of bargaining. The committee shall have no power to contravene any prov
 of this Agreement or to enter into any agreements binding on the parties to this
 agreement.
 
-ARTICLE 30 – POSTING BARGAINING UNIT VACANCIES
+### ARTICLE 30 – POSTING BARGAINING UNIT VACANCIES
 When the Employer seeks to fill a vacant bargaining unit position, the process will
 include an email from the Employer to the bargaining unit that announces the vacancy,
 
@@ -1586,7 +1586,7 @@ identifies the closing date for applicants. Management will make reasonable effo
 position, (2) meet with every minimally qualified internal applicant individually before
 announcing results.
 
-ARTICLE 31 – HOURS OF WORK
+### ARTICLE 31 – HOURS OF WORK
 Employees are exempt from FLSA overtime provisions and are expected to work a
 professional work week on a salaried basis. The parties recognize that business hours
 for law offices and for most governmental agencies, including the courts, are from 8:00
@@ -1597,14 +1597,14 @@ Approval for alternate work schedules will not be unreasonably withheld. Alterna
 schedules may be adjusted or terminated only when, in the judgment of the Employer,
 the needs of the Agency so require.
 
-ARTICLE 32 – LIMITED DURATION APPOINTMENT
+### ARTICLE 32 – LIMITED DURATION APPOINTMENT
 Any employee who accepts a limited duration appointment in the bargaining unit is
 entitled to rights under the layoff procedure in this Agreement.
 
 Employees accepting such appointment shall be notified of the conditions of the
 appointment and acknowledge in writing that they accept that appointment.
 
-ARTICLE 33 – LAYOFF
+### ARTICLE 33 – LAYOFF
 Section 1.
 The Employer agrees to make a good faith effort to provide thirty (30) days’ notice to
 Employees and to the Union of its intent to reduce its attorney workforce through layoff
@@ -1627,15 +1627,15 @@ who previously performed those duties for the Employer. In the event that no
 employee on the list has previously performed those duties for this Employer, the
 Employer will post the position and notify employees on the list of the vacancy.
 
-ARTICLE 34 – WORKERS’ COMPENSATION
+### ARTICLE 34 – WORKERS’ COMPENSATION
 The Employer agrees to follow the provisions of controlling law in regard to both
 processing workers’ compensation claims and to reinstating an employee injured on the
 job.
 
-ARTICLE 35 – AGENCY PERSONNEL POLICIES
+### ARTICLE 35 – AGENCY PERSONNEL POLICIES
 Upon request, the Agency shall provide the Union a copy of its personnel policies.
 
-ARTICLE 36 – EDUCATION AND TRAINING
+### ARTICLE 36 – EDUCATION AND TRAINING
 The Employer will pay registration for Appellate Attorneys to attend one (1) OCDLA in
 state Conference annually.
 
@@ -1646,7 +1646,7 @@ approval an employee may use these funds to acquire reference materials necessar
 in-home work. Any materials purchased with these funds shall be property of the
 Employer.
 
-ARTICLE 37 – BAR AND PROFFESSIONAL MEMBERSHIP DUES
+### ARTICLE 37 – BAR AND PROFFESSIONAL MEMBERSHIP DUES
 The Employer shall pay Oregon State Bar (OSB) and Oregon Criminal Defense Lawyers
 Association (OCDLA) membership dues for each employee. Funding permitting, the
 Employer may pay annual membership dues for two (2) OSB sections related to the
@@ -1656,7 +1656,7 @@ employee’s practice.
 
 
 44
-ARTICLE 38 – SUCCESSOR NEGOTIATIONS
+### ARTICLE 38 – SUCCESSOR NEGOTIATIONS
 The Employer will allow up to four (4) employees to attend collective bargaining
 sessions as members of the Union’s negotiation team. The Employer agrees to pay the
 affected employees their normal salary for this time, during which they must continue
@@ -1666,7 +1666,7 @@ Employer is not responsible for travel, overtime, per diem, other benefits, or
 compensation beyond that which the employees would have received had the affected
 employees not attended bargaining sessions.
 
-ARTICLE 39 – PAID LEAVE OREGON
+### ARTICLE 39 – PAID LEAVE OREGON
 Employees may choose and will be allowed to use sick, vacation, or personal business
 leave to make up any difference between Paid Leave Oregon benefits and their average
 weekly wage, as determined by the Employment Department. An employee receiving
@@ -1675,7 +1675,7 @@ Oregon Family Leave (FMLA/OFLA) will use accrued leave in accordance with any
 existing contract language relating to FMLA/OFLA.
 
 
-ARTICLE 40 – RECOUPMENT OF WAGE AND BENEFIT
+### ARTICLE 40 – RECOUPMENT OF WAGE AND BENEFIT
 OVERPAYMENTS/UNDERPAYMENTS
 Section 1. Overpayments
 
@@ -1741,7 +1741,7 @@ Section 2. Underpayments
 
 
 47
-                               LETTER OF AGREEMENT
+### LETTER OF AGREEMENT
 
 This agreement is between the Office of Public Defense Services (Agency) and AFSCME
 Council 75(Union) on behalf of the Attorney’s bargaining unit (Local).
@@ -1780,7 +1780,7 @@ September 30, 2029, unless the parties agree to extend its provisions.
 
 
 48
-                               LETTER OF AGREEMENT
+### LETTER OF AGREEMENT
                                NATURAL DISASTER LEAVE
 
 This agreement is between the Office of Public Defense Services (Agency) and AFSCME
@@ -1815,7 +1815,7 @@ The parties agree to the following:
 
 
 49
-                                             LETTER OF AGREEMENT
+### LETTER OF AGREEMENT
 
 
 This agreement is entered into between the Office of Public Defense Services
@@ -1841,7 +1841,7 @@ This Letter of Agreement will sunset June 30, 2025.
     Provided the agreement is before the payroll cutoff date.
 
 50
-                               LETTER OF AGREEMENT
+### LETTER OF AGREEMENT
                             LAYOFF PROCEDURE COMMITTEE
 
 This agreement is between the Oregon Public Defense Services (Employer) and AFSCME

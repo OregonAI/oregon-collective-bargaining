@@ -93,7 +93,7 @@ SIGNAT URE PAGE – AFSCME – OAJA ............................................
 
 
 2025-2027 Oregon Association of Justice Attorneys                                                                                                      Collective Bargaining Agreement
-                                      ARTICLE 1 - PARTIES TO THE AGREEMENT
+### ARTICLE 1 - PARTIES TO THE AGREEMENT
 
 This Agreement is made and entered into by and between the American Federation of State,
 County and Municipal Employees (AFSCME) on behalf of the Oregon Association of Justice
@@ -101,7 +101,7 @@ Attorneys (hereinafter the "Association") and the State of Oregon (hereinafter t
 acting by and through its Department of Administrative Services (DAS) on behalf of the
 Department of Justice (hereinafter the "Department").
 
-                                                    ARTICLE 2 - RECOGNITION
+### ARTICLE 2 - RECOGNITION
 
 Section 1.
 The Employer and the Department recognize the Association as the sole and exclusive
@@ -119,7 +119,7 @@ Reduction in Workforce (43) for the duration of the Honors Attorney’s limited 
 appointment. Otherwise, Honors Attorneys will be covered by the terms of the agreement.
                                                                                           REV: 2015,2019,2023
 
-                                             ARTICLE 3 - TERM OF AGREEMENT
+### ARTICLE 3 - TERM OF AGREEMENT
 
 Section 1.
 Unless otherwise noted in a specific article in the Agreement, this Agreement becomes
@@ -135,7 +135,7 @@ other party between the dates of December 1, 2026 and December 31, 2026. Negotia
 a successor agreement will start between February 15, 2027 and March 15, 2027.
                                                                           REV: 2015, 2017,2019, 2021,2023,2025
 
-                                              ARTICLE 4 - LEGISLATIVE ACTION
+### ARTICLE 4 - LEGISLATIVE ACTION
 
 Section 1.
 Provisions of this Agreement not requiring legislative funding or statutory changes before they
@@ -161,13 +161,13 @@ Nothing in this provision shall be construed as to require the Governor to call 
 of the legislature.
                                                                                                  REV: 2025
 
-                                      ARTICLE 5 - EFFECT OF LAWS AND RULES
+### ARTICLE 5 - EFFECT OF LAWS AND RULES
 
 This Agreement is subject to all applicable existing laws of the State of Oregon. In the event of
 a conflict between a provision of this Agreement and a rule or regulation of the Department of
 Administrative Services or any of its Divisions, the terms of this Agreement shall prevail.
 
-                                                    ARTICLE 6 - SEVERABILITY
+### ARTICLE 6 - SEVERABILITY
 
 In the event that any provision of this Agreement is at any time declared invalid by a court of
 competent jurisdiction, declared invalid by final Employment Relations Board (ERB) order,
@@ -178,14 +178,14 @@ remain in full force and effect. The invalidated provision shall be subject to r
 request by either party. Such renegotiation shall be conducted in accordance with ORS
 243.650 et seq.
 
-                                               ARTICLE 7 - NO DISCRIMINATION
+### ARTICLE 7 - NO DISCRIMINATION
 
 It is the policy of the Department and the Association to continue their policies not to engage in
 unlawful discrimination against any employee because of race, color, marital status, religion,
 sex, sexual orientation, national origin, age, mental or physical handicap, political affiliation,
 Association affiliation or protected Association activity.
 
-                                          ARTICLE 8 - NO STRIKE OR LOCKOUT
+### ARTICLE 8 - NO STRIKE OR LOCKOUT
 
 Section 1.
 The Department agrees that during the term of this Agreement, the Department shall not
@@ -197,7 +197,7 @@ cause or permit any lockout of employees from their work.
 During the term of this Agreement, the Association shall neither cause nor counsel the
 members of the bargaining unit to strike, walk out, slowdown or commit other acts of work
 stoppage.
-                         ARTICLE 9 - MANAGEMENT RIGHTS
+### ARTICLE 9 - MANAGEMENT RIGHTS
 
 Section 1.
  In addition to the Attorney General's authority under ORS Chapter 180 and other statutory
@@ -216,7 +216,7 @@ management include but are not limited to the following:
       (g)  Determine methods, means, and personnel by which operations are to be
            conducted.
 
-                                            ARTICLE 10 - ASSOCIATION RIGHTS
+### ARTICLE 10 - ASSOCIATION RIGHTS
 
 Section 1. AFSCME Representatives.
 The Association will notify the Department in writing of its representative of the District Council
@@ -333,7 +333,7 @@ Upon request, the Agency shall provide to the Union on an annual basis the Agenc
 organization charts showing management positions and the positions they supervise.
                                                                                                      REV:2019
 
-                             ARTICLE 11 - ASSOCIATION MEMBERSHIP AND DUES
+### ARTICLE 11 - ASSOCIATION MEMBERSHIP AND DUES
 
 Section 1.
 The Employer agrees to deduct the monthly fees from the pay of those employees the Union
@@ -358,7 +358,7 @@ does not limit, waive, or in any way impact the State’s liability to AFSCME if
 withhold and remit lawful dues to AFSCME as obligated under the Agreement.
                                                                                        REV: 2019,2025
 
-                                ARTICLE 13 - EMPLOYEE ASSISTANCE PROGRAM
+### ARTICLE 13 - EMPLOYEE ASSISTANCE PROGRAM
 
 Section 1.
 Employees shall be entitled to participate in the Department Employee Assistance Program
@@ -369,7 +369,7 @@ Upon Association written request to Administrative Services, the Department shal
 Association with statistical information provided to management concerning the Department
 EAP.
 
-                                           ARTICLE 14 - PERSONNEL RECORDS
+### ARTICLE 14 - PERSONNEL RECORDS
 
 Section 1.
 The Chief Human Resources Office human resource information system is the system of
@@ -457,7 +457,7 @@ Human Resource Director, and anyone specifically authorized in writing by the su
 employee.
                                                                                           REV: 2019, 2021
 
-                                ARTICLE 15 - WORKING OUT OF CLASSIFICATION
+### ARTICLE 15 - WORKING OUT OF CLASSIFICATION
 
 Section 1.
 Employees who have been designated in writing by their attorney-in-charge or division
@@ -475,7 +475,7 @@ percent (5%) increase while in the work out-of-class assignment. Agencies must d
 the reasons for the exceptions.
                                                                                                   REV: 2023
 
-             ARTICLE 16 - RECOUPMENT OF WAGE AND BENEFIT OVERPAYMENTS
+### ARTICLE 16 - RECOUPMENT OF WAGE AND BENEFIT OVERPAYMENTS
 
 Section 1.
 In the event that an employee receives wages or benefits from the Department to which the
@@ -509,7 +509,7 @@ This Article does not waive the Department's right to pursue other legal procedu
 processes to recoup an overpayment made to an employee at any time.
                                                                                                    REV: 2023
 
-                                                    ARTICLE 17 - SALARIES
+### ARTICLE 17 - SALARIES
 
 Section 1. Cost of Living Adjustment.
 (a)   Effective February 1, 2026 or on the first of the month following receipt of an interest
@@ -560,7 +560,7 @@ Central Table.
 See LOA: Salary and Benefit Report
                                                                          REV: 2015, 2017, 2019, 2021,2023,2025
 
-                                                    ARTICLE 18 - INSURANCE
+### ARTICLE 18 - INSURANCE
 
 Section 1.
 An Employer contribution will be made for each eligible employee who has at least eighty (80)
@@ -626,7 +626,7 @@ savings.
 See LOA: PMAC
                                                                        REV: 2015, 2017, 2019, 2021,2023,2025
 
-         ARTICLE 19 - TRAVEL, MILEAGE AND MOVING EXPENSE REIMBURSEMENT
+### ARTICLE 19 - TRAVEL, MILEAGE AND MOVING EXPENSE REIMBURSEMENT
 
 Section 1. Travel and Mileage Allowance.
 Reimbursements and procedures will be in accordance with Oregon Accounting Manual,
@@ -642,13 +642,13 @@ policy will be automatically incorporated into this contract.
 
 
 2025-2027 Oregon Association of Justice Attorneys   11                               Collective Bargaining Agreement
-                                               ARTICLE 20 - FEES; HONORARIA
+### ARTICLE 20 - FEES; HONORARIA
 
 An employee shall not accept fees or honoraria for speeches, lectures or teaching that are
 related to the operations of the Department without the prior approval of the Attorney General
 or designee. Such approval shall not be unreasonably withheld or delayed.
 
-                                  ARTICLE 21 - CONTINUING LEGAL EDUCATION
+### ARTICLE 21 - CONTINUING LEGAL EDUCATION
 
 Section 1.
 (a)   The Department encourages the professional development of its staff through provision
@@ -702,7 +702,7 @@ Exceptions to the above guidelines and expenditures beyond each Division's budge
 approved in advance by the Deputy Attorney General or designee.
                                                                                 REV: 2015,2019, 2021
 
-                                                    ARTICLE 22 - BAR DUES
+### ARTICLE 22 - BAR DUES
 
 The Department shall pay the cost of Oregon State Bar dues plus dues for membership in up
 to two (2) OSB sections for each employee. Upon the receipt of an employee’s written request
@@ -719,7 +719,7 @@ or designee, taking into consideration the operational needs of the Department, 
 other states and additional section dues may be paid by the Department.
                                                                                                 REV: 2025
 
-                                  ARTICLE 23 - BAR CONVENTION ATTENDANCE
+### ARTICLE 23 - BAR CONVENTION ATTENDANCE
 
 The Department seeks to ensure that the maximum number of Department Attorneys be
 permitted to attend the Oregon State Bar Convention, consistent with budgetary constraints,
@@ -727,7 +727,7 @@ and to the extent permitted by the operational needs of the Department. Approval
 attendance at the Bar Convention and the reimbursement of expenses shall be in accordance
 with Department Policy 3-33(1), in effect on January 17, 1996.
 
-                                                ARTICLE 24 - BAR COMPLAINTS
+### ARTICLE 24 - BAR COMPLAINTS
 
 Section 1.
 Under ORS 180.060(1)(d), the Attorney General shall provide counsel and represent an
@@ -784,7 +784,7 @@ The Attorney General shall not undertake representation of any Assistant
 Attorney General if such representation would be in violation of Disciplinary Rule of
 Procedure 2.1.
 
-                                      ARTICLE 25 - PROFESSIONAL WORKWEEK
+### ARTICLE 25 - PROFESSIONAL WORKWEEK
 
 Section 1.
 Attorneys are exempt from FLSA overtime provisions and are expected to work a professional
@@ -821,7 +821,7 @@ Section 4.
 Alternative schedules may be terminated after considering the above factors whenever, in the
 judgment of the Division Administrator, the needs of the Department so require.
 
-                                                    ARTICLE 26 - JOB ROTATIONS
+### ARTICLE 26 - JOB ROTATIONS
 
 Section 1.
 Job rotation is any temporary change in job assignment requested by an Assistant Attorney
@@ -832,7 +832,7 @@ Section 2.
 Job rotations as defined in this Article shall be made at the discretion of the Attorney General
 or designee.
 
-                                          ARTICLE 27 - ADMINISTRATIVE LEAVE
+### ARTICLE 27 - ADMINISTRATIVE LEAVE
 
 Section 1.
 Assistant Attorneys General are not entitled to overtime pay or to hour-for-hour compensatory
@@ -867,7 +867,7 @@ Attorney may be granted administrative leave for the reason described in Section
 once per billing year.
                                                                                                REV: 2023
 
-                                               ARTICLE 28 - PERSONAL LEAVE
+### ARTICLE 28 - PERSONAL LEAVE
 
 Section 1.
 All employees after completion of six (6) full calendar months of service shall be entitled to
@@ -893,7 +893,7 @@ mutually agreeable to the Department and the employee.
 
 
 2025-2027 Oregon Association of Justice Attorneys      16                    Collective Bargaining Agreement
-                                                    ARTICLE 29 - SICK LEAVE
+### ARTICLE 29 - SICK LEAVE
 
 Section 1. Eligibility for and Use of Sick Leave.
 (a)   An employee, upon initial appointment to State service, is eligible to receive and use an
@@ -977,7 +977,7 @@ The Department will establish and administer a donated leave program that:
       (g)   Upon request, employees may use hardship leave hours for parental leave.
                                                                                                 REV: 2015
 
-                                     ARTICLE 30 - LEAVE OF ABSENCE WITH PAY
+### ARTICLE 30 - LEAVE OF ABSENCE WITH PAY
 
 The State of Oregon recognizes that certain employee leaves are either directly or indirectly
 beneficial to the State and therefore qualify as paid leave. Employees shall receive the
@@ -1103,7 +1103,7 @@ Section 11. Natural Disaster Leave
            compensatory leave.
                                                                                         REV: 2019,2025
 
-                                ARTICLE 31 - LEAVE OF ABSENCE WITHOUT PAY
+### ARTICLE 31 - LEAVE OF ABSENCE WITHOUT PAY
 
 Section 1.
 An employee shall be entitled to military leave without pay as required by federal and State
@@ -1194,11 +1194,11 @@ Section 8.
                                                                                 REV: 2017,2023,2025
 
 2025-2027 Oregon Association of Justice Attorneys   22                       Collective Bargaining Agreement
-                                                ARTICLE 32 - PARENTAL LEAVE
+### ARTICLE 32 - PARENTAL LEAVE
 
 A parent shall be granted leave in accordance with State and federal laws.
 
-                                                ARTICLE 33 - VACATION LEAVE
+### ARTICLE 33 - VACATION LEAVE
 
 Section 1. Vacation Leave Accrual.
 (a)   Vacation leave shall accrue as follows:
@@ -1322,7 +1322,7 @@ vacation hours:
 See LOA: Employee Leave Coverage
                                                                             REV: 2017, 2019, 2021,2023,2025
 
-                                                    ARTICLE 34 - HOLIDAYS
+### ARTICLE 34 - HOLIDAYS
 
 Employees shall receive the following legal compensable holidays:
 
@@ -1394,7 +1394,7 @@ approved.
 
 
 2025-2027 Oregon Association of Justice Attorneys   26                            Collective Bargaining Agreement
-                                ARTICLE 35 - LABOR/MANAGEMENT COMMITTEE
+### ARTICLE 35 - LABOR/MANAGEMENT COMMITTEE
 
 Section 1.
 To facilitate communication between the Parties, a joint labor/management committee shall be
@@ -1426,7 +1426,7 @@ The committee shall have no power to contravene any provision of this Agreement 
 into any agreements binding on the Parties to this Agreement.
                                                                                                 REV: 2025
 
-                                             ARTICLE 36 - SAFETY AND HEALTH
+### ARTICLE 36 - SAFETY AND HEALTH
 
 Section 1.
 The Department will abide by standards of safety and health in accordance with the Oregon
@@ -1509,7 +1509,7 @@ Section 5. Respectful Workplace
            Agency Human Resources Office.
                                                                                             REV: 2017,2023
 
-                                                    ARTICLE 37 - SECURITY
+### ARTICLE 37 - SECURITY
 
 Section 1.
 The Department shall provide a safe work area for employees covered by this Agreement to
@@ -1530,7 +1530,7 @@ location is safe before instructing and/or allowing employees to return to work.
 shall a represented employee be required to enter an evacuated area for any purpose, prior to
 the time the location has been determined to be safe.
 
-             ARTICLE 38 - INCLEMENT WEATHER/HAZARDOUS CONDITIONS LEAVE
+### ARTICLE 38 - INCLEMENT WEATHER/HAZARDOUS CONDITIONS LEAVE
 
 Section 1.
 (a)   The Employer/Agency designated official(s) may close or curtail offices, facilities, or
@@ -1673,7 +1673,7 @@ receive the Essential Worker Inclement Weather/Hazardous Conditions Pay differen
 Article 53.
                                                                               REV: 2015, 2021,2023,2025
 
-                                      ARTICLE 39 – DISCIPLINE AND DISCHARGE
+### ARTICLE 39 – DISCIPLINE AND DISCHARGE
 
 Section 1. Weingarten Rights.
 Upon request, an employee shall have the right to Association representation during an
@@ -1800,7 +1800,7 @@ Section 5. Disciplinary Standards for Misconduct.
            (Grievance/Arbitration Procedure).
                                                                                   REV: 2017, 2021,2025
 
-                       ARTICLE 40 – GRIEVANCE AND ARBITRATION PROCEDURE
+### ARTICLE 40 – GRIEVANCE AND ARBITRATION PROCEDURE
 
 Section 1.
 Grievances are defined as acts, omissions, applications or interpretations alleged to be
@@ -1911,7 +1911,7 @@ Section 8. Expedited Grievance Arbitration.
            the same or related subject unless the parties agree otherwise prior to the hearing.
                                                                                             REV: 2015,2019
 
-                                                ARTICLE 41 – BILLABLE HOURS
+### ARTICLE 41 – BILLABLE HOURS
 
 Section 1.
 The Parties acknowledge that the Department has set a standard for full-time employees to
@@ -2038,7 +2038,7 @@ leave in determining if they qualify for billed time credit under this paragraph
 
 
 2025-2027 Oregon Association of Justice Attorneys   39                            Collective Bargaining Agreement
-                                        ARTICLE 42 – BILINGUAL DIFFERENTIAL
+### ARTICLE 42 – BILINGUAL DIFFERENTIAL
 
 When formally assigned in the employee’s position description, an employee assigned to
 interpret to or from another foreign language, or the use of American Sign Language to English
@@ -2046,7 +2046,7 @@ will receive a differential of five percent (5%) of base pay. Employees will be 
 differential only when bilingual or multilingual duties are assigned.
                                                                                                 REV: 2025
 
-                                      ARTICLE 43 – REDUCTION IN WORKFORCE
+### ARTICLE 43 – REDUCTION IN WORKFORCE
 
 Section 1.
 The Department agrees to make a good faith effort and when it is feasible to do so, to provide
@@ -2063,7 +2063,7 @@ Department in good standing in the previous two (2) year period. When the Depart
 chooses to fill a vacant attorney position through an external competitive process, the
 Department will notify employees from this list of the vacancy.
 
-                        ARTICLE 44 – POSTING OF BARGAINING UNIT VACANCIES
+### ARTICLE 44 – POSTING OF BARGAINING UNIT VACANCIES
 
 Section 1.
 Subject to any court decrees, laws or rules, whenever the agency fills a vacant bargaining unit
@@ -2079,7 +2079,7 @@ role to all attorneys in the division office location(s) where the role could be
 opportunity to indicate interest shall be no fewer than five (5) work days.
                                                                                                 REV: 2025
 
-                               ARTICLE 46 – AAIC LEADWORK RESPONSIBILITIES
+### ARTICLE 46 – AAIC LEADWORK RESPONSIBILITIES
 
 Section 1.
 Assistant Attorneys in Charge (“AAIC”) perform leadwork. Leadwork responsibility is work
@@ -2106,7 +2106,7 @@ Employees assigned to the role of Assistant Attorney-in-Charge shall have a bill
 standard equal to seventy-five percent (75%) of that of Assistant Attorneys General.
                                                                                        REV: 2015, 2021
 
-                                         ARTICLE 47 – INTEREST ARBITRATION
+### ARTICLE 47 – INTEREST ARBITRATION
 Section 1.
 Unless otherwise noted, this Article replaces the provisions of ORS 243.746(1-3) when the
 Parties have an unresolved dispute regarding mandatory subjects of bargaining concerning the
@@ -2170,7 +2170,7 @@ followed:
            (k)        The Parties may amend this Article upon Mutual Agreement.
 
 
-                                ARTICLE 48 - VOLUNTARY MEDICAL SEPARATION
+### ARTICLE 48 - VOLUNTARY MEDICAL SEPARATION
 
 Section 1.
 Regular status employees with serious health conditions who have exhausted all of their own
@@ -2200,7 +2200,7 @@ conditions are met:
              from the date of voluntary resignation.
                                                                                                  NEW: 2019
 
-                                                ARTICLE 49 – EXIT INTERVIEWS
+### ARTICLE 49 – EXIT INTERVIEWS
 
 (a)        If regular status employees provide timely notice that they are voluntarily separating
            from Agency service, the Agency will offer:
@@ -2214,7 +2214,7 @@ conditions are met:
            feedback on their Agency experience.
                                                                                                  NEW: 2019
 
-                                                    ARTICLE 50 – AIR QUALITY
+### ARTICLE 50 – AIR QUALITY
 Section 1.
 The Air Quality Index (AQI) was developed by the US Environmental Protection Agency as an
 indicator of overall air quality and is based on the five (5) criteria pollutants regulated under the
@@ -2239,7 +2239,7 @@ Condition.
 
 
 2025-2027 Oregon Association of Justice Attorneys         43                    Collective Bargaining Agreement
-                                          ARTICLE 51 – QUARTERLY CHECK-INS
+### ARTICLE 51 – QUARTERLY CHECK-INS
 Supervisory managers shall conduct check-ins with their employees on a quarterly basis. If a
 quarterly check-in does not occur, the employee may request a check-in for the missed time
 period. Supervisory managers shall conduct the requested check-in within thirty (30) calendar
@@ -2250,7 +2250,7 @@ check-ins are not grievable nor arbitrable under this Agreement and cannot be us
 discipline.
                                                                                 NEW: 2021,REV: 2023
 
-                                             ARTICLE 52 - PAID LEAVE OREGON
+### ARTICLE 52 - PAID LEAVE OREGON
 
 Paid Leave Oregon is administered by the Oregon Employment Department. The State of
 Oregon, as an employer, shall comply with the provisions of Paid Leave Oregon, as provided
@@ -2266,7 +2266,7 @@ Leave (FMLA/OFLA) will use accrued leave in accordance with any existing contrac
 relating to FMLA/OFLA.
                                                                                                NEW: 2023
 
-                                         ARTICLE 53 - ESSENTIAL WORKER PAY
+### ARTICLE 53 - ESSENTIAL WORKER PAY
 
 When a situation exists that would otherwise close or curtail state offices, essential workers
 having to report to work, in-person, shall receive the Essential Worker Inclement
@@ -2290,7 +2290,7 @@ occurred on a weekend and/or a holiday when state offices are otherwise closed.
 
 
 2025-2027 Oregon Association of Justice Attorneys     44                      Collective Bargaining Agreement
-           LETTER OF AGREEMENT – ARTICLE 17 - SALARY AND BENEFIT REPORT
+### LETTER OF AGREEMENT – ARTICLE 17 - SALARY AND BENEFIT REPORT
 
 This Agreement is between the State of Oregon, acting through its Department of
 Administrative Services (DAS) and the AFSCME Local 75, (Union).
@@ -2315,7 +2315,7 @@ This Letter of Agreement will sunset on June 30, 2027, unless extended by mutual
 
 
 2025-2027 Oregon Association of Justice Attorneys   45                 Collective Bargaining Agreement
-     LETTER OF AGREEMENT - ARTICLE 18 - PEBB MEMBER ADVISORY COMMITTEE
+### LETTER OF AGREEMENT - ARTICLE 18 - PEBB MEMBER ADVISORY COMMITTEE
 
 This Agreement is between the State of Oregon, acting through its Department of
 Administrative Services (Employer) and AFSCME Council 75 (Union).
@@ -2360,7 +2360,7 @@ This Agreement will sunset on June 30, 2027.
 
 
 2025-2027 Oregon Association of Justice Attorneys   46                           Collective Bargaining Agreement
-                              LETTER OF AGREEMENT – CONTRACT SPECIALIST
+### LETTER OF AGREEMENT – CONTRACT SPECIALIST
 
 This Agreement is between the State of Oregon, acting through its Department of
 Administrative Services (Employer) on behalf of all Agencies covered under the jurisdiction of
@@ -2479,7 +2479,7 @@ This Agreement becomes effective on the date of the last signature and ends on J
 
 
 2025-2027 Oregon Association of Justice Attorneys   49                  Collective Bargaining Agreement
-              LETTER OF AGREEMENT – NEW EMPLOYEE NOTICE/UNION ACCESS
+### LETTER OF AGREEMENT – NEW EMPLOYEE NOTICE/UNION ACCESS
 
 Section 1. Notice
 1.    The Employer shall provide the Union, in an editable digital file format, the following
@@ -2519,7 +2519,7 @@ Section 2. New Employee Onboarding
 
 
 2025-2027 Oregon Association of Justice Attorneys   50                     Collective Bargaining Agreement
-     LETTER OF AGREEMENT – OREGON UNIONS STATE WORKER TRAINING FUND
+### LETTER OF AGREEMENT – OREGON UNIONS STATE WORKER TRAINING FUND
 
 The Parties recognize that both the State and its workers benefit from workers understanding
 their different health care options, understanding their retirement benefits and finding solutions
@@ -2565,7 +2565,7 @@ The State Worker Training Fund will develop a plan to deliver trainings and prog
 
 
 2025-2027 Oregon Association of Justice Attorneys   51                       Collective Bargaining Agreement
-                                LETTER OF AGREEMENT – WORKING REMOTELY
+### LETTER OF AGREEMENT – WORKING REMOTELY
 
 
 This Agreement is between the State of Oregon, acting by and through its Department of
@@ -2653,7 +2653,7 @@ This Agreement becomes effective on the start date for the local agreement and e
 
 
 2025-2027 Oregon Association of Justice Attorneys   53                      Collective Bargaining Agreement
-                      LETTER OF AGREEMENT - WORKGROUP ON REMOTE WORK
+### LETTER OF AGREEMENT - WORKGROUP ON REMOTE WORK
 
 The Parties agree to form a workgroup to study remote work by AAGs at DOJ.
 
@@ -2691,7 +2691,7 @@ This Agreement becomes effective on the start date for the local agreement and e
 
 
 2025-2027 Oregon Association of Justice Attorneys     54                                 Collective Bargaining Agreement
- LETTER OF AGREEMENT – CRIMINAL RECORDS CHECK / CRIMINAL BACKGROUND
+### LETTER OF AGREEMENT – CRIMINAL RECORDS CHECK / CRIMINAL BACKGROUND
                                CHECKS
 
 This Agreement is between the State of Oregon acting through its Department of
@@ -2753,7 +2753,7 @@ through June 20, 2027.
 
 
 2025-2027 Oregon Association of Justice Attorneys   56                          Collective Bargaining Agreement
-LETTER OF AGREEMENT – STATE POLICY 50.050.01 WORKING REMOTELY UPDATES
+### LETTER OF AGREEMENT – STATE POLICY 50.050.01 WORKING REMOTELY UPDATES
 
 This Letter of Agreement is between the State of Oregon, acting through its Department of
 Administrative Services (Employer on behalf of the Agencies covered under the jurisdiction of
@@ -2770,7 +2770,7 @@ This Agreement becomes effective on the date of the last signature below and end
 
 
 2025-2027 Oregon Association of Justice Attorneys   57                   Collective Bargaining Agreement
-                                         LETTER OF AGREEMENT – EQUAL PAY
+### LETTER OF AGREEMENT – EQUAL PAY
 
 This Agreement is entered into by the State of Oregon, acting through its Department of
 Administrative Services, Labor Relations Unit (Employer), on behalf of the Agencies covered
@@ -2895,7 +2895,7 @@ The Parties agree to the following:
 
 
 2025-2027 Oregon Association of Justice Attorneys   60                        Collective Bargaining Agreement
- LETTER OF AGREEMENT - ARTICLE 33 (VACATION PROVISIONS FOR AAGs WITH AT
+### LETTER OF AGREEMENT - ARTICLE 33 (VACATION PROVISIONS FOR AAGs WITH AT
  LEAST 241 MONTHS OF STATE SERVICE) AND ARTICLE 41 - (BILLABLE CREDIT AND
                          LEAVE SUBCOMMITTEE)
 
@@ -2956,7 +2956,7 @@ This Agreement becomes effective on the start date for the local agreement and e
 
 
 2025-2027 Oregon Association of Justice Attorneys   62                  Collective Bargaining Agreement
-        LETTER OF AGREEMENT – STATEWIDE LABOR MANAGEMENT COMMITTEE
+### LETTER OF AGREEMENT – STATEWIDE LABOR MANAGEMENT COMMITTEE
 
 This Agreement is entered into by the State of Oregon, acting through its Department of
 Administrative Services, Labor Relations Unit (Employer), on behalf of the Agencies covered
@@ -2988,7 +2988,7 @@ This Agreement becomes effective on the date of the last signature and expires J
 
 
 2025-2027 Oregon Association of Justice Attorneys   63                       Collective Bargaining Agreement
-    LETTER OF AGREEMENT – ADMINISTRATIVE LEAVE/DUTY STATIONED AT HOME
+### LETTER OF AGREEMENT – ADMINISTRATIVE LEAVE/DUTY STATIONED AT HOME
                       INVESTIGATION COMMUNICATION
 
 
@@ -3008,7 +3008,7 @@ may request a change to that communication at any time.
 
 
 2025-2027 Oregon Association of Justice Attorneys   64                    Collective Bargaining Agreement
-                        LETTER OF AGREEMENT – EMPLOYEE LEAVE COVERAGE
+### LETTER OF AGREEMENT – EMPLOYEE LEAVE COVERAGE
 
 This Agreement is between the State of Oregon, acting by and through its Department of
 Administrative Services (Employer) on behalf of the Department of Justice (Agency) and
@@ -3040,7 +3040,7 @@ This Agreement becomes effective on the start date for the local agreement, and 
 
 
 2025-2027 Oregon Association of Justice Attorneys   65                    Collective Bargaining Agreement
-                           LETTER OF AGREEMENT – UNDERFILL DIFFERENTIAL
+### LETTER OF AGREEMENT – UNDERFILL DIFFERENTIAL
 
 
 This Agreement is between the State of Oregon, acting through its Department of
@@ -3123,7 +3123,7 @@ remain in effect through June 30, 2027.
 
 
 2025-2027 Oregon Association of Justice Attorneys     67                                 Collective Bargaining Agreement
-           LETTER OF AGREEMENT – STRUCTURAL CHANGES TO PAY PRACTICES
+### LETTER OF AGREEMENT – STRUCTURAL CHANGES TO PAY PRACTICES
 
 This Letter of Agreement is between the State of Oregon, acting through its Department of
 Administrative Services (Employer), and the AFSCME Council 75 (Union).

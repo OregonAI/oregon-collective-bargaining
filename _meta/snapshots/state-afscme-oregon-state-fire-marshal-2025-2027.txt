@@ -80,7 +80,7 @@ SIGNA TURE PAGE – AFSCME Department of State Fire Marshall, OSFM .............
 
 
 2025-2027 Oregon State Fire Marshal                                                      ii                                                         Collective Bargaining Agreement
-                                      ARTICLE 1 - RECOGNITION
+### ARTICLE 1 - RECOGNITION
 
 Section 1.
 This Agreement is made and entered into by and between the State of Oregon
@@ -114,7 +114,7 @@ statements or directives shall be sent to the Union on or before the date of iss
                                                                                      REV: 2019,2023
 
 
-                              ARTICLE 2 - MANAGEMENT'S RIGHTS
+### ARTICLE 2 - MANAGEMENT'S RIGHTS
 
 Section 1.
 The Agency retains all rights customarily attributed to the management and operation of
@@ -138,7 +138,7 @@ of this Agreement.
                                                                                          REV:,2023
 
 
-                ARTICLE 3 - UNION RIGHTS, SECURITY, AND STEWARDS
+### ARTICLE 3 - UNION RIGHTS, SECURITY, AND STEWARDS
 
 Section 1. Notice of Representatives.
 The Union will provide a written list, which will be kept current, to the Agency and the
@@ -375,7 +375,7 @@ International Conventions, the following provisions apply.
                  the purpose of complying with these provisions.
                                                                               REV: 2017,2019,2023,2025
 
-                          ARTICLE 4 - ADMINISTRATIVE PROVISIONS
+### ARTICLE 4 - ADMINISTRATIVE PROVISIONS
 
 Section 1. Laws, Regulations and Savings.
 This Agreement is subject to all applicable existing and future State and federal laws and
@@ -458,7 +458,7 @@ B.      The Employer agrees to release up to five (5) employees with pay for act
                                                                      REV: 2017, 2019, 2021,2023,2025
 
 
-                               ARTICLE 5 - PERSONNEL RECORDS
+### ARTICLE 5 - PERSONNEL RECORDS
 
 Section 1.
 The Chief Human Resources Office human resource information system is the system of
@@ -555,7 +555,7 @@ by the subject employee.
                                                                                       REV: 2019, 2021
 
 
-       ARTICLE 6 - DISCIPLINE, DISCHARGE, AND GRIEVANCE PROCEDURE
+### ARTICLE 6 - DISCIPLINE, DISCHARGE, AND GRIEVANCE PROCEDURE
 
 Section 1.
 Grievances are defined as acts, omissions, applications or interpretation alleged to be
@@ -795,7 +795,7 @@ J.      The arbitration award shall not establish a precedent for any current or
                                                                            REV: 2015,2019, 2021,2023
 
 
-                              ARTICLE 7 – QUARTERLY CHECK-INS
+### ARTICLE 7 – QUARTERLY CHECK-INS
 
 Section 1. Quarterly Check-ins.
 Supervisory managers shall conduct check-ins with their employees on a quarterly basis.
@@ -815,7 +815,7 @@ used for discipline.
                                                                                      REV: 2021,2023
 
 
-                             ARTICLE 8 - POSITION DESCRIPTIONS
+### ARTICLE 8 - POSITION DESCRIPTIONS
 
 Position descriptions shall be in writing and will delineate the specific duties assigned to
 the position. A dated copy of the position description , signed by the employee’s
@@ -830,7 +830,7 @@ assign work consistent with class specifications.
                                                                                           REV:2023
 
 
-                               ARTICLE 9 - FILLING OF VACANCIES
+### ARTICLE 9 - FILLING OF VACANCIES
 
 Section 1.
 The Agency desires to fill vacancies with the best qualified applicants available. Within
@@ -891,7 +891,7 @@ shall accompany this notice.
                                                                      REV: 2015, 2017, 2019,2023,2025
 
 
-                     ARTICLE 10 - LIMITED DURATION APPOINTMENTS
+### ARTICLE 10 - LIMITED DURATION APPOINTMENTS
 
 Section 1.
 Persons may be hired for special studies or projects of uncertain or limited duration which
@@ -938,7 +938,7 @@ C.      That in all other respects, limited duration appointees have all rights 
                                                                                 REV: 2017, 2021,2023
 
 
-                                      ARTICLE 11 - LAYOFF
+### ARTICLE 11 - LAYOFF
 
 Section 1. Alterative to Layoff
 A.    When the Agency believes that a lack of funds requires a layoff, the Agency will
@@ -1230,7 +1230,7 @@ Procedures.
                                                                                 REV: 2015, 2019,2023
 
 
-                                      ARTICLE 12 - TRIAL SERVICE
+### ARTICLE 12 - TRIAL SERVICE
 
 Section 1.
 All employees appointed to a bargaining unit position shall serve a trial service period of
@@ -1291,7 +1291,7 @@ B.    If an employee is reinstated into a position in their former classificatio
                                                                             REV: 2017, 2019,2023,2025
 
 
-                          ARTICLE 13 - HOURS OF WORK/OVERTIME
+### ARTICLE 13 - HOURS OF WORK/OVERTIME
 
 Section 1. General.
 This Article is intended to provide a definition of hours of work and a basis for the
@@ -1468,7 +1468,7 @@ that workweek.
                                                                    REV: 2015, 2017, 2019,2023,2025
 
 
-           ARTICLE 14 - CLASSIFICATION AND CLASSIFICATION CHANGES
+### ARTICLE 14 - CLASSIFICATION AND CLASSIFICATION CHANGES
 
 Section 1. Work Out of Classification.
 A.    When an employee is assigned, in writing, by the Agency for a limited time period
@@ -1695,7 +1695,7 @@ See LOA: Work Out of Class
                                                                               REV: 2015, 2017,2023,2025
 
 
-ARTICLE 15 - EQUAL EMPLOYMENT OPPORTUNITY AND AFFIRMATIVE ACTION
+### ARTICLE 15 - EQUAL EMPLOYMENT OPPORTUNITY AND AFFIRMATIVE ACTION
 
 Section 1.
 The provisions of this Agreement shall apply equally to all employees in the bargaining
@@ -1721,7 +1721,7 @@ Administrative Services, Labor Relations Unit, if unresolved by the Agency withi
 Administrative Services, Labor Relations Un it will review the complaint, attempt to resolve
 it, and/or issue its findings to the employee and the Union.
 
-                                      ARTICLE 16 - HOLIDAYS
+### ARTICLE 16 - HOLIDAYS
 
 Section 1.
 The following compensable holidays shall be recognized:
@@ -1775,7 +1775,7 @@ facilities.
                                                                       REV: 2015, 2017, 2021,2023,2025
 
 
-                                  ARTICLE 17 - VACATION LEAVE
+### ARTICLE 17 - VACATION LEAVE
 
 Section 1. Vacation Leave for Full-Time Employees.
 Full-time classified employees shall accrue vacation leave in accordance with the
@@ -1902,7 +1902,7 @@ leave is not appropriate.
                                                                              REV: 2017, 2019, 2021,2023
 
 
-                                      ARTICLE 18 - SICK LEAVE
+### ARTICLE 18 - SICK LEAVE
 
 Section 1. Accrual Rate of Sick Leave With Pay Credits.
 Full-time employees shall accrue eight (8) hours of sick leave with pay credits for each
@@ -1990,7 +1990,7 @@ Agreement.
                                                                                            REV: 2019
 
 
-                                      ARTICLE 19 - OTHER LEAVES
+### ARTICLE 19 - OTHER LEAVES
 
 Section 1. Leaves With Pay.
 A.    Personal Leave. All employees after completion of initial trial service shall be
@@ -2196,7 +2196,7 @@ E.      FMLA/OFLA. Leave shall be granted in accordance with State and/or federa
                                                                           REV: 2015, 2019, 2021,2023
 
 
-                            ARTICLE 20 - SALARY ADMINISTRATION
+### ARTICLE 20 - SALARY ADMINISTRATION
 
 Section 1. Step Salary Increase.
 Employees shall be eligible for consideration for step salary increases following:
@@ -2343,7 +2343,7 @@ See Appendix A – Salary Administration Examples
                                                                             REV: 2017, 2019,2023,2025
 
 
-                                      ARTICLE 21 - SALARIES
+### ARTICLE 21 - SALARIES
 
 Section 1. Public Employees Retirement System (“PERS”) Members.
 For purposes of this Article, a PERS participating member is an employee who has
@@ -2420,7 +2420,7 @@ See LOA: Salary and Benefit Report
                                                                 REV: 2015, 2017, 2019, 2021,2023,2025
 
 
-                                      ARTICLE 22 - DIFFERENTIALS
+### ARTICLE 22 - DIFFERENTIALS
 
 Section 1. Lead Work.
 Leadwork duties shall be formally assigned in writing by the supervisor to employees who
@@ -2560,7 +2560,7 @@ appropriate proficiency level and the language.
                                                                                  REV: 2019,2023,2025
 
 
-                      ARTICLE 23 - HEALTH AND DENTAL INSURANCE
+### ARTICLE 23 - HEALTH AND DENTAL INSURANCE
 
 Section 1.
 An Employer contribution will be made for each eligible employee who has at least eighty
@@ -2630,7 +2630,7 @@ funded by the savings.
                                                               REV: 2015, 2017, 2019, 2021,2023,2025
 
 
-  ARTICLE 24 - TRAVEL, MILEAGE AND MOVING EXPENSE REIMBURSEMENT
+### ARTICLE 24 - TRAVEL, MILEAGE AND MOVING EXPENSE REIMBURSEMENT
 
 Section 1. Travel and Mileage.
 Reimbursements and procedures will be in accordance with Oregon Accounting Manual,
@@ -2654,7 +2654,7 @@ regardless of the time of day.
                                                                                          REV: 2017
 
 
-                     ARTICLE 26 - LABOR-MANAGEMENT COMMITTEE
+### ARTICLE 26 - LABOR-MANAGEMENT COMMITTEE
 
 Section 1. Purpose.
 In order to facilitate communication between the parties and to promote cooperative
@@ -2714,7 +2714,7 @@ or affect the timeframes of the settlement of disputes procedure (Article 6).
                                                                                REV: 2017, 2019,2023
 
 
-                                  ARTICLE 27 - HARDSHIP LEAVE
+### ARTICLE 27 - HARDSHIP LEAVE
 
 Section 1.
 As used in this Article:
@@ -2768,7 +2768,7 @@ applicable process as outlined in the Human Resource Information System (HRIS).
                                                                            REV: 2015, 2019,2023,2025
 
 
-                               ARTICLE 28 - SAFETY AND HEALTH
+### ARTICLE 28 - SAFETY AND HEALTH
 
 Section 1.
 It is further the intent of this Agreement that the parties will mutually strive to maintain a
@@ -2860,7 +2860,7 @@ G.      No employee shall be subject to retaliation for reporting or filing a co
                                                                                         REV: 2017,2023
 
 
-                                 ARTICLE 29 - CONTRACTING OUT
+### ARTICLE 29 - CONTRACTING OUT
 
 Section 1.
 The Union recognizes that the Employer has the management right, during the term of
@@ -2959,7 +2959,7 @@ labor/management meetings and determine the most effective and efficient way to
 accomplish the work in the future for Agency initiated contracts. Decisions around
 reviewing of contracted work are not subject to the grievance procedure.
 
-  ARTICLE 30 - RECOUPMENT OF WAGE AND BENEFIT OVERPAYMENTS AND
+### ARTICLE 30 - RECOUPMENT OF WAGE AND BENEFIT OVERPAYMENTS AND
                          UNDERPAYMENTS
 
 Section 1. Overpayments.
@@ -3025,7 +3025,7 @@ may be adjusted on the following month's paycheck.
                                                                                     REV: 2019,2023
 
 
-     ARTICLE 31 - IMPLEMENTATION OF NEW CLASSES—APPEALS PROCESS
+### ARTICLE 31 - IMPLEMENTATION OF NEW CLASSES—APPEALS PROCESS
 
 The appeals process is designed to allocate employees into new classes. Employees in
 positions allocated to a new classification, who dispute their placement within the new
@@ -3108,9 +3108,9 @@ F.      This process terminates upon completion of the allocation process.
                                                                                           REV:2023
 
 
-                          ARTICLE 32 - DELETED ARTICLE 2025-2027
+### ARTICLE 32 - DELETED ARTICLE 2025-2027
 
-      ARTICLE 33 - AGENCY-OWNED CLOTHING/COMMERCIAL LAUNDERING
+### ARTICLE 33 - AGENCY-OWNED CLOTHING/COMMERCIAL LAUNDERING
 
 The Agency agrees to provide commercial cleaning services for employees who are
 issued Agency-owned clothing (e.g., coveralls, turnouts, wildland fire clothing, rain coats,
@@ -3129,7 +3129,7 @@ wear and tear.
                                                                                           REV:2023
 
 
-            ARTICLE 34 - TEMPORARY INTERRUPTION OF EMPLOYMENT
+### ARTICLE 34 - TEMPORARY INTERRUPTION OF EMPLOYMENT
 
 When the Employer declares that a temporary interruption of employment should be
 considered because of lack of funds, either party may provide the other with written notice
@@ -3145,7 +3145,7 @@ process contained in the PECBA.
 
 
 2025-2027 Oregon State Fire Marshal       60                 Collective Bargaining Agreement
-     ARTICLE 35 – INCLEMENT WEATHER/HAZARDOUS CONDITIONS LEAVE
+### ARTICLE 35 – INCLEMENT WEATHER/HAZARDOUS CONDITIONS LEAVE
 
 Section 1.
 A.    The Employer/Agency designated official(s) may close or curtail offices, facilities,
@@ -3307,7 +3307,7 @@ Pay differential under Article 44.
                                                                            REV: 2017, 2021,2023,2025
 
 
-                   ARTICLE 36 - AOC AND DRIVE TEAM DIFFERENTIALS
+### ARTICLE 36 - AOC AND DRIVE TEAM DIFFERENTIALS
 
 Section 1.
 To receive the Agency Operation Center (AOC) or Drive Team Differential, employees
@@ -3378,7 +3378,7 @@ follows:
                                                                                  REV: 2017, 2021,2023
 
 
-                        ARTICLE 37 - PROFESSIONAL MEMBERSHIPS
+### ARTICLE 37 - PROFESSIONAL MEMBERSHIPS
 
 If Agency requires an employee to obtain a membership in a work-related organization,
 the cost of the membership shall be paid by Agency.
@@ -3386,7 +3386,7 @@ the cost of the membership shall be paid by Agency.
 
 
 
-                     ARTICLE 38 - VOLUNTARY MEDICAL SEPARATION
+### ARTICLE 38 - VOLUNTARY MEDICAL SEPARATION
 
 Section 1.
 A regular status employee with a serious health condition who has exhausted all of their
@@ -3433,7 +3433,7 @@ following conditions are met:
                                                                                             NEW: 2019
 
 
-                                  ARTICLE 39 – EXIT INTERVIEWS
+### ARTICLE 39 – EXIT INTERVIEWS
 
 A.      If a regular status employee provides timely notice that they are voluntarily
         separating from Agency service, the Agency will offer an exit interview that focuses
@@ -3445,7 +3445,7 @@ B.      Upon request, but no more than two (2) times a year, the Union can recei
         employee feedback on their Agency experience.
                                                                                        NEW: 2019,2023
 
-                                ARTICLE 40 – AIR QUALITY
+### ARTICLE 40 – AIR QUALITY
 Section 1.
 The Air Quality Index (AQI) was developed by the US Environmental Protection Agency
 as an indicator of overall air quality and is based on the five (5) criteria pollutants regulated
@@ -3472,7 +3472,7 @@ Hazardous Condition.
 
 
 
-                               ARTICLE 41 - WORKING REMOTELY
+### ARTICLE 41 - WORKING REMOTELY
 Section 1.
 Oregon state government encourages working remotely where it is a viable option that
 benefits both the employee and the agency. Use of remote work options promote the
@@ -3627,7 +3627,7 @@ These provisions are applicable to all Sections listed above.
                                                                              NEW: 2021 REV:2023,2025
 
 
-                    ARTICLE 42 – INCIDENT MANAGEMENT TEAM (IMT)
+### ARTICLE 42 – INCIDENT MANAGEMENT TEAM (IMT)
 
 
 A.      Agency employees are eligible to apply to IMT with supervisor approval.
@@ -3645,7 +3645,7 @@ C.      Pay for a response to an Emergency Management Assistive Compact (EMAC)
                                                                                             NEW: 2023
 
 
-                                ARTICLE 43 - PAID LEAVE OREGON
+### ARTICLE 43 - PAID LEAVE OREGON
 
 Paid Leave Oregon is administered by the Oregon Employment Department. The State
 of Oregon, as an Employer, shall comply with the provisions of Paid Leave Oregon, as
@@ -3665,7 +3665,7 @@ existing contract language relating to FMLA/OFLA.
 
 
 2025-2027 Oregon State Fire Marshal          70                 Collective Bargaining Agreement
-                            ARTICLE 44 - ESSENTIAL WORKER PAY
+### ARTICLE 44 - ESSENTIAL WORKER PAY
 
 When a situation exists that would otherwise close or curtail state offices, essential
 workers having to report to work, in -person, shall receive the Essential Worker Inclement
@@ -3694,7 +3694,7 @@ offices are otherwise closed.
 
 
 2025-2027 Oregon State Fire Marshal       71                 Collective Bargaining Agreement
-    LETTER OF AGREEMENT – ARTICLE 21 - SALARY AND BENEFIT REPORT
+### LETTER OF AGREEMENT – ARTICLE 21 - SALARY AND BENEFIT REPORT
 
 This Agreement is between the State of Oregon, acting through its Department of
 Administrative Services (DAS) and the AFSCME Local 75, (Union).
@@ -3719,7 +3719,7 @@ agreement.
 
 
 2025-2027 Oregon State Fire Marshal     72               Collective Bargaining Agreement
-        LETTER OF AGREEMENT – ARTICLE 23 - PEBB MEMBER ADVISORY
+### LETTER OF AGREEMENT – ARTICLE 23 - PEBB MEMBER ADVISORY
                               COMMITTEE
 
 
@@ -3761,7 +3761,7 @@ This Agreement will sunset on June 30, 2027.
 
 
 2025-2027 Oregon State Fire Marshal     73                Collective Bargaining Agreement
-       LETTER OF AGREEMENT – NEW EMPLOYEE NOTICE/UNION ACCESS
+### LETTER OF AGREEMENT – NEW EMPLOYEE NOTICE/UNION ACCESS
 
 1.      Notice
            a. The Employer shall provide the Union, in an editable digital file format, the
@@ -3803,7 +3803,7 @@ This Agreement will sunset on June 30, 2027.
 
 
 2025-2027 Oregon State Fire Marshal       74                 Collective Bargaining Agreement
-LETTER OF AGREEMENT – OREGON UNIONS STATE WORKER TRAINING FUND
+### LETTER OF AGREEMENT – OREGON UNIONS STATE WORKER TRAINING FUND
 
 The Parties recognize that both the State and its workers benefit from workers
 understanding their different health care options, understanding their retirement benefits
@@ -3850,7 +3850,7 @@ The State Worker Training Fund will develop a plan to deliver trainings and prog
 
 
 2025-2027 Oregon State Fire Marshal        75                 Collective Bargaining Agreement
-                   LETTER OF AGREEMENT – CONTRACT SPECIALIST
+### LETTER OF AGREEMENT – CONTRACT SPECIALIST
 
 This Agreement is between the State of Oregon, acting through its Department of
 Administrative Services (Employer) on behalf of all Agencies covered under the
@@ -3978,7 +3978,7 @@ This Agreement becomes effective on the date of the last signature and ends on J
 
 
 2025-2027 Oregon State Fire Marshal       78                Collective Bargaining Agreement
-   LETTER OF AGREEMENT – STATE POLICY 50.050.01 WORKING REMOTELY
+### LETTER OF AGREEMENT – STATE POLICY 50.050.01 WORKING REMOTELY
                             UPDATES
 
 This Letter of Agreement is between the State of Oregon, acting through its Department
@@ -3996,7 +3996,7 @@ This Agreement becomes effective on the date of the last signature below and end
 
 
 2025-2027 Oregon State Fire Marshal     79               Collective Bargaining Agreement
-                             LETTER OF AGREEMENT – EQUAL PAY
+### LETTER OF AGREEMENT – EQUAL PAY
 
 This Agreement is entered into by the State of Oregon, acting through its Department of
 Administrative Services, Labor Relations Unit (Employer), on behalf of the Agencies
@@ -4125,7 +4125,7 @@ The Parties agree to the following:
 
 
 2025-2027 Oregon State Fire Marshal       82                Collective Bargaining Agreement
-              LETTER OF AGREEMENT – AGENCY OPERATIONS CENTER
+### LETTER OF AGREEMENT – AGENCY OPERATIONS CENTER
 
 This Letter of Agreement is between the State of Oregon, acting through its Department
 of Administrative Services and the Oregon State Fire Marshal (Employer) and AFSCME
@@ -4151,7 +4151,7 @@ agreement.
 
 
 2025-2027 Oregon State Fire Marshal        83                Collective Bargaining Agreement
-      LETTER OF AGREEMENT – AMERICANS WITH DISABILITIES ACT (ADA)
+### LETTER OF AGREEMENT – AMERICANS WITH DISABILITIES ACT (ADA)
 
 This Agreement is between the State of Oregon, acting through its Department of
 Administrative Services (Employer) and AFSCME Council 75, Local 3765 (Union).
@@ -4190,7 +4190,7 @@ In addition,
 
 
 2025-2027 Oregon State Fire Marshal         84                Collective Bargaining Agreement
-   LETTER OF AGREEMENT – EDUCATION, TRAINING, JOB ROTATIONS, AND
+### LETTER OF AGREEMENT – EDUCATION, TRAINING, JOB ROTATIONS, AND
                 CAREER DEVELOPMENT OPPORTUNTIES
 
 The Parties agree to the following:
@@ -4219,7 +4219,7 @@ agreement.
 
 
 2025-2027 Oregon State Fire Marshal          85                Collective Bargaining Agreement
-  LETTER OF AGREEMENT – STATEWIDE LABOR MANAGEMENT COMMITTEE
+### LETTER OF AGREEMENT – STATEWIDE LABOR MANAGEMENT COMMITTEE
 
 This Agreement is entered into by the State of Oregon, acting through its Department of
 Administrative Services, Labor Relations Unit (Employer), on behalf of the Agencies
@@ -4252,7 +4252,7 @@ This Agreement becomes effective on the date of the last signature and expires J
 
 
 2025-2027 Oregon State Fire Marshal      86                 Collective Bargaining Agreement
-   LETTER OF AGREEMENT – ADMINISTRATIVE LEAVE/DUTY STATIONED AT
+### LETTER OF AGREEMENT – ADMINISTRATIVE LEAVE/DUTY STATIONED AT
                 HOME INVESTIGATION COMMUNICATION
 
 This Agreement is between the State of Oregon, acting through its Department of
@@ -4270,7 +4270,7 @@ duty stationed. Either Party may request a change to that communication at any t
 
 
 2025-2027 Oregon State Fire Marshal    87               Collective Bargaining Agreement
-                 LETTER OF AGREEMENT – UNDERFILL DIFFERENTIAL
+### LETTER OF AGREEMENT – UNDERFILL DIFFERENTIAL
 
 
 This Agreement is between the State of Oregon, acting through its Department of
@@ -4358,7 +4358,7 @@ will remain in effect through June 30, 2027.
 
 
 2025-2027 Oregon State Fire Marshal             89                 Collective Bargaining Agreement
-    LETTER OF AGREEMENT – STRUCTURAL CHANGES TO PAY PRACTICES
+### LETTER OF AGREEMENT – STRUCTURAL CHANGES TO PAY PRACTICES
 
 This Letter of Agreement is between the State of Oregon, acting through its Department
 of Administrative Services (Employer), and the AFSCME Council 75 (Union).
@@ -4552,7 +4552,7 @@ The Parties agree to the following:
 
 
 2025-2027 Oregon State Fire Marshal           93                 Collective Bargaining Agreement
-                   APPENDIX A - SALARY ADMINISTRATION EXAMPLES
+### APPENDIX A - SALARY ADMINISTRATION EXAMPLES
 
 Salary on Promotion or Upward Reclassification
 
@@ -4582,7 +4582,7 @@ followed by an additional step increase — not to exceed the top step of the ra
 
 
 2025-2027 Oregon State Fire Marshal        94                 Collective Bargaining Agreement
-                              APPENDIX B - CLASSIFICATION PLAN
+### APPENDIX B - CLASSIFICATION PLAN
 
 
  Classification                       SR         Learning & Development Specialist 28
@@ -4643,7 +4643,7 @@ followed by an additional step increase — not to exceed the top step of the ra
 
 
 2025-2027 Oregon State Fire Marshal         95               Collective Bargaining Agreement
-              APPENDIX C - SALARY SCHEDULE – SALARY SCHEDULES
+### APPENDIX C - SALARY SCHEDULE – SALARY SCHEDULES
 
                                          SALARY SCHEDULE AS OF JULY 1, 2025
     SR       Step 1     Step 2        Step 3   Step 4   Step 5    Step 6     Step 7     Step 8     Step 9    Step 10

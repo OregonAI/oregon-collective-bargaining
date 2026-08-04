@@ -16,12 +16,11 @@ agency_registry_slugs: []
 source_url: https://www.co.marion.or.us/HR/Documents/MCSSA%20CBA.pdf
 source_format: pdf
 retrieved: '2026-08-02'
-source_sha256: 26c502e0f33d83bbde57d36f8f7b6ef01f1a45810cdafe0b10cec15d50462077
+source_sha256: 9dee739660fa3d1672fa72885cb69650ce4541947bd8d9930db2b9a9c9476f56
 snapshot_policy: hash-only
 status: current
-content_mode: summary
-reproduction_basis: 'jointly-authored contract; summary + official link per the class determination
-  in corpus.yml schema.doc_types (verbatim: false)'
+content_mode: 'verbatim'
+reproduction_basis: 'public record of a public body (ORS 192.311-192.478); the employer publishes the executed agreement in full at source_url; a ratified agreement is an official act (Georgia v. Public.Resource.Org, 590 U.S. 255 (2020)) — mirrored in full per the class determination in corpus.yml schema.doc_types (verbatim: true)'
 conversion_notes: pdftotext -layout; 66 pages, 113559 characters extracted; NOT human-verified
 last_verified: ''
 verified_by: ''
@@ -43,8 +42,8 @@ tags:
 - marion-county
 ---
 
-> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated
-> summary, not the agreement's official text. Verify against the official
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a non-authoritative
+> mirror of the agreement's text, not the official record. Verify against the official
 > source: <https://www.co.marion.or.us/HR/Documents/MCSSA%20CBA.pdf> (retrieved 2026-08-02).
 
 # Marion County — MCSSA CBA
@@ -55,10 +54,6 @@ Collective bargaining agreement between **Marion County** and **MCSSA** — **20
 - Listed on the county's labor agreements index as: “MCSSA CBA” (index archived in `_meta/discovery/`)
 - Source document: 66 pages (PDF)
 
-This corpus is **summary-first for agreements**: the contract's text is not
-reproduced here (see Curator notes), and nothing on this page states or
-paraphrases the agreement's terms. Read the agreement itself at the official
-source link above.
 
 ## Curator notes
 
@@ -76,3 +71,1992 @@ Statutes and rules the document's text cites are recorded in frontmatter
 `relationships.references_external` (5 citation(s)) and resolve into
 `executive-regulatory-frameworks` as cites — this corpus asserts no
 `implements` edge anywhere.
+
+## Full text
+
+                                              MCSSA CBA 2024-2026
+
+
+
+
+     COLLECTIVE BARGAINING AGREEMENT
+
+                  BETWEEN
+
+MARION COUNTY SHERIFF SERGEANTS ASSOCIATION
+
+                    AND
+
+            MARION COUNTY, OR
+
+         JULY 1, 2024 - JUNE 30, 2026
+                                                                                                                                 MCSSA CBA 2024-2026
+
+
+Table of Contents
+COLLECTIVE BARGAINING AGREEMENT......................................................................................................................1
+ARTICLE 1 – RECOGNITION .........................................................................................................................................2
+ARTICLE 2 – MANAGEMENT’S RIGHTS ........................................................................................................................3
+ARTICLE 3 – OFFICE RULES, POLICIES, WRITTEN ORDERS, AND WRITTEN DIRECTIVES ..............................................4
+ARTICLE 4 – CHECK OFF ..............................................................................................................................................5
+ARTICLE 5 – HOURS OF WORK ....................................................................................................................................6
+ARTICLE 6 – REST PERIODS AND LUNCH BREAK..........................................................................................................9
+ARTICLE 7 – HOLIDAYS ............................................................................................................................................. 10
+ARTICLE 8 – VACATIONS .......................................................................................................................................... 11
+ARTICLE 9 – SICK LEAVE ........................................................................................................................................... 14
+ARTICLE 10 – PROTECTED LEAVE ............................................................................................................................. 16
+ARTICLE 11 – OTHER LEAVES ................................................................................................................................... 17
+ARTICLE 12 – HEALTH, WELFARE, AND RETIREMENT BENEFITS .............................................................................. 20
+ARTICLE 13 – WAGES ............................................................................................................................................... 23
+ARTICLE 14 – PAY ADMINISTRATION ....................................................................................................................... 24
+ARTICLE 15 – WORKING OUT OF CLASSIFICATION ................................................................................................... 27
+ARTICLE 16 – CALL-IN TIME...................................................................................................................................... 28
+ARTICLE 17 – ON-CALL SCHEDULE ........................................................................................................................... 29
+ARTICLE 18 – COURT APPEARANCES........................................................................................................................ 30
+ARTICLE 19 – PARKING............................................................................................................................................. 31
+ARTICLE 20 – OVERTIME .......................................................................................................................................... 32
+ARTICLE 21 – PAYDAY .............................................................................................................................................. 35
+ARTICLE 22 – TRAVEL ALLOWANCES ........................................................................................................................ 36
+ARTICLE 23 – TRANSPORTING PRISONERS ............................................................................................................... 37
+ARTICLE 24 – CLOTHING ALLOWANCE ..................................................................................................................... 38
+ARTICLE 25 – HEALTH AND SAFETY REGULATIONS .................................................................................................. 39
+ARTICLE 26 – DISCIPLINE AND DISCHARGE .............................................................................................................. 40
+ARTICLE 27 – LAYOFF ............................................................................................................................................... 44
+ARTICLE 28 – GENERAL PROVISIONS ....................................................................................................................... 46
+ARTICLE 29 – TUITION ASSISTANCE ......................................................................................................................... 47
+ARTICLE 30 – OUTSIDE EMPLOYMENT ..................................................................................................................... 48
+ARTICLE 31 – ASSOCIATION REPRESENTATIVES ....................................................................................................... 49
+ARTICLE 32 – SETTLEMENT OF DISPUTES ................................................................................................................ 50
+
+
+
+TABLE OF CONTENTS
+                                                                                                                                MCSSA CBA 2024-2026
+
+
+
+ ARTICLE 33 – LIABILITY INSURANCE ......................................................................................................................... 52
+ ARTICLE 34 – TRAINING ........................................................................................................................................... 53
+ ARTICLE 35 – SCOPE OF AGREEMENT ...................................................................................................................... 54
+ ARTICLE 36 – DEMOTIONS INTO THE ASSOCIATION’S BARGAINING UNIT .............................................................. 55
+ ARTICLE 37 – DRUG AND ALCOHOL TESTING .......................................................................................................... 56
+ ARTICLE 38 – FITNESS FOR DUTY TESTING............................................................................................................... 57
+ ARTICLE 39 – LIFE OF AGREEMENT AND TERMINATION.......................................................................................... 58
+ ARTICLE 40 – SAVINGS CLAUSE ................................................................................................................................ 59
+ ARTICLE 41 – DEFINITIONS ....................................................................................................................................... 60
+
+
+
+
+TABLE OF CONTENTS
+                                                                             MCSSA CBA 2024-2026
+
+
+                           COLLECTIVE BARGAINING AGREEMENT
+
+This agreement is entered into by the Board of Commissioners for Marion County, Oregon,
+hereinafter referred to as the “Board,” the Marion County Sheriﬀ, hereinafter referred to as the
+“Sheriﬀ,” and the Marion County Sheriﬀ Sergeants Association, hereinafter referred to as the
+“Association or MCSSA.” As used in this agreement, the term “Employer” shall mean the
+County.
+
+The purpose of this agreement is to set forth those agreed to matters pertaining to rates of pay,
+hours of work, fringe beneﬁts and other conditions of employment and the establishment of an
+equitable and peaceful procedure for the resolution of disputes.
+
+The parties agree as follows:
+
+
+
+
+COLLECTIVE BARGAINING AGREEMENT                                                          Page 1 of 62
+                                                                           MCSSA CBA 2024-2026
+
+
+### ARTICLE 1 – RECOGNITION
+
+The Employer recognizes the Association as the exclusive bargaining agent for all Marion County
+Sheriﬀ’ s Oﬃce Sergeants.
+
+
+
+
+### ARTICLE 1 – RECOGNITION                                                                Page 2 of 62
+                                                                             MCSSA CBA 2024-2026
+
+
+### ARTICLE 2 – MANAGEMENT’S RIGHTS
+
+It is recognized that an area of responsibility and authority must be reserved to the County and
+the Sheriﬀ if county government is to serve the public eﬀectively. Except to the extent expressly
+abridged by a speciﬁc provision of this agreement, it is recognized that the responsibilities and
+authority of management are exclusively functions to be exercised by the Board and Sheriﬀ and
+are not subject to negotiation. By way of illustration and not of limitation, the following are
+listed in such management functions:
+
+   A. The determination of the governmental services to be rendered to citizens of Marion
+      County.
+
+   B. The determination of the county's ﬁnancial, budgetary, accounting, and organization
+      policies and procedures.
+
+   C. The right to establish and administer separate personnel and employment beneﬁt rules
+      and policies for non-bargaining unit personnel. The continuous overseeing of personnel
+      policies, procedures and programs promulgated under any other term of this
+      agreement.
+
+   D. The management and direction of the work force including the right to determine the
+      methods, processes and manner of performing work; the establishment of new
+      positions and the determination of the duties and qualiﬁcations to be assigned or
+      required; the right to hire, promote, demote, reassign and retain employees; the right
+      to lay oﬀ for lack of work or funds; the right to abolish positions or reorganize the oﬃce
+      or divisions; the right to determine shifts, assignments, and schedules of work; the right
+      to purchase, dispose and assign equipment or supplies; the right to set standards for
+      appearance, uniforms and equipment; the right to formulate, change or modify oﬃce
+      rules, regulations and procedures; the right to take all necessary action to carry out its
+      mission on emergency.
+
+This article shall not preclude the Association and the Board and Sheriﬀ from either
+1) meeting during the period of the contract at the request of either party to discuss
+procedures for avoiding grievances and other problems and for generally improving relations
+between the parties; or 2) negotiating during the open negotiation period before termination
+as provided in Article 39 - Life of Agreement and Termination.
+
+
+
+
+### ARTICLE 2 – MANAGEMENT’S RIGHTS                                                          Page 3 of 62
+                                                                                MCSSA CBA 2024-2026
+
+
+### ARTICLE 3 – OFFICE RULES, POLICIES, WRITTEN ORDERS, AND WRITTEN DIRECTIVES
+
+ Section 1. Prior to planned adoption, the Sheriﬀ shall provide to the Association a copy of any
+ new or proposed modiﬁcation to an existing rule or policy, written order, or written directive,
+ which directly relates to mandatory subjects of negotiations as deﬁned by Oregon law for the
+ purpose of soliciting written comments.
+
+ Section 2. The Sheriﬀ also agrees the Association shall have the opportunity to request a
+ meeting in lieu of submitting written testimony for the purpose of providing comment or
+ seeking clariﬁcation of the intent of the proposed new or modiﬁed rule, policy, written
+ order, or written directive.
+
+ Section 3. The Association must exercise the options listed in Sections 1 and 2 of this Article
+ within twenty days (20) calendar days of the date the Sheriﬀ provides to the Association a
+ copy of a new or proposed modiﬁcation to an existing rule, policy, written order, or written
+ directive as set forth in Section 1 of this Article.
+
+ Section 4. Should the Association respond within the time limits speciﬁed above and request
+ bargaining over the new or proposed modiﬁcation of a rule or policy, the parties will meet as
+ soon as possible to do so. Neither this article nor any other provision of this Agreement shall
+ in any way constitute a waiver of the Association's right pursuant to ORS 243 to bargain on
+ new rules, policies, written orders, and/or written directive, and/or changes in current rules,
+ policies, written orders, and/or written directives which are mandatory subjects of
+ negotiations.
+
+
+
+
+### ARTICLE 3 – OFFICE RULES, POLICIES, WRITTEN ORDERS, AND WRITTEN DIRECTIVES                   Page 4 of 62
+                                                                              MCSSA CBA 2024-2026
+
+
+### ARTICLE 4 – CHECK OFF
+
+Section 1. The Association shall forward dues deduction authorizations to the Employer. If
+dues authorizations are forwarded to the employer on or before the tenth (10th) of the month,
+dues deductions shall be made for the month in which the application is submitted.
+
+Section 2. Dues will continue to be deducted until the employee rescinds the request in writing
+as provided under Oregon law. Copies of all such requests for membership cancellation shall be
+transmitted to the Association.
+
+Section 3. The aggregate deductions of all employees together with an itemized statement shall
+be remitted to the Association no later than the tenth (10th) of the month following the month
+for which the deductions were made. The itemized listing of Association members shall reﬂect
+employee terminations, retirements, cancellations, leave without pay, return from leave
+without pay, new members, pay changes, name changes, or any other personnel action, which
+would aﬀect the amount of dues withheld.
+
+Section 4. The Association shall indemnify and save the Employer harmless against any and all
+claims, damages, suits, or other forms of liability, which may arise out of any actions taken or
+not taken by the Employer for the purpose of complying with the provisions of this Article.
+
+
+
+
+### ARTICLE 4 – CHECK OFF                                                                     Page 5 of 62
+                                                                               MCSSA CBA 2024-2026
+
+
+### ARTICLE 5 – HOURS OF WORK
+
+Non-exempt Status. The Association and the County recognize that sergeants are Fair Labor
+Standards Act (FLSA) non-exempt employees.
+
+Section 1. Regular Hours. The hours of work for each day shall be consecutive, except for
+interruptions for lunch and rest periods unless otherwise agreed to by the Sheriﬀ and the
+employee.
+
+Regular Workweek. Except as provided in Section 7 of this article, each regular workweek shall
+consist of not more than ﬁve (5) consecutive days with two (2) consecutive days oﬀ.
+
+Section 2. Hours of Work Except for emergencies and as provided elsewhere in this article, the
+Sheriﬀ shall announce changes in workweeks on or before October 1 of each year, to be
+eﬀective the following January, and reserves the option of establishing any of the following
+workweeks:
+   • an eight (8) hour, ﬁve-day workweek
+   • a ten (10) hour, four (4) day workweek
+   • a combination of twelve (12) hour, three (3) day workweeks and twelve (12) hour, four
+      (4) day workweeks in a 14-day work period of eighty-four (84) hours or a 28-day work
+       period of 168 hours
+     • an eight and one-half (8½) hour, ﬁve (5) day workweek
+     • a nine (9) hour, ﬁve (5) day workweek
+     • one (1) week of four (4) nine (9) hour days, followed by one (1) eight (8) hour
+        day, with two (2) days oﬀ, and then for the second week, four (4) nine (9) hour
+        days followed by three (3) days oﬀ.
+
+Section 3. Workday. The workday shall consist of a twenty-four (24) consecutive hour period in
+which the employee shall work one (1) regular work shift. All employees shall be scheduled to
+work on a regular work shift. Emergency shall be deﬁned as any unforeseeable circumstance or
+situation requiring the presence of law enforcement personnel for the protection of life or
+property or to conduct county business. An emergency does not constitute failure to plan for a
+longstanding use of vacation or compensatory time, but may encompass an unexpected
+utilization of sick time if it causes the oﬃce to fall below acceptable staﬃng levels.
+
+Section 4. The Employer may allow Patrol shift sergeants and Jail shift sergeants to bid shifts.
+Employees may bid shifts and days oﬀ based upon Association seniority. On or about the ﬁrst
+(1st) of October, the Employer shall post the shifts necessary for the following year noting the
+days normally scheduled for work and days scheduled oﬀ. In October, employees will bid by
+signing up for the shifts each quarter for the following year. The Association will assign a date
+and time for members to bid that shall not incur any additional cost to the County. An
+employee who fails to bid at the time set aside for the employee, may bid anytime afterwards
+for the remaining shifts until their bidding time is closed. Subject to staﬃng needs, position
+
+### ARTICLE 5 – HOURS OF WORK                                                                  Page 6 of 62
+                                                                                MCSSA CBA 2024-2026
+
+
+vacancies occurring outside of the annual bid shift will be ﬁlled or assigned at the Division
+Commander’s discretion.
+
+Section 5. If, due to a staﬃng shortage or other legitimate business reason, the Sheriﬀ must
+move an employee between job assignments, the employee will be given written notice so
+that the employee can bid for the shift and the reassignment will not take place before
+January 1 or the ﬁrst day of the subsequent quarter thereafter. Alternatively, the employee
+may be moved on a short-term basis for the duration of the emergency. In such a case, the
+employee shall ﬁll the vacancy for the rest of the emergency and then be able to revert back to
+the employee's previously bid shift and assignment. If the move must be permanent for
+legitimate business purposes, then the employee shall ﬁll the vacancy for the rest of the
+quarter and then be able to bid for the remaining quarters in the calendar year. The employee's
+previously bid vacation shall be guaranteed.
+
+Section 6. In circumstances where existing shifts become vacant due to death, termination,
+resignation, promotion, demotion or reassignment, the vacant shift shall be posted for seven
+(7) calendar days. Employees within the respective job assignment shall indicate their interest
+in ﬁlling that vacancy within the allotted time frame. If more than one (1) person within the
+worksite has indicated an interest in that vacancy, the employee with the highest Association
+seniority shall be selected. Any conﬂict with vacation schedules resulting from the voluntary
+change of shift shall be resolved consistent with Section 7 of this article.
+
+In the event that no employee expresses an interest in the vacant shift, the vacant shift shall be
+ﬁlled by management consistent with Sections 4 and 5 of this article.
+
+If the above process creates another vacancy, that vacancy shall be ﬁlled consistent with this
+section, with one (1) more posting. After that additional posting, any subsequent vacancies
+created due to the voluntary or involuntary change of shifts shall be ﬁlled by management
+consistent with Sections 4 and 5 of this article.
+
+Section 7. If an employee volunteers for a change in the employee's job assignment, the
+employee shall ﬁll the vacancy, which exists for the rest of the calendar year and shall have to
+adjust any scheduled vacation to vacancies in that job assignment’s vacation schedule.
+
+Section 8. For short-term shift changes, which must be made, an employee shall be given a
+ﬁfteen (15) day notice except in an emergency, and if the reason for a shift change is because of
+a professional training opportunity for that or another employee, if that notice of training
+comes to the oﬃce with less than thirty (30) days notice before the training, the oﬃce may give
+a schedule change notice to the aﬀected employees and will do so as soon as possible without
+incurring any overtime obligation. However, the notice shall be given not less than seven (7)
+days before the training opportunity.
+
+Section 9. Flexible Work Schedules. The parties expressly understand that due to the nature of
+the work being conducted by the employee, and because the employee will be required to
+
+### ARTICLE 5 – HOURS OF WORK                                                                   Page 7 of 62
+                                                                            MCSSA CBA 2024-2026
+
+
+occasionally exceed the regular workweek and hours, the Sheriﬀ or designee and an employee
+may agree upon non-recurring, intermittent, temporary irregular hours, or irregular workweek.
+Nothing in this Article prohibits a supervisor from requiring employees to ﬂex their schedule
+due to operational needs.
+
+Section 10. All employees who take time away from work, whether it is sick time, vacation time,
+holiday time or compensatory time, shall be charged on an hour-for-hour basis.
+
+
+
+
+### ARTICLE 5 – HOURS OF WORK                                                            Page 8 of 62
+                                                                               MCSSA CBA 2024-2026
+
+
+### ARTICLE 6 – REST PERIODS AND LUNCH BREAK
+
+ Section 1. Except for emergencies, employees shall receive two (2) rest periods of ﬁfteen (15)
+ minutes each during each work shift.
+
+ Section 2. Whenever possible, lunch periods shall be scheduled in the middle of the shift.
+ Employees assigned to an eight (8) hour, ﬁve (5) day workweek, who are subject to call, shall be
+ granted a lunch period, with pay, not to exceed thirty (30) minutes. Those employees working a
+ ten (10) or twelve (12) hour work shift who are subject to call shall receive two (2) thirty (30)
+ minute lunch periods with pay. Consistent with current practices, the employee may combine
+ lunch periods and breaks or take them separately.
+
+ Section 3. Lunch Periods – Institutions Employees.
+
+    A. Meals will be provided by the Employer, at no expense, to any institution's employee if
+       the institution's employee is required to remain at the corrections facility during the
+       lunch period(s).
+
+    B. Employees, who work a ten (10) or twelve (12) hour shift in institutions shall, at the
+       option of the Sheriﬀ:
+
+          1. Be provided with two (2) meals per shift; or
+
+          2. Be allowed to leave the institutions facility for two (2) thirty (30) minute lunch
+             periods during each shift, when public safety demands will permit, or be provided
+             with one (1) meal and allowed to leave the institutions facility for one
+             (1) thirty (30) minute lunch period each shift.
+
+ Section 4. Subject to the physical structure of the building and the operating needs of the
+ Employer, and whenever possible, employees shall be provided with lunchroom facilities.
+
+
+
+
+### ARTICLE 6 – REST PERIODS AND LUNCH BREAKS                                                   Page 9 of 62
+                                                                             MCSSA CBA 2024-2026
+
+
+### ARTICLE 7 – HOLIDAYS
+
+Section 1. Holidays. The following shall be recognized and observed as guaranteed paid
+holidays for full-time regular employees:
+
+New Year's Day                       Labor Day
+Martin Luther King's Birthday        Veterans' Day
+Presidents' Day                      Thanksgiving Day
+Memorial Day                         Christmas Day
+Juneteenth
+Independence Day
+
+All legal holidays designated by the Governor of the State of Oregon or the President of the
+United States.
+
+A one-time observance, memorial or day of mourning must also be declared and/or approved
+by the Board of Commissioners to qualify under this article as a legal holiday.
+
+Section 2. Weekend Holiday. Whenever a holiday falls on Saturday, the preceding Friday
+shall be considered to be the holiday. Whenever a holiday falls on Sunday, the following
+Monday shall be considered to be the holiday. Employees working an irregular workweek shall
+receive the same number of holidays as employees working the regular Monday through Friday
+workweek. Holidays, which occur during paid vacation or sick leave with pay, shall not be
+charged against vacation or sick leave accruals.
+
+Section 3. Holiday Pay. Work performed on holidays, which fall within the employee's
+workweek, shall be considered as overtime work and shall be compensated in the same manner
+as overtime. This shall mean that those employees, who work on a paid holiday, shall receive
+two and one-half (2½) times their normal pay. Compensation for holidays will be provided to
+regular, part-time employees of the Sheriﬀ whose regular work schedule is equal to one-half
+(½) or more of the regular full-time work schedule for county personnel, and such
+compensation will be based on the same proportion as the hours worked are to the total actual
+work hours in the month in which the holiday occurs. An employee shall receive premium pay
+for any work performed on an oﬃcial holiday or an observed holiday but shall not receive
+premium pay for both the oﬃcial and observed holiday.
+
+Section 4. Regular Day Oﬀ (RDO). When a holiday falls on an employee’s regular day oﬀ, the
+employee shall receive eight (8) hours of holiday pay.
+
+For employees working a 4-10 work schedule, when a holiday falls on a day that would be the
+employee’s regular day oﬀ, the employee may be granted a day oﬀ during that week adjacent
+to the employee’s regular day oﬀ. Such employees will not receive holiday pay otherwise
+required by this Section.
+
+
+### ARTICLE 7 – HOLIDAYS                                                                     Page 10 of 62
+                                                                             MCSSA CBA 2024-2026
+
+
+### ARTICLE 8 – VACATIONS
+
+Section 1. Vacation Accumulation. After having served in the county service for six (6)
+consecutive, continuous months, full-time employees shall have access to accrued vacation
+leave. Vacation leave shall be credited as follows:
+
+                                                     Hours/Pay Period      Hours/Year
+Day one (1) through 3rd year of continuous service          4                104
+       rd                                     th
+After 3 year of continuous service through 5 year        4.308               112
+After 5th year of continuous service through 10th year   4.924               128
+After 10th year of continuous service through 15th year 5.539                144
+After 15th year of continuous service through 20th year 6.462                168
+After 20th year                                          7.385               192
+
+All annual vacation accruals reﬂected above shall be equally accrued/distributed each pay
+period.
+
+Section 2. Continuous Service. Continuous service for the purpose of determining eligibility for
+accelerated vacation accumulation rates shall be service in a regular position unbroken by
+separation from the county service, except that time spent by an employee on military leave,
+on an authorized leave of absence with pay, or on a leave without pay resulting from a
+compensable on-the-job injury, shall be included as continuous service. Time spent on other
+types of authorized leave will not count as part of continuous service except employees
+returning from such leave, or employees who were laid oﬀ, shall be entitled to credit for service
+prior to the leave. Any employee, who held a regular position and who separates from
+employment with the county and who is subsequently re-employed by the county in a regular
+position within one (1) year from the date of such separation, shall be allowed to use such prior
+service for the purpose of determining eligibility for accelerated vacation accumulation rates.
+
+Section 3. Vacation Bidding. Employees shall bid vacation slots based on their association
+seniority, as deﬁned in Article – Definitions. On or about November 1st of each year, the
+Employer shall post the available vacation slots. Employees will bid separately by job
+assignment. An employee who fails to bid within the assigned date and time, which is set aside
+for him/her, may bid afterwards for the remaining slots. The Employer cannot condition the
+approval of an employee’s request for time oﬀ upon the employee ﬁnding a replacement to
+work the employee’s shift.
+
+If more than one (1) employee is promoted on the same day, seniority will be based upon the
+ﬁnishing order in the promotional process.
+
+Once an employee has signed up for vacation or had a request approved, it shall not be
+canceled by management absent an emergency.
+
+
+
+### ARTICLE 8 – VACATIONS                                                                    Page 11 of 62
+                                                                                MCSSA CBA 2024-2026
+
+
+Section 4. Accumulation of Vacation Credits. Employees shall not accumulate vacation leave
+in excess of two hundred ﬁfty (250) hours.
+
+Any employee, who is about to reach the limit because of accrual limitations may, by notifying
+the Sheriﬀ ﬁve (5) days in advance, absent himself/herself to prevent loss of this time, or the
+Sheriﬀ may instead choose to pay the employee for up to forty (40) hours of accrued vacation.
+Such action taken by an employee shall not constitute a basis for disciplinary action or loss of
+pay. Vacation leave shall not accrue during a leave of absence without pay the duration of
+which exceeds ﬁfteen (15) calendar days. Any employee, who is granted a leave of absence
+without pay, shall ﬁrst be scheduled for any vacation leave, which has accrued to their credit
+before they commence leave without pay.
+
+In addition, in the last year of employment prior to retirement, the employee may cash out ﬁfty
+(50) hours of vacation. The employee will be responsible to notify the Employer in writing of
+intent to retire, including the anticipated retirement date, to exercise this provision. This is a
+one-time option.
+
+Section 5. Transfer Credits and Terminal Vacation Pay. When an employee is appointed to
+another department of the county, their vacation credit shall be assumed by the new
+appointing power. An employee who is terminated during the initial six (6) months of their
+employment shall not be entitled to cash compensation in lieu of vacation leave. If the
+employee has served six (6) continuous months and is separated from county service, they shall
+be entitled to cash compensation at the appropriate hourly rate set forth in the conversion
+table included in the county pay plan for accrued vacation leave. In case of death,
+compensation for accrued vacation leave shall be paid in the same manner that pay due to the
+decedent is paid.
+
+Section 6. Except for catastrophic emergencies, the Sheriﬀ shall not schedule employees for
+any assignments during their scheduled vacation.
+
+Section 7. Compensation Credits. Each eligible employee shall receive one hundred and
+twenty (120) hours of leave, to be taken as leave with pay or, at the employee's option shall
+receive compensation for one hundred and twenty (120) hours accrued at the employee's
+regular rate of pay. The employee must exercise this option each ﬁscal year (computations
+will be based on the employee's pay at the time of the request). The beneﬁt cannot be
+carried forward into the next ﬁscal year.
+
+If an eligible employee elects to receive the credits as pay, it must be paid in increments equal
+to forty (40) hours. No partial pay (less than forty (40) hours is allowed). If an eligible employee
+elects to receive the credits as leave, it may be scheduled one (1) day at a time or as a unit,
+subject to the approval of the Sheriﬀ. This beneﬁt is to be used by the employee based on their
+employment status as of July 1 of each ﬁscal year.
+
+In the event an employee has less than one (1) full week of compensation credits remaining
+
+### ARTICLE 8 – VACATIONS                                                                       Page 12 of 62
+                                                                             MCSSA CBA 2024-2026
+
+
+as the result of exercising use of compensation credits as vacation time, the employee can
+cash out, on a one-time basis, any remaining balance.
+
+Section 8. Sunset of Compensation Credits. Employees hired on or after January 1, 2014, will
+not receive compensation credits. In lieu of receiving compensation credits, new employees will
+receive a rate of pay as reﬂected on the A.K pay plan.
+
+Section 9. Opting-Out of Compensation Credits. Starting with the ﬁscal year 2014 employees
+hired before January 1, 2014, may make a one-time, permanent election to opt-out of
+compensation credits provided in Section 7 of this article, in return for the higher salary
+provided in Section 8 of this article. Once enrolled in this program, an employee may not return
+to receiving compensation credits and pay at the lower salary schedule. Employees may
+exercise the opt-out by giving notice by May 31 each year to be eﬀective the ﬁrst full pay period
+after July 1 of the same year.
+
+
+
+
+### ARTICLE 8 – VACATIONS                                                                   Page 13 of 62
+                                                                               MCSSA CBA 2024-2026
+
+
+### ARTICLE 9 – SICK LEAVE
+
+Section 1. All employees accrue sick leave beneﬁts as an insurance against the impact of
+illness or injury. Each employee shall accrue 3.693 sick leave hours for each full pay period. All
+annual sick leave accrual shall be equally accrued/distributed each pay period. Accrual shall
+begin upon the ﬁrst full pay period of employment. Sick leave accumulated prior to the date of
+execution of this agreement shall be credited to each employee's accumulated sick leave.
+Unused sick leave shall accumulate without limit.
+
+Section 2. Employees may utilize their earned sick leave credits when unable to perform their
+work duties by reason of illness, injury or pregnancy; necessity for medical or dental care;
+exposure to contagious disease under circumstances which the health of the employees with
+whom associated or members of the public necessarily dealt with would be endangered by
+attendance of the employee; or by illness in their immediate families. Sick leave time exceeding
+one (1) workweek may require certiﬁcation of the attending physician or practitioner to
+substantiate that an illness or injury prevents the employee from working.
+
+Section 3. The Sheriﬀ or their representative may require certiﬁcation of a physician or
+practitioner to substantiate that an illness or injury prevents the employee from working if the
+illness or injury last more than one (1) work week sick leave time exceeding one (1) workweek
+or when there is an established pattern of sick leave usage may require evidence that the
+employee was under a doctor's care. “Pattern of sick leave usage” is deﬁned as a repetitive
+pattern of sick leave usage consistently tied to holidays and/or days oﬀ. Should the employee
+be veriﬁed to in fact be sick, the cost of the examination to the extent it is not covered by
+insurance and the employee's time to obtain the examination shall be compensated by the
+Sheriﬀ.
+
+Section 4. Should the employee be required to undergo a physical examination, the Employer
+shall bear the cost of such examination.
+
+Section 5. The amount of authorized bereavement leave shall be the amount required under
+state and/or federal protected leave laws. The county shall provide for three (3) work days paid
+bereavement leave for each immediate family member which shall count towards the
+statutorily mandated leave if the employee qualiﬁes. The remaining bereavement leave
+approved shall be charged to accumulated leave in accordance with the Marion County
+Personnel Rules.
+
+Section 6. For the purposes of this article, immediate family has the meaning established by
+protected leave laws and county personnel rules. The Sheriﬀ may grant leave under the terms
+of this article for relationships other than those set forth where exceptional circumstances
+exist.
+
+
+
+
+### ARTICLE 9 – SICK LEAVE                                                                    Page 14 of 62
+                                                                               MCSSA CBA 2024-2026
+
+
+Section 7. The Sheriﬀ may authorize sick leave without pay not to exceed one (1) year duration
+or until such employee is released by the employee's physician, whichever comes ﬁrst. Sick
+leave without pay shall not be granted until all earned sick leave has been exhausted. Under the
+discretion of the employee’s supervisor, if earned sick leave has been exhausted, the employee
+may use vacation leave.
+
+Section 8. Any employee, who is ill and unable to report to work, shall notify the Employer as
+soon as reasonably possible, at least one (1) hour before the start of the next scheduled shift.
+All enforcement and administrative staﬀ shall notify the records section; institutions'
+employees shall notify the shift supervisor. In the case of a continuing illness, the employee
+shall keep their immediate supervisor advised of their inability to report to work.
+
+Section 9. Any employee, who held a regular position and who is re-employed in a regular
+position following a hearing or layoﬀ, shall have sick leave credits accrued during the previous
+employment restored in full if such re-employment occurs within two (2) years from the date of
+layoﬀ or separation.
+
+Section 10. Sick Leave Conversion. Regular employees who have accumulated at least one
+hundred ten (110) hours of sick leave may convert twenty-four (24) hours, thirty (30) hours or
+thirty-six (36) hours (or three (3) full days, depending on schedule) to three (3) personal days
+that cover the full hours of their shift at time of usage. The converted hours will only be used in
+full day increments, cannot be cashed out, and will not be paid out upon termination of
+employment. Employees are allowed to exercise this sick leave conversion option only once per
+calendar year, during the life of this agreement as long as they continue to meet the
+accumulation requirements at the time of each request. Personal days are to be taken during
+the calendar year in which they were converted and may not be carried forward into the
+following year. The personal days shall be scheduled in accordance with Article 8, Vacations.
+
+
+
+
+### ARTICLE 9 – SICK LEAVE                                                                   Page 15 of 62
+                                                                              MCSSA CBA 2024-2026
+
+
+
+### ARTICLE 10 – PROTECTED LEAVE
+
+Protected leave is available for qualifying employees in the form of family, medical, domestic
+violence, and military leave in conformance with the Family Medical Leave Act (FMLA), Oregon
+Family Medical Leave Act (OFLA), Oregon Victims of Certain Crimes Leave Act (OVCCLA), and
+Oregon Military Family Leave Act (OMFLA).
+
+The administration and implementation of these acts will be in accordance with the County
+policy and procedures.
+
+Any conﬂicts in the administration or interpretation of the provisions under either law shall
+ﬁrst be resolved by the application of the appropriate federal and/or state statute.
+
+
+
+
+### ARTICLE 10 – PROTECTED LEAVE                                                             Page 16 of 62
+                                                                              MCSSA CBA 2024-2026
+
+
+
+### ARTICLE 11 – OTHER LEAVES
+
+Section 1. Absence With Pay. An employee holding a position in the county service shall be
+granted a leave of absence with pay for: (a) service with jury; (b) appearance before a court,
+legislative committee or judicial or quasi-judicial body; as a witness in response to a subpoena
+or other direction by proper authority. This section does not apply to appearances, which are of
+a non job-related personal nature, for example, a divorce proceeding. Employees, who are
+excused from jury service or court appearance before the end of the workday, shall
+immediately report their availability for assignment to their supervisor. All jury and witness
+fees, except mileage and meals, received by the employee shall be turned over to the county.
+Under no circumstances is an employee entitled to receive leave of absence with pay for
+appearance before a court, legislative committee or judicial or quasi-judicial body as a party or
+witness in response to a subpoena or other direction by proper authority where the employee
+is a party in the case unless the employee is a party because of their employment with Marion
+County.
+
+Section 2. Absence Without Pay. In instances where the work will not be seriously handicapped
+by the temporary absence of an employee, the Sheriﬀ may authorize a leave without pay not to
+exceed one (1) year. During such absence, the employee shall not be considered to be on the
+payroll of the Employer. Such leave will be requested in writing and must establish reasonable
+justiﬁcation for approval of the request and will not be approved for an employee who is
+accepting employment outside the county's service. An employee, who is granted a leave of
+absence without pay for a period in excess of sixty (60) calendar days, shall ﬁrst be scheduled
+for any vacation time that has accrued to their credit before the employee is placed on leave
+without pay.
+
+Section 3. Absence Paid by County Workers' Compensation Program.
+
+   A. The Employer shall provide workers' compensation insurance as required by state
+      law. Employees, who become eligible for workers' compensation, shall be provided all
+      beneﬁts and rights in accordance with ORS 656 and 659 and any enhancements
+      contained in this article.
+
+   B. An employee may utilize sick leave or vacation credit to augment any beneﬁts paid
+      under the workers' compensation program. Merit increases, which would normally be
+      granted, and/or cost- of-living increases shall be added to the workers' compensation
+      beneﬁts. Upon returning to work, the employee will be paid at the rate, which includes
+      all merit and cost-of-living increases, which would have been granted during the time oﬀ
+      work.
+
+   C. The Employer will pay for all county-paid beneﬁts for employees who have ﬁled
+      accepted workers' compensation claims whether or not the employee augments their
+      time loss with sick leave, vacation leave or other accrued leave up to six (6) months from
+      the date of injury. During this six (6) month period, the employee shall continue to
+### ARTICLE 11 – OTHER LEAVES                                                              Page 17 of 62
+                                                                               MCSSA CBA 2024-2026
+
+
+       accrue sick leave, vacation leave, continuous service credits and any other beneﬁts
+       granted under this agreement.
+
+   D. For workers, who are not medically stationary, the Employer will make a reasonable
+      good faith eﬀort to return such workers to modiﬁed duty positions in the county as soon
+      as possible. The Employer will acknowledge receipt of modiﬁed duty requests within ﬁve
+      (5) business days from receipt. An employee on modiﬁed duty assignment shall receive
+      their regular rate of pay. If the department is unable to provide a modiﬁed duty
+      position, it will submit a written explanation to the Risk Management Division.
+
+   E. Pursuant to ORS 659A.043 & 659A.046, employees will have re-employment rights after
+      an injury. The Employer will make a reasonable eﬀort to accommodate employees who
+      have been permanently disabled as a result of a work-related injury or illness.
+
+   F. When an employee has been injured on the job and suﬀers time loss greater than
+      ﬁfteen (15) days, the Employer shall provide the employee a written explanation
+      of their rights and obligations as required by Oregon Workers’ Compensation Law.
+
+Section 4. Military and Peace Corps Leave. Military and Peace Corps leave shall be granted in
+accordance with Oregon Revised Statutes.
+
+Section 5. Temporary Interruption of Employment. Any temporary interruption of
+employment because of adverse weather conditions, shortage of supplies, or for other bona
+ﬁde unexpected or unusual reasons, which does not exceed ten (10) days, shall not be
+considered a layoﬀ if, at the termination of such conditions, employees are to be returned to
+employment. Such interruptions of employment may be charged to the following accrued
+leave: vacation leave, personal holiday(s), compensation credit leave or compensatory time or
+may be recorded as leave without pay at the employee's option.
+
+Section 6. Failure to Return from Leave. Any employee, who has been granted a leave of
+absence and who, for any reason, fails to return to work at the expiration of said leave of
+absence, shall be considered as having resigned their position with the Sheriﬀ and the
+employee’s position shall thereupon be declared vacant, except and unless the employee,
+prior to the expiration of their leave of absence, has furnished evidence that they are unable to
+return to work by reason of sickness, physical disability, or other legitimate reasons beyond
+their control. Such leave shall not exceed a total duration of one (1) year.
+
+Section 7. Absence Without Leave. An absence of an employee from duty including any
+absence for a single day or part of a day, which is not authorized for a speciﬁc grant or leave of
+absence under the provisions of this agreement, shall be deemed to be an absence without
+leave. Any such absence shall be without pay and may subject an employee to disciplinary
+action, provided that in deciding the discipline to impose, if any, the Employer will consider the
+
+
+### ARTICLE 11 – OTHER LEAVES                                                                 Page 18 of 62
+                                                                               MCSSA CBA 2024-2026
+
+
+reasons for the employee’s absence (e.g., nature of the illness), reasons for the past use of sick
+leave including whether that use was FMLA/OFLA protected, and the employee’s length of
+service, in addition to established principles of just cause.
+
+This section shall not be utilized to discipline employees who are legitimately ill or who must
+care for a family member as established by a written note verifying the absence from an
+appropriate medical provider and have to take leave without pay because of that illness, or
+because of any other statutorily approved leave provided the employee calls in sick for the day.
+If the employee provides such a note, the employee may use other accrued paid leave for
+subsequent days oﬀ immediately following the ﬁrst shift missed due to the illness. In addition, if
+the employee has used FMLA/OFLA leave within the ninety (90) days prior to leave without pay
+and provides a note from an appropriate medical provider, the Employer will pay the cost of
+the examination to the extent it is not covered by insurance and a maximum of four (4) hours to
+obtain the examination shall be compensated by the Sheriﬀ. Any such note must be provided in
+advance of the absence if the absence is foreseeable or immediately upon to return to work if
+the absence was unforeseeable.
+
+Section 8. Commissioners’ Day. Regular employees shall be granted one (1) special
+Commissioners’ Day which is one (1) regular work shift that is to be taken between November
+15 of each year and January 31, of the following year.
+
+Section 9. Personal Days. Each employee is entitled to two (2) personal days each calendar
+year. Such days shall be one (1) regular work shift each and are to be taken during the calendar
+in which the days are earned.
+
+
+
+
+### ARTICLE 11 – OTHER LEAVES                                                                 Page 19 of 62
+                                                                             MCSSA CBA 2024-2026
+
+
+### ARTICLE 12 – HEALTH, WELFARE, AND RETIREMENT BENEFITS
+
+Section 1. Medical and Dental Insurance. The Employer agrees to provide an HMO and a PPO
+medical plan options and two (2) dental plan options, equal to or better than the MCLEA
+contract. The parties recognize the County may change insurance carriers, administrators or
+beneﬁt plans provided the beneﬁts are at the beneﬁt levels currently oﬀered.
+
+The medical and dental plan options are subject to the following premium share:
+
+   A. The Employer’s contribution for medical and dental coverage will equal 95% of each
+      employee’s monthly premium. Each employee shall be responsible for the remaining 5%
+      of their monthly premium through payroll deduction.
+
+   B. Employees will have the option to pay their share of the premiums on a pre-tax basis
+      through the 125 Plan.
+
+   C. Implementation of the new medical and dental insurance consistent with this Article will
+      occur, no later than, on January 1 of the calendar year following ratiﬁcation and Board
+      approval.
+
+Section 2. Life Insurance. The Employer agrees to pay the full premium for life insurance
+coverage equal to the employee's gross annual pay for each full-time employee in the
+bargaining unit.
+
+Section 3. Long-Term Disability. The Employer agrees to pay the full premium to continue the
+long-term disability insurance program for each employee in the bargaining unit.
+
+Section 4. Any dispute on whether changes to a beneﬁt plan comply with this article shall be
+submitted directly to ﬁnal and binding arbitration within thirty (30) days of notice to the
+Association by the county.
+
+Section 5. Retirement. The Employer agrees to continue its participation in the Public
+Employees Retirement System (PERS) and the Oregon Public Service Retirement Plan (OPSRP).
+
+The Employer shall contribute six percent (6%) of the eligible employee’s wage to be remitted
+to Oregon PERS. After any required adjustments, Oregon PERS will distribute the net amount to
+the employee’s Individual Account Program (IAP). For the limited purposes of the Internal
+Revenue Code Section 414(h)(2) and related tax statutes, the employee’s contribution to PERS
+will be picked up by the county as a pre-tax contribution as the term “pick-ups” is used in the
+Internal Revenue Code.
+
+If this agreement is determined to be unlawful, ineﬀective, or unenforceable by a ﬁnal order of
+a court or agency of competent jurisdiction and if such order requires any payment by the
+county or payment to the county by one (1) or more members of the Board of Commissioners
+
+### ARTICLE 12 – HEALTH, WELFARE, AND RETIREMENT BENEFITS                                   Page 20 of 62
+                                                                                 MCSSA CBA 2024-2026
+
+
+   or any oﬃcer or employee of the county as a result of such determination, the Association, its
+   individual members, and any successor organization agree that individual bargaining unit
+   members will repay any salary, retirement beneﬁts improperly paid, and taxes of FICA,
+   including any ordered interest.
+
+   Should this hold harmless obligation need to be implemented, the means and methods of doing
+   so shall be agreed by the parties but shall require fulﬁllment of the obligation within one (1)
+   year from the expiration of all appeals applicable to the determination necessitating the
+   implementation. Nothing in this agreement, however, shall prevent Marion County and the
+   Association from negotiating lawful wage or beneﬁt provisions which utilize dollars subject to
+   repayment. In the event the county is sued based on the provisions of this agreement, the
+   Association agrees to join with the Employer in litigation defending the terms of this
+   agreement.
+
+   The Employer agrees to make a contribution of two and a half percent (2.5%) of the eligible
+   employee’s wages to a County 401(a) defined contribution plan, and the County will make
+   available a 457 plan for employee contributions. The effective date of the 401(a) and 457 plans
+   will align with the removal of employees as active participants in the County’s 401(k) plan.
+
+   Section 6. Employee Participation. Employees desiring to participate in other optional
+   insurance programs currently authorized by the Board may do so at their expense on payroll
+   withholding. Employees on a non-paid leave status must make their own arrangements with
+   the Employer’s payroll department to continue insurance beneﬁts at their own expense, subject
+   to the contract terms and conditions between the employee and the insurance carriers.
+
+   Section 7. Health Insurance Study Committee.
+
+      A. Purpose: The purpose of the committee shall be as follows:
+
+                  1. To monitor the claims costs and utilization of the health and dental plans;
+                  2. To keep current of industry changes in managing health and dental plans;
+                     and
+                  3. To make recommendations to the Business Services Director and to the
+                     bargaining teams regarding any needed changes to keep the health and
+                     dental plans current with industry trends.
+
+      B. Committee: The voting membership of the committee shall be composed of equal
+         representation of union and management employees. The Association president shall
+         designate a non-voting representative.
+
+      C. Meetings: Meetings shall be held at least quarterly. The Association’s representative shall
+         be allowed work release time to attend such meetings, but no overtime shall be paid for
+         attending such meetings.
+
+### ARTICLE 12 – HEALTH, WELFARE, AND RETIREMENT BENEFITS                                       Page 21 of 62
+                                                                            MCSSA CBA 2024-2026
+
+
+ Section 8. 125 Plan. The Employer shall make available to Association members a 125 Plan in
+ which employees can contribute pre-tax dollars for health insurance, childcare and other
+ qualifying expenses.
+
+
+
+
+### ARTICLE 12 – HEALTH, WELFARE, AND RETIREMENT BENEFITS                                 Page 22 of 62
+                                                                               MCSSA CBA 2024-2026
+
+
+### ARTICLE 13 – WAGES
+
+Section 1. Eﬀective and retroactive to July 1, 2024, employees shall receive a four percent (4%)
+cost of living adjustment.
+
+Eﬀective and retroactive to July 1, 2025, employees shall receive a three percent (3%) cost of
+living adjustment.
+
+Section 2. Longevity. Regular employees shall be eligible for Longevity 1 (L1) after being on
+Step 7 of the current pay range for one (1) full year AND employed with the county for ten (10)
+years. Regular employees shall be eligible for Longevity 2 (L2) after being on Longevity 1 of the
+current pay range for one (1) full year AND employed with the county for ﬁfteen (15) years.
+Regular employees shall be eligible for Longevity 3 (L3) after being on Longevity 2 of the current
+pay range for one (1) full year AND employed with the county for twenty (20) years.
+
+Longevity 1 shall be at 5% of step 7, L2 at 10.25% of step 7, and L3 at 12.75% of step 7 for each
+pay range.
+
+
+
+
+### ARTICLE 13 – WAGES                                                                        Page 23 of 62
+                                                                               MCSSA CBA 2024-2026
+
+
+### ARTICLE 14 – PAY ADMINISTRATION
+
+Section 1. Pay Plan. The Employer hereto adopted a pay plan under which employees covered
+by this agreement have and shall continue to be compensated. A copy of that plan is attached
+hereto, marked "Wage Schedule," and made a part of this agreement as Exhibit A and is
+available on the county’s website. The Employer agrees that, except for reserves, it will not use
+volunteer workers to perform either uniformed ﬁeld services or uniformed professional
+corrections duties.
+
+Section 2. Administration of Pay Plan.
+
+    A. Rates of Pay: Each employee shall be paid at one (1) of the rates in the pay range for
+       the class in which they are employed.
+
+    B. Entrance Pay: Normally, an employee will be appointed or reinstated at the entrance
+       rate for the class. If the Sheriﬀ believes it necessary to make an appointment or
+       reinstatement above the entrance rate, the Sheriﬀ shall present a request in writing to
+       the personnel oﬃcer. The personnel oﬃcer and the administrative oﬃcer shall review
+       the merits of the request on the basis of the availability of applicants with the
+       qualiﬁcations of the vacant position, qualiﬁcations of all available applicants, the
+       resulting pay relationship with other positions, prior experience of the candidate, the
+       time available to continue the recruitment process and budget considerations, then
+       make a ﬁnal decision on the matter.
+
+    C. Merit Increases: Pay increases are not automatic, but shall be based on satisfactory
+       service. Employees shall normally be eligible for in-range merit increases on their
+       established anniversary date until such time as an employee has reached the top step of
+       the classiﬁcation in which they are employed. The eligibility date, for the purpose of this
+       section, shall be the date upon which the employee is granted their ﬁrst in-range merit
+       increase to the next step of their pay range. This eligibility date may be changed as a
+       result of the timing of future in-range merit increases, promotions or reclassiﬁcations. If
+       the performance by the employee is unsatisfactory, the Sheriﬀ may defer the merit
+       increase for a period of not to exceed one-hundred-eighty (180) days. Following any
+       deferred period, the employee will be reevaluated.
+
+    D. Eligibility for Merit Increases: A new employee shall be advanced to the next step of the
+       pay range for their classiﬁcation on the ﬁrst of the month after six (6) full months of
+       satisfactory service in their class. In those cases where a new employee is appointed
+       above the minimum step of the pay range Art for their class, their eligibility for
+       advancement to the next step shall be the same as though they were appointed at the
+       minimum step, unless otherwise ordered by the Board. Thereafter:
+
+                   1. Advancement to the third (3ʳᵈ) step of the pay range after one (1)
+                      additional year of satisfactory continuous service at Step 2;
+
+### ARTICLE 14 – PAY ADMINISTRATION                                                            Page 24 of 62
+                                                                             MCSSA CBA 2024-2026
+
+
+
+                  2. Advancement to the fourth (4th) step of the pay range after one (1)
+                     additional year of satisfactory continuous service at Step 3;
+
+                  3. Advancement to the ﬁfth (5th) step of the pay range after one (1)
+                     additional year of satisfactory continuous service at Step 4;
+
+                  4. Advancement to the sixth (6th) step of the pay range after one (1)
+                     additional year of satisfactory continuous service at Step 5, and
+
+                  5. Advancement to the seventh (7th) step of the pay range after one (1)
+                     additional year of satisfactory continuous service at Step 6.
+
+   E. Movement to a Higher Classiﬁcation: When an employee is promoted or reclassiﬁed to a
+      position in a classiﬁcation with a higher maximum pay rate, they shall be placed on an
+      actual step in the new range, which will provide a minimum of a ﬁve percent (5%)
+      increase, or to the minimum of the new range. The date of such promotion or
+      reclassiﬁcation shall establish a new anniversary date for subsequent merit increases.
+
+   F. Demotion: If an employee is demoted or reclassiﬁed to a position in a classiﬁcation with
+      a lower pay range for reasons which do not reﬂect discredit on their employment record,
+      their pay rate may remain the same if it is within the pay range of the lower
+      classiﬁcation. Demotion for cause should ordinarily result in a corresponding reduction in
+      pay.
+
+   G. Reassignment: When an employee is reassigned by the Sheriﬀ to another division in a
+      classiﬁcation with the same pay range, their rate of pay remains the same. Such
+      employee shall retain their anniversary date for merit increases.
+
+   H. Any denial of a wage increase to a non-trial service employee based upon unsatisfactory
+      performance is subject to the grievance procedure.
+
+Section 3. Incentive Pay. Employees shall receive an incentive pay increment of three
+percent (3%) for an Intermediate DPSST Certiﬁcate. Employees shall receive an additional three
+percent (3%) for an Advanced DPSST Certiﬁcate. The payment for such increment, as set forth
+in the pay plan, shall commence on the date of the certiﬁcation issuance. The parties shall
+mutually establish performance standards for those classiﬁcations for which the incentive
+applies and payment of the incentive increment shall continue unless the employee receives an
+unsatisfactory rating. An employee so disqualiﬁed shall resume incentive pay upon receiving a
+satisfactory rating.
+
+Section 4. Bilingual Pay. Any employee, who is ﬂuent in Spanish, Russian and/or American Sign
+Language and uses said language(s) while on duty, shall receive an additional ﬁve percent (5%)
+
+
+### ARTICLE 14 – PAY ADMINISTRATION                                                          Page 25 of 62
+                                                                            MCSSA CBA 2024-2026
+
+
+premium per month. "Fluent" shall be established by using general ﬂuency and job-related
+standards for Spanish, Russian, and American Sign Language.
+
+Section 5. CRASH, SWAT Pay. Employees responding as members of the department on the
+CRASH, SWAT Team shall receive a ﬁve percent (5%) diﬀerential from their regular pay on an
+hour-for-hour basis for time spent on team callouts.
+
+Section 6. Detective Pay. Any employee selected to work in the Detective Unit shall receive a
+ﬁve percent (5%) diﬀerential from their regular pay while serving in that capacity.
+
+Section 7. Education Incentive Pay.
+
+   A. An employee commencing with their tenth (10th) year of service, who has an
+      Advanced DPSST Certiﬁcate and an associate of arts degree or an associate of science
+      degree (two (2) year degree or the equivalent), shall receive an education incentive
+      pay of two percent (2%).
+
+   B. An employee commencing with their ﬁfteenth (15th) year of service, who has an
+      Advanced DPSST Certiﬁcate and a bachelor of arts degree or a bachelor of science
+      degree (four (4) year degree or the equivalent), shall receive an education incentive pay
+      of four percent (4%) (includes the two percent (2%) education incentive pay for a ten
+      (10) year employee).
+
+
+
+
+### ARTICLE 14 – PAY ADMINISTRATION                                                        Page 26 of 62
+                                                                               MCSSA CBA 2024-2026
+
+
+### ARTICLE 15 – WORKING OUT OF CLASSIFICATION
+
+When an employee is assigned to perform some of the duties of a position intermittently at a
+higher-level classiﬁcation that are not in their current classiﬁcation, the employee shall be paid
+ﬁve percent (5%) diﬀerential for all hours worked in a higher classiﬁcation.
+
+
+
+
+### ARTICLE 15 – WORKING OUT OF CLASSIFICATION                                                Page 27 of 62
+                                                                                 MCSSA CBA 2024-2026
+
+
+### ARTICLE 16 – CALL-IN TIME
+
+An employee called to work outside their regular work schedule shall be paid for a minimum of
+three (3) hours at the rate of time-and-one-half (1½). This section shall not apply to early call-out
+(within one (1) hour before a shift) or an extension of a regular shift.
+
+
+
+
+### ARTICLE 16 – CALL-IN TIME                                                                   Page 28 of 62
+                                                                           MCSSA CBA 2024-2026
+
+
+### ARTICLE 17 – ON-CALL SCHEDULE
+
+Employees assigned to an on-call schedule by the Sheriﬀ or designee shall be compensated for
+each regularly scheduled workday of a rotational on-call assignment at ﬁve percent (5%) from
+the employee’s regular pay.
+
+
+
+
+### ARTICLE 17 – ON-CALL SCHEDULE                                                        Page 29 of 62
+                                                                               MCSSA CBA 2024-2026
+
+
+### ARTICLE 18 – COURT APPEARANCES
+
+Section 1. Oﬀ-duty employees required to appear in court or an administrative hearing, in
+connection with their regular duties, shall receive a minimum of three (3) hours overtime pay at
+the rate of time-and-one-half (1½) or a minimum of three (3) hours of compensatory time for
+each court appearance. Employees shall not be paid for more than one (1) court appearance
+per calendar day unless the start time for the second call-in is at least three (3) hours after the
+ﬁrst call in.
+
+This section shall not apply if the scheduled court appearance occurs one (1) hour or less before
+the beginning of the employee's regular shift or if the appearance extends the employee's
+regular shift by one (1) hour or less.
+
+Section 2. Employees, who are working a night shift and have to testify during the day, shall be
+allowed to take time oﬀ that evening at the straight time rate as an oﬀset against their
+overtime pay for the court appearance. This provision may not be utilized by employees who
+only have to make a brief appearance such as testifying for a few minutes at Grand Jury.
+
+
+
+
+### ARTICLE 18 – COURT APPEARANCES                                                            Page 30 of 62
+                                                                               MCSSA CBA 2024-2026
+
+
+### ARTICLE 19 – PARKING
+
+The Employer shall continue its practice of providing free parking for all bargaining unit
+members except for those who work in the downtown courthouse area.
+
+In addition, the Employer shall not charge bargaining unit employees, who are assigned county
+vehicles to perform their work, for parking the county vehicles at any worksite location.
+
+
+
+
+### ARTICLE 19 – PARKING                                                                         Page 31 of 62
+                                                                               MCSSA CBA 2024-2026
+
+
+### ARTICLE 20 – OVERTIME
+
+Section 1. The following shall be regarded as hours worked for the purpose of computing
+overtime hours for employees: (a) holidays; (b) vacation leave; (c) paid sick leave; (d) time on
+the job; and (e) compensatory time oﬀ, (f) personal holiday and time participating in activities,
+training, brieﬁngs, meetings or other conferences if so directed by the Sheriﬀ, including travel
+time outside of regular work hours. No overtime shall be worked unless authorized by the
+Sheriﬀ or their designee.
+
+Section 2. For employees working a schedule not subject to a 7(k) exemption, overtime shall be
+considered as time worked in the employee's regular position in excess of the scheduled
+workday (if the scheduled workday is eight (8) hours per day or more) or in excess of forty (40)
+hours in a workweek. For employees working a schedule subject to a 7(k) exemption, overtime
+shall be considered as time worked in the employee’s regular position in excess of their
+regularly scheduled workday or in excess of 84 hours during the 14-day 7(k) work period. Work
+performed on holidays, which fall within the regular work schedule, shall be considered as
+overtime work and shall be compensated in the same manner.
+
+Section 3. Compensation for authorized overtime shall be paid at the rate of time-and-one-half
+(1½) per hour. Such payment shall be the employee’s rate of pay, which is being earned at the
+time of payment. When an employee is terminated, they shall be given cash compensation for
+the overtime they accrued.
+
+The pay conversion table contained in the pay plan shall be used as the basis in computing the
+overtime cash compensation.
+
+Section 4. Payment for overtime shall be made no later than the next payday following the pay
+period in which the overtime is worked or as required by the Fair Labor Standards Act (FLSA).
+
+Section 5. Overtime work shall be assigned only as determined by the Sheriﬀ or their designee.
+Any employee, ordered to work fourteen (14) or more hours in the twenty-four (24) hour
+period commencing at the time the employee reports for duty, shall, at the direction of the
+Sheriﬀ or their designee, be allowed the use of accrued sick leave in lieu of working their next
+regularly scheduled work shift.
+
+Section 6. The parties agree that either party may reopen negotiations if there is a substantial
+change in the Department of Labor regulations dealing with application of the FLSA to
+employees of state and local governments. If such changes are made and either party requests
+to reopen negotiations, the negotiations shall be reopened on only the aﬀected articles for the
+purposes of clarifying and/or changing articles in the agreement to comply with federal law or
+federal regulations.
+
+
+
+
+### ARTICLE 20 – OVERTIME                                                                     Page 32 of 62
+                                                                             MCSSA CBA 2024-2026
+
+
+Section 7. Solely for the purpose of FLSA overtime, the county elects a fourteen (14) day period,
+beginning December 21, 2003, with eighty-six (86) hours being the overtime standard.
+However, this does not aﬀect overtime as set out in this contract.
+
+The oﬃce shall keep oﬃcial records of the employees' compensatory time accumulation.
+
+Section 8.
+
+   A. Comp time accrual shall be limited to seventy-ﬁve (75) hours. Whenever an
+      employee has seventy-ﬁve (75) hours of comp time, he or she will be paid for overtime.
+      Employees may cash out their comp time balance the ﬁrst pay period in December.
+
+   B. Comp time may be accrued for any contractual overtime work authorized by the
+      employee’s supervisor.
+
+   C. Comp time may not be accrued for the following:
+
+             1. where the employee is performing work funded by a grant that provides for
+                payment of overtime work;
+
+             2. on-call time;
+
+             3. holiday pay; and
+
+             4. when performing work in a diﬀerent fund than where the employee is
+                costed.
+
+   D. Comp time shall be scheduled by mutual agreement between the employee and
+      management. When an employee requests use of comp time, management will
+      attempt to make comp time available within a reasonable period agreed to within
+      the calendar year although not necessarily at the time sought by the employee.
+      Comp time will be scheduled consistent with the operational requirements of the
+      particular division or function, which includes ensuring minimum staﬃng levels and
+      safe and fair scheduling and so as not to cause the County to pay overtime.
+
+   E. Employees will not be allowed to cash out accrued comp time except as provided in
+      Letter F below.
+
+   F. Comp time accrued during a calendar year may be used through December 31 of that
+      calendar year. At the ﬁrst pay period in December, all comp time balance that is not
+      scheduled may be paid in full at the employee’s request. Any unused balance as of
+      December 31 will be rolled over into the following calendar year.
+
+   G. The Sheriﬀ may terminate this provision, Section 8, and cash-out all accrued comp
+
+### ARTICLE 20 – OVERTIME                                                                Page 33 of 62
+                                                                             MCSSA CBA 2024-2026
+
+
+      time at their discretion at any time during the calendar year. Such termination shall
+      not be subject to the grievance and arbitration article.
+
+
+
+
+### ARTICLE 20 – OVERTIME                                                                  Page 34 of 62
+                                                                           MCSSA CBA 2024-2026
+
+
+### ARTICLE 21 – PAYDAY
+
+The Employer shall pay Association members on a bi-weekly basis using the same schedule as
+applicable for all other county employees. This section shall not apply where circumstances
+exist beyond the control of the Employer, which cause a delay in the issuing of such checks.
+
+
+
+
+### ARTICLE 21 – PAYDAY                                                                   Page 35 of 62
+                                                                             MCSSA CBA 2024-2026
+
+
+### ARTICLE 22 – TRAVEL ALLOWANCES
+
+Section 1. Mileage Reimbursement. Upon prior approval by the supervisor, mileage
+reimbursement for the use of private vehicles shall be at the current IRS mileage rate for
+business use of an automobile. Mileage shall be computed from the vehicle odometer reading.
+
+Section 2. Other Transportation Costs. All in-state and/or out-of-state travel must be approved
+in advance by the Sheriﬀ or designee. The cost of in-state transportation and/or out-of-state
+transportation for air, train, or bus travel shall be reimbursed on an actual cost basis. No
+transportation costs will be reimbursed unless the employee has received prior approval of
+their supervisor. Receipts shall be submitted with claims for reimbursements for air, train or
+bus travel, and reimbursement for private automobile transportation. Travel arrangements will
+be made by the county and paid directly. In the event employees must pay their own travel
+expenses, reimbursement is an actual cost basis. Where employees elect to drive private
+automobiles in lieu of plane or train transportation, reimbursement will not exceed the best
+available daytime airfare on the day air travel would normally be booked.
+
+Section 3. Cost of Lodging and Meals. The cost of lodging and meals will be based upon the
+actual cost of the lodging and/or meals. No reimbursement will be provided for lodging and/or
+meals unless the employee has received prior approval for the travel. Receipts are required for
+all reimbursements.
+
+
+
+
+### ARTICLE 22 – TRAVEL ALLOWANCES                                                         Page 36 of 62
+                                                                               MCSSA CBA 2024-2026
+
+
+### ARTICLE 23 – TRANSPORTING PRISONERS
+
+Section 1. The Employer shall reimburse the actual cost of lodging, meals, and other related
+transportation expenses on an actual cost basis. Except in the case of an emergency, the
+employee shall receive prior approval for all anticipated expenses. In order to receive
+reimbursement, a receipt must be provided for all expenses. The Employer reserves the right to
+deny expense claims in accordance with Marion County Personnel Rules or policies.
+
+Section 2. Any employee assigned to transportation of prisoners outside of a correctional
+facility, especially at a hospital, shall be furnished with a properly ﬁtted ballistic vest.
+
+
+
+
+### ARTICLE 23 – TRANSPORTING PRISONERS                                                       Page 37 of 62
+                                                                             MCSSA CBA 2024-2026
+
+
+### ARTICLE 24 – CLOTHING ALLOWANCE
+
+Section 1. If an employee is required to wear a uniform, it shall be furnished and maintained by
+the Employer according to present practice.
+
+Section 2. For employees assigned to a Detective position that requires business professional
+attire, the clothing allowance shall be two hundred and ﬁfty dollars ($250) quarterly.
+
+Section 3. The Employer shall provide for the care and cleaning of up to eight (8) uniforms
+per month or four (4) suits per month for required plain clothes. Upon request by the employee
+and approval by their supervisor, additional uniforms or plain clothes will be cleaned. Any
+request by an employee will not be arbitrarily denied.
+
+
+
+
+### ARTICLE 24 – CLOTHING ALLOWANCE                                                         Page 38 of 62
+                                                                             MCSSA CBA 2024-2026
+
+
+### ARTICLE 25 – HEALTH AND SAFETY REGULATIONS
+
+Section 1. The Employer agrees to abide by and maintain in its facilities and work operations
+standards of safety and health in accordance with the Oregon Safe Employment Act.
+
+Section 2. An employee may refuse to operate any equipment or ride in or on any vehicle they
+believe is unsafe until the equipment has been mutually inspected and/or corrected by the
+employee and their immediate supervisor and/or qualiﬁed person. If, after such inspection, the
+equipment is determined by the supervisor and/or other qualiﬁed person to be safe, the
+employee may not refuse to operate the equipment. An employee shall report to their
+supervisor all other unsafe conditions, when such conditions become known to the employee.
+
+Section 3. Employees shall not be disciplined for refusal to operate believed unsafe equipment
+nor shall refusal to operate such equipment be construed as insubordination until Section 2 has
+been complied with unless an emergency situation exists.
+
+
+
+
+### ARTICLE 25 – HEALTH AND SAFETY REGULATIONS                                              Page 39 of 62
+                                                                               MCSSA CBA 2024-2026
+
+
+### ARTICLE 26 – DISCIPLINE AND DISCHARGE
+
+Section 1. Disciplinary action may be imposed upon an employee only for just cause using the
+principles of progressive discipline.
+
+Section 2. If disciplinary action is to be taken against an employee, it shall be done in a manner,
+which will not embarrass the employee before other employees or the public. The following
+types of discipline may be used:
+
+   A. Oral Reprimand: This is a warning procedure rather than a punitive one and should serve
+      to forestall the employee from being placed in such a position that a more severe form of
+      formal penalty must be used. When a supervisor administers an oral reprimand, the
+      supervisor shall make a brief record of the warning for the department’s ﬁle, but the
+      warning shall not become part of the employee’s oﬃcial personnel ﬁle.
+
+   B. Written Reprimand: The written reprimand is also a warning procedure; however, the
+      written reprimand is used to put the employee on oﬃcial notice that future abuse will
+      result in a more severe form of action.
+
+   C. Suspension Without Pay: Suspensions are a commonly used form of punishment after an
+      oral and written reprimand. However, it can be used sooner based upon the severity of
+      the misconduct. The supervisor, with the approval of the appointing power, may suspend
+      an employee for disciplinary reasons for a period not to exceed thirty (30) days at any
+      one time by notifying the employee prior to the eﬀective date and stating the reasons for
+      the suspension in writing. For the purpose of the suspension, a day equals eight (8)
+      hours.
+
+   D. Demotions: Demotion, both in pay and to a lower classiﬁcation, may be used as a form of
+      discipline when dismissal is not warranted or when the appointing power believes that
+      the employee has the potential for correcting conduct.
+
+   E. Dismissal:
+      (1) When an appointing power believes cause for dismissal exists, the appointing power
+      shall give the employee, whose dismissal is under consideration, written notice
+      containing:
+
+           a. A statement of improper conduct, inadequate performance, or other cause for
+              discipline engaged in by the employee;
+
+           b. A statement that dismissal is being considered as a possible sanction to the
+              stated improper conduct, inadequate performance or other cause; and
+
+           c. A statement of the time within which the employee may choose to respond to
+              the statement of cause and statement of discipline under consideration.
+
+### ARTICLE 26 – DISCIPLINE AND DISCHARGE                                                    Page 40 of 62
+                                                                              MCSSA CBA 2024-2026
+
+
+
+    An employee, who has been notiﬁed that dismissal is under consideration, must be given at
+    least ten (10) days prior to the eﬀective date of such dismissal to respond to the statements
+    in the notice.
+
+       (2) An employee may then be dismissed if:
+
+           a. The employee has responded to the statements in the notice that dismissal is
+              under consideration and the employee's response has been received and
+              reviewed by the appointing power, or
+
+           b. The employee has not responded to the statements in the notice within the time
+              stated in the notice that dismissal is under consideration.
+
+    Dismissal shall be by written notice to the employee setting forth the cause for dismissal.
+    Dismissal may be eﬀective upon delivery of notice of dismissal to the employee or upon any
+    stated time thereafter.
+
+    F. In cases under Sections (C), (D) or (E) above, the employee shall receive copies of any
+       and all reports or writings which exist, and will be made available to the employee at
+       least ten (10) days prior to the due process hearing. If any report or writing is not
+       provided prior to ten (10) days of the hearing, the hearing can still be held, but upon
+       request of the Association, the hearing shall be continued to a time certain to hear any
+       additional testimony or evidence.
+
+Section 3. Any regular status employee who has been the subject of a disciplinary action may
+appeal such action pursuant to Article 32 - Settlement of Disputes.
+
+Section 4. If there is substantial evidence to show that the performance was unsatisfactory, the
+Sheriﬀ or designee agrees to verbally discuss the problems with the employee, thus aﬀording
+the employee an opportunity to correct the situation. The Employer shall discuss the
+performance issue with an employee in a setting, which is devoid of harassment. Any work
+improvement plan, which may be utilized, will be consistent with the performance issues, as
+objective as possible, with behavioral measurements identiﬁed and may be a precursor to
+discipline when appropriate. The employee shall continue to be held accountable for all job
+expectations while the work improvement plan is in eﬀect.
+
+Section 5. Internal Aﬀairs Complaint Investigation. The County will follow the Professional
+Standards Manual.
+
+    A. When the Sheriﬀ chooses to investigate a complaint against an employee and the
+       complaint is not of a criminal nature but concerns a violation of rules, policy or
+       procedure, the Sheriﬀ may, within ten (10) days of receiving the complaint, make
+
+### ARTICLE 26 – DISCIPLINE AND DISCHARGE                                                   Page 41 of 62
+                                                                             MCSSA CBA 2024-2026
+
+
+     reasonable preliminary inquiry to determine if a full investigation should be initiated. In
+     addition to gathering physical evidence such as documents, recordings, etc. and
+     reviewing the complaint, the subject of the complaint may be brieﬂy questioned after
+     being informed of the complaint and their right to Association representation. If the
+     Sheriﬀ chooses to investigate a complaint, the Sheriﬀ shall, within ten (10) days of
+     receiving notice of the alleged misconduct, notify the employee and the association of
+     the allegations. The employee and association shall receive a copy of the complaint, and
+     notiﬁcation of the speciﬁc policy or policies alleged to have been violated. The employee
+     shall be given an opportunity to provide information they deem relevant.
+
+  B. If the employee has reason to believe that such a discussion might adversely aﬀect their
+     employment, they shall have the right to have a representative of their choice present.
+
+  C. If the Sheriﬀ chooses to remove the accused employee from their work assignment
+     during the investigation, the employee shall be assigned duties not related to their
+     normal work. For no less than twenty-four (24) hours, the employee’s shift and days oﬀ
+     shall not be changed. After that, the employee may be assigned to a day shift Monday
+     through Friday provided that the employee’s total work hours for the week shall not be
+     less than their regular scheduled shift hours.
+
+  D. A good faith eﬀort shall be made to complete the investigations within seventy-ﬁve (75)
+     calendar days. In the event an investigation is not completed within seventy-ﬁve (75)
+     calendar days of the employee being notiﬁed that an investigation is under way, the
+     division commander or their designee shall notify the Association in writing that the
+     investigation is not yet complete, the reasons why it has not been completed, and
+     provide an estimated date of completion which shall comply with the timelines set forth
+     in ORS 236.360(6). In the event an employee’s conduct becomes the subject of a criminal
+     investigation, the investigation may be suspended until the criminal investigation is
+     complete.
+
+  E. If the charges are substantiated and disciplinary action is taken, the Sheriﬀ must comply
+     with Article 26 - Discipline and Discharge. Only the speciﬁc policy or policies applicable
+     to the conduct will be substantiated. Copies of all written reports, statements and the
+     results of the investigation shall be provided to the employee and their representative.
+
+  F. If the charges are unfounded, not sustained or exonerated, written notice shall be
+     given to the employee and the Association within seven (7) days of the decision.
+     Documents related to such charges shall not be placed in the employee's personnel
+     ﬁle(s).
+
+  G. Prior to being interviewed regarding an internal aﬀairs investigation and
+     allegations of the complaint for any reason, which could lead to disciplinary action:
+
+
+### ARTICLE 26 – DISCIPLINE AND DISCHARGE                                                   Page 42 of 62
+                                                                              MCSSA CBA 2024-2026
+
+
+      1. An employee shall be informed of the nature of the investigation and allegations of
+         the complaint and whether they are a witness or a subject, if and when known; and,
+         if a subject, be informed and given copies of any other information necessary to
+         reasonably apprise them of the nature of the allegations of the complaint, unless to
+         do so would jeopardize the credibility of the investigation.
+
+      2. An employee shall be aﬀorded an opportunity and facilities to contact and consult
+         privately with a representative of the Association and the association legal counsel.
+
+      3. Whenever delay in conducting the interview will not jeopardize the successful
+         accomplishment of the investigation or when criminal culpability is not at issue,
+         advance notice shall be given the employee not less than twenty-four (24) hours
+         before the initial interview commences.
+
+      4. The Association may tape record the interview with the employee.
+
+    H. During any non-criminal investigation, which is an internal aﬀairs interview, the
+       representative of the employee shall be allowed to counsel the employee during the
+       course of the interview. However, the representative shall not be disruptive of the
+       interview. Also, the employee shall be allowed to take reasonable breaks during the
+       course of the interview.
+
+    I. The Sheriﬀ recognizes that the Association may conduct its own investigation and
+       indeed has an obligation to do so. The Sheriﬀ will not interfere in any way with the
+       Association's investigation.
+
+
+
+
+### ARTICLE 26 – DISCIPLINE AND DISCHARGE                                                    Page 43 of 62
+                                                                                MCSSA CBA 2024-2026
+
+
+### ARTICLE 27 – LAYOFF
+
+Section 1. "County seniority" will be used for determining seniority for provisions of this article.
+
+Seniority of employees hired on the same date after the eﬀective date of this contract will be
+determined by lot, provided that employees with prior certiﬁcation will have greater seniority
+than employees without certiﬁcation hired on the same date.
+
+Section 2. The Sheriﬀ may lay oﬀ an employee when the Sheriﬀ determines it necessary to
+abolish a position or that a shortage of funds or work exists. Layoﬀ shall be by speciﬁc DPSST
+basic certiﬁcation and shall be in ascending order (bottom to top) of an employee's seniority.
+An employee shall be given written notice of a pending layoﬀ at least ﬁfteen (15) working days
+before the eﬀective date stating the reasons for the layoﬀ, and the fact that an election to
+displace another employee pursuant to Section 4 of this Article must be made within six (6)
+working days of receipt of said notice.
+
+Section 3. All layoﬀs shall occur in the following manner:
+
+   A. The Sheriﬀ shall determine the speciﬁc positions to be vacated.
+
+   B. The Sheriﬀ will notify, in writing, all aﬀected employees and the Association at least
+      ﬁfteen (15) working days prior to the eﬀective date of the layoﬀ of all the employees in
+      all aﬀected classiﬁcations.
+
+Section 4. Where an employee is laid oﬀ, the Sheriﬀ may allow the employee to voluntarily
+demote into a vacant position in the Marion County Sheriﬀ’s Oﬃce if the employee meets the
+minimum qualiﬁcations and special requirements of the position. Under no circumstances shall
+a non-MCSSA employee be allowed to displace an MCSSA member. If there is a vacancy, an
+employee may voluntarily demote into this bargaining unit.
+
+Section 5. An employee who has been laid oﬀ shall be placed in order of seniority on the
+layoﬀ list. The term of eligibility of a laid-oﬀ employee shall be twelve (12) months from the
+date of layoﬀ. Reinstatement shall be oﬀered to those employees on the layoﬀ list for the job
+classiﬁcation from which they were laid oﬀ in descending order from top to bottom of
+seniority possessed at the time of layoﬀ. No new employees shall be hired into positions
+represented by the Association until all employees, who have been laid oﬀ, are given a chance
+to accept recall to the County. Failure to accept recall within fourteen (14) calendar days shall
+cause the loss of recall eligibility. Recalled employees are required to have possessed any
+required certiﬁcation at the time of the layoﬀ and meet minimum standards for employment
+as a public safety oﬃcer under OAR 259.
+
+Any person, who is subject to this section, shall promptly notify Marion County Human
+
+
+
+### ARTICLE 27 – LAYOFF                                                                        Page 44 of 62
+                                                                             MCSSA CBA 2024-2026
+
+
+Resources of any change in their current address. Any recall notices sent by the County to the
+person pursuant to this Article, shall be in writing and addressed to the last address. If the
+person does not receive the written mailed notice or does not respond within fourteen (14)
+calendar days of this mailing, then the person waives all rights to recall under this Article.
+
+Section 6. When employees are laid oﬀ, reserves will not be employed on an extended basis to
+avoid recalling laid oﬀ employees.
+
+
+
+
+### ARTICLE 27 – LAYOFF                                                                     Page 45 of 62
+                                                                                MCSSA CBA 2024-2026
+
+
+### ARTICLE 28 – GENERAL PROVISIONS
+
+Section 1. No Discrimination. The provisions of this agreement shall be applied equally to all
+employees in the bargaining unit without discrimination as to age, marital status, race, color,
+creed, sex, disability, national origin, sexual orientation, Association membership, or political
+aﬃliation.
+
+Section 2. Bulletin Boards. The Employer agrees to authorize the use of available bulletin board
+space in convenient places to be used by the Association in communicating with the employees.
+
+Section 3. The electronic mail system and the fax machine may be reasonably used by the
+Association representatives for Association purposes.
+
+
+
+
+### ARTICLE 28 – GENERAL PROVISIONS                                                            Page 46 of 62
+                                                                              MCSSA CBA 2024-2026
+
+
+### ARTICLE 29 – TUITION ASSISTANCE
+
+Section 1. Tuition aid is deﬁned as full or partial payment or reimbursement for the costs
+of training sessions, classes or formal academic course work pursued on a part-time basis either
+during or after normal working hours.
+
+Section 2. When an employee is assigned to attend, on a part-time basis, designated courses
+either during or after regular working hours, the employee shall be reimbursed for all of the
+costs of course registration and necessary travel expenses. Employees will cooperate in pooling
+rides when such pooling is available.
+
+Section 3. Requests for tuition aid shall be submitted to the Sheriﬀ for approval or disapproval
+prior to enrollment by the petitioning employee. Approved tuition aid will be provided for one-
+half (½) the cost of the course registration fee to the employees who successfully complete ("C"
+grade or better or a pass grade in pass/fail course) classes for the purpose of self-development,
+when such training will also be beneﬁcial to the Employer.
+
+Section 4. In instances where the work of the Employer will not be seriously handicapped by
+the temporary absence of an employee, a leave of absence without pay of appropriate duration
+may be granted by the governing body upon request. Request for such leave must be in writing.
+Leave granted under this section will normally not exceed one (1) year.
+
+
+
+
+### ARTICLE 29 – TUITION ASSISTANCE                                                         Page 47 of 62
+                                                                          MCSSA CBA 2024-2026
+
+
+### ARTICLE 30 – OUTSIDE EMPLOYMENT
+
+The Sheriﬀ may approve outside employment when such employment does not detract from
+the eﬃciency of the employee’s county work, and does not conﬂict with the interest of Marion
+County or is not a discredit to the County.
+
+
+
+
+### ARTICLE 30 – OUTSIDE EMPLOYMENT                                                      Page 48 of 62
+                                                                               MCSSA CBA 2024-2026
+
+
+### ARTICLE 31 – ASSOCIATION REPRESENTATIVES
+
+Section 1. The employees in the bargaining unit shall be allowed Association representatives.
+The Association shall notify the Employer of the employees who will act as Association
+representatives.
+
+Section 2. Association representatives shall be granted reasonable time oﬀ during regular
+scheduled working hours without loss of pay or other beneﬁts to investigate and process
+grievances when such investigations and processing of grievances does not interfere with
+departmental operations.
+
+Section 3. There shall be no reprisal, coercion, intimidation, or discrimination against an
+Association representative for the conduct of the function described herein.
+
+Section 4. For the purpose of this section, such Association representatives shall be limited to
+ﬁve (5). The Association shall keep the Employer informed as to the names of employees
+designated as Association representatives and stewards by sending a complete list of names to
+Chief Human Resources Oﬃcer and to the division commander of those employees so
+designated.
+
+Section 5. Release time shall be provided for no more than ﬁve (5) employees to participate in
+negotiations as Association representatives. Release time shall be paid at the employees' hourly
+rate for the actual time released from their regularly scheduled work for employees working a
+set schedule or for no more than actual time spent in negotiations for employees working a
+ﬂexible schedule. No other pay shall be provided to any other employee for participating in
+negotiations. Negotiations as used in this section shall mean scheduled formal sessions with the
+management bargaining team, including mediation.
+
+Section 6. Subject to the operating needs of the department, ﬁve (5) Association
+representatives shall be granted unpaid leave, not to exceed two and one-half (2½) hours per
+month, per representative.
+
+
+
+
+### ARTICLE 31 – ASSOCIATION REPRESENTATIVES                                                  Page 49 of 62
+                                                                              MCSSA CBA 2024-2026
+
+
+### ARTICLE 32 – SETTLEMENT OF DISPUTES
+
+Section 1. Grievance Procedure. Any grievance or dispute, which may arise between the parties
+with regard to the application, meaning or interpretation of this agreement shall be settled in
+the following manner:
+
+STEP 1:
+Should an employee or an Association representative believe that their rights under this
+agreement have been violated, they shall, together with their Association representative, ﬁle a
+written grievance within twenty-one (21) calendar days of the date of such grievance or
+knowledge thereof. The grievance shall be e-mailed or hand-delivered directly to the
+undersheriﬀ. Grievances sent via interdepartmental mail will not be accepted. The grievance
+shall include:
+
+    A. The name and position of the employee by or on whose behalf the grievance is brought;
+
+    B. The date of the circumstances giving rise to the grievance and the date of the employee's
+       ﬁrst knowledge thereof, if later;
+
+    C. A clear and concise statement of the grievance, including the relevant facts necessary to
+       a full and objective understanding of the employee's position;
+
+    D. The speciﬁc provision or provisions of the agreement violated;
+
+    E. The remedy or relief sought by the employee; and
+
+    F. The signature of the person submitting the grievance and such person's name and
+       position if other than the aggrieved employee.
+
+Within twenty-one (21) calendar days of ﬁling the grievance, a meeting shall be convened
+between the grievant, the Association and the Employer to discuss the merits of the grievance.
+Each party is entitled to have as many individuals present at the meeting as are necessary to
+resolve the grievance. Within seven (7) calendar days of this meeting, the Sheriﬀ or their
+designee shall submit their response in writing to the Association and the grievant by e-mail or
+hand delivery.
+
+STEP 2:
+If the grievance remains unsolved, the Association may submit, by e-mail or hand delivery, the
+matter to binding arbitration within fourteen (14) calendar days of the date the response was
+received or due to be received. The arbitration proceeding shall be conducted by an arbitrator
+to be selected by the Employer and the Association within fourteen (14) calendar days after
+
+
+
+
+### ARTICLE 32 – SETTLEMENT OF DISPUTES                                                     Page 50 of 62
+                                                                                 MCSSA CBA 2024-2026
+
+
+notice has been given. If the parties fail to select an arbitrator, the state Employment Relations
+Board shall be requested by either or both parties to provide a panel of nine (9) arbitrators.
+
+Both the Employer and the Association shall have the right to strike four (4) names from the
+panel. The parties shall ﬂip a coin to determine who shall strike the ﬁrst name, and then they
+shall alternate striking names until only one (1) name remains on the list. The remaining name
+shall be the arbitrator. For disciplinary grievances involving an alleged violation of Article 27 for
+law enforcement oﬃcers (as deﬁned by ORS 131.930) the Employment Relations Board shall be
+requested to appoint an arbitrator pursuant to the process established in ORS 243.808-812.
+
+The arbitrator shall render a decision no later than thirty (30) calendar days after the conclusion
+of the hearing or receipt of closing briefs. The power of the arbitrator shall be limited to
+interpreting this agreement and determining if it has been violated and to resolve the grievance
+within the terms of this agreement.
+
+The decision of the arbitrator shall be binding on both parties. The cost of the arbitrator shall be
+borne by the loser who must be designated by the arbitrator. Each party shall be responsible
+for the cost of presenting its own case to arbitration.
+
+Section 2. The parties may agree to mediate all unresolved grievances with the assistance of
+the Employment Relations Board Conciliation Service. Mediation may be requested after the
+notice of intent to arbitrate is ﬁled but before the arbitration date.
+
+Section 3. Any or all time limits speciﬁed in the grievance procedure may be waived by mutual
+consent of the parties.
+
+
+
+
+### ARTICLE 32 – SETTLEMENT OF DISPUTES                                                         Page 51 of 62
+                                                                            MCSSA CBA 2024-2026
+
+
+### ARTICLE 33 – LIABILITY INSURANCE
+
+All members of the bargaining unit are covered by the provisions of the Oregon Tort Claims Act as
+amended.
+
+
+
+
+### ARTICLE 33 – LIABILITY INSURANCE                                                       Page 52 of 62
+                                                                             MCSSA CBA 2024-2026
+
+
+### ARTICLE 34 – TRAINING
+
+   A. A minimum of forty (40) hours of in-service training shall be mandatory for all DPSST
+      certiﬁed personnel. Of the forty (40) hours of in-service training provided to DPSST-
+      certiﬁed personnel, a minimum of twenty (20) hours of training shall qualify for
+      advancement toward DPSST certiﬁcation.
+
+   B. For training scheduled by management:
+
+            1. An employee may be scheduled for training on a regular day oﬀ. The employee
+               will receive a personal day oﬀ to be used within the calendar year or will be
+               paid overtime. If paid, training will be paid on an hour-for-hour basis and, if
+               eligible for overtime pay under this agreement, will be paid at time-and-one-
+               half. An employee ordered by a supervisor to train in a period of less than four
+               (4) hours on a day oﬀ shall receive a minimum of four (4) hours overtime pay.
+               The personal day shall be scheduled in accordance with supervisor approval
+               and in a manner that will provide adequate staﬀ to maintain service.
+
+            2. The in-service training schedule shall be published thirty (30) days in advance
+               of the training.
+
+
+
+
+### ARTICLE 34 – TRAINING                                                                   Page 53 of 62
+                                                                           MCSSA CBA 2024-2026
+
+
+### ARTICLE 35 – SCOPE OF AGREEMENT
+
+This document constitutes the sole and complete agreement between the Association and the
+Employer and embodies all the terms and conditions governing the employment of employees
+in the negotiating unit. The parties acknowledge that they have had the opportunity to present
+and discuss proposals on any subject, which is or may be subject to negotiation.
+Standards of employment related to wages, hours and working conditions that constitute
+mandatory subjects of bargaining shall be continued at not less than the level in eﬀect at the
+time of the signing of this agreement.
+
+
+
+
+### ARTICLE 35 – SCOPE OF AGREEMENT                                                       Page 54 of 62
+                                                                               MCSSA CBA 2024-2026
+
+
+### ARTICLE 36 – DEMOTIONS INTO THE ASSOCIATION’S BARGAINING UNIT
+
+The Sheriﬀ may elect to demote for cause or budgetary reasons a certiﬁed supervisor to the
+bargaining unit provided there is a vacant position available. No Association member will be laid
+oﬀ, directly or indirectly, to allow a supervisor to demote into the Association’s bargaining unit.
+
+Any person demoted into this bargaining unit within one year of promotion, will revert back to
+the Association seniority in place upon promotion.
+
+
+
+
+### ARTICLE 36 – DEMOTIONS INTO THE ASSOCIATION’S BARGAINING UNIT                             Page 55 of 62
+                                                                               MCSSA CBA 2024-2026
+
+
+### ARTICLE 37 – DRUG AND ALCOHOL TESTING
+
+Section 1. The parties agree there will be no random drug testing of employees other than
+those employees required to maintain a commercial driver’s license (CDL).
+
+Section 2. When the Employer has reasonable suspicion, as deﬁned in section 3, to suspect that
+an employee is under the inﬂuence of alcohol, drugs or other controlled substances, the
+Employer may require the employee to undergo drug and/or alcohol testing.
+
+Section 3. Reasonable suspicion means an objective belief based on speciﬁc, articulable
+observations of an employee’s condition, behavior, or performance that the employee may be
+under the inﬂuence of alcohol, drugs, or other controlled substances. Examples include, but are
+not limited to, unusual behavior, slurred speech, poor coordination, slow reaction time,
+unexplained or reoccurring accidents or injury, appearance, or odors of an alcoholic beverage.
+
+Section 4. Reasonable suspicion testing will be by breathalyzer, blood or urine sample analysis.
+
+Alcohol testing will be conducted by use of a breathalyzer. Drug testing will be conducted by a
+certiﬁed laboratory analysis of a urine or blood sample. Blood and urine testing shall be
+conducted by selected laboratories which are licensed and operate in accordance with ORS
+438.010 or OAR 333-24-305 through 350. Any aﬀected employee will be provided with paid
+release time to obtain a second test by their own physician or laboratory. The Employer also
+reserves the right to test for use of controlled substances as a condition of initial appointment
+to any position involving law enforcement or institutions personnel.
+
+Section 5. Whenever reasonable suspicion testing is required of an existing employee, the
+Employer shall notify the Association agent. The Employer shall provide the Association with
+information, facts, evidence, etc., which supports the need for such testing.
+
+Section 6. The Employer’s Drug and Alcohol Use and Testing Policy shall not be interpreted in a
+manner that conﬂicts with this article.
+
+
+
+
+### ARTICLE 37 – DRUG AND ALCOHOL TESTING                                                     Page 56 of 62
+                                                                              MCSSA CBA 2024-2026
+
+
+### ARTICLE 38 – FITNESS FOR DUTY TESTING
+
+From time to time the Sheriﬀ may require an employe to undergo psychological or physical
+evaluations to ensure an employee is ﬁt to perform the duties of their position or to monitor
+the welfare of the employee after critical incidents. The Employer may require the employee to
+report to a physician or clinician to perform the evaluations. Prior to the evaluation, the
+employee will be given a written explanation, citing speciﬁc performance or behavioral issues
+requiring the need for a ﬁtness for duty evaluation. If the reason for an evaluation is simply a
+statutory requirement, for example SB111, the written explanation will state the purpose. In all
+cases required evaluations will strictly be limited to bona ﬁde business needs and never as
+discipline.
+
+The physician or clinician will report the results of the test to the county and the employee. The
+only information, which the physician or clinician may release, is whether the employee is ﬁt or
+unﬁt for duty or whether the employee requires modiﬁed work conditions. If the physician or
+clinician believes the employee is ﬁt for duty but needs modiﬁed work conditions, the physician
+or clinician may indicate what modiﬁcations are necessary and the extent or duration projected
+of the modiﬁcation. The physician or clinician will keep all data that has been made available to
+him conﬁdential and not release it to any of the parties, except the employee and treating
+physician or clinician if requested in writing consistent with applicable state and federal
+regulations.
+
+
+
+
+### ARTICLE 38 – FITNESS FOR DUTY TESTING                                                    Page 57 of 62
+                                                                              MCSSA CBA 2024-2026
+
+
+### ARTICLE 39 – LIFE OF AGREEMENT AND TERMINATION
+
+This agreement shall terminate June 30, 2026. If either party wishes to renew or modify this
+agreement as of its termination, the party shall give written notice of its intent to renew or
+modify to the other party by December 31 of the prior year. Negotiations shall begin at such
+time as agreed by the parties. The Agreement shall remain in full force and eﬀect during the
+period of such negotiations. There shall be no retroactive eﬀect of any provision of this
+Agreement, except as speciﬁcally provided.
+
+Letters of Agreements
+Any letters of agreement must be signed by the chief administrative oﬃcer, Sheriﬀ, Chief
+Human Resources Oﬃcer or designee, and the designated representatives of the Association to
+be valid. These agreements shall be attached and made part of the labor Agreement. Any
+electronic copies of the labor Agreement shall include all such letters of agreement.
+
+
+
+
+### ARTICLE 39 – LIFE OF AGREEMENT AND TERMINATION                                           Page 58 of 62
+                                                                             MCSSA CBA 2024-2026
+
+
+### ARTICLE 40 – SAVINGS CLAUSE
+
+Should any section or portion thereof of this agreement be held unlawful and unenforceable by
+any court of competent jurisdiction, be in violation of or made illegal through enactment of
+federal or state law, or upon mutual agreement of the parties, such decision shall apply only to
+the speciﬁc section or portion thereof, directly speciﬁed in the decision. Upon issuance of such
+a decision, the parties agree immediately to negotiate a substitute, if possible, for the
+invalidated section or portion thereof.
+
+
+
+
+### ARTICLE 40 – SAVINGS CLAUSE                                                             Page 59 of 62
+                                                                                 MCSSA CBA 2024-2026
+
+
+### ARTICLE 41 – DEFINITIONS
+
+Unless another meaning is speciﬁcally provided in a given article or section, the following
+deﬁnitions apply to these terms as used throughout this agreement:
+
+“Association Seniority” means seniority based on promotion or hire date into the bargaining
+unit. Association seniority at the time of ratiﬁcation shall be time of service as a sergeant prior
+to the formation of the bargaining unit. An employee’s seniority date will be the day they are
+promoted or hired. If more than one (1) employee is promoted or hired on the same day,
+seniority will be based upon the ﬁnishing order in the promotional process.
+
+The parties shall jointly update the Association seniority list quarterly each year to be used for
+annual shift/vacation bidding. For layoﬀ, see Article 28 of this agreement.
+
+“Continuous Service Date” is the ﬁrst day of employment for all employees hired after the
+implementation of Marion County’s Oracle system on January 1, 1999. The county bases the
+continuous service date for employees hired before the implementation of the Oracle system
+on the time of the month in which the employee was hired. In this case, the continuous service
+date for an employee hired on the ﬁrst of the month is the employee’s actual hire date. The
+continuous service date for an employee hired mid-month is the ﬁrst of the month following
+the employee’s hire date. Continuous service date is subject to the following adjustments:
+
+    • adding one month for each calendar month during which the employee was on unpaid
+      leave status for more than ten workdays.
+
+    • for prior service following reappointment within twelve months of separation under the
+      Marion County Personnel Rules.
+
+    • adding one month for each calendar month during which the employee was oﬀ the
+      payroll for more than ten workdays.
+
+The Employer will not adjust the continuous service date for employees on unpaid military
+leave, Workers’ Compensation, or family medical leave.
+
+“Continuous service” is county service unbroken by an absence without pay of more than ten
+workdays in a calendar month.
+
+“County seniority” means length of service as measured by an employee's continuous service
+date.
+
+“Day” means calendar day.
+
+
+
+
+### ARTICLE 41 – DEFINITIONS                                                                    Page 60 of 62
+                                                                              MCSSA CBA 2024-2026
+
+
+“Job assignment” refers to an employee’s particular set of duties assigned by the Sheriﬀ. This
+deﬁnition does not alter the Sheriﬀ’s right to modify, add, or delete job assignments or duties
+within a job assignment.
+
+“Oﬃce” or “department” means the Marion County Sheriﬀ's Oﬃce.
+
+“Pay period” is a designated bi-weekly period for calculating compensation.
+
+
+
+
+### ARTICLE 41 – DEFINITIONS                                                                Page 61 of 62
+

@@ -72,7 +72,7 @@ Home Rule Charter. The following articles are the responsibility of the Board or
 officials in accordance with such statutes, ordinances, and charter.
 
 
-ARTICLE 1 - RECOGNITION
+### ARTICLE 1 - RECOGNITION
 
 Section 1. Recognition
 The Board recognizes the Union as the sole and exclusive representative of the non-supervisory
@@ -84,7 +84,7 @@ Airport crash/fire rescue personnel, temporary employees, and employees hired fo
 under a specific State or Federal grant program, for the purpose of negotiating with the Board on
 matters concerning wages, hours, fringe benefits, and other terms and conditions of employment.
 The Agreement shall apply to all employees within the collective bargaining unit as defined in this
-Article I. Regardless ofany changes in officially established departments, the representation status
+### Article I. Regardless ofany changes in officially established departments, the representation status
 of any classification included in the bargaining unit will not be changed during the period of the
 Agreement. Nothing in this Agreement will be construed to limit the performance of incidental
 bargaining unit work by supervisors and other non-bargaining unit personnel on a temporary basis
@@ -131,7 +131,7 @@ workers who have performed the maximum allowable hours shall not be assigned to 
 of the limits outlined above.
 
 
-ARTICLE 2-NON-DISCRIMINATION
+### ARTICLE 2-NON-DISCRIMINATION
 
 Section 1. Nondiscrimination
 The County and the Union recognize the intent of public policy and agree not to discriminate
@@ -139,7 +139,7 @@ against any person with regard to race, age, religion, gender, sexual orientatio
 disability. The Union hereby declares their acceptance and support of such laws.
 
 
-ARTICLE 3-DURATION OF CONTRACT
+### ARTICLE 3-DURATION OF CONTRACT
 
 Section 1. Contract Duration
 Except as specifically indicated herein, this contract shall be in effect July 1, 2025 or upon
@@ -162,7 +162,7 @@ party. After the exchange of proposals, bargaining wil l be closed to issues tha
 within either party's full and complete initial proposal.
 
 
-ARTICLE 4 - UNION SECURITY
+### ARTICLE 4 - UNION SECURITY
 
 Section 1. Membership
 The memberships of bargaining unit members as members of the Union is a matter exclusively
@@ -216,7 +216,7 @@ hire date, and full time/part-time status. The Union will reimburse the County f
 costs, plus actual costs for each pay period as provided for in the County's fee ordinance.
 
 
-ARTICLE 5- MANAGEMENT RIGHTS
+### ARTICLE 5- MANAGEMENT RIGHTS
 
 Section 1. Management Rights, Generally
 Except to the extent expressly abridged by a specific provision of this Agreement, it is recognized
@@ -262,7 +262,7 @@ The exercise of any management prerogative, function, or right which is not spec
 by this agreement is expressly retained by the County.
 
 
-ARTICLE 6 - HOURS OF WORK
+### ARTICLE 6 - HOURS OF WORK
 
 Section 1. Workweek and Pay Period Defined
 The workweek shall begin at 12:01 a.m. on Monday and continue through 12:00 midnight on
@@ -374,7 +374,7 @@ appeal such request to the department director, but that decision is not subject
 procedure.
 
 
-ARTICLE 7-HOLIDAYS
+### ARTICLE 7-HOLIDAYS
 
 Section 1. Holidays Defined
 
@@ -483,7 +483,7 @@ employee shall be compensated for the holiday if it is determined that an additi
 in the interest of efficient operation of the department.
 
 
-ARTICLE 8-VACATION
+### ARTICLE 8-VACATION
 
 Section I . Vacation Accrual
 Vacation credit shall be accumulated at the annual rates indicated for the applicable fiscal year. A
@@ -563,7 +563,7 @@ basis:
      d. An employee continuing on the payroll will not be required to take pay in lieu of vacation.
 
 
-ARTICLE 9 - SICK LEAVE
+### ARTICLE 9 - SICK LEAVE
 
 Section 1. Sick Leave Accrual
 Sick leave shall be earned at the rate of3 .7 hours for each full pay period. When an employee does
@@ -623,7 +623,7 @@ them to be paid in excess oftheir budgeted full-time equivalent (FTE) in a regul
 regular work week.
 
 
-ARTICLE 10 - OTHER LEAVES
+### ARTICLE 10 - OTHER LEAVES
 
 The leaves of absence set forth in this Article shall be without pay except as specifically stated
 herein.
@@ -736,7 +736,7 @@ Employees shall be allowed bereavement leave pursuant to County policy.
 
 Jackson County/Jackson County Employees Association SEIU Local 503, OPEU Collective Bargaining Agreement
 July I. 2025 or upon ratification of the contract by both parties, whichever is later -June 30, 2028     Page 14 of 4 1
-ARTICLE 11 - SENIORITY
+### ARTICLE 11 - SENIORITY
 
 Section 1. Seniority Defined
 Employees shall acquire three (3) types of seniority:
@@ -775,7 +775,7 @@ Seniority shall be terminated by any ofthe following:
     e. Retirement.
 
 
-ARTICLE 12 - LAYOFF
+### ARTICLE 12 - LAYOFF
 
 Section 1. Defined
 A layoff is defined as an involuntary separation from County employment for reasons not
@@ -888,7 +888,7 @@ are displaced as a result thereof will be treated as employees subject to layoff
 12.
 
 
-ARTICLE 13 - VACANCIES
+### ARTICLE 13 - VACANCIES
 
 Section I. Definitions
 For the purposes of this Article, "internal applicant" means a person who is a bargaining unit
@@ -931,7 +931,7 @@ Jackson County/Jackson County Employees Association SEIU Local 503, OPEU Collect
 July I. 2025 or upon ratification of the contract by both parties, whichever is later - June 30, 2028    Page 18 of41
 internal applicant who fills a vacant position at the same pay range will have no change in pay or
 anniversary date.
-ARTICLE 14 - DISCIPLINE AND DISCHARGE
+### ARTICLE 14 - DISCIPLINE AND DISCHARGE
 
 Section 1. Probationary Status
 New employees shall be placed in a probationary status during the first six (6) months of regular
@@ -987,7 +987,7 @@ course of the grievance procedure, or by arbitration under Article 22, Settlemen
 may include a make-whole remedy.
 
 
-ARTICLE 15- COMPENSATION
+### ARTICLE 15- COMPENSATION
 
 Section 1. Compensation Adjustment
 
@@ -1135,7 +1135,7 @@ mailed to the employee' s last known address unless Human Resources is notified 
 writing no later than the last day of employment.
 
 
-ARTICLE 16 - FRINGE BENEFITS
+### ARTICLE 16 - FRINGE BENEFITS
 
 Section l. Definitions
 For the purpose of this Article, fringe benefits include all County-paid or provided insurance
@@ -1306,7 +1306,7 @@ by the Union to the Wellness Committee and the decision of the County Administra
 subject to the grievance procedure.
 
 
-ARTICLE 17 - OTHER FRINGE BENEFITS
+### ARTICLE 17 - OTHER FRINGE BENEFITS
 
 Section 1. Uniforms and Protective Clothing
 If an employee is required by the County or by law to wear a uniform, protective clothing or
@@ -1400,14 +1400,14 @@ deductions shall be standardized so that the same percentage and/or same flat do
 apply to all participants.
 
 
-ARTICLE 18 - PER DIEM
+### ARTICLE 18 - PER DIEM
 
 Employees traveling on County business shall receive allowances and reimbursements for
 expenses, meals, and lodging as set forth by County policy. Expedited cash advances will be
 allowed for required escorted transportation and other emergency situations.
 
 
-ARTICLE 19-EVALUATION
+### ARTICLE 19-EVALUATION
 
 Section I. County to Provide Evaluations
 The County agrees to evaluate all bargaining unit personnel at least once annually.
@@ -1440,7 +1440,7 @@ and cost savings. Where the employee has no opportunity for team work or innovat
 evaluation need not reference team work and innovation.
 
 
-ARTICLE 20 - PERSONNEL FILE
+### ARTICLE 20 - PERSONNEL FILE
 
 Section I. File Maintenance
 A personnel file may be established and maintained in each department for each employee. An
@@ -1482,7 +1482,7 @@ or the elected official's decision, under this provision may be processed as a g
 this provision must be filed within thirty (30) calendar days of notice of the action or shall be
 deemed waived.
 
-ARTICLE 21-JOB REPRESENTATIVES AND UNION RIGHTS
+### ARTICLE 21-JOB REPRESENTATIVES AND UNION RIGHTS
 
 Section 1. Stewards
 The Union may designate employees of the County to serve as stewards. Stewards shall assist with
@@ -1565,7 +1565,7 @@ bargaining unit. The representative of the Union shall not interfere w ith the o
 County or with the work activities of the employees of the County.
 
 
-ARTICLE 22 - SETTLEMENT OF DISPUTES
+### ARTICLE 22 - SETTLEMENT OF DISPUTES
 
 Section 1. Grievance Procedure
 Any grievance or dispute which may arise between the parties with regard to the application,
@@ -1679,7 +1679,7 @@ read "GRIEVANCE" and include the grievant name(s). Use of County computer pursua
 County policy on personal use of computer system.
 
 
-ARTICLE 23 - CLASSIFICATION REVIEW
+### ARTICLE 23 - CLASSIFICATION REVIEW
 
 Section 1. County to Establish Job Classifications
 The County will establish job classifications and will prescribe job content for such classifications.
@@ -1713,7 +1713,7 @@ the employee's anniversary date. In the case of downward and lateral reclassific
 and anniversary date will remain unchanged.
 
 
-ARTICLE 24 - HEALTH AND SAFETY REGULATIONS
+### ARTICLE 24 - HEALTH AND SAFETY REGULATIONS
 
 Section 1. Health and Safety Committees and Laws
 The County and the Union agree to establish safety committees in accordance with the rules and
@@ -1838,7 +1838,7 @@ testing requirements, as well as road maintenance workers and any other job clas
 may be established, which requires a commercial driver's license.
 
 
-ARTICLE 25 - SAVINGS CLAUSE AND FUNDING
+### ARTICLE 25 - SAVINGS CLAUSE AND FUNDING
 
 Section 1. Savings Clause
 Should any article, section, or portion of this agreement be held unlawful and unenforceable by
@@ -1861,7 +1861,7 @@ by this agreement. The County makes no guarantee as to passage ofbudget requests
 thereof, or necessary sources of revenue.
 
 
-ARTICLE 26- EDUCATION, TRAINING AND DEVELOPMENT
+### ARTICLE 26- EDUCATION, TRAINING AND DEVELOPMENT
 
 Section 1. Time for Education Programs
 If an employee requests to attend educational courses which are directly related to an employee's
@@ -1906,13 +1906,13 @@ shall pay the cost of physical examinations to renew a CDL ifthe employee uses a
 provider.
 
 
-ARTICLE 27 - POLICIES AND DIRECTIVES
+### ARTICLE 27 - POLICIES AND DIRECTIVES
 
 Copies of all written policies and directives shall be furnished to the Union at the time they are
 issued.
 
 
-ARTICLE 28 - JOINT LABOR-MANAGEMENT COMMITTEE
+### ARTICLE 28 - JOINT LABOR-MANAGEMENT COMMITTEE
 
     a. There shall be a Joint Labor-Management Committee. The committee shall consist of ten
        (I 0) members: five (5) appointed by the Union (one of whom shall be the Union organizer)
@@ -1941,7 +1941,7 @@ ARTICLE 28 - JOINT LABOR-MANAGEMENT COMMITTEE
     g. The County agrees to provide meeting space and routine support to the committee.
 
 
-ARTICLE 29 - SUBCONTRACTING OF SERVICES
+### ARTICLE 29 - SUBCONTRACTING OF SERVICES
 
 
 
@@ -1979,7 +1979,7 @@ bargaining unit are transferred in accordance with Oregon' s Public Employee Tra
 provisions of those statutes shall take precedence.
 
 
-ARTICLE 30 - SCOPE OF AGREEMENT
+### ARTICLE 30 - SCOPE OF AGREEMENT
 
 The Union and the County acknowledge that they have had the opportunity to present and discuss
 proposals on any matter which is or may be subject to negotiation. Accordingly, this document
@@ -1987,7 +1987,7 @@ constitutes the sole and complete agreement between the Union and the County and
 all the terms and conditions concerning the employment of employees in the bargaining unit.
 
 
-ARTICLE 31 -NEW EMPLOYEE ORIENTATION INFORMATION
+### ARTICLE 31 -NEW EMPLOYEE ORIENTATION INFORMATION
 
 For the purposes of implementing Section 3 of Oregon House Bill ("HB") 2016(2019), the Union
 shall be granted at least 30 minutes but not more than 120 minutes at new Employee Orientations

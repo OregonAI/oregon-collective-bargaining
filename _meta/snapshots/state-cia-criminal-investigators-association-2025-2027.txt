@@ -66,7 +66,7 @@ LETTER OF AGREEMENT – EQUAL PAY ADJUSTMENTS ..................................
 LETTER OF AGREEMENT – STRUCTURAL CHANGES TO PAY PRACTICES .......................47
 APPENDIX A – CIA COMPENSATION PLAN & SALARY RATES ..............................................51
 SIGNATURE PAGE .......................................................................................................................53
-                            ARTICLE 1 – PARTIES TO THE AGREEMENT
+### ARTICLE 1 – PARTIES TO THE AGREEMENT
 
 This Agreement is made and entered into by and between the State of Oregon
 (hereinafter the “Employer”), acting by and through its Department of Administrative
@@ -75,7 +75,7 @@ the Oregon Department of Justice Criminal Investigators Association (hereinafter
 “CIA”), for the purpose of setting forth the parties’ agreement with regard to rates of pay,
 hours worked, and other conditions of employment.
 
-                                         ARTICLE 2 – RECOGNITION
+### ARTICLE 2 – RECOGNITION
 
 The Employer and the Department recognize the CIA as the sole and exclusive
 bargaining representative for all employees in the Department of Justice, Criminal Justice
@@ -84,7 +84,7 @@ pursuant to ORS 181.610(15) (formerly entitled Investigator 4 and Financial Inve
 2 respectively), excluding supervisory employees, managerial employees, confidential
 employees, temporary employees as defined in ORS 240.309, and elected officials.
 
-                                   ARTICLE 3 – NON-DISCRIMINATION
+### ARTICLE 3 – NON-DISCRIMINATION
 
 Section 1.
 The Employer will not interfere with or discriminate in respect to any term or condition of
@@ -104,7 +104,7 @@ Section 3.
 Discrimination complaints for which a remedy is available under state or federal law, shall
 not be subject to the grievance procedure provided for herein.
 
-                                  ARTICLE 4 – MANAGEMENT RIGHTS
+### ARTICLE 4 – MANAGEMENT RIGHTS
 
 Section 1. General.
 All rights and functions, except those which are expressly abridged by this Agreement,
@@ -129,7 +129,7 @@ regulations pertaining to employees. Nothing herein shall be considered a waiver
 CIA’s rights to collectively bargain any changes in past practices and/or subjects which
 are mandatorily negotiable.
 
-                                               ARTICLE 5 – CIA RIGHTS
+### ARTICLE 5 – CIA RIGHTS
 
 Section 1. CIA Representative.
 The CIA will notify the Department in writing of its representative. After such notice is
@@ -220,7 +220,7 @@ Subject to mutual agreement of the parties, CIA employee representatives, includ
 Executive Board members, shall be allowed paid release time to engage in
 Labor/Management Relations Training.
 
-                              ARTICLE 6 – CIA MEMBERSHIP AND DUES
+### ARTICLE 6 – CIA MEMBERSHIP AND DUES
 
 Section 1.
 All applications for CIA membership and/or dues deduction shall be submitted by the
@@ -254,7 +254,7 @@ the terms and provisions of this Article.
                                                                                         REV: 2019
 
 
-                     ARTICLE 7 – RETIRED SPECIAL AGENT COURT TIME
+### ARTICLE 7 – RETIRED SPECIAL AGENT COURT TIME
 
 The Agency shall pay any bargaining unit Special Agent who retires on or after December
 31, 2019 when the Special Agent is subpoenaed by the prosecution or Department of
@@ -273,7 +273,7 @@ preparation with the attorney shall be limited to a total of three (3) hours.
                                                                                 NEW: 2019 REV2023
 
 
-                                        ARTICLE 8 – TRIAL SERVICE
+### ARTICLE 8 – TRIAL SERVICE
 
 Section 1.
 Each employee appointed to a position in the bargaining unit shall serve an initial trial
@@ -311,7 +311,7 @@ are subject to mutual written agreement between the Department and the CIA. A co
 the extension agreement shall be placed in the employee’s Personnel File and provided
 to the CIA.
 
-                          ARTICLE 9 – SENIORITY, LAYOFF AND RECALL
+### ARTICLE 9 – SENIORITY, LAYOFF AND RECALL
 
 Section 1. Seniority Definition.
 Effective on execution of this Agreement, “department seniority” is determined by the
@@ -417,7 +417,7 @@ turned down such an offer.
 
 
 2025-2027 Criminal Investigators Association             7                 Collective Bargaining Agreement
-                                 ARTICLE 10 – PERSONNEL RECORDS
+### ARTICLE 10 – PERSONNEL RECORDS
 
 Section 1.
 An employee may, upon request, inspect the contents of his/her official Department
@@ -478,7 +478,7 @@ the Department will make every reasonable effort to notify the employee or the
 employee’s supervisor in a timely manner. However, nothing will prevent the Department
 from complying with the applicable laws.
 
-                             ARTICLE 11 – DISCIPLINE AND DISCHARGE
+### ARTICLE 11 – DISCIPLINE AND DISCHARGE
 
 Section 1. Discipline.
 Discipline shall include: written reprimand, reduction in pay, demotion, suspension
@@ -545,7 +545,7 @@ ORS 236.350 to 236.370, to the extent that they do not conflict with this Articl
                                                                               REV: 2017, 2019, 2021
 
 
-               ARTICLE 12 – GRIEVANCE AND ARBITRATION PROCEDURE
+### ARTICLE 12 – GRIEVANCE AND ARBITRATION PROCEDURE
 
 Section 1.
 A grievance is defined as a dispute regarding the meaning or interpretation of a particular
@@ -624,7 +624,7 @@ Failure of the grievant or CIA to comply with the time limits outlined above sha
 abandonment of the grievance and it cannot be resubmitted. Failure of management to
 respond to the grievance at any step constitutes a denial.
 
-                                      ARTICLE 13 – HOURS OF WORK
+### ARTICLE 13 – HOURS OF WORK
 
 Section 1. Work Week.
 A work week consists of seven (7) consecutive calendar days commencing at 12:01 a.m.
@@ -768,7 +768,7 @@ employees for not responding to a page or call.
 
 
 2025-2027 Criminal Investigators Association    14                Collective Bargaining Agreement
-                               ARTICLE 14 – SALARY ADMINISTRATION
+### ARTICLE 14 – SALARY ADMINISTRATION
 
 Section 1.
 a.    All employees shall be paid no later than the first (1 st) day of the month. If a payday
@@ -849,7 +849,7 @@ service, shall be restored.
                                                                                         REV: 2021,2025
 
 
-                                               ARTICLE 15 – SALARIES
+### ARTICLE 15 – SALARIES
 
 Section 1.
 a.    Cost of Living Adjustments:
@@ -942,7 +942,7 @@ percent (2%) of their base pay if they are assigned as a full-time Financial Inv
 and are Certified Fraud Examiners (CFE).
                                                                       REV: 2017, 2019, 2021,2023,2025
 
-                                               ARTICLE 16 – PERS
+### ARTICLE 16 – PERS
 
 Section 1.
 Effective February 1, 2019 compensation plan salary rates for PERS participating
@@ -963,7 +963,7 @@ SB1049.
                                                                                  REV: 2017,2019,2021
 
 
-                                 ARTICLE 17 – INSURANCE BENEFITS
+### ARTICLE 17 – INSURANCE BENEFITS
 
 Section 1.
 An employer contribution will be made for each eligible employee who has at least
@@ -1035,7 +1035,7 @@ insurance in the face amount of $10,000.00.
                                                                          REV: 2017,2019,2021,2023,2025
 
 
-                       ARTICLE 18 – EMPLOYEE ASSISTANCE PROGRAM
+### ARTICLE 18 – EMPLOYEE ASSISTANCE PROGRAM
 
 Section 1.
 Employees shall be entitled to participate in the Department Employee Assistance
@@ -1047,7 +1047,7 @@ Section 2.
 Upon CIA written request to Administrative Services, the Department shall provide the
 CIA with statistical information provided to management concerning the Department EAP.
 
-                       ARTICLE 19 – WORKING OUT OF CLASSIFICATION
+### ARTICLE 19 – WORKING OUT OF CLASSIFICATION
 
 Section 1.
 Employees who have been assigned in writing to perform the duties of a position at a
@@ -1058,7 +1058,7 @@ Section 2.
 Employees shall be paid five percent (5%) above their current base rate of pay or the first
 (1st) step of the higher salary range, whichever is greater, for the full period of the
 assignment.
-                ARTICLE 20 – TRAVEL, MEALS, LODGING, MILEAGE
+### ARTICLE 20 – TRAVEL, MEALS, LODGING, MILEAGE
                      AND MOVING EXPENSE REIMBURSEMENT
 
 Section 1. Meals/Lodging/Mileage.
@@ -1081,7 +1081,7 @@ supervisor.
                                                                                             REV: 2023
 
 
-                                           ARTICLE 21 – CALL BACK
+### ARTICLE 21 – CALL BACK
 
 Section 1.
 Call back is an occasion where an employee has been released from duty and is called
@@ -1102,7 +1102,7 @@ occur.
                                                                                             REV: 2023
 
 
-                                     ARTICLE 22 - PERSONAL LEAVE
+### ARTICLE 22 - PERSONAL LEAVE
 
 Section 1.
 All employees after completion of six (6) full calendar months of service shall be entitled
@@ -1130,7 +1130,7 @@ compensable in any other manner.
 Such leave may be used by an employee for any purpose he/she desires and may be
 taken at times mutually agreeable to the Department and the employee.
 
-                                          ARTICLE 23 – SICK LEAVE
+### ARTICLE 23 – SICK LEAVE
 
 Section 1. Eligibility For and Use of Sick Leave.
 a.    An employee, upon initial appointment to state service, is eligible to receive and
@@ -1262,7 +1262,7 @@ provided for in the DAS statewide Paid Leave Oregon Policy (60.000.04).
                                                                                            REV: 2025
 
 
-                           ARTICLE 24 - LEAVE OF ABSENCE WITH PAY
+### ARTICLE 24 - LEAVE OF ABSENCE WITH PAY
 
 The Employer recognizes that certain employee leaves are either directly or indirectly
 beneficial to the State and therefore qualify as paid leave. Employees shall receive the
@@ -1352,7 +1352,7 @@ b.       Employees who have used the eighty (80) hours of paid administrative le
                                                                                           REV: 2025
 
 
-                       ARTICLE 25 – LEAVE OF ABSENCE WITHOUT PAY
+### ARTICLE 25 – LEAVE OF ABSENCE WITHOUT PAY
 
 Section 1.
 An employee shall be entitled to military leave without pay as required by Federal and
@@ -1399,11 +1399,11 @@ During periods of unpaid leaves an employee shall:
 Section 7.
 Leaves of absence up to one (1) year shall not be considered a break in service.
 
-                                     ARTICLE 26 – PARENTAL LEAVE
+### ARTICLE 26 – PARENTAL LEAVE
 
 A parent shall be granted leave in accordance with State and Federal laws.
 
-                                      ARTICLE 27 – VACATION LEAVE
+### ARTICLE 27 – VACATION LEAVE
 
 Section 1. Vacation Leave Accrual.
 a.    Vacation leave shall accrue as follows:
@@ -1536,7 +1536,7 @@ matrix:
                                                                                         REV: 2019, 2021
 
 
-                                               ARTICLE 28 – HOLIDAYS
+### ARTICLE 28 – HOLIDAYS
 
 Employees shall receive the following legal compensable holidays:
 
@@ -1626,7 +1626,7 @@ b.      Notwithstanding section 2 of this article, an employee may request to wo
                                                                                     REV: 2021,2023
 
 
-                        ARTICLE 29 – LABOR/MANAGEMENT COMMITTEE
+### ARTICLE 29 – LABOR/MANAGEMENT COMMITTEE
 
 Section 1.
 To facilitate communication between the parties, a joint labor/management committee
@@ -1661,7 +1661,7 @@ subjects of bargaining. The committee shall have no power to contravene any
 provision of this Agreement or to enter into any agreements binding on the parties to this
 Agreement.
 
-                                  ARTICLE 30 – SAFETY AND HEALTH
+### ARTICLE 30 – SAFETY AND HEALTH
 
 Section 1.
 The Department will abide by standards of safety and health in accordance with the
@@ -1690,7 +1690,7 @@ that it is unsafe under Oregon Safe Employment Act standards shall be paid by th
 Department if the employee’s claim is upheld by the Department safety officer or designee
 or the Department of Consumer and Business Services.
 
-                                ARTICLE 31 – INCLEMENT CONDITIONS
+### ARTICLE 31 – INCLEMENT CONDITIONS
 
 Section 1.
 When in the judgment of the Department, weather conditions require the closure of the
@@ -1720,7 +1720,7 @@ employee’s immediate supervisor to perform his or her work assignment in anoth
 such as working at home, working at another state office or performing work at another
 time.
 
-                                 ARTICLE 32 – GENERAL PROVISIONS
+### ARTICLE 32 – GENERAL PROVISIONS
 
 Section 1. Cellular Phones.
 If the Department allows CIA members to use cellular phones in the performance of their
@@ -1746,7 +1746,7 @@ With mutual agreement between the employee and the Special Agent in Charge, the
 Department shall pay an amount to cover membership in up to two (2) job-related
 professional organizations.
 
-                                ARTICLE 33 – NO STRIKE OR LOCKOUT
+### ARTICLE 33 – NO STRIKE OR LOCKOUT
 
 Section 1.
 The Department agrees that during the term of this Agreement, the Department shall not
@@ -1757,7 +1757,7 @@ During the term of this Agreement, the CIA shall neither cause nor counsel the m
 of the bargaining unit to strike, walk out, slowdown, or commit other acts of work
 stoppage.
 
-                 ARTICLE 34 – COMPLETE AGREEMENT/PAST PRACTICES
+### ARTICLE 34 – COMPLETE AGREEMENT/PAST PRACTICES
 
 Section 1. Complete Agreement.
 Pursuant to their statutory obligations to bargain in good faith, the Employer and the CIA
@@ -1789,7 +1789,7 @@ exercise of authority given by the law or this Agreement.
                    Board shall make the decision under this sub-section as to whether the
                    Employer is compelled to negotiate under State law.
 
-                                        ARTICLE 35 – SEVERABILITY
+### ARTICLE 35 – SEVERABILITY
 
 In the event that any Provision of this Agreement is at any time declared invalid by a court
 of competent jurisdiction, declared invalid by final Employment Relations Board (ERB)
@@ -1800,7 +1800,7 @@ invalidated shall remain in full force and effect. The invalidated Provision sha
 to renegotiation upon request by either Party. Such renegotiation shall be conducted in
 accordance with ORS 243.650 et. seq.
 
-                          ARTICLE 36 – LIMITED DURATION EMPLOYEES
+### ARTICLE 36 – LIMITED DURATION EMPLOYEES
 
 Section 1.
       Any limited duration employee hired to perform CIA bargaining unit work will be
@@ -1810,7 +1810,7 @@ Section 2.
        Whenever a limited duration assignment ends, any resulting layoff will be on the
 basis of inverse seniority from the classification affected.
 
-                       ARTICLE 37 – RECOUPMENT OF OVERPAYMENTS
+### ARTICLE 37 – RECOUPMENT OF OVERPAYMENTS
 
 Section 1.
 a.    The Department will provide written notice to the employee and the CIA of an
@@ -1844,7 +1844,7 @@ Section 2.
 This Article does not waive the Department’s right to pursue other legal procedures and
 processes to recoup an overpayment made to an employee.
 
-                                          ARTICLE 38 – LEGAL FEES
+### ARTICLE 38 – LEGAL FEES
 
 Section 1.
 The State agrees to reimburse an Association member for the reasonable, usual and
@@ -1899,7 +1899,7 @@ monetary maximums:
          •         Legal fees relating to defending criminal charges at trial, or inquest:
                    $10,000
 
-                                  ARTICLE 39 – TERM OF AGREEMENT
+### ARTICLE 39 – TERM OF AGREEMENT
 
 Section 1.
 This Agreement shall be effective as of the date of signing, except where stated
@@ -1916,7 +1916,7 @@ unless modified by mutual agreement of the State of Oregon and CIA.
                                                                           REV: 2017,2019,2021,2023,2025
 
 
-                              ARTICLE 40 - ICAC WELLNESS PROGRAM
+### ARTICLE 40 - ICAC WELLNESS PROGRAM
 
 Section 1. Responsibilities
 a.    The Employer shall follow applicable state procurement laws and regulations in
@@ -2010,7 +2010,7 @@ b.       Employees may seek or the licensed mental health provider may recommend
          or through workers’ compensation). The Employer shall not be required to pay for
          any extended program services.
 
-                                 ARTICLE 41 - BEREAVEMENT LEAVE
+### ARTICLE 41 - BEREAVEMENT LEAVE
 
 a.       Notwithstanding the hardship or sick leave eligibility criteria in the agreement,
          employees shall be eligible for a maximum of twenty-four (24) hours of paid
@@ -2050,14 +2050,14 @@ e.        For purposes of this article, ‘immediate family’ shall include:
                                                                                              REV: 2025
 
 
-                                           ARTICLE 42 – VACANCIES
+### ARTICLE 42 – VACANCIES
 
 Investigator vacancies the Agency chooses to fill will be posted on the Agency’s intranet
 or otherwise communicated to current Criminal Justice Division employees. Interested
 employees can submit a memorandum of interest to the Agency before the deadline
 identified in the announcement in lieu of a formal application.
 
-                                ARTICLE 43 – QUARTERLY CHECK-INS
+### ARTICLE 43 – QUARTERLY CHECK-INS
 
 Supervisory manager shall conduct check-ins with their employees on a quarterly basis.
 If a quarterly check-in does not occur, the employee may request a check-in for the
@@ -2074,7 +2074,7 @@ this Agreement and cannot be used for discipline.
 
 
 2025-2027 Criminal Investigators Association            40          Collective Bargaining Agreement
-       LETTER OF AGREEMENT – ARTICLE 17 INSURANCE BENEFITS PEBB
+### LETTER OF AGREEMENT – ARTICLE 17 INSURANCE BENEFITS PEBB
              PROJECTED FUNDING COMPOSITE RATE AND COLA
 
 This Letter of Agreement is between the State of Oregon, acting through its Department
@@ -2091,7 +2091,7 @@ funded by the savings.
 
 
 2025-2027 Criminal Investigators Association    41               Collective Bargaining Agreement
-         LETTER OF AGREEMENT – RECOUPMENT OF WAGE AND BENEFIT
+### LETTER OF AGREEMENT – RECOUPMENT OF WAGE AND BENEFIT
                             OVERPAYMENTS
 
 This Agreement is entered into between the State of Oregon, acting through its
@@ -2126,7 +2126,7 @@ that will go into effect on January 1, 2026.
 
 
 2025-2027 Criminal Investigators Association       42               Collective Bargaining Agreement
-                    LETTER OF AGREEMENT – ESSENTIAL WORKER PAY
+### LETTER OF AGREEMENT – ESSENTIAL WORKER PAY
 
 This Letter of Agreement is between the State of Oregon, acting through its Department
 of Administrative Services (DAS) (Employer) on behalf of the Oregon Department of
@@ -2154,7 +2154,7 @@ to extend.
 
 
 2025-2027 Criminal Investigators Association      43                 Collective Bargaining Agreement
-                   LETTER OF AGREEMENT – EQUAL PAY ADJUSTMENTS
+### LETTER OF AGREEMENT – EQUAL PAY ADJUSTMENTS
 
 This Agreement is entered into by the State of Oregon, acting through its Department of
 Administrative Services, Labor Relations Unit (Employer), on behalf of the Oregon
@@ -2285,7 +2285,7 @@ to extend.
 
 
 2025-2027 Criminal Investigators Association            46               Collective Bargaining Agreement
-    LETTER OF AGREEMENT – STRUCTURAL CHANGES TO PAY PRACTICES
+### LETTER OF AGREEMENT – STRUCTURAL CHANGES TO PAY PRACTICES
 
 This Letter of Agreement is between the State of Oregon, acting through its Department
 of Administrative Services (Employer), and the Criminal Investigators Association (CIA or
@@ -2475,7 +2475,7 @@ Therefore, the Parties agree to the following:
 
 
 2025-2027 Criminal Investigators Association          50                Collective Bargaining Agreement
-               APPENDIX A – CIA COMPENSATION PLAN & SALARY RATES
+### APPENDIX A – CIA COMPENSATION PLAN & SALARY RATES
 
 
  Classification                                                                SR

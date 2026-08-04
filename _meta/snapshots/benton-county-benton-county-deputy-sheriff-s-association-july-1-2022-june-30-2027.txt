@@ -314,7 +314,7 @@ DocuSign Envelope ID: 7274757F-D9B8-4E02-AAC9-0AF6017C6F84
             providing efficient and economical services to the citizens of Benton County.
 
 
-                                                  ARTICLE 1 – RECOGNITION
+### ARTICLE 1 – RECOGNITION
 
             1.1. Association Recognized.
             The County recognizes the Association as the sole and exclusive bargaining agent, for the
@@ -381,7 +381,7 @@ DocuSign Envelope ID: 7274757F-D9B8-4E02-AAC9-0AF6017C6F84
             step 3 of the grievance procedure is final and binding.
 
 
-                                            ARTICLE 2 – GENERAL PROVISIONS
+### ARTICLE 2 – GENERAL PROVISIONS
 
             2.1. Zipper Clause.
             Nothing in this agreement is intended to preclude the County and the Association from
@@ -437,7 +437,7 @@ DocuSign Envelope ID: 7274757F-D9B8-4E02-AAC9-0AF6017C6F84
             time spent conducting AMAC business outside their regularly scheduled work shift.
 
 
-                                            ARTICLE 3 – MANAGEMENT RIGHTS
+### ARTICLE 3 – MANAGEMENT RIGHTS
 
             Except as otherwise expressly limited by the terms of this agreement, the County retains all
             the customary, usual and exclusive rights, decision-making prerogatives, functions and
@@ -498,7 +498,7 @@ DocuSign Envelope ID: 7274757F-D9B8-4E02-AAC9-0AF6017C6F84
             County.
 
 
-                                             ARTICLE 4 – NON-DISCRIMINATION
+### ARTICLE 4 – NON-DISCRIMINATION
 
             4.1. Bargaining Unit Membership.
             Deputies shall have the right to form, join and participate in the activities of employee
@@ -528,7 +528,7 @@ DocuSign Envelope ID: 7274757F-D9B8-4E02-AAC9-0AF6017C6F84
 
 
 
-                                            ARTICLE 5 – ASSOCIATION RIGHTS
+### ARTICLE 5 – ASSOCIATION RIGHTS
 
             5.1     Dues Check Off.
 
@@ -701,7 +701,7 @@ DocuSign Envelope ID: 7274757F-D9B8-4E02-AAC9-0AF6017C6F84
 
 
 
-                                                      ARTICLE 6 – STRIKES
+### ARTICLE 6 – STRIKES
 
             6.1. No Strike Guarantee.
             The Association and its members, as individuals and as a group, will not initiate, cause,
@@ -721,7 +721,7 @@ DocuSign Envelope ID: 7274757F-D9B8-4E02-AAC9-0AF6017C6F84
             the Association.
 
 
-                                           ARTICLE 7 – ASSOCIATION ACTIVITY
+### ARTICLE 7 – ASSOCIATION ACTIVITY
 
             7.1. Association Business.
             The Association agrees to provide written notice to the County within fourteen (14) days of
@@ -780,7 +780,7 @@ DocuSign Envelope ID: 7274757F-D9B8-4E02-AAC9-0AF6017C6F84
             adjusted work shift.
 
 
-                                     ARTICLE 8 – HOURS OF WORK AND OVERTIME
+### ARTICLE 8 – HOURS OF WORK AND OVERTIME
 
             8.1. Application of This Article.
             This Article is intended only as a basis for calculating overtime payments and nothing in this
@@ -849,7 +849,7 @@ DocuSign Envelope ID: 7274757F-D9B8-4E02-AAC9-0AF6017C6F84
             Compensatory accruals in excess of eighty (80) hours shall be cashed out at the
             employee’s regular rate of pay on December 1st of each year with the following exception:
             overtime accrued while designated as Acting In Capacity (AIC) under the provisions of
-            Article 19 Classification, Section 19.1, shall be paid as accrued. Upon request of the
+### Article 19 Classification, Section 19.1, shall be paid as accrued. Upon request of the
             employee, with the approval of the Sheriff, and based upon available funding and remaining
             balance of available time accrued in the employee's compensatory time bank,
             compensatory time may be cashed out at other times of the year. Upon termination of
@@ -1001,7 +1001,7 @@ DocuSign Envelope ID: 7274757F-D9B8-4E02-AAC9-0AF6017C6F84
             rather will be paid for the employee’s normal shift if otherwise qualified.
 
 
-                                           ARTICLE 9 – OUTSIDE EMPLOYMENT
+### ARTICLE 9 – OUTSIDE EMPLOYMENT
 
             9.1. Conditions for Outside Employment.
             Deputies shall not engage in compensated outside employment without prior approval from
@@ -1044,7 +1044,7 @@ DocuSign Envelope ID: 7274757F-D9B8-4E02-AAC9-0AF6017C6F84
 
 
 
-                                                   ARTICLE 10 – UNIFORMS
+### ARTICLE 10 – UNIFORMS
 
             10.1. Uniforms.
             All bargaining unit members shall be furnished the uniforms and equipment needed to
@@ -1071,7 +1071,7 @@ DocuSign Envelope ID: 7274757F-D9B8-4E02-AAC9-0AF6017C6F84
             approved.
 
 
-                                                    ARTICLE 11 – HOLIDAYS
+### ARTICLE 11 – HOLIDAYS
 
             11.1. Holidays.
             Holidays will be recognized in two different ways: Employees will receive holiday leave
@@ -1157,7 +1157,7 @@ DocuSign Envelope ID: 7274757F-D9B8-4E02-AAC9-0AF6017C6F84
 
 
 
-               ARTICLE 12 – LEAVE DUE TO DISASTER OR ADVERSE WEATHER CONDITIONS
+### ARTICLE 12 – LEAVE DUE TO DISASTER OR ADVERSE WEATHER CONDITIONS
 
             12.1. Leave Due to Disaster.
             In the event of a disaster which destroys or renders a County-occupied building unsafe, the
@@ -1179,7 +1179,7 @@ DocuSign Envelope ID: 7274757F-D9B8-4E02-AAC9-0AF6017C6F84
             declaration of 12.1 and/or 12.2 implementation by the Board of Commissioners.
 
 
-                                               ARTICLE 13 – VACATION LEAVE
+### ARTICLE 13 – VACATION LEAVE
 
             13.1. Accrual.
             All deputies shall accrue vacation leave in the following manner:
@@ -1245,7 +1245,7 @@ DocuSign Envelope ID: 7274757F-D9B8-4E02-AAC9-0AF6017C6F84
             submitted to Human Resources.
 
 
-                                                   ARTICLE 14 – SICK LEAVE
+### ARTICLE 14 – SICK LEAVE
 
             14.1. Accrual.
             All full-time deputies shall accrue sick leave at a rate of eight (8) hours per month to be used
@@ -1438,7 +1438,7 @@ DocuSign Envelope ID: 7274757F-D9B8-4E02-AAC9-0AF6017C6F84
 
 
 
-                                            ARTICLE 15 – LEAVES OF ABSENCE
+### ARTICLE 15 – LEAVES OF ABSENCE
 
             15.1. Leave Procedure.
             Deputies may request a leave of absence for the purposes specified in this Article. Each
@@ -1582,7 +1582,7 @@ DocuSign Envelope ID: 7274757F-D9B8-4E02-AAC9-0AF6017C6F84
             Resources Director whenever they place a deputy on leave without pay.
 
 
-                                           ARTICLE 16 – WAGES AND SALARIES
+### ARTICLE 16 – WAGES AND SALARIES
 
             16.1. Wages.
 
@@ -1847,7 +1847,7 @@ DocuSign Envelope ID: 7274757F-D9B8-4E02-AAC9-0AF6017C6F84
                              regular paycheck following the new employee’s hire.
 
 
-                                              ARTICLE 17 – FRINGE BENEFITS
+### ARTICLE 17 – FRINGE BENEFITS
 
             17.1. Medical Hospital, Dental, Vision.
 
@@ -1952,7 +1952,7 @@ DocuSign Envelope ID: 7274757F-D9B8-4E02-AAC9-0AF6017C6F84
 
 
 
-                                                   ARTICLE 18 – PROBATION
+### ARTICLE 18 – PROBATION
 
             18.1. Definition.
             All deputies newly hired into a classification within the bargaining unit or hired into a
@@ -1971,7 +1971,7 @@ DocuSign Envelope ID: 7274757F-D9B8-4E02-AAC9-0AF6017C6F84
             position.
 
 
-                                               ARTICLE 19 – CLASSIFICATION
+### ARTICLE 19 – CLASSIFICATION
 
             19.1. Working Out of Classification.
             A deputy assigned the major duties and responsibilities of a higher rated position shall
@@ -2037,7 +2037,7 @@ DocuSign Envelope ID: 7274757F-D9B8-4E02-AAC9-0AF6017C6F84
             and binding arbitration of the parties’ last best offer.
 
 
-                        ARTICLE 20 – SENIORITY, LAY-OFF, AND FILLING OF VACANCIES
+### ARTICLE 20 – SENIORITY, LAY-OFF, AND FILLING OF VACANCIES
 
             20.1. Definition.
             Seniority shall be the deputy's length of continuous service in the bargaining unit, beginning
@@ -2221,7 +2221,7 @@ DocuSign Envelope ID: 7274757F-D9B8-4E02-AAC9-0AF6017C6F84
             disability leaves.
 
 
-                                                     ARTICLE 21 – SAFETY
+### ARTICLE 21 – SAFETY
 
             21.1. Safety Rules.
             All deputies shall comply with all safety rules and regulations established by the County.
@@ -2239,7 +2239,7 @@ DocuSign Envelope ID: 7274757F-D9B8-4E02-AAC9-0AF6017C6F84
 
 
 
-                                          ARTICLE 22 – RETIREMENT PROGRAM
+### ARTICLE 22 – RETIREMENT PROGRAM
 
             22.1. Public Employee’s Retirement System (PERS).
             During the term of this agreement, the County shall continue to participate in the Public
@@ -2255,7 +2255,7 @@ DocuSign Envelope ID: 7274757F-D9B8-4E02-AAC9-0AF6017C6F84
             statutes.
 
 
-                                                   ARTICLE 23 – DISCIPLINE
+### ARTICLE 23 – DISCIPLINE
 
             23.1. Corrective Discipline.
             The County agrees with the tenets of progressive and corrective discipline when
@@ -2293,7 +2293,7 @@ DocuSign Envelope ID: 7274757F-D9B8-4E02-AAC9-0AF6017C6F84
 
 
 
-                                      ARTICLE 24 – MISCELLANEOUS PROVISIONS
+### ARTICLE 24 – MISCELLANEOUS PROVISIONS
 
             24.1. Mileage Pay.
             Any deputy required to use their personal vehicle in the performance of their duties for
@@ -2372,7 +2372,7 @@ DocuSign Envelope ID: 7274757F-D9B8-4E02-AAC9-0AF6017C6F84
             time.
 
 
-                                         ARTICLE 25 – GRIEVANCE PROCEDURE
+### ARTICLE 25 – GRIEVANCE PROCEDURE
 
             25.1. Grievance Definition.
             A grievance is a dispute raised by a deputy or the Association against the County, and shall
@@ -2560,7 +2560,7 @@ DocuSign Envelope ID: 7274757F-D9B8-4E02-AAC9-0AF6017C6F84
                               including representation and/or witness fees.
 
 
-                                               ARTICLE 26 – SAVING CLAUSE
+### ARTICLE 26 – SAVING CLAUSE
 
             26.1. Definition.
             Should any Article, Section or portion of this agreement be held unlawful or unenforceable
@@ -2590,7 +2590,7 @@ DocuSign Envelope ID: 7274757F-D9B8-4E02-AAC9-0AF6017C6F84
             unlawful, the provisions of Section 26.1 shall apply.
 
 
-                                    ARTICLE 27 – DEFENSE AND INDEMNIFICATION
+### ARTICLE 27 – DEFENSE AND INDEMNIFICATION
 
             27.1. Reimbursement.
             The County agrees to reimburse a bargaining unit member for the reasonable, usual and
@@ -2706,7 +2706,7 @@ DocuSign Envelope ID: 7274757F-D9B8-4E02-AAC9-0AF6017C6F84
                     C.     Total legal fee reimbursement shall not exceed $15,000.
 
 
-                                        ARTICLE 28 – EMPLOYEE BILL OF RIGHTS
+### ARTICLE 28 – EMPLOYEE BILL OF RIGHTS
 
             28.1. In the event that a complaint is levied against an employee that causes the Sheriff’s
             Office to conduct a non-criminal Investigation, the following protections shall accrue to the
@@ -2780,7 +2780,7 @@ DocuSign Envelope ID: 7274757F-D9B8-4E02-AAC9-0AF6017C6F84
 
 
 
-                                      ARTICLE 29 – DRUG AND ALCOHOL TESTING
+### ARTICLE 29 – DRUG AND ALCOHOL TESTING
 
 
             The County and the Association jointly recognize that the use of drugs and alcohol, whether
@@ -2944,7 +2944,7 @@ DocuSign Envelope ID: 7274757F-D9B8-4E02-AAC9-0AF6017C6F84
                     expense.
 
 
-                                                 ARTICLE 30 – TERMINATION
+### ARTICLE 30 – TERMINATION
 
             30.1. Definition.
             This agreement is effective July 1, 2022, through June 30, 2027 and should the agreement

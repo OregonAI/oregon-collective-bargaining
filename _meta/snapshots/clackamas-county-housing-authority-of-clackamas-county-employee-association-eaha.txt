@@ -158,7 +158,7 @@ County, hereinafter referred to as the Association.
 
 The parties agree as follows:
 
-                                ARTICLE 1 - RECOGNITION
+### ARTICLE 1 - RECOGNITION
 
 The Authority recognizes the Association as the exclusive bargaining agent for the purpose of
 establishing salaries, wages, hours and other conditions of employment for all employees except
@@ -180,7 +180,7 @@ of interest of fifty percent (50%) plus one of the affected group of employees, 
 however, this does not include temporary employees hired through an agency, craft employees
 hired for six (6) month's or less or resident manager positions in the Housing Authority.
 
-                   ARTICLE 2 - PRESERVATION OF PUBLIC RIGHTS
+### ARTICLE 2 - PRESERVATION OF PUBLIC RIGHTS
 
 The Association recognizes that an area of responsibility must be reserved to the Authority if the
 Authority management is to effectively serve the public. Therefore, the Authority shall have the
@@ -222,7 +222,7 @@ application of any other terms of this Agreement:
       to all the requirements of the Public Employee Collective Bargaining Act (“PECBA”).
 
 
-                                 ARTICLE 3 – MERIT SYSTEM
+### ARTICLE 3 – MERIT SYSTEM
 
 1.            Probationary Period.
 All employees covered by this Agreement shall serve a probationary period of one (1) year.
@@ -267,7 +267,7 @@ The Authority may request an exceptional increase for an employee when:
      (d) At least six (6) months have passed since the last increase or promotion.
 
 
-                                ARTICLE 4 - HOURS OF WORK
+### ARTICLE 4 - HOURS OF WORK
 1.             Regular Hours.
 The regular hours of work each day shall be consecutive except for interruptions for the lunch
 period, and as may be required for emergencies.
@@ -473,7 +473,7 @@ their supervisor.
 
 
                                                  11
-                                   ARTICLE 5 – HOLIDAYS
+### ARTICLE 5 – HOLIDAYS
 
 1.            Holidays.
 The following days shall be recognized and observed as paid holidays:
@@ -569,7 +569,7 @@ regard to the work schedule.
 
 
                                                 13
-                                  ARTICLE 6 - SICK LEAVE
+### ARTICLE 6 - SICK LEAVE
 1.              Accrual.
 Each employee shall accrue unlimited sick leave at the rate of eight (8) hours (prorated for FTE
 status) for each month worked, to be used in the event of illness or illness of another person in
@@ -616,7 +616,7 @@ will accrue sick leave on a prorated basis.
 
 
                                                 14
-                              ARTICLE 7 - VACATION LEAVE
+### ARTICLE 7 - VACATION LEAVE
 1.             Accrual.
 
 A. Vacation Option – New Hires
@@ -739,7 +739,7 @@ are absent from work.
 Part-time regular status employees working half-time (18.75 or 20 hours per week) or greater
 will accrue vacation leave on a prorated basis.
 
-                                ARTICLE 8 - OTHER LEAVES
+### ARTICLE 8 - OTHER LEAVES
 
 1.             Leave of Absence.
 Leaves of absence are covered by County Code and policy. No leave will be granted to an
@@ -830,7 +830,7 @@ circumstances, such leave may be granted by the Authority upon the request of th
 All leaves referenced by this Article shall be authorized by the Executive Director or designee.
 Such authorization shall be in writing and signed by the Executive Director or designee.
 
-                           ARTICLE 9 - HEALTH AND WELFARE
+### ARTICLE 9 - HEALTH AND WELFARE
 
 1.             Medical Coverage.
 The Housing Authority agrees to contribute toward the monthly composite premium for each
@@ -1062,7 +1062,7 @@ benefits shall become effective on the first date of the calendar month followin
 calendar months of continuous employment. New employees include newly hired employees,
 rehired employees, and employees changing employment status from temporary to regular.
 
-                                     ARTICLE 10 – WAGES
+### ARTICLE 10 – WAGES
 1.              Wages and Classification Schedule.
       a)        After ratification by both parties, employees shall receive a 4.1% cost of living
 increase effective the first day of the pay period after the ratification date. In lieu of retroactive
@@ -1211,7 +1211,7 @@ Housing and Urban Development (HUD). Should the parties fail to reach agreement 
 request, the matter may be placed on the bargaining table at the next negotiation period.
 
 
-                        ARTICLE 11 - SETTLEMENT OF DISPUTES
+### ARTICLE 11 - SETTLEMENT OF DISPUTES
 1.             Grievance and Arbitration Procedure.
       a)       Any grievance or dispute which may arise between the parties involving the
 application, meaning or interpretation of this Agreement, except oral reprimands, shall be settled
@@ -1296,7 +1296,7 @@ Association Rights.
 pending grievances filed on behalf of such employee shall be considered withdrawn with
 prejudice.
 
-                       ARTICLE 12 - DISCIPLINE AND DISCHARGE
+### ARTICLE 12 - DISCIPLINE AND DISCHARGE
 
 1.      Regular employees may, in good faith for just cause, be subject to disciplinary action by
 oral reprimand, written reprimand, unpaid suspension, demotion, or discharge. Such action shall
@@ -1369,7 +1369,7 @@ The regular employee may be granted additional time, at the discretion of the em
 prepare for the pre-dismissal hearing.
 
 
-                                 ARTICLE 13 - UNION DUES
+### ARTICLE 13 - UNION DUES
 
 1. All employees covered by the terms and conditions of this Agreement may become members
    of the Association. The Authority agrees to deduct dues in the amount determined by the
@@ -1392,7 +1392,7 @@ prepare for the pre-dismissal hearing.
    membership in the Association.
 
 
-                           ARTICLE 14 - ASSOCIATION RIGHTS
+### ARTICLE 14 - ASSOCIATION RIGHTS
 1.             Association Representatives.
 The Association may designate CCEA-represented employees of the County to serve as
 Association representatives.
@@ -1580,7 +1580,7 @@ or hearings for the following:
       of the Union in an arbitration case or unfair labor practice hearing, the employee may
       appear without loss of pay if the employee appears during their work time.
 
-                           ARTICLE 15 - LAYOFF AND RECALL
+### ARTICLE 15 - LAYOFF AND RECALL
 
 1.              Reason for Layoff / Layoff Order.
 Within a classification and department, initial probationary employees will be laid off before
@@ -1761,7 +1761,7 @@ Layoff status will automatically terminate after two (2) years.
             (subject to Section 6(a), (b), (c) and (d) above).
 
 
-                        ARTICLE 16 – RECLASSIFICATION
+### ARTICLE 16 – RECLASSIFICATION
 
 
 
@@ -1829,7 +1829,7 @@ opinions of the panel. The Housing Authority Board of Commissioners, or designee
 the final authority for all salary range determinations.
 
 
-                           ARTICLE 17 - HEALTH AND SAFETY
+### ARTICLE 17 - HEALTH AND SAFETY
 
 1. The Housing Authority shall provide personal safety training and education for all
    employees.
@@ -1841,7 +1841,7 @@ the final authority for all salary range determinations.
 3. The Housing Authority safety committee shall meet on paid time or during regular working
    hours.
 
-                           ARTICLE 18 - STAFF DEVELOPMENT
+### ARTICLE 18 - STAFF DEVELOPMENT
 
 In order to facilitate staff development and improve employee training opportunities, the
 Authority will implement a tuition reimbursement policy effective July 1, 1989. This covers job
@@ -1873,7 +1873,7 @@ employee. The guidelines for this program are as follows:
    made up hour by hour with the supervisor's authorization.
 
 
-                              ARTICLE 19 – MISCELLANEOUS
+### ARTICLE 19 – MISCELLANEOUS
 
 1.              Uniforms.
 The Housing Authority will provide three (3) uniforms [defined as (3) shirts embroidered with
@@ -2087,7 +2087,7 @@ B. In the event information revealed on video camera and/or GPS data raises conc
    in advance of any pre-disciplinary meetings.
 
 
-                                ARTICLE 20 – TRANSFERS
+### ARTICLE 20 – TRANSFERS
 
 The lateral transfer or voluntary demotion of an employee to a different position in the same
 classification may occur either within the same department (intradepartmental) or to another
@@ -2118,7 +2118,7 @@ or their designee to be placed on a voluntary demotion list for a lower level po
 same classification series or a lower level classification previously held.
 
 
-                      ARTICLE 21 – PERFORMANCE EVALUATION
+### ARTICLE 21 – PERFORMANCE EVALUATION
 At least once a year, the Executive Director or designee(s) shall review and rate the work
 performance of each employee using established performance evaluation forms as a basis for the
 rating. The Human Resources Director or designee(s) shall receive a copy of the evaluation,
@@ -2142,7 +2142,7 @@ performance evaluations to all of their immediate subordinates within two (2) mo
 employee's anniversary date.
 
                                                 46
-                             ARTICLE 22 - SAVINGS CLAUSE
+### ARTICLE 22 - SAVINGS CLAUSE
 
 Should any article, section, or portion thereof, of this agreement be held unlawful and
 unenforceable by any court of competent jurisdiction, such decision of the Court shall apply only

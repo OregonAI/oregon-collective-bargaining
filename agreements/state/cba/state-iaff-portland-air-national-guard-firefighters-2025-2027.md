@@ -16,12 +16,11 @@ agency_registry_slugs: []
 source_url: https://www.oregon.gov/das/HR/CBA/IAFF%20Portland%20Air%20National%20Guard%20Firefighters%202025-2027.pdf
 source_format: pdf
 retrieved: '2026-08-02'
-source_sha256: 92dc177c67e97042f1de8d9e0227bdabb53cc499c64ced7f42b361c576ba95ec
+source_sha256: 7195ea6a09a3f07c9cb2c1dd79fe62f731415f0cd97006e981594273e80035f8
 snapshot_policy: hash-only
 status: current
-content_mode: summary
-reproduction_basis: 'jointly-authored contract; summary + official link per the class determination
-  in corpus.yml schema.doc_types (verbatim: false)'
+content_mode: 'verbatim'
+reproduction_basis: 'public record of a public body (ORS 192.311-192.478); the employer publishes the executed agreement in full at source_url; a ratified agreement is an official act (Georgia v. Public.Resource.Org, 590 U.S. 255 (2020)) — mirrored in full per the class determination in corpus.yml schema.doc_types (verbatim: true)'
 conversion_notes: pdftotext -layout; 53 pages, 129005 characters extracted; NOT human-verified
 last_verified: ''
 verified_by: ''
@@ -42,8 +41,8 @@ tags:
 - state-workforce
 ---
 
-> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated
-> summary, not the agreement's official text. Verify against the official
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a non-authoritative
+> mirror of the agreement's text, not the official record. Verify against the official
 > source: https://www.oregon.gov/das/HR/CBA/IAFF%20Portland%20Air%20National%20Guard%20Firefighters%202025-2027.pdf (retrieved 2026-08-02).
 
 # IAFF Portland Air National Guard Firefighters 2025-2027
@@ -57,18 +56,11 @@ Collective bargaining agreement between the State of Oregon (DAS Labor Relations
 - Expiry stated in the document's text: 2027-06-30 (effectiveness is typically conditional on ratification and is recorded only when the document states a date)
 - Source document: 53 pages (PDF, DAS CBA library)
 
-This corpus is **summary-first for agreements**: the contract's text is not
-reproduced here (see Curator notes), and nothing on this page states or
-paraphrases the agreement's terms. Read the agreement itself at the official
-source link above.
 
 ## Curator notes
 
-Summary-first is the recorded class determination (`corpus.yml
-schema.doc_types`, `verbatim: false`): a CBA is jointly authored with private
-parties, and "public record" and "freely reproducible" are not the same claim.
-If the operator later flips the class, full text lands in a follow-up PR — the
-committed snapshot extraction already carries what would be diffed.
+The full executed text is mirrored below from the committed extraction; the
+official PDF at the source link above remains the authoritative record.
 
 Letters of agreement bound into this PDF by DAS are part of this source
 snapshot; separately-published LOAs are their own documents in a later tranche.
@@ -83,3 +75,2292 @@ Statutes and rules the agreement's text cites are recorded in frontmatter
 `relationships.references_external` (4 citation(s)) and resolve into
 `executive-regulatory-frameworks` as cites — this corpus asserts no
 `implements` edge anywhere.
+
+## Full text
+
+              between
+
+              DAS
+          THE DEPARTMENT OF
+        ADMINISTRATIVE SERVICES
+            on behalf of the
+     DEPARTMENT OF CONSUMER AND
+          BUSINESS SERVICES
+                  and
+
+
+      IAFF~PANG
+      INTERNATIONAL ASSOCIATION OF
+   FIREFIGHTERS FOR THE PORTLAND AIR
+NATIONAL GUARD FIREFIGHTERS, LOCAL 1660
+                                                 TABLE OF CONTENTS
+
+ARTICLE                                                                                                                            Page
+
+PREAMBLE ............................................................................................................................... 2
+ARTICLE 1 - RECOGNITION .................................................................................................. 2
+ARTICLE 2 - NON-DISCRIMINATION .................................................................................. 2
+ARTICLE 3 - MANAGEMENT RIGHTS ................................................................................. 2
+ARTICLE 4 - STRIKES ............................................................................................................. 3
+ARTICLE 5 - GENERAL PROVISIONS .................................................................................. 3
+ARTICLE 6 - PERSONNEL RECORDS................................................................................... 5
+ARTICLE 7 - LEAVE OF ABSENCE ....................................................................................... 5
+ARTICLE 8 - UNION BUSINESS............................................................................................. 6
+ARTICLE 9 - HOURS OF WORK ............................................................................................ 6
+ARTICLE 10 - WAGES ............................................................................................................. 8
+ARTICLE 11 - HEALTH AND WELFARE ............................................................................ 10
+ARTICLE 12 - RETIREMENT................................................................................................ 11
+ARTICLE 13 - DISCIPLINE AND DISCHARGE .................................................................. 12
+ARTICLE 14 - GRIEVANCE PROCEDURE ......................................................................... 15
+ARTICLE 15 – PAID LEAVES ............................................................................................... 17
+ARTICLE 16 - SICK LEAVE .................................................................................................. 19
+ARTICLE 17 - LAY-OFFS ...................................................................................................... 21
+ARTICLE 18 - TRADE TIME ................................................................................................. 24
+ARTICLE 19 - EDUCATION REIMBURSEMENT ............................................................... 24
+ARTICLE 20 - CONVERSION OF WAGE & BENEFIT ACCRUALS................................. 25
+ARTICLE 21 - SAVINGS CLAUSE ....................................................................................... 25
+ARTICLE 22 - TERM OF AGREEMENT .............................................................................. 25
+ARTICLE 23 - PROMOTIONS ............................................................................................... 25
+ARTICLE 24 - LABOR/MANAGEMENT COMMITTEE ..................................................... 26
+ARTICLE 25 – DRUG AND ALCOHOL FREE WORKPLACE ........................................... 26
+ARTICLE 26 – WORK OUT OF CLASSIFICATION............................................................ 30
+ARTICLE 27 – SAFETY EQUIPMENT AND UNIFORMS .................................................. 31
+ARTICLE 28 – ANNUAL FIREFIGHTER PHYSICALS AND CANCER SCREENING .... 32
+ARTICLE 29 – SALARY ADMINISTRATION ..................................................................... 32
+LETTER OF AGREEMENT - FITNESS/WELLNESS........................................................... 38
+LETTER OF AGREEMENT – EQUAL PAY ......................................................................... 39
+LETTER OF AGREEMENT – CLASS AND COMP MARKET STUDY ............................. 42
+LETTER OF AGREEMENT – PAID LEAVE OREGON ....................................................... 43
+LETTER OF AGREEMENT — BI-WEEKLY PAY PERIOD ............................................... 44
+LETTER OF AGREEMENT – MQ TRANSITION PLAN FOR CURRENT EMPLOYEES 46
+LETTER OF AGREEMENT – ESSENTIAL WORKER INCLEMENT
+WEATHER/HAZARDOUS CONDITIONS PAY ................................................................... 47
+LETTER OF AGREEMENT - STRUCTURAL CHANGES TO PAY PRACTICES............. 48
+LETTER OF AGREEMENT – MEDICAL RESIGNATION .................................................. 50
+SIGNATURE PAGE – to be inserted ....................................................................................... 51
+
+
+
+
+2025 - 2027 IAFF/PANG                                            1                                        Collective Bargaining Agreement
+                                         PREAMBLE
+
+This agreement is entered into by and between the State of Oregon, hereinafter referred
+to as the "Employer", on behalf of the Military Department, hereinafter referred to as the
+"Agency" and the International Association of Firefighters, Local 1660, herei nafter
+referred to as the "Union" and is the full and complete agreement between the parties.
+
+### ARTICLE 1 - RECOGNITION
+
+The Employer recognizes the Union as the exclusive bargaining representative for all
+full-time, air craft crash/rescue technicians and officers, excluding all military personnel
+and all part-time, temporary, casual, management and confidential employees. Where
+the changes in the mission of the Agency impact the bargaining unit, the parties agree
+to meet and discuss the impact of those changes.
+
+### ARTICLE 2 - NON-DISCRIMINATION
+
+The Employer and the Union agree that each will fully comply with all applicable laws
+and regulations regarding discrimination against any employee or applicant for
+employment because of such person's race, religion, color, national origin, mental or
+physical handicap, sex, age, or political or Union affiliation. Any references to gender in
+the agreement include both genders. Claims for violations of this article would not be
+subject to the grievance and arbitration process, but an employee may make claims with
+the Oregon Bureau of Labor and Industry (BOLI) or the US EEOC.
+
+### ARTICLE 3 - MANAGEMENT RIGHTS
+
+Except as otherwise specifically limited by the terms of this agreement, the Employer/
+Agency retains all of the customary, usual and exclusive rights, prerogatives, functions
+and authority connected with, or in any way incident to, its responsibility to manage the
+affairs of the fire department. Without limitation, but by way of illustration, the exclusive
+prerogatives, functions and rights of the Employer/Agency shall include the following:
+        a)      To direct and supervise all operations, functions and policies of the division
+                in which the employees in the bargaining unit are employed;
+
+        b)       To manage and direct the work force, including, but not limited to, the right
+                 to determine the methods, processes and manner of performing work; the
+                 right to hire, promote, and retain employees; the right to determine
+                 schedules of work and the right to pu rchase, dispose of and assign
+                 equipment and supplies;
+
+
+
+
+2025 - 2027 IAFF/PANG                        2                          Collective Bargaining Agreement
+        c)       To determine the need for a reduction or an increase in the work force;
+
+        d)       To establish, revise and implement standards for hiring, classification,
+                 promotion, quality or work, materials and equipment;
+
+        e)       To implement new and to revise or discard, wholly or in part, old methods,
+                 procedures, materials, equipment, facilities and standards.
+
+### ARTICLE 4 - STRIKES
+
+Section 1. No Strike.
+The Union and its members, as individuals or as a group, will not initiate, cause,
+participate or join in any strike, work stoppage, or slowdown, or any other restrictions of
+work, at any location in the State during the term of this contract. Employees i n the
+bargaining unit, while acting in the course of their employment and to maintain the
+continuity of essential services, shall not honor any picket line established by the Union
+or by any other labor organization when called upon to cross picket lines i n the line of
+duty. Disciplinary action, including discharge, may be taken by the State against any
+employee or employees engaged in a violation of this Article.
+
+Section 2. Union Obligation.
+In the event of a strike, work stoppage, slowdown, picketing, observance of a picket line,
+or other restriction of work in any form either on the basis of individual choice or
+collective employee conduct, the Union will immediately, upon notification, attempt to
+secure an immediate orderly return to work.
+
+Section 3. Lockout.
+There will be no lockout of employees in the unit by the State during the term of this
+Agreement.
+
+### ARTICLE 5 - GENERAL PROVISIONS
+
+Section 1. Seniority Definition.
+Seniority shall mean a permanent employee's length of continuous service with the
+Employer from the last date of hire. A new employee who has not successfully
+completed the probationary period for new hires shall not be considered a permanent
+employee.
+
+Section 2. Seniority Ranking.
+For purposes of this Article (specifically section 3) employee seniority shall be calculated
+according to their date of hire with the Portland Air National Guard Fire Department.
+
+
+
+
+2025 - 2027 IAFF/PANG                       3                         Collective Bargaining Agreement
+Section 3. Utilization.
+Seniority ranking shall be used in the determination of:
+      a)      All matters concerning layoffs and rehiring. Employees shall be laid off in
+              ascending order of seniority and recalled in descending order of seniority.
+              No new employees shall be hired until all laid off employees have been
+              given an opportunity to return in accordance with this Agreement,
+              beginning with the last employee to be laid off.
+
+        b)       Staffing: The department will make every effort to ensure at least four (4)
+                 members of the bargaining unit are on shift at all times.
+
+Section 4. Loss of Seniority.
+An employee shall lose all seniority credit in the event of:
+      a)    Voluntary termination.
+
+        b)       Discharge for just cause.
+
+        c)       Failure to return from layoff within fourteen (14) days following written
+                 notification to the employee's last known address.
+
+        d)       Layoff of more than two (2) years.
+
+Section 5. Probationary Period.
+Every employee hired into the bargaining unit shall serve a probationary period of twelve
+(12) months. The Union recognizes the right of the State to terminate or discipline
+probationary employees for any reason, with or without cause, and any such discipline
+shall not constitute a violation of this contract, and shall not be subject to the grievance
+procedure.
+
+Section 6. Dues Checkoff.
+The State agrees to deduct the uniformly required Union membership dues and other
+authorized fees or assessments from each paycheck and remit, as directed by the Union
+once each month from employees who have authorized such deductions in writing. The
+State will furnish a report, currently the “IPFF” report, to the Union by the 5 th of each
+month. This report will include the names and dues deduction amounts of each member.
+
+Section 7. Security Clearance.
+When an employee does not meet Guard security authorization standards, the Employer
+may, at its sole discretion, terminate the employee. Should the Employer elect to
+terminate the employee for failure to meet security authorization standards, this action
+may not be grieved.
+
+
+
+
+2025 - 2027 IAFF/PANG                        4                         Collective Bargaining Agreement
+Section 8. Uniforms.
+The Agency shall provide all articles of uniform or safety equipment that the Agency
+determines to be required.
+                                                                                          Rev: 2019
+
+
+### ARTICLE 6 - PERSONNEL RECORDS
+
+Section 1. Files.
+Employees may inspect the contents of their personnel file, except for confidential
+reports from previous employers, in the presence of an authorized Agency
+representative.
+
+Section 2. Signature Requirement.
+No information reflecting critically upon employees shall be placed in their personnel
+files that does not bear their signature. Employees shall be required to sign such
+material to be placed in their personnel file with the understanding their signature does
+not indicate agreement.
+
+Section 3. File Purging.
+Upon request of the employee, disciplinary actions shall be removed from their
+personnel file after three (3) years, so long as no warnings or discipline occur within that
+time period.
+
+### ARTICLE 7 - LEAVE OF ABSENCE
+
+Section 1. Without Pay.
+The Agency will consider a written application for leave of absence without pay. The
+written application must describe the reason for the request and confirm a specified date
+at which the employee is expected to return to work. The Agency may terminate or
+cancel such leave by ten (10) days written notice, mailed to the address given by the
+employee on his/her written application for such leave, in the event of an emergency
+which requires the employee to return to work. Such leave shall not be approved for the
+purpose of accepting employment outside the service of the Agency; and the notice that
+the employee has accepted permanent employment or entered into full-time business
+or occupation may be accepted by the Agency as a resignation.
+
+Any employee who is granted a leave of absence without pay under this section and
+who for any reason fails to return to work immediately upon the expiration or termination
+of said leave of absence shall be considered as having resigned his/her position.
+Employees on leave without pay, for any reason, shall not accrue any benefits unless
+otherwise specified in this Agreement.
+
+Section 2. Witness or Jury Duty.
+Employees shall suffer no loss of pay as a result of a requirement to serve on a jury or
+in the event they are subpoenaed to be a witness in a matter resulting from their official
+
+2025 - 2027 IAFF/PANG                      5                          Collective Bargaining Agreement
+duties with the State. If the employee is released from jury duty early, they will return to
+work.
+
+In the event an employee is subpoenaed for something other than that described herein,
+the Agency will allow time off without pay if the employee has no accrued leave or the
+employee will use vacation or comp time.
+
+Section 3. Pregnancy or Parental Leave.
+The Agency shall allow parental leave or Family Medical Leave (FMLA) in accordance
+with state and/or federal statute.
+
+Section 4. Military Leave.
+Military leave shall be granted in accordance with state and federal statutes. Each
+employee is granted one hundred twenty (120) hours of paid military leave per federal
+fiscal year. To qualify for military leave, the employee must present military orders that
+specify “annual active duty training.”
+
+### ARTICLE 8 - UNION BUSINESS
+
+Section 1. Representatives.
+The Union will notify the Fire Chief, in writing, of the names of its representatives.
+
+Section 2. Visits.
+Union representatives, other than Agency employees, upon notification to the Fire Chief
+or his designee, may visit with employees during breaks, meal periods or after normal
+working hours - employee representatives are not required to provide notification. Visits
+outside of those allowed for above, may be granted only with the expressed approval of
+the Fire Chief or a designee and shall not disrupt the workflow.
+
+Section 3. Internal Business.
+The internal business of the Union shall only be conducted outside normal working
+hours.
+
+Section 4. Bulletin Boards.
+Bulletin board space will be provided the Union for the posting of meeting notices and
+other information of interest to its members.
+
+### ARTICLE 9 - HOURS OF WORK
+
+Section 1. Work Shifts.
+All employees shall be scheduled to work on a regular work shift, which shall have
+regular starting and quitting times. Employees shall report to their assigned work
+locations ready to work at the start of their scheduled work shift.
+
+
+
+
+2025 - 2027 IAFF/PANG                      6                          Collective Bargaining Agreement
+Employees assigned to Operations Division shall continue to work a fifty-six (56) hour
+schedule consisting of twenty-four (24) hour shifts. The cycle shall consist of forty-eight
+(48) hours on, ninety-six (96) hours off. This schedule is to be considered a forty-
+eight/ninety-six (48/96) schedule.
+
+A “shift” is a twenty-four (24) hour period of time.
+
+Employees assigned to Administrative Division shall work a fifty-six (56) hour schedule
+consisting of four (4) – eight (8) hour workdays, and a twenty-four (24) hour shift
+scheduled during a standard work week of Sunday-Saturday.
+
+Administrative Division Employees will not count toward minimum staffing.
+Administrative Division employees may supplement on duty operational staffing, but will
+not replace operations employees.
+
+Section 2. Work Schedules.
+Schedules showing employee shifts, workdays and hours shall be posted on the fire
+department bulletin boards. Except for emergency situations, changes in regular work
+schedules may be made as required by the Fire Department Chief or designee, provided
+the affected employee is given at least ninety-six (96) hours advance notice of the
+change.
+
+Section 3. Overtime Rate.
+The straight time hourly rate is the employee's regular monthly gross wage divided by
+229.67. For purposes of this agreement, the regular gross monthly wage rate is that
+rate paid for the employee's regular schedule of one hundred and eighty-two (182) hours
+for their twenty-four (24) day FLSA work period, but does not include the premium pay
+for the hours worked in excess of one hundred and eighty-two (182) hours for that same
+period. Overtime shall be paid monthly along with the regular pay schedule.
+
+Section 4. Qualifying Overtime.
+a)    Scheduled FLSA Overtime.
+      Compensation for scheduled FLSA overtime shall be paid at the rate of one-half
+      (1/2) time the hourly rate for each portion thereof at quarter (1/4) hour intervals
+      worked. Scheduled FLSA overtime for purposes of this Agreement equals ten
+      (10) hours for each twenty-four (24) day FLSA work period, which equals one
+      hundred eighty-two (182) hours of paid status. All shift personnel will be paid
+      overtime on the basis of a schedule consisting of a twenty-four (24) day period
+      FLSA work period. All time worked in addition to an employee’s regularly
+      scheduled shift shall be paid at time and one-half (1 1/2) of the straight-time
+      hourly rate. All paid leave counts toward the one-hundred and eighty two (182)
+      hours in the FLSA period.
+
+
+
+
+2025 - 2027 IAFF/PANG                      7                         Collective Bargaining Agreement
+        No Leave-Without-Pay will be counted towards the one-hundred and eighty two
+        (182) hours, even if the reason the employee is on LWOP is due to a Workers
+        Comp (SAIF) claim.
+
+b)      Unscheduled FLSA Overtime.
+        For hours worked outside of an employee’s regulary scheduled work shift (see
+        Article 9, Section 1), overtime will be paid at time and one-half (1-1/2) of the
+        regular hourly wage rate. Where the employer offers and the employee accepts
+        compensatory time in lieu of compensation for unscheduled overtime worked, the
+        employee may accrue up to 192 hours (8 shifts) of compensatory time earned.
+
+Section 5. Kelly Days.
+In 2023 Bargaining, it was agreed that Kelly Days in Article 9 Section 5, was combined
+into PTO.
+                                                                              Rev: 2019,2023,2025
+
+
+### ARTICLE 10 - WAGES
+
+Section 1. Salary Adjustment.
+Effective February 1, 2026, or the first of the month following receipt of an interest
+arbitration award, whichever is later, employees will receive a Cost of Living Adjustment
+of two and one half percent (2.5%).
+
+Effective January 1, 2027, or the first of the month following an interest arbitration award,
+whichever is later, employees will receive a Cost of Living Adjustment of four percent
+(4%).
+
+Effective February 1, 2027, an additional step shall be added to all salary ranges.
+Employees whoa re at the top step prior to implementation of the new top step and have
+been employed with the State for ten (10) or more years will be moved to the next step
+in the salary range on February 1, 2027. All employees who are at the top step prior to
+implementation but have been employed with the State for less than ten (10) years will
+have their prior Benefit Service Date (BSD) restored, using the same month an d day,
+and will be eligible to move to the new top step on their next BSD after implementation.
+
+Section 2. Wage Table.
+CLASSIFICATION TITLE                SALARY
+                                    RANGE
+Firefighter                           21
+Lieutenant                             24
+Captain                                27
+
+
+
+
+2025 - 2027 IAFF/PANG                       8                         Collective Bargaining Agreement
+                             SALARY SCHEDULE AS OF JULY 1, 2025
+  Salary
+  Range      Step 1     Step 2     Step 3     Step 4     Step 5     Step 6     Step 7      Step 8
+
+    21        6,450     6,948      7,463      7,810       8,178      8,564      8,971       9,396
+    24        8,518     8,922      9,344      9,788      10,250
+    27        9,193     9,631      10,086     10,564     11,068     11,595
+
+
+ Where the system rates and the rates printed in the CBA differ by two dollars ($2.00) or less per
+ month, the system shall be considered the official rate and shall supersede the rate printed in
+ the CBA.
+ Note: Range Option A will be calculated using a reverse differential and rates will not be
+ specifically listed in the Agreement.
+
+
+                        SALARY SCHEDULE AS OF FEBRUARY 1, 2026
+  Salary
+  Range      Step 1     Step 2     Step 3    Step 4     Step 5    Step 6     Step 7      Step 8
+
+    21        6611       7122       7650      8,005      8,382      8,778      9,195       9,631
+    24        8731       9145       9578      10,033    10,506
+    27        9423       9872      10338      10,828    11,345     11,885
+
+
+ Where the system rates and the rates printed in the CBA differ by two dollars ($2.00) or less
+ per month, the system shall be considered the official rate and shall supersede the rate
+ printed in the CBA.
+ Note: Range Option A will be calculated using a reverse differential and rates will not be
+ specifically listed in the Agreement.
+
+
+
+                          SALARY SCHEDULE AS OF JANUARY 1, 2027
+  Salary
+  Range      Step 1     Step 2     Step 3     Step 4     Step 5     Step 6     Step 7      Step 8
+
+    21        6875       7407       7956       8,325      8,717      9,129      9,563      10,016
+    24        9080       9511       9961      10,434     10,926
+    27        9800      10267      10752      11,261     11,799     12,360
+
+
+ Where the system rates and the rates printed in the CBA differ by two dollars ($2.00) or less per
+ month, the system shall be considered the official rate and shall supersede the rate printed in
+ the CBA.
+ Note: Range Option A will be calculated using a reverse differential and rates will not be
+ specifically listed in the Agreement.
+
+
+
+
+2025 - 2027 IAFF/PANG                            9                              Collective Bargaining Agreement
+                                  SALARY SCHEDULE AS OF FEBRUARY 1, 2027
+  Salary
+  Range      Step 1      Step 2     Step 3      Step 4     Step 5      Step 6      Step 7      Step 8        Step 9
+
+    21        6875        7407       7956        8,325      8,717       9,129      9,563       10,016        10,570
+    24        9080        9511       9961       10,434     10,926      11,443
+    27        9800       10267       10752      11,261     11,799      12,360      12,947
+
+
+ Where the system rates and the rates printed in the CBA differ by two dollars ($2.00) or less per month, the
+ system shall be considered the official rate and shall supersede the rate printed in the CBA.
+ Note: Range Option A will be calculated using a reverse differential and rates will not be specifically listed in
+ the Agreement.
+                                                                                 Rev: 2017, 2019, 2022,2023,2025
+
+
+### ARTICLE 11 - HEALTH AND WELFARE
+
+Section 1.
+Notwithstanding any past practice to the contrary, an Employer contribution will be made
+for each employee who has a minimum of eighty (80) paid hours in the month and who
+is eligible for, and participates in, the flexible benefits program as administered by the
+Public Employees’ Benefit Board (PEBB), unless otherwise required by law. Full -time
+for purposes of this Article is defined as paid time equal to the regular work hours in the
+month.
+
+Contributions will be prorated for employees who have at least eighty (80) paid regular
+hours in a month and less than full-time hours, unless otherwise required by law. This
+proration shall be based upon the ratio of regular hours to full-time hours, rounded to
+the nearest full percent.
+
+Section 2.
+An Employer contribution shall be made for full-time employees who have at least eighty
+(80) paid regular hours in a month, unless otherwise required by law.
+
+For Plan Year 2025 the Employer will pay ninety-five percent (95%) and the employee
+will pay five percent (5%) of the monthly premium rate as determined by PEBB. For
+employees who enroll in a medical plan that is a least ten percent (10%) lower in cost
+than the monthly premium rate for the highest cost medical plan available to the majority
+of employees, the Employer shall pay ninety-nine percent (99%) of the monthly premium
+for PEBB health, vision, dental and basic life insurance benefits and the employee shall
+pay the remaining one percent (1%).
+
+For Plan Years 2026 and 2027, the Employer will pay ninety-five percent (95%) and the
+employee will pay five percent (5%) of the monthly premium rate as determined by
+PEBB. For employees who enroll in a medical plan that is at least five percent (5%)
+lower in cost than the monthly premium rate for the highest cost medical plan available
+
+2025 - 2027 IAFF/PANG                              10                               Collective Bargaining Agreement
+to the majority of employees, the Employer shall pay ninety-nine percent (99%) of the
+monthly premium for PEBB health, vision, dental and basic life insurance benefits and
+the employee shall pay the remaining one percent (1%).
+
+Section 3.
+If the Collective Bargaining Agreement provides for a COLA with an effective date in the
+second (2nd ) year of a biennium and the difference in the projected increase in the PEBB
+composite rate for the following calendar year falls below three and four tenths percent
+(3.4%), then the effective date of the COLA will be moved up by one (1) full month for
+each month it is sufficiently funded by the savings.
+                                                                      Rev: 2017, 2019,2023,2025
+
+
+### ARTICLE 12 - RETIREMENT
+
+Section 1. Public Employees Retirement System (PERS) Members.
+For purposes of this Section 1, ‘employee’ means an employee who is employed by the
+State on August 28, 2003 and who is eligible to receive benefits under ORS 238 for
+service with the State pursuant to section 2 of chapter 733, Oregon Laws 2003.
+
+Section 2. Oregon Public Service Retirement Plan Pension Program Members.
+For purposes of section 2, ‘employee’ means an employee who is employed by the State
+on or after August 29, 2003 and who is not eligible to receive benefits under ORS
+chapter 238 for service with the State pursuant to section 2 of chapter 733, Oregon Laws
+2003.
+
+Retirement Contributions.
+a)    Bargaining unit employees will make their own six percent (6%) contributions to
+      their PERS account or the Individual Account Program as applicable.
+      Employees’ contributions shall be treated as ‘pre tax’ contributions pursuant to
+      Internal Revenue Code Section 414(h)(2).
+
+b)      Pursuant to SB 1049 (2019), PERS will divert some of the six (6%) percent
+        employee contributions referenced in paragraph A from the bargaining unit
+        members’ employee accounts in the PERS Individual Account Program (IAP).
+        SB 1049 (2019) will divert two-point five (2.5%) from the IP account of PERS Tier
+        1 and Tier 2 members and seventy-five hundredths (0.75%) percent from the IAP
+        account of ORSRP members.
+
+        To maintain Tier 1, Tier 2, and OPSRP bargaining unit members’ retirement
+        security in their IAP accounts, pursuant to ORS 238A.340, effective January 1,
+        2025, the Employer will make a three (3%) percent employer contribution to the
+        employer account in the IAP for each employee who is a PERS Tier 1, Tier 2, or
+        OPSRP members.
+
+
+
+2025 - 2027 IAFF/PANG                     11                        Collective Bargaining Agreement
+c)      If for any reason, including but not limited to legislative action, order of any court
+        of competent jurisdiction or ballot measure (initiative or referral), the Employer
+        contributions to the IAP pursuant to ORS 238A.340 are prohibited or the full six
+        (6%) percent employee contribution to the employee account in the IAP is
+        returned and/or reinstated, the Parties agree to bargain the impact of those
+        changes pursuant to the fast track process in ORS 243.698.
+
+Section 3. Pre-Retirement Counseling Leave.
+Leave with pay for an employee to investigate and assemble a retirement program may
+be granted by an appointing authority for a period up to twenty-four (24) hours leave
+within three (3) years of the chosen retirement date. Employees shall request the use
+of leave provided in this section at least fourteen (14) days prior to the intended day of
+use.
+
+Authorization of the use of pre-retirement leave shall not be unreasonably denied unless
+the Agency determines that the use of such leave handicaps the efficiency of the
+employee’s work unit.
+
+When the date requested for pre-retirement leave cannot be granted for the above
+reason, the Agency shall offer a choice from three (3) other sets of dates. The leave
+discussed under this section may be used to investigate and assemble the employee’s
+retirement program, including PERS, Social Security, Insurance and other retirement
+income.
+                                                                               Rev: 2017, 2021,2023
+
+
+### ARTICLE 13 - DISCIPLINE AND DISCHARGE
+
+Section 1. Disciplinary Action.
+Disciplinary action may be imposed by the Employer on any employee covered by this
+Agreement who fails to fulfill his/her responsibilities as a Fire Department employee.
+Reasons for imposition of disciplinary action may be misconduct, insubordination, willful
+failure to perform regularly assigned tasks without cause, continuing inefficiency,
+continuing incompetence, abuse of sick leave, the willful giving of false information, the
+willful withholding of information in making application for employment or willful violation
+of departmental rules.
+
+Section 2. Forms of Discipline.
+The principles of progressive discipline shall be used. An employee may only be
+disciplined for just cause. The Employer may take the following forms of disciplinary
+action:
+        a)    Written Reprimand.
+
+        b)       Reduction in Pay Grade.
+
+        c)       Temporary Reduction in Pay
+
+2025 - 2027 IAFF/PANG                       12                         Collective Bargaining Agreement
+        d)       Suspension.
+
+        e)       Discharge.
+
+An employee demoted/suspended shall receive written notice of the discipline in
+advance of said action and of the specific charges supporting the discipline. The
+Employer shall allow the disciplined employee a reasonable period of time to correct the
+reason that was the basis for the disciplinary action prior to the imposition of any
+subsequent progressive disciplinary action described in this section. The Employer shall
+not be required to administer disciplinary actions in progressive form in the event the
+employee's action is such as to endanger the safety of the public or his/her fellow
+employees.
+
+Section 3. Discharge.
+A new employee who has not completed their probationary period may be discharged
+without just cause. An employee who has successfully completed his/her probationary
+period may not be discharged except for just cause. Discharge of a regular status
+employee may be appealed by the Union to binding arbitration following the conclusion
+of the 3rd step of the process described in Article 14 – Grievance Procedure.
+
+A written pre-dismissal notice shall be given to a regular status employee against whom
+a charge is presented. Such notice shall include the known complaints, facts and
+charges, and a statement that the employee may be dismissed. The employee shall be
+afforded an opportunity to refute such charges or present mitigating circumstances to
+the Military Department (AGP) designee at a time and date set forth in the notice which
+date shall not be less than seven (7) calendar days from the date the notice is received.
+The employee shall be permitted to have an official representative present. At the
+discretion of the Military Department, the employee may be suspended with pay or be
+allowed to continue work as specified within the predismissal notice.
+
+Section 4. Right to Grieve.
+Any employee covered by this Agreement shall be entitled to submit a grievance
+pursuant to Article 14 - Grievance Procedure, relevant to any disciplinary action, which
+has been imposed on him. No employee shall be subject to any of the forms of
+disciplinary action set forth in this Article for exercising any rights under this Agreement,
+including but not limited to the submission of a grievance.
+
+If the Employer has reason to discipline an employee, it shall be done in a manner,
+which will not embarrass or humiliate the employee in front of other employees or the
+public.
+
+
+
+
+2025 - 2027 IAFF/PANG                      13                          Collective Bargaining Agreement
+Section 5.
+Unauthorized absence of the employee from duty shall be deemed to be without pay
+and may be grounds for disciplinary action by the Employer. Employees may be allowed
+to cover such absences with accrued vacation time or compensatory time if extenuating
+circumstances existed. Any employee who is absent for three (3) consecutive shifts
+without authorized leave shall be deemed to have resigned unless prevented from
+notifying the Employer due to circumstances beyond their control.
+
+Section 6. Probationary Employee.
+This Article shall not apply to any employee on probation as defined in Article 5 - General
+Provisions, Section 5, Probationary Period.
+
+Section 7. Imposition.
+If the Agency has reason to discipline an employee, s/he shall make reasonable effort
+to impose such discipline in a manner that will not unduly embarrass the employee
+before other employees or the public.
+
+Section 8. Due Process.
+In the event the Agency believes an employee may be subject to discipline greater than
+a written reprimand, the following procedural due process shall be followed:
+        a)     The employee shall be notified, in writing, of the charges or allegations
+               that may subject them to discipline.
+
+        b)       The employee shall be notified, in writing, of the disciplinary sanctions
+                 being considered.
+
+        c)       The employee will be given an opportunity to refute the charges or
+                 allegations either in writing or orally in an informal hearing.
+
+        d)       At their request, the employee will be entitled to Union representation at
+                 the informal hearing.
+
+Section 9. Just Cause Standards.
+For the purpose of this Agreement, just cause shall be determined in accordance with
+the following guidelines:
+        a)    The employee shall have some warning of the consequences of their
+              conduct, unless the conduct is of such a nature that no prior warning is
+              necessary in the eyes of a reasonable person.
+
+        b)       If a rule or order is the subject of the alleged misconduct, it must be
+                 reasonable and applied evenhandedly.
+
+        c)       The Agency must conduct a reasonable investigation.
+
+
+
+2025 - 2027 IAFF/PANG                       14                        Collective Bargaining Agreement
+        d)       It must be determined, by a preponderance of evidence, that the employee
+                 is guilty of the alleged misconduct or act.
+
+        e)       The discipline must be appropriate based on the severity of the
+                 misconduct or the actual or likely impact the misconduct has or would have
+                 on the employer's operation.
+
+        f)       The employee's past employment record shall be considered, if
+                 appropriate, based on the severity of the act.
+### ARTICLE 14 - GRIEVANCE PROCEDURE
+
+Section 1. Definition
+Grievances are defined as acts, omissions, applications, meaning or interpretation
+alleged to be violations of the terms and conditions of this agreement. The following
+procedure shall be the sole and exclusive method for resolution of all grievances, Except
+for the following Articles, which shall start at Step 2 in this Article:
+        •      Article 1 – Recognition
+        •      Article 2 – No Discrimination
+        •      Article 7 – Leave of Absence
+        •      Article 13 – Discipline and Discharge
+        •      Article 16 – Sick Leave (FMLA/OFLA)
+
+It is the intent of the parties to resolve employee problems and complaints, or differences
+in the interpretation of the contract, by informal methods if possible. However, if the
+Union or an employee desires a formal resolution of any grievance or dispute, which
+arises concerning the application, meaning, or interpretation of this Agreement (except
+complaints of discrimination), such grievance shall be resolved as provided under this
+Article.
+
+The grievance shall include: (a) a statement of the grievance and relevant facts; (b) the
+specific provision or provisions of the Agreement alleged to be violated: and (c) the
+remedy sought.
+
+For the purposes of this Article, a business day is defined as Monday through Friday;
+Saturdays, Sundays and the Employer's recognized holidays excluded. Time limits
+referenced herein may be extended by mutual agreement of the parties.
+
+Section 2. Grievance Steps
+      Step 1. Fire Department.
+      The affected employee, or the Union Grievance Committee shall take up the
+      grievance with the appropriate excluded direct supervisor and shall do so within
+      thirty (30) calendar days of the occurrence giving rise to the grievance or within
+      thirty (30) calendar days of the time the employee may first be reasonably
+      expected to have had knowledge of that occurrence. During this thirty (30) day
+
+2025 - 2027 IAFF/PANG                       15                        Collective Bargaining Agreement
+        period, every effort shall be made to settle grievances at this first step through
+        the recognized chain of command in verbal form, and either party may request
+        the presence of the Fire Chief during such discussions. Within fifteen (15)
+        calendar days of receipt of an official statement of grievance, Portland Air
+        National Guard management will issue a written response.
+
+        Step 2. Military Department.
+        In the event the grievance is not resolved at Step 1, the Union may, with or without
+        the presence of the aggrieved employee, present any grievance in writing to the
+        Military Department (AGP) designee for adjustment within fifteen (15) calendar
+        days after the response required by Step 1 was due. If either Party requests a
+        meeting at Step 2, then a meeting will be arranged by mutual agreement. The
+        Military Department will provide a formal written response within fifteen (15)
+        calendar days of receipt of the Union’s request for review and response, or after
+        a meeting held as a Step 2.
+
+        Step 3. Department of Administrative Services.
+        If the grievance remains unresolved, the Union may file the grievance with the
+        Department of Administrative Services, Labor Relations Division within fifteen
+        (15) calendar days after the response was due for review and response.
+        Arrangements for a Step 3 meeting shall be mutually agreed upon. The Labor
+        Relations Division will provide a formal written response within fifteen (15)
+        calendar days of the Step 3 meeting. In the event the Step 3 response is
+        acceptable to the Union, such response shall have the same force and effect as
+        a decision or award of an arbitrator, and shall be final and binding on all parties
+        and they will abide thereby.
+
+Section 3. Submission to Arbitration.
+Any grievance, having progressed through the Steps as outlined in this Agreement and
+remaining unresolved following Step 3 review, may be submitted to arbitration for
+settlement. To be valid, a request for arbitration must be in writing and received by th e
+Department of Administrative Services, Labor Relations Division within fifteen (15)
+calendar days of when the Step 3 response was due or received.
+
+Failure to file a valid arbitration request within the specified fifteen (15) calendar day
+period shall constitute forfeiture of claim and the case shall be considered closed by all
+parties.
+
+If arbitration is requested, the parties shall meet to attempt to formulate a submission
+agreement to be forwarded to the arbitrator.
+
+Section 4. Mediation.
+Subsequent to a valid arbitration request and prior to the selection of an arbitrator, either
+party may request mediation of the grievance. If agreed to by both parties, mediation
+
+2025 - 2027 IAFF/PANG                      16                          Collective Bargaining Agreement
+will be scheduled and conducted by the Conciliation Service Division of the Employment
+Relations Board. Mediation is not a mandatory step of the grievance procedure.
+
+Section 5. Selection of the Arbitrator.
+In the event that arbitration becomes necessary, the parties will jointly request from the
+Employment Relations Board the names of five (5) qualified arbitrators. An arbitrator
+will be selected by alternately striking names, with the moving party striking first, from
+the Employment Relations Board list one (1) name at a time until only one (1) name
+remains on the list. The name remaining on the list shall be accepted by the parties as
+the arbitrator and arbitration hearings shall commence within a reasonable time, as may
+be accommodated by the availability of the arbitrator.
+
+Section 6. Arbitrator's Authority.
+The parties agree that the decision or award of the arbitrator shall be final and binding
+on each of the parties and that they will abide thereby. The arbitrator shall have no
+authority to add to, subtract from, or change any of the terms of this Agreemen t, to
+change an existing wage rate or establish a new wage rate. The arbitrator shall have
+the power to return a grievant to employee status, with or without back pay, or to mitigate
+the penalty as equity suggests under the facts.
+
+Section 7. Expenses of Arbitration.
+In the event that the arbitrator finds for either party, in the whole, the arbitration fees
+shall be paid by the losing party. If the award is less than whole, all fees of the arbitrator
+will be shared equally. All other costs of arbitration shall be the responsibility of the party
+incurring the costs.
+                                                                                            Rev: 2023
+
+
+### ARTICLE 15 – PAID LEAVES
+
+Section 1. Planned Time Off – PTO
+Effective January 1, 2024, a PTO Leave bank will be established in lieu of traditional
+vacation, holiday leave and Kelly days. Each employee assigned to regular active status
+and twenty-four (24) hour shifts shall be granted the following PTO allowance based on
+continuous employment.
+
+ Employment                Hours per month/year         PTO balanced needed on 12/31
+                                                             to not lose PTO on 1/1
+ 1 - 60 months             51/month, 612/year                        638 hours
+ 61 - 120 months           54/month, 648/year                        602 hours
+ 121 - 180 months          57/month, 684/year                        566 hours
+ 181 - 240 months          60/month, 722/year                        528 hours
+ 241- 300 months           63/month, 756/year                        494 hours
+
+
+2025 - 2027 IAFF/PANG                       17                          Collective Bargaining Agreement
+ 301 + months               68/month, 780/year                   470 hours
+
+
+Section 2. PTO Accumulation.
+a)    PTO annual accrual shall be credited to employees at the start of each calendar
+      year based on their months of service as of January 1.
+
+b)      Employees may not start a calendar year, with a PTO balance greater than one
+        thousand two hundred and fifty (1,250) hours. Any leave in excess of one
+        thousand two hundred and fifty (1,250) hours will be lost*.
+
+Section 3. PTO Scheduling.
+PTO may be used in any increment. PTO will be scheduled by seniority, subject to
+operating requirements of the agency. Personnel scheduled for PTO will not have their
+time canceled unless required by the Fire Chief for emergency needs.
+
+Section 4. New Hires.
+a)    New employees will have their PTO annual accrual pro-rated based their date of
+      hire.
+
+b)      New hires shall not be eligible to use PTO during their first six (6) months of
+        employment. Unless approved by the Fire Chief.
+
+c)      New hires may use PTO from time of hire for approved military training:
+        1.   Employee must have official documentation from their reserve or National
+             Guard unit with specific dates of military training.
+
+Section 5. PTO Cash Out
+Employees may in any federal fiscal year, make a one-time request to cash out and
+receive payment for up to one-hundred (100) hours of PTO. In order to be eligible to
+cash out PTO hours:
+       a)   The employee must be a regular status employee.
+
+        b)       Have a remaining PTO balance of one hundred (100) hours or more after
+                 cashing out.
+
+        c)       PTO leave that has been pre-approved will be considered when the
+                 request is made in order to determine if they will maintain the minimum
+                 vacation balance requirement.
+
+
+
+
+2025 - 2027 IAFF/PANG                      18                       Collective Bargaining Agreement
+Section 6. PTO Payout at Retirement / Separation.
+a)    PTO is not compensable by an employee who has not completed trial service.
+
+b)      Separation of a regular service employee:
+        1)    Any PTO carried over from the previous year would paid in full and if prior
+              to June 30, any unused PTO up to three-hundred and seventy-five (375)
+              hours will be paid to the employee, not to exceed seven -hundred and fifty
+              hours (750) hours total.
+
+        2)       After July 1, any unused PTO up to seven -hundred and fifty (750) hours
+                 will be paid to the employee.
+
+Section 7. Holiday Leave.
+In 2023 Bargaining, it was agreed that Comp/holiday leave was combined into PTO.
+
+Section 8. Military Leave Usage.
+Military leave shall be granted in accordance with applicable Law and DAS policy.
+                                                                             New: 2023 Rev: 2025
+
+
+
+
+### ARTICLE 16 - SICK LEAVE
+
+Section 1. Accrual.
+It is agreed that the Employer will provide sick leave as insurance for its employees in
+the event of illness or off the job injury, Paid Leave Oregon, for the employee to donate
+blood that is made in connection with the voluntary program for the donation of blood
+approved or accredited by the American Association of Blood Banks or the American
+Red Cross. Accrued sick leave shall only be for the purposes of compensation during
+a legitimate absence due to injury or illness and as otherwise provided in this
+Agreement.
+
+Sick leave shall accrue at a rate of six (6) shifts per full calendar year. Leave shall be
+credited monthly at the rate of twelve (12) hours per month. For purposes of all
+compensable leave computations, accruals shall be calculated commensurate with a
+2,080 hour work year, but adjusted to compensate for the fire fighters' FLSA 2,758 hour
+work year.
+
+Sick leave pay shall be the only pay available to those on sick leave, but shall not affect
+the accrual of other benefits. Sick leave shall not accrue during a leave of absence
+without pay.
+
+Section 2. Utilization.
+Sick leave shall only be used in the event an employee feels, in good faith, that he/she
+is unable to perform his/her regular duties.
+
+
+
+2025 - 2027 IAFF/PANG                      19                        Collective Bargaining Agreement
+Section 3. Notification of Sickness.
+Employees shall make every effort to notify the on -duty Senior Fire Officer (SFO) of the
+employee's sickness at least forty-five (45) minutes prior to the employee's regular
+starting time. Sick leave with pay will not be allowed unless proper notification has been
+given except where such notification was not possible for a valid reason. The Agency
+may require written doctor's certification verifying any use of sick leave when the
+Employer believes sick leave usage is being abused or for extended usage of more than
+three (3) shifts.
+
+Section 4. Funeral.
+Employees shall be authorized the use of sick leave in the event of the death or illness
+of any member of the employee's immediate family. Sick leave taken may be for up to
+three shifts, additional time may be approved by the Fire Chief or his authorized
+representative. The immediate family is defined as: Husband, Wife, Mother, Father,
+Sister, Brother, Son, Daughter, Mother-in-law, Father-in-law, Grandmother,
+Grandfather, Son-in-law, Daughter-in-law, Grandchild, Foster parent, Step-parent, Step-
+children, Foster-children, or any other relative of either spouse living in the immediate
+household of the employee.
+
+Section 5. Family Medical Leave.
+An employee who is determined to be on qualifying family medical leave consistent with
+the provisions of the Family Medical Leave Act may elect to use vacation, sick, personal
+business or comp time leaves. Prior to the granting of Leave Without Pay, all l eaves
+shall be exhausted.
+
+Section 6. Hardship Leave.
+These provisions shall apply for the purpose of allowing employees to donate accrued
+vacation leaves and compensatory time for use by eligible recipients as sick leave. The
+Agency will allow employees to make donations of accumulated vacation leave and
+compensatory time, not to exceed the hours necessary to cover for the qualifying
+absence as provided in paragraph d below, to a co-worker in that Agency. For purposes
+of this Agreement, hardship leave donations will be administered under the following
+stipulations and the terms of this Agreement shall be strictly enforced with no exceptions:
+       a)     The recipient and donor must be regular status employees of the Agency.
+
+        b)       The Employer shall not assume any tax liabilities that would otherwise
+                 accrue to the employee.
+
+        c)       Use of donated leave shall be consistent with those provisions found under
+                 this Article.
+
+        d)       Applications for hardship leave shall be in writing and sent to the Agency's
+                 Personnel Section and accompanied by the treating physician's written
+                 statement certifying that the illness or injury will continue for thirty (30)
+
+
+2025 - 2027 IAFF/PANG                        20                         Collective Bargaining Agreement
+                 days or a period of time agreed to by the Appointing Authority following
+                 donee's projected exhausting of the accumulated leave. Donated leave
+                 may be used intermittently.
+
+        e)       Access to hardship leave shall cease if the recipient fails to provide an
+                 updated physician’s certificate verifying the continuation of the illness or
+                 injury within ten (10)-working days of a request for an updated certificate.
+
+        f)       Donations shall be credited at the donor’s current regular hourly rate of
+                 pay. Donations shall be used to reimburse the Agency for such costs as
+                 are incurred for insurance contributions pursuant to Article 11 for which
+                 the recipient is eligible to receive as a result of their use of donated
+                 hardship leave.
+
+        g)       Accumulated leave includes, but is not limited to, Article 15 – Paid Leave,
+                 Article 16 – Sick Leave, and compensatory leave accruals.
+
+        h)       Employees otherwise eligible for or receiving Workers' Compensation, or
+                 on parental leave will not be considered eligible to receive donations under
+                 this Agreement.
+                                                                                           Rev: 2025
+
+
+Section 7. Coordination With Short Term Disability Insurance.
+An employee may, at their option, be placed on leave without pay and maintain a
+balance of no more than seventy-two (72) hours of sick leave while receiving short term
+disability insurance benefits provided through Public Employees’ Benefit Board.
+
+### ARTICLE 17 - LAY-OFFS
+
+Section 1.
+A layoff is defined as a separation from service for involuntary reasons not reflecting
+discredit on an employee. An employee shall be given written notice of layoff as far in
+advance as possible but not less than fifteen (15) calendar days before the effective
+date, stating the reasons for the layoff.
+
+Section 2.
+The layoff procedure shall occur in the following manner:
+      a)      Employees shall be selected for layoff in reverse order of seniority within
+              the classification. The Employer shall recommend, with final approval
+              from the Governor’s office, who shall determine the number of positions to
+              be eliminated by classification and employees in those positions shall be
+              notified of layoff. The Employer shall notify, in writing, all affected
+              employees of their Seniority Date and Contractual bumping rights. The
+              Employer shall notify the Union in writing of the Seniority Date of all
+
+
+
+2025 - 2027 IAFF/PANG                        21                        Collective Bargaining Agreement
+                 employees in all affected classifications. The Union shall also post a copy
+                 of the Seniority Date of all affected positions on the bulletin board.
+
+        b)       Temporary employees working in the classification in which a layoff occurs
+                 shall be terminated prior to the layoff of trial service or regular employees.
+
+        c)       An initial probationary period employee can not displace any regular status
+                 employee.
+
+        d)       An Employee(s) on notice of layoff shall have the right to bump less senior
+                 employees in lower classification s in which they have previously served,
+                 have satisfactorily completed the probationary period, and can satisfy the
+                 current requirements for the position to be selected.
+
+                 If the employee is already the least senior in his/her classification, then the
+                 employee will be placed into an available vacant position or (if there is no
+                 vacancy) displace (bump) the employee in the fire department with the
+                 lowest Seniority Date in a classification in which the employee previously
+                 held regular status, including any predecessor classifications for which
+                 he/she is qualified.
+                 An employee may choose to be voluntarily laid off rather than bump
+                 another employee. When there are no available vacancies to bump into,
+                 nor any employees to be bumped, the employee will be laid off.
+
+        e)       To be qualified for placement under Section 2(D), the employee must meet
+                 all of the minimum qualifications for the position’s classification and must
+                 be capable of performing the specific requirements of the position as
+                 stated in the position description within thirty (30) days. An employee who
+                 is seeking to bump another employee has no right to a probationary period
+                 of any duration in the position into which the employee is attempting to
+                 bump. Further, the thirty (30) day time period is for the purpose of orienting
+                 an employee to the position, not training the employee to perform the work.
+                 If an employee meets the minimum qualifications but is not capable of
+                 performing the specific requirements of the lowest Seniority Date position,
+                 the employee will be laid off.
+
+        f)       When exercising an option under Section 2(D) an employee shall only be
+                 eligible to displace another employee with lower Seniority Date.
+
+Section 3.
+Computation of Seniority Date for regular status employees shall be made as specified
+in Article 5 of the Collective Bargaining Agreement.
+
+
+
+
+2025 - 2027 IAFF/PANG                         22                         Collective Bargaining Agreement
+Section 4.
+Any probationary employee who is laid off or voluntarily demoted in lieu of layoff shall
+be restored to the eligible list from which certification was made if the eligible list is still
+active. Restoration to the list shall be for one (1) year.
+
+Section 5. Layoff List.
+Names of regular status employees of the department who have separated from the
+service of the State in good standing by layoff or who have demoted in lieu of layoff shall
+be placed on the appropriate layoff lists in Seniority Date order established by the
+classification from which the employee was laid off or demoted in lieu of layoff. Available
+positions shall be offered to qualified employees on the recall list in order of seniority
+prior to being filled from other sources.
+
+The term of eligibility of candidates placed on the list shall be two (2) years from the date
+of placement on the list, five (5) years in the case of employees having ten (10) years of
+continuous service at the time of layoff.
+
+Section 6. Recall.
+Employees who are on the Employer layoff list shall be recalled in Seniority Date order
+beginning with the employee with the highest seniority who meets all of the minimum
+qualifications for the position and who is capable of performing the specific requirements
+of the position as stated on the position description within thirty (30) days. An employee
+who is seeking recall has no right to a probationary period of any duration in the position
+into which the employee is attempting to return. Further, the th irty (30) day time period
+is for the purposes of orienting an employee to the position, not training the employee
+to do the work. Therefore, it is necessary that the employee can perform all of the duties
+and responsibilities of the position as determined by the Employer prior to being recalled
+to the position.
+
+If an employee on a layoff list is offered a position and refuses to accept the position,
+the employee’s name will be removed from the layoff list.
+
+If a temporary appointment is necessary and is expected to last longer than forty-five
+(45) days and there is a layoff list for that classification, employees on the layoff list shall
+first be offered the temporary appointment prior to hiring any other temporary. Not
+accepting a temporary job does not constitute a refusal under this Section. This shall
+only apply to employees separated from State service. Such employees shall be
+appointed as a temporary employee, remain on the layoff list, and will not be eligible for
+any benefits covered under this Agreement.
+
+Section 7.
+Any temporary interruption of employment because of lack of work or unexpected or
+unusual reasons beyond the Employer’s control which does not exceed fifteen (15)
+consecutive days, shall not be considered a layoff if, at the termination of such
+
+
+2025 - 2027 IAFF/PANG                        23                          Collective Bargaining Agreement
+conditions, employee(s) are to be returned to employment. Such interruptions of
+employment shall be recorded and reported as leave without pay.
+
+Section 8.
+There shall be no cross bumping between management service, unrepresented service,
+or among other bargaining units.
+
+Section 9.
+When the Employer declares that a lack of funds will require a layoff, the Employer
+Representatives agree to meet with the Union to consider such alternatives to layoffs
+as: voluntary reductions in hours; voluntary leaves of absence without pay; other
+voluntary programs and/or temporary interruptions of employment. Such alternatives
+shall be subject to mutual agreement by the Union and the Employer.
+
+### ARTICLE 18 - TRADE TIME
+
+The State will allow employees to trade work time for each other so long as:
+      a)      It does not result in any additional financial burden to the Agency.
+
+        b)       The person working the trade time is qualified to perform the duties of the
+                 position.
+        c)       The practice of trading time does not affect an employee's training
+                 requirements or ability to do the work assigned to his position.
+
+### ARTICLE 19 - EDUCATION REIMBURSEMENT
+
+Section 1.
+The Agency shall make 100% tuition and a 50% book reimbursement to any employee
+in a course of study required for an Associate Degree in Fire Science after completion
+of each course with a grade of "C" or higher.
+
+Section 2.
+The State will provide 100% tuition reimbursement and 50% book reimbursement for
+any upper division courses, which are required for promotion.
+
+Section 3.
+Subject to the needs of the department and available funds, tuition and book
+reimbursement as referenced in this Article will be made for classes/course work
+deemed job-related by the Agency. Copies of transcripts and receipts of payment are
+necessary for reimbursement.
+
+Section 4.
+Credit transfers are not reimbursable.
+
+
+
+2025 - 2027 IAFF/PANG                       24                         Collective Bargaining Agreement
+### ARTICLE 20 - CONVERSION OF WAGE & BENEFIT ACCRUALS
+
+Employees transferring from the 56-hour shift to a 40-hour schedule will have their hours
+and benefits converted to assure the same total dollar value for a given benefit or time.
+A reverse conversion of hours and benefits will be made for employees converting from
+the 40-hour workweek to the 56-hour shift.
+
+### ARTICLE 21 - SAVINGS CLAUSE
+
+Should any provision of this agreement be found by a court of competent jurisdiction, or
+any administration agency having jurisdiction, to be in violation of any federal or state
+law, the remainder of the provisions of this agreement shall be considered as severable
+and remain in full force and effect for the duration of this agreement. The parties agree
+to meet and negotiate as soon as reasonably possible for a substitute to any provision
+declared in violation of federal or state law, if substitution is possible.
+
+### ARTICLE 22 - TERM OF AGREEMENT
+
+This Agreement shall be modified only in writing upon the written approval of both
+parties. Such modification, if any, shall become part of this Agreement on the agreed
+upon date.
+
+This Agreement shall be in full force and effect from July 1, 2025 until June 30, 2027.
+The parties shall meet to re-open this agreement on the first business day following
+December 10 of even numbered years prior to the expiration to this agreement or at
+another mutually agreed date for purpose of successor negotiations.
+
+Either party may elect to reopen this Agreement by written notice to the other party no
+later than January 15, 2027 for the express purpose of negotiating a successor
+agreement.
+
+In the event of the discontinuance of the relationship between the parties during the term
+of this Agreement, and the employment of Union members by a successor employer,
+this Agreement shall be binding upon that successor only to the extent required by law.
+                                                                            Rev: 2019,2023,2025
+
+
+### ARTICLE 23 - PROMOTIONS
+
+Section 1 - Promotion
+a)    Application for promotion within the bargaining unit shall be made within the fire
+      department through competitive examinations developed for the classification.
+      Firefighters who wish to promote must be in their current position for a period of
+      two (2) years before applying for Lieutenant and four (4) years before applying
+      for Captain.
+
+
+2025 - 2027 IAFF/PANG                     25                        Collective Bargaining Agreement
+b)      Bargaining unit members receiving a promotion shall be paid for that position at
+        the time of acceptance, even if he/she does not meet the required certifications
+        at that time. Where the technical skills and competitive testing does not provide
+        prospective candidates within the bargaining unit, the Agency may determine the
+        methods and means for recruitment.
+
+c)      In the event there is a vacancy in a Captain’s position, it will not be a requirement
+        to be a Lieutenant in order to take the examination.
+
+### ARTICLE 24 - LABOR/MANAGEMENT COMMITTEE
+
+The parties agree to form a labor/management committee and to meet at regularly
+scheduled intervals on a quarterly basis. The Committee shall be composed of up to
+five (5) bargaining unit members appointed by the Union. Agency employees appointed
+to the committee shall be in pay status during time spent in committee meetings.
+
+### ARTICLE 25 – DRUG AND ALCOHOL FREE WORKPLACE
+
+The Parties agree that they have a responsibility to provide an alcohol -free service
+environment and the employees with an alcohol-free workplace. The illegal use of
+controlled substances, as defined in the federal Controlled Substances Act (21 U.S.C.
+821), by State employees is inconsistent with the special trust placed in such employees
+as servants of the public.
+
+The purpose of these procedures is to ensure the safety of the public and of employees
+by taking measures to eliminate the illegal manufacture, transfer, use, distribution,
+dispensation, and/or possession of controlled substances on the job or in the workplace,
+including marijuana, cannabis, cannabis extract or synthetic cannabis that is otherwise
+unlawful to use under federal law.
+
+Section 1. Prohibited Conduct.
+a)    An Appointing Authority shall take the following action against an employee who
+      illegally manufactures, sells, transfers, uses or possesses controlled substances
+      or marijuana, cannabis, cannabis extract or synthetic cannabis on the job or in
+      the workplace or is convicted on criminal charges for using, manufacturing,
+      selling, transferring, possessing or being impaired by illegal use of controlled
+      substances or refuses to take or fails the test for illegal use of controlled
+      substances. The Employer may do either or both:
+      1)      Require the employee to enroll in and successfully complete a drug
+              rehabilitation program approved for such purposes by a federal, state, or
+              local health, law enforcement or other appropriate agency, at no additional
+              cost to the State, and sign a last chan ce agreement, as a condition of
+              continued employment which shall include a requirement that the
+              employee submit to unannounced drug testing for a period of one (1) year
+
+2025 - 2027 IAFF/PANG                       26                         Collective Bargaining Agreement
+                 following the completion of treatment. If the employee violates the terms
+                 of treatment or rehabilitation, or again tests positive during such period,
+                 they shall be immediately discharged; or
+
+        2)       Impose, as a corrective measure to encourage an employee to seek
+                 rehabilitative assistance, disciplinary action up to and including discharge
+                 in accordance with the Collective Bargaining Agreement.
+
+                        i. An employee who has tested positive for the presence of drugs
+                           which were originally legally obtained, but were abused by the
+                           employee, shall be referred to an employee assistance program or
+                           drug and alcohol counseling or treatment, unless the employee has
+                           previously tested positive for the use of drugs, or refuses to
+                           participate in the employee assistance program, counseling, or
+                           treatment, the employee shall not be disciplined. The employee
+                           may, however, be subjected to a last chance agreement as a
+                           condition of continued employment, which shall include a
+                           requirement that the employee submit to unannounced drug testing
+                           for a period of one (1) year following the completion of treatment. If
+                           the employee violates the terms of treatment or rehabilitation, or
+                           again tests positive during such period, s/he shall be immediately
+                           discharged.
+
+                        ii. Take other appropriate action.
+
+b)      Nothing shall prevent the Employer from imposing discipline for just cause for
+        misconduct which occurs in conjunction with inappropriate alcohol or drug use.
+
+Section 2. Alcohol and Drug Tests.
+a)    A manager may authorize a supervisor who has completed a training program
+      concerning reasonable suspicion testing, to test any employee upon reasonable
+      suspicion that the employee has engaged in or is under the influence of an illegal
+      controlled substance, or alcohol based upon:
+      1)     Supervisory personnel observing abnormal behavior, or impairment of
+             physical or mental performance, or other physical evidence of impairment
+             where such observation indicates that the employee is under the influence
+             of an illegal controlled substance or alcohol; or any employee actually
+             seeing the use of illegal controlled substances or alcohol in the workplace;
+
+        2)       The opinion of a medical professional employed at the worksite that an
+                 employee is using an illegal controlled substance or alcohol;
+
+        3)       The employee being directly involved in an incident that results in death of
+                 any person, injury to any person requiring professional medical treatment
+
+2025 - 2027 IAFF/PANG                           27                         Collective Bargaining Agreement
+                    beyond first aid or damage to property along with the existence of
+                    circumstances that indicate employee impairment or an aircraft
+                    impoundment/mishap when the employee has interacted with such
+                    aircraft. Direct involvement in an incident refers to an employee whose
+                    order, action or failure to act is determined to be, or cannot be ruled out as
+                    a causative factor in the events leading to or causing the incident.
+
+b)      The following testing mechanisms shall be used for any alcohol/drug test
+        performed on members of the Union:
+        1)    All testing shall be conducted through an accredited SAMSHA toxicology
+              lab/testing service using a 10-Panel test with the samples identified in such
+              a fashion to insure that the identity of the tested employee is kept as
+              confidential as possible. Urine screening tests shall be performed using
+              SAMSHA’s accepted immunoassay technology urine testing. No positive
+              test results shall be reported to the Employer unless the procedures in
+              Subsection 2. below also result in a positive test result, and no result shall
+              be deemed to be positive unless the level of drug is above the confirmation
+              test’s limit of quantitation (LOQ).
+
+               i.          Any positive results on the initial screening test shall be confirmed
+                           using SAMSHA’s accepted technology of gas chromatography-
+                           mass spectrometry (GC/MS) or liquid chromatography-mass
+                           spectrometry (LCMS). Confirming cut-off levels will be at least as
+                           sensitive as the initial screening tests. Despite a negative result,
+                           an employee may still be impaired, based on the criteria above.
+
+c)      The following procedures shall be used whenever an employee is requested to
+        give a urine sample:
+        1)     Prior to testing, the employee shall be provided the opportunity to
+               voluntarily list to the testing lab substances currently being used by the
+               employee that may impact the test results such as medications or food
+               products. The failure of an employee to accurately list all such substances
+               may not be the basis for disciplinary action against the employee. This
+               list, and all documents and information concerning drug testing, shall
+               remain confidential pursuant to the terms of this Article.
+
+        2)          A urine sample will be obtained from the employee. The sample will be
+                    collected in a manner that precludes alteration. The Employer shall not
+                    observe the act of urination but the sample’s temperature will be recorded
+                    for evaluation of potential alteration.
+
+        3)          Immediately after the sample has been given, it will be divided into two (2)
+                    equal parts in the presence of both parties. Each of the two (2) portions
+                    of the sample will be separately sealed, labeled, and initialed by both
+
+2025 - 2027 IAFF/PANG                           28                          Collective Bargaining Agreement
+                 parties, and stored in a secure and refrigerated atmosphere. If the
+                 samples cannot be analyzed within twenty-four (24) hours, they shall be
+                 frozen. One (1) of the samples will then be delivered to a SAMSHA
+                 certified lab.
+
+        4)       The sample will first be tested using the screening procedure set forth in
+                 this Article. If the sample tests are positive for any drug, the confirmatory
+                 test specified in this Article will be employed.
+
+        5)       Each step in the collecting and processing of the urine specimens shall be
+                 documented to establish procedural integrity and a chain of evidence. If
+                 at any time different procedures or tests are available to a SAMSHA
+                 certified lab which have greater reliability than the foregoing, the more
+                 reliable procedures or tests shall be used.
+
+        6)       An employee refusal to test may be utilized as evidence of impairment
+                 and/or constitute a basis for discipline.
+
+        7)       Any positive test result and/or adulteration issues will be verified by a
+                 Medical Review Officer (MRO) contracted through the vendor who will,
+                 among other things, review any extenuating circumstances.
+
+d)      When the Employer determines that an employee has a confirmed positive test
+        result the Employer will institute the following steps:
+        1)      The Fire Chief or their designee will relieve the employee from duty.
+
+        2)       If an employee is relieved of duty under this Article, the employee will be
+                 required to utilize vacation or compensatory time for the remainder of
+                 his/her shift.
+
+        3)       The employee may be referred to the Employee Assistance Program
+                 (EAP). The EAP will conduct an assessment, make appropriate referrals
+                 and determine when the employee is ready for a return to duty test.
+
+        4)       The employee must take and test negative on a return to duty test to return
+                 to active duty. The employee will be subject to follow-up testing as outlined
+                 by the EAP.
+
+Section 3. Employee Voluntary Use of Employee Assistance or Other Treatment
+Program.
+Employees with drug problems are encouraged to voluntarily seek assistance, on a
+confidential basis, through the Employee Assistance Program, drug rehabilitation or
+other available treatment program approved by a federal, state, or local health, law
+enforcement, or other appropriate agency.
+
+2025 - 2027 IAFF/PANG                        29                         Collective Bargaining Agreement
+        a)       The Fire Chief shall, upon employee request, grant sick or other accrued
+                 paid leave or, at the employee's option, unpaid leave, to participate in such
+                 assistance or rehabilitation treatment programs.
+
+        b)       Upon return from such leave, an employee may be subject to drug testing
+                 for a period of one (1) year.
+
+Section 4. Medication.
+An employee who reports to work after using physician prescribed medication which has
+caused physiological or psychological effects negatively affecting job performance and
+safety shall advise the Fire Chief of the medication and its effects before commen cing
+or continuing work.
+                                                                                           REV: 2023
+
+
+### ARTICLE 26 – WORK OUT OF CLASSIFICATION
+
+Section 1.
+Short-Term assignments.
+a)    When the Agency assigns a bargaining unit employee, duties that have all of the
+      duties of the higher classification as reflected in the position’s Position
+      Description, the employee will be paid hour for hour at the rate of C5555-C5556
+      three dollars and seventy-five cents ($3.75), C5556five dollars and eighty cents
+      ($5.80) per hour rounded up in fifteen (15) minute increments.
+
+b)      Move Up Assignments. A Firefighter (C5555) will be allowed to move up one (1)
+        level of classification. A Lieutenant (C5556) will be allowed to move up (1) level
+        of classification.
+
+Long-Term assignments.
+a)   When the Agency assigns a bargaining unit employee duties that have all the
+     duties of the higher classification as reflected in the position’s Position
+     Description, for more than three (3) successive twenty-four (24) hour shifts, the
+     employee shall be paid at the first salary step in the assigned classification or five
+     percent (5%) more than his/her current straight time salary rate, whichever is
+     greater. The bargaining unit employee shall be compensated for all hours worked
+     during the period of the assignment.
+
+Pending Upward Reclassification assignments.
+a)   When the Agency received approval from DAS CHRO that a reclassification
+     upward is appropriate, the Agency will conduct an internal pay assessment to
+     determine the amount of pay the employee will receive while performing the
+     duties of the higher classification. The Work Out of Classification Pending
+     Upward Reclassification differential will be a dollar amount.
+
+b)      The internal pay assessment shall be conducted using those performing work of
+        a comparable character in the higher classification.
+
+2025 - 2027 IAFF/PANG                        30                         Collective Bargaining Agreement
+c)      The differential shall place the employee on the next higher step in the higher
+        classification or on an appropriate higher step as determined by the internal pay
+        assessment, whichever is greater.
+
+d)      Employees at the top step of their current job classification will have the
+        differential adjusted to the next step in the higher salary range annually on their
+        benefit service date.
+
+e)      Employees will have the differential adjusted due to changes in the base salary
+        (e.g. COLA).
+
+f)      The Agency will designate the reason for the work out of classification in the state
+        human resource information system as Work Out of Classification – Pending
+        Reclassification.
+
+Section 2.
+The Agency shall assign work out of classification in writing detailing the specific duties
+that shall be performed and the duration of the assignment.
+
+Section 3.
+Assignments of work out of classification shall not be made in a manner that circumvents
+the administration of this article.
+                                                                                          REV: 2025
+
+
+### ARTICLE 27 – SAFETY EQUIPMENT AND UNIFORMS
+
+Section 1.
+Safety Equipment. Adequate and safe equipment shall be provided for all employees.
+Any safety clothing or equipment required by NGR 5-1 to be worn or used by employees
+shall be furnished and maintained by the Agency. Any safety clothing provided to
+employees shall be worn.
+
+Section 2. Station Uniforms.
+The Agency agrees to provide, at the time of hire, initial issue uniforms to include the
+following:
+       a)   Three pairs of nomex work pants, black or dark blue
+
+        b)       Three sets of nomex work shirts, to include all patches and insignia, black
+                 or dark blue
+
+        c)       One jacket, dark blue or black, appropriate for local climate
+
+        d)       One belt
+
+
+2025 - 2027 IAFF/PANG                        31                        Collective Bargaining Agreement
+        e)       One pair footwear, black ANSI Z41, class 75
+
+        f)       Three workout shorts, 100% cotton, black or dark blue
+
+        g)       Three workout T-shirts, 100% cotton, black or dark blue
+
+        h)       One pair running shoes
+
+The phrase “at hire” shall mean that the Agency will purchase the above clothing items
+within the first seven (7) business days and all items will be delivered within the first
+thirty (30) calendar days of employment or promotion depending upon vendor response.
+
+Clean serviceable uniform items listed above, jacket is optional, will be worn by
+employees at all times during the normal duty day (less physical fitness time).
+
+Employees will receive a uniform maintenance allowance of seven hundred fifty dollars
+($750.00) per calendar year starting 2020. Employee will be responsible for
+replacement of all Station Uniform items regardless of circumstances. Employees must
+be on the Agency payroll as of October 1 st of each fiscal year for eligibility to receive the
+full allowance. Payment of the allowance shall be in the employee’s October paycheck.
+New hires will receive this allowance within the first sixty (60) calendar days of
+employment. New hires will receive a prorated amount based on their date of hire. This
+allowance is for the purpose of providing replacement uniform items as needed and for
+the purpose of providing sweatshirts, hats, socks, T-shirts, and work out gear (items the
+Agency does not provide). All clothing articles will meet applicable safety specifications,
+color and department insignia requirements as set by the Fire Chief.
+
+### ARTICLE 28 – ANNUAL FIREFIGHTER PHYSICALS AND CANCER SCREENING
+
+The Agency will provide bargaining members with annual NFPA 1582 Physical at a
+qualified occupational health provider. Bargaining members will have their blood test
+for PFAS/POFA and Oregon presumptive cancer screening, as referenced in ORS
+656.802 completed at this time.
+                                                                                         NEW: 2023
+
+
+### ARTICLE 29 – SALARY ADMINISTRATION
+
+Section 1. Pay.
+a)    Pay for employees in the bargaining unit shall be in accordance with the
+      Compensation Plan adopted by the Department of Administrative Services and
+      approved by the Governor as modified by this Agreement. No changes shall be
+      made in the Compensation Plan which affect the IAFF-KFFA bargaining unit
+      employees unless the Parties to this Agreement have negotiated the changes
+      and reached agreement on what changes will be made. This is not intended to
+      prevent mechanical changes or other minor changes necessary to administer the
+      Compensation Plan.
+
+2025 - 2027 IAFF/PANG                       32                         Collective Bargaining Agreement
+b)      All employees shall be paid no later than the first day of the month. However,
+        employees who begin work after payroll cutoff will be paid in the subsequent mid-
+        month payroll for time worked in the affected pay period. When a payday occurs
+        on Monday through Friday, payroll checks shall be released to employees on that
+        day. When payday falls on a Saturday, Sunday, or banking holiday, employee
+        paychecks shall be made available after 8:00 a.m. on the last working day of the
+        month. When an employee is not scheduled to work on the payday, the paycheck
+        may be released prior to payday if the paycheck is available and the employee
+        has completed the “Request for Release of Payroll Check” Form AD20.
+        However, the employee may not cash or deposit the check prior to the normal
+        release time. Any violation of this provision may be cause for disciplinary action.
+        All checks released early under this Article shall be accompanied by written
+        notice from the Employer as to the normal release time and date for that
+        employee and a statement that early cashing or depositing of the check may be
+        cause for disciplinary action. However, this shall not apply to appropriate mid-
+        month payroll. The release day for December paychecks dated January 1 shall
+        be the first working day in January to avoid the risk of December’s paychecks
+        being included in the prior year’s earnings for tax purposes.
+
+c)      Employees shall be paid no less than the minimum rate of pay for their
+        classification upon appointment to a position in state service. Prior to making a
+        job offer, an agency appointing authority or management designee will conduct
+        an internal assessment to determine the appropriate rate of pay upon hire.
+
+d)      Release of sixty percent (60%) of an employee’s earned gross wages prior to the
+        employee’s designated payday shall be authorized subject to approval of the
+        Appointing Authority or designee, in emergency cases upon receipt of a written
+        request from the employee that describes the emergency. An emergency
+        situation shall be defined as an unusual, unforeseen event or condition that
+        requires immediate financial attention by an employee. Emergencies include but
+        are not limited to the following circumstances:
+        1.      Death in family
+        2.      Major car repair
+        3.      Theft of funds
+        4.      Automobile accident (loss of vehicle use)
+        5.      Accident or sickness
+        6.      Destruction or major damage to home
+        7.      New employee lack of funds (maximum--one (1) draw)
+        8.      Moving due to transfer or promotion.
+
+Section 2. Step Increase.
+Employees shall be granted an annual step increase on their eligibility date if the
+employee is not at the top of the salary range of their classification.
+
+Employees shall be eligible for step increases following the intervals of:
+     a)    Annual periods after the initial date of hire until the employee has reached
+           the top step in their salary range. However, should an employee be
+           promoted during the first year of service with the Employer, the employee
+           shall not receive this increase, but shall be eligible for increases in Section
+           2(b).
+
+
+2025 - 2027 IAFF/PANG                      33                        Collective Bargaining Agreement
+        b)       The first six (6) months after promotion and annual periods thereafter until
+                 the employee has reached the top step in their salary range.
+
+Section 3. Salary on Demotion.
+When an employee is demoted, the agency’s appointing authority or management
+designee will conduct an internal assessment to determine the appropriate rate of pay.
+a)    If the employee’s current pay exceeds the top step of the new classification, their
+      pay will be reduced to the top step of the new classification.
+
+b)      If the employee’s current pay falls within the new classification’s salary range and
+        the assessment results in a step equal to or greater than their current pay, the
+        agency will apply the outcome of the assessment.
+
+c)      If the employee’s current pay falls within the new classification’s salary range but
+        the assessment results in a step below their current pay, the agency will maintain
+        the employee’s current pay. If this places the employee off-step in the new
+        classification, the employee will advance to the next higher salary step at their
+        next benefit service date, followed by an additional step increase — not to exceed
+        the top step of the range.
+
+The benefit service date remains the same unless the employee is already at the top
+step of the new salary range.
+
+Section 4. Salary on Promotion.
+When an employee is promoted, the agency’s appointing authority or management
+designee will conduct an internal assessment to determine the appropriate rate of pay.
+a)    If the assessment results in a step equal to or below the employee’s current pay
+      rate, their pay will be increased to the next higher step in the new salary range.
+      If that step provides an increase of less than two and five-tenths percent (2.5%),
+      the agency will apply the next higher step in the new classification’s salary range.
+
+b)      If the assessment results in a step above the employee’s current pay rate, the
+        agency will use the outcome of the assessment. If this increase is still less than
+        two and five tenths percent (2.5%), the agency will move the employee to the
+        next higher step in the new classification’s salary range.
+
+c)      If the employee’s benefit service date falls within forty-five (45) calendar days of
+        the start date of their new position and they have not yet reached the top step of
+        their current range, the promotion will be processed as if the employee had
+        already reached their benefit service date.
+
+The benefit service date is adjusted to six (6) months from the date of promotion unless
+the employee is already at the top step of the new salary range.
+
+Section 5. Salary on Lateral Transfer.
+a)     When an employee makes a lateral transfer to a different classification, the
+       agency’s appointing authority or management designee will conduct an internal
+       assessment to determine the appropriate rate of pay.
+     i.      If the employee’s current pay exceeds the top step of the new
+             classification, they will be placed at the top step of the new classification.
+
+
+2025 - 2027 IAFF/PANG                        34                        Collective Bargaining Agreement
+      ii.        If the employee’s current pay falls within the new classification’s range and
+                 the assessment results in a step equal to or greater than their current pay,
+                 the agency will apply the outcome of the assessment.
+
+     iii.        If the employee’s current pay falls within the new classification’s range but
+                 the assessment places them below their current pay rate, the agency will
+                 retain their current salary. If this places the employee off-step, they will
+                 advance to the next higher step at their next benefit service date and then
+                 move up an additional step — not to exceed the top step of the range.
+
+b)      When an employee makes a lateral transfer to the same classification, an
+        employee’s salary will remain unchanged.
+
+The benefit service date remains unchanged.
+
+Section 6. Salary on Reemployment and Break in Service.
+If an employee is reemployed within two (2) years of separation from state service, the
+agency’s appointing authority or management designee will conduct an internal
+assessment to determine the appropriate rate of pay.
+
+The employee’s previous benefit service date, adjusted by the amount of the break
+
+Section 7. Salary on Return from Layoff.
+When an employee returns from layoff, the agency’s appointing authority or
+management designee will conduct an internal assessment to determine the appropriate
+rate of pay.
+a)      If the assessment results in a step equal to or lower than the step the employee
+        held at the time of layoff, they will be returned to that same step.
+
+b)      If the assessment results in a higher step, the agency will apply the outcome of
+        the assessment.
+
+The employee’s previous benefit service date, adjusted by the amount of the break in
+service, shall be restored.
+
+Section 8. Salary on Return from Demotion in Lieu of Layoff.
+When an employee returns from a demotion taken in lieu of layoff, the agency’s
+appointing authority or management designee will conduct an internal assessment to
+determine the appropriate rate of pay.
+      a)     If the assessment results in a step equal to or below the employee’s prior
+             rate of pay at the time of the demotion, they will be returned to that same
+             step.
+
+        b)       If the assessment results in a higher step, the agency will apply the
+                 outcome of the assessment.
+
+The benefit service date remains the same unless the employee is already at the top
+step of the new salary range.
+
+
+
+
+2025 - 2027 IAFF/PANG                        35                         Collective Bargaining Agreement
+Section 9. Salary on Return from Downward Reclassification.
+When an employee returns from a downward reclassification, the agency’s appointing
+authority or management designee will conduct an internal assessment to determine the
+appropriate rate of pay.
+      a)      If the assessment results in a step equal to or below the employee’s prior
+              rate of pay, they will be returned to that same step.
+
+        b)       If the assessment results in a higher step, the agency will apply the
+                 outcome of the assessment.
+
+The benefit service date remains the same unless the employee is already at the top
+step of the new salary range.
+
+Section 10. Salary on Return from Trial Service Removal.
+When an employee is removed from trial service, the agency’s appointing authority or
+management designee will conduct an internal assessment to determine the appropriate
+rate of pay.
+        a)   If the assessment results in a step equal to or below the employee’s prior
+             rate of pay in their previous classification, they will be returned to that same
+             step.
+
+        b)       If the assessment results in a higher step, the agency will apply the
+                 outcome of the assessment.
+
+The benefit service date remains the same unless the employee is already at the top
+step of the new salary range.
+
+Section 11. Recoupment of Wage and Benefit Overpayments.
+a)    In the event that an employee receives wages or benefits from the Agency to
+      which the employee is not entitled, regardless of whether the employee knew or
+      should have known of the overpayment, the Agency shall notify the employee in
+      writing of the overpayment which will include information supporting that an
+      overpayment exists and the amount of wages and/or benefits to be repaid.
+
+b)      The Agency shall be limited in using the payroll deduction process to a maximum
+        period of three (3) years before the notification. An employee who disagrees with
+        the Agency’s determination that an overpayment has been made to the employee
+        may grieve the determination through the grievance procedure.
+
+c)      For purposes of recovering overpayments of fifty dollars ($50.00) or less, notice
+        will be provided on the employee paystub.
+
+d)      For purposes of recovering overpayments of more than fifty dollars ($50.00) by
+        payroll deduction, the following shall apply:
+        1.     The employee and the Agency shall meet and attempt to reach mutual
+               agreement on a repayment schedule within thirty (30) calendar days
+               following written notification.
+
+
+
+
+2025 - 2027 IAFF/PANG                      36                          Collective Bargaining Agreement
+             2.       If there is no mutual agreement at the end of the thirty (30) calendar day
+                      period, the Agency shall implement the repayment schedule stated in
+                      Subsection (d)(3) below.
+
+             3.       If the overpayment amount to be repaid is more than five percent (5%) of
+                      the employee’s regular monthly base salary, the overpayment shall be
+                      recovered in monthly amounts not exceeding five percent (5%) of the
+                      employee’s regular base salary. If an overpayment is less than five
+                      percent (5%) of the employee’s regular monthly base salary, the
+                      overpayment shall be recovered in a lump sum deduction from the
+                      employee’s paycheck. If an employee leaves Agency service before the
+                      Agency fully recovers the overpayment, the remaining amount may be
+                      deducted from the employee’s final check(s).
+
+             4.       Subsections (d)(1) through (d)(3) of this Section shall not apply to payroll
+                      adjustments necessitated by a discrepancy between actual hours of paid
+                      time versus hours projected for payroll purposes from one pay period to
+                      another. For example, if an employee utilizes leave without pay near the
+                      end of a month but is paid for such time because such leave without pay
+                      was not anticipated at the payroll cutoff date for that month, the
+                      employee’s pay and benefit entitlements may be adjusted on the following
+                      month’s paycheck.
+
+                      However, under limited conditions (listed below) an exception to lump sum
+                      recoupment of wage overpayments greater than five percent (5%), as a
+                      result of leave without pay, shall apply. In these cases:
+                      (A)     An employee may request a repayment schedule not to exceed
+                              three (3) months:
+                             i.      When entries are made by a person authorized by the
+                                     Agency to complete a timesheet on behalf of an absent
+                                     employee which results in overpayment.
+                            ii.      When entries on the timesheet made by an employee were
+                                     correct, but the timesheet data was incorrectly input by the
+                                     Agency which results in an overpayment.
+                      (B). Subject to extenuating circumstances beyond the control of the
+                              employee, an employee may request a longer repayment schedule.
+                              The Appointing Authority or designee has the sole discretion to
+                              deny or grant the employee’s request. The decision is not subject
+                              to the grievance procedure.
+
+                             If an employee leaves agency service before the agency fully
+                             recovers the overpayment, the remaining amount may be deducted
+                             from the employee’s final check(s).
+
+5.       The Article does not waive the Agency’s right to pursue other legal procedures and
+         processes to recoup an overpayment made to an employee at any time.
+                                                                                              NEW: 2025
+
+
+
+                                                                                                ////////////
+
+
+     2025 - 2027 IAFF/PANG                        37                        Collective Bargaining Agreement
+### LETTER OF AGREEMENT - FITNESS/WELLNESS
+
+All fire personnel have a responsibility of servicing the public with a level of physical
+fitness that enables employees to respond safely to a host of unforeseen emergencies.
+As a result, regular participation in a physical fitness program is essential to meet this
+requirement.
+
+The Parties agree that the NFPA 1500 shall be the primary physical fitness standards.
+
+To encourage wellness, there will be scheduled on-duty fitness activities of no more
+than ninety (90) minutes of workout time per shift, a phased in training plan for those
+who have not been physically active, assessment monitoring, annual testing and
+physical fitness/wellness education. Labor and Management agree to explore adding
+up to four (4) Peer Fitness Trainers.
+
+
+
+
+2025 - 2027 IAFF/PANG                     38                        Collective Bargaining Agreement
+### LETTER OF AGREEMENT – EQUAL PAY
+
+This Letter of Agreement (Agreement) is between the State of Oregon, acting through
+its Department of Administrative Services (Employer) on behalf of the Oregon Military
+Department (Agency) and the IAFF Local 1660 Portland Air National Guard Firefighters
+(Union).
+
+The purpose of this Agreement is to provide procedures to implement unscheduled
+equal pay adjustments consistent with Oregon law, and, to identify the appeal procedure
+to have Agency or Employer decisions concerning equal pay reviewed.
+
+The Parties agree to the following:
+
+1.      Application to Current Employees:
+        The Employer, an Agency Head or designee (with CHRO approval) may provide
+        an unscheduled salary step increase to correct a pay inequity between
+        employees who perform work of a comparable character and are similarly-
+        situated based on relevant factors, identified in Oregon Law [ORS 652.220(2)] by
+        which individual employees may be compensated differently. Unscheduled
+        salary step increases may be initiated by:
+        a.     Periodic statewide equal pay analysis process; (appeal process Section
+               10)
+        b.     Employee request, and, (appeal process Section 9)
+        c.     Agency identified inequity. (appeal process Section 9)
+
+2.      If an Agency plans to grant an unscheduled salary step increase to an
+        employee(s), the Agency shall first forward the recommendation to CHRO,
+        Classification and Compensation for review and analysis. The CHRO shall
+        approve or disapprove the recommendation and shall provide a written response
+        back to the Agency and the Union with the rationale associated with the
+        recommendation. If approved the Agency may take action to implement the
+        equal pay adjustment.
+
+3.      An employee may request a equal pay review by submitting a Pay Equity Review
+        Request Form to the Agency Human Resource department. The Agency Human
+        Resource department shall review the merits of the request based on the relevant
+        factors and issue a decision in writing, with a copy to the Union, within sixty (60)
+        days, unless an extension of time is mutually agreed to in writing.
+
+4.      Equal pay adjustments are effective no later than the date an employee made a
+        written request to the Agency or the date the Agency submitted a request to DAS
+        Classification and Compensation.
+
+5.      In the event an employee receives an unscheduled salary step adjustment for
+        any of the reasons identified in Section 1, the employee’s benefit service date
+        shall remain the same.
+
+6.      Agencies shall retain all documents pertaining to decisions involving equal pay.
+
+
+
+
+2025 - 2027 IAFF/PANG                      39                         Collective Bargaining Agreement
+7.      If the employee meets with the Agency or Employer, the employee may request
+        and obtain Union representation.
+
+8.      Appeal Procedure – Agency-Level Equal Pay Decisions
+        a.   If the employee disagrees with the Agency’s decision, the employee, or
+             the Union on the employee’s behalf, may submit a written appeal to the
+             Department of Administrative Services Labor Relations Unit (LRU) at
+             LRU@das.oregon.gov within fifteen (15) calendar days of receipt of the
+             Agency’s decision. The employee, or the Union on the employee’s behalf,
+             shall forward all written documents previously submitted to the Agency as
+             part of the appeal. The employee shall identify what factors, as outlined
+             above, the Agency did not properly consider. The Department of
+             Administrative Services Labor Relations Unit (LRU) shall respond to the
+             appeal in writing within thirty (30) calendar days notifying both the
+             employee and the Union.
+        b.   Equal Pay appeal decisions are not subject to arbitration. However,
+             nothing in this Agreement precludes the employee from submitting a claim
+             to the Bureau of Labor and Industries (BOLI) in accordance with BOLI’s
+             administrative rules or pursuing other legal recourse. The timelines for
+             filling with BOLI or pursing other legal recourse apply regardless of
+             whether the employee appeals the decision under this Agreement.
+        c.   For purposes of Agency-level pay equity decision only, the appeal
+             procedure in this Agreement replaces the grievance procedure outlined in
+             the labor agreement.
+        d.   The Employer and Union may agree to extensions of time in this
+             Agreement upon mutual agreement in writing.
+
+9.      Appeal Procedure – DAS Statewide Equal Pay Analysis Decision
+        a.   An employee, or the Union on behalf of the employee, may appeal the
+             Employer’s decision concerning the employee’s salary that resulted from
+             a statewide equal pay analysis. The appeal must be based on one (1) or
+             more of the factors listed in ORS 652.220(2) and the compensation of the
+             employee(s) performing work of a comparable character.
+        b.   An appeal of the Employer’s equal pay analysis decision may be filed by
+             sending a completed DAS Pay Equity Appeal Form via electronic mail to
+             CHRO.CNC@das.oregon.gov no later than 11:59 PM, PST on March 31.
+             The employer shall respond with a decision regarding the employee’s
+             appeal no later than June 30, 2019.
+        c.   The timelines for filling with BOLI or pursuing other legal recourse apply
+             regardless of whether the employee appeals the Employer’s decision
+             under this Section.
+        d.   Pay adjustments made as a result of accepted appeals shall have the
+             same effective date as the date set for the Statewide Equal Pay Analysis.
+        e.   To be eligible to file an appeal of the “DAS Statewide Equal Pay Analysis”
+             decision an employee must have been employed by a State executive
+             branch agency as of the effective date of the Statewide Equal Pay
+             Analysis. Employees who do not meet these eligibility requirements may
+             pursue an appeal through Section 9 of this Agreement.
+
+
+
+
+2025 - 2027 IAFF/PANG                    40                       Collective Bargaining Agreement
+        f.       Employees at the top step of the salary range assigned to their job
+                 classification on or before the effective date of the Statewide Equal Pay
+                 Analysis are not eligible to file an appeal.
+        g.       The Employer shall notify an employee and the Union of the outcome of
+                 the employee’s appeal.
+        h.       If the employee disagrees with the Employer’s response, the employee
+                 may submit a claim to the Bureau of Labor and Industries or pursue other
+                 legal recourse. Equal Pay appeals are not subject to arbitration.
+        i.       For purposes of DAS Statewide Equal Pay Analysis appeals only, the
+                 appeal procedure in this Agreement replaces the grievance procedure
+                 outlined in the labor agreement.
+
+10.     This Agreement becomes effective on the date of the last signature below and
+        expires June 30, 2027, unless extended by written mutual agreement by the
+        parties.
+
+
+
+
+2025 - 2027 IAFF/PANG                       41                       Collective Bargaining Agreement
+### LETTER OF AGREEMENT – CLASS AND COMP MARKET STUDY
+
+This Agreement is between the State of Oregon, acting through its Department of
+Administrative Services (Employer), on behalf of the Oregon Military Department
+(Agency), and the Portland Air National Guard (PANG) Firefighters, IAFF Local 1660
+(Union).
+
+The Parties agree to implement the following:
+      1.     The Agency in consultation with DAS Classification and Compensation,
+             will complete a full Market Study. DAS Classification and Compensation
+             will ensure the study is complete by December 31, 2024, for the following
+             positions:
+             a.     Fire Fighter (C5555)
+             b.     Lieutenant (C5556)
+             c.     Captain        (C5557)
+
+        2.       The Agency will meet with the Union to review the results of the study.
+                 Any related bargaining will take place during the 2025-2027 successor
+                 negotiations. If unforeseen delays occur, the Parties will engage in interim
+                 bargaining.
+
+This Letter of Agreement will automatically sunset on June 30, 2025.
+
+
+
+
+2025 - 2027 IAFF/PANG                        42                        Collective Bargaining Agreement
+### LETTER OF AGREEMENT – PAID LEAVE OREGON
+
+This Agreement is between the State of Oregon, acting through its Department of
+Administrative Services (Employer) and IAFF Local 1660 Portland Air National Guard
+Firefighters (Union).
+
+Paid Leave Oregon is administered by the Oregon Employment Department. The State
+of Oregon, as an employer, shall comply with the provisions of Paid Leave Oregon, as
+provided for in the DAS statewide Paid Leave Oregon Policy (60.000.04), including but
+not limited to the following section on Use of Paid Leave:
+
+Section 1.
+Employees may choose and will be allowed to use sick, vacation, or personal business
+leave to make up any difference between Paid Leave Oregon benefits and their average
+weekly wage, as determined by the Oregon Employment Department. An employee
+receiving Paid Leave Oregon benefits and who is protected by Family and Medical
+Leave or Oregon Family Leave (FMLA/OFLA) will use accrued leave in accordance with
+any existing contract language relating to FMLA/OFLA.
+
+
+
+
+2025 - 2027 IAFF/PANG                  43                       Collective Bargaining Agreement
+### LETTER OF AGREEMENT — BI-WEEKLY PAY PERIOD
+
+This Letter of Agreement is between the State of Oregon, acting through its Department
+of Administrative Services (Employer), and the IAFF Local 1660 Portland Air National
+Guard Firefighters (Union).
+
+In order to modernize and standardize pay practices, the State shall transition from
+monthly pay periods to bi-weekly pay periods. By doing so, the State will eliminate
+‘forecasting’ of pay. ‘Forecasting’ of pay increases payroll errors, complicates payroll
+processing, and compromises the stabilization of the Workday payroll system.
+
+Therefore, the Parties agree to the following:
+      1.     The transition from monthly pay periods to bi-weekly pay periods will occur
+             no earlier than March 1, 2024, or a later date if the State, in its sole
+             discretion, determines additional time is necessary to complete the
+             transition.
+
+        2.       The State shall provide employees at least three (3) months advance
+                 notice of the transition and the dates that employees will be paid so they
+                 can sufficiently plan for possible financial impacts before the transition.
+
+        3.       The State shall train all employees and Agency payroll staff on the
+                 necessary topics related to the transition. The training will include
+                 explanation of how deductions (for health insurance contributions, PERS
+                 contributions, and deferred compensation, for example) and leave
+                 accruals (for vacation and sick leave, for example) will be implemented in
+                 bi-weekly paychecks. The training will also explain how overtime will be
+                 reported and paid. The training shall provide multiple avenues of
+                 explanation (such as webinars and in-person training) sufficient to explain
+                 that employees’ pay is not reduced as a result of the bi-weekly timing of
+                 paychecks.
+
+        4.       The State shall designate every other Friday as the regular payday and
+                 will publish a calendar with those dates easily available for employees so
+                 that they understand when they will be paid.
+
+        5.       The Parties agree to establish a joint labor-management committee no
+                 later than August 31, 2023. The purpose of the committee is to discuss
+                 and agree on modifications in areas of the CBA where calculations of
+                 hours worked or frequency of pay are applied such as: pay dates,
+                 deductions, leave accruals, holiday proration, union dues, PEBB
+                 contributions, etc. This list is not exhaustive and may be expanded as the
+                 contract is reviewed by the committee for bi-weekly pay change
+                 implementation. In the event the committee is unable to agree by
+                 December 31, 2023 on the modifications necessary to implement the
+                 transition to bi-weekly pay periods, the State shall determine the terms of
+                 the transition.
+
+        6.       The committee shall be comprised of six (6) members, with three (3) IAFF
+                 represented employees appointed by the Union, three (3) management
+
+
+2025 - 2027 IAFF/PANG                       44                         Collective Bargaining Agreement
+                 representatives, one (1) IAFF staff and one (1) DAS State Labor Relations
+                 Manager. The Union and State may have additional staff work with the
+                 committee.
+
+        7.       The committee shall meet on a schedule it chooses, but no less frequently
+                 than once per month.
+
+        8.       Committee members will be on paid status and shall be reimbursed for
+                 authorized travel expenses as per State Travel Policy. Agencies will not
+                 incur any overtime as a result of committee meetings or travel. Flexing
+                 schedules will be allowed to avoid overtime.
+
+Alleged violations of this LOA are not subject to the grievance and arbitration procedure
+outlined in Article 14.
+
+
+
+
+2025 - 2027 IAFF/PANG                       45                       Collective Bargaining Agreement
+### LETTER OF AGREEMENT – MQ TRANSITION PLAN FOR CURRENT EMPLOYEES
+
+This Agreement is between the State of Oregon, acting through its Department of
+Administrative Services (Employer) and the International Association of Firefighters,
+Portland Air National Guard Firefighters Association (Association).
+
+The purpose of this agreement is to clarify the transition related to employees of any
+status within the department for classifications C5555, C5556 and C5557, in light of the
+changes to minimum qualifications resulting from the outcome of the DAS Classification
+and Compensation, Minimum Qualifications.
+
+The Parties agree to the following:
+
+        All current Limited Duration employees may apply and be hired as an internal
+        candidate if the employee will meet the new DAS MQ’s by May 1, 2026.
+
+This Letter of Agreement is non-precedent-setting and is effective as of the date of the
+final signature below.
+
+
+
+
+2025 - 2027 IAFF/PANG                    46                        Collective Bargaining Agreement
+### LETTER OF AGREEMENT – ESSENTIAL WORKER INCLEMENT
+                  WEATHER/HAZARDOUS CONDITIONS PAY
+
+This Letter of Agreement is between the State of Oregon, acting through its Department
+of Administrative Services (Employer), and the IAFF Local 1660 Portland Air National
+Guard Firefighters (Union).
+
+The Parties agree to the following:
+
+When a situation exists that would otherwise close or curtail state offices, essential
+workers having to report to work, in -person, shall receive the Essential Worker Inclement
+Weather/Hazardous Conditions Pay differential.
+
+The Essential Worker Inclement Weather/Hazardous Conditions Pay differential shall
+be four dollars ($4.00) per hour. Employees will be paid for their whole shift that falls
+within a designated closure day, regardless of the starting or ending time of the closure.
+Employees will be paid for their whole shift when their shift falls during a curtailment.
+
+Staff working at agencies with 24/7 operations that are not curtailed shall receive the
+Essential Worker Inclement Weather/Hazardous Conditions Pay benefits when any
+state agency offices are formally closed by DAS or ODOT in accordance with State HR
+Policy 60.015.01 within the county of their worksite.
+
+
+
+
+2025 - 2027 IAFF/PANG                     47                        Collective Bargaining Agreement
+### LETTER OF AGREEMENT - STRUCTURAL CHANGES TO PAY PRACTICES
+
+
+This Letter of Agreement is between the State of Oregon, acting through its Department
+of Administrative Services (Employer), and the IAFF Local 1660 Portland Air National
+Guard Firefighters (Union).
+
+Since Workday Payroll launched in December 2022, the State has worked diligently
+expending significant staff time and internal and external resources to identify and
+correct errors caused by the transition, as well as to better understand what is causing
+those errors. That process has shown there are aspects of the State’s historic pay
+practices causing significant ongoing challenges to Workday’s effectiveness for
+processing the State of Oregon’s payroll. The efforts to configure Workday Payroll to
+align with our historic pay practices to pay overtime-eligible employees a monthly salary
+and to continue to forecast time have been problematic. It has become clear that these
+configuration efforts are not practicable.
+
+The State believes updating these practices through structural changes will eliminate
+the current issues with Workday Payroll and improve the transparency, predictability,
+and accuracy of employee pay.
+
+Therefore, the Parties agree to the following:
+      1.     On or before July 1, 2027, the State will implement the following structural
+             changes to the State’s pay practices:
+             a.      The State will pay employees in arrears (rather than forecasting
+                     hours) by utilizing a lag period.
+             b.      The State will pay overtime-eligible employees on an hourly basis
+                     rather than a monthly salary.
+             c.      The State will transition to bi-weekly pay periods.
+      2.     The current Workday configuration complies with the 2025-2027
+             Collective Bargaining Agreement for the duration of the Agreement.
+      3.     During the term of the 2025-2027 contract, a joint labor-management
+             committee will be established to discuss and agree on modifications in
+             areas of the collective bargaining agreement where the agreed upon
+             structural changes are applied such as: pay dates, pay frequency,
+             references to monthly salary versus hourly pay, hourly rate calculation,
+             deductions, leave accruals, holiday proration, union dues, PEBB
+             contributions, etc. This list is not exhaustive and may be expanded as the
+             contract is reviewed by the joint labor management committee in
+             preparation of implementing the structural changes.
+             a.      The joint labor management committee shall be comprised of six
+                     (6) members, with two (2) IAFF-PANG represented employees
+                     appointed by the Union, two (2) management representatives, one
+                     (1) Union staff and one (1) DAS State Labor Relations Manager.
+                     The Union and State may have additional staff work with the
+                     committee.
+             b.      The joint labor management committee shall meet on a schedule it
+                     chooses, but no less frequently than once per month.
+             c.      Committee and workgroup members convened in accordance with
+                     the LOA will be on paid status and shall be reimbursed for
+
+
+2025 - 2027 IAFF/PANG                    48                        Collective Bargaining Agreement
+                        authorized travel expenses as per State Travel Policy. Agencies will
+                        not incur any overtime as a result of committee meetings or travel.
+                        Flexing schedules will be allowed to avoid overtime.
+
+Alleged violations of this Letter of Agreement are not subject to the grievance and
+arbitration procedure outlined in Article 51.
+
+
+
+
+2025 - 2027 IAFF/PANG                       49                         Collective Bargaining Agreement
+### LETTER OF AGREEMENT – MEDICAL RESIGNATION
+
+This Agreement is between the State of Oregon, acting through its Department of
+Administrative Services (Employer) and the International Association of Firefighters,
+Portland Air National Guard Firefighters Association (Association).
+
+The purpose of this Agreement is to codify the Parties’ agreement concerning medical
+resignation.
+
+Therefore, the Parties agree to the following:
+      A.       An employee will be deemed to have medically resigned if the employee,
+             i.        Has been unable to report for full Duty for one (1) year from the
+                       date of injury, and
+                       1.      Has no definitive return to duty date within three (3) months,
+                               or
+                       2.      Has not reported for full duty on the date the medical
+                               professional has provided the Agency, or
+                       3.      Has returned to duty for less than six (6) months following
+                               the full return to duty as provided by the medical
+                               professional.
+      B.       The Employer will comply with, ADA, Paid Leave Oregon, FMLA, OFLA,
+               or USERRA or other military leave laws.
+      C.       Upon medical resignation, the Employer will take timely steps to fill any
+               vacant positions.
+      D.       Employees who have medically resigned retain their return rights under
+               the State’s workers compensation laws and any other employment laws,
+               if applicable. If employees are deemed to be medically resigned, but
+               subsequently obtain the proper release from their health care providers to
+               return to full duty, the employees may ask to be placed on the recall list
+               for any future vacancies that occur for which they would be qualified. They
+               can be on this list for up to two (2) years.
+             i.        If a Firefighter, Lieutenant or Captain is medically released, they
+                       can apply for demotion, promotion, or lateral transfer into a position
+                       that they meet the minimum qualifications nad physical
+                       requirements.
+      E.       This Agreement is not intended to waive, modify, or reduce any rights
+               indvidual employees have under the law with respect to their use of
+               unemployment benefits, protected leaves, or workers compensation
+               benefits.
+      F.       Nothing in this Agreement prohibits the Emplers ability to apply other
+               conditions of the Collective Bargaining Agreement.
+
+This Agreement becomes affective on the date of the last signature below. The Parties
+agree that this Agreement will continue in effect unless a new agreement is reached
+during successor negotiations.
+
+
+
+
+2025 - 2027 IAFF/PANG                      50                         Collective Bargaining Agreement
+                               IAFF PANG SIGNATURE PAGE
+
+                Signed this 6th day of October 2025 at Salem, Oregon.
+
+
+FOR THE STATE OF OREGON                      FOR THE INTERNATIONAL
+                                             ASSOCIATION OF FIREFIGHTERS,
+                                             LOCAL 1660
+
+
+
+Betsy Imholt                                 Chris Hart
+DAS Director                                 President
+Department of Administrative Services        IAFF Local 1660
+
+
+
+
+Joshua W. Wetzel
+State Labor Relations Manager
+DAS CHRO Labor Relations Unit
+
+
+
+Brigadier General Alan R. Gronewold
+The Adjutant General
+Oregon Military Department
+
+
+
+*************************************************************************************
+
+
+
+
+For the Oregon Military Department:          For the IAFF/PANG:
+Joshua W. Wetzel, DAS LRU                    Rocky L. Hanes, President IAFF Local 1660
+Tracy Garcia, Director AGP, OMD              Christ Hart, Vice President, IAFF Local 1660
+Luke Jaeger, HR AGP                          Alan Duval, PANG Shop Steward, IAFF Local
+Rick Fogle, Deputy Fire Chief                1660
+Eric Frey, Federal Fire Chief
+Michelle Chain, Class & Comp, AGP
+Jacob Ardent, HRA, AGP
+Department of Administrative Services
+Chief Human Resources Office
+Labor Relations Unit
+155 Cottage Street NE
+Salem, OR 97301-3971
+LRU@das.oregon.gov
+
+
+The official version of this Agreement is held by the Department of Administrative Services Labor
+Relations Unit on its electronic files at the website below. The Department of Administrative
+Services does not recognize any other copies or publications of this Agreement.
+
+Electronic version of the Agreement located at:
+http://www.oregon.gov/das/HR/Pages/LRU.aspx
+
+
+
+
+2025 - 2027 IAFF/PANG                        52                           Collective Bargaining Agreement
+

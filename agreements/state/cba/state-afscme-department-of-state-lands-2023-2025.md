@@ -16,12 +16,11 @@ agency_registry_slugs: []
 source_url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Department%20of%20State%20Lands%202023-2025.pdf
 source_format: pdf
 retrieved: '2026-08-02'
-source_sha256: 4a6a0dbe8f25f11521ce05ccc20e876d7bf54d113505b07542ad1b99e3ec0753
+source_sha256: d64f781774ef4ec5e7771777e0c5108cfaa633946f6414e26a657fb361fd0f09
 snapshot_policy: hash-only
 status: superseded
-content_mode: summary
-reproduction_basis: 'jointly-authored contract; summary + official link per the class determination
-  in corpus.yml schema.doc_types (verbatim: false)'
+content_mode: 'verbatim'
+reproduction_basis: 'public record of a public body (ORS 192.311-192.478); the employer publishes the executed agreement in full at source_url; a ratified agreement is an official act (Georgia v. Public.Resource.Org, 590 U.S. 255 (2020)) — mirrored in full per the class determination in corpus.yml schema.doc_types (verbatim: true)'
 conversion_notes: pdftotext -layout; 97 pages, 279939 characters extracted; NOT human-verified
 last_verified: ''
 verified_by: ''
@@ -41,8 +40,8 @@ tags:
 - state-workforce
 ---
 
-> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated
-> summary, not the agreement's official text. Verify against the official
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a non-authoritative
+> mirror of the agreement's text, not the official record. Verify against the official
 > source: https://www.oregon.gov/das/HR/CBA/AFSCME%20Department%20of%20State%20Lands%202023-2025.pdf (retrieved 2026-08-02).
 
 # AFSCME Department of State Lands 2023-2025
@@ -54,18 +53,11 @@ Collective bargaining agreement between the State of Oregon (DAS Labor Relations
 - Bargaining unit (LRU chart): AFSCME DSL Department of State Lands — repr. code AX
 - Source document: 97 pages (PDF, DAS CBA library)
 
-This corpus is **summary-first for agreements**: the contract's text is not
-reproduced here (see Curator notes), and nothing on this page states or
-paraphrases the agreement's terms. Read the agreement itself at the official
-source link above.
 
 ## Curator notes
 
-Summary-first is the recorded class determination (`corpus.yml
-schema.doc_types`, `verbatim: false`): a CBA is jointly authored with private
-parties, and "public record" and "freely reproducible" are not the same claim.
-If the operator later flips the class, full text lands in a follow-up PR — the
-committed snapshot extraction already carries what would be diffed.
+The full executed text is mirrored below from the committed extraction; the
+official PDF at the source link above remains the authoritative record.
 
 Letters of agreement bound into this PDF by DAS are part of this source
 snapshot; separately-published LOAs are their own documents in a later tranche.
@@ -80,3 +72,4474 @@ Statutes and rules the agreement's text cites are recorded in frontmatter
 `relationships.references_external` (3 citation(s)) and resolve into
 `executive-regulatory-frameworks` as cites — this corpus asserts no
 `implements` edge anywhere.
+
+## Full text
+
+             between
+
+             DAS
+         THE DEPARTMENT OF
+       ADMINISTRATIVE SERVICES
+           on behalf of the
+       OREGON DEPARTMENT OF
+           STATE LANDS
+
+                 and
+
+
+        AFSCME
+      LOCAL 2238 / COUNCIL 75,
+AMERICAN FEDERATION OF STATE, COUNTY,
+ AND MUNICIPAL EMPLOYEES (AFL-CIO)
+                                                       TABLE OF CONTENTS
+
+ ARTICLES:                                                                                                                                 PAGE:
+ARTICLE 1 - PREAMBLE ................................................................................................................................ 1
+ARTICLE 2 - RECOGNITION ............................................................................................................................ 1
+ARTICLE 3 - LAWS AND REGULATIONS/SAVINGS CLAUSE........................................................................... 1
+ARTICLE 4 - MANAGEMENT RIGHTS .............................................................................................................. 1
+ARTICLE 5 - AGENCY PERSONNEL POLICIES ............................................................................................... 2
+ARTICLE 6 - COMPLETE AGREEMENT ........................................................................................................... 2
+ARTICLE 7 - LEGISLATIVE ACTION ................................................................................................................ 2
+ARTICLE 8 - NO STRIKES, LOCKOUTS AND PICKET LINES ........................................................................... 2
+ARTICLE 9 - UNION RIGHTS ........................................................................................................................... 3
+ARTICLE 10 - UNION SECURITY ..................................................................................................................... 6
+ARTICLE 11 - UNION STEWARDS ................................................................................................................... 6
+ARTICLE 12 - EQUAL EMPLOYMENT OPPORTUNITY, AFFIRMATIVE ACTION, AND DISCRIMINATION .......... 7
+ARTICLE 13 - PERSONNEL FILES .................................................................................................................. 7
+ARTICLE 14 - SALARIES ................................................................................................................................ 9
+ARTICLE 15 - DIFFERENTIAL PAY ................................................................................................................ 10
+ARTICLE 16 - INSURANCE ........................................................................................................................... 12
+ARTICLE 17 - TRIAL SERVICE ...................................................................................................................... 13
+ARTICLE 18 - POSITION DESCRIPTIONS ...................................................................................................... 14
+ARTICLE 19 - QUARTERLY CHECK-INS........................................................................................................ 15
+ARTICLE 20 - SALARY ADMINISTRATION .................................................................................................... 15
+ARTICLE 21 - RECOUPMENT OF WAGE/BENEFIT OVER/UNDERPAYMENTS................................................ 16
+ARTICLE 22 - CLASSIFICATION AND CLASSIFICATION CHANGES .............................................................. 17
+ARTICLE 23 - PAY ADVANCES ..................................................................................................................... 21
+ARTICLE 24 - IMPLEMENTATION OF NEW CLASSES-APPEALS PROCESS .................................................. 21
+ARTICLE 25 - LAYOFF .................................................................................................................................. 23
+ARTICLE 26 - WORK SCHEDULES & WORKWEEK ....................................................................................... 28
+ARTICLE 27 - OVERTIME .............................................................................................................................. 30
+ARTICLE 28 - DISCIPLINE AND DISCHARGE ................................................................................................ 31
+ARTICLE 29 - GRIEVANCE PROCEDURE ...................................................................................................... 32
+ARTICLE 30 - HOLIDAYS .............................................................................................................................. 36
+ARTICLE 31 - OTHER LEAVES ..................................................................................................................... 37
+ARTICLE 32 - VACATION LEAVE .................................................................................................................. 40
+ARTICLE 33 - SCHEDULING OF COMPENSATORY TIME OFF ....................................................................... 43
+ARTICLE 34 - SICK LEAVE ........................................................................................................................... 43
+ARTICLE 35 - DONATED LEAVE ................................................................................................................... 44
+ARTICLE 36 - TRAVEL, MILEAGE AND MOVING EXPENSES......................................................................... 45
+ARTICLE 37 - WORKERS COMPENSATION .................................................................................................. 45
+ARTICLE 38 - DELETED 2019-2021 ............................................................................................................... 46
+ARTICLE 39 - FILLING OF VACANCIES ......................................................................................................... 46
+ARTICLE 40 - LABOR/MANAGEMENT COMMITTEE ...................................................................................... 47
+ARTICLE 41 - TERM OF AGREEMENT .......................................................................................................... 47
+ARTICLE 42 - SAFETY AND HEALTH ............................................................................................................ 48
+ARTICLE 43 - TEMPORARY INTERRUPTION OF EMPLOYMENT ................................................................... 50
+ARTICLE 44 - INCLEMENT WEATHER/HAZARDOUS CONDITIONS LEAVE.................................................... 50
+ARTICLE 45 - SEASONAL EMPLOYEES........................................................................................................ 53
+ARTICLE 46 - LIMITED DURATION APPOINTMENTS ..................................................................................... 54
+ARTICLE 47 – VOLUNTARY MEDICAL SEPARATION .................................................................................... 55
+ARTICLE 48 – EXIT INTERVIEWS .................................................................................................................. 55
+ARTICLE 50 - WORKING REMOTELY ............................................................................................................ 56
+ARTICLE 51 – AIR QUALITY ......................................................................................................................... 59
+ARTICLE 52 - PAID LEAVE OREGON ........................................................................................................... 59
+LETTER OF AGREEMENT – ARTICLE 14 - SALARY AND BENEFIT REPORT ................................................. 60
+LETTER OF AGREEMENT – ARTICLE 14 - SALARY RANGE TRUNCATION ................................................... 61
+LETTER OF AGREEMENT – ARTICLE 14 – ONE-TIME PAYMENT COLA ........................................................ 64
+LETTER OF AGREEMENT – ARTICLE 16, PEBB MEMBER ADVISORY COMMITTEE...................................... 65
+
+
+
+2023-2025 Department of State Lands                                 - ii -                             Collective Bargaining Agreement
+LETTER OF AGREEMENT – CONTRACTING OUT ......................................................................................... 66
+LETTER OF AGREEMENT – CONTRACTING OUT FEASIBLITY STUDY ......................................................... 68
+LETTER OF AGREEMENT – LABOR MANAGEMENT COMMITTEE UPDATES ................................................ 69
+LETTER OF AGREEMENT – NEW EMPLOYEE NOTICE/UNION ACCESS ....................................................... 70
+LETTER OF AGREEMENT – OREGON UNIONS STATE WORKER TRAINING FUND ...................................... 71
+LETTER OF AGREEMENT – CONTRACT SPECIALIST................................................................................... 72
+LETTER OF AGREEMENT – ESSENTIAL WORKER INCLEMENT WEATHER/HAZARDOUS CONDITIONS PAY75
+LETTER OF AGREEMENT – NATURAL DISASTER LEAVE ............................................................................ 76
+LETTER OF AGREEMENT – STATE POLICY 50.050.01 WORKING REMOTELY UPDATES ............................. 77
+LETTER OF AGREEMENT – SECURITY CAMERAS ....................................................................................... 78
+LETTER OF AGREEMENT – AGENCY EQUIPMENT COMMITTEE .................................................................. 79
+LETTER OF AGREEMENT - SEARCH AND RESCUE AND VOLUNTEER FIREFIGHTER LEAVE ...................... 80
+LETTER OF AGREEMENT – CHILDCARE AND ELDERCARE EXPLORATORY COMMITTEE .......................... 81
+LETTER OF AGREEMENT – PAY EQUITY ..................................................................................................... 82
+LETTER OF AGREEMENT—BI-WEEKLY PAY PERIOD/WORKDAY ................................................................ 85
+ATTACHMENT A - OFFICIAL GRIEVANCE FORM .......................................................................................... 87
+ATTACHMENT B - CLASSIFICATION PLAN WITH SALARY RANGES ............................................................ 88
+APPENDIX C – SALARY CHARTS ................................................................................................................. 89
+SIGNATURE PAGE ....................................................................................................................................... 93
+
+
+
+
+2023-2025 Department of State Lands                                 - iii -                            Collective Bargaining Agreement
+### ARTICLE 1 - PREAMBLE
+
+This Agreement is between the State of Oregon, acting through its Department of
+Administrative Services (Employer) on behalf of the Department of State Lands
+(Agency) and the American Federation of State, County and Municipal Employees
+Council 75 (Union) for the purpose of fixing wages, hours, benefits, conditions of
+employment and other matters affecting members of the bargaining unit as certified by
+the Employment Relations Board.
+
+### ARTICLE 2 - RECOGNITION
+
+Section 1.
+The Employer and Agency recognize the Union as the sole and exclusive bargaining
+agent for all part-time employees regularly working thirty-two (32) or more hours per
+month, seasonal, and full-time classified employees, employed by the State of Oregon
+Department of State Lands excluding confidential, supervisory, managerial, and
+temporary employees.
+
+Section 2.
+This Agreement binds the Union and any person designated by it to act on behalf of the
+Union. Likewise, this Agreement binds the Employer and the Agency and any person
+designated by them to act on their behalf.
+
+Section 3.
+Any dispute concerning bargaining unit composition shall be resolved by the
+Employment Relations Board.
+
+### ARTICLE 3 - LAWS AND REGULATIONS/SAVINGS CLAUSE
+
+This Agreement is subject to all applicable existing and future laws and regulations of
+the State of Oregon and the United States.
+
+In the event any provision of this Agreement is declared invalid by any court of
+competent jurisdiction or by ruling of the Employment Relations Board, then only such
+portion or portions shall become null and void and the balance of the Agreement shall
+remain in effect. The Employer and the Union agree to immediately meet, negotiate and
+agree upon a substitute for the portion or portions of the Agreement so affected and
+bring the provisions into conformance.
+
+### ARTICLE 4 - MANAGEMENT RIGHTS
+
+Except as may be specifically modified by the terms of this Agreement, the parties
+agree that the Employer and the Agency have the right to operate and manage the
+Agency, including, but not limited to, the right to:
+(a)   maintain order and efficiency;
+(b)   direct employees and to determine job assignments and working schedules;
+(c)   determine the methods, means, standards and personnel to be used;
+(d)   implement improved operational methods and procedures;
+(e)   determine staffing requirements;
+
+
+
+2023-2025 Department of State Lands          -1-                 Collective Bargaining Agreement
+(f)      determine whether the whole or the part of the operation shall continue to
+         operate;
+(g)      recruit, examine, select, and hire employees;
+(h)      promote, transfer, assign, and reassign employees;
+(i)      layoff employees;
+(j)      recall employees;
+(k)      require overtime work of employees;
+(l)      promulgate rules, regulations and policies provided that they do not specifically
+         abridge any provision of this Agreement; and
+(m)      suspend, discharge, or take proper disciplinary action against employees.
+
+### ARTICLE 5 - AGENCY PERSONNEL POLICIES
+
+Upon request, the Agency shall provide the Union a copy of its written personnel
+policies. If there is a policy change that involves a mandatory subject of bargaining, a
+copy will be sent to the Union. Agency written personnel policies and any updates shall
+be made available to employees at the Agency’s central and field offices.
+
+### ARTICLE 6 - COMPLETE AGREEMENT
+
+This Agreement contains the full and complete agreement on all subjects upon which
+the parties did bargain or could have bargained pursuant to ORS 243 et seq. Neither
+party shall be required, during the term of this Agreement, to negotiate upon any other
+issue.
+
+### ARTICLE 7 - LEGISLATIVE ACTION
+
+Section 1.
+Provisions of this Agreement not requiring legislative funding or statutory changes
+before such provisions can be put into effect shall be implemented on the effective date
+of this Agreement or as otherwise specified herein.
+
+Section 2.
+Provisions of this Agreement that require legislative funding are not enforceable unless
+approved by the Legislative Assembly or Emergency Board. Monetary provisions shall
+be promptly submitted to the Legislative Assembly or Emergency Board by the
+Employer and both parties shall jointly recommend passage.
+
+Section 3.
+Should the Legislative Assembly or the Emergency Board fail to enact or adopt matters
+submitted to them under the preceding sections, then the Employer and Union shall
+immediately meet, negotiate and agree on modifications or substitutions for the affected
+portion or portions of this Agreement.
+
+### ARTICLE 8 - NO STRIKES, LOCKOUTS AND PICKET LINES
+
+Section 1.
+The Union agrees that during the life of this Agreement, the Union or its bargaining unit
+members will not authorize, instigate, aid or engage in any work stoppage, slowdown,
+
+
+
+2023-2025 Department of State Lands          -2-                   Collective Bargaining Agreement
+sickout, refusal to work, picketing or strike against the Employer and/or the Agency, its
+goods, services or property.
+
+Section 2.
+The Agency agrees that during the life of this Agreement there will be no lockout.
+
+Section 3.
+Upon notification confirmed in writing by the Employer to the Union that certain
+bargaining unit members covered by this Agreement are engaging in any activity
+described in Section 1 of this Article, the Union shall advise employees in writing, with a
+copy to the Employer, to return to work immediately. Such notification by the Union
+shall not constitute an admission that it has caused or counseled such activity.
+
+
+### ARTICLE 9 - UNION RIGHTS
+
+Section 1.
+The Union will provide the Agency Human Resources Manager with the names of its
+representatives from Council 75 who will serve as Union representatives. The Union will
+update the list of authorized Union Representatives as needed or requested by the
+Agency.
+
+Section 2.
+With approval of the responsible manager or designee, the Agency will allow a Council
+75 Union Representative reasonable access to the worksite during working hours.
+Every good faith effort shall be made to give advance notice of the visit. Such visits shall
+not interfere with the normal flow of work.
+
+Section 3.
+The internal business of the Union shall be conducted by the employees during their
+non-duty hours (e.g., meal periods, breaks and before/after work).
+
+Section 4.
+Upon request and approval of the local office or section manager for the facility which
+shall mean the Regional Manager in Bend, the South Slough Manager in Charleston
+and Assistant Directors in Salem, the Union shall be allowed the use of the Agency
+facilities for meetings when such facilities are available and the meeting would not
+interfere with Agency business. The use of facilities includes the use of Agency audio-
+visual technology.
+
+Section 5.
+The Agency shall identify and provide reasonable bulletin board space in the Agency’s
+offices in Bend, Charleston and Salem for the use of the Union to communicate with its
+members.       Union Officers and Stewards may transmit Union meeting notices to
+bargaining unit employees over the Agency’s e-mail system. Such announcements will
+be limited to date, time and place of the meeting and a brief agenda.
+
+Section 6.
+The Agency shall furnish each new bargaining unit employee notice provided by the
+Union.
+
+2023-2025 Department of State Lands           -3-                   Collective Bargaining Agreement
+Section 7.
+Not more than thirty (30) minutes shall be granted for a union representative to make a
+presentation to a new employee or group of new employees at a formal new employee
+orientation schedule by the Agency. The purpose of the Union’s presentation shall be
+for the purpose of identifying the Union’s status, organizational benefits, facilities,
+related information and distributing and collecting membership applications. This time
+shall not be used for discussion of labor/management disputes. The Agency shall
+provide the Union advance notice of the time and place of formal new employee
+orientation meetings.      Individual meetings shall be coordinated by a union
+representative with both the union representatives and the new employee’s supervisor,
+up to thirty (30) minutes.
+
+Section 8. AFSCME President Leave.
+(a)   Long Term. Upon written request from the Executive Director of AFSCME
+      Council 75 to DAS Labor Relations Unit, one (1) President/designee from an
+      AFSCME Council 75 Central Table participating Agency shall be given release
+      time from their position for a period of time up to one (1) year for the performance
+      of Union duties related to the collective bargaining relationship. However, if the
+      Union President/designee or Executive Director requests release time for less
+      than their full regular schedule, such release time shall be subject to the
+      Employer’s approval based on the operating needs of the employee’s work unit.
+      AFSCME shall, within thirty (30) days of payment to the employee, reimburse the
+      State for payment of appropriate salary, benefits, paid leave time, pension, and
+      all other employer-related costs. Where this reimbursement is expressly
+      prohibited by law or funding source, the employee shall be granted a leave of
+      absence but the Employer will not be responsible for continuing to pay the
+      employee’s salary and benefits. AFSCME shall indemnify and hold the State
+      harmless against any and all claims, damages, suits, or other forms of liability
+      which may arise out of any action taken or not taken by the State for the purpose
+      of complying with this provision.
+(b)   Short Term. Upon written request from the Executive Director of AFSCME
+      Council 75 to DAS Labor Relations Unit and the Agency’s Human Resource
+      Manager, up to four (4) Presidents/designees from AFSCME Council 75 Central
+      Table participating Agencies shall be given release time from their position for a
+      period of time up to three (3) months for the performance of Union duties related
+      to the collective bargaining relationship.        Only one (1) employee from a
+      bargaining unit and a total of four (4) employees from all Central Table
+      participating bargaining units may be on such leave at any one (1) period in time.
+      Such requests will be granted unless the affected Agency can demonstrate that
+      the employee’s absence would adversely impact the operating needs of the
+      employee’s work unit. If granted, such time may also be taken on an intermittent
+      basis.     AFSCME shall, within thirty (30) days of payment to the employee,
+      reimburse the State for payment of appropriate salary, benefits, paid leave time,
+      pension, and all other employer-related costs. Where this reimbursement is
+      expressly prohibited by law or funding source, the employee shall be granted a
+      leave of absence but the Employer will not be responsible for continuing to pay
+      the employee’s salary and benefits.
+
+
+
+
+2023-2025 Department of State Lands     -4-                       Collective Bargaining Agreement
+Section 9. Names of Retirees.
+The employer will send a monthly report to the Union of the names of individuals that
+have retired the previous month. For purposes of this Agreement, a retiree shall be
+defined as a person who has given the Agency written notice that they are separating
+from State service by retirement and that person has actually separated from State
+service.
+
+Section 10. Reports.
+Upon request and no more than once a quarter the Agency shall provide to the Union
+the names of any temporary/Limited duration employees (management/ unrepresented/
+bargaining unit) hired, reason for the hire and expected duration of the appointment.
+
+Upon request and no more than once a quarter, the Agency shall provide to the Union
+the names of all employees in double fill positions, the reason for the double fill and the
+expected duration of the appointment if available.
+
+Upon request, the Agency shall provide to the Union on an annual basis the Agency
+organization charts showing management positions and the positions they supervise.
+
+Section 11. Intermittent Union Leave
+When designated Union Representatives are designated in writing by the Executive
+Director of Oregon AFSCME to attend AFSCME Council 75 Biennial or AFSCME
+International Conventions, the following provisions apply:
+(a)    The Executive Director of Oregon AFSCME shall notify affected agencies in
+       writing of the name of the employee(s) at least thirty (30) days in advance of the
+       date of the AFSCME Convention. For agencies of 100 or fewer bargaining unit
+       members, no more than one bargaining unit member per agency may be
+       designated to attend AFSCME conventions. For agencies of greater than 100
+       bargaining unit members, no more than two bargaining unit members may be
+       designated to attend AFSCME conventions under this provision.
+(b)    Subject to agency head or designee approval based on the operating needs of
+       the employee’s work unit, including staff availability, the employee will be
+       authorized release time with pay.
+(c)    The paid release time is limited to attendance at the conference and travel time
+       to the conference if such time occurs during the employee’s regularly scheduled
+       working hours up to forty (40) hours per calendar year.
+(d)    The release time shall be coded as Union business leave or other identified
+       payroll code as determined by the State.
+(e)    The release time shall not be included in the calculation of overtime nor
+       considered as work related for purposes of workers’ compensation.
+(f)    The employee will continue to accrue leaves and appropriate benefits under the
+       applicable collective bargaining agreement except as limited herein.
+(g)    The Union shall, within thirty (30) days of payment to the employee, reimburse
+       the State’s affected agency for all Employer related costs associated with the
+       release time, regular base wage and benefits, for attendance at the applicable
+       conference.
+(h)    The Union shall indemnify and the Union and employee shall hold the State
+       harmless against any and all claims, damages, suits, or other forms of liability
+
+
+
+2023-2025 Department of State Lands     -5-                        Collective Bargaining Agreement
+         which may arise out of any action taken or not taken by the State for the purpose
+         of complying with these provisions.
+                                                                                     REV: 2017, 2021
+
+
+
+### ARTICLE 10 - UNION SECURITY
+
+1.       The Employer agrees to deduct the monthly fees from the pay of those
+         employees the Union has certified in writing to the Employer as having
+         authorized in writing such deductions be made from their paychecks. This
+         deduction shall begin on the first (1st) payroll period following the Union’s written
+         notice to the Employer that such authorization start and shall continue from
+         month to month until notified by the Union, pursuant to the membership card.
+
+2.       The Union agrees that it will indemnify, defend and save the Employer and
+         Department/Agency harmless from all suits, actions, proceedings and claims
+         against the Employer and the Department/Agency or person(s) acting on their
+         behalf of the Employer and the Department/Agency whether the damage,
+         compensation, reinstatement, or combination thereof arising out of the
+         Department/Agency implementation of this Article. This provision does not limit,
+         waive, or in any way impact the State’s liability to AFSCME if the State fails to
+         withhold and remit lawful dues to AFSCME as obligated under the Agreement.
+                                                                                           REV: 2019
+
+
+### ARTICLE 11 - UNION STEWARDS
+
+Section 1.
+The Agency shall recognize up to six (6) Stewards selected from Agency employees to
+represent Agency employees with no more than four (4) from the Salem Headquarters.
+The Union shall immediately notify the Agency of the names of Stewards and their
+successors upon their selection.
+
+Section 2.
+Stewards may receive but not solicit grievances of employees on Agency premises but
+only to such extent as does not neglect, retard or interfere with the work and duties of
+the Steward or the employee. Upon notice to their immediate supervisor, Stewards shall
+be granted reasonable time off during regularly scheduled working hours without loss of
+pay or other benefits to process grievances and represent bargaining unit employees in
+investigatory interviews. Only one (1) Steward will be in pay status for any one (1)
+grievance.
+
+If the permitted activity would interfere with either the Steward or employee’s duties, the
+direct supervisor(s) shall, within the next working day, arrange a mutually satisfactory
+time for the requested activities. Time spent in grievance activities or representing
+employees in investigatory interviews without proper notification and release by the
+supervisor(s) involved will be considered unauthorized leave without pay for both the
+Steward and the employee. Each Steward shall report such time on the Agency
+timesheet.
+
+
+
+2023-2025 Department of State Lands            -6-                    Collective Bargaining Agreement
+Section 3.
+The Agency shall not be responsible for any overtime, travel time or travel expenses
+incurred by the employee or Steward in carrying out any of the functions described in
+this Article.
+
+   ARTICLE 12 - EQUAL EMPLOYMENT OPPORTUNITY, AFFIRMATIVE ACTION,
+                          AND DISCRIMINATION
+
+Section 1.
+The provisions of this Agreement shall apply equally to all employees in the bargaining
+unit without regard to age, race, religion, sex, color, physical or mental disability,
+national origin, sexual orientation, political affiliation or marital status. The Union further
+agrees that it will cooperate with the Agency’s implementation of applicable federal and
+state laws and regulations, including but not limited to Presidential Executive Order
+11246 as amended by Presidential Executive Order 11375 pertaining to affirmative
+action.
+
+Section 2.
+All complaints alleging unlawful discrimination in violation of this Article shall be
+submitted to the Agency Head or designee. A meeting with the complainant will be held
+within fifteen (15) calendar days of the receipt of the complaint. If the complaint is not
+satisfactorily resolved within thirty (30) calendar days of the date of its submission at the
+Agency Head level, the employee shall, if they chooses to proceed with the complaint,
+file the complaint with the Bureau of Labor and Industries or the Equal Employment
+Opportunity Commission for final resolution. The Agency Head or designee shall issue a
+written response.
+
+Section 3.
+Political affiliation discrimination complaints may be submitted to the Department of
+Administrative Services Labor Relations Unit if unresolved by the Agency within fifteen
+(15) calendar days of the Agency’s response. Department of Administrative Services
+Labor Relations Unit will review the complaint, attempt to resolve it and/or issue its
+findings to the employee and the Union within thirty (30) calendar days of receipt of the
+complaint.
+
+Section 4.
+Discrimination complaints will not be subject to the grievance procedure contained in
+this Agreement.
+
+### ARTICLE 13 - PERSONNEL FILES
+
+Section 1.
+The Chief Human Resources Office human resource information system is the system of record
+for all employee records and official employee Personnel File electronic and paper documents
+for which there are appropriate document categories in the system.
+
+The department, or agency under agreement to provide human resource services, stores paper
+documents of the official employee Personnel File and paper documents that are not yet able to
+be kept in the human resource information system. The department, or agency under
+
+
+
+2023-2025 Department of State Lands             -7-                   Collective Bargaining Agreement
+agreement to provide human resource services, also stores paper documents of the official
+employee Personnel File that predate January 1, 2019.
+
+Section 2.
+An employee may, upon request, inspect and obtain a copy of digital or paper documents of
+their official employee Personnel File, paper documents that are not yet able to be kept in the
+human resource information system and paper documents of the official employee Personnel
+File that predate January 1, 2019. No grievance shall be kept in the Personnel Files after the
+grievance has been resolved except the resolution.
+
+Section 3.
+No information reflecting critically upon an employee shall be placed in the employee's
+Personnel File that does not bear the signature of the employee. The employee shall be
+required to sign such material to be placed in the employee's Personnel File provided the
+following disclaimer is attached:
+
+         "Employee's signature confirms only that the supervisor has discussed and given a copy
+         of the material to the employee, and does not indicate agreement or disagreement."
+
+If an employee is not available within a reasonable period of time to sign the material or the
+employee refuses to sign the material, the Department may place the material in the file
+provided a statement has been signed by two (2) management representatives that a copy of
+the document was mailed to the employee at the employee's address of record. A copy will
+also be mailed to the Union.
+
+Section 4.
+If the employee believes that any of the above material is incorrect or a misrepresentation of
+facts, the employee shall be entitled to prepare in writing an explanation or opinion regarding
+the prepared material. This shall be attached to the disputed material included as part of the
+personnel record until the material is removed.
+
+Section 5.
+An employee may include in the Personnel File copies of any relevant material the employee
+wishes, such as letters of favorable comment, licenses, certificates, college course credits or
+any other material which reflects credibly on the employee. The employee’s supervisor/manager
+will ensure the documents are submitted into the employee’s official Personnel File in the
+human resource information system.
+
+Section 6.
+At the employee's request, record of disciplinary actions shall be removed two (2) years after
+the effective date of the action provided no incident of a similar nature has been documented in
+the intervening time. The employee will be sent the requested document within five (5) work
+days from the receipt of request. Any period of leave of absence without pay that is more than
+fifteen (15) days shall extend the retention period for that duration of leave.
+
+Section 7. Supervisory/Managerial Working Files.
+(a)      An employee’s supervisor/manager may maintain a Working (non human resource
+         information system) File kept in accordance with Agency practice.
+(b)      Within five (5) business days from the date of an employee request, an employee will be
+         able to inspect their supervisor’s Working Files in the presence of their supervisor.
+         Employees will not remove any material from the File. If the File cannot be made
+
+
+
+
+2023-2025 Department of State Lands        -8-                         Collective Bargaining Agreement
+         available because of the supervisor’s absence, extensions of up to ten (10) business
+         days will be granted.
+(c)      Upon request, the employee shall be given a copy of documents in the Working File.
+(d)      An employee may submit a written statement to be attached to any document in the File
+         and such statement will remain attached as part of the Working File so long as the
+         document remains in the File.
+(e)      Documents of an adverse nature will be removed from the File no later than eighteen
+         (18) months from the date of the document so long as no reoccurrence of a similar
+         nature has taken place in the intervening period. An employee may request early
+         removal of any adverse document in the File. Such document(s) shall be removed upon
+         mutual agreement between the supervisor and employee.
+(f)      Any information in a Working File that is past the retention schedule shall not be used in
+         a disciplinary action so long as no reoccurrence of a similar nature has taken place in
+         the intervening period.
+
+Section 8.
+Personnel Files and Working Files shall not be accessible by state employees beyond the
+immediate supervisor, the Agency Human Resource Director, human resource staff, the subject
+employee, employees with a work related business need as authorized by the Agency Human
+Resource Director, and anyone specifically authorized in writing by the subject employee.
+                                                                                         Rev: 2015, 2021
+
+
+### ARTICLE 14 - SALARIES
+
+Section 1. PERS Pickup
+Effective February 1, 2019 compensation plan salary rates for PERS participating
+members shall be increased by six and ninety five one hundredths percent (6.95%). At
+that time bargaining unit employees will begin to make their own six percent (6%)
+contributions to their PERS account or the Individual Account Program as applicable.
+Employees’ contributions shall be treated as ‘pretax’ contributions pursuant to Internal
+Revenue Code Section 414(h)(2).
+
+Section 2. Cost of Living Adjustment (COLA).
+(a)   Effective December 1, 2023 or on the first of the month following receipt of an
+      interest arbitration award whichever is later, all pay rates will be increased by six
+      and five tenths percent (6.5%).
+(b)   Effective January 1, 2025* or first of the month following receipt of an interest
+      arbitration award whichever is later, all pay rates will be increased by six and
+      fifty-five hundredths percent (6.55%).
+
+*If the legislature appropriates new funding of at least $13 million in calendar year 2024,
+the 2025 cost of living adjustment will be effective January 1, 2025. If the legislature
+does not appropriate at least $13 million in calendar year 2024, the 2025 cost of living
+adjustment will be effective February 1, 2025.
+
+Section 3. Selective Salary Adjustment
+Class#      Classification Title                              From     To
+0758              Supply Specialist 1                          14       15
+1338              Training and Development Specialist 1        23       24
+1339              Training and Development Specialist 2        27       28
+
+2023-2025 Department of State Lands          -9-                         Collective Bargaining Agreement
+1488              Information Systems Specialist 8           33i     34i
+4007              Electrician 1                              Truncate bottom 3 steps
+4008              Electrician 2                              Truncate bottom 3 steps
+4009              Electrician 3                              Truncate bottom 3 steps
+4151              Transportation Maintenance Specialist 1    17      18
+4152              Transportation Maintenance Specialist 2    19      20
+6534              Behavioral Health Specialist 2             27      29
+6720              Psychiatric Social Worker                  29      33
+6811              Laboratory Technician 2                    18      19
+0801              Office Coordinator                         Abolish
+
+All other classifications under the AFSCME Central Table that receive a salary range
+increase will be reviewed and negotiated consistent with standard practices. All
+AFSCME classifications that are part of a classification study negotiated at other
+bargaining units will be included.
+
+Effective July 1, 2023 or the first of the month following ratification of the local
+agreement whichever is later, all employees will retain their current salary rate in the
+new range except that employees whose current rate is below the first step of the new
+range shall be moved to the first step in the new range and a new salary eligibility date
+what would be twelve (12) months from the effective date of the selective salary
+adjustment will be assigned. For an employee whose rate is within the new salary
+range but not at a corresponding step, the employee’s salary shall be adjusted to the
+next higher rate closest to the employee’s current salary rate.
+See LOAs: Salary and Benefit Report, Salary Range Truncation, One-Time Payment
+COLA
+                                                                      Rev: 2015, 2017, 2019, 2021,2023
+
+
+### ARTICLE 15 - DIFFERENTIAL PAY
+
+Section 1. Shift Differential.
+(a)   Employees shall be paid a differential for each hour or major portion thereof
+      (thirty (30) minutes or more) worked between 6:00 p.m. and 6:00 a.m. and for
+      each hour or major portion thereof worked on Saturday or Sunday.
+(b)   The differential shall be one dollar and fifty cents ($1.50) per hour.
+(c)   This Article shall not apply when an employee is on any paid leave condition.
+
+Section 2. Leadwork Differential.
+(a)   Leadwork differential shall be defined as a differential for employees who have
+      been assigned in writing by their supervisor to perform leadwork duties for ten
+      (10) consecutive calendar days or longer provided the leadwork duties are not
+      included in the classification specification for the employee’s position. Leadwork
+      differential shall not apply to employees assigned team leader duties. Leadwork
+      is when, on a recurring daily basis, the employee has been directed to perform
+      substantially all of the following functions:         to orient new employees, if
+      appropriate; assign and reassign tasks to accomplish prescribed work efficiently;
+      give direction to employees concerning work procedures; transmit established
+      standards of performance to employees; review work of employees for
+      conformance to standards; and provide informal assessment of employee work
+      performance to the supervisor.
+
+2023-2025 Department of State Lands             - 10 -                Collective Bargaining Agreement
+(b)      The differential shall be five percent (5%) beginning from the first day the duties
+         were formally assigned in writing for the full period of the assignment.
+(c)      Leadwork differential shall not be computed at the rate of time and one-half (1 ½)
+         for the time worked in an overtime or holiday work situation, or to effect a
+         pyramiding of work out of classification payments. However, leadwork differential
+         shall be included in calculation of the overtime rate of pay.
+(d)      Leadwork differential shall not apply to voluntary training and development
+         purposes which are mutually agreed to in writing between the supervisor and the
+         employee.
+
+Section 3. Work Out-of-Classification.
+(a)    When an employee is assigned, in writing, by the Agency for a limited time period
+       to perform the major distinguishing duties of a position at a higher level
+       classification regularly and to a significant degree for ten (10) or more
+       consecutive calendar days, that employee shall be paid at the next higher step in
+       the employee’s current classification or the first step of the higher salary range,
+       whichever is greater. In the event that the employee is at the top step in their
+       current classification and above the first (1st) step of the higher salary range, the
+       employee shall receive an additional five percent (5%) of their current rate of pay.
+       If applying work out-of-class would not result in additional compensation for an
+       employee, the Agency will provide an additional differential to ensure the
+       employee is receiving at least a five percent (5%) increase while in the work out-
+       of-class assignment. Agencies must document the reasons for the exceptions.
+      i.       When such assignments are made to work out-of-classification for ten (10)
+               or more consecutive days, the employee shall be compensated for all
+               hours worked beginning from the first day of the assignment and for the
+               full period of that particular assignment.
+(b)    An employee who is underfilling a position shall be informed in writing that they is
+       an underfill, the reasons for the underfill, and the requirements necessary for the
+       employee to qualify for reclassification to the allocated level. Upon gaining
+       regular status and meeting the requirements for the allocated level to the
+       position, the employee will be reclassified.
+(c)    An employee who agrees to perform duties out-of-class for training or
+       developmental purposes shall be informed in writing of the purpose and length of
+       the assignment during which there shall be no extra pay for the work. Such
+       assignment shall not exceed one (1) year unless mutually agreed to by the
+       sending and receiving supervisors and the employee. A copy of the notice shall
+       be placed in the employee’s file.
+(d)    Pending an upward reclassification, an employee may receive Work Out of
+       Classification pay retroactive to the date of receipt of the reclassification request
+       by the Human Resource Office. Such Work Out of Classification pay shall be
+       authorized once the Human Resource office has preliminarily approved the
+       upward reclassification and sought approval to implement the reclassification
+       from the Department of Administrative Services.
+
+Section 4. Special Qualifications Pay. Bilingual Differential.
+A differential of five percent (5%) over base rate will be paid to employees in positions
+which specifically require bilingual skills (i.e., translation to and from English to another
+foreign language or the use of sign language) as a condition of employment. The
+
+
+2023-2025 Department of State Lands      - 11 -                     Collective Bargaining Agreement
+interpretation and translation skills must be assigned and contained in an individual
+employee’s position description.
+                                                                                   Rev: 2015, 2021,2023
+
+
+
+### ARTICLE 16 - INSURANCE
+
+Section 1.
+An Employer contribution will be made for each eligible employee who has at least
+eighty (80) paid regular hours in the month unless required by law.
+
+Section 2.
+The contribution for eligible participating part-time employees with eighty (80) or more
+hours paid regular hours for the month the Employer shall contribute a prorated amount
+of the contribution for full-time employees unless otherwise required by law.
+“Regular hours” means all hours of work or paid leave except overtime hours, i.e., those
+above eight (8) hours in a day or forty (40) hours in a week. Thus, “regular hours” shall
+include additional non-overtime hours worked above an employee’s regular work
+schedule. In the event that a part-time employee, who is regularly scheduled to work
+half-time or more, fails to maintain at least half-time paid regular hours because of the
+effect of prorated holiday time or other paid or unpaid time off, they shall be allowed to
+use available vacation or comp time to maintain their eligibility for benefits and the
+Employer’s contribution for such benefits.
+1.      The Employer contribution amount of the plan selected by the employee will be
+        calculated as follows:
+           a. Part-Time Employees Electing Part-Time Insurance.
+
+                  Part-Time premium rate x Employer contribution percentage (as defined in
+                  Section 3) x the ratio of paid regular hours to full-time hours to the nearest
+                  full percent = Employer contribution.
+
+                  In addition, there shall be a subsidy based on the employee’s coverage
+                  tier for the Plan Years covered in this Article. The part-time subsidy shall
+                  be determined by PEBB for each plan year.
+
+                  The employee will pay the premium balance.
+
+             b. Part-Time Employees Electing Full-Time Insurance.
+
+                  Full-time premium rate x Employer contribution percentage (as defined in
+                  Section 3) x the ration of paid regular hours to full-time hours to the
+                  nearest full percent = Employer contribution.
+
+                  The employee will pay the premium balance.
+
+Section 3. Plan Years 2023 through 2025.
+For Plan Years 2023, 2024 and 2025 the Employer will pay ninety-five percent (95%)
+and the employee will pay five percent (5%) of the monthly premium rate as determined
+by PEBB. For employees who enroll in a medical plan that is at least ten percent (10%)
+lower in cost than the monthly premium rate for the highest cost plan available to the
+
+
+2023-2025 Department of State Lands          - 12 -                     Collective Bargaining Agreement
+majority of employees, the Employer shall pay ninety-nine percent (99%) of the monthly
+premium for PEBB health, vision, dental and basic life insurance benefits and the
+employee shall pay one percent (1%).
+
+Section 4.
+If the Collective Bargaining Agreement provides for a COLA with an effective date in the
+second (2nd) year of a biennium and the difference in the projected increase in the
+PEBB composite rate for the following calendar year falls below three point four percent
+(3.4%), then the COLA will be moved up by one (1) full month for each month it is
+sufficiently funded by the savings.
+(See LOAs: PMAC)
+                                                                   Rev: 2015, 2017, 2019, 2021,2023
+
+
+### ARTICLE 17 - TRIAL SERVICE
+
+Section 1.
+The trial service period is recognized as an extension of the selection process. Each
+person appointed to a bargaining unit position by initial appointment or promotion, shall
+serve with each such appointment a trial service period of six (6) months (minimum
+1040 hours). A regular status employee who is transferred to another bargaining unit
+position in a different classification at the same or lower salary level shall serve a trial
+service period of six (6) months (minimum 1040 hours) in the new position.
+
+Section 2.
+At any time during the trial service period, the Agency may remove an employee if, in
+the judgment of the Agency, the employee is unable or unwilling to perform their duties
+satisfactorily or if, in the judgment of the Agency, their habits and dependability do not
+merit their continuance in the position.
+
+Removals from trial service under this Article shall not be subject to Article 29
+(Grievance Procedure), Article 28 (Discipline/Discharge), or this Article.
+If such employee was previously a regular status employee in a bargaining unit position
+in the Agency immediately prior to their present appointment, they shall be reinstated to
+their former position if it is vacant. If the position is not vacant the employee shall be
+reinstated to their former classification or comparable salary range as a regular status
+employee unless they is discharged as provided in Article 28 (Discipline/Discharge).
+
+Section 3.
+An employee who is transferred or demoted to another position in the bargaining unit in
+the Agency prior to completion of the trial service period shall complete a new trial
+service period of six (6) months (minimum 1040 hours) in the new position.
+
+Section 4.
+(a)   An employee’s trial service period may be extended in instances where an
+      employee has a leave of absence. A leave of absence shall extend the trial
+      service period by the number of calendar days of the leave taken by the
+      employee.
+
+
+
+
+2023-2025 Department of State Lands           - 13 -                Collective Bargaining Agreement
+(b)      An employee’s trial service may also be extended for up to ninety (90) days for
+         the purpose of developing the skills and/or knowledge necessary for competent
+         job performance when:
+         (1)    The manager documents that they have met with the employee and
+                provided feedback to the employee on a regular and recurring basis
+                during the evaluation period, which shall be no less than three (3) times.
+         (2)    The manager has documented specific feedback, expectations and when
+                applicable assistance/resources regarding expected performance.
+         (3)    If the employee has not demonstrated proficiency of assigned work after
+                the ninety (90) day extension of trial service. The Employer may request,
+                and the Union may grant, an additional trial service extension up to an
+                additional ninety (90) days. Extensions shall not be unreasonably denied.
+(c)      Written notice of extensions will be provided to the employee and a copy of the
+         extension shall be forwarded to AFSCME Council 75 and the Department of
+         Administrative Services, Labor Relations Unit.
+
+Section 5. Outside Agency Transfer or Promotional Trial Service
+(a)   A regular status employee who is removed from lateral transfer or promotional
+      trial service from an executive branch state agency shall have right of return to
+      their former Agency. The Agency shall restore the employee to their former
+      position if it is vacant. If it is not vacant the employee shall be restored to a
+      position in their former classification in their former bargaining unit so long as the
+      employee meets any special qualifications for the position unless charges are
+      filed and they are terminated from employment.
+(b)   If an employee is reinstated into a position in their former classification in the
+      bargaining unit and this requires a change in the employee’s official work site, the
+      employee will be eligible for moving reimbursement in accordance with the
+      Employer’s policy titled, ‘Current or Recalled Employee Relocation’ (40.055.10).
+(c)   This Subsection becomes effective on the first (1st) of the month following
+      ratification of the local agreement.
+(d)   This Subsection applies to employees beginning their promotional trial service
+      after the effective date of the local agreement.
+                                                                              REV: 2017, 2019,2023
+
+
+
+### ARTICLE 18 - POSITION DESCRIPTIONS
+
+Position descriptions shall be reduced to writing and delineate the specific duties
+assigned to an employee’s position. A dated copy of the position description shall be
+given to the employee upon assuming the position and at such time as the position
+description is amended.
+
+An employee’s position description will be subject to annual review by the employee
+and the immediate supervisor.
+
+Nothing contained herein shall compromise the right or responsibility of the Agency to
+assign work consistent with class specifications.
+
+
+
+
+2023-2025 Department of State Lands       - 14 -                    Collective Bargaining Agreement
+### ARTICLE 19 - QUARTERLY CHECK-INS
+
+Section 1.
+Supervisory managers shall conduct check-ins with their employees on a quarterly
+basis. If a quarterly check-in does not occur, the employee may request a check-in for
+the missed time period. Supervisory managers shall conduct the requested check-in
+within thirty (30) calendar days. The employee shall have the opportunity to provide
+their input during the quarterly check-in. Any notes completed during the quarterly check
+in made about an employee shall be provided to the employee, and made available to
+the employee upon request.
+Section 2.
+Quarterly check-ins are not grievable or arbitrable under this Agreement and cannot be
+used for discipline.
+                                                                                         REV: 2023
+
+
+
+### ARTICLE 20 - SALARY ADMINISTRATION
+
+Section 1. Salary Increases.
+(a)   Employees shall be eligible for consideration for salary increases following:
+      (1)    completion of the initial twelve (12) months of service;
+      (2)    completion of six (6) months of service following promotion;
+      (3)    annual periods after (1) or (2) above until the employee has reached the
+             top step of the salary range.
+(b)   The immediate supervisor shall give written notice to an employee of withholding
+      of a salary increase at least thirty (30) calendar days before the eligibility date,
+      including a statement of the reason(s) it is being withheld.
+
+Section 2. Salary on Promotion.
+An employee shall be given no less than an increase to the next higher rate in the new
+salary range effective on the date of promotion. If an employee is demoted or removed
+during trial service as a result of a promotion, their salary shall be reduced to the former
+step, and the previous salary eligibility date shall be restored.
+
+Section 3. Salary on Demotion.
+Whenever an employee demotes to a classification in a lower range that has a salary
+rate the same as the previous step, the employee’s salary shall be maintained at that
+step in the lower range.
+
+Whenever an employee demotes to a classification in a salary range which does not
+have corresponding salary steps with the employee’s previous salary but is within the
+new salary range, the employee’s salary shall be maintained at the current rate until the
+next eligibility date. At the employee’s next eligibility date, if qualified, the employee
+shall be granted a salary rate increase of one (1) full step within the new salary range
+plus that amount that their current salary rate is below the next higher rate in the new
+salary range. This increase shall not exceed the highest rate in the new salary range.
+
+Whenever an employee demotes to a classification in a lower range, but the employee’s
+salary is above the highest step for that range, the employee shall be paid at the highest
+step in the new salary range.
+
+
+2023-2025 Department of State Lands        - 15 -                   Collective Bargaining Agreement
+This Section shall not apply to demotions resulting from official disciplinary actions.
+
+Section 4. Salary on Lateral Transfer.
+An employee’s salary shall remain the same when transferring from one (1) position to
+another position which has the same salary range.
+
+Section 5. Effect of Break in Service.
+When an employee separates from the Agency and subsequently returns to the Agency
+within two (2) years, except as a temporary employee, the employee’s previous salary
+eligibility date shall be adjusted by the amount of break in service.
+
+Section 6. Rate of Pay on Appointment from Layoff List
+An individual is called back from a return from layoff to a position in the same
+classification in which the person was previously employed will be paid at the same
+salary step they received at the time of layoff.
+                                                                                          Rev: 2015
+
+
+
+### ARTICLE 21 - RECOUPMENT OF WAGE/BENEFIT OVER/UNDERPAYMENTS
+
+Section 1. Overpayments.
+(a)   In the event that an employee receives wages or benefits from the Agency to
+      which the employee is not entitled, regardless of whether the employee knew or
+      should have known of the overpayment, the Agency shall notify the employee in
+      writing of the overpayment which will include information supporting that an
+      overpayment exists and the amount of wages and/benefits to be repaid. For
+      purposes of recovering overpayments by payroll deduction, the following shall
+      apply:
+      (1)    Provide written notice with itemized and detailed explanation of an
+             overpayment to the employee within ten (10) calendar days from the date
+             of discovery;
+      (2)    The Agency may, at its discretion, use the payroll deduction process to
+             correct any overpayment made within a maximum period of two (2) years
+             before the notification.
+      (3)    Where this process is utilized, the employee and Agency shall meet and
+             attempt to reach mutual agreement on a repayment schedule within thirty
+             (30) calendar days following written notification.
+      (4)    If there is no mutual agreement at the end of the thirty (30) calendar day
+             period, the Agency shall implement the repayment schedule stated in
+             subsection (4) below.
+      (5)    If the overpayment amount to be repaid is more than five percent (5%) of
+             the employee’s regular monthly base salary, the overpayment shall be
+             recovered in monthly amounts not exceeding five percent (5%) of the
+             employee’s regular monthly base salary, unless the employee requests a
+             higher recovery percentage. If an overpayment is less than five percent
+             (5%) of the employee’s regular monthly base salary, the overpayment
+             shall be automatically recovered in a lump sum deduction from the
+             employee’s next paycheck. If an employee leaves Agency service before
+             the Agency fully recovers the overpayment, the remaining amount may be
+             deducted from the employee’s final check.
+
+
+2023-2025 Department of State Lands     - 16 -                      Collective Bargaining Agreement
+(b)      An employee who disagrees with the Agency’s determination that an
+         overpayment has been made to the employee may grieve the determination
+         through the grievance procedure.
+(c)      This Article does not waive the Agency’s right to pursue other legal procedures
+         and processes to recoup an overpayment made to an employee at any time.
+
+Section 2. Underpayments.
+(a)   In the event the employee does not receive the wages or benefits to which the
+      record/documentation has for all times indicated the Employer agreed the
+      employee was entitled, the Agency shall notify the employee in writing of the
+      underpayment. This notification will include information showing that an
+      underpayment exists and the amount of wages and/or benefits to be repaid. The
+      Agency shall correct any such underpayment made within a maximum of two (2)
+      years before the modification. Employees may report underpayments to the
+      Employer. All confirmed underpayments shall be repaid in accordance with State
+      wage and hour laws.
+(b)   This provision shall not apply to claims disputing eligibility for payments which
+      result from this Agreement. Employees claiming eligibility for such things as
+      leadwork, work out of classification pay or reclassification must pursue those
+      claims pursuant to the timelines elsewhere in this Agreement.
+                                                                                  Rev: 2015,2023
+
+
+### ARTICLE 22 - CLASSIFICATION AND CLASSIFICATION CHANGES
+
+Section 1. Reclassification Procedure.
+(a)   Employees may request reclassification review of their position by submitting the
+      following information to the Agency Human Resources Manager:
+      (1)     A copy of the current official Position Description and any relevant
+              evidence that supports the request.
+      (2)     A specific identification of what duties the employee believes causes their
+              position to be improperly classified and a detailed explanation why these
+              duties justify reclassification of their position.
+      (3)     Identification of the classification the employee believes best describes
+              their position.
+(b)   Upon receipt of the above information, the Agency shall conduct a review of the
+      employee’s request. Within sixty (60) calendar days after receipt of a fully
+      completed request as provided for in subsection (a) above, the Agency shall
+      notify the employee of its findings. If the findings indicate reclassification, the
+      Agency shall either seek approval to implement the reclassification from the
+      Department of Administrative Services or remove the duties.
+(c)   If an employee’s request is denied pursuant to this Section of the Article, or the
+      employee’s position is reclassified downward pursuant to Section 7 of this Article,
+      the Union may appeal the decision to the Agency Head or designee within fifteen
+      (15) calendar days after receipt of the Agency’s decision. The written appeal
+      must include the reasons why the Agency’s decision was arbitrary. The Agency
+      shall respond in writing within fifteen (15) calendar days from the receipt of the
+      Union’s appeal.
+(d)   If the Agency’s response does not resolve the matter, the Union may, within
+      fifteen (15) calendar days from the date of the Agency response, appeal the
+
+
+2023-2025 Department of State Lands     - 17 -                   Collective Bargaining Agreement
+         decision to arbitration under this Article of the Agreement. The selection of an
+         arbitrator shall be pursuant to Section 10 of Article 29 (Grievance Procedure).
+         The appeal must be in writing and sent to the Labor Relations Unit of the
+         Department of Administrative Services within fifteen (15) calendar days after
+         receipt of the Agency’s written response in subsection (a) of this Section. The
+         appeal must state the reasons why the decision was arbitrary.
+(e)      The arbitrator shall allow the decision of the Agency to stand unless they finds
+         the decision was arbitrary. If the arbitrator finds the Agency’s decision is arbitrary,
+         the arbitrator’s authority shall extend only to stating if the employee’s current
+         classification is inappropriate. If the arbitrator finds the employee’s current
+         classification is inappropriate, they shall refer the issue to the Agency for
+         reconsideration. The Agency shall either remove the higher level duties or
+         reclassify the position. The arbitrator shall have no power to substitute their
+         discretion for the Agency’s discretion on classification matters. This Section shall
+         supersede Section 11 of Article 29 (Grievance Procedure) on the delineation of
+         the arbitrator’s authority on matters addressed in this Article.
+
+Section 2. Upward Reclassification.
+When a position is reclassified upward, a regular status employee shall be continued in
+the position. The employee shall be advanced to the higher classification with the same
+status held in the lower classification if the employee meets the minimum qualifications
+and training requirements for the higher classification. When a position is reclassified
+upward and the employee does not have regular status, the position will be filled
+competitively at the higher level.
+
+Section 3. Pay for Upward Reclassification.
+The rate of pay upon upward reclassification shall be the first step of the new salary
+range. However, if the old salary range rate of pay is equal to or higher than the first
+step of the new salary range, the employee shall receive a salary increase no less than
+an increase to the next higher step in the new salary range.
+
+Section 4. Pay Date of Upward Reclassification.
+(a)   Effective date of reclassification payment shall be the first of the month following
+      the month in which the reclassification request was received by the Department
+      of Administrative Services.
+(b)   employee does not retain their old eligibility date and will be eligible for salary
+      increases the first of the month following twelve (12) months in the new
+      classification.
+
+Section 5. Equal Reclassification Rate.
+When an employee is reclassified to a classification having the same salary range, the
+rate of pay will not be changed.
+
+Section 6. Downward Reclassification.
+(a)   The Agency shall notify an employee in writing of a downward reclassification of
+      the employee’s position and the specific reasons for doing so within thirty (30)
+      calendar days before the effective date.
+
+
+
+
+2023-2025 Department of State Lands        - 18 -                      Collective Bargaining Agreement
+(b)      When a position is reclassified to another classification that carries a lower salary
+         range, if the employee is on trial service or has regular status, that employee
+         shall be accorded the same status in the new classification.
+(c)      If an employee is reclassified downward and their rate of pay is above the
+         maximum of the new classification, their rate of pay will remain the same until a
+         rate in the salary range of the new classification exceeds it at which time the
+         employee’s salary shall be adjusted to that step.
+         If the employee’s rate of pay is the same as a salary step in the new
+         classification, the employee’s salary shall be maintained at the same rate in the
+         lower classification.
+         If the employee’s rate of pay is within the new salary range but not at a
+         corresponding salary step, the employee’s salary shall be maintained at the
+         current rate of pay until the next eligibility date. At the employee’s next eligibility
+         date, if qualified, the employee shall be granted a salary rate increase to the next
+         step within the new salary range. This increase shall not exceed the highest step
+         in the new salary range.
+
+Section 7. Reclassification Appeal Process.
+Agency Appeal: If an employee’s requested reclassification is denied or the Agency
+reclassifies an employee’s position, the Union may appeal the decision in writing to the
+Agency Head or designee within fifteen (15) calendar days after receipt of the Agency’s
+decision. The appeal must identify the reason(s) the Agency’s decision is incorrect.
+The Agency shall respond to the appeal in writing within fifteen (15) calendar days from
+receipt of the Union’s appeal. New information may be submitted during this step within
+the first seven (7) days for the Agency Head to review. After this step no new
+information may be submitted.
+
+Committee Appeal: If the Agency denies an employee’s reclassification request or if the
+Agency reclassifies an employee’s position, the Union may appeal the decision to the
+Employer/Union Classification Appeal Committee. The appeal must be in writing and
+submitted within fifteen (15) calendar days from the date the Agency’s final decision. All
+appeals must be supported with copies of documents originally provided to the Agency
+for the reclassification request, including written explanation of the request and all
+relevant documentation. No new documentation or information will be considered by
+the Committee unless mutually agreed upon. Upon request, the Union and employee
+shall have one (1) opportunity to address the committee.
+
+Employer/Union Classification Appeal Committee: The committee shall be composed of
+one (1) Employer representative and one (1) Union staff representative. The
+Committee’s sole mission will be to consider appeals pursuant to this section of the
+article and make decisions which maintain the integrity of the classification system by
+correctly applying the classification specifications. Each representative shall have
+experience making classification decisions.
+
+Appeal Decision Process: The Committee will attempt to resolve the appeal by jointly
+determining whether the current or another classification more accurately depicts the
+overall assigned duties, authorities and responsibilities of the position. In this process
+each of the designees may identify one (1) alternate class that they determines most
+accurately depicts the purpose of the job and overall assigned duties. The Committee
+
+2023-2025 Department of State Lands        - 19 -                      Collective Bargaining Agreement
+will prepare an initial written decision to the Agency and Union within thirty (30) calendar
+days of receipt which will include the reasons for the decision. Agency management
+retains the right to modify duties to ensure consistency with the Agency’s work, goals
+and objectives. If the finding of the committee determines the assigned duties are
+appropriately classified at a higher salary range and the Agency subsequently removes
+the higher level duties, the employee will receive a lump sum payment for the difference
+between the current salary rate including work out of classification pay already paid if
+any, and the appropriate salary rate for the classification as determined by the
+committee. This payment shall be for the time period beginning the date in which the
+request was received by the Agency to the date the duties are removed.
+
+Arbitration: If there is no resolution, the Union may request arbitration in writing within
+fifteen (15) calendar days from the date of receipt of the Committee’s final written
+decision. The Union’s request must be sent to the Department of Administrative
+Services Labor Relations Unit and shall include the reasons why the Agency’s decision
+is incorrect.
+
+The Parties agree to the appointment of a panel of three (3) arbitrators to hear all
+appeals under this article. Arbitrators shall be assigned on a rotational basis. The
+arbitrators shall have experience resolving classification issues. An arbitrator may be
+removed from the panel by mutual agreement of the Parties. However, each party
+retains the right to initiate a change in that arbitrator’s appointment upon notice to the
+other party. If this occurs, the Parties agree to select another qualified arbitrator. The
+change in assigned arbitrator shall be effective for any case not yet scheduled for
+arbitration. The arbitrator’s fee and expenses shall be paid by the losing party. If, in the
+opinion of the arbitrator, neither party can be considered the losing party, then such
+expenses shall apportioned as in the arbitrator’s judgment is equitable. All other
+expenses shall be borne by the Party requiring the service or item for which payment is
+to be made.
+
+The arbitrator shall allow the Agency’s decision to stand unless they concludes that the
+proposed classification more accurately depicts the overall assigned duties, authority,
+and responsibilities using the criteria specified below. In the event the arbitrator finds in
+favor of the proposed or alternate classification, Agency management may elect to
+remove/modify duties at any point during the process. However, if the agency removes
+the higher level duties, the employee will receive a lump sum payment for the difference
+between the current salary rate including work out of classification pay already paid if
+any, and the appropriate salary rate for the classification as determined by the
+committee. This payment shall be for the time period beginning the date in which the
+request was received by the Agency to the date the duties are removed.
+Classification Criteria: For purposes of this section, a reclassification must be based on
+findings that the purpose of the position is consistent with the concept of the proposed
+classification and that the class specifications for the proposed classification more
+accurately depicts the overall assigned duties, authority and responsibilities of the
+position.
+
+Terms used above shall be defined as follows:
+
+
+
+
+2023-2025 Department of State Lands      - 20 -                     Collective Bargaining Agreement
+         (a)      the purpose of the position shall be determined by the statement of
+                  purpose and assigned duties of the position description and other relevant
+                  evidence of duties assigned by the Agency;
+
+         (b)      the concept of the proposed classification shall be determined by the
+                  general description and distinguishing features of its class specifications;
+                  and
+
+         (c)      the overall duties, authority and responsibilities of the position shall be
+                  determined by the position description and other relevant evidence of
+                  duties assigned by the Agency.
+
+This Section supersedes any provisions contained in the Agency’s grievance procedure.
+                                                                                 Rev: 2015, 2017,2023
+
+
+### ARTICLE 23 - PAY ADVANCES
+
+Pay advances will be given upon request, but in no instances will an employee be given
+more than three (3) pay advances in any one (1) calendar year (January 1 through
+December 31). The amount of the advance shall not exceed sixty percent (60%) of the
+gross pay earned to date in the month, but shall be at least one hundred dollars
+($100.00). Employees may submit requests up to the final monthly payroll cutoff date.
+Pay advance requests will normally be submitted to the payroll office by the fifteenth
+(15th) of the month.
+
+### ARTICLE 24 - IMPLEMENTATION OF NEW CLASSES-APPEALS PROCESS
+
+The appeals process is designed to allocate employees into new classes. Employees in
+positions allocated to a new classification, who dispute their placement within the new
+classification, can appeal their placement using the following process:
+
+Section 1.
+(a)   An appeal may be filed by an individual employee or steward or a Council
+      Representative on behalf of the employee, to the Agency Human Resources
+      Manager within fifteen (15) calendar days of written notification by the Agency of
+      placement into the new class. Employees sharing the same or substantially
+      similar position descriptions or employees the Agency agrees to treat as a group
+      may file an appeal as a group. The initial filing should describe the individual or
+      group, including the names of affected members, identify the proposed
+      placement, and the placement believed to be correct by the affected employees.
+      The appeal must include current, signed position descriptions. Because the old
+      classifications are to be abolished, correct placement cannot be back to the prior
+      classification.
+      The Agency shall conduct a review of the allocation using the following criteria:
+              (1)     The purpose of the job shall be determined by the statement of
+                      purpose and assigned duties of the position description and other
+                      relevant evidence of duties assigned by the Agency.
+              (2)     The concept of the proposed classification shall be determined by
+                      the general description and distinguishing features of its class
+                      specifications, and,
+
+2023-2025 Department of State Lands           - 21 -                  Collective Bargaining Agreement
+                  (3)    The overall duties, authority and responsibilities of the position shall
+                         be determined by the position description and other relevant
+                         evidence of duties assigned by the Agency. This decision shall be
+                         made within thirty (30) calendar days of receipt of the appeal and
+                         provided to the affected employees in writing and with a summary
+                         of the classification analysis.
+(b)      If denied, the Union may appeal the Agency’s decision in writing to the
+         Department of Administrative Services Labor Relations Unit within fifteen (15)
+         calendar days of receipt of the written denial. The appeals will be considered by
+         the Employer designee (or an alternate) and the Union designee or alternate who
+         shall form the committee charged with the responsibility to consider appeals and
+         make decisions which maintain the integrity of the classification system by
+         correctly applying the classification specifications. Additionally, the committee
+         may utilize two (2) resource persons, one (1) designated by each party to provide
+         technical expertise concerning a specific series. The committee will attempt to
+         resolve the matter by jointly determining whether the current or proposed class
+         more accurately depicts the overall assigned duties, authorities and
+         responsibilities of the position using the criteria specified above.
+                 In this process each of the designees may identify one (1) alternate class
+         that they determines more accurately depicts the purpose of the job and overall
+         assigned duties. If an alternate class is identified, both the Union and the
+         Department of Administrative Services Labor Relations Unit shall be notified. If
+         the parties concur that shall end the allocation appeal. In the event the committee
+         concludes that the proposed or alternate class is more appropriate, management
+         retains the right to modify the work assignment on a timely basis to make it
+         consistent with the Agency’s allocation.
+                 Appeals shall be decided in order of receipt by the Department of
+         Administrative Services Labor Relations Unit. Decisions shall be rendered by the
+         designees no later than sixty (60) calendar days of receipt of the appeal by the
+         committee.
+(c)      The decision of the designees shall be binding on the parties. However, agencies
+         may elect to remove/modify duties at any point during the process.
+(d)      If the appeals committee cannot make a decision, the Union may request final
+         and binding arbitration by a written notice to the Department of Administrative
+         Services Labor Relations Unit within the next forty-five (45) calendar day period.
+         Each party may go forward with only one (1) class. Each party may choose to
+         take to arbitration either the current class, class appealed to, or an alternate
+         class identified by a committee member. The arbitrator shall allow the decision of
+         the Agency to stand unless they concludes that the proposed classification more
+         accurately depicts the overall assigned duties, authority, and responsibilities of
+         the position.
+(e)      Where a position is vacated after the filing of the initial appeal, the Union may
+         continue the appeal process and such appeals will be reviewed by the committee
+         only after the review of all filled positions appeals is completed and where the
+         Agency indicates that no change in duties is anticipated prior to refilling the
+         position.
+(f)      This process terminates upon completion of the allocation process.
+
+
+
+
+2023-2025 Department of State Lands        - 22 -                       Collective Bargaining Agreement
+### ARTICLE 25 - LAYOFF
+
+Section 1. Alternate to Layoff
+(1)   When the Agency believes that a lack of funds requires a layoff, the Agency will
+      notify the Union no fewer than fifteen (15) calendar days before the Agency
+      issues initial layoff notices. The parties will meet, if requested by either the
+      Agency or Union, to consider alternatives to layoffs such as voluntary reductions
+      in hours or workdays, temporary interruptions of employment or other voluntary
+      employment options. Alternatives to the layoffs shall require mutual agreement
+      between the Agency and Union. In the absence of any mutual agreement, the
+      Agency will implement layoff procedures consistent with the current applicable
+      agreement.
+(2)   Agency and Union discussions under this agreement shall not constitute interim
+      bargaining under the Public Employees Collective Bargaining Act. The parties
+      shall not be required to use the dispute resolution procedures contained in the
+      Public Employees Collective Bargaining Act.
+
+Section 2.
+A layoff is defined as a separation from the service for involuntary reasons not reflecting
+discredit on the employee. An employee shall be given written notice of layoff at least
+fifteen (15) calendar days before the effective date stating the reasons for the layoff.
+
+Section 3.
+The layoff procedure shall occur in the following manner:
+(a)   The Agency shall determine the specific positions to be vacated and employees
+      in those positions shall be notified of layoff. The Agency shall notify, in writing all
+      affected employees of their layoff service date and contractual bumping rights.
+      The Agency shall notify the Union in writing of layoff service dates of all
+      employees in all affected positions. The Agency shall also post a copy of the
+      layoff service dates of all affected positions on Agency bulletin boards.
+(b)   Temporary employees working in the classification and the city in which a layoff
+      occurs shall be terminated prior to the layoff of trial service or regular employees.
+      Employees hired from outside the Agency to work in a limited duration
+      appointment shall not have layoff rights except as provided for under Article 46,
+      Section 3(b). An Agency employee appointed from regular status to a limited
+      duration appointment shall be entitled to rights under this Article based on the
+      employee’s former regular status classification.
+(c)   Employees shall be laid off and seniority calculated within the following separate
+      categories:
+           (1) permanent full-time positions;
+           (2) permanent part-time positions;
+           (3) seasonal full-time positions;
+           (4) seasonal part-time positions.
+      An initial trial service employee cannot displace any regular status employee.
+(d)   An employee notified of a pending layoff shall select one (1) of the following
+      options and communicate such choice in writing to the Human Resources
+      Manager within five (5) calendar days from the date the employee is notified in
+      writing of the layoff:
+
+
+
+2023-2025 Department of State Lands        - 23 -                   Collective Bargaining Agreement
+         (1)     The employee may displace an employee in the Agency with the lowest
+                 seniority in the same classification for which they is qualified.
+         (2)     If no positions are available under option d(1), the employee may demote
+                 to the lowest seniority position in any classification for which they is
+                 qualified within the Agency. Employees who elect to demote shall be
+                 placed on any layoff list of their choice within the Agency for the
+                 classification from which they demoted.
+         (3)     The employee may elect to be laid off. An employee who elects to be laid
+                 off shall be placed on the Agency layoff list for the classification from
+                 which they was laid off.
+(e)      To be qualified for the options under Section 2(d), the employee must meet all of
+         the minimum qualifications of the position’s classification plus any special
+         qualifications stated in the position description and must be capable of
+         performing the specific requirements of the position within two (2) weeks. An
+         employee who is seeking to bump another employee has no right to a trial
+         service period of any duration in the position into which the employee is
+         attempting to bump. Further, the two (2)-week time period is for the purposes of
+         orienting an employee to the position, not training the employee to perform the
+         work. The Agency shall be the sole determinant of whether the employee is
+         capable of performing such duties.
+                 If an employee cannot meet the above requirements as stated in
+         subsection (e) of this Article, the employee may displace or demote to the next
+         lowest seniority position in the classification, provided that the employee in the
+         next lower position has lower seniority than the employee displacing or demoting
+         in which the layoff is taking place.
+                 When exercising an option under Section 2, an employee shall only be
+         eligible to displace another employee with lower seniority.
+         Any employee displaced by another employee exercising options under Section
+         2 may also exercise any option available under Section 2.
+
+Section 4.
+Computation of seniority for regular status employees shall be made as follows:
+(a)   Seniority Definition. Seniority is the Layoff Service Date, which is the date the
+      employee began State service except as a temporary appointee or as adjusted
+      for break(s) in service.
+(b)   Break in Service. A break in service is a separation or interruption of
+      employment without pay for more than two (2) years. If an employee has a break
+      in service that does not exceed two (2) years, they shall be given credit for the
+      time worked prior to the break in service. Seniority will also be adjusted for
+      leaves without pay in excess of one (1) year. Leave without pay pursuant to
+      USERRA shall be recognized as service time pursuant to law.
+(c)   Equal Seniority. If two (2) or more employees have equal seniority, the Agency
+      shall determine the employee(s) to be laid off considering requirements of
+      available position(s), value of the employee(s) to the mission of the Agency,
+      demonstrated performance and other relevant factors.
+
+
+
+
+2023-2025 Department of State Lands      - 24 -                     Collective Bargaining Agreement
+Section 5.
+Any trial service employee who is laid off or demoted in lieu of layoff shall not be placed
+on the Agency layoff list, but shall be restored to the eligible list from which certification
+was made if the eligible list is still active.
+
+Section 6.
+Employees electing to displace, demote and/or return from layoff do not receive
+reimbursement for travel or moving expenses.
+
+Section 7.
+There shall be no cross bumping between management service and the bargaining unit.
+
+Section 8.
+Any temporary interruption of employment because of a lack of work or unexpected or
+unusual reasons beyond the Agency’s control, which does not exceed fifteen (15)
+consecutive days, shall not be considered a layoff if, at the termination of such
+conditions, employee(s) are to be returned to employment. Such interruptions of
+employment shall be recorded and reported as leave without pay.
+
+Section 9.
+Employees filling a job share position which totals a full-time equivalent at the time of
+calculation of seniority shall be considered as one (1) full-time equivalent or, if either
+party chooses, as part-time employees. If the two (2) employees choose to be treated
+as a full-time equivalent for purposes of layoff, the Agency shall use the seniority that is
+greater.
+
+Section 10.
+If an employee is underfilling a position, the employee will be considered in the position
+classification for the purposes of this Article.
+
+Section 11.
+Names of regular status employees of the Agency who have separated from the service
+of the State in good standing by layoff of who have demoted in lieu of layoff shall be
+placed on layoff lists in seniority order established by the classification from which the
+employee was laid off or demoted in lieu of layoff.
+
+The employee shall designate in writing the locations they wishes to be considered for
+recall. The term of eligibility of candidates placed on the list shall be two (2) years from
+the date of placement on the list.
+
+Section 12.
+(a)   Employees who are on Agency layoff list and have designated in writing the
+      locations which they are willing to move to, shall be recalled in seniority order
+      beginning with the employee with the highest seniority who meets all of the
+      minimum qualifications for the position plus any special qualifications stated in
+      the position description and can perform the specific requirements of the position
+      within two (2) weeks.
+              An employee seeking recall has no right to a trial service period of any
+      duration in the position into which the employee is attempting to return. Further,
+
+
+2023-2025 Department of State Lands      - 25 -                      Collective Bargaining Agreement
+         the two (2)-week period is for the purposes of orienting the employee to the
+         position, not training the employee to do the work. Further, it is necessary that
+         the employee can perform all of the duties and responsibilities of the position as
+         determined by the Agency prior to being recalled to the position.
+
+(b)      Employees refusing the offer of a position from which they was laid off shall lose
+         all future reemployment rights under this Article. Employees accepting a position
+         will be removed from the recall list.
+
+Section 13. Secondary Recall Rights.
+(a)   Application: These rights apply to all employees in bargaining units represented
+      by AFSCME at Central Table negotiations as well as the Department of
+      Corrections and Board of Parole except employees who are laid off during initial
+      trial service.
+(b)   Definitions:
+      (1)     Geographic areas, for the purpose of secondary recall, are each location
+              for which an employee may indicate their willingness to relocate on the
+              State’s PD100.
+      (2)     Agency Layoff Lists are intra-agency layoff lists, as defined in each
+              AFSCME Central Table Agency and/or Department of Corrections and
+              Board of Parole bargaining unit Contract.
+      (3)     Secondary Recall List is an inter-agency layoff list, which consists of
+              regular status employees who have been separated by layoff from Union-
+              represented positions in AFSCME Central Table Agencies and/or
+              Department of Corrections and Board of Parole and who have elected to
+              be placed on such list, consistent with the definitions of geographic areas
+              defined above.
+(c)   Coordination with Filling of Vacancy and Layoff Articles: The recall options
+      provided herein shall be consistent with the priority of recall to positions from
+      layoff within an Agency, as specified within each Agency’s contract, except that
+      recall from Agency Layoff Lists shall take precedence over recall from the
+      Secondary Recall List.
+(d)   Procedures:
+      (1)     Placement on the Secondary Recall List.
+              (A)    Regular status employees who are separated from the service of
+                     the State in good standing (meaning no record of economic
+                     disciplinary sanctions in their personnel file) by layoff or transferred
+                     outside state government due to intergovernmental transfer shall, in
+                     addition to their right to be placed on the Agency Layoff List, be
+                     given the option of electing placement on the Secondary Recall List
+                     by geographic area for other AFSCME-represented bargaining
+                     units which utilize the same or successor classification from which
+                     they were laid off. The term of eligibility of candidates placed on
+                     the list shall be two (2) years from the date of layoff. When an
+                     employee is prohibited from participating in the secondary recall
+                     process due to the presence of an economic disciplinary sanction in
+                     their personnel file, that employee may request and shall be
+                     placed on the secondary recall list for the remainder of the two (2)
+
+
+
+2023-2025 Department of State Lands      - 26 -                     Collective Bargaining Agreement
+                           years eligibility following layoff once the discipline has remained in
+                           the file for the length of time required by the agency’s contract.
+                  (B)      Employees who elect to be placed on the Secondary Recall List
+                           shall specify in writing the AFSCME Central Table and/or
+                           Department of Corrections and Board of Parole bargaining units
+                           and geographic areas to which they are willing to be recalled.
+
+         (2)      Use of the Secondary Recall List.
+                  (A)   After the exhaustion of the Agency Layoff List for a specific
+                        classification within a geographic area, the Secondary Recall List
+                        shall be used to fill all positions within a specific classification and
+                        geographic area consistent with Section (c) above, until such
+                        secondary list is exhausted.
+                  (B)   To be eligible for appointment from the Secondary Recall List, a
+                        laid off employee on such list must meet the minimum qualifications
+                        for the classification and any special qualifications for the position.
+                  (C)   Agencies shall utilize the Secondary Recall List to fill positions by
+                        calling for certifications from the list of the five (5) most senior
+                        employees who meet the minimum qualifications for the
+                        classification and any special qualifications for the position to be
+                        filled by selecting one of the five (5) so certified. Seniority for this
+                        purpose shall be computed as described per the layoff article of
+                        each Agency’s contract.
+                  (D)   Where fewer than five (5) eligible employees remain on the
+                        Secondary Recall List, the Agency shall select one (1) of these
+                        employees who meets the minimum qualifications for the class and
+                        any special qualifications for the position.
+         (3)      Appointments/Refusals of Appointments from the Secondary Recall List.
+                  (A)   A laid off employee on the Secondary Recall List who is offered an
+                        appointment from the list and refuses to accept the appointment
+                        shall have their name removed from the Secondary Recall List;
+                        however, an agency will not remove an employee’s name from the
+                        Secondary Recall List where that individual had been a day shift
+                        employee and subsequently refuses the offer of a position with
+                        swing shift or night shift hours.
+                  (B)   Employees appointed to positions from the Secondary Recall List
+                        shall have their names removed from their Agency Layoff List(s)
+                        and the Secondary Recall List.
+                  (C)   Employees appointed to positions from the Secondary Recall List
+                        shall serve a trial service period not to exceed three (3) full months
+                        except that employees hired into the Offender Information and
+                        Sentence Unit as Prison Term Analyst (PTA) shall serve a trial
+                        service period consistent with the DOC agreement. Administration
+                        of the trial service period shall be consistent with the hiring
+                        Agency’s contract. However, employees who fail to successfully
+                        complete this trial service period shall have their names restored to
+                        the Agency Layoff List(s) on which they previously had standing.
+                        Restoration to the Agency Layoff List(s) shall be for the remaining
+                        period of eligibility that existed at the time of appointment from the
+
+
+2023-2025 Department of State Lands           - 27 -                     Collective Bargaining Agreement
+                           Secondary Recall List. An employee may also petition the DAS
+                           Labor Relations Unit to also be restored to the Secondary Recall
+                           List for the remainder of the initial twenty-four (24) month recall
+                           period where the trial service removal was not related to potential
+                           misconduct warranting an economic or dismissal sanction. In no
+                           instance shall the DAS Labor Relations Unit’s decision be
+                           grievable.
+                  (D)      Employees appointed to positions from the Secondary Recall List
+                           shall not be entitled to moving expenses.
+                                                                                             Rev: 2015
+
+
+### ARTICLE 26 - WORK SCHEDULES & WORKWEEK
+
+Section 1.
+The workweek is defined as seven (7) consecutive calendar days beginning on 12:00
+a.m. on Sunday and ending on the following Saturday at 12:00 midnight. A workday is
+a twenty-four (24)-hour period beginning at 12:00 a.m. each day and ending at midnight
+the same day. Nothing in this Article or any part of this Agreement shall be construed as
+a guarantee of hours of work or a guaranteed workweek.
+
+Section 2.
+A work schedule is defined as the time of day and the days of the week the employee is
+assigned to work. A regular work schedule is five (5) consecutive eight (8)-hour days.
+Alternative work schedules are anything other than five (5) consecutive eight (8)-hour
+days.
+
+Section 3.
+The immediate supervisor shall set the work schedule for employees within their
+section. If an employee desires to change their assigned work schedule, the employee
+shall submit a written request to their immediate supervisor. Requests shall identify the
+schedule the employee wishes to work and include the reasons the employees believes
+the request will not adversely affect Agency operating needs. The supervisor shall
+respond in writing to the employee’s request. Disagreements over the Agency’s
+decision may only be grieved through step 3 of the grievance procedure. The Agency
+may change an employee’s work schedule to meet Agency operating requirements.
+
+Temporary modifications to an employee’s standard work schedule may be made upon
+approval from the immediate supervisor. When possible, subject to the operating needs
+of the Agency, such temporary modifications may also be used to accommodate an
+employee’s personal circumstances.
+
+With prior approval from management, those with scheduled remote work days may
+perform their duties during any time between the twenty-four (24)-hour workday period
+beginning at 12:00 a.m. each day and ending at 11:59 p.m. the same day provided the
+Agency operational needs are met in coordination with their supervisor. Such requests
+will not be unreasonably denied. Employees who request, and are approved for such
+modifications are not eligible for shift differential.
+
+
+
+
+2023-2025 Department of State Lands          - 28 -                    Collective Bargaining Agreement
+Employees may request to work a flexible schedule with supervisory approval. Flexible
+time shall be within the same work week. Volunteer flexible schedules will not be
+eligible for shift differential.
+
+Section 4 – Alternate Work Schedules
+(a)   Except for work schedules that have a thirty-six/forty-four (36/44) hour work
+      schedule over a two (2) week period of time, and flexible work schedules, an
+      alternate work schedule shall be defined as a work scheduled that is other than a
+      five (5) day eight (8) hour work schedule with regularly established starting and
+      stopping times. This section shall not apply to flexible work schedules or work
+      schedules that have thirty-six/forty-four (36/44) hours worked over a period of two
+      (2) calendar weeks. A flexible work schedule is a work schedule which varies the
+      number of hours on a daily basis, but not necessarily each day, or a work
+      schedule in which starting and stopping times vary on a daily basis but not
+      necessarily each day.
+(b)   An employee desiring to work an alternate work schedule must submit a written
+      request to their immediate supervisor. The employee’s written request will
+      address the following areas: 1) how the requested alternate work schedule will
+      not interfere with the employee’s ability and availability to perform assigned
+      duties; 2) continue to meet Agency/work unit operational needs; 3) the needs of
+      the public will be met; 4) how the request will not impact other employee’s ability
+      to schedule leave to extend their weekends; 5) the forty (40) hour work week will
+      be maintained. The supervisor will review the request and either approve or
+      disapprove the request which includes consideration of the above criteria. If
+      approved, the employee waives any penalty or premium pay as a result of the
+      change into or out of the requested schedule.
+(c)   Requests for alternate work schedules shall be considered in order of
+      application. If more than one (1) employee requests for an alternative work
+      schedule on the same day and both requests can not be accommodated,
+      preference shall be given to the employee with the most seniority in the Agency if
+      possible.
+(d)   Approved alternate work schedules will be reviewed as least annually at the time
+      of the employee’s performance evaluation.
+(e)   Overtime for employees working an alternate work schedule will follow the
+      provisions of the local Agency agreement.
+(f)   The supervisor’s decision to grant or deny such a request may be grieved by the
+      Union up to the Department of Administrative Services grievance appeal step.
+      Regardless, at the employee’s request, the immediate supervisor will meet with
+      the employee in an effort to fully discuss all concerns.
+(g)   The supervisor may revoke an employee’s alternate work schedule if the
+      schedule no longer meets criteria cited in subsection B herein with fourteen (14)
+      calendar days notice. The Agency’s decision shall not be subject to the
+      grievance procedure.
+
+Section 5.
+Employees shall receive not more than a one (1) hour unpaid lunch meal period during
+the work shift. Whenever possible, meal periods shall be scheduled at the middle of the
+shift. A longer meal period may be allowed by mutual agreement between the
+supervisor and the employee.
+
+
+2023-2025 Department of State Lands    - 29 -                    Collective Bargaining Agreement
+Section 6.
+A rest period of fifteen (15) minutes shall be allowed during each consecutive work
+period of four (4) hours or more. Such rest periods shall be taken off consistent with
+Agency operating requirements. Break periods shall not be used to increase an
+employee’s lunch hour or be used to arrive late or leave work early.
+
+Section 7.
+Except for emergencies or employee requested and Agency approved work schedule
+changes, the Agency will give three (3) calendar days’ notice of any work schedule
+change. The provisions regarding work schedule changes shall not apply to a situation
+where an employee volunteers or the Agency requires an employee to work overtime.
+
+Section 8. Travel.
+When the employee is required by the agency to travel, the actual travel time shall be
+considered time worked. Where required travel is outside an employee’s regular work
+hours (excluding normal commuting time), the employer may temporarily modify the
+employee’s weekly schedule without daily overtime or schedule change penalty. Where
+such schedule modification still results in the need for additional work hours, the
+employee shall be paid the appropriate rate of pay for all time worked over forty (40)
+hours in that workweek.
+                                                                                 REV: 2017,2023
+
+### ARTICLE 27 - OVERTIME
+
+Section 1.
+This Article is intended only to provide a basis for the calculation of overtime and none
+of its provisions shall be construed as a guarantee of any minimum or maximum hours
+of work or weeks of work to any employee or to any group of employees.
+
+Section 2.
+Time worked for the purpose of this Agreement is all hours actually worked.
+
+Section 3. FLSA Non-Exempt Employees.
+(a)   Full- and part-time employees covered under the FLSA shall be compensated at
+      the rate of time and one-half (1 ½) in the form of pay or compensatory time off at
+      the discretion of the Agency for authorized overtime worked in excess of forty
+      (40) hours in a workweek.
+(b)   Accrued compensatory time off must be taken within the fiscal year earned,
+      except as set forth below. Compensatory time off will be scheduled at a time
+      consistent with the Agency’s work requirements. Employees will take all
+      necessary steps to request use of compensatory time off during the fiscal year in
+      which it was earned. If the Agency is unable to schedule such time off within the
+      fiscal year earned, the Agency may pay off the accrued compensatory time off or
+      carry it forward into the next fiscal year. However, such carry forward may not
+      increase the total compensatory time off hours that may be accrued in that next
+      fiscal year.
+(c)   The Agency may unilaterally schedule up to forty (40) hours of accrued but
+      unused compensatory time off carried forward per employee per fiscal year after
+      prior notice of at least five (5) working days to the affected employee. This
+
+
+
+2023-2025 Department of State Lands         - 30 -               Collective Bargaining Agreement
+         provision shall not apply to compensatory time off accrued within the last two (2)
+         months of the previous fiscal year.
+                Employees may accrue up to eighty (80) hours of compensatory time off.
+
+Section 4.
+When feasible, the Agency shall give notice of any overtime to be worked. No overtime
+is to be worked without the prior authorization of the employee’s immediate supervisor.
+
+Section 5.
+No application of this Article shall be interpreted to provide for compensation for
+overtime at a rate exceeding time and one-half (1 ½) or to effect a pyramiding of
+overtime and any form of premium pay.
+
+Section 6. FLSA-Exempt Overtime Compensation.
+(a)   Employees occupying positions which have been determined by the Agency to
+      be executive, administrative or professional as defined by the Fair Labor
+      Standards Act shall receive time off for authorized time worked in excess of forty
+      (40) hours in a workweek.
+(b)   The rate of compensation shall be one (1) hour off for one (1) hour of overtime
+      worked. Time off shall be used within the fiscal year earned or shall be lost. The
+      scheduling of time off shall be consistent with provisions for requesting accrued
+      leave time or Agency practice whichever is applicable.
+(c)   Nothing in this article modifies, amends or eliminates any specific language in
+      any agreement or Agency practice to modify an employee’s work schedule
+      during the same workweek in which authorized overtime is worked.
+
+### ARTICLE 28 - DISCIPLINE AND DISCHARGE
+
+Section 1.
+The principles of progressive discipline shall be used when appropriate. Discipline shall
+include, but not be limited to: written reprimands; reduction in pay*, demotion,
+suspension without pay*; and dismissal. No regular status employee shall be
+disciplined without just cause.
+
+*For FLSA-exempt employees, except for penalties imposed for infractions of safety
+rules of major significance, no reduction in pay and only suspensions without pay in one
+(1) or more full workweek increments are allowed unless or until FLSA restrictions on
+economic sanctions for exempt employees are eliminated by statute or a court decision
+the State determines dispositive. Safety rules of major significance include only those
+relating to the prevention of serious danger to the Agency, or other employee.
+
+Section 2.
+(a)   Discharge of a regular status employee may be appealed by the employee or
+      Union to step 3 of the grievance procedure. The employee or Union may appeal
+      the discharge by completing the Official Grievance Form and sending it to the
+      Department of Administrative Services Labor Relations Unit within fifteen (15)
+      calendar days from the effective date of the discharge.
+(b)   Written reprimands, pay reductions, demotions or suspensions without pay may
+      be appealed by the employee or Union to step 2 of the grievance procedure. The
+
+
+2023-2025 Department of State Lands      - 31 -                     Collective Bargaining Agreement
+         employee or Union may appeal the action by completing the Official Grievance
+         Form and sending it to the Agency Head or designee within fifteen (15) calendar
+         days from the effective date of the action. Any further appeal shall follow the
+         steps and time frames stated in Article 29 (Grievance Procedure).
+
+Section 3. Dismissal, Salary Reduction, Suspension Without Pay, Demotion, Written
+Reprimands.
+(a)   Pre-dismissal. A written notice shall be given to a regular status employee
+      against whom a charge which may be cause for discharge, is presented. Such
+      notice shall include the known complaints, facts and charges, and a statement
+      that the employee may be discharged. The employee shall be afforded an
+      opportunity to refute such charges or present mitigating circumstances to the
+      Agency at a time and date set forth in the notice, which date shall not be more
+      than seven (7) calendar days from the date the notice is received. The employee
+      shall be permitted to have an official representative present. At the discretion of
+      the Agency Head or designee, the employee may be suspended with or without
+      pay or allowed to continue work as specified in the pre-dismissal notice.
+(b)   A regular status employee reduced in pay, suspended without pay or demoted
+      shall receive written notice of the discipline with the specific charges and facts
+      supporting the discipline.
+(c)   The Agency shall make a good faith effort to include the following statement on
+      all written notices referred to in subparts (a) and (b) above:
+               “If you choose to contest this action you have a right to be
+               represented by AFSCME Council 75 and you must file an appeal
+               within the time limits specified in Article 28 – Discipline and
+               Discharge and Article 29 - Grievance Procedure.”
+(d)   Copies of pre-dismissal and dismissal notices will be sent electronically to
+      AFSCME Council 75 on the same date notice is issued to the employee. Failure
+      to send copies of such notices to the Union will not void the disciplinary action.
+
+Section 4.
+The Agency shall not formally discipline an employee in front of other bargaining unit
+employees or the public. For the purposes of this Section, stewards and/or officers of
+the Union who are acting in a representational role shall not be included in the intended
+definition of other bargaining unit employees or the public.
+
+Section 5.
+Upon request, an employee shall have the right to Union representation during an
+investigatory interview that the employee reasonably believes will result in disciplinary
+action. Obtaining Union representation shall not cause an undue delay.
+                                                                                       REV: 2017
+
+
+
+### ARTICLE 29 - GRIEVANCE PROCEDURE
+
+Section 1.
+Grievances shall be defined as acts, omissions, applications or interpretations alleged
+to be violations of this Agreement.
+
+
+
+
+2023-2025 Department of State Lands       - 32 -                  Collective Bargaining Agreement
+Section 2.
+It is the intent of the Employer, Agency and Union to resolve employee grievances by
+informal methods if possible. However, such informal methods do not supersede the
+timeline requirements outlined in this Article except by mutual agreement pursuant to
+Section 7 of this Article. If the employee or Union desire a formal resolution of any
+grievance as defined in Section 1 of this Article, except for exclusions stated in Section
+4, such grievances shall be processed as provided in Section 5 of this Article.
+
+Section 3.
+Group Grievances. All group grievances, which are defined as involving two (2) or more
+immediate supervisors and involve subject matter that is beyond the authority of the
+immediate supervisor to resolve, shall be filed at step 2 within the time limits outlined for
+that step. Group grievances will be filed using the Official AFSCME Grievance Form
+(Attachment A).
+
+Section 4.
+All grievances shall be processed in accordance with this Article and it shall be the sole
+and exclusive method for resolving grievances, except for the following articles:
+            Article 2 (Recognition)
+            Article 12 (Equal Employment Opportunity, Affirmative Action, and
+             Discrimination)
+            Article 22 (Classification/Classification Changes)
+
+Section 5.
+Grievances shall be initially filed within, either, thirty (30) calendar days for step 1 or
+fifteen (15) calendar days for step 2, of the date the grievant or the Union knows or by
+reasonable diligence should have known of the alleged grievance.
+
+Grievances shall be reduced to writing, stating the specific Article(s) alleged to have
+been violated and clear explanation of the alleged violation, sufficient to allow
+processing of the grievance. Grievances shall be filed through the appropriate steps of
+this procedure on the form identified as the Official AFSCME Grievance Form
+(Attachment A).
+
+Except as noted in Section 4 of this Article, the following steps shall be used to process
+grievances:
+  TIME TO FILE: Thirty (30) calendar days for initial filing at Step 1 & fifteen (15)
+                                   days at Step 2
+    PLACE TO FILE                         TYPE OF GRIEVANCE
+  IMMEDIATE
+  SUPERVISOR          All other grievances/contract violations
+  (Step 1)
+                      Article 28-Discipline and Discharge
+                      Article 12-Equal Employment Opportunity, Affirmative Action,
+  AGENCY HEAD
+                       and Discrimination
+  (Step 2)
+                      Article 22-Classification/Classification Changes
+                      Article 29, Section 3 -Group Grievances
+
+
+
+2023-2025 Department of State Lands      - 33 -                     Collective Bargaining Agreement
+                 Step 1. Immediate Supervisor. The employee, with or without Union
+                  representation, shall, within thirty (30) calendar days of the alleged
+                  violation of the Agreement, file a written grievance with their immediate
+                  supervisor. The supervisor shall respond in writing to the grievance within
+                  fifteen (15) calendar days from the receipt of the grievance. Grievances
+                  shall be submitted using the Official AFSCME Grievance Form
+                  (Attachment A).
+                 Step 2.       Agency Head. If the grievance is not resolved at step 1, the
+                  employee or Union may appeal the grievance in writing to the Agency
+                  Head or designee within fifteen (15) calendar days after the response is
+                  required from step 1. The Agency Head or designee shall respond within
+                  fifteen (15) calendar days from the date of receipt of the grievance.
+                 Step 3. DAS Labor Relations Unit. If the grievance is not resolved at
+                  step 2, the employee or Union may appeal the grievance in writing within
+                  fifteen (15) calendar days to the Department of Administrative Services
+                  Labor Relations Unit. The Department shall respond within fifteen (15)
+                  calendar days from the date of receipt of the grievance. For purposes of
+                  this article, an appeal in writing can be delivered by first class registered or
+                  certified mail, postage paid, by fax or by electronic mail to the Labor
+                  Relations Unit email address LRU@das.oregon.gov.
+                          In the event the response from the Department of Administrative
+                  Services is acceptable to the Union, such response shall have the same
+                  force and effect as a decision or award of an arbitrator and shall be final
+                  and binding on all parties and they will abide thereby.
+                 Step 4. Arbitration. Grievances which are not resolved at step 3 may
+                  be appealed by the Union to arbitration. To be valid, an arbitration request
+                  must be made within thirty (30) calendar days from the date the response
+                  from the Department of Administrative Services is received or due,
+                  whichever occurs first. Failure to file for arbitration within the thirty (30)
+                  calendar day period shall constitute forfeiture of claim and the case shall
+                  be considered closed by the parties.
+                          If the grievance is submitted for arbitration, the Employer and Union
+                  will meet to attempt to formulate a submission agreement to be sent to the
+                  arbitrator.
+
+Section 6.
+Neither the employee nor the Union shall expand upon the original elements and
+substance of the written grievance.
+
+Section 7.
+Time limits may be extended by mutual agreement of the parties confirmed in writing.
+
+Section 8.
+Failure of an employee or the Union on behalf of the employee to comply with the time
+limits outlined above shall constitute abandonment of the grievance.
+
+Section 9.
+Once an employee files a grievance, the employee shall not be required to discuss the
+subject matter of the grievance without representation of the Union.
+
+
+2023-2025 Department of State Lands          - 34 -                      Collective Bargaining Agreement
+Section 10.
+The Union request for arbitration will be made through the process established by the
+Employment Relations Board, or successor Agency. The Union will provide State-Arb-
+Notice@omls.oregon.gov as the Employer contact email, and will request from the
+Employment Relations Board the names of five (5) Oregon or Washington arbitrators.
+The Parties will select an arbitrator by alternately striking names, with the moving Party
+striking first, one (1) name at a time until one (1) name remains on the list. The name
+remaining on the list shall be accepted as the arbitrator.
+
+Section 11.
+The parties agree that the arbitrator’s decision or award shall be final and binding on the
+parties and that they will abide thereby. The arbitrator shall have no authority to add to,
+subtract from, or change any of the terms of the Agreement, to change an existing wage
+rate or establish a new wage rate. The arbitrator shall have the power to return a
+grievant to employee status, with or without back pay, or to mitigate the penalty as
+equity suggests under the facts.
+
+Section 12.
+The arbitrator’s fees and expenses shall be equally split by the parties. All other
+expenses shall be borne exclusively by the party requiring the service or item for which
+payment is to be made.
+
+Section 13.
+Subsequent to a valid arbitration request and prior to the selection of an arbitrator,
+either the Department of Administrative Services or the Union may request mediation of
+the grievance. If agreed by both parties, mediation will be scheduled and conducted by
+the Employment Relations Board. Mediation shall not be considered a mandatory step
+of the grievance procedure.
+
+Section 14.
+If, at any step of the grievance procedure, the Employer or Agency fails to issue a
+response within the specified time limits set forth in the Agreement, the grievance shall
+be automatically advanced to the next step of the grievance procedure unless
+withdrawn by the employee or Union. In no case, however, will a grievance
+automatically advance to arbitration. If the employee or Union fail to meet time limits
+specified herein, the grievance will be considered withdrawn and cannot be resubmitted.
+
+Section 15. Expedited Grievance Arbitration.
+(a)   Upon mutual agreement, the Employer and Union may agree to use the
+      expedited arbitration process contained in this subsection for grievances that are
+      timely and properly filed and subject to arbitration as provided for in this
+      agreement. The parties will use language from this section of the article in the
+      selection of the arbitrator, payment and all other conditions that apply to the
+      hiring of an arbitrator as stated below.
+(b)   The parties shall select an arbitrator by requesting the Employment Relations
+      Board for a list of seven (7) qualified arbitrators who have offices in Oregon and
+      Washington and agree to work under the rules set forth in this subsection. The
+      order of striking shall be determined by a coin flip. Each party shall have the right
+
+
+
+2023-2025 Department of State Lands     - 35 -                     Collective Bargaining Agreement
+         to alternately strike a total of three (3) names from the list with the remaining
+         name on the list being the selected arbitrator.
+(c)      The cost of the arbitration shall be borne by the losing party as stipulated by the
+         arbitrator.
+
+(d)      The use of the expedited arbitration process shall be determined at the time the
+         parties schedule dates with the arbitrator.
+(e)      The parties shall develop a stipulation of facts and affidavits and other time
+         saving methods whenever possible and when mutually agreed upon.
+(f)      Case presentation will be limited to opening statements, brief recitation of facts,
+         witness presentation and closing oral arguments. No post hearing briefs shall be
+         filed and no court reporter transcripts shall be made. However, nothing prevents
+         either party from keeping their own notes. The hearing will be completed within
+         one (1) business day unless otherwise agreed upon by the parties.
+(g)      The hearing shall be conducted by the arbitrator in whatever manner will most
+         expeditiously permit full presentation of the evidence and arguments of the
+         parties.
+(h)      At their discretion, the arbitrator may issue a bench decision at the conclusion of
+         the hearing or may issue a written award no later than seven (7) calendar days
+         from the close of hearing excluding weekends and holidays. The arbitrator’s
+         award shall be based on the record and shall include a brief explanation of the
+         basis for the award.
+(i)      The award shall be in writing and signed by the arbitrator. If the arbitrator
+         determines a formal opinion is necessary, the award will be in summary fashion.
+(j)      The arbitration award shall not establish a precedent for any current or future
+         cases on the same or related subject unless the parties agree otherwise prior to
+         the hearing.
+                                                                              Rev: 2015 ,2019, 2021
+
+
+### ARTICLE 30 - HOLIDAYS
+
+Section 1.
+The following holidays shall be recognized and paid for at the regular straight time rate
+of pay:
+(a)    New Year’s Day on January 1;
+(b)     Martin Luther King Jr.’s Birthday on the third Monday in January;
+(c)    President’s Day on the third Monday in February;
+(d)     Memorial Day on the last Monday in May;
+(e)     Juneteenth on June 19;
+(f)    Independence Day on July 4;
+(g)     Labor Day on the first Monday in September;
+(h)    Veterans’ Day on November 11;
+(i)    Thanksgiving Day on the fourth Thursday in November;
+(j)    The Friday after Thanksgiving;
+(k)    Christmas Day on December 25;
+(l)    Every day appointed by the Governor of the State of Oregon as a holiday and
+       everyday appointed by the President of the United States as a day of mourning,
+       rejoicing, or other special observance only when the Governor also appoints that
+       day as a holiday.
+
+
+2023-2025 Department of State Lands         - 36 -                  Collective Bargaining Agreement
+When a holiday specified in this Section falls on a Saturday, the preceding Friday shall
+be recognized as the holiday. When a holiday specified in this Section falls on a
+Sunday, the following Monday shall be recognized as the holiday. In such situations, for
+employees whose regular schedule includes a Saturday or Sunday, the actual holiday
+shall be recognized when it falls on an employees regularly scheduled work day.
+
+Section 2.
+Full-time employees shall be compensated at the straight time rate of pay for eight (8)
+hours for each recognized holiday listed in Section 1. All part-time and seasonal
+employees shall be compensated at the straight time rate of pay on a pro rata basis for
+each recognized holiday. This holiday compensation is called holiday pay. Recognized
+holidays which occur during vacation or sick leave will be charged as a holiday rather
+than vacation or sick leave.
+
+Section 3.
+Employees required to work on recognized holidays shall be entitled to their holiday pay
+plus compensatory time off or cash as determined by the employee for all such time
+worked at the rate of time and one-half (1 ½). The rate at which an employee shall be
+compensated for working on a holiday shall not exceed the rate of time and one-half (1
+½) in addition to holiday pay.
+
+Section 4.
+In addition to the holidays specified in this Article, all full-time employees shall receive
+eight (8) hours of paid leave. Part-time employees will receive pro-rated paid leave.
+Employees may request the option of using this paid leave on any workday during the
+calendar year. Approved usage of this leave shall be taken in a single block of time and
+granted on a basis which shall preclude the closure of state facilities.
+
+Section 5.
+During any calendar week involving a holiday, employees whose work schedule is other
+than a regular five (5) eight (8) hour work schedule and who have the holiday off shall
+receive eight (8) hours holiday pay and will use accrued vacation, personal leave,
+compensatory time off or leave without pay to account for a forty (40)-hour work
+schedule for the workweek.
+                                                                               Rev: 2015, 2021,2023
+
+
+### ARTICLE 31 - OTHER LEAVES
+
+Section 1. Leaves with Pay.
+(a)   Personal Leave. After completion of initial trial service in the Agency, full-time
+      employees shall be granted and eligible to use twenty-four (24) hours of personal
+      leave each fiscal year. After completion of trial service, part-time employees
+      shall be granted such leave in a pro-rated amount of twenty-four (24) hours
+      based on the same percentage or fraction of month they are hired to work or is
+      subsequently formally modified, provided it is anticipated that they will work 1040
+      hours during the fiscal year.
+             Should any employee fail to work 1040 hours for the fiscal year, the value
+      of personal leave used may be recovered from the employee. Personal leave
+      shall not be cumulative from year to year nor is any unused leave compensable
+      in any other manner. Such leave may be used by an employee for any purpose
+
+2023-2025 Department of State Lands           - 37 -                Collective Bargaining Agreement
+         they desires and may be taken at times mutually agreeable by the immediate
+         supervisor and the employee.
+(b)      Bereavement Leave.
+         1.      Notwithstanding the hardship or sick leave eligibility criteria in the
+                 agreement, employees shall be eligible for a maximum of twenty four (24)
+                 hours of paid bereavement leave per event of an immediate family
+                 member which shall be prorated for part time employees. The Agency
+                 may request documentation.
+         2.      For employees that qualify for OFLA bereavement leave, paid
+                 bereavement leave under this agreement shall run concurrently with OFLA
+                 bereavement leave.
+         3.      After OFLA eligible leave for bereavement leave is exhausted, if additional
+                 leave is needed, an employee may, with prior authorization, use any
+                 accrued leave or leave without pay at the option of the employee for a
+                 period of absence from employment to discharge the customary
+                 obligations arising from a death in the immediate family or employee’s
+                 spouse.
+         4.      Regular and trial service employees may be eligible to receive up to forty
+                 (40) hours of donated leave, to be used consecutively. The employee
+                 must exhaust all available accrued leave to qualify to receive hardship
+                 leave.
+         5.       For purposes of this article, ‘immediate family’ shall include:
+                 * the employee’s or the employee’s spouse’s parent (includes one who
+                     stood in loco parentis (in place of a parent) when the employee was a
+                     child);
+                 * spouse;
+                 * child (and child’s spouse) (includes a child for whom the employee
+                     stood in loco parentis and includes step child from a previous
+                     marriage);
+                 * sibling;
+                 * grandparent;
+                 * grandchild;
+                 * aunt or uncle;
+                 * niece or nephew;
+                 * or the equivalent of each of the above for domestic partners, or another
+                    member of the immediate household.
+                   Note: Immediate family shall include the current in-laws and step family
+                   members who qualify per the above list.
+(c)      Service with a Jury. An employee shall be granted leave with pay for jury duty.
+         The supervisor shall request and receive from the employee a copy of the
+         subpoena. The Agency reserves the right to petition for removal of the employee
+         from jury duty if, in the Agency’s judgment, the operating requirements of the
+         Agency would be hampered. The employee may keep any money paid by the
+         court for serving on a jury.
+(d)      Military Training Leave. An employee who has served with the State of Oregon
+         or its counties, municipalities or other political subdivisions for six (6) months or
+         more immediately preceding a request for paid military training leave, and who is
+         a member of the National Guard or any reserve components of the armed forces
+         of the United States is entitled to fifteen (15) days or one hundred and twenty
+
+
+2023-2025 Department of State Lands       - 38 -                      Collective Bargaining Agreement
+         (120) hours of paid military leave per federal fiscal year, unless a greater number
+         of days is provided by law. In no event may an employee receive more than the
+         number of days provided by law.
+(e)      Military leave shall be granted in accordance with applicable Law and state
+         policy. In addition, employees shall be allowed to utilize paid military leave for
+         travel to and from their place of duty and for the time spent on militarily obligated
+         status or military duty regardless of the length of their military status or duty.
+(f)      Subject to supervisory approval, employees may be allowed to voluntarily adjust
+         their shifts to accommodate military duty.
+(g)      Test and Interview Leave. Upon written request to the supervisor, an employee
+         will be allowed paid leave up to four (4) hours per month up to a total of sixteen
+         (16) hours per calendar year to interview for Agency and State Agencies
+         employment opportunities. Authorization for this leave shall not be withheld
+         unless the supervisor determines that use of such leave would hinder operating
+         requirements. The employee shall not be eligible for any travel expenses or
+         overtime pay.
+(h)      Pre-Retirement Counseling Leave
+         a.      Employees shall be granted up to twenty-eight (28) hours leave with pay
+                 to pursue bona fide pre-retirement counseling programs. Employees shall
+                 request the use of leave provided in this section at least five (5) days prior
+                 to the intended date of use.
+         b.      Authorization for the use of pre-retirement shall not be withheld unless the
+                 Agency determines that the use of such leave shall hinder the efficiency of
+                 the employee’s work unit.
+         c.      When the date requested for pre-retirement leave cannot be granted for
+                 the above reason, the Agency will work with the employee to find an
+                 alternate date.
+         d.      The leave discussed under this Section may be used to investigate and
+                 assemble the employee’s retirement program, including PERS, Social
+                 Security, Insurance, and other retirement income.
+
+Section 2. Leaves Without Pay.
+(a)   Military Leave Without Pay. An employee in the State service shall be entitled to
+      a military leave of absence without pay during a period of service with the armed
+      services of the United States. They shall, upon honorable discharge from such
+      service, be returned to a position in the same class as their last held position, at
+      the salary rate prevailing for such class, without loss of seniority or employment
+      rights.
+              Employees shall make application for reinstatement within ninety (90)
+      days and shall report for duty within six (6) months following separation from
+      active duty. Failure to comply may terminate military leave. If it is established that
+      they is not physically qualified to perform the duties of their former position by
+      reason of such service, they shall be reinstated in other work that they is able to
+      perform at the nearest appropriate level of pay of their former class. An employee
+      voluntarily or involuntarily seeking military leave without pay to attend service
+      school shall be entitled to such leave during a period of active duty.
+              Military leaves of absence without pay shall be granted in compliance with
+      the Veteran’s Reemployment Rights Law, Title 38 USC Chapter 43. However,
+      such reduction in pay will not be made for an FLSA-exempt employee on
+
+2023-2025 Department of State Lands       - 39 -                      Collective Bargaining Agreement
+         temporary military leave except for full workweek increments where such leave
+         causes an absence of one (1) or more full workweeks.
+(b)      Court Appearance Leave Without Pay. An employee may request and shall be
+         granted leave without pay for the time required to make an appearance as a
+         plaintiff, defendant or witness in a civil or criminal court proceeding that is not
+         connected with the employee’s officially assigned duties. Such leave shall be
+         granted only after exhaustion of the employee’s accrued vacation leave and
+         personal leave. However, such reduction in salary will not be made for an FLSA-
+         exempt employee to testify in a court or at a deposition except for full workweek
+         increments where such testimony causes an absence of one (1) or more full
+         workweeks.
+(c)      Leave Without Pay/Educational Leave Without Pay. In instances where the work
+         of the Agency will not be adversely affected by the temporary absence of an
+         employee, the employee shall be granted a leave of absence without pay or
+         educational leave without pay for up to one (1) year, subject to Agency approval.
+(d)      Unauthorized Absence. Any unauthorized absence of an employee from duty
+         shall be deemed to be an absence without pay. Any employee who absents
+         himself/herself for three (3) consecutive workdays without authorized leave shall
+         be deemed to have resigned and shall be considered a voluntary separation from
+         state service. Such absences may be covered, however, by a subsequent grant
+         of leave with or without pay when extenuating circumstances are found to have
+         existed.
+(e)      FMLA/OFLA. Leave without pay shall be granted after exhaustion of other
+         leaves in accordance with FMLA and OFLA.
+                                                                                     Rev: 2015, 2019, 2021
+
+### ARTICLE 32 - VACATION LEAVE
+
+Section 1. Vacation Leave.
+Full-time employees shall accrue vacation leave in accordance with the schedule below.
+Employees who are new to state service may use accrued vacation leave during the
+first six months of employment; however, if an employee separates from state service
+prior to the completion of six months, any accumulated vacation time not utilized will be
+lost and is not compensable upon separation.
+
+           Length of State Service:                     Vacation Accrual Rate:
+           Initial appointment to state service
+           (a) through 5th year;                        12 workdays for each 12 calendar
+           (b) 5th annual season; or,                   months of service
+           (c) 60th month                               (8 hours per month)
+           After
+           (a) 5th year through 10th year;
+                                                        15 workdays for each 12 calendar
+           (b) 5th annual season through 10th
+                                                        months of service
+                annual season; or,
+                                                        (10 hours per month)
+           (c) 61st month through 120th
+                month
+           After
+                                                        18 workdays for each 12 calendar
+           (a) 10th year through 15th year;
+                                                        months of service
+           (b) 10th annual season through
+                                                         (12 hours per month)
+                15th annual season; or,
+
+2023-2025 Department of State Lands            - 40 -                      Collective Bargaining Agreement
+           Length of State Service:                 Vacation Accrual Rate:
+           (c) 121st month through 180th
+               month
+
+
+           After
+           (a) 15th year through 20th year;
+                                                    21 workdays for each 12 calendar
+           (b) 15th annual season through
+                                                    months of service
+               20th annual season; or,
+                                                     (14 hours per month)
+           (c) 181st month through 240th
+               month.
+           After
+                                                    24 workdays for each 12 calendar
+           (a) 20th year;
+                                                    months of service
+           (b) 20th annual season; or,
+                                                     (16 hours per month)
+           (c) 240th month
+           After
+                                                    27 workdays for each 12 calendar
+           (a) 25th year;
+                                                    months of service
+           (b) 25th annual season; or
+                                                    (18 hours per month)
+           (c) 300th month
+
+Employees working less than a month shall accrue vacation leave on a pro rata basis. If
+an employee has a break in service and that break in service does not exceed two (2)
+years, or two (2) seasons for a seasonal employee, the employee shall be given credit
+for the time worked prior to the break in service for purposes of determining the level of
+accrual. Seasonal employees may not be credited with more than one (1) season
+during a calendar year.
+
+Section 2. Determination of Eligibility for Vacation Accrual.
+Time spent by an employee in actual State service or on Peace Corps, military, or job
+incurred disability leave without pay shall be considered as time in the State service in
+determining length of service for vacation credits.
+
+Section 3. Determination for Accrual of Vacation Leave.
+If an employee has a break in service and that break does not exceed two (2) years,
+they shall be given credit for the time worked prior to the break in service except for
+periods of leave without pay of fifteen (15) days or more.
+
+Section 4. Termination Vacation Pay.
+An employee who is laid off or terminated after six (6) full months of Agency service
+shall be paid upon separation from Agency service for accrued vacation time except as
+provided to offset for damages or misappropriation of State property or equipment.
+Employees on military leave of absence may request payment for accrued vacation.
+
+Section 5. Basis of Compensation for Vacation Leave.
+Compensation for use of accrued vacation shall be at the employee’s prevailing straight
+time rate of pay.
+
+
+
+
+2023-2025 Department of State Lands        - 41 -                      Collective Bargaining Agreement
+Section 6. Vacation Leave Payment.
+In the event of an employee’s death, all monies due him/her for accrued vacation and
+salary shall be paid as provided by law, unless otherwise designated in writing by the
+employee.
+
+Section 7. Scheduling of Vacation Leave.
+Vacations shall be scheduled on a first-come first-serve basis. Such time off shall be
+prior authorized in writing on the authorized Agency form and shall be mutually
+agreeable to the immediate supervisor and the employee consistent with the operating
+needs of the Agency. Employees shall be able to request forecasted accrued vacation
+leave. Such leave may only be taken if the accrued vacation leave is actually accrued
+by the date the leave is to be used.
+
+Section 8. Cancelled Vacations.
+If the Agency cancels an approved vacation within one hundred and twenty (120) days
+of the approved vacation and the employee loses unrecoverable deposits as a result of
+the cancellation, the Agency shall reimburse the employee for their loss. The Agency
+may require written proof of unrecoverable deposits.
+
+Section 9. Vacation Accruals
+Vacation hours may accumulate to a maximum of three hundred fifty (350) hours.
+However, in the event of layoff, resignation, retirement or termination, any unused
+accrued vacation hours of up to three hundred (300) hours will be paid to the employee.
+When an employee notifies the Agency they plan to separate from Agency service
+within the next two (2) calendar months, and the employee has at the time of such
+notice more than three hundred (300) hours of accrued vacation hours, the Agency and
+employee will work together to find a mutually agreeable time for the employee to take
+time off to reduce accrued vacation hours down to the three hundred (300) hours. An
+appointing authority may authorize cash payment of sixty (60) hours, upon determining
+that granting of vacation leave is not appropriate. The designated supervisor must
+document the denial of the vacation leave request. Cash payout for accrued vacation
+leave must not be granted more than once in each fiscal year.
+
+Section 10. Vacation Cashout.
+In addition to Article 32, Section 9 of the Agreement, employees may cash out up to
+forty (40) hours of accrued vacation hours each State fiscal year under the following
+conditions:
+        a.    Employees must have regular status at the time of the request;
+        b.    Employees shall receive payment within thirty (30) days from the date of
+              their cash out request made through the human resources information
+              system.
+        c.    After cash out, employees must have in their leave balance at least sixty
+              (60) hours of accrued vacation leave hours;
+        d.    Payment shall be the employee’s straight time rate of pay;
+        e.    Employees on unprotected leave without pay at the time the payment is
+              requested are not eligible to cash out accrued vacation hours.
+To avoid losing vacation, the employee must request vacation leave. An Agency may
+
+
+
+
+2023-2025 Department of State Lands   - 42 -                    Collective Bargaining Agreement
+authorize cash payment of sixty (60) hours, upon determining that granting of vacation
+leave is not appropriate.
+                                                                     REV: 2017, 2019, 2021,2023
+
+
+
+### ARTICLE 33 - SCHEDULING OF COMPENSATORY TIME OFF
+
+Subject to the operating requirements of the Agency and in advance of the requested
+time off, an employee shall have their choice of scheduling compensatory time off.
+Employees shall follow Section 7 of Article 32 (Vacation Leave) for the procedures to
+schedule compensatory time off.
+
+### ARTICLE 34 - SICK LEAVE
+
+Section 1. Accrual Rate of Sick Leave with Pay Credits.
+Employees shall accrue eight (8) hours of sick leave with pay credits for each full month
+worked. Employees who work less than a full month but at least thirty two (32) hours per
+month shall accrue sick leave with pay on a pro rata basis.
+
+Section 2. Eligibility for Sick Leave With Pay.
+Employees shall be eligible for sick leave with pay immediately upon accrual.
+
+Section 3. Determination of Service for Sick Leave With Pay.
+Actual time worked and all leave with pay, except for educational leave, shall be
+included in determining the pro rata accrual of sick leave credits each month, provided
+that the employee works thirty two (32) hours or more in that month.
+
+Section 4. Utilization of Sick Leave With Pay.
+Employees who have earned sick leave credits shall be eligible for sick leave for any
+period of absence from employment which is due to the employee’s illness, bodily
+injury, disability resulting from pregnancy, necessity for medical or dental care,
+exposure to contagious disease, attendance upon members of the employee’s
+immediate family (employee’s parents, wife, husband, children, foster children, brother,
+sister, grandmother, grandfather, grandchildren, son-in-law, daughter-in-law, or another
+member of the immediate household) where the employee’s presence is required
+because of illness or death in the immediate family of the employee’s or the employee’s
+spouse. The employee has the duty to insure that they makes other arrangements,
+within a reasonable period of time, for the attendance upon children or other persons in
+the employee’s care.
+
+Section 5. Request for Additional Time Off.
+At the time earned sick leave has been exhausted, the employee must request and the
+Agency may grant use of vacation leave or sick leave without pay for any non-job-
+incurred injury or illness.
+
+Section 6. Physician or Practitioner Certification of Illness or Injury.
+Certification of an attending physician or practitioner may be required by the Agency to
+support the employee’s claim for sick leave, if the employee is absent in excess of five
+(5) consecutive days and/or if the Agency has reasonable grounds to suspect that the
+employee is abusing sick leave privileges or in verification of a disability. The Agency
+
+
+2023-2025 Department of State Lands          - 43 -              Collective Bargaining Agreement
+may also require such certificate from the employee to determine whether the employee
+should be allowed to return to work where the Agency has reason to believe that the
+employee’s return to work would be a health hazard to either the employee or to others.
+Any cost associated with the supplying of a certificate concerning a non-job-incurred
+injury or illness shall be borne by the employee. In the event of a failure or refusal to
+supply such a certificate, or if the certificate does not clearly show sufficient disability to
+preclude that employee from the performance of duties, such sick leave may be
+cancelled and the employee may be disciplined pursuant to Article 28
+(Discipline/Discharge).
+
+Section 7. Request for Additional Time Off-Job Incurred Illness or Injury.
+After earned sick leave has been exhausted and the employee has the opportunity to
+exercise the option of using vacation leave or compensatory time off as outlined in
+Article 37 (Workers Compensation), the Agency shall grant sick leave without pay for
+any job-incurred injury or illness for a period which terminates upon demand by the
+employee for reinstatement accompanied by a certificate issued by a duly licensed
+attending physician that the employee is physically and/or mentally able to perform the
+duties of that position.
+
+Section 8. Loss of Sick Leave With Pay on Termination.
+No compensation for accrued sick leave shall be allowed to an employee who is
+separated from the service.
+
+Section 9. Transfer of Sick Leave Hours.
+An employee shall have all of their accrued sick leave credits transferred when the
+employee is transferred to or from a different State agency.
+
+Section 10. Restoration of Sick Leave Credits.
+Employees who have been separated from the State service and return to a position
+within two (2) years shall have unused sick leave credits accrued during previous
+employment restored.
+
+### ARTICLE 35 - DONATED LEAVE
+
+Section 1.
+This Article shall apply for the purpose of allowing employees to donate accrued
+vacation leave, sick leave or compensatory time for use by eligible employees as sick
+leave. The Agency will allow Agency employees to make donations of accrued vacation
+leave, sick leave or compensatory time to a regular status employee of the agency who
+has exhausted all accumulated leave and who is not enrolled in or eligible to receive
+short term disability payments, not to exceed the hours necessary to cover for the
+qualifying absence as provided in this Article, to a co-worker in the Agency.
+        (a)   Employees may not donate sick leave if they have under forty (40) hours.
+        (b)   Employees may not donate sick leave of more than sixty (60) hours per
+              year.
+        (c)   Sick leave may not total more than fifty (50%) percent of donated leave.
+
+
+
+
+2023-2025 Department of State Lands            - 44 -                 Collective Bargaining Agreement
+Section 2.
+For purposes of this Agreement, donated leave donations will be administered under
+the following stipulations and terms of this Agreement and shall be strictly enforced with
+no exceptions:
+        (a)   The recipient and donor must be regular status employees of the Agency.
+        (b)   The Employer and the Agency shall not assume any tax liabilities that
+              would otherwise accrue to this employee.
+        (c)   Use of donated leave shall be consistent with those provisions found in
+              Article 34 (Sick Leave).
+        (d)   Applications for donated leave shall be in writing and sent to the Agency’s
+              Human Resources Manager and accompanied by the treating physician’s
+              written statement certifying that the illness or injury will continue for at
+              least fifteen (15) days following the donee’s projected exhausting of the
+              accrued leave and the total leave is at least thirty (30) days. Donated
+              leave may be used intermittently.
+        (e)   Donations shall be credited at the recipient’s current regular hourly rate of
+              pay.
+        (f)   Employees otherwise eligible for or receiving workers compensation, or
+              PERS retirement benefits will not be considered eligible to receive
+              donations under this Agreement.
+
+Section 3.
+To donate to a specific employee in a different Agency, the employee (donor) must
+submit a written request to their appointing authority/designee. The appointing authority
+or designee from both the donor’s and recipient’s agencies may authorize the transfer of
+donated leave between agencies, subject to restrictions on the use of dedicated funding
+sources and/or other legitimate business reasons.
+                                                                                   Rev: 2015, 2019
+
+
+### ARTICLE 36 - TRAVEL, MILEAGE AND MOVING EXPENSES
+
+Section 1.
+Travel and mileage reimbursement rates and conditions shall be established in the
+current Department of Administrative Services Travel Policy. Changes in this policy will
+be automatically incorporated into this Article.
+
+Section 2.
+Moving expenses reimbursement shall be consistent with Department of Administrative
+Services Chief Human Resource Office Policy 40.055.10. Changes in this policy will be
+automatically incorporated into this Article.
+
+### ARTICLE 37 - WORKERS COMPENSATION
+
+Sick leave resulting from a condition incurred on the job and also covered by Workers
+Compensation, shall, if elected to be used by the employee, be used to equal the
+difference between the Workers Compensation for lost time and the employee’s regular
+salary rate. In such instances, prorated charges will be made against accrued sick
+leave.
+
+
+
+
+2023-2025 Department of State Lands     - 45 -                     Collective Bargaining Agreement
+Should an employee who has exhausted earned sick leave elect to use accrued
+vacation leave or accrued compensatory time off during a period of which Workers
+Compensation is being received, the salary paid for such period shall be equal to the
+difference between the Workers Compensation for lost time and the employee’s regular
+salary rate. In such instances, prorated charges will be made against accrued vacation
+leave or against accrued compensatory time off.
+
+### ARTICLE 38 - DELETED 2019-2021
+
+
+### ARTICLE 39 - FILLING OF VACANCIES
+
+Section 1.
+The Agency desires to fill vacancies with the best qualified applicants available. Within
+that context, the Agency intends to provide bargaining unit employees with opportunities
+to compete for openings within the bargaining unit. The Agency advocates for
+development and promotion of its employees and is committed to mobility where
+feasible to obtain the best applicant for the position.
+
+When the Agency chooses to fill a vacant Agency bargaining unit position, the Agency
+will post the vacancy by electronic email and Agency website for no less than ten (10)
+calendar days, except internal postings which will be posted by electronic email for no
+less than ten (10) calendar days. The Agency will determine the manner, method of
+selection and determine the individual to fill the vacancy.
+
+Section 2.
+A recruitment may occur concurrently between internal and external candidates. If the
+recruitment results in at least three (3) qualified internal applicants, external candidates
+will not be considered until an internal interview process is completed.
+
+An Agency employee who applies for a vacant bargaining unit position will be
+interviewed if the employee has passed the qualifying examination for the vacant
+position and is active on the appropriate qualifying list.
+
+If an internal candidate is not selected during the internal only interview process, all
+internal candidates who applied and qualified for the vacancy shall be considered along
+with the external candidates. The most qualified applicant shall be selected for the
+vacancy. All things being equal, seniority within the bargaining until shall prevail.
+
+Section 3.
+If the Agency decides to offer opportunities such as internal job rotations, underfill
+assignments or training/developmental work out of classification assignments those
+opportunities will be made known to employees by electronic email no less than ten (10)
+calendar days prior to the selection. This section does not apply when the Agency
+determines the operational needs require an immediate assignment. The Human
+Resource Office will notify the Union when such exceptions to this section occur. The
+notification will include the reasons for the exception.
+                                                                                         REV: 2017
+
+
+
+
+2023-2025 Department of State Lands         - 46 -                  Collective Bargaining Agreement
+### ARTICLE 40 - LABOR/MANAGEMENT COMMITTEE
+
+Section 1.
+The parties agree to establish a Labor/Management Committee, in order to facilitate
+communication and to promote cooperative employer-employee relations. The
+Committee will have three (3) employees from the bargaining unit appointed by the
+Union and three (3) Agency management employees unless the parties agree
+otherwise. The Committee will meet at least quarterly or as necessary upon mutual
+agreement. Representatives from the Employer and Union, including staff from the DAS
+Labor Relations Unit and AFSCME Local 2238, or other individuals may be invited to
+attend Committee meetings and/or provide information and/or assistance to the
+Committee.
+
+Section 2.
+Committee members will be on pay status during the time spent in committee meetings.
+The Agency shall not suffer any overtime liability as a result of committee meetings.
+
+Section 3.
+The committee shall not have the authority to negotiate changes to working conditions,
+negotiate any letters of agreement, violate the terms and conditions of this Agreement
+or resolve issues or disputes concerning the implementation of this Agreement,
+including but not limited to grievances or unfair labor practice complaints.
+
+Section 4.
+The Committee shall be empowered to make joint recommendations on issues that are
+brought to it. The Committee’s recommendations will be submitted in writing to the
+Agency Director. The Agency Director will provide a written response to the Committee.
+
+Section 5.
+The Committee shall develop a Charter.
+
+Section 6.
+At the conclusion of each calendar year, the parties shall discuss the
+Labor/Management Committee concept and shall review any needed changes in the
+Charter for future success of the Committee.
+
+### ARTICLE 41 - TERM OF AGREEMENT
+
+Section 1.
+Unless otherwise noted in a specific article in the Agreement, this Agreement becomes
+effective on the date of ratification at the local table and expires June 30, 2025. The
+Union shall send a letter informing the Department of Administrative Services Labor
+Relations and the affected Agency of the specific ratification date of the tentative
+agreement. If the Union does not send the letter identifying the date of the ratification
+vote, the Employer will use the effective date of the agreement as being the first of the
+month following the date of signature.
+Section 2.
+Either party may open negotiations for a successor agreement by giving written notice
+to the other party between the dates of December 1, 2024 and December 31, 2024.
+
+
+2023-2025 Department of State Lands        - 47 -                Collective Bargaining Agreement
+Negotiations for a successor agreement will start between February 15, 2025 and
+March 15, 2025.
+
+Section 3.
+The matter of paid or unpaid time for negotiations shall be discussed as part of the
+ground rules for the successor negotiations.
+                                                                  Rev: 2015, 2017, 2019, 2021,2023
+
+
+### ARTICLE 42 - SAFETY AND HEALTH
+
+Section 1.
+The Agency agrees to abide by standards of safety and health in accordance with the
+Oregon Safe Employment Act.
+
+Section 2.
+When the Oregon Safe Employment Act requires protective clothing or safety devices to
+carry out assigned duties, such clothing or devices shall be provided by the Agency.
+Where provided, such clothing and devices must be used. Such clothing and devices
+shall remain the Agency’s property and shall be returned to the Agency upon
+termination of employment.
+
+Section 3.
+If an employee believes that an assigned duty, vehicle, or equipment is unsafe under
+Oregon Safe Employment Act standards and for that reason refuses to perform the duty
+or use the vehicle or equipment, the employee shall immediately give the specific
+reason(s) on which the belief is based to the employee’s supervisor. If that supervisor
+is not available, the reason(s) shall be given to the next higher level of authority. The
+employee will provide the supervisor or higher level of authority with a written
+explanation of the reason(s) as soon as practical, but no later than by the end of the
+employee’s shift. If the supervisor or higher level of authority disagrees with the
+employee’s claim, the supervisor or higher level of authority will request a determination
+by the Oregon Occupational Safety and Health Division (OR-OSHA), as to whether the
+duty, vehicle, or equipment is safe or unsafe.
+
+Section 4.
+Pending the determination provided for in Section 3, the employee may, at the Agency’s
+sole discretion, be given another vehicle, equipment or other suitable work. If no other
+vehicle, equipment or suitable work is available, the employee may, at the Agency’s
+sole discretion, be sent home. Time lost by the employee as a result of refusal to
+perform work or use a vehicle or equipment on the grounds that it is unsafe under
+Oregon Safe Employment Act standards shall only be paid by the Agency if the
+employee’s claim is upheld by OR-OSHA.
+
+Section 5. Outdoor Gear for Field Employees.
+The Agency shall offset the cost of outdoor gear for employees whose duties require
+fieldwork, subject to the following:
+       (a)    The Agency shall reimburse field employees up to four-hundred dollars
+              ($400.00) for approved outdoor gear as determined by the Agency. This
+              reimbursement is per biennium.
+
+
+2023-2025 Department of State Lands         - 48 -                Collective Bargaining Agreement
+         (b)      Outdoor gear includes, but is not limited to, items such as: gloves, hats,
+                  jackets/coats, pants,     boots, and/or other items pre-approved by
+                  management.
+         (c)      Reimbursements of necessary outdoor gear shall be approved in advance
+                  through an employee’s immediate supervisor. All reimbursements must
+                  be submitted on a travel reimbursement form with receipt of purchase.
+         (d)      General maintenance of the outdoor gear shall be the responsibility of the
+                  employee.
+
+Section 6. Respectful Workplace
+(a)   The Employer is committed to taking appropriate measures to create and
+      maintain a workplace that is respectful and free from inappropriate workplace
+      behavior for all Agency employees pursuant to the statewide policy titled
+      ‘Maintaining a Professional Workplace Policy’ (50.010.03).
+(b)   If an Agency employee believes an Agency employee, supervisor or manager
+      has violated the statewide policy titled ‘Maintaining a Professional Workplace’
+      (50.010.03), the employee shall submit a complaint pursuant to the process
+      outlined in the policy. The Agency complaint form will be accessible to all
+      employees both online and through the Agency’s Human Resources Office.
+(c)   The employee may have a Union representative present during regular work
+      hours when reporting inappropriate workplace behavior and through the process
+      outlined in this section.
+(d)   The Agency shall investigate the complaint and shall provide a written response
+      to the employee filing the complaint within thirty (30) calendar days of the
+      complaint being filed. When circumstances warrant it, the Agency and the Union
+      may mutually agree to additional time needed to complete the investigation. The
+      Agency will notify the Union and employee filing the complaint of the specific
+      reason(s) for the additional time needed. The response will include whether the
+      complaint was substantiated and any relevant non confidential information
+      pertaining to the remedial steps taken, if any. Repeated behavior or conduct
+      shall be reported to the Agency Human Resource Office.
+(e)   For purposes of this Section, the grievance procedure in Subsection f replaces
+      the grievance procedure outlined in the local agreement.
+(f)
+      (1)    If the employee who filed the complaint believes that the Agency did not
+             respond to the complaint or the complaint process was not followed, the
+             Union, on behalf of the employee, may file a grievance directly with the
+             Agency Head. The Agency Head or designee shall respond to the
+             grievance within thirty (30) calendar days from the date of receipt of the
+             grievance.
+      (2)    If the employee continues to believe the Agency did not respond to the
+             complaint or did not follow the complaint process, the Union, on behalf of
+             the employee may, within fifteen (15) calendar days of the Agency Head
+             or designee’s response, file the grievance with the Department of
+             Administrative Services Labor Relations Unit. The grievance will be
+             investigated and a response provided within thirty (30) calendar days from
+             the date the grievance was appealed to the Department of Administrative
+             Services.
+
+
+
+2023-2025 Department of State Lands        - 49 -                    Collective Bargaining Agreement
+         (3)     If the Department of Administrative Services Labor Relations Unit’s
+                 response did not respond to the complaint or did not address whether the
+                 complaint process was followed, the Union may file for arbitration in
+                 accordance with the Grievance Procedure article.
+         (4)     The arbitrator shall not have authority to impose any employment actions,
+                 including but not limited to discipline on any employee, supervisor or
+                 manager, transfer of any employee, supervisor or manager, reassign an
+                 employee, supervisor or manager to another work location or duties or
+                 otherwise affect staffing. In addition, the arbitrator shall not have authority
+                 to impose or establish any monetary penalties or costs, award front or
+                 back pay, issue any monetary damages for pain and suffering or stress
+                 related claims.
+(g)      No employee shall be subject to retaliation for reporting or filing a complaint,
+         providing a statement or otherwise participating in the administration of the
+         statewide policy or grievance process outlined in this section. Reports of
+         retaliation shall be reported to the Agency Human Resources Office.
+                                                                                  Rev: 2015, 2017,2023
+
+
+### ARTICLE 43 - TEMPORARY INTERRUPTION OF EMPLOYMENT
+
+When the Employer declares that a temporary interruption of employment should be
+considered because of lack of funds, either party may provide the other with written
+notice to meet and discuss possible terms of such interruption or alternative options.
+Such meeting must occur within thirty (30) days of the declaration. Terms and
+alternatives shall be subject to mutual agreement by the Union and the Employer. The
+parties agree that any and all discussions that take place under this Section shall not be
+subject to the Complete Agreement articles of any of the agreements or constitute
+interim negotiations under PECBA. In addition, the parties will not be required to use
+the dispute resolution process contained in the PECBA.
+
+### ARTICLE 44 - INCLEMENT WEATHER/HAZARDOUS CONDITIONS LEAVE
+
+Section 1.
+(a)   The Employer/Agency designated official(s) may close or curtail offices, facilities,
+      or operations because of inclement weather/environmental, weather related or
+      hazardous conditions, including active shooter or threat of violence. The
+      Employer/Agency will announce such closure or curtailment to employees. The
+      Employer/Agency shall factor in the safety of State employees and the public to
+      determine a closure. An employee shall have the right to leave work if they
+      deem it is necessary for safety. Subject to the operating needs of the agency
+      and notification to their immediate supervisor, an employee may leave work early
+      due to inclement weather or hazardous conditions and code their time as
+      accrued sick leave, vacation, compensatory time off, personal leave or approved
+      leave without pay. The Employer/Agency will strive to make its decision to close
+      and/or postpone day shift no later than 5 a.m.; however, the parties recognize
+      that changing conditions may require further adjustment. The Employer/Agency
+      may provide this information through methods such as mass notification systems,
+      pre-designated internet web sites, phone trees, radio stations and/or television
+      media. Notifications do not apply to employees who are required to report to
+      work.
+
+2023-2025 Department of State Lands        - 50 -                      Collective Bargaining Agreement
+(b)      For purposes of this Article essential staff are those staff who cannot perform
+         their core job duties or essential Agency functions from a remote work location.
+         The Agency shall notify employees of these designations and post the notices on
+         Agency bulletin boards by November 1st of each year. Notifications do not apply
+         to employees who are required to report to work. Essential staff/positions shall
+         be designated by the Agency by November 1 of each year. Such designations
+         may be modified with two (2) weeks advance notice to the affected employee(s).
+         Essential staff who are required to report to work by the Employer/Agency shall
+         be on approved leave without pay status if absent, unless the employee elects to
+         use accrued leave. If an employee shows up within two (2) hours of their
+         scheduled shift, subject to operating requirements and supervisory approval, they
+         may make up the work time missed during the same workweek, provided work is
+         available.
+(c)      Where the Employer/Agency has announced a delayed opening pursuant to
+         Section 1(a), employees are responsible for continuing to monitor the reporting
+         sites for updated information related to the delay or potential closure. Employees
+         may be allowed up to two (2) hours commuting time as reasonably needed to
+         report for work after a delayed opening has been announced. Where an
+         employee arrives late due to this extended commute, they may flex their time
+         with manager’s approval, or cover the time with accrued sick leave, vacation,
+         compensatory time off, personal leave or approved leave without pay.
+(d).     When a closure has been determined before the start of an employee’s work day
+         the employee may:
+         (1)     work from home, with manager’s approval, or
+         (2)     Work from an alternate work location that is no more than fifty (50) miles
+                 from their regular work location which has been identified by mutual
+                 agreement between the employee and the supervisor; or
+         (3)     Use inclement weather/hazardous conditions leave as allowed for in
+                 Section 6 of this Article.
+
+Section 2. FLSA Non Exempt Employees Only.
+If no work is available or the employee is unable to work from home or alternate work
+location, the employee will:
+       (1)      use accrued vacation hours, compensatory time off, personal leave time,
+               leave without pay; or,
+       (2)     use inclement weather/hazardous conditions leave not to exceed forty (40)
+               hours a biennium, or,
+       (3)     The employee may, with Agency prior approval, temporarily adjust their
+               work hours during the same workweek to make up for hours not worked.
+               The Agency shall not suffer any overtime or penalty payments as a result
+               of this schedule change. The employee may be approved to flex their
+               time to engage in training through the electronic employee training
+               platform or other Agency approved resources remotely. Such approval
+               will not be unreasonably denied. Employees engaging in these options
+               will waive their shift differential for such time; or
+       (4)     Complete supervisory approved remote training course.
+
+Once the forty (40) hours of inclement weather/hazardous conditions leave is used, and
+there are more Agency closures during the biennium, if unable to work remotely, the
+
+
+2023-2025 Department of State Lands      - 51 -                     Collective Bargaining Agreement
+employee will use accrued vacation hours, personal leave or compensatory time off,
+leave without pay or, with prior Agency approval, temporarily adjust their work hours
+during the same workweek. The Agency shall not suffer any overtime or other penalty
+payments as a result of the change in schedule.
+
+Section 3. FLSA Exempt Employees
+When the Employer/Agency notifies employees not to report to work pursuant to
+Section 1, prior to the beginning of the work shift FLSA exempt employees shall be paid
+for the work shift. An FLSA exempt employee may be required to use paid leave or
+leave without pay where the closure applies to that employee for one (1) or more full
+workweek(s).
+
+Section 4.
+Employees will not be eligible for inclement/hazardous conditions leave when their
+regular days off occur on a day the Agency closes an office or facility, or when the
+employee is on prescheduled leave.
+
+Inclement weather/hazardous conditions leave shall not count as hours worked for the
+purpose of overtime calculation.
+
+Inclement weather/hazardous conditions leave not used during the biennium will be lost
+and will not be rolled over into the next biennium. Inclement weather/hazardous
+conditions leave is not compensable if the employee separates from state service.
+
+Part time employees will receive a prorated amount of inclement weather leave when
+applicable.
+
+Section 5.
+When in the judgment of the Employer/Agency, inclement/environmental, weather or
+weather-related or hazardous conditions, including active shooter or threat of violence
+require the closing of the work place following the beginning of an employee’s work
+shift, the employee shall be paid for the remainder of their work shift.
+
+Section 6. Alternate Work Sites.
+Employees may be assigned or authorized to report to work at an alternative work
+site(s) and be paid for the time worked. Employees who have been pre-approved to
+work remotely and are unable to complete their assigned duties due to a loss of
+electricity, loss of internet service, or comparable circumstance, due to inclement or
+hazardous conditions will pursue alternative methods for completing their assigned
+duties. However, employees unable to work through an alternative method will be
+eligible for inclement/hazardous conditions leave not to exceed the forty (40) hours a
+biennium.
+
+Section 7. Late or Unable to Report.
+Where the Agency remains open and an employee notifies their supervisors that they is
+unable to report to work, or will be late, due to inclement weather, weather related
+hazardous conditions, the employee shall be allowed to use accrued vacation leave,
+compensatory time off, personal leave or approved leave without pay.
+
+
+2023-2025 Department of State Lands   - 52 -                    Collective Bargaining Agreement
+Section 8. Employees on Pre-scheduled Leave.
+If an employee is on pre-scheduled leave the day of the closure, the employee will be
+compensated according to the approved leave.
+
+Section 9. Make-up Time Provisions.
+Subject to Agency operating requirements and supervisory approval, employees who do
+not work pursuant to Sections 2 and 5 of this Article may make-up part or all of their
+work time missed during the same workweek. In no instance will time worked during
+the make-up period result in overtime being charged to the Agency.                    The
+Employer/Agency shall not be liable for any penalty or overtime payments when
+employees are authorized to make up work.
+Section 10.
+If the Employer/Agency anticipates the inclement condition will last longer than fourteen
+(14) calendar days, the Parties will meet and discuss impacts of the inclement weather
+and/or hazardous conditions.
+                                                                                   REV: 2017,2023
+
+
+
+### ARTICLE 45 - SEASONAL EMPLOYEES
+
+Section 1. Definition.
+Positions which occur, terminate, and recur periodically and regularly, regardless of the
+duration, shall be designated as seasonal positions.
+(a)    Seasonal employees shall be given notice at the time of hire of the length of the
+       season and the anticipated end of the season.
+
+Section 2. Trial Service.
+Seasonal employees will complete trial service after having served a combination of
+seasonal periods totaling six (6) full calendar months (a minimum of 1,040 hours).
+
+Section 3. Salary Increase.
+A regular status seasonal employee shall be eligible for a salary increase upon
+returning in the same classification the next annual season. “Annual season” means a
+period of twelve (12) months, from the date of hire regardless of the number of
+individual seasonal appointments during that period.
+
+Section 4. Layoff.
+ A regular status seasonal employee laid off prior to the end of the season shall be
+placed in order of seniority on the Agency layoff list for seasonal reappointment. The
+eligibility for such seasonal employees shall be canceled at the end of each season.
+
+Section 5. Recall.
+Regular status seasonal employees terminated at the end of the season shall be placed
+on the recall roster in order of seniority and shall be recalled by the employee’s worksite
+the following season in order of seniority to the extent that work is available to be
+performed.
+
+
+
+
+2023-2025 Department of State Lands       - 53 -                   Collective Bargaining Agreement
+Section 6.
+Except as otherwise modified by this Agreement, seasonal employees shall accrue all
+rights and benefits accrued by full-time or part-time employees, whichever is applicable,
+during their employment season.
+
+
+### ARTICLE 46 - LIMITED DURATION APPOINTMENTS
+
+Section 1.
+Persons may be hired for special studies or projects of uncertain or limited duration
+which are subject to the continuation of a grant, contract, award, or legislative funding
+for a specific project. Such appointments shall be for a stated period not exceeding two
+(2) years but shall expire upon the earlier termination of the special study or project.
+Limited duration appointments may exceed two (2) years by mutual agreement of the
+parties.
+
+Section 2.
+Persons may be hired as limited duration appointments, for workload purposes, when
+needed to fill short-term or transitional assignments such as, but not limited to,
+legislative directive, reorganizations, or unanticipated workload needs.      These
+appointments will not be used in a manner that subverts or circumvents the filling of
+budgeted positions.
+
+Section 3.
+(a)   No newly-hired person on a limited duration appointment, pursuant to Section 1,
+      shall be entitled to layoff rights.
+(b)   Persons hired on a limited duration appointment, pursuant to Section 2, shall be
+      entitled to layoff rights after eighteen (18) months of employment.
+(c)   An Agency employee appointed from regular status to a limited duration
+      appointment shall be entitled to rights under the Article 25 layoff procedure based
+      on the employee’s former regular status classification.
+
+Section 4.
+A person accepting a limited duration appointment shall be notified of the conditions of
+the appointment and acknowledge in writing that they accept that appointment under
+these conditions. Such notification shall include the following:
+(a)    That the appointment is of limited duration.
+(b)    That the appointment may cease at any time.
+(c)    That persons who accept a limited duration appointment who were not formerly
+       regular status Agency employees shall have no layoff rights except as provided
+       in Section 3(b).
+(d)    That persons who accept limited duration appointments who were formerly
+       regular status Agency employees are entitled to rights under the Article 25 layoff
+       procedure based on the employee’s former regular status classification.
+(e)    That in all other respects, limited duration appointees have all rights and
+       privileges of other classified employees including but not limited to wages,
+       benefits, and Union representation under this Agreement.
+
+
+
+
+2023-2025 Department of State Lands    - 54 -                    Collective Bargaining Agreement
+### ARTICLE 47 – VOLUNTARY MEDICAL SEPARATION
+
+Section 1.
+A regular status employee with a serious health condition who has exhausted all of their
+own accrued paid leave balances may submit a written request to the Agency for a
+‘voluntary medical separation’.       A voluntary medical separation is a voluntary
+resignation for medical reasons. The employee shall attach a doctor’s certification to
+the request attesting to the employee’s serious health condition.
+Section 2.
+If, based on the doctor’s certification, the employee has a serious health condition, the
+Agency will approve the employee’s written request for voluntary medical separation so
+long as the employee is not under investigation for any performance and/or misconduct.
+
+Section 3.
+An employee who receives a voluntary medical separation will be notified that they will
+be placed on the Agency’s Layoff List and may be eligible for recall provided all of the
+following conditions are met:
+       a.    The employee will be placed on the Agency’s Layoff List in order of
+             seniority but not eligible for recall until the employee becomes fit for duty.
+             To be fit for recall the employee must submit a doctor’s certification that
+             they are fit to return to work full-time without restrictions.
+       b.    The position the employee may be recalled back to is in the same
+             classification they occupied before their voluntary resignation;
+       c.    The employee must meet the minimum qualifications and special
+             qualifications for the recalled position;
+       d.    The employee will be eligible for recall only in their former bargaining unit
+             and former work location (city/county);
+       e.    The employee will be eligible for recall to a position when there is a vacant
+             position the Agency intends to fill;
+       f.    The employee’s name shall remain on the Agency Layoff List for two (2)
+             years from the date of voluntary resignation, and,
+       g.    If the employee rejects a recall offer for their former work location, the
+             employee’s name will be removed from the list.
+
+### ARTICLE 48 – EXIT INTERVIEWS
+
+
+(a)      If a regular status employee provides timely notice that they are voluntarily
+         separating from Agency service, the Agency will offer an exit interview that
+         focuses on the reason(s) for the employee leaving Agency service and what
+         changes they recommend to the Agency to improve Agency operations, or,
+(b)      A Department of Administrative Services written instrument.
+(c)      Upon request, but no more than two (2) times a year, the Union can receive a
+         report of the Department of Administrative Services written instrument results
+         from employee feedback on their Agency experience.
+                                                                                          NEW: 2019
+
+
+
+
+2023-2025 Department of State Lands            - 55 -                Collective Bargaining Agreement
+### ARTICLE 50 - WORKING REMOTELY
+
+Section 1.
+Oregon state government encourages working remotely where it is a viable option
+that benefits both the employee and the agency. Use of remote work options promote
+the health and safety of Oregonians; ensures high-quality work and optimal use of
+resources for agencies; ensures cultural, equity and accessibility issues are
+addressed in a meaningful way; and supports flexibility and work-life balance for
+employees. It also offers the opportunity to be more flexible in interactions with the
+Oregonians we serve and decreases an agency's impact on the environment.
+Remote work arrangements are subject to the State Policy 50.050.01 (Working
+Remotely) and the terms and conditions of this collective bargaining agreement.
+
+Section 2.
+Where all or a portion of an employee’s duties can be successfully performed away
+from their primary duty station, an employee is eligible for a remote work, upon
+agency approval.
+
+Section 3 Remote Work Requests.
+ Requests to work remotely may be initiated by an employee and must be approved
+by the employee’s supervisor to ensure that all or a portion of the position’s duties
+are suitable for remote work and meets the agency’s business and operational
+needs, as well as those of the agency’s customers and the employee. Remote work
+agreements must be documented through the working remotely process in the state
+human resources information system. Remote work requests will not be
+unreasonably denied. Agency decisions will be made as soon as possible, but in no
+case more than thirty (30) days after the employee’s request. Where more than one
+(1) qualified employee requests remote work for a particular period of time and all
+requests cannot be accommodated, the remote work opportunities will be evenly
+distributed or rotated.
+
+Section 4. Remote Work Denials or Rescissions.
+If an employee’s request to work remotely is denied or rescinded, the supervisor
+must provide a written response within ten (10) calendar days to the employee
+documenting the reason(s) for the denial or rescission. Rescissions of remote work
+by the employer may be made with at least ten (10) calendar days advance notice.
+The Agency or the employee may terminate individual agreements, in whole or in
+part, upon at least ten (10) calendar days notice. The Employer will provide a
+minimum of thirty (30) calendar days’ advance notice if they are rescinding a remote
+work agreement for an employee who lives seventy-five (75) miles or more from their
+previously assigned worksite. Employees who have either rescinded their remote
+work or had their remote work rescinded by the employer shall be eligible to be
+considered for remote work in the future. Employees who rescind their remote work
+agreement, in whole or in part, shall be guaranteed a workspace at an Employer
+facility.
+
+
+
+
+2023-2025 Department of State Lands        - 56 -                Collective Bargaining Agreement
+Section 5. Inclement conditions may arise in remote work locations.
+If utility providers experience outages that prevent an employee from working,
+employee’s may access inclement weather/hazardous conditions leave, unless there
+is an alternate work location available.
+
+Section 6.
+A.    Any alleged violations of this article may be appealed directly to the DAS
+      Labor Relations Unit within thirty (30) days of the alleged violation. Such
+      appeals are not arbitrable.
+B.    Any alleged violations of sections (3) or (4) of this article may be appealed
+      directly to an appeal panel consisting of a representative of the DAS LRU and
+      a Union designee. Decisions and remedies shall be rendered by the panel no
+      later than thirty (30) days after receipt of the appeal by the panel. The decision
+      and remedy are not arbitrable and will be binding on the parties. If no decision
+      is rendered by the panel then the supervisor’s decision will stand.
+
+Section 7. Equipment.
+In the event of equipment malfunction or other circumstances which may interfere
+with the performance of work assignments, the employee shall promptly notify the
+supervisor. The agency provides basic technology equipment and related devices
+necessary for the employee to perform their assigned job duties at the primary or
+alternate worksite. The equipment and devices are for agency business only and
+must comply with the agency’s desktop security and maintenance policies and
+practices. Employees will not conduct state business on the following personal
+equipment: phones, computers, laptops or other information storing devices.
+Exceptions are subject to the approval of the State Chief Operating Officer.
+Additional technology and devices may be provided to the employee at the discretion
+of the agency or in accordance with the Americans with Disabilities Act (ADA).
+
+Employees who work remotely will enter all assets (equipment, office furniture, etc.)
+provided to them in the state human resources information system.
+
+Section 8. Remote Work Supplies.
+Remote work office supplies shall be provided by the Agency. Equipment, software or
+supplies which are provided by the Agency for remote work shall be for the purposes
+of conducting Agency business only.
+
+Section 9. Remote Worksite.
+Office furniture shall normally be provided by the employee working remotely. Subject
+to management approval, employees working remotely may access the State surplus
+warehouse for office furniture for their remote work location. An ergonomic study may
+be requested by the employee or the supervisor.
+
+The employee maintains a safe remote workspace. The employee must immediately
+report to the supervisor any injury that occurs during work hours. The state is not
+responsible for loss, damage, repair, replacement or wear of personal property.
+
+SAIF or Agency safety representatives shall have reasonable access to the home
+worksite to conduct accident investigations or job site evaluations.
+
+
+2023-2025 Department of State Lands     - 57 -                     Collective Bargaining Agreement
+Section 10. Work Location, Mileage and Travel Time.
+The employee’s central worksite will be assigned by the agency. In addition,
+employees may be required to report to Agency or non-Agency locations for
+purposes such as meetings, training sessions and policy/practice coverage. Business
+visits, meetings with Agency customers or meetings with co-workers shall not be held
+at the remote worksite unless approved by the employee’s supervisor. Mileage will be
+paid in accordance with the DAS OAM Travel Policy. Travel time will be
+compensated in accordance with the Fair Labor and Standards Act (FLSA).
+Effective September 1, 2023, employees will no longer be reimbursed for travel
+expenses between the alternate workplace and the central workplace, regardless of
+their remote work status. This change is not intended to impact employees otherwise
+entitled to travel expenses per the Oregon Accounting Manual and/or DAS Policy
+Working Remotely 50-050-01.
+
+Section 11. Expectations and Goals.
+Remote work employees and their managers will develop a clear set of expectations
+and goals for the work to be performed on remote work days. Such expectations may
+include checking E-Mail and voice-mail on a regular basis and returning phone calls
+in a timely manner. Employees will review and acknowledge the State of Oregon
+Employees Working Remotely Acknowledgement Form in the state human resources
+information system.
+
+Section 12. Training.
+Appropriate training will be provided for participating managers and employees.
+
+Section 13. Other Provisions.
+These provisions are applicable to all Sections listed above.
+   A. Call back and overtime will be handled as outlined in the applicable provisions
+      of this collective bargaining agreement.
+   B. Since supervisors must continue to be in a position to evaluate employee
+      performance, certify the accuracy of time sheets and attendance records, and
+      perform a variety of other supervisory responsibilities, employees should
+      anticipate that, in addition to being supervised pursuant to normal office
+      procedures, there will also be the possibility that they will receive telephone
+      calls at the phone number employees have designated in their remote work
+      arrangement.
+   C. In the event of a work stoppage, remote work arrangements utilized by
+      represented employees shall be suspended.
+   D. Members have the right to Union representation as enumerated in this
+      collective bargaining agreement or as guaranteed by the law.
+   E. The Agency or the Union may initiate discussions with the other party to
+      develop working groups to consider options relating to remote work.
+
+
+
+
+2023-2025 Department of State Lands   - 58 -                     Collective Bargaining Agreement
+    F. The Agency shall not compel an employee to work remotely. Employees who
+       choose to work in office shall be guaranteed a workspace at an Employer
+       facility.
+                                                                             NEW: 2021,REV:2023
+
+
+
+### ARTICLE 51 – AIR QUALITY
+
+Section 1.
+The Air Quality Index (AQI) was developed by the US Environmental Protection Agency
+as an indicator of overall air quality and is based on the five (5) criteria pollutants
+regulated under the Clean Air Act: ground-level ozone, particulate matter, carbon
+monoxide, sulfur dioxide, and nitrogen dioxide. Employee exposure levels to wildfire
+smoke is determined by the current workplace ambient air concentration for particulate
+matter 2.5 (PM2.5), regardless of the concentrations for other pollutants.
+
+Section 2. Outdoor Work and Air Quality.
+Employees who are required to work outside when outdoor air concentration for PM2.5
+reach at or above 55.5 ug/m3 (equivalent to an AQI at or above 151) will be provided
+with the appropriate OSHA recommended safety equipment.
+
+Section 3.
+When elevated AQI levels require a building closure or delayed opening, the Inclement
+Conditions/Hazardous Condition Leave will apply. All other provision of Article 44—
+Inclement Weather/Hazardous Conditions apply for elevated AQI which falls under a
+Hazardous Condition.
+                                                                                       NEW: 2021
+
+
+### ARTICLE 52 - PAID LEAVE OREGON
+
+
+Paid Leave Oregon is administered by the Oregon Employment Department. The State
+of Oregon, as an employer, shall comply with the provisions of Paid Leave Oregon, as
+provided for in the DAS statewide Paid Leave Oregon Policy (60.000.04), including but
+not limited to the following section on Use of Paid Leave:
+
+Section 1.
+Employees may choose and will be allowed to use sick, vacation, or personal business
+leave to make up any difference between Paid Leave Oregon benefits and their average
+weekly wage, as determined by the Oregon Employment Department. An employee
+receiving Paid Leave Oregon benefits and who is protected by Family and Medical
+Leave or Oregon Family Leave (FMLA/OFLA) will use accrued leave in accordance with
+any existing contract language relating to FMLA/OFLA.
+                                                                                       NEW: 2023
+
+                                                                                           ///////////
+
+
+
+
+2023-2025 Department of State Lands          - 59 -               Collective Bargaining Agreement
+### LETTER OF AGREEMENT – ARTICLE 14 - SALARY AND BENEFIT REPORT
+
+
+This Agreement is between the State of Oregon, acting through its Department of
+Administrative Services (DAS) and the AFSCME Local 75, (Union).
+
+DAS Classification and Compensation will provide a draft Salary and Benefit report to
+AFSCME no later than December 31 of even numbered years. AFSCME will have 14
+calendar days to review and comment on the draft report. DAS Classification and
+Compensation will provide the final report to AFSCME no later than January 31.
+
+DAS Classification and Compensation is committed to providing the Union with a
+training on the State’s salary selective process.
+
+This Letter of Agreement will sunset on June 30, 2025, unless extended by mutual
+agreement.
+
+
+
+
+2023-2025 Department of State Lands   - 60 -                   Collective Bargaining Agreement
+### LETTER OF AGREEMENT – ARTICLE 14 - SALARY RANGE TRUNCATION
+
+
+This Agreement is entered into between the State of Oregon, acting through its
+Department of Administrative Services (DAS), on behalf of the Agencies covered by this
+Agreement (Agency) and the AFSCME Council 75 (Union).
+1.    Effective April 1, 2024, the following classifications in salary range 21 and below
+      will be truncated by removing the first two steps in each salary range:
+                           Classification Title                       Class   SR
+                                                                        #      #
+       Accounting Technician                                         0212     19
+       Administrative Specialist 1                                   0107     17
+       Administrative Specialist 2                                   0108     20
+       Automotive Technician 1                                       4418     19
+       Behavior/Vocational Specialist 1                              6296     20
+       Cartographer 1                                                3116     13
+       Cartographer 2                                                3117     17
+       Cartographer 3                                                3118     19
+       Compliance Specialist 1                                       5246     21
+       Cook                                                          9117     17
+       Criminal Justice/Emergency Communications                     1461     20
+       Specialist
+       Custodial Services Coordinator                                4103     13
+       Custodian                                                     4101     10
+       Data Entry Operator                                           0501      9
+       Data Entry Operator                                           0501     11
+       Electronic Publishing Design Specialist 1                     2510     17
+       Environmental Specialist 1                                    3820     20
+       Equipment Operator                                            4422     21
+       Executive Support Specialist 1                                0118     17
+       Executive Support Specialist 2                                0119     20
+       Facility Energy Technician 1                                  4032     18
+       Facility Maintenance Specialist                               4012     18
+       Fingerprint Technician                                        3786     17
+       Force Protection Leader                                       5521     20
+       Force Protection Officer                                      5519     18
+       Forensic Laboratory Support Specialist                        0803     16
+       Forest Officer Entry                                          8256     19
+       General Maintenance Mechanic                                  4409     21
+       Grounds Maintenance Worker 1                                  4109     14
+       Grounds Maintenance Worker 2                                  4110     17
+       Habilitative Training Technician 1                            6725     14
+       Heavy Equipment Technician Entry                              4436     19
+       Information Systems Specialist 1                              1481     17
+       Information Systems Specialist 2                              1482     21
+       Investigator 1                                                5231     19
+
+2023-2025 Department of State Lands    - 61 -                     Collective Bargaining Agreement
+           Investigator 2                               5232           21
+           Laboratory Technician 1                      6810           13
+           Laboratory Technician 2                      6811           18
+           Laborer/Student Worker                       4116           12
+           Legal Secretary                              0110           18
+           Mail Services Assistant                      0405           10
+           Medical Laboratory Technician 1              6820           18
+           Medical Laboratory Technician 2              6821           20
+           Medical Transcriptionist                     0011           15
+           Natural Resource Specialist 1                8501           21
+           Office Assistant 1                           0101            8
+           Office Assistant 2                           0102           10
+           Office Coordinator                           0801           15
+           Office Specialist 1                          0103          13C
+           Office Specialist 2                          0104          15C
+           Park Ranger Assistant                        8433           12
+           Parts Specialist 1                           0782           15
+           Parts Specialist 2                           0783           20
+           Payroll Analyst                              0214           21
+           Physical/Electronic Security Technician      4037           17
+           Physical/Electronic Security Technician 2    4038           21
+           Procurement And Contract Assistant           0435           19
+           Public Service Representative 1              0321            9
+           Public Service Representative 2              0322          13C
+           Public Service Representative 3              0323           15
+           Public Service Representative 3              0323          15V
+           Public Service Representative 4              0324           20
+           Research Analyst 1                           1115           19
+           Revenue Agent 1                              5110           17
+           Revenue Agent 2                              5111           19
+           Scientific Instrument Technician             4339           21
+           Student Professional/Technical Worker        0150           11
+           Supply Specialist 1                          0758           14
+           Supply Specialist 2                          0759           20
+           Teaching Assistant                           2302           13
+           Transportation Maintenance Specialist 1      4151           17
+           Transportation Maintenance Specialist 2      4152           19
+           Vehicle Emission Technician 1                3807           16
+           Vehicle Emission Technician 2                3808           18
+           Welder 1                                     4020           20
+           Wildland Fire Suppression Specialist         8255           17
+           Wildland Fire Suppression Specialist Entry   8254           13
+           Word Processing Technician 1                 0530           11
+           Word Processing Technician 2                 0531           13
+           Word Processing Technician 3                 0532           15
+
+2023-2025 Department of State Lands      - 62 -         Collective Bargaining Agreement
+2.       Effective April 1, 2024, salary range 7 will be removed from the Compensation
+         Plan. The following classification in that range will be moved to the truncated
+         salary range 8 and the affected employees will be placed on the first step of the
+         truncated salary range 8:
+
+                  Classification Title  Class # SR#
+                  Student Office Worker 0100    07
+
+3.       Effective April 1, 2024, the following classifications in salary range 21 and below
+         will be truncated by removing the first three steps in each salary range:
+          Classification Title                                    Class #        SR#
+          Direct Support Crisis Specialist                          6705          19
+          Group Life Coordinator 1                                  6750          16
+          Group Life Coordinator 2                                  6751          20
+          Health Crisis Technician                                  6726          18
+          Health Services Technician                                6138          17
+          Licensed Practical Nurse                                  6135          18
+          Manual Arts Instructor                                    2304          19
+          Mental Health Therapy Technician                          6710         16S
+          Resident Support Specialist                               6301          20
+
+         Effective April 1, 2025, the classifications listed above shall have an additional
+         step removed from the truncated range.
+
+4.       Effective April 1, 2024, the following classifications will be truncated by removing
+         the first step in each salary range:
+          Classification Title                                 Class #           SR#
+          Behavior Professional                                  6302             26
+          Behavioral Health Specialist 2                         6534             27
+          Dentist                                                7510            47S
+          Group Life Coordinator 3                               6752             22
+          Psychiatric Social Worker                              6720             28
+          Respiratory Care Practitioner                          6550             26
+
+         Effective April 1, 2025, the classifications listed above shall have an additional
+         step removed from the truncated range.
+
+5.       For each effective date listed in Sections 1-4, employees whose current rate is
+         below the first step of the new truncated salary range shall be moved to the first
+         step of the truncated range and shall remain there until their next salary eligibility
+         date. Employees will maintain their current salary eligibility date.
+
+         Employees whose current rate is within the new truncated salary range shall
+         remain at their current rate in the truncated range and shall remain there until
+         their next salary eligibility date. Employees will maintain their current salary
+         eligibility date.
+
+
+2023-2025 Department of State Lands       - 63 -                      Collective Bargaining Agreement
+### LETTER OF AGREEMENT – ARTICLE 14 – ONE-TIME PAYMENT COLA
+
+
+This Agreement is entered into between the State of Oregon, acting through its
+Department of Administrative Services (DAS), and the AFSCME Local 75 (Union).
+
+In recognition of the high rate of inflation, the parties agree to the following:
+
+All employees as of July 1, 2023, that are still employed as of August 24, 2023 and also
+returning seasonals who return between July 2, 2023 and August 24, 2023, will receive
+a one-time one-thousand five hundred dollar ($1500) cost of living payment with their
+September 1, 2023 paycheck.
+
+Payments issued through this Letter of Agreement will be considered wages for tax
+purposes and are PERS subject.
+
+This Letter of Agreement will sunset on June 30, 2025.
+
+
+
+
+2023-2025 Department of State Lands       - 64 -                      Collective Bargaining Agreement
+### LETTER OF AGREEMENT – ARTICLE 16, PEBB MEMBER ADVISORY COMMITTEE
+
+This Agreement is between the State of Oregon, acting through its Department of
+Administrative Services (Employer) and AFSCME Council 75 (Union).
+
+The Employer and Union share a commitment to PEBB achieving its vision of better
+health, better care and affordable costs. Both Parties recognize that the structure of
+PEBB is authorized in Oregon Revised Statutes, and is also designed to provide the
+input and perspective of members in PEBB decisions. In addition, the Employer and
+Union representatives share governance and decision making within the authorized
+structure of PEBB. The Employer and the Union share an interest in further informing
+the PEBB decision making process through an additional layer of direct member
+engagement in health and wellness.
+
+Therefore, the Parties agree to the following:
+          1.    PEBB is directed to create and staff a PEBB Member Advisory
+                Committee (PMAC).
+          2.    The PMAC will be comprised of PEBB members, including both
+                management and labor, with up to four (4) members appointed by
+                AFSCME. Appointment to the PMAC will be for a two (2) year period.
+                Management will select the one management co-chair and Labor will
+                select their co-chair.
+          3.    The PMAC will meet at least once per calendar quarter.
+          4.    The PMAC will provide advice on:
+                a. Member engagement
+                b. Health and Welfare strategies including the Health Engagement
+                      Model and wellness programs.
+                c. Educating and engaging members as active leaders in their
+                     health.
+          5.    PEBB is required to present updates to the PMAC about the progress
+                towards its vision of better health, better care and affordable costs.
+          6.    Participants on the committee will be on paid status and shall be
+                reimbursed as per state travel policy. Agencies will not incur any
+                overtime liability as a result of committee meetings or travel.
+
+This Agreement will sunset on June 30, 2025.
+
+
+
+
+2023-2025 Department of State Lands   - 65 -                   Collective Bargaining Agreement
+### LETTER OF AGREEMENT – CONTRACTING OUT
+
+Section 1.
+The Union recognizes that the Employer has the management right, during the term of
+this Agreement, to decide to contract out work performed by bargaining unit members.
+However, when the contracting out will displace bargaining unit members, such
+decisions shall be made only after the affected Agency has conducted a formal
+feasibility study determining the potential costs and other benefits which would result
+from contracting out the work in question.
+
+The Employer agrees to notify the Union within one (1) week of its decision to conduct a
+formal feasibility study, indicating the job classifications and work areas affected. The
+Employer shall provide the Union with no less than thirty (30) days notice that it intends
+to request bids or proposals to contract out bargaining unit work where the decision
+would result in displacement of bargaining unit members. During this thirty (30) day
+period, the Employer shall not request any bids or proposals and the Union shall have
+the opportunity to submit an alternate proposal.
+
+The notification by the Employer to the Union of the results of the feasibility study will
+include all pertinent information upon which the Employer based its decision to contract
+out the work including, but not limited to, the total cost savings the Employer anticipates.
+
+Feasibility studies will not be required when:
+      (1)      an emergency situation exists as defined in ORS 279.011(4), and
+      (2)      either the work in question cannot be done by available bargaining unit
+               employees or necessary equipment is not readily available.
+
+Nothing in this Article shall prevent the Employer from continually analyzing its
+operation for the purpose of identifying cost-saving opportunities.
+
+Section 2.
+The Employer shall evaluate the Union’s alternate proposal provided under Section 1. If
+the Employer’s evaluation of the Union’s alternate proposal confirms that it would result
+in providing quality and savings equal to or greater than that identified in the
+management plan, the Parties will agree in writing to implement the Union proposal.
+
+Section 3.
+Should any full-time bargaining unit member become displaced as a result of
+contracting out, the Employer and the Union shall meet to discuss the effect on
+bargaining unit members. The Employer’s obligation to discuss the effect of such
+contracting does not obligate it to secure the agreement of the Union or to exhaust the
+dispute resolution procedure of ORS 243.712, 243.722, or 243.742, concerning the
+decision or the impact.
+       “Displaced” as used in this Article means when the work an employee is
+       performing is contracted to another entity outside state government and the
+       employee is removed from their job.
+
+
+
+
+2023-2025 Department of State Lands     - 66 -                      Collective Bargaining Agreement
+Section 4.
+Once an Agency makes a decision to contract out, the Agency will choose either (a) or
+(b) below. The Agency will notify affected employees of the option selected. The
+Agency will post and provide to the Union, a list of service credits for employees in all
+potentially affected classifications within the Agency. Within five (5) business days of
+the notice, the affected employees will notify the Agency of acceptance of the Agency’s
+option or decision to exercise their rights under (c) below:
+(a)    Require the contractor to hire employees displaced by the contract at the same
+       rate of pay for a minimum of six (6) months subject only to “just cause”
+       terminations. In this instance, the state will continue to provide each such
+       employee with six (6) months of health and dental insurance coverage through
+       the Public Employee Benefits Board, if continuation of coverage under the
+       Bargaining Unit Benefits Board is allowed by law and pertinent rules of eligibility.
+       Pursuant to Article 25, an eligible employee shall be placed on the Agency layoff
+       list and may, at the employee’s discretion, be placed on a secondary recall list for
+       a period of two (2) years; or
+(b)    Place employees displaced by a contract elsewhere in state government in the
+       following order of priority: within the Agency, within the department, or within
+       state service generally. Salaries of employees placed in lower classifications will
+       be red-circled. To the extent this Article conflicts with Article 39 (Filling of
+       Vacancies), this Article shall prevail.
+(c)    An employee may exercise all applicable rights under Article 25 (Layoff).
+
+Section 5.
+The following provisions govern the administration of the requirement under this Article
+to conduct feasibility studies in cases of contracting out and will supplement the
+provisions included in the contract.
+(a)    The Employer agrees that all AFSCME represented state agencies will conduct a
+       feasibility study in instances of contracting out work performed by bargaining unit
+       employees when contracting out will result in displacement of bargaining unit
+       employees.
+(b)    The Parties agree that AFSCME-represented agencies will send directly to
+       AFSCME’s Executive Director and to DAS CHRO Labor Relations Unit all future
+       notices of intent to conduct a feasibility study pursuant to Section 1.
+
+Section 6. Review of Contracted Work.
+Upon request, the union may view state contracts deemed public records. The union
+will contact the agency manager responsible for procurement and contracts to arrange a
+time to review the contracts. The agency will let the union review any contracts that the
+agency itself stores, and are available through public records request. The union will
+contact the state archivist for older contracts under the public records law. The union
+may submit suggestions to the agency on agency initiated contracts as to how
+bargaining unit members could perform the work more efficiently (at reduced cost) and
+effectively (improved quality). The parties may discuss the union suggestions at their
+labor/management meetings and determine the most effective and efficient way to
+accomplish the work in the future for Agency initiated contracts. Decisions around
+reviewing of contracted work are not subject to the grievance procedure.
+
+
+
+2023-2025 Department of State Lands     - 67 -                     Collective Bargaining Agreement
+### LETTER OF AGREEMENT – CONTRACTING OUT FEASIBLITY STUDY
+
+This Letter of Agreement is entered into between the State of Oregon Department of
+Administrative Services, on behalf of all State Agencies covered by the State of Oregon
+and AFSCME Central Table.
+
+When the provisions of the LOA on Contracting Out require a feasibility study, the
+following will apply:
+
+                  The Employer will count eighty percent (80%) of the affected
+                  employee’s straight-time wage rate when comparing the two (2)
+                  plans.
+
+This Agreement is effective through June 30, 2025.
+
+
+
+
+2023-2025 Department of State Lands     - 68 -                  Collective Bargaining Agreement
+### LETTER OF AGREEMENT – LABOR MANAGEMENT COMMITTEE UPDATES
+
+This Agreement is entered into by the State of Oregon, acting through its Department of
+Administrative Services (Employer) on behalf of the Department of State Lands
+(Agency) and AFSCME Council 75 (Union).
+
+The purpose of this Agreement is to jointly and respectfully request that the Labor
+Management Committee review its Meeting Procedures and consider potential revisions
+to the “Issues to be considered”. Potential revisions may include communication
+regarding substantive program changes, coverage of position vacancies and adequate
+time to allow the Represented Members of the committee time to solicit feedback from
+their members in advance of the meeting.
+
+This Letter of Agreement will sunset June 30, 2025.
+
+
+
+
+2023-2025 Department of State Lands   - 69 -                    Collective Bargaining Agreement
+### LETTER OF AGREEMENT – NEW EMPLOYEE NOTICE/UNION ACCESS
+
+
+    3. Notice
+          a. The Employer shall provide the Union, in an editable digital file format, the
+              following information for each employee quarterly:
+                    i. Employee name; date of hire; EIN
+                   ii. Contact information, including: cell, home and work telephone
+                       numbers (when available);
+                  iii. Means of electronic communication, including work, personal
+                       electronic mail address;
+                  iv. Home address or personal mailing address; and
+                   v. Department/Agency/Office, Job Classification, Job Title, base
+                       salary, and work site location.
+          b. Each business day, the Employer shall provide a report of newly hired
+              AFSCME represented workers as long as the new hire business process
+              has been successfully completed in the business day prior.
+          c. The State CHRO information unit will provide AFSCME with a report of
+              new, terminated, retired or transferring employees in AFSCME covered
+              positions no later than the 10th of each month.
+
+    4. New Employee Onboarding
+         a. Within the first ten (10) calendar days from the date of hire, the Union
+            representative shall be granted thirty (30) minutes of paid time to meet
+            with the new employees without loss of pay. Designated representatives
+            shall be given time off with pay to make the presentation. Employee
+            attendance at the Uplift Oregon benefits workshop does not prevent an
+            employee from attending a union presentation at a union new employee
+            orientation.
+         b. Employees within their first twelve (12) months of employment shall be
+            allowed an additional one hundred and twenty (120) minutes of paid time
+            to meet with a Union representative for follow-up orientation issues without
+            loss of pay.
+         c. All AFSCME State agencies shall send their new employees to the Uplift
+            Oregon benefits workshop. AFSCME State agencies shall send their new
+            employees to the training within fourteen (14) days of hire. The Union shall
+            have time allotted during this training to share union information with
+            AFSCME represented employees.
+         d. Meetings under this section may remain confidential.
+
+
+
+
+2023-2025 Department of State Lands     - 70 -                    Collective Bargaining Agreement
+### LETTER OF AGREEMENT – OREGON UNIONS STATE WORKER TRAINING FUND
+
+
+The Parties recognize that both the State and its workers benefit from workers
+understanding their different health care options, understanding their retirement benefits
+and finding solutions to increase wellness and equity in the workplace
+
+Therefore, the State of Oregon, along with participating unions will work together to
+come up with creative and long-term solutions by working in collaboration to develop
+and deliver the trainings.
+
+In order to accomplish these goals, the Parties will:
+     Establish a State Worker Training and Education Fund (Oregon Unions State
+       Worker Training Fund), appoint the State Worker Fund governing board of
+       trustees of ten (10) people with equal representation from union representatives
+       and Employers, and hire a qualified leader (“Director”) to report to such board of
+       trustees.
+           o Union Representatives will be split proportionally between participating
+              labor unions.
+     Fund the start-up of the State Worker Training Fund from October 1, 2019 to
+       June 30, 2020. The start-up will be funded by an Agency assessment of one
+       cent ($0.01) per hour per employee of straight-time worked that would be due to
+       the trust no later than October 1, 2019 in order to hire a director and choose one
+       (1) or two (2) pilot locations to learn and adjust a roll out of a statewide plan.
+       Ongoing, State Worker Training Fund will be funded two cents ($0.02) per hour
+       worked, including all paid leaves, per employee starting July 1, 2020 with a goal
+       of the training and resources being available statewide by January 1, 2021.
+       Agencies can pay monthly. At a minimum, per hour payments will be paid
+       quarterly.
+           o Agencies with under fifty (50) employees shall not make per hour
+              payments.
+
+The State Worker Training Fund will develop a plan to deliver trainings and programs
+on:
+     PEBB and PERS. The PEBB and PERS training will be mandatory for new hires
+      and the PEBB training will be offered within fourteen (14) days of a new hire.
+      When possible, employees’ will sign up for their health insurance after going
+      through the PEBB training.
+     Organizational Equity and Inclusion. Creating trainings focused on ensuring
+      nondiscrimination and best practices to equity and inclusion in the workplace.
+     Wellness. The wellness initiatives should focus on agencies where there are
+      clear challenges identified by management and bargaining unit. The trust shall
+      identify one (1) Agency to pilot the wellness initiative.
+     After a program is developed for the first three (3) stated goals, the Board of
+      Trustees will discuss other programs that potentially meet goals identified by the
+      State and the Unions.
+
+
+
+
+2023-2025 Department of State Lands    - 71 -                     Collective Bargaining Agreement
+### LETTER OF AGREEMENT – CONTRACT SPECIALIST
+
+
+This Agreement is between the State of Oregon, acting through its Department of
+Administrative Services (Employer) on behalf of all Agencies covered under the
+jurisdiction of the AFSCME Central Table (Agency) and AFSCME Council 75 (Union).
+
+The purpose of this Agreement is to establish Employer paid Contract Specialists to
+improve labor/management relationships at all levels of state government.
+
+The Parties agree to the following:
+
+Selection and Appointment of Contract Specialists:
+A.     The selection and appointment of a Contract Specialist shall be mutually agreed
+       upon by the Employer and Union.
+B.     The Union may have no more than one (1) Contract Specialist for every two
+       thousand (2,000) FTE bargaining unit positions from Agencies that are within the
+       jurisdiction of the AFSCME Central Table and Department of Corrections.
+C.     The duration of a Contract Specialist shall be mutually agreed upon by the
+       Employer and Union.
+D.     The Parties shall establish an agreement which shall be signed by all Parties
+       stipulating to the terms and conditions of the Contract Specialist assignment.
+E.     Employees selected as Contract Specialist must maintain all necessary
+       certifications, licensures and training requirements of their Agency position with
+       costs and reimbursements if applicable governed under the Agreement.
+F.     While the State is the Employer of record, the Union has the sole control,
+       oversight and direction of employees appointed as Contract Specialists.
+       Therefore, the Union shall indemnify and save the Employer harmless from any
+       and all costs, should any arise, associated with actions taken by the Contract
+       Specialist on behalf of the Union.
+G.     In the event the Employer/Agency determines a Contract Specialist is potentially
+       violating law or not complying with Employer/Agency policies or the local Agency
+       Collective Bargaining Agreement, the Agency shall immediately notify the Union.
+       The Agency shall investigate the matter and take action as necessary consistent
+       with the local Agency Collective Bargaining Agreement including disciplinary
+       action. Before any Agency action is taken, the Union may remove the employee
+       from the assigned worksites.
+
+Pay and Benefits:
+A.    The Agency shall continue to pay salary and benefits which includes pension
+      contribution, insurance and paid leave time consistent with what they earned
+      before their appointment. Employees appointed as a Contract Specialist shall
+      not be eligible for reimbursement for uniforms, boots or other ancillary items
+      while serving as a Contract Specialist the specifics which will be noted in the
+      employee’s Contract Specialist agreement.
+B.    Contract Specialists shall submit monthly timesheets recording a maximum of
+      forty (40) hours of work each week. The timesheet shall be signed and verified
+      by the Executive Director or designee of the Union. All leave taken, regardless of
+      type, must be clearly identified.
+
+2023-2025 Department of State Lands    - 72 -                    Collective Bargaining Agreement
+C.       The Agency shall place the Contract Specialist on leave with pay for the duration
+         of the assignment. The calculation of seniority shall be consistent with the terms
+         of the applicable local Agency Collective Bargaining Agreement.
+D.       Where the Union has designated Contract Specialist, the Agency shall pay up to
+         eighty-five thousand ($85,000) a year for the Contract Specialist which includes
+         pay and benefits. Any costs above eighty-five thousand ($85,000) per year shall
+         be paid by the Union by reimbursing the Agency using Agency established
+         policies and procedures for reimbursement.
+E.       The Agency shall not be liable for any overtime costs while the Contract
+         Specialist is on assignment with the Union.
+
+Travel and Reimbursements:
+A.     Time spent traveling on behalf of the Union shall be on Agency time.
+B.     The Union shall be responsible for all travel expenses including but not limited to
+       mileage, lodging, meals and other incidental travel expenses.
+C.     Contract Specialists shall not use or be assigned a state car for travel.
+
+Duties:
+A.     The Contract Specialist, DAS Labor Relations Unit and Agency Human
+       Resources staff shall work cooperatively when performing the following duties:
+           a. Interpret and administer the local Agency Collective Bargaining
+               Agreement.
+           b. Education on the local Agency Collective Bargaining Agreement.
+           c. Provide guidance in grievance and problem resolution.
+           d. Improve steward capacity.
+           e. Work toward consistent application of the local Agency Collective
+               Bargaining Agreement.
+           f. Provide guidance on developing and improving labor/management
+               committees.
+           g. Participate in new employee orientation as provided for in the local
+               Agency Collective Bargaining Agreement.
+B.     If a DOJ attorney is appointed to serve as a Contract Specialist, the attorney
+       shall stipulate in the signed agreement that they will not practice law as that term
+       is used in law and Oregon State Bar rules, regulations, official opinions and
+       decisions.
+C.     The Contract Specialist shall follow all applicable Employer and Agency policies
+       while serving in the capacity of a Contract Specialist.
+D.     The Contract Specialist shall not be assigned duties that involve strike
+       preparation, strike planning, strike coordination activities or interest arbitration
+       preparation.
+
+Dispute Resolution:
+Notwithstanding any agreements that include grievance/arbitration procedure, if there is
+a disagreement between the Employer and the Union regarding the interpretation and
+application of this Letter of Agreement, the Employer and Union shall meet and attempt
+to resolve the matter. If, after fourteen (14) calendar days there no resolution, the
+moving party may request arbitration. The Parties shall use the arbitration procedure
+outlined in the agreement where the employee is employed.
+
+
+2023-2025 Department of State Lands      - 73 -                     Collective Bargaining Agreement
+Indemnification:
+The Union shall indemnify and the Union and Contract Specialists hold the Employer
+and Agency harmless against any and all claims, damages, suits or other forms of
+liability which may arise out of any action taken or not taken by the Employer/Agency for
+the purpose of complying with this Letter of Agreement on Contract Specialists.
+
+The Union shall not indemnify the Employer/Agency for grievance/arbitration disputes.
+
+Term of Agreement:
+This Agreement becomes effective on the date of the last signature and ends on June
+30, 2025 unless renewed by the Parties or the Parties agree to amend its provisions.
+
+
+
+
+2023-2025 Department of State Lands    - 74 -                    Collective Bargaining Agreement
+### LETTER OF AGREEMENT – ESSENTIAL WORKER INCLEMENT
+                      WEATHER/HAZARDOUS CONDITIONS PAY
+
+
+This Agreement is between the State of Oregon, acting through its Department of
+Administrative Services (Employer) and AFSCME Council 75 (Union).
+
+The Parties agree to the following:
+When a situation exists that would otherwise close or curtail state offices, essential
+workers having to report to work, in-person, shall receive the Essential Worker
+Inclement Weather/Hazardous Conditions Pay differential.
+
+The Essential Worker Inclement Weather/Hazardous Conditions Pay differential shall be
+three dollars ($3.00) per hour for all hours worked on a designated closure or
+curtailment day, regardless of the starting or ending time.
+
+Staff working at agencies with 24/7 operations that are not curtailed shall receive the
+Essential Worker Inclement Weather/Hazardous Conditions Pay benefits when any
+state agency offices are closed or are closed to the public due to inclement
+weather/hazardous conditions within the county of their worksite. For 24/7 operations, if
+inclement weather occurs on a weekend (and would normally result in a closure of a
+state agency office in the county of their worksite during Monday through Friday), staff
+shall receive the Essential Worker Inclement Weather/Hazardous Conditions Pay.
+
+
+
+
+2023-2025 Department of State Lands    - 75 -                    Collective Bargaining Agreement
+### LETTER OF AGREEMENT – NATURAL DISASTER LEAVE
+
+
+This Agreement is between the State of Oregon, acting through its Department of
+Administrative Services (Employer) and AFSCME Council 75 (Union).
+
+This Letter of Agreement shall supersede any conflicting provisions in the collective
+bargaining agreements for the duration of the Letter of Agreement.
+
+We recognize that state of Oregon employees provide essential services and benefits to
+Oregonians every day. Their work is often the last or only option for support when
+Oregonians are faced with an emergency.
+
+    1. An employee who, due to a natural disaster, has:
+         a.       lost their home (primary residence);,
+         b.       lost use of their primary residence (deemed uninhabitable); or
+         c.       lost access to their primary residence,
+         shall be eligible for a maximum of eighty (80) hours of paid administrative
+         leave, prorated for part-time employees. This leave will be available for
+         intermittent use.
+
+    2. Employees who have used the eighty (80) hours of paid administrative leave
+       identified in #1 may request donated leave. Donated leave received will not
+       exceed the amount needed to cover the absence. Donators may donate their
+       accrued vacation or compensatory leave.
+
+
+This Letter of Agreement will sunset on June 30, 2025, unless extended by mutual
+agreement.
+
+
+
+
+2023-2025 Department of State Lands         - 76 -                    Collective Bargaining Agreement
+### LETTER OF AGREEMENT – STATE POLICY 50.050.01 WORKING REMOTELY
+                              UPDATES
+
+
+This Letter of Agreement is between the State of Oregon, acting through its Department
+of Administrative Services (Employer on behalf of the Agencies covered under the
+jurisdiction of the AFSCME Central Table (Agencies) and AFSCME Council 75 (Union).
+
+The Parties acknowledge that nothing in this Agreement shall constitute a waiver of any
+Party’s rights, claims or defenses with respect to mandatory subjects of bargaining and
+the impacts of changes to the state policy 50.050.01 Working Remotely policy.
+
+This Agreement becomes effective on the date of the last signature below and ends
+June 30, 2025.
+
+
+
+
+2023-2025 Department of State Lands   - 77 -                    Collective Bargaining Agreement
+### LETTER OF AGREEMENT – SECURITY CAMERAS
+
+
+This Agreement is entered into by the State of Oregon, acting through its Department of
+Administrative Services (Employer) on behalf of the Department of State Lads (Agency)
+and AFSCME Council 75 (Union).
+
+The Parties acknowledge that the Agency uses security cameras in the Salem office to
+ensure building security and as a response to a recent building threat assessment
+conducted by the Oregon State Police. Footage and recordings from the security
+cameras serve the primary purpose of maintaining safety for the occupants of the DSL
+building. Then intent of the security cameras is not to establish evidence of
+performance or behavior concerns for the purpose of investigation of discipline of
+employees. However, should the Agency become aware of an incident where facts
+could be established by security footage, the footage may be used in the course of the
+investigation.
+
+This Letter of Agreement will sunset June 30, 2025.
+
+
+
+
+2023-2025 Department of State Lands   - 78 -                    Collective Bargaining Agreement
+### LETTER OF AGREEMENT – AGENCY EQUIPMENT COMMITTEE
+
+
+This Agreement is between the State of Oregon, acting through its Department of
+Administrative Services (Employer) and AFSCME Council 75 (Union).
+
+The purpose of this Agreement is to create a labor-management committee to explore
+and create a standard for agency issued equipment, storage and maintenance
+standards.
+
+The committee will provide recommendations for the Director to evaluate.
+
+The committee will be comprised of equal numbers of union and management
+representatives.    AFSCME will appoint three (3) members to the committee.
+Participants on the Committee will be on paid status and shall be reimbursed for
+authorized travel expenses as per State Travel Policy. Agencies will not incur any
+overtime as a result of Committee meetings or travel. Flexing schedules will be allowed
+to avoid overtime.
+
+The committee will convene no later than six (6) months after the effective date of the
+contract.
+
+
+
+
+2023-2025 Department of State Lands   - 79 -                    Collective Bargaining Agreement
+### LETTER OF AGREEMENT - SEARCH AND RESCUE AND VOLUNTEER
+                           FIREFIGHTER LEAVE
+
+
+This Agreement is between the State of Oregon, acting through its Department of
+Administrative Services (Employer) and AFSCME Council 75 (Union).
+
+Section 1. Search and Rescue Leave.
+An employee shall be granted disaster relief leave with pay to participate in a search or
+rescue operation within Oregon at the request of any law enforcement Agency, the
+Director of the Department of Aviation, the United States Forest Service, or any certified
+organization for Civil Defense for a period of no more than five (5) consecutive days for
+each operation. To be eligible for the disaster relief leave with pay, the employee
+cannot accept pay from the search and rescue organization. The employee, upon
+returning to duty at the Agency, will provide to the Agency documented evidence of
+participation in the search operation.
+
+Section 2. Volunteer Firefighter Leave.
+a)    Subject to the operating needs of the Agency, management may approve the use
+      of leave for employees to volunteer and respond to an emergency summons
+      issued by the fire chief. An employee, at their option, may use authorized leave
+      without pay or any accrued leave, other than sick leave. If requested by
+      management, the employee shall provide a written statement from the chief of
+      the employee’s local fire department verifying the time, date and duration of the
+      employee’s volunteer activities.
+
+b)        Subject to the operating needs of the Agency, management may authorize an
+         employee who is not currently employed by the Oregon State Fire Marshal
+         (OSFM) or the Oregon Department of Forestry (ODF) to participate in a fire event
+         within Oregon at the request of the OSFM, the ODF, or the Governor.
+         Participation may be approved for a period of no more than fourteen (14)
+         consecutive days for each fire event. The employee may use accrued leave or
+         leave without pay for the duration of the event. The Agency will not incur any
+         additional costs. The employee, upon returning to duty at the Agency, will
+         provide management with documented evidence of participation in the fire event.
+
+c)       Subject to the operating needs of the Agency, management may authorize an
+         employee to attend firefighting training. The employee may use accrued leave or
+         leave without pay to attend the training.
+
+This Agreement will sunset on June 30, 2025, unless extended by mutual agreement.
+
+
+
+
+2023-2025 Department of State Lands     - 80 -                    Collective Bargaining Agreement
+### LETTER OF AGREEMENT – CHILDCARE AND ELDERCARE EXPLORATORY
+                             COMMITTEE
+
+
+This Agreement is between the State of Oregon, acting through its Department of
+Administrative Services (Employer) and AFSCME Council 75 (Union).
+
+The purpose of this Agreement is to follow up on recommendations from the 2021-2023
+Childcare and Eldercare Committee and create a statewide joint labor-management
+committee tasked with conducting a feasibility analysis of a pilot program for on-site and
+centrally located childcare facilities and assess options for the creation of a childcare
+and eldercare fund. The committee shall produce a report that contains
+recommendations and any action items for the implementation of a pilot program and
+fund.
+
+The committee will be composed of equal numbers of union and management
+representatives. AFSCME will appoint three (3) members to the committee.
+Participants on the Committee will be on paid status and shall be reimbursed for
+authorized travel expenses as per State Travel Policy. Agencies will not incur any
+overtime as a result of Committee meetings or travel. Flexing schedules will be allowed
+to avoid overtime.
+
+In January 2025, the committee shall prepare a report detailing recommendations for
+the Central Table 2025-2027 bargaining committee.
+
+That State will assign staff to support and facilitate work of the committee. The
+committee shall be jointly led by the Employer and the Union.
+
+ The committee will convene no later than thirty (30) days after the effective date of the
+       contract. The committee will complete their work by January 31, 2025.
+
+
+
+
+2023-2025 Department of State Lands     - 81 -                     Collective Bargaining Agreement
+### LETTER OF AGREEMENT – PAY EQUITY
+
+
+This Agreement is entered into by the State of Oregon, acting through its Department of
+Administrative Services, Labor Relations Unit (Employer), on behalf of the Agencies
+covered by this Agreement (Agency) and the AFSCME Council 75 (Union).
+
+This Agreement applies to all of the Union’s bargaining units inside of the executive
+branch of state government.
+
+The purpose of this Agreement is to provide procedures to implement unscheduled pay
+equity adjustments consistent with Oregon law, and, to identify the appeal procedure to
+have Agency or Employer decisions concerning pay equity reviewed.
+
+The Parties agree to the following:
+1.            Application to Current Employees: The Employer, an Agency Head or
+      designee (with CHRO approval) may provide an unscheduled salary step
+      increase to correct a pay inequity between employees who perform work of a
+      comparable character and are similarly-situated based on relevant factors,
+      identified in Oregon Revised Statute [ORS 652.220(2)], by which individual
+      employees may be compensated differently. Unscheduled salary step increases
+      may be initiated by:
+              (a) Periodic statewide equal pay analysis (appeal process section 10)
+              (b) Employee request (appeal process section 9)
+              (c) Agency identified inequity (appeal process section 9)
+   2. Application to Returning Employees (including but not limited to reemployment
+      and return from layoff): An Agency Head or designee may offer a higher step
+      than prescribed in the applicable labor agreement when the Agency identifies a
+      pay inequity between employees in the same classification who perform work of
+      a comparable character.
+   3. If an Agency plans to grant an unscheduled salary step increase to an
+      employee(s), the Agency shall first forward the recommendation to CHRO,
+      Classification & Compensation for review and analysis. The CHRO shall
+      approve or disapprove the Agency recommendation and shall provide a written
+      response back to the Agency. If approved, the Agency may take action to
+      implement the pay equity adjustment.
+   4. An employee may request a pay equity review by submitting a Pay Equity
+      Review Request Form to the Agency Human Resource Department. This
+      includes employees who are appealing pay equity assessments conducted at the
+      time of hire or internal movements (transfer, promotion, etc.) to new positions
+      where pay equity assessments are performed. The Agency Human Resource
+      Department shall review the merits of the request based on the relevant factors
+      and issue a written decision within sixty (60) calendar days, unless otherwise
+      mutually agreed upon in writing.
+   5. Pay equity adjustments are generally effective on the date an employee made a
+      written request to the Agency or the date the Agency submitted a request to DAS
+      Classification and Compensation, whichever is earlier.
+   6. In the event an employee receives an unscheduled salary step adjustment for
+      any of the reasons identified in Section 1, the employee’s salary eligibility date
+
+2023-2025 Department of State Lands       - 82 -                 Collective Bargaining Agreement
+        shall remain the same.
+    7. Agencies shall retain all documents pertaining to decisions involving pay equity.
+    8. If the employee meets with the Agency or Employer, the employee may request
+        and obtain Union representation.
+    9. Appeal Procedure - Agency Level Pay Equity Decisions.
+(a)     If an employee wishes to appeal an Agency’s pay equity decision as filed under
+        Section 4 of this Agreement, the employee shall submit a completed Pay Equity
+        Appeal Form to the Agency Head (or designee) within fifteen (15) days of receipt
+        of the Agency’s decision. The Agency shall respond to the appeal within thirty
+        (30) days of receipt of the appeal. The appeal must be based on one (1) or more
+        of the factors listed in ORS 652.220(2) and the compensation of other employees
+        performing work of a comparable character.
+(b)     If the employee disagrees with the Agency’s decision, the employee may submit
+        a written appeal to the Department of Administrative Services Labor Relations
+        Unit (LRU) within fifteen calendar days of receipt of the Agency’s decision. The
+        employee shall forward all written documents as part of the appeal. The
+        employee shall identify factors, as outlined above, the Agency did not properly
+        consider. The Department of Administrative Services Labor Relations Unit (LRU)
+        shall respond to the appeal in writing within thirty (30) calendar days.
+(c)     Pay equity appeals are not subject to arbitration. However, nothing in this
+        Agreement precludes the employee from submitting a claim to the Bureau of
+        Labor and Industries (BOLI) in accordance with BOLI’s administrative rules or
+        pursuing other legal recourse. The timelines for filing with BOLI or pursuing other
+        legal recourse apply regardless of whether the employee appeals the decision
+        under this section.
+(d)     For purposes of this Agreement only, the appeal process in this Agreement
+        replaces the grievance procedure outlined in the applicable labor agreement
+        covering the employee.
+(e)     The Employer and Union may agree to an extensions of time in this Agreement
+        upon mutual agreement in writing.
+    10. Appeal Procedure – DAS Statewide Equal Pay Analysis Decisions
+        (a)     An employee may appeal the Employer’s decision concerning the
+                employee’s salary that resulted from a statewide equal pay analysis. The
+                appeal must be based on one (1) or more of the factors listed in ORS
+                652.220(2) and the compensation of other employees performing work of
+                a comparable character.
+        (b)     An appeal of the Employers’ equal pay analysis decision may be filed by
+                sending a completed DAS Pay Equity Appeal Form via electronic mail to
+                CHRO.CNC@das.Oregon.gov no later than fifteen (15) calendar days
+                from the date the employee receives notification of the equal pay analysis
+                results. The Employer shall make a good faith effort to respond with a
+                decision regarding the employee’s appeal within one hundred and twenty
+                (120) calendar days.
+        (c)     The timelines for filing with BOLI or pursuing other legal recourse apply
+                regardless of whether the employee appeals the Employer’s decision
+                under this section.
+        (d)     Pay adjustments made as a result of accepted appeals shall be made
+                retroactively to January 1, 2025.
+        (e)     To be eligible to file an appeal of the DAS statewide equal pay analysis
+
+2023-2025 Department of State Lands     - 83 -                     Collective Bargaining Agreement
+               decision an employee must have been employed by a state executive
+               branch agency as of July 1, 2024. Employees who do not meet this
+               eligibility requirements may pursue an appeal through Section 4 of this
+               Agreement.
+        (f)    Employees at the top step of the salary range assigned to their job
+               classification on or before January 1, 2025, are not eligible to file an
+               appeal.
+        (g)    The Employer shall notify an employee in writing of the outcome of the
+               employee’s appeal, including reasons for the decision.
+        (h)    If the employee disagrees with the Employer’s response, the employee
+               may submit a claim to the Bureau of Labor and Industries or pursue other
+               legal recourse. Pay equity appeals are not subject to arbitration.
+        (i)    For purposes of this Agreement only, the appeal procedure in this
+               Agreement replaces the grievance procedure outlined in the applicable
+               labor agreement covering the employee.
+    11. This Agreement becomes effective on the date of the last signature below and
+        expires June 30, 2025.
+
+
+
+
+2023-2025 Department of State Lands   - 84 -                    Collective Bargaining Agreement
+### LETTER OF AGREEMENT—BI-WEEKLY PAY PERIOD/WORKDAY
+
+
+This Letter of Agreement is between the State of Oregon, acting through its Department
+of Administrative Services (Employer), and the AFSCME Local 75 (Union).
+
+To modernize and standardize pay practices, the State will evaluate the potential
+transition from monthly pay periods to bi-weekly pay periods.
+
+Therefore, the Parties agree to the following:
+      1.     The Employer shall convene a Joint Labor/Management Statewide Bi-
+             weekly Payroll Implementation Workgroup comprised of an equal number
+             of labor partners and members from management with three (3) AFSCME
+             members appointed by the Union. The purpose of this workgroup is to
+             assist in the evaluation of a potential transition and design of the bi-weekly
+             payroll including, but not limited to, the assessment of organizational
+             readiness for change, the design of the communication plan, business
+             requirements and testing, change management plan, and employee
+             training. The workgroup shall meet on a schedule it chooses, but no less
+             frequently than once per month.
+      2.     By January 1, 2025, the workgroup will put forth a report on their findings
+             and an opinion as to the Employer’s readiness to launch bi-weekly payroll,
+             which will be shared with the DAS Director and Union Executive Director
+             utilizing the following criteria:
+             a.      System Readiness: ensuring that the bi-weekly payroll system is
+                     fully developed, tested, and ready for deployment.
+             b.      Data Accuracy: Validate the accuracy and integrity of employee
+                     data within the bi-weekly payroll system.
+             c.      Compliance: Ensure that the bi-weekly payroll system complies
+                     with all applicable legal and regulatory requirements, such as tax
+                     laws, employment regulations, and data protection policies.
+             d.      Training and Support: Provide training and resources for
+                     employees who will be using the new payroll system. This includes
+                     ensuring that all relevant personnel are trained on how to operate
+                     the system effectively and efficiently, and that ongoing support
+                                                                                        m
+                     echanisms are in place to address any questions or issues that
+                                                                                        m
+                     ay arise.
+             e.      Organizational       Readiness:     Using     standardized     change
+                     management tools, such as the ADKAR model, confirm that
+                     impacted staff are ready for implementation of the bi-weekly payroll
+                     system.
+      3.     The State shall develop training for all employees and Agency payroll staff
+             on the necessary topics related to the transition. The training will include
+             an explanation of how deductions (for health insurance contributions,
+             PERS contributions, and deferred compensation, for example) and leave
+             accruals (for vacation and sick leave, for example) will be implemented in
+
+2023-2025 Department of State Lands     - 85 -                     Collective Bargaining Agreement
+                  bi-weekly paychecks. The training will also explain how overtime will be
+                  reported, calculated, and paid. The training shall provide multiple avenues
+                  of explanation (such as webinars, self-directed learning, in-person
+                  training) sufficient to explain that employees’ pay is not reduced annually
+                  as a result of the bi-weekly timing of paychecks, and the potential monthly
+                  financial impacts of the bi-weekly change to employees.
+         4.       The Parties agree to establish a joint Statewide AFSCME labor-
+                  management committee to discuss and identify modifications in areas of
+                  the CBAs where calculations of hours worked or frequency of pay are
+                  applied such as: pay dates, deductions, leave accruals, holiday proration,
+                  union dues, PEBB contributions, payslip structure improvements, etc. This
+                  list is not exhaustive and may be expanded as the contract is reviewed by
+                  the joint labor management committee for preparation of bi-weekly pay
+                  change implementation. The Parties also agree to dedicate no less than
+                  fifteen (15) minutes as needed at the beginning or end of each meeting to
+                  discuss other Workday concerns or updates unrelated to payroll. The
+                  workgroup will review non-payroll related Workday concerns and identify
+                  potential modifications needed.
+                  a.        The joint Statewide AFSCME labor management committee shall
+                             be comprised of ten (10) members, with four (4) AFSCME
+                             represented employees appointed by the Union, four (4)
+                             management representatives, one (1) AFSCME staff and one (1)
+                             DAS State Labor Relations Manager. The Union and State may
+                             have additional staff work with the committee. This joint Statewide
+                             AFSCME labor management committee shall be tasked with
+                             reviewing modifications needed in statewide articles.
+                          i.        Each individual local shall utilize existing LMC, or if no LMC
+                                    is established, participate in a subgroup where one (1)
+                                    member from the local, one (1) member from AFSCME staff,
+                                    one (1) member from management, and one (1) DAS Labor
+                                    Relations Manager shall review and identify potential
+                                    modifications needed to in their local-specific articles.
+                         ii.        Each individual local subgroup will submit their identified
+                                    modifications needed in their local-specific articles to the
+                                    joint Statewide AFSCME labor management committee for
+                                    review.
+                  b.       The joint Statewide AFSCME labor management committee shall
+                           meet on a schedule it chooses, but no less frequently than once per
+                           month.
+                  c.       Committee and workgroup members convened in accordance with
+                           the LOA will be on paid status and shall be reimbursed for
+                           authorized travel expenses as per State Travel Policy. Agencies will
+                           not incur any overtime as a result of committee meetings or travel.
+                           Flexing schedules will be allowed to avoid overtime.
+
+Alleged violations of this LOA are not subject to the grievance and arbitration procedure.
+
+Both parties retain their rights under PECBA.
+2023-2025 Department of State Lands          - 86 -                      Collective Bargaining Agreement
+                        ATTACHMENT A - OFFICIAL GRIEVANCE FORM
+
+
+
+
+2023-2025 Department of State Lands    - 87 -             Collective Bargaining Agreement
+          ATTACHMENT B - CLASSIFICATION PLAN WITH SALARY RANGES
+
+                                      7/1/2023                                                 7/1/2023
+                                       SALARY                                                   SALARY
+ CLASSIFICATION TITLE                  RANGE          CLASSIFICATION TITLE                      RANGE
+ Accountant 1                            23           Natural Resource Specialist 1                21
+ Accountant 2                            27           Natural Resource Specialist 2                24
+ Accountant 3                            30           Natural Resource Specialist 3                27
+ Accounting Technician                   19           Natural Resource Specialist 4                30
+ Administrative Specialist 1             17           Natural Resource Specialist 5                32
+ Administrative Specialist 2             20           Office Coordinator                           15
+ Compliance Specialist 1                 21           Office Specialist 1                         13C
+ Compliance Specialist 2                 25           Office Specialist 2                         15C
+ Compliance Specialist 3                 29           Operations & Policy Analyst 2                27
+ Data Entry Operator                     11           Operations & Policy Analyst 3                30
+ Environmental Specialist 1              20           Paralegal                                    23
+ Environmental Specialist 2              23           Park Ranger Assistant                        12
+ Environmental Specialist 3              26           Planner 1                                    23
+ Executive Support Specialist 1          17           Planner 2                                    27
+ Executive Support Specialist 2          20           Planner 3                                    30
+ Facility Maintenance Specialist         18           Planner 4                                    32
+ Facility Operations Specialist 1        24           Procurement & Contract Specialist 1          23
+ Fiscal Analyst 1                        23           Procurement & Contract Specialist 2          27
+ Fiscal Analyst 2                        27           Procurement & Contract Specialist 3          29
+ Fiscal Analyst 3                        30           Procurement And Contract Assistant           19
+ Fiscal Auditor 1                        23           Program Analyst 1                            23
+ Fiscal Auditor 2                        26           Program Analyst 2                            27
+ Information Systems Specialist 1        17I          Program Analyst 3                            29
+ Information Systems Specialist 2        21I          Program Analyst 4                            31
+ Information Systems Specialist 3        24I          Public Affairs Specialist 2                  29
+ Information Systems Specialist 4        25I          Public Service Representative 2             13C
+ Information Systems Specialist 5        28I          Public Service Representative 4              20
+ Information Systems Specialist 6        29I          Training & Development Specialist 1          24
+ Information Systems Specialist 7        31I          Training & Development Specialist 2          28
+ Information Systems Specialist 8        34I
+
+
+
+
+2023-2025 Department of State Lands          - 88 -                        Collective Bargaining Agreement
+### APPENDIX C – SALARY CHARTS
+
+                                        SALARY SCHEDULE AS OF JULY 1, 2023
+                    Pay /
+          Salary     Rng      Step     Step   Step    Step    Step   Step   Step   Step    Step      Step
+          Range    Option       1        2      3       4       5      6      7      8       9        10
+            11       AP                                       3005   3116   3216   3343   3482      3627
+            12       AP                              3005     3116   3216   3343   3482   3627      3784
+           13C       AP                3005   3116   3216     3343   3482   3627   3784   3962      4155
+            15       AP      3005      3116   3216   3343     3482   3627   3784   3962   4155      4355
+           15C       AP      3061      3164   3278   3412     3555   3706   3872   4058   4255      4462
+            17       AP      3216      3343   3482   3627     3787   3962   4155   4355   4562      4772
+           17I        IP     3325      3461   3597   3756     3931   4116   4306   4505   4717      4937
+            18       AP      3343      3482   3627   3784     3962   4155   4355   4556   4772      5014
+            19       AP      3482      3627   3784   3962     4155   4355   4556   4772   5014      5253
+            20       AP      3627      3784   3962   4155     4355   4556   4772   5014   5253      5501
+            21       AP      3784      3962   4155   4355     4556   4772   5014   5253   5501      5768
+           21I        IP     3830      4011   4197   4391     4597   4815   5037   5276   5521      5777
+            23       AP      4155      4355   4556   4772     5014   5253   5501   5768   6046      6345
+            24       AP      4355      4556   4772   5014     5253   5501   5768   6046   6345      6659
+           24I        IP     4383      4591   4810   5030     5266   5515   5774   6045   6330      6630
+            25       AP      4556      4772   5014   5253     5501   5768   6046   6345   6659      6977
+           25I        IP     4757      4979   5210   5457     5713   5982   6262   6557   6865      7189
+            26       AP      4772      5014   5253   5501     5768   6046   6345   6659   6977      7322
+            27       AP      5014      5253   5501   5768     6046   6346   6659   6977   7322      7673
+            28       AP      5253      5501   5768   6046     6345   6659   6977   7322   7673      8053
+           28I        IP     5308      5561   5819   6095     6381   6680   6996   7325   7670      8031
+            29       AP      5501      5768   6046   6345     6659   6977   7322   7673   8053      8449
+           29I        IP     5679      5943   6224   6517     6825   7145   7481   7836   8202      8585
+            30       AP      5768      6046   6345   6659     6977   7322   7673   8053   8449      8868
+            31       AP      6046      6345   6659   6977     7322   7673   8053   8448   8868      9307
+           31I        IP     6287      6583   6893   7217     7557   7914   8285   8674   9079      9503
+            32       AP      6345      6659   6977   7322     7673   8053   8448   8868   9307      9742
+           34I        IP     7172      7511   7865   8239     8623   9034   9465   9913   10383     10874
+
+          Where the system rates and the rates printed in the CBA differ by two dollars ($2.00) or less
+          per month, the system shall be considered the official rate and shall supersede the rate printed
+          in the CBA.
+          Note: Range Option A will be calculated using a reverse differential and rates will not be
+          specifically listed in the Agreement.
+
+
+
+
+2023-2025 Department of State Lands                  - 89 -                           Collective Bargaining Agreement
+                                      SALARY SCHEDULE AS OF DECEMBER 1, 2023
+                   Pay /
+         Salary     Rng     Step      Step   Step   Step     Step   Step    Step    Step     Step     Step
+         Range    Option      1         2      3      4        5      6       7       8        9       10
+           11       AP                                       3200   3319   3425    3560     3708     3863
+           12       AP                              3200     3319   3425   3560    3708     3863     4030
+          13C       AP                3200   3319   3425     3560   3708   3863    4030     4220     4425
+           15       AP      3200      3319   3425   3560     3708   3863   4030    4220     4425     4638
+          15C       AP      3260      3370   3491   3634     3786   3947   4124    4322     4532     4752
+           17       AP      3425      3560   3708   3863     4033   4220   4425    4638     4859     5082
+          17I        IP     3541      3686   3831   4000     4187   4384   4586    4798     5024     5258
+           18       AP      3560      3708   3863   4030     4220   4425   4638    4852     5082     5340
+           19       AP      3708      3863   4030   4220     4425   4638   4852    5082     5340     5594
+           20       AP      3863      4030   4220   4425     4638   4852   5082    5340     5594     5859
+           21       AP      4030      4220   4425   4638     4852   5082   5340    5594     5859     6143
+          21I        IP     4079      4272   4470   4676     4896   5128   5364    5619     5880     6153
+           23       AP      4425      4638   4852   5082     5340   5594   5859    6143     6439     6757
+           24       AP      4638      4852   5082   5340     5594   5859   6143    6439     6757     7092
+          24I        IP     4668      4889   5123   5357     5608   5873   6149    6438     6741     7061
+           25       AP      4852      5082   5340   5594     5859   6143   6439    6757     7092     7431
+          25I        IP     5066      5303   5549   5812     6084   6371   6669    6983     7311     7656
+           26       AP      5082      5340   5594   5859     6143   6439   6757    7092     7431     7798
+           27       AP      5340      5594   5859   6143     6439   6758   7092    7431     7798     8172
+           28       AP      5594      5859   6143   6439     6757   7092   7431    7798     8172     8576
+          28I        IP     5653      5922   6197   6491     6796   7114   7451    7801     8169     8553
+           29       AP      5859      6143   6439   6757     7092   7431   7798    8172     8576     8998
+          29I        IP     6048      6329   6629   6941     7269   7609   7967    8345     8735     9143
+           30       AP      6143      6439   6757   7092     7431   7798   8172    8576     8998     9444
+           31       AP      6439      6757   7092   7431     7798   8172   8576    8997     9444     9912
+          31I        IP     6696      7011   7341   7686     8048   8428   8824    9238     9669     10121
+           32       AP      6757      7092   7431   7798     8172   8576   8997    9444     9912     10375
+          34I        IP     7638      7999   8376   8775     9183   9621   10080   10557    11058    11581
+
+         Where the system rates and the rates printed in the CBA differ by two dollars ($2.00) or less per
+         month, the system shall be considered the official rate and shall supersede the rate printed in the
+         CBA.
+         Note: Range Option A will be calculated using a reverse differential and rates will not be
+         specifically listed in the Agreement.
+
+
+
+
+2023-2025 Department of State Lands                 - 90 -                            Collective Bargaining Agreement
+                                       SALARY SCHEDULE AS OF APRIL 1, 2024
+                   Pay /
+         Salary     Rng     Step      Step   Step   Step     Step   Step    Step    Step     Step     Step
+         Range    Option      1         2      3      4        5      6       7       8        9       10
+           11       AP                                                     3425    3560     3708     3863
+           12       AP                                              3425   3560    3708     3863     4030
+          13C       AP                              3425     3560   3708   3863    4030     4220     4425
+           15       AP                       3425   3560     3708   3863   4030    4220     4425     4638
+          15C       AP                       3491   3634     3786   3947   4124    4322     4532     4752
+           17       AP                       3708   3863     4033   4220   4425    4638     4859     5082
+          17I        IP                      3831   4000     4187   4384   4586    4798     5024     5258
+           18       AP                       3863   4030     4220   4425   4638    4852     5082     5340
+           19       AP                       4030   4220     4425   4638   4852    5082     5340     5594
+           20       AP                       4220   4425     4638   4852   5082    5340     5594     5859
+           21       AP                       4425   4638     4852   5082   5340    5594     5859     6143
+          21I        IP                      4470   4676     4896   5128   5364    5619     5880     6153
+           23       AP      4425      4638   4852   5082     5340   5594   5859    6143     6439     6757
+           24       AP      4638      4852   5082   5340     5594   5859   6143    6439     6757     7092
+          24I        IP     4668      4889   5123   5357     5608   5873   6149    6438     6741     7061
+           25       AP      4852      5082   5340   5594     5859   6143   6439    6757     7092     7431
+          25I        IP     5066      5303   5549   5812     6084   6371   6669    6983     7311     7656
+           26       AP      5082      5340   5594   5859     6143   6439   6757    7092     7431     7798
+           27       AP      5340      5594   5859   6143     6439   6758   7092    7431     7798     8172
+           28       AP      5594      5859   6143   6439     6757   7092   7431    7798     8172     8576
+          28I        IP     5653      5922   6197   6491     6796   7114   7451    7801     8169     8553
+           29       AP      5859      6143   6439   6757     7092   7431   7798    8172     8576     8998
+          29I        IP     6048      6329   6629   6941     7269   7609   7967    8345     8735     9143
+           30       AP      6143      6439   6757   7092     7431   7798   8172    8576     8998     9444
+           31       AP      6439      6757   7092   7431     7798   8172   8576    8997     9444     9912
+          31I        IP     6696      7011   7341   7686     8048   8428   8824    9238     9669     10121
+           32       AP      6757      7092   7431   7798     8172   8576   8997    9444     9912     10375
+          34I        IP     7638      7999   8376   8775     9183   9621   10080   10557    11058    11581
+
+         Where the system rates and the rates printed in the CBA differ by two dollars ($2.00) or less per
+         month, the system shall be considered the official rate and shall supersede the rate printed in the
+         CBA.
+         Note: Range Option A will be calculated using a reverse differential and rates will not be
+         specifically listed in the Agreement.
+
+
+
+
+2023-2025 Department of State Lands                 - 91 -                            Collective Bargaining Agreement
+             SALARY SCHEDULE AS OF JANUARY 1, 2025 OR FEBRUARY 1, 2025 (per Salaries Article)
+                 Pay /
+        Salary    Rng   Step Step Step Step Step Step            Step     Step     Step      Step
+        Range Option      1     2     3      4      5      6       7        8        9        10
+          11      AP                                             3649    3793      3951      4116
+          12      AP                                     3649    3793    3951      4116      4294
+         13C      AP                       3649 3793 3951        4116    4294      4496      4715
+          15      AP                 3649 3793 3951 4116         4294    4496      4715      4942
+         15C      AP                 3720 3872 4034 4206         4394    4605      4829      5063
+          17      AP                 3951 4116 4297 4496         4715    4942      5177      5415
+         17I       IP                4082 4262 4461 4671         4886    5112      5353      5602
+          18      AP                 4116 4294 4496 4715         4942    5170      5415      5690
+          19      AP                 4294 4496 4715 4942         5170    5415      5690      5960
+          20      AP                 4496 4715 4942 5170         5415    5690      5960      6243
+          21      AP                 4715 4942 5170 5415         5690    5960      6243      6545
+         21I       IP                4763 4982 5217 5464         5715    5987      6265      6556
+          23      AP    4715 4942 5170 5415 5690 5960            6243    6545      6861      7200
+          24      AP    4942 5170 5415 5690 5960 6243            6545    6861      7200      7557
+         24I       IP   4974 5209 5459 5708 5975 6258            6552    6860      7183      7523
+          25      AP    5170 5415 5690 5960 6243 6545            6861    7200      7557      7918
+         25I       IP   5398 5650 5912 6193 6483 6788            7106    7440      7790      8157
+          26      AP    5415 5690 5960 6243 6545 6861            7200    7557      7918      8309
+          27      AP    5690 5960 6243 6545 6861 7201            7557    7918      8309      8707
+          28      AP    5960 6243 6545 6861 7200 7557            7918    8309      8707      9138
+         28I       IP   6023 6310 6603 6916 7241 7580            7939    8312      8704      9113
+          29      AP    6243 6545 6861 7200 7557 7918            8309    8707      9138      9587
+         29I       IP   6444 6744 7063 7396 7745 8107            8489    8892      9307      9742
+          30      AP    6545 6861 7200 7557 7918 8309            8707    9138      9587 10063
+          31      AP    6861 7200 7557 7918 8309 8707            9138    9586 10063 10561
+         31I       IP   7135 7470 7822 8189 8575 8980            9402    9843 10302 10784
+          32      AP    7200 7557 7918 8309 8707 9138            9586 10063 10561 11055
+         34I       IP   8138 8523 8925 9350 9784 10251 10740 11248 11782 12340
+
+        Where the system rates and the rates printed in the CBA differ by two dollars ($2.00) or less per
+        month, the system shall be considered the official rate and shall supersede the rate printed in the
+        CBA.
+        Note: Range Option A will be calculated using a reverse differential and rates will not be
+        specifically listed in the Agreement.
+
+
+
+
+2023-2025 Department of State Lands                - 92 -                             Collective Bargaining Agreement
+                               1st                     August
+
+
+
+
+Vicki L. Walker,   Digitally signed by Vicki L.
+                   Walker, Director
+Director           Date: 2023.10.31 10:02:51 -07'00'
+Department of Administrative Services
+Chief Human Resources Office
+Labor Relations Unit
+155 Cottage Street NE
+Salem, OR 97301-3971
+LRU@das.oregon.gov
+
+
+The official version of this Agreement is held by the Department of Administrative Services
+Labor Relations Unit on its electronic files at the website below. The Department of
+Administrative Services does not recognize any other copies or publications of this Agreement.
+Electronic version of the Agreement located at:
+http://www.oregon.gov/das/HR/Pages/LRU.aspx
+
+
+
+
+2023-2025 Department of State Lands      - 94 -                      Collective Bargaining Agreement
+

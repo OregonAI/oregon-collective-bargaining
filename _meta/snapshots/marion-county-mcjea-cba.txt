@@ -58,7 +58,7 @@ ARTICLE 34 – LIFE OF AGREEMENT AND TERMINATION ...............................
                          Marion County Juvenile Employees Association Collective Bargaining Agreement
                                                                                             2024-2026
 
-ARTICLE 1 – ASSOCIATION RECOGNITION
+### ARTICLE 1 – ASSOCIATION RECOGNITION
 
 Section 1. Recognition. The County recognizes the Marion County Juvenile Employees’ Association
 (MCJEA) as the sole and exclusive bargaining representative for ALL regular employees of the Marion
@@ -68,7 +68,7 @@ organizations.
 
 
 
-ARTICLE 2 – MANAGEMENT'S RIGHTS
+### ARTICLE 2 – MANAGEMENT'S RIGHTS
 
 Except as may be specifically modified by the terms of this Agreement, the County retains all rights of
 management in the direction of its work force. It is recognized that the responsibilities and authority of
@@ -96,7 +96,7 @@ These rights of management shall include, but not be limited to, the following:
 
 
 
-ARTICLE 3 – ASSOCIATION SECURITY
+### ARTICLE 3 – ASSOCIATION SECURITY
 
 Dues Deduction
 
@@ -128,7 +128,7 @@ number and continuous service date of the employees in the bargaining unit.
 
 
 
-ARTICLE 4 – HOURS OF WORK
+### ARTICLE 4 – HOURS OF WORK
 
 Section 1. The regular hours of work each day shall be consecutive.
 
@@ -209,7 +209,7 @@ Section 5. Shift Selection.
 
 
 
-ARTICLE 5 – REST PERIODS AND LUNCH BREAKS
+### ARTICLE 5 – REST PERIODS AND LUNCH BREAKS
 
 Section 1. A rest period of fifteen (15) minutes shall be permitted for all employees for each full half
 work shift. Such rest periods shall normally be on a scheduled basis so that activities of the department
@@ -229,7 +229,7 @@ whenever possible, employees shall be provided with lunchroom facilities.
 
 
 
-ARTICLE 6 – HOLIDAYS
+### ARTICLE 6 – HOLIDAYS
 
 Section 1. Holidays. The following days are legal holidays for regular employees in the County service:
 
@@ -311,7 +311,7 @@ receive the number of hours regularly scheduled for that day as holiday pay.
 
 
 
-ARTICLE 7 – VACATION LEAVE
+### ARTICLE 7 – VACATION LEAVE
 
 Section 1. Vacation Accumulation. After having served in the County service for six (6) consecutive full
 calendar months, full-time employees shall be eligible to use accrued vacation. Vacation leave shall be
@@ -433,7 +433,7 @@ occurrence per fiscal year.
                          Marion County Juvenile Employees Association Collective Bargaining Agreement
                                                                                             2024-2026
 
-ARTICLE 8 – SICK LEAVE
+### ARTICLE 8 – SICK LEAVE
 
 Section 1. The county will follow any and all Oregon State sick time laws and regulations. Any benefits
 provided in this article shall count toward the county’s regulatory obligations.
@@ -587,7 +587,7 @@ shall be scheduled in accordance with Ar�cle 7 – Vaca�on Leave.
 
 
 
-ARTICLE 9 – OTHER LEAVES
+### ARTICLE 9 – OTHER LEAVES
 
 Section 1. Other Leaves of Absence with Pay. An employee holding a position in County service shall
 be granted a leave of absence with pay for:
@@ -661,7 +661,7 @@ terminated.
                         Marion County Juvenile Employees Association Collective Bargaining Agreement
                                                                                            2024-2026
 
-ARTICLE 10 – HEALTH AND WELFARE
+### ARTICLE 10 – HEALTH AND WELFARE
 
 Section 1. Marion County Benefits Plan. Marion County shall, within the maximum contribution
 provided by the County, attempt to provide the best value, most effective health, dental and vision
@@ -725,7 +725,7 @@ Section 4. Employer Health Insurance Contributions.
 
 
 
-ARTICLE 11 – WAGE ADJUSTMENT
+### ARTICLE 11 – WAGE ADJUSTMENT
 
 Section 1. Retirement. The County agrees to continue its participation in the PERS and OPSRP pension
 accounts.
@@ -812,7 +812,7 @@ work-related phone calls. Employees do not receive compensatory time if the purp
 call is to offer additional shifts, voluntary overtime, or mandatory overtime.
 
 
-ARTICLE 12 – ADMINISTRATION OF PAY PLAN
+### ARTICLE 12 – ADMINISTRATION OF PAY PLAN
 
 Section 1. Compensation Plan. The County has adopted a Compensation Plan under which employees
 covered by this Agreement have been and shall continue to be compensated. Compensation Plans can
@@ -916,7 +916,7 @@ J. Working Out of Classification. When an employee is assigned to perform some o
 
 
 
-ARTICLE 13 – OVERTIME
+### ARTICLE 13 – OVERTIME
 
 Section 1. The following shall be regarded as hours worked for the purpose of computing overtime
 hours for overtime eligible employees:
@@ -963,7 +963,7 @@ policy.
 
 
 
-ARTICLE 14 – TRAVEL ALLOWANCES
+### ARTICLE 14 – TRAVEL ALLOWANCES
 
 Section 1. Cost of In-State Transportation. All in-state travel must be approved in advance. The cost of
 transportation shall be reimbursed according to the terms of this Agreement. Receipts shall be
@@ -1006,7 +1006,7 @@ Employees who are eligible for reimbursement shall provide the County with proof
 premium rates.
 
 
-ARTICLE 15 – HEALTH AND SAFETY REGULATIONS
+### ARTICLE 15 – HEALTH AND SAFETY REGULATIONS
 
 Section 1. The County shall make reasonable provisions and exercise due consideration regarding the
 health and safety of its employees during the hours of their employment. Employees shall follow
@@ -1046,7 +1046,7 @@ Section 6. The County will provide for ergonomic standards to be established.
 
 
 
-ARTICLE 16 – PERFORMANCE EVALUATIONS
+### ARTICLE 16 – PERFORMANCE EVALUATIONS
 
 Section 1. Employees shall be given a performance evaluation at least annually. This Article is subject to
 the provision of Article 12 to determine the employee's eligibility for merit increases.
@@ -1096,7 +1096,7 @@ weaknesses in the current system, and recommend improvements. The County agrees 
 mutually agreeable changes in a timely fashion.
 
 
-ARTICLE 17 – GENERAL PROVISIONS
+### ARTICLE 17 – GENERAL PROVISIONS
 
 Section 1. No Discrimination. The provisions of this Agreement shall be applied equally to all
 employees in the bargaining unit without discrimination as to age, marital status, race, color, creed, sex,
@@ -1181,7 +1181,7 @@ Section 10. Labor-Management Committees.
 
 
 
-ARTICLE 18 – EDUCATIONAL ASSISTANCE
+### ARTICLE 18 – EDUCATIONAL ASSISTANCE
 
 Section 1. Tuition aid is defined as full or partial payment or reimbursement for the costs of training
 sessions, classes or formal academic course work pursued on a part-time basis either during or after
@@ -1211,7 +1211,7 @@ governing body upon request. Requests for such leave must be in writing. Leave g
 Section will normally not exceed one (1) year.
 
 
-ARTICLE 19 – RELEASE TIME FOR ASSOCIATION ACTIVITIES
+### ARTICLE 19 – RELEASE TIME FOR ASSOCIATION ACTIVITIES
 
 Section 1. Association Officers. The President, Vice-president, Secretary, Treasurer, and Sergeant at
 Arms of the Association will be granted reasonable time to meet with employees, managers, executive
@@ -1264,7 +1264,7 @@ representative for the conduct of the function described herein.
 
 
 
-ARTICLE 20 – DISCIPLINE AND DISCHARGE
+### ARTICLE 20 – DISCIPLINE AND DISCHARGE
 
 Section 1. Disciplinary action may be imposed upon an employee only for just cause using the principles
 of progressive discipline.
@@ -1382,7 +1382,7 @@ person acting as the Association representative (and not the interviewed employe
 that is permitted to record the interview.
 
 
-ARTICLE 21 – GRIEVANCE AND ARBITRATION PROCEDURE
+### ARTICLE 21 – GRIEVANCE AND ARBITRATION PROCEDURE
 
 Section 1. Definition. A "grievance" is defined as a dispute, difference, disagreement or complaint
 between the parties related to wages, hours and conditions of employment. The complaint shall
@@ -1466,7 +1466,7 @@ the grievance procedure may be waived by mutual written consent of the parties.
 
 
 
-ARTICLE 22 – PERSONNEL FILES
+### ARTICLE 22 – PERSONNEL FILES
 
 Section 1. Human resources shall maintain a personnel file of each employee in County service. This file
 shall be the official file of the County and shall contain copies of all official reports, memos, letters,
@@ -1502,7 +1502,7 @@ removed from the employee's personnel file and supervisory files at the written 
 employee.
 
 
-ARTICLE 23 – RECLASSIFICATION PROCEDURE
+### ARTICLE 23 – RECLASSIFICATION PROCEDURE
 
 Section 1. Any employee may submit a request for a change in the classification of a position to human
 resources for a review and recommendation. Whenever human resources finds that the duties are such
@@ -1550,7 +1550,7 @@ classifications or proposed new job classifications will be sent to the Associat
 
 
 
-ARTICLE 24 – LAYOFF
+### ARTICLE 24 – LAYOFF
 
 Section 1. Layoff. A layoff is defined as any separation from County service not for cause and not
 reflecting discredit upon the employee. Layoffs may be for shortage of funds, abolishment of positions
@@ -1634,7 +1634,7 @@ record.
 
 
 
-ARTICLE 25 – FILLING OF VACANCIES
+### ARTICLE 25 – FILLING OF VACANCIES
 
 Section 1. Vacancies that are to be filled shall be posted on the County website and sent by electronic
 mail to all county employees at least five (5) working days prior to closing.
@@ -1657,7 +1657,7 @@ County’s internal recruitments.
 
 
 
-ARTICLE 26 – TRIAL SERVICE PERIOD
+### ARTICLE 26 – TRIAL SERVICE PERIOD
 
 Section 1. All definitions contained in the Marion County Personnel Rules shall apply to this Agreement
 unless otherwise covered by the terms of this Agreement.
@@ -1702,7 +1702,7 @@ placement.
 
 
 
-ARTICLE 27 – EFFECT OF LAW AND RULES
+### ARTICLE 27 – EFFECT OF LAW AND RULES
 
 Section 1. This Agreement is subject to all existing and future laws of the State of Oregon.
 
@@ -1715,7 +1715,7 @@ all matters which are not addressed in this Agreement. Any violation of this Sec
 through the grievance procedure.
 
 
-ARTICLE 28 – SCOPE OF AGREEMENT
+### ARTICLE 28 – SCOPE OF AGREEMENT
 
 This document constitutes the sole and complete Agreement between the Association and the County
 and embodies all the terms and conditions governing the employment of employees in the bargaining
@@ -1726,7 +1726,7 @@ Agreement is hereby superseded by the terms of this Agreement.
 
 
 
-ARTICLE 29 – SAVINGS CLAUSE
+### ARTICLE 29 – SAVINGS CLAUSE
 
 This Agreement is subject to all existing and future laws of the State of Oregon. Should any of the
 provisions of this Agreement be found by a court of competent jurisdiction to be unlawful,
@@ -1735,7 +1735,7 @@ Agreement shall remain in full force and effect for the duration of this Agreeme
 
 
 
-ARTICLE 30 – NOTICES
+### ARTICLE 30 – NOTICES
 
 Prior to planned adoption, the County shall provide to the Association President a copy of any new or
 proposed modification to an existing rule, policy, and/or procedural statement which directly relates to
@@ -1746,7 +1746,7 @@ President with notice of the plan to adopt. The date this notice is sent to the 
 trigger the start of the timeline to file a demand to bargain.
 
 
-ARTICLE 31 – CONTRACTING OUT
+### ARTICLE 31 – CONTRACTING OUT
 
 Section 1. Definition. “Contracting out” is defined as follows: Entering into an agreement/contract
 with the private sector or public agency to provide a service previously performed by bargaining unit
@@ -1793,7 +1793,7 @@ appointing authority shall select the most qualified applicant.
 
 
 
-ARTICLE 32 – TEMPORARY EMPLOYEES
+### ARTICLE 32 – TEMPORARY EMPLOYEES
 
 Section 1. Definitions.
 
@@ -1838,7 +1838,7 @@ continuing their employment as a temporary employee doing temporary work.
 
 
 
-ARTICLE 33 – DRUG AND ALCOHOL USE AND TESTING
+### ARTICLE 33 – DRUG AND ALCOHOL USE AND TESTING
 
 Section 1. The Association agrees to the reasonable suspicion testing as outlined in the County’s Drug
 and Alcohol Use and Testing policy.
@@ -1888,7 +1888,7 @@ the Association and its members:
 
 
 
-ARTICLE 34 – LIFE OF AGREEMENT AND TERMINATION
+### ARTICLE 34 – LIFE OF AGREEMENT AND TERMINATION
 
 Section 1. This Agreement shall take effect July 1, 2024, and shall be in full force and effect through
 June 30, 2026. If either party wishes to renew or modify the Agreement as of July 1, 2026, notification

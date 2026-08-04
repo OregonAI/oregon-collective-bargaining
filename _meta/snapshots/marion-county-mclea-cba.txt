@@ -96,7 +96,7 @@ Board or Sheriff in accordance with those statutes.
 The parties agree as follows:
 
 
-ARTICLE 1 – RECOGNITION
+### ARTICLE 1 – RECOGNITION
 
 The Employer recognizes the Association as the exclusive bargaining agent for all employees of the
 Marion County Sheriff's Office, except 1) non-sworn personnel in community relations and business
@@ -107,7 +107,7 @@ regular work schedule in a regular position and does not include members of the 
 temporary employees.
 
 
-ARTICLE 2 – MANAGEMENT’S RIGHTS
+### ARTICLE 2 – MANAGEMENT’S RIGHTS
 
 It is recognized that an area of responsibility and authority must be reserved to the Board and the Sheriff
 if county government is to serve the public effectively. Except to the extent expressly abridged by a
@@ -147,7 +147,7 @@ the open negotiation period before termination as provided in Article 43, Life o
 Termination.
 
 
-ARTICLE 3 – OFFICE RULES, POLICIES, AND PROCEDURES
+### ARTICLE 3 – OFFICE RULES, POLICIES, AND PROCEDURES
 
 Section 1. Prior to planned adoption, the Sheriff shall provide to the Association a copy of any new or
 proposed modification to an existing rule, policy, and/or procedural statement, which directly relates to
@@ -174,7 +174,7 @@ and/or changes in current rules, policies, and procedures, which are mandatory s
 
 
 
-ARTICLE 4 – CHECK OFF
+### ARTICLE 4 – CHECK OFF
 
 Section 1. Applications for Association membership shall first come to the Association. The Association
 will submit membership applications to the Employer. For all membership applications submitted by the
@@ -196,7 +196,7 @@ increase or decrease during the term of this agreement.
 
 
 
-ARTICLE 5 – HOURS OF WORK
+### ARTICLE 5 – HOURS OF WORK
 
 Section 1. Regular Hours. The hours of work for each day shall be consecutive, except for interruptions
 for lunch and rest periods unless otherwise agreed to by the Sheriff and the employee.
@@ -320,7 +320,7 @@ time or compensatory time, shall be charged on an hour-for-hour basis.
 
 
 
-ARTICLE 6 – REST PERIODS AND LUNCH BREAK
+### ARTICLE 6 – REST PERIODS AND LUNCH BREAK
 
 Section 1. Except for emergencies, employees shall receive two (2) rest periods of fifteen (15) minutes
 each during each work shift. It is the Employer's responsibility to provide relief coverage for breaks.
@@ -362,7 +362,7 @@ and whenever possible, employees shall be provided with lunchroom facilities.
 
 
 
-ARTICLE 7 – HOLIDAYS
+### ARTICLE 7 – HOLIDAYS
 
 Section 1. Holidays. The following shall be recognized and observed as guaranteed paid holidays for
 full-time regular employees:
@@ -410,7 +410,7 @@ employee will be granted a day off during that week adjacent to the employee’s
 employees will not receive holiday pay otherwise required by this section.
 
 
-ARTICLE 8 – VACATIONS
+### ARTICLE 8 – VACATIONS
 
 Section 1. Vacation Accumulation. After having served in the county service for six (6) consecutive,
 continuous months, full-time employees shall have access to accrued vacation leave. Vacation leave
@@ -523,7 +523,7 @@ the lower salary schedule. Employees may exercise the opt-out by giving notice b
 be effective the first full pay period after July 1 of the same year.
 
 
-ARTICLE 9 – SICK LEAVE
+### ARTICLE 9 – SICK LEAVE
 
 Section 1. All employees accrue sick leave benefits as an insurance against the impact of illness or
 injury. Each employee shall accrue 3.693 sick leave hours for each full pay period. All annual sick leave
@@ -591,7 +591,7 @@ following year. The personal days shall be scheduled in accordance with Ar�cle
 
 
 
-ARTICLE 10 – PROTECTED LEAVE
+### ARTICLE 10 – PROTECTED LEAVE
 
 Protected leave is available for qualifying employees in the form of family, medical, domestic violence,
 and military leave in conformance with the Family Medical Leave Act (FMLA), Oregon Family Medical
@@ -610,7 +610,7 @@ resolved by the application of the appropriate federal and/or state statute.
 
 
 
-ARTICLE 11 – OTHER LEAVES
+### ARTICLE 11 – OTHER LEAVES
 
 Section 1. Absence With Pay. An employee holding a position in the county service shall be granted a
 leave of absence with pay for: (a) service with jury; (b) appearance before a court, legislative committee
@@ -725,7 +725,7 @@ and in a manner that will provide adequate staff to maintain service.
 
 
 
-ARTICLE 12 – HEALTH, WELFARE, AND RETIREMENT BENEFITS
+### ARTICLE 12 – HEALTH, WELFARE, AND RETIREMENT BENEFITS
 
 Section 1. Medical and Dental Insurance. The Employer agrees to continue to provide an HMO and a
 PPO medical plan options and two (2) dental plan options. The parties recognize the County may change
@@ -809,7 +809,7 @@ employees can contribute pre-tax dollars for health insurance, childcare and oth
 
 
 
-ARTICLE 13 – WAGE ADJUSTMENT
+### ARTICLE 13 – WAGE ADJUSTMENT
 
 Section 1. Effective and retroactive to July 1, 2024, employees shall receive a four percent (4%) cost of
 living adjustment.
@@ -837,7 +837,7 @@ range. In addition to the new contract language stated above, all employees curr
 longevity pay will be placed on the corresponding longevity step.
 
 
-ARTICLE 14 – PAY ADMINISTRATION
+### ARTICLE 14 – PAY ADMINISTRATION
 
 Section 1. Pay Plan. The Employer hereto adopted a pay plan under which employees covered by this
 agreement have and shall continue to be compensated. A copy of that plan is attached hereto, marked
@@ -1004,7 +1004,7 @@ Section 14. Education Incentive Pay.
 
 
 
-ARTICLE 15 – ACTING IN CAPACITY
+### ARTICLE 15 – ACTING IN CAPACITY
 
 Any employee temporarily designated as acting in the capacity of a position in a classification with a
 higher pay range than their regular classification shall receive a five percent (5%) increase or Step 1 of
@@ -1016,7 +1016,7 @@ result in overtime.
 
 
 
-ARTICLE 16 – CALL-IN TIME
+### ARTICLE 16 – CALL-IN TIME
 
 An employee called to work outside their regular work schedule shall be paid for a minimum of four (4)
 hours at the rate of time-and-one-half (1½). This section shall not apply to early call-out (within one (1)
@@ -1024,7 +1024,7 @@ hour before a shift) or an extension of a regular shift.
 
 
 
-ARTICLE 17 – ROTATIONAL ON-CALL SCHEDULE
+### ARTICLE 17 – ROTATIONAL ON-CALL SCHEDULE
 
 Employees assigned to a rotational on-call schedule shall be compensated for each regularly scheduled
 workday of a rotational on-call assignment at the rate of two (2) times a top step basic deputy's hourly
@@ -1032,7 +1032,7 @@ pay rate.
 
 
 
-ARTICLE 18 – COURT APPEARANCES
+### ARTICLE 18 – COURT APPEARANCES
 
 Section 1. Off-duty employees required to appear before a court of law, in connection with their regular
 duties, shall receive a minimum of four (4) hours overtime pay at the rate of time-and-one-half (1½) or a
@@ -1054,7 +1054,7 @@ appearance such as testifying for a few minutes at Grand Jury.
 
 
 
-ARTICLE 19 – PARKING
+### ARTICLE 19 – PARKING
 
 The Employer shall continue its practice of providing free parking for all bargaining unit members except
 for those who work in the downtown courthouse area. For those clerical employees, who perform shift
@@ -1066,7 +1066,7 @@ to perform their work, for parking the county vehicles at any worksite location.
 
 
 
-ARTICLE 20 – OVERTIME
+### ARTICLE 20 – OVERTIME
 
 Section 1. The following shall be regarded as hours worked for the purpose of computing overtime
 hours for employees: (a) holidays; (b) vacation leave; (c) paid sick leave; (d) time on the job; and (e)
@@ -1165,7 +1165,7 @@ Section 8.
 
 
 
-ARTICLE 21 – PAYDAY
+### ARTICLE 21 – PAYDAY
 
 The Employer shall pay Association members on a bi-weekly basis using the same schedule as applicable
 for all other county employees. This section shall not apply where circumstances exist beyond the
@@ -1173,7 +1173,7 @@ control of the Employer, which cause a delay in the issuing of such checks.
 
 
 
-ARTICLE 22 – TRAVEL ALLOWANCES
+### ARTICLE 22 – TRAVEL ALLOWANCES
 
 Section 1. Mileage Reimbursement. Upon prior approval by the supervisor, mileage reimbursement for
 the use of private vehicles shall be at the current IRS mileage rate for business use of an automobile.
@@ -1199,7 +1199,7 @@ employee has received prior approval for the travel. Receipts are required for a
 
 
 
-ARTICLE 23 – TRANSPORTING PRISONERS
+### ARTICLE 23 – TRANSPORTING PRISONERS
 
 Section 1. The Employer shall reimburse the actual cost of lodging, meals and other related
 transportation expenses on an actual cost basis. Except in the case of an emergency, the employee shall
@@ -1212,7 +1212,7 @@ correctional facility, especially at a hospital, shall be furnished with a prope
 
 
 
-ARTICLE 24 – CLOTHING ALLOWANCE
+### ARTICLE 24 – CLOTHING ALLOWANCE
 
 Section 1. If an employee is required to wear a uniform, it shall be furnished and maintained by the
 Employer according to present practice.
@@ -1235,7 +1235,7 @@ Section 4. Any bargaining unit office worker required to wear a uniform shall be
 yearly allowance and maintenance provided by the Employer to other bargaining unit members.
 
 
-ARTICLE 25 – HEALTH AND SAFETY REGULATIONS
+### ARTICLE 25 – HEALTH AND SAFETY REGULATIONS
 
 Section 1. The Employer agrees to abide by and maintain in its facilities and work operations standards
 of safety and health in accordance with the Oregon Safe Employment Act.
@@ -1253,7 +1253,7 @@ with unless an emergency situation exists.
 
 
 
-ARTICLE 26 – TRIAL SERVICE PERIOD
+### ARTICLE 26 – TRIAL SERVICE PERIOD
 
 Section 1. Employees, who are not certified and are hired into certified positions, shall serve an initial
 trial service period of eighteen (18) continuous months. Employees, who are certified and are hired into
@@ -1294,7 +1294,7 @@ notice of termination.
 
 
 
-ARTICLE 27 – DISCIPLINE AND DISCHARGE
+### ARTICLE 27 – DISCIPLINE AND DISCHARGE
 
 Section 1. Disciplinary action may be imposed upon an employee only for just cause using the principles
 of progressive discipline.
@@ -1460,7 +1460,7 @@ G. Prior to being interviewed regarding an internal affairs investigation and al
 
 
 
-ARTICLE 28 – LAYOFF
+### ARTICLE 28 – LAYOFF
 
 Section 1. For employees hired to the office before November 30, 2011, "county seniority" will be used
 for determining seniority for provisions of this article. For employees hired to the office on or after
@@ -1553,7 +1553,7 @@ recalling laid off employees.
 
 
 
-ARTICLE 29 – GENERAL PROVISIONS
+### ARTICLE 29 – GENERAL PROVISIONS
 
 Section 1. No Discrimination. The provisions of this agreement shall be applied equally to all
 employees in the bargaining unit without discrimination as to age, marital status, race, color, creed, sex,
@@ -1568,7 +1568,7 @@ reasonably used by the Association representatives for Association purposes.
 
 
 
-ARTICLE 30 – TUITION ASSISTANCE
+### ARTICLE 30 – TUITION ASSISTANCE
 
 Section 1. Tuition aid is defined as full or partial payment or reimbursement for the costs of training
 sessions, classes or formal academic course work pursued on a part-time basis either during or after
@@ -1595,7 +1595,7 @@ under this section will normally not exceed one (1) year.
 
 
 
-ARTICLE 31 – OUTSIDE EMPLOYMENT
+### ARTICLE 31 – OUTSIDE EMPLOYMENT
 
 The Sheriff may approve outside employment when such employment does not detract from the
 efficiency of the employee's county work, and does not conflict with the interest of Marion County or is
@@ -1605,7 +1605,7 @@ Requests for outside employment shall not be unreasonably withheld.
 
 
 
-ARTICLE 32 – ASSOCIATION REPRESENTATIVES
+### ARTICLE 32 – ASSOCIATION REPRESENTATIVES
 
 Section 1. The employees in the bargaining unit shall be allowed Association representatives. The
 Association shall notify the Employer of the employees who will act as Association representatives.
@@ -1639,7 +1639,7 @@ granted unpaid leave, not to exceed two and one-half (2½) hours per month, per 
 
 
 
-ARTICLE 33 – SETTLEMENT OF DISPUTES
+### ARTICLE 33 – SETTLEMENT OF DISPUTES
 
 Section 1. Grievance Procedure. Any grievance or dispute, which may arise between the parties with
 regard to the application, meaning or interpretation of this agreement shall be settled in the following
@@ -1716,7 +1716,7 @@ of the parties.
             MARION COUNTY LAW ENFORCEMENT ASSOCIATION COLLECTIVE BARGAINING AGREEMENT
                                                                              2024-2026
 
-ARTICLE 34 – LIABILITY INSURANCE
+### ARTICLE 34 – LIABILITY INSURANCE
 
 Section 1. All members of the bargaining unit are covered by the provisions of the Oregon Tort Claims
 Act as amended.
@@ -1732,13 +1732,13 @@ employment for the conduct arising out of the criminal charges, either filed or 
 jury and said discipline is upheld through the grievance arbitration process.
 
 
-ARTICLE 35 – DEFERRED COMPENSATION
+### ARTICLE 35 – DEFERRED COMPENSATION
 
 The Employer agrees to continue a deferred compensation program if allowed by state or federal law.
 
 
 
-ARTICLE 36 – DEPARTMENTAL RELIEF WORK
+### ARTICLE 36 – DEPARTMENTAL RELIEF WORK
 
 If the Sheriff determines it necessary to hire or use additional personnel for vacation, training or sick
 relief, such replacement personnel for one (1) shift or less shall be selected from bargaining unit
@@ -1750,7 +1750,7 @@ perform the work.
 
 
 
-ARTICLE 37 – TRAINING
+### ARTICLE 37 – TRAINING
 
    A. A minimum of forty (40) hours of in-service training shall be mandatory for all DPSST certified
       personnel. Of the forty (40) hours of in-service training provided to DPSST-certified personnel, a
@@ -1775,7 +1775,7 @@ ARTICLE 37 – TRAINING
        2. The in-service training schedule shall be published thirty (30) days in advance of the training.
 
 
-ARTICLE 38 – EXTRA WORK
+### ARTICLE 38 – EXTRA WORK
 
 Extra work shall be distributed equally, as is feasible, among employees who volunteer and are qualified
 to perform the kind of work required by the extra work assignment.
@@ -1787,7 +1787,7 @@ practice or protocols in applying this article.
 
 
 
-ARTICLE 39 – SCOPE OF AGREEMENT
+### ARTICLE 39 – SCOPE OF AGREEMENT
 
 This document constitutes the sole and complete agreement between the Association and the Employer
 and embodies all the terms and conditions governing the employment of employees in the negotiating
@@ -1798,7 +1798,7 @@ less than the level in effect at the time of the signing of this agreement.
 
 
 
-ARTICLE 40 – DEMOTIONS INTO THE ASSOCIATION’S BARGAINING UNIT
+### ARTICLE 40 – DEMOTIONS INTO THE ASSOCIATION’S BARGAINING UNIT
 
 The Sheriff may elect to demote for cause or budgetary reasons a certified supervisor to deputy sheriff
 or a civilian supervisor who has experience in a represented position as a department employee
@@ -1808,7 +1808,7 @@ indirectly, to allow a supervisor to demote into the Association’ bargaining u
             MARION COUNTY LAW ENFORCEMENT ASSOCIATION COLLECTIVE BARGAINING AGREEMENT
                                                                              2024-2026
 
-ARTICLE 41 – DRUG AND ALCOHOL TESTING
+### ARTICLE 41 – DRUG AND ALCOHOL TESTING
 
 Section 1. The parties agree there will be no random drug testing of employees other than those
 employees required to maintain a commercial driver’s license (CDL).
@@ -1842,7 +1842,7 @@ that conflicts with this article.
 
 
 
-ARTICLE 42 – FITNESS FOR DUTY TESTING
+### ARTICLE 42 – FITNESS FOR DUTY TESTING
 
 From time to time the Sheriff may require an employee to undergo psychological or physical evaluations
 to ensure an employee is fit to perform the duties of their position or to monitor the welfare of the
@@ -1868,7 +1868,7 @@ with applicable state and federal regulations.
 
 
 
-ARTICLE 43 – LIFE OF AGREEMENT AND TERMINATION
+### ARTICLE 43 – LIFE OF AGREEMENT AND TERMINATION
 
 This agreement shall terminate June 30, 2026. If either party wishes to renew or modify this agreement
 as of its termination, the party shall give written notice of its intent to renew or modify to the other
@@ -1886,7 +1886,7 @@ include all such letters of agreement.
 
 
 
-ARTICLE 44 – SAVINGS CLAUSE
+### ARTICLE 44 – SAVINGS CLAUSE
 
 Should any section or portion thereof of this agreement be held unlawful and unenforceable by any
 court of competent jurisdiction, be in violation of or made illegal through enactment of federal or state
@@ -1897,7 +1897,7 @@ immediately to negotiate a substitute, if possible, for the invalidated section 
             MARION COUNTY LAW ENFORCEMENT ASSOCIATION COLLECTIVE BARGAINING AGREEMENT
                                                                              2024-2026
 
-ARTICLE 45 – DEFINITIONS
+### ARTICLE 45 – DEFINITIONS
 
 Unless another meaning is specifically provided in a given article or section, the following definitions
 apply to these terms as used throughout this agreement:

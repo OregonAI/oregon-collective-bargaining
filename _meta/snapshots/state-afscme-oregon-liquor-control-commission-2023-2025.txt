@@ -155,7 +155,7 @@ Relations Board.
 
 NOW, THEREFORE, IT IS AGREED AS FOLLOWS:
 
-                                         ARTICLE 1 - RECOGNITION
+### ARTICLE 1 - RECOGNITION
 
 Section 1.1
 The Employer and the Agency recognize the Union as the sole and exclusive bargaining
@@ -173,7 +173,7 @@ This Agreement binds the Union and any person designated by it to act on behalf 
 Union. Likewise, this Agreement binds the Employer and the Agency and any person
 designated by it to act on their behalf.
 
-                                  ARTICLE 2 - MANAGEMENT RIGHTS
+### ARTICLE 2 - MANAGEMENT RIGHTS
 
 The parties agree that the Employer and the Agency have the right to operate and manage
 the Agency, including, but not limited to the right to maintain order and efficiency; to direct
@@ -187,7 +187,7 @@ employees; to require reasonable overtime work of employees; and to promulgate r
 regulations and personnel policies, provided that such rights shall not be exercised so as
 to violate any of the specific provisions of this agreement.
 
-                                        ARTICLE 3 - UNION RIGHTS
+### ARTICLE 3 - UNION RIGHTS
 
 Section 3.1
 The Union will select certain of its agents who are not Agency employees as "Union
@@ -447,7 +447,7 @@ International Conventions, the following provisions apply:
                                                                                   REV: 2015, 2017,2019
 
 
-                               ARTICLE 4 - LAWS AND REGULATIONS
+### ARTICLE 4 - LAWS AND REGULATIONS
 
 This Agreement is subject to all applicable existing and future laws of the State of Oregon
 and the United States. In the event of a conflict between a provision of this Agreement
@@ -458,7 +458,7 @@ the terms of this Agreement shall prevail.
 
 
 2023-2025 Oregon Liquor and Cannabis Commission   6                        Collective Bargaining Agreement
-                                   ARTICLE 5 - UNIT CLARIFICATION
+### ARTICLE 5 - UNIT CLARIFICATION
 
 Any dispute concerning bargaining unit composition shall be resolved by the Employment
 Relations Board.
@@ -468,7 +468,7 @@ exclusions to the Union along with position descriptions. Those positions questi
 the Union shall be discussed with the Employer within ten (10) days from the date of
 notification.
 
- ARTICLE 6 - EQUAL EMPLOYMENT OPPORTUNITY AND AFFIRMATIVE ACTION
+### ARTICLE 6 - EQUAL EMPLOYMENT OPPORTUNITY AND AFFIRMATIVE ACTION
 
 Section 6.1
 The provisions of this Agreement shall apply equally to all employees in the bargaining
@@ -488,7 +488,7 @@ shall advise the employee and the Union in writing, within fifteen (15) calendar
 completion of the investigation of the Agency's position. If the complaint is not satisfactorily
 resolved, the employee may submit the complaint to the Bureau of Labor for resolution.
 
-                                          ARTICLE 7 - DEFINITIONS
+### ARTICLE 7 - DEFINITIONS
 
 AGENCY LAYOFF LIST - Means a list of laid off persons who have been regular status
 employees in a particular class in the Agency and who are entitled to have their names
@@ -564,15 +564,15 @@ position to which they have been certified and appointed.
 UNDERFILLING - Means employment of a person to a classification lower than the
 allocated class of the position.
 
-          ARTICLE 8 - AVAILABILITY OF THE PARTIES TO EACH OTHER
+### ARTICLE 8 - AVAILABILITY OF THE PARTIES TO EACH OTHER
 The parties agree that the Employer and representatives of the Union are each obligated
 to meet at reasonable times, at the request of the other party for discussion of the
 agreement, its interpretation, continuation or modification. Both parties pledge to meet
 expeditiously and in good faith.
 
-                                    ARTICLE 9 - DELETED 2019-2021
+### ARTICLE 9 - DELETED 2019-2021
 
-                 ARTICLE 10 - COMPLETE AGREEMENT/PAST PRACTICES
+### ARTICLE 10 - COMPLETE AGREEMENT/PAST PRACTICES
 
 Section 10.1
 Complete Agreement. Pursuant to their statutory obligations to bargain in good faith, the
@@ -654,7 +654,7 @@ Section 10.2
          part of the record. Failure to act within the time limits waives any rights to further
          consideration in the matter.
 
-                          ARTICLE 11 - AGENCY PERSONNEL POLICIES
+### ARTICLE 11 - AGENCY PERSONNEL POLICIES
 
 The Agency shall provide a copy of its written personnel policies to the Union within ten
 (10) days of implementation. When a change of a policy occurs, a copy will be sent to the
@@ -665,7 +665,7 @@ Union.
 
 
 2023-2025 Oregon Liquor and Cannabis Commission   10                     Collective Bargaining Agreement
-                            ARTICLE 12 - DISCIPLINE AND DISCHARGE
+### ARTICLE 12 - DISCIPLINE AND DISCHARGE
 
 Section 12.1
 The principles of progressive discipline which normally begin with verbal warning shall be
@@ -774,7 +774,7 @@ a timely manner.
                                                                                       REV: 2019, 2021
 
 
-                               ARTICLE 13 - GRIEVANCE PROCEDURE
+### ARTICLE 13 - GRIEVANCE PROCEDURE
 
 Section 13.1
 A grievance is a dispute which arises concerning the application, meaning or interpretation
@@ -935,7 +935,7 @@ J.       The arbitration award shall not establish a precedent for any current o
                                                                               REV: 2015 ,2019, 2021
 
 
-                                      ARTICLE 14 - JOB STEWARDS
+### ARTICLE 14 - JOB STEWARDS
 
 Section 14.1
 Up to fifteen (15) Job Stewards shall be allowed to ensure access to all Agency
@@ -983,7 +983,7 @@ Steward training session.
                                                                                          REV: 2017
 
 
-                                ARTICLE 15 - PERSONNEL RECORDS
+### ARTICLE 15 - PERSONNEL RECORDS
 
 Section 15.1.
 The Chief Human Resources Office human resource information system is the system of
@@ -1078,7 +1078,7 @@ subject employee.
                                                                                REV: 2015,2019, 2021
 
 
-                                ARTICLE 16 - FILLING OF VACANCIES
+### ARTICLE 16 - FILLING OF VACANCIES
 
 Section 16.1
 Except when recalling employees from a layoff list or using reemployment to fill a vacancy,
@@ -1115,7 +1115,7 @@ promotion within the bargaining unit.
                                                                                       REV: 2021,2023
 
 
-                      ARTICLE 17 - LIMITED DURATION APPOINTMENTS
+### ARTICLE 17 - LIMITED DURATION APPOINTMENTS
 
 Section 17.1
 Persons may be hired for special studies or projects of uncertain or limited duration which
@@ -1168,7 +1168,7 @@ from the position through a limited duration appointment.
 Article 17.6
 Article 16.1 will not apply to limited duration appointments.
 
-                              ARTICLE 18 - INVOLUNTARY TRANSFER
+### ARTICLE 18 - INVOLUNTARY TRANSFER
 
 Section 18.1
 If, after a reasonable time, the Agency cannot fill a vacancy in accordance with Article 16,
@@ -1192,7 +1192,7 @@ Section 18.4
 The Agency shall not transfer an employee from a filled position to a vacant position on
 an arbitrary basis.
 2023-2025 Oregon Liquor and Cannabis Commission   20                     Collective Bargaining Agreement
-                                       ARTICLE 19 - TRIAL SERVICE
+### ARTICLE 19 - TRIAL SERVICE
 
 Section 19.1
 The trial service period is an extension of the selection process and is the time immediately
@@ -1280,7 +1280,7 @@ d.       This Subsection applies to employees beginning their promotional trial 
 
 
 
-            ARTICLE 20 - CLASSIFICATION AND CLASSIFICATION CHANGES
+### ARTICLE 20 - CLASSIFICATION AND CLASSIFICATION CHANGES
 
 Section 20.1 Work Out of Classification.
 a.    Higher Classification: When the Agency assigns an employee, in writing, for a
@@ -1499,7 +1499,7 @@ This Section supersedes any provisions contained in the Agency’s grievance pro
                                                                            REV: 2015, 2017, 2021,2023
 
 
-                                   ARTICLE 21 - CONTRACTING OUT
+### ARTICLE 21 - CONTRACTING OUT
 
 Section 21.1
 The Union recognizes that the Employer has the management right, during the term of this
@@ -1597,7 +1597,7 @@ accomplish the work in the future for Agency initiated contracts. Decisions arou
 reviewing of contracted work are not subject to the grievance procedure.
 SEE LOA: Contracting Out
 
-                                             ARTICLE 22 - LAYOFF
+### ARTICLE 22 - LAYOFF
 
 Section 22.1 Alternatives to Layoff.
 a.    When the Agency believes that a lack of funds requires a layoff, the Agency will
@@ -1917,7 +1917,7 @@ d.       Procedures:
                                                                                                   REV: 2015
 
 
-                            ARTICLE 23 - PAYDAY AND PAY ADVANCES
+### ARTICLE 23 - PAYDAY AND PAY ADVANCES
 
 Section 23.1
 All employees shall normally be paid no later than the first of the month. When a payday
@@ -1943,7 +1943,7 @@ be at least one hundred dollars ($100). Employees may submit requests up to the 
 monthly payroll cut off date. If any employee requests more than one (1) pay advance in
 any twelve (12)-month period, management has the right to deny it.
 
-                                  ARTICLE 24 - HEALTH AND SAFETY
+### ARTICLE 24 - HEALTH AND SAFETY
 
 Section 24.1
 The Employer agrees to abide by standards of safety and health in accordance with the
@@ -2075,7 +2075,7 @@ G.       No employee shall be subject to retaliation for reporting or filing a c
                                                                             REV: 2015, 2017,2019,2023
 
 
-         ARTICLE 25 – EDUCATION, TRAINING AND CAREER DEVELOPMENT
+### ARTICLE 25 – EDUCATION, TRAINING AND CAREER DEVELOPMENT
 
 Section 25.1
 Career Development increases opportunities for employees to gain experience they need
@@ -2140,7 +2140,7 @@ purposes shall be informed in writing of the purpose and length of the assignmen
 which there shall be no extra pay for the work. Such assignment shall not exceed six (6)
 months. A copy of the notice shall be placed in the employee's file.
 
-             ARTICLE 26 - WORKWEEK, WORKDAY AND WORK SCHEDULE
+### ARTICLE 26 - WORKWEEK, WORKDAY AND WORK SCHEDULE
 
 Section 26.1
 a.    Except for employees working work schedules F and M, the workweek is defined
@@ -2331,7 +2331,7 @@ workweek.
 SEE LOA: Warehouse Schedules and Shift Bidding
                                                                                    REV: 2019, 2021
 
-                                     ARTICLE 27 - REPORTING TIME
+### ARTICLE 27 - REPORTING TIME
 
 Section 27.1
 Reporting time is the time designated or recognized as the start of the daily work shift or
@@ -2379,7 +2379,7 @@ by seniority within classification.
                                                                                          REV: 2015
 
 
-                   ARTICLE 28 - SCHEDULING COMPENSATORY TIME OFF
+### ARTICLE 28 - SCHEDULING COMPENSATORY TIME OFF
 
 Section 28.1
 Subject to the bona fide operating requirements of the Agency, an employee shall have
@@ -2442,7 +2442,7 @@ and LDEO).
                   time off requests received after the second Friday in October, the employee
                   who first requests the time off is entitled to the time off.
 
-      ARTICLE 29 - INCLEMENT WEATHER/HAZARDOUS CONDITIONS LEAVE
+### ARTICLE 29 - INCLEMENT WEATHER/HAZARDOUS CONDITIONS LEAVE
 
 Section 29.1
 A.    The Employer/Agency designated official(s) may close or curtail offices, facilities,
@@ -2596,7 +2596,7 @@ and/or hazardous conditions.
                                                                              REV: 2017, 2021,2023
 
 
-                                           ARTICLE 30 - HOLIDAYS
+### ARTICLE 30 - HOLIDAYS
 
 Section 30.1
 The following compensable holidays shall be recognized:
@@ -2703,7 +2703,7 @@ may require advance notice with a cutoff date.
                                                                           REV: 2015, 2017, 2021,2023
 
 
-                                     ARTICLE 31 - VACATION LEAVE
+### ARTICLE 31 - VACATION LEAVE
 
 Section 31.1
 Full-time classified employees shall accrue vacation leave in accordance with the
@@ -2917,7 +2917,7 @@ leave is not appropriate.
                                                                        REV: 2015, 2017, 2019, 2021,2023
 
 
-                                         ARTICLE 32 - SICK LEAVE
+### ARTICLE 32 - SICK LEAVE
 
 Section 32.1 Accrual Rate of Sick Leave With Pay Credits.
 Employees shall accrue eight (8) hours of sick leave with pay credits for each full month
@@ -3062,7 +3062,7 @@ employee is transferred to or from a different State Agency.
                                                                                            REV: 2017
 
 
-                                      ARTICLE 33 - OTHER LEAVES
+### ARTICLE 33 - OTHER LEAVES
 
 Section 33.1 Personal Leave.
 After six (6) full calendar months of Agency service, full-time employees shall be entitled
@@ -3222,7 +3222,7 @@ Requirements outlined in Article 32.8 related to “prolonged injury or illness�
                                                                               REV: 2015, 2019, 2021
 
 
-                               ARTICLE 34 - POSITION DESCRIPTIONS
+### ARTICLE 34 - POSITION DESCRIPTIONS
 
 Position descriptions shall be reduced to writing and delineate the specific duties assigned
 to an employee's position. A dated copy of the position description shall be given
@@ -3244,7 +3244,7 @@ upon request once per year.
 
 
 2023-2025 Oregon Liquor and Cannabis Commission   59                    Collective Bargaining Agreement
-                              ARTICLE 35 - SALARY ADMINISTRATION
+### ARTICLE 35 - SALARY ADMINISTRATION
 
 Section 35.1 Step Salary Increase.
 Employees shall be eligible for a step salary increase on their step salary increase date
@@ -3307,7 +3307,7 @@ a position in the same classification or successor classification in which he or
 previously employed, the employee shall be paid at the same salary range or successor
 salary range and step at which the employee was being paid at the time of separation.
 
-                                          ARTICLE 36 - OVERTIME
+### ARTICLE 36 - OVERTIME
 
 Section 36.1
 This Article is intended only to provide a basis for the calculation of overtime and none of
@@ -3434,7 +3434,7 @@ Operators. This provision shall not apply to employees on travel status.
                                                                                            REV: 2023
 
 
-                                  ARTICLE 37 - SHIFT DIFFERENTIAL
+### ARTICLE 37 - SHIFT DIFFERENTIAL
 
 Section 37.1
 The Agency will pay a shift differential to an employee whose scheduled shift includes
@@ -3459,13 +3459,13 @@ Shift Differential rate of pay shall not be pyramided.
                                                                                      REV: 2015,2023
 
 
-                              ARTICLE 38 - LANGUAGE DIFFERENTIAL
+### ARTICLE 38 - LANGUAGE DIFFERENTIAL
 
 When formally assigned in the employee’s position description, an employee assigned to
 interpret to or from another language to English will receive a differential of five percent
 (5%) of base pay.
 
-                                            ARTICLE 39 - ON CALL
+### ARTICLE 39 - ON CALL
 
 Section 39.1
 An employee shall be on on-call duty when their supervisor:
@@ -3501,7 +3501,7 @@ on-call duty for less than six (6) hours shall be paid on a prorated basis.
                                                                                            REV: 2023
 
 
-                            ARTICLE 40 - CALL BACK COMPENSATION
+### ARTICLE 40 - CALL BACK COMPENSATION
 
 Section 40.1
 Call back is an occasion where an employee has been released from duty and is called
@@ -3529,13 +3529,13 @@ C.       This section does not apply to overtime work which is essentially a con
 
 D.       This section does not apply to employees who are on on-call duty.
 
-                      ARTICLE 41 - EMERGENCY MESSAGE PROCEDURE
+### ARTICLE 41 - EMERGENCY MESSAGE PROCEDURE
 
 Emergency messages received by the Agency shall be delivered as soon as possible to
 the employee. The employee shall be immediately granted access to a telephone to
 inquire into the status of the emergency.
 
-                                ARTICLE 42 - HEALTH AND WELFARE
+### ARTICLE 42 - HEALTH AND WELFARE
 
 Section 42.1
 An employer contribution will be made for each eligible employees who has at least eighty
@@ -3598,7 +3598,7 @@ See LOA: PMAC
                                                                        REV: 2015, 2017,2019, 2021,2023
 
 
-                             ARTICLE 43 - WORKERS COMPENSATION
+### ARTICLE 43 - WORKERS COMPENSATION
 
 Section 43.1
 An employee who sustained a compensable injury shall be reinstated to their former
@@ -3627,7 +3627,7 @@ the Workers Compensation for lost time and the employee's regular salary rate. I
 instances, prorated charges will be made against accrued vacation and/or compensatory
 time.
 
-                                          ARTICLE 44 - UNIFORMS
+### ARTICLE 44 - UNIFORMS
 
 Section 44.1 All Employees
 If an employee is required by the Agency to wear a uniform or protective clothing, the
@@ -3666,7 +3666,7 @@ follows:
 
 
 2023-2025 Oregon Liquor and Cannabis Commission     67                  Collective Bargaining Agreement
-                      ARTICLE 45 - TRAVEL AND MILEAGE ALLOWANCE
+### ARTICLE 45 - TRAVEL AND MILEAGE ALLOWANCE
 
 Section 45.1 Travel and Mileage Allowance.
 Reimbursements and procedures will be in accordance with Oregon Accounting Manual,
@@ -3680,7 +3680,7 @@ Administrative Services, Chief Human Resource Office Policy 40.055.10, and its
 successors. Changes in this policy will be automatically incorporated into this contract
 Article.
 
-                       ARTICLE 46 - LABOR MANAGEMENT COMMITTEE
+### ARTICLE 46 - LABOR MANAGEMENT COMMITTEE
 
 The Agency has a labor management committee to facilitate communication and problem
 solving using the interest-based problem solving method to reach consensus. The
@@ -3704,14 +3704,14 @@ AFSCME Local 2505 have this authority and only by mutual consent.
 The committee actions do not affect the grievance and arbitration procedure described in
 Article 13 (Grievance Procedure).
 
-                                            ARTICLE 47 - PARKING
+### ARTICLE 47 - PARKING
 
 If there are any changes in parking rates for employees at any State owned or operated
 parking facility, the Employer shall provide the opportunity for the Union to offer input in
 the determination of such rates. The Union will be afforded the opportunity to offer
 suggestions, make recommendations and introduce any data deemed appropriate.
 
-                                           ARTICLE 48 - SALARIES
+### ARTICLE 48 - SALARIES
 
 Section 48.1 PERS Pickup
 Effective February 1, 2019 compensation plan salary rates for PERS participating
@@ -3756,7 +3756,7 @@ COLA
                                                                       REV: 2015, 2017, 2019, 2021,2023
 
 
-                            ARTICLE 49 - NEW AND REVISED CLASSES
+### ARTICLE 49 - NEW AND REVISED CLASSES
 
 Section 49.1 New/Revised Classes.
 Effective October 1, 2007, new and revised classifications will be established at the
@@ -3853,7 +3853,7 @@ class, can appeal their placement using the following process:
 
          f.       This process terminates upon completion of the allocation process.
 
-                   ARTICLE 50 - STRIKES, LOCKOUTS AND PICKET LINES
+### ARTICLE 50 - STRIKES, LOCKOUTS AND PICKET LINES
 
 The Union agrees that during the life of this Agreement, the Union or its bargaining unit
 members will not authorize, instigate, aid or engage in any work stoppage, slowdown,
@@ -3862,7 +3862,7 @@ or on its property.
 
 The Agency agrees that during the life of this Agreement there will be no lockout.
 
-                                  ARTICLE 51 - LEGISLATIVE ACTION
+### ARTICLE 51 - LEGISLATIVE ACTION
 
 Section 51.1
 Provisions of this Agreement not requiring legislative funding, or statutory changes, before
@@ -3881,7 +3881,7 @@ immediately meet, negotiate and agree on modifications or substitutions for the 
 portion or portions of this Agreement pursuant to the procedures provided by Article 52
 (Savings).
 
-                                            ARTICLE 52 - SAVINGS
+### ARTICLE 52 - SAVINGS
 
 In the event any provision of this Agreement is declared invalid by any court of competent
 jurisdiction or by ruling of the Employment Relations Board, then only such portion or
@@ -3892,7 +3892,7 @@ conformance therewith not over sixty (60) days after notification unless extende
 mutual agreement. If agreement on such matters is not reached within a reasonable
 period of time, the provision of Article 51 (Legislative Action) shall not apply.
 
-                            ARTICLE 53 - SUCCESSOR NEGOTIATIONS
+### ARTICLE 53 - SUCCESSOR NEGOTIATIONS
 
 Section 53.1
 It is recognized by the Employer that employees representing the Union during the process
@@ -3909,12 +3909,12 @@ for Union negotiating team members.
                                                                                    REV: 2017,2019
 
 
-                               ARTICLE 54 - AGENCY REASSIGNMENT
+### ARTICLE 54 - AGENCY REASSIGNMENT
 
 The Agency shall not reassign an employee to a different official station on an arbitrary
 basis.
 
-                        ARTICLE 55 - CLIENT COMPLAINT PROCEDURE
+### ARTICLE 55 - CLIENT COMPLAINT PROCEDURE
 
 Section 55.1
 When the Agency receives a written complaint against an employee of an alleged criminal
@@ -3951,7 +3951,7 @@ provided to both management and employees.
                                                                                             REV: 2019
 
 
-                                        ARTICLE 56 - JOB SHARING
+### ARTICLE 56 - JOB SHARING
 
 Section 56.1
 Any employee who wishes to participate in job sharing may submit a written request to the
@@ -3994,7 +3994,7 @@ If the above conditions are not available or acceptable, the employee agrees to 
                                                                                       REV: 2015, 2017
 
 
-              ARTICLE 58 - REIMBURSEMENT FOR PERSONAL PROPERTY
+### ARTICLE 58 - REIMBURSEMENT FOR PERSONAL PROPERTY
 
 Section 58.1
 Any employee who suffers an accident in the performance of authorized job duties
@@ -4036,12 +4036,12 @@ Section 1 of this Article, the Agency will notify the local police if the employ
 
 
 2023-2025 Oregon Liquor and Cannabis Commission   74                     Collective Bargaining Agreement
-                                    ARTICLE 59 - STATE PROPERTY
+### ARTICLE 59 - STATE PROPERTY
 
 Each employee shall make every reasonable effort to report any breakage, damage or
 theft of State property to their assigned supervisor.
 
-                                           ARTICLE 60 - VEHICLES
+### ARTICLE 60 - VEHICLES
 
 Section 60.1
 Commission vehicles will be parked nightly on State facilities except when:
@@ -4073,7 +4073,7 @@ and the Milport facility.
                                                                                                REV: 2015
 
 
-    ARTICLE 61 - RECOUPMENT OF WAGE/BENEFIT OVER/UNDERPAYMENTS
+### ARTICLE 61 - RECOUPMENT OF WAGE/BENEFIT OVER/UNDERPAYMENTS
 
 Section 61.1 Overpayments
 a.    In the event that an employee receives wages or benefits from the Agency to which
@@ -4137,7 +4137,7 @@ b.       This provision shall not apply to claims disputing eligibility for paym
                                                                                               REV: 2023
 
 
-                                 ARTICLE 62 - TERM OF AGREEMENT
+### ARTICLE 62 - TERM OF AGREEMENT
 
 Section 1.
 Unless otherwise noted in a specific article in the Agreement, this Agreement becomes
@@ -4158,7 +4158,7 @@ Negotiations for a successor agreement will start between February 15, 2025 and 
                                                                      REV: 2015, 2017, 2019, 2021,2023
 
 
-              ARTICLE 63 – TEMPORARY INTERRUPTION OF EMPLOYMENT
+### ARTICLE 63 – TEMPORARY INTERRUPTION OF EMPLOYMENT
 
 When the Employer declares that a temporary interruption of employment should be
 considered because of lack of funds, either party may provide the other with written notice
@@ -4170,7 +4170,7 @@ Complete Agreement articles of any of the Agreements or constitute interim negot
 under PECBA. In addition, the parties will not be required to use the dispute resolution
 process contained in the PECBA.
 
-                               ARTICLE 64 – QUARTERLY CHECK-INS
+### ARTICLE 64 – QUARTERLY CHECK-INS
 
 Section 64.1
 Supervisory managers shall conduct check-ins with their employees on a quarterly basis.
@@ -4186,7 +4186,7 @@ be used for discipline.
                                                                                       REV: 2021,2023
 
 
-                               ARTICLE 65 – TRAINING DIFFERENTIAL
+### ARTICLE 65 – TRAINING DIFFERENTIAL
 
 Section 65.1
 Training differential is a differential for employees who meet all of the following criteria:
@@ -4232,7 +4232,7 @@ through the grievance process as outlined in Article 13 (Grievance Procedure).
                                                                                             REV: 2017
 
 
-                             ARTICLE 66 – LEADWORK DIFFERENTIAL
+### ARTICLE 66 – LEADWORK DIFFERENTIAL
 
 Section 66.1
 Leadwork differential is a differential for employees who meet all of the following criteria:
@@ -4290,7 +4290,7 @@ days to allow all interested employees, including the incumbent leadworker, the
 opportunity to indicate their interest, in writing, in the leadwork assignment. At the end of
 the posting period management has the sole discretion to assign the leadwork.
 
-                   ARTICLE 67 – DISTRIBUTION CENTER DIFFERENTIALS
+### ARTICLE 67 – DISTRIBUTION CENTER DIFFERENTIALS
 
 The following differentials are utilized for Distribution Center employees only.
 
@@ -4351,7 +4351,7 @@ day, will receive a two and one half percent (2.5%) differential.
                                                                            REV: 2015, 2019, 2021,2023
 
 
-           ARTICLE 68 – ADVANCED MARIJUANA LICENSING DIFFERENTIAL
+### ARTICLE 68 – ADVANCED MARIJUANA LICENSING DIFFERENTIAL
 
 Section 68.1
 Advanced marijuana licensing differential is for employees who have been formally
@@ -4389,7 +4389,7 @@ Specialist are already receiving the advanced marijuana licensing differential.
                                                                                             REV: 2019
 
 
-                      ARTICLE 69 - VOLUNTARY MEDICAL SEPARATION
+### ARTICLE 69 - VOLUNTARY MEDICAL SEPARATION
 
 Section 69.1
 A regular status employee with a serious health condition who has exhausted all of their
@@ -4435,7 +4435,7 @@ following conditions are met:
                                                                                             NEW: 2019
 
 
-                                      ARTICLE 70 – EXIT INTERVIEWS
+### ARTICLE 70 – EXIT INTERVIEWS
 
 A.       If a regular status employee provides timely notice that they are voluntarily
          separating from Agency service, the Agency will offer an exit interview that focuses
@@ -4449,7 +4449,7 @@ C.       Upon request, but no more than two (2) times a year, the Union can rece
          employee feedback on their Agency experience.
                                                                                             NEW: 2019
 
-                                   ARTICLE 71 - WORKING REMOTELY
+### ARTICLE 71 - WORKING REMOTELY
 Section 71.1.
 Oregon state government encourages working remotely where it is a viable option that
 benefits both the employee and the agency. Use of remote work options promote the
@@ -4598,7 +4598,7 @@ These provisions are applicable to all Sections listed above.
                                                                                    NEW: 2021, REV: 2023
 
 
-                                          ARTICLE 72 – AIR QUALITY
+### ARTICLE 72 – AIR QUALITY
 
 Section 72.1.
 The Air Quality Index (AQI) was developed by the US Environmental Protection Agency as an
@@ -4623,7 +4623,7 @@ Weather/Hazardous Conditions apply for elevated AQI which falls under a Hazardou
 
 
 2023-2025 Oregon Liquor and Cannabis Commission      85                      Collective Bargaining Agreement
-                                    ARTICLE 73 - PAID LEAVE OREGON
+### ARTICLE 73 - PAID LEAVE OREGON
 
 Paid Leave Oregon is administered by the Oregon Employment Department. The State of
 Oregon, as an employer, shall comply with the provisions of Paid Leave Oregon, as
@@ -4645,7 +4645,7 @@ existing contract language relating to FMLA/OFLA.
 
 
 2023-2025 Oregon Liquor and Cannabis Commission   86                 Collective Bargaining Agreement
- LETTER OF AGREEMENT - ARTICLE 21 – CONTRACTING OUT - FEASIBILITY STUDY
+### LETTER OF AGREEMENT - ARTICLE 21 – CONTRACTING OUT - FEASIBILITY STUDY
 
 This Letter of Agreement is entered into between the State of Oregon Department of
 Administrative Services, on behalf of all State Agencies covered by the State of Oregon
@@ -4663,7 +4663,7 @@ This Agreement is effective through June 30, 2025.
 
 
 2023-2025 Oregon Liquor and Cannabis Commission   87                   Collective Bargaining Agreement
- LETTER OF AGREEMENT – ARTICLE 26 – WORK WEEK, WORKDAY AND WORK
+### LETTER OF AGREEMENT – ARTICLE 26 – WORK WEEK, WORKDAY AND WORK
         SCHEDULE, WAREHOUSE SCHEDULES AND SHIFT BIDDING
 
 Liquor Distribution Workers (LDW) 1 and 2, and Liquor Distribution Equipment Operations
@@ -4690,7 +4690,7 @@ This Letter of Agreement will sunset June 30, 2025.
 
 
 2023-2025 Oregon Liquor and Cannabis Commission   88                      Collective Bargaining Agreement
-LETTER OF AGREEMENT – ARTICLE 42 - PEBB MEMBER ADVISORY COMMITTEE
+### LETTER OF AGREEMENT – ARTICLE 42 - PEBB MEMBER ADVISORY COMMITTEE
 
 This Agreement is between the State of Oregon, acting through its Department of
 Administrative Services (Employer) and AFSCME Council 75 (Union).
@@ -4737,7 +4737,7 @@ This Agreement will sunset on June 30, 2025.
 
 
 2023-2025 Oregon Liquor and Cannabis Commission   89                   Collective Bargaining Agreement
-         LETTER OF AGREEMENT – ARTICLE 48 - SALARY AND BENEFIT REPORT
+### LETTER OF AGREEMENT – ARTICLE 48 - SALARY AND BENEFIT REPORT
 
 This Agreement is between the State of Oregon, acting through its Department of
 Administrative Services (DAS) and the AFSCME Local 75, (Union).
@@ -4757,7 +4757,7 @@ agreement.
 
 
 2023-2025 Oregon Liquor and Cannabis Commission   90               Collective Bargaining Agreement
-         LETTER OF AGREEMENT – ARTICLE 48 - SALARY RANGE TRUNCATION
+### LETTER OF AGREEMENT – ARTICLE 48 - SALARY RANGE TRUNCATION
 
 This Agreement is entered into between the State of Oregon, acting through its
 Department of Administrative Services (DAS), on behalf of the Agencies covered by this
@@ -4903,7 +4903,7 @@ Agreement (Agency) and the AFSCME Council 75 (Union).
 
 
 2023-2025 Oregon Liquor and Cannabis Commission   93                      Collective Bargaining Agreement
-            LETTER OF AGREEMENT – ARTICLE 48 – ONE-TIME PAYMENT COLA
+### LETTER OF AGREEMENT – ARTICLE 48 – ONE-TIME PAYMENT COLA
 
 This Agreement is entered into between the State of Oregon, acting through its
 Department of Administrative Services (DAS), and the AFSCME Local 75 (Union).
@@ -4924,7 +4924,7 @@ This Letter of Agreement will sunset on June 30, 2025.
 
 
 2023-2025 Oregon Liquor and Cannabis Commission   94                     Collective Bargaining Agreement
-           LETTER OF AGREEMENT – NEW EMPLOYEE NOTICE/UNION ACCESS
+### LETTER OF AGREEMENT – NEW EMPLOYEE NOTICE/UNION ACCESS
 
     1. Notice
           a. The Employer shall provide the Union, in an editable digital file format, the
@@ -4966,7 +4966,7 @@ This Letter of Agreement will sunset on June 30, 2025.
 
 
 2023-2025 Oregon Liquor and Cannabis Commission   95                  Collective Bargaining Agreement
-    LETTER OF AGREEMENT – OREGON UNIONS STATE WORKER TRAINING FUND
+### LETTER OF AGREEMENT – OREGON UNIONS STATE WORKER TRAINING FUND
 
 The Parties recognize that both the State and its workers benefit from workers
 understanding their different health care options, understanding their retirement benefits
@@ -5012,7 +5012,7 @@ The State Worker Training Fund will develop a plan to deliver trainings and prog
 
 
 2023-2025 Oregon Liquor and Cannabis Commission   96                  Collective Bargaining Agreement
-                        LETTER OF AGREEMENT – CONTRACT SPECIALIST
+### LETTER OF AGREEMENT – CONTRACT SPECIALIST
 
 This Agreement is between the State of Oregon, acting through its Department of
 Administrative Services (Employer) on behalf of all Agencies covered under the jurisdiction
@@ -5124,7 +5124,7 @@ This Agreement becomes effective on the date of the last signature and ends on J
 
 
 2023-2025 Oregon Liquor and Cannabis Commission   99               Collective Bargaining Agreement
-        LETTER OF AGREEMENT – DISTRIBUTION CENTER SAFETY SHIRTS
+### LETTER OF AGREEMENT – DISTRIBUTION CENTER SAFETY SHIRTS
 
 This Agreement is between the State of Oregon, acting through its Department of
 Administrative Services and the Oregon Liquor and Cannabis Commission (Employer) and
@@ -5166,7 +5166,7 @@ This Letter of Agreement will sunset June 30, 2025.
 
 
 2023-2025 Oregon Liquor and Cannabis Commission   100                  Collective Bargaining Agreement
-                       LETTER OF AGREEMENT – ACADEMY OVERTIME
+### LETTER OF AGREEMENT – ACADEMY OVERTIME
 
 This Agreement is executed by AFSCME Local 2505 (Union) and the State of Oregon,
 acting through the Department of Administrative Services, Labor Relations Unit
@@ -5203,7 +5203,7 @@ This Letter of Agreement expires on June 30, 2025.
 
 
 2023-2025 Oregon Liquor and Cannabis Commission   101                      Collective Bargaining Agreement
- LETTER OF AGREEMENT – STATE POLICY 107-011-040 FLEET MANAGEMENT
+### LETTER OF AGREEMENT – STATE POLICY 107-011-040 FLEET MANAGEMENT
                            UPDATES
 
 This Agreement is executed by AFSCME Local 2505 (Union) and the State of Oregon,
@@ -5221,7 +5221,7 @@ June 30, 2025.
 
 
 2023-2025 Oregon Liquor and Cannabis Commission   102              Collective Bargaining Agreement
-              LETTER OF AGREEMENT – WAREHOUSE BLACKOUT DATES
+### LETTER OF AGREEMENT – WAREHOUSE BLACKOUT DATES
 
 
 This Agreement is executed by AFSCME Local 2505 (Union) and the State of Oregon,
@@ -5243,7 +5243,7 @@ June 30, 2025.
 
 
 2023-2025 Oregon Liquor and Cannabis Commission   103              Collective Bargaining Agreement
-                        LETTER OF AGREEMENT – VERBAL DISCIPLINE
+### LETTER OF AGREEMENT – VERBAL DISCIPLINE
 
 This agreement is between the State of Oregon, acting through its Department of
 Administrative Services (DAS) on behalf of the Oregon Liquor and Cannabis Commission
@@ -5278,7 +5278,7 @@ The Agreement shall sunset on June 30, 2025.
 
 
 2023-2025 Oregon Liquor and Cannabis Commission   104                    Collective Bargaining Agreement
-LETTER OF AGREEMENT – ESSENTIAL WORKER INCLEMENT WEATHER/HAZARDOUS
+### LETTER OF AGREEMENT – ESSENTIAL WORKER INCLEMENT WEATHER/HAZARDOUS
                            CONDITIONS PAY
 
 This Agreement is between the State of Oregon, acting through its Department of
@@ -5305,7 +5305,7 @@ Worker Inclement Weather/Hazardous Conditions Pay.
 
 
 2023-2025 Oregon Liquor and Cannabis Commission   105                  Collective Bargaining Agreement
-LETTER OF AGREEMENT – ARTICLE 21 – WAREHOUSE VACATION SCHEDULING
+### LETTER OF AGREEMENT – ARTICLE 21 – WAREHOUSE VACATION SCHEDULING
 
 This Agreement is executed by AFSCME Council 75 on behalf of the Oregon Liquor and
 Cannabis Commission Unit (Union) and the State of Oregon, acting through the
@@ -5334,7 +5334,7 @@ This Letter of Agreement will automatically sunset on June 30, 2025.
 
 
 2023-2025 Oregon Liquor and Cannabis Commission   106                 Collective Bargaining Agreement
-              LETTER OF AGREEMENT – COMPENSATION PLAN CHANGES
+### LETTER OF AGREEMENT – COMPENSATION PLAN CHANGES
 
 Effective October 1, 2023, the following classifications will be added to the compensation
 plan:
@@ -5366,7 +5366,7 @@ This Letter of Agreement will automatically sunset on June 30, 2023.
 
 
 2023-2025 Oregon Liquor and Cannabis Commission           107                        Collective Bargaining Agreement
-      LETTER OF AGREEMENT – LDS 1 & 2 COMPENSATION PLAN CHANGES
+### LETTER OF AGREEMENT – LDS 1 & 2 COMPENSATION PLAN CHANGES
 
 Effective October 1, 2023 the following changes will be made to the compensation plan:
 
@@ -5396,7 +5396,7 @@ This Letter of Agreement will automatically sunset on June 30, 2025.
 
 
 2023-2025 Oregon Liquor and Cannabis Commission             108                        Collective Bargaining Agreement
-                     LETTER OF AGREEMENT – NATURAL DISASTER LEAVE
+### LETTER OF AGREEMENT – NATURAL DISASTER LEAVE
 
 This Agreement is between the State of Oregon, acting through its Department of
 Administrative Services (Employer) and AFSCME Council 75 (Union).
@@ -5429,7 +5429,7 @@ agreement.
 
 
 2023-2025 Oregon Liquor and Cannabis Commission   109                    Collective Bargaining Agreement
-LETTER OF AGREEMENT – STATE POLICY 50.050.01 WORKING REMOTELY UPDATES
+### LETTER OF AGREEMENT – STATE POLICY 50.050.01 WORKING REMOTELY UPDATES
 
 This Letter of Agreement is between the State of Oregon, acting through its Department
 of Administrative Services (Employer on behalf of the Agencies covered under the
@@ -5446,7 +5446,7 @@ This Agreement becomes effective on the date of the last signature below and end
 
 
 2023-2025 Oregon Liquor and Cannabis Commission   110             Collective Bargaining Agreement
-LETTER OF AGREEMENT – CHILDCARE AND ELDERCARE EXPLORATORY COMMITTEE
+### LETTER OF AGREEMENT – CHILDCARE AND ELDERCARE EXPLORATORY COMMITTEE
 
 This Agreement is between the State of Oregon, acting through its Department of
 Administrative Services (Employer) and AFSCME Council 75 (Union).
@@ -5477,7 +5477,7 @@ contract. The committee will complete their work by January 31, 2025.
 
 
 2023-2025 Oregon Liquor and Cannabis Commission   111                  Collective Bargaining Agreement
-                              LETTER OF AGREEMENT – PAY EQUITY
+### LETTER OF AGREEMENT – PAY EQUITY
 
 This Agreement is entered into by the State of Oregon, acting through its Department of
 Administrative Services, Labor Relations Unit (Employer), on behalf of the Agencies
@@ -5596,7 +5596,7 @@ The Parties agree to the following:
 
 
 2023-2025 Oregon Liquor and Cannabis Commission   114                 Collective Bargaining Agreement
-     LETTER OF AGREEMENT – REGULATORY SPECALIST LATERAL TRANSFERS
+### LETTER OF AGREEMENT – REGULATORY SPECALIST LATERAL TRANSFERS
 
 This Agreement is executed by Local 2505, Oregon AFSCME Council 75 (Union) and the
 State of Oregon, acting through the Department of Administrative Services, Labor
@@ -5624,7 +5624,7 @@ This LOA will automatically sunset June 30, 2025.
 
 
 2023-2025 Oregon Liquor and Cannabis Commission   115                    Collective Bargaining Agreement
-      LETTER OF AGREEMENT – REGULATORY SPECIALIST SAFETY EQUIPMENT
+### LETTER OF AGREEMENT – REGULATORY SPECIALIST SAFETY EQUIPMENT
 
 Section 1. The Agency shall issue the following equipment to all Regulatory Specialists:
       a) Rechargeable Flashlight
@@ -5668,7 +5668,7 @@ negotiations.
 
 
 2023-2025 Oregon Liquor and Cannabis Commission   116               Collective Bargaining Agreement
-LETTER OF AGREEMENT – PORTLAND METRO REGULARTORY SPECIALIST SAFETY
+### LETTER OF AGREEMENT – PORTLAND METRO REGULARTORY SPECIALIST SAFETY
                             COMMITTEE
 
 This Agreement is executed by Local 2505, Oregon AFSCME Council 75 (Union) and the
@@ -5723,7 +5723,7 @@ a new Agreement is reached during successor negotiations.
 
 
 2023-2025 Oregon Liquor and Cannabis Commission     117                         Collective Bargaining Agreement
-               LETTER OF AGREEMENT—BI-WEEKLY PAY PERIOD/WORKDAY
+### LETTER OF AGREEMENT—BI-WEEKLY PAY PERIOD/WORKDAY
 
 This Letter of Agreement is between the State of Oregon, acting through its Department
 of Administrative Services (Employer), and the AFSCME Local 75 (Union).
@@ -5819,7 +5819,7 @@ Both parties retain their rights under PECBA.
 
 
 2023-2025 Oregon Liquor and Cannabis Commission     119                      Collective Bargaining Agreement
-        LETTER OF AGREEMENT – MINOR DECOY & UNDERCOVER OPERATIONS
+### LETTER OF AGREEMENT – MINOR DECOY & UNDERCOVER OPERATIONS
 
 This Agreement is executed by AFSCME Local 2505 (Union) and the State of Oregon,
 acting through the Department of Administrative Services, Labor Relations Unit
@@ -5836,7 +5836,7 @@ This Letter of Agreement will not sunset unless done so through successor bargai
 
 
 2023-2025 Oregon Liquor and Cannabis Commission   120               Collective Bargaining Agreement
-                           LETTER OF AGREEMENT – LEADWORK DUTIES
+### LETTER OF AGREEMENT – LEADWORK DUTIES
 
 This Agreement is between the State of Oregon, acting through its Department of
 Administrative Services (DAS) on behalf of the Oregon Liquor and Cannabis Commission
@@ -5880,7 +5880,7 @@ The Agreement shall sunset on June 30, 2025.
 
 
 2023-2025 Oregon Liquor and Cannabis Commission   121                   Collective Bargaining Agreement
-             LETTER OF AGREEMENT – OLCC WAREHOUSE BREAK SCHEDULE
+### LETTER OF AGREEMENT – OLCC WAREHOUSE BREAK SCHEDULE
 
 This Agreement is between the State of Oregon, acting through its Department of
 Administrative Services (Employer) on behalf of the Oregon Liquor and Cannabis
@@ -5915,7 +5915,7 @@ reached during successor negotiations.
 
 
 2023-2025 Oregon Liquor and Cannabis Commission   122                Collective Bargaining Agreement
-                            APPENDIX A – OFFICIAL GRIEVANCE FORM
+### APPENDIX A – OFFICIAL GRIEVANCE FORM
 
                                                                                         AFSCME LOCAL 2505_
                                                                                                     STEP 1
@@ -5957,7 +5957,7 @@ Signature of Management Representative:
 
 
 2023-2025 Oregon Liquor and Cannabis Commission        123                    Collective Bargaining Agreement
-                                APPENDIX B – COMPENSATION PLAN
+### APPENDIX B – COMPENSATION PLAN
 
                                                                 7/1/2023   10/1/2023
                                                                 SALARY     SALARY
@@ -6033,7 +6033,7 @@ Signature of Management Representative:
 
 
 2023-2025 Oregon Liquor and Cannabis Commission           125             Collective Bargaining Agreement
-                                   APPENDIX C – SALARY SCHEDULE
+### APPENDIX C – SALARY SCHEDULE
 
                                 SALARY SCHEDULE AS OF JULY 1, 2023
  Salary     Pay / Rng       Step  Step Step Step Step Step Step                    Step     Step        Step

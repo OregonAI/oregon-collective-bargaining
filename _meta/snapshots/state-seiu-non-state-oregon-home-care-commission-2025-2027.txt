@@ -254,7 +254,7 @@ the 2015-2017 Agreement.
 
 
 2025-2027 SEIU Non State Homecare Providers     vi                       Collective Bargaining Agreement
-                            ARTICLE 1 – PARTIES TO THE AGREEMENT
+### ARTICLE 1 – PARTIES TO THE AGREEMENT
 
 
 This Agreement is made and entered into at Salem, Oregon, pursuant to the provisions
@@ -273,7 +273,7 @@ adjustments of differences which may arise.
 
 
 2025-2027 SEIU Non State Homecare Providers   1                     Collective Bargaining Agreement
-                                         ARTICLE 2 – RECOGNITION
+### ARTICLE 2 – RECOGNITION
 
 
 Section 1.
@@ -340,7 +340,7 @@ agreement to modify, negotiations will be entered into as needed or as required 
 
 
 2025-2027 SEIU Non State Homecare Providers   3                         Collective Bargaining Agreement
-                                  ARTICLE 3 – TERM OF AGREEMENT
+### ARTICLE 3 – TERM OF AGREEMENT
 
 
 Section 1. Effective Date.
@@ -394,7 +394,7 @@ by mutual Agreement, in writing, by the Parties or by operation of law.
 
 
 2025-2027 SEIU Non State Homecare Providers   5                     Collective Bargaining Agreement
-                                ARTICLE 4 – COMPLETE AGREEMENT
+### ARTICLE 4 – COMPLETE AGREEMENT
 
 
 Section 1.
@@ -432,7 +432,7 @@ either Party may declare impasse and proceed to binding arbitration in accordanc
 ORS 243.742.
 
 2025-2027 SEIU Non State Homecare Providers   6                    Collective Bargaining Agreement
-                                         ARTICLE 5 – SEPARABILITY
+### ARTICLE 5 – SEPARABILITY
 
 
 In the event that any provision of this Agreement is at any time declared invalid by any
@@ -448,7 +448,7 @@ time from either party’s request.
 
 
 2025-2027 SEIU Non State Homecare Providers       7                   Collective Bargaining Agreement
-                                ARTICLE 6 – NO STRIKE/NO LOCKOUT
+### ARTICLE 6 – NO STRIKE/NO LOCKOUT
 
 
 Section 1.
@@ -470,7 +470,7 @@ law, including the selection and termination of employment of the Employee.
 
 
 2025-2027 SEIU Non State Homecare Providers   8                       Collective Bargaining Agreement
-                                         ARTICLE 7 – UNION RIGHTS
+### ARTICLE 7 – UNION RIGHTS
 
 
 Section 1. Centralized State Payment System.
@@ -730,7 +730,7 @@ collective bargaining purposes only.
 
 
 2025-2027 SEIU Non State Homecare Providers   15                       Collective Bargaining Agreement
-                                    ARTICLE 8 – PAYROLL SYSTEMS
+### ARTICLE 8 – PAYROLL SYSTEMS
 
 
 This Article shall apply to all Homecare Workers (HCWs), Personal Care Attendants
@@ -1303,7 +1303,7 @@ minimum base rate per Appendix A for the purposes of recording and submitting ti
 
 
 2025-2027 SEIU Non State Homecare Providers   30                      Collective Bargaining Agreement
-                                    ARTICLE 9 – NO DISCRIMINATION
+### ARTICLE 9 – NO DISCRIMINATION
 
 
 Section 1. No Discrimination.
@@ -1338,7 +1338,7 @@ terminate any Provider who is providing services to them.
 
 
 2025-2027 SEIU Non State Homecare Providers    31                       Collective Bargaining Agreement
-                           ARTICLE 10 – CAREWELL REGISTRY (Carina)
+### ARTICLE 10 – CAREWELL REGISTRY (Carina)
 
 
 Section 1. Carewell Registry.
@@ -1377,7 +1377,7 @@ Registry.
 
 
 2025-2027 SEIU Non State Homecare Providers   32                      Collective Bargaining Agreement
-                               ARTICLE 11 – GRIEVANCE PROCEDURE
+### ARTICLE 11 – GRIEVANCE PROCEDURE
 
 
 Section 1. Grievance Definitions.
@@ -1608,7 +1608,7 @@ processing of grievances except as required by law.
 
 
 2025-2027 SEIU Non State Homecare Providers   38                      Collective Bargaining Agreement
-                             ARTICLE 13 – WORKERS’ COMPENSATION
+### ARTICLE 13 – WORKERS’ COMPENSATION
 
 
 Section 1.
@@ -1637,7 +1637,7 @@ Health & Safety web page and in OHCC Care Provider Guide.
 
 
 2025-2027 SEIU Non State Homecare Providers   39                   Collective Bargaining Agreement
-                                   ARTICLE 14 – SERVICE PAYMENTS
+### ARTICLE 14 – SERVICE PAYMENTS
 
 
 Section 1. Prior Authorization
@@ -1932,7 +1932,7 @@ hours of services they worked regardless of the number of consumers.
 
 
 2025-2027 SEIU Non State Homecare Providers   47                    Collective Bargaining Agreement
-          ARTICLE 14.1 – SERVICE PAYMENTS FOR HOMECARE WORKERS
+### ARTICLE 14.1 – SERVICE PAYMENTS FOR HOMECARE WORKERS
 
 
 Section 1. Rates.
@@ -2034,7 +2034,7 @@ f)        If a new Assessment is performed and the consumer no longer qualifies 
 
 
 2025-2027 SEIU Non State Homecare Providers   50                       Collective Bargaining Agreement
-     ARTICLE 14.2 – SERVICE PAYMENTS OF PERSONAL SUPPORT WORKERS
+### ARTICLE 14.2 – SERVICE PAYMENTS OF PERSONAL SUPPORT WORKERS
 
 
 Section 1. Wage Maintenance.
@@ -2221,7 +2221,7 @@ b)        PSWs shall receive the hourly training stipend for completing Departme
 
 
 2025-2027 SEIU Non State Homecare Providers   55                      Collective Bargaining Agreement
-     ARTICLE 14.3 – SERVICE PAYMENTS FOR PERSONAL CARE ATTENDANTS
+### ARTICLE 14.3 – SERVICE PAYMENTS FOR PERSONAL CARE ATTENDANTS
 
 
 Section 1. Wage Maintenance
@@ -2276,7 +2276,7 @@ g)        The Mental Health Enhanced Differential can be combined with the PDC
 
 
 2025-2027 SEIU Non State Homecare Providers   57                   Collective Bargaining Agreement
-            ARTICLE 15 – TRAVEL TIME, TRANSPORTATION AND MILEAGE
+### ARTICLE 15 – TRAVEL TIME, TRANSPORTATION AND MILEAGE
                                               REIMBURSEMENT
 
 
@@ -2427,7 +2427,7 @@ or other injury related to driving and may have any paid claims recovered.
 
 
 2025-2027 SEIU Non State Homecare Providers   61                         Collective Bargaining Agreement
-                           ARTICLE 16 – TIME-OFF REQUEST PROCESS
+### ARTICLE 16 – TIME-OFF REQUEST PROCESS
 
 
 It is not the Homecare or Personal Support Worker’s responsibility to find their own
@@ -2444,7 +2444,7 @@ provider.
 
 
 2025-2027 SEIU Non State Homecare Providers   62                     Collective Bargaining Agreement
-    ARTICLE 17.1 – TASK LIST OF AUTHORIZED SERVICES FOR HOMECARE
+### ARTICLE 17.1 – TASK LIST OF AUTHORIZED SERVICES FOR HOMECARE
                                                  WORKERS
 
 
@@ -2496,7 +2496,7 @@ at any time.
 
 
 2025-2027 SEIU Non State Homecare Providers   64                 Collective Bargaining Agreement
-ARTICLE 17.2 – SERVICE AGREEMENT FOR PERSONAL SUPPORT WORKERS
+### ARTICLE 17.2 – SERVICE AGREEMENT FOR PERSONAL SUPPORT WORKERS
 
 
 Section 1. Service Agreement or Client Service Plan.
@@ -2556,7 +2556,7 @@ Agency to the Consumer and Common Law Employer.
 
 
 2025-2027 SEIU Non State Homecare Providers   66                     Collective Bargaining Agreement
-                     ARTICLE 19 – SERVICE PAYMENT OVERPAYMENTS
+### ARTICLE 19 – SERVICE PAYMENT OVERPAYMENTS
 
 
 Section 1. Overpayments.
@@ -2641,7 +2641,7 @@ may grieve the determination through the grievance procedure.
 
 
 2025-2027 SEIU Non State Homecare Providers   68                           Collective Bargaining Agreement
-                                  ARTICLE 20 – HEALTH AND SAFETY
+### ARTICLE 20 – HEALTH AND SAFETY
 
 
 Section 1. Safe and Healthy Work Environment.
@@ -2817,7 +2817,7 @@ Independent Choices Program PSWs are to follow the guidelines in this Article.
 
 
 2025-2027 SEIU Non State Homecare Providers   73                   Collective Bargaining Agreement
-                            ARTICLE 21 – OHCC TRAINING COMMITTEE
+### ARTICLE 21 – OHCC TRAINING COMMITTEE
 
 
 Section 1. Committee Membership
@@ -2895,7 +2895,7 @@ for Providers.
 
 
 2025-2027 SEIU Non State Homecare Providers           75                     Collective Bargaining Agreement
-                  ARTICLE 22 – JOINT LABOR MANAGEMENT COMMITTEE
+### ARTICLE 22 – JOINT LABOR MANAGEMENT COMMITTEE
 
 
 Section 1.
@@ -2949,7 +2949,7 @@ committee meeting. Advisors and guests shall not be voting members of the commit
 
 
 2025-2027 SEIU Non State Homecare Providers   77                  Collective Bargaining Agreement
-                                 ARTICLE 24 – OVERTIME AND HOURS
+### ARTICLE 24 – OVERTIME AND HOURS
 
 
 Section 1. Work Week
@@ -3000,7 +3000,7 @@ exception.
 
 
 2025-2027 SEIU Non State Homecare Providers   79                 Collective Bargaining Agreement
-                ARTICLE 25 – PROVIDER NUMBER TERMINATION RIGHTS
+### ARTICLE 25 – PROVIDER NUMBER TERMINATION RIGHTS
 
 
 Section 1. Homecare Provider Number Termination.
@@ -3071,7 +3071,7 @@ provide legal representation.
 
 
 2025-2027 SEIU Non State Homecare Providers   81                      Collective Bargaining Agreement
-                                ARTICLE 26 – RETIREMENT SECURITY
+### ARTICLE 26 – RETIREMENT SECURITY
 
 
 The State of Oregon and SEIU have a shared interested in ensuring all Oregonians have
@@ -3092,7 +3092,7 @@ Saves Program, PPL and APD’s payment systems.
 
 
 2025-2027 SEIU Non State Homecare Providers   82                   Collective Bargaining Agreement
-ARTICLE 27 – AMERICANS WITH DISABILITIES ACT (ADA) ACCOMMODATIONS
+### ARTICLE 27 – AMERICANS WITH DISABILITIES ACT (ADA) ACCOMMODATIONS
 
 
 Providers shall have the right to request an ADA accommodation.
@@ -3164,7 +3164,7 @@ requests:
 
 
 2025-2027 SEIU Non State Homecare Providers      84                         Collective Bargaining Agreement
-                                   ARTICLE 28 – LANGUAGE ACCESS
+### ARTICLE 28 – LANGUAGE ACCESS
 
 Upon implementation of the Universal Provider Portal (UPP), the State shall provide the
 opportunity for Providers to enter demographic information to include the Provider’s
@@ -3205,7 +3205,7 @@ spoken in Oregon as possible. The insert shall:
 
 
 2025-2027 SEIU Non State Homecare Providers    85                          Collective Bargaining Agreement
-                                              ARTICLE 29 – HOLIDAYS
+### ARTICLE 29 – HOLIDAYS
 
 The Parties agree, upon ratification of the 2025 contract,:
           1.        The following days will be recognized as holidays:
@@ -3239,7 +3239,7 @@ The Parties agree, upon ratification of the 2025 contract,:
 
 
 2025-2027 SEIU Non State Homecare Providers          86                      Collective Bargaining Agreement
-         LETTER OF AGREEMENT – Electronic Visit Verification for DD PSWs
+### LETTER OF AGREEMENT – Electronic Visit Verification for DD PSWs
 
 
 This Letter of Agreement (LOA) is entered into between the Department of
@@ -3365,7 +3365,7 @@ Agreement:
 
 
 2025-2027 SEIU Non State Homecare Providers   89                            Collective Bargaining Agreement
- LETTER OF AGREEMENT – Implementation of Provider Time Capture (PTC) for
+### LETTER OF AGREEMENT – Implementation of Provider Time Capture (PTC) for
      Homecare Workers and Personal Care Attendants Paid through the Client
                              Employed Provider (CEP) Payment System
 
@@ -3599,7 +3599,7 @@ communication prior to it being sent to workers.
 
 
 2025-2027 SEIU Non State Homecare Providers      95                              Collective Bargaining Agreement
-         LETTER OF AGREEMENT – Visual Aids for Common Provider Issues
+### LETTER OF AGREEMENT – Visual Aids for Common Provider Issues
 
 
 This Letter of Agreement (LOA) is entered into between the Department of
@@ -3617,7 +3617,7 @@ common languages used by the bargaining unit.
 
 
 2025-2027 SEIU Non State Homecare Providers   96                      Collective Bargaining Agreement
-       LETTER OF AGREEMENT – Supplemental, Benefit and Training Trusts
+### LETTER OF AGREEMENT – Supplemental, Benefit and Training Trusts
 
 
 This Letter of Agreement (LOA) is entered into between the Department of
@@ -3694,7 +3694,7 @@ shall be the policy holder of any insurance policy offered by and through such T
 
 
 2025-2027 SEIU Non State Homecare Providers   98                     Collective Bargaining Agreement
-                          LETTER OF AGREEMENT – Indoor Animal Care
+### LETTER OF AGREEMENT – Indoor Animal Care
 
 
 This Letter of Agreement (LOA) is entered into between the Department of
@@ -3749,7 +3749,7 @@ This Agreement shall expire on June 30, 2027, unless extended by mutual agreemen
 
 
 2025-2027 SEIU Non State Homecare Providers   100                    Collective Bargaining Agreement
-                           LETTER OF AGREEMENT – Consumer Choice
+### LETTER OF AGREEMENT – Consumer Choice
 
 
 This Letter of Agreement (LOA) is entered into between the Department of
@@ -3784,7 +3784,7 @@ This Agreement shall expire on June 30, 2027, unless extended by mutual agreemen
 
 
 2025-2027 SEIU Non State Homecare Providers   101                   Collective Bargaining Agreement
-                                 LETTER OF AGREEMENT – Marketing
+### LETTER OF AGREEMENT – Marketing
 
 
 This Letter of Agreement (LOA) is entered into between the Department of
@@ -3822,7 +3822,7 @@ This Agreement shall expire on June 30, 2027, unless extended by mutual agreemen
 
 
 2025-2027 SEIU Non State Homecare Providers   102                     Collective Bargaining Agreement
- LETTER OF AGREEMENT – Legacy Workers (PSWs Paid Above the Negotiated
+### LETTER OF AGREEMENT – Legacy Workers (PSWs Paid Above the Negotiated
                                               Hourly Rates)
 
 
@@ -3898,7 +3898,7 @@ Agreement.
 
 
 2025-2027 SEIU Non State Homecare Providers   104                          Collective Bargaining Agreement
-  LETTER OF AGREEMENT – EVV Exemption for Providers who reside with the
+### LETTER OF AGREEMENT – EVV Exemption for Providers who reside with the
                                                 Consumer
 
 
@@ -3948,7 +3948,7 @@ This Agreement shall expire on June 30, 2027, unless extended by mutual agreemen
 
 
 2025-2027 SEIU Non State Homecare Providers    106                         Collective Bargaining Agreement
-                      LETTER OF AGREEMENT – PSW Remittance Advice
+### LETTER OF AGREEMENT – PSW Remittance Advice
 
 
 This Letter of Agreement (LOA) is entered into between the Department of
@@ -4010,7 +4010,7 @@ This Agreement shall expire on June 30, 2027, unless extended by mutual agreemen
 
 
 2025-2027 SEIU Non State Homecare Providers    108                          Collective Bargaining Agreement
-  LETTER OF AGREEMENT – Professional and Continuing Education Program
+### LETTER OF AGREEMENT – Professional and Continuing Education Program
                                               Improvements
 
 
@@ -4044,7 +4044,7 @@ of the focus group.
 
 
 2025-2027 SEIU Non State Homecare Providers      109               Collective Bargaining Agreement
-  LETTER OF AGREEMENT - Substitute Providers and Gap Pay for All Provider
+### LETTER OF AGREEMENT - Substitute Providers and Gap Pay for All Provider
                                                 Types
 
 
@@ -4081,7 +4081,7 @@ This Agreement will expire on June 30, 2027 unless mutually agreed otherwise.
 
 
 2025-2027 SEIU Non State Homecare Providers    110                           Collective Bargaining Agreement
-                                          APPENDIX A – PAY SCALE
+### APPENDIX A – PAY SCALE
 
 
 The Base Rate for all non-legacy Providers shall be effective the first day of the first

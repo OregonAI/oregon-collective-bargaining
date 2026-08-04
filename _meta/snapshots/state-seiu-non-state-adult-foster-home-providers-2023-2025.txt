@@ -145,7 +145,7 @@ SIGNATURE PAGE – TO BE INSERTED...............................................
 
 
 2023-2025 SEIU Adult Foster Home Collective Bargaining Agreement
-                                       ARTICLE 1 – PARTIES TO THE AGREEMENT
+### ARTICLE 1 – PARTIES TO THE AGREEMENT
 
 This Agreement is made and entered into at Salem, Oregon, pursuant to the provisions of the Oregon
 Revised Statutes, by and between the State of Oregon, hereinafter referred to as “the STATE", through
@@ -162,7 +162,7 @@ and the UNION, to provide for equitable and peaceful adjustments of differences 
 
 
 2023-2025 SEIU Adult Foster Home Collective Bargaining Agreement   5
-                                                     ARTICLE 2 – RECOGNITION
+### ARTICLE 2 – RECOGNITION
 
 
 2.1 EXCLUSIVE REPRESENTATIVE
@@ -241,7 +241,7 @@ will be entered into as needed or as required by law.
 
 
 2023-2025 SEIU Adult Foster Home Collective Bargaining Agreement   7
-                                              ARTICLE 3 – TERM OF AGREEMENT
+### ARTICLE 3 – TERM OF AGREEMENT
 
 3.1 EFFECTIVE DATE.
 Unless otherwise noted in a specific article in the Agreement, this Agreement becomes effective on the
@@ -298,7 +298,7 @@ agreement, in writing, by the Parties or by operation of law.
 
 
 2023-2025 SEIU Adult Foster Home Collective Bargaining Agreement   9
-                                            ARTICLE 4 – COMPLETE AGREEMENT
+### ARTICLE 4 – COMPLETE AGREEMENT
 
 4.1
 Pursuant to their statutory obligations to bargain in good faith, the State and the Union have met in full
@@ -342,7 +342,7 @@ included in any rate increases for CBC Providers if allowed or directed by the l
 
 
 2023-2025 SEIU Adult Foster Home Collective Bargaining Agreement   10
-                                                    ARTICLE 5 – SEPARABILITY
+### ARTICLE 5 – SEPARABILITY
 
 In the event that any provision of this Agreement is at any time declared invalid by any court of
 competent jurisdiction, declared invalid by final Employment Relations Board (ERB) order, made illegal
@@ -356,7 +356,7 @@ from either Party’s request.
 
 
 2023-2025 SEIU Adult Foster Home Collective Bargaining Agreement   11
-                                                    ARTICLE 6 – UNION RIGHTS
+### ARTICLE 6 – UNION RIGHTS
 
 6.1 BULLETIN BOARDS
 The Union shall be allowed to provide and maintain a bulletin board or share space on an existing
@@ -434,7 +434,7 @@ OAR updates.
 
 
 2023-2025 SEIU Adult Foster Home Collective Bargaining Agreement   13
-                                           ARTICLE 7 – GRIEVANCE PROCEDURE
+### ARTICLE 7 – GRIEVANCE PROCEDURE
 
 7.1 DEFINITION OF A GRIEVANCE
 Grievances are defined as acts, omissions, applications, or interpretations alleged to be violations of
@@ -585,7 +585,7 @@ party shall be notified of any costs before the information is compiled.
 
 
 2023-2025 SEIU Adult Foster Home Collective Bargaining Agreement   17
-                                                ARTICLE 8 – NO DISCRIMINATION
+### ARTICLE 8 – NO DISCRIMINATION
 
 8.1 NO DISCRIMINATION DEFINITION AND PROCEDURE
 The Union and the State agree not to engage in unlawful discrimination against any Provider because
@@ -615,7 +615,7 @@ regulate the Provider.
 
 
 2023-2025 SEIU Adult Foster Home Collective Bargaining Agreement           18
-                                                    ARTICLE 9 – SERVICE FEES
+### ARTICLE 9 – SERVICE FEES
 
 9.1 SERVICE FEES PREAMBLE
 The Parties acknowledge that the State has the authority and right, with appropriate input from the
@@ -1117,7 +1117,7 @@ client from a program other than the program under which the provider is license
 
 
 2023-2025 SEIU Adult Foster Home Collective Bargaining Agreement   31
-                                        ARTICLE 10 – PRE-PLACEMENT PLANNING
+### ARTICLE 10 – PRE-PLACEMENT PLANNING
 
 10.1 PRE-ADMISSION PROCESS
 Prior to any admission, the Adult Foster Home Provider and the local case manager/office should work
@@ -1186,7 +1186,7 @@ Developmental Disabilities Program (CDDP) for respite services do not apply to t
 
 
 2023-2025 SEIU Adult Foster Home Collective Bargaining Agreement   33
-                                          ARTICLE 11 – UNION REPRESENTATION
+### ARTICLE 11 – UNION REPRESENTATION
 
 11.1 RIGHT TO UNION REPRESENTATION
 ODHS/OHA shall not preclude the Provider from having a Union representative present (either in-
@@ -1280,7 +1280,7 @@ include apportionment.
 
 
 2023-2025 SEIU Adult Foster Home Collective Bargaining Agreement   36
-                     ARTICLE 12 - AFH PROVIDER COMPLAINT RESOLUTION PROCESS
+### ARTICLE 12 - AFH PROVIDER COMPLAINT RESOLUTION PROCESS
 
 12.1 COMPLAINT PROCESS PROCEDURE
 It is the intent of ODHS/OHA to have an efficient and effective resolution process for complaints from
@@ -1351,7 +1351,7 @@ the Parties Labor Management Committee.
 
 
 2023-2025 SEIU Adult Foster Home Collective Bargaining Agreement   38
-                                                 ARTICLE 13 – NO RETALIATION
+### ARTICLE 13 – NO RETALIATION
 
 13.1 PROTECTED UNION ACTIVITIES
 The State agrees that no Provider, on account of membership or non-membership, shall be retaliated
@@ -1390,7 +1390,7 @@ Agreement.
 
 
 2023-2025 SEIU Adult Foster Home Collective Bargaining Agreement   39
-                                                ARTICLE 14 – INSPECTION VISITS
+### ARTICLE 14 – INSPECTION VISITS
 
 Inspections by ODHS/OHA and/or their contractors, shall be conducted as follows:
 
@@ -1416,7 +1416,7 @@ Inspections by ODHS/OHA and/or their contractors, shall be conducted as follows:
 
 
 2023-2025 SEIU Adult Foster Home Collective Bargaining Agreement   40
-                                               ARTICLE 15 – SUBCONTRACTORS
+### ARTICLE 15 – SUBCONTRACTORS
 
 The State shall provide, to all subcontractors and third parties to which it has delegated responsibilities
 related to the licensing and supervision of Adult Foster Homes, a copy of this Collective Bargaining
@@ -1430,7 +1430,7 @@ this Collective Bargaining Agreement in whole or in part.
 
 
 2023-2025 SEIU Adult Foster Home Collective Bargaining Agreement   41
-                                   ARTICLE 16 - LABOR MANAGEMENT COMMITTEE
+### ARTICLE 16 - LABOR MANAGEMENT COMMITTEE
 
 16.1 PURPOSE AND SCOPE
 To facilitate communication between the Parties, a joint Labor Management Committee shall be
@@ -1471,7 +1471,7 @@ review in an attempt to resolve those issues. Upon request of the individual Pro
 Licensing Entity shall be invited to join the meeting for this portion of the agenda.
                                                                                         NEW: 2021 REV: 2023
 2023-2025 SEIU Adult Foster Home Collective Bargaining Agreement   42
-     ARTICLE 17 - STANDARDIZE CRIMINAL BACKGROUND CHECK PROCESS FOR ALL AFH
+### ARTICLE 17 - STANDARDIZE CRIMINAL BACKGROUND CHECK PROCESS FOR ALL AFH
                                      PROVIDERS
 
 Purpose: To ensure a criminal background check system that is standardized and efficient, by enabling
@@ -1511,7 +1511,7 @@ This system shall do the following:
 
 
 2023-2025 SEIU Adult Foster Home Collective Bargaining Agreement   43
-                                       ARTICLE 18 – SPECIFIC NEEDS CONTRACTS
+### ARTICLE 18 – SPECIFIC NEEDS CONTRACTS
 
 Any amendments to Specific Needs Contracts, including those required for legal and compliance
 purposes, will be communicated to the Union and to the affected provider no later than ninety (90) days
@@ -1536,7 +1536,7 @@ Local 503 Adult Foster Home Collective Bargaining Agreement.
 
 
 2023-2025 SEIU Adult Foster Home Collective Bargaining Agreement   44
-                              LETTER OF AGREEMENT - JOINT CONTRACT TRAINING
+### LETTER OF AGREEMENT - JOINT CONTRACT TRAINING
 
 The Parties have a mutual interest to ensure that key staff and partners with AFH program responsibility
 share mutual knowledge and perspectives on the terms of the Collective Bargaining Agreement.
@@ -1549,7 +1549,7 @@ collaborate to present training to the key staff and partners.
 
 
 2023-2025 SEIU Adult Foster Home Collective Bargaining Agreement   45
-                            LETTER OF AGREEMENT – SPECIFIC NEEDS CONTRACTS
+### LETTER OF AGREEMENT – SPECIFIC NEEDS CONTRACTS
 
 This Letter of Agreement (LOA) is entered into between the Department of Administrative Services
 (DAS) on behalf of the Oregon Department of Human Services, Aging and People with Disabilities, (the
@@ -1671,7 +1671,7 @@ Authority (OHA).
 
 
 2023-2025 SEIU Adult Foster Home Collective Bargaining Agreement   48
-                                       LETTER OF AGREEMENT - RN DELEGATION
+### LETTER OF AGREEMENT - RN DELEGATION
 
 Purpose: To continue efforts from workgroup recommendations from the 2013-2015 Adult Foster Home
 CBA Statement of Intent: RN Delegation.
@@ -1712,7 +1712,7 @@ CBA Statement of Intent: RN Delegation.
 
 
 2023-2025 SEIU Adult Foster Home Collective Bargaining Agreement   49
-                                          LETTER OF AGREEMENT – RATE STUDY
+### LETTER OF AGREEMENT – RATE STUDY
 
 
 This Agreement is made and entered into at Salem, Oregon, pursuant to the provisions of the Oregon
@@ -1743,7 +1743,7 @@ This Agreement shall expire on June 30, 2025, unless extended by mutual agreemen
 
 
 2023-2025 SEIU Adult Foster Home Collective Bargaining Agreement   50
-              LETTER OF AGREEMENT - MH PROVIDERS AND IMPLEMENTATION OF 410
+### LETTER OF AGREEMENT - MH PROVIDERS AND IMPLEMENTATION OF 410
                               DOCUMENTATION STANDARDS
 
 This Agreement is made and entered into at Salem, Oregon, pursuant to the provisions of the Oregon
@@ -1831,7 +1831,7 @@ Community Mental Health Program (CMHP) or the patient’s Primary Care Provider.
 
 
 2023-2025 SEIU Adult Foster Home Collective Bargaining Agreement   53
-        APPENDIX A - Rates for Adult Foster Homes Serving Individuals with Developmental
+### APPENDIX A - Rates for Adult Foster Homes Serving Individuals with Developmental
                                            Disabilities
 
 All rates, rate rules, and components of the SNAP Tool, except equipment, outlined below shall be
@@ -2088,7 +2088,7 @@ Home                   Within Hearing & Visual distance                       $ 
 
 
       2023-2025 SEIU Adult Foster Home Collective Bargaining Agreement                                           60
-      APPENDIX B - Oregon Health Authority and Addictions and Mental Health
+### APPENDIX B - Oregon Health Authority and Addictions and Mental Health
            Division Adult Foster Home Base Rate and Add-Ons Table
 
 B.1 RATE TABLE
@@ -2196,7 +2196,7 @@ used for determine the LSI scores, add-ons, and the calculation of rates.
 
 
 2023-2025 SEIU Adult Foster Home Collective Bargaining Agreement                                   63
-APPENDIX C - Service Rates for Adult Foster Homes Serving Individuals in Aging
+### APPENDIX C - Service Rates for Adult Foster Homes Serving Individuals in Aging
                     and People with Disabilities Programs
 
 Rates will be paid as follows:
