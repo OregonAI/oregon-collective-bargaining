@@ -30,37 +30,37 @@ upstream_signal: No feed, and the INDEX SHOWS NO TERMS — dating requires openi
   link shapes (direct CDN uuid + intermediate HTML pages) enumerated here.
 sources:
 - id: clackamas-employee-association
-  url: https://dochub.clackamas.us/documents/drupal/45dcf0b4-5da0-422d-98ef-d18e5eced2c8
+  url: https://www.clackamas.us/des/employee-association
   family: cba
-  format: pdf
-  sha256: ''
+  format: html
+  sha256: "d7886f8e90bc1df0beedbf9c0c8bc25c850ec8c56b1a9cf285dcd9a23f981a00"
   title: Employee Association
   last_checked: '2026-08-02'
-  notes: dochub CDN uuid URL — no filename, stability unproven; hash on first fetch.
+  notes: "Intermediate HTML page for this unit/instrument; the document is a separate download from it. Re-pointed from a dochub CDN uuid that 404ed. This manifest predicted exactly that (durability unproven, treat URL changes as expected), and the stable /des/ page is what every other working unit here already uses."
 - id: clackamas-housing-authority-of-clackamas-county-employee-association-eaha
-  url: https://dochub.clackamas.us/documents/drupal/2b7c154d-a9cd-4f15-931d-3b35a9f53192
+  url: https://www.clackamas.us/des/housing-authority-of-clackamas-county-employee-association-eaha
   family: cba
-  format: pdf
-  sha256: ''
+  format: html
+  sha256: "456041f703587025b1492bdc2f00e6a1da6eac1cd6138d49acbf528eda4fd5d6"
   title: Housing Authority of Clackamas County Employee Association (EAHA)
   last_checked: '2026-08-02'
-  notes: dochub CDN uuid URL — no filename, stability unproven; hash on first fetch.
+  notes: "Intermediate HTML page for this unit/instrument; the document is a separate download from it. Re-pointed from a dochub CDN uuid that 404ed. This manifest predicted exactly that (durability unproven, treat URL changes as expected), and the stable /des/ page is what every other working unit here already uses."
 - id: clackamas-employee-association-part-time-temporary-eat
-  url: https://dochub.clackamas.us/documents/drupal/27c12dae-6aa7-4df1-bcd1-499c7dc8f654
+  url: https://www.clackamas.us/des/employee-association-part-timetemporary-eat
   family: cba
-  format: pdf
-  sha256: ''
+  format: html
+  sha256: "ea3daa579e06a9e3dd1601e95f0419b5ee927f46c57a9051f65560d66df87219"
   title: Employee Association Part-Time/Temporary (EAT)
   last_checked: '2026-08-02'
-  notes: dochub CDN uuid URL — no filename, stability unproven; hash on first fetch.
+  notes: "Intermediate HTML page for this unit/instrument; the document is a separate download from it. Re-pointed from a dochub CDN uuid that 404ed. This manifest predicted exactly that (durability unproven, treat URL changes as expected), and the stable /des/ page is what every other working unit here already uses."
 - id: clackamas-clackamas-county-peace-officers-association-ccpoa
-  url: https://dochub.clackamas.us/documents/drupal/4cdf1bfa-a792-426f-a63c-b1d09743f663
+  url: https://www.clackamas.us/des/clackamas-county-peace-officers-association-ccpoa
   family: cba
-  format: pdf
-  sha256: ''
+  format: html
+  sha256: "e163cbf494d3ac5475bee23da736448807463b3141c557ba97c95394b645e90f"
   title: Clackamas County Peace Officers Association (CCPOA)
   last_checked: '2026-08-02'
-  notes: dochub CDN uuid URL — no filename, stability unproven; hash on first fetch.
+  notes: "Intermediate HTML page for this unit/instrument; the document is a separate download from it. Re-pointed from a dochub CDN uuid that 404ed. This manifest predicted exactly that (durability unproven, treat URL changes as expected), and the stable /des/ page is what every other working unit here already uses."
 - id: clackamas-2023-26-ratification-moa
   url: https://dochub.clackamas.us/documents/drupal/944fc26f-a46a-4166-a7e8-9994de20d712
   family: loa
