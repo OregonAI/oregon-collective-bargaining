@@ -480,6 +480,72 @@ COUNTIES: dict[str, dict] = {
 }
 
 
+def _split(text: str) -> tuple[str, str]:
+    """(comment header, yaml body) — the two halves this file is checked in."""
+    lines = text.split("\n")
+    i = 0
+    while i < len(lines) and (lines[i].startswith("#") or not lines[i].strip()):
+        i += 1
+    return "\n".join(lines[:i]).strip(), "\n".join(lines[i:])
+
+
+def _differs(committed: str, rendered: str) -> bool:
+    """Would re-running discovery CHANGE WHAT THIS FILE SAYS?
+
+    Not "produce identical bytes". `corpus-detect-changes --record-baseline` edits this
+    file line by line to preserve its formatting, and writes `sha256: "abc..."` where
+    `yaml.safe_dump` writes `sha256: abc...`. Identical YAML, different bytes -- and a byte
+    comparison called all 12 groups STALE the day the baselines were seeded, pointing at a
+    remedy that would have wiped them.
+
+    The header IS compared verbatim, because it is prose this generator owns and the file
+    says "do not hand-edit"; a byte-equal body is not the thing being protected there.
+    """
+    c_head, c_body = _split(committed)
+    r_head, r_body = _split(rendered)
+    if c_head != r_head:
+        return True
+    try:
+        return yaml.safe_load(c_body) != yaml.safe_load(r_body)
+    except yaml.YAMLError:
+        return True
+
+
+def _carry_recorded(county: str, sources: list[dict]) -> None:
+    """Carry `sha256` (and its `last_checked`) across from the committed manifest.
+
+    TWO WRITERS, ONE FILE, AND ONLY ONE OF THEM OWNS THIS FIELD. Discovery owns which
+    documents exist -- ids, urls, titles, families. The BASELINE is owned by
+    `corpus-detect-changes --record-baseline`, which records what upstream served so drift
+    can be detected later.
+
+    This renderer used to emit `sha256: ""` unconditionally, which made both halves wrong at
+    once: `--check` byte-compares its output against the file, so every recorded baseline
+    read as STALE -- and the remedy it printed, "re-run src/discover_counties.py", WIPED
+    ALL 680 OF THEM. A stale-file message that tells you to destroy the data is worse than
+    no message.
+
+    A source discovery has never seen still starts empty; that is discovery's own field to
+    set, and an unseeded source is reported by the drift run rather than hidden here.
+    """
+    out = SOURCES_DIR / f"{county}.yml"
+    if not out.is_file():
+        return
+    try:
+        held = yaml.safe_load(out.read_text(encoding="utf-8")) or {}
+    except yaml.YAMLError:
+        return
+    prior = {s["id"]: s for s in (held.get("sources") or []) if isinstance(s, dict)}
+    for s in sources:
+        was = prior.get(s["id"])
+        if not was:
+            continue
+        if was.get("sha256"):
+            s["sha256"] = was["sha256"]
+        if was.get("last_checked"):
+            s["last_checked"] = was["last_checked"]
+
+
 def render(county: str, cfg: dict, sources: list[dict]) -> str:
     n_cba = sum(1 for s in sources if s["family"] == "cba")
     n_loa = len(sources) - n_cba
@@ -539,10 +605,11 @@ def main() -> int:
             seen_ids[s["id"]] = n + 1
             if n:
                 s["id"] = f"{s['id']}-{n + 1}"
+        _carry_recorded(county, sources)
         text = render(county, cfg, sources)
         out = SOURCES_DIR / f"{county}.yml"
         if args.check:
-            if not out.is_file() or out.read_text(encoding="utf-8") != text:
+            if not out.is_file() or _differs(out.read_text(encoding="utf-8"), text):
                 print(f"{out.name} is STALE — re-run src/discover_counties.py", file=sys.stderr)
                 failed += 1
             continue
