@@ -32,7 +32,7 @@ sources:
   url: https://jacksoncountyor.gov/Document%20Center/Departments/Human%20Resources/Labor%20Agreements/2025-2028%20Jackson%20County-FOPPO%20Signed%20CBA.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "4d880c0091af5be20e4ba15beab753ef878f7915f47c6c8268849c7f89755cc7"
   title: Federation of Oregon Parole and Probation Officers (FOPPO) Labor Agreement
   term: 2025-2028
   last_checked: '2026-08-02'
@@ -42,7 +42,7 @@ sources:
   url: https://jacksoncountyor.gov/Document%20Center/Departments/Human%20Resources/Labor%20Agreements/Jackson%20County-SEIU%20CBA%20FINAL%20SIGNED.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "f49b88ad5dcfc524a9ad0cd9e9c8e4b02f3444d43ae8ee599544c83d22d6017a"
   title: Jackson County Employees' Association (SEIU, OPEU) Labor Agreement
   last_checked: '2026-08-02'
   notes: Upstream href carries a ?t= cache-buster (dropped here — it moves on every re-upload, so its
@@ -51,7 +51,7 @@ sources:
   url: https://jacksoncountyor.gov/Document%20Center/Departments/Human%20Resources/Labor%20Agreements/Jackson%20County-JCSEA%202023-2026%20FINAL.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "c99d09f2375ad0962a369b0c092908d6a2be1fdb48c1511e7c971168d5aeb1df"
   title: Jackson County Sheriff's Employees' Association (JCSEA) Labor Agreement
   term: 2023-2026
   last_checked: '2026-08-02'
@@ -61,7 +61,7 @@ sources:
   url: https://www.oregon.gov/erb/Documents/ME-008-26_JCSSA-FOCS.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "eb7feaecc4d08499617582d1ad590726d669b465cdb2f6ed950ec8c725cc48e7"
   title: Jackson County Sheriff's Sergeants' Association (JCSSA) agreement 2023-2026 — ERB case exhibit
     copy
   union: JCSSA

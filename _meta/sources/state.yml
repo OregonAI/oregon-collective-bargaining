@@ -76,7 +76,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AEE%20Association%20of%20Engineering%20Employees%202001-2003.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "f62edc20d156f131c7c856ef9f139201307abfd7daff0ee2fdb2837a8a22c4d3"
   title: AEE Association of Engineering Employees 2001-2003
   union: AEE
   term: 2001-2003
@@ -85,7 +85,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AEE%20Association%20of%20Engineering%20Employees%202003-2005.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "61fed9d1412704090d3dc47757003ab68be886a621dca16bfa42be0519bb352c"
   title: AEE Association of Engineering Employees 2003-2005
   union: AEE
   term: 2003-2005
@@ -94,7 +94,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AEE%20Association%20of%20Engineering%20Employees%202005-2007.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "7f496bbc94a454f9fc48b12e962ec0bbbf1b71aaeac3db59d30fe8b562c20ff6"
   title: AEE Association of Engineering Employees 2005-2007
   union: AEE
   term: 2005-2007
@@ -103,7 +103,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AEE%20Association%20of%20Engineering%20Employees%202007-2009.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "81a1bc4cb628880ff3ec386b9dde553413110476ec9bd1cf5ccc201f6a40537f"
   title: AEE Association of Engineering Employees 2007-2009
   union: AEE
   term: 2007-2009
@@ -112,7 +112,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AEE%20Association%20of%20Engineering%20Employees%202009-2011.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "ed1765aa4e900638f2cb78ceaa166468eeba6866083232e92aef33c2bfa9c0c2"
   title: AEE Association of Engineering Employees 2009-2011
   union: AEE
   term: 2009-2011
@@ -121,7 +121,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AEE%20Association%20of%20Engineering%20Employees%202011-2013.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "ef3b1cd2bbfe51ff2daccf9c1f5267152ed76d5a8f744c3d083ef6a2f3175d58"
   title: AEE Association of Engineering Employees 2011-2013
   union: AEE
   term: 2011-2013
@@ -130,7 +130,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AEE%20Association%20of%20Engineering%20Employees%202013-2015.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "a2009b07fc88296f6784509e0e5506bf2436cb952c6e28215ec9540f99c9a8f6"
   title: AEE Association of Engineering Employees 2013-2015
   union: AEE
   term: 2013-2015
@@ -139,7 +139,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AEE%20Association%20of%20Engineering%20Employees%202015-2017.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "7e33558acd83c8ce2cc6328597cade87f475f2eabda710b0c9054fac70980625"
   title: AEE Association of Engineering Employees 2015-2017
   union: AEE
   term: 2015-2017
@@ -148,7 +148,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AEE%20Association%20of%20Engineering%20Employees%202017-2019.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "816e88fb6d557a5b3f134ef400e442e3455bcef503f9d5dc7abd22bb5c86ac57"
   title: AEE Association of Engineering Employees 2017-2019
   union: AEE
   term: 2017-2019
@@ -157,7 +157,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AEE%20Association%20of%20Engineering%20Employees%202019-2021.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "23e36ef0f08c0381eea0a2fe044be2c3da9f7e5dc5c99e05ccc2f2751e544651"
   title: AEE Association of Engineering Employees 2019-2021
   union: AEE
   term: 2019-2021
@@ -166,7 +166,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AEE%20Association%20of%20Engineering%20Employees%202021-2023.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "5c3a2b62711827c5eb59b8947dcc251f0424d28defdabc9f02b798f9f301e809"
   title: AEE Association of Engineering Employees 2021-2023
   union: AEE
   term: 2021-2023
@@ -175,7 +175,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AEE%20Association%20of%20Engineering%20Employees%202023-2025.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "71fdcd63addecfc8b0011f890f7096cef2089f93bd2bd4c53edd41f91f9a4cd2"
   title: AEE Association of Engineering Employees 2023-2025
   union: AEE
   term: 2023-2025
@@ -184,7 +184,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AEE%20Association%20of%20Engineering%20Employees%202025-2027.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "7bc5fdd0c37da0594f972575eb0246f95f7f69d894424b3e70cc41b905282839"
   title: AEE Association of Engineering Employees 2025-2027
   union: AEE
   term: 2025-2027
@@ -193,7 +193,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AEE%20LOA%2018-01%20Pay%20For%20Reallocation.pdf
   family: loa
   format: pdf
-  sha256: ''
+  sha256: "9d0464c251291d0e380c4af215c346cc803f809403a178ac93d21d528a44346a"
   title: AEE LOA 18-01 Pay For Reallocation
   union: AEE
   last_checked: '2026-08-02'
@@ -201,7 +201,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AEE%20LOA%2021%202015%20Fire%20Season%20ODF.pdf
   family: loa
   format: pdf
-  sha256: ''
+  sha256: "1f5ae079411a6c56a56d0b31504fcd50f6695f36b6b2563d4c0e3361c610c6bc"
   title: AEE LOA 21 2015 Fire Season ODF
   union: AEE
   last_checked: '2026-08-02'
@@ -209,7 +209,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AEE%20LOA%2022%20ES1%20LD.pdf
   family: loa
   format: pdf
-  sha256: ''
+  sha256: "f5d1a67d038ac75a10150caff486ea4ac35891fed6503d54c8987cca1c73c88e"
   title: AEE LOA 22 ES1 LD
   union: AEE
   last_checked: '2026-08-02'
@@ -217,7 +217,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AEE%20LOA%2023%20ODOT%20Underwater%20Assignments.pdf
   family: loa
   format: pdf
-  sha256: ''
+  sha256: "3237ba8bb3d4b943762cfac0131a6e86860f738eb9bca6be01f40ec8ded6abd4"
   title: AEE LOA 23 ODOT Underwater Assignments
   union: AEE
   last_checked: '2026-08-02'
@@ -225,7 +225,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AEE%20LOA%2024%20Article%2016%20Section%207.pdf
   family: loa
   format: pdf
-  sha256: ''
+  sha256: "e8058dcd8ac71896825f23197cff594ef9d369161d28a8dfc82be1954bc38e77"
   title: AEE LOA 24 Article 16 Section 7
   union: AEE
   last_checked: '2026-08-02'
@@ -233,7 +233,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AEE%20LOA%2025%20Article%209%20Section%2010.pdf
   family: loa
   format: pdf
-  sha256: ''
+  sha256: "26f605be84c7e57fdefeac23e0eeb91a52a141faa24b34e75005a521f26eaf33"
   title: AEE LOA 25 Article 9 Section 10
   union: AEE
   last_checked: '2026-08-02'
@@ -241,7 +241,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AEE%20LOA%2026%20Article%204%20Terms%20of%20Agreement.pdf
   family: loa
   format: pdf
-  sha256: ''
+  sha256: "a7515ac2fb25070c4c4435fefbf00c0110d0e6b2cedd1f3c0434562a8a1853d0"
   title: AEE LOA 26 Article 4 Terms of Agreement
   union: AEE
   last_checked: '2026-08-02'
@@ -249,7 +249,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AEE%20LOA%2027%20Article%2040%20Vacation%20Leave.pdf
   family: loa
   format: pdf
-  sha256: ''
+  sha256: "9b9c3ee2c27bbbda91808114ae4d8cc9478375bdd457966d99cda79e6965b430"
   title: AEE LOA 27 Article 40 Vacation Leave
   union: AEE
   last_checked: '2026-08-02'
@@ -257,7 +257,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AEE%20LOA%20Covid-19.pdf
   family: loa
   format: pdf
-  sha256: ''
+  sha256: "f524a13f3e8f49679b989d451250dc65422daea06aa80190695dc38f252a9e8c"
   title: AEE LOA Covid-19
   union: AEE
   last_checked: '2026-08-02'
@@ -265,7 +265,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AEE%20LOA%20Pay%20Equity.pdf
   family: loa
   format: pdf
-  sha256: ''
+  sha256: "bb361ddedb075f486401d83db1bac5928b1b47bdc7fc69b810172824fc9dc477"
   title: AEE LOA Pay Equity
   union: AEE
   last_checked: '2026-08-02'
@@ -273,7 +273,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20All%20Pay%20Equity%20LOA%2021-23.pdf
   family: loa
   format: pdf
-  sha256: ''
+  sha256: "86111257f87dace09d076629274c95f0b35a4666b4134625cfa277d7fd784a49"
   title: AFSCME All Pay Equity LOA 21-23
   union: AFSCME
   last_checked: '2026-08-02'
@@ -281,7 +281,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20All%20Tables%20Janus%20Due%20Deduction%20LOA.pdf
   family: loa
   format: pdf
-  sha256: ''
+  sha256: "3996f4a91ebe8cbaa303e62ebaec93c3f299bc589c164296269d41ef2ec7dc45"
   title: AFSCME All Tables Janus Due Deduction LOA
   union: AFSCME
   last_checked: '2026-08-02'
@@ -289,7 +289,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20All%20Tables%20Pay%20Equity%20LOA.pdf
   family: loa
   format: pdf
-  sha256: ''
+  sha256: "a94a7a94a07efb28237fe06451ba6feab9aac95b1646edf32375730873a55f3f"
   title: AFSCME All Tables Pay Equity LOA
   union: AFSCME
   last_checked: '2026-08-02'
@@ -297,7 +297,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Building%20Codes%20Division%202001-2003.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "bfbbbff09f649ca11cdc8524d4614974f45d999e9e4a8e3f79359f2161401905"
   title: AFSCME Building Codes Division 2001-2003
   union: AFSCME
   term: 2001-2003
@@ -306,7 +306,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Building%20Codes%20Division%202003-2005.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "10b0c7f65b87a73c9516596e4a83197a72d2bfaf8be69d5dc0d14dd14f5154ea"
   title: AFSCME Building Codes Division 2003-2005
   union: AFSCME
   term: 2003-2005
@@ -315,7 +315,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Building%20Codes%20Division%202005-2007.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "930680f978eec3716518ba494d9aa20cacb43e303e71eb0497f6e9cfff000cbe"
   title: AFSCME Building Codes Division 2005-2007
   union: AFSCME
   term: 2005-2007
@@ -324,7 +324,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Building%20Codes%20Division%202007-2009.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "d4ce0fca798424a5c4eb9635ed8bc1b5f6ba8f08fb33186fc778c7f6e14a0a8b"
   title: AFSCME Building Codes Division 2007-2009
   union: AFSCME
   term: 2007-2009
@@ -333,7 +333,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Building%20Codes%20Division%202009-2011.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "b370e9f0012042b6fc74f01f3d6b9fa944366102119daa9989989135daacde50"
   title: AFSCME Building Codes Division 2009-2011
   union: AFSCME
   term: 2009-2011
@@ -342,7 +342,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Building%20Codes%20Division%202011-2013.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "b47341720936449d34494ce0b67a97904bda4ecd5d2afb7a1260af8b20df2aea"
   title: AFSCME Building Codes Division 2011-2013
   union: AFSCME
   term: 2011-2013
@@ -351,7 +351,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Building%20Codes%20Division%202013-2015.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "8d3316699cba8a25cb10be8897da6fa76b8c1a1a66b0295d56f905553d0a6ad5"
   title: AFSCME Building Codes Division 2013-2015
   union: AFSCME
   term: 2013-2015
@@ -360,7 +360,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Building%20Codes%20Division%202015-2017.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "923c158a9a58753506188578a694b9aa08b0fa0cdef4515001c209dab2623483"
   title: AFSCME Building Codes Division 2015-2017
   union: AFSCME
   term: 2015-2017
@@ -369,7 +369,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Building%20Codes%20Division%202017-2019.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "c89c51050cecd3fd2d3f9c050eb4718ca7bbf72bf8948940b450334145b0f6c8"
   title: AFSCME Building Codes Division 2017-2019
   union: AFSCME
   term: 2017-2019
@@ -378,7 +378,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Building%20Codes%20Division%202019-2021.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "adc6943fb53d44824af1fa6991dd12045e42407d3447d01533fd8dc84040d208"
   title: AFSCME Building Codes Division 2019-2021
   union: AFSCME
   term: 2019-2021
@@ -387,7 +387,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Building%20Codes%20Division%202021-2023.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "dda358a12f5f7336a46eb1ed00f5c0efe8a1f592058357d7578897ca54c2453a"
   title: AFSCME Building Codes Division 2021-2023
   union: AFSCME
   term: 2021-2023
@@ -396,7 +396,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Building%20Codes%20Division%202023-2025.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "ebcea24964ae0d14d5d03b3c71be008a35e64bc52f759f2555ab78b8e67fa3d8"
   title: AFSCME Building Codes Division 2023-2025
   union: AFSCME
   term: 2023-2025
@@ -405,7 +405,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Building%20Codes%20Division%202025-2027.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "0dfb4916f45c0856b99d0b57b55096db2c7bd449a755107c653df2e6d919dc61"
   title: AFSCME Building Codes Division 2025-2027
   union: AFSCME
   term: 2025-2027
@@ -414,7 +414,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Building%20Codes%20Division%20LOA%20Emergency%20Assignment%20Temporary%20Differential.pdf
   family: loa
   format: pdf
-  sha256: ''
+  sha256: "a7d0923fbdc2e94fcd3922656e7d03444269c599758ffb00c2c686235fd2fce3"
   title: AFSCME Building Codes Division LOA Emergency Assignment Temporary Differential
   union: AFSCME
   last_checked: '2026-08-02'
@@ -422,7 +422,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Construction%20Contractors%20Board%202001-2003.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "786241be6a0b1c5e93ee12fb002a117dd6d6224afb2adfc5ede61700ac1145b9"
   title: AFSCME Construction Contractors Board 2001-2003
   union: AFSCME
   term: 2001-2003
@@ -431,7 +431,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Construction%20Contractors%20Board%202003-2005.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "a727d7cb8456ba48f0e7c806b7f4ceba5ea380954ed25eb0a565e85cafa9b793"
   title: AFSCME Construction Contractors Board 2003-2005
   union: AFSCME
   term: 2003-2005
@@ -440,7 +440,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Construction%20Contractors%20Board%202005-2007.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "ebc9155d15909a8a7dd1bdd79b3c2cf577bb24ab6b643cecaca247d33e96b6b2"
   title: AFSCME Construction Contractors Board 2005-2007
   union: AFSCME
   term: 2005-2007
@@ -449,7 +449,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Construction%20Contractors%20Board%202007-2009.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "606a786067cb911af48483a18b7ae70732a64b94bdf9ad8e7bc649ea66a86a0c"
   title: AFSCME Construction Contractors Board 2007-2009
   union: AFSCME
   term: 2007-2009
@@ -458,7 +458,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Construction%20Contractors%20Board%202009-2011.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "d90e291133f297a8e4386e3ce6c46b455b79f2b0a642c3e61585c023befae3d7"
   title: AFSCME Construction Contractors Board 2009-2011
   union: AFSCME
   term: 2009-2011
@@ -467,7 +467,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Construction%20Contractors%20Board%202011-2013.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "06b8d29a516473563a7ff08386a7724cec2d08f7d4cdd25a5ac88f1d0decc0b0"
   title: AFSCME Construction Contractors Board 2011-2013
   union: AFSCME
   term: 2011-2013
@@ -476,7 +476,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Construction%20Contractors%20Board%202013-2015.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "a2a698ab39f279cd4835ef83fa0dfb4adc19d6f980263e7810a67574556926ff"
   title: AFSCME Construction Contractors Board 2013-2015
   union: AFSCME
   term: 2013-2015
@@ -485,7 +485,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Construction%20Contractors%20Board%202015-2017.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "54da0681e491717e013c72797f85e69bca58742c3397fac73e806d57d4f16718"
   title: AFSCME Construction Contractors Board 2015-2017
   union: AFSCME
   term: 2015-2017
@@ -494,7 +494,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Construction%20Contractors%20Board%202017-2019.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "41e74d1fe7d8fb38a03ae1c01b179729a2b8c0730a9a376b3f132e37806d0bc8"
   title: AFSCME Construction Contractors Board 2017-2019
   union: AFSCME
   term: 2017-2019
@@ -503,7 +503,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Construction%20Contractors%20Board%202019-2021.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "07f595eea03817a8a96d694f72fd6c97b1469a05c92378fa0cee03b87c63f4a2"
   title: AFSCME Construction Contractors Board 2019-2021
   union: AFSCME
   term: 2019-2021
@@ -512,7 +512,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Construction%20Contractors%20Board%202021-2023.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "8149e798ab932252f80bcdf992519286b3441be014151c6e2dd403d28c1c2674"
   title: AFSCME Construction Contractors Board 2021-2023
   union: AFSCME
   term: 2021-2023
@@ -521,7 +521,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Construction%20Contractors%20Board%202023-2025.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "af8254afdaf9a30ab8faf2a42160d0ba4746098063c5a1932ec498d87aa511ee"
   title: AFSCME Construction Contractors Board 2023-2025
   union: AFSCME
   term: 2023-2025
@@ -530,7 +530,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Construction%20Contractors%20Board%202025-2027.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "2dcbcd25343f14843f0a7433ed302e1bdf15849f00dc375dcc2d12a1e884a8ce"
   title: AFSCME Construction Contractors Board 2025-2027
   union: AFSCME
   term: 2025-2027
@@ -539,7 +539,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20COVID%2019%20LOA%20Final.pdf
   family: loa
   format: pdf
-  sha256: ''
+  sha256: "4a89fe04bf97c76b469f97ed10627a85680ec223afc8dff0badb5e9453eb20eb"
   title: AFSCME COVID 19 LOA Final
   union: AFSCME
   last_checked: '2026-08-02'
@@ -547,7 +547,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Department%20of%20Environmental%20Quality%202001-2003.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "079de114d7edaa4b97022d743827071fe2e1fd13c937abaa2484ace6c530e50c"
   title: AFSCME Department of Environmental Quality 2001-2003
   union: AFSCME
   term: 2001-2003
@@ -556,7 +556,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Department%20of%20Environmental%20Quality%202003-2005.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "9f5ea80a2e441d26a467e10cc1db8bf7950b3eb3e21f520f4bdc8d38dfb253ca"
   title: AFSCME Department of Environmental Quality 2003-2005
   union: AFSCME
   term: 2003-2005
@@ -565,7 +565,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Department%20of%20Environmental%20Quality%202005-2007.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "4052e4cc654d21077ecf6a2032859732712f0fbf0a487f8aaddbe530b98417db"
   title: AFSCME Department of Environmental Quality 2005-2007
   union: AFSCME
   term: 2005-2007
@@ -574,7 +574,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Department%20of%20Environmental%20Quality%202007-2009.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "daae73669afceaa1adfaa664b8b4cf324b9256267696783b6375b0eabdea2cb4"
   title: AFSCME Department of Environmental Quality 2007-2009
   union: AFSCME
   term: 2007-2009
@@ -583,7 +583,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Department%20of%20Environmental%20Quality%202009-2011.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "9eb1254683d055f3e1b03e54b08e9de2ccdb63e78bbbc5c35e056bf4c8f5a93c"
   title: AFSCME Department of Environmental Quality 2009-2011
   union: AFSCME
   term: 2009-2011
@@ -592,7 +592,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Department%20of%20Environmental%20Quality%202011-2013.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "c6a1295ddf84be6debb68787f10cc7248917dcaaf013709c0a8c80b301e762d0"
   title: AFSCME Department of Environmental Quality 2011-2013
   union: AFSCME
   term: 2011-2013
@@ -601,7 +601,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Department%20of%20Environmental%20Quality%202013-2015.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "cfdff0ee2cfa1b22badd9ff39fa15940c902ea2921b109b8e05d0762c34329ce"
   title: AFSCME Department of Environmental Quality 2013-2015
   union: AFSCME
   term: 2013-2015
@@ -610,7 +610,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Department%20of%20Environmental%20Quality%202015-2017.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "064bcb1174ba245dbb426f368c2757ae2a9e534549a9115fc3251f47a684c713"
   title: AFSCME Department of Environmental Quality 2015-2017
   union: AFSCME
   term: 2015-2017
@@ -619,7 +619,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Department%20of%20Environmental%20Quality%202017-2019.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "6c75ee9959843a11a525f153eb5c9acc9d93433f062b5850772eeb918e37d155"
   title: AFSCME Department of Environmental Quality 2017-2019
   union: AFSCME
   term: 2017-2019
@@ -628,7 +628,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Department%20of%20Environmental%20Quality%202019-2021.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "0da0bdc707da08610f70f47768847165d75a70efbeda675645c86197dff7eb56"
   title: AFSCME Department of Environmental Quality 2019-2021
   union: AFSCME
   term: 2019-2021
@@ -637,7 +637,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Department%20of%20Environmental%20Quality%202021-2023.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "51d34261356d248d6918e8400ac08a406416e7c25b3645b22882d432415b1339"
   title: AFSCME Department of Environmental Quality 2021-2023
   union: AFSCME
   term: 2021-2023
@@ -646,7 +646,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Department%20of%20Environmental%20Quality%202023-2025.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "8c404e781588e441506aab9736026a18145100146f6ebfe75b74cfd90e1bedba"
   title: AFSCME Department of Environmental Quality 2023-2025
   union: AFSCME
   term: 2023-2025
@@ -655,7 +655,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Department%20of%20Environmental%20Quality%202025-2027.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "b16a5ea04e2dda2b38f00b9fba3d85af816b3b8c153c09c43e11d13cf2e57900"
   title: AFSCME Department of Environmental Quality 2025-2027
   union: AFSCME
   term: 2025-2027
@@ -664,7 +664,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Department%20of%20Land%20Conservation%20and%20Development%202001-2003.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "0b38aee88294e44c16859118add9d68b475ffe65c65e54cf069c458edd389f58"
   title: AFSCME Department of Land Conservation and Development 2001-2003
   union: AFSCME
   term: 2001-2003
@@ -673,7 +673,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Department%20of%20Land%20Conservation%20and%20Development%202003-2005.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "519778cb1cf0e5eb66e9f12bb998a46fe16c4a2e82113bdd3f9a8faede724b2f"
   title: AFSCME Department of Land Conservation and Development 2003-2005
   union: AFSCME
   term: 2003-2005
@@ -682,7 +682,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Department%20of%20Land%20Conservation%20and%20Development%202005-2007.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "e1675e90bf6fc740c5b67c31fc9109628509f10efff40ce232279666e2b56ca9"
   title: AFSCME Department of Land Conservation and Development 2005-2007
   union: AFSCME
   term: 2005-2007
@@ -691,7 +691,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Department%20of%20Land%20Conservation%20and%20Development%202007-2009.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "030d5707dff3f98fa5b90be5e04a9a49c52ad3067e155a6aef7a91aed1b83cb3"
   title: AFSCME Department of Land Conservation and Development 2007-2009
   union: AFSCME
   term: 2007-2009
@@ -700,7 +700,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Department%20of%20Land%20Conservation%20and%20Development%202009-2011.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "689fd0f0e62004dec6d6863a2d40944af2e3714465847808732c00309e59c296"
   title: AFSCME Department of Land Conservation and Development 2009-2011
   union: AFSCME
   term: 2009-2011
@@ -709,7 +709,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Department%20of%20Land%20Conservation%20and%20Development%202011-2013.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "7b60ea96623e1f0476d3e8d5a8ca6b41f8a10328c826e29732a624bcb9fc74fa"
   title: AFSCME Department of Land Conservation and Development 2011-2013
   union: AFSCME
   term: 2011-2013
@@ -718,7 +718,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Department%20of%20Land%20Conservation%20and%20Development%202013-2015.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "aba7f9022d301f00fd44859c4d22b297df9c7335ee4d70b0e2ff92e3c05aac50"
   title: AFSCME Department of Land Conservation and Development 2013-2015
   union: AFSCME
   term: 2013-2015
@@ -727,7 +727,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Department%20of%20Land%20Conservation%20and%20Development%202015-2017.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "7fe4e9134c45d79508cb341978d65bd96d158eb0c0615fc9975ff267e2c0c3d1"
   title: AFSCME Department of Land Conservation and Development 2015-2017
   union: AFSCME
   term: 2015-2017
@@ -736,7 +736,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Department%20of%20Land%20Conservation%20and%20Development%202017-2019.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "6ea0221b02fbd7da5fc9d08c9014ea58e77f99051200bfb27dd9d5a034c05b6f"
   title: AFSCME Department of Land Conservation and Development 2017-2019
   union: AFSCME
   term: 2017-2019
@@ -745,7 +745,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Department%20of%20Land%20Conservation%20and%20Development%202019-2021.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "b02cfb80722758f32db22ccbddf273bf4893d1fa8522243ee8c1984dcae2b4dd"
   title: AFSCME Department of Land Conservation and Development 2019-2021
   union: AFSCME
   term: 2019-2021
@@ -754,7 +754,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Department%20of%20Land%20Conservation%20and%20Development%202021-2023.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "bbddf0273e7a889ba37783e648495df3c0327eea4f9d39445a6002b0c50c3bb3"
   title: AFSCME Department of Land Conservation and Development 2021-2023
   union: AFSCME
   term: 2021-2023
@@ -763,7 +763,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Department%20of%20Land%20Conservation%20and%20Development%202023-2025.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "ad3151bf45f0e5284ae9cef917dd86ad52d4bdaba83b120c06aa3a789a12eae4"
   title: AFSCME Department of Land Conservation and Development 2023-2025
   union: AFSCME
   term: 2023-2025
@@ -772,7 +772,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Department%20of%20Land%20Conservation%20and%20Development%202025-2027.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "0e84dc3c9a67189b05485d15c1465450246722e5a23ee49e37405fa8d343d96e"
   title: AFSCME Department of Land Conservation and Development 2025-2027
   union: AFSCME
   term: 2025-2027
@@ -781,7 +781,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Department%20of%20Land%20Conservation%20and%20Development%20LOA%20FLSA-Exempt%20Overtime%20Compensation.pdf
   family: loa
   format: pdf
-  sha256: ''
+  sha256: "b09a5c2977e582fdd82bac1685d50b32de91b2b92dcd000fd887b279a82eaadf"
   title: AFSCME Department of Land Conservation and Development LOA FLSA-Exempt Overtime Compensation
   union: AFSCME
   last_checked: '2026-08-02'
@@ -789,7 +789,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Department%20of%20Public%20Safety%20and%20Training%202001-2003.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "68d18adb8eb6f7c48a29794d3d41652df7b5a1050629fa9c8bb218ff477f8952"
   title: AFSCME Department of Public Safety and Training 2001-2003
   union: AFSCME
   term: 2001-2003
@@ -798,7 +798,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Department%20of%20Public%20Safety%20and%20Training%202003-2005.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "13a55dc63010faf245516465503f89acc0c351709cdacd7c2830d4e9967f338d"
   title: AFSCME Department of Public Safety and Training 2003-2005
   union: AFSCME
   term: 2003-2005
@@ -807,7 +807,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Department%20of%20Public%20Safety%20and%20Training%202005-2007.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "ff36eebde478fa0a5be965a7747286685e49a5b5ee48ccc481e1d64faa9cde40"
   title: AFSCME Department of Public Safety and Training 2005-2007
   union: AFSCME
   term: 2005-2007
@@ -816,7 +816,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Department%20of%20Public%20Safety%20and%20Training%202007-2009.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "0050caa8b354adc47a5b38034a4e85d335db112be6d8a3a757d3d25401430796"
   title: AFSCME Department of Public Safety and Training 2007-2009
   union: AFSCME
   term: 2007-2009
@@ -825,7 +825,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Department%20of%20Public%20Safety%20and%20Training%202009-2011.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "dfc77211d5beb51ee00967b12b47518cdceba0e1942c3ae03f667dad9eb36de5"
   title: AFSCME Department of Public Safety and Training 2009-2011
   union: AFSCME
   term: 2009-2011
@@ -834,7 +834,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Department%20of%20Public%20Safety%20and%20Training%202011-2013.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "b19197c5bfdd9d7a3467012e3aaffc71bab06e67af846c42f7d9b8cdc1962121"
   title: AFSCME Department of Public Safety and Training 2011-2013
   union: AFSCME
   term: 2011-2013
@@ -843,7 +843,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Department%20of%20Public%20Safety%20and%20Training%202013-2015.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "6bf4d6bcec679229b28ce02bebe404297b649e0663bc5ba997e6323c0b42571a"
   title: AFSCME Department of Public Safety and Training 2013-2015
   union: AFSCME
   term: 2013-2015
@@ -852,7 +852,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Department%20of%20Public%20Safety%20and%20Training%202015-2017.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "ff1ef02128dbb3a5d87de298f87d407fd98340f67f5d12e5d73111901587bfaa"
   title: AFSCME Department of Public Safety and Training 2015-2017
   union: AFSCME
   term: 2015-2017
@@ -861,7 +861,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Department%20of%20State%20Lands%202001-2003.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "69cc86d0c545dda89eab03832744faa40061fcf300a6bc926ad70a9de3445d4a"
   title: AFSCME Department of State Lands 2001-2003
   union: AFSCME
   term: 2001-2003
@@ -870,7 +870,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Department%20of%20State%20Lands%202003-2005.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "806ec62d5fc76eed3cac2ad2a81e88e0ea6f59dbc465d86ca190605b6a0d5495"
   title: AFSCME Department of State Lands 2003-2005
   union: AFSCME
   term: 2003-2005
@@ -879,7 +879,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Department%20of%20State%20Lands%202005-2007.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "973c03b53b6450616969e242b0f3710a908c413b074c3dd7973310239c7b2e23"
   title: AFSCME Department of State Lands 2005-2007
   union: AFSCME
   term: 2005-2007
@@ -888,7 +888,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Department%20of%20State%20Lands%202007-2009.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "e70773e430be49f281907975b8bb38e982c3e3c26a48467fb06de9f8e7d3b5bc"
   title: AFSCME Department of State Lands 2007-2009
   union: AFSCME
   term: 2007-2009
@@ -897,7 +897,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Department%20of%20State%20Lands%202009-2011.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "1a278d9f7c451f7112067dfeced2fecabb707efb54fd6e8566dcba4b5a30bbcd"
   title: AFSCME Department of State Lands 2009-2011
   union: AFSCME
   term: 2009-2011
@@ -906,7 +906,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Department%20of%20State%20Lands%202011-2013.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "69dce5d95c2dc72df33b3ff76ee395f2862b4a5c6343b40e577a4e5b0dea1ca7"
   title: AFSCME Department of State Lands 2011-2013
   union: AFSCME
   term: 2011-2013
@@ -915,7 +915,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Department%20of%20State%20Lands%202013-2015.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "09970471feb9d50ba679558d8a57ac2a0ce3983e1bb2b8adb21826a2f1ef4446"
   title: AFSCME Department of State Lands 2013-2015
   union: AFSCME
   term: 2013-2015
@@ -924,7 +924,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Department%20of%20State%20Lands%202015-2017.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "d6c1176fe5553d15039325d9943899610e328ce424eae261ecb626354472b2eb"
   title: AFSCME Department of State Lands 2015-2017
   union: AFSCME
   term: 2015-2017
@@ -933,7 +933,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Department%20of%20State%20Lands%202017-2019.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "e76e1c4fc7e437b45720740a6b640f0ed54c944b4acf7ad31f7b5af1256192ed"
   title: AFSCME Department of State Lands 2017-2019
   union: AFSCME
   term: 2017-2019
@@ -942,7 +942,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Department%20of%20State%20Lands%202019-2021.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "1417dcd00efc3d49828df818425589471f13724248a004bd5081ae4e9889cd02"
   title: AFSCME Department of State Lands 2019-2021
   union: AFSCME
   term: 2019-2021
@@ -951,7 +951,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Department%20of%20State%20Lands%202021-2023.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "7bec017d65564b7d8c9de4fc80a4fc7924a091f7b2207705f8523059245fc57e"
   title: AFSCME Department of State Lands 2021-2023
   union: AFSCME
   term: 2021-2023
@@ -960,7 +960,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Department%20of%20State%20Lands%202023-2025.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "4a6a0dbe8f25f11521ce05ccc20e876d7bf54d113505b07542ad1b99e3ec0753"
   title: AFSCME Department of State Lands 2023-2025
   union: AFSCME
   term: 2023-2025
@@ -969,7 +969,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Department%20of%20State%20Lands%202025-2027.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "00c93a020e270873da988bf9732b5748d3b05b3773513cbc9738846adb4a6d8b"
   title: AFSCME Department of State Lands 2025-2027
   union: AFSCME
   term: 2025-2027
@@ -978,7 +978,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20DHS%20Stabilization%20and%20Crisis%20Unit%202015-2017.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "d99672311f64fdbb71dfb2a1f1b0588e6a63db4167651bdefbc6a32520a24edb"
   title: AFSCME DHS Stabilization and Crisis Unit 2015-2017
   union: AFSCME
   term: 2015-2017
@@ -987,7 +987,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20DHS%20Stabilization%20and%20Crisis%20Unit%202017-2019.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "c696b948061bde260f7e6afb8dabc4722e6ee4786a95e3308f38a19137e80f2d"
   title: AFSCME DHS Stabilization and Crisis Unit 2017-2019
   union: AFSCME
   term: 2017-2019
@@ -996,7 +996,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20DHS%20Stabilization%20and%20Crisis%20Unit%202019-2021.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "8504dd81df66bd618736ab0d5c6cab2561768efecd70882409d77358e2a56e1b"
   title: AFSCME DHS Stabilization and Crisis Unit 2019-2021
   union: AFSCME
   term: 2019-2021
@@ -1005,7 +1005,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20DHS%20Stabilization%20and%20Crisis%20Unit%202021-2023.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "d8f344faeabe6666f284065e57579b75477bb066aee1b1db7754b51252cf7b9b"
   title: AFSCME DHS Stabilization and Crisis Unit 2021-2023
   union: AFSCME
   term: 2021-2023
@@ -1014,7 +1014,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20DHS%20Stabilization%20and%20Crisis%20Unit%202023-2025.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "d38bc0ec628838ca8619256da343c2d77e162250831368e8f0ce2f78de4923a7"
   title: AFSCME DHS Stabilization and Crisis Unit 2023-2025
   union: AFSCME
   term: 2023-2025
@@ -1023,7 +1023,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20DHS%20Stabilization%20and%20Crisis%20Unit%202025-2027.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "955fb12609ca4a5855dc6223bb4ab7479d5a9a003a02908749320f6951c2bc34"
   title: AFSCME DHS Stabilization and Crisis Unit 2025-2027
   union: AFSCME
   term: 2025-2027
@@ -1032,7 +1032,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20DHS%20Stabilization%20and%20Crisis%20Unit%20LOA%20Article%2028%20Work%20Week%20Alternate%20Work%20Schedules.pdf
   family: loa
   format: pdf
-  sha256: ''
+  sha256: "d0403f87883f303195bb70a4680caf40eb13395c3dd17eac44e9489d36ccf6c3"
   title: AFSCME DHS Stabilization and Crisis Unit LOA Article 28 Work Week Alternate Work Schedules
   union: AFSCME
   last_checked: '2026-08-02'
@@ -1040,7 +1040,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20DHS%20Stabilization%20and%20Crisis%20Unit%20LOA%20Article%2028%20Work%20Week%20NOC%20Shift%20Only.pdf
   family: loa
   format: pdf
-  sha256: ''
+  sha256: "f572075da3c80470c560f4d27595b14ea387eb21e46933f022f7c07232aed79d"
   title: AFSCME DHS Stabilization and Crisis Unit LOA Article 28 Work Week NOC Shift Only
   union: AFSCME
   last_checked: '2026-08-02'
@@ -1048,7 +1048,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20DHS%20Stabilization%20and%20Crisis%20Unit%20LOA%20Article%2029%20Float%20Pool%20modified.pdf
   family: loa
   format: pdf
-  sha256: ''
+  sha256: "9aa08a3513fde2d7c5322c3ac4a0a60503e00a0219142f2f47cb877c11e5cc68"
   title: AFSCME DHS Stabilization and Crisis Unit LOA Article 29 Float Pool modified
   union: AFSCME
   last_checked: '2026-08-02'
@@ -1056,7 +1056,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20DHS%20Stabilization%20and%20Crisis%20Unit%20LOA%20Article%2029%20Overtime%20modified.pdf
   family: loa
   format: pdf
-  sha256: ''
+  sha256: "72336330da1fe0bdc2869ba5b82ca8ece1db9887dc69d59680055201020c5bad"
   title: AFSCME DHS Stabilization and Crisis Unit LOA Article 29 Overtime modified
   union: AFSCME
   last_checked: '2026-08-02'
@@ -1064,7 +1064,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20DHS%20Stabilization%20and%20Crisis%20Unit%20LOA%20Article%2040%20Work%20Shift%20Schedule%20Tumble.pdf
   family: loa
   format: pdf
-  sha256: ''
+  sha256: "d2355d9a3fa47e0dd5b9f8377e38206378b38c938c4067fe8302105d4f739dce"
   title: AFSCME DHS Stabilization and Crisis Unit LOA Article 40 Work Shift Schedule Tumble
   union: AFSCME
   last_checked: '2026-08-02'
@@ -1072,7 +1072,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20DHS%20State%20Operated%20Community%20Programs%202003-2005.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "acc79a448725eb218677a3f012606c322c5974ee0ee8d8975ffa5610d9aaa051"
   title: AFSCME DHS State Operated Community Programs 2003-2005
   union: AFSCME
   term: 2003-2005
@@ -1081,7 +1081,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20DHS%20State%20Operated%20Community%20Programs%202005-2007.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "5a8cff0613571456bb1ac840696988b3e16396a85a17aee69aef9f21fa1d0012"
   title: AFSCME DHS State Operated Community Programs 2005-2007
   union: AFSCME
   term: 2005-2007
@@ -1090,7 +1090,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20DHS%20State%20Operated%20Community%20Programs%202007-2009.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "03a5f29b0fb203c4e0caf71e5f43b94f1d97fcca32881c3102990fb0150e8b08"
   title: AFSCME DHS State Operated Community Programs 2007-2009
   union: AFSCME
   term: 2007-2009
@@ -1099,7 +1099,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20DHS%20State%20Operated%20Community%20Programs%202009-2011.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "78a8fe3206b9b87f8faba80b9d35335654906b9ad1fbc316da63b1488b2d99f0"
   title: AFSCME DHS State Operated Community Programs 2009-2011
   union: AFSCME
   term: 2009-2011
@@ -1108,7 +1108,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20DHS%20State%20Operated%20Community%20Programs%202011-2013.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "c87f6d597843ab3d19ebeafa0f11d246d92df38c77111fcfc0277e61dd32e213"
   title: AFSCME DHS State Operated Community Programs 2011-2013
   union: AFSCME
   term: 2011-2013
@@ -1117,7 +1117,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20DHS%20State%20Operated%20Community%20Programs%202013-2015.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "47f6a01cabf4b313cfec0ddc8c6de417e37d1ce5f9f6b425fe8682eff4e77946"
   title: AFSCME DHS State Operated Community Programs 2013-2015
   union: AFSCME
   term: 2013-2015
@@ -1126,7 +1126,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20DOC%20Dentists%202003-2005.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "7d2b69dc15661e22e294897d2c17c9131d3599341c62267f1776892fb1021307"
   title: AFSCME DOC Dentists 2003-2005
   union: AFSCME
   term: 2003-2005
@@ -1135,7 +1135,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20DOC%20Dentists%202005-2007.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "52c1a64c4729d89d1e577795589d183d40751642339e2c34d4b47d1e9009620a"
   title: AFSCME DOC Dentists 2005-2007
   union: AFSCME
   term: 2005-2007
@@ -1144,7 +1144,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20DOC%20Dentists%202007-2009.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "fe669df426c492f9abeda154b75998e3a799a36574b05b72d92ca7ad9c264cdc"
   title: AFSCME DOC Dentists 2007-2009
   union: AFSCME
   term: 2007-2009
@@ -1153,7 +1153,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20DOC%20Dentists%202009-2011.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "216891af44932b25cc96aa6315879686467391f8e434e6688f75c6eed2e1c7d2"
   title: AFSCME DOC Dentists 2009-2011
   union: AFSCME
   term: 2009-2011
@@ -1162,7 +1162,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20DOC%20Dentists%202011-2013.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "e79700be0c13ee817a213d39b98f9dee5c9619136242edba2143b77d6e9f7b39"
   title: AFSCME DOC Dentists 2011-2013
   union: AFSCME
   term: 2011-2013
@@ -1171,7 +1171,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20DOC%20Dentists%202013-2015.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "ee5fae82bf67f209850d1ade89e184be4d2d40103b3b40be4563947afa11b391"
   title: AFSCME DOC Dentists 2013-2015
   union: AFSCME
   term: 2013-2015
@@ -1180,7 +1180,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20DOC%20Dentists%202015-2017.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "eeab7cdaf8add45a97de227e69736a1ae3f7058bc6ab204f7d707055681d4b82"
   title: AFSCME DOC Dentists 2015-2017
   union: AFSCME
   term: 2015-2017
@@ -1189,7 +1189,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20DOC%20Dentists%202017-2019.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "c7adb26f371067cb72128c78ea6edc299c93647c4559429f1420ef45efad4878"
   title: AFSCME DOC Dentists 2017-2019
   union: AFSCME
   term: 2017-2019
@@ -1198,7 +1198,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20DOC%20Dentists%202019-2021.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "0b46623de2831b6e9df8c4c29e8c0c12be01c2cc167ee3419ef8ec2a8b2b283a"
   title: AFSCME DOC Dentists 2019-2021
   union: AFSCME
   term: 2019-2021
@@ -1207,7 +1207,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20DOC%20Dentists%202021-2023.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "24db3db286b0de6be779b280cb77f078e3b61350b8254835b463e72c8d265132"
   title: AFSCME DOC Dentists 2021-2023
   union: AFSCME
   term: 2021-2023
@@ -1216,7 +1216,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20DOC%20Dentists%202023-2025.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "0d51797029406c045f220358920c43630b2f1a75d8dfc74e649ec69b011622e6"
   title: AFSCME DOC Dentists 2023-2025
   union: AFSCME
   term: 2023-2025
@@ -1225,7 +1225,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20DOC%20Dentists%202025-2027.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "ce81f60afeb1f4e29df41978e77bc0fd7a33721af3a5751f9fda117aa5285a16"
   title: AFSCME DOC Dentists 2025-2027
   union: AFSCME
   term: 2025-2027
@@ -1234,7 +1234,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20DOC%20Parole%20and%20Probation%20Officer%202004-2007.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "7451d969ade40a3afdfab2e694343eff88992be33fd4e8bafe0c4c4e08802b5b"
   title: AFSCME DOC Parole and Probation Officer 2004-2007
   union: AFSCME
   term: 2004-2007
@@ -1243,7 +1243,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20DOC%20Parole%20and%20Probation%20Officers%202007-2009.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "fb27cd00332be5b144716d0d80d181e160b0f79f1ba4fdf73a2cb4bb17a793ca"
   title: AFSCME DOC Parole and Probation Officers 2007-2009
   union: AFSCME
   term: 2007-2009
@@ -1252,7 +1252,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20DOC%20Parole%20and%20Probation%20Officers%202009-2011.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "063d2656f7aa617c135493567a7d80dd69ad2a4431b1096de9da53457561679a"
   title: AFSCME DOC Parole and Probation Officers 2009-2011
   union: AFSCME
   term: 2009-2011
@@ -1261,7 +1261,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20DOC%20Parole%20and%20Probation%20Officers%202011-2013.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "7b6f7821a4f1950fb42afcc61b24a32d6b58d4c918bde7314b34334a89c49dec"
   title: AFSCME DOC Parole and Probation Officers 2011-2013
   union: AFSCME
   term: 2011-2013
@@ -1270,7 +1270,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20DOC%20Parole%20and%20Probation%20Officers%202013-2015.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "f7cc79a68dc4dd22475876628f31493deafcbca22355471d12d48974fddb6bab"
   title: AFSCME DOC Parole and Probation Officers 2013-2015
   union: AFSCME
   term: 2013-2015
@@ -1279,7 +1279,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20DOC%20Parole%20and%20Probation%20Officers%202015-2017.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "80e92265ef58c7d0e5d65cd8c77bc4b9e2af20c5054ebfeb9eacfdb8fd1a9b38"
   title: AFSCME DOC Parole and Probation Officers 2015-2017
   union: AFSCME
   term: 2015-2017
@@ -1288,7 +1288,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20DOC%20Parole%20and%20Probation%20Officers%202017-2019.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "295039ae6853c8455c5619269e69a5b51e70e3fb6e1bba843639aa3784c0d8c6"
   title: AFSCME DOC Parole and Probation Officers 2017-2019
   union: AFSCME
   term: 2017-2019
@@ -1297,7 +1297,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20DOC%20Parole%20and%20Probation%20Officers%202019-2021.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "e26635b4746abcdba05840cd02c769a4702bb1671a19844503473bcabb9a3348"
   title: AFSCME DOC Parole and Probation Officers 2019-2021
   union: AFSCME
   term: 2019-2021
@@ -1306,7 +1306,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20DOC%20Physicians%202023-2025.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "bcae092d8c68b9dceeaf9adf48a83b018040f96eb1747fc35bbd05ee37c319ce"
   title: AFSCME DOC Physicians 2023-2025
   union: AFSCME
   term: 2023-2025
@@ -1315,7 +1315,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20DOC%20Physicians%202025-2027.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "ca9ff3733722496090ed5cf30578e1e844830440510bf9c76d47421ceb739afb"
   title: AFSCME DOC Physicians 2025-2027
   union: AFSCME
   term: 2025-2027
@@ -1324,7 +1324,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20DOC%20Security%202001-2003.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "932737aa2a3f517e676adccc3ccdcc5233b1d8d1e00543c3fa280d077b2ad2ca"
   title: AFSCME DOC Security 2001-2003
   union: AFSCME
   term: 2001-2003
@@ -1333,7 +1333,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20DOC%20Security%202003-2005.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "836a70be62c09f450b061a1631e2ed3fea1b9f49460d44c3b5aaafe0214a4366"
   title: AFSCME DOC Security 2003-2005
   union: AFSCME
   term: 2003-2005
@@ -1342,7 +1342,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20DOC%20Security%202005-2007.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "d3c702c4364d3d5c62404c2f4fe55558507177680717f9ed880f2742f60bf386"
   title: AFSCME DOC Security 2005-2007
   union: AFSCME
   term: 2005-2007
@@ -1351,7 +1351,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20DOC%20Security%202007-2009.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "27b9b32feb5b366a47f6ff1a0af59ed8c3c3734abaa92132e39af9e914e6711b"
   title: AFSCME DOC Security 2007-2009
   union: AFSCME
   term: 2007-2009
@@ -1360,7 +1360,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20DOC%20Security%202009-2011.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "bbe048dacd4c34e5b5b69455fd184a572e9781443de1bf4b539cd802a964a8d1"
   title: AFSCME DOC Security 2009-2011
   union: AFSCME
   term: 2009-2011
@@ -1369,7 +1369,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20DOC%20Security%202011-2013.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "7bef1d082966b9469c73419521b57163bdc7f6e0b11f6cd1e0f1c12513b351b3"
   title: AFSCME DOC Security 2011-2013
   union: AFSCME
   term: 2011-2013
@@ -1378,7 +1378,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20DOC%20Security%202013-2015.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "8a4c1747ba2a965da545766c5eaf82920949b70b74f4a6ee54616e63b4860162"
   title: AFSCME DOC Security 2013-2015
   union: AFSCME
   term: 2013-2015
@@ -1387,7 +1387,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20DOC%20Security%202015-2017.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "1aa696852a8bef03a6d45072780d7f930d84623a524d2576389b4844e4dc50c8"
   title: AFSCME DOC Security 2015-2017
   union: AFSCME
   term: 2015-2017
@@ -1396,7 +1396,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20DOC%20Security%202017-2019%20amended.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "4a2c6bcbea5ea09464c6c200d52b0db3478d4ff23dd8ec54d84bcf59146fb9f3"
   title: AFSCME DOC Security 2017-2019 amended
   union: AFSCME
   term: 2017-2019
@@ -1405,7 +1405,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20DOC%20Security%202019-2021.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "e5b7e7c5c70f05fb8f672fb5c4a707926bc1d02a7d428d7ad5976275107f6787"
   title: AFSCME DOC Security 2019-2021
   union: AFSCME
   term: 2019-2021
@@ -1414,7 +1414,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20DOC%20Security%202021-2023.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "8c88385e3f5b0eecfa37e988a708cfb8c0951f29e39998e50a454365d33afd77"
   title: AFSCME DOC Security 2021-2023
   union: AFSCME
   term: 2021-2023
@@ -1423,7 +1423,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20DOC%20Security%202023-2025.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "4a60accd1bbc82c296674a3d345572d04e3b0fa7b21cfefd9afeb5efe74f888a"
   title: AFSCME DOC Security 2023-2025
   union: AFSCME
   term: 2023-2025
@@ -1432,7 +1432,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20DOC%20Security%202025-2027.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "6433fba2df214eb44e590888cf148a1990bb1fc3a009747d8386d70650714e17"
   title: AFSCME DOC Security 2025-2027
   union: AFSCME
   term: 2025-2027
@@ -1441,7 +1441,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20DOC%20Security%20Plus%202001-2003.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "317462f240d093232e73911f54c3d1236946fee6809c07a4cc4748ae2129e205"
   title: AFSCME DOC Security Plus 2001-2003
   union: AFSCME
   term: 2001-2003
@@ -1450,7 +1450,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20DOC%20Security%20Plus%202003-2005.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "a00a15c02c4e51eee2fc9ee95b4d7ee159acb6aef607a840fcb82b576e88f00d"
   title: AFSCME DOC Security Plus 2003-2005
   union: AFSCME
   term: 2003-2005
@@ -1459,7 +1459,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20DOC%20Security%20Plus%202005-2007.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "d7efef9eb9908de56c070e5d73482e9cb03f227f2db50bcde609cac000f8368f"
   title: AFSCME DOC Security Plus 2005-2007
   union: AFSCME
   term: 2005-2007
@@ -1468,7 +1468,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20DOC%20Security%20Plus%202007-2009.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "93672a6416ba87eb549437fd7ed398b3fb3826b311004d1973a48e9ec779c40b"
   title: AFSCME DOC Security Plus 2007-2009
   union: AFSCME
   term: 2007-2009
@@ -1477,7 +1477,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20DOC%20Security%20Plus%202009-2011.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "4bcffa3d258870e75052c02189f31a5ac5a739e6fd40f98757e0d4c3f5736e24"
   title: AFSCME DOC Security Plus 2009-2011
   union: AFSCME
   term: 2009-2011
@@ -1486,7 +1486,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20DOC%20Security%20Plus%202011-2013.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "a9c8153689d0b4c0f52f3e322b590f1aa63c743df415e55e79f3e4f31365c311"
   title: AFSCME DOC Security Plus 2011-2013
   union: AFSCME
   term: 2011-2013
@@ -1495,7 +1495,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20DOC%20Security%20Plus%202013-2015.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "65d5121501ef0b7dedd6f175651eb060e80e8f4b7e5c3bf8f033b8aa411a4f23"
   title: AFSCME DOC Security Plus 2013-2015
   union: AFSCME
   term: 2013-2015
@@ -1504,7 +1504,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20DOC%20Security%20Plus%202015-2017.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "012003892fb65c0b96cf82a29d025140e189037b798f6fa55254ba4e41175b2f"
   title: AFSCME DOC Security Plus 2015-2017
   union: AFSCME
   term: 2015-2017
@@ -1513,7 +1513,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20DOC%20Security%20Plus%202017-2019%20amended.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "92106239d8124f22ba019618b9d85d042dbf304ce0b06c5f9549acda1de38073"
   title: AFSCME DOC Security Plus 2017-2019 amended
   union: AFSCME
   term: 2017-2019
@@ -1522,7 +1522,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20DOC%20Security%20Plus%202019-2021.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "69e7eea99880db0aa6d68c6817ea3706ba8876e81bfc38bc14748f59d564663c"
   title: AFSCME DOC Security Plus 2019-2021
   union: AFSCME
   term: 2019-2021
@@ -1531,7 +1531,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20DOC%20Security%20Plus%202021-2023.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "f0ba176b92419cd1ba0c1e3b14bedab38e5072e2bcb59b2ee1f2c33608887dcb"
   title: AFSCME DOC Security Plus 2021-2023
   union: AFSCME
   term: 2021-2023
@@ -1540,7 +1540,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20DOC%20Security%20Plus%202023-2025.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "2434e0925471d59b482e47d5029d2d35b81b781c6ebf1588f84edab5224289f4"
   title: AFSCME DOC Security Plus 2023-2025
   union: AFSCME
   term: 2023-2025
@@ -1549,7 +1549,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20DOC%20Security%20Plus%202025-2027.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "d1d8103ab402057e793b25910546d658a4adbe177a008791550d561176d229a3"
   title: AFSCME DOC Security Plus 2025-2027
   union: AFSCME
   term: 2025-2027
@@ -1558,7 +1558,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20DOJ%20Oregon%20Association%20of%20Justice%20Attorneys%202001-2003.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "3443a02f68acdcb2f400023b290d2cd70a4fae55956a68709a158fa627e1e9be"
   title: AFSCME DOJ Oregon Association of Justice Attorneys 2001-2003
   union: AFSCME
   term: 2001-2003
@@ -1567,7 +1567,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20DOJ%20Oregon%20Association%20of%20Justice%20Attorneys%202003-2005.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "d639b616a2d35cb58a20273bac5491fcb46ece87d1f03b912beabb4e5056265f"
   title: AFSCME DOJ Oregon Association of Justice Attorneys 2003-2005
   union: AFSCME
   term: 2003-2005
@@ -1576,7 +1576,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20DOJ%20Oregon%20Association%20of%20Justice%20Attorneys%202005-2007.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "9e6d44b3bd65b8d494467030c34db0586e002c01d6d96157e5c21e149aee6be7"
   title: AFSCME DOJ Oregon Association of Justice Attorneys 2005-2007
   union: AFSCME
   term: 2005-2007
@@ -1585,7 +1585,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20DOJ%20Oregon%20Association%20of%20Justice%20Attorneys%202007-2009.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "1b3bd60d2cc3ce7bbfede9b4dc15be638b29d8bfcb7ca3145cf16a77e8fbf18b"
   title: AFSCME DOJ Oregon Association of Justice Attorneys 2007-2009
   union: AFSCME
   term: 2007-2009
@@ -1594,7 +1594,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20DOJ%20Oregon%20Association%20of%20Justice%20Attorneys%202009-2011.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "de662d934b68be1c367a504363456b2fcece7eef9599e4262118fc090b695ac7"
   title: AFSCME DOJ Oregon Association of Justice Attorneys 2009-2011
   union: AFSCME
   term: 2009-2011
@@ -1603,7 +1603,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20DOJ%20Oregon%20Association%20of%20Justice%20Attorneys%202011-2013.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "1f7321b367c79e57fb466bae2170c4f84235cbfa68b06c02fc8a33e527d934ba"
   title: AFSCME DOJ Oregon Association of Justice Attorneys 2011-2013
   union: AFSCME
   term: 2011-2013
@@ -1612,7 +1612,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20DOJ%20Oregon%20Association%20of%20Justice%20Attorneys%202013-2015.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "6feeb54b10657b53b7bf732be4452e76a0b80dd401df48e5cb5a84b67db81222"
   title: AFSCME DOJ Oregon Association of Justice Attorneys 2013-2015
   union: AFSCME
   term: 2013-2015
@@ -1621,7 +1621,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20DOJ%20Oregon%20Association%20of%20Justice%20Attorneys%202015-2017.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "fe65c4f8520b02a97d1bd066f9841b62ba3662268d0c3e9f5ae52ba663a8f80f"
   title: AFSCME DOJ Oregon Association of Justice Attorneys 2015-2017
   union: AFSCME
   term: 2015-2017
@@ -1630,7 +1630,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20DOJ%20Oregon%20Association%20of%20Justice%20Attorneys%202017-2019.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "17a17e199b66052621749704db3f70331af39d3c17e6008882aaee5814407a44"
   title: AFSCME DOJ Oregon Association of Justice Attorneys 2017-2019
   union: AFSCME
   term: 2017-2019
@@ -1639,7 +1639,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20DOJ%20Oregon%20Association%20of%20Justice%20Attorneys%202019-2021.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "bb8acc9dd8f8935b0fdd8782553f503404c99e6e08312fe85a2a7507f2828199"
   title: AFSCME DOJ Oregon Association of Justice Attorneys 2019-2021
   union: AFSCME
   term: 2019-2021
@@ -1648,7 +1648,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20DOJ%20Oregon%20Association%20of%20Justice%20Attorneys%202021-2023.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "efd0b4fbe10f57b5441a957f6f8262b21de579f18b2f5fed06ec99b93889ab24"
   title: AFSCME DOJ Oregon Association of Justice Attorneys 2021-2023
   union: AFSCME
   term: 2021-2023
@@ -1657,7 +1657,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20DOJ%20Oregon%20Department%20of%20Justice%20Attorneys%202023-2025.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "b0b30d9f67b259ff5840c681469003e1787fff469b071b2d56b741d8ad742179"
   title: AFSCME DOJ Oregon Department of Justice Attorneys 2023-2025
   union: AFSCME
   term: 2023-2025
@@ -1666,7 +1666,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20DOJ%20Oregon%20Department%20of%20Justice%20Attorneys%202025-2027.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "4693517a4d0e1feee7617199ab84dc66c2ba3265f33c1070e1049c32facf59fd"
   title: AFSCME DOJ Oregon Department of Justice Attorneys 2025-2027
   union: AFSCME
   term: 2025-2027
@@ -1675,7 +1675,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Employment%20Department%20Office%20of%20Administrative%20Hearings%202001-2003.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "cffac92c628e24e8983f21ccc7976f80a93bc0b6601d9242c433eeb4e46dc9bf"
   title: AFSCME Employment Department Office of Administrative Hearings 2001-2003
   union: AFSCME
   term: 2001-2003
@@ -1684,7 +1684,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Employment%20Department%20Office%20of%20Administrative%20Hearings%202003-2005.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "6bf893667d754efba52eabe0f933bf5d6b4cb1ef60fa905fd9d71c97ac8d1213"
   title: AFSCME Employment Department Office of Administrative Hearings 2003-2005
   union: AFSCME
   term: 2003-2005
@@ -1693,7 +1693,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Employment%20Department%20Office%20of%20Administrative%20Hearings%202009-2011.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "1efb776be8d45107d3fb86b707d7f6d9aa35ff6b7f2dab8364e2699e0d149692"
   title: AFSCME Employment Department Office of Administrative Hearings 2009-2011
   union: AFSCME
   term: 2009-2011
@@ -1702,7 +1702,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Employment%20Department%20Office%20of%20Administrative%20Hearings%202011-2013.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "a3b84f30935d71f643ea5a08f9f5608924eb640eedb457e0c104104db701de4a"
   title: AFSCME Employment Department Office of Administrative Hearings 2011-2013
   union: AFSCME
   term: 2011-2013
@@ -1711,7 +1711,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Employment%20Department%20Office%20of%20Administrative%20Hearings%202013-2015.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "2932b1c3dfdb84b0f550eb10a6c7f65152d72124cb73a56db568488154838724"
   title: AFSCME Employment Department Office of Administrative Hearings 2013-2015
   union: AFSCME
   term: 2013-2015
@@ -1720,7 +1720,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Employment%20Department%20Office%20of%20Administrative%20Hearings%202015-2017.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "34ce7b4f956b192a9d8ce392d4b92b10933b095d33c152d64b1a12997348f349"
   title: AFSCME Employment Department Office of Administrative Hearings 2015-2017
   union: AFSCME
   term: 2015-2017
@@ -1729,7 +1729,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Employment%20Department%20Office%20of%20Administrative%20Hearings%202017-2019.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "8f9b073abc64756bca48e12c8c98f41c944a3f6c85b53f2fc2c76675ed6c3316"
   title: AFSCME Employment Department Office of Administrative Hearings 2017-2019
   union: AFSCME
   term: 2017-2019
@@ -1738,7 +1738,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Employment%20Department%20Office%20of%20Administrative%20Hearings%202019-2021.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "7484c5b2ab3dee0b7f22d3b958942c682465d7725eda53832ec8848efbf0da72"
   title: AFSCME Employment Department Office of Administrative Hearings 2019-2021
   union: AFSCME
   term: 2019-2021
@@ -1747,7 +1747,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Employment%20Department%20Office%20of%20Administrative%20Hearings%202021-2023.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "055871f19770768189b97d45afb7b22c973923b8ae593cb5dbf3bdd9838a2d8a"
   title: AFSCME Employment Department Office of Administrative Hearings 2021-2023
   union: AFSCME
   term: 2021-2023
@@ -1756,7 +1756,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Employment%20Department%20Office%20of%20Administrative%20Hearings%20Officers%202007-2009.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "4f77833500234e93b1735519fdcd4492092c9e5372ffc8f211e12b10411fe31a"
   title: AFSCME Employment Department Office of Administrative Hearings Officers 2007-2009
   union: AFSCME
   term: 2007-2009
@@ -1765,7 +1765,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Employment%20Department%20Office%20of%20Adminstrative%20Hearings%202005-2007.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "46b1c0caedba9ebc481250e18f0d81b2ed0bc11be57cd1ebc022ec9d8208af4a"
   title: AFSCME Employment Department Office of Adminstrative Hearings 2005-2007
   union: AFSCME
   term: 2005-2007
@@ -1774,7 +1774,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20LOA%20Covid-19.pdf
   family: loa
   format: pdf
-  sha256: ''
+  sha256: "dc1856f2ebd903a4e1bfaca9a61650d2348b5a06fef603196f983719543fb963"
   title: AFSCME LOA Covid-19
   union: AFSCME
   last_checked: '2026-08-02'
@@ -1782,7 +1782,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Long%20Term%20Care%20Ombudsman%202009-2011.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "75a32d154bb13316d2614882a1d6651dee9cbab140dcbefa1bf06e2490d74e94"
   title: AFSCME Long Term Care Ombudsman 2009-2011
   union: AFSCME
   term: 2009-2011
@@ -1791,7 +1791,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Long%20Term%20Care%20Ombudsman%202011-2013.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "251c04eefaa1763d8fed519e7ca01fb4dfd667ed6545f42a1ea8ad334bb44f9d"
   title: AFSCME Long Term Care Ombudsman 2011-2013
   union: AFSCME
   term: 2011-2013
@@ -1800,7 +1800,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Long%20Term%20Care%20Ombudsman%202013-2015.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "24515b11aa322a58332627475e22828c2a1475003bfcf35229d19de338b72ac5"
   title: AFSCME Long Term Care Ombudsman 2013-2015
   union: AFSCME
   term: 2013-2015
@@ -1809,7 +1809,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Long%20Term%20Care%20Ombudsman%202015-2017.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "b02bb4efc300acc8659273a146fb7b42897791e8bf473e264fb480ae56f88327"
   title: AFSCME Long Term Care Ombudsman 2015-2017
   union: AFSCME
   term: 2015-2017
@@ -1818,7 +1818,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Long%20Term%20Care%20Ombudsman%202017-2019.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "413f990025a098dfd96ea3fd1dd94a5b3d4a4962a0e02d20c5274e556759b5d7"
   title: AFSCME Long Term Care Ombudsman 2017-2019
   union: AFSCME
   term: 2017-2019
@@ -1827,7 +1827,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Long%20Term%20Care%20Ombudsman%202019-2021.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "5333c59418d34a23f0f6749a4bd2721e37df3c1e4a125db7d843f7bbc1ef4aeb"
   title: AFSCME Long Term Care Ombudsman 2019-2021
   union: AFSCME
   term: 2019-2021
@@ -1836,7 +1836,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20MHDDSD%20Dentists%202001-2003.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "56a875abaeed688dd7d9203813e9364fe1f6bb525b36a9e71e231787c7377efd"
   title: AFSCME MHDDSD Dentists 2001-2003
   union: AFSCME
   term: 2001-2003
@@ -1845,7 +1845,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20MHDDSD%20Physicians%202001-2003.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "4a01bcfb242798c00749ea36af6dd321757a60d211e6ad3ab13ad2e52f80bc58"
   title: AFSCME MHDDSD Physicians 2001-2003
   union: AFSCME
   term: 2001-2003
@@ -1854,7 +1854,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20MHDDSD%20State%20Operated%20Community%20Programs%202001-2003.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "e85ebe3983fe6953ca31485f856445adcbef5a849cf1875165af8229ed75f240"
   title: AFSCME MHDDSD State Operated Community Programs 2001-2003
   union: AFSCME
   term: 2001-2003
@@ -1863,7 +1863,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Non%20State%20Child%20Care%20Providers%20Together%202025-2029.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "e05c15f3560c8d721a9c53e51b532455da33fed60d6750c03cb5d99b56e8a07e"
   title: AFSCME Non State Child Care Providers Together 2025-2029
   union: AFSCME
   term: 2025-2029
@@ -1872,7 +1872,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Non%20State%20Child%20Care%20Providers%20Together%20HB2468%20Additional%209%20percent%20Payment%20LOA%2010222024.pdf
   family: loa
   format: pdf
-  sha256: ''
+  sha256: "6fb2bd2c47f8637a7911ef8d9c3e546b0ada471e513e118c50245e9c35710f13"
   title: AFSCME Non State Child Care Providers Together HB2468 Additional 9 percent Payment LOA 10222024
   union: AFSCME
   last_checked: '2026-08-02'
@@ -1880,7 +1880,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Non%20State%20Childcare%20Providers%20Together%20%202011-2013.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "d5905aa5dbe68f696303ae3a5469b7ea4f3ff2248f0215f2f56a6f38072c0ada"
   title: AFSCME Non State Childcare Providers Together  2011-2013
   union: AFSCME
   term: 2011-2013
@@ -1889,7 +1889,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Non%20State%20Childcare%20Providers%20Together%202013-2015.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "343df590b11158a5c158e66365779dfb8a861c6a52703902e850a851151fc274"
   title: AFSCME Non State Childcare Providers Together 2013-2015
   union: AFSCME
   term: 2013-2015
@@ -1898,7 +1898,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Non%20State%20Childcare%20Providers%20Together%202015-2017.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "e882ca9ec133807cda9cdb1fd172c1eb3df34da01b21642f4806c36d2f5d979f"
   title: AFSCME Non State Childcare Providers Together 2015-2017
   union: AFSCME
   term: 2015-2017
@@ -1907,7 +1907,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Non%20State%20Childcare%20Providers%20Together%202017-2021.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "1811f350691fe649b1af5fe7b5bdb07bf5eee316dd7a7f92803a27f8e99b7860"
   title: AFSCME Non State Childcare Providers Together 2017-2021
   union: AFSCME
   term: 2017-2021
@@ -1916,7 +1916,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Non%20State%20Childcare%20Providers%20Together%202019-2023.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "b3d76cbf19c6e7b8436a414cbcf35a08d422d382c853f4de21235553cc3b53d5"
   title: AFSCME Non State Childcare Providers Together 2019-2023
   union: AFSCME
   term: 2019-2023
@@ -1925,7 +1925,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Non%20State%20Childcare%20Providers%20Together%202021-2025.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "1bb39d76be331c4578b215ea58594ce9081c6761fd7d15394b70f2e88127f1cf"
   title: AFSCME Non State Childcare Providers Together 2021-2025
   union: AFSCME
   term: 2021-2025
@@ -1934,7 +1934,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Non%20State%20Childcare%20Providers%20Together%20Telehealth%20Benefit%20Fund%20Amended%2011-09-2022.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "5b25f48f5cc63d03844614688351adbff24f330b17cffe095d8222be15cc3416"
   title: AFSCME Non State Childcare Providers Together Telehealth Benefit Fund Amended 11-09-2022
   union: AFSCME
   last_checked: '2026-08-02'
@@ -1942,7 +1942,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Office%20of%20the%20Long%20Term%20Care%20Ombudsman%202021-2023.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "1296df600a27fdb63e4c86e95b41e09d6da65ae8f04d883538e3cb34a8faf687"
   title: AFSCME Office of the Long Term Care Ombudsman 2021-2023
   union: AFSCME
   term: 2021-2023
@@ -1951,7 +1951,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Office%20of%20the%20Long%20Term%20Care%20Ombudsman%202023-2025.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "35726071e53944c4d126ebe64abc67f7a2afcc1c7dd548b6b7d9450617875569"
   title: AFSCME Office of the Long Term Care Ombudsman 2023-2025
   union: AFSCME
   term: 2023-2025
@@ -1960,7 +1960,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Oregon%20Department%20of%20Emergency%20Management%202021-2023.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "80c6100c0c8fea3cc7528923f91cbd02d1dd0743efc40b33498c564797b07e0f"
   title: AFSCME Oregon Department of Emergency Management 2021-2023
   union: AFSCME
   term: 2021-2023
@@ -1969,7 +1969,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Oregon%20Department%20of%20Emergency%20Management%202023-2025.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "1d8eb7c039cf4d24caf956f5d81dc7ea356105b63b879d6acd438256a9bbc337"
   title: AFSCME Oregon Department of Emergency Management 2023-2025
   union: AFSCME
   term: 2023-2025
@@ -1978,7 +1978,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Oregon%20Emergency%20Management%202025-2027.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "aef54fb09cfabf147230a71877165b800370266b0dddb526a8a7cc0a05766e77"
   title: AFSCME Oregon Emergency Management 2025-2027
   union: AFSCME
   term: 2025-2027
@@ -1987,7 +1987,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Oregon%20Health%20Authority%20Physicians%202007-2009.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "ae24799757fbe3bc489074eff0d2499df515ff62b675625d4ded9aee24a2c47d"
   title: AFSCME Oregon Health Authority Physicians 2007-2009
   union: AFSCME
   term: 2007-2009
@@ -1996,7 +1996,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Oregon%20Health%20Authority%20Physicians%202011-2013.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "dd2df59ef467a3c0db5730049f62ef6e27be48b5b932f068cb173f0de753e930"
   title: AFSCME Oregon Health Authority Physicians 2011-2013
   union: AFSCME
   term: 2011-2013
@@ -2005,7 +2005,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Oregon%20Health%20Authority%20Physicians%202013-2015.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "56733213b26d483900bbbfc0842bf6a0780dfe93cf5d3f07b3f33fc4a7d0db5d"
   title: AFSCME Oregon Health Authority Physicians 2013-2015
   union: AFSCME
   term: 2013-2015
@@ -2014,7 +2014,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Oregon%20Health%20Authority%20Physicians%202015-2017.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "84ccb364bb68df0b38d15acf7bc7c11d4d6cd3168a7808a16d01d57d74b5df01"
   title: AFSCME Oregon Health Authority Physicians 2015-2017
   union: AFSCME
   term: 2015-2017
@@ -2023,7 +2023,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Oregon%20Health%20Authority%20Physicians%202017-2019.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "733a8b6f8ef1d37ffebf3436e32484cacfb4112f302f33fb8199739214f2bd6a"
   title: AFSCME Oregon Health Authority Physicians 2017-2019
   union: AFSCME
   term: 2017-2019
@@ -2032,7 +2032,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Oregon%20Health%20Authority%20Physicians%202019-2021.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "63e2f15b06d595d6a0da0f29459ca189a8021a704ed8c232b7c42a03fff417af"
   title: AFSCME Oregon Health Authority Physicians 2019-2021
   union: AFSCME
   term: 2019-2021
@@ -2041,7 +2041,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Oregon%20Health%20Authority%20Physicians%202021-2023.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "151595542bc82a8d2d72b1f8b6b3d700adea85ddc2f962eb0dcbf7b83ea755b7"
   title: AFSCME Oregon Health Authority Physicians 2021-2023
   union: AFSCME
   term: 2021-2023
@@ -2050,7 +2050,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Oregon%20Health%20Authority%20Physicians%202023-2025.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "cb08c459e74cb4792c47016781c2dda71fe1858b3c812d330ccd90f2929f4905"
   title: AFSCME Oregon Health Authority Physicians 2023-2025
   union: AFSCME
   term: 2023-2025
@@ -2059,7 +2059,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Oregon%20Health%20Authority%20Physicians%202025-2027.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "1162ffb82d325aa0b82d936b9216b675b9ff8aff2afb10a848a9d4bd8bd1a166"
   title: AFSCME Oregon Health Authority Physicians 2025-2027
   union: AFSCME
   term: 2025-2027
@@ -2068,7 +2068,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Oregon%20Liquor%20and%20Cannabis%20Commission%202021-2023.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "5c1b996471c15d035c9fc06806316b73eb6be82e0e61db8fcc29bbea18c30732"
   title: AFSCME Oregon Liquor and Cannabis Commission 2021-2023
   union: AFSCME
   term: 2021-2023
@@ -2077,7 +2077,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Oregon%20Liquor%20Control%20Commission%202001-2003.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "09d47723d433d7719fb35142681efb159bad5be5ccc2354bd6590e8c253a6e83"
   title: AFSCME Oregon Liquor Control Commission 2001-2003
   union: AFSCME
   term: 2001-2003
@@ -2086,7 +2086,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Oregon%20Liquor%20Control%20Commission%202003-2005.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "0ccf23ca71ee7f21d1a619afb105b9b3dbf9f899534607e7e6e50737a847cb0e"
   title: AFSCME Oregon Liquor Control Commission 2003-2005
   union: AFSCME
   term: 2003-2005
@@ -2095,7 +2095,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Oregon%20Liquor%20Control%20Commission%202005-2007.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "73fb2ca30c5276a38a53e112a2c4f52b2a2bece2d66a5c11ebc93a89ca58d401"
   title: AFSCME Oregon Liquor Control Commission 2005-2007
   union: AFSCME
   term: 2005-2007
@@ -2104,7 +2104,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Oregon%20Liquor%20Control%20Commission%202007-2009.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "69f2d8c383a135f8e95e21dfd8abbf48057ad2b7990baaaa2c16356e0131ae14"
   title: AFSCME Oregon Liquor Control Commission 2007-2009
   union: AFSCME
   term: 2007-2009
@@ -2113,7 +2113,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Oregon%20Liquor%20Control%20Commission%202009-2011.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "42a5465dbe5dc72d8e3f2352fd33b5c85d1cbf2953dfa200952bf43636753b20"
   title: AFSCME Oregon Liquor Control Commission 2009-2011
   union: AFSCME
   term: 2009-2011
@@ -2122,7 +2122,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Oregon%20Liquor%20Control%20Commission%202011-2013.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "696cd259f231713222c7f718f9bce25961e6c9968c3eca6889ed30b3e52cd907"
   title: AFSCME Oregon Liquor Control Commission 2011-2013
   union: AFSCME
   term: 2011-2013
@@ -2131,7 +2131,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Oregon%20Liquor%20Control%20Commission%202013-2015.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "f25d8097158e84105ba7c8f3dc418a55a454456e050e0901e37abe4832166b97"
   title: AFSCME Oregon Liquor Control Commission 2013-2015
   union: AFSCME
   term: 2013-2015
@@ -2140,7 +2140,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Oregon%20Liquor%20Control%20Commission%202015-2017.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "aaa31cfb8cdc92fbf9999ba28f027c6a4d8ea4321a46018ab9bbe13565fa5622"
   title: AFSCME Oregon Liquor Control Commission 2015-2017
   union: AFSCME
   term: 2015-2017
@@ -2149,7 +2149,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Oregon%20Liquor%20Control%20Commission%202017-2019.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "67e575ed834bfb98b8b03cfc97937229c5e2e59a33c0fb0834ab9ef1ede22ca2"
   title: AFSCME Oregon Liquor Control Commission 2017-2019
   union: AFSCME
   term: 2017-2019
@@ -2158,7 +2158,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Oregon%20Liquor%20Control%20Commission%202019-2021.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "434f08c3226b1f92cca2850643bd2b3aa1c7a8a5c5b3792071e70a8c12260c19"
   title: AFSCME Oregon Liquor Control Commission 2019-2021
   union: AFSCME
   term: 2019-2021
@@ -2167,7 +2167,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Oregon%20Liquor%20Control%20Commission%202023-2025.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "5b8072e4e9feb29108142c3bd36c54481cf24763ce21d59ca0e8595f55aadd23"
   title: AFSCME Oregon Liquor Control Commission 2023-2025
   union: AFSCME
   term: 2023-2025
@@ -2176,7 +2176,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Oregon%20Long%20Term%20Care%20Ombudsman%202025-2027.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "82bddda90e2ac1607b334fc1266389cdb482553cd139934e4a951500171a14e2"
   title: AFSCME Oregon Long Term Care Ombudsman 2025-2027
   union: AFSCME
   term: 2025-2027
@@ -2185,7 +2185,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Oregon%20Military%20Department%202001-2003.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "bf6f7f14bd904e76900a053244f84b710478a622ab868b1adcd72e80caed668a"
   title: AFSCME Oregon Military Department 2001-2003
   union: AFSCME
   term: 2001-2003
@@ -2194,7 +2194,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Oregon%20Military%20Department%202003-2005.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "9c84772604de4f5c7ac9d1aee2c28917b4f036397082d069bec2157c6ba97627"
   title: AFSCME Oregon Military Department 2003-2005
   union: AFSCME
   term: 2003-2005
@@ -2203,7 +2203,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Oregon%20Military%20Department%202005-2007.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "413654a032fcd28dc8cc86050e6a4c6fbb1ec6757adb7000b5d45b749ecd7c1d"
   title: AFSCME Oregon Military Department 2005-2007
   union: AFSCME
   term: 2005-2007
@@ -2212,7 +2212,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Oregon%20Military%20Department%202007-2009.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "d858117012ec7974aede481f27c8da39908683454943549154f411ce40136e17"
   title: AFSCME Oregon Military Department 2007-2009
   union: AFSCME
   term: 2007-2009
@@ -2221,7 +2221,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Oregon%20Military%20Department%202009-2011.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "bb5a9b51bdcb2e4dd4bbdbe2e8fdd9b97476624bbc3b8e1017c785169bbc57a8"
   title: AFSCME Oregon Military Department 2009-2011
   union: AFSCME
   term: 2009-2011
@@ -2230,7 +2230,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Oregon%20Military%20Department%202011-2013.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "cd27268f6a4bcf87d3c08420341ccd75ecd5e1b316a4edcbc5b78ea4f2a14c20"
   title: AFSCME Oregon Military Department 2011-2013
   union: AFSCME
   term: 2011-2013
@@ -2239,7 +2239,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Oregon%20Military%20Department%202013-2015.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "f1b49736dd446e43b970749103772651de851e55587a68f2901f6418b8b9d426"
   title: AFSCME Oregon Military Department 2013-2015
   union: AFSCME
   term: 2013-2015
@@ -2248,7 +2248,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Oregon%20Military%20Department%202015-2017.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "9e7be76632fb3f0950a2e9c9020e7acb7e613bc17cb20492f27a16facc389e4c"
   title: AFSCME Oregon Military Department 2015-2017
   union: AFSCME
   term: 2015-2017
@@ -2257,7 +2257,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Oregon%20Military%20Department%202017-2019.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "e580e1d48777a7b85d2860433e959c5b194b9fd38b4a50a4a773bf4451e36d0f"
   title: AFSCME Oregon Military Department 2017-2019
   union: AFSCME
   term: 2017-2019
@@ -2266,7 +2266,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Oregon%20Military%20Department%202019-2021.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "32e9952c078adb40c2df9e5bedeaa3c352704ce7fa80a685fbd6d08b42b4222a"
   title: AFSCME Oregon Military Department 2019-2021
   union: AFSCME
   term: 2019-2021
@@ -2275,7 +2275,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Oregon%20Military%20Department%202021-2023.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "7dc3248bb7c09c6b73ac429e7bde14a6a376cc459c4d0b5d071020b127b23f6a"
   title: AFSCME Oregon Military Department 2021-2023
   union: AFSCME
   term: 2021-2023
@@ -2284,7 +2284,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Oregon%20Military%20Department%202023-2025.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "58534f1828cbf16194adea41d1fc52e6825b56a76a7fdee99118b3aeb7bc1c92"
   title: AFSCME Oregon Military Department 2023-2025
   union: AFSCME
   term: 2023-2025
@@ -2293,7 +2293,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Oregon%20Military%20Department%202025-2027.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "3ad4090fd6ea33a8df0382c0e546a75821eb70dd72a3fdcd8e01521951faf508"
   title: AFSCME Oregon Military Department 2025-2027
   union: AFSCME
   term: 2025-2027
@@ -2302,7 +2302,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Oregon%20Military%20Department%20Office%20of%20Emergency%20Management%202001-2003.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "b4c6c6ef4e8dbc892ebdc35e51beb5eaabc831799ce68492fad14599393144a1"
   title: AFSCME Oregon Military Department Office of Emergency Management 2001-2003
   union: AFSCME
   term: 2001-2003
@@ -2311,7 +2311,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Oregon%20Military%20Department%20Office%20of%20Emergency%20Management%202003-2005.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "4de2f546ae374e40df506179a854abd668c218a7c22ed046e77668749fdec230"
   title: AFSCME Oregon Military Department Office of Emergency Management 2003-2005
   union: AFSCME
   term: 2003-2005
@@ -2320,7 +2320,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Oregon%20Military%20Department%20Office%20of%20Emergency%20Management%202005-2007.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "ba3f644f3b963591679f37f084aab11dfa0560633d5c7bcaeace7cfade817f3e"
   title: AFSCME Oregon Military Department Office of Emergency Management 2005-2007
   union: AFSCME
   term: 2005-2007
@@ -2329,7 +2329,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Oregon%20Military%20Department%20Office%20of%20Emergency%20Management%202007-2009.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "72c465528ced936f89ebb9691dbdd836f8d05dbd0d74790de03c2a139cc7946d"
   title: AFSCME Oregon Military Department Office of Emergency Management 2007-2009
   union: AFSCME
   term: 2007-2009
@@ -2338,7 +2338,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Oregon%20Military%20Department%20Office%20Of%20Emergency%20Management%202009-2011.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "fc9dfdaac2edadf419ba9c8f61413297768288b15330d22842b58e3b98a3d7ab"
   title: AFSCME Oregon Military Department Office Of Emergency Management 2009-2011
   union: AFSCME
   term: 2009-2011
@@ -2347,7 +2347,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Oregon%20Military%20Department%20Office%20of%20Emergency%20Management%202011-2013.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "5a2e2dcf26ded10cc82b9d8d93fbe61f93c7a26ca34120e34480d1cae70a85ac"
   title: AFSCME Oregon Military Department Office of Emergency Management 2011-2013
   union: AFSCME
   term: 2011-2013
@@ -2356,7 +2356,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Oregon%20Military%20Department%20Office%20of%20Emergency%20Management%202013-2015.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "9739f24b8d4cb040b8a893368d112d489e39aff3929b25235309055963dfebc5"
   title: AFSCME Oregon Military Department Office of Emergency Management 2013-2015
   union: AFSCME
   term: 2013-2015
@@ -2365,7 +2365,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Oregon%20Military%20Department%20Office%20of%20Emergency%20Management%202015-2017.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "476c45b144f3fee4ac635e0744a78ea58d405c77eda4e27eeb39d07df21ae2ef"
   title: AFSCME Oregon Military Department Office of Emergency Management 2015-2017
   union: AFSCME
   term: 2015-2017
@@ -2374,7 +2374,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Oregon%20Military%20Department%20Office%20of%20Emergency%20Management%202017-2019.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "9d41995cbc240242b98aa046ea41918017067eaf6e3d52169b1a6f180bc9fbc3"
   title: AFSCME Oregon Military Department Office of Emergency Management 2017-2019
   union: AFSCME
   term: 2017-2019
@@ -2383,7 +2383,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Oregon%20Military%20Department%20Oregon%20Emergency%20Management%202019-2021.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "a63c579c2c97acaa1eb810992cb4717b48a3adfd996a55d4c07a533f1a97b10d"
   title: AFSCME Oregon Military Department Oregon Emergency Management 2019-2021
   union: AFSCME
   term: 2019-2021
@@ -2392,7 +2392,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Oregon%20Public%20Defense%20Commission%20Administrative%20Services%20Division%202023-2025.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "7da4c6230dc88921b648ed27c5e62469da6e3bff9de78601014be921fa24ffc3"
   title: AFSCME Oregon Public Defense Commission Administrative Services Division 2023-2025
   union: AFSCME
   term: 2023-2025
@@ -2401,7 +2401,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Oregon%20Public%20Defense%20Commission%20Attorneys%202023-2025.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "42832bb4e3fabf0460bde7c93d0986a4cccd446ac4c8c80eddfa48ea3ca5d3fb"
   title: AFSCME Oregon Public Defense Commission Attorneys 2023-2025
   union: AFSCME
   term: 2023-2025
@@ -2410,7 +2410,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Oregon%20Public%20Defense%20Commission%20Legal%20Support%20Unit%202023-2025.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "71921e181c1f984dcedb0f19cf3b3513baa0d31a4d011620a4d8b8676ae9c013"
   title: AFSCME Oregon Public Defense Commission Legal Support Unit 2023-2025
   union: AFSCME
   term: 2023-2025
@@ -2419,7 +2419,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Oregon%20State%20Fire%20Marshal%202001-2003.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "69208477d7007104ab4c2fd6a4073e6dbf619ab795dc8d09ca4a4fdda668dafa"
   title: AFSCME Oregon State Fire Marshal 2001-2003
   union: AFSCME
   term: 2001-2003
@@ -2428,7 +2428,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Oregon%20State%20Fire%20Marshal%202003-2005.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "f73b15bd866dcdabbae3e17fb4c140f7f119dd506b62c36c2633780e72d520b4"
   title: AFSCME Oregon State Fire Marshal 2003-2005
   union: AFSCME
   term: 2003-2005
@@ -2437,7 +2437,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Oregon%20State%20Fire%20Marshal%202005-2007.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "65f71c118e6d705a44ff17ea91efcdd0e99a5543ea765bc6a1f0f1f512a15a76"
   title: AFSCME Oregon State Fire Marshal 2005-2007
   union: AFSCME
   term: 2005-2007
@@ -2446,7 +2446,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Oregon%20State%20Fire%20Marshal%202007-2009.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "5c42f63472124ace8964e2c714faea66d2a1391536588dc5efeec065f3f1a30b"
   title: AFSCME Oregon State Fire Marshal 2007-2009
   union: AFSCME
   term: 2007-2009
@@ -2455,7 +2455,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Oregon%20State%20Fire%20Marshal%202009-2011.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "f7c342cb40e431d54a8eea21fe6f45ed09bfdb7eefbc49e20c6ff72b32fe8b0a"
   title: AFSCME Oregon State Fire Marshal 2009-2011
   union: AFSCME
   term: 2009-2011
@@ -2464,7 +2464,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Oregon%20State%20Fire%20Marshal%202011-2013.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "522147f50a5cc1b1ab725b37896768794693efc02a9b73ebc4523145d83559e9"
   title: AFSCME Oregon State Fire Marshal 2011-2013
   union: AFSCME
   term: 2011-2013
@@ -2473,7 +2473,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Oregon%20State%20Fire%20Marshal%202013-2015.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "3d2d7eb3d9d2f286d604cd8dcb7f5de469eaac2aa93d7ef17f34f9482fb1d022"
   title: AFSCME Oregon State Fire Marshal 2013-2015
   union: AFSCME
   term: 2013-2015
@@ -2482,7 +2482,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Oregon%20State%20Fire%20Marshal%202015-2017.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "9720edb2115a94c74b2a8c46d692362aa92f87ab838b74b43e58825e23d2dae0"
   title: AFSCME Oregon State Fire Marshal 2015-2017
   union: AFSCME
   term: 2015-2017
@@ -2491,7 +2491,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Oregon%20State%20Fire%20Marshal%202017-2019.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "92de75414c99f829554d89901635f996561e8dcc5f2688064babaa677baa511a"
   title: AFSCME Oregon State Fire Marshal 2017-2019
   union: AFSCME
   term: 2017-2019
@@ -2500,7 +2500,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Oregon%20State%20Fire%20Marshal%202019-2021.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "c7a1b5b7c01f8544a016714392816868715626c659f978086297c52661acb621"
   title: AFSCME Oregon State Fire Marshal 2019-2021
   union: AFSCME
   term: 2019-2021
@@ -2509,7 +2509,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Oregon%20State%20Fire%20Marshal%202021-2023.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "c1628c3a19ae6c76f7569eec1698adf80f5fed08b514b2cf76c0fa996e7f7d5d"
   title: AFSCME Oregon State Fire Marshal 2021-2023
   union: AFSCME
   term: 2021-2023
@@ -2518,7 +2518,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Oregon%20State%20Fire%20Marshal%202023-2025.pdf.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "88ec42938d0b293d02de12cb4051ceb268f90656578a7eceb17a588a765f25bd"
   title: AFSCME Oregon State Fire Marshal 2023-2025
   union: AFSCME
   term: 2023-2025
@@ -2527,7 +2527,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Oregon%20State%20Fire%20Marshal%202025-2027.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "9b55bce4c09f28a0b3b83b81df92e2b1ff55fc03fe740785f55993e0bb20151d"
   title: AFSCME Oregon State Fire Marshal 2025-2027
   union: AFSCME
   term: 2025-2027
@@ -2536,7 +2536,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Oregon%20State%20Police%20Support%20Unit%202001-2003.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "f45e211eb276e05446f4f5ae95146552ff78873cb79743ce11ad1fdcee208b32"
   title: AFSCME Oregon State Police Support Unit 2001-2003
   union: AFSCME
   term: 2001-2003
@@ -2545,7 +2545,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Oregon%20State%20Police%20Support%20Unit%202003-2005.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "fced8003de21d25f900a3b40e55b5c2e4ca8918223ecd33bb425af40afbe3a11"
   title: AFSCME Oregon State Police Support Unit 2003-2005
   union: AFSCME
   term: 2003-2005
@@ -2554,7 +2554,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Oregon%20State%20Police%20Support%20Unit%202005-2007.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "313c2243a2db69f1c512e31bf4f5dd5cb99824aa3ca6496472d1e6bc8aa60f5b"
   title: AFSCME Oregon State Police Support Unit 2005-2007
   union: AFSCME
   term: 2005-2007
@@ -2563,7 +2563,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Oregon%20State%20Police%20Support%20Unit%202007-2009.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "ca6644b4fe08fb65ad3487a6bf9be4bbfbe26f888fd95672516cdc501737ee1b"
   title: AFSCME Oregon State Police Support Unit 2007-2009
   union: AFSCME
   term: 2007-2009
@@ -2572,7 +2572,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Oregon%20State%20Police%20Support%20Unit%202009-2011.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "2a082f4c28160301474a4b59c849bf1392adb00dcd0b3f7281390cdbe75820bd"
   title: AFSCME Oregon State Police Support Unit 2009-2011
   union: AFSCME
   term: 2009-2011
@@ -2581,7 +2581,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Oregon%20State%20Police%20Support%20Unit%202011-2013.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "637b91b6be6c191f4ab17187889f5b1074efeecaec924a0f202c84eadbf96ccc"
   title: AFSCME Oregon State Police Support Unit 2011-2013
   union: AFSCME
   term: 2011-2013
@@ -2590,7 +2590,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Oregon%20State%20Police%20Support%20Unit%202013-2015.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "8fe0da099e9ad2bea6a31e935b58df86d8ab88e83502eaffdb1f55aed37b7760"
   title: AFSCME Oregon State Police Support Unit 2013-2015
   union: AFSCME
   term: 2013-2015
@@ -2599,7 +2599,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Oregon%20State%20Police%20Support%20Unit%202015-2017.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "bc4dc1649e5458164906bdde5bfeeaced055cba21d14ef264efc2712c586ff3b"
   title: AFSCME Oregon State Police Support Unit 2015-2017
   union: AFSCME
   term: 2015-2017
@@ -2608,7 +2608,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Oregon%20State%20Police%20Support%20Unit%202017-2019.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "a56f044d5b114199ab7a91ae954f91fd8a8ee0c37ef30547727e078bcdf72445"
   title: AFSCME Oregon State Police Support Unit 2017-2019
   union: AFSCME
   term: 2017-2019
@@ -2617,7 +2617,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Oregon%20State%20Police%20Support%20Unit%202019-2021.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "f0d57c66a571f647acbba1e4a760a47ab714ce943969cf5dcf66237d818a0391"
   title: AFSCME Oregon State Police Support Unit 2019-2021
   union: AFSCME
   term: 2019-2021
@@ -2626,7 +2626,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Oregon%20State%20Police%20Support%20Unit%202021-2023.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "e2c8c7495e26617b37dd5e8bde0f7d8608e8fd33bfe8e667bf6a35a47c724c35"
   title: AFSCME Oregon State Police Support Unit 2021-2023
   union: AFSCME
   term: 2021-2023
@@ -2635,7 +2635,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Oregon%20State%20Police%20Support%20Unit%202023-2025.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "87b24f0fe95bbe9c2cf2777aced7c3fda5bbaaa8d180bc9c9da1a794db944268"
   title: AFSCME Oregon State Police Support Unit 2023-2025
   union: AFSCME
   term: 2023-2025
@@ -2644,7 +2644,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Oregon%20State%20Police%20Support%20Unit%202025-2027.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "2a67b8149831d851ee3d204360b3dd6b2b537e94f52aef2f3e2475680035b34d"
   title: AFSCME Oregon State Police Support Unit 2025-2027
   union: AFSCME
   term: 2025-2027
@@ -2653,7 +2653,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Oregon%20Youth%20Authority%202001-2003.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "adcea4af828cee662812f63dd30125febeeade67c49cd8fdaefccb80e007715b"
   title: AFSCME Oregon Youth Authority 2001-2003
   union: AFSCME
   term: 2001-2003
@@ -2662,7 +2662,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Oregon%20Youth%20Authority%202003-2005.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "50450f78fe7414310e6e034ac615aa1946aef4d7ea38ee8ff0b35d9281d9d934"
   title: AFSCME Oregon Youth Authority 2003-2005
   union: AFSCME
   term: 2003-2005
@@ -2671,7 +2671,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Oregon%20Youth%20Authority%202005-2007.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "98b1b8b33eec2a04c392b28167d2d0adc3984894c3e6ab146c1522528fab555b"
   title: AFSCME Oregon Youth Authority 2005-2007
   union: AFSCME
   term: 2005-2007
@@ -2680,7 +2680,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Oregon%20Youth%20Authority%202007-2009.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "3ddc059a853d44530b6b1080174366c3db2dc4ac21acef90feb0376d15953bd5"
   title: AFSCME Oregon Youth Authority 2007-2009
   union: AFSCME
   term: 2007-2009
@@ -2689,7 +2689,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Oregon%20Youth%20Authority%202009-2011.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "7e156b0cb30cd6d25828b20ef2ed6bcb7e98547f7c0b0d705b6fb35d5e2b8931"
   title: AFSCME Oregon Youth Authority 2009-2011
   union: AFSCME
   term: 2009-2011
@@ -2698,7 +2698,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Oregon%20Youth%20Authority%202011-2013.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "abd1feceea05556789a9e87d617da9cab6e0a918fc94578bd7bb326ab24f1bda"
   title: AFSCME Oregon Youth Authority 2011-2013
   union: AFSCME
   term: 2011-2013
@@ -2707,7 +2707,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Oregon%20Youth%20Authority%202013-2015.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "17478cccc9558a273989445edd8adb107d27af92450515b78e84ccfe2d4b2b3f"
   title: AFSCME Oregon Youth Authority 2013-2015
   union: AFSCME
   term: 2013-2015
@@ -2716,7 +2716,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Oregon%20Youth%20Authority%202015-2017.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "ccb7d5ff29feff56227a720167ce81afc4856f364e05c4cbe848b830101e0b78"
   title: AFSCME Oregon Youth Authority 2015-2017
   union: AFSCME
   term: 2015-2017
@@ -2725,7 +2725,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Oregon%20Youth%20Authority%202017-2019.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "3fdc69103bf789a4b1efa2e03fed923506c0c784493a055aa9d8cafda0234a57"
   title: AFSCME Oregon Youth Authority 2017-2019
   union: AFSCME
   term: 2017-2019
@@ -2734,7 +2734,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Oregon%20Youth%20Authority%202019-2021.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "52a88d6d42149e217ed39cdaed2a1901683e30279116d9073b003b4df8e8038d"
   title: AFSCME Oregon Youth Authority 2019-2021
   union: AFSCME
   term: 2019-2021
@@ -2743,7 +2743,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Oregon%20Youth%20Authority%202021-2023.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "2f55062606990b00073a1c2898acac67c2f7e4a981640daf7569c172d7c15ae7"
   title: AFSCME Oregon Youth Authority 2021-2023
   union: AFSCME
   term: 2021-2023
@@ -2752,7 +2752,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Oregon%20Youth%20Authority%202023-2025.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "24401e65f46a59fbd183a84eae5261f1ff74adc37d7b793f7c56d30987e6dd00"
   title: AFSCME Oregon Youth Authority 2023-2025
   union: AFSCME
   term: 2023-2025
@@ -2761,7 +2761,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Oregon%20Youth%20Authority%202025-2027.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "37c6a160463b402980a8bca8c654f5d56b7d8d9dfa6e2c2b1b2870fae61265e0"
   title: AFSCME Oregon Youth Authority 2025-2027
   union: AFSCME
   term: 2025-2027
@@ -2770,7 +2770,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20OSH%20Physicians%202005-2007.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "ad8c3a33fe5d71af1fe17a05bfc7866b9142d9b2bca4bca1727564fdfd0dcbbe"
   title: AFSCME OSH Physicians 2005-2007
   union: AFSCME
   term: 2005-2007
@@ -2779,7 +2779,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20OSH%20Registered%20Nurses%202001-2003.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "69e40843ea5d1d73c8bf82480a5373cae0781eab87fcc629dd0e802dcc670d71"
   title: AFSCME OSH Registered Nurses 2001-2003
   union: AFSCME
   term: 2001-2003
@@ -2788,7 +2788,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20OSH%20Registered%20Nurses%202003-2005.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "333e50a58ff793576b9db27940cbdf1cf96f95948f83280aafa556e2d3ea6b6a"
   title: AFSCME OSH Registered Nurses 2003-2005
   union: AFSCME
   term: 2003-2005
@@ -2797,7 +2797,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20OSH%20Registered%20Nurses%202005-2007.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "2156444c5b76f4ed459da961ef5337d9769d9659d5d52024800292f8ce6c4cab"
   title: AFSCME OSH Registered Nurses 2005-2007
   union: AFSCME
   term: 2005-2007
@@ -2806,7 +2806,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20OSH%20Registered%20Nurses%202007-2009.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "7438c90e5c6e08a82ce3dca409d743c3024b61e56bb363e39f13ac8d097dc705"
   title: AFSCME OSH Registered Nurses 2007-2009
   union: AFSCME
   term: 2007-2009
@@ -2815,7 +2815,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20OSH%20Registered%20Nurses%202009-2011.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "8edec974344688400a956b10c94df9520597068abe8f48d6f47e8093f2ce0cc3"
   title: AFSCME OSH Registered Nurses 2009-2011
   union: AFSCME
   term: 2009-2011
@@ -2824,7 +2824,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20OSH%20Registered%20Nurses%202011-2013.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "1f8dca7fc718eb19d498eefbdeefa3bc3106f221ccb7b60c3a6e6c5422de89c8"
   title: AFSCME OSH Registered Nurses 2011-2013
   union: AFSCME
   term: 2011-2013
@@ -2833,7 +2833,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20OSH%20Registered%20Nurses%202013-2015.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "bc927b8e4b0c9e1eacf1dc4ea87b27bdf683fa7db08f3c14c3c4831544e0da0f"
   title: AFSCME OSH Registered Nurses 2013-2015
   union: AFSCME
   term: 2013-2015
@@ -2842,7 +2842,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20OSH%20Registered%20Nurses%202015-2017.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "b0536c6fe65ce92a5da14ff6a356d6499086420f3d1c255fca44b238bbe5ef10"
   title: AFSCME OSH Registered Nurses 2015-2017
   union: AFSCME
   term: 2015-2017
@@ -2851,7 +2851,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20OSH%20Registered%20Nurses%202017-2019.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "6ab001552caf36f63a8f4c2f35d159737edc65f5f4ab70c8875ed5ae2aaef178"
   title: AFSCME OSH Registered Nurses 2017-2019
   union: AFSCME
   term: 2017-2019
@@ -2860,7 +2860,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20OSH%20Registered%20Nurses%202019-2021.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "e4915c4c85976aa1baac8a6d9195bfd2661b6c73fd49925b434cdad72ea82918"
   title: AFSCME OSH Registered Nurses 2019-2021
   union: AFSCME
   term: 2019-2021
@@ -2869,7 +2869,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20OSH%20Registered%20Nurses%202021-2023.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "5ed740784748c733ec33d13a8c467a6aff09cd084aeb312cdc44758b80182186"
   title: AFSCME OSH Registered Nurses 2021-2023
   union: AFSCME
   term: 2021-2023
@@ -2878,7 +2878,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20OSH%20Registered%20Nurses%202023-2025.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "ff3cb24c45b169d8254c74685181046effe955f93f6828096be2f3853912e53f"
   title: AFSCME OSH Registered Nurses 2023-2025
   union: AFSCME
   term: 2023-2025
@@ -2887,7 +2887,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20OSH%20Registered%20Nurses%202025-2027.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "284491411850752c8a37760e46cb4e59a2c512ffe1b663ad7f3736508e1bfd7a"
   title: AFSCME OSH Registered Nurses 2025-2027
   union: AFSCME
   term: 2025-2027
@@ -2896,7 +2896,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Real%20Estate%20Agency%202001-2003.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "1764e0036121d74f0b0b1238f01d04bd2560fbec148db7bf739e24975af2e032"
   title: AFSCME Real Estate Agency 2001-2003
   union: AFSCME
   term: 2001-2003
@@ -2905,7 +2905,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Real%20Estate%20Agency%202003-2005.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "7d62bbad667f3a15575abeefd8a01651e4a4f2f2db36f5109a811241e0167527"
   title: AFSCME Real Estate Agency 2003-2005
   union: AFSCME
   term: 2003-2005
@@ -2914,7 +2914,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Real%20Estate%20Agency%202005-2007.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "54149cfccacfc74d431f9256659404edb6291a15d9dd0aafdb46b81a093263a4"
   title: AFSCME Real Estate Agency 2005-2007
   union: AFSCME
   term: 2005-2007
@@ -2923,7 +2923,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Real%20Estate%20Agency%202009-2011.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "67527add70b40f82b64d9b8c73749c26b48f3b4454af5dbc41ae6dce0784ddce"
   title: AFSCME Real Estate Agency 2009-2011
   union: AFSCME
   term: 2009-2011
@@ -2932,7 +2932,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Real%20Estate%20Agency%202011-2013.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "2ec44e2fc0e91f4e6f0e2f004260f1bc362bde5495c09703a800154154f7e1cb"
   title: AFSCME Real Estate Agency 2011-2013
   union: AFSCME
   term: 2011-2013
@@ -2941,7 +2941,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Real%20Estate%20Agency%202013-2015.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "09bb75f5a4d3ec6a02bbbed8468c7ae0a9e7afff854ba77b532224f5444e4328"
   title: AFSCME Real Estate Agency 2013-2015
   union: AFSCME
   term: 2013-2015
@@ -2950,7 +2950,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Real%20Estate%20Agency%202015-2017.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "8386d5405d91ae38f5e4133418dc3aa707469f36b4886aaf24838c701f286f7f"
   title: AFSCME Real Estate Agency 2015-2017
   union: AFSCME
   term: 2015-2017
@@ -2959,7 +2959,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Real%20Estate%20Agency%202017-2019%20amended.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "ca7ec4ac303c77d7d09b5ca7ea83b8d3eda8e6a10dc50e1deae7014e9b13e72d"
   title: AFSCME Real Estate Agency 2017-2019 amended
   union: AFSCME
   term: 2017-2019
@@ -2968,7 +2968,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Real%20Estate%20Agency%202019-2021.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "84dd9278739e7283809a60b78b7f67b4e75927f0a50a1a3b8c96e18c7e9d57e3"
   title: AFSCME Real Estate Agency 2019-2021
   union: AFSCME
   term: 2019-2021
@@ -2977,7 +2977,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Real%20Estate%20Agency%202021-2023.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "df70bf38166bacd7657953449905cd10107c406a9f6c9ed056ed39f0d20eac33"
   title: AFSCME Real Estate Agency 2021-2023
   union: AFSCME
   term: 2021-2023
@@ -2986,7 +2986,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Real%20Estate%20Agency%202023-2025.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "d23650fc098e35b0bef7849194633ac128ea0be6fcc1e3f8f02b6c3f9aad7d53"
   title: AFSCME Real Estate Agency 2023-2025
   union: AFSCME
   term: 2023-2025
@@ -2995,7 +2995,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Real%20Estate%20Agency%202025-2027.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "3a7c571ef81e25d441657857476f6b821bbd856737d60959ac3692c3a6ff33bf"
   title: AFSCME Real Estate Agency 2025-2027
   union: AFSCME
   term: 2025-2027
@@ -3004,7 +3004,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AOCE%20Association%20of%20Corrections%20Employees%202001-2003.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "7943856cd481c904c701fd8e28c82788c133a63974ffa0ef974fa7286199c639"
   title: AOCE Association of Corrections Employees 2001-2003
   union: AOCE
   term: 2001-2003
@@ -3013,7 +3013,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AOCE%20Association%20of%20Corrections%20Employees%202003-2005.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "256b72635385d11b05500796dfa35ec9787339df6bc7c0eb9cc5b7d6b498c96b"
   title: AOCE Association of Corrections Employees 2003-2005
   union: AOCE
   term: 2003-2005
@@ -3022,7 +3022,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AOCE%20Association%20of%20Corrections%20Employees%202005-2007.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "3bf04feba650f55ce1ded4da0bc31109c2e8bd25a0751950531c11c000b9dfd9"
   title: AOCE Association of Corrections Employees 2005-2007
   union: AOCE
   term: 2005-2007
@@ -3031,7 +3031,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AOCE%20Association%20of%20Corrections%20Employees%202007-2009.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "5bf110570bbd41a3853605794d5e3e8974d125cf4c5d075f6117652a18147fb9"
   title: AOCE Association of Corrections Employees 2007-2009
   union: AOCE
   term: 2007-2009
@@ -3040,7 +3040,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AOCE%20Association%20of%20Corrections%20Employees%202009-2011.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "2e36bea1c830a6ce6e5bb3b5ad73843c455cf56eb7c93112b905736fdf1667a9"
   title: AOCE Association of Corrections Employees 2009-2011
   union: AOCE
   term: 2009-2011
@@ -3049,7 +3049,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AOCE%20Association%20of%20Corrections%20Employees%202011-2013.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "85924ed880fbfeb8c354ba2d234dd28b8239c8228070a8fb50a20856ee78af1c"
   title: AOCE Association of Corrections Employees 2011-2013
   union: AOCE
   term: 2011-2013
@@ -3058,7 +3058,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AOCE%20Association%20of%20Corrections%20Employees%202013-2015.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "43de10a600cb65e83cf8c12fa52b9b882026b68bbd018606f625a7db8cb1f1a5"
   title: AOCE Association of Corrections Employees 2013-2015
   union: AOCE
   term: 2013-2015
@@ -3067,7 +3067,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AOCE%20Association%20of%20Corrections%20Employees%202015-2017.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "3b9cc89d09c9f6b92b46f172fbe789557ea229643f216d51219c1cf41ada9f1d"
   title: AOCE Association of Corrections Employees 2015-2017
   union: AOCE
   term: 2015-2017
@@ -3076,7 +3076,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AOCE%20Association%20of%20Corrections%20Employees%202017-2019.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "73336743e8f95e006a36ecd76dd5d2a7ecf32d5575e4e83c4155b8e72f062dcb"
   title: AOCE Association of Corrections Employees 2017-2019
   union: AOCE
   term: 2017-2019
@@ -3085,7 +3085,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AOCE%20Association%20of%20Corrections%20Employees%202019-2021.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "e35c797be7d5d532ed32c78107c2a647bc10d39e560bd6816d0d889be76f05a1"
   title: AOCE Association of Corrections Employees 2019-2021
   union: AOCE
   term: 2019-2021
@@ -3094,7 +3094,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AOCE%20Association%20of%20Corrections%20Employees%202021-2023.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "92fd40ac1d454f106b51b4c181ae731be5632dcb0ead4aef3f11fb3ebbff8110"
   title: AOCE Association of Corrections Employees 2021-2023
   union: AOCE
   term: 2021-2023
@@ -3103,7 +3103,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AOCE%20Association%20of%20Corrections%20Employees%202023-2025.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "ecf38b52ced8984dcdb977bb3fd1f5adf95b2a7844d2501856553d4653cfd4f6"
   title: AOCE Association of Corrections Employees 2023-2025
   union: AOCE
   term: 2023-2025
@@ -3112,7 +3112,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AOCE%20Association%20of%20Corrections%20Employees%202025-2027.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "9616a1d53cbf42cc6f476e75c549a702c2344b02e2cd0585a71664b80f1aba5f"
   title: AOCE Association of Corrections Employees 2025-2027
   union: AOCE
   term: 2025-2027
@@ -3121,7 +3121,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/CIA%20Criminal%20Investigators%20Association%202001-2003.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "a2337484dcb25de68d07daff56a121a5697d3524f7bc18f2391fbffb27dc2695"
   title: CIA Criminal Investigators Association 2001-2003
   union: CIA
   term: 2001-2003
@@ -3130,7 +3130,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/CIA%20Criminal%20Investigators%20Association%202003-2005.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "b0dd193dd9bb49c5910abbc2814e2c64837f65cfed54a8c302319b904104783b"
   title: CIA Criminal Investigators Association 2003-2005
   union: CIA
   term: 2003-2005
@@ -3139,7 +3139,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/CIA%20Criminal%20Investigators%20Association%202005-2007.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "bc2fb58c7f544ffc5993defb9626c27f0f3228fee2b0b9dcce4792d2c52b178f"
   title: CIA Criminal Investigators Association 2005-2007
   union: CIA
   term: 2005-2007
@@ -3148,7 +3148,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/CIA%20Criminal%20Investigators%20Association%202007-2009.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "bc91f4d5dadb71bbc4ebc87f16ee6c8d2bd70b827c43b9fd67d3f575c4e12d5b"
   title: CIA Criminal Investigators Association 2007-2009
   union: CIA
   term: 2007-2009
@@ -3157,7 +3157,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/CIA%20Criminal%20Investigators%20Association%202009-2011.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "a906ca60ffc682ece6bd1424014e91422b105803f966b8392e8e0bb88112c6b9"
   title: CIA Criminal Investigators Association 2009-2011
   union: CIA
   term: 2009-2011
@@ -3166,7 +3166,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/CIA%20Criminal%20Investigators%20Association%202011-2013.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "6c1d55a1ad993d01c4bf64108ea21de0ebfbd1f4034a5e06b2feca04c80c446b"
   title: CIA Criminal Investigators Association 2011-2013
   union: CIA
   term: 2011-2013
@@ -3175,7 +3175,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/CIA%20Criminal%20Investigators%20Association%202013-2015.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "0cbb6b9e3a79a47f714003ebba3b7f77e4095c9ccc11ef1f2722ff9b4fe76a74"
   title: CIA Criminal Investigators Association 2013-2015
   union: CIA
   term: 2013-2015
@@ -3184,7 +3184,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/CIA%20Criminal%20Investigators%20Association%202015-2017.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "bc0f20fc5cd1881bb77882ab9aea4e5fbea605b1ab7e58ef4f527e739834696c"
   title: CIA Criminal Investigators Association 2015-2017
   union: CIA
   term: 2015-2017
@@ -3193,7 +3193,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/CIA%20Criminal%20Investigators%20Association%202017-2019.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "caec55f86f0554e64982253ad75e2fc71c82b88a72f76c84cd30608f96f0f20d"
   title: CIA Criminal Investigators Association 2017-2019
   union: CIA
   term: 2017-2019
@@ -3202,7 +3202,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/CIA%20Criminal%20Investigators%20Association%202019-2021.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "e1108097b2613fdeaf240685dec842eb4c9d8130d66f6e495e7b1254a72234d7"
   title: CIA Criminal Investigators Association 2019-2021
   union: CIA
   term: 2019-2021
@@ -3211,7 +3211,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/CIA%20Criminal%20Investigators%20Association%202021-2023.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "ee5e603c819ecf21c378fea908facbca3119bdb8763cc7f8a139207687731bac"
   title: CIA Criminal Investigators Association 2021-2023
   union: CIA
   term: 2021-2023
@@ -3220,7 +3220,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/CIA%20Criminal%20Investigators%20Association%202023-2025.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "a5bfe0d9c7d5ddbf40a0f4cb3df4068e98744049b12ed53453e5fe7fe62f49e6"
   title: CIA Criminal Investigators Association 2023-2025
   union: CIA
   term: 2023-2025
@@ -3229,7 +3229,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/CIA%20Criminal%20Investigators%20Association%202025-2027.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "ffa6ac8cf94339e98158bfb87c95cc1f7740f386ec8f11c193da01033e09cbe0"
   title: CIA Criminal Investigators Association 2025-2027
   union: CIA
   term: 2025-2027
@@ -3238,7 +3238,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/CIA%20LOA%20Covid-19.pdf
   family: loa
   format: pdf
-  sha256: ''
+  sha256: "879d95bd29d7cb0e6f62f8501f02b736ba1c501fd557bb201a78d8f818ed11a0"
   title: CIA LOA Covid-19
   union: CIA
   last_checked: '2026-08-02'
@@ -3246,7 +3246,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/FOPPO%20Federation%20of%20Parole%20and%20Probation%20Officers%202021-2023.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "2c952b023bd0241f45b412503deaf639062f0f9ba9fa5e1576e1336e0302e445"
   title: FOPPO Federation of Parole and Probation Officers 2021-2023
   union: FOPPO
   term: 2021-2023
@@ -3255,7 +3255,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/FOPPO%20Federation%20of%20Parole%20and%20Probation%20Officers%202023-2025.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "665ad6bc4980e6c1f836ffbe54d8c6059abb9b9d56cb354c336fc62e3108e3c0"
   title: FOPPO Federation of Parole and Probation Officers 2023-2025
   union: FOPPO
   term: 2023-2025
@@ -3264,7 +3264,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/FOPPO%20Federation%20of%20Parole%20and%20Probation%20Officers%202025-2027.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "1072adca3644df704db499328eabca465b0ae5df04cc260e0ab44585629931ef"
   title: FOPPO Federation of Parole and Probation Officers 2025-2027
   union: FOPPO
   term: 2025-2027
@@ -3273,7 +3273,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/IAFF%20Kingsley%20Firefighters%20Association%202017-2021%20mid%20term.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "6fccea615a1449b962b9e47113be40ff933a653c7a7c1ac14ab898031a2d9ed9"
   title: IAFF Kingsley Firefighters Association 2017-2021 mid term
   union: IAFF
   term: 2017-2021
@@ -3282,7 +3282,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/IAFF%20Kingsley%20Firefighters%20Association%202017-2021.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "ffab204c52e15b535b161621b4a7b5c84fe3968207f69af780f71d86d0271ad9"
   title: IAFF Kingsley Firefighters Association 2017-2021
   union: IAFF
   term: 2017-2021
@@ -3291,7 +3291,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/IAFF%20Kingsley%20Firefighters%20Association%202021-2023.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "6b575d3474053a1a7af0f66401d5eb386cff0d3020b8d9453b13c8f657c6a8c3"
   title: IAFF Kingsley Firefighters Association 2021-2023
   union: IAFF
   term: 2021-2023
@@ -3300,7 +3300,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/IAFF%20Kingsley%20Firefighters%20Association%202023-2025.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "2e5f8d392552190f9838e624a218c19760957d37136b7a70b87de17b9c015b3b"
   title: IAFF Kingsley Firefighters Association 2023-2025
   union: IAFF
   term: 2023-2025
@@ -3309,7 +3309,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/IAFF%20Kingsley%20Firefighters%20Association%202025-2027.docx.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "efc9c43ee3abaaa0ef06c99b3adc21ee51d453bea09906a347798fa14c178928"
   title: IAFF Kingsley Firefighters Association 2025-2027
   union: IAFF
   term: 2025-2027
@@ -3318,7 +3318,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/IAFF%20Kingsley%20Firefighters%20Association%20LOA%20Pay%20Equity.pdf
   family: loa
   format: pdf
-  sha256: ''
+  sha256: "76a204919504112d1b6b5c103a79e422b397916d8313815c62d0961de5780cea"
   title: IAFF Kingsley Firefighters Association LOA Pay Equity
   union: IAFF
   last_checked: '2026-08-02'
@@ -3326,7 +3326,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/IAFF%20Kingsley%20Firefighters%20Association%20LOA%20Retiree%20Interim%20LD.pdf
   family: loa
   format: pdf
-  sha256: ''
+  sha256: "763717bfebf5a467443256c68c219c50138820608e69f62b93a3e76f51430db3"
   title: IAFF Kingsley Firefighters Association LOA Retiree Interim LD
   union: IAFF
   last_checked: '2026-08-02'
@@ -3334,7 +3334,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/IAFF%20Klamath%20Falls%20Airport%20Fire%20Fighters%20Association%202001-2003.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "b61002da2cfd23ba56f01f83693cf2d0f4b1d7de98714b60803a9412ab7bc180"
   title: IAFF Klamath Falls Airport Fire Fighters Association 2001-2003
   union: IAFF
   term: 2001-2003
@@ -3343,7 +3343,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/IAFF%20Klamath%20Falls%20Airport%20Fire%20Fighters%20Association%202003-2005.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "238462b6023feaf7fe091e62dbf0526b2b38ec8c8483d5d3cc2a89627fa6c9d2"
   title: IAFF Klamath Falls Airport Fire Fighters Association 2003-2005
   union: IAFF
   term: 2003-2005
@@ -3352,7 +3352,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/IAFF%20Klamath%20Falls%20Airport%20Fire%20Fighters%20Association%202005-2007.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "9807826da59ef39376ce547a34c590fb360d8d621f7782043f573e4e963a21a3"
   title: IAFF Klamath Falls Airport Fire Fighters Association 2005-2007
   union: IAFF
   term: 2005-2007
@@ -3361,7 +3361,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/IAFF%20Klamath%20Falls%20Airport%20Fire%20Fighters%20Association%202007-2009.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "5e79a15b363bd159af0b09c457aaa9dea292d1fe5cf53313112835a2a8b5dddb"
   title: IAFF Klamath Falls Airport Fire Fighters Association 2007-2009
   union: IAFF
   term: 2007-2009
@@ -3370,7 +3370,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/IAFF%20Klamath%20Falls%20Airport%20Fire%20Fighters%20Association%202009-2011.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "f01ad790baceb1322e6132b4637aaf226914b0e83a0fd0dcd8863427216eb318"
   title: IAFF Klamath Falls Airport Fire Fighters Association 2009-2011
   union: IAFF
   term: 2009-2011
@@ -3379,7 +3379,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/IAFF%20Klamath%20Falls%20Airport%20Fire%20Fighters%20Association%202011-2013.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "9ac236df58ae521b1deb1805c8aafe31205b0e831582f5deb9f69e0c6ac42515"
   title: IAFF Klamath Falls Airport Fire Fighters Association 2011-2013
   union: IAFF
   term: 2011-2013
@@ -3388,7 +3388,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/IAFF%20Klamath%20Falls%20Airport%20Fire%20Fighters%20Association%202013-2015.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "5a20bd56febc78d9ce4bb569f904501ade1b496fe9854b189665e09721785a67"
   title: IAFF Klamath Falls Airport Fire Fighters Association 2013-2015
   union: IAFF
   term: 2013-2015
@@ -3397,7 +3397,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/IAFF%20Klamath%20Falls%20Airport%20Fire%20Fighters%20Association%202015-2017.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "6e8b7985d856e16b0dae15b3343684d6523c321d317dd8eae74d62d283c5c484"
   title: IAFF Klamath Falls Airport Fire Fighters Association 2015-2017
   union: IAFF
   term: 2015-2017
@@ -3406,7 +3406,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/IAFF%20Portland%20Air%20National%20Guard%2015-19%20LOA%20Article%209%20Hours%20of%20Work.pdf
   family: loa
   format: pdf
-  sha256: ''
+  sha256: "cadc13951a8f7f464201bf909450d47774b32d53a769087ec84480369dd31365"
   title: IAFF Portland Air National Guard 15-19 LOA Article 9 Hours of Work
   union: IAFF
   last_checked: '2026-08-02'
@@ -3414,7 +3414,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/IAFF%20Portland%20Air%20National%20Guard%2015-19.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "40fe8f1641cbc377ecffa6bad74f5f2e670b430f881cd741840d03205a6d1530"
   title: IAFF Portland Air National Guard 15-19
   union: IAFF
   last_checked: '2026-08-02'
@@ -3422,7 +3422,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/IAFF%20Portland%20Air%20National%20Guard%202001-2003.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "8a244ce808b85dda42a221d0d74975333616b686ab9117dc0d513fd34070a937"
   title: IAFF Portland Air National Guard 2001-2003
   union: IAFF
   term: 2001-2003
@@ -3431,7 +3431,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/IAFF%20Portland%20Air%20National%20Guard%202003-2005.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "d38c530ad6421c3c1bd7660669058d1b8294cbdffa7fa00aa0e5babdfa605e9f"
   title: IAFF Portland Air National Guard 2003-2005
   union: IAFF
   term: 2003-2005
@@ -3440,7 +3440,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/IAFF%20Portland%20Air%20National%20Guard%202005-2007.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "8a469d70235ad6e1295cb3e74788a6fc6a538c4fe690faa079010e032b65f7cb"
   title: IAFF Portland Air National Guard 2005-2007
   union: IAFF
   term: 2005-2007
@@ -3449,7 +3449,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/IAFF%20Portland%20Air%20National%20Guard%202007-2009.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "c25dfd6455cdec2884cb4dbb50b086d08e4834dd3e1a2e397b37ad2c9a30a9ed"
   title: IAFF Portland Air National Guard 2007-2009
   union: IAFF
   term: 2007-2009
@@ -3458,7 +3458,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/IAFF%20Portland%20Air%20National%20Guard%202009-2011.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "df08753e99e921c6db7d5a04aeb075724890db59ff9d35baf3a10c8598ec3f57"
   title: IAFF Portland Air National Guard 2009-2011
   union: IAFF
   term: 2009-2011
@@ -3467,7 +3467,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/IAFF%20Portland%20Air%20National%20Guard%202011-2013.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "fc5d35745d49f6f4c07164e0a00b51ca4c836a84c6d37d85e30ce45d7acf2a93"
   title: IAFF Portland Air National Guard 2011-2013
   union: IAFF
   term: 2011-2013
@@ -3476,7 +3476,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/IAFF%20Portland%20Air%20National%20Guard%202013-2015.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "459e8efe098c5b32ce8be7d680f687706ff2a739fbccbf2e76b10137be14d032"
   title: IAFF Portland Air National Guard 2013-2015
   union: IAFF
   term: 2013-2015
@@ -3485,7 +3485,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/IAFF%20Portland%20Air%20National%20Guard%202015-2017.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "0871b64ddada415f5aefd7fefdb483192eb3c4fd1c049780ca954b900d34416b"
   title: IAFF Portland Air National Guard 2015-2017
   union: IAFF
   term: 2015-2017
@@ -3494,7 +3494,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/IAFF%20Portland%20Air%20National%20Guard%202015-2019%20amended.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "40fe8f1641cbc377ecffa6bad74f5f2e670b430f881cd741840d03205a6d1530"
   title: IAFF Portland Air National Guard 2015-2019 amended
   union: IAFF
   term: 2015-2019
@@ -3503,7 +3503,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/IAFF%20Portland%20Air%20National%20Guard%202019-2021.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "01e9364baec95170ed6866fc1c9bd0973124779714ece2bf9289d760ddddd67f"
   title: IAFF Portland Air National Guard 2019-2021
   union: IAFF
   term: 2019-2021
@@ -3512,7 +3512,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/IAFF%20Portland%20Air%20National%20Guard%202021-2023.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "190149313bab48f03f4b969aee47d510752db608c365af861d565f1d9df051f2"
   title: IAFF Portland Air National Guard 2021-2023
   union: IAFF
   term: 2021-2023
@@ -3521,7 +3521,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/IAFF%20Portland%20Air%20National%20Guard%202023-2025.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "baa139b536107ae2df0050f951f21fc5004e3ce8e27a9f1173de28e49702ff25"
   title: IAFF Portland Air National Guard 2023-2025
   union: IAFF
   term: 2023-2025
@@ -3530,7 +3530,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/IAFF%20Portland%20Air%20National%20Guard%20Firefighters%202025-2027.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "92dc177c67e97042f1de8d9e0227bdabb53cc499c64ced7f42b361c576ba95ec"
   title: IAFF Portland Air National Guard Firefighters 2025-2027
   union: IAFF
   term: 2025-2027
@@ -3539,7 +3539,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/ONA%20Oregon%20Nurses%20Assocation%20LOA%20COVID%20leave%20extension.pdf
   family: loa
   format: pdf
-  sha256: ''
+  sha256: "0a556551e332ff28f9118710a4e8ee1a113927c40f6cc7b3558348989ac03e10"
   title: ONA Oregon Nurses Assocation LOA COVID leave extension
   union: ONA
   last_checked: '2026-08-02'
@@ -3547,7 +3547,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/ONA%20Oregon%20Nurses%20Association%202001-2003.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "0318b7ed4076a6579595de8b928adacc4df468d2d283a9783db3733463592d42"
   title: ONA Oregon Nurses Association 2001-2003
   union: ONA
   term: 2001-2003
@@ -3556,7 +3556,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/ONA%20Oregon%20Nurses%20Association%202003-2005.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "34596ed72a362178cca0d560e1005a70905aad63103f4633d8d26e28c62b8a42"
   title: ONA Oregon Nurses Association 2003-2005
   union: ONA
   term: 2003-2005
@@ -3565,7 +3565,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/ONA%20Oregon%20Nurses%20Association%202005-2007.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "3fe3b2c50bc9c4edeb45266e13354485c7dfffdf6040090e3feb572bc5ba53d0"
   title: ONA Oregon Nurses Association 2005-2007
   union: ONA
   term: 2005-2007
@@ -3574,7 +3574,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/ONA%20Oregon%20Nurses%20Association%202007-2009.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "da9a7416b40ec00a20737c1f857760c67aab51726cb2078402ce3c9473ff1739"
   title: ONA Oregon Nurses Association 2007-2009
   union: ONA
   term: 2007-2009
@@ -3583,7 +3583,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/ONA%20Oregon%20Nurses%20Association%202009-2011.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "93881dea049989d68eeb14ab224c2c83ac7a2e1814bcfd47360d6da94bac2736"
   title: ONA Oregon Nurses Association 2009-2011
   union: ONA
   term: 2009-2011
@@ -3592,7 +3592,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/ONA%20Oregon%20Nurses%20Association%202011-2013.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "74caaac09ea95846d19b095cc3e1f97b5a14e8244286f05d59a1811d983b2b2e"
   title: ONA Oregon Nurses Association 2011-2013
   union: ONA
   term: 2011-2013
@@ -3601,7 +3601,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/ONA%20Oregon%20Nurses%20Association%202013-2015.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "b748bdd65e6ece19057c0049ff93a8f8be883717a5e355c72a5fc5cf035f040c"
   title: ONA Oregon Nurses Association 2013-2015
   union: ONA
   term: 2013-2015
@@ -3610,7 +3610,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/ONA%20Oregon%20Nurses%20Association%202015-2017.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "892d88fc4234d05f132c223e02f2e9f511b0dd93f3aa070a890b206ce5b94e18"
   title: ONA Oregon Nurses Association 2015-2017
   union: ONA
   term: 2015-2017
@@ -3619,7 +3619,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/ONA%20Oregon%20Nurses%20Association%202017-2019.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "ab2d87379b593035d58b1d54bdbfafe2c9a1aa29128b3e992331d17663ed197e"
   title: ONA Oregon Nurses Association 2017-2019
   union: ONA
   term: 2017-2019
@@ -3628,7 +3628,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/ONA%20Oregon%20Nurses%20Association%202019-2021.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "dc5dcd1d590871af191f79cf8edbff04f77e691f8948dec60bdcb14730bb7710"
   title: ONA Oregon Nurses Association 2019-2021
   union: ONA
   term: 2019-2021
@@ -3637,7 +3637,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/ONA%20Oregon%20Nurses%20Association%202021-2023.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "7cc34ab1dd25b8b2fbded9cf93b98394983b51f91424257ca06d9dbce60a5fbf"
   title: ONA Oregon Nurses Association 2021-2023
   union: ONA
   term: 2021-2023
@@ -3646,7 +3646,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/ONA%20Oregon%20Nurses%20Association%202023-2025.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "2bba27eb0ca0e8aab31d38343a1c9764298fb2a744eb3ead7564529e6932d6fe"
   title: ONA Oregon Nurses Association 2023-2025
   union: ONA
   term: 2023-2025
@@ -3655,7 +3655,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/ONA%20Oregon%20Nurses%20Association%20LOA%20RN%20Scheduling.pdf
   family: loa
   format: pdf
-  sha256: ''
+  sha256: "7500df57fc4813fbae5cf2fb7f9cd5e8be12aa1fc38b471e71927155ef26c40e"
   title: ONA Oregon Nurses Association LOA RN Scheduling
   union: ONA
   last_checked: '2026-08-02'
@@ -3663,7 +3663,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/OPSA%20LOA%20Covid-19.pdf
   family: loa
   format: pdf
-  sha256: ''
+  sha256: "ea9ddc647d7fe7ff1b2296ce08bc4ee34ea962fe46b73e6219b8c6ee879c7321"
   title: OPSA LOA Covid-19
   union: OPSA
   last_checked: '2026-08-02'
@@ -3671,7 +3671,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/OPSA%20Oregon%20Public%20Safety%20Association%202017-2019.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "4b93c23fee76cfe44d43b23cc58ddf15ab05c468d1d0242eab65186567aaf0be"
   title: OPSA Oregon Public Safety Association 2017-2019
   union: OPSA
   term: 2017-2019
@@ -3680,7 +3680,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/OPSA%20Oregon%20Public%20Safety%20Association%202019-2021.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "c38bb157c06cf3832e74268737273d3da1d54e3daedf4afbc83ecf955193043b"
   title: OPSA Oregon Public Safety Association 2019-2021
   union: OPSA
   term: 2019-2021
@@ -3689,7 +3689,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/OPSA%20Oregon%20Public%20Safety%20Association%202021-2023.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "b3c87a3b111d3944b42e9aa6ba084ecfaf363adb09cbe74c959649398acb5c0a"
   title: OPSA Oregon Public Safety Association 2021-2023
   union: OPSA
   term: 2021-2023
@@ -3698,7 +3698,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/OPSA%20Oregon%20Public%20Safety%20Association%202023-2025.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "779a32fca89284e8c05a1d37403363a739bc53c1dbec56f9667e1cfae4bcbf7c"
   title: OPSA Oregon Public Safety Association 2023-2025
   union: OPSA
   term: 2023-2025
@@ -3707,7 +3707,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/OPSA%20Oregon%20Public%20Safety%20Association%202025-2027.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "45941e3905e27577de08ff76083e48f9397e202de2429aea25328eb854509275"
   title: OPSA Oregon Public Safety Association 2025-2027
   union: OPSA
   term: 2025-2027
@@ -3716,7 +3716,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/OPSA%20Oregon%20Public%20Safety%20Association%20LOA%20Pay%20Equity%20Agreement.pdf
   family: loa
   format: pdf
-  sha256: ''
+  sha256: "8ee96c2058c0a7c80a303a574015e7537b7e62ba5c8dd8591598e1016c869c03"
   title: OPSA Oregon Public Safety Association LOA Pay Equity Agreement
   union: OPSA
   last_checked: '2026-08-02'
@@ -3724,7 +3724,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/Oregon%20Nurses%20Association%202025-2027.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "19e8dd7d6d685271af54115f33cae700b2901f80b629d84c7f76a80eb690b046"
   title: Oregon Nurses Association 2025-2027
   union: ONA
   term: 2025-2027
@@ -3733,7 +3733,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/OSPOA%20Oregon%20State%20Police%20Officers%20Association%202001-2003.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "da335707f3072952b99ea9b44d5f2aef8fedc2246831ba09e657cd15fed350a0"
   title: OSPOA Oregon State Police Officers Association 2001-2003
   union: OSPOA
   term: 2001-2003
@@ -3742,7 +3742,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/OSPOA%20Oregon%20State%20Police%20Officers%20Association%202005-2007.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "ad3297977961dde087118b2c0a31a3c16a9a10f100428fb396acf8e9336c91b7"
   title: OSPOA Oregon State Police Officers Association 2005-2007
   union: OSPOA
   term: 2005-2007
@@ -3751,7 +3751,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/OSPOA%20Oregon%20State%20Police%20Officers%20Association%202007-2009.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "d315caf528b8adb3a8d42e02dd7fda9979c606fc3182ad78f3cb0de4544773ee"
   title: OSPOA Oregon State Police Officers Association 2007-2009
   union: OSPOA
   term: 2007-2009
@@ -3760,7 +3760,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/OSPOA%20Oregon%20State%20Police%20Officers%20Association%202009-2011.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "bca69dac43490a3e62895c676ebb6372d57801b8c0158c97bd0b3f4e4d6fd873"
   title: OSPOA Oregon State Police Officers Association 2009-2011
   union: OSPOA
   term: 2009-2011
@@ -3769,7 +3769,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/OSPOA%20Oregon%20State%20Police%20Officers%20Association%202011-2013.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "6525752dbd21128fec478e2f781874e44c3ca23890fd9e46089bd81ebed7d26e"
   title: OSPOA Oregon State Police Officers Association 2011-2013
   union: OSPOA
   term: 2011-2013
@@ -3778,7 +3778,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/OSPOA%20Oregon%20State%20Police%20Officers%20Association%202013-2015.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "90b814b17107ab6731084e4f80aee26f4a45744eb5eedf5eaabe337d56c7e5e2"
   title: OSPOA Oregon State Police Officers Association 2013-2015
   union: OSPOA
   term: 2013-2015
@@ -3787,7 +3787,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/OSPOA%20Oregon%20State%20Police%20Officers%20Association%202015-2017.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "24bc1c7350fc377321e3633ad2e15146e214ee8cb024b784766441709ebec82e"
   title: OSPOA Oregon State Police Officers Association 2015-2017
   union: OSPOA
   term: 2015-2017
@@ -3796,7 +3796,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/OSPOA%20Oregon%20State%20Police%20Officers%20Association%202017-2019.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "ed4a7dd69302b56218c7c7dbd4095452fc47e9c6845e417c88319a7811c3e60b"
   title: OSPOA Oregon State Police Officers Association 2017-2019
   union: OSPOA
   term: 2017-2019
@@ -3805,7 +3805,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/OSPOA%20Oregon%20State%20Police%20Officers%20Association%202019-2023.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "9ccd328e5136300598bec9d13dc08126310a9891f669a8f350fb2722b3098017"
   title: OSPOA Oregon State Police Officers Association 2019-2023
   union: OSPOA
   term: 2019-2023
@@ -3814,7 +3814,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/OSPOA%20Oregon%20State%20Police%20Officers%20Association%202021-2023.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "0100f63af965891f704a308676cfbeeb2edf535c48a142c5ccde3ea7446434fe"
   title: OSPOA Oregon State Police Officers Association 2021-2023
   union: OSPOA
   term: 2021-2023
@@ -3823,7 +3823,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/OSPOA%20Oregon%20State%20Police%20Officers%20Association%202023-2025.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "cc1e540296a4ba8c094c581946810a1668f94441bb41ffa80d8d561cfb10ff88"
   title: OSPOA Oregon State Police Officers Association 2023-2025
   union: OSPOA
   term: 2023-2025
@@ -3832,7 +3832,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/OSPOA%20Oregon%20State%20Police%20Officers%20Association%202025-2027.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "04b41f1142f92e77553f5c8b8466d418147227f46d95a66ca59c91bd067894b1"
   title: OSPOA Oregon State Police Officers Association 2025-2027
   union: OSPOA
   term: 2025-2027
@@ -3841,7 +3841,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/OSPOA%20Oregon%20State%20Police%20officers%20Association%20LOA%20Pay%20Equity.pdf
   family: loa
   format: pdf
-  sha256: ''
+  sha256: "d36de4df90cc3218a8af60c940d153ce302c151ae414e6e1325885ce75c7d178"
   title: OSPOA Oregon State Police officers Association LOA Pay Equity
   union: OSPOA
   last_checked: '2026-08-02'
@@ -3849,7 +3849,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/SEIU%202025-2027%20Blackline%20as%20of%2002202026.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "32a9f0f75218f520bcc8624a10b9ce91905a7bda02388a13962f25632354ab6b"
   title: SEIU 2025-2027 Blackline as of 02202026
   union: SEIU
   term: 2025-2027
@@ -3859,7 +3859,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/SEIU%20Full%20Master%20Agreement%2013-15.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "dc20baec2b8365d1da6624957d2b515482723dfe7f75e7eedba050016b8e5687"
   title: SEIU Full Master Agreement 13-15
   union: SEIU
   last_checked: '2026-08-02'
@@ -3867,7 +3867,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/SEIU%20Full%20Master%20Agreement%202001-2003.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "a34323cc6e7a2f9b2afa9b41e458d95db7d1fd6e509699d1dde8149754ca8638"
   title: SEIU Full Master Agreement 2001-2003
   union: SEIU
   term: 2001-2003
@@ -3876,7 +3876,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/SEIU%20Full%20Master%20Agreement%202003-2005.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "4c17c4b94fe8f849a31d9fbc99428e9955ce5d65dfb877bff369c231df9b7e2d"
   title: SEIU Full Master Agreement 2003-2005
   union: SEIU
   term: 2003-2005
@@ -3885,7 +3885,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/SEIU%20Full%20Master%20Agreement%202005-2007.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "62b0c2e7fcc848f94409d547fa66e17a5fd099022725852658f7cbdf132216ad"
   title: SEIU Full Master Agreement 2005-2007
   union: SEIU
   term: 2005-2007
@@ -3894,7 +3894,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/SEIU%20Full%20Master%20Agreement%202007-2009.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "a72c6a0471ed8da35726dd10a1320712f5980be433567a3284cbbc61cc3e7f2d"
   title: SEIU Full Master Agreement 2007-2009
   union: SEIU
   term: 2007-2009
@@ -3903,7 +3903,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/SEIU%20Full%20Master%20Agreement%202009-2011.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "d58ab6d324b348ee0dab3388bb484c8b1d01884ca4aa679a71562a812232919e"
   title: SEIU Full Master Agreement 2009-2011
   union: SEIU
   term: 2009-2011
@@ -3912,7 +3912,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/SEIU%20Full%20Master%20Agreement%202011-2013.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "086dabca421e0f9eb83164a865c51a07a7f924cce43bfa18f379c328179aafd4"
   title: SEIU Full Master Agreement 2011-2013
   union: SEIU
   term: 2011-2013
@@ -3921,7 +3921,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/SEIU%20Full%20Master%20Agreement%202013-2015.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "0685614e560031b8930391b8ff424be239d1bff4f78e141485c1fb0ca16e4ee3"
   title: SEIU Full Master Agreement 2013-2015
   union: SEIU
   term: 2013-2015
@@ -3930,7 +3930,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/SEIU%20Full%20Master%20Agreement%202015-2019%20with%20Mid-Term%20Language.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "e78f5bef2da9e5d679d6c08da86882d495d07d52618a318fb7845122ad472c74"
   title: SEIU Full Master Agreement 2015-2019 with Mid-Term Language
   union: SEIU
   term: 2015-2019
@@ -3939,7 +3939,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/SEIU%20Full%20Master%20Agreement%202015-2019.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "9d90c16fe26fbc0cb1204d0cb3f2ed4a3539a4d293fc75dd53b335cef9ec1fa6"
   title: SEIU Full Master Agreement 2015-2019
   union: SEIU
   term: 2015-2019
@@ -3948,7 +3948,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/SEIU%20Full%20Master%20Collective%20Bargaining%20Agreement%202019-2021.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "58e9a28368dd390db02c158f445aafefd3aa22e7339d76c296d74e50be6a6a0a"
   title: SEIU Full Master Collective Bargaining Agreement 2019-2021
   union: SEIU
   term: 2019-2021
@@ -3957,7 +3957,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/SEIU%20Full%20Master%20Collective%20Bargaining%20Agreement%202021-2023.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "9e907ad2aa3d804e90e16a188c55899cb889018d570192e867620c891dbf9e17"
   title: SEIU Full Master Collective Bargaining Agreement 2021-2023
   union: SEIU
   term: 2021-2023
@@ -3966,7 +3966,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/SEIU%20Human%20Services%20Coalition%202015-2019.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "15a7c1453c65e9f0d628b8e56f8a5c7b442756a19bd2fd692b6f0f3b8e858983"
   title: SEIU Human Services Coalition 2015-2019
   union: SEIU
   term: 2015-2019
@@ -3975,7 +3975,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/SEIU%20Human%20Services%20Coalition%202019-2021.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "80a6aa04013943e4345380b5c791d3725a5378c504d1d36221f1b47e88f5f223"
   title: SEIU Human Services Coalition 2019-2021
   union: SEIU
   term: 2019-2021
@@ -3984,7 +3984,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/SEIU%20Human%20Services%20Coalition%202021-2023.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "0303519eba4a2a0636d45344934fe0ffb06fbe6ca07245f8ce6a17232fe657ee"
   title: SEIU Human Services Coalition 2021-2023
   union: SEIU
   term: 2021-2023
@@ -3993,7 +3993,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/SEIU%20Human%20Services%20Coalition%202023-2025.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "7479244aa733c625f9bec070e3cb7b9d0853c32ee1b4aafb1b3ca603b705b724"
   title: SEIU Human Services Coalition 2023-2025
   union: SEIU
   term: 2023-2025
@@ -4002,7 +4002,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/SEIU%20Institutions%20Coalition%202015-2019.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "baf5adead5821ab976e73a2a485a19b2dfb7dd7c0c5991f4f2830fea818fde4d"
   title: SEIU Institutions Coalition 2015-2019
   union: SEIU
   term: 2015-2019
@@ -4011,7 +4011,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/SEIU%20Institutions%20Coalition%202019-2021.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "2af6e7da9c41f2b1c16d9271468a9355e2b6413c26222b0e85b3e7f214fbace9"
   title: SEIU Institutions Coalition 2019-2021
   union: SEIU
   term: 2019-2021
@@ -4020,7 +4020,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/SEIU%20Institutions%20Coalition%202021-2023.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "b7a12f7ebae31fb6163716fa0136f7f07573b841d4cb74f5458f2835920e1870"
   title: SEIU Institutions Coalition 2021-2023
   union: SEIU
   term: 2021-2023
@@ -4029,7 +4029,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/SEIU%20Institutions%20Coalition%202023-2025.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "abcd738b64da963086ee6ca2444bb794eba5e540f546db07853375e7e0aad1b5"
   title: SEIU Institutions Coalition 2023-2025
   union: SEIU
   term: 2023-2025
@@ -4038,7 +4038,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/SEIU%20LOA%2000-00-18-317%20Benefits%20Training%20Pilot.pdf
   family: loa
   format: pdf
-  sha256: ''
+  sha256: "237f7d606743f3e0461aca3e9051bb930c56885b2902962b28a185358ac9b5ae"
   title: SEIU LOA 00-00-18-317 Benefits Training Pilot
   union: SEIU
   last_checked: '2026-08-02'
@@ -4046,7 +4046,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/SEIU%20LOA%2010-3ABE-18-316%20ODOT%20Coalition%20Union%20Stewards.pdf
   family: loa
   format: pdf
-  sha256: ''
+  sha256: "3ad7bb67435a8fffbdc95b712a7acd3b4619ab98417550d68df1b2b451be5653"
   title: SEIU LOA 10-3ABE-18-316 ODOT Coalition Union Stewards
   union: SEIU
   last_checked: '2026-08-02'
@@ -4054,7 +4054,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/SEIU%20LOA%20121-%205A-16-286%20OSD%20ASLP.pdf
   family: loa
   format: pdf
-  sha256: ''
+  sha256: "064136da36f594bca255c5a397c5515b0fb14c06a29435ee635f3aa2005cd6f8"
   title: SEIU LOA 121- 5A-16-286 OSD ASLP
   union: SEIU
   last_checked: '2026-08-02'
@@ -4062,7 +4062,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/SEIU%20LOA%20123-00-18-311%20Inclement%20Weather%20Hazardous%20Conditions.pdf
   family: loa
   format: pdf
-  sha256: ''
+  sha256: "f812a21a4b00419bc3a61c4c033cbcb5d9b07174e36e3cc3841bb31c83ff1b78"
   title: SEIU LOA 123-00-18-311 Inclement Weather Hazardous Conditions
   union: SEIU
   last_checked: '2026-08-02'
@@ -4070,7 +4070,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/SEIU%20LOA%20132-1C-18-313%20OED%20Criminal%20Records%20Check.pdf
   family: loa
   format: pdf
-  sha256: ''
+  sha256: "0cea2c5c87cda5b524f1cc54d218fe9bdccdc829853964f7001a4ec081fde893"
   title: SEIU LOA 132-1C-18-313 OED Criminal Records Check
   union: SEIU
   last_checked: '2026-08-02'
@@ -4078,7 +4078,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/SEIU%20LOA%20132-1M-18-312%20DHS%20Criminal%20Background%20Checks.pdf
   family: loa
   format: pdf
-  sha256: ''
+  sha256: "00bcdd22a5b1babbb4c355eeef540ef0aff89cc4140a2efcbc8ac62495093886"
   title: SEIU LOA 132-1M-18-312 DHS Criminal Background Checks
   union: SEIU
   last_checked: '2026-08-02'
@@ -4086,7 +4086,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/SEIU%20LOA%20132-1M-18-320%20DHS%20Criminal%20Background%20Checks.pdf
   family: loa
   format: pdf
-  sha256: ''
+  sha256: "7cd23489e23fc1ad579830d4f0cd5d86c549f8a7067525c6c632964ad9fec30e"
   title: SEIU LOA 132-1M-18-320 DHS Criminal Background Checks
   union: SEIU
   last_checked: '2026-08-02'
@@ -4094,7 +4094,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/SEIU%20LOA%20132-1M-18-321%20DHS%20Disability%20Determination%20Service.pdf
   family: loa
   format: pdf
-  sha256: ''
+  sha256: "970f31775f1c26f86cbacae1abc40edeea17df4024ef35a8da16367683aa7b6c"
   title: SEIU LOA 132-1M-18-321 DHS Disability Determination Service
   union: SEIU
   last_checked: '2026-08-02'
@@ -4102,7 +4102,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/SEIU%20LOA%20132-3A-18-322%20ODOT%20DMV%20Criminal%20Background%20Check.pdf
   family: loa
   format: pdf
-  sha256: ''
+  sha256: "3239ae52ba602026fc1c88dc104c463040b2e07b63fe499fa2923b460980537f"
   title: SEIU LOA 132-3A-18-322 ODOT DMV Criminal Background Check
   union: SEIU
   last_checked: '2026-08-02'
@@ -4110,7 +4110,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/SEIU%20LOA%20132-5E-18-318_DAS_OSCIO%20CJIS%20LOA.pdf
   family: loa
   format: pdf
-  sha256: ''
+  sha256: "fc01d395936cec2cd666d69fde76baa7ee0179c5143e316bd4814eb89b406c28"
   title: SEIU LOA 132-5E-18-318_DAS_OSCIO CJIS LOA
   union: SEIU
   last_checked: '2026-08-02'
@@ -4118,7 +4118,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/SEIU%20LOA%20132-5H-18-323%20DOJ%20Criminal%20Background%20Checks%20LOA.pdf
   family: loa
   format: pdf
-  sha256: ''
+  sha256: "724a6827457bb6f43e8f36c5d7fc8b82cefd8d3f62daf56a24f7290e8aa4db19"
   title: SEIU LOA 132-5H-18-323 DOJ Criminal Background Checks LOA
   union: SEIU
   last_checked: '2026-08-02'
@@ -4126,7 +4126,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/SEIU%20LOA%20132-5N-17-299%20DOR%20Criminal%20Background.pdf
   family: loa
   format: pdf
-  sha256: ''
+  sha256: "50c05fd8fc37d66d860a78243ff4e5cbfe63dff079624f2aff6de1b9ce62f6fb"
   title: SEIU LOA 132-5N-17-299 DOR Criminal Background
   union: SEIU
   last_checked: '2026-08-02'
@@ -4134,7 +4134,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/SEIU%20LOA%20132.3A_16_288%20ODOT%20DMV%20Criminal%20Background%20Checks.pdf
   family: loa
   format: pdf
-  sha256: ''
+  sha256: "4b1b2c615fcf09de2a97f809ae221730e9646114bb0c1e2f165a2db1c8deabca"
   title: SEIU LOA 132.3A_16_288 ODOT DMV Criminal Background Checks
   union: SEIU
   last_checked: '2026-08-02'
@@ -4142,7 +4142,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/SEIU%20LOA%2027-00-19-325%20Pay%20Equity%20Adjustments.pdf
   family: loa
   format: pdf
-  sha256: ''
+  sha256: "cf97c7306f367b44a51bc385998c92eae7a5cfc5786b419e211928caf841496a"
   title: SEIU LOA 27-00-19-325 Pay Equity Adjustments
   union: SEIU
   last_checked: '2026-08-02'
@@ -4150,7 +4150,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/SEIU%20LOA%2032-3A-20-375%20ODOT%20Overtime%20MCEO%20and%20Senior%20MCEO.pdf
   family: loa
   format: pdf
-  sha256: ''
+  sha256: "ab8732cca94e8e4be82e140460681de98a73110e020584ca369a088dcc071eb2"
   title: SEIU LOA 32-3A-20-375 ODOT Overtime MCEO and Senior MCEO
   union: SEIU
   last_checked: '2026-08-02'
@@ -4158,7 +4158,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/SEIU%20LOA%2032.2C-17-306%20Exceptions%20to%20Compensatory%20Time%20for%20Pharmacists.pdf
   family: loa
   format: pdf
-  sha256: ''
+  sha256: "7fedaf7deca26764f665b9031df308a07e3936eacec560f6dad1320b6a05d305"
   title: SEIU LOA 32.2C-17-306 Exceptions to Compensatory Time for Pharmacists
   union: SEIU
   last_checked: '2026-08-02'
@@ -4166,7 +4166,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/SEIU%20LOA%2045-1M-18-314%20DHS%20Voluntary%20Transfer%20SSF%20Unit%2078th%20Court.pdf
   family: loa
   format: pdf
-  sha256: ''
+  sha256: "5519cff5d6f0b7ae7f806dc48eb324522738c954e4fbed1f44d4571ca40dc520"
   title: SEIU LOA 45-1M-18-314 DHS Voluntary Transfer SSF Unit 78th Court
   union: SEIU
   last_checked: '2026-08-02'
@@ -4174,7 +4174,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/SEIU%20LOA%2056-00-18-324%20FMLA%20OFLA%20OMFLA.pdf
   family: loa
   format: pdf
-  sha256: ''
+  sha256: "874a5c59c0efa4db34c09bac4de6236d5b41a4366bebaaaa615183198ea3b8d0"
   title: SEIU LOA 56-00-18-324 FMLA OFLA OMFLA
   union: SEIU
   last_checked: '2026-08-02'
@@ -4182,7 +4182,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/SEIU%20LOA%2066-2H-18-315%20OHA%20Vacation%20Scheduling%20PC.pdf
   family: loa
   format: pdf
-  sha256: ''
+  sha256: "58853424f421836bf6ef14759268d48a56a28f23a015c80817f28e1f6b91d62a"
   title: SEIU LOA 66-2H-18-315 OHA Vacation Scheduling PC
   union: SEIU
   last_checked: '2026-08-02'
@@ -4190,7 +4190,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/SEIU%20LOA%20Covid-19.pdf
   family: loa
   format: pdf
-  sha256: ''
+  sha256: "f495a2a5de34a6da9ee02687b421cb1653da3554d050f9c333551a7f30ef6086"
   title: SEIU LOA Covid-19
   union: SEIU
   last_checked: '2026-08-02'
@@ -4198,7 +4198,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/SEIU%20LOA%20OHA%20COVID.pdf
   family: loa
   format: pdf
-  sha256: ''
+  sha256: "8a26b165f50b93160cca2bae27f8ac1cc5e792a12afa0d68f0b5ab013e37ee79"
   title: SEIU LOA OHA COVID
   union: SEIU
   last_checked: '2026-08-02'
@@ -4206,7 +4206,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/SEIU%20Master%20Agreement%20Collective%20Bargaining%20Agreement%202023-2025.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "8f4653460609d104ed51756b6553bd2ae58a3ba4d183646279fa62372c223fc9"
   title: SEIU Master Agreement Collective Bargaining Agreement 2023-2025
   union: SEIU
   term: 2023-2025
@@ -4215,7 +4215,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/SEIU%20Non%20State%20Adult%20Foster%20Care%20Home%20Providers%202011-2013.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "ddaaa4b25ce608f21a05a5bb0979d5902339712625109b7da6dc76c414783e23"
   title: SEIU Non State Adult Foster Care Home Providers 2011-2013
   union: SEIU
   term: 2011-2013
@@ -4224,7 +4224,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/SEIU%20Non%20State%20Adult%20Foster%20Care%20Home%20Providers%202013-2015.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "29e94359b21b437824de94f347ce99b07fb834a8eb30211431fd5f2592a3cac7"
   title: SEIU Non State Adult Foster Care Home Providers 2013-2015
   union: SEIU
   term: 2013-2015
@@ -4233,7 +4233,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/SEIU%20Non%20State%20Adult%20Foster%20Care%20Home%20Providers%202015-2019%20amended.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "ba7637244cb6b7fe59cfe1e8018836c6e3a0abc0e2307a671aa2419b493886e5"
   title: SEIU Non State Adult Foster Care Home Providers 2015-2019 amended
   union: SEIU
   term: 2015-2019
@@ -4242,7 +4242,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/SEIU%20Non%20State%20Adult%20Foster%20Care%20Home%20Providers%202015-2019.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "96dc2dd9ffd669fcd8043cbd5c10c520acc536175a56346f4c194884afcbb443"
   title: SEIU Non State Adult Foster Care Home Providers 2015-2019
   union: SEIU
   term: 2015-2019
@@ -4251,7 +4251,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/SEIU%20Non%20State%20Adult%20Foster%20Care%20Home%20Specialized%20Living%20LOA.pdf
   family: loa
   format: pdf
-  sha256: ''
+  sha256: "d5b4b50a4d4f9032c9f02ec5168fe5ff11996c69d600c9657cbde6c0d60a1add"
   title: SEIU Non State Adult Foster Care Home Specialized Living LOA
   union: SEIU
   last_checked: '2026-08-02'
@@ -4259,7 +4259,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/SEIU%20Non%20State%20Adult%20Foster%20Care%20Home%20UP-003-18.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "384e3692562685eeb00c860fddd88740ee18a253842c89404c52f77a2a4c2ab7"
   title: SEIU Non State Adult Foster Care Home UP-003-18
   union: SEIU
   last_checked: '2026-08-02'
@@ -4267,7 +4267,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/SEIU%20Non%20State%20Adult%20Foster%20Care%20HOme%20Vent%20Home%20LOA.pdf
   family: loa
   format: pdf
-  sha256: ''
+  sha256: "08869c74a0ff8d5ae460b81bd731e2d0fb5a61be71924886789aaf474ea0391b"
   title: SEIU Non State Adult Foster Care HOme Vent Home LOA
   union: SEIU
   last_checked: '2026-08-02'
@@ -4275,7 +4275,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/SEIU%20Non%20State%20Adult%20Foster%20Home%20Providers%202021-2023.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "8481a394e941e147d67f32abfe3c034e3892d05cb056ed56ecec5f55a1890117"
   title: SEIU Non State Adult Foster Home Providers 2021-2023
   union: SEIU
   term: 2021-2023
@@ -4284,7 +4284,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/SEIU%20Non%20State%20Adult%20Foster%20Home%20Providers%202023-2025.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "2511810fa81c052bf113515e1acc49f6c552244ebaa6bdf27fffb94b2f0a3c3d"
   title: SEIU Non State Adult Foster Home Providers 2023-2025
   union: SEIU
   term: 2023-2025
@@ -4293,7 +4293,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/SEIU%20Non%20State%20Adult%20Foster%20Home%20Providers%202025-2026.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "e4901038513c5daea6f46f2d1371749ea5e7dac98b9a943f8e19024c0a3846d7"
   title: SEIU Non State Adult Foster Home Providers 2025-2026
   union: SEIU
   term: 2025-2026
@@ -4302,7 +4302,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/SEIU%20Non%20State%20Child%20Care%20Providers%202011-2013.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "f39be5bdb43140dcca16801bb4375bc0b806f6f374b96564c59a1952f4651c44"
   title: SEIU Non State Child Care Providers 2011-2013
   union: SEIU
   term: 2011-2013
@@ -4311,7 +4311,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/SEIU%20Non%20State%20Child%20Care%20Providers%202013-2015.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "25382e9ecfdca9e15b079b23af4301a97d75de04bd5b4402060539119477e019"
   title: SEIU Non State Child Care Providers 2013-2015
   union: SEIU
   term: 2013-2015
@@ -4320,7 +4320,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/SEIU%20Non%20State%20Child%20Care%20Providers%202015-2019.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "87c8a8318b4e33a061c52a8830206bb08bef4ba29c76b45bac5ba0f58ace168c"
   title: SEIU Non State Child Care Providers 2015-2019
   union: SEIU
   term: 2015-2019
@@ -4329,7 +4329,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/SEIU%20Non%20State%20Child%20Care%20Providers%202019-2023.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "716f94f66d4e7b7e247e04456d01dcdac0ffc0bb6bdcd1e3b6c46ec3626e0ee9"
   title: SEIU Non State Child Care Providers 2019-2023
   union: SEIU
   term: 2019-2023
@@ -4338,7 +4338,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/SEIU%20Non%20State%20Child%20Care%20Providers%202021-2023.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "bfd704e3455de70b83025b4c89bc1a74c60f523e53864ddb3f310856f7867446"
   title: SEIU Non State Child Care Providers 2021-2023
   union: SEIU
   term: 2021-2023
@@ -4347,7 +4347,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/SEIU%20Non%20State%20Child%20Care%20Providers%20Payment%20LOA%202019.pdf
   family: loa
   format: pdf
-  sha256: ''
+  sha256: "663bcd9f202c6493f04baf750caa9ddc0cde28784277c1535f0fbdddd1ec73ee"
   title: SEIU Non State Child Care Providers Payment LOA 2019
   union: SEIU
   last_checked: '2026-08-02'
@@ -4355,7 +4355,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/SEIU%20Non%20State%20Child%20Care%20Providers%20Together%202019-2023%20Extension%20LOA.pdf
   family: loa
   format: pdf
-  sha256: ''
+  sha256: "f255a1be8f4ae692c57275ab6012800a3d5f899960a9ed323aaf32a380b60c9e"
   title: SEIU Non State Child Care Providers Together 2019-2023 Extension LOA
   union: SEIU
   term: 2019-2023
@@ -4364,7 +4364,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/SEIU%20Non%20State%20Oregon%20Home%20Care%20Commission%202011-2013.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "acb4cdc6a930115a3c996dbd9a45f201f71f5aa42ab5fc3f6d99fc430ca0c137"
   title: SEIU Non State Oregon Home Care Commission 2011-2013
   union: SEIU
   term: 2011-2013
@@ -4373,7 +4373,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/SEIU%20Non%20State%20Oregon%20Home%20Care%20Commission%202015-2019%20amended.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "521b262e88396d65ed76451e2ba0c94252688c4f401804a089ba580e6cfa4bb3"
   title: SEIU Non State Oregon Home Care Commission 2015-2019 amended
   union: SEIU
   term: 2015-2019
@@ -4382,7 +4382,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/SEIU%20Non%20State%20Oregon%20Home%20Care%20Commission%202015-2019.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "9f4682f01234d028c9827dc16110cd2ea5d645dbc016b98425b49fd11152c38e"
   title: SEIU Non State Oregon Home Care Commission 2015-2019
   union: SEIU
   term: 2015-2019
@@ -4391,7 +4391,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/SEIU%20Non%20State%20Oregon%20Home%20Care%20Commission%202019-2021.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "be7fe6528a12020274e00122fcf388d4489fad985cc82330d81d1057638cf637"
   title: SEIU Non State Oregon Home Care Commission 2019-2021
   union: SEIU
   term: 2019-2021
@@ -4400,7 +4400,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/SEIU%20Non%20State%20Oregon%20Home%20Care%20Commission%202021-2023.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "cbf54c8699bda3419c045e6435b1097339c213a7275aa0fcb50e842b4cc7ddb9"
   title: SEIU Non State Oregon Home Care Commission 2021-2023
   union: SEIU
   term: 2021-2023
@@ -4409,7 +4409,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/SEIU%20Non%20State%20Oregon%20Home%20Care%20Commission%202023-2025%20LOA%20PSWs%20Paid%20Above%20Base%20Rate.pdf
   family: loa
   format: pdf
-  sha256: ''
+  sha256: "4655c94b120b20da4b69c6fbeff15fb70f887e44beffdd09e19750bb1de72c31"
   title: SEIU Non State Oregon Home Care Commission 2023-2025 LOA PSWs Paid Above Base Rate
   union: SEIU
   term: 2023-2025
@@ -4418,7 +4418,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/SEIU%20Non%20State%20Oregon%20Home%20Care%20Commission%202023-2025.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "4660ac0101fb0bd5ee8d5109c4137109cfeba399e4d5888a3ff6dba9c0aa6c43"
   title: SEIU Non State Oregon Home Care Commission 2023-2025
   union: SEIU
   term: 2023-2025
@@ -4427,7 +4427,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/SEIU%20Non%20State%20Oregon%20Home%20Care%20Commission%202025-2027.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "65ed0459cc077eebfe293d4ab0ea77be9e48021c6a2ee4776ec544a2ac52d61b"
   title: SEIU Non State Oregon Home Care Commission 2025-2027
   union: SEIU
   term: 2025-2027
@@ -4436,7 +4436,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/SEIU%20ODOT%20Coalition%202015-2019.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "37dc5968d495b1ae1c7f8ef70da43382c727dd97b635c14df9b5d5ea8209ebcb"
   title: SEIU ODOT Coalition 2015-2019
   union: SEIU
   term: 2015-2019
@@ -4445,7 +4445,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/SEIU%20ODOT%20Coalition%202019-2021.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "35b421dd211f3d46eb487ec942cd2fdeff8bd730eaffc8061003844d62825d82"
   title: SEIU ODOT Coalition 2019-2021
   union: SEIU
   term: 2019-2021
@@ -4454,7 +4454,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/SEIU%20ODOT%20Coalition%202021-2023.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "a3388211351225856bcb2829efd0a08790633dc152bcaf3cb023e972723a5ce7"
   title: SEIU ODOT Coalition 2021-2023
   union: SEIU
   term: 2021-2023
@@ -4463,7 +4463,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/SEIU%20ODOT%20Coalition%202023-2025.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "152c1e917a29e64ef69e054ecf9e0ed7b3417c2df5890d85b41bff884a5b1f47"
   title: SEIU ODOT Coalition 2023-2025
   union: SEIU
   term: 2023-2025
@@ -4472,7 +4472,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/SEIU%20Special%20Agencies%20Coalition%202015-2019.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "4ed7b32b4637a1af3a947bd80a8b8fd858cd2404342ebd5dd740657729d390e6"
   title: SEIU Special Agencies Coalition 2015-2019
   union: SEIU
   term: 2015-2019
@@ -4481,7 +4481,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/SEIU%20Special%20Agencies%20Coalition%202019-2021.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "a665f5ef59598c0c45488e5162893160e8e2d02b8b72e5b97cff3d8a6fdacd52"
   title: SEIU Special Agencies Coalition 2019-2021
   union: SEIU
   term: 2019-2021
@@ -4490,7 +4490,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/SEIU%20Special%20Agencies%20Coalition%202021-2023.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "4bbb5b1fea6b024104f4d848d0fca7bbd33c5d61c6e7bd5f8a6b87f8632076f4"
   title: SEIU Special Agencies Coalition 2021-2023
   union: SEIU
   term: 2021-2023
@@ -4499,7 +4499,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/SEIU%20Special%20Agencies%20Coalition%202023-2025.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "be0c17444216f31d86b41fdc3f4ae226b9509968d524e629e2a6f8bc9fd9236b"
   title: SEIU Special Agencies Coalition 2023-2025
   union: SEIU
   term: 2023-2025
@@ -4508,7 +4508,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/STEA%20State%20Teacher%20Educaiton%20Association%20LOA%20ASLPI%20testing.pdf
   family: loa
   format: pdf
-  sha256: ''
+  sha256: "c52234af72d9264fcbb4abbb6c06f7a1fa6e1f6e8b37969cf861cd2a01ffa485"
   title: STEA State Teacher Educaiton Association LOA ASLPI testing
   union: STEA
   last_checked: '2026-08-02'
@@ -4516,7 +4516,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/STEA%20State%20Teacher%20Education%20Association%202001-2003.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "15cea4c4266af6edb27583565218155b85ddb6728f645b1958ced6988855bba0"
   title: STEA State Teacher Education Association 2001-2003
   union: STEA
   term: 2001-2003
@@ -4525,7 +4525,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/STEA%20State%20Teacher%20Education%20Association%202005-2007.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "9c2ee49b5c3270d62df744a3358f5f867414837d6ef8296b9185d332c0b3914b"
   title: STEA State Teacher Education Association 2005-2007
   union: STEA
   term: 2005-2007
@@ -4534,7 +4534,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/STEA%20State%20Teacher%20Education%20Association%202007-2009.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "e37ea6887dfe47e25c22d48f2e7367c2f070b1b8cfed76e076dbbe53fad4768e"
   title: STEA State Teacher Education Association 2007-2009
   union: STEA
   term: 2007-2009
@@ -4543,7 +4543,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/STEA%20State%20Teacher%20Education%20Association%202009-2011.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "a63f447efd2669ccee9ac4f204e95df3d4ef0148bbad353d38f1857d386a91df"
   title: STEA State Teacher Education Association 2009-2011
   union: STEA
   term: 2009-2011
@@ -4552,7 +4552,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/STEA%20State%20Teacher%20Education%20Association%202011-2013.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "28c0eef8bf10fea5bd2d370707be2c6f3b12059422be63458a25926816f61c40"
   title: STEA State Teacher Education Association 2011-2013
   union: STEA
   term: 2011-2013
@@ -4561,7 +4561,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/STEA%20State%20Teacher%20Education%20Association%202013-2015.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "e11985a27344245e92962431969595ce3cfeb950a3ef3b0260ab1229c9736534"
   title: STEA State Teacher Education Association 2013-2015
   union: STEA
   term: 2013-2015
@@ -4570,7 +4570,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/STEA%20State%20Teacher%20Education%20Association%202015-2017.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "b2f2060d021cb3da4ebe3131c98760a5a448c02d2c441b3aa5c095807afc8d1e"
   title: STEA State Teacher Education Association 2015-2017
   union: STEA
   term: 2015-2017
@@ -4579,7 +4579,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/STEA%20State%20Teachers%20Education%20Association%202017-2019.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "891987b776d45745f22512bf04fb6360ea62899328be930d95d3ed7731a8cfc1"
   title: STEA State Teachers Education Association 2017-2019
   union: STEA
   term: 2017-2019
@@ -4588,7 +4588,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/STEA%20State%20Teachers%20Education%20Association%202019-2021.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "83ff45ad50a95b265ab669e6e2b235dae86ba8186b836d093860f6ca6e640665"
   title: STEA State Teachers Education Association 2019-2021
   union: STEA
   term: 2019-2021
@@ -4597,7 +4597,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/STEA%20State%20Teachers%20Education%20Association%202021-2023.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "813690e915aeb0a1105bbb6a66b36440331ef78b40e8fd953011f0e40ee36b09"
   title: STEA State Teachers Education Association 2021-2023
   union: STEA
   term: 2021-2023
@@ -4606,7 +4606,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/STEA%20State%20Teachers%20Education%20Association%202023-2025.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "7bfab2f451d8a4e029b9f4b0c3775fe7f5a310c9337a4a6c54b0b5bbebaf83d5"
   title: STEA State Teachers Education Association 2023-2025
   union: STEA
   term: 2023-2025
@@ -4615,7 +4615,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/STEA%20State%20Teachers%20Education%20Association%20LOA%20Pay%20Equity.pdf
   family: loa
   format: pdf
-  sha256: ''
+  sha256: "d73f67ce7ce75b8954ba2c09bf6c3ec8e9888835d552895b4e8f1f580f6f7b9f"
   title: STEA State Teachers Education Association LOA Pay Equity
   union: STEA
   last_checked: '2026-08-02'

@@ -65,7 +65,7 @@ sources:
   url: https://dochub.clackamas.us/documents/drupal/944fc26f-a46a-4166-a7e8-9994de20d712
   family: loa
   format: pdf
-  sha256: ''
+  sha256: "fa9edb566a6debebaa1016f97cf513b49f6cf226293b4da167a56e1bd82474cf"
   title: 2023-26 Ratification MOA
   last_checked: '2026-08-02'
   notes: dochub CDN uuid URL — no filename, stability unproven; hash on first fetch.
@@ -73,7 +73,7 @@ sources:
   url: https://www.clackamas.us/des/ccom-central-communications-9-1-1
   family: cba
   format: html
-  sha256: ''
+  sha256: "918234af30342e4ea02d2a81ead4ae046503a7b3e7a06ed6068cc6326f1d8198"
   title: CCOM - Central Communications 9-1-1
   last_checked: '2026-08-02'
   notes: Intermediate HTML page for this unit/instrument — the document is a second hop behind it; resolve
@@ -82,7 +82,7 @@ sources:
   url: https://www.clackamas.us/des/wes-water-environment-services-union-agreement
   family: cba
   format: html
-  sha256: ''
+  sha256: "4078cf5e2a603b11cf6db93fb2c0d12f6a7ce77b2602d66af1b614f636a140de"
   title: WES - Water Environment Services
   last_checked: '2026-08-02'
   notes: Intermediate HTML page for this unit/instrument — the document is a second hop behind it; resolve
@@ -91,7 +91,7 @@ sources:
   url: https://www.clackamas.us/des/memorandum-of-agreement-moa-a10-vacation-sell-back-adjustment
   family: loa
   format: html
-  sha256: ''
+  sha256: "3d2c7112152ca47ac148436e2978f9e1b774cc0885724195a2a1db2c8607a257"
   title: A10 - Vacation Sell-Back Adjustment
   last_checked: '2026-08-02'
   notes: Intermediate HTML page for this unit/instrument — the document is a second hop behind it; resolve
@@ -100,7 +100,7 @@ sources:
   url: https://www.clackamas.us/des/memorandum-of-agreement-moa
   family: loa
   format: html
-  sha256: ''
+  sha256: "a982cc0684dcfb0715e3cb30eafc861dd6fc885e11266414784b6aa02907a276"
   title: Vacation Sell-Back Adjustment
   last_checked: '2026-08-02'
   notes: Intermediate HTML page for this unit/instrument — the document is a second hop behind it; resolve
@@ -109,7 +109,7 @@ sources:
   url: https://www.clackamas.us/des/foppo-contract
   family: cba
   format: html
-  sha256: ''
+  sha256: "ee551dd676505b65ed71ee2d35a6beca9dc735330923734fb6a98de5268fb436"
   title: Federation of Probation and Parole Officers
   last_checked: '2026-08-02'
   notes: Intermediate HTML page for this unit/instrument — the document is a second hop behind it; resolve
@@ -118,7 +118,7 @@ sources:
   url: https://www.clackamas.us/des/memorandum-of-agreement-moa-a1-corrections-division-of-ccso
   family: loa
   format: html
-  sha256: ''
+  sha256: "4b8f48ae99fadc4f5e6446a2dbbb2ea43237a1dcb757e31bcdc37d8562389524"
   title: A1 - Corrections Division of CCSO
   last_checked: '2026-08-02'
   notes: Intermediate HTML page for this unit/instrument — the document is a second hop behind it; resolve
@@ -127,7 +127,7 @@ sources:
   url: https://www.clackamas.us/des/memorandum-of-agreement-moa-a4-sro-schedule
   family: loa
   format: html
-  sha256: ''
+  sha256: "1b499fea1f0d8be7279073ea7907f47aae8025f4c035a4c78cd4dc90fd50ad39"
   title: A4 - SRO Schedule
   last_checked: '2026-08-02'
   notes: Intermediate HTML page for this unit/instrument — the document is a second hop behind it; resolve
@@ -136,7 +136,7 @@ sources:
   url: https://www.clackamas.us/des/memorandum-of-agreement-moa-a6-bumping-when-on-leave
   family: loa
   format: html
-  sha256: ''
+  sha256: "2dd1c407639f1de5fd7b031f0ba6c5db0c5e072fbb496827dc6fdbdb6b7005d6"
   title: A6 - Bumping when on Leave
   last_checked: '2026-08-02'
   notes: Intermediate HTML page for this unit/instrument — the document is a second hop behind it; resolve
@@ -145,7 +145,7 @@ sources:
   url: https://www.clackamas.us/des/memorandum-of-agreement-moa-a14-fourth-shift-clarification
   family: loa
   format: html
-  sha256: ''
+  sha256: "9318c293fe210a95cb566e87edf4f32c9e639b0cee3e1026428f4912f44ae9bf"
   title: A14 - Fourth Shift Clarification
   last_checked: '2026-08-02'
   notes: Intermediate HTML page for this unit/instrument — the document is a second hop behind it; resolve
@@ -154,7 +154,7 @@ sources:
   url: https://www.clackamas.us/des/memorandum-of-agreement-moa-a28-retire-rehire-leave-accrural
   family: loa
   format: html
-  sha256: ''
+  sha256: "f3856ddec1508e67f3198b65ece99880e845c8d45c86e058670aaacc5de288b8"
   title: A28 - Retire Rehire Leave Accrural
   last_checked: '2026-08-02'
   notes: Intermediate HTML page for this unit/instrument — the document is a second hop behind it; resolve
@@ -163,7 +163,7 @@ sources:
   url: https://www.clackamas.us/des/memorandum-of-agreement-moa-a31-det-and-evidence-tech-incentive-pay
   family: loa
   format: html
-  sha256: ''
+  sha256: "497a51347f226d4e38354df5d1aaefe10343697500cd2f2ecf0b9b14a2813944"
   title: A31- Det. and Evidence Tech Incentive Pay
   last_checked: '2026-08-02'
   notes: Intermediate HTML page for this unit/instrument — the document is a second hop behind it; resolve
@@ -172,7 +172,7 @@ sources:
   url: https://www.clackamas.us/des/memorandum-of-agreement-moa-ftep-probationary-period
   family: loa
   format: html
-  sha256: ''
+  sha256: "68f383dccc332cc3ee6c48f0f8614aca0e0a73893e9cf22f052dcdf87be42746"
   title: FTEP Probationary Period
   last_checked: '2026-08-02'
   notes: Intermediate HTML page for this unit/instrument — the document is a second hop behind it; resolve
@@ -181,7 +181,7 @@ sources:
   url: https://www.clackamas.us/des/memorandum-of-agreement-moa-detective-and-avidence-technician-incentive-pay-program
   family: loa
   format: html
-  sha256: ''
+  sha256: "c71876903aa4beb09e3e7066080fa03237d391cb48626080fbbfa3cdbe8af8e9"
   title: Detective and Avidence Technician Incentive Pay Program
   last_checked: '2026-08-02'
   notes: Intermediate HTML page for this unit/instrument — the document is a second hop behind it; resolve
@@ -190,7 +190,7 @@ sources:
   url: https://www.clackamas.us/des/memorandum-of-agreement-ccpoa-and-search-and-rescue-coordinators
   family: loa
   format: html
-  sha256: ''
+  sha256: "f02802c19dfa0c5b3c26e2af69961b54f6ca22d8fe65dba3a14212b13c9d750b"
   title: Search and Rescue Coordinators
   last_checked: '2026-08-02'
   notes: Intermediate HTML page for this unit/instrument — the document is a second hop behind it; resolve
@@ -199,7 +199,7 @@ sources:
   url: https://www.clackamas.us/des/memorandum-of-understanding-graveyard-shift-differential
   family: loa
   format: html
-  sha256: ''
+  sha256: "855d155511131a0c031e456e80599bab1be885b8e6d2a33d538d37730f28aff3"
   title: Graveyard Shift Differential
   last_checked: '2026-08-02'
   notes: Intermediate HTML page for this unit/instrument — the document is a second hop behind it; resolve

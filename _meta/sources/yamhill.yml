@@ -34,7 +34,7 @@ sources:
   url: https://www.yamhillcounty.gov/DocumentCenter/View/17513/2024-to-2027-YCSO-CBA-PDF
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "d58c03869d1e7cc88bc0b86ee6e12e2826416522373a7924b8dc6a314eca2764"
   title: 2024 to 2027 YCSO CBA
   term: 2024-2027
   last_checked: '2026-08-02'
@@ -42,7 +42,7 @@ sources:
   url: https://www.yamhillcounty.gov/DocumentCenter/View/8608/2023-to-2026-YCEA-CBA-PDF
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "86bf15743f60f32e97f0aaa7fc60504003b3afae1c53023b2b2fcded6c03612c"
   title: 2023 to 2026 YCEA CBA
   term: 2023-2026
   last_checked: '2026-08-02'
@@ -50,7 +50,7 @@ sources:
   url: https://www.yamhillcounty.gov/DocumentCenter/View/20243/2025-to-2028-FOPPO-CBA-PDF
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "c412e9c873be05dc427a2568864adb9c953fb6758f9f78be9570f89a6fa465a0"
   title: 2025 to 2028 FOPPO CBA
   term: 2025-2028
   last_checked: '2026-08-02'
@@ -58,7 +58,7 @@ sources:
   url: https://www.yamhillcounty.gov/DocumentCenter/View/968/2023-to-2026-YCDDAA-CBA-PDF
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "ab29c7eb8f486dfc51a914734092be5dd3f9639335259f0b83bb2ed328a18ae8"
   title: 2023 to 2026 YCDDAA CBA
   term: 2023-2026
   last_checked: '2026-08-02'
@@ -66,7 +66,7 @@ sources:
   url: https://www.yamhillcounty.gov/DocumentCenter/View/969/2023-to-2026-YCJDWA-CBA-PDF
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "ab604b495c634709518b9c5e2c03c396a834965de5d56ed32d3cc6a81700777f"
   title: 2023 to 2026 YCJDWA CBA
   term: 2023-2026
   last_checked: '2026-08-02'
