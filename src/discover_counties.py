@@ -52,8 +52,8 @@ import yaml
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 SOURCES_DIR = REPO_ROOT / "_meta" / "sources"
-DEFAULT_ARCHIVE = REPO_ROOT / "_meta" / "discovery" / "2026-08-02"
-ARCHIVE_DATE = "2026-08-02"   # the date of the archived fetches; travels with --archive
+DEFAULT_ARCHIVE = REPO_ROOT / "_meta" / "discovery" / "2026-08-25"
+ARCHIVE_DATE = "2026-08-25"   # the date of the archived fetches; travels with --archive
 
 TERM = re.compile(r"\b(20\d{2})\s*(?:[-–]|to)\s*(20\d{2})\b")
 LOA = re.compile(r"\b(loa|mou|moa|memorandum|letter of agreement|ratification|modifications?)\b", re.I)
@@ -480,6 +480,28 @@ COUNTIES: dict[str, dict] = {
 }
 
 
+class _Quoted(str):
+    """A string this file writes in double quotes.
+
+    ONE FILE, TWO WRITERS, AND THEY DISAGREED ABOUT QUOTING. `corpus-detect-changes
+    --record-baseline` edits line by line and writes `sha256: "abc..."`; `yaml.safe_dump`
+    writes `sha256: abc...`. Identical YAML either way, but the styles flip-flopped every
+    time the other tool touched the file, so a real diff arrived buried in 600 lines of
+    quote churn. This renderer now matches the recorder.
+    """
+
+
+def _quoted(dumper, data):
+    return dumper.represent_scalar("tag:yaml.org,2002:str", str(data), style='"')
+
+
+class _Dumper(yaml.SafeDumper):
+    pass
+
+
+_Dumper.add_representer(_Quoted, _quoted)
+
+
 def _split(text: str) -> tuple[str, str]:
     """(comment header, yaml body) — the two halves this file is checked in."""
     lines = text.split("\n")
@@ -541,7 +563,7 @@ def _carry_recorded(county: str, sources: list[dict]) -> None:
         if not was:
             continue
         if was.get("sha256"):
-            s["sha256"] = was["sha256"]
+            s["sha256"] = _Quoted(was["sha256"])
         if was.get("last_checked"):
             s["last_checked"] = was["last_checked"]
 
@@ -566,7 +588,7 @@ def render(county: str, cfg: dict, sources: list[dict]) -> str:
         "upstream_signal": cfg["upstream"],
         "sources": sources,
     }
-    body = yaml.safe_dump(doc, sort_keys=False, allow_unicode=True, width=100)
+    body = yaml.dump(doc, Dumper=_Dumper, sort_keys=False, allow_unicode=True, width=100)
     return "".join(f"# {l}\n" if l else "#\n" for l in head) + body
 
 
