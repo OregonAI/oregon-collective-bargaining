@@ -1,0 +1,1826 @@
+<!DOCTYPE html><html id="ctl00_html" xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">
+<head id="ctl00_Head1"><title>
+	Collective Bargaining Agreements - Lane County
+</title>
+	<style>
+		.cssIESearch {
+			border:dashed !important;
+			border-width:thin !important;
+		}
+	</style>
+	<script>
+		function focusInInput(id) {
+			var ua = window.navigator.userAgent;
+	
+				// IE 10 or older
+				var msie = ua.indexOf('MSIE ');
+				if (msie > 0) {
+						if (parseInt(ua.substring(msie + 5, ua.indexOf('.', msie)), 10) <= 10 )
+							$(id).toggleClass('cssIESearch');
+					}
+
+				// IE 11
+				var trident = ua.indexOf('Trident/');
+				if (trident > 0) {
+					var rv = ua.indexOf('rv:');
+					if (parseInt(ua.substring(rv + 3, ua.indexOf('.', rv)), 10) === 11)
+						$(id).toggleClass('cssIESearch');
+				}
+		};
+
+		function focusOutInput(id) {
+			$(id).removeClass('cssIESearch');
+		}; 
+	</script>
+    <base href="https://www.lanecountyor.gov/cms/One.aspx?portalId=3585881&amp;pageId=4159408" /><script id="ctl00_00f77616769f0d4f891b41dfda94e8b04f53f1c11d0172b581e651aeac6863a9" src="https://cdnsm1-hosted.civiclive.com/bundle/js/vendor.cfcd208495d565ef66e7dff9f98764da.js" type="text/javascript"></script><link id="ctl00_c8f4c6c953812b601a957ffb85881e061f80eb01e5e8c670167b133b4d5e4bbf" href="https://cdnsm1-hosted.civiclive.com/bundle/css/vendor.cfcd208495d565ef66e7dff9f98764da.css" rel="stylesheet" type="text/css" media="all" /><meta charset="utf-8" /><meta id="viewport" name="viewport" content="width=320, initial-scale=1, maximum-scale=1, user-scalable=yes" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" /><link rel="apple-touch-icon" sizes="120x120" href="https://cdnsm5-hosted.civiclive.com/UserFiles/Servers/Server_3585797/Templates/favicon/apple-touch-icon.png" /><link rel="icon" type="image/png" sizes="32x32" href="https://cdnsm5-hosted.civiclive.com/UserFiles/Servers/Server_3585797/Templates/favicon/favicon-32x32.png" /><link rel="icon" type="image/png" sizes="16x16" href="https://cdnsm5-hosted.civiclive.com/UserFiles/Servers/Server_3585797/Templates/favicon/favicon-16x16.png" /><link rel="mask-icon" href="https://cdnsm5-hosted.civiclive.com/UserFiles/Servers/Server_3585797/Templates/favicon/safari-pinned-tab.svg" color="#5bbad5" /><meta name="msapplication-TileColor" content="#ffffff" /><meta name="theme-color" content="#ffffff" /><script type="text/javascript">
+        /*<![CDATA[*/
+        (function() {
+        var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+        sz.src = '//siteimproveanalytics.com/js/siteanalyze_1311269.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+        })();
+        /*]]>*/
+    </script><script>
+     (function() {
+     var cx = '014119472612093565713:182gnr-kx1y';
+     var gcse = document.createElement('script');
+     gcse.type = 'text/javascript';
+     gcse.async = true;
+     gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+     var s = document.getElementsByTagName('script')[0];
+     s.parentNode.insertBefore(gcse, s);
+     })();
+ </script><link rel="stylesheet" href="https://cdnsm5-hosted.civiclive.com/UserFiles/Servers/Server_3585797/Templates/css/easy-responsive-tabs.css" /><!--<script type="text/javascript" src="https://ws.sharethis.com/button/buttons.js"></script>--><script type="text/javascript" src="https://cdnsm5-hosted.civiclive.com/UserFiles/Servers/Server_3585797/Templates/js/easyResponsiveTabs.js"></script><script type="text/javascript" src="https://cdnsm5-hosted.civiclive.com/UserFiles/Servers/Server_3585797/Templates/js/jquery.backstretch.min.js"></script><script src="https://cdnsm5-hosted.civiclive.com/UserFiles/Servers/Server_212309/Templates/jquery.flexslider.js"></script><script type="text/javascript">
+    $(document).ready(function() {
+    
+    //addition
+    
+    var tabCounter = 0;
+    $('.rendered-services .rendered-tab-wrapper').each(function(){
+    var currentTab = $(this);
+    //add left nav item
+    var currentTabTitle = currentTab.find('.rendered-tab-title').html();
+    if(currentTabTitle!=""){
+    $('.services-tab-content .resp-tabs-list').append('<li><span>'+currentTabTitle+'</span><em class="fa fa-arrow-circle-right"><!----></em></li>');
+    //add containers for all nav items
+    $('#parentVerticalTab .resp-tabs-container').append(''+
+    '<div id="tabs-'+(tabCounter+1)+'">'+
+    '<ul class="rightLinks">'+
+    '</ul>'+
+    '</div>'+
+    '');
+    //add quick links to respective containers
+    currentTab.find('.quick-link').each(function(){
+    var qlTitle = $(this).find('.quick-link-title').html();
+    var qlIcon  = $(this).find('.quick-link-icon').html();
+    var qlUrl   = $(this).find('.quick-link-url').html();
+    var respectiveTabId = 'tabs-'+(tabCounter+1);
+    $('#parentVerticalTab').find('#'+respectiveTabId).find('.rightLinks').append(''+
+    '<li><a href="'+qlUrl+'" title="'+qlTitle+'">'+
+    '<em class="fa '+qlIcon+'"><!----></em>'+qlTitle+
+    '</a></li>'+
+    '');
+    });
+    tabCounter+=1;
+    }//if ends
+    });
+    
+    
+    tabCounter = 0;
+    $('.rendered-emergency .rendered-tab-wrapper').each(function(){
+    var currentTab2 = $(this);
+    //add left nav item
+    var currentTabTitle = currentTab2.find('.rendered-tab-title').html();
+    if(currentTabTitle!=""){
+    $('.emergency-tab-content .resp-tabs-list').append('<li><span>'+currentTabTitle+'</span><em class="fa fa-arrow-circle-right"><!----></em></li>');
+    //add containers for all nav items
+    $('#parentVerticalTab-2 .resp-tabs-container').append(''+
+    '<div id="tabs-'+(tabCounter+1)+'">'+
+    '<ul class="rightLinks">'+
+    '</ul>'+
+    '</div>'+
+    '');
+    //add quick links to respective containers
+    currentTab2.find('.quick-link').each(function(){
+    var qlTitle = $(this).find('.quick-link-title').html();
+    var qlIcon  = $(this).find('.quick-link-icon').html();
+    var qlUrl   = $(this).find('.quick-link-url').html();
+    var respectiveTabId = 'tabs-'+(tabCounter+1);
+    $('#parentVerticalTab-2').find('#'+respectiveTabId).find('.rightLinks').append(''+
+    '<li><a href="'+qlUrl+'" title="'+qlTitle+'">'+
+    '<em class="fa '+qlIcon+'"><!----></em>'+qlTitle+
+    '</a></li>'+
+    '');
+    });
+    tabCounter+=1;
+    }//if ends
+    });
+    
+    
+    tabCounter = 0;
+    $('.rendered-recreation .rendered-tab-wrapper').each(function(){
+    var currentTab3 = $(this);
+    //add left nav item
+    var currentTabTitle = currentTab3.find('.rendered-tab-title').html();
+    if(currentTabTitle!=""){
+    $('.recreation-tab-content .resp-tabs-list').append('<li><span>'+currentTabTitle+'</span><em class="fa fa-arrow-circle-right"><!----></em></li>');
+    //add containers for all nav items
+    $('#parentVerticalTab-3 .resp-tabs-container').append(''+
+    '<div id="tabs-'+(tabCounter+1)+'">'+
+    '<ul class="rightLinks">'+
+    '</ul>'+
+    '</div>'+
+    '');
+    //add quick links to respective containers
+    currentTab3.find('.quick-link').each(function(){
+    var qlTitle = $(this).find('.quick-link-title').html();
+    var qlIcon  = $(this).find('.quick-link-icon').html();
+    var qlUrl   = $(this).find('.quick-link-url').html();
+    var respectiveTabId = 'tabs-'+(tabCounter+1);
+    $('#parentVerticalTab-3').find('#'+respectiveTabId).find('.rightLinks').append(''+
+    '<li><a href="'+qlUrl+'" title="'+qlTitle+'">'+
+    '<em class="fa '+qlIcon+'"><!----></em>'+qlTitle+
+    '</a></li>'+
+    '');
+    });
+    tabCounter+=1;
+    }//if ends
+    });
+    
+    
+    //addition
+    
+    //Vertical Tab
+    $('#parentVerticalTab').easyResponsiveTabs({
+    type: 'vertical', //Types: default, vertical, accordion
+    width: 'auto', //auto or any width like 600px
+    fit: true, // 100% fit in a container
+    closed: 'accordion', // Start closed if in accordion view
+    tabidentify: 'ver_1', // The tab groups identifier
+
+    });
+    });
+    
+    
+    
+    
+</script><!-- END OF TAB SCRIPT --><script type="text/javascript">
+    $(document).ready(function() {
+
+    
+    //Vertical Tab
+    $('#parentVerticalTab-2').easyResponsiveTabs({
+    type: 'vertical', //Types: default, vertical, accordion
+    width: 'auto', //auto or any width like 600px
+    fit: true, // 100% fit in a container
+    closed: 'accordion', // Start closed if in accordion view
+    tabidentify: 'ver_1', // The tab groups identifier
+
+    });
+    });
+    
+    
+    
+    
+</script><!-- END OF TAB SCRIPT --><script type="text/javascript">
+    $(document).ready(function() {
+
+    
+    //Vertical Tab
+    $('#parentVerticalTab-3').easyResponsiveTabs({
+    type: 'vertical', //Types: default, vertical, accordion
+    width: 'auto', //auto or any width like 600px
+    fit: true, // 100% fit in a container
+    closed: 'accordion', // Start closed if in accordion view
+    tabidentify: 'ver_1', // The tab groups identifier
+
+    });
+    });
+    
+    
+    
+    
+</script><!-- END OF TAB SCRIPT --><script>
+    $(document).ready(function(){
+    $('#emerg').appendTo('#emergNot');
+    });
+    
+</script><script>
+    $(document).ready(function(){
+    $('#news-button').appendTo('.viewAll');
+    });
+    
+</script><script type="text/javascript" src="https://cdnsm5-hosted.civiclive.com/UserFiles/Servers/Server_3585797/Templates/js/fontsizer.js"></script><!--<script type="text/javascript">
+        $(document).ready(function() {          
+            $('.fontSize li a').fontSizer({
+                  controls: false
+            });
+        });
+    </script>--><link rel="stylesheet" href="https://cdnsm5-hosted.civiclive.com/UserFiles/Servers/Server_3585797/Templates/js/jssocials-theme-flat.css" /><link rel="stylesheet" href="https://cdnsm5-hosted.civiclive.com/UserFiles/Servers/Server_3585797/Templates/js/jssocials.css" /><script type="text/javascript" src="https://cdnsm5-hosted.civiclive.com/UserFiles/Servers/Server_3585797/Templates/js/jssocials.min.js"></script><script type="text/javascript" src="https://cdnsm5-hosted.civiclive.com/UserFiles/Servers/Server_3585797/Templates/js/sharebtn.js"></script><meta http-equiv="Content-Type" content="text/html;charset=utf-8" /><script id="ctl00_d811866f2347c45bd3a0fe77a237af6a60765b254d2e04324bf23e6319644c76" src="https://cdnsm2-hosted.civiclive.com/common/JavaScript/resourcelibrary/ReactPortlets/reactPortletLoader.js" type="text/javascript"></script><script id="ctl00_007e1919cd42cdd5583cdcdfaf4437f725a9db464eba46f47def4954760764c0" src="https://cdnsm2-hosted.civiclive.com/common/JavaScript/resourcelibrary/ReactPortletsInit.js" type="text/javascript"></script><link href="https://cdnsm2-hosted.civiclive.com/App_Themes/default/merged.css" type="text/css" rel="stylesheet" /><meta property="og:title" content="Collective Bargaining Agreements" /><meta property="og:url" content="https://www.lanecountyor.gov/government/county_departments/human_resources/collective_bargaining_agreements" /><link href="https://www.lanecountyor.gov/government/county_departments/human_resources/collective_bargaining_agreements" rel="canonical" /><script async src="https://www.googletagmanager.com/gtag/js?id=G-GK506XC3FG"></script><script type="text/javascript">
+window.dataLayer = window.dataLayer || []
+function gtag() { dataLayer.push(arguments); }
+gtag('js', new Date());
+gtag('config', 'G-GK506XC3FG');
+gtag('config', 'G-G30BCGQ9RY');
+</script>
+<link id="ctl00_c11ee3292ac9e5a4417635135583c4bbfdb8ea29573b674250c4d49a2a0ace54" href="https://cdnsm2-hosted.civiclive.com/App_Themes/jquery.mmenu.all.css" rel="stylesheet" type="text/css" media="all" /><script id="ctl00_c322b83bd68baadb3b50174e9bb777a6e2a207f953b71156195b3059ebbbf2a1" src="https://cdnsm1-hosted.civiclive.com/javascript/jquery.mmenu.min.all.js" type="text/javascript"></script><link id="ctl00_ecaa77bc459a465ccbf05b1230a7fda7d326ac12b2a6ed8ea34f9b8e8a640bda" href="https://cdnsm2-hosted.civiclive.com/App_Themes/mobilemenu.css" rel="stylesheet" type="text/css" media="all" /><script id="ctl00_6954abdda40ad30188b10655e8e3c079ee30c506b42fc79e052476db304c6aed" src="https://cdnsm1-hosted.civiclive.com/javascript/mobilemenu2019.v2.js" type="text/javascript"></script><link id="ctl00_5126e573b46cd104e96d539891f559fcb68311acc2b7185ac68593ee6310b733" href="https://cdnsm5-hosted.civiclive.com/UserFiles/TemplateStyles/Server_3585797/1213.css" rel="stylesheet" type="text/css" media="all" /><link id="ctl00_62d5b5acfac205ee192873312c44badb262caa3410605faf69de8c378b5dc098" href="/Common/controls/ContentItemModern/css/common.css" rel="stylesheet" type="text/css" media="all" /><link id="ctl00_15e96bdee3ed77a1e99e8393712dc3f2fa7784ece926d83d70aab41ee5b39b22" href="/common/pages/PortalThemeStyle.ashx?templateId=1504" rel="stylesheet" type="text/css" media="all" /><link rel="stylesheet" type="text/css" href="/common/RichTextConfig/CustomFCKWebStyle.aspx?portalId=3585881" /><link href="/Telerik.Web.UI.WebResource.axd?d=PMrIT5dOWaVYIcpFWUE4nPnmLmO0BrM2PYzxkd0onrXbUpetimu5wKgzw7EGIxmOOVDwEK6CbI01fyEW3Y62LEDBs-5cgre4MBpJPijaMfuobTlR0&amp;t=639087616742035256&amp;compress=1&amp;_TSM_CombinedScripts_=%3b%3bTelerik.Web.UI%2c+Version%3d2026.2.708.462%2c+Culture%3dneutral%2c+PublicKeyToken%3d121fae78165ba3d4%3aen-US%3a03a52e94-03ab-4ac2-b277-a6e3154784ef%3a92753c09%3a91f742eb%3aed2942d4" type="text/css" rel="stylesheet" /></head>
+<body id="ctl00_PageBody" style="margin: 0px">
+    
+
+<div id="mobile_banner"></div>
+
+    <form method="post" action="./One.aspx?portalId=3585881&amp;pageId=4159408" id="aspnetForm">
+<input type="hidden" name="ctl00_RadStyleSheetManager1_TSSM" id="ctl00_RadStyleSheetManager1_TSSM" value="" />
+<input type="hidden" name="ctl00_ScriptManager1_TSM" id="ctl00_ScriptManager1_TSM" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+
+
+<script src="https://cdnsm2-hosted.civiclive.com/common/JavaScript/Json2.js" type="text/javascript"></script>
+<script src="https://cdnsm2-hosted.civiclive.com/common/JavaScript/JQuery/jquery-cookie.js" type="text/javascript"></script><script type="text/javascript">
+            
+                function OpenNewWindow(url, arguments)
+                {  
+                    return window.open(url, "",arguments);
+                }
+
+                function OpenNewWindowJS(url, ignore, arguments){  
+                    return OpenNewWindow(url, arguments);  
+                }
+
+
+                function OpenNewWindowNoReturn(url, arguments){  
+                    OpenNewWindow(url, arguments);  
+                }
+
+              </script> 
+<script type="text/javascript">
+//<![CDATA[
+function _search(){var frm=document.forms['aspnetForm'];if(!frm)frm=document.aspnetForm;window.location='/workspaces/Search.aspx?contextId='+frm.SearchPlace.value+'&place='+frm.SearchOne.value+'&searchTerm='+escape(frm.SearchTerm.value).replace(/\+/g, '%2C').replace(/\"/g,'%22').replace(/'/g, '%27');}
+            function clickButton(e, buttonid)
+            { 
+              var bt = document.getElementById(buttonid); 
+              if (typeof bt == 'object')
+		        { 
+
+                    if (navigator.appName.indexOf('Microsoft Internet Explorer')>(-1)){ 
+                          if (event.keyCode == 13){ 
+                                bt.click(); 
+                                return false; 
+                          } 
+                    } 
+	    	        else
+			        {
+	                  if (e.keyCode == 13)
+	          	        { 
+                                bt.click(); 
+                                return false; 
+                          } 
+                    } 
+              } 
+            } //]]>
+</script>
+
+<script src="https://cdnsm2-hosted.civiclive.com/Common/JavaScript/Common_Control.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+
+function InputConstraint_OnLoad(textBoxControlId, oRegExp)            
+{
+    oTextBoxControl = document.getElementById(textBoxControlId);
+	if (oTextBoxControl)
+	{
+		if (oRegExp.test(oTextBoxControl.value))
+			oTextBoxControl.OldValue = oTextBoxControl.value;
+		else 
+			oTextBoxControl.value = oTextBoxControl.OldValue = '';
+	}
+}
+function InputConstraint_OnChange(oTextBoxControl, oRegExp)         
+{
+    if (oRegExp.test(oTextBoxControl.value))
+        oTextBoxControl.OldValue = oTextBoxControl.value;
+    else {
+        if (typeof(oTextBoxControl.OldValue) == 'undefined' || oTextBoxControl.value == '') 
+            oTextBoxControl.OldValue = '';
+        oTextBoxControl.value = oTextBoxControl.OldValue;
+    } 
+}
+
+//]]>
+</script>
+
+<script src="https://cdnsm1-hosted.civiclive.com/javascript/attrchange.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+;$(function() { $('nav#mMenuCMS').mmenu({"slidingSubmenus":false,"position":"left","zposition":"back"}, {"pageNodetype":"form"});});//]]>
+</script>
+
+<script src="https://cdnsm1-hosted.civiclive.com/ScriptResource.axd?d=qph9tUZ6hGPLbkznkRkqTc6sslt3VBxKsKaOsMkgDhBUIK4VeSNrR567Oujh-9r3p-v83OZlKXS3oddHkUoa3BeagcZ1DHb7zL1wTa7ulWzZJz8E0&amp;t=f2cd5c5" type="text/javascript"></script>
+<script src="https://cdnsm1-clradscript.civiclive.com/ajax/2026.2.708/Common/Core.js" type="text/javascript"></script>
+<script src="https://cdnsm1-clradscript.civiclive.com/ajax/2026.2.708/Common/jQuery.js" type="text/javascript"></script>
+<script src="https://cdnsm1-clradscript.civiclive.com/ajax/2026.2.708/Common/jQueryPlugins.js" type="text/javascript"></script>
+<script src="https://cdnsm1-clradscript.civiclive.com/ajax/2026.2.708/Common/AnimationFramework/AnimationFramework.js" type="text/javascript"></script>
+<script src="https://cdnsm1-clradscript.civiclive.com/ajax/2026.2.708/Common/Animation/AnimationScripts.js" type="text/javascript"></script>
+<script src="https://cdnsm1-clradscript.civiclive.com/ajax/2026.2.708/Common/Popup/PopupScripts.js" type="text/javascript"></script>
+<script src="https://cdnsm1-clradscript.civiclive.com/ajax/2026.2.708/Common/Helpers/IETouchActionManager.js" type="text/javascript"></script>
+<script src="https://cdnsm1-clradscript.civiclive.com/ajax/2026.2.708/Common/TouchScrollExtender.js" type="text/javascript"></script>
+<script src="https://cdnsm1-clradscript.civiclive.com/ajax/2026.2.708/Common/Widgets/Draggable.js" type="text/javascript"></script>
+<script src="https://cdnsm1-clradscript.civiclive.com/ajax/2026.2.708/Common/Widgets/Resizable.js" type="text/javascript"></script>
+<script src="https://cdnsm1-clradscript.civiclive.com/ajax/2026.2.708/Common/ShortCutManager/ShortCutManagerScripts.js" type="text/javascript"></script>
+<script src="https://cdnsm1-clradscript.civiclive.com/ajax/2026.2.708/Common/MaterialRipple/MaterialRippleScripts.js" type="text/javascript"></script>
+<script src="https://cdnsm1-clradscript.civiclive.com/ajax/2026.2.708/Window/RadWindowScripts.js" type="text/javascript"></script>
+<script src="https://cdnsm1-clradscript.civiclive.com/ajax/2026.2.708/Window/RadWindowManager.js" type="text/javascript"></script>
+<script src="https://cdnsm1-clradscript.civiclive.com/ajax/2026.2.708/Common/Scrolling/ScrollingScripts.js" type="text/javascript"></script>
+<script src="https://cdnsm1-clradscript.civiclive.com/ajax/2026.2.708/Common/Navigation/OData/OData.js" type="text/javascript"></script>
+<script src="https://cdnsm1-clradscript.civiclive.com/ajax/2026.2.708/Common/Navigation/NavigationScripts.js" type="text/javascript"></script>
+<script src="https://cdnsm1-clradscript.civiclive.com/ajax/2026.2.708/Common/Navigation/OverlayScript.js" type="text/javascript"></script>
+<script src="https://cdnsm1-clradscript.civiclive.com/ajax/2026.2.708/Menu/RadMenuScripts.js" type="text/javascript"></script>
+<script src="https://cdnsm1-clradscript.civiclive.com/ajax/2026.2.708/Menu/MenuItem/RadMenuItem.js" type="text/javascript"></script>
+<script src="https://cdnsm1-clradscript.civiclive.com/ajax/2026.2.708/Menu/Views/ClassicView.js" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="F495CFC0" />
+    
+    
+		
+   
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+            
+            
+    
+    
+            
+    
+    
+    
+    
+    
+    
+    
+            
+    
+            
+    
+    
+    
+    
+    
+    
+            
+    
+    
+    
+    
+    
+
+    
+    <div class="bodyBackground"></div><div id="emergNot"></div><div id="header"><div class="inside-padding"><div id="header-left"><a alt="Home" id="logo" href="/"><img src="https://cdnsm5-hosted.civiclive.com/UserFiles/Servers/Server_3585797/Templates/logo/logo.png" title="Home"></img></a></div><!-- end #header-right --><div id="header-right"><div class="sub-head-left"><a title="Lane County" href="/"><h2>Lane County</h2></a><div class="row top"><ul><li class="search"><gcse:searchbox-only resultsUrl="/search_results"></gcse:searchbox-only></li><!--<li class="search"><searchbox buttonimage="" border="0"/> </li>--></ul><div class="translateWrapper heroControlDrop"><a href="#" class="heroToggle contactBtn" title="Open Translate Dropdown"><em class="la la-translate"></em><span class="offScreenno">Translate</span></a><ul class="languageDropdown heroDropdown"><li id="gtl_original"><a href="javascript:TranslateTo('original');">View Original</a></li><li><a href="javascript:TranslateTo('es');">Spanish</a></li><li><a href="javascript:TranslateTo('zh-CN');">Cantonese</a></li><li><a href="javascript:TranslateTo('fr');">French</a></li><li><a href="javascript:TranslateTo('de');">German</a></li><li><a href="javascript:TranslateTo('it');">Italian</a></li><li><a href="javascript:TranslateTo('tl');">Tagalog</a></li><li><a href="javascript:TranslateTo('vi');">Vietnamese</a></li><li><a href="javascript:TranslateTo('ko');">Korean</a></li><li><a href="javascript:TranslateTo('ru');">Russian</a></li><li class="last"><a href="javascript:TranslateTo('hi');">Hindi</a></li></ul></div></div></div><div id="menubar"></div></div><div class="clear"></div></div></div><!-- end #header --><div id="content-wrapper">
+
+    <style>
+		/* disable CKEditor orignal image & flash manager */
+		.cke_button__image {
+			display:none !important;
+		}
+
+		.cke_button__flash {
+			display:none !important;
+		}
+
+	</style>
+    <script type="text/javascript">
+    $(document).ready(function () {
+        $('#divOverlay').css('width', $(document).width());
+        $('#divOverlay').css('height', $(document).height());
+    });
+    </script>
+
+    <!-- richeditor full screen mode overlay element -->
+    <div id="divOverlay" unselectable="on" class="TelerikModalOverlayFullScreen" style="position: absolute; left: 0px; top: 0px; z-index: 100001; background-color: rgb(170, 170, 170); opacity: 0.5; display: none;"></div>
+    
+        <script type="text/javascript">
+            function setPreventHttpRedirectParam(url) {
+                url = (url || '').trim();
+                if (url === '') return url;
+                var parser = document.createElement('a');
+                parser.href = url;
+                var search = '?preventHttpRedirect=1';
+                if (parser.search.length > 0)
+                    search += '&' + parser.search.substr(1);
+                parser.search = search;
+                return parser.href;
+            }
+
+            function openRadWindowLoadingContentTree(url) {
+                var wnd = $find("ctl00_ContentPlaceHolder1_RadWindowManagerLoadingContentTree");
+                showModal(url, wnd, 750, 630);
+                return false;
+            }
+
+            function openPermissionControlWindow(url) {
+                var wnd = $find("ctl00_ContentPlaceHolder1_RadWindowPermissionControl");
+                showModal(url, wnd, 150, 61);
+                return false;
+            }
+
+            function showModal(url, wnd, width, height) {
+                var scheme = window.location.href.split('/')[0] || 'http:';
+                radopen(scheme === 'https:' || $('.secureform').length > 0
+                    ? setPreventHttpRedirectParam(url) : url, wnd, width + 'px', height + 'px').center();
+            }
+
+            function RadWindowLoadFunction(url) {
+                window.location = url;
+            }
+        </script>
+
+        <style type="text/css">
+            /* force to set z-index as max value */
+            .WindowLoadingContentTreeRadWindow {
+                z-index: 53001 !important;
+            }
+        </style>
+        <div id="ctl00_ContentPlaceHolder1_RadWindowManagerLoadingContentTree" class="WindowLoadingContentTreeRadWindow" style="display:none;">
+	<!-- 2026.2.708.462 --><div id="ctl00_ContentPlaceHolder1_RadWindowManagerLoadingContentTree_alerttemplate" style="display:none;">
+        <div class="rwDialogPopup radalert">
+            <div class="rwDialogText" role="alert">
+            {1}
+            </div>
+
+            <div>
+                <a  onclick="$find('{0}').close(true);"
+                class="rwPopupButton" href="javascript:void(0);">
+                    <span class="rwOuterSpan">
+                        <span class="rwInnerSpan">##LOC[OK]##</span>
+                    </span>
+                </a>
+            </div>
+        </div>
+        </div><div id="ctl00_ContentPlaceHolder1_RadWindowManagerLoadingContentTree_prompttemplate" style="display:none;">&nbsp;</div><div id="ctl00_ContentPlaceHolder1_RadWindowManagerLoadingContentTree_confirmtemplate" style="display:none;">&nbsp;</div><input id="ctl00_ContentPlaceHolder1_RadWindowManagerLoadingContentTree_ClientState" name="ctl00_ContentPlaceHolder1_RadWindowManagerLoadingContentTree_ClientState" type="hidden" />
+</div><div id="ctl00_ContentPlaceHolder1_RadWindowLoadingContentTree" style="display:none;">
+	<div id="ctl00_ContentPlaceHolder1_RadWindowLoadingContentTree_C" style="display:none;">
+
+	</div><input id="ctl00_ContentPlaceHolder1_RadWindowLoadingContentTree_ClientState" name="ctl00_ContentPlaceHolder1_RadWindowLoadingContentTree_ClientState" type="hidden" />
+</div><div id="ctl00_ContentPlaceHolder1_RadWindowPermissionControl" style="display:none;">
+	<div id="ctl00_ContentPlaceHolder1_RadWindowPermissionControl_C" style="display:none;">
+
+	</div><input id="ctl00_ContentPlaceHolder1_RadWindowPermissionControl_ClientState" name="ctl00_ContentPlaceHolder1_RadWindowPermissionControl_ClientState" type="hidden" />
+</div>
+    
+<div id="theme" class="subpage"><div id="emergNot"></div><div class="nav"><a href="#mMenuCMS" id="mobile-bar" title="Mobile Menu"><span class="fa fa-bars"></span> Main Menu</a><div tabindex="0" id="ctl00_ContentPlaceHolder1_ctl01_radmenu" class="RadMenu RadMenu_  wrapword telerik_main_menu NoIcon">
+	<ul class="rmRootGroup rmHorizontal">
+		<li class="rmItem rmFirst"><a class="rmLink rmRootLink" href="/home"><span class="rmText">Home</span></a></li><li class="rmItem "><a class="rmLink rmRootLink" href="/residents"><span class="rmText">Residents</span></a><div class="rmSlide">
+			<ul class="rmVertical rmGroup rmLevel1">
+				<li class="rmItem rmFirst"><a class="rmLink" href="/residents/animal_services"><span class="rmText">Animal Services</span></a></li><li class="rmItem "><a class="rmLink" href="/residents/c_o_v_i_d-19_information"><span class="rmText">COVID-19 Information</span></a></li><li class="rmItem "><a class="rmLink" href="/residents/elections"><span class="rmText">Elections</span></a></li><li class="rmItem "><a class="rmLink" href="/residents/health_and_wellness"><span class="rmText">Health and Wellness</span></a><div class="rmSlide">
+					<ul class="rmVertical rmGroup rmLevel2">
+						<li class="rmItem rmFirst"><a class="rmLink" href="/residents/health_and_wellness/behavioral_health"><span class="rmText">Behavioral Health</span></a></li><li class="rmItem "><a class="rmLink" href="/residents/health_and_wellness/communicable_disease"><span class="rmText">Communicable Disease</span></a></li><li class="rmItem "><a class="rmLink" href="/residents/health_and_wellness/community_health_centers"><span class="rmText">Community Health Centers</span></a></li><li class="rmItem "><a class="rmLink" href="/residents/health_and_wellness/developmental_disabilities"><span class="rmText">Developmental Disabilities</span></a></li><li class="rmItem "><a class="rmLink" href="/residents/health_and_wellness/environmental_health"><span class="rmText">Environmental Health</span></a></li><li class="rmItem "><a class="rmLink" href="/residents/health_and_wellness/family_mediation"><span class="rmText">Family Mediation</span></a></li><li class="rmItem "><a class="rmLink" href="/residents/health_and_wellness/immunizations"><span class="rmText">Immunizations</span></a></li><li class="rmItem "><a class="rmLink" href="/residents/health_and_wellness/family_and_child_health"><span class="rmText">Family and Child Health </span></a></li><li class="rmItem "><a class="rmLink" href="/residents/health_and_wellness/poverty_and_homelessness"><span class="rmText">Poverty and Homelessness</span></a></li><li class="rmItem "><a class="rmLink" target="_blank" href="/residents/health_and_wellness/prevention"><span class="rmText">Prevention</span></a></li><li class="rmItem "><a class="rmLink" href="/residents/health_and_wellness/public_health"><span class="rmText">Public Health</span></a></li><li class="rmItem "><a class="rmLink" href="/residents/health_and_wellness/restaurant_inspections"><span class="rmText">Restaurant Inspections</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="/residents/health_and_wellness/women__infants_and_children___w_i_c_"><span class="rmText">Women, Infants and Children (WIC)</span></a></li>
+					</ul>
+				</div></li><li class="rmItem "><a class="rmLink" href="/residents/jobs"><span class="rmText">Jobs</span></a></li><li class="rmItem "><a class="rmLink" href="/residents/maps"><span class="rmText">Maps</span></a></li><li class="rmItem "><a class="rmLink" href="/residents/marriage_licenses"><span class="rmText">Marriage Licenses</span></a></li><li class="rmItem "><a class="rmLink" href="/residents/property_and_buildings"><span class="rmText">Property and Buildings</span></a></li><li class="rmItem "><a class="rmLink" href="/residents/property_taxes"><span class="rmText">Property Taxes</span></a></li><li class="rmItem "><a class="rmLink" href="/residents/public_safety_and_justice"><span class="rmText">Public Safety and Justice</span></a><div class="rmSlide">
+					<ul class="rmVertical rmGroup rmLevel2">
+						<li class="rmItem rmFirst"><a class="rmLink" href="/residents/public_safety_and_justice/civil_process"><span class="rmText">Civil Process</span></a></li><li class="rmItem "><a class="rmLink" href="/residents/public_safety_and_justice/concealed_handgun_license"><span class="rmText">Concealed Handgun Licensing</span></a></li><li class="rmItem "><a class="rmLink" target="_blank" href="/residents/public_safety_and_justice/crime_mapping"><span class="rmText">Crime Mapping Online</span></a></li><li class="rmItem "><a class="rmLink" href="/residents/public_safety_and_justice/fingerprint_services"><span class="rmText">Fingerprint Services</span></a></li><li class="rmItem "><a class="rmLink" href="/residents/public_safety_and_justice/jail___inmate_records_and_information"><span class="rmText">Jail and Inmate Information</span></a></li><li class="rmItem "><a class="rmLink" target="_blank" href="/residents/public_safety_and_justice/lane_county_circuit_court"><span class="rmText">Lane County Circuit Court</span></a></li><li class="rmItem "><a class="rmLink" href="/residents/public_safety_and_justice/my_law_and_fire_providers"><span class="rmText">My Law and Fire Providers</span></a></li><li class="rmItem "><a class="rmLink" href="/residents/public_safety_and_justice/report_a_crime"><span class="rmText">Report A Crime</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="/residents/public_safety_and_justice/victim_services"><span class="rmText">Victim Services</span></a></li>
+					</ul>
+				</div></li><li class="rmItem "><a class="rmLink" href="/residents/vital_records"><span class="rmText">Records</span></a></li><li class="rmItem "><a class="rmLink" href="/residents/recycling_and_waste"><span class="rmText">Recycling and Waste</span></a></li><li class="rmItem "><a class="rmLink" target="_blank" href="/residents/veterans_services"><span class="rmText">Veterans Services</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="/residents/youth_services"><span class="rmText">Youth Services</span></a></li>
+			</ul>
+		</div></li><li class="rmItem "><a class="rmLink rmRootLink" href="/business"><span class="rmText">Business</span></a><div class="rmSlide">
+			<ul class="rmVertical rmGroup rmLevel1">
+				<li class="rmItem rmFirst"><a class="rmLink" href="/business/auction__sales"><span class="rmText">Auctions/Sales</span></a></li><li class="rmItem "><a class="rmLink" href="/business/bids__r_f_ps__solicitations"><span class="rmText">Bids, RFPs, Solicitations</span></a></li><li class="rmItem "><a class="rmLink" href="/business/CommunityandEconomicDevelopment"><span class="rmText">Community and Economic Development</span></a></li><li class="rmItem "><a class="rmLink" href="/business/inspections___permits"><span class="rmText">Inspections and Permits</span></a><div class="rmSlide">
+					<ul class="rmVertical rmGroup rmLevel2">
+						<li class="rmItem rmFirst rmLast"><a class="rmLink" href="/business/inspections___permits/restaurant_inspections"><span class="rmText">Online Inspections</span></a></li>
+					</ul>
+				</div></li><li class="rmItem "><a class="rmLink" href="/business/lane_events_center"><span class="rmText">Lane Events Center</span></a></li><li class="rmItem "><a class="rmLink" href="/business/maps"><span class="rmText">Maps</span></a></li><li class="rmItem "><a class="rmLink" href="/business/property___buildings"><span class="rmText">Property and Buildings</span></a></li><li class="rmItem "><a class="rmLink" href="/business/property_taxes"><span class="rmText">Property Taxes</span></a></li><li class="rmItem "><a class="rmLink" href="/business/public_safety"><span class="rmText">Public Safety</span></a></li><li class="rmItem "><a class="rmLink" href="/business/recycling_and_waste"><span class="rmText">Recycling and Waste</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="/business/transportation"><span class="rmText">Transportation</span></a></li>
+			</ul>
+		</div></li><li class="rmItem "><a class="rmLink rmRootLink rmSelected" href="/government"><span class="rmText">Government</span></a><div class="rmSlide">
+			<ul class="rmVertical rmGroup rmLevel1">
+				<li class="rmItem rmFirst"><a class="rmLink" href="/government/Advisory_Committees_and_Boards"><span class="rmText">Advisory Committees and Boards</span></a></li><li class="rmItem "><a class="rmLink" href="/government/Board_of_Commissioner_Meetings"><span class="rmText">Board of Commissioners Meetings</span></a></li><li class="rmItem "><a class="rmLink" href="/government/Board_of_County_Commissioners"><span class="rmText">Board of County Commissioners</span></a></li><li class="rmItem "><a class="rmLink" href="/government/budget_and_finance"><span class="rmText">Budget and Finance</span></a><div class="rmSlide">
+					<ul class="rmVertical rmGroup rmLevel2">
+						<li class="rmItem rmFirst"><a class="rmLink" href="/government/budget_and_finance/budget_and_financial_planning"><span class="rmText">Budget and Financial Planning</span></a></li><li class="rmItem "><a class="rmLink" href="/government/budget_and_finance/financial_services"><span class="rmText">Financial Services</span></a></li><li class="rmItem "><a class="rmLink" href="/government/budget_and_finance/capital_projects"><span class="rmText">Capital Projects</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="/government/budget_and_finance/procurement_and_purchasing"><span class="rmText">Procurement and Purchasing</span></a></li>
+					</ul>
+				</div></li><li class="rmItem "><a class="rmLink" href="/government/Cities"><span class="rmText">Cities in Lane County</span></a><div class="rmSlide">
+					<ul class="rmVertical rmGroup rmLevel2">
+						<li class="rmItem rmFirst rmLast"><a class="rmLink" target="_blank" href="/government/Cities/map_of_lane_county_cities"><span class="rmText">Map Of Lane County Cities</span></a></li>
+					</ul>
+				</div></li><li class="rmItem "><a class="rmLink" href="/government/community___economic_development"><span class="rmText">Community &amp; Economic Development</span></a></li><li class="rmItem "><a class="rmLink rmSelected" href="/government/county_departments"><span class="rmText">County Departments</span></a><div class="rmSlide">
+					<ul class="rmVertical rmGroup rmLevel2">
+						<li class="rmItem rmFirst"><a class="rmLink" href="/government/county_departments/assessment___taxation"><span class="rmText">Assessment &amp; Taxation</span></a></li><li class="rmItem "><a class="rmLink" href="/government/county_departments/board_of_county_commissioners"><span class="rmText">Board of County Commissioners</span></a></li><li class="rmItem "><a class="rmLink" href="/government/county_departments/community_justice_rehabilitation_services"><span class="rmText">Community Justice and Rehabilitation Services</span></a></li><li class="rmItem "><a class="rmLink" href="/government/county_departments/county_administration"><span class="rmText">County Administration</span></a></li><li class="rmItem "><a class="rmLink" href="/government/county_departments/county_counsel"><span class="rmText">County Counsel</span></a></li><li class="rmItem "><a class="rmLink" href="/government/county_departments/district_attorney_s_office"><span class="rmText">District Attorney&#39;s Office</span></a></li><li class="rmItem "><a class="rmLink" href="/government/county_departments/emergency_management"><span class="rmText">Emergency Management</span></a></li><li class="rmItem "><a class="rmLink" href="/government/county_departments/health_and_human_services"><span class="rmText">Health and Human Services</span></a></li><li class="rmItem "><a class="rmLink" href="/government/county_departments/housing_authority"><span class="rmText">Housing Authority</span></a></li><li class="rmItem "><a class="rmLink rmSelected" href="/government/county_departments/human_resources"><span class="rmText">Human Resources</span></a></li><li class="rmItem "><a class="rmLink" href="/government/county_departments/public_works"><span class="rmText">Public Works</span></a></li><li class="rmItem "><a class="rmLink" href="/government/county_departments/sheriff_s_office"><span class="rmText">Sheriff&#39;s Office</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="/government/county_departments/information_services"><span class="rmText">Technology Services</span></a></li>
+					</ul>
+				</div></li><li class="rmItem "><a class="rmLink" href="/government/elections"><span class="rmText">Elections</span></a></li><li class="rmItem "><a class="rmLink" href="/government/EquityandAccess"><span class="rmText">Equity and Access</span></a></li><li class="rmItem "><a class="rmLink" href="/government/property_and_taxes"><span class="rmText">Property Taxes</span></a></li><li class="rmItem "><a class="rmLink" href="/government/records"><span class="rmText">Records</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="/government/StrategicPlanning"><span class="rmText">Strategic Planning</span></a></li>
+			</ul>
+		</div></li><li class="rmItem "><a class="rmLink rmRootLink" href="/how_do_i"><span class="rmText">How Do I </span></a><div class="rmSlide">
+			<ul class="rmVertical rmGroup rmLevel1">
+				<li class="rmItem rmFirst"><a class="rmLink" href="/how_do_i/apply"><span class="rmText">Apply</span></a><div class="rmSlide">
+					<ul class="rmVertical rmGroup rmLevel2">
+						<li class="rmItem rmFirst"><a class="rmLink" href="/how_do_i/apply/advisory_committees"><span class="rmText">Advisory Committees</span></a></li><li class="rmItem "><a class="rmLink" target="_blank" href="/how_do_i/apply/building_permits"><span class="rmText">Building Permits</span></a></li><li class="rmItem "><a class="rmLink" href="/how_do_i/apply/concealed_handgun_license"><span class="rmText">Concealed Handgun License </span></a></li><li class="rmItem "><a class="rmLink" href="/how_do_i/apply/developmental_disabilities_services"><span class="rmText">Developmental Disabilities Services</span></a></li><li class="rmItem "><a class="rmLink" href="/how_do_i/apply/food_handler_s_permit"><span class="rmText">Food Handler&#39;s Permit</span></a></li><li class="rmItem "><a class="rmLink" href="/how_do_i/apply/jobs"><span class="rmText">Jobs</span></a></li><li class="rmItem "><a class="rmLink" href="/how_do_i/apply/land_use_application_forms"><span class="rmText">Land Use Application Forms</span></a></li><li class="rmItem "><a class="rmLink" href="/how_do_i/apply/marriage_license"><span class="rmText">Marriage License</span></a></li><li class="rmItem "><a class="rmLink" href="/how_do_i/apply/master_recycler_program"><span class="rmText">Master Recycler Program</span></a></li><li class="rmItem "><a class="rmLink" target="_blank" href="/how_do_i/apply/park_host"><span class="rmText">Park Host</span></a></li><li class="rmItem "><a class="rmLink" href="/how_do_i/apply/pet_adoption"><span class="rmText">Pet Adoption</span></a></li><li class="rmItem "><a class="rmLink" href="/how_do_i/apply/pet_licensing"><span class="rmText">Pet Licensing</span></a></li><li class="rmItem "><a class="rmLink" href="/how_do_i/apply/temporary_food_events"><span class="rmText">Temporary Food Events</span></a></li><li class="rmItem "><a class="rmLink" href="/how_do_i/apply/title_III"><span class="rmText">Title III Project Application</span></a></li><li class="rmItem "><a class="rmLink" href="/how_do_i/apply/veterans_services"><span class="rmText">Veterans Services</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="/how_do_i/apply/women__infants_and_children___w_i_c_"><span class="rmText">Women, Infants and Children (WIC)</span></a></li>
+					</ul>
+				</div></li><li class="rmItem "><a class="rmLink" href="/how_do_i/appeals"><span class="rmText">Appeal</span></a><div class="rmSlide">
+					<ul class="rmVertical rmGroup rmLevel2">
+						<li class="rmItem rmFirst"><a class="rmLink" href="/how_do_i/appeals/property_value_appeals"><span class="rmText">Property Value Appeals</span></a></li><li class="rmItem "><a class="rmLink" href="/how_do_i/appeals/building_inspection_appeals"><span class="rmText">Building Inspection Appeals</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="/how_do_i/appeals/chapter_14___application_review_and_appeals_"><span class="rmText">Chapter 14 (Application Review and Appeals)</span></a></li>
+					</ul>
+				</div></li><li class="rmItem "><a class="rmLink" href="/how_do_i/contact_us"><span class="rmText">Contact Us</span></a></li><li class="rmItem "><a class="rmLink" href="/how_do_i/purchase__pay"><span class="rmText">Pay</span></a><div class="rmSlide">
+					<ul class="rmVertical rmGroup rmLevel2">
+						<li class="rmItem rmFirst"><a class="rmLink" href="/how_do_i/purchase__pay/fleet_auction"><span class="rmText">Fleet Auction</span></a></li><li class="rmItem "><a class="rmLink" href="/how_do_i/purchase__pay/inmate_commissary_accounts"><span class="rmText">Inmate Commissary Accounts</span></a></li><li class="rmItem "><a class="rmLink" href="/how_do_i/purchase__pay/lane_county_justice_court_fees"><span class="rmText">Lane County Justice Court Fees</span></a></li><li class="rmItem "><a class="rmLink" href="/how_do_i/purchase__pay/lane_county_park_passes"><span class="rmText">Lane County Park Reservations and Passes</span></a></li><li class="rmItem "><a class="rmLink" href="/how_do_i/purchase__pay/maps_and_g_i_s_data"><span class="rmText">Maps and GIS Data</span></a></li><li class="rmItem "><a class="rmLink" href="/how_do_i/purchase__pay/parole___probation_fees"><span class="rmText">Parole &amp; Probation Fees</span></a></li><li class="rmItem "><a class="rmLink" href="/how_do_i/purchase__pay/PayingProptertyTaxes"><span class="rmText">Property Taxes</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="/how_do_i/purchase__pay/sheriff_s_office_real_property_sales"><span class="rmText">Sheriff&#39;s Office Real Property Sales</span></a></li>
+					</ul>
+				</div></li><li class="rmItem "><a class="rmLink" href="/how_do_i/report"><span class="rmText">Report</span></a><div class="rmSlide">
+					<ul class="rmVertical rmGroup rmLevel2">
+						<li class="rmItem rmFirst"><a class="rmLink" href="/how_do_i/report/animal_complaints"><span class="rmText">Animal Complaints</span></a></li><li class="rmItem "><a class="rmLink" href="/how_do_i/report/civil_rights_complaint"><span class="rmText">Civil Rights Complaint</span></a></li><li class="rmItem "><a class="rmLink" href="/how_do_i/report/diseases"><span class="rmText">Diseases or Health-Related Incidents </span></a></li><li class="rmItem "><a class="rmLink" href="/how_do_i/report/found_or_lost_pets"><span class="rmText">Found or Lost Pets</span></a></li><li class="rmItem "><a class="rmLink" href="/how_do_i/report/illegal_dump_site"><span class="rmText">Illegal Dump Site</span></a></li><li class="rmItem "><a class="rmLink" href="/how_do_i/report/injury_or_damage_claims"><span class="rmText">Injury or Damage Claims</span></a></li><li class="rmItem "><a class="rmLink" href="/how_do_i/report/property_and_building_violations"><span class="rmText">Property and Building Violations</span></a></li><li class="rmItem "><a class="rmLink" href="/how_do_i/report/report_crime"><span class="rmText">Report A Crime</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="/how_do_i/report/road_and_road_sign_issues"><span class="rmText">Road and Road Sign Issues</span></a></li>
+					</ul>
+				</div></li><li class="rmItem "><a class="rmLink" href="/how_do_i/request"><span class="rmText">Request</span></a><div class="rmSlide">
+					<ul class="rmVertical rmGroup rmLevel2">
+						<li class="rmItem rmFirst"><a class="rmLink" href="/how_do_i/request/absentee_ballot"><span class="rmText">Absentee Ballot</span></a></li><li class="rmItem "><a class="rmLink" href="/how_do_i/request/adult_corrections_records"><span class="rmText">Adult Corrections Records</span></a></li><li class="rmItem "><a class="rmLink" href="/how_do_i/request/birth_and_death_certificates"><span class="rmText">Birth and Death Certificates</span></a></li><li class="rmItem "><a class="rmLink" href="/how_do_i/request/county_maps"><span class="rmText">County Maps</span></a></li><li class="rmItem "><a class="rmLink" href="/how_do_i/request/public_records"><span class="rmText">Public Records</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="/how_do_i/request/police_reports_and_incident_logs"><span class="rmText">Sheriff&#39;s Police Reports and Incident Logs</span></a></li>
+					</ul>
+				</div></li><li class="rmItem "><a class="rmLink" href="/how_do_i/reserve"><span class="rmText">Reserve</span></a><div class="rmSlide">
+					<ul class="rmVertical rmGroup rmLevel2">
+						<li class="rmItem rmFirst"><a class="rmLink" href="/how_do_i/reserve/camp_lane"><span class="rmText">Camp Lane</span></a></li><li class="rmItem "><a class="rmLink" href="/how_do_i/reserve/campsite__picnic_shelter_and_marina_reservations"><span class="rmText">Campsite, Picnic Shelter and Marina Reservations</span></a></li><li class="rmItem "><a class="rmLink" href="/how_do_i/reserve/electricity_in_the_free_speech_plaza"><span class="rmText">Electricity in the Free Speech Plaza</span></a></li><li class="rmItem "><a class="rmLink" target="_blank" href="/how_do_i/reserve/lane_events_center"><span class="rmText">Lane Events Center</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="/how_do_i/reserve/meeting_rooms"><span class="rmText">Meeting Rooms</span></a></li>
+					</ul>
+				</div></li><li class="rmItem "><a class="rmLink" href="/how_do_i/sign_up_for"><span class="rmText">Sign Up</span></a><div class="rmSlide">
+					<ul class="rmVertical rmGroup rmLevel2">
+						<li class="rmItem rmFirst"><a class="rmLink" href="/how_do_i/sign_up_for/board_meeting_notifications"><span class="rmText">Board Meeting Notifications</span></a></li><li class="rmItem "><a class="rmLink" target="_blank" href="/how_do_i/sign_up_for/key_communicator_network"><span class="rmText">Key Communicator Network</span></a></li><li class="rmItem "><a class="rmLink" href="/how_do_i/sign_up_for/master_recycler_program"><span class="rmText">Master Recycler Program</span></a></li><li class="rmItem rmLast"><a class="rmLink" target="_blank" href="/how_do_i/sign_up_for/register_to_vote"><span class="rmText">Register to Vote</span></a></li>
+					</ul>
+				</div></li><li class="rmItem "><a class="rmLink" href="/how_do_i/view"><span class="rmText">View</span></a><div class="rmSlide">
+					<ul class="rmVertical rmGroup rmLevel2">
+						<li class="rmItem rmFirst"><a class="rmLink" href="/how_do_i/view/board_meeting_agendas"><span class="rmText">Board Meeting Agendas </span></a></li><li class="rmItem "><a class="rmLink" href="/how_do_i/view/BoardVideosandWebcasts"><span class="rmText">Board Videos / Webcasts</span></a></li><li class="rmItem "><a class="rmLink" href="/how_do_i/view/county_budget"><span class="rmText">County Budget</span></a></li><li class="rmItem "><a class="rmLink" href="/how_do_i/view/county_departments"><span class="rmText">County Departments</span></a></li><li class="rmItem "><a class="rmLink" href="/how_do_i/view/c_o_v_i_d-19_info"><span class="rmText">COVID-19 Information</span></a></li><li class="rmItem "><a class="rmLink" href="/how_do_i/view/crime_mapping_online"><span class="rmText">Crime Mapping Online</span></a></li><li class="rmItem "><a class="rmLink" href="/how_do_i/view/election_results"><span class="rmText">Election Results</span></a></li><li class="rmItem "><a class="rmLink" href="/how_do_i/view/fee_schedule"><span class="rmText">Fee Schedule</span></a></li><li class="rmItem "><a class="rmLink" href="/how_do_i/view/financial_reports"><span class="rmText">Financial Reports</span></a></li><li class="rmItem "><a class="rmLink" href="/how_do_i/view/find_my_elected_official"><span class="rmText">Find My Elected Official </span></a></li><li class="rmItem "><a class="rmLink" href="/how_do_i/view/civil_foreclosure_-_real_and_personal_property_sales"><span class="rmText">Foreclosure Sales</span></a></li><li class="rmItem "><a class="rmLink" href="/how_do_i/view/jail___inmate_information"><span class="rmText">Jail / Inmate Information</span></a></li><li class="rmItem "><a class="rmLink" href="/how_do_i/view/lane_code"><span class="rmText">Lane Code</span></a></li><li class="rmItem "><a class="rmLink" target="_blank" href="/how_do_i/view/lane_county_webcams"><span class="rmText">Lane County Webcams</span></a></li><li class="rmItem "><a class="rmLink" href="/how_do_i/view/lane_manual"><span class="rmText">Lane Manual</span></a></li><li class="rmItem "><a class="rmLink" href="/how_do_i/view/OrdersOrdinancesMinutes"><span class="rmText">Orders, Ordinances, and Minutes</span></a></li><li class="rmItem "><a class="rmLink" target="_blank" href="/how_do_i/view/property_information_lookup"><span class="rmText">Property Lookup</span></a></li><li class="rmItem "><a class="rmLink" href="/how_do_i/view/recycling_and_waste"><span class="rmText">Recycling and Waste</span></a></li><li class="rmItem "><a class="rmLink" href="/how_do_i/view/surveyor_documents"><span class="rmText">Surveyor Documents</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="/how_do_i/view/webcasts"><span class="rmText">Webcasts</span></a></li>
+					</ul>
+				</div></li><li class="rmItem "><a class="rmLink" href="/how_do_i/volunteer_for"><span class="rmText">Volunteer</span></a><div class="rmSlide">
+					<ul class="rmVertical rmGroup rmLevel2">
+						<li class="rmItem rmFirst"><a class="rmLink" href="/how_do_i/volunteer_for/animal_services"><span class="rmText">Animal Services</span></a></li><li class="rmItem "><a class="rmLink" href="/how_do_i/volunteer_for/parks"><span class="rmText">Parks</span></a></li><li class="rmItem "><a class="rmLink" href="/how_do_i/volunteer_for/Committee"><span class="rmText">Serve on a Committee</span></a></li><li class="rmItem "><a class="rmLink" href="/how_do_i/volunteer_for/sheriff_s_office"><span class="rmText">Sheriff&#39;s Office</span></a></li><li class="rmItem "><a class="rmLink" href="/how_do_i/volunteer_for/victim_services"><span class="rmText">Victim Services</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="/how_do_i/volunteer_for/volunteer_form"><span class="rmText">Volunteer Form</span></a></li>
+					</ul>
+				</div></li><li class="rmItem rmLast"><a class="rmLink" href="/how_do_i/vote"><span class="rmText">Vote</span></a></li>
+			</ul>
+		</div></li><li class="rmItem rmLast"><a class="rmLink rmRootLink" href="/servicios"><span class="rmText">Servicios</span></a><div class="rmSlide">
+			<ul class="rmVertical rmGroup rmLevel1">
+				<li class="rmItem rmFirst"><a class="rmLink" href="/servicios/actas_de_nacimiento_y_defunci_n"><span class="rmText">Actas de Nacimiento y Defunci&#243;n</span></a></li><li class="rmItem "><a class="rmLink" href="/servicios/licencia_de_matrimonio"><span class="rmText">Licencia de Matrimonio</span></a></li><li class="rmItem "><a class="rmLink" href="/servicios/licencia_para_mascotas"><span class="rmText">Licencia para Mascotas</span></a></li><li class="rmItem "><a class="rmLink" href="/servicios/mujeres__beb_s_y_ni_os___w_i_c_"><span class="rmText">Mujeres, Beb&#233;s y Ni&#241;os (WIC)</span></a></li><li class="rmItem "><a class="rmLink" href="/servicios/permiso_para_manejar_alimentos"><span class="rmText">Permiso para Manejar Alimentos</span></a></li><li class="rmItem "><a class="rmLink" href="/servicios/programa_de_inmunizaci_n"><span class="rmText">Programa de Inmunizaci&#243;n</span></a></li><li class="rmItem "><a class="rmLink" href="/servicios/registros_p_blicos"><span class="rmText">Registros P&#250;blicos</span></a></li><li class="rmItem "><a class="rmLink" href="/servicios/servicios_de_discapacidades_del_dessarrolla"><span class="rmText">Servicios de Discapacidades del Dessarrolla</span></a></li><li class="rmItem "><a class="rmLink" href="/servicios/servicios_para_las_victimas"><span class="rmText">Servicios para las Victimas</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="/servicios/sobreCOVID-19"><span class="rmText">Informaci&#243;n sobre COVID-19</span></a></li>
+			</ul>
+		</div></li>
+	</ul><input id="ctl00_ContentPlaceHolder1_ctl01_radmenu_ClientState" name="ctl00_ContentPlaceHolder1_ctl01_radmenu_ClientState" type="hidden" />
+</div>
+
+  <!-- PlaceHolder tag prevents inline radmenu.ClientID code below clashing with Utility.EnsureScriptManager(this); -->
+  <script>
+
+    $(document).ready(function () {
+      giveAllMenuLinksAUniqueIdentifier();
+      $(".rmLink").on("keydown", setSpacebarToOpenMenus);
+    });
+
+    $(window).on("load", function () {
+      var menu = $find("ctl00_ContentPlaceHolder1_ctl01_radmenu");
+      if (menu) {
+        var menuElement = menu.get_element();
+        var attrVal = menuElement.getAttribute("aria-activedescendant");
+        if (!(attrVal && document.getElementById(attrVal))) {
+          menuElement.removeAttribute("aria-activedescendant");
+        }
+      }
+    })
+
+    function giveAllMenuLinksAUniqueIdentifier() {
+      //Give all menu items a unique attribute value so that I can identify them when spacebar is clicked. Same 'menunumber' attribute is set in .aspx code on menu items.
+      var index = 0;
+      $(".telerik_main_menu li.rmItem a.rmLink").each(function (index) {
+        $(this).attr("menunumber", index);
+      });
+    }
+
+    function setSpacebarToOpenMenus(e) {
+      //Open submenus on spacebar press. 
+      var theKey = e.which;
+      if (theKey == 32) { // 32 is keycode for spacebar. 
+        var menuNumber = $(this).attr("menunumber");
+        var menu = $find("ctl00_ContentPlaceHolder1_ctl01_radmenu");
+        var menuItem = menu.findItemByAttribute("menunumber", menuNumber);
+        var submenuItems = menuItem.get_items();
+        if (submenuItems.get_count() > 0) {
+          if (menuItem.get_isOpen() == false) {
+            menuItem.open();
+            e.preventDefault();
+          };
+        };
+      };
+    };
+
+    function ClickItem(menu, args) {
+      //Event set in OnClientItemClicking="ClickItem";
+      //When user clicks (presses Enter key) a menu item, if submenu is not open, then open it; otherwise navigate to the item's link. 
+      var item = args.get_item();
+      var submenuItems = item.get_items();
+      if (submenuItems.get_count() > 0) {
+        //If submenu is closed, then open it; otherwise click the menu item link. 
+        if (item.get_isOpen() == false) {
+          args.set_cancel(true); //Cancel the default click action so that it doesn't trigger the menu item's navigation link.
+          item.open();
+        }
+        else {
+          if (typeof item.redirectToLink == 'undefined') {
+            item.redirectToLink = true;
+            item.click();
+          } else {
+            delete item.redirectToLink;
+          }
+        }
+      }
+    }
+
+  </script>
+
+
+
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('a.mm-subopen').each(function (i, item) {
+            setExpandCollapse();
+
+            $(item).click(function () {
+                setExpandCollapse();
+            });
+
+            function setExpandCollapse() {
+                var parent = $(item).parent();
+                var expandCollapse = 'Expand menu item';
+                if (parent !== undefined && parent.length > 0) {
+                    var selected = parent[0].classList.contains("mm-opened");
+                    if (selected !== undefined && selected === true) {
+                        expandCollapse = 'Collapse menu item';;
+                    }
+                    else {
+                        expandCollapse = 'Expand menu item';
+                    }
+                }
+
+                $(item).html("<span class=\"offScreen\">" + expandCollapse + " " + $(item).next().text() + "</span>");
+            }
+        });
+    });
+</script>
+<nav id="mMenuCMS" class="mm-menu, cms-responsive-menu"><ul><li><a href="/home">Home</a></li><li><a href="/residents">Residents</a><ul><li><a href="/residents/animal_services">Animal Services</a></li><li><a href="/residents/c_o_v_i_d-19_information">COVID-19 Information</a></li><li><a href="/residents/elections">Elections</a></li><li><a href="/residents/health_and_wellness">Health and Wellness</a><ul><li><a href="/residents/health_and_wellness/behavioral_health">Behavioral Health</a></li><li><a href="/residents/health_and_wellness/communicable_disease">Communicable Disease</a></li><li><a href="/residents/health_and_wellness/community_health_centers">Community Health Centers</a></li><li><a href="/residents/health_and_wellness/developmental_disabilities">Developmental Disabilities</a></li><li><a href="/residents/health_and_wellness/environmental_health">Environmental Health</a></li><li><a href="/residents/health_and_wellness/family_mediation">Family Mediation</a></li><li><a href="/residents/health_and_wellness/immunizations">Immunizations</a></li><li><a href="/residents/health_and_wellness/family_and_child_health">Family and Child Health </a></li><li><a href="/residents/health_and_wellness/poverty_and_homelessness">Poverty and Homelessness</a></li><li><a href="/residents/health_and_wellness/prevention" target="_blank">Prevention</a></li><li><a href="/residents/health_and_wellness/public_health">Public Health</a></li><li><a href="/residents/health_and_wellness/restaurant_inspections">Restaurant Inspections</a></li><li><a href="/residents/health_and_wellness/women__infants_and_children___w_i_c_">Women, Infants and Children (WIC)</a></li></ul></li><li><a href="/residents/jobs">Jobs</a></li><li><a href="/residents/maps">Maps</a></li><li><a href="/residents/marriage_licenses">Marriage Licenses</a></li><li><a href="/residents/property_and_buildings">Property and Buildings</a></li><li><a href="/residents/property_taxes">Property Taxes</a></li><li><a href="/residents/public_safety_and_justice">Public Safety and Justice</a><ul><li><a href="/residents/public_safety_and_justice/civil_process">Civil Process</a></li><li><a href="/residents/public_safety_and_justice/concealed_handgun_license">Concealed Handgun Licensing</a></li><li><a href="/residents/public_safety_and_justice/crime_mapping" target="_blank">Crime Mapping Online</a></li><li><a href="/residents/public_safety_and_justice/fingerprint_services">Fingerprint Services</a></li><li><a href="/residents/public_safety_and_justice/jail___inmate_records_and_information">Jail and Inmate Information</a></li><li><a href="/residents/public_safety_and_justice/lane_county_circuit_court" target="_blank">Lane County Circuit Court</a></li><li><a href="/residents/public_safety_and_justice/my_law_and_fire_providers">My Law and Fire Providers</a></li><li><a href="/residents/public_safety_and_justice/report_a_crime">Report A Crime</a></li><li><a href="/residents/public_safety_and_justice/victim_services">Victim Services</a></li></ul></li><li><a href="/residents/vital_records">Records</a></li><li><a href="/residents/recycling_and_waste">Recycling and Waste</a></li><li><a href="/residents/veterans_services" target="_blank">Veterans Services</a></li><li><a href="/residents/youth_services">Youth Services</a></li></ul></li><li><a href="/business">Business</a><ul><li><a href="/business/auction__sales">Auctions/Sales</a></li><li><a href="/business/bids__r_f_ps__solicitations">Bids, RFPs, Solicitations</a></li><li><a href="/business/CommunityandEconomicDevelopment">Community and Economic Development</a></li><li><a href="/business/inspections___permits">Inspections and Permits</a><ul><li><a href="/business/inspections___permits/restaurant_inspections">Online Inspections</a></li></ul></li><li><a href="/business/lane_events_center">Lane Events Center</a></li><li><a href="/business/maps">Maps</a></li><li><a href="/business/property___buildings">Property and Buildings</a></li><li><a href="/business/property_taxes">Property Taxes</a></li><li><a href="/business/public_safety">Public Safety</a></li><li><a href="/business/recycling_and_waste">Recycling and Waste</a></li><li><a href="/business/transportation">Transportation</a></li></ul></li><li class="mm-selected, mm-opened"><a href="/government">Government</a><ul><li><a href="/government/Advisory_Committees_and_Boards">Advisory Committees and Boards</a></li><li><a href="/government/Board_of_Commissioner_Meetings">Board of Commissioners Meetings</a></li><li><a href="/government/Board_of_County_Commissioners">Board of County Commissioners</a></li><li><a href="/government/budget_and_finance">Budget and Finance</a><ul><li><a href="/government/budget_and_finance/budget_and_financial_planning">Budget and Financial Planning</a></li><li><a href="/government/budget_and_finance/financial_services">Financial Services</a></li><li><a href="/government/budget_and_finance/capital_projects">Capital Projects</a></li><li><a href="/government/budget_and_finance/procurement_and_purchasing">Procurement and Purchasing</a></li></ul></li><li><a href="/government/Cities">Cities in Lane County</a><ul><li><a href="/government/Cities/map_of_lane_county_cities" target="_blank">Map Of Lane County Cities</a></li></ul></li><li><a href="/government/community___economic_development">Community &amp; Economic Development</a></li><li class="mm-opened"><a href="/government/county_departments">County Departments</a><ul><li><a href="/government/county_departments/assessment___taxation">Assessment &amp; Taxation</a></li><li><a href="/government/county_departments/board_of_county_commissioners">Board of County Commissioners</a></li><li><a href="/government/county_departments/community_justice_rehabilitation_services">Community Justice and Rehabilitation Services</a></li><li><a href="/government/county_departments/county_administration">County Administration</a></li><li><a href="/government/county_departments/county_counsel">County Counsel</a></li><li><a href="/government/county_departments/district_attorney_s_office">District Attorney&#39;s Office</a></li><li><a href="/government/county_departments/emergency_management">Emergency Management</a></li><li><a href="/government/county_departments/health_and_human_services">Health and Human Services</a></li><li><a href="/government/county_departments/housing_authority">Housing Authority</a></li><li class="mm-selected"><a href="/government/county_departments/human_resources">Human Resources</a></li><li><a href="/government/county_departments/public_works">Public Works</a></li><li><a href="/government/county_departments/sheriff_s_office">Sheriff&#39;s Office</a></li><li><a href="/government/county_departments/information_services">Technology Services</a></li></ul></li><li><a href="/government/elections">Elections</a></li><li><a href="/government/EquityandAccess">Equity and Access</a></li><li><a href="/government/property_and_taxes">Property Taxes</a></li><li><a href="/government/records">Records</a></li><li><a href="/government/StrategicPlanning">Strategic Planning</a></li></ul></li><li><a href="/how_do_i">How Do I </a><ul><li><a href="/how_do_i/apply">Apply</a><ul><li><a href="/how_do_i/apply/advisory_committees">Advisory Committees</a></li><li><a href="/how_do_i/apply/building_permits" target="_blank">Building Permits</a></li><li><a href="/how_do_i/apply/concealed_handgun_license">Concealed Handgun License </a></li><li><a href="/how_do_i/apply/developmental_disabilities_services">Developmental Disabilities Services</a></li><li><a href="/how_do_i/apply/food_handler_s_permit">Food Handler&#39;s Permit</a></li><li><a href="/how_do_i/apply/jobs">Jobs</a></li><li><a href="/how_do_i/apply/land_use_application_forms">Land Use Application Forms</a></li><li><a href="/how_do_i/apply/marriage_license">Marriage License</a></li><li><a href="/how_do_i/apply/master_recycler_program">Master Recycler Program</a></li><li><a href="/how_do_i/apply/park_host" target="_blank">Park Host</a></li><li><a href="/how_do_i/apply/pet_adoption">Pet Adoption</a></li><li><a href="/how_do_i/apply/pet_licensing">Pet Licensing</a></li><li><a href="/how_do_i/apply/temporary_food_events">Temporary Food Events</a></li><li><a href="/how_do_i/apply/title_III">Title III Project Application</a></li><li><a href="/how_do_i/apply/veterans_services">Veterans Services</a></li><li><a href="/how_do_i/apply/women__infants_and_children___w_i_c_">Women, Infants and Children (WIC)</a></li></ul></li><li><a href="/how_do_i/appeals">Appeal</a><ul><li><a href="/how_do_i/appeals/property_value_appeals">Property Value Appeals</a></li><li><a href="/how_do_i/appeals/building_inspection_appeals">Building Inspection Appeals</a></li><li><a href="/how_do_i/appeals/chapter_14___application_review_and_appeals_">Chapter 14 (Application Review and Appeals)</a></li></ul></li><li><a href="/how_do_i/contact_us">Contact Us</a></li><li><a href="/how_do_i/purchase__pay">Pay</a><ul><li><a href="/how_do_i/purchase__pay/fleet_auction">Fleet Auction</a></li><li><a href="/how_do_i/purchase__pay/inmate_commissary_accounts">Inmate Commissary Accounts</a></li><li><a href="/how_do_i/purchase__pay/lane_county_justice_court_fees">Lane County Justice Court Fees</a></li><li><a href="/how_do_i/purchase__pay/lane_county_park_passes">Lane County Park Reservations and Passes</a></li><li><a href="/how_do_i/purchase__pay/maps_and_g_i_s_data">Maps and GIS Data</a></li><li><a href="/how_do_i/purchase__pay/parole___probation_fees">Parole &amp; Probation Fees</a></li><li><a href="/how_do_i/purchase__pay/PayingProptertyTaxes">Property Taxes</a></li><li><a href="/how_do_i/purchase__pay/sheriff_s_office_real_property_sales">Sheriff&#39;s Office Real Property Sales</a></li></ul></li><li><a href="/how_do_i/report">Report</a><ul><li><a href="/how_do_i/report/animal_complaints">Animal Complaints</a></li><li><a href="/how_do_i/report/civil_rights_complaint">Civil Rights Complaint</a></li><li><a href="/how_do_i/report/diseases">Diseases or Health-Related Incidents </a></li><li><a href="/how_do_i/report/found_or_lost_pets">Found or Lost Pets</a></li><li><a href="/how_do_i/report/illegal_dump_site">Illegal Dump Site</a></li><li><a href="/how_do_i/report/injury_or_damage_claims">Injury or Damage Claims</a></li><li><a href="/how_do_i/report/property_and_building_violations">Property and Building Violations</a></li><li><a href="/how_do_i/report/report_crime">Report A Crime</a></li><li><a href="/how_do_i/report/road_and_road_sign_issues">Road and Road Sign Issues</a></li></ul></li><li><a href="/how_do_i/request">Request</a><ul><li><a href="/how_do_i/request/absentee_ballot">Absentee Ballot</a></li><li><a href="/how_do_i/request/adult_corrections_records">Adult Corrections Records</a></li><li><a href="/how_do_i/request/birth_and_death_certificates">Birth and Death Certificates</a></li><li><a href="/how_do_i/request/county_maps">County Maps</a></li><li><a href="/how_do_i/request/public_records">Public Records</a></li><li><a href="/how_do_i/request/police_reports_and_incident_logs">Sheriff&#39;s Police Reports and Incident Logs</a></li></ul></li><li><a href="/how_do_i/reserve">Reserve</a><ul><li><a href="/how_do_i/reserve/camp_lane">Camp Lane</a></li><li><a href="/how_do_i/reserve/campsite__picnic_shelter_and_marina_reservations">Campsite, Picnic Shelter and Marina Reservations</a></li><li><a href="/how_do_i/reserve/electricity_in_the_free_speech_plaza">Electricity in the Free Speech Plaza</a></li><li><a href="/how_do_i/reserve/lane_events_center" target="_blank">Lane Events Center</a></li><li><a href="/how_do_i/reserve/meeting_rooms">Meeting Rooms</a></li></ul></li><li><a href="/how_do_i/sign_up_for">Sign Up</a><ul><li><a href="/how_do_i/sign_up_for/board_meeting_notifications">Board Meeting Notifications</a></li><li><a href="/how_do_i/sign_up_for/key_communicator_network" target="_blank">Key Communicator Network</a></li><li><a href="/how_do_i/sign_up_for/master_recycler_program">Master Recycler Program</a></li><li><a href="/how_do_i/sign_up_for/register_to_vote" target="_blank">Register to Vote</a></li></ul></li><li><a href="/how_do_i/view">View</a><ul><li><a href="/how_do_i/view/board_meeting_agendas">Board Meeting Agendas </a></li><li><a href="/how_do_i/view/BoardVideosandWebcasts">Board Videos / Webcasts</a></li><li><a href="/how_do_i/view/county_budget">County Budget</a></li><li><a href="/how_do_i/view/county_departments">County Departments</a></li><li><a href="/how_do_i/view/c_o_v_i_d-19_info">COVID-19 Information</a></li><li><a href="/how_do_i/view/crime_mapping_online">Crime Mapping Online</a></li><li><a href="/how_do_i/view/election_results">Election Results</a></li><li><a href="/how_do_i/view/fee_schedule">Fee Schedule</a></li><li><a href="/how_do_i/view/financial_reports">Financial Reports</a></li><li><a href="/how_do_i/view/find_my_elected_official">Find My Elected Official </a></li><li><a href="/how_do_i/view/civil_foreclosure_-_real_and_personal_property_sales">Foreclosure Sales</a></li><li><a href="/how_do_i/view/jail___inmate_information">Jail / Inmate Information</a></li><li><a href="/how_do_i/view/lane_code">Lane Code</a></li><li><a href="/how_do_i/view/lane_county_webcams" target="_blank">Lane County Webcams</a></li><li><a href="/how_do_i/view/lane_manual">Lane Manual</a></li><li><a href="/how_do_i/view/OrdersOrdinancesMinutes">Orders, Ordinances, and Minutes</a></li><li><a href="/how_do_i/view/property_information_lookup" target="_blank">Property Lookup</a></li><li><a href="/how_do_i/view/recycling_and_waste">Recycling and Waste</a></li><li><a href="/how_do_i/view/surveyor_documents">Surveyor Documents</a></li><li><a href="/how_do_i/view/webcasts">Webcasts</a></li></ul></li><li><a href="/how_do_i/volunteer_for">Volunteer</a><ul><li><a href="/how_do_i/volunteer_for/animal_services">Animal Services</a></li><li><a href="/how_do_i/volunteer_for/parks">Parks</a></li><li><a href="/how_do_i/volunteer_for/Committee">Serve on a Committee</a></li><li><a href="/how_do_i/volunteer_for/sheriff_s_office">Sheriff&#39;s Office</a></li><li><a href="/how_do_i/volunteer_for/victim_services">Victim Services</a></li><li><a href="/how_do_i/volunteer_for/volunteer_form">Volunteer Form</a></li></ul></li><li><a href="/how_do_i/vote">Vote</a></li></ul></li><li><a href="/servicios">Servicios</a><ul><li><a href="/servicios/actas_de_nacimiento_y_defunci_n">Actas de Nacimiento y Defunci&#243;n</a></li><li><a href="/servicios/licencia_de_matrimonio">Licencia de Matrimonio</a></li><li><a href="/servicios/licencia_para_mascotas">Licencia para Mascotas</a></li><li><a href="/servicios/mujeres__beb_s_y_ni_os___w_i_c_">Mujeres, Beb&#233;s y Ni&#241;os (WIC)</a></li><li><a href="/servicios/permiso_para_manejar_alimentos">Permiso para Manejar Alimentos</a></li><li><a href="/servicios/programa_de_inmunizaci_n">Programa de Inmunizaci&#243;n</a></li><li><a href="/servicios/registros_p_blicos">Registros P&#250;blicos</a></li><li><a href="/servicios/servicios_de_discapacidades_del_dessarrolla">Servicios de Discapacidades del Dessarrolla</a></li><li><a href="/servicios/servicios_para_las_victimas">Servicios para las Victimas</a></li><li><a href="/servicios/sobreCOVID-19">Informaci&#243;n sobre COVID-19</a></li></ul></li></ul></nav></div><div class="subHero"><style>
+.subHero {
+  background-image: url(/UserFiles/Servers/Server_3585797/Image/banner-images/banner-2.png);
+}
+</style></div><div id="breadcrumbs"><div class="inside-padding"><nav aria-label="Breadcrumb" class="portal-breadcrumb"><div><a href="/">Lane County</a>&nbsp;&raquo;&nbsp;<a href="/government/">Government</a>&nbsp;&raquo;&nbsp;<a href="/government/county_departments/">County Departments</a>&nbsp;&raquo;&nbsp;<a href="/government/county_departments/human_resources/">Human Resources</a>&nbsp;&raquo;&nbsp;<span aria-label="Current Page" id="spanBreadcrumbPageId">Collective Bargaining Agreements</span></div></nav></div></div><div id="page"><div class="inside-padding"><div class="sidebar"><div class="inside-padding"><div class="ptl_col_1"><div class="ptl_portlet_vertical"><div id="ctl00_ContentPlaceHolder1_ctl05_divView">
+	<div class="skip-nav"><a href="#ctl00_ContentPlaceHolder1_ctl05_linkLastNav">Skip Sidebar Navigation</a></div>
+	<style>
+		.skip-nav a {
+			position: absolute;
+			left: -10000px;
+			top: auto;
+			overflow: hidden;
+		}
+
+		.skip-nav a:focus {
+			padding: 0.5em 0.5em 0.4em;
+			font-size: 14px;
+			margin: 0.6em 0;
+			border-radius: 5px;
+			font-weight: 600;
+			color: #654106;
+			background: #ffe1b1;
+			position: fixed;
+			z-index: 9000;
+			left: 10px;
+			top: auto;
+			position:relative;
+		}
+
+		.skip-last-nav {
+			visibility:hidden;
+		}
+	</style>
+	<?xml version="1.0" encoding="utf-16"?><ul class="sidenav"><li class="level1"><a HREF="/government/county_departments/human_resources/">Human Resources</a></li><li class="level2 active"><a HREF="/government/county_departments/human_resources/collective_bargaining_agreements/"><span class="fa fa-caret-right"><!----></span><span>Collective Bargaining Agreements</span></a><div class="toggle fa fa-plus-circle"><!----></div></li></ul>
+	<a href="portlets/#" id="ctl00_ContentPlaceHolder1_ctl05_linkLastNav" class="skip-last-nav">Last item for navigation</a>
+	<table id="ctl00_ContentPlaceHolder1_ctl05_tblNav" bordercolor="ffffff" border="0" cellspacing="3" cellpadding="0" width="100%">
+</table>
+
+</div>
+    
+
+
+</div></div></div></div><div class="mainContent"><div class="inside-padding"><h2 class="page-title">Collective Bargaining Agreements</h2><div class="row breadcrumbArea"><div class="sb-r"><ul><li id="sharebtn"><a id="share" href="#" class="share st_sharethis_large" arial-label="Share This Page"><span class="fa fa-share-square-o" aria-hidden="true"><span class="offScreen"> Share this page</span></span></a></li><li><a href="#" onclick="OpenPrintPage(); return false;" class="print"><span class="fa fa-print"></span></a></li></ul><ul class="fontSize"><li><a id="fs-minus" class="decrease icon" onclick="downfont('printContent', .1, .85);return false;" title="Decrease Text Size"><span>A-</span></a></li><li><a id="fs-plus" class="increase icon" onclick="upfont('printContent', .1, 1.25);return false;" title="Increase Text Size"><span>A+</span></a></li></ul><div class="clear"></div></div></div><div id="printContent" class="fs-text">
+
+<div class="reactComponent unifiedPublishingAlertComponent" data-portlet-instance-id="0"></div>
+<div class="ptl_page"><div class="ptl_col_1"><div class="ptl_portlet_vertical"><div class="ptl_top_portlet" style="display:none;"></div><div id="ctl00_ContentPlaceHolder1_ctl11_divContent"><h4>Collective bargaining agreements for all represented Lane County employees can be found below.&nbsp;</h4>
+<h4 class="headingSpacingAbove headingSpacingBelow">For agreements with CPI-U West region (Annual Average) based cost of living adjustments (COLA), the current contract periods applicable rates are as follows:</h4>
+<h4 class="headingSpacingAbove headingSpacingBelow"><span class="fontColorThemeSecondary"><em>Fiscal Year 26-27 (Based on Calendar Year 2025): 2.7% <br>
+<font size="2">(Effective July 4, 2026, reflected in July 24, 2026 paycheck)</font></em></span></h4>
+<table style="width: 500.909px; height: 187.727px;">
+    <tbody>
+        <tr>
+            <td>&nbsp;<a href="https://www.lanecounty.org/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/Human%20Resources/Collective%20Bargaining%20Agreements/Local%20626%20Collective%20Bargaining%20Agreement.pdf" target="_blank" title="626 Collective Bargaining Agreement"><img src="https://cdnsm5-hosted.civiclive.com/UserFiles/Servers/Server_3585797/Image/Government/County%20Departments/Human%20Resources/Collective%20Bargaining%20Agreements/626.jpg" alt="626 Collective Bargaining Agreement" title="626 Collective Bargaining Agreement" style="width: 450px; height: 150px;"><br>
+            </a><a href="https://www.lanecounty.org/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/Human%20Resources/Collective%20Bargaining%20Agreements/626%20CBA%20Modifications.pdf" target="_blank" title="Local 626 contract Modifications"><img src="https://www.lanecounty.org/UserFiles/Servers/Server_3585797/Image/Government/County%20Departments/Human%20Resources/Collective%20Bargaining%20Agreements/page01.jpg" alt="AFSCME General MOU Agreement Modifications" title="AFSCME General MOU Agreement Modifications" style="width: 450px; height: 90px;"></a><br>
+            </td>
+        </tr>
+        <tr>
+            <td>&nbsp;________________________________________________________________</td>
+        </tr>
+        <tr>
+            <td>&nbsp;<a href="https://www.lanecounty.org/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/Human%20Resources/Collective%20Bargaining%20Agreements/Admin-Pro%20Collective%20Bargaining%20Agreement.pdf" target="_blank" title="Admin-Pro Collective Bargaining Agreement"><img src="https://cdnsm5-hosted.civiclive.com/UserFiles/Servers/Server_3585797/Image/Government/County%20Departments/Human%20Resources/Collective%20Bargaining%20Agreements/Admin-Pro.jpg" alt="Administrative Professionals Association Agreement" title="Administrative Professionals Association Agreement" style="width: 450px; height: 150px;"><br>
+            </a><a href="https://www.lanecounty.org/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/Human%20Resources/Collective%20Bargaining%20Agreements/Admin-Pro%20CBA%20Modifications.pdf" target="_blank" title="Admin Pro contract Modifications"><img src="https://www.lanecounty.org/UserFiles/Servers/Server_3585797/Image/Government/County%20Departments/Human%20Resources/Collective%20Bargaining%20Agreements/page01.jpg" alt="AFSCME General MOU Agreement Modifications" title="AFSCME General MOU Agreement Modifications" style="width: 450px; height: 90px;"></a><a href="https://www.lanecounty.org/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/Human%20Resources/Collective%20Bargaining%20Agreements/Admin-Pro%20Collective%20Bargaining%20Agreement.pdf" target="_blank" title="Admin-Pro Collective Bargaining Agreement"><br>
+            </a></td>
+        </tr>
+        <tr>
+            <td>&nbsp;________________________________________________________________</td>
+        </tr>
+        <tr>
+            <td>&nbsp;<a href="https://www.lanecounty.org/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/Human%20Resources/Collective%20Bargaining%20Agreements/AFSCME%20General%20Collective%20Bargaining%20Agreement.pdf" target="_blank" title="AFSCME General Contract"><img src="https://cdnsm5-hosted.civiclive.com/UserFiles/Servers/Server_3585797/Image/Government/County%20Departments/Human%20Resources/Collective%20Bargaining%20Agreements/AFSCME.jpg" alt="AFSCME General Collective Bargaining Agreement" title="AFSCME General Collective Bargaining Agreement" style="width: 450px; height: 150px;"><br>
+            </a><a href="https://www.lanecounty.org/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/Human%20Resources/Collective%20Bargaining%20Agreements/AFSCME%20General%20CBA%20Modifications.pdf" target="_blank" title="AFSCME General CBA Modifications"><img src="https://www.lanecounty.org/UserFiles/Servers/Server_3585797/Image/Government/County%20Departments/Human%20Resources/Collective%20Bargaining%20Agreements/page01.jpg" alt="AFSCME General MOU Agreement Modifications" title="AFSCME General MOU Agreement Modifications" style="width: 450px; height: 90px;"></a></td>
+        </tr>
+        <tr>
+            <td>________________________________________________________________</td>
+        </tr>
+        <tr>
+            <td>&nbsp;<a href="https://www.lanecounty.org/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/Human%20Resources/Collective%20Bargaining%20Agreements/AFSCME%20Nurses%20Collective%20Bargaining%20Agreement.pdf" target="_blank" title="AFSCME Nurses Contract"><img src="https://cdnsm5-hosted.civiclive.com/UserFiles/Servers/Server_3585797/Image/Government/County%20Departments/Human%20Resources/Collective%20Bargaining%20Agreements/AFSCME-N.jpg" alt="AFSCME Nurses Collective Bargaining Agreement" title="AFSCME Nurses Collective Bargaining Agreement" style="width: 450px; height: 150px;"><br>
+            </a><a href="https://www.lanecounty.org/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/Human%20Resources/Collective%20Bargaining%20Agreements/AFSCME%20Nurses%20CBA%20Modifications.pdf" target="_blank" title="AFSCME Nurses CBA Modifications"><img src="https://www.lanecounty.org/UserFiles/Servers/Server_3585797/Image/Government/County%20Departments/Human%20Resources/Collective%20Bargaining%20Agreements/page01.jpg" alt="AFSCME General MOU Agreement Modifications" title="AFSCME General MOU Agreement Modifications" style="width: 450px; height: 90px;"></a></td>
+        </tr>
+        <tr>
+            <td>&nbsp;________________________________________________________________</td>
+        </tr>
+        <tr>
+            <td>&nbsp;<a href="https://www.lanecounty.org/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/Human%20Resources/Collective%20Bargaining%20Agreements/AFSCME%20Physicians%20Collective%20Bargaining%20Agreement.pdf" target="_blank" title="AFSCME Physicians Contract"><img src="https://cdnsm5-hosted.civiclive.com/UserFiles/Servers/Server_3585797/Image/Government/County%20Departments/Human%20Resources/Collective%20Bargaining%20Agreements/AFSCME-P.jpg" alt="AFSCME Physicians Collective Bargaining Agreement" title="AFSCME Physicians Collective Bargaining Agreement" style="width: 450px; height: 150px;"></a><br>
+            <a href="https://www.lanecounty.org/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/Human%20Resources/Collective%20Bargaining%20Agreements/AFSCME%20Physicians%20CBA%20Modifications.pdf" target="_blank" title="AFSCME Physicians CBA Modifications"><img src="https://cdnsm5-hosted.civiclive.com/UserFiles/Servers/Server_3585797/Image/Government/County%20Departments/Human%20Resources/Collective%20Bargaining%20Agreements/page01.jpg" alt="AFSCME Physicians MOU Agreement Modifications" title="AFSCME Physicians MOU Agreement Modifications" style="width: 450px; height: 90px;"></a></td>
+        </tr>
+        <tr>
+            <td>________________________________________________________________</td>
+        </tr>
+        <tr>
+            <td>&nbsp;<a href="https://www.lanecounty.org/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/Human%20Resources/Collective%20Bargaining%20Agreements/FOPPO%20Collective%20Bargaining%20Agreement.pdf" target="_blank" title="FOPPO Contract"><img src="https://cdnsm5-hosted.civiclive.com/UserFiles/Servers/Server_3585797/Image/Government/County%20Departments/Human%20Resources/Collective%20Bargaining%20Agreements/FOPPO.jpg" alt="FOPPO Collective Bargaining Agreement" title="FOPPO Collective Bargaining Agreement" style="width: 450px; height: 150px;"><br>
+            </a><a href="https://www.lanecounty.org/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/Human%20Resources/Collective%20Bargaining%20Agreements/FOPPO%20CBA%20Modifications.pdf" target="_blank" title="FOPPO contract Modifications"><img src="https://www.lanecounty.org/UserFiles/Servers/Server_3585797/Image/Government/County%20Departments/Human%20Resources/Collective%20Bargaining%20Agreements/page01.jpg" alt="AFSCME General MOU Agreement Modifications" title="AFSCME General MOU Agreement Modifications" style="width: 450px; height: 90px;"></a></td>
+        </tr>
+        <tr>
+            <td>&nbsp;________________________________________________________________</td>
+        </tr>
+        <tr>
+            <td>&nbsp;<a href="https://www.lanecounty.org/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/Human%20Resources/Collective%20Bargaining%20Agreements/LCPOA%20Collective%20Bargaining%20Agreement.pdf" target="_blank" title="LCPOA Contract"><img src="https://cdnsm5-hosted.civiclive.com/UserFiles/Servers/Server_3585797/Image/Government/County%20Departments/Human%20Resources/Collective%20Bargaining%20Agreements/LCPOA.jpg" alt="LCPOA Collective Bargaining Agreement" title="LCPOA Collective Bargaining Agreement" style="width: 450px; height: 150px;"><br>
+            </a><a href="https://www.lanecounty.org/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/Human%20Resources/Collective%20Bargaining%20Agreements/LCPOA%20CBA%20Modifications.pdf" target="_blank" title="LCPOA contract Modifications"><img src="https://www.lanecounty.org/UserFiles/Servers/Server_3585797/Image/Government/County%20Departments/Human%20Resources/Collective%20Bargaining%20Agreements/page01.jpg" alt="AFSCME General MOU Agreement Modifications" title="AFSCME General MOU Agreement Modifications" style="width: 450px; height: 90px;"></a><br>
+            </td>
+        </tr>
+        <tr>
+            <td>&nbsp;________________________________________________________________</td>
+        </tr>
+        <tr>
+            <td>&nbsp;<a href="https://www.lanecounty.org/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/Human%20Resources/Collective%20Bargaining%20Agreements/PAA%20Collective%20Bargaining%20Agreement.pdf" target="_blank" title="Prosecuting Attorneys Collective Bargaining Agreement"><img src="https://cdnsm5-hosted.civiclive.com/UserFiles/Servers/Server_3585797/Image/Government/County%20Departments/Human%20Resources/Collective%20Bargaining%20Agreements/PAA.jpg" alt="PAA Collective Bargaining Agreement" title="PAA Collective Bargaining Agreement" style="width: 450px; height: 150px;"><br>
+            </a><a href="https://www.lanecounty.org/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/Human%20Resources/Collective%20Bargaining%20Agreements/PAA%20CBA%20Modifications.pdf" target="_blank" title="PAA contract Modifications"><img src="https://www.lanecounty.org/UserFiles/Servers/Server_3585797/Image/Government/County%20Departments/Human%20Resources/Collective%20Bargaining%20Agreements/page01.jpg" alt="AFSCME Physicians MOU Agreement Modifications" title="AFSCME Physicians MOU Agreement Modifications" style="width: 450px; height: 90px;"></a></td>
+        </tr>
+    </tbody>
+</table></div>
+</div></div></div></div></div></div></div><div class="clear"></div></div><div id="emerg"><div class="ptl_col_1"></div></div></div></div><!-- end #content-wrapper --><div id="footer"><div class="inside-padding"><div class="row"><ul id="newsletter"><li><a href="/sign_up_for_notifications"><em class="fa fa-envelope-o"></em> SIGN UP FOR <span>NOTIFICATIONS</span></a></li></ul></div><div id="footer-left"><div id="left"><h3>Lane County</h3></div><div id="right"><ul><li><a href="/web_site_privacy_information">Privacy Policy | </a></li><li><a href="/county_policies">County Policies | </a></li><li><a href="/government/county_departments/county_administration/language_access_and_rights">Civil Rights | </a></li><li><a href="/accessibility_disclaimer">Accessibility | </a></li><li><a href="/liability_disclaimer">Liability Disclaimer | </a></li><li><a href="https://launcher.myapps.microsoft.com/api/signin/b7a1162c-6dc8-45bf-8f79-c1bd656c8c44?tenantId=74df5a22-826e-4942-9a74-1d199974dedf">Staff Login | </a></li><li><a href="/contact_us">Contact Webmaster | </a></li></ul><ul><li>© 2016 Lane County |</li><li>All Rights Reserved |</li><li><a href="/">Powered by CivicLive</a></li></ul></div></div><!-- end #footer-left --><div id="footer-right"><ul><li><a href="https://www.facebook.com/LaneCountyGovernment/"><em class="fa fa-facebook"></em></a></li><li><a href="https://twitter.com/LaneCountyGov?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"><em class="fa fa-twitter"></em></a></li></ul></div><!-- end #footer-right --><div class="clear"></div></div></div><!-- end #footer --><script>
+    function TranslateTo(language)
+    {
+    var currentURL = window.location.href;
+
+    if (language.match('original')) {
+    currentURL = $.getUrlVar('u');
+    parent.location = unescape(currentURL);
+    }
+    else {
+    if (currentURL.indexOf('translate.google.com') > 0)
+    currentURL = unescape($.getUrlVar('u'));
+    
+    parent.location='http://translate.google.com/translate?hl=' + language + '&sl=auto&tl=' + language + '&u=' + encodeURIComponent(currentURL);
+    }
+    }
+    
+    //Code for translate drop down menu
+    $(document).ready(function(){
+
+    if ($(".languageDropdown").length > 0) {
+    var currentURL = window.location.href;
+    if (currentURL.indexOf('translate.google.com') > 0)
+    document.getElementById('gtl_original').style.display = 'inline-block';
+    else
+    document.getElementById('gtl_original').style.display = 'none';
+    }
+    }); 
+</script><!--<script type="text/javascript">
+    $(document).ready(function() {
+      function setHeight() {
+        windowHeight = $(window).innerHeight();
+        $('.bodyBackground').css('min-height', windowHeight);
+      };
+      setHeight();
+      
+      $(window).resize(function() {
+        setHeight();
+      });
+    });
+</script>--><script>
+    $(document).ready(function(){
+    $(".heroControlDrop > a.heroToggle").click(function(e){
+    e.preventDefault();
+    $(this).attr('aria-expanded','true');
+    $(this).parent().addClass('active');
+    $(this).next().slideDown('fast');
+    $(this).next().attr('aria-hidden','false');
+    $(this).addClass('open');
+    });
+
+    $('.heroControlDrop .last').focusout(function(){
+    $('.heroControlDrop > a').attr('aria-expanded','false');
+    $('.heroControlDrop ul').slideUp('slow');
+    $('.pubDropdown-wrapper').removeClass('active');
+    $('.heroControlDrop > a').removeClass('open');
+    });
+
+    $('.heroControlDrop').mouseleave(function(){
+    $('.heroControlDrop > a').attr('aria-expanded','false');
+    $('.heroControlDrop ul').slideUp('slow');
+    $('.pubDropdown-wrapper').removeClass('active');
+    $('.heroControlDrop > a').removeClass('open');
+    });
+    });
+</script><script>
+    $(document).ready(function() {
+    if ($('.subpage').length > 0) {
+    $('#bodyBackground').css('display','none !important');
+    }
+    });
+</script><script>
+
+    $("#ctl00_btnSearch").html('<i class="fa fa-search"></i>');
+</script><script>
+    $(document).ready(function() {
+    
+    
+    
+    $(".tabInside").each( function() {
+    
+    $(this).find('h3').clone().appendTo('.tabsTop');
+    
+    });
+    
+    var topCount = 1;
+    
+    $('.tabsTop h3').each( function() {
+    $(this).wrapAll('<li class="tab-' + topCount + '"></li>');
+    
+    topCount++
+    
+    });
+    
+    $('.tabsTop').find('li').wrapAll('<ul></ul>');
+    
+    $('.tabsTop').next().addClass('tabs');
+    
+    var count = 1;
+    
+    $('.tabs > .ptl_portlet_vertical').each( function() {
+    $(this).addClass('tab tab-' + count);
+    
+    count++
+    
+    });
+    
+    var tabItem = $('.tabsTop > ul > li').length
+    
+    $('.tabsTop > ul > li').find('em').remove();
+    
+    $('.tabs .tab-1').addClass('active');
+    $('.tabsTop .tab-1').addClass('active');
+    
+    
+    
+    
+    $('.tabsTop li').click(function() {
+    
+    var tabClass = $(this).attr("class");
+    
+    if(!$(this).hasClass('active')) {
+    
+    $('.tabs > div').removeClass('active');
+    $('.tabs h3').removeClass('active');
+    $('.tabsTop > ul > li').removeClass('active');
+    
+    if(tabClass =="tab-3"){
+    if($("#mapIframe").attr("src")==""){
+    $("#mapIframe").attr("src", "https://lcmaps.lanecounty.org/CountyServicesMap/index.html");
+    }
+
+    }
+    
+    $('.tabs .' + tabClass).addClass('active');
+    $('.tabsTop .' + tabClass).addClass('active');
+    $('.tabs .' + tabClass + ' h3').addClass('active');
+    
+    }
+    
+    });
+    
+    
+    $('.tabs .tabaccord1 h3').addClass('active');
+    $('.tabs .tabaccord1 .row').addClass('active');
+    
+    $('.tabInside h3').click(function() {
+    if($(this)[0].textContent =="Map"){
+    if($("#mapIframe").attr("src")==""){
+    $("#mapIframe").attr("src", "https://lcmaps.lanecounty.org/CountyServicesMap/index.html");
+    }                               
+    }
+    
+    $('.tabs h3').not('.tabs h3.active').removeClass('active');
+    $('.tabs .tabInside .row').not('.tabs .tabInside .row.active').slideUp();
+    $('.tabs .tabInside .row').not('.tabs .tabInside .row.active').css("z-index", "0");
+    $('.tabs .tabInside .row').not('.tabs .tabInside .row.active').removeClass('active');
+    
+    $(this).next().slideToggle();
+    $(this).next().css("z-index", "1");
+    
+    
+    if($(this).next().hasClass('active')) {
+    
+    $(this).next().removeClass('active');
+    }
+    
+    else{
+    $(this).next().addClass('active');
+    }
+    
+    if($(this).hasClass('active')) {
+    $(this).removeClass('active');
+    }
+    
+    else{
+    $(this).addClass('active');
+    }
+    
+    });
+    
+    
+    
+    
+    });
+</script><script>
+    $(document).ready(function() {
+    
+    $('#homeTabs .tabs .tabaccord1 h3').addClass('active');
+    $('#homeTabs .tabs .tabaccord1 .row').addClass('active');
+    
+    });
+    
+</script><script>
+    $(document).ready(function(){
+    $('#Viewall').appendTo('#news-wrapper .viewAll');
+    });
+    
+</script><script>
+    $(document).ready(function() {
+    
+    
+    var topCount = 1;
+    
+    $('.tabInside').each( function() {
+    $(this).addClass('tabaccord' + topCount);
+    
+    topCount++
+    
+    });
+    
+    });
+    
+</script><script src="https://cdnsm5-hosted.civiclive.com/UserFiles/Servers/Server_3585797/Templates/js/jquery.filtertable.js"></script><script>
+    $('#rfp-table').filterTable({
+    callback: function(term, table) {
+    table.find('tr').removeClass('striped').filter(':visible:even').addClass('striped');
+    }
+    });
+</script><!--<script>
+    $(document).ready(function(){
+        $('#rfp-table').DataTable();
+    });
+</script>--><script src="https://cdnsm5-hosted.civiclive.com/UserFiles/Servers/Server_3585797/Templates/js/imgLiquid.js"></script><script>
+    $(document).ready(function() {
+    $("#news-summary .image").imgLiquid();
+    });
+</script><!--<script type="text/javascript" charset="utf-8">
+    $(window).load(function() {
+    
+       var lis = $("a#quicklinkHolder");
+        for(var i = 0; i &lt; lis.length; i+=3) {
+          lis.slice(i, i+3)
+            .wrapAll('<li class="slide"></li>');
+        }
+    
+        $('#quick-links.flexslider').flexslider({
+           animation: "slide",
+           slideshow: false,
+           controlsContainer: "#quicklinkControls",
+           prevText: "",
+           nextText: "",
+    });
+    
+    $('.flex-prev').addClass('fa fa-arrow-circle-up');
+    $('.flex-next').addClass('fa fa-arrow-circle-down');
+    
+    
+    });
+</script>--><script>
+    $(document).ready(function(){
+    $('#news-wrapper-content').appendTo('#news-content');
+    });
+    
+</script><script>
+    $(document).ready(function(){
+    $('.nav').appendTo('#menubar');
+    });
+    
+</script><script>
+    $(document).ready(function(){
+    $('#events-wrapper-content').appendTo('#events-content');
+    });
+    
+</script><script>
+    $(document).ready(function(){
+    $('#share').sharebtn();
+    });
+    
+</script><script>
+
+    $("#FAQ dt").click(function () {
+    $(this).next("#FAQ dd").slideToggle(400);
+    $(this).toggleClass("expanded");
+    });
+    
+      $('.accordion-content').hide();
+    
+        $('.accordion-title').click(function(){
+            $(this).next('.accordion-content').slideToggle();
+            $(this).toggleClass('active');
+        });
+</script><script>
+    $(document).ready(function() {
+    if ($('.sidenav .level2').length > 0) { 
+    $('.sidenav .active .toggle').click( function() {
+    $('.sidenav .level2').toggleClass('show');
+    });
+    }
+    else {
+    $('.sidenav .active .toggle').remove();
+    }
+    
+    if ($('.sidenav .level2.active').length > 0) { 
+    $('.sidenav .level1').addClass('hideMobile');
+    
+    $('.sidenav .level2.active .toggle').click( function() {
+    $('.sidenav .level3').toggleClass('show');
+    });
+    }
+    
+    if ($('.sidenav .level2.active').length > 0) { 
+    if ($('.sidenav .level2').length > 1) { 
+    $('.sidenav .active .toggle').remove();
+    }
+    }
+    });
+</script><script>
+    $(window).load(function() {
+    $('#homeTabs').css('opacity','1');
+    });
+</script><script>
+    $(window).load(function(){
+    $('.subHero').addClass('visible');
+    });
+</script><script>
+    $(document).ready(function(){
+    $(window).load(function() {
+    
+    var lis = $("a.eventPlaceHolder");
+    for(var i = 0; i < lis.length; i+=4) {
+    lis.slice(i, i+4)
+    .wrapAll('<li></li>');
+    }
+    
+    $('#upcoming-event-wrapper.flexslider').flexslider({
+    animation: "slide",
+    slideshow: false,
+    touch: false,
+    prevText: "",
+    nextText: "",
+    controlNav: false,
+    controlsContainer: ".eventsControls",
+    animationLoop: true
+    });
+    $('.flex-prev').addClass('fa fa-arrow-circle-left');
+    $('.flex-next').addClass('fa fa-arrow-circle-right');
+    
+    });
+    });
+</script><script>
+    $(document).ready(function(){
+    $(window).load(function() {
+    
+    var lis = $("a#departEvents");
+    for(var i = 0; i < lis.length; i+=2) {
+    lis.slice(i, i+2)
+    .wrapAll('<li></li>');
+    }
+    
+    $('#depart-event-wrapper.flexslider').flexslider({
+    animation: "slide",
+    slideshow: false,
+    touch: false,
+    prevText: "",
+    nextText: "",
+    controlNav: false,
+    controlsContainer: ".eventsControls",
+    animationLoop: true
+    });
+    $('.flex-prev').addClass('fa fa-arrow-circle-left');
+    $('.flex-next').addClass('fa fa-arrow-circle-right');
+    
+    });
+    });
+</script><script>
+    $( window ).load(function() {
+    $(function() {
+
+    $(".megamenu > ul > li").hover(function() {
+    $(this).siblings().find(".second-level-list:visible").slideUp(400);
+    var timeout = $(this).data("timeout");
+    if(timeout) clearTimeout(timeout);
+    if (!$(this).find(".second-level-list").is(':visible')) { 
+    $(this).find(".second-level-list").slideDown(400);
+    }
+    }, function() {
+    $(this).data("timeout", setTimeout($.proxy(function() {
+    $(this).find(".second-level-list").slideUp(400);
+    }, this), 500));
+    });
+
+    $(document).click(function() {
+    $('.second-level-list:visible').hide();
+    });
+
+    });
+    });
+</script><script>
+    $( document ).ready(function() {
+    if ($("#breadcrumbs").length > 0){
+    $(function() {
+    var f = $('#breadcrumbs div');
+    if (f.length > 0)
+    f.html(f.html().replace(/»/g, '<span class="slash"> / </span>'));
+    f.html(f.html().replace(/&nbsp;/g, ""));
+    });
+    }
+    });
+</script><script type="text/javascript">
+    function OpenPrintPage() {
+    
+    var OriginalContent = document.getElementById('printContent').innerHTML;
+    var PrintWindow = window.open("","PrinterFriendlyPage","scrollbars=yes,status=yes,toolbar=yes,menubar=yes,resizable=yes,height=510,width=750"); 
+    PrintWindow.document.write( 
+    '<html><head><title>' + document.title +'</title><style>.subHero, .sidebar, .subpage-bottom {display:none;} h3.page-title { font-size: 35px; } .printbtn { padding: 5px; background: #6c9134; margin: 3px; margin-top: -4px; Margin-bottom: 11px; display: inline-block; position: relative; margin-right: 4px; color: #fff; text-decoration: none;} </style></head><body style="font-family: arial;"><img width="200px" style="display: block; margin: 0px auto;" src="https://cdnsm5-hosted.civiclive.com/UserFiles/Servers/Server_3585797/Templates/logo/logo.png" alt="FCJFS"></img><a class="printbtn" href="javascript:window.print()">Print This Page</a><div id="' + 'content' + '">' + 
+    '</div></body></html>'); 
+    
+    PrintWindow.document.close(); 
+    PrintWindow.document.getElementById('content').innerHTML += OriginalContent; 
+    
+    }
+    
+</script><script>
+    $(document).ready(function() {
+    $('.acc_container').hide();
+    $('.acc_trigger').click(function(){
+    $(this).next('.acc_container').slideToggle();
+    return false;
+    });
+    
+    $('.acc_expand-all').click(function(){
+    if ($('.acc_container').is(':visible')) {   
+    $('.acc_container').slideUp();
+    }
+    else{
+    $('.acc_container').slideDown();
+    }
+    return false;
+    });
+    });
+</script><script>
+    $(document).ready(function() {
+    $('.acc_container').hide();
+    $('.acc_trigger').click(function(){
+    $(this).next('.acc_container').slideToggle();
+    return false;
+    });
+    
+    $('.acc_expand-all').click(function(){
+    if ($('.acc_container').is(':visible')) {   
+    $('.acc_container').slideUp();
+    }
+    else{
+    $('.acc_container').slideDown();
+    }
+    return false;
+    });
+    });
+</script><script src="https://cdnsm5-hosted.civiclive.com/UserFiles/Servers/Server_3585797/Templates/js/jquery.tablesorter.min.js"></script><script type="text/javascript">//<![CDATA[
+    var rows;// = $('#rfp-table tr');
+    var status = 'open';
+    var cat = 'all';
+    
+    function filterRows()
+    {   
+    rows.hide();
+
+    rows.each(function(){
+    
+    var $this = $(this);
+
+    //console.log($this.data('status'),status);
+    //console.log($this.data('cat'),cat);
+
+    //check each row to see if it has both the chosen category and status
+    var show = (($this.data('cat') == cat || cat == 'all') && (status == 'all' || $this.data('status') == status));
+
+    if(show)
+    {
+    $this.show();
+    } 
+    })
+    }
+    
+    $(document).ready(function(){
+
+    //all rfps in the table
+    rows = $('#rfp-table tbody tr');
+
+    //remove the time stamp from last modifed date
+    rows.find('.last-modified').each(function(){
+    $(this).html($(this).html().replace(/[\d]+:[\d]+:[\d]+/,''));
+    });
+
+    //all sorting radio buttons
+    $('.sortRadio').click(function(){
+
+    var $this = $(this);
+    var thisStatus = $this.data('status');
+    var thisCat = $this.data('cat');
+    
+    //if a row doesn't have a data-status it must be a category 
+    if(thisStatus == undefined)
+    {
+    cat = thisCat; 
+    }
+    else
+    {
+    status = thisStatus;
+    }
+    
+    filterRows();       
+
+    });
+    
+    //make the table sortable and default the sort to date last modified descending
+    $('#rfp-table').tablesorter({
+    sortList : [[5,1]]
+    });
+
+    $('#rfp-table thead th').prepend('<i class="fa fa-caret-up"></i><i class="fa fa-caret-down"></i>');
+
+    //default the rfps table to filter all open RFPs, and also mark the open radio checked
+    $('.labelRFP input[data-status="open"]').prop('checked',true);
+    filterRows();
+    });
+    //]]></script><script type="text/javascript">//<![CDATA[
+    $(document).ready(function(){
+    $('input[name$="field_category"]').selectfield('|Administrative Services|Building Construction|Fleet Services|Grant Proposal|Goods and Services|Professional Services|Technical Services');
+    })
+    
+
+
+    function cloneAttrs(source,dest)
+    {
+    var attr,attrSplit;
+
+    for(var a in source[0].attributes)
+    {
+    attr = source[0].attributes[a];
+    
+
+    if(typeof attr == 'object')
+    {
+    dest.attr(attr.name,attr.value);
+    }
+    }
+    }
+
+    $.fn.selectfield = function (valuesIn)
+    {
+    var values = new Array();
+
+    return this.each(function(){
+
+    var $this = $(this);
+
+    //$this.css('display','none');
+
+    var select = $('<select></select>');
+
+    cloneAttrs($this,select);
+
+    select.insertAfter($this);
+
+
+    values = valuesIn.split('|');
+
+    select.attr('size','');
+
+    for(var i in values)
+    {
+    console.log(values[i]);
+    var opt = $('<option>' + values[i] + '</option>');
+
+    if(values[i] == $this.val())
+    {
+    opt.attr('selected','selected')        
+    }
+
+    opt.appendTo(select);
+
+    }
+
+    $this.remove();
+    })
+    }
+    
+    //]]></script><script type="text/javascript">//<![CDATA[
+        $(document).ready(function(){
+        var form = $('#aspnetForm');
+        
+        if(form.attr('action').indexOf('Entity+RFP+Item') != -1)
+        {
+        var select = $('#ctl00_ContentPlaceHolder1_ctl03_ctl10_ddlCategory')
+
+        select.parents('tr').find('label,select,span').css('visibility','hidden');
+        }
+        
+        
+        var tables = $('.tbl');
+        
+        tables.each(function(){
+
+        var $this = $(this);
+
+        if($this.html().indexOf('Entity') != -1 && $this.html().indexOf('Posted Date') != -1 && $this.html().indexOf('Deadline') != -1)
+        {
+        $('#trCategory').find('select,span,label').css('visibility','hidden');
+        }
+        })
+        })
+        //]]></script><script>//<![CDATA[
+            (function(){
+
+            var chosenFile,urlField;
+
+            $(document).ready(function(){
+
+            console.log('work');
+
+            if(isExternalLinkPage())
+            {
+
+            urlField = $('#ctl00_ContentPlaceHolder1_ctl03_txtUrl, #ctl00_ContentPlaceHolder1_ctl08_txtUrl');
+
+            console.log('is external');
+
+            //when the window wrapper exists
+            onExists('#RadWindowWrapper_ctl00_ContentPlaceHolder1_ctl11_ExplorerWindow',function(){
+            var shell = $('#RadWindowWrapper_ctl00_ContentPlaceHolder1_ctl11_ExplorerWindow');
+            var iframe = shell.find('iframe[name="ExplorerWindow"]');
+
+            //grab the iframe and wait for it to load
+            $(iframe[0]).load(function(){
+            var iframeBody = $(getDoc(iframe[0]).body);
+            var filePanel = iframeBody.find('#radFileExploer_paneGrid');
+
+            //listen for double clicks in the file pane
+            filePanel.dblclick(function(e) {
+            /* Act on the event */
+
+            var target = $(e.target);
+
+            //if the thing being dbl clicked is a file
+            if(!isFolder(target))
+            {
+            //grab its file name
+            var fileName = getFileName(target);
+
+            //grab the folder we're in
+            var folder = iframeBody.find('#radFileExploer_address').val();
+
+            chosenFile = folder + '/' + fileName;
+
+            var closeBtn = $('.rwCloseButton')[0];
+
+            //close the modal
+            if(closeBtn.click)
+            {
+            closeBtn.click();
+            }
+            else
+            {
+            closeBtn.onclick();
+            }
+
+            //fill the url field with the full path to the file.
+            urlField.val(chosenFile);
+            }
+            });
+            })
+            });
+            }
+
+
+            //Get the page url
+            var pageURL = $(location).attr("href");
+            if(pageURL == 'https://lanecounty.org/cms/One.aspx?portalId=3585881&pageId=3720150')
+            {
+            $("#ctl00_ContentPlaceHolder1_ctl11_divContent").css("background-color" , "#e6e6e6");
+            $("#ctl00_ContentPlaceHolder1_ctl11_divContent").css("padding" , "10px");
+            }
+
+            });
+
+            function getFileName(el)
+            {
+            return el.text();
+            }
+
+            function isFolder(el)
+            {
+            return el.hasClass('folder');
+            }
+
+            function getDoc(x)
+            {
+            return x.document ||
+            x.contentDocument ||
+            x.contentWindow.document;
+            }
+
+            function isExternalLinkPage()
+            {
+            var formLabel = $('#ctl00_ContentPlaceHolder1_ctl03_lblTableHeader,#ctl00_ContentPlaceHolder1_ctl08_lblTableHeader');
+            var externalLinkLabel = "New External Link Page";
+
+            return formLabel.size() == 1 && formLabel.text() == externalLinkLabel;
+            }
+
+            /**
+            * Checks every 100ms if the given selector exists, then fires the callback when it does
+            * @param {String} element
+            * @param {Function} callback
+            */
+            function onExists(element,callback,context)
+            {
+            context = context == undefined ? $('html') : context;
+
+            if(context.find(element).size() == 0)
+            {            
+            //console.log(element,'doesnt exist in ', context);
+
+            setTimeout(function(){
+            onExists(element,callback);
+            },100);
+            }
+            else
+            {
+            //console.log(element,' DOES EXIST');
+            callback();
+            }
+            }
+            })(jQuery); //]]></script><script src="https://cdnsm5-hosted.civiclive.com/UserFiles/Servers/Server_3585797/File/Systemfiles/taxtimefaqredirect.js"></script><script>
+$(document).ready(function() {
+    function checkDocCon() {
+        if ($('.PO-search input[type="text"]').length > 0) {
+            $('.PO-search input[type="text"]').on('keypress', function(e) {
+                if (e.key === "Enter") {
+                    e.preventDefault();
+                    $('.PO-documentContainer .PO-search a#btnSearch').trigger('click');
+                }
+            });
+        } else {
+            console.log('loading...');
+            setTimeout(checkDocCon, 100);
+        }
+    }
+    checkDocCon();
+});
+</script><script>
+
+function removeEmptyLinks() {
+  $('a').each(function () {
+    var $a = $(this);
+
+    var href = $a.attr('href');
+    var hasText = $.trim($a.text()).length > 0;
+    var hasIconOnly = $a.find('em.fa').length && !hasText;
+
+    if ((!href || href === '') && hasIconOnly) {
+      $a.remove();
+    }
+  });
+}
+
+// Run on load
+$(document).ready(removeEmptyLinks);
+
+// Run again in case CMS injects later
+setTimeout(removeEmptyLinks, 1000);
+setTimeout(removeEmptyLinks, 3000);
+</script><script>
+$(document).ready(function() {
+  $(".hotspot img").attr("alt", "Administration");
+ $(".CMS_username img").attr("alt", "Display Picture");
+$(".visually-hidden").removeAttr("style");
+
+  function addMissingLabels(context) {
+    $(context).find("input:not([type=hidden]), select, textarea").each(function (index) {
+      var $field = $(this);
+
+      // Skip if already labeled
+      if ($("label[for='" + $field.attr("id") + "']").length) return;
+
+      // Ensure field has an ID
+      if (!$field.attr("id")) {
+        $field.attr("id", "auto_field_" + index);
+      }
+
+      // Prefer placeholder → name → generic fallback
+      var labelText = $field.attr("placeholder") || $field.attr("name") || "Form Field " + (index + 1);
+
+      // Create visually hidden label with aria-hidden
+      $("<label>")
+        .attr("for", $field.attr("id"))
+        .addClass("visually-hidden")
+        .attr("aria-hidden", "true")
+        .text(labelText)
+        .insertBefore($field);
+    });
+  }
+
+  // Run once on page load
+  addMissingLabels(document);
+
+  // Watch for dynamically inserted inputs
+  const observer = new MutationObserver(function (mutations) {
+    mutations.forEach(function (mutation) {
+      $(mutation.addedNodes).each(function () {
+        if ($(this).is("input, select, textarea, form, div, span")) {
+          addMissingLabels(this);
+        }
+      });
+    });
+  });
+
+  observer.observe(document.body, {
+    childList: true,
+    subtree: true
+  });
+
+  // Font Awesome icons
+  $("[class*='fa']").each(function () {
+    var $icon = $(this);
+
+    // Skip if it already has text
+    if ($icon.text().trim() !== "") return;
+
+    
+    var faClass = $icon.attr("class").split(/\s+/).find(function(c) {
+      return c.startsWith("fa-") && c !== "fa";
+    });
+
+    if (!faClass) return;
+
+    var hiddenText = faClass.replace("fa-", "").replace(/-/g, " ");  
+
+    // Add visually hidden text with aria-hidden
+    $icon.append(
+          $("<span>")
+        .addClass("visually-hidden")
+        .attr("aria-hidden", "true")
+        .text(hiddenText)
+    );
+  });
+
+  // Toggle div inside aChangeDesignMode
+  $("#aChangeDesignMode .toggle").each(function () {
+    var $div = $(this);
+
+    // Skip if it already has text
+    if ($div.text().trim() !== "") return;
+
+    // Add visually hidden text with aria-hidden
+    $div.append(
+        $("<span>")
+        .addClass("visually-hidden")
+        .attr("aria-hidden", "true")
+        .text("Change design mode")
+    );
+  });
+
+  // Table headers
+  $("th.CMS_tButton.CMS_tDouble, th.CMS_tButton").each(function () {
+    var $th = $(this);
+
+    // Skip if it already has text
+    if ($th.text().trim() !== "") return;
+
+    // Add visually hidden text with aria-hidden
+    $th.append(
+      $("<span>")
+        .addClass("visually-hidden")
+        .attr("aria-hidden", "true")
+        .text("Table header") // Replace with meaningful text if known
+    );
+  });
+});
+
+$(document).ready(function() {
+  $('input[type="image"]').each(function() {
+    // Check if the element already has an aria-label
+    if (!$(this).attr('aria-label')) {
+      // Dynamically generate the aria-label using a combination of attributes
+      var ariaLabel = $(this).attr('name') || $(this).attr('id') || $(this).attr('src').split('/').pop().split('.')[0];
+      
+      // Set the aria-label if it's not empty or null
+      if (ariaLabel) {
+        $(this).attr('aria-label', ariaLabel.replace(/([A-Z])/g, '$1').trim()); // Adds spaces before capital letters for readability
+      }
+    }
+  });
+});
+
+$(function () {
+    $(".nivoSlide img").each(function () {
+
+        // If ALT already exists, skip
+        if ($(this).attr("alt")) return;
+
+        let src = $(this).attr("src");
+        if (!src) return;
+
+        // Extract filename from the URL
+        let fileName = src.split('/').pop().split('.')[0];
+
+        // Make it readable: replace - and _ with spaces, title case
+        let altText = fileName
+            .replace(/[-_]/g, ' ')
+            .replace(/\s+/g, ' ')
+            .replace(/\b\w/g, c => c.toUpperCase());
+
+        // Set the ALT text
+        $(this).attr("alt", altText);
+    });
+});
+</script><script>
+$(window).on('load', function () {
+  var $current = $('#spanBreadcrumbPageId');
+  if (!$current.length) return;
+
+  // Remove the incorrect ARIA attribute
+  $current.removeAttr('aria-label');
+
+  // Set the correct ARIA for the current breadcrumb item
+  // Prefer putting aria-current on the list item if breadcrumbs use li
+  var $li = $current.closest('li');
+  if ($li.length) {
+    $li.attr('aria-current', 'page');
+  } else {
+    // If there isn't an li, set it directly on the element
+    $current.attr('aria-current', 'page');
+  }
+
+  // NOTE: we no longer set aria-label="Breadcrumb" on the nav element
+  // to avoid accessible-name mismatch issues from scanners.
+});
+</script><!-- ADA LIST FIX: handle empty UL/OL that have no LI children --><script>
+$(function () {
+  function fixEmptyList($list) {
+    var hasItems = $list.children('li').length > 0;
+    var isPatched = $list.data('emptyListPatched') === true;
+
+    if (!hasItems) {
+      if (!isPatched) {
+        var originalRole = $list.attr('role');
+        var originalAriaHidden = $list.attr('aria-hidden');
+
+        $list.data('emptyListPatched', true);
+        $list.data('originalRole', originalRole);
+        $list.data('originalAriaHidden', originalAriaHidden);
+
+        // Hide structurally empty lists from assistive tech
+        $list.attr('role', 'presentation')
+             .attr('aria-hidden', 'true');
+      }
+    } else if (isPatched) {
+      // Restore original semantics if items have been added
+      var originalRole2 = $list.data('originalRole');
+      var originalAriaHidden2 = $list.data('originalAriaHidden');
+
+      if (originalRole2 !== undefined && originalRole2 !== null && originalRole2 !== '') {
+        $list.attr('role', originalRole2);
+      } else {
+        $list.removeAttr('role');
+      }
+
+      if (originalAriaHidden2 !== undefined && originalAriaHidden2 !== null && originalAriaHidden2 !== '') {
+        $list.attr('aria-hidden', originalAriaHidden2);
+      } else {
+        $list.removeAttr('aria-hidden');
+      }
+
+      $list.removeData('emptyListPatched')
+           .removeData('originalRole')
+           .removeData('originalAriaHidden');
+    }
+  }
+
+  function scanLists(context) {
+    $(context).find('ul, ol').each(function () {
+      fixEmptyList($(this));
+    });
+  }
+
+  // Initial scan
+  scanLists(document);
+
+  // Watch for dynamic changes if supported
+  if (window.MutationObserver) {
+    var observer = new MutationObserver(function (mutations) {
+      for (var i = 0; i < mutations.length; i++) {
+        var mutation = mutations[i];
+        if (mutation.type === 'childList') {
+          scanLists(mutation.target);
+        }
+      }
+    });
+
+    observer.observe(document.body, {
+      childList: true,
+      subtree: true
+    });
+  }
+});
+</script><script>
+$(document).ready(function () {
+$('#ctl00_ContentPlaceHolder1_ctl01_radmenu').attr('role', 'menubar');
+
+setTimeout(function () {
+  $('.flex-prev').each(function () {
+    $(this)
+      .attr('aria-label', 'Previous slide')
+      .on('click', function (e) {
+        e.preventDefault();
+      });
+  });
+
+  $('.flex-next').each(function () {
+    $(this)
+      .attr('aria-label', 'Next slide')
+      .on('click', function (e) {
+        e.preventDefault();
+      });
+  });
+}, 1000);
+
+  $('#spanBreadcrumbPageId')
+    .removeAttr('aria-label')
+    .attr('aria-current', 'page');
+});
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+window.__TsmHiddenField = $get('ctl00_ScriptManager1_TSM');InputConstraint_OnLoad('ctl00_ContentPlaceHolder1_ctl00_addNewPageModal_txtFriendlyUrl', /^[\w-]*$/);;(function() {
+                        function loadHandler() {
+                            var hf = $get('ctl00_RadStyleSheetManager1_TSSM');
+                            if (!hf._RSSM_init) { hf._RSSM_init = true; hf.value = ''; }
+                            hf.value += ';Telerik.Web.UI, Version=2026.2.708.462, Culture=neutral, PublicKeyToken=121fae78165ba3d4:en-US:03a52e94-03ab-4ac2-b277-a6e3154784ef:92753c09:91f742eb:ed2942d4';
+                            Sys.Application.remove_load(loadHandler);
+                        };
+                        Sys.Application.add_load(loadHandler);
+                    })();Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadWindowManager, {"behaviors":4,"clientStateFieldID":"ctl00_ContentPlaceHolder1_RadWindowManagerLoadingContentTree_ClientState","formID":"aspnetForm","iconUrl":"","minimizeIconUrl":"","name":"RadWindowManagerLoadingContentTree","skin":"Default","windowControls":"[]"}, null, null, $get("ctl00_ContentPlaceHolder1_RadWindowManagerLoadingContentTree"));
+});
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadWindow, {"_dockMode":false,"behaviors":4,"clientStateFieldID":"ctl00_ContentPlaceHolder1_RadWindowLoadingContentTree_ClientState","formID":"aspnetForm","iconUrl":"","minimizeIconUrl":"","name":"RadWindowLoadingContentTree","showContentDuringLoad":false,"skin":"Default","title":"Content Properties"}, null, null, $get("ctl00_ContentPlaceHolder1_RadWindowLoadingContentTree"));
+});
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadWindow, {"_dockMode":false,"behaviors":4,"clientStateFieldID":"ctl00_ContentPlaceHolder1_RadWindowPermissionControl_ClientState","formID":"aspnetForm","iconUrl":"","minimizeIconUrl":"","name":"RadWindowPermissionControl","showContentDuringLoad":false,"skin":"Default","title":"Permission Control"}, null, null, $get("ctl00_ContentPlaceHolder1_RadWindowPermissionControl"));
+});
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadMenu, {"_childListElementCssClass":null,"_selectedItemIndex":"3","_selectedValue":"3711304","clientStateFieldID":"ctl00_ContentPlaceHolder1_ctl01_radmenu_ClientState","collapseAnimation":"{\"duration\":450}","defaultGroupSettings":"{\"expandDirection\":0}","enableAriaSupport":true,"expandAnimation":"{\"duration\":450}","itemData":[{"attributes":{"menunumber":"0"},"value":"5300672","navigateUrl":"/home"},{"attributes":{"menunumber":"1"},"items":[{"attributes":{"menunumber":"2"},"value":"5397441","navigateUrl":"/residents/animal_services"},{"attributes":{"menunumber":"3"},"value":"17770085","navigateUrl":"/residents/c_o_v_i_d-19_information"},{"attributes":{"menunumber":"4"},"value":"5358464","navigateUrl":"/residents/elections"},{"attributes":{"menunumber":"5"},"items":[{"attributes":{"menunumber":"6"},"value":"4293878","navigateUrl":"/residents/health_and_wellness/behavioral_health"},{"attributes":{"menunumber":"7"},"value":"4293885","navigateUrl":"/residents/health_and_wellness/communicable_disease"},{"attributes":{"menunumber":"8"},"value":"5402792","navigateUrl":"/residents/health_and_wellness/community_health_centers"},{"attributes":{"menunumber":"9"},"value":"4293891","navigateUrl":"/residents/health_and_wellness/developmental_disabilities"},{"attributes":{"menunumber":"10"},"value":"4293899","navigateUrl":"/residents/health_and_wellness/environmental_health"},{"attributes":{"menunumber":"11"},"value":"4293909","navigateUrl":"/residents/health_and_wellness/family_mediation"},{"attributes":{"menunumber":"12"},"value":"4293913","navigateUrl":"/residents/health_and_wellness/immunizations"},{"attributes":{"menunumber":"13"},"value":"5402797","navigateUrl":"/residents/health_and_wellness/family_and_child_health"},{"attributes":{"menunumber":"14"},"value":"4293919","navigateUrl":"/residents/health_and_wellness/poverty_and_homelessness"},{"attributes":{"menunumber":"15"},"value":"4293921","navigateUrl":"/residents/health_and_wellness/prevention","target":"_blank"},{"attributes":{"menunumber":"16"},"value":"5482301","navigateUrl":"/residents/health_and_wellness/public_health"},{"attributes":{"menunumber":"17"},"value":"4293997","navigateUrl":"/residents/health_and_wellness/restaurant_inspections"},{"attributes":{"menunumber":"18"},"value":"4294029","navigateUrl":"/residents/health_and_wellness/women__infants_and_children___w_i_c_"}],"value":"3711376","navigateUrl":"/residents/health_and_wellness"},{"attributes":{"menunumber":"19"},"value":"5842327","navigateUrl":"/residents/jobs"},{"attributes":{"menunumber":"20"},"value":"5846720","navigateUrl":"/residents/maps"},{"attributes":{"menunumber":"21"},"value":"5842333","navigateUrl":"/residents/marriage_licenses"},{"attributes":{"menunumber":"22"},"value":"5575109","navigateUrl":"/residents/property_and_buildings"},{"attributes":{"menunumber":"23"},"value":"5829504","navigateUrl":"/residents/property_taxes"},{"attributes":{"menunumber":"24"},"items":[{"attributes":{"menunumber":"25"},"value":"5373381","navigateUrl":"/residents/public_safety_and_justice/civil_process"},{"attributes":{"menunumber":"26"},"value":"4294656","navigateUrl":"/residents/public_safety_and_justice/concealed_handgun_license"},{"attributes":{"menunumber":"27"},"value":"4294658","navigateUrl":"/residents/public_safety_and_justice/crime_mapping","target":"_blank"},{"attributes":{"menunumber":"28"},"value":"5373377","navigateUrl":"/residents/public_safety_and_justice/fingerprint_services"},{"attributes":{"menunumber":"29"},"value":"4294761","navigateUrl":"/residents/public_safety_and_justice/jail___inmate_records_and_information"},{"attributes":{"menunumber":"30"},"value":"4294788","navigateUrl":"/residents/public_safety_and_justice/lane_county_circuit_court","target":"_blank"},{"attributes":{"menunumber":"31"},"value":"6255561","navigateUrl":"/residents/public_safety_and_justice/my_law_and_fire_providers"},{"attributes":{"menunumber":"32"},"value":"5321352","navigateUrl":"/residents/public_safety_and_justice/report_a_crime"},{"attributes":{"menunumber":"33"},"value":"4294800","navigateUrl":"/residents/public_safety_and_justice/victim_services"}],"value":"3719637","navigateUrl":"/residents/public_safety_and_justice"},{"attributes":{"menunumber":"34"},"value":"3719796","navigateUrl":"/residents/vital_records"},{"attributes":{"menunumber":"35"},"value":"5482344","navigateUrl":"/residents/recycling_and_waste"},{"attributes":{"menunumber":"36"},"value":"5845103","navigateUrl":"/residents/veterans_services","target":"_blank"},{"attributes":{"menunumber":"37"},"value":"5845104","navigateUrl":"/residents/youth_services"}],"value":"3711295","navigateUrl":"/residents"},{"attributes":{"menunumber":"38"},"items":[{"attributes":{"menunumber":"39"},"value":"3719027","navigateUrl":"/business/auction__sales"},{"attributes":{"menunumber":"40"},"value":"5628537","navigateUrl":"/business/bids__r_f_ps__solicitations"},{"attributes":{"menunumber":"41"},"value":"5464126","navigateUrl":"/business/CommunityandEconomicDevelopment"},{"attributes":{"menunumber":"42"},"items":[{"attributes":{"menunumber":"43"},"value":"3719683","navigateUrl":"/business/inspections___permits/restaurant_inspections"}],"value":"3719660","navigateUrl":"/business/inspections___permits"},{"attributes":{"menunumber":"44"},"value":"5842313","navigateUrl":"/business/lane_events_center"},{"attributes":{"menunumber":"45"},"value":"5846719","navigateUrl":"/business/maps"},{"attributes":{"menunumber":"46"},"value":"3719733","navigateUrl":"/business/property___buildings"},{"attributes":{"menunumber":"47"},"value":"5307241","navigateUrl":"/business/property_taxes"},{"attributes":{"menunumber":"48"},"value":"3719786","navigateUrl":"/business/public_safety"},{"attributes":{"menunumber":"49"},"value":"5842946","navigateUrl":"/business/recycling_and_waste"},{"attributes":{"menunumber":"50"},"value":"3719877","navigateUrl":"/business/transportation"}],"value":"3711301","navigateUrl":"/business"},{"attributes":{"menunumber":"51"},"items":[{"attributes":{"menunumber":"52"},"value":"4857722","navigateUrl":"/government/Advisory_Committees_and_Boards"},{"attributes":{"menunumber":"53"},"value":"4874932","navigateUrl":"/government/Board_of_Commissioner_Meetings"},{"attributes":{"menunumber":"54"},"value":"4869980","navigateUrl":"/government/Board_of_County_Commissioners"},{"attributes":{"menunumber":"55"},"items":[{"attributes":{"menunumber":"56"},"value":"4199959","navigateUrl":"/government/budget_and_finance/budget_and_financial_planning"},{"attributes":{"menunumber":"57"},"value":"4199963","navigateUrl":"/government/budget_and_finance/financial_services"},{"attributes":{"menunumber":"58"},"value":"4199966","navigateUrl":"/government/budget_and_finance/capital_projects"},{"attributes":{"menunumber":"59"},"value":"4199973","navigateUrl":"/government/budget_and_finance/procurement_and_purchasing"}],"value":"3720041","navigateUrl":"/government/budget_and_finance"},{"attributes":{"menunumber":"60"},"items":[{"attributes":{"menunumber":"61"},"value":"5843010","navigateUrl":"/government/Cities/map_of_lane_county_cities","target":"_blank"}],"value":"5843009","navigateUrl":"/government/Cities"},{"attributes":{"menunumber":"62"},"value":"20230964","navigateUrl":"/government/community___economic_development"},{"attributes":{"menunumber":"63"},"items":[{"attributes":{"menunumber":"64"},"value":"3720150","navigateUrl":"/government/county_departments/assessment___taxation"},{"attributes":{"menunumber":"65"},"value":"3720153","navigateUrl":"/government/county_departments/board_of_county_commissioners"},{"attributes":{"menunumber":"66"},"value":"19124206","navigateUrl":"/government/county_departments/community_justice_rehabilitation_services"},{"attributes":{"menunumber":"67"},"value":"3720159","navigateUrl":"/government/county_departments/county_administration"},{"attributes":{"menunumber":"68"},"value":"3720162","navigateUrl":"/government/county_departments/county_counsel"},{"attributes":{"menunumber":"69"},"value":"3720169","navigateUrl":"/government/county_departments/district_attorney_s_office"},{"attributes":{"menunumber":"70"},"value":"4182678","navigateUrl":"/government/county_departments/emergency_management"},{"attributes":{"menunumber":"71"},"value":"3720173","navigateUrl":"/government/county_departments/health_and_human_services"},{"attributes":{"menunumber":"72"},"value":"3720175","navigateUrl":"/government/county_departments/housing_authority"},{"attributes":{"menunumber":"73"},"value":"3720179","navigateUrl":"/government/county_departments/human_resources","cssClass":"rmSelected"},{"attributes":{"menunumber":"74"},"value":"3720188","navigateUrl":"/government/county_departments/public_works"},{"attributes":{"menunumber":"75"},"value":"3720192","navigateUrl":"/government/county_departments/sheriff_s_office"},{"attributes":{"menunumber":"76"},"value":"3720182","navigateUrl":"/government/county_departments/information_services"}],"value":"3720145","navigateUrl":"/government/county_departments","cssClass":"rmSelected"},{"attributes":{"menunumber":"77"},"value":"5358429","navigateUrl":"/government/elections"},{"attributes":{"menunumber":"78"},"value":"16868912","navigateUrl":"/government/EquityandAccess"},{"attributes":{"menunumber":"79"},"value":"5307244","navigateUrl":"/government/property_and_taxes"},{"attributes":{"menunumber":"80"},"value":"5847303","navigateUrl":"/government/records"},{"attributes":{"menunumber":"81"},"value":"12441564","navigateUrl":"/government/StrategicPlanning"}],"value":"3711304","selected":true,"navigateUrl":"/government","cssClass":"rmSelected"},{"attributes":{"menunumber":"82"},"items":[{"attributes":{"menunumber":"83"},"items":[{"attributes":{"menunumber":"84"},"value":"4296158","navigateUrl":"/how_do_i/apply/advisory_committees"},{"attributes":{"menunumber":"85"},"value":"4296162","navigateUrl":"/how_do_i/apply/building_permits","target":"_blank"},{"attributes":{"menunumber":"86"},"value":"4296165","navigateUrl":"/how_do_i/apply/concealed_handgun_license"},{"attributes":{"menunumber":"87"},"value":"4296172","navigateUrl":"/how_do_i/apply/developmental_disabilities_services"},{"attributes":{"menunumber":"88"},"value":"4296177","navigateUrl":"/how_do_i/apply/food_handler_s_permit"},{"attributes":{"menunumber":"89"},"value":"17696959","navigateUrl":"/how_do_i/apply/jobs"},{"attributes":{"menunumber":"90"},"value":"4296186","navigateUrl":"/how_do_i/apply/land_use_application_forms"},{"attributes":{"menunumber":"91"},"value":"4296190","navigateUrl":"/how_do_i/apply/marriage_license"},{"attributes":{"menunumber":"92"},"value":"5482321","navigateUrl":"/how_do_i/apply/master_recycler_program"},{"attributes":{"menunumber":"93"},"value":"4296192","navigateUrl":"/how_do_i/apply/park_host","target":"_blank"},{"attributes":{"menunumber":"94"},"value":"4296205","navigateUrl":"/how_do_i/apply/pet_adoption"},{"attributes":{"menunumber":"95"},"value":"4296196","navigateUrl":"/how_do_i/apply/pet_licensing"},{"attributes":{"menunumber":"96"},"value":"20827478","navigateUrl":"/how_do_i/apply/temporary_food_events"},{"attributes":{"menunumber":"97"},"value":"20978585","navigateUrl":"/how_do_i/apply/title_III"},{"attributes":{"menunumber":"98"},"value":"4296233","navigateUrl":"/how_do_i/apply/veterans_services"},{"attributes":{"menunumber":"99"},"value":"4296251","navigateUrl":"/how_do_i/apply/women__infants_and_children___w_i_c_"}],"value":"4296149","navigateUrl":"/how_do_i/apply"},{"attributes":{"menunumber":"100"},"items":[{"attributes":{"menunumber":"101"},"value":"4198668","navigateUrl":"/how_do_i/appeals/property_value_appeals"},{"attributes":{"menunumber":"102"},"value":"4198689","navigateUrl":"/how_do_i/appeals/building_inspection_appeals"},{"attributes":{"menunumber":"103"},"value":"20978558","navigateUrl":"/how_do_i/appeals/chapter_14___application_review_and_appeals_"}],"value":"3719862","navigateUrl":"/how_do_i/appeals"},{"attributes":{"menunumber":"104"},"value":"5585376","navigateUrl":"/how_do_i/contact_us"},{"attributes":{"menunumber":"105"},"items":[{"attributes":{"menunumber":"106"},"value":"5951613","navigateUrl":"/how_do_i/purchase__pay/fleet_auction"},{"attributes":{"menunumber":"107"},"value":"4296341","navigateUrl":"/how_do_i/purchase__pay/inmate_commissary_accounts"},{"attributes":{"menunumber":"108"},"value":"4296879","navigateUrl":"/how_do_i/purchase__pay/lane_county_justice_court_fees"},{"attributes":{"menunumber":"109"},"value":"5401581","navigateUrl":"/how_do_i/purchase__pay/lane_county_park_passes"},{"attributes":{"menunumber":"110"},"value":"5316426","navigateUrl":"/how_do_i/purchase__pay/maps_and_g_i_s_data"},{"attributes":{"menunumber":"111"},"value":"4296888","navigateUrl":"/how_do_i/purchase__pay/parole___probation_fees"},{"attributes":{"menunumber":"112"},"value":"5491370","navigateUrl":"/how_do_i/purchase__pay/PayingProptertyTaxes"},{"attributes":{"menunumber":"113"},"value":"4296897","navigateUrl":"/how_do_i/purchase__pay/sheriff_s_office_real_property_sales"}],"value":"4296267","navigateUrl":"/how_do_i/purchase__pay"},{"attributes":{"menunumber":"114"},"items":[{"attributes":{"menunumber":"115"},"value":"4296928","navigateUrl":"/how_do_i/report/animal_complaints"},{"attributes":{"menunumber":"116"},"value":"20680866","navigateUrl":"/how_do_i/report/civil_rights_complaint"},{"attributes":{"menunumber":"117"},"value":"5402803","navigateUrl":"/how_do_i/report/diseases"},{"attributes":{"menunumber":"118"},"value":"4296982","navigateUrl":"/how_do_i/report/found_or_lost_pets"},{"attributes":{"menunumber":"119"},"value":"5401463","navigateUrl":"/how_do_i/report/illegal_dump_site"},{"attributes":{"menunumber":"120"},"value":"7238313","navigateUrl":"/how_do_i/report/injury_or_damage_claims"},{"attributes":{"menunumber":"121"},"value":"7238488","navigateUrl":"/how_do_i/report/property_and_building_violations"},{"attributes":{"menunumber":"122"},"value":"5320810","navigateUrl":"/how_do_i/report/report_crime"},{"attributes":{"menunumber":"123"},"value":"4297117","navigateUrl":"/how_do_i/report/road_and_road_sign_issues"}],"value":"4296906","navigateUrl":"/how_do_i/report"},{"attributes":{"menunumber":"124"},"items":[{"attributes":{"menunumber":"125"},"value":"5951585","navigateUrl":"/how_do_i/request/absentee_ballot"},{"attributes":{"menunumber":"126"},"value":"4297143","navigateUrl":"/how_do_i/request/adult_corrections_records"},{"attributes":{"menunumber":"127"},"value":"4297146","navigateUrl":"/how_do_i/request/birth_and_death_certificates"},{"attributes":{"menunumber":"128"},"value":"4297147","navigateUrl":"/how_do_i/request/county_maps"},{"attributes":{"menunumber":"129"},"value":"4297152","navigateUrl":"/how_do_i/request/public_records"},{"attributes":{"menunumber":"130"},"value":"5197792","navigateUrl":"/how_do_i/request/police_reports_and_incident_logs"}],"value":"4297140","navigateUrl":"/how_do_i/request"},{"attributes":{"menunumber":"131"},"items":[{"attributes":{"menunumber":"132"},"value":"4297159","navigateUrl":"/how_do_i/reserve/camp_lane"},{"attributes":{"menunumber":"133"},"value":"5952112","navigateUrl":"/how_do_i/reserve/campsite__picnic_shelter_and_marina_reservations"},{"attributes":{"menunumber":"134"},"value":"8968241","navigateUrl":"/how_do_i/reserve/electricity_in_the_free_speech_plaza"},{"attributes":{"menunumber":"135"},"value":"4297163","navigateUrl":"/how_do_i/reserve/lane_events_center","target":"_blank"},{"attributes":{"menunumber":"136"},"value":"4297178","navigateUrl":"/how_do_i/reserve/meeting_rooms"}],"value":"4297156","navigateUrl":"/how_do_i/reserve"},{"attributes":{"menunumber":"137"},"items":[{"attributes":{"menunumber":"138"},"value":"5952126","navigateUrl":"/how_do_i/sign_up_for/board_meeting_notifications"},{"attributes":{"menunumber":"139"},"value":"5952127","navigateUrl":"/how_do_i/sign_up_for/key_communicator_network","target":"_blank"},{"attributes":{"menunumber":"140"},"value":"4297196","navigateUrl":"/how_do_i/sign_up_for/master_recycler_program"},{"attributes":{"menunumber":"141"},"value":"4297199","navigateUrl":"/how_do_i/sign_up_for/register_to_vote","target":"_blank"}],"value":"4297181","navigateUrl":"/how_do_i/sign_up_for"},{"attributes":{"menunumber":"142"},"items":[{"attributes":{"menunumber":"143"},"value":"4297207","navigateUrl":"/how_do_i/view/board_meeting_agendas"},{"attributes":{"menunumber":"144"},"value":"6368707","navigateUrl":"/how_do_i/view/BoardVideosandWebcasts"},{"attributes":{"menunumber":"145"},"value":"4297215","navigateUrl":"/how_do_i/view/county_budget"},{"attributes":{"menunumber":"146"},"value":"4297949","navigateUrl":"/how_do_i/view/county_departments"},{"attributes":{"menunumber":"147"},"value":"17770088","navigateUrl":"/how_do_i/view/c_o_v_i_d-19_info"},{"attributes":{"menunumber":"148"},"value":"5372884","navigateUrl":"/how_do_i/view/crime_mapping_online"},{"attributes":{"menunumber":"149"},"value":"4297958","navigateUrl":"/how_do_i/view/election_results"},{"attributes":{"menunumber":"150"},"value":"4297969","navigateUrl":"/how_do_i/view/fee_schedule"},{"attributes":{"menunumber":"151"},"value":"6372215","navigateUrl":"/how_do_i/view/financial_reports"},{"attributes":{"menunumber":"152"},"value":"5952131","navigateUrl":"/how_do_i/view/find_my_elected_official"},{"attributes":{"menunumber":"153"},"value":"5372885","navigateUrl":"/how_do_i/view/civil_foreclosure_-_real_and_personal_property_sales"},{"attributes":{"menunumber":"154"},"value":"5320835","navigateUrl":"/how_do_i/view/jail___inmate_information"},{"attributes":{"menunumber":"155"},"value":"4297991","navigateUrl":"/how_do_i/view/lane_code"},{"attributes":{"menunumber":"156"},"value":"18344846","navigateUrl":"/how_do_i/view/lane_county_webcams","target":"_blank"},{"attributes":{"menunumber":"157"},"value":"4297993","navigateUrl":"/how_do_i/view/lane_manual"},{"attributes":{"menunumber":"158"},"value":"6109980","navigateUrl":"/how_do_i/view/OrdersOrdinancesMinutes"},{"attributes":{"menunumber":"159"},"value":"5396116","navigateUrl":"/how_do_i/view/property_information_lookup","target":"_blank"},{"attributes":{"menunumber":"160"},"value":"12798993","navigateUrl":"/how_do_i/view/recycling_and_waste"},{"attributes":{"menunumber":"161"},"value":"5952133","navigateUrl":"/how_do_i/view/surveyor_documents"},{"attributes":{"menunumber":"162"},"value":"7842434","navigateUrl":"/how_do_i/view/webcasts"}],"value":"4297202","navigateUrl":"/how_do_i/view"},{"attributes":{"menunumber":"163"},"items":[{"attributes":{"menunumber":"164"},"value":"4298049","navigateUrl":"/how_do_i/volunteer_for/animal_services"},{"attributes":{"menunumber":"165"},"value":"16715607","navigateUrl":"/how_do_i/volunteer_for/parks"},{"attributes":{"menunumber":"166"},"value":"6110235","navigateUrl":"/how_do_i/volunteer_for/Committee"},{"attributes":{"menunumber":"167"},"value":"4298050","navigateUrl":"/how_do_i/volunteer_for/sheriff_s_office"},{"attributes":{"menunumber":"168"},"value":"4298053","navigateUrl":"/how_do_i/volunteer_for/victim_services"},{"attributes":{"menunumber":"169"},"value":"4298067","navigateUrl":"/how_do_i/volunteer_for/volunteer_form"}],"value":"4298041","navigateUrl":"/how_do_i/volunteer_for"},{"attributes":{"menunumber":"170"},"value":"17118021","navigateUrl":"/how_do_i/vote"}],"value":"3711307","navigateUrl":"/how_do_i"},{"attributes":{"menunumber":"171"},"items":[{"attributes":{"menunumber":"172"},"value":"13469162","navigateUrl":"/servicios/actas_de_nacimiento_y_defunci_n"},{"attributes":{"menunumber":"173"},"value":"13469094","navigateUrl":"/servicios/licencia_de_matrimonio"},{"attributes":{"menunumber":"174"},"value":"13469206","navigateUrl":"/servicios/licencia_para_mascotas"},{"attributes":{"menunumber":"175"},"value":"13469185","navigateUrl":"/servicios/mujeres__beb_s_y_ni_os___w_i_c_"},{"attributes":{"menunumber":"176"},"value":"13469179","navigateUrl":"/servicios/permiso_para_manejar_alimentos"},{"attributes":{"menunumber":"177"},"value":"13469183","navigateUrl":"/servicios/programa_de_inmunizaci_n"},{"attributes":{"menunumber":"178"},"value":"13469133","navigateUrl":"/servicios/registros_p_blicos"},{"attributes":{"menunumber":"179"},"value":"13477907","navigateUrl":"/servicios/servicios_de_discapacidades_del_dessarrolla"},{"attributes":{"menunumber":"180"},"value":"13469152","navigateUrl":"/servicios/servicios_para_las_victimas"},{"attributes":{"menunumber":"181"},"value":"16521150","navigateUrl":"/servicios/sobreCOVID-19"}],"value":"13468792","navigateUrl":"/servicios"}]}, {"itemClicking":ClickItem}, null, $get("ctl00_ContentPlaceHolder1_ctl01_radmenu"));
+});
+//]]>
+</script>
+</form>
+    <script type="text/javascript">
+        window.isMobile = 0 == 1;
+    </script>
+</body>
+</html>
+

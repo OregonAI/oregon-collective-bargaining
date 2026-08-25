@@ -1,6 +1,6 @@
 # STATUS — Oregon Collective Bargaining — State and County Labor Agreements
 
-Generated 2026-08-24. Non-authoritative; see DISCLAIMER.md.
+Generated 2026-08-25. Non-authoritative; see DISCLAIMER.md.
 
 ## Documents by type
 
@@ -13,7 +13,7 @@ Generated 2026-08-24. Non-authoritative; see DISCLAIMER.md.
 
 ## Source manifest
 
-680 declared source(s) across 12 group(s) in `sources`.
+677 declared source(s) across 12 group(s) in `sources`.
 
 ## Freshness (reverify every 180 days)
 
