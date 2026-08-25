@@ -25,7 +25,7 @@ sources:
   url: https://multco.us/file/afscme%5Flocal%5F88%5Fcba%5F2025%5F-%5F2028/download
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "cc433e88ad2f12ab73ecc73ae59a6bfa2fbec15eee2750eec239f40108f31f0e"
   title: AFSCME Local 88 CBA 2025 - 2028
   term: 2025-2028
   last_checked: '2026-08-02'
@@ -33,7 +33,7 @@ sources:
   url: https://multco.us/file/dentists%5Fafscme%5Flocal%5F88-5%5F2023-2026/download
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "9c9f3d080f3fc55868e921edef6aef098001b0ac1398ef4f8f6ef5cc305ccbc6"
   title: Dentists AFSCME Local 88-5 2023-2026
   term: 2023-2026
   last_checked: '2026-08-02'
@@ -41,7 +41,7 @@ sources:
   url: https://multco.us/file/federation%5Fof%5Fparole%5Fand%5Fprobation%5Fofficers%5F2024-2027%5Fcontract/download
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "0587bdd757fa85e9636eeaf1d4d0803fc20d329626e4aff4cdf54e335b29a718"
   title: Federation of Parole and Probation Officers 2024-2027 Contract
   term: 2024-2027
   last_checked: '2026-08-02'
@@ -49,7 +49,7 @@ sources:
   url: https://multco.us/file/%5Finternational%5Fbrotherhood%5Fof%5Felectrical%5Fworkers%5F%28ibew%29%5Flocal%5F48%5F2023-2027%5Flabor%5Fcontract/download
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "785967b7f4ac823e9c956b3e579706244fdeef9453b6fdd031235251138b9c08"
   title: International Brotherhood of Electrical Workers (IBEW) Local 48 2023-2027 Labor Contract
   term: 2023-2027
   last_checked: '2026-08-02'
@@ -57,7 +57,7 @@ sources:
   url: https://multco.us/file/juvenile%5Fcustody%5Fservices%5Fspecialists%5Fcba%5F2023%5F-%5F2026/download
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "90a98f33b73ffb93e30474f565116b7bdc4c2ec22052ff7a837634ffcdbfc97d"
   title: Juvenile Custody Services Specialists CBA 2023 - 2026
   term: 2023-2026
   last_checked: '2026-08-02'
@@ -65,7 +65,7 @@ sources:
   url: https://multco.us/file/multnomah%5Fcounty%5Fcorrections%5Fdeputy%5Fassociation%5F%282025-2028%29/download
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "abe414946ad0a3bdc76f04463e786a3f5c9d2dc446375e978b7e17600ab86487"
   title: Multnomah County Corrections Deputy Association (2025-2028)
   term: 2025-2028
   last_checked: '2026-08-02'
@@ -73,7 +73,7 @@ sources:
   url: https://multco.us/file/multnomah%5Fcounty%5Fdeputy%5Fsheriff%27s%5Fassociation%5F%28dsa%29%5F%282022-2026%29/download
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "0f04f6a7279520730e5dc56af59b9003000e2b46a4161f841f17137bca19830d"
   title: Multnomah County Deputy Sheriff's Association (DSA) (2022-2026)
   term: 2022-2026
   last_checked: '2026-08-02'
@@ -81,7 +81,7 @@ sources:
   url: https://multco.us/file/operating%5Fengineers%5Flocal%5F701%5Fcontract%5F2022-2027/download
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "55adbea1c6ff21b40dd4618dc9c41eb63997a8cd285b803b7fcf3de018a03994"
   title: Operating Engineers Local 701 Contract 2022-2027
   term: 2022-2027
   last_checked: '2026-08-02'
@@ -89,7 +89,7 @@ sources:
   url: https://multco.us/file/oregon%5Fnurses%5Fassociation%5Fcontract%5F2025%5F-%5F2028/download
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "31acc8f09883a36cb191be7700ce6979688e707d7434a2fae46425ed2cb053f7"
   title: Oregon Nurses Association Contract 2025 - 2028
   term: 2025-2028
   last_checked: '2026-08-02'
@@ -97,7 +97,7 @@ sources:
   url: https://multco.us/file/painters%5F%26%5Fallied%5Ftrades%5Flabor%5Fcontract%5F2023-2027-1/download
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "453d3c6b0f96e4b301199dab340eabaee2a92a9548fb4f7421a98747b3e5b549"
   title: Painters & Allied Trades Labor Contract 2023-2027
   term: 2023-2027
   last_checked: '2026-08-02'
@@ -105,7 +105,7 @@ sources:
   url: https://multco.us/file/physicians%5Fand%5Fpsychiatrists%5Fcba%5F%282025%5F-%5F2028%29/download
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "4eba0f6a1648155857096009a74baa146f8f9d0a5141ce39105adaa6dcfab19d"
   title: Physicians and Psychiatrists CBA (2025 - 2028)
   term: 2025-2028
   last_checked: '2026-08-02'
@@ -113,7 +113,7 @@ sources:
   url: https://multco.us/file/prosecuting%5Fattorneys%5Fcba%5F2025%5F-%5F2029/download
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "9df3ff512c5a472002228c78652fc3d6e49757dced66a588bb0de31fa560d74d"
   title: Prosecuting Attorneys CBA 2025 - 2029
   term: 2025-2029
   last_checked: '2026-08-02'
@@ -121,7 +121,7 @@ sources:
   url: https://multco.us/file/pharmacists%5F2025-2028%5Fcba%5Ffinal.pdf/download
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "aa0785df089c135cbf4dbe2e6349830bbeb4aaab720c274c28e7ba41ae530f1c"
   title: Pharmacists 2025-2028 CBA Final.pdf
   term: 2025-2028
   last_checked: '2026-08-02'
