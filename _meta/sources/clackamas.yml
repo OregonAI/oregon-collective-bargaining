@@ -35,7 +35,7 @@ sources:
   format: pdf
   sha256: "fa9edb566a6debebaa1016f97cf513b49f6cf226293b4da167a56e1bd82474cf"
   title: 2023-26 Ratification MOA
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
   notes: dochub CDN uuid URL — no filename, stability unproven; hash on first fetch.
 - id: clackamas-ccom-central-communications-9-1-1
   url: https://www.clackamas.us/des/ccom-central-communications-9-1-1
@@ -43,7 +43,7 @@ sources:
   format: html
   sha256: "918234af30342e4ea02d2a81ead4ae046503a7b3e7a06ed6068cc6326f1d8198"
   title: CCOM - Central Communications 9-1-1
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
   notes: Intermediate HTML page for this unit/instrument — the document is a second hop behind it; resolve
     and hash the target at ingest.
 - id: clackamas-wes-water-environment-services
@@ -52,7 +52,7 @@ sources:
   format: html
   sha256: "4078cf5e2a603b11cf6db93fb2c0d12f6a7ce77b2602d66af1b614f636a140de"
   title: WES - Water Environment Services
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
   notes: Intermediate HTML page for this unit/instrument — the document is a second hop behind it; resolve
     and hash the target at ingest.
 - id: clackamas-a10-vacation-sell-back-adjustment
@@ -61,7 +61,7 @@ sources:
   format: html
   sha256: "3d2c7112152ca47ac148436e2978f9e1b774cc0885724195a2a1db2c8607a257"
   title: A10 - Vacation Sell-Back Adjustment
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
   notes: Intermediate HTML page for this unit/instrument — the document is a second hop behind it; resolve
     and hash the target at ingest.
 - id: clackamas-employee-association
@@ -70,7 +70,7 @@ sources:
   format: html
   sha256: "d7886f8e90bc1df0beedbf9c0c8bc25c850ec8c56b1a9cf285dcd9a23f981a00"
   title: Employee Association
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
   notes: Intermediate HTML page for this unit/instrument — the document is a second hop behind it; resolve
     and hash the target at ingest.
 - id: clackamas-housing-authority-of-clackamas-county-employee-association-eaha
@@ -79,7 +79,7 @@ sources:
   format: html
   sha256: "456041f703587025b1492bdc2f00e6a1da6eac1cd6138d49acbf528eda4fd5d6"
   title: Housing Authority of Clackamas County Employee Association (EAHA)
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
   notes: Intermediate HTML page for this unit/instrument — the document is a second hop behind it; resolve
     and hash the target at ingest.
 - id: clackamas-employee-association-part-time-temporary-eat
@@ -88,7 +88,7 @@ sources:
   format: html
   sha256: "ea3daa579e06a9e3dd1601e95f0419b5ee927f46c57a9051f65560d66df87219"
   title: Employee Association Part-Time/Temporary (EAT)
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
   notes: Intermediate HTML page for this unit/instrument — the document is a second hop behind it; resolve
     and hash the target at ingest.
 - id: clackamas-vacation-sell-back-adjustment
@@ -97,7 +97,7 @@ sources:
   format: html
   sha256: "a982cc0684dcfb0715e3cb30eafc861dd6fc885e11266414784b6aa02907a276"
   title: Vacation Sell-Back Adjustment
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
   notes: Intermediate HTML page for this unit/instrument — the document is a second hop behind it; resolve
     and hash the target at ingest.
 - id: clackamas-federation-of-probation-and-parole-officers
@@ -106,7 +106,7 @@ sources:
   format: html
   sha256: "ee551dd676505b65ed71ee2d35a6beca9dc735330923734fb6a98de5268fb436"
   title: Federation of Probation and Parole Officers
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
   notes: Intermediate HTML page for this unit/instrument — the document is a second hop behind it; resolve
     and hash the target at ingest.
 - id: clackamas-clackamas-county-peace-officers-association-ccpoa
@@ -115,7 +115,7 @@ sources:
   format: html
   sha256: "e163cbf494d3ac5475bee23da736448807463b3141c557ba97c95394b645e90f"
   title: Clackamas County Peace Officers Association (CCPOA)
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
   notes: Intermediate HTML page for this unit/instrument — the document is a second hop behind it; resolve
     and hash the target at ingest.
 - id: clackamas-a1-corrections-division-of-ccso
@@ -124,7 +124,7 @@ sources:
   format: html
   sha256: "4b8f48ae99fadc4f5e6446a2dbbb2ea43237a1dcb757e31bcdc37d8562389524"
   title: A1 - Corrections Division of CCSO
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
   notes: Intermediate HTML page for this unit/instrument — the document is a second hop behind it; resolve
     and hash the target at ingest.
 - id: clackamas-a4-sro-schedule
@@ -133,7 +133,7 @@ sources:
   format: html
   sha256: "1b499fea1f0d8be7279073ea7907f47aae8025f4c035a4c78cd4dc90fd50ad39"
   title: A4 - SRO Schedule
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
   notes: Intermediate HTML page for this unit/instrument — the document is a second hop behind it; resolve
     and hash the target at ingest.
 - id: clackamas-a6-bumping-when-on-leave
@@ -142,7 +142,7 @@ sources:
   format: html
   sha256: "2dd1c407639f1de5fd7b031f0ba6c5db0c5e072fbb496827dc6fdbdb6b7005d6"
   title: A6 - Bumping when on Leave
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
   notes: Intermediate HTML page for this unit/instrument — the document is a second hop behind it; resolve
     and hash the target at ingest.
 - id: clackamas-a14-fourth-shift-clarification
@@ -151,7 +151,7 @@ sources:
   format: html
   sha256: "9318c293fe210a95cb566e87edf4f32c9e639b0cee3e1026428f4912f44ae9bf"
   title: A14 - Fourth Shift Clarification
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
   notes: Intermediate HTML page for this unit/instrument — the document is a second hop behind it; resolve
     and hash the target at ingest.
 - id: clackamas-a28-retire-rehire-leave-accrural
@@ -160,7 +160,7 @@ sources:
   format: html
   sha256: "f3856ddec1508e67f3198b65ece99880e845c8d45c86e058670aaacc5de288b8"
   title: A28 - Retire Rehire Leave Accrural
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
   notes: Intermediate HTML page for this unit/instrument — the document is a second hop behind it; resolve
     and hash the target at ingest.
 - id: clackamas-a31-det-and-evidence-tech-incentive-pay
@@ -169,7 +169,7 @@ sources:
   format: html
   sha256: "497a51347f226d4e38354df5d1aaefe10343697500cd2f2ecf0b9b14a2813944"
   title: A31- Det. and Evidence Tech Incentive Pay
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
   notes: Intermediate HTML page for this unit/instrument — the document is a second hop behind it; resolve
     and hash the target at ingest.
 - id: clackamas-ftep-probationary-period
@@ -178,7 +178,7 @@ sources:
   format: html
   sha256: "68f383dccc332cc3ee6c48f0f8614aca0e0a73893e9cf22f052dcdf87be42746"
   title: FTEP Probationary Period
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
   notes: Intermediate HTML page for this unit/instrument — the document is a second hop behind it; resolve
     and hash the target at ingest.
 - id: clackamas-detective-and-avidence-technician-incentive-pay-program
@@ -187,7 +187,7 @@ sources:
   format: html
   sha256: "c71876903aa4beb09e3e7066080fa03237d391cb48626080fbbfa3cdbe8af8e9"
   title: Detective and Avidence Technician Incentive Pay Program
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
   notes: Intermediate HTML page for this unit/instrument — the document is a second hop behind it; resolve
     and hash the target at ingest.
 - id: clackamas-search-and-rescue-coordinators
@@ -196,7 +196,7 @@ sources:
   format: html
   sha256: "f02802c19dfa0c5b3c26e2af69961b54f6ca22d8fe65dba3a14212b13c9d750b"
   title: Search and Rescue Coordinators
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
   notes: Intermediate HTML page for this unit/instrument — the document is a second hop behind it; resolve
     and hash the target at ingest.
 - id: clackamas-graveyard-shift-differential
@@ -205,6 +205,6 @@ sources:
   format: html
   sha256: "855d155511131a0c031e456e80599bab1be885b8e6d2a33d538d37730f28aff3"
   title: Graveyard Shift Differential
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
   notes: Intermediate HTML page for this unit/instrument — the document is a second hop behind it; resolve
     and hash the target at ingest.

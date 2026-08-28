@@ -60,6 +60,8 @@ from pathlib import Path
 
 import yaml
 
+from _manifest_baseline import Quoted as _Quoted, carry_recorded_sha256, quoted_representer as _quoted
+
 REPO_ROOT = Path(__file__).resolve().parent.parent
 GROUP_FILE = REPO_ROOT / "_meta" / "sources" / "state.yml"
 ROSTER_FILE = REPO_ROOT / "_meta" / "state-roster-2025-2027.yml"
@@ -106,6 +108,39 @@ def union_of(name: str) -> str | None:
         return "ONA"
     tok = name.split()[0]
     return tok if tok in UNION_PREFIXES else None
+
+
+class _Dumper(yaml.SafeDumper):
+    pass
+
+
+_Dumper.add_representer(_Quoted, _quoted)
+
+
+def _carry_recorded(sources: list[dict]) -> None:
+    """Carry a recorded `sha256` across from the committed manifest, keyed on `url`.
+
+    See `_manifest_baseline.carry_recorded_sha256` for the full contract this
+    delegates to (the "two writers, one field", url-vs-id, and last_checked
+    reasoning all live there -- it is shared with `discover_counties.py`'s copy
+    of this same function).
+
+    Without this, every re-run of `enumerate_cbas.py` resets all 512 state-tier
+    baselines to `""`, and the next drift run reports every one of them as newly
+    unseeded -- silently, because a freshly-enumerated group file that "looks right"
+    gives no signal that it just erased history.
+
+    A source enumeration has never seen before still starts empty; that is
+    enumeration's own field to leave alone, and an unseeded source is reported by the
+    drift run rather than hidden here.
+    """
+    if not GROUP_FILE.is_file():
+        return
+    try:
+        held = yaml.safe_load(GROUP_FILE.read_text(encoding="utf-8")) or {}
+    except yaml.YAMLError:
+        return
+    carry_recorded_sha256(held.get("sources") or [], sources)
 
 
 def build_sources(files: list[dict], today: str) -> list[dict]:
@@ -219,7 +254,7 @@ def render(sources: list[dict], report: list[str], today: str) -> str:
             "is normal, and the roster reconciliation names each case."),
         "sources": sources,
     }
-    body = yaml.safe_dump(doc, sort_keys=False, allow_unicode=True, width=100)
+    body = yaml.dump(doc, Dumper=_Dumper, sort_keys=False, allow_unicode=True, width=100)
     return "".join(f"# {l}\n" if l else "#\n" for l in head_lines) + body
 
 
@@ -241,6 +276,7 @@ def main() -> int:
     files = fetch_files()
     today = _dt.date.today().isoformat()
     sources = build_sources(files, today)
+    _carry_recorded(sources)
     report, fatal = reconcile(files, roster)
 
     print(f"library files: {len(files)}   sources: {len(sources)}   "

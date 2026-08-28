@@ -82,3 +82,68 @@ Repo-curation dates only — official effective dates live in frontmatter.
   never presented as executed text — the document, its citation, and the
   citation resolver all say so — but it is the only state-posted copy of the
   ratified master's terms. Flips to superseded when DAS posts the final.
+
+### Fixed
+- 2026-08-27 — `src/enumerate_cbas.py` (issue #14) had no baseline-carrying step:
+  every re-run of the state-tier enumerator reset all 512 recorded `sha256`
+  baselines in `_meta/sources/state.yml` back to `''`, silently, because
+  `build_sources()` always emits an empty hash and nothing carried the
+  committed value forward. `src/discover_counties.py` got this fix for the
+  12 county manifests when the same bug was found there (#58); the state
+  tier — 512 of this corpus's 677 sources, three quarters of the manifest —
+  did not. Reproduced: running the unfixed generator against the live DAS
+  listing turned 0 blank baselines into 512; `git checkout` restored the
+  file. Fixed with the same `_carry_recorded`/`_Quoted` pattern
+  `discover_counties.py` already uses, so the two generators' output stays
+  byte-comparable with what `corpus-detect-changes --record-baseline`
+  writes. Regression-locked in `tests/` (new — this is the first pytest
+  suite in this repo) for both generators; wired into the `generated` CI
+  job. Verified against the live SharePoint listing: `enumerate_cbas.py
+  --check` reports current, and a full re-run changes only the two
+  `last_checked` dates, none of the 512 baselines.
+- 2026-08-28 — Code review of the above (#14) found the regression lock did not
+  lock the regression: both new test files exercised `_carry_recorded()`
+  directly, so 3 of 4 ways the baseline-wipe bug returns — including deleting
+  the single `main()` line that wires `_carry_recorded` into the pipeline —
+  passed every test green. Fixed by adding a `main()`-driven end-to-end test
+  per generator (mocks the network boundary only) and a `render()`
+  quoting test for `discover_counties.py` (the state tier already had one;
+  the county tier did not). Both new end-to-end tests were confirmed to fail
+  against the reintroduced bugs before the fix, and pass against the fix.
+  `_carry_recorded` in both generators now shares one implementation
+  (`src/_manifest_baseline.py`) instead of two near-identical copies, and
+  keys on `url` rather than `id` — #14's Agent Brief named `url` as the
+  reliable join key and warned that an `id` match at a relocated `url` must
+  not inherit that url's baseline; the shipped code carried on `id`. Neither
+  generator now carries `last_checked` forward: it had frozen the state
+  tier's per-source `last_checked` at its original 2026-08-02 seed date
+  forever, contradicting `enumerate_cbas._strip_dates`'s own documented
+  claim that the field "moves on every run by design" (confirmed live: a
+  fresh re-enumeration now advances all 512 dates to the run date while
+  leaving every `sha256` byte-identical). The same freeze was present in the
+  county tier's `_carry_recorded`, undocumented but measurably the same bug
+  (`benton.yml`'s per-source dates were stuck at 2026-08-02 through the
+  2026-08-25 re-survey); fixed there too for consistency, and all 11 county
+  group files were regenerated — the diff is `last_checked` moving from
+  2026-08-02 to the true survey date on already-baselined sources, nothing
+  else. The `.gitignore` comment for `changed-sources.tsv`/`source-outcomes.json`
+  cited "AGENTS.md: both are public surface" — AGENTS.md contains no such
+  sentence; reworded to state the rationale directly. `pip install pytest`
+  in the CI `generated` job was unpinned and undocumented (this repo pins
+  everything else); pytest is now pinned in `requirements-dev.txt` and the
+  suite runs in its own `tests` job. Opened #65 for 6 fetch failures (2
+  Multnomah, 4 Yamhill) that a full live drift run surfaced but that match
+  no open issue and sit under the toolkit's systemic-failure threshold, so
+  they are currently invisible to every gate.
+  **Left open, honestly:** #14's own acceptance criteria "Issues #17–#41 are
+  closed as false positives" and "the next scheduled run opens no
+  source-change issues" are not both met yet. #17–#22 are closed; #23–#41 and
+  #43–#46 (23 issues) are still open — this session's tooling permissions did
+  not allow closing GitHub issues, so they need a human or a differently
+  -permissioned session to close them with the same "false positive of #14"
+  reasoning already used on #17–#22. And #64 (19 Clackamas sources changing
+  together, likely a sitewide alert banner) and #63 (Marion's MCDAA CBA, a
+  genuine content change) mean the next scheduled run WILL open source-change
+  issues for real, current drift — expected and correct, not a regression,
+  but #14 should not be read as having silenced the job; #64 is what would
+  silence the Clackamas noise, and it is diagnosed but not yet fixed.

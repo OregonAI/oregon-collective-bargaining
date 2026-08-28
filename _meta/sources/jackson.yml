@@ -35,7 +35,7 @@ sources:
   sha256: "4d880c0091af5be20e4ba15beab753ef878f7915f47c6c8268849c7f89755cc7"
   title: Federation of Oregon Parole and Probation Officers (FOPPO) Labor Agreement
   term: 2025-2028
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
   notes: Upstream href carries a ?t= cache-buster (dropped here — it moves on every re-upload, so its
     CHANGE is itself an update signal worth checking at re-discovery).
 - id: jackson-jackson-county-employees-association-seiu-opeu-labor-agreement
@@ -44,7 +44,7 @@ sources:
   format: pdf
   sha256: "f49b88ad5dcfc524a9ad0cd9e9c8e4b02f3444d43ae8ee599544c83d22d6017a"
   title: Jackson County Employees' Association (SEIU, OPEU) Labor Agreement
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
   notes: Upstream href carries a ?t= cache-buster (dropped here — it moves on every re-upload, so its
     CHANGE is itself an update signal worth checking at re-discovery).
 - id: jackson-jackson-county-sheriff-s-employees-association-jcsea-labor-agreement
@@ -54,7 +54,7 @@ sources:
   sha256: "c99d09f2375ad0962a369b0c092908d6a2be1fdb48c1511e7c971168d5aeb1df"
   title: Jackson County Sheriff's Employees' Association (JCSEA) Labor Agreement
   term: 2023-2026
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
   notes: Upstream href carries a ?t= cache-buster (dropped here — it moves on every re-upload, so its
     CHANGE is itself an update signal worth checking at re-discovery).
 - id: jackson-jcssa-sheriffs-sergeants-2023-2026-erb-exhibit
@@ -66,7 +66,7 @@ sources:
     copy
   union: JCSSA
   term: 2023-2026
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
   notes: THE ONLY PUBLIC COPY, and it is an Oregon ERB case-file exhibit (case ME-008-26), not a county
     publication — the county's own index does not list this unit. Hand-verified 2026-08-02 (fetched; cover
     page names the association and the 2023-2026 term). An exhibit copy may lag amendments; treat the

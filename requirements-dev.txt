@@ -1,0 +1,9 @@
+# Dev-only dependency, not shipped in the Dockerfile image or requirements.txt:
+# pytest runs the regression suite under tests/ (CI's `tests` job, and locally via
+# `pip install -r requirements-dev.txt && python3 -m pytest tests/`). Pinned like
+# every other dependency in this repo (requirements.txt calls itself "the 8th pin
+# site") -- an unpinned `pip install pytest` at job time was #14's own code review
+# finding: floating in a repo fastidious about pins, in neither this file nor the
+# Dockerfile, so the documented setup could not run tests/ at all. Renovate manages
+# this file the same as the others (see renovate.json).
+pytest==9.1.1
