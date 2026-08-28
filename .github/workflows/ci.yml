@@ -116,6 +116,16 @@ jobs:
       # in scheduled.yml's weekly drift job instead, the oregon-audits arrangement.
       - name: County source groups must be current
         run: python3 src/discover_counties.py --check
+      # Regression lock for the "regeneration wipes recorded drift baselines" bug
+      # (oregon-collective-bargaining#14): unit tests on discover_counties.py's and
+      # enumerate_cbas.py's baseline-carrying logic, run against this repo's own
+      # committed manifests — no network, so this belongs in the PR gate rather than
+      # the scheduled job (unlike enumerate_cbas.py --check itself, which needs the
+      # live SharePoint listing and stays out per the note above).
+      - name: Manifest generators must preserve recorded baselines
+        run: |
+          pip install pytest
+          python3 -m pytest tests/ -q
       # The llms.txt Contents stub must not survive into a real corpus. Five live
       # corpora carried the template's HTML-comment placeholder for weeks — an advertised
       # agent entry point serving an empty index — because nothing ever forced the fill

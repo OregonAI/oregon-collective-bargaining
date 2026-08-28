@@ -11,8 +11,10 @@ __pycache__/
 # is painful to undo later.
 _meta/.cache/
 
-# corpus-detect-changes writes this to the repo root on every run.
+# corpus-detect-changes writes these to the repo root on every run that reaches
+# the fetch loop (AGENTS.md: both are public surface, neither belongs committed).
 changed-sources.tsv
+source-outcomes.json
 
 # GitHub Pages build output, if this corpus publishes a site.
 site/

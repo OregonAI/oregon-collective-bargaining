@@ -108,6 +108,65 @@ def union_of(name: str) -> str | None:
     return tok if tok in UNION_PREFIXES else None
 
 
+class _Quoted(str):
+    """A string this file writes in double quotes.
+
+    ONE FILE, TWO WRITERS, AND THEY DISAGREE ABOUT QUOTING UNLESS TOLD OTHERWISE.
+    `corpus-detect-changes --record-baseline` edits this file line by line and writes
+    `sha256: "abc..."`; `yaml.safe_dump` on a plain str writes `sha256: abc...`.
+    Identical YAML, different bytes -- and a real diff arrives buried in quote churn
+    the moment the other tool touches the file next. `src/discover_counties.py` hit
+    this first for the county tier; this is the same fix for the state tier.
+    """
+
+
+def _quoted(dumper, data):
+    return dumper.represent_scalar("tag:yaml.org,2002:str", str(data), style='"')
+
+
+class _Dumper(yaml.SafeDumper):
+    pass
+
+
+_Dumper.add_representer(_Quoted, _quoted)
+
+
+def _carry_recorded(sources: list[dict]) -> None:
+    """Carry `sha256` (and its `last_checked`) across from the committed manifest.
+
+    TWO WRITERS, ONE FILE, AND ONLY ONE OF THEM OWNS THIS FIELD. Enumeration owns
+    which documents exist -- ids, urls, titles, families, terms -- re-derived fresh
+    from the SharePoint listing every run. The BASELINE is owned by
+    `corpus-detect-changes --record-baseline`, which records what upstream served so
+    drift can be detected later; `build_sources()` always emits `sha256: ""` because
+    it has no way to know that value and must not guess it.
+
+    Without this, every re-run of `enumerate_cbas.py` resets all 512 state-tier
+    baselines to `""`, and the next drift run reports every one of them as newly
+    unseeded -- silently, because a freshly-enumerated group file that "looks right"
+    gives no signal that it just erased history.
+
+    A source enumeration has never seen before still starts empty; that is
+    enumeration's own field to leave alone, and an unseeded source is reported by the
+    drift run rather than hidden here.
+    """
+    if not GROUP_FILE.is_file():
+        return
+    try:
+        held = yaml.safe_load(GROUP_FILE.read_text(encoding="utf-8")) or {}
+    except yaml.YAMLError:
+        return
+    prior = {s["id"]: s for s in (held.get("sources") or []) if isinstance(s, dict)}
+    for s in sources:
+        was = prior.get(s["id"])
+        if not was:
+            continue
+        if was.get("sha256"):
+            s["sha256"] = _Quoted(was["sha256"])
+        if was.get("last_checked"):
+            s["last_checked"] = was["last_checked"]
+
+
 def build_sources(files: list[dict], today: str) -> list[dict]:
     out = []
     for f in sorted(files, key=lambda f: f["Name"].lower()):
@@ -219,7 +278,7 @@ def render(sources: list[dict], report: list[str], today: str) -> str:
             "is normal, and the roster reconciliation names each case."),
         "sources": sources,
     }
-    body = yaml.safe_dump(doc, sort_keys=False, allow_unicode=True, width=100)
+    body = yaml.dump(doc, Dumper=_Dumper, sort_keys=False, allow_unicode=True, width=100)
     return "".join(f"# {l}\n" if l else "#\n" for l in head_lines) + body
 
 
@@ -241,6 +300,7 @@ def main() -> int:
     files = fetch_files()
     today = _dt.date.today().isoformat()
     sources = build_sources(files, today)
+    _carry_recorded(sources)
     report, fatal = reconcile(files, roster)
 
     print(f"library files: {len(files)}   sources: {len(sources)}   "

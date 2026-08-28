@@ -82,3 +82,22 @@ Repo-curation dates only — official effective dates live in frontmatter.
   never presented as executed text — the document, its citation, and the
   citation resolver all say so — but it is the only state-posted copy of the
   ratified master's terms. Flips to superseded when DAS posts the final.
+
+### Fixed
+- 2026-08-27 — `src/enumerate_cbas.py` (issue #14) had no baseline-carrying step:
+  every re-run of the state-tier enumerator reset all 512 recorded `sha256`
+  baselines in `_meta/sources/state.yml` back to `''`, silently, because
+  `build_sources()` always emits an empty hash and nothing carried the
+  committed value forward. `src/discover_counties.py` got this fix for the
+  12 county manifests when the same bug was found there (#58); the state
+  tier — 512 of this corpus's 677 sources, three quarters of the manifest —
+  did not. Reproduced: running the unfixed generator against the live DAS
+  listing turned 0 blank baselines into 512; `git checkout` restored the
+  file. Fixed with the same `_carry_recorded`/`_Quoted` pattern
+  `discover_counties.py` already uses, so the two generators' output stays
+  byte-comparable with what `corpus-detect-changes --record-baseline`
+  writes. Regression-locked in `tests/` (new — this is the first pytest
+  suite in this repo) for both generators; wired into the `generated` CI
+  job. Verified against the live SharePoint listing: `enumerate_cbas.py
+  --check` reports current, and a full re-run changes only the two
+  `last_checked` dates, none of the 512 baselines.
