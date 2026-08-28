@@ -116,16 +116,6 @@ jobs:
       # in scheduled.yml's weekly drift job instead, the oregon-audits arrangement.
       - name: County source groups must be current
         run: python3 src/discover_counties.py --check
-      # Regression lock for the "regeneration wipes recorded drift baselines" bug
-      # (oregon-collective-bargaining#14): unit tests on discover_counties.py's and
-      # enumerate_cbas.py's baseline-carrying logic, run against this repo's own
-      # committed manifests — no network, so this belongs in the PR gate rather than
-      # the scheduled job (unlike enumerate_cbas.py --check itself, which needs the
-      # live SharePoint listing and stays out per the note above).
-      - name: Manifest generators must preserve recorded baselines
-        run: |
-          pip install pytest
-          python3 -m pytest tests/ -q
       # The llms.txt Contents stub must not survive into a real corpus. Five live
       # corpora carried the template's HTML-comment placeholder for weeks — an advertised
       # agent entry point serving an empty index — because nothing ever forced the fill
@@ -156,3 +146,33 @@ jobs:
         run: python3 src/anchor_sections.py --check
       - name: Full text must match its extraction
         run: python3 src/promote_full_text.py --check
+
+  # Regression lock for the "regeneration wipes recorded drift baselines" bug
+  # (oregon-collective-bargaining#14): unit tests on discover_counties.py's and
+  # enumerate_cbas.py's baseline-carrying logic, run against this repo's own
+  # committed manifests — no network, so this belongs in the PR gate rather than
+  # the scheduled job (unlike enumerate_cbas.py --check itself, which needs the
+  # live SharePoint listing and stays in scheduled.yml).
+  #
+  # A job of its own, not a step bolted onto `generated`: `generated`'s stated remit
+  # (see its own comment block above) is committed generated artifacts, and this
+  # suite tests source code, not a committed file's currency.
+  #
+  # pytest is pinned in requirements-dev.txt, installed alongside requirements.txt
+  # (which pins corpus-toolkit — this repo's own generators import nothing from it,
+  # but reusing the one pin site beats adding a second place to remember to bump).
+  # An earlier version of this step ran `pip install pytest` unpinned at job time —
+  # floating in a repo fastidious about pins, and pytest wasn't even recorded in
+  # requirements-dev.txt (which didn't exist), so the documented setup could not
+  # run tests/ locally at all. #14's own code review caught it.
+  tests:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt -r requirements-dev.txt
+      - name: Manifest generators must preserve recorded baselines
+        run: python3 -m pytest tests/ -q

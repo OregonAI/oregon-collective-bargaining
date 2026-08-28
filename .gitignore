@@ -12,7 +12,9 @@ __pycache__/
 _meta/.cache/
 
 # corpus-detect-changes writes these to the repo root on every run that reaches
-# the fetch loop (AGENTS.md: both are public surface, neither belongs committed).
+# the fetch loop. Both are a per-run report (what changed, what failed to fetch),
+# not an input to anything downstream and not corpus content -- committing them
+# would just make every drift run a diff-only commit for its own sake.
 changed-sources.tsv
 source-outcomes.json
 

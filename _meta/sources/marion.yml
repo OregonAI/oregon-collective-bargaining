@@ -28,7 +28,7 @@ sources:
   format: pdf
   sha256: "4e39b1e8ed77e1ed0da70e21b136ae9ea358f79e8857d918345facf9afddccf4"
   title: ONA CBA
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
   notes: UNDATED filename overwritten in place upstream — same hashing mandate as Lane.
 - id: marion-mclea-cba
   url: https://www.co.marion.or.us/HR/Documents/MCLEA%20CBA.pdf
@@ -36,7 +36,7 @@ sources:
   format: pdf
   sha256: "27ff7613e0a746475cc8425b49818ec1da9fcedf556941e4a39dc04558f50c4d"
   title: MCLEA CBA
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
   notes: UNDATED filename overwritten in place upstream — same hashing mandate as Lane.
 - id: marion-mcea-cba
   url: https://www.co.marion.or.us/HR/Documents/MCEA%20CBA.pdf
@@ -44,7 +44,7 @@ sources:
   format: pdf
   sha256: "83ac9c572ec46a0abe70c38bc612e8f3aadfb5830607e9fa99188f84813ee5f0"
   title: MCEA CBA
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
   notes: UNDATED filename overwritten in place upstream — same hashing mandate as Lane.
 - id: marion-foppo-cba
   url: https://www.co.marion.or.us/HR/Documents/FOPPO%20CBA.pdf
@@ -52,7 +52,7 @@ sources:
   format: pdf
   sha256: "71985e20f346db8fb9bfa70f5f93065ad60b24e561a3923e81c1822c840fc50f"
   title: FOPPO CBA
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
   notes: UNDATED filename overwritten in place upstream — same hashing mandate as Lane.
 - id: marion-mcjea-cba
   url: https://www.co.marion.or.us/HR/Documents/MCJEA%20CBA.pdf
@@ -60,7 +60,7 @@ sources:
   format: pdf
   sha256: "44b02572a491d040367513bb1196fcc856c9ee79c06f3a7148303c3ed89581f8"
   title: MCJEA CBA
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
   notes: UNDATED filename overwritten in place upstream — same hashing mandate as Lane.
 - id: marion-mcdaa-cba
   url: https://www.co.marion.or.us/HR/Documents/MCDAA%20CBA.pdf
@@ -68,7 +68,7 @@ sources:
   format: pdf
   sha256: "faabee2280e6d5b96820224cbc0684237a086af05b422fe091d92f9319386c27"
   title: MCDAA CBA
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
   notes: UNDATED filename overwritten in place upstream — same hashing mandate as Lane.
 - id: marion-mcssa-cba
   url: https://www.co.marion.or.us/HR/Documents/MCSSA%20CBA.pdf
@@ -76,7 +76,7 @@ sources:
   format: pdf
   sha256: "26c502e0f33d83bbde57d36f8f7b6ef01f1a45810cdafe0b10cec15d50462077"
   title: MCSSA CBA
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
   notes: UNDATED filename overwritten in place upstream — same hashing mandate as Lane.
 - id: marion-mcssa-cba-extension-loa
   url: https://www.co.marion.or.us/HR/Documents/MCSSA%20CBA%20Extension%20LOA.pdf
@@ -84,5 +84,5 @@ sources:
   format: pdf
   sha256: "86ae25035336886b40c959f2c8a3fbcb26fcfdad99caad2bb3728835da8aefe5"
   title: MCSSA CBA Extension LOA
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
   notes: UNDATED filename overwritten in place upstream — same hashing mandate as Lane.

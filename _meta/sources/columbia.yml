@@ -25,7 +25,7 @@ sources:
   sha256: "fbf9cb3480158128b8409006f936375b6751ef11f8fa7a5a2d5d30f9102106df"
   title: AFSCME 1442 Signed CBA 2024-2029
   term: 2024-2029
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
   notes: Upstream URL contains literal unencoded spaces; percent-encoded here.
 - id: columbia-afscme-697-signed-cba-2025-2030
   url: https://www.columbiacountyor.gov/media/Human%20Resources/Union%20Contracts/AFSCME%20697%20Signed%20CBA%202025-2030.pdf
@@ -34,7 +34,7 @@ sources:
   sha256: "c63c510a93294aec0f79f989af1d855f50f1afeda35d8cbeab5bea1a458f53a8"
   title: AFSCME 697 Signed CBA 2025-2030
   term: 2025-2030
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
   notes: Upstream URL contains literal unencoded spaces; percent-encoded here.
 - id: columbia-ccdsa-signed-cba-2026-2028
   url: https://www.columbiacountyor.gov/media/Human%20Resources/Union%20Contracts/CCDSA%20Signed%20CBA%202026-2028.pdf
@@ -43,7 +43,7 @@ sources:
   sha256: "4de0ee015563a5043a796fc23ef5588f3640146e92db4a17addb11a61336b783"
   title: CCDSA Signed CBA 2026-2028
   term: 2026-2028
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
   notes: Upstream URL contains literal unencoded spaces; percent-encoded here.
 - id: columbia-collective-bargaining-agreement-sergeant-2026-final
   url: https://www.columbiacountyor.gov/media/Human%20Resources/Union%20Contracts/collective-bargaining-agreement---sergeant-2026---final.pdf
@@ -51,7 +51,7 @@ sources:
   format: pdf
   sha256: "bf7bf21119b873f5ec900dca7adb47f7ea4321fc22ebddd024db873e7df00bf4"
   title: collective-bargaining-agreement---sergeant-2026---final
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
   notes: Upstream URL contains literal unencoded spaces; percent-encoded here.
 - id: columbia-foppo-signed-cba-2024-2026
   url: https://www.columbiacountyor.gov/media/Human%20Resources/Union%20Contracts/FOPPO%20Signed%20CBA%202024-2026.pdf
@@ -60,5 +60,5 @@ sources:
   sha256: "a42d7fdd6567753143608ea106ae3b3d37ed227df8e14a5bba11fb59c2a9c340"
   title: FOPPO Signed CBA 2024-2026
   term: 2024-2026
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
   notes: Upstream URL contains literal unencoded spaces; percent-encoded here.

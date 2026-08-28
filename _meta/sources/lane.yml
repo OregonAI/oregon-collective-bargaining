@@ -32,7 +32,7 @@ sources:
   format: pdf
   sha256: "22b62a78a69f0f0e2684f7d5638f840cf39af3a8f3104b24171ef9a9caeef7d1"
   title: Local 626 Collective Bargaining Agreement
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
   notes: UNDATED filename overwritten in place upstream — the term is only inside the document; content
     hash is the only change signal.
 - id: lane-626-cba-modifications
@@ -41,7 +41,7 @@ sources:
   format: pdf
   sha256: "e2dd3b2327938663d4a3816e0ca26aa827eec5f0c1af8d1cbdb3e4e42be16b7f"
   title: 626 CBA Modifications
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
   notes: UNDATED filename overwritten in place upstream — the term is only inside the document; content
     hash is the only change signal.
 - id: lane-admin-pro-collective-bargaining-agreement
@@ -50,7 +50,7 @@ sources:
   format: pdf
   sha256: "c03ea7b5270fc5907732ba191b24d558abfb3e060d6247881da2be46a877acbd"
   title: Admin-Pro Collective Bargaining Agreement
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
   notes: UNDATED filename overwritten in place upstream — the term is only inside the document; content
     hash is the only change signal.
 - id: lane-admin-pro-cba-modifications
@@ -59,7 +59,7 @@ sources:
   format: pdf
   sha256: "9913e9071e228b5813870070ea89d668096810245f19e32df1ae8b839298f844"
   title: Admin-Pro CBA Modifications
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
   notes: UNDATED filename overwritten in place upstream — the term is only inside the document; content
     hash is the only change signal.
 - id: lane-afscme-general-collective-bargaining-agreement
@@ -68,7 +68,7 @@ sources:
   format: pdf
   sha256: "904ef4dbf24245408a94cff5f2ab5e004ffac666f79e3f85ae867b4b49c08658"
   title: AFSCME General Collective Bargaining Agreement
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
   notes: UNDATED filename overwritten in place upstream — the term is only inside the document; content
     hash is the only change signal.
 - id: lane-afscme-general-cba-modifications
@@ -77,7 +77,7 @@ sources:
   format: pdf
   sha256: "febf1ed57654ec399f081681a74b1d3258d2284d50045c901852cd6d22da2d1d"
   title: AFSCME General CBA Modifications
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
   notes: UNDATED filename overwritten in place upstream — the term is only inside the document; content
     hash is the only change signal.
 - id: lane-afscme-nurses-collective-bargaining-agreement
@@ -86,7 +86,7 @@ sources:
   format: pdf
   sha256: "ea38d59ea1977da2a6239243ac44c0604d77ea84aa47896bd48fb04600ed6b7e"
   title: AFSCME Nurses Collective Bargaining Agreement
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
   notes: UNDATED filename overwritten in place upstream — the term is only inside the document; content
     hash is the only change signal.
 - id: lane-afscme-nurses-cba-modifications
@@ -95,7 +95,7 @@ sources:
   format: pdf
   sha256: "855ec15675424f7af18d278fa0fcdfacd1f37f70a9d9dc1a4eb6ff55b58700c6"
   title: AFSCME Nurses CBA Modifications
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
   notes: UNDATED filename overwritten in place upstream — the term is only inside the document; content
     hash is the only change signal.
 - id: lane-afscme-physicians-collective-bargaining-agreement
@@ -104,7 +104,7 @@ sources:
   format: pdf
   sha256: "3dfd15a16a880c11db606dfb5144a7ebc4f575233180572ed8a0586ea9c5d098"
   title: AFSCME Physicians Collective Bargaining Agreement
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
   notes: UNDATED filename overwritten in place upstream — the term is only inside the document; content
     hash is the only change signal.
 - id: lane-afscme-physicians-cba-modifications
@@ -113,7 +113,7 @@ sources:
   format: pdf
   sha256: "51ad5d99595c63aa6af247a198f0863d66a5b66b31864345dce9f5751da9d67e"
   title: AFSCME Physicians CBA Modifications
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
   notes: UNDATED filename overwritten in place upstream — the term is only inside the document; content
     hash is the only change signal.
 - id: lane-foppo-collective-bargaining-agreement
@@ -122,7 +122,7 @@ sources:
   format: pdf
   sha256: "796ee3af73068429af9b6ce1c72c907cf4cacab604d27ff1db40111ee779d7c0"
   title: FOPPO Collective Bargaining Agreement
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
   notes: UNDATED filename overwritten in place upstream — the term is only inside the document; content
     hash is the only change signal.
 - id: lane-foppo-cba-modifications
@@ -131,7 +131,7 @@ sources:
   format: pdf
   sha256: "73070d3ed96cf6f46ae0df2bffd5f218a4e6320064d8ceb84989b2ed81b23544"
   title: FOPPO CBA Modifications
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
   notes: UNDATED filename overwritten in place upstream — the term is only inside the document; content
     hash is the only change signal.
 - id: lane-lcpoa-collective-bargaining-agreement
@@ -140,7 +140,7 @@ sources:
   format: pdf
   sha256: "7b44326e86f81f83e4ae72a3c42d6a2c3cb8897ee728ee070940749cc4b0a8c8"
   title: LCPOA Collective Bargaining Agreement
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
   notes: UNDATED filename overwritten in place upstream — the term is only inside the document; content
     hash is the only change signal.
 - id: lane-lcpoa-cba-modifications
@@ -149,7 +149,7 @@ sources:
   format: pdf
   sha256: "7ccb6f37550a6c488e06546b9a2b11f1c2368d1a559937c73fbdfd0bbc705fb5"
   title: LCPOA CBA Modifications
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
   notes: UNDATED filename overwritten in place upstream — the term is only inside the document; content
     hash is the only change signal.
 - id: lane-paa-collective-bargaining-agreement
@@ -158,7 +158,7 @@ sources:
   format: pdf
   sha256: "8f6a81ca6d7edd36ca163a3c52410c0122709da984dfe48488b265c3ba171474"
   title: PAA Collective Bargaining Agreement
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
   notes: UNDATED filename overwritten in place upstream — the term is only inside the document; content
     hash is the only change signal.
 - id: lane-paa-cba-modifications
@@ -167,6 +167,6 @@ sources:
   format: pdf
   sha256: "92e1066bdd74cfbc58bcac61a34226b8f2363b77dfb44c277bd70b162e60427d"
   title: PAA CBA Modifications
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
   notes: UNDATED filename overwritten in place upstream — the term is only inside the document; content
     hash is the only change signal.

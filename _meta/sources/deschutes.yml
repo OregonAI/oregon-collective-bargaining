@@ -29,91 +29,91 @@ sources:
   sha256: "3fd993be9579596242b8f5e47b7a4fc8f8cd04420a399b9d2dd991466bfb5240"
   title: AFSCME CBA 2025-2030 DC 2025-597
   term: 2025-2030
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
 - id: deschutes-mou-pesticide-license-stipend-dc-2026-0181
   url: https://www.deschutescounty.gov/DocumentCenter/View/7114/MOU-Pesticide-License-Stipend-DC-2026-0181
   family: loa
   format: pdf
   sha256: "078bf0f8ba0c45df50435af3b2bdb825aa0a4915d78874aae347598f949a71c2"
   title: MOU Pesticide License Stipend (DC-2026-0181)
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
 - id: deschutes-mou-afscme-termination-of-mous-dc-2025-712
   url: https://www.deschutescounty.gov/DocumentCenter/View/1924/MOU-AFSCME-Termination-of-MOUs-DC-2025-712
   family: loa
   format: pdf
   sha256: "34454299fe8470dc98ba379fcbdc85d4ad0b3eed6022bdcdfe744cb387cda57a"
   title: MOU AFSCME Termination of MOUs DC-2025-712
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
 - id: deschutes-mou-afscme-crisis-program-position-incentives-dc-2025-711
   url: https://www.deschutescounty.gov/DocumentCenter/View/1929/MOU-AFSCME-Crisis-Program-Position-Incentives-DC-2025-711
   family: loa
   format: pdf
   sha256: "c9ad1fe781d945ddf087f96565ae6c6e16f2ef85bdc657b113e7153272bc6e35"
   title: MOU AFSCME Crisis Program Position Incentives DC-2025-711
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
 - id: deschutes-mou-afscme-crisis-program-employees-dc-2025-710
   url: https://www.deschutescounty.gov/DocumentCenter/View/1928/MOU-AFSCME-Crisis-Program-Employees-DC-2025-710
   family: loa
   format: pdf
   sha256: "4f65acb5f3525bc8fd0888a4e3263212aaf50c6528c35ac50123b7a5e1e0cc78"
   title: MOU AFSCME Crisis Program Employees DC-2025-710
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
 - id: deschutes-mou-afscme-bh-service-area-position-incentives-dc-2025-709
   url: https://www.deschutescounty.gov/DocumentCenter/View/1927/MOU-AFSCME-BH-Service-Area-Position-Incentives-DC-2025-709
   family: loa
   format: pdf
   sha256: "830e83620371e837f1d0dc22cd033b011dc8fd49e2e20a0544eb73905150e43e"
   title: MOU AFSCME BH Service Area Position Incentives DC-2025-709
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
 - id: deschutes-mou-afscme-registration-certification-and-licensure-reimb-dc-2024-334
   url: https://www.deschutescounty.gov/DocumentCenter/View/1930/MOU-AFSCME-Registration-Certification-and-Licensure-Reimb-DC-2024-334
   family: loa
   format: pdf
   sha256: "52789806275cd82caa2001f76a94212aa63ad594246e9a23bd6dbdb4b4f4be55"
   title: MOU AFSCME Registration, Certification and Licensure Reimb DC-2024-334
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
 - id: deschutes-mou-afscme-behavioral-health-clinical-supervision-incentive-program-dc-2023-1035
   url: https://www.deschutescounty.gov/DocumentCenter/View/1925/MOU---AFSCME-Behavioral-Health-Clinical-Supervision-Incentive-Program-DC-2023-1035
   family: loa
   format: pdf
   sha256: "cda7f2900623f2b538844a66d063fef05e4e2dd1e3f10094d5f862e412bbfa31"
   title: MOU - AFSCME Behavioral Health Clinical Supervision Incentive Program DC-2023-1035
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
 - id: deschutes-mou-afscme-juvenile-community-justice-pay-differentials-dc-2023-720
   url: https://www.deschutescounty.gov/DocumentCenter/View/1920/MOU-AFSCME-Juvenile-Community-Justice-Pay-Differentials-DC-2023-720
   family: loa
   format: pdf
   sha256: "08525a96b019b623730bc0ec5395b2ca06ffde4c85bc8d9b3191e823f94e5592"
   title: MOU AFSCME Juvenile Community Justice Pay Differentials DC-2023-720
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
 - id: deschutes-mou-afscme-high-needs-rural-services-position-pay-differential-dc-2023-341
   url: https://www.deschutescounty.gov/DocumentCenter/View/1926/MOU---AFSCME-High-Needs-Rural-Services-Position-Pay-Differential-DC-2023-341
   family: loa
   format: pdf
   sha256: "bae6aa1b6ff0a81768c85728a6859074b3fe657def59f4538e456abcf2de5b21"
   title: MOU - AFSCME High Needs Rural Services Position Pay Differential DC-2023-341
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
 - id: deschutes-mou-afscme-bh-cadc-incentive-program-dc-2022-744
   url: https://www.deschutescounty.gov/DocumentCenter/View/1918/MOU-AFSCME-BH-CADC-Incentive-Program-DC-2022-744
   family: loa
   format: pdf
   sha256: "74006583cbf200638ebb8b6af6b78b60b41ff494e7cbf5b191bbd5c631bc52f7"
   title: MOU AFSCME BH CADC Incentive Program DC 2022-744
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
 - id: deschutes-mou-afscme-juneteenth-holiday-section-a-dc-2022-352
   url: https://www.deschutescounty.gov/DocumentCenter/View/1919/MOU-AFSCME-Juneteenth-Holiday-Section-A-DC-2022-352
   family: loa
   format: pdf
   sha256: "1a8be9afbe139247448d6ac1e16f23352a09bacfa458f44e12b46b209b1eb42b"
   title: MOU AFSCME Juneteenth Holiday Section A DC-2022-352
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
 - id: deschutes-mou-afscme-stabilization-center-employees-dc-2021-898
   url: https://www.deschutescounty.gov/DocumentCenter/View/1921/MOU-AFSCME-Stabilization-Center-Employees-DC-2021-898
   family: loa
   format: pdf
   sha256: "fc38c47a2e2f98382d48a593878544fd2ee8017c76336c3202f28a18a9cced95"
   title: MOU AFSCME Stabilization Center Employees DC 2021-898
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
 - id: deschutes-dcsea-collective-bargaining-agreement-july-1-2025-to-june-30-2026-pdf
   url: https://www.deschutescounty.gov/DocumentCenter/View/8175/DCSEA-Collective-Bargaining-Agreement-July-1-2025-to-June-30-2026pdf
   family: cba

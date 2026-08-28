@@ -31,7 +31,7 @@ sources:
   title: 'American Federation of State, County and Municipal Employees Council #75, AFL-CIO, Local 2064
     Labor Contract ( 2024 R'
   term: 2024-2027
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
   notes: Intermediate WordPress page — the wp-content PDF is resolved out of it at ingest.
 - id: benton-benton-county-deputy-sheriff-s-association-july-1-2022-june-30-2027
   url: https://hr.bentoncountyor.gov/wp-content/uploads/2023/12/bcdsa-teamsters%5F2022%5F-%5F2027%5Fcba%5Ffinal%5Ffor%5Fposting.pdf
@@ -40,11 +40,11 @@ sources:
   sha256: "7b383f26736a67cd7c1254bdd7c79711261740d8489cf8de6501d0506b077a5a"
   title: Benton County Deputy Sheriff’s Association (July 1, 2022 – June 30, 2027)
   term: 2022-2027
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
 - id: benton-oregon-nurses-association-july-1-2025-june-30-2029
   url: https://hr.bentoncountyor.gov/wp-content/uploads/2026/01/ONA%5FBenton%5FCounty%5F25-29-Contract-Final.pdf
   family: cba
   format: pdf
   sha256: "b2a852bbfffe724302c286f9411f8e64c41d6b506c9f51696fdc7c4f9fe44a4b"
   title: Oregon Nurses Association (July 1, 2025 – June 30, 2029)
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'

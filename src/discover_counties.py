@@ -50,6 +50,8 @@ from pathlib import Path
 
 import yaml
 
+from _manifest_baseline import Quoted as _Quoted, carry_recorded_sha256, quoted_representer as _quoted
+
 REPO_ROOT = Path(__file__).resolve().parent.parent
 SOURCES_DIR = REPO_ROOT / "_meta" / "sources"
 DEFAULT_ARCHIVE = REPO_ROOT / "_meta" / "discovery" / "2026-08-25"
@@ -480,21 +482,6 @@ COUNTIES: dict[str, dict] = {
 }
 
 
-class _Quoted(str):
-    """A string this file writes in double quotes.
-
-    ONE FILE, TWO WRITERS, AND THEY DISAGREED ABOUT QUOTING. `corpus-detect-changes
-    --record-baseline` edits line by line and writes `sha256: "abc..."`; `yaml.safe_dump`
-    writes `sha256: abc...`. Identical YAML either way, but the styles flip-flopped every
-    time the other tool touched the file, so a real diff arrived buried in 600 lines of
-    quote churn. This renderer now matches the recorder.
-    """
-
-
-def _quoted(dumper, data):
-    return dumper.represent_scalar("tag:yaml.org,2002:str", str(data), style='"')
-
-
 class _Dumper(yaml.SafeDumper):
     pass
 
@@ -534,12 +521,12 @@ def _differs(committed: str, rendered: str) -> bool:
 
 
 def _carry_recorded(county: str, sources: list[dict]) -> None:
-    """Carry `sha256` (and its `last_checked`) across from the committed manifest.
+    """Carry a recorded `sha256` across from the committed manifest, keyed on `url`.
 
-    TWO WRITERS, ONE FILE, AND ONLY ONE OF THEM OWNS THIS FIELD. Discovery owns which
-    documents exist -- ids, urls, titles, families. The BASELINE is owned by
-    `corpus-detect-changes --record-baseline`, which records what upstream served so drift
-    can be detected later.
+    See `_manifest_baseline.carry_recorded_sha256` for the full contract this
+    delegates to (the "two writers, one field", url-vs-id, and last_checked
+    reasoning all live there -- it is shared with `enumerate_cbas.py`'s copy of
+    this same function).
 
     This renderer used to emit `sha256: ""` unconditionally, which made both halves wrong at
     once: `--check` byte-compares its output against the file, so every recorded baseline
@@ -557,15 +544,7 @@ def _carry_recorded(county: str, sources: list[dict]) -> None:
         held = yaml.safe_load(out.read_text(encoding="utf-8")) or {}
     except yaml.YAMLError:
         return
-    prior = {s["id"]: s for s in (held.get("sources") or []) if isinstance(s, dict)}
-    for s in sources:
-        was = prior.get(s["id"])
-        if not was:
-            continue
-        if was.get("sha256"):
-            s["sha256"] = _Quoted(was["sha256"])
-        if was.get("last_checked"):
-            s["last_checked"] = was["last_checked"]
+    carry_recorded_sha256(held.get("sources") or [], sources)
 
 
 def render(county: str, cfg: dict, sources: list[dict]) -> str:

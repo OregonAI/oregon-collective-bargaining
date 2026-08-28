@@ -28,28 +28,28 @@ sources:
   sha256: "071b75ed8a65f8b588b30be29d65fd8cc20d31d3d07573acbb8cb0c4128279cb"
   title: AFSCME Collective Bargaining Agreement 2024-2027 Agreement
   term: 2024-2027
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
 - id: washington-afscme-mou-appendix-a-12-3-2024
   url: https://www.washingtoncountyor.gov/hr/documents/afscme-mouappendix-1232024/download?inline
   family: cba
   format: pdf
   sha256: "275e7dcd88fad5d2a8a7d3f979653cc04784feb2bd491c1e16ca735b2f60442d"
   title: AFSCME MOU_Appendix A 12.3.2024
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
 - id: washington-afscme-cc-mou-trimet-insurance-pay-period-11-18-2025-pdf
   url: https://www.washingtoncountyor.gov/hr/documents/afscme-cc-moutrimet-insurance-pay-period-11-18-2025pdf/download?inline
   family: cba
   format: pdf
   sha256: "d4e894607111df6cd861fca12ef10a19f99332f48e6ad177b6d52c4015b4c701"
   title: AFSCME CC MOU_TriMet Insurance Pay Period 11-18-2025.pdf
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
 - id: washington-afscme-cc-mou-4-10-workday-schedule-11-18-2025-pdf
   url: https://www.washingtoncountyor.gov/hr/documents/afscme-cc-mou4-10-workday-schedule-11-18-2025pdf/download?inline
   family: cba
   format: pdf
   sha256: "ffe5115eb6cca9afc6144b572343058b3732af33368d460cf0490808cea0e7e1"
   title: AFSCME CC MOU_4-10 Workday Schedule 11-18-2025.pdf
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
 - id: washington-afscme-juvenile-agreement-2025-2027
   url: https://www.washingtoncountyor.gov/hr/documents/afscme-juvenile-agreement-2025-2027/download?inline
   family: cba
@@ -57,7 +57,7 @@ sources:
   sha256: "7c268de2f57e59e78cf32dac2bafe90b878ca903c7decee489224a737002cfde"
   title: AFSCME (Juvenile) Agreement 2025-2027
   term: 2025-2027
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
 - id: washington-foppo-agreement-2022-2026
   url: https://www.washingtoncountyor.gov/hr/documents/foppo-contract-2022-2026/download?inline
   family: cba
@@ -65,49 +65,49 @@ sources:
   sha256: "c85328583db9a78c6523a1a46d5ce64562ab4f3560c5726c0cbbf98920c6372e"
   title: FOPPO Agreement 2022-2026
   term: 2022-2026
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
 - id: washington-foppo-memorandum-of-understanding-t-315
   url: https://www.washingtoncountyor.gov/support-services/documents/foppo-mou-t-315/download?inline
   family: loa
   format: pdf
   sha256: "69e95bc929492ec6217acf448fe854fd8bf276bb444968306f31eabc6236f880"
   title: FOPPO Memorandum of Understanding T-315
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
 - id: washington-foppo-loa-certification-pay-pdf
   url: https://www.washingtoncountyor.gov/hr/documents/foppo-loacertification-paypdf/download?inline
   family: cba
   format: pdf
   sha256: "fb758ffe2f27f47d75e6cc0317adaea9eb4b7d91624c7a865a007d6cbaf73265"
   title: FOPPO LOA_Certification Pay.pdf
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
 - id: washington-foppo-loa-movement-to-a-higher-classification-pdf
   url: https://www.washingtoncountyor.gov/hr/documents/foppo-loamovement-higher-classificationpdf/download?inline
   family: cba
   format: pdf
   sha256: "3b5fc1f1ed06dc388a0cc6f0f43e22b121945dbe4acc26bf2dd00eea79ae6679"
   title: FOPPO LOA_Movement to a Higher Classification.pdf
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
 - id: washington-foppo-mou-benefit-plan-design-changes-for-2024-pdf
   url: https://www.washingtoncountyor.gov/hr/documents/foppo-moubenefit-plan-design-changes-2024pdf/download?inline
   family: cba
   format: pdf
   sha256: "18c2dd544d4dd475e861ffe7246764101feb72e9e2733acfb10fbf28a99499ae"
   title: FOPPO MOU_Benefit Plan Design Changes for 2024.pdf
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
 - id: washington-foppo-loa-trainer-pay
   url: https://www.washingtoncountyor.gov/hr/documents/foppo-loatrainer-pay/download?inline
   family: cba
   format: pdf
   sha256: "5f49e7b5e6e2ad1ec256a8f4dfa7a8ed9b3ddc462187ec355c9e45675d0dfb0d"
   title: FOPPO LOA_Trainer Pay
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
 - id: washington-foppo-moa-trimet-workday-insurance
   url: https://www.washingtoncountyor.gov/hr/documents/foppo-moatrimet-workday-insurance/download?inline
   family: cba
   format: pdf
   sha256: "4e051758daa08bd2dcc48b072641a681e0a4779d284436db959635cb89ecefb6"
   title: FOPPO MOA_TriMet Workday Insurance
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
 - id: washington-oregon-nurses-association-2024-2027-agreement
   url: https://www.washingtoncountyor.gov/support-services/documents/oregon-nurses-association-2024-2027-agreement/download?inline
   family: cba
@@ -115,7 +115,7 @@ sources:
   sha256: "7b89718bef10b9956d12cc752fa1b453c5155d94c09f7260901b96adc13eb697"
   title: Oregon Nurses Association 2024-2027 Agreement
   term: 2024-2027
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
 - id: washington-teamsters-2022-2026-agreement
   url: https://www.washingtoncountyor.gov/hr/documents/teamsters-contract-2022-2026-agreement/download?inline
   family: cba
@@ -123,133 +123,133 @@ sources:
   sha256: "6c2eaf632b166f60462b36b0d22172d37d2bb34708bbcb95097d9fc44a9cd9dc"
   title: Teamsters 2022-2026 Agreement
   term: 2022-2026
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
 - id: washington-mou-tools-and-equipment-for-road-maintenance-workers
   url: https://www.washingtoncountyor.gov/hr/documents/mou-tools-and-equipment-road-maintenance-workers/download?inline
   family: loa
   format: pdf
   sha256: "30057531bab7b341e464ae1f8028cefdf6a790b9169d42c73b9a4666a33f5d55"
   title: MOU Tools and Equipment for Road Maintenance Workers
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
 - id: washington-teamsters-loa-cps-pi-assignment-final
   url: https://www.washingtoncountyor.gov/hr/documents/teamsters-loacps-pi-assignment-final/download?inline
   family: cba
   format: pdf
   sha256: "2c14a0e8db9ca1532de9c7cd8626dc53414f8d6fcdb05fce989151dae696b23f"
   title: Teamsters LOA_CPS PI Assignment Final
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
 - id: washington-teamsters-loa-cps-pi-4-hour-overtime-shift-pay
   url: https://www.washingtoncountyor.gov/hr/documents/teamsters-loacps-pi-4-hour-overtime-shift-pay/download?inline
   family: cba
   format: pdf
   sha256: "001200c44c9103860db8abca2eedb3f16a8dc9cdf27e7cf13a5127927113e1a9"
   title: Teamsters LOA_CPS PI 4 Hour Overtime Shift Pay
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
 - id: washington-teamsters-loa-cps-pi-hcp
   url: https://www.washingtoncountyor.gov/hr/documents/teamsters-loacps-pi-hcp/download?inline
   family: cba
   format: pdf
   sha256: "14effc75bd4f677dc9135f619d0dbe0ef95c5585999da8af49c426c9ac57b81b"
   title: Teamsters LOA_CPS PI HCP
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
 - id: washington-memorandum-of-understanding-8-7-2023
   url: https://www.washingtoncountyor.gov/hr/documents/mou-wcpoa-8-7-23pdf/download?inline
   family: loa
   format: pdf
   sha256: "efb5d80e171790baa52553a17c7c89a42544c4ad60fb6a64d32880f53a3a0dec"
   title: Memorandum of Understanding 8/7/2023
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
 - id: washington-memorandum-of-understanding-8-22-2023
   url: https://www.washingtoncountyor.gov/hr/documents/memorandum-understanding-8-22-2023/download?inline
   family: loa
   format: pdf
   sha256: "9ab6274c4c7a05e03af2719fe69961194f14ef4131d6bb86b395353a3bd00c79"
   title: Memorandum of Understanding 8/22/2023
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
 - id: washington-wcpoa-moa-paid-leave-oregon-and-impact-on-qpp-10-19-2023-pdf
   url: https://www.washingtoncountyor.gov/hr/documents/wcpoa-moa-paid-leave-oregon-and-impact-qpp-10-19-2023pdf/download?inline
   family: loa
   format: pdf
   sha256: "e11b43150acef71c01fb06699ddb6ed7ac035b482ac7a7a86420280a0d6e577c"
   title: WCPOA MOA Paid Leave Oregon and impact on QPP 10/19/2023.pdf
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
 - id: washington-wcpoa-mou-military-leave-3-26-2024
   url: https://www.washingtoncountyor.gov/hr/documents/wcpoamoumilitary-leave3262024/download?inline
   family: cba
   format: pdf
   sha256: "de326f49cc323e4a85bacf166693a9befd9bc5a41491a8cdc9ec6e5b65b039d1"
   title: WCPOA_MOU_Military Leave_3.26.2024
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
 - id: washington-wcpoa-moa-longevity-and-education-pay-3-1-2024
   url: https://www.washingtoncountyor.gov/hr/documents/wcpoa-moa-longevity-and-education-pay-3-1-2024/download?inline
   family: loa
   format: pdf
   sha256: "01805a7d8cbb6826135bb8648f1c933d033c4e906df128cd9088078b1a887192"
   title: WCPOA MOA Longevity and Education Pay 3/1/2024
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
 - id: washington-wcpoa-moa-lateral-hiring-incentive-pay-6-14-2024
   url: https://www.washingtoncountyor.gov/hr/documents/wcpoa-moa-lateral-hiring-incentive-pay-6142024/download?inline
   family: loa
   format: pdf
   sha256: "741d7cebbddcc02c69bbb9a4d17997fc6679fb404126c3f8f38958933b518950"
   title: WCPOA MOA Lateral Hiring Incentive Pay 6.14.2024
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
 - id: washington-wcpoa-mou-21-6-incentive-pay-7-16-2024
   url: https://www.washingtoncountyor.gov/hr/documents/wcpoa-mou-216-incentive-pay-7-16-2024/download?inline
   family: loa
   format: pdf
   sha256: "5bda89dffa93d3da683d6f0c8f45cb3cbea8cac0c709ed9257a4f65b3499d262"
   title: WCPOA MOU 21.6 Incentive Pay 7/16/2024
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
 - id: washington-wcpoa-moa-enchanced-jail-overtime-extension-8-28-2024
   url: https://www.washingtoncountyor.gov/hr/documents/wcpoa-moaenchanced-jail-overtime-extension-8282024/download?inline
   family: cba
   format: pdf
   sha256: "48aaf5ecd7fca44e9ed01d50a02b594bf0b6d549fa098c9389a0ebf395f69c95"
   title: WCPOA MOA_Enchanced Jail Overtime Extension 8.28.2024
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
 - id: washington-wcpoa-moa-recruit-deputy-age-mq-10-4-2024
   url: https://www.washingtoncountyor.gov/hr/documents/wcpoa-moa-recruit-deputy-age-mq-1042024/download?inline
   family: loa
   format: pdf
   sha256: "380d1c4dd5c8fb9cf8beb98abac40237e6968f64fc4a53f6f1507394da74eeaf"
   title: WCPOA MOA Recruit Deputy Age MQ 10.4.2024
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
 - id: washington-wcpoa-moa-jail-in-service-extension-12-4-2024
   url: https://www.washingtoncountyor.gov/hr/documents/wcpoa-moa-jail-service-extension-1242024/download?inline
   family: loa
   format: pdf
   sha256: "54cd4a53f634eb2340ee0e2d0faaec4aede1fa3c872d390e43b47a568f59d3cb"
   title: WCPOA MOA Jail In-Service Extension 12.4.2024
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
 - id: washington-wcpoa-moa-enhanced-jail-overtime-extension-12-18-2024
   url: https://www.washingtoncountyor.gov/hr/documents/wcpoa-moa-enhanced-jail-overtime-extension-12182024/download?inline
   family: loa
   format: pdf
   sha256: "3280c2e32d65ddd96a5a70d40dd9757c3e78cc784e3d8cd69b60c0d3f2e2e6ad"
   title: WCPOA MOA Enhanced Jail Overtime Extension 12.18.2024
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
 - id: washington-wcpoa-moa-benefits-changes-for-calendar-year-2025
   url: https://www.washingtoncountyor.gov/hr/documents/wcpoa-moa-benefits-changes-calendar-year-2025/download?inline
   family: loa
   format: pdf
   sha256: "29e2e2c42bdf29edb340f7a0a6d2850b2aa006441c0bbae78730c31ecf1597a6"
   title: WCPOA MOA Benefits Changes for Calendar Year 2025
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
 - id: washington-wcpoa-mou-paid-leave-oregon-8-21-2023
   url: https://www.washingtoncountyor.gov/hr/documents/wcpoa-mou-paid-leave-oregon-8212023/download?inline
   family: loa
   format: pdf
   sha256: "99dddfa81d73c8afd201ce9e1b29aaeef2e80c68b3acb7a75be57a9bf4ae6c2a"
   title: WCPOA MOU Paid Leave Oregon 8.21.2023
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
 - id: washington-wcpoa-moa-wcda-detective-2-14-2025
   url: https://www.washingtoncountyor.gov/hr/documents/wcpoa-moa-wcda-detective-2142025/download?inline
   family: loa
   format: pdf
   sha256: "b780fa4cbbe08a1f313e651c719f915b32260237e9b8244e9fedb09f98d7204b"
   title: WCPOA MOA WCDA Detective 2.14.2025
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
 - id: washington-wcpoa-ecu-agreement-2025-2028
   url: https://www.washingtoncountyor.gov/hr/documents/wcpoa-ecu-agreement-2025-2028/download?inline
   family: cba
@@ -257,7 +257,7 @@ sources:
   sha256: "dc28491852ff74300d44751064d54a2b5a73bdb86621c2e99e99106cac770a8e"
   title: WCPOA ECU Agreement 2025-2028
   term: 2025-2028
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
 - id: washington-ssg-agreement-2025-2028
   url: https://www.washingtoncountyor.gov/hr/documents/ssg-agreement-2025-2028/download?inline
   family: cba
@@ -265,42 +265,42 @@ sources:
   sha256: "27081a08f8958337b8bb75d1dc30acb04a11800746539ec8af8933e1f924e131"
   title: SSG Agreement 2025-2028
   term: 2025-2028
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
 - id: washington-memorandum-of-understanding-9-29-2022
   url: https://www.washingtoncountyor.gov/hr/documents/memorandum-understanding-9-29-2022/download?inline
   family: loa
   format: pdf
   sha256: "80de565edd5670cb5b5ead30eac269b886d6242545830373f91f749ab0165e01"
   title: Memorandum of Understanding 9/29/2022
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
 - id: washington-memorandum-of-understanding-8-7-2023-2
   url: https://www.washingtoncountyor.gov/hr/documents/mou-wcpoa-8-7-23pdf/download?inline
   family: loa
   format: pdf
   sha256: "efb5d80e171790baa52553a17c7c89a42544c4ad60fb6a64d32880f53a3a0dec"
   title: Memorandum of Understanding 8/7/2023
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
 - id: washington-memorandum-of-understanding-8-22-2023-2
   url: https://www.washingtoncountyor.gov/hr/documents/memorandum-understanding-8-22-2023/download?inline
   family: loa
   format: pdf
   sha256: "9ab6274c4c7a05e03af2719fe69961194f14ef4131d6bb86b395353a3bd00c79"
   title: Memorandum of Understanding 8/22/2023
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
 - id: washington-mou-ssg-jst-uniform-6-5-24
   url: https://www.washingtoncountyor.gov/hr/documents/moussgjst-uniform-6-5-24/download?inline
   family: cba
   format: pdf
   sha256: "890dee27cc52d4e7f060a3b36c25147ac69e97d261be86de971e368139666b71"
   title: MOU_SSG_JST Uniform 6-5-24
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
 - id: washington-wcpoa-ssg-moa-jstsup-6-16-2026
   url: https://www.washingtoncountyor.gov/hr/documents/wcpoa-ssg-moa-jstsup-6162026/download?inline
   family: loa
   format: pdf
   sha256: "2f6e903c1ad5632e437407e47bb0131d2e9f5d15e9a16c472f49f8dfa2a18cc0"
   title: WCPOA SSG MOA JSTSUP 6.16.2026
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
 - id: washington-wcpoa-sergeants-unit-sgt-cba-2025-2028
   url: https://www.washingtoncountyor.gov/hr/documents/wcpoa-sergeants-unit-sgt-cba-2025-2028/download?inline
   family: cba
@@ -308,14 +308,14 @@ sources:
   sha256: "05e34e70569a760b58f7e87aee1e600f9a5163d637e7aa311530bfe63d101cf4"
   title: WCPOA Sergeants Unit (SGT) CBA 2025-2028
   term: 2025-2028
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
 - id: washington-wcpoa-sgt-moa-unused-floating-holiday-11-4-2025
   url: https://www.washingtoncountyor.gov/hr/documents/wcpoa-sgt-moa-unused-floating-holiday-1142025/download?inline
   family: loa
   format: pdf
   sha256: "7dc87644dc99f6ac9f8fbb6f8acbff3ed878f1d7760cc709e604dd200b084f82"
   title: WCPOA SGT MOA Unused Floating Holiday 11.4.2025
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
 - id: washington-wcpaa-agreement-2025-2027
   url: https://www.washingtoncountyor.gov/hr/documents/wcpaa-agreement-2025-2027/download?inline
   family: cba
@@ -323,4 +323,4 @@ sources:
   sha256: "d6b9b5151156029662794aba198a00df69b5b0db62ab96f09e1ef6ec81a6fa73"
   title: WCPAA Agreement 2025-2027
   term: 2025-2027
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'

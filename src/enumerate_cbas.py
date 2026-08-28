@@ -60,6 +60,8 @@ from pathlib import Path
 
 import yaml
 
+from _manifest_baseline import Quoted as _Quoted, carry_recorded_sha256, quoted_representer as _quoted
+
 REPO_ROOT = Path(__file__).resolve().parent.parent
 GROUP_FILE = REPO_ROOT / "_meta" / "sources" / "state.yml"
 ROSTER_FILE = REPO_ROOT / "_meta" / "state-roster-2025-2027.yml"
@@ -108,22 +110,6 @@ def union_of(name: str) -> str | None:
     return tok if tok in UNION_PREFIXES else None
 
 
-class _Quoted(str):
-    """A string this file writes in double quotes.
-
-    ONE FILE, TWO WRITERS, AND THEY DISAGREE ABOUT QUOTING UNLESS TOLD OTHERWISE.
-    `corpus-detect-changes --record-baseline` edits this file line by line and writes
-    `sha256: "abc..."`; `yaml.safe_dump` on a plain str writes `sha256: abc...`.
-    Identical YAML, different bytes -- and a real diff arrives buried in quote churn
-    the moment the other tool touches the file next. `src/discover_counties.py` hit
-    this first for the county tier; this is the same fix for the state tier.
-    """
-
-
-def _quoted(dumper, data):
-    return dumper.represent_scalar("tag:yaml.org,2002:str", str(data), style='"')
-
-
 class _Dumper(yaml.SafeDumper):
     pass
 
@@ -132,14 +118,12 @@ _Dumper.add_representer(_Quoted, _quoted)
 
 
 def _carry_recorded(sources: list[dict]) -> None:
-    """Carry `sha256` (and its `last_checked`) across from the committed manifest.
+    """Carry a recorded `sha256` across from the committed manifest, keyed on `url`.
 
-    TWO WRITERS, ONE FILE, AND ONLY ONE OF THEM OWNS THIS FIELD. Enumeration owns
-    which documents exist -- ids, urls, titles, families, terms -- re-derived fresh
-    from the SharePoint listing every run. The BASELINE is owned by
-    `corpus-detect-changes --record-baseline`, which records what upstream served so
-    drift can be detected later; `build_sources()` always emits `sha256: ""` because
-    it has no way to know that value and must not guess it.
+    See `_manifest_baseline.carry_recorded_sha256` for the full contract this
+    delegates to (the "two writers, one field", url-vs-id, and last_checked
+    reasoning all live there -- it is shared with `discover_counties.py`'s copy
+    of this same function).
 
     Without this, every re-run of `enumerate_cbas.py` resets all 512 state-tier
     baselines to `""`, and the next drift run reports every one of them as newly
@@ -156,15 +140,7 @@ def _carry_recorded(sources: list[dict]) -> None:
         held = yaml.safe_load(GROUP_FILE.read_text(encoding="utf-8")) or {}
     except yaml.YAMLError:
         return
-    prior = {s["id"]: s for s in (held.get("sources") or []) if isinstance(s, dict)}
-    for s in sources:
-        was = prior.get(s["id"])
-        if not was:
-            continue
-        if was.get("sha256"):
-            s["sha256"] = _Quoted(was["sha256"])
-        if was.get("last_checked"):
-            s["last_checked"] = was["last_checked"]
+    carry_recorded_sha256(held.get("sources") or [], sources)
 
 
 def build_sources(files: list[dict], today: str) -> list[dict]:

@@ -30,7 +30,7 @@ sources:
   sha256: "8f677c88332b436b85c0faebe6d3031f5420b05f30509d40ec6a2ed4143d82df"
   title: AFSCME CBA 2025-2028
   term: 2025-2028
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
 - id: coos-cads-cba-2026-2029
   url: https://co.coos.or.us/files/6d9ce1874/CADS%2BCBA%2B2026-2029.pdf
   family: cba
@@ -38,7 +38,7 @@ sources:
   sha256: "6894b07c1f586ff4a089d6fa58a8346a0e50d7b62ba2525a8e760a50502ab8e4"
   title: CADS CBA 2026-2029
   term: 2026-2029
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
 - id: coos-coos-foppo-cba-final-2025-2027
   url: https://co.coos.or.us/files/573eeaa31/COOS%2BFOPPO%2BCBA%2BFINAL%2B2025-2027.pdf
   family: cba
@@ -46,7 +46,7 @@ sources:
   sha256: "0f9fd4ab683001c1c9afbd39fcb5d09de14165d8530420e7f24a6e9a1092c5f5"
   title: COOS FOPPO CBA FINAL 2025-2027
   term: 2025-2027
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
 - id: coos-prosecuting-attorneys-cba-2024-2027
   url: https://co.coos.or.us/files/3ed43907f/prosecuting%5Fattorneys%5Fcba%5F2024-2027.pdf
   family: cba
@@ -54,7 +54,7 @@ sources:
   sha256: "4dc494ca9d54b347e620de7c3ce6e5f3886bfb9809d59c1e461a323900bf6feb"
   title: Prosecuting Attorneys CBA 2024-2027
   term: 2024-2027
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
 - id: coos-roads-union-cba-2024-2027
   url: https://co.coos.or.us/files/7e42a389f/roads%5Funion%5Fcba%5F2024-2027.pdf
   family: cba
@@ -62,7 +62,7 @@ sources:
   sha256: "c32f3c8ac35d57e3b9bb7fe4cd6292931562c387473416d27fae8348f7bf2490"
   title: Roads Union CBA 2024-2027
   term: 2024-2027
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
 - id: coos-ona-cba-2024-2027
   url: https://co.coos.or.us/files/1d95d5c8c/ona%5Fcba%5F2024-2027.pdf
   family: cba
@@ -70,7 +70,7 @@ sources:
   sha256: "0e69c46d97ccf4b13298ffda4b37691f21c438399efce9b90741f92458933d10"
   title: ONA CBA 2024-2027
   term: 2024-2027
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
 - id: coos-solid-waste-cba-2024-2027
   url: https://co.coos.or.us/files/eaf81a903/solid%5Fwaste%5Fcba%5F2024-%5F2027.pdf
   family: cba
@@ -78,4 +78,4 @@ sources:
   sha256: "1e8794a55911e6e28e03fcb601c01b7dd86e83022a32f34bb987df784794e3a6"
   title: Solid Waste CBA 2024- 2027
   term: 2024-2027
-  last_checked: '2026-08-02'
+  last_checked: '2026-08-25'
