@@ -44,6 +44,13 @@ jobs:
         _meta/templates
         agreements
 
+  # The gates every template-shaped corpus owes -- authority graph current, STATUS.md current,
+  # llms.txt Contents filled in -- run from the toolkit's reusable template-gates.yml, so they
+  # cannot drop out of this file one at a time (corpus-toolkit v1.35.0; CONTEXT.md "Template
+  # gates"). Corpus-specific checks stay in `generated` below.
+  template-gates:
+    uses: OregonAI/corpus-toolkit/.github/workflows/template-gates.yml@v1
+
   # EVERY COMMITTED GENERATED ARTIFACT MUST BE CURRENT, checked on every PR.
   #
   # This is the gate the toolkit cannot provide for you. It only READS
@@ -82,9 +89,18 @@ jobs:
   # not drift. Both `--check` implementations compare CONTENT and print the exact
   # command to re-run.
   generated:
+    # Waits for template-gates and fails when it failed, so the template gates are binding
+    # through this (required) check until `template-gates / gates` is itself required.
+    needs: template-gates
+    if: always()
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
+      - name: template-gates must have passed
+        if: needs.template-gates.result != 'success'
+        run: |
+          echo "template-gates finished with '${{ needs.template-gates.result }}' -- see that job" >&2
+          exit 1
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
@@ -93,8 +109,6 @@ jobs:
       # Dockerfile bakes -- so these gates prove the toolkit this corpus actually ships. The
       # reusable workflows above run the CI track at `@v1` (corpus-toolkit ADR-0014).
       - run: pip install -r requirements.txt
-      - name: Authority graph must be current
-        run: python3 src/build_graph.py --check
       # The county source groups are generated from the archived discovery fetches
       # committed under _meta/discovery/ — deterministic, no network. The STATE group
       # (src/enumerate_cbas.py --check) is deliberately NOT here: it enumerates a live
@@ -102,20 +116,6 @@ jobs:
       # in scheduled.yml's weekly drift job instead, the oregon-audits arrangement.
       - name: County source groups must be current
         run: python3 src/discover_counties.py --check
-      # The llms.txt Contents stub must not survive into a real corpus. Five live
-      # corpora carried the template's HTML-comment placeholder for weeks — an advertised
-      # agent entry point serving an empty index — because nothing ever forced the fill
-      # (corpus-template#16). Guarded here, not on the template itself: the template still
-      # carries {{CORPUS_NAME}} placeholders, and a repo that still has THOSE is the
-      # template (or an instantiation nobody finished, which contract_smoke catches).
-      - name: llms.txt Contents must be filled in
-        run: |
-          if ! grep -q "{{CORPUS_NAME}}" llms.txt && grep -q "One annotated link per" llms.txt; then
-            echo "llms.txt still carries the template's Contents stub — fill it in" >&2
-            exit 1
-          fi
-      - name: STATUS.md must be current
-        run: corpus-generate-status --config _meta/corpus.yml --output STATUS.md --check
       # THE GATE PROVENANCE CANNOT BE. corpus-verify-provenance compares the body
       # against the snapshot; when the SNAPSHOT is garbage the two agree perfectly and
       # it passes while the corpus publishes noise as the terms of a labor contract.
