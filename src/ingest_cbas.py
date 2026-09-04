@@ -70,8 +70,6 @@ import datetime as _dt
 import re
 import subprocess
 import sys
-import time
-import urllib.request
 from pathlib import Path
 
 import yaml
@@ -79,15 +77,17 @@ import yaml
 REPO_ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(REPO_ROOT / "src"))
 
+from corpus_toolkit import config as config_mod         # noqa: E402
+from corpus_toolkit.documents import write_document     # noqa: E402
 from corpus_toolkit.repo import hash_snapshot           # noqa: E402
+from corpus_toolkit.sources.fetch import Fetcher, sniff  # noqa: E402
 
 STATE_GROUP = REPO_ROOT / "_meta" / "sources" / "state.yml"
 ROSTER_FILE = REPO_ROOT / "_meta" / "state-roster-2025-2027.yml"
 SNAPSHOTS = REPO_ROOT / "_meta" / "snapshots"
+CONFIG = config_mod.load(REPO_ROOT / "_meta" / "corpus.yml")
+FETCHER = Fetcher(CONFIG)
 OUT_DIR = REPO_ROOT / "agreements" / "state" / "cba"
-UA = ("OregonAI-corpus-bot/0.1 (+https://github.com/OregonAI/oregon-collective-bargaining; "
-      "civic corpus ingest)")
-MIN_INTERVAL = 2.0
 
 ORS = re.compile(r"ORS\s+(\d+[A-Z]?\.\d{3,})")
 OAR = re.compile(r"OAR\s+(\d{3}-\d{3}-\d{4})")
@@ -95,22 +95,15 @@ OAR = re.compile(r"OAR\s+(\d{3}-\d{3}-\d{4})")
 DATESPAN = re.compile(r"([A-Z][a-z]+ \d{1,2},? \d{4})\s*(?:through|thru|to|until|[-–])\s*"
                       r"([A-Z][a-z]+ \d{1,2},? \d{4})")
 
-_last_fetch = 0.0
 
 
 def fetch(url: str, dest: Path, refetch: bool) -> None:
-    global _last_fetch
-    if dest.is_file() and not refetch:
-        return
-    wait = MIN_INTERVAL - (time.monotonic() - _last_fetch)
-    if wait > 0:
-        time.sleep(wait)
-    req = urllib.request.Request(url, headers={"User-Agent": UA})
-    data = urllib.request.urlopen(req, timeout=120).read()
-    _last_fetch = time.monotonic()
-    if not data.startswith(b"%PDF"):
+    """Fetch to `dest` unless cached (toolkit Fetcher: honest agent, HTTP/2, per-host
+    interval, 429 backoff, refusals raised -- corpus-toolkit ADR-0016). Must be a PDF."""
+    data, _ = FETCHER.snapshot(url, dest, refetch)
+    if sniff(data, "pdf") != "pdf":
+        dest.unlink(missing_ok=True)
         raise ValueError(f"response is not a PDF ({data[:40]!r})")
-    dest.write_bytes(data)
 
 
 def extract(pdf: Path, txt: Path) -> tuple[str, int]:
@@ -358,10 +351,9 @@ Statutes and rules the agreement's text cites are recorded in frontmatter
 `implements` edge anywhere.
 """
     out = OUT_DIR / f"{doc_id}.md"
-    out.write_text("---\n" + yaml.safe_dump(fm, sort_keys=False, allow_unicode=True,
-                                            width=88) + "---\n" + body,
-                   encoding="utf-8")
-    return out
+    # Frontmatter order, defaults and schema validation are the toolkit's; a document that
+    # would fail CI is refused here with every finding named (ADR-0016).
+    return write_document(CONFIG, out, fm, body)
 
 
 def main() -> int:
