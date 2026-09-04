@@ -55,9 +55,7 @@ import datetime as _dt
 import re
 import subprocess
 import sys
-import time
 import urllib.parse
-import urllib.request
 from pathlib import Path
 
 import yaml
@@ -65,17 +63,19 @@ import yaml
 REPO_ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(REPO_ROOT / "src"))
 
+from corpus_toolkit import config as config_mod         # noqa: E402
+from corpus_toolkit.documents import write_document     # noqa: E402
 from corpus_toolkit.repo import hash_snapshot           # noqa: E402
+from corpus_toolkit.sources.fetch import Fetcher, sniff  # noqa: E402
 
 import ocr_corroborate as occ                           # noqa: E402
 
 SOURCES_DIR = REPO_ROOT / "_meta" / "sources"
 EMPLOYERS = REPO_ROOT / "_meta" / "employers.yml"
 SNAPSHOTS = REPO_ROOT / "_meta" / "snapshots"
+CONFIG = config_mod.load(REPO_ROOT / "_meta" / "corpus.yml")
+FETCHER = Fetcher(CONFIG)
 AGREEMENTS = REPO_ROOT / "agreements"
-UA = ("OregonAI-corpus-bot/0.1 (+https://github.com/OregonAI/oregon-collective-bargaining; "
-      "civic corpus ingest)")
-MIN_INTERVAL = 2.0
 
 ORS = re.compile(r"ORS\s+(\d+[A-Z]?\.\d{3,})")
 OAR = re.compile(r"OAR\s+(\d{3}-\d{3}-\d{4})")
@@ -90,23 +90,19 @@ UNION_TOKENS = ("AFSCME", "SEIU", "ONA", "FOPPO", "IBEW", "IUOE", "Teamsters",
                 "CCDSA", "CCSA", "IAFF", "Painters", "Pharmacists", "Prosecuting",
                 "Local 626", "Local 88")
 
-_last_by_host: dict[str, float] = {}
 
 
 def fetch(url: str, dest: Path | None, refetch: bool, expect_pdf: bool = True) -> bytes:
-    if dest and dest.is_file() and not refetch:
-        return dest.read_bytes()
-    host = urllib.parse.urlparse(url).netloc
-    wait = MIN_INTERVAL - (time.monotonic() - _last_by_host.get(host, 0.0))
-    if wait > 0:
-        time.sleep(wait)
-    req = urllib.request.Request(url, headers={"User-Agent": UA})
-    data = urllib.request.urlopen(req, timeout=120).read()
-    _last_by_host[host] = time.monotonic()
-    if expect_pdf and not data.startswith(b"%PDF"):
+    """Fetch (to `dest` when given, cached unless `refetch`) through the toolkit Fetcher:
+    honest agent, HTTP/2, per-host interval, 429 backoff, refusals raised (ADR-0016)."""
+    if dest is not None:
+        data, _ = FETCHER.snapshot(url, dest, refetch)
+    else:
+        data = FETCHER.get(url).body
+    if expect_pdf and sniff(data, "pdf") != "pdf":
+        if dest is not None:
+            dest.unlink(missing_ok=True)
         raise ValueError(f"response is not a PDF ({data[:40]!r})")
-    if dest:
-        dest.write_bytes(data)
     return data
 
 
@@ -338,10 +334,9 @@ Statutes and rules the document's text cites are recorded in frontmatter
     out_dir = AGREEMENTS / county["slug"] / family
     out_dir.mkdir(parents=True, exist_ok=True)
     out = out_dir / f"{doc_id}.md"
-    out.write_text("---\n" + yaml.safe_dump(fm, sort_keys=False, allow_unicode=True,
-                                            width=88) + "---\n" + body,
-                   encoding="utf-8")
-    return out
+    # Frontmatter order, defaults and schema validation are the toolkit's; a document that
+    # would fail CI is refused here with every finding named (ADR-0016).
+    return write_document(CONFIG, out, fm, body)
 
 
 def main() -> int:
