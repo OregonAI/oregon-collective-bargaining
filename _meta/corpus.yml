@@ -102,6 +102,18 @@ graph_path: "_meta/graph.json"
 # update on unrelated schedules (and two counties overwrite files in place without
 # renaming), so a single manifest would make every employer's drift one employer's
 # problem. Loader reads *.yml ONLY — a .yaml file here is silently invisible.
+# VOLATILE PATTERNS (corpus-toolkit#66): byte regexes stripped before the drift hash. Clackamas
+# publishes several agreements inline as HTML pages with no <main> element, so the whole page is
+# hashed -- including two widgets that move on their own: a SITEWIDE Drupal alert block (a
+# county-wide notice posted or cleared moves every Clackamas hash at once; 19 of 20 sources
+# "changed" together on 2026-08-28, oregon-collective-bargaining#64) and the upcoming-events
+# listing (meetings roll off monthly). Measured 2026-09-05: together they are 0.7%-3.8% of a
+# page's bytes. Nothing here touches the agreement text.
+volatile_patterns:
+  - '<div class="alert alert-info top_alert">[\s\S]*?</div>\s*</div>\s*</div>'
+  - '<div class="time_category">[\s\S]*?</div>\s*</div>'
+  - '<div class="event_name">[\s\S]*?</div>\s*</div>'
+
 source_manifest_path: "_meta/sources"
 snapshot_dir: "_meta/snapshots"
 
