@@ -19,9 +19,19 @@ retrieved: '2026-08-02'
 source_sha256: 7bf8dfc3827ba91bcc461d87f26b7c0a5f902ea6dae305b09431e4e25dcf89a7
 snapshot_policy: hash-only
 status: current
-content_mode: 'verbatim'
+content_mode: summary
 text_source: ocr
-reproduction_basis: 'public record of a public body (ORS 192.311-192.478); the employer publishes the executed agreement in full at source_url; a ratified agreement is an official act (Georgia v. Public.Resource.Org, 590 U.S. 255 (2020)) — mirrored in full per the class determination in corpus.yml schema.doc_types (verbatim: true)'
+reproduction_basis: 'jointly-authored contract, class verbatim: true in corpus.yml — but
+  this source is an image-only scan, so no verbatim extraction exists to mirror; metadata
+  plus official link, per the content_exception below'
+content_exception: 'image-only scan read by OCR. The reading passed three-engine
+  corroboration and is committed as the snapshot, but it is NOT published as verbatim text:
+  the two engines agree on only 81% of this document''s 48 figures, and it carries 4
+  dollar amount(s) — wage rates, step schedules or premium pay, which is what a reader acts
+  on. A misread digit there is plausible and indistinguishable from the real figure.
+  Metadata and hash are trustworthy; the executed text is at source_url. Operator decision
+  on #91, 2026-09-12: convert where measured figure agreement is under 95% AND dollar
+  amounts are published.'
 conversion_notes: no text layer in the source PDF; text recovered by OCR. Two independent
   engines (tesseract (ocrmypdf) + paddleocr PP-OCRv6) agree on 91% of the word sequence and
   81% of the 48 figures, 96% dictionary-recognizable; NOT human-verified — treat every number
@@ -74,65 +84,3 @@ Statutes and rules the document's text cites are recorded in frontmatter
 `executive-regulatory-frameworks` as cites — this corpus asserts no
 `implements` edge anywhere.
 
-## Full text
-
-                                                   MEMORANDUM OF UNDERSTANDING                                                  REVI fe vVE D                  |
-                                            By and between DESCHUTES COUNTY, OREGON                                                  f
-                                                                                                                                     ‘c                     |
-                                                               And                                                     Fceaceemernne Ts          coe   aca |
-                                                                                    70 LES
-                              THE INTERNATIONAL UNION OF OPERATING ENGINEERS, Local 701                                              QL COU                 i
-                                                                      In regards to                                          EES          Es            J
-                       AMENDMENT TO ARTICLE 14:01 WAGES & NEW CLASSIFICATIONS, EXHIBIT B
-
-
-14:01 Wages and New Classifications
-
-Employees shall be compensated in accordance with a step salary schedule attached to this Agreement and marked
-“Exhibit B’, which is hereby incorporated into and made a part of this Agreement.
-
-Exhibit B modifications:      Effective April 1, 2022, Deschutes County is changing the pay grade for the below classifications
-to ensure Step 1 is at or above $18.00 per hour.
-
-                       Pay
-                     Grade       STEPL        STEP 2       STEP 3       STEP 4       STEPS        STEP 6       STEP?       STEP 8     STEPS
- LANDFILL SITE
- ATTENDANT.           1020       $18.4461   | $19.3687   | $20.3368   | $21.3537 | $22.4214 |     $23.5425
- PW CUSTOMER
- SERVICE CLERK         1030      $18.2688   | $18.9984   | $19.7624   | $20.5620   | $22.3774 |   $22.2281   | $23.1140   $24.0386 | $25.0001
- Pw ACCOUNTING
- CLERK                 (050      $19,3686   | $20.1505   | $20.9488   | $21.7796   | $22.6429   | $23.5548   | $24.4999 | $25.4799    $26.4994
-
-
-
-
-Any dispute concerning this agreement will be resolved under the terms of Article 6, Grievance Procedure of the parties’
-CBA.
-
-Except as specifically modified by this MOU, all terms and conditions of the CBA shall remain in full force and effect.
-
-
-AUTHORITY:
-
-The individuals signing this Agreement of Understanding in their official capacity hereby personally guarantee and
-warrant their authority to act for and bind the respective partiesor organizations that their signatures purport to
-represent.
-
-DATED this       7             Day of Adu                                           2022.
-
-FOR DESCHUTES CO                                                         FOR THE UNION
-
-
-
-    Kall
-  Aue
-Nick’! AY
-                                                          ak             James Andetson
-County Administrator                                                     Business Manager and Financial Secretary
-Deschutes County                                                         international Union of Operating Engineers, Local 701
-
-
-
-
-                                                                                                                            DC ~ 2022-365
-
