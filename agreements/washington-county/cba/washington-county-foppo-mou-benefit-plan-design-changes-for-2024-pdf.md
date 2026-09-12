@@ -19,9 +19,19 @@ retrieved: '2026-08-02'
 source_sha256: 63b70f2bde6f1d434e7d47dd8f4bb73baf09eaa64ef5702b6cf83fbaac909c1a
 snapshot_policy: hash-only
 status: current
-content_mode: 'verbatim'
+content_mode: summary
 text_source: ocr
-reproduction_basis: 'public record of a public body (ORS 192.311-192.478); the employer publishes the executed agreement in full at source_url; a ratified agreement is an official act (Georgia v. Public.Resource.Org, 590 U.S. 255 (2020)) — mirrored in full per the class determination in corpus.yml schema.doc_types (verbatim: true)'
+reproduction_basis: 'jointly-authored contract, class verbatim: true in corpus.yml — but
+  this source is an image-only scan, so no verbatim extraction exists to mirror; metadata
+  plus official link, per the content_exception below'
+content_exception: 'image-only scan read by OCR. The reading passed three-engine
+  corroboration and is committed as the snapshot, but it is NOT published as verbatim text:
+  the two engines agree on only 86% of this document''s 19 figures, and it carries 1
+  dollar amount(s) — wage rates, step schedules or premium pay, which is what a reader acts
+  on. A misread digit there is plausible and indistinguishable from the real figure.
+  Metadata and hash are trustworthy; the executed text is at source_url. Operator decision
+  on #91, 2026-09-12: convert where measured figure agreement is under 95% AND dollar
+  amounts are published.'
 conversion_notes: no text layer in the source PDF; text recovered by OCR. Two independent
   engines (tesseract (ocrmypdf) + paddleocr PP-OCRv6) agree on 96% of the word sequence and
   86% of the 19 figures, 100% dictionary-recognizable; NOT human-verified — treat every number
@@ -73,46 +83,3 @@ Statutes and rules the document's text cites are recorded in frontmatter
 `executive-regulatory-frameworks` as cites — this corpus asserts no
 `implements` edge anywhere.
 
-## Full text
-
-                     MEMORANDUM OF UNDERSTANDING (MOU)
-By and between the Federation of Oregon Parole and Probation Officers and Washington County
-
-This memorandum of agreement is between the Washington County (“County”) and the
-Federation of Oregon Parole and Probation Officers (“Union”) (collectively the "Parties")
-regarding Impact Bargaining of Benefit Plan Design Changes for Calendar Year 2024 and a one-
-time savings share of eighty-five dollars ($85);
-WHEREAS the County, and Union are parties to a collective bargaining agreement currently in
-effect through June 30th, 2026; and
-
-WHEREAS on July 31, 2023, the County notified the Union via writing that it was proposing
-changes to the Kaiser and Providence health insurance benefits plans and introducing two High
-Deductible Health Plans with HRA/VEBA (“HDHP VEBA”), one with Kaiser and one with
-Providence;
-
-WHEREAS the Union sent the County a demand to bargain the changes, in writing;
-WHEREAS the Parties met to discuss the proposed plan changes the changes on August 14,
-2023, and September 13, 2023;
-
-NOW THEREFORE the Parties agree as follows:
-
-1. The Union agrees to the County’s proposed changes for the Kaiser and Providence health
-insurance benefit plans and the introduction of the HDHP VEBA;
-2. As a way to share cost-savings that the County will realize due to introduction of the HDHP
-VEBA, if, as of January 1, 2024, at least 20% of the Union unit members elect the HDHP VEBA
-plan, then the County will provide a one-time savings share payment of eighty-five dollars and
-zero cents ($85.00) to all Union unit members, paid into their VEBA account on the first payroll
-period in February, 2024.
-
-
-IT IS AGREED this }&day of September 2023
-
-1        Nw
-For the County
-
-
-
-
-For the Union
-                 ns
-
