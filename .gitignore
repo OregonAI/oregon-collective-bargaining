@@ -43,3 +43,7 @@ _meta/snapshots/*.signed
 # (_meta/corpus.yml says so under plugins.semantic_search_module; nothing enforced it,
 # so a local build landed in `git add -A` staging until it was caught by review).
 _meta/embeddings/
+
+# OCR intermediate page renders — PaddleOCR working directory. A previous run
+# leaked p-1.png into the repo; these are derived, large, and reproducible.
+_meta/snapshots/.paddle-work/
