@@ -221,17 +221,48 @@ def write_doc(county: dict, rec: dict, doc_id: str, sha: str, pages: int, text: 
         "source_sha256": sha,
         "snapshot_policy": "hash-only",
         "status": "current",
-        "content_mode": "summary",
+        # CONTENT MODE FOLLOWS THE EXTRACTION, NOT THE CLASS.
+        #
+        # corpus.yml declares collective_bargaining_agreement `verbatim: true` (commit
+        # 7fd9798, "Flip agreements to verbatim: mirror the full executed text"), and
+        # corpus_toolkit.validate.provenance enforces it: a doc_type declared verbatim
+        # must be `verbatim` or `mixed`, and `summary` is refused unless the document
+        # carries a `content_exception`. This field was left hardcoded "summary" by that
+        # flip, so every document this ingester wrote failed schema validation and #5's
+        # OCR pass could not land -- for a reason that had nothing to do with OCR.
+        #
+        # A CLEAN EXTRACTION IS VERBATIM. That is the class determination and it matches
+        # the 156 committed CBAs.
+        #
+        # AN OCR READING IS NOT (#5, operator decision 2026-09-12). A machine reading is
+        # not the executed text, and this corpus is no longer summary-first, so publishing
+        # one as `verbatim` would present a guessed wage rate as the agreement. The
+        # template's own measurement is the reason: word agreement runs 88-98% while
+        # agreement on FIGURES runs 69-85% -- and in a collective-bargaining agreement the
+        # figures are the wage tables, step schedules and premium rates, which is exactly
+        # what a reader acts on. So an OCR'd scan ingests as metadata plus a committed
+        # snapshot, with a content_exception saying so, and no published verbatim text.
+        # The document becomes findable; nobody is served a guess as the contract.
+        "content_mode": "summary" if (ocr or stub) else "verbatim",
         **({"text_source": "ocr"} if ocr else {}),
         **({"content_exception": "image-only scan whose machine readings failed "
             "three-engine corroboration; no extraction committed, so the raw-byte "
             "hash cannot be re-verified from a committed .txt"} if stub else {}),
-        **({"content_exception": "image-only scan whose machine readings failed "
-            "three-engine corroboration; no extraction committed, so the raw-byte "
-            "hash cannot be re-verified from a committed .txt"} if stub else {}),
-        "reproduction_basis": ("jointly-authored contract; summary + official link per "
-                               "the class determination in corpus.yml schema.doc_types "
-                               "(verbatim: false)"),
+        **({"content_exception":
+            "image-only scan read by OCR, not extracted. The machine reading passed "
+            "three-engine corroboration and is committed as the snapshot, but it is NOT "
+            "published as verbatim text: engine agreement on FIGURES runs well below "
+            "agreement on words, and this document's figures are wage rates, step "
+            "schedules and premium pay. Metadata and hash are trustworthy; the executed "
+            "text is at source_url"} if ocr and not stub else {}),
+        "reproduction_basis": (
+            ("jointly-authored contract; the executed agreement is a public record of a "
+             "public body (ORS 192.311-192.478) and is mirrored in full per the class "
+             "determination in corpus.yml schema.doc_types (verbatim: true)")
+            if not (ocr or stub) else
+            ("jointly-authored contract, class verbatim: true in corpus.yml — but this "
+             "source is an image-only scan, so no verbatim extraction exists to mirror; "
+             "metadata plus official link, per the content_exception above")),
         "conversion_notes": (
             f"image-only scan; text WITHHELD — three OCR engines (tesseract, "
             f"paddleocr, docTR) disagree ({stub['agreement']:.0%} best word-sequence "
