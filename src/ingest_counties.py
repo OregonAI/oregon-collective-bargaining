@@ -6,6 +6,15 @@ hash, write summary-mode documents under agreements/<employer>/{cba,loa}/.
   python3 src/ingest_counties.py --only multnomah
   python3 src/ingest_counties.py --limit 3       # first N sources per county (smoke)
   python3 src/ingest_counties.py --refetch
+  python3 src/ingest_counties.py --check         # report what a run would do; write nothing
+
+NETWORK ACCESS IS OPT-IN (#93). A source already ingested, with its committed
+extraction (`<id>.txt`) present, is reused as-is unless `--refetch` is given: no
+fetch, no re-extraction, no rewrite -- so a bulk re-ingest with no flags is safe to
+run and leaves committed documents byte-identical except where `--refetch` actually
+went to the network and the source changed. `--check` reports, per source, which of
+those three things (ingest new / reuse unchanged / go to the network) a real run
+would do, without doing any of them.
 
 SAME DISCIPLINE AS THE STATE TIER (src/ingest_cbas.py), different publisher shapes:
 
@@ -65,7 +74,7 @@ sys.path.insert(0, str(REPO_ROOT / "src"))
 
 from corpus_toolkit import config as config_mod         # noqa: E402
 from corpus_toolkit.documents import write_document     # noqa: E402
-from corpus_toolkit.repo import hash_snapshot           # noqa: E402
+from corpus_toolkit.repo import hash_snapshot, parse_frontmatter  # noqa: E402
 from corpus_toolkit.sources.fetch import Fetcher, sniff  # noqa: E402
 
 import ocr_corroborate as occ                           # noqa: E402
@@ -176,12 +185,74 @@ def html_main_text(page: str) -> str:
     return "\n".join(" ".join(l.split()) for l in re.split(r"\s{2,}|\n", text) if l.strip())
 
 
+# Fields the source cannot supply on every run: `union` and `term` come from the
+# county index and the document's own text (own_dates), not the ingester's own logic;
+# `effective_date`/`expiry_date` likewise; `agency_registry_slugs` is a human curation
+# pass this ingester never performs (it always starts a document at `[]`); and
+# `reproduction_basis` is this ingester's own computed constant but is listed here
+# too per the issue that named it (oregon-collective-bargaining#93) as defence in
+# depth. A re-ingest that cannot freshly reproduce one of these must carry the
+# committed value forward, never silently overwrite it with empty -- the same
+# whole-row-survival shape as executive-regulatory-frameworks#353's preserve_manual().
+NON_DERIVABLE_FIELDS = ("union", "term", "effective_date", "expiry_date",
+                        "agency_registry_slugs", "reproduction_basis")
+
+
+def load_existing(path: Path) -> dict | None:
+    """The currently committed frontmatter at `path`, or None when this document has
+    never been ingested before. A file that exists but fails to parse is NOT the same
+    as "never ingested" -- it is reported as a failure (the caller's exception handler
+    does that), never silently treated as absent. Treating "could not check" as "is
+    not there" is exactly the failure this corpus's rules forbid: it would make a
+    real, unreadable document look like a blank slate to overwrite."""
+    if not path.is_file():
+        return None
+    fm, _ = parse_frontmatter(path)
+    return fm
+
+
+def carry_forward_nonderivable(fresh: dict, existing: dict | None) -> dict:
+    """Mutate and return `fresh`: for each of NON_DERIVABLE_FIELDS, a value this run
+    could not (re)produce -- empty string, empty list, None -- is replaced by the
+    committed document's value for that field. A value this run DID produce (a term
+    the document's own text stated; a future curation pass populating
+    agency_registry_slugs) wins over the committed value, because that is this run's
+    own fresh finding, not a gap. `existing=None` (no prior document) is a no-op --
+    there is nothing to carry forward for a document ingested for the first time."""
+    if not existing:
+        return fresh
+    for field in NON_DERIVABLE_FIELDS:
+        if not fresh.get(field) and existing.get(field):
+            fresh[field] = existing[field]
+    return fresh
+
+
+def classify(out: Path, txt: Path, refetch: bool) -> str:
+    """What a real run would do for this source, without touching the network or
+    writing anything -- the `--check` seam. Three shapes:
+      * never ingested before -> a real run would fetch and ingest it.
+      * ingested, with a committed snapshot (.txt) to reuse, and --refetch not
+        given -> a real run reuses it: zero network requests, byte-identical file.
+      * --refetch given, or ingested with no committed snapshot to reuse (e.g. a
+        metadata-only OCR stub) -> a real run goes to the network.
+    """
+    if not out.is_file():
+        return "new — would fetch and ingest"
+    if refetch:
+        return "--refetch requested — would re-verify against the source"
+    if txt.is_file():
+        return "unchanged — committed snapshot reused, no network"
+    return "no committed snapshot to reuse (e.g. a metadata-only stub) — would fetch"
+
+
 def write_doc(county: dict, rec: dict, doc_id: str, sha: str, pages: int, text: str,
               today: str, cba_by_union: dict, fetched_url: str,
               src_fmt: str = "pdf", ocr: dict | None = None,
               stub: dict | None = None) -> Path:
     family = rec["family"]
     title = rec["title"]
+    out = AGREEMENTS / county["slug"] / family / f"{doc_id}.md"
+    existing = load_existing(out)
     union = union_of(title)
     # A stub commits no text, so nothing text-derived is trusted: term only as the
     # county's index stated it, no dates, no citations.
@@ -288,6 +359,23 @@ def write_doc(county: dict, rec: dict, doc_id: str, sha: str, pages: int, text: 
         },
         "tags": ["collective-bargaining", "county", county["slug"]],
     }
+    # MERGE OVER THE EXISTING DOCUMENT, don't construct a fresh one (#93): union,
+    # term, effective_date, expiry_date, agency_registry_slugs and reproduction_basis
+    # come from the county index, the document's own text, or a curation pass this
+    # ingester never performs -- not from anything guaranteed reproducible on every
+    # run. Refresh the locals `glance` (below) reads from the merged result, so the
+    # curator-facing prose matches what was actually written, including anything
+    # just carried forward from the committed document.
+    fm = carry_forward_nonderivable(fm, existing)
+    union = fm["union"]
+    term = fm["term"] or None
+    eff = fm["effective_date"] or None
+    exp = fm["expiry_date"] or None
+    # `citation` was built from the PRE-merge term/union; recompute it so a term
+    # carried forward by the merge above still shows up in the citation string.
+    cite_bits = [term, county["name"], union or title, "agreement" if family == "cba"
+                 else "letter of agreement"]
+    fm["citation"] = " ".join(b for b in cite_bits if b)
 
     glance = [f"{'Letter of agreement / MOU under' if family == 'loa' else 'Collective bargaining agreement between'} "
               f"**{county['name']}** and **{union or 'the signatory association'}**"
@@ -305,12 +393,6 @@ def write_doc(county: dict, rec: dict, doc_id: str, sha: str, pages: int, text: 
     glance.append(f"- Source document: {pages} pages (PDF)" if src_fmt == "pdf" else
                   "- Source document: an HTML page — the county publishes this "
                   "instrument's text inline rather than as a PDF")
-    if stub:
-        glance.insert(0, "**METADATA-ONLY RECORD — no text is held.** This is an "
-                         "image-only scan whose machine readings failed three-engine "
-                         "corroboration (see conversion_notes). Everything on this page "
-                         "comes from the county's index listing; read the document "
-                         "itself at the official source link.")
     if stub:
         glance.insert(0, "**METADATA-ONLY RECORD — no text is held.** This is an "
                          "image-only scan whose machine readings failed three-engine "
@@ -362,9 +444,7 @@ Statutes and rules the document's text cites are recorded in frontmatter
 `executive-regulatory-frameworks` as cites — this corpus asserts no
 `implements` edge anywhere.
 """
-    out_dir = AGREEMENTS / county["slug"] / family
-    out_dir.mkdir(parents=True, exist_ok=True)
-    out = out_dir / f"{doc_id}.md"
+    out.parent.mkdir(parents=True, exist_ok=True)
     # Frontmatter order, defaults and schema validation are the toolkit's; a document that
     # would fail CI is refused here with every finding named (ADR-0016).
     return write_document(CONFIG, out, fm, body)
@@ -384,12 +464,16 @@ def main() -> int:
                     help="recover image-only scans with ocrmypdf (tesseract) — see the "
                          "OCR policy note in this docstring")
     ap.add_argument("--refetch", action="store_true")
+    ap.add_argument("--check", action="store_true",
+                    help="report what a real run would do for each source -- ingest, "
+                         "reuse the committed snapshot, or go to the network -- and exit "
+                         "without fetching, extracting or writing anything (#93)")
     args = ap.parse_args()
 
     employers = {e["slug"]: e for e in
                  yaml.safe_load(EMPLOYERS.read_text(encoding="utf-8"))["employers"]}
     today = _dt.date.today().isoformat()
-    total_ok = total_fail = 0
+    total_ok = total_fail = total_reused = 0
     skipped: list[str] = []
 
     for group_file in sorted(SOURCES_DIR.glob("*.yml")):
@@ -408,6 +492,26 @@ def main() -> int:
             doc_id = county["slug"] + rec["id"][len(group["group"]):]
             pdf = SNAPSHOTS / f"{doc_id}.pdf"
             txt = SNAPSHOTS / f"{doc_id}.txt"
+            out = AGREEMENTS / county["slug"] / rec["family"] / f"{doc_id}.md"
+            if args.check:
+                print(f"  {doc_id}: {classify(out, txt, args.refetch)}")
+                continue
+            # NETWORK ACCESS IS OPT-IN (#93): a document already ingested, with its
+            # committed extraction (.txt) on disk, is reused as-is when --refetch was
+            # not passed -- no fetch, no re-extraction, no rewrite. This is what makes
+            # a bulk re-ingest safe to run: unchanged documents stay byte-identical and
+            # `retrieved`/`source_sha256` do not move unless the source was actually
+            # fetched. A document with no committed snapshot to reuse (never ingested,
+            # or a metadata-only OCR stub whose text was deliberately withheld) still
+            # falls through to the fetch path below -- there is nothing here to reuse.
+            if not args.refetch and out.is_file() and txt.is_file():
+                if rec["family"] == "cba":
+                    u = union_of(rec["title"])
+                    if u:
+                        cba_by_union.setdefault(u, []).append(doc_id)
+                ok += 1
+                total_reused += 1
+                continue
             try:
                 fetched_url = rec["url"]
                 src_fmt = "pdf"
@@ -560,7 +664,8 @@ def main() -> int:
         total_ok += ok
         print(f"{group['group']:12} ingested {ok}/{len(sources)}")
 
-    print(f"\ntotal ingested {total_ok}, failed {total_fail}, skipped {len(skipped)}")
+    print(f"\ntotal ingested {total_ok} (reused {total_reused} unchanged, no network), "
+          f"failed {total_fail}, skipped {len(skipped)}")
     for s in skipped:
         print(f"  skipped: {s}")
     return 1 if total_fail else 0
