@@ -19,6 +19,7 @@ benefit.
 """
 from __future__ import annotations
 
+import shutil
 import subprocess
 import sys
 from pathlib import Path
@@ -46,18 +47,32 @@ def test_the_digital_signature_marker_sidecar_is_ignored():
 def test_a_real_ocr_pdf_written_to_disk_leaves_git_status_clean(tmp_path):
     """Not just the pattern -- the actual file, actually on disk, actually leaves
     `git status --porcelain` reporting nothing. This is what #95's first acceptance
-    criterion asks to be demonstrated."""
-    probe = REPO_ROOT / "_meta" / "snapshots" / "test-95-regression-probe.ocr.pdf"
+    criterion asks to be demonstrated.
+
+    HERMETIC (code review finding 7, first bullet, fix/safe-reingest): the original
+    version of this test wrote its probe straight into the REAL `_meta/snapshots/`
+    and asserted the WHOLE directory's `git status --porcelain` was empty. Any
+    unrelated dirt already sitting there -- e.g. a legitimate new `.txt` from a real
+    ingest, which is untracked and NOT ignored -- reds this test for a reason that
+    has nothing to do with #95, misdirecting the reader here. This uses a scratch
+    git repo (under `tmp_path`, like every other test in this suite) carrying only
+    this repo's REAL `.gitignore` and an empty `_meta/snapshots/` -- nothing else
+    can ever be dirty in it, so a red here can only mean the pattern itself stopped
+    covering `.ocr.pdf`."""
+    repo = tmp_path / "scratch-repo"
+    (repo / "_meta" / "snapshots").mkdir(parents=True)
+    shutil.copy(REPO_ROOT / ".gitignore", repo / ".gitignore")
+    subprocess.run(["git", "init", "-q"], cwd=repo, check=True)
+
+    probe = repo / "_meta" / "snapshots" / "test-95-regression-probe.ocr.pdf"
     probe.write_bytes(b"%PDF-1.4 not a real pdf, just a probe for #95\n")
-    try:
-        result = subprocess.run(
-            ["git", "status", "--porcelain", "_meta/snapshots/"],
-            cwd=REPO_ROOT, capture_output=True, text=True, check=True)
-        assert result.stdout == "", (
-            "a real .ocr.pdf on disk must not appear in git status -- got: "
-            f"{result.stdout!r}")
-    finally:
-        probe.unlink(missing_ok=True)
+
+    result = subprocess.run(
+        ["git", "status", "--porcelain", "_meta/snapshots/"],
+        cwd=repo, capture_output=True, text=True, check=True)
+    assert result.stdout == "", (
+        "a real .ocr.pdf on disk must not appear in git status -- got: "
+        f"{result.stdout!r}")
 
 
 def test_no_ocr_pdf_is_currently_tracked():

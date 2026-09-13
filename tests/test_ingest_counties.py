@@ -127,6 +127,72 @@ def test_load_existing_returns_none_for_a_document_never_ingested():
         / "benton-county-a-document-nobody-has-ever-ingested.md") is None
 
 
+# -- manifest_drift (finding 2's no-network compare) --------------------------------
+
+def test_manifest_drift_empty_when_nothing_changed():
+    existing = {"source_url": "https://example.org/a.pdf", "title": "A County — A Title"}
+    rec = {"url": "https://example.org/a.pdf", "title": "A Title", "format": "pdf"}
+    county = {"name": "A County"}
+
+    assert ingest_counties.manifest_drift(existing, rec, county) == []
+
+
+def test_manifest_drift_flags_a_changed_source_url_for_a_pdf_source():
+    existing = {"source_url": "https://example.org/OLD.pdf", "title": "A County — A Title"}
+    rec = {"url": "https://example.org/NEW.pdf", "title": "A Title", "format": "pdf"}
+    county = {"name": "A County"}
+
+    assert ingest_counties.manifest_drift(existing, rec, county) == ["source_url"]
+
+
+def test_manifest_drift_flags_a_changed_title():
+    existing = {"source_url": "https://example.org/a.pdf", "title": "A County — Old Title"}
+    rec = {"url": "https://example.org/a.pdf", "title": "New Title", "format": "pdf"}
+    county = {"name": "A County"}
+
+    assert ingest_counties.manifest_drift(existing, rec, county) == ["title"]
+
+
+def test_manifest_drift_is_empty_with_no_existing_document():
+    rec = {"url": "https://example.org/a.pdf", "title": "A Title", "format": "pdf"}
+    county = {"name": "A County"}
+
+    assert ingest_counties.manifest_drift(None, rec, county) == []
+
+
+def test_manifest_drift_does_not_flag_source_url_for_an_html_source_with_a_resolved_link():
+    """An HTML-format source whose index page links a document (Clackamas's dochub
+    pattern, Benton's wp-content pattern -- both recorded in this ingester's own
+    docstring) legitimately commits a DIFFERENT `source_url` than `rec['url']`: the
+    manifest's `url` is the intermediate index page, but the committed document's
+    `source_url` is whichever URL was actually fetched (the page itself, or a
+    resolved link out of it) -- which one depends on a network fetch this compare
+    must not make. Comparing them directly would false-positive on every such
+    source: reproduced against the REAL committed data (found while verifying
+    finding 2's fix against the whole corpus, not invented) -- 4 real Clackamas
+    documents (`clackamas-county-employee-association` and 3 siblings) commit their
+    resolved dochub link as `source_url` while `_meta/sources/clackamas.yml` still
+    (correctly) carries the intermediate `https://www.clackamas.us/des/...` page as
+    `url`. `title` is still checked -- it never depends on which URL was fetched."""
+    existing = {"source_url": "https://dochub.clackamas.us/documents/drupal/abc123",
+                "title": "A County — Employee Association"}
+    rec = {"url": "https://www.clackamas.us/des/employee-association",
+          "title": "Employee Association", "format": "html"}
+    county = {"name": "A County"}
+
+    assert ingest_counties.manifest_drift(existing, rec, county) == []
+
+
+def test_manifest_drift_still_flags_a_title_change_for_an_html_source():
+    existing = {"source_url": "https://dochub.clackamas.us/documents/drupal/abc123",
+                "title": "A County — Old Title"}
+    rec = {"url": "https://www.clackamas.us/des/employee-association",
+          "title": "New Title", "format": "html"}
+    county = {"name": "A County"}
+
+    assert ingest_counties.manifest_drift(existing, rec, county) == ["title"]
+
+
 # -- classify (the --check seam) -----------------------------------------------------
 
 def test_classify_a_never_ingested_source_as_new(tmp_path):
@@ -135,7 +201,12 @@ def test_classify_a_never_ingested_source_as_new(tmp_path):
     assert "new" in ingest_counties.classify(out, txt, refetch=False)
 
 
-def test_classify_an_ingested_source_with_a_committed_snapshot_as_unchanged(tmp_path):
+def test_classify_an_ingested_source_with_a_committed_snapshot_as_reused_no_network(
+        tmp_path):
+    """Finding 3 (code review, fix/safe-reingest): DRIFT.md reserves "unchanged" for
+    a measured hash compare, which classify() never performs when called with no
+    `rec`/`county` to compare against (this call shape: nothing was compared at
+    all) -- "reused, no network" is the honest claim here, not "unchanged"."""
     out = tmp_path / "doc.md"
     txt = tmp_path / "doc.txt"
     out.write_text("---\n---\n\nbody\n", encoding="utf-8")
@@ -143,8 +214,67 @@ def test_classify_an_ingested_source_with_a_committed_snapshot_as_unchanged(tmp_
 
     result = ingest_counties.classify(out, txt, refetch=False)
 
-    assert "unchanged" in result
+    assert "unchanged" not in result
+    assert "reused" in result
     assert "no network" in result
+
+
+def test_classify_reports_manifest_match_as_reused_when_rec_and_county_are_given(
+        tmp_path):
+    """With `rec`/`county` given, classify() DOES perform a real compare (finding 2)
+    -- source_url/title agree here, so "manifest matches" is now an honest claim."""
+    out = tmp_path / "doc.md"
+    txt = tmp_path / "doc.txt"
+    out.write_text(
+        "---\nsource_url: https://example.org/a.pdf\ntitle: A County — A Title\n"
+        "---\n\nbody\n", encoding="utf-8")
+    txt.write_text("some extracted text " * 20, encoding="utf-8")
+    rec = {"url": "https://example.org/a.pdf", "title": "A Title"}
+    county = {"name": "A County"}
+
+    result = ingest_counties.classify(out, txt, refetch=False, rec=rec, county=county)
+
+    assert "unchanged" not in result
+    assert "manifest matches" in result
+    assert "no network" in result
+
+
+def test_classify_reports_a_manifest_change_as_a_resync_would_happen(tmp_path):
+    out = tmp_path / "doc.md"
+    txt = tmp_path / "doc.txt"
+    out.write_text(
+        "---\nsource_url: https://example.org/OLD.pdf\ntitle: A County — A Title\n"
+        "---\n\nbody\n", encoding="utf-8")
+    txt.write_text("some extracted text " * 20, encoding="utf-8")
+    rec = {"url": "https://example.org/NEW.pdf", "title": "A Title"}
+    county = {"name": "A County"}
+
+    result = ingest_counties.classify(out, txt, refetch=False, rec=rec, county=county)
+
+    assert "manifest changed" in result
+    assert "source_url" in result
+    assert "no network" in result
+
+
+def test_classify_reports_an_ocr_document_with_a_manifest_change_as_needing_refetch(
+        tmp_path):
+    """An OCR'd/stub document's manifest change is never auto-resynced (finding 1's
+    anti-fabrication rule applies here too: reconstructing OCR provenance without
+    re-running OCR would be a guess dressed as a measurement)."""
+    out = tmp_path / "doc.md"
+    txt = tmp_path / "doc.txt"
+    out.write_text(
+        "---\nsource_url: https://example.org/OLD.pdf\ntitle: A County — A Title\n"
+        "text_source: ocr\n---\n\nbody\n", encoding="utf-8")
+    txt.write_text("some extracted text " * 20, encoding="utf-8")
+    rec = {"url": "https://example.org/NEW.pdf", "title": "A Title"}
+    county = {"name": "A County"}
+
+    result = ingest_counties.classify(out, txt, refetch=False, rec=rec, county=county)
+
+    assert "manifest changed" in result
+    assert "--refetch" in result
+    assert "not auto-resynced" in result
 
 
 def test_classify_a_refetch_request_regardless_of_what_is_committed(tmp_path):
@@ -224,6 +354,133 @@ def test_write_doc_preserves_nonderivable_fields_the_fresh_run_cannot_reproduce(
     assert "public record of a public body" in written["reproduction_basis"]
 
 
+def test_write_doc_stub_does_not_re_attach_text_derived_dates_from_a_prior_extraction(
+        tmp_path, monkeypatch):
+    """Finding 1 (code review, fix/safe-reingest): a stub commits no text -- the
+    comment at write_doc's own `stub` branch says so ("A stub commits no text, so
+    nothing text-derived is trusted: term only as the county's index stated it, no
+    dates, no citations"). But `carry_forward_nonderivable(fm, existing)` ran
+    unconditionally over ALL of NON_DERIVABLE_FIELDS, including `effective_date` and
+    `expiry_date` -- both of which are text-derived (`own_dates()`), never
+    index-derived. Reproduced against a scratch copy of the real Benton ONA
+    document (which has real effective_date/expiry_date from its original clean
+    extraction): re-ingesting it as a stub (the Lane/Marion in-place-overwrite
+    failure scenario AGENTS.md names -- a clean source later replaced by an
+    image-only scan) must NOT re-assert those dates as read from text this document
+    does not hold, and must not assert a term the index no longer states either.
+    `union`, `agency_registry_slugs` and `reproduction_basis` are not text-derived
+    (index/curation/computed-constant) and MAY still carry forward."""
+    scratch_agreements = tmp_path / "agreements"
+    doc_dir = scratch_agreements / "benton-county" / "cba"
+    doc_dir.mkdir(parents=True)
+    existing_text = REAL_BENTON_DOC.read_text(encoding="utf-8")
+    assert "agency_registry_slugs: []" in existing_text
+    existing_text = existing_text.replace(
+        "agency_registry_slugs: []",
+        "agency_registry_slugs: [oregon-health-authority]")
+    doc_id = "benton-county-oregon-nurses-association-july-1-2025-june-30-2029"
+    (doc_dir / f"{doc_id}.md").write_text(existing_text, encoding="utf-8")
+
+    monkeypatch.setattr(ingest_counties, "AGREEMENTS", scratch_agreements)
+
+    county = {"slug": "benton-county", "name": "Benton County",
+              "jurisdiction": "oregon/benton-county"}
+    # The index no longer states a term either -- the failure scenario is an
+    # upstream overwrite, not just an OCR gate failure; nothing about this stub
+    # should be able to reconstruct dates from the OLD extraction.
+    rec = {"family": "cba", "title": "Oregon Nurses Association (July 1, 2025 – "
+                                     "June 30, 2029)",
+          "url": "https://hr.bentoncountyor.gov/wp-content/uploads/2026/01/"
+                 "ONA%5FBenton%5FCounty%5F25-29-Contract-Final.pdf"}
+    stub = {"agreement": 0.32, "figure_agreement": 0.16}
+
+    out = ingest_counties.write_doc(county, rec, doc_id, "deadbeef" * 8, 12, "",
+                                    "2026-09-12", {}, rec["url"], stub=stub)
+
+    written, body = ingest_counties.parse_frontmatter(out)
+    assert written["effective_date"] == "", (
+        "a stub must NEVER re-attach a text-derived effective_date from the "
+        "document's PRIOR extraction -- this document holds no text")
+    assert written["expiry_date"] == "", (
+        "a stub must NEVER re-attach a text-derived expiry_date from the "
+        "document's PRIOR extraction -- this document holds no text")
+    assert written["term"] == "", (
+        "a stub's term is index-only (rec.get('term')); the index no longer "
+        "states one here, so it must stay empty, not fall back to the old "
+        "extraction's term")
+    assert written["union"] == "Oregon Nurses", (
+        "union is not text-derived (title-matched); it MAY still carry forward")
+    assert written["agency_registry_slugs"] == ["oregon-health-authority"], (
+        "agency_registry_slugs is a curation field, not text-derived; it MAY "
+        "still carry forward")
+    assert "no text is held" in body
+    assert "stated in the document's text" not in body, (
+        "the glance section must not simultaneously claim dates were stated in "
+        "text this document declares it does not hold")
+
+
+def test_write_doc_does_not_advance_retrieved_when_no_network_was_used(
+        tmp_path, monkeypatch):
+    """Finding 4 (code review, fix/safe-reingest): write_doc() stamped `retrieved:
+    today` unconditionally, and `fetch()` discarded `FETCHER.snapshot`'s `fresh`
+    flag (`data, _ = ...`). The 5 committed stub documents have no `.txt`, so the
+    main()-level `txt.is_file()` short-circuit never applies to them -- a re-run
+    with the source `.pdf` already cached locally advances `retrieved` to today
+    having made zero requests. The toolkit provides the exact signal this needs
+    (`corpus_toolkit.sources.snapshots.retrieved_date`): `retrieved` may advance
+    only when bytes were actually fetched (`fresh=True`); otherwise the committed
+    document's own `retrieved` carries forward. Reproduced directly against
+    write_doc() with `fresh=False` over a document whose existing `retrieved` is a
+    known past date -- the exact "no-.txt path" finding 7 names as untested."""
+    scratch_agreements = tmp_path / "agreements"
+    doc_dir = scratch_agreements / "benton-county" / "cba"
+    doc_dir.mkdir(parents=True)
+    existing_text = REAL_BENTON_DOC.read_text(encoding="utf-8")
+    assert "retrieved: '2026-08-02'" in existing_text
+    doc_id = "benton-county-oregon-nurses-association-july-1-2025-june-30-2029"
+    (doc_dir / f"{doc_id}.md").write_text(existing_text, encoding="utf-8")
+
+    monkeypatch.setattr(ingest_counties, "AGREEMENTS", scratch_agreements)
+
+    county = {"slug": "benton-county", "name": "Benton County",
+              "jurisdiction": "oregon/benton-county"}
+    rec = {"family": "cba", "title": "Oregon Nurses Association (July 1, 2025 – "
+                                     "June 30, 2029)",
+          "url": "https://hr.bentoncountyor.gov/wp-content/uploads/2026/01/"
+                 "ONA%5FBenton%5FCounty%5F25-29-Contract-Final.pdf"}
+    text = REAL_BENTON_DOC.read_text(encoding="utf-8")  # any real body text
+
+    out = ingest_counties.write_doc(county, rec, doc_id, "deadbeef" * 8, 94, text,
+                                    "2026-09-12", {}, rec["url"], fresh=False)
+
+    written, _ = ingest_counties.parse_frontmatter(out)
+    assert written["retrieved"] == "2026-08-02", (
+        "no network was used this run (fresh=False) -- retrieved must carry "
+        "forward the committed document's own value, not stamp today's date")
+
+
+def test_write_doc_advances_retrieved_when_a_real_fetch_happened(tmp_path, monkeypatch):
+    """The other half of finding 4's fix: `retrieved` must still advance to today
+    when this run DID go to the network -- `fresh=True` is the default so a
+    genuinely-new ingest (no existing document at all) behaves exactly as before."""
+    scratch_agreements = tmp_path / "agreements"
+    (scratch_agreements / "benton-county" / "cba").mkdir(parents=True)
+    monkeypatch.setattr(ingest_counties, "AGREEMENTS", scratch_agreements)
+
+    county = {"slug": "benton-county", "name": "Benton County",
+              "jurisdiction": "oregon/benton-county"}
+    doc_id = "benton-county-a-brand-new-document"
+    rec = {"family": "cba", "title": "A Brand New Document",
+          "url": "https://hr.bentoncountyor.gov/new-document.pdf"}
+
+    out = ingest_counties.write_doc(county, rec, doc_id, "deadbeef" * 8, 5,
+                                    "some fresh text " * 20, "2026-09-12", {},
+                                    rec["url"], fresh=True)
+
+    written, _ = ingest_counties.parse_frontmatter(out)
+    assert written["retrieved"] == "2026-09-12"
+
+
 # -- main(): the real re-ingest pipeline, no network, byte-identical ---------------
 
 class _NoNetwork:
@@ -238,7 +495,7 @@ class _NoNetwork:
         raise AssertionError(f"unexpected network fetch during a re-ingest: {url}")
 
 
-def _seed_benton_scratch(tmp_path: Path) -> tuple[Path, Path, Path]:
+def _seed_benton_scratch(tmp_path: Path) -> tuple[Path, Path, Path, Path]:
     """A scratch copy of the real, already-fully-ingested Benton county group: its
     3 committed documents, their 3 committed `.txt` snapshots, its source manifest
     and the employer registry -- everything `main()` reads for `--only benton`."""
@@ -318,5 +575,99 @@ def test_main_check_mode_touches_no_file_and_no_network(tmp_path, monkeypatch, c
             for p in (agreements / "benton-county" / "cba").glob("*.md")}
     assert after == before, "--check must not write anything, not even a re-write to the same bytes"
     out = capsys.readouterr().out
-    assert out.count("unchanged — committed snapshot reused, no network") == 3, (
-        "all 3 already-ingested Benton documents should report as reusable/unchanged")
+    # Finding 3 (code review, fix/safe-reingest): "unchanged" is DRIFT.md's word for a
+    # measured hash compare, which this ingester never performs (that is
+    # corpus-detect-changes's job -- see AGENTS.md's "Explicitly NOT a finding"). All
+    # 3 Benton sources DO now get a real compare (manifest url/title vs. the committed
+    # document -- finding 2's fix), and all 3 agree, so the honest claim is "manifest
+    # matches", never "unchanged".
+    assert "unchanged" not in out
+    assert out.count("reused — manifest matches, no network") == 3, (
+        "all 3 already-ingested Benton documents, whose manifest still matches what "
+        "is committed, should report as reusable")
+
+
+# -- finding 2: a changed manifest (source_url/title) must reach the committed ------
+# -- document with NO network when the extraction is already cached ---------------
+
+def _mutate_benton_ona_url(sources_dir: Path, new_url: str) -> None:
+    """Simulates exactly what the reviewer did to reproduce finding 2: the county
+    re-posts the same document at a new URL (or `discover_counties.py` regenerates
+    the manifest against a moved index) and `_meta/sources/benton.yml` picks it up
+    with NO re-ingest having happened yet."""
+    path = sources_dir / "benton.yml"
+    group = yaml.safe_load(path.read_text(encoding="utf-8"))
+    for src in group["sources"]:
+        if src["id"].endswith("oregon-nurses-association-july-1-2025-june-30-2029"):
+            src["url"] = new_url
+    path.write_text(yaml.safe_dump(group, sort_keys=False), encoding="utf-8")
+
+
+def test_main_propagates_a_changed_manifest_url_with_zero_network(tmp_path, monkeypatch):
+    """Finding 2 (code review, fix/safe-reingest): the reuse short-circuit
+    (`out.is_file() and txt.is_file()`) never compared the manifest record against
+    the committed document, so a source re-posted at a new URL kept the stale
+    `source_url` forever -- reproduced by the reviewer by rewriting `url` in
+    `_meta/sources/benton.yml` and re-ingesting: "reused 3 unchanged, no network",
+    document rewritten NONE, stale `source_url` kept. The fix compares the fresh
+    manifest against the committed frontmatter with no network at all, and when it
+    finds a difference, resyncs the document from the CACHED `.txt` (still zero
+    network) rather than silently keeping the stale value or requiring --refetch."""
+    agreements, snapshots, sources_dir, employers = _seed_benton_scratch(tmp_path)
+    doc_id = "benton-county-oregon-nurses-association-july-1-2025-june-30-2029"
+    # A raw snapshot must be cached locally for the no-network resync to have bytes
+    # to hash (`hash_snapshot` always reads the raw file) -- its CONTENT is
+    # irrelevant here because the committed .txt is long enough that hash_snapshot
+    # never falls back to it.
+    (snapshots / f"{doc_id}.pdf").write_bytes(b"stand-in cached raw bytes for the test")
+    new_url = ("https://hr.bentoncountyor.gov/wp-content/uploads/2027/01/"
+              "ONA-Benton-County-25-29-Contract-REPOSTED.pdf")
+    _mutate_benton_ona_url(sources_dir, new_url)
+    _patch_paths(monkeypatch, agreements, snapshots, sources_dir, employers)
+    other_docs_before = {
+        p: p.read_bytes() for p in (agreements / "benton-county" / "cba").glob("*.md")
+        if p.stem != doc_id}
+    monkeypatch.setattr(sys, "argv", ["ingest_counties.py", "--only", "benton"])
+
+    rc = ingest_counties.main()
+
+    assert rc == 0, "a no-network manifest resync must not fail"
+    written, _ = ingest_counties.parse_frontmatter(
+        agreements / "benton-county" / "cba" / f"{doc_id}.md")
+    assert written["source_url"] == new_url, (
+        "the changed manifest url must propagate to the committed document with "
+        "no network -- this is the exact field finding 2's reproduction showed "
+        "stuck at its stale value forever")
+    assert written["union"] == "Oregon Nurses", "unrelated fields must not be lost"
+    assert written["term"] == "2025-2029"
+    other_docs_after = {
+        p: p.read_bytes() for p in (agreements / "benton-county" / "cba").glob("*.md")
+        if p.stem != doc_id}
+    assert other_docs_after == other_docs_before, (
+        "the two Benton sources whose manifest did NOT change must stay untouched")
+
+
+def test_main_declines_to_resync_a_manifest_change_with_no_cached_raw_snapshot(
+        tmp_path, monkeypatch):
+    """The safety half of finding 2's fix: when the manifest changed but there is no
+    cached raw snapshot to resync from (a fresh worktree, per #93's own measurement
+    of 283 cached vs. 10 in a fresh checkout), the ingester must decline rather than
+    fabricate a document from nothing or silently keep the stale value -- AGENTS.md's
+    overriding rule, "could not check is never reported as is not there", cuts the
+    other way here too: a resync it cannot safely perform is reported as needing
+    --refetch, not silently skipped as if nothing changed."""
+    agreements, snapshots, sources_dir, employers = _seed_benton_scratch(tmp_path)
+    doc_id = "benton-county-oregon-nurses-association-july-1-2025-june-30-2029"
+    new_url = "https://hr.bentoncountyor.gov/wp-content/uploads/2027/01/reposted.pdf"
+    _mutate_benton_ona_url(sources_dir, new_url)
+    _patch_paths(monkeypatch, agreements, snapshots, sources_dir, employers)
+    before = (agreements / "benton-county" / "cba" / f"{doc_id}.md").read_bytes()
+    monkeypatch.setattr(sys, "argv", ["ingest_counties.py", "--only", "benton"])
+
+    rc = ingest_counties.main()
+
+    assert rc == 0, "declining a resync is not a failure"
+    after = (agreements / "benton-county" / "cba" / f"{doc_id}.md").read_bytes()
+    assert after == before, (
+        "with no cached raw snapshot, the document must not be rewritten at all -- "
+        "neither with the stale url nor with a fabricated resync")

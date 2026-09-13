@@ -147,3 +147,47 @@ Repo-curation dates only — official effective dates live in frontmatter.
   issues for real, current drift — expected and correct, not a regression,
   but #14 should not be read as having silenced the job; #64 is what would
   silence the Clackamas noise, and it is diagnosed but not yet fixed.
+- 2026-09-12 — Code review of #93's fix found the merge it added
+  (`carry_forward_nonderivable`) ran unconditionally on the metadata-only
+  stub path too, re-attaching a PRIOR extraction's `effective_date`/
+  `expiry_date`/`term` to a document whose own text is deliberately withheld
+  — reproduced against a real Benton document driven through the stub path,
+  which then claimed both "no text is held" and dates "stated in the
+  document's text" on the same page. Fixed: the stub path now carries
+  forward only `union`/`agency_registry_slugs`/`reproduction_basis` (none of
+  them text-derived); `term`/`effective_date`/`expiry_date` are index-only or
+  empty, never inherited from an earlier, better extraction.
+  Separately, the reuse short-circuit (`out.is_file() and txt.is_file()`)
+  never compared the source manifest against the committed document, so a
+  source re-posted at a new URL (or re-surveyed with a new title) kept its
+  stale committed value forever — no flag short of `--refetch` (a full
+  network re-verify) propagated it, though propagating a manifest change
+  needs no network. `manifest_drift()` now compares `source_url`/`title`
+  with **zero network**, and a real difference resyncs the document from the
+  cached `.txt` — unless the committed document is OCR'd or a metadata-only
+  stub (whose provenance cannot be honestly reconstructed without re-running
+  OCR) or no raw snapshot is cached locally, either of which is reported as
+  needing `--refetch` rather than silently reused or fabricated. `retrieved`
+  also stopped stamping today's date unconditionally: it now advances only
+  when bytes were actually fetched this run
+  (`corpus_toolkit.sources.snapshots.retrieved_date`), closing the one path
+  (documents with no committed `.txt` — the 5 stubs) the original fix's
+  reuse short-circuit could not reach.
+  "unchanged" is no longer this ingester's word for any of the above (DRIFT.md
+  reserves it for a measured hash compare, which this ingester does not
+  perform — that is `corpus-detect-changes`'s job, run separately and
+  monthly, and is unaffected by any of this). The docstring's "safe to run"
+  claim is corrected to name the one thing it always omitted: a no-flag run
+  still fetches any source with no committed extraction at all (never
+  ingested, or a stub) — measured today at 134 reused / 29 new (all
+  Deschutes, which republished its library at new DocumentCenter ids with no
+  `supersedes` edge to the 45 documents already committed under the old ones
+  — tracked separately, not fixed here) / 2 stubs / 165 sources total.
+  5 already-committed stub documents (`washington-county-wcpoa-moa-longevity-
+  and-education-pay-3-1-2024` and 4 Deschutes MOUs) still carry a duplicated
+  "METADATA-ONLY RECORD" banner from a generator bug fixed in #93's own PR —
+  the generator no longer produces it, but a plain re-ingest never rewrites
+  an already-committed document, so these 5 stay wrong until a `--refetch`
+  (or hand) pass regenerates them; out of scope for a src-only change per
+  this repo's rule against rewriting committed documents outside a reviewed
+  content PR.
