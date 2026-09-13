@@ -35,6 +35,15 @@ credentials.json
 # Source PDFs are NOT committed; frontmatter declares snapshot_policy: hash-only.
 # The pdftotext extraction (.txt) IS committed — hash_snapshot() hashes its
 # normalized text, which is what CI re-verifies. (The oregon-audits arrangement.)
+#
+# `*.pdf` already covers the OCR pass's derived `<id>.ocr.pdf` copies (ocrmypdf
+# writes them beside the original, never over it -- see the OCR policy note in
+# src/ingest_counties.py): a gitignore glob segment matches `.` like any other
+# character, so it does not stop at the extra dot. Verified 2026-09-12
+# (oregon-collective-bargaining#95) with a real `--ocr` run: `git status
+# --porcelain _meta/snapshots/` came back clean and `git check-ignore` confirmed
+# the produced `.ocr.pdf`. Keep this comment if `*.pdf` is ever narrowed below --
+# that is exactly the change that would silently start letting `.ocr.pdf` through.
 _meta/snapshots/*.pdf
 _meta/snapshots/*.html
 _meta/snapshots/*.signed
