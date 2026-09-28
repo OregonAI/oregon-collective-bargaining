@@ -6,6 +6,13 @@ Repo-curation dates only — official effective dates live in frontmatter.
 
 ## [Unreleased]
 
+### Source-Updated
+- 2026-09-28 — `_meta/sources/state.yml` lists the **SEIU Master Agreement 2025-2027**
+  (`state-seiu-master-agreement-collective-bargaining-agreement-2025-2027`), now posted by
+  DAS. Ratified 2025-10-03 and carried as a POSTING-LAG since; the reconciliation now
+  counts 6 lags, not 7. Not yet ingested: the corpus holds the 2023-2025 master only. The
+  weekly `state-enumeration` job had been red since 2026-09-07.
+
 ### Added
 - 2026-08-02 — The 5 remaining OCR holds ingest as METADATA-ONLY stubs
   (issue #5's terminal state): the document, its index-stated term, and the
