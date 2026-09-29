@@ -18,7 +18,7 @@ source_format: pdf
 retrieved: '2026-08-02'
 source_sha256: e1bc5d558bcbbb502738615b57741d146056a7261248201c6a7b7ff18f764ac6
 snapshot_policy: hash-only
-status: draft
+status: superseded
 content_mode: 'verbatim'
 reproduction_basis: 'public record of a public body (ORS 192.311-192.478); the employer publishes the executed agreement in full at source_url; a ratified agreement is an official act (Georgia v. Public.Resource.Org, 590 U.S. 255 (2020)) — mirrored in full per the class determination in corpus.yml schema.doc_types (verbatim: true)'
 conversion_notes: pdftotext -layout; 223 pages, 1365403 characters extracted; NOT human-verified
@@ -68,7 +68,7 @@ tags:
 
 ## At a glance
 
-**DRAFT PRINT — NOT THE EXECUTED AGREEMENT.** This is DAS's posted *blackline* (redline) of the ratified terms; the executed final has not been posted. It is held because it is the only state-posted copy of these terms, and it will be superseded the day the final appears.
+**SUPERSEDED — a draft print, retained for the record.** This is DAS's *blackline* (redline) of the ratified terms, held while it was the only state-posted copy. DAS has since posted the executed agreement, `state-seiu-master-agreement-collective-bargaining-agreement-2025-2027`, which is the text of these terms.
 Collective bargaining agreement between the State of Oregon (DAS Labor Relations) and **SEIU** for the **2025-2027** term.
 - Bargaining unit (LRU chart): SEIU master (strike-permitted + strike-prohibited rows) — repr. code OAH OAI OAO OAS OBO OBS XAO XAOQ / OXNH OXNI OXNO OXSO
 - Ratified 2025-10-03 per the DAS LRU 2025-2027 bargaining chart (rev. 03/19/2026; committed at `_meta/state-roster-2025-2027.yml`)

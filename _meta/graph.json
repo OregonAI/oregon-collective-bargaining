@@ -1,8 +1,8 @@
 {
  "corpus": "oregon-collective-bargaining",
- "n_nodes": 237,
- "n_edges": 1019,
- "n_edges_external": 960,
+ "n_nodes": 238,
+ "n_edges": 1043,
+ "n_edges_external": 982,
  "nodes": [
   {
    "id": "benton-county-american-federation-of-state-county-and-municipal-employees-council-75-afl-cio-local-2064-lab",
@@ -1107,6 +1107,12 @@
    "title": "SEIU Master Agreement Collective Bargaining Agreement 2023-2025",
    "doc_type": "collective_bargaining_agreement",
    "path": "agreements/state/cba/state-seiu-master-agreement-collective-bargaining-agreement-2023-2025.md"
+  },
+  {
+   "id": "state-seiu-master-agreement-collective-bargaining-agreement-2025-2027",
+   "title": "SEIU Master Agreement Collective Bargaining Agreement 2025-2027",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/state/cba/state-seiu-master-agreement-collective-bargaining-agreement-2025-2027.md"
   },
   {
    "id": "state-seiu-non-state-adult-foster-home-providers-2023-2025",
@@ -6022,6 +6028,126 @@
    "from": "state-seiu-master-agreement-collective-bargaining-agreement-2023-2025",
    "type": "references_external",
    "to": "ORS 659A.885"
+  },
+  {
+   "from": "state-seiu-master-agreement-collective-bargaining-agreement-2025-2027",
+   "type": "references_external",
+   "to": "OAR 125-155-0520"
+  },
+  {
+   "from": "state-seiu-master-agreement-collective-bargaining-agreement-2025-2027",
+   "type": "references_external",
+   "to": "OAR 166-300-0045"
+  },
+  {
+   "from": "state-seiu-master-agreement-collective-bargaining-agreement-2025-2027",
+   "type": "references_external",
+   "to": "OAR 309-035-0135"
+  },
+  {
+   "from": "state-seiu-master-agreement-collective-bargaining-agreement-2025-2027",
+   "type": "references_external",
+   "to": "OAR 437-002-0161"
+  },
+  {
+   "from": "state-seiu-master-agreement-collective-bargaining-agreement-2025-2027",
+   "type": "references_external",
+   "to": "OAR 459-009-0200"
+  },
+  {
+   "from": "state-seiu-master-agreement-collective-bargaining-agreement-2025-2027",
+   "type": "references_external",
+   "to": "ORS 163.165"
+  },
+  {
+   "from": "state-seiu-master-agreement-collective-bargaining-agreement-2025-2027",
+   "type": "references_external",
+   "to": "ORS 179.210"
+  },
+  {
+   "from": "state-seiu-master-agreement-collective-bargaining-agreement-2025-2027",
+   "type": "references_external",
+   "to": "ORS 181.516"
+  },
+  {
+   "from": "state-seiu-master-agreement-collective-bargaining-agreement-2025-2027",
+   "type": "references_external",
+   "to": "ORS 181.547"
+  },
+  {
+   "from": "state-seiu-master-agreement-collective-bargaining-agreement-2025-2027",
+   "type": "references_external",
+   "to": "ORS 238A.335"
+  },
+  {
+   "from": "state-seiu-master-agreement-collective-bargaining-agreement-2025-2027",
+   "type": "references_external",
+   "to": "ORS 240.200"
+  },
+  {
+   "from": "state-seiu-master-agreement-collective-bargaining-agreement-2025-2027",
+   "type": "references_external",
+   "to": "ORS 240.309"
+  },
+  {
+   "from": "state-seiu-master-agreement-collective-bargaining-agreement-2025-2027",
+   "type": "references_external",
+   "to": "ORS 243.650"
+  },
+  {
+   "from": "state-seiu-master-agreement-collective-bargaining-agreement-2025-2027",
+   "type": "references_external",
+   "to": "ORS 243.698"
+  },
+  {
+   "from": "state-seiu-master-agreement-collective-bargaining-agreement-2025-2027",
+   "type": "references_external",
+   "to": "ORS 243.712"
+  },
+  {
+   "from": "state-seiu-master-agreement-collective-bargaining-agreement-2025-2027",
+   "type": "references_external",
+   "to": "ORS 408.225"
+  },
+  {
+   "from": "state-seiu-master-agreement-collective-bargaining-agreement-2025-2027",
+   "type": "references_external",
+   "to": "ORS 652.220"
+  },
+  {
+   "from": "state-seiu-master-agreement-collective-bargaining-agreement-2025-2027",
+   "type": "references_external",
+   "to": "ORS 653.269"
+  },
+  {
+   "from": "state-seiu-master-agreement-collective-bargaining-agreement-2025-2027",
+   "type": "references_external",
+   "to": "ORS 654.001"
+  },
+  {
+   "from": "state-seiu-master-agreement-collective-bargaining-agreement-2025-2027",
+   "type": "references_external",
+   "to": "ORS 656.202"
+  },
+  {
+   "from": "state-seiu-master-agreement-collective-bargaining-agreement-2025-2027",
+   "type": "references_external",
+   "to": "ORS 659A.270"
+  },
+  {
+   "from": "state-seiu-master-agreement-collective-bargaining-agreement-2025-2027",
+   "type": "references_external",
+   "to": "ORS 659A.885"
+  },
+  {
+   "from": "state-seiu-master-agreement-collective-bargaining-agreement-2025-2027",
+   "type": "supersedes",
+   "to": "state-seiu-2025-2027-blackline-as-of-02202026"
+  },
+  {
+   "from": "state-seiu-master-agreement-collective-bargaining-agreement-2025-2027",
+   "type": "supersedes",
+   "to": "state-seiu-master-agreement-collective-bargaining-agreement-2023-2025"
   },
   {
    "from": "state-seiu-non-state-adult-foster-home-providers-2023-2025",

@@ -6,6 +6,19 @@ Repo-curation dates only — official effective dates live in frontmatter.
 
 ## [Unreleased]
 
+### Added
+- 2026-09-29 — **SEIU Master Agreement 2025-2027**, the executed agreement DAS has now
+  posted, ingested verbatim (220 pages; 480 article anchors) as `current`. It `supersedes`
+  the 2023-2025 master and the 2025-2027 blackline. The blackline flips from `draft` to
+  `superseded`, as its own banner said it would the day the final appeared.
+
+### Fixed
+- 2026-09-29 — `src/ingest_cbas.py` could not ingest any agreement after the 2026-08-03
+  verbatim flip: it still wrote `content_mode: summary`, which the schema refuses for
+  this doc_type, so nothing has been ingested since. It now writes the promoted form
+  through `promote_full_text`'s own basis and body builder. It also retires the SEIU
+  blackline (`retire_blackline()`) once the executed master for its term exists.
+
 ### Source-Updated
 - 2026-09-28 — `_meta/sources/state.yml` lists the **SEIU Master Agreement 2025-2027**
   (`state-seiu-master-agreement-collective-bargaining-agreement-2025-2027`), now posted by
