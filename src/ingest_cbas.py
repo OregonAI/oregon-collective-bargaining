@@ -81,6 +81,7 @@ from corpus_toolkit import config as config_mod         # noqa: E402
 from corpus_toolkit.documents import write_document     # noqa: E402
 from corpus_toolkit.repo import hash_snapshot           # noqa: E402
 from corpus_toolkit.sources.fetch import Fetcher, sniff  # noqa: E402
+import promote_full_text                                  # noqa: E402
 
 STATE_GROUP = REPO_ROOT / "_meta" / "sources" / "state.yml"
 ROSTER_FILE = REPO_ROOT / "_meta" / "state-roster-2025-2027.yml"
@@ -223,6 +224,59 @@ def link_supersedes(roster: dict, ingested_pred_ids: set[str]) -> int:
     return linked
 
 
+DRAFT_BANNER = ("**DRAFT PRINT — NOT THE EXECUTED AGREEMENT.** This is DAS's "
+                "posted *blackline* (redline) of the ratified terms; the "
+                "executed final has not been posted. It is held because it is "
+                "the only state-posted copy of these terms, and it will be "
+                "superseded the day the final appears.")
+
+
+def retire_blackline() -> list[str]:
+    """Do what the draft's own banner promised, once DAS posts the executed final.
+
+    For each draft blackline whose term now has a CURRENT executed SEIU master: the
+    blackline becomes `superseded` with a banner naming its successor, and the executed
+    master `supersedes` both the blackline and the superseded master of the prior term.
+    Idempotent; a no-op until the final exists. Returns the ids it changed."""
+    docs = {}
+    for p in OUT_DIR.glob("*.md"):
+        _, head, body = p.read_text(encoding="utf-8").split("---\n", 2)
+        docs[p] = (yaml.safe_load(head), body)
+
+    def save(p, fm, body):
+        p.write_text("---\n" + yaml.safe_dump(fm, sort_keys=False, allow_unicode=True,
+                                               width=88) + "---\n" + body, encoding="utf-8")
+
+    changed = []
+    for bp, (bfm, bbody) in docs.items():
+        if "blackline" not in bfm["id"] or bfm["status"] not in ("draft", "superseded"):
+            continue
+        term = bfm["term"]
+        finals = [(p, fm, b) for p, (fm, b) in docs.items() if fm["status"] == "current"
+                  and fm["term"] == term and fm["title"].startswith("SEIU Master Agreement")]
+        if len(finals) != 1:
+            continue
+        fp, ffm, fbody = finals[0]
+        prior = [fm["id"] for fm, _ in docs.values() if fm["status"] == "superseded"
+                 and fm["title"].startswith("SEIU Master Agreement") and fm["term"] < term]
+        prior = sorted(prior)[-1:]                      # the immediate predecessor only
+        if bfm["status"] == "draft":
+            bfm["status"] = "superseded"
+            bbody = bbody.replace(DRAFT_BANNER, (
+                "**SUPERSEDED — a draft print, retained for the record.** This is DAS's "
+                "*blackline* (redline) of the ratified terms, held while it was the only "
+                "state-posted copy. DAS has since posted the executed agreement, "
+                f"`{ffm['id']}`, which is the text of these terms."))
+            save(bp, bfm, bbody)
+            changed.append(bfm["id"])
+        want = set(ffm["relationships"]["supersedes"]) | {bfm["id"], *prior}
+        if want != set(ffm["relationships"]["supersedes"]):
+            ffm["relationships"]["supersedes"] = sorted(want)
+            save(fp, ffm, fbody)
+            changed.append(ffm["id"])
+    return changed
+
+
 def write_doc(rec: dict, row: dict | None, sha: str, pages: int, text: str,
               today: str, history: bool = False) -> Path:
     doc_id, term, union = rec["id"], rec["term"], rec.get("union", "")
@@ -278,11 +332,7 @@ def write_doc(rec: dict, row: dict | None, sha: str, pages: int, text: str,
               f"Relations) and **{union or 'the signatory association'}** for the "
               f"**{term}** term."]
     if is_draft:
-        glance.insert(0, "**DRAFT PRINT — NOT THE EXECUTED AGREEMENT.** This is DAS's "
-                         "posted *blackline* (redline) of the ratified terms; the "
-                         "executed final has not been posted. It is held because it is "
-                         "the only state-posted copy of these terms, and it will be "
-                         "superseded the day the final appears.")
+        glance.insert(0, DRAFT_BANNER)
     if history:
         glance.insert(0, "**SUPERSEDED — an expired term, retained for the record.** "
                          "A successor for this unit has been ratified per the LRU "
@@ -350,6 +400,16 @@ Statutes and rules the agreement's text cites are recorded in frontmatter
 `executive-regulatory-frameworks` as cites — this corpus asserts no
 `implements` edge anywhere.
 """
+    # VERBATIM SINCE 2026-08-03. The class flip made corpus.yml declare this doc_type
+    # verbatim, and the schema now refuses `content_mode: summary` without a
+    # content_exception -- so the summary document above could no longer be written at all,
+    # and no agreement was ingested after the flip. It is written in the promoted form
+    # instead, by promote_full_text's own basis and body builder rather than a copy of
+    # them; anchor_sections.py and promote_full_text.py then finish it exactly as they
+    # finished the 228 documents promoted in bulk.
+    fm["content_mode"] = "verbatim"
+    fm["reproduction_basis"] = promote_full_text.BASIS
+    body = promote_full_text.build_body(body, text)
     out = OUT_DIR / f"{doc_id}.md"
     # Frontmatter order, defaults and schema validation are the toolkit's; a document that
     # would fail CI is refused here with every finding named (ADR-0016).
@@ -419,6 +479,9 @@ def main() -> int:
     if args.history and not failed:
         linked = link_supersedes(roster, {r["id"] for r in picked})
         print(f"supersedes/related chains linked on {linked} current document(s)")
+    if not failed:
+        for doc_id in retire_blackline():
+            print(f"blackline retirement: updated {doc_id}")
     return 1 if failed else 0
 
 
