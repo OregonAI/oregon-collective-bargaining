@@ -1,8 +1,8 @@
 {
  "corpus": "oregon-collective-bargaining",
- "n_nodes": 238,
- "n_edges": 1043,
- "n_edges_external": 982,
+ "n_nodes": 240,
+ "n_edges": 1051,
+ "n_edges_external": 988,
  "nodes": [
   {
    "id": "benton-county-american-federation-of-state-county-and-municipal-employees-council-75-afl-cio-local-2064-lab",
@@ -611,6 +611,12 @@
    "path": "agreements/marion-county/cba/marion-county-foppo-cba.md"
   },
   {
+   "id": "marion-county-mcdaa-cba-2026-2029",
+   "title": "Marion County — MCDAA CBA (2026-2029)",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/marion-county/cba/marion-county-mcdaa-cba-2026-2029.md"
+  },
+  {
    "id": "marion-county-mcdaa-cba",
    "title": "Marion County — MCDAA CBA",
    "doc_type": "collective_bargaining_agreement",
@@ -621,6 +627,12 @@
    "title": "Marion County — MCEA CBA",
    "doc_type": "collective_bargaining_agreement",
    "path": "agreements/marion-county/cba/marion-county-mcea-cba.md"
+  },
+  {
+   "id": "marion-county-mcjea-cba-2026-2028",
+   "title": "Marion County — MCJEA CBA (2026-2028)",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/marion-county/cba/marion-county-mcjea-cba-2026-2028.md"
   },
   {
    "id": "marion-county-mcjea-cba",
@@ -2290,6 +2302,26 @@
    "to": "ORS 654.001"
   },
   {
+   "from": "marion-county-mcdaa-cba-2026-2029",
+   "type": "references_external",
+   "to": "ORS 243.698"
+  },
+  {
+   "from": "marion-county-mcdaa-cba-2026-2029",
+   "type": "references_external",
+   "to": "ORS 438.010"
+  },
+  {
+   "from": "marion-county-mcdaa-cba-2026-2029",
+   "type": "references_external",
+   "to": "ORS 653.616"
+  },
+  {
+   "from": "marion-county-mcdaa-cba-2026-2029",
+   "type": "supersedes",
+   "to": "marion-county-mcdaa-cba"
+  },
+  {
    "from": "marion-county-mcdaa-cba",
    "type": "references_external",
    "to": "ORS 243.698"
@@ -2323,6 +2355,26 @@
    "from": "marion-county-mcea-cba",
    "type": "references_external",
    "to": "ORS 652.120"
+  },
+  {
+   "from": "marion-county-mcjea-cba-2026-2028",
+   "type": "references_external",
+   "to": "ORS 243.650"
+  },
+  {
+   "from": "marion-county-mcjea-cba-2026-2028",
+   "type": "references_external",
+   "to": "ORS 243.736"
+  },
+  {
+   "from": "marion-county-mcjea-cba-2026-2028",
+   "type": "references_external",
+   "to": "ORS 243.782"
+  },
+  {
+   "from": "marion-county-mcjea-cba-2026-2028",
+   "type": "supersedes",
+   "to": "marion-county-mcjea-cba"
   },
   {
    "from": "marion-county-mcjea-cba",
