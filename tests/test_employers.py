@@ -92,15 +92,18 @@ def test_could_not_verify_counties_record_that_the_agreements_are_published():
         assert "403" in reason, f"{slug}: status_reason should record the measured HTTP status"
 
 
-def test_could_not_verify_counties_were_retested_with_the_toolkit_fetcher():
+def test_could_not_verify_counties_were_retested_after_the_operator_ruling():
     """Acceptance criterion: re-test before writing the 403 claim, with the
     corpus-toolkit Fetcher (curl and the toolkit disagree on some hosts)."""
     employers = {e["slug"]: e for e in _load()["employers"]}
     for slug in ("linn-county", "douglas-county"):
         e = employers[slug]
+        reason = e["status_reason"].lower()
+        assert "fetcher" in reason, f"{slug}: status_reason should name the corpus-toolkit Fetcher"
         # The re-test date must be no older than the operator's 2026-09-12 ruling
         # that reopened this as a re-test-before-writing requirement.
-        assert e["status_reason_date"] >= "2026-09-12", (
+        retest_date = datetime.date.fromisoformat(str(e["status_reason_date"]))
+        assert retest_date >= datetime.date(2026, 9, 12), (
             f"{slug}: status_reason_date predates the operator's re-test requirement"
         )
 
@@ -125,6 +128,10 @@ def test_jackson_records_the_outstanding_afscme_unit_and_the_michigan_lead():
     reason = jackson.get("status_reason", "")
     assert "afscme" in reason.lower()
     assert "michigan" in reason.lower()
+    assert "erb" in reason.lower(), (
+        "jackson-county: status_reason should flag the JCSSA document as an ERB "
+        "case exhibit, not the employer's own posted copy"
+    )
 
 
 def test_benton_built_true_is_not_left_recorded_as_not_located():
@@ -155,8 +162,13 @@ def test_registry_records_the_operator_decision_not_to_file_records_requests():
     """Acceptance criterion: the declined records-request option must read as
     DECLINED, not merely absent/pending, and must carry its date -- in the
     registry's own header, the precedent `oregon-counties/_meta/counties.yml` uses
-    for the analogous Verified-Bots closure."""
+    for the analogous Verified-Bots closure.
+
+    Scoped to the header comment block (everything before the first `employers:`
+    line) so this cannot be satisfied by the per-row status_reason text instead --
+    deleting the header's CLOSED note must fail this test."""
     raw = _raw()
-    assert "2026-09-12" in raw
-    assert re.search(r"declin", raw, re.I)
-    assert "#8" in raw
+    header = raw.split("\nemployers:", 1)[0]
+    assert "CLOSED, 2026-09-12" in header
+    assert re.search(r"declin", header, re.I)
+    assert "#8" in header

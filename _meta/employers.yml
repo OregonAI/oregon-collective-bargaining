@@ -27,10 +27,12 @@
 #
 #                   CLOSED, 2026-09-12 (operator, oregon-collective-bargaining#8): the
 #                   ORS 192.311–192.478 records requests drafted for Josephine, Polk,
-#                   Umatilla, Klamath, Jackson (AFSCME unit) are DECLINED, not
-#                   deferred — nobody should re-derive or send them expecting a
-#                   different answer. What replaces them is this field: make the
-#                   registry honest about why each county is unbuilt, and stop there.
+#                   Umatilla, Klamath, Linn, Douglas, and Jackson (AFSCME unit only)
+#                   are DECLINED, not deferred — nobody should re-derive or send them
+#                   expecting a different answer. (Linn/Douglas also raised a county-IT
+#                   allowlist ask on 2026-09-11; that was not taken up either.) What
+#                   replaces them is this field: make the registry honest about why
+#                   each county is unbuilt, and stop there.
 employers:
 - slug: state
   name: State of Oregon (DAS Labor Relations Unit)
@@ -82,8 +84,11 @@ employers:
   survey_status: verified
   built: true
   status_reason: >-
-    Partially held, not fully unbuilt: 4 units are ingested from the county's own index.
-    The AFSCME unit's Oregon agreement remains publicly unlocated — the mijackson.org
+    Partially held: 4 documents are ingested, 3 from the county's own index (SEIU/OPEU,
+    FOPPO, JCSEA) and the JCSSA agreement as a recorded-exception ERB case exhibit
+    (source_url https://www.oregon.gov/erb/Documents/ME-008-26_JCSSA-FOCS.pdf — the
+    only public copy, not the employer's posted copy). The AFSCME unit's Oregon
+    agreement remains publicly unlocated — the mijackson.org
     lead found during the survey was Jackson County, MICHIGAN, not this one, so it is a
     dead lead and should not be re-chased. A records request for this one unit was
     drafted and then DECLINED by the operator, 2026-09-12 (issue #8): recorded as
@@ -209,7 +214,7 @@ employers:
   survey_status: not-investigated
   built: false
   status_reason: >-
-    Not yet investigated: this county has not been searched since the registry was seeded from the 2026-08-02 survey. Absence from this corpus states nothing about whether the county has bargained agreements — ORS 243 requires Oregon counties to bargain; this is a statement about what has been looked at, not about what exists.
+    Not yet investigated: the 2026-08-02 survey recorded this county as not-investigated and no search has been made since. Absence from this corpus states nothing about whether the county has bargained agreements — ORS 243 requires Oregon counties to bargain; this is a statement about what has been looked at, not about what exists.
   status_reason_date: '2026-08-02'
 - slug: clatsop-county
   name: Clatsop County
@@ -219,7 +224,7 @@ employers:
   survey_status: not-investigated
   built: false
   status_reason: >-
-    Not yet investigated: this county has not been searched since the registry was seeded from the 2026-08-02 survey. Absence from this corpus states nothing about whether the county has bargained agreements — ORS 243 requires Oregon counties to bargain; this is a statement about what has been looked at, not about what exists.
+    Not yet investigated: the 2026-08-02 survey recorded this county as not-investigated and no search has been made since. Absence from this corpus states nothing about whether the county has bargained agreements — ORS 243 requires Oregon counties to bargain; this is a statement about what has been looked at, not about what exists.
   status_reason_date: '2026-08-02'
 - slug: malheur-county
   name: Malheur County
@@ -229,7 +234,7 @@ employers:
   survey_status: not-investigated
   built: false
   status_reason: >-
-    Not yet investigated: this county has not been searched since the registry was seeded from the 2026-08-02 survey. Absence from this corpus states nothing about whether the county has bargained agreements — ORS 243 requires Oregon counties to bargain; this is a statement about what has been looked at, not about what exists.
+    Not yet investigated: the 2026-08-02 survey recorded this county as not-investigated and no search has been made since. Absence from this corpus states nothing about whether the county has bargained agreements — ORS 243 requires Oregon counties to bargain; this is a statement about what has been looked at, not about what exists.
   status_reason_date: '2026-08-02'
 - slug: crook-county
   name: Crook County
@@ -239,7 +244,7 @@ employers:
   survey_status: not-investigated
   built: false
   status_reason: >-
-    Not yet investigated: this county has not been searched since the registry was seeded from the 2026-08-02 survey. Absence from this corpus states nothing about whether the county has bargained agreements — ORS 243 requires Oregon counties to bargain; this is a statement about what has been looked at, not about what exists.
+    Not yet investigated: the 2026-08-02 survey recorded this county as not-investigated and no search has been made since. Absence from this corpus states nothing about whether the county has bargained agreements — ORS 243 requires Oregon counties to bargain; this is a statement about what has been looked at, not about what exists.
   status_reason_date: '2026-08-02'
 - slug: tillamook-county
   name: Tillamook County
@@ -249,7 +254,7 @@ employers:
   survey_status: not-investigated
   built: false
   status_reason: >-
-    Not yet investigated: this county has not been searched since the registry was seeded from the 2026-08-02 survey. Absence from this corpus states nothing about whether the county has bargained agreements — ORS 243 requires Oregon counties to bargain; this is a statement about what has been looked at, not about what exists.
+    Not yet investigated: the 2026-08-02 survey recorded this county as not-investigated and no search has been made since. Absence from this corpus states nothing about whether the county has bargained agreements — ORS 243 requires Oregon counties to bargain; this is a statement about what has been looked at, not about what exists.
   status_reason_date: '2026-08-02'
 - slug: wasco-county
   name: Wasco County
@@ -259,7 +264,7 @@ employers:
   survey_status: not-investigated
   built: false
   status_reason: >-
-    Not yet investigated: this county has not been searched since the registry was seeded from the 2026-08-02 survey. Absence from this corpus states nothing about whether the county has bargained agreements — ORS 243 requires Oregon counties to bargain; this is a statement about what has been looked at, not about what exists.
+    Not yet investigated: the 2026-08-02 survey recorded this county as not-investigated and no search has been made since. Absence from this corpus states nothing about whether the county has bargained agreements — ORS 243 requires Oregon counties to bargain; this is a statement about what has been looked at, not about what exists.
   status_reason_date: '2026-08-02'
 - slug: union-county
   name: Union County
@@ -269,7 +274,7 @@ employers:
   survey_status: not-investigated
   built: false
   status_reason: >-
-    Not yet investigated: this county has not been searched since the registry was seeded from the 2026-08-02 survey. Absence from this corpus states nothing about whether the county has bargained agreements — ORS 243 requires Oregon counties to bargain; this is a statement about what has been looked at, not about what exists.
+    Not yet investigated: the 2026-08-02 survey recorded this county as not-investigated and no search has been made since. Absence from this corpus states nothing about whether the county has bargained agreements — ORS 243 requires Oregon counties to bargain; this is a statement about what has been looked at, not about what exists.
   status_reason_date: '2026-08-02'
 - slug: jefferson-county
   name: Jefferson County
@@ -279,7 +284,7 @@ employers:
   survey_status: not-investigated
   built: false
   status_reason: >-
-    Not yet investigated: this county has not been searched since the registry was seeded from the 2026-08-02 survey. Absence from this corpus states nothing about whether the county has bargained agreements — ORS 243 requires Oregon counties to bargain; this is a statement about what has been looked at, not about what exists.
+    Not yet investigated: the 2026-08-02 survey recorded this county as not-investigated and no search has been made since. Absence from this corpus states nothing about whether the county has bargained agreements — ORS 243 requires Oregon counties to bargain; this is a statement about what has been looked at, not about what exists.
   status_reason_date: '2026-08-02'
 - slug: hood-river-county
   name: Hood River County
@@ -289,7 +294,7 @@ employers:
   survey_status: not-investigated
   built: false
   status_reason: >-
-    Not yet investigated: this county has not been searched since the registry was seeded from the 2026-08-02 survey. Absence from this corpus states nothing about whether the county has bargained agreements — ORS 243 requires Oregon counties to bargain; this is a statement about what has been looked at, not about what exists.
+    Not yet investigated: the 2026-08-02 survey recorded this county as not-investigated and no search has been made since. Absence from this corpus states nothing about whether the county has bargained agreements — ORS 243 requires Oregon counties to bargain; this is a statement about what has been looked at, not about what exists.
   status_reason_date: '2026-08-02'
 - slug: curry-county
   name: Curry County
@@ -299,7 +304,7 @@ employers:
   survey_status: not-investigated
   built: false
   status_reason: >-
-    Not yet investigated: this county has not been searched since the registry was seeded from the 2026-08-02 survey. Absence from this corpus states nothing about whether the county has bargained agreements — ORS 243 requires Oregon counties to bargain; this is a statement about what has been looked at, not about what exists.
+    Not yet investigated: the 2026-08-02 survey recorded this county as not-investigated and no search has been made since. Absence from this corpus states nothing about whether the county has bargained agreements — ORS 243 requires Oregon counties to bargain; this is a statement about what has been looked at, not about what exists.
   status_reason_date: '2026-08-02'
 - slug: baker-county
   name: Baker County
@@ -309,7 +314,7 @@ employers:
   survey_status: not-investigated
   built: false
   status_reason: >-
-    Not yet investigated: this county has not been searched since the registry was seeded from the 2026-08-02 survey. Absence from this corpus states nothing about whether the county has bargained agreements — ORS 243 requires Oregon counties to bargain; this is a statement about what has been looked at, not about what exists.
+    Not yet investigated: the 2026-08-02 survey recorded this county as not-investigated and no search has been made since. Absence from this corpus states nothing about whether the county has bargained agreements — ORS 243 requires Oregon counties to bargain; this is a statement about what has been looked at, not about what exists.
   status_reason_date: '2026-08-02'
 - slug: morrow-county
   name: Morrow County
@@ -319,7 +324,7 @@ employers:
   survey_status: not-investigated
   built: false
   status_reason: >-
-    Not yet investigated: this county has not been searched since the registry was seeded from the 2026-08-02 survey. Absence from this corpus states nothing about whether the county has bargained agreements — ORS 243 requires Oregon counties to bargain; this is a statement about what has been looked at, not about what exists.
+    Not yet investigated: the 2026-08-02 survey recorded this county as not-investigated and no search has been made since. Absence from this corpus states nothing about whether the county has bargained agreements — ORS 243 requires Oregon counties to bargain; this is a statement about what has been looked at, not about what exists.
   status_reason_date: '2026-08-02'
 - slug: lake-county
   name: Lake County
@@ -329,7 +334,7 @@ employers:
   survey_status: not-investigated
   built: false
   status_reason: >-
-    Not yet investigated: this county has not been searched since the registry was seeded from the 2026-08-02 survey. Absence from this corpus states nothing about whether the county has bargained agreements — ORS 243 requires Oregon counties to bargain; this is a statement about what has been looked at, not about what exists.
+    Not yet investigated: the 2026-08-02 survey recorded this county as not-investigated and no search has been made since. Absence from this corpus states nothing about whether the county has bargained agreements — ORS 243 requires Oregon counties to bargain; this is a statement about what has been looked at, not about what exists.
   status_reason_date: '2026-08-02'
 - slug: wallowa-county
   name: Wallowa County
@@ -339,7 +344,7 @@ employers:
   survey_status: not-investigated
   built: false
   status_reason: >-
-    Not yet investigated: this county has not been searched since the registry was seeded from the 2026-08-02 survey. Absence from this corpus states nothing about whether the county has bargained agreements — ORS 243 requires Oregon counties to bargain; this is a statement about what has been looked at, not about what exists.
+    Not yet investigated: the 2026-08-02 survey recorded this county as not-investigated and no search has been made since. Absence from this corpus states nothing about whether the county has bargained agreements — ORS 243 requires Oregon counties to bargain; this is a statement about what has been looked at, not about what exists.
   status_reason_date: '2026-08-02'
 - slug: harney-county
   name: Harney County
@@ -349,7 +354,7 @@ employers:
   survey_status: not-investigated
   built: false
   status_reason: >-
-    Not yet investigated: this county has not been searched since the registry was seeded from the 2026-08-02 survey. Absence from this corpus states nothing about whether the county has bargained agreements — ORS 243 requires Oregon counties to bargain; this is a statement about what has been looked at, not about what exists.
+    Not yet investigated: the 2026-08-02 survey recorded this county as not-investigated and no search has been made since. Absence from this corpus states nothing about whether the county has bargained agreements — ORS 243 requires Oregon counties to bargain; this is a statement about what has been looked at, not about what exists.
   status_reason_date: '2026-08-02'
 - slug: grant-county
   name: Grant County
@@ -359,7 +364,7 @@ employers:
   survey_status: not-investigated
   built: false
   status_reason: >-
-    Not yet investigated: this county has not been searched since the registry was seeded from the 2026-08-02 survey. Absence from this corpus states nothing about whether the county has bargained agreements — ORS 243 requires Oregon counties to bargain; this is a statement about what has been looked at, not about what exists.
+    Not yet investigated: the 2026-08-02 survey recorded this county as not-investigated and no search has been made since. Absence from this corpus states nothing about whether the county has bargained agreements — ORS 243 requires Oregon counties to bargain; this is a statement about what has been looked at, not about what exists.
   status_reason_date: '2026-08-02'
 - slug: sherman-county
   name: Sherman County
@@ -369,7 +374,7 @@ employers:
   survey_status: not-investigated
   built: false
   status_reason: >-
-    Not yet investigated: this county has not been searched since the registry was seeded from the 2026-08-02 survey. Absence from this corpus states nothing about whether the county has bargained agreements — ORS 243 requires Oregon counties to bargain; this is a statement about what has been looked at, not about what exists.
+    Not yet investigated: the 2026-08-02 survey recorded this county as not-investigated and no search has been made since. Absence from this corpus states nothing about whether the county has bargained agreements — ORS 243 requires Oregon counties to bargain; this is a statement about what has been looked at, not about what exists.
   status_reason_date: '2026-08-02'
 - slug: gilliam-county
   name: Gilliam County
@@ -379,7 +384,7 @@ employers:
   survey_status: not-investigated
   built: false
   status_reason: >-
-    Not yet investigated: this county has not been searched since the registry was seeded from the 2026-08-02 survey. Absence from this corpus states nothing about whether the county has bargained agreements — ORS 243 requires Oregon counties to bargain; this is a statement about what has been looked at, not about what exists.
+    Not yet investigated: the 2026-08-02 survey recorded this county as not-investigated and no search has been made since. Absence from this corpus states nothing about whether the county has bargained agreements — ORS 243 requires Oregon counties to bargain; this is a statement about what has been looked at, not about what exists.
   status_reason_date: '2026-08-02'
 - slug: wheeler-county
   name: Wheeler County
@@ -389,5 +394,5 @@ employers:
   survey_status: not-investigated
   built: false
   status_reason: >-
-    Not yet investigated: this county has not been searched since the registry was seeded from the 2026-08-02 survey. Absence from this corpus states nothing about whether the county has bargained agreements — ORS 243 requires Oregon counties to bargain; this is a statement about what has been looked at, not about what exists.
+    Not yet investigated: the 2026-08-02 survey recorded this county as not-investigated and no search has been made since. Absence from this corpus states nothing about whether the county has bargained agreements — ORS 243 requires Oregon counties to bargain; this is a statement about what has been looked at, not about what exists.
   status_reason_date: '2026-08-02'
