@@ -1,4 +1,11 @@
 {
   "schema_version": 1,
-  "sources": []
+  "sources": [
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-01",
+      "group": "washington",
+      "id": "washington-foppo-agreement-2022-2026"
+    }
+  ]
 }
