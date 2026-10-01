@@ -11,14 +11,33 @@ Repo-curation dates only — official effective dates live in frontmatter.
   ("...is planned for the history tranche — `supersedes` is recorded then, not
   faked now.") that went false the moment the history tranche actually ran
   (issue #100). `src/ingest_cbas.py` now derives that sentence from each
-  document's own `relationships.supersedes` (`supersedes_note()`): the 30
-  `current` documents that carry a linked predecessor now say so and name it;
-  the other 40 (3 `current` with no predecessor ingested, 37 `superseded`) now
-  say truthfully that no predecessor is ingested for them, per the module's
-  recorded decision to ingest only the immediate predecessor. `link_supersedes()` and
-  `retire_blackline()`, which both add `supersedes` after the body is
-  written, now call the new `refresh_supersedes_note()` so the sentence can't
-  go stale behind them again. Bodies changed only in that sentence;
+  document's own `status`, `relationships.supersedes` and
+  `relationships.related` (`supersedes_note()`): the 30 `current` documents
+  that carry a linked predecessor now say so and name it, without claiming
+  tranche provenance the field can't prove (`retire_blackline()` also
+  populates `supersedes` outside the history tranche); the SEIU blackline
+  (`status: superseded`, predecessor linked under `relationships.related`
+  because a draft supersedes nothing) now says its predecessor IS ingested
+  and names where it's linked, instead of the same "no predecessor is
+  ingested" sentence as the archive. The 37 `superseded` documents with
+  nothing linked keep the truthful "no predecessor is ingested ... a recorded
+  decision" wording — that's the permanent, correct state of the deep
+  archive. The 3 remaining `current` documents
+  (`state-afscme-oregon-emergency-management-2025-2027`,
+  `state-afscme-oregon-long-term-care-ombudsman-2025-2027`,
+  `state-iaff-portland-air-national-guard-firefighters-2025-2027`) do NOT get
+  that wording: re-measured against `_meta/sources/state.yml` and
+  `_meta/state-roster-2025-2027.yml`, each unit's immediate 2023-2025
+  predecessor IS posted in the manifest, but the roster row was renamed to the
+  2025-2027 title and its `match` string no longer matches the predecessor's
+  older title, so `history_picks()`/`link_supersedes()` silently skip it —
+  a pairing gap, not a decision. Those 3 now say that plainly and point at a
+  new "KNOWN GAPS" note in the module's docstring describing the fix
+  (widen the 3 `match` strings, or an explicit id override) as unresolved
+  follow-up work, not done by this commit. `link_supersedes()` and
+  `retire_blackline()`, which both add `supersedes`/`related` after the body
+  is written, now call the new `refresh_supersedes_note()` so the sentence
+  can't go stale behind them again. Bodies changed only in that sentence;
   frontmatter, `## Full text`, and `source_sha256` are untouched.
 
 ### Added

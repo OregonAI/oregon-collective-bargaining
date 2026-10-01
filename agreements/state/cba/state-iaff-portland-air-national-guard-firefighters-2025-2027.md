@@ -64,10 +64,10 @@ official PDF at the source link above remains the authoritative record.
 
 Letters of agreement bound into this PDF by DAS are part of this source
 snapshot; separately-published LOAs are their own documents in a later tranche.
-No predecessor term's agreement is ingested for this document: the history tranche
-ingests each bargaining unit's immediate predecessor only (see this module's docstring),
-and the deep archive beyond it stays un-ingested — a recorded decision, not an
-oversight.
+No predecessor term's agreement is linked to this document yet. The immediate
+predecessor for this bargaining unit is posted in the DAS library but has not been
+paired or ingested — a pairing gap (see KNOWN GAPS in the docstring of
+`src/ingest_cbas.py`), not the recorded immediate-predecessor-only decision.
 
 Extraction: pdftotext -layout; 53 pages, 129005 characters extracted; NOT human-verified.
 

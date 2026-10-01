@@ -78,7 +78,7 @@ official PDF at the source link above remains the authoritative record.
 Letters of agreement bound into this PDF by DAS are part of this source
 snapshot; separately-published LOAs are their own documents in a later tranche.
 The predecessor agreement is linked in `relationships.supersedes`
-(`state-ona-oregon-nurses-association-2023-2025`), ingested in the history tranche.
+(`state-ona-oregon-nurses-association-2023-2025`).
 
 Extraction: pdftotext -layout; 76 pages, 241301 characters extracted; NOT human-verified.
 

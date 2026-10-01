@@ -63,7 +63,7 @@ official PDF at the source link above remains the authoritative record.
 Letters of agreement bound into this PDF by DAS are part of this source
 snapshot; separately-published LOAs are their own documents in a later tranche.
 The predecessor agreement is linked in `relationships.supersedes`
-(`state-afscme-department-of-state-lands-2023-2025`), ingested in the history tranche.
+(`state-afscme-department-of-state-lands-2023-2025`).
 
 Extraction: pdftotext -layout; 99 pages, 297228 characters extracted; NOT human-verified.
 

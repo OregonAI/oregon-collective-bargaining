@@ -86,8 +86,7 @@ Letters of agreement bound into this PDF by DAS are part of this source
 snapshot; separately-published LOAs are their own documents in a later tranche.
 The predecessor agreement is linked in `relationships.supersedes`
 (`state-seiu-2025-2027-blackline-as-of-02202026`,
-`state-seiu-master-agreement-collective-bargaining-agreement-2023-2025`), ingested in
-the history tranche.
+`state-seiu-master-agreement-collective-bargaining-agreement-2023-2025`).
 
 Extraction: pdftotext -layout; 220 pages, 1329328 characters extracted; NOT human-verified.
 

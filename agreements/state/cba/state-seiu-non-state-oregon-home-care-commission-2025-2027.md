@@ -73,8 +73,7 @@ official PDF at the source link above remains the authoritative record.
 Letters of agreement bound into this PDF by DAS are part of this source
 snapshot; separately-published LOAs are their own documents in a later tranche.
 The predecessor agreement is linked in `relationships.supersedes`
-(`state-seiu-non-state-oregon-home-care-commission-2023-2025`), ingested in the history
-tranche.
+(`state-seiu-non-state-oregon-home-care-commission-2023-2025`).
 
 Extraction: pdftotext -layout; 119 pages, 218997 characters extracted; NOT human-verified.
 
