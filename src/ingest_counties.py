@@ -106,6 +106,12 @@ OAR = re.compile(r"OAR\s+(\d{3}-\d{3}-\d{4})")
 DATESPAN = re.compile(r"([A-Z][a-z]+ \d{1,2},?\s*\d{4})\s*(?:through|thru|to|until|[-–])\s*"
                       r"([A-Z][a-z]+ \d{1,2},?\s*\d{4})")
 EXPIRE = re.compile(r"(?:shall\s+)?expires?\s+(?:on\s+)?([A-Z][a-z]+ \d{1,2},?\s*\d{4})")
+# "EFFECTIVE FROM RATIFICATION THROUGH <date>" (Marion's MCDAA 2026-2029 successor,
+# all-caps cover page): there is no stated effective date -- ratification is an
+# event, not a date this ingester may assert -- but the THROUGH date is a real,
+# citable expiry. Case-insensitive: county cover pages print this in all caps.
+RATIFICATION_THROUGH = re.compile(
+    r"RATIFICATION\s+THROUGH\s+([A-Za-z]+\.?\s+\d{1,2},?\s*\d{4})", re.I)
 DOCHUB = re.compile(r'href="(https://dochub\.clackamas\.us/documents/drupal/[^"]+)"')
 UNION_TOKENS = ("AFSCME", "SEIU", "ONA", "FOPPO", "IBEW", "IUOE", "Teamsters",
                 "Operating Engineers", "Oregon Nurses", "CCPOA", "CCEA", "WCPOA",
@@ -173,6 +179,13 @@ def own_dates(text: str, known_term: str | None) -> tuple[str | None, str | None
         fd = _parse_date(d)
         if fd and "1990" <= fd[:4] <= "2040" and (
                 not known_term or fd[:4] == known_term[5:]):
+            return known_term, None, fd
+    for d in RATIFICATION_THROUGH.findall(head):
+        fd = _parse_date(d)
+        if fd and "1990" <= fd[:4] <= "2040" and (
+                not known_term or fd[:4] == known_term[5:]):
+            # No effective date: "from ratification" is an event, not a date this
+            # ingester may assert as `effective_date`.
             return known_term, None, fd
     if not known_term:
         # Year-only span near the front ("2022 – 2025 agreement") — enough for `term`,
@@ -341,9 +354,21 @@ def classify(out: Path, txt: Path, refetch: bool, *, rec: dict | None = None,
         or the raw snapshot is not cached locally -- either of those needs
         `--refetch` instead, and is reported as such rather than silently reused or
         fabricated (AGENTS.md's overriding rule cuts both ways).
+      * ingested, and committed `status: superseded` (a successor now lives at its
+        own doc_id, same stable URL as this one, oregon-collective-bargaining#63) ->
+        never re-ingested, even with `--refetch`: the manifest's doc_id is for the
+        PREDECESSOR, so re-fetching it would overwrite the superseded document with
+        whatever text the stable URL serves today, silently undoing the supersession
+        (AGENTS.md rule 3: a superseded agreement stays, frozen, never overwritten).
     """
     if not out.is_file():
         return "new — would fetch and ingest"
+    # A plain regex, not `load_existing`'s full frontmatter parse: this check must
+    # run ahead of every other branch below (including `--refetch`, which normally
+    # skips straight past everything else to the network), so it cannot assume the
+    # document is otherwise well-formed enough for `load_existing` to succeed.
+    if re.search(r"^status: superseded$", out.read_text(encoding="utf-8"), re.M):
+        return "superseded — stable URL now serves its successor; not re-ingested"
     if refetch:
         return "--refetch requested — would re-verify against the source"
     if not txt.is_file():
@@ -628,6 +653,20 @@ def main() -> int:
             if args.check:
                 print(f"  {doc_id}: {classify(out, txt, args.refetch, rec=rec, county=county)}")
                 total_examined += 1
+                continue
+            # A SUPERSEDED DOCUMENT IS NEVER RE-INGESTED, even with `--refetch`
+            # (oregon-collective-bargaining#63, code review finding 2). The source
+            # manifest still names this predecessor's doc_id at the SAME stable URL
+            # a successor now lives at under its own doc_id (src/ingest_marion_
+            # successors.py), so a plain `--refetch` run here would otherwise fetch
+            # the successor's text under the predecessor's identity and reset
+            # `status` back to `current` via write_doc's hardcoded default --
+            # silently overwriting the exact thing the supersession recorded.
+            if out.is_file() and re.search(r"^status: superseded$",
+                                           out.read_text(encoding="utf-8"), re.M):
+                skipped.append(f"{doc_id}: superseded — stable URL now serves its "
+                               f"successor; not re-ingested")
+                print(f"skipped {doc_id}: superseded — not re-ingested")
                 continue
             # NETWORK ACCESS IS OPT-IN (#93): a document already ingested, with its
             # committed extraction (.txt) on disk, is reused as-is when --refetch was

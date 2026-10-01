@@ -36,7 +36,7 @@ tags:
 - marion-county
 union: MCDAA
 term: 2026-2029
-expiry_date: ''
+expiry_date: '2029-06-30'
 agency_registry_slugs: []
 reproduction_basis: 'public record of a public body (ORS 192.311-192.478); the employer publishes the executed agreement in full at source_url; a ratified agreement is an official act (Georgia v. Public.Resource.Org, 590 U.S. 255 (2020)) — mirrored in full per the class determination in corpus.yml schema.doc_types (verbatim: true)'
 ---
@@ -50,17 +50,14 @@ reproduction_basis: 'public record of a public body (ORS 192.311-192.478); the e
 ## At a glance
 
 Collective bargaining agreement between **Marion County** and **MCDAA** — **2026-2029** term.
-- Listed on the county's labor agreements index as: “MCDAA CBA (2026-2029)” (index archived in `_meta/discovery/`)
+- Identified as the successor from the PDF's own text at the stable URL, fetched 2026-10-01; the last archived county index (`_meta/discovery/2026-08-25/marion.html`) still lists the predecessor's title and term here, not this one (see Curator notes)
+- Expiry stated in the document's text: 2029-06-30
 - Source document: 51 pages (PDF)
 
 
 ## Curator notes
 
-Summary-first is the recorded class determination (`corpus.yml
-schema.doc_types`, `verbatim: false`). `status: current` records that this
-document sits on the county's own operative labor-agreements index at ingest
-time — county pages, unlike the DAS library, publish no history, so currency
-rests on the index and on content-hash drift detection.
+This document is `content_mode: verbatim` per the class determination in `corpus.yml schema.doc_types` (`verbatim: true`). `status: current` rests on this PDF's own text at the stable URL above, fetched 2026-10-01 — this ingest did not re-fetch or re-archive the county's labor-agreements index; the last archived index (`_meta/discovery/2026-08-25/marion.html`) still lists the predecessor's title and term under this same URL. County pages, unlike the DAS library, publish no document history, so an undated, overwritten-in-place filename like this one makes the index stale by construction; currency here rests on the PDF text itself and on content-hash drift detection, not on the index.
 Source-manifest note: UNDATED filename overwritten in place upstream — same hashing mandate as Lane.
 Extraction: pdftotext -layout; 51 pages, 95217 characters extracted; NOT human-verified.
 

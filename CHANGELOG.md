@@ -98,6 +98,25 @@ Repo-curation dates only — official effective dates live in frontmatter.
   `survey_status: verified` with the real `source_url`; `src/discover_counties.py`
   already carried the correct crawl record for this county, only the registry row
   was stale.
+
+- 2026-10-01 — Code review on the Marion successor agreements (#63): the two new
+  documents and their predecessors claimed a county-index listing that no archived
+  fetch backs — neither successor's term appears on any archived Marion index, and
+  this ingest fetched no fresh one. The At-a-glance "Listed on the county's labor
+  agreements index as" bullet and the curator note's "status sits on the county's
+  own operative index" sentence are reworded, for all four documents, to say what
+  actually happened: the successor was identified from the PDF's own text at the
+  stable URL, and the last archived index (`_meta/discovery/2026-08-25/`) still
+  names the predecessor. The predecessors' curator note also no longer reads
+  `status: current` once flipped to `superseded`. `marion-county-mcdaa-cba-2026-2029`
+  was missing `expiry_date`: its own text reads "EFFECTIVE FROM RATIFICATION THROUGH
+  JUNE 30, 2029", a phrasing `own_dates()` did not match (only "expires on `<date>`"
+  and two-date spans); `own_dates()` now matches "RATIFICATION THROUGH `<date>`" too,
+  and `expiry_date: '2029-06-30'` is set. `src/ingest_counties.py --refetch` would
+  have silently re-fetched either predecessor's stable URL — now serving the
+  successor's text — under the PREDECESSOR's doc_id, overwriting the superseded
+  document and resetting it to `status: current`; a committed `status: superseded`
+  document is now never re-ingested, with or without `--refetch`.
 - 2026-09-29 — `src/ingest_cbas.py` could not ingest any agreement after the 2026-08-03
   verbatim flip: it still wrote `content_mode: summary`, which the schema refuses for
   this doc_type, so nothing has been ingested since. It now writes the promoted form

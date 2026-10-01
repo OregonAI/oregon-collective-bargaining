@@ -59,11 +59,7 @@ Collective bargaining agreement between **Marion County** and **MCJEA** — **20
 
 **Superseded by `marion-county-mcjea-cba-2026-2028`** (2026-2028 term), a successor agreement at this same stable URL. This document's text and hash are unchanged; the county's own index may no longer list it.
 
-Summary-first is the recorded class determination (`corpus.yml
-schema.doc_types`, `verbatim: false`). `status: current` records that this
-document sits on the county's own operative labor-agreements index at ingest
-time — county pages, unlike the DAS library, publish no history, so currency
-rests on the index and on content-hash drift detection.
+This document is `content_mode: verbatim` per the class determination in `corpus.yml schema.doc_types` (`verbatim: true`). `status: superseded` records that the stable URL above now serves `marion-county-mcjea-cba-2026-2028`'s text; this document's own text, hash, and `retrieved` date are frozen as committed and are not re-fetched.
 Source-manifest note: UNDATED filename overwritten in place upstream — same hashing mandate as Lane.
 Extraction: pdftotext -layout; 44 pages, 124132 characters extracted; NOT human-verified.
 
