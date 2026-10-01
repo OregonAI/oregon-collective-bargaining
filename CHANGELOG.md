@@ -59,6 +59,31 @@ Repo-curation dates only — official effective dates live in frontmatter.
   reads as an absence claim, the could-not-verify/not-located wording matches what
   is actually true, and a built employer cannot be left marked anything but
   `verified`.
+
+- 2026-10-01 — Marion County successor agreements (#63, amended brief): both
+  `marion-mcdaa-cba` and `marion-mcjea-cba` stable URLs now serve a *successor*
+  agreement, not an edited copy of what was committed. Re-verified against the
+  live PDFs before acting (own text, not the manifest's stale `sha256`): MCDAA's
+  footer and "EFFECTIVE FROM RATIFICATION THROUGH JUNE 30, 2029" read 2026-2029;
+  MCJEA's cover states "July 1, 2026 - June 30, 2028". Ingested each as a new,
+  term-suffixed document — `marion-county-mcdaa-cba-2026-2029` and
+  `marion-county-mcjea-cba-2026-2028` — recording `supersedes` on the predecessor
+  id, via a new one-off script (`src/ingest_marion_successors.py`) rather than a
+  re-run of `src/ingest_counties.py` (whose doc_id is derived mechanically from
+  the source manifest id and would have overwritten the predecessor in place —
+  exactly what AGENTS.md rule 3 forbids). The predecessors,
+  `marion-county-mcdaa-cba` (2023-2026) and `marion-county-mcjea-cba`
+  (2024-2026), **stay committed**, flipped to `status: superseded` with a
+  one-line curator note naming the successor; their text, hash and `retrieved`
+  are untouched. `_meta/sources/marion.yml`'s `sha256` baselines are left for the
+  reviewer to accept via `corpus-detect-changes --record-baseline` — this PR
+  never runs it. **How the stable URL maps to documents:** each Marion URL now
+  always serves the CURRENT agreement at the county's own index — the superseded
+  document's `source_url` is the same URL, frozen at its own `retrieved` date;
+  an agent resolving the live URL today gets the successor's text, and the
+  predecessor is reachable only by its own id or `supersedes` edge, the same
+  shape as every other successor pair in this corpus (e.g. the state tier's
+  2023-2025 -> 2025-2027 chain).
 - 2026-09-29 — **SEIU Master Agreement 2025-2027**, the executed agreement DAS has now
   posted, ingested verbatim (220 pages; 480 article anchors) as `current`. It `supersedes`
   the 2023-2025 master and the 2025-2027 blackline. The blackline flips from `draft` to

@@ -1,139 +1,65 @@
----
-schema_version: 1
-corpus: oregon-collective-bargaining
-jurisdiction: oregon/marion-county
-id: marion-county-mcdaa-cba
-title: Marion County — MCDAA CBA
-doc_type: collective_bargaining_agreement
-citation: 2023-2026 Marion County MCDAA agreement
-authority_level: contract
-issuing_body: Marion County
-union: MCDAA
-term: 2023-2026
-effective_date: ''
-expiry_date: ''
-agency_registry_slugs: []
-source_url: https://www.co.marion.or.us/HR/Documents/MCDAA%20CBA.pdf
-source_format: pdf
-retrieved: '2026-08-02'
-source_sha256: abf5b1efa1b2f9cff444d99d33477b5be462f479b6e5783ac34d99ebe0db3ab5
-snapshot_policy: hash-only
-status: superseded
-content_mode: 'verbatim'
-reproduction_basis: 'public record of a public body (ORS 192.311-192.478); the employer publishes the executed agreement in full at source_url; a ratified agreement is an official act (Georgia v. Public.Resource.Org, 590 U.S. 255 (2020)) — mirrored in full per the class determination in corpus.yml schema.doc_types (verbatim: true)'
-conversion_notes: pdftotext -layout; 33 pages, 93089 characters extracted; NOT human-verified
-last_verified: ''
-verified_by: ''
-maintainer: '@morficflux'
-relationships:
-  implements: []
-  implemented_by: []
-  references_external:
-  - ORS 243.698
-  - ORS 438.010
-  - ORS 653.616
-  related: []
-  supersedes: []
-tags:
-- collective-bargaining
-- county
-- marion-county
----
-
-> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a non-authoritative
-> mirror of the agreement's text, not the official record. Verify against the official
-> source: <https://www.co.marion.or.us/HR/Documents/MCDAA%20CBA.pdf> (retrieved 2026-08-02).
-
-# Marion County — MCDAA CBA
-
-## At a glance
-
-Collective bargaining agreement between **Marion County** and **MCDAA** — **2023-2026** term.
-- Listed on the county's labor agreements index as: “MCDAA CBA” (index archived in `_meta/discovery/`)
-- Source document: 33 pages (PDF)
+      COLLECTIVE BARGAINING AGREEMENT
 
 
-## Curator notes
-
-**Superseded by `marion-county-mcdaa-cba-2026-2029`** (2026-2029 term), a successor agreement at this same stable URL. This document's text and hash are unchanged; the county's own index may no longer list it.
-
-Summary-first is the recorded class determination (`corpus.yml
-schema.doc_types`, `verbatim: false`). `status: current` records that this
-document sits on the county's own operative labor-agreements index at ingest
-time — county pages, unlike the DAS library, publish no history, so currency
-rests on the index and on content-hash drift detection.
-Source-manifest note: UNDATED filename overwritten in place upstream — same hashing mandate as Lane.
-Extraction: pdftotext -layout; 33 pages, 93089 characters extracted; NOT human-verified.
-
-## Cross-references
-
-Statutes and rules the document's text cites are recorded in frontmatter
-`relationships.references_external` (3 citation(s)) and resolve into
-`executive-regulatory-frameworks` as cites — this corpus asserts no
-`implements` edge anywhere.
-
-## Full text
-
-       COLLECTIVE BARGAINING AGREEMENT
-
-
-                   BETWEEN
+                  BETWEEN
 
 
 MARION COUNTY DISTRICT ATTORNEY’S ASSOCIATION
 
 
-                      AND
+                     AND
 
 
-           MARION COUNTY, OREGON
+          MARION COUNTY, OREGON
 
 
 
 
-EFFECTIVE FROM RATIFICATION THROUGH JUNE 30, 2026
-                                                                                                                                        MCDAA CBA
-                                                                                                                                        2023-2026
-                                                               TABLE OF CONTENTS
-
-PREAMBLE ......................................................................................................................................................1
-ARTICLE 1 – RECOGNITION .............................................................................................................................1
-ARTICLE 2 – MANAGEMENT’S RIGHTS ...........................................................................................................1
-ARTICLE 3 – NOTICES FOR MANDATORY SUBJECTS OF BARGAINING ............................................................. 2
-ARTICLE 4 – ASSOCIATION SECURITY ...............................................................................................................3
-ARTICLE 5 – HOURS OF WORK ........................................................................................................................4
-ARTICLE 6 – HOLIDAYS ....................................................................................................................................5
-ARTICLE 7 – VACATIONS .................................................................................................................................5
-ARTICLE 8 – SICK LEAVE ..................................................................................................................................7
-ARTICLE 9 – PROTECTED LEAVE ......................................................................................................................9
-ARTICLE 10 – OTHER LEAVES ..........................................................................................................................9
-ARTICLE 11 – HEALTH, WELFARE, AND RETIREMENT BENEFITS................................................................... 10
-ARTICLE 12 – WAGE ADJUSTMENT............................................................................................................... 12
-ARTICLE 13 – PAY ADMINISTRATION ............................................................................................................ 13
-ARTICLE 14 – ON-CALL .................................................................................................................................. 14
-ARTICLE 15 – PAYDAY ................................................................................................................................... 14
-ARTICLE 16 – TRAVEL ALLOWANCES ............................................................................................................ 14
-ARTICLE 17 – CELL PHONES ........................................................................................................................... 15
-ARTICLE 18 – HEALTH AND SAFETY REGULATIONS ...................................................................................... 15
-ARTICLE 19 – TRIAL SERVICE PERIOD............................................................................................................ 15
-ARTICLE 20 – DISCIPLINE AND DISCHARGE .................................................................................................. 16
-ARTICLE 21 – LAYOFF .................................................................................................................................... 18
-ARTICLE 22 – GENERAL PROVISIONS ............................................................................................................ 20
-ARTICLE 23 – OUTSIDE EMPLOYMENT ......................................................................................................... 20
-ARTICLE 24 – ASSOCIATION REPRESENTATIVES ........................................................................................... 20
-ARTICLE 25 – GRIEVANCE AND ARBITRATION PROCEDURE ........................................................................ 22
-ARTICLE 26 – LIABILITY INSURANCE ............................................................................................................. 24
-ARTICLE 27 – TRAINING ................................................................................................................................ 25
-ARTICLE 28 – BAR DUES ............................................................................................................................... 25
-ARTICLE 29 – SCOPE OF AGREEMENT .......................................................................................................... 25
-ARTICLE 30 –DRUG AND ALCOHOL TESTING ............................................................................................... 26
-ARTICLE 31 – LIFE OF AGREEMENT AND TERMINATION .............................................................................. 26
-ARTICLE 32 – SAVINGS CLAUSE .................................................................................................................... 26
-ARTICLE 33 – DEFINITIONS ........................................................................................................................... 27
+ EFFECTIVE FROM RATIFICATION THROUGH JUNE 30, 2029
+                                                                           TABLE OF CONTENTS
+PREAMBLE...........................................................................................................................................................1
+ARTICLE 1 – RECOGNITION .................................................................................................................................2
+ARTICLE 2 – MANAGEMENT’S RIGHTS................................................................................................................3
+ARTICLE 3 – NOTICES FOR MANDATORY SUBJECTS OF BARGAINING................................................................4
+ARTICLE 4 – ASSOCIATION SECURITY .................................................................................................................5
+ARTICLE 5 – HOURS OF WORK ............................................................................................................................6
+ARTICLE 6 – HOLIDAYS ........................................................................................................................................7
+ARTICLE 7 – VACATIONS .....................................................................................................................................8
+ARTICLE 8 – SICK LEAVE ....................................................................................................................................10
+ARTICLE 9 – PROTECTED LEAVE ........................................................................................................................12
+ARTICLE 10 – OTHER LEAVES ............................................................................................................................14
+ARTICLE 11 – HEALTH, WELFARE, AND RETIREMENT BENEFITS ......................................................................15
+ARTICLE 12 – WAGE ADJUSTMENT ...................................................................................................................18
+ARTICLE 13 – PAY ADMINISTRATION ................................................................................................................19
+ARTICLE 14 – ON-CALL ......................................................................................................................................21
+ARTICLE 15 – PAYDAY .......................................................................................................................................22
+ARTICLE 16 – TRAVEL ALLOWANCES ................................................................................................................23
+ARTICLE 17 – CELL PHONES...............................................................................................................................23
+ARTICLE 18 – HEALTH AND SAFETY REGULATIONS ..........................................................................................25
+ARTICLE 19 – TRIAL SERVICE PERIOD ................................................................................................................26
+ARTICLE 20 – DISCIPLINE AND DISCHARGE.......................................................................................................27
+ARTICLE 21 – LAYOFF ........................................................................................................................................30
+ARTICLE 22 – GENERAL PROVISIONS ................................................................................................................32
+ARTICLE 23 – OUTSIDE EMPLOYMENT .............................................................................................................33
+ARTICLE 24 – ASSOCIATION REPRESENTATIVES ...............................................................................................34
+ARTICLE 25 – GRIEVANCE AND ARBITRATION PROCEDURE .............................................................................36
+ARTICLE 26 – LIABILITY INSURANCE..................................................................................................................39
+ARTICLE 27 – TRAINING ....................................................................................................................................40
+ARTICLE 28 – BAR DUES ....................................................................................................................................41
+ARTICLE 29 – SCOPE OF AGREEMENT ..............................................................................................................42
+ARTICLE 30 – DRUG AND ALCOHOL TESTING ...................................................................................................43
+ARTICLE 31 – LIFE OF AGREEMENT AND TERMINATION ..................................................................................44
+ARTICLE 32 – SAVINGS CLAUSE ........................................................................................................................44
+ARTICLE 33 – DEFINITIONS................................................................................................................................46
 EXHIBIT A – Salary Schedule
-                                                                                               MCDAA CBA
-                                                                                               2023-2026
-                                                 PREAMBLE
+
+
+
+
+  TABLE OF CONTENTS
+                                                                                  MCDAA CBA 2026-2029
+
+                                                PREAMBLE
 
 This agreement is entered into by Marion County, Oregon, hereinafter referred to as the “Employer” or
 “County”, and the Marion County District Attorney’s Association, hereinafter referred to as the
@@ -149,6 +75,11 @@ conditions for Marion County as provided by Oregon Revised Statutes and this Agr
 The parties agree as follows:
 
 
+
+
+PREAMBLE                                                                                               1
+                                                                            MCDAA CBA 2026-2029
+
 ### ARTICLE 1 – RECOGNITION
 
 The Employer recognizes the Association as the exclusive bargaining agent for all Deputy District
@@ -156,6 +87,11 @@ Attorneys, except supervisory and managerial employees, and specifically excludi
 Lead/Supervisors. The term “employee” means any person employed one-half (½) time or more of the
 regular work schedule in a regular position and does not include temporary employees.
 
+
+
+
+### ARTICLE 1 – RECOGNITION                                                                         2
+                                                                                   MCDAA CBA 2026-2029
 
 ### ARTICLE 2 – MANAGEMENT’S RIGHTS
 
@@ -174,11 +110,7 @@ management functions:
    C. The right to establish, amend, abolish and administer separate personnel and employment
       benefit rules and policies for non-bargaining unit personnel. The continuous overseeing of
       personnel policies, procedures and programs promulgated under any other term of this
-
-                                                                                           1
-                                                                                                 MCDAA CBA
-                                                                                                 2023-2026
-       agreement.
+      agreement.
 
    D. The management and direction of the work force including the right to determine the methods,
       processes and manner of performing work; the establishment of new positions and the
@@ -190,11 +122,11 @@ management functions:
       equipment; the right to formulate, change or modify office rules, regulations and procedures;
       the right to take all necessary action to carry out its mission on emergency.
 
-The rights of the employees in the bargaining unit and the Association hereunder are limited to
-those specifically set forth in this Agreement. Subjects covered by the terms of this Agreement
-are closed to further bargaining for the term hereof, except as require by changes to law, and any
-subject which was or might have been raised in the course of collective bargaining is closed for
-the term hereof except as provided in ORS 243.698 or in this Agreement.
+The rights of the employees in the bargaining unit and the Association hereunder are limited to those
+specifically set forth in this Agreement. Subjects covered by the terms of this Agreement are closed to
+further bargaining for the term hereof, except as require by changes to law, and any subject which was or
+might have been raised in the course of collective bargaining is closed for the term hereof except as
+provided in ORS 243.698 or in this Agreement.
 
 This article shall not preclude the Association and the Employer and District Attorney from either
 1) meeting during the period of the contract at the request of either party to discuss procedures for
@@ -203,6 +135,9 @@ avoiding grievances and other problems and for generally improving relations bet
 provided in Article 31, Life of Agreement and Termination, or 3) negotiating during the open term outside
 of formal successor negotiations when the parties mutually agree to so negotiate.
 
+### ARTICLE 2 – MANAGEMENT’S RIGHTS
+                                                                                                          3
+                                                                                     MCDAA CBA 2026-2029
 
 ### ARTICLE 3 – NOTICES FOR MANDATORY SUBJECTS OF BARGAINING
 
@@ -219,16 +154,17 @@ submit a written demand to bargain changes to mandatory subjects as it deems app
 Section 3. The opportunity to exercise the options listed in Sections 1 and 2 in this article will ordinarily be
 accomplished within fifteen (15) calendar days.
 
-
-                                                                                             2
-                                                                                             MCDAA CBA
-                                                                                             2023-2026
 Section 4. Should the Association respond within the time limits specified above and request bargaining
 over the new or proposed modification of a rule or policy, the parties will meet as soon as possible to do
 so. Neither this article nor any other provision of this agreement shall in any way constitute a waiver of
 the Association's right pursuant to ORS Chapter 243 to bargain on new rules, policies, and procedures
 and/or changes in current rules, policies, and procedures, which are mandatory subjects of negotiations.
 
+
+
+
+### ARTICLE 3 – NOTICES FOR MANDATORY SUBJECTS OF BARGAINING                                                   4
+                                                                                  MCDAA CBA 2026-2029
 
 ### ARTICLE 4 – ASSOCIATION SECURITY
 
@@ -264,25 +200,24 @@ the Employer.
 
 
 
-                                                                                          3
-                                                                                               MCDAA CBA
-                                                                                               2023-2026
+### ARTICLE 4 – ASSOCIATION SECURITY                                                                      5
+                                                                                    MCDAA CBA 2026-2029
+
 ### ARTICLE 5 – HOURS OF WORK
 
 Section 1. Exempt Status. The Association and the County recognize that employees are FLSA exempt
 professional employees, and that hours of work, days of work and work locations will vary according to
 workload and will include on-call duties as determined by the District Attorney.
 
-
 Section 2. Regular Hours. The parties agree that generally, full-time employees are expected to work
-either: (1) an eight (8) hour, five (5) day workweek; (2) a ten (10) hour, four (4) day workweek; or (3)
-any other workweek as allowed by Marion County Personnel Rules or at the discretion of the District
-Attorney. Regular hours may be different for individual members of the Association; however, all
-workweeks are subject to approval of the District Attorney. The Association recognizes that workweek
-accommodations on an individual basis are burdensome, however accommodations shall not be
-unreasonably denied. The Marion County District Attorney’s Office business hours in office are Monday
-through Friday, 8:00 AM through 5:00 PM with a one (1) hour lunch break. Hours of work, within the
-normal workweek, shall be determined by the District Attorney.
+either: one (1) hour, an eight (8) hour, five (5) day workweek; two (2) a ten (10) hour, four (4) day
+workweek; or three (3) any other workweek as allowed by Marion County Personnel Rules or at the
+discretion of the District Attorney. Regular hours may be different for individual members of the
+Association; however, all workweeks are subject to approval of the District Attorney. The Association
+recognizes that workweek accommodations on an individual basis are burdensome, however
+accommodations shall not be unreasonably denied. The Marion County District Attorney’s Office
+business hours in office are Monday through Friday, 8:00 AM through 5:00 PM with a one (1) hour
+lunch break. Hours of work, within the normal workweek, shall be determined by the District Attorney.
 
 Section 3. Regular Workweek. Except as provided in Section 2 of this article, each regular workweek
 shall consist of not more than five (5) consecutive days with two (2) consecutive days off. It is expressly
@@ -308,61 +243,49 @@ Marion County Personnel Rules differ, this Agreement takes precedence.
 
 
 
-                                                                                           4
-                                                                                             MCDAA CBA
-                                                                                             2023-2026
+### ARTICLE 5 – HOURS OF WORK                                                                                 6
+                                                                                  MCDAA CBA 2026-2029
+
 ### ARTICLE 6 – HOLIDAYS
 
 Section 1. Holidays. The following days are legal holidays for regular employees:
 
-      New Year's Day                                                Labor Day
-      Martin Luther King's Birthday                                 Veterans' Day
-      Presidents' Day                                               Thanksgiving Day
-      Memorial Day                                                  Christmas Day
-      Juneteenth
-      Independence Day
+      New Year's Day                                Labor Day
+      Martin Luther King's Birthday                 Veterans' Day
+      Presidents' Day                               Thanksgiving Day
+      Memorial Day                                  Christmas Day
+      Juneteenth                                    Independence Day
+
+
 
 All legal holidays designated by the Board of Commissioners.
 
 Holiday compensation shall equal the number of hours regularly scheduled for the day the holiday falls
 on (“day for a day”).
 
-Section 2. Personal Holidays. Regular employees whose budgeted full-time equivalent (FTE) is equal to
-or greater than 0.5 (50%) are entitled to two (2) personal holidays each calendar year. Such holidays
-shall be one (1) regular work shift each and are to be taken during the calendar year in which the
-holidays are earned and may not be carried forward into the following year. The personal holiday shall
-be scheduled in accordance with Article 7, Vacations.
-
-Section 3. Commissioners’ Day. If granted by the Board, current regular employees may utilize a
-special Commissioners’ Day. This day shall be taken in accordance with Commissioners’ Day
-guidelines. The Commissioners’ Day shall be scheduled with supervisor approval and in a manner that
-will provide adequate staff to maintain service.
-
-Section 4. Weekend Holiday. Whenever a holiday falls on Saturday, the preceding Friday shall be
+Section 2. Weekend Holiday. Whenever a holiday falls on Saturday, the preceding Friday shall be
 considered to be the holiday. Whenever a holiday falls on Sunday, the following Monday shall be
 considered to be the holiday. Holidays, which occur during paid vacation or sick leave with pay, shall not
 be charged against vacation or sick leave accruals.
 
 
+
+
+### ARTICLE 6 – HOLIDAYS
+                                                                                                       7
+                                                                                   MCDAA CBA 2026-2029
+
 ### ARTICLE 7 – VACATIONS
 
-Section 1. Vacation Accumulation. After having served in the county service for six (6) consecutive, full
-calendar months, full-time employees shall have access to accrued vacation leave. Vacation leave shall be
-credited as follows for full-time employees:
+Section 1. Vacation Accumulation. Vacation leave shall be credited as follows for full-time employees:
 
-
-
-
-                                                                                         5
-                                                                                               MCDAA CBA
-                                                                                               2023-2026
                                                                     Hours/Pay Period       Hours/Year
-    Day 1 through 3rd year of continuous service                          4.000               104
-    After 3rd year of continuous service through 5th year                 4.308               112
-    After 5th year of continuous service through 10th year                4.924               128
-    After 10th year of continuous service through 15th year               5.539               144
-    After 15th year of continuous service through 20th year               6.462               168
-    After 20th year                                                       7.385               192
+    Day 1 through 3rd year of continuous service                          5.231             136.000
+    After 3rd year of continuous service through 5th year                 5.538             143.988
+    After 5th year of continuous service through 10th year                5.846             151.996
+    After 10th year of continuous service through 15th year               6.769             175.994
+    After 15th year of continuous service through 20th year               7.385             192.010
+    After 20th year                                                       8.308             216.008
 
 All annual vacation accruals reflected above shall be equally accrued/distributed each pay period.
 
@@ -393,23 +316,23 @@ limitations may, by notifying the employee’s appointing authority five (5) wor
 absent themselves to prevent loss of this time, or at the Employer’s option, receive payment for forty
 (40) hours of vacation. Such action taken by the employee shall not constitute a basis for disciplinary
 action or loss of pay. While on a leave without pay that exceeds fifteen (15) calendar days, vacation
+
+
+### ARTICLE 7 – VACATIONS                                                                                   8
+                                                                                   MCDAA CBA 2026-2029
+
 leave shall not accrue. Any employee, who is granted a leave of absence without pay, shall first be
 scheduled for any vacation leave, which have accrued to his/her credit before he/she commences leave
 without pay. Each employee’s accumulated vacation shall be reported to them bi-weekly.
 
-
-
-                                                                                           6
-                                                                                              MCDAA CBA
-                                                                                              2023-2026
 If an employee has accumulated at least three (3) weeks of vacation leave, the employee may choose to
 cash out one (1) week of vacation. This option is limited to one (1) occurrence per fiscal year.
 
 Employees who are on extended workers’ compensation paid time loss shall not suffer a loss of vacation
-credits as a result of this limit (accrual cap of 250 hours). The employee on workers’ compensation will
-accumulate vacation over the maximum limit of two hundred fifty (250) hours for a period not to exceed
-six (6) months. Amounts accrued in this manner which are above the limit shall be used within six (6)
-months of return to work.
+credits as a result of this limit (accrual cap of two hundred fifty 250 hours). The employee on workers’
+compensation will accumulate vacation over the maximum limit of two hundred fifty (250) hours for a
+period not to exceed six (6) months. Amounts accrued in this manner which are above the limit shall be
+used within six (6) months of return to work.
 
 Section 6. Except for emergencies, the District Attorney shall not schedule employees for any
 assignments during their scheduled vacation.
@@ -437,20 +360,25 @@ made. Payments or time off will be prorated based on the employee’s work statu
 
 Section 8. Sunset of Compensation Credits. Employees hired on or after July 1, 2008, will not receive
 compensation credits. In lieu of receiving compensation credits, new employees will receive a higher rate
-of pay generated by rolling the value of the compensation credits (three point eight four percent (3.84%))
+of pay generated by rolling the value of the compensation credits (three point eight four percent (3.84%)
+
+
+### ARTICLE 7 – VACATIONS                                                                                    9
+                                                                              MCDAA CBA 2026-2029
+
 into the base rate of pay.
 
 Section 9. Opting-Out of Compensation Credits. Employees hired before July 1, 2008, may make a one-
 time, permanent election to opt-out of compensation credits provided in Section 7 of this article, in
-
-
-                                                                                           7
-                                                                                                MCDAA CBA
-                                                                                                2023-2026
 return for the higher salary provided in Section 8 of this article. Once enrolled in this program, an
 employee may not return to receiving compensation credits and pay at the lower salary schedule.
 
 
+
+
+### ARTICLE 7 – VACATIONS
+                                                                                                  10
+                                                                                 MCDAA CBA 2026-2029
 
 ### ARTICLE 8 – SICK LEAVE
 
@@ -474,9 +402,12 @@ Section 4. Should the employee be required to undergo a physical examination, th
 any cost of such examination that is not covered by insurance.
 
 Section 5. The amount of authorized bereavement leave shall be the amount required under state
-and/or federal protected leave laws. Bereavement leave approved shall be charged to accumulated
-leave in accordance with the Marion County Personnel Rules, and consistent with FMLA/OFLA and Paid
-Leave Oregon (PLO).
+and/or federal protected leave laws. The County shall provide for three (3) workdays paid bereavement
+leave for each immediate family member which shall count towards the statutorily mandated leave if
+the employee qualifies. The remaining bereavement leave approved shall be charged to accumulated
+leave in accordance with the Marion County Personnel Rules, and consistent applicable law. Paid
+bereavement leave must be used within sixty (60) days of the death of the family member, unless
+approved otherwise by the chief human resources officer or designee.
 
 Section 6. For the purposes of this article, immediate family has the meaning established by protected
 leave laws and Marion County Personnel Rules. The County may grant leave under the terms of this
@@ -489,11 +420,12 @@ if earned sick leave has been exhausted, the employee may use vacation leave.
 
 Section 8. Any employee, who is ill and unable to report to work, shall notify their immediate supervisor
 as soon as reasonably possible, at least one (1) hour before the start of the next scheduled workday. In
-
-                                                                                         8
-                                                                                           MCDAA CBA
-                                                                                           2023-2026
 the case of a continuing illness, the employee shall keep his/her immediate supervisor advised of
+
+
+### ARTICLE 8 – SICK LEAVE                                                                               11
+                                                                                  MCDAA CBA 2026-2029
+
 his/her inability to report to work.
 
 Section 9. An appointing authority may reappoint a former employee to a position in the classification the
@@ -501,6 +433,21 @@ employee previously held within the same department. This process is subject to 
 resources. The reappointment must occur within twelve (12) months of the date of separation from the
 County. Upon reappointment, the County will restore all of an employee’s previous sick leave credit.
 
+Section 10. Sick Leave Conversion. Regular employees working a 40 (forty) hour workweek schedule who
+have accumulated at least one hundred ten (110) hours of sick leave may convert a minimum of twenty-
+four (24) hours to three (3) personal days. Converted hours will only be used in full-day increments,
+cannot be cashed out, and will not be paid out upon termination of employment. Employees may exercise
+this sick leave conversion option only once per calendar year, provided they continue to meet the 40
+(forty) hour workweek schedule and sick leave accumulation requirements at the time of the request.
+Personal days must be used during the calendar year in which they were converted and may not be
+carried forward into the following year. Scheduling of personal days shall be in accordance with Article 7,
+Section 4, Vacation Scheduling, subject to department approval.
+
+
+
+
+### ARTICLE 8 – SICK LEAVE                                                                                12
+                                                                                    MCDAA CBA 2026-2029
 
 ### ARTICLE 9 – PROTECTED LEAVE
 
@@ -524,6 +471,11 @@ Any conflicts in the administration or interpretation of the provisions under ei
 resolved by the application of the appropriate federal and/or state statute.
 
 
+
+
+### ARTICLE 9 – PROTECTED LEAVE                                                                               13
+                                                                                   MCDAA CBA 2026-2029
+
 ### ARTICLE 10 – OTHER LEAVES
 
 Section 1. Absence With Pay. An employee holding a position in the county service shall be granted a
@@ -535,11 +487,6 @@ before the end of the workday, shall immediately report their availability for a
 supervisor. All jury and witness fees, except mileage and meals, received by the employee shall be
 turned over to the county. Under no circumstances is an employee entitled to receive leave of absence
 with pay for appearance before a court, legislative committee or judicial or quasi-judicial body as a party
-
-
-                                                                                            9
-                                                                                         MCDAA CBA
-                                                                                         2023-2026
 or witness in response to a subpoena or other direction by proper authority where the employee is a
 party in the case unless the employee is a party because of their employment with Marion County.
 
@@ -571,36 +518,60 @@ work as a result of the on-the-job injury.
 Section 4. Military and Peace Corps Leave. Military and Peace Corps leave shall be granted in
 accordance with Oregon Revised Statutes.
 
+
+### ARTICLE 10 – OTHER LEAVES                                                                               14
+                                                                                  MCDAA CBA 2026-2029
+
 Section 5. Temporary Interruption of Employment. Any temporary interruption of employment
 because of adverse weather conditions, shortage of supplies, or for other bona fide unexpected or
 unusual reasons, which does not exceed ten (10) days, shall not be considered a layoff if, at the
 termination of such conditions, employees are to be returned to employment. Such interruptions of
-employment may be charged to the following accrued leave: vacation leave, personal holiday(s),
+employment may be charged to the following accrued leave: vacation leave, personal day(s),
 compensation credit leave or may be recorded as leave without pay at the employee's option.
 
 Section 6. Failure to Return from Leave. Any employee, who has been granted a leave of absence and
 who, for any reason, fails to return to work at the expiration of said leave of absence, shall be
 considered as having resigned his/her position with the Employer and his/her position shall thereupon
-
-
-                                                                                      10
-                                                                                            MCDAA CBA
-                                                                                            2023-2026
 be declared vacant, except and unless the employee, prior to the expiration of his/her leave of absence,
 has furnished evidence that he/she is unable to return to work by reason of sickness, physical disability,
 or other legitimate reasons beyond his/her control. Such leave shall not exceed a total duration of one
 (1) year.
 
+Section 7. Personal Days. Regular employees whose budgeted full-time equivalent (FTE) is equal to or
+greater than 0.5 (50%) are entitled to two (2) personal days each calendar year. Such days shall be one
+(1) regular work shift each and are to be taken during the calendar year in which the days are earned
+and may not be carried forward into the following year. The personal days shall be scheduled in
+accordance with Article 7, Vacations.
+
+Section 8. Commissioners’ Day. If granted by the Board, current regular employees may utilize a
+special Commissioners’ Day. This day shall be taken in accordance with Commissioners’ Day
+guidelines. The Commissioners’ Day shall be scheduled with supervisor approval and in a manner that
+will provide adequate staff to maintain service.
+
+Section 9. In each calendar year, the employee may choose to take one (1) full day off on either the
+Day After Thanksgiving or Christmas Eve, with prior supervisor approval. The day not chosen by the
+employee will become a regular workday.
+
+If an employee is required to perform work on the day after Thanksgiving or Christmas Eve, the
+employee shall be provided with one additional day off to be utilized at another time. The day off
+shall be scheduled with supervisor approval and will not carry over into the following year or be paid
+out.
+
+
+
+
+### ARTICLE 10 – OTHER LEAVES                                                                                15
+                                                                                    MCDAA CBA 2026-2029
 
 ### ARTICLE 11 – HEALTH, WELFARE, AND RETIREMENT BENEFITS
 
 Section 1. Marion County Benefits Plan. Marion County shall, within the maximum contribution provided
 by the County, attempt to provide the best value, most effective health, dental and vision benefits
 available for employees and their families. The County agrees to pay the full premium for life insurance
-equal to the employee’s base annual salary and for long-term disability benefits equal to 66 2/3% of
-employee’s base earnings for each eligible employee. Employees will be allowed to use a Section 125 plan
-for health care, dependent care, transportation, and health insurance premium expenses, as allowed by
-law.
+equal to the employee’s base annual salary and for long-term disability benefits equal to sixty-six and
+two-thirds percent 66 2/3% of employee’s base earnings for each eligible employee. Employees will be
+allowed to use a Section 125 plan for health care, dependent care, transportation, and health insurance
+premium expenses, as allowed by law.
 
 Section 2. Optional Insurance Benefits. Employees desiring to participate in other optional insurance
 programs currently authorized by the board may do so at their expense with their payroll withholding.
@@ -610,32 +581,34 @@ contract terms and conditions between the County and the insurance carriers, and
 continue to pay the Employer share of the cost/portion of the insurance benefit.
 
 Section 3. Employer Health Insurance Contributions.
-     A. The County agrees to contribute up to one thousand six hundred forty-six dollars ($1,646) per
-        employee, per month, for health, dental, and vision benefits for the benefit plan year
-        January 1, 2024, to December 31, 2024. (The County agrees to continue to pay the current 2023
-        contribution amount, per employee, per month, for health, dental, and vision benefits for the
-        current (2023) benefit plan year, (maintain the status-quo) through December 31, 2023.)
 
-    B. The County agrees to contribute up to one thousand six hundred forty-six dollars ($1,646) per
-       employee, per month, for health, dental, and vision benefits for the benefit plan year
-       January 1, 2025, to December 31, 2025.
+The County and the association agree to reopen Article 11, this Section 3 on September 1, 2026 to discuss
+the employer and employee contributions if the County changes its medical benefits structure.
 
-    C. The County agrees to contribute up to one thousand six hundred seventy-one dollars ($1,671) per
-       employee, per month, for health, dental, and vision benefits for the benefit plan year
-       January 1, 2026, to December 31, 2026.
+Effective July 1, 2026 the County agrees to contribute up to one thousand eight hundred ninety-six dollars
+($1,896) per employee, per month, for health, dental, and vision benefits for the benefit plan year
+January 1, 2027, to December 31, 2027.
+
+The County agrees to contribute up to one thousand nine hundred forty-six dollars ($1,946) per
+employee, per month, for health, dental, and vision benefits for the benefit plan year January 1, 2028, to
+December 31, 2028.
+
+The County agrees to contribute up to one thousand nine hundred ninety-six dollars ($1,996) per
+employee, per month, for health, dental, and vision benefits for the benefit plan year January 1, 2029, to
+December 31, 2029.
 
 Section 4. Any dispute on whether changes to a benefit plan comply with this article shall be submitted
 directly to final and binding arbitration within thirty (30) days of notice to the Association by the County.
 
-
-
-                                                                                           11
-                                                                                          MCDAA CBA
-                                                                                          2023-2026
 Section 5. Retirement. The Employer agrees to continue its participation in the Public Employees
 Retirement System (PERS) and the Oregon Public Service Retirement Plan (OPSRP).
 
 The parties agree the Employer will contribute an amount equal to six percent (6%) of the eligible
+
+
+### ARTICLE 11 – HEALTH, WELFARE, AND RETIREMENT BENEFITS                                                   16
+                                                                                  MCDAA CBA 2026-2029
+
 employee’s wages to be remitted to Oregon PERS. After any required adjustments, Oregon PERS will
 distribute the net amount to the employee’s Individual Account Program (IAP). For the limited
 purposes of the Internal Revenue Code Section 414(h)(2) and related tax statutes, the employee’s
@@ -673,22 +646,22 @@ amount paid to each employee into an employer account in the employee’s name, 
 
 
 
-                                                                                        12
-                                                                                                  MCDAA CBA
-                                                                                                  2023-2026
+### ARTICLE 11 – HEALTH, WELFARE, AND RETIREMENT BENEFITS                                                17
+                                                                                      MCDAA CBA 2026-2029
+
 ### ARTICLE 12 – WAGE ADJUSTMENT
 
-Section 1. Wages are reflected in Exhibit A – Salary Schedule
-Effective and retroactive to July 1, 2023, all employees shall receive a five percent (5%) wage increase
-across the board, and Exhibit A will be adjusted to reflect the increase in wages.
+Section 1. Wages are reflected in Exhibit A – Salary Schedule.
+Effective July 2, 2026, all employees shall receive a two percent (2%) wage increase across the board, and
+Exhibit A will be adjusted to reflect the increase in wages.
 
-Effective July 1, 2024, all employees shall receive a three and one-half percent (3.5%) wage increase
-across the board. Exhibit A will be further adjusted to reflect the additional three and one-half percent
-(3.5%) across the board increase in wages.
+Effective July 1, 2027, all employees shall receive a two percent (2%) wage increase across the board.
+Exhibit A will be further adjusted to reflect the additional two percent (2%) across the board increase in
+wages.
 
-Effective July 1, 2025, all employees shall receive a three and one-half percent (3.5%) wage increase
-across the board. Exhibit A will be further adjusted to reflect the additional three and one-half percent
-(3.5%) across the board increase in wages.
+Effective July 1, 2028, all employees shall receive a three percent (3%) wage increase across the board.
+Exhibit A will be further adjusted to reflect the additional three percent (3%) across the board increase
+in wages.
 
 Section 2. Longevity. Regular employees shall be eligible for Longevity 1 pay increase after being on
 Step 7 of the current pay range for one (1) full year AND employed with the county for a minimum of
@@ -703,6 +676,11 @@ receive a five percent (5%) differential for all hours worked. Eligibility for t
 on passing a valid, reliable, professionally recognized foreign language test.
 
 
+
+
+### ARTICLE 12 – WAGE ADJUSTMENT                                                                                18
+                                                                                   MCDAA CBA 2026-2029
+
 ### ARTICLE 13 – PAY ADMINISTRATION
 
 Section 1. Pay Plan. The Employer hereto adopted a pay plan under which employees covered by this
@@ -716,14 +694,9 @@ Section 2. Administration of Pay Plan.
       classification in which he/she is employed.
 
    B. Entrance Pay: Normally, an employee will be appointed or reinstated at the entrance rate for the
-
-
-                                                                                             13
-                                                                                            MCDAA CBA
-                                                                                            2023-2026
-       classification. If the appointing authority believes it necessary to make an appointment or
-       reinstatement above the entrance rate, the appointing authority may do so if allowed by the
-       personnel officer.
+      classification. If the appointing authority believes it necessary to make an appointment or
+      reinstatement above the entrance rate, the appointing authority may do so if allowed by the
+      personnel officer.
 
    C. Merit Increases: Merit increases shall be based on satisfactory service. Employees shall normally
       be eligible for in-range merit increases on their established anniversary date until such time as
@@ -748,52 +721,75 @@ Section 2. Administration of Pay Plan.
       anniversary date for subsequent merit increases.
 
    F. Reassignment: When an employee is reassigned by the District Attorney to another division
+
+
+### ARTICLE 13 – PAY ADMINISTRATION                                                                         19
+                                                                                MCDAA CBA 2026-2029
+
       in a classification with the same pay range, his/her rate of pay remains the same. Such
       employee shall retain his/her anniversary date for merit increases.
 
+
+
+
+### ARTICLE 13 – PAY ADMINISTRATION                                                                 20
+                                                                                MCDAA CBA 2026-2029
 
 ### ARTICLE 14 – ON-CALL
 
 Employees will be assigned to be on-call on a rotating basis for one (1) week at a time. For the
 week the employee is on-call, the employee shall receive an additional premium of nine hundred
-dollars ($900) per week. Only the scheduled on-call employee shall receive the payment.
+fifty dollars ($950) per week. Only the scheduled on-call employee shall receive the payment.
 
+
+
+
+### ARTICLE 14 – ON-CALL                                                                               21
+                                                                              MCDAA CBA 2026-2029
 
 ### ARTICLE 15 – PAYDAY
 
 The Employer shall pay Association members on a bi-weekly basis using the same schedule as applicable
-
-                                                                                          14
-                                                                                           MCDAA CBA
-                                                                                          2023-2026
 for all other County employees. This Section shall not apply where circumstances exist beyond the
 control of the Employer, which cause a delay in the issuing of such checks.
 
+
+
+
+### ARTICLE 15 – PAYDAY                                                                               22
+                                                                                   MCDAA CBA 2026-2029
 
 ### ARTICLE 16 – TRAVEL ALLOWANCES
 
 Section 1. Mileage Reimbursement. Upon prior approval by the supervisor, mileage reimbursement for
 the use of private vehicles shall be at the current IRS mileage rate for business use of an automobile.
-Mileage shall be computed from the vehicle odometer reading.
+Mileage shall be computed from either actual odometer readings or from an online mapping tool.
 
 Section 2. Other Transportation Costs. All in-state and/or out-of-state travel must be approved in
 advance by the District Attorney or designee. The cost of in-state transportation and/or out-of-state
 transportation for air, train, or bus travel shall be reimbursed on an actual cost basis. No transportation
 costs will be reimbursed unless the employee has received prior approval of his or her supervisor.
-Receipts shall be submitted with claims for reimbursements for air, train or bus travel, and
+Itemized receipts shall be submitted with claims for reimbursements for air, train or bus travel, and
 reimbursement for private automobile transportation. Travel arrangements will be made by the county
 and paid directly. In the event employees must pay their own travel expenses, reimbursement is on an
 actual cost basis. Where employees elect to drive private automobiles in lieu of plane or train
 transportation, reimbursement will not exceed the best available daytime airfare on the day air travel
 would normally be booked.
 
-Section 3. Cost of Lodging, Meals and Other Allowances. The Employer shall reimburse the actual cost
-of lodging, meals, and other related transportation expenses on an actual cost basis up to IRS Per Diem
-rate. Except in the case of an emergency, the employee shall receive prior approval for all anticipated
-expenses. In order to receive reimbursement, an itemized receipt must be provided for all expenses.
-The Employer reserves the right to deny expense claims for such things as personal gifts, alcohol,
-entertainment or excessive expenses.
+Section 3. Cost of Lodging, Meals and Other Allowances. Employees should generally use a county
+PCard for all travel related expenditures. When the use of a PCard is not possible, the Employer shall
+reimburse the actual cost of lodging, meals, and other related transportation expenses on an actual cost
+basis up to the US Government General Services Administration (GSA) Per Diem rate. Except in the case
+of an emergency, the employee shall receive prior approval for all anticipated expenses. In order to
+receive reimbursement, an itemized receipt must be provided for all expenses. The Employer reserves
+the right to deny expense claims for such things as personal gifts, alcohol, entertainment or excessive
+expenses.
 
+
+
+
+### ARTICLE 16 – TRAVEL ALLOWANCES                                                                       23
+                                                                               MCDAA CBA 2026-2029
 
 ### ARTICLE 17 – CELL PHONES
 
@@ -802,6 +798,11 @@ Employer provided cell phone for business purposes in compliance with County pol
 personal cell phone for personal purposes.
 
 
+
+
+### ARTICLE 17 – CELL PHONES                                                                          24
+                                                                                 MCDAA CBA 2026-2029
+
 ### ARTICLE 18 – HEALTH AND SAFETY REGULATIONS
 
 Section 1. The Employer agrees to abide by and maintain in its facilities and work operations standards of
@@ -809,10 +810,6 @@ safety and health in accordance with the Oregon Safe Employment Act.
 
 Section 2. The County shall make reasonable provisions and exercise due consideration regarding the
 health and safety of its employees during the hours of their employment. Employees shall follow County
-
-                                                                                          15
-                                                                                           MCDAA CBA
-                                                                                           2023-2026
 safety regulations and traffic laws and shall use safety equipment provided by the County. Employees
 shall be encouraged to report to their supervisors unsafe and potentially hazardous conditions.
 
@@ -820,6 +817,11 @@ Section 3. Employees shall not be disciplined for refusal to operate reasonably 
 equipment nor shall refusal to operate such equipment be construed as insubordination until Section 2
 has been complied with unless an emergency situation exists.
 
+
+
+
+### ARTICLE 18 – HEALTH AND SAFETY REGULATIONS                                                           25
+                                                                                      MCDAA CBA 2026-2029
 
 ### ARTICLE 19 – TRIAL SERVICE PERIOD
 
@@ -842,6 +844,11 @@ prior to the promotion, if a position in that classification is vacant, and will
 service period in that classification.
 
 
+
+
+### ARTICLE 19 – TRIAL SERVICE PERIOD                                                                           26
+                                                                                    MCDAA CBA 2026-2029
+
 ### ARTICLE 20 – DISCIPLINE AND DISCHARGE
 
 Section 1. The County shall impose disciplinary measures to correct employee misconduct. These
@@ -854,11 +861,6 @@ or accumulation of misconduct.
 Section 2. If disciplinary action is to be taken against an employee, it shall be done in a manner that will
 not embarrass the employee before other employees or the public. Discipline may include but need not
 be limited to:
-
-
-                                                                                             16
-                                                                                             MCDAA CBA
-                                                                                             2023-2026
 
    A. Oral Reprimand. This is a warning procedure rather than a disciplinary one and should serve
       to forestall the employee from being placed in such a position that a more severe form of
@@ -887,7 +889,12 @@ be limited to:
       governing demotions.
 
    F. Dismissal. The County may dismiss for just cause any regular employee under the County’s
-      jurisdiction.
+
+
+### ARTICLE 20 – DISCIPLINE AND DISCHARGE                                                                    27
+                                                                                 MCDAA CBA 2026-2029
+
+       jurisdiction.
 
 Section 3. Due Process Notice and Meeting. In any discipline resulting in suspension without pay,
 reduction in pay, demotion, or dismissal, employees shall receive before the imposition of such discipline:
@@ -900,11 +907,6 @@ reduction in pay, demotion, or dismissal, employees shall receive before the imp
    B. In any discipline resulting in suspension without pay, reduction in pay, demotion, or dismissal,
       employees shall receive before the imposition of such proposed discipline.
 
-
-
-                                                                                        17
-                                                                                       MCDAA CBA
-                                                                                       2023-2026
    C. A statement of improper conduct, inadequate performance, or other cause for discipline engaged
       in by the employee.
 
@@ -916,7 +918,7 @@ reduction in pay, demotion, or dismissal, employees shall receive before the imp
              statement of cause and statement of discipline under consideration.
 
        An employee, who has been notified that suspension without pay, reduction in pay, demotion, or
-       dismissal is under consideration must be given this notice at least two (2) twenty-four (24)-hour
+       dismissal is under consideration must be given this notice at least two (2) twenty-four (24) hour
        working days prior to the date of the due process meeting.
 
           An employee may then be suspended without pay, reduced in pay, demoted, or dismissed if:
@@ -933,6 +935,11 @@ reduction in pay, demotion, or dismissal, employees shall receive before the imp
            Suspension without pay, reduction in pay, demotion, or dismissal shall be imposed by written
            notice to the Association and the employee. Suspension without pay, reduction in pay,
            demotion, or dismissal may be effective upon delivery of notice of suspension without pay,
+
+
+### ARTICLE 20 – DISCIPLINE AND DISCHARGE                                                                 28
+                                                                                MCDAA CBA 2026-2029
+
            reduction in pay, demotion, or dismissal to the employee or upon any stated time thereafter.
            The District Attorney shall consult with Human Resources and the County Counsel prior to the
            imposition of a suspension without pay, reduction in pay, demotion, or dismissal.
@@ -948,9 +955,10 @@ copy of the documentation will be provided to the employee and to the Associatio
 
 
 
-                                                                                        18
-                                                                                                 MCDAA CBA
-                                                                                                 2023-2026
+
+### ARTICLE 20 – DISCIPLINE AND DISCHARGE                                                               29
+                                                                                     MCDAA CBA 2026-2029
+
 ### ARTICLE 21 – LAYOFF
 
 Section 1. For all employees, the date of hire will be used to determine "county seniority" for provisions
@@ -994,9 +1002,9 @@ Section 3. All layoffs shall occur in the following manner:
 Section 4. An employee who has been laid off shall be placed on the layoff list in order of most recent
 
 
-                                                                                            19
-                                                                                                MCDAA CBA
-                                                                                               2023-2026
+### ARTICLE 21 – LAYOFF                                                                                       30
+                                                                                   MCDAA CBA 2026-2029
+
 layoff first. The term of eligibility of a laid-off employee shall be twelve (12) months from the date of
 layoff. Reinstatement shall be offered to those employees on the layoff list for the job classification from
 which they were laid off from, in descending order from top to bottom. No new employees shall be hired
@@ -1009,6 +1017,11 @@ article, shall be in writing and addressed to the last address. If the person do
 notice or does not respond within fourteen (14) days of the notice, then the person waives all rights to
 recall.
 
+
+
+
+### ARTICLE 21 – LAYOFF                                                                                    31
+                                                                                   MCDAA CBA 2026-2029
 
 ### ARTICLE 22 – GENERAL PROVISIONS
 
@@ -1034,18 +1047,24 @@ interfere with the effectiveness and efficiency of the County’s operations in 
 responsibility to the public.
 
 
+
+
+### ARTICLE 22 – GENERAL PROVISIONS                                                                         32
+                                                                                MCDAA CBA 2026-2029
+
 ### ARTICLE 23 – OUTSIDE EMPLOYMENT
 
 The District Attorney or designee may approve outside employment when such employment does not
 detract from the efficiency of the employee's County work, and does not conflict with the interest of
 Marion County or is not a discredit to the County. If outside employment occurs during an employee’s
-
-                                                                                          20
-                                                                                        MCDAA CBA
-                                                                                        2023-2026
 regular working hours, the employee must use applicable leave to cover the absence. Requests for
 outside employment shall not be unreasonably withheld.
 
+
+
+
+### ARTICLE 23 – OUTSIDE EMPLOYMENT                                                                     33
+                                                                                   MCDAA CBA 2026-2029
 
 ### ARTICLE 24 – ASSOCIATION REPRESENTATIVES
 
@@ -1055,6 +1074,7 @@ representatives and stewards by sending a complete list of names to the Chief Hu
 and District Attorney of those employees so designated. In any disciplinary investigative interview
 involving any employee, the employee shall be allowed an Association Representative, or General
 Counsel for the Association, if requested.
+
 Section 2. Association representatives shall be granted reasonable time off during regular scheduled
 working hours without loss of pay or other benefits to investigate complaints against Association
 members and to process grievances when such investigations and processing of grievances does not
@@ -1085,12 +1105,13 @@ Section 5. Release time shall be provided for no more than four (4) employees to
 negotiations as Association representatives, in addition to its General Counsel. Release time shall be
 paid at the employees’ hourly rate for the actual time released from their regularly scheduled work. No
 other pay shall be provided to any other employee for participating in negotiations. Negotiations as
-
-                                                                                         21
-                                                                                                MCDAA CBA
-                                                                                               2023-2026
 used in this section shall mean scheduled formal sessions with the management bargaining team,
 including mediation and arbitration. In addition to release time for negotiations, employees who
+
+
+### ARTICLE 24 – ASSOCIATION REPRESENTATIVES                                                                  34
+                                                                                   MCDAA CBA 2026-2029
+
 participate in interviews, investigations and grievance processing, including mediation and arbitration,
 shall be paid at the employees’ hourly rate for the actual time released from their regularly scheduled
 work. All paid release time will be reported on the employee’s timesheet under the appropriate code.
@@ -1101,6 +1122,10 @@ Section 6. Subject to the operating needs of the department, four (4) Associatio
 unpaid leave, not to exceed two and one-half (2½) hours per month, per officer.
 
 
+
+
+### ARTICLE 24 – ASSOCIATION REPRESENTATIVES                                                                   35
+                                                                                   MCDAA CBA 2026-2029
 
 ### ARTICLE 25 – GRIEVANCE AND ARBITRATION PROCEDURE
 
@@ -1130,11 +1155,6 @@ the date the grievant first learned of the grievance or reasonably may have been
 of it, the employee shall submit a written request for a meeting with the individual’s immediate
 supervisor. The written request may be in the form of an email or official grievance form and shall include
 the employee’s name, date and a brief description of the dispute with citation to the article in dispute.
-
-
-                                                                                        22
-                                                                                              MCDAA CBA
-                                                                                              2023-2026
 The parties shall hold one or more meetings, to ascertain facts, investigate issues and, acting in good faith,
 attempt to resolve the dispute. The parties have ten (10) working days from the date the grievant’s
 written request was received by the grievant’s immediate supervisor to resolve the dispute, move to the
@@ -1146,6 +1166,12 @@ reduction in pay, demotion, or dismissal, the Association shall file a formal wr
 District Attorney. A copy of the formal written grievance shall be sent to Human Resources. The grievance
 shall be filed by an Association representative within forty (40) working days of the original written
 request for a Step 1 meeting. Grievances arising from suspension without pay, reduction in pay,
+
+
+
+### ARTICLE 25 – GRIEVANCE AND ARBITRATION PROCEDURE                                                        36
+                                                                                  MCDAA CBA 2026-2029
+
 demotion, or dismissal must be filed no later than ten (10) working days after the effective date of the
 suspension without pay, reduction in pay, demotion, or dismissal.
 
@@ -1173,24 +1199,23 @@ The District Attorney or designee shall respond, in writing, to the grievance wi
 following the meeting. The written response shall include the decision and the reason for the decision.
 The parties may mutually agree to extend time limits in order to resolve the grievance.
 
+Step 3
+If the parties have not resolved the grievance after Step 2, either party may appeal the matter to
+arbitration, in writing, within twenty (20) working days of the day the written Step 2 decision was due or
+received, whichever is earlier. Mediation may be used as an alternative to arbitration when mutually
+agreed upon by both the County and the Association.
+
+If the parties fail to mutually select an arbitrator within thirty (30) working days of the Association’s
+request to arbitrate, the Oregon Employment Relations Board shall be requested by either party or both
+parties to provide a panel of nine (9) arbitrators. Both the County and the Association shall have the
+right to strike two (2) names from the panel. The party requesting arbitration shall strike the first name.
+Then, the other party shall strike one (1) name. The process shall be repeated and the remaining person
+shall be the arbitrator.
 
 
 
-                                                                                          23
-                                                                                                             MCDAA CBA
-                                                                                                             2023-2026
- Step 3
- If the parties have not resolved the grievance after Step 2, either party may appeal the matter to
- arbitration, in writing, within twenty (20) working days of the day the written Step 2 decision was due or
- received, whichever is earlier. Mediation may be used as an alternative to arbitration when mutually
- agreed upon by both the County and the Association.
-
- If the parties fail to mutually select an arbitrator within thirty (30) working days of the Association’s
- request to arbitrate, the Oregon Employment Relations Board shall be requested by either party or both
- parties to provide a panel of nine (9) arbitrators. Both the County and the Association shall have the
- right to strike two (2) names from the panel. The party requesting arbitration shall strike the first name.
- Then, the other party shall strike one (1) name. The process shall be repeated and the remaining person
- shall be the arbitrator.
+### ARTICLE 25 – GRIEVANCE AND ARBITRATION PROCEDURE                                                      37
+                                                                                                      MCDAA CBA 2026-2029
 
  The arbitrator shall not add to, subtract from, modify or alter the terms or provisions of this agreement.
  The power of the arbitrator shall be limited to interpreting this agreement and determining if it has been
@@ -1204,36 +1229,35 @@ The parties may mutually agree to extend time limits in order to resolve the gri
  Each party shall be responsible for costs of presenting its own case to the arbitrator. Any or all time
  limits specified in the grievance procedure may be waived by mutual written consent of the parties.
 
-Type of Grievance       Time to File            Step 1 (Informal)        Step 2                    Step 3
-Suspension without      Within ten (10)                                  District Atorney or       Appeal to arbitra�on
-pay, reduc�on in pay,   working days a�er the                            designee – Copy to        within twenty (20)
-demo�on, or             eﬀec�ve date of the                              Human Resources –         working days of the
-dismissal               discipline.                                      within ten (10) working   Step 2 response.
-                                                                         days a�er receipt of
-                                                                         the grievance.
 
-Discipline, oral        Within thirty (30)      Immediate Supervisor     District Atorney or       May include
-reprimand, writen       working days a�er the   – Writen request for a   designee – Copy to        media�on if mutually
-reprimand – see         eﬀec�ve date of the     mee�ng within thirty     Human Resources –         agreed by the par�es
-Ar�cle 25, Sec�ons 1    discipline.             (30) working days.       within forty (40)         (no arbitra�on).
-and 2                                           Par�es have ten (10)     working days of the
-                                                working days to          request for a Step 1
-                                                resolve the issue.       mee�ng.
-All other grievances    Within thirty (30)      Immediate Supervisor     District Atorney or       Appeal to arbitra�on
-                        working days a�er the   – Writen request for a   designee – Copy to        within twenty (20)
-                        viola�on.               mee�ng within thirty     Human Resources –         working days of the
-                                                (30) working days.       within forty (40)         Step 2 response.
-                                                Par�es have ten (10)     working days of the
+Type of Grievance        Time to File             Step 1 (Informal)         Step 2                     Step 3
+Suspension without       Within ten (10)                                    District Attorney or       Appeal to arbitration
+pay, reduction in pay,   working days after the                             designee – Copy to         within twenty (20)
+demotion, or             eﬀective date of the                               Human Resources –          working days of the
+dismissal                discipline.                                        within ten (10) working    Step 2 response.
+                                                                            days after receipt of
+                                                                            the grievance.
 
-
-                                                                                                        24
-                                                                                            MCDAA CBA
-                                                                                            2023-2026
-                                         working days to      request for a Step 1
-                                         resolve the issue.   mee�ng.
+Discipline, oral         Within thirty (30)       Immediate Supervisor      District Attorney or       May include
+reprimand, written       working days after the   – Written request for a   designee – Copy to         mediation if mutually
+reprimand – see          eﬀective date of the     meeting within thirty     Human Resources –          agreed by the parties
+Article 25, Sections 1   discipline.              (30) working days.        within forty (40)          (no arbitration).
+and 2                                             Parties have ten (10)     working days of the
+                                                  working days to           request for a Step 1
+                                                  resolve the issue.        meeting.
+All other grievances     Within thirty (30)       Immediate Supervisor      District Attorney or       Appeal to arbitration
+                         working days after the   – Written request for a   designee – Copy to         within twenty (20)
+                         violation.               meeting within thirty     Human Resources –          working days of the
+                                                  (30) working days.        within forty (40)          Step 2 response.
+                                                  Parties have ten (10)     working days of the
+                                                  working days to           request for a Step 1
+                                                  resolve the issue.        meeting.
 
 
 
+
+ ARTICLE 25 – GRIEVANCE AND ARBITRATION PROCEDURE                                                                              38
+                                                                                MCDAA CBA 2026-2029
 
 ### ARTICLE 26 – LIABILITY INSURANCE
 
@@ -1246,6 +1270,11 @@ complaint. The Employer will pay all costs associated with representation of emp
 matters, including attorney fees.
 
 
+
+
+### ARTICLE 26 – LIABILITY INSURANCE                                                                    39
+                                                                                MCDAA CBA 2026-2029
+
 ### ARTICLE 27 – TRAINING
 
    A. Employees are required to comply with all Oregon State Bar (OSB) Continuing Legal Education
@@ -1253,37 +1282,42 @@ matters, including attorney fees.
 
    B. For training scheduled by management:
 
-       1. The District Attorney may provide in-house training and apply for OSB CLE credits. Employees
-          are encouraged and expected to attend these in-house CLEs.
+      1. The District Attorney may provide in-house training and apply for OSB CLE credits. Employees
+         are encouraged and expected to attend these in-house CLEs.
 
-       2. The District Attorney may seek volunteers or assign employees to prepare and present CLEs.
+      2. The District Attorney may seek volunteers or assign employees to prepare and present CLEs.
 
-       3. All in-house CLEs may be recorded, and if recorded, the materials will be made available for
-          later viewing by DDAs who are unable to attend the live sessions.
+      3. All in-house CLEs may be recorded, and if recorded, the materials will be made available for
+         later viewing by DDAs who are unable to attend the live sessions.
 
    C. ODAA Summer Conference
 
-       1. The Employer shall attempt to allow up to twenty (20) employees to attend the ODAA Summer
-          Conference at one time, subject to staffing requirements.
+      1. The Employer shall attempt to allow up to twenty (20) employees to attend the ODAA Summer
+         Conference at one time, subject to staffing requirements.
 
-       2. Employees may request permission to attend the ODAA Conference from their supervisor,
-          with priority given to those employees who have not attended previously or recently.
+      2. Employees may request permission to attend the ODAA Conference from their supervisor,
+         with priority given to those employees who have not attended previously or recently.
 
-       3. The Employer will pay the costs of travel, per diem, lodging and registration on behalf of
-          employees approved to attend the ODAA conference.
-
-
+      3. The Employer will pay the costs of travel, per diem, lodging and registration on behalf of
+         employees approved to attend the ODAA conference.
 
 
-                                                                                       25
-                                                                                              MCDAA CBA
-                                                                                              2023-2026
+
+
+### ARTICLE 27 – TRAINING                                                                                 40
+                                                                                 MCDAA CBA 2026-2029
+
 ### ARTICLE 28 – BAR DUES
 
 Each year, the County will pay the OSB bar dues for all DDA employees when due and in a timely
 manner. Individual DDAs are responsible to file the appropriate form with OSB for Professional Liability
 waivers due to government public service.
 
+
+
+
+### ARTICLE 28 – BAR DUES                                                                                41
+                                                                                MCDAA CBA 2026-2029
 
 ### ARTICLE 29 – SCOPE OF AGREEMENT
 
@@ -1295,6 +1329,10 @@ hours and working conditions that constitute mandatory subjects of bargaining sh
 less than the level in effect at the time of the signing of this agreement.
 
 
+
+
+### ARTICLE 29 – SCOPE OF AGREEMENT                                                                     42
+                                                                                  MCDAA CBA 2026-2029
 
 ### ARTICLE 30 – DRUG AND ALCOHOL TESTING
 
@@ -1320,23 +1358,28 @@ through 350. Any affected employee will be provided with paid release time to ob
 his/her own physician or laboratory. The Employer also reserves the right to test for use of controlled
 substances as a condition of initial hiring.
 
-
-
-                                                                                         26
-                                                                                           MCDAA CBA
-                                                                                          2023-2026
 Whenever reasonable suspicion testing is required of an existing employee, the Employer shall notify the
 Association representative. The Employer shall provide the Association with information, facts, evidence,
 etc., which supports the need for such testing.
 
 
+
+
+### ARTICLE 30 – DRUG AND ALCOHOL TESTING                                                                  43
+                                                                                 MCDAA CBA 2026-2029
+
 ### ARTICLE 31 – LIFE OF AGREEMENT AND TERMINATION
 
-This agreement shall terminate June 30, 2026. If either party wishes to renew or modify this agreement
+This agreement shall terminate June 30, 2029. If either party wishes to renew or modify this agreement
 as of its termination, the party shall give written notice of its intent to renew or modify to the other
-party by November 1, 2025. Negotiations shall begin at such time as agreed by the parties. The
+party by November 1, 2028. Negotiations shall begin at such time as agreed by the parties. The
 agreement shall remain in full force and effect during the period of such successor negotiations.
 
+
+
+
+### ARTICLE 31 – LIFE OF AGREEMENT AND TERMINATION                                                       44
+                                                                                  MCDAA CBA 2026-2029
 
 ### ARTICLE 32 – SAVINGS CLAUSE
 
@@ -1346,6 +1389,11 @@ law, or upon mutual agreement of the parties, such decision shall apply only to 
 portion thereof, directly specified in the decision. Upon issuance of such a decision, the parties agree
 immediately to negotiate a substitute, if possible, for the invalidated section or portion thereof.
 
+
+
+
+### ARTICLE 32 – SAVINGS CLAUSE                                                                            45
+                                                                                    MCDAA CBA 2026-2029
 
 ### ARTICLE 33 – DEFINITIONS
 
@@ -1360,20 +1408,14 @@ on the first of the month is the employee’s actual hire date. The continuous s
 employee hired mid-month is the first of the month following the employee’s hire date. Continuous
 service date is subject to the following adjustments:
 
-       •   adding one month for each calendar month during which the employee was on unpaid leave
-           status for more than ten workdays.
+       •   adding one (1) month for each calendar month during which the employee was on unpaid
+           leave status for more than ten workdays.
 
-       •   for prior service following reappointment within twelve months of separation under the
-           Marion County Personnel Rules.
+       •   for prior service following reappointment within twelve (12) months of separation
+           under the Marion County Personnel Rules.
 
-
-
-
-                                                                                          27
-                                                                                       MCDAA CBA
-                                                                                      2023-2026
-       •   adding one month for each calendar month during which the employee was off the payroll
-           for more than ten workdays.
+       •   adding one (1) month for each calendar month during which the employee was off the
+           payroll for more than ten (10) workdays.
 
    The Employer will not adjust the continuous service date for employees on unpaid military leave,
    Workers’ Compensation, or family medical leave, FMLA, OFLA or PLO.
@@ -1394,65 +1436,70 @@ in a calendar month.
 
 
 
-                                                                                       28
-                                                        Exhibit A - Salary Schedule
-Deputy DA 1.E..17..631.A.                                       K Plus Plan
-Grade = 17.P29 A.
-  Step               1            2              3            4            5            6            7           L1           L2            L3
- Value           38.52        40.46          42.48        44.59        46.82        49.17        51.63        54.23        56.91          58.36
- Month        6,676.80     7,013.07        7,363.20     7,728.93     8,115.47     8,522.80     8,949.20     9,399.87     9,864.40     10,115.73
- Year        80,121.60    84,156.80       88,358.40    92,747.20    97,385.60   102,273.60   107,390.40   112,798.40   118,372.80    121,388.80
-Deputy DA 1.E..17..631.A.K
-Grade = 17.P29 A.K
-  Step               1            2              3            4            5            6            7           L1           L2            L3
- Value           40.73        42.79          44.92        47.14        49.48        51.99        54.60        57.35        60.20          61.70
- Month        7,059.87     7,416.93        7,786.13     8,170.93     8,576.53     9,011.60     9,464.00     9,940.67    10,434.67     10,694.67
- Year        84,718.40    89,003.20       93,433.60    98,051.20   102,918.40   108,139.20   113,568.00   119,288.00   125,216.00    128,336.00
-Deputy DA 2.E..17..632.A.
-Grade = 17.P32 A.
-  Step               1            2              3            4            5            6            7           L1           L2            L3
- Value           44.56        46.80          49.17        51.59        54.21        56.88        59.75        62.73        65.88          67.52
- Month        7,723.73     8,112.00        8,522.80     8,942.27     9,396.40     9,859.20    10,356.67    10,873.20    11,419.20     11,703.47
- Year        92,684.80    97,344.00      102,273.60   107,307.20   112,756.80   118,310.40   124,280.00   130,478.40   137,030.40    140,441.60
-Deputy DA 2.E..17..632.A.K
-Grade = 17.P32 A.K
-  Step               1              2            3            4            5            6            7           L1           L2            L3
- Value           47.13          49.47        51.99        54.54        57.32        60.16        63.19        66.33        69.66          71.41
- Month        8,169.20        8,574.80     9,011.60     9,453.60     9,935.47    10,427.73    10,952.93    11,497.20    12,074.40     12,377.73
- Year        98,030.40      102,897.60   108,139.20   113,443.20   119,225.60   125,132.80   131,435.20   137,966.40   144,892.80    148,532.80
+### ARTICLE 33 – DEFINITIONS                                                                                  46
+                                                                 Exhibit A - Salary Schedule
+                                                                         K Plus Plan
+
+     Deputy DA 1.E..17..631.A.
+     Grade = 17.P29 A.
+
+        Step                   1            2            3            4            5            6            7           L1           L2           L3
+       Value               40.67         42.72        44.85       47.09        49.43        51.92        54.51         57.26        60.09        61.62
+       Month             7,049.47     7,404.80     7,774.00     8,162.27     8,567.87     8,999.47     9,448.40     9,925.07    10,415.60    10,680.80
+        Year          84,593.60      88,857.60    93,288.00    97,947.20   102,814.40   107,993.60   113,380.80   119,100.80   124,987.20   128,169.60
+
+
+     Deputy DA 1.E..17..631.A.K
+     Grade = 17.P29 A.K
+
+        Step                   1            2            3            4            5            6            7           L1           L2           L3
+       Value               43.01         45.18        47.43       49.77        52.25         54.89       57.66         60.55        63.56        65.14
+       Month             7,455.07     7,831.20     8,221.20     8,626.80     9,056.67     9,514.27     9,994.40    10,495.33    11,017.07    11,290.93
+       Year           89,460.80      93,974.40    98,654.40   103,521.60   108,680.00   114,171.20   119,932.80   125,944.00   132,204.80   135,491.20
+
+
+     Deputy DA 2.E..17..632.A.
+     Grade = 17.P34 A.
+
+        Step                   1            2            3            4            5            6            7           L1           L2           L3
+       Value               51.87         54.48        57.25       60.06        63.12         66.22       69.56         73.05        76.70       78.42
+       Month             8,990.80     9,443.20     9,923.33    10,410.40    10,940.80    11,478.13    12,057.07    12,662.00    13,294.67    13,592.80
+       Year          107,889.60     113,318.40   119,080.00   124,924.80   131,289.60   137,737.60   144,684.80   151,944.00   159,536.00   163,113.60
+
+
+     Deputy DA 2.E..17..632.A.K
+     Grade = 17.P34 A.K
+
+        Step                   1            2            3            4            5            6            7           L1           L2           L3
+       Value               54.87         57.59        60.52       63.50        66.73         70.04       73.56         77.25        81.11        82.94
+       Month             9,510.80     9,982.27    10,490.13    11,006.67    11,566.53    12,140.27    12,750.40    13,390.00    14,059.07    14,376.27
+        Year         114,129.60     119,787.20   125,881.60   132,080.00   138,798.40   145,683.20   153,004.80   160,680.00   168,708.80   172,515.20
 
 
 
 
-7/24/24                                                                                                                             Page 1 of 2
-                                                        Exhibit A - Salary Schedule
-Deputy DA 3.E..17..633.A.                                       K Plus Plan
-Grade = 17.P36 A.
-  Step               1            2              3            4            5            6            7           L1           L2            L3
- Value           54.22        56.89          59.76        62.74        65.89        69.16        72.64        76.27        80.07          82.09
- Month        9,398.13     9,860.93       10,358.40    10,874.93    11,420.93    11,987.73    12,590.93    13,220.13    13,878.80     14,228.93
- Year       112,777.60   118,331.20      124,300.80   130,499.20   137,051.20   143,852.80   151,091.20   158,641.60   166,545.60    170,747.20
-Deputy DA 3.E..17..633.A.K
-Grade = 17.P36 A.K
-  Step               1             2             3            4            5            6            7           L1           L2            L3
- Value           57.33         60.18         63.20        66.34        69.68        73.13        76.80        80.64        84.68          86.81
- Month        9,937.20     10,431.20      10,954.67    11,498.93    12,077.87    12,675.87    13,312.00    13,977.60    14,677.87     15,047.07
- Year       119,246.40    125,174.40     131,456.00   137,987.20   144,934.40   152,110.40   159,744.00   167,731.20   176,134.40    180,564.80
-Deputy DA 4.E..17..635.A.
-Grade = 17.P37 A.
-  Step               1            2              3            4            5            6            7           L1           L2            L3
- Value           56.92        59.77          62.75        65.90        69.18        72.66        76.28        80.09        84.10          86.22
- Month        9,866.13    10,360.13       10,876.67    11,422.67    11,991.20    12,594.40    13,221.87    13,882.27    14,577.33     14,944.80
- Year       118,393.60   124,321.60      130,520.00   137,072.00   143,894.40   151,132.80   158,662.40   166,587.20   174,928.00    179,337.60
-Deputy DA 4.E..17..635.A.K
-Grade = 17.P37 A.K
-  Step               1              2            3            4            5            6            7           L1           L2            L3
- Value           60.23          63.21        66.36        69.70        73.15        76.82        80.66        84.70        88.93          91.18
- Month        10,439.87      10,956.40    11,502.40    12,081.33    12,679.33    13,315.47    13,981.07    14,681.33    15,414.53     15,804.53
- Year        125,278.40     131,476.80   138,028.80   144,976.00   152,152.00   159,785.60   167,772.80   176,176.00   184,974.40    189,654.40
+8/20/2026                                                                                                                                                1
+                                                                 Exhibit A - Salary Schedule
+                                                                         K Plus Plan
+     Deputy DA 3.E..17..633.A.
+     Grade = 17.P36 A.
+
+        Step                   1            2            3            4            5            6            7           L1           L2           L3
+       Value               57.25         60.07        63.10       66.24        69.57         73.03       76.70         80.52        84.54        86.67
+       Month             9,923.33    10,412.13    10,937.33    11,481.60    12,058.80    12,658.53    13,294.67    13,956.80    14,653.60    15,022.80
+        Year         119,080.00     124,945.60   131,248.00   137,779.20   144,705.60   151,902.40   159,536.00   167,481.60   175,843.20   180,273.60
+
+
+     Deputy DA 3.E..17..633.A.K
+     Grade = 17.P36 A.K
+
+        Step                   1            2            3            4            5            6            7           L1           L2           L3
+       Value               60.53         63.54        66.73       70.05        73.57         77.21       81.08         85.14        89.41        91.65
+       Month          10,491.87      11,013.60    11,566.53    12,142.00    12,752.13    13,383.07    14,053.87    14,757.60    15,497.73    15,886.00
+       Year          125,902.40     132,163.20   138,798.40   145,704.00   153,025.60   160,596.80   168,646.40   177,091.20   185,972.80   190,632.00
 
 
 
 
-7/24/24                                                                                                                             Page 2 of 2
+8/20/2026                                                                                                                                                2
 
