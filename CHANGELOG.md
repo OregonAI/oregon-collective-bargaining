@@ -6,6 +6,21 @@ Repo-curation dates only — official effective dates live in frontmatter.
 
 ## [Unreleased]
 
+### Fixed
+- 2026-10-01 — Curator notes in all 70 state CBAs carried a static sentence
+  ("...is planned for the history tranche — `supersedes` is recorded then, not
+  faked now.") that went false the moment the history tranche actually ran
+  (issue #100). `src/ingest_cbas.py` now derives that sentence from each
+  document's own `relationships.supersedes` (`supersedes_note()`): the 30
+  `current` documents that carry a linked predecessor now say so and name it;
+  the other 40 (3 `current` with no predecessor ingested, 37 `superseded`) now
+  say truthfully that no predecessor is ingested for them, per the module's
+  recorded decision to ingest only the immediate predecessor. `link_supersedes()` and
+  `retire_blackline()`, which both add `supersedes` after the body is
+  written, now call the new `refresh_supersedes_note()` so the sentence can't
+  go stale behind them again. Bodies changed only in that sentence;
+  frontmatter, `## Full text`, and `source_sha256` are untouched.
+
 ### Added
 - 2026-09-29 — **SEIU Master Agreement 2025-2027**, the executed agreement DAS has now
   posted, ingested verbatim (220 pages; 480 article anchors) as `current`. It `supersedes`
