@@ -57,9 +57,9 @@ EMPLOYERS = REPO_ROOT / "_meta" / "employers.yml"
 # (predecessor doc_id, successor doc_id, source manifest id, term, title)
 SUCCESSIONS = [
     dict(old_id="marion-county-mcdaa-cba", new_id="marion-county-mcdaa-cba-2026-2029",
-         source_id="marion-mcdaa-cba", term="2026-2029", title="MCDAA CBA"),
+         source_id="marion-mcdaa-cba", term="2026-2029", title="MCDAA CBA (2026-2029)"),
     dict(old_id="marion-county-mcjea-cba", new_id="marion-county-mcjea-cba-2026-2028",
-         source_id="marion-mcjea-cba", term="2026-2028", title="MCJEA CBA"),
+         source_id="marion-mcjea-cba", term="2026-2028", title="MCJEA CBA (2026-2028)"),
 ]
 
 

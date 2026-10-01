@@ -64,8 +64,11 @@ def test_set_supersedes_raises_when_field_absent():
 # -- flip_status --------------------------------------------------------------
 
 def test_flip_status_to_superseded_touches_only_that_line():
-    text = MCDAA.read_text(encoding="utf-8")
-    assert "\nstatus: current\n" in text
+    # Synthetic text, not the live MCDAA fixture: this repo's own successor
+    # ingestion (oregon-collective-bargaining#63) already flips the real
+    # committed MCDAA/MCJEA documents to `status: superseded`, so a `status:
+    # current` fixture must not be assumed to still be on disk.
+    text = "---\nid: x\nstatus: current\nother: y\n---\n\nbody\n"
 
     out = ims.flip_status(text, "superseded")
 
