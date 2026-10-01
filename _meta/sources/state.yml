@@ -4215,7 +4215,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/SEIU%20Master%20Agreement%20Collective%20Bargaining%20Agreement%202025-2027.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "f3b5a85d616242069af657acf1da931869c7d176d91136514f1b5aa7c3abbf2e"
   title: SEIU Master Agreement Collective Bargaining Agreement 2025-2027
   union: SEIU
   term: 2025-2027
