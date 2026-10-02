@@ -188,7 +188,16 @@ def stated_term_dates(text: str, term: str) -> tuple[str | None, str | None]:
 
 
 def matches_row(row: dict, title: str) -> bool:
-    return row["match"] in title and not (row.get("exclude") and row["exclude"] in title)
+    """A title names this roster row's unit when it carries `match` (the
+    current-term title) OR, if the row has one, `predecessor_match` -- the
+    explicit id-override option from this module's KNOWN GAPS note, for a
+    unit whose roster row was renamed to the current term's title wording
+    and no longer matches its own 2023-2025 predecessor's older title. Either
+    string is still subject to the row's `exclude`."""
+    if row.get("exclude") and row["exclude"] in title:
+        return False
+    predecessor_match = row.get("predecessor_match")
+    return row["match"] in title or bool(predecessor_match and predecessor_match in title)
 
 
 def history_picks(group: dict, roster: dict, floor: str) -> list[dict]:
