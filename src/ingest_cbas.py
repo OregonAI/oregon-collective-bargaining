@@ -200,8 +200,13 @@ def matches_row(row: dict, title: str) -> bool:
     return row["match"] in title or bool(predecessor_match and predecessor_match in title)
 
 
-def history_picks(group: dict, roster: dict, floor: str) -> list[dict]:
-    """Per roster row: the latest posted CBA whose term began before the floor."""
+def history_picks(group: dict, roster: dict, floor: str,
+                  only: set[str] | None = None) -> list[dict]:
+    """Per roster row: the latest posted CBA whose term began before the floor.
+
+    `only`, if given, restricts the result to just those ids -- a scoped rerun
+    (e.g. `--history --only <id>,<id>`) that does not touch every other
+    already-ingested predecessor's file."""
     picked, seen = [], set()
     for section in ("state_contracts", "non_state_contracts"):
         for row in roster[section]:
@@ -210,7 +215,7 @@ def history_picks(group: dict, roster: dict, floor: str) -> list[dict]:
                      and r["term"][:4] < floor and matches_row(row, r["title"])]
             if preds:
                 best = max(preds, key=lambda r: r["term"])
-                if best["id"] not in seen:
+                if best["id"] not in seen and (only is None or best["id"] in only):
                     seen.add(best["id"])
                     picked.append(best)
     return picked
@@ -533,7 +538,11 @@ def main() -> int:
     ap = argparse.ArgumentParser(description=__doc__,
                                  formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--limit", type=int)
-    ap.add_argument("--only")
+    ap.add_argument("--only",
+                    help="a single id (tranche 1), or a comma-separated list of ids "
+                         "(with --history) to scope a rerun to -- e.g. picking up a "
+                         "newly-pairable predecessor without re-touching every other "
+                         "already-ingested one")
     ap.add_argument("--history", action="store_true",
                     help="ingest each roster row's immediate predecessor as superseded "
                          "and link supersedes chains")
@@ -548,7 +557,8 @@ def main() -> int:
 
     picked, skipped = [], []
     if args.history:
-        picked = history_picks(group, roster, floor)
+        only = {i.strip() for i in args.only.split(",")} if args.only else None
+        picked = history_picks(group, roster, floor, only=only)
     else:
         for rec in group["sources"]:
             if args.only:

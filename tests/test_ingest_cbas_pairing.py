@@ -43,6 +43,21 @@ def test_matches_row_without_predecessor_match_is_unaffected():
         row, "AFSCME Oregon Department of Emergency Management 2023-2025")
 
 
+def test_history_picks_only_filters_to_the_given_ids():
+    group = {"sources": [
+        {"id": "state-x-2023-2025", "family": "cba", "term": "2023-2025",
+         "title": "Unit X 2023-2025"},
+        {"id": "state-y-2023-2025", "family": "cba", "term": "2023-2025",
+         "title": "Unit Y 2023-2025"},
+    ]}
+    roster = {"state_contracts": [
+        {"unit": "Unit X", "match": "Unit X"},
+        {"unit": "Unit Y", "match": "Unit Y"},
+    ], "non_state_contracts": []}
+    picked = ingest_cbas.history_picks(group, roster, "2025", only={"state-x-2023-2025"})
+    assert [r["id"] for r in picked] == ["state-x-2023-2025"]
+
+
 def test_roster_carries_predecessor_match_for_the_three_renamed_units():
     roster = yaml.safe_load(ROSTER_FILE.read_text(encoding="utf-8"))
     by_unit = {r["unit"]: r for r in roster["state_contracts"] + roster["non_state_contracts"]}
