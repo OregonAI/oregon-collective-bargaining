@@ -38,20 +38,22 @@ Explicitly excluded, each with the reason printed:
     predecessor only; anything older stays un-ingested by recorded decision, not
     because `supersedes` has not been filled in yet.
 
-KNOWN GAPS (needs follow-up, not yet fixed here): three roster rows were renamed
-to the 2025-2027 title wording (AFSCME OEM Dept. of Emergency Management, AFSCME
-OLTCO Long Term Care Ombudsman, IAFF PANG Local 1660) and their `match` strings in
-_meta/state-roster-2025-2027.yml now match only the current-term filename, not the
-2023-2025 predecessor's older title in _meta/sources/state.yml. history_picks()
-and link_supersedes() both key off that same `match`, so for these 3 units the
-immediate predecessor was never picked up by the history tranche and never paired
-— `state-afscme-oregon-emergency-management-2025-2027`,
+KNOWN GAPS: RESOLVED for the 3 renamed-unit pairing gap (oregon-collective-
+bargaining#104). Three roster rows were renamed to the 2025-2027 title wording
+(AFSCME OEM Dept. of Emergency Management, AFSCME OLTCO Long Term Care
+Ombudsman, IAFF PANG Local 1660) and their `match` strings in
+_meta/state-roster-2025-2027.yml matched only the current-term filename, not the
+2023-2025 predecessor's older title in _meta/sources/state.yml, so
+history_picks() and link_supersedes() never picked up or paired that
+predecessor. Fixed via the explicit id-override option: each of the 3 rows now
+also carries a `predecessor_match` (the predecessor's older title substring),
+and `matches_row()` pairs a title against `match` OR `predecessor_match`
+instead of widening `match` itself (which still governs only the current
+document). The 3 predecessors are ingested under `--history --only <ids>`, and
+`state-afscme-oregon-emergency-management-2025-2027`,
 `state-afscme-oregon-long-term-care-ombudsman-2025-2027` and
-`state-iaff-portland-air-national-guard-firefighters-2025-2027` carry an empty
-`supersedes` that is a pairing gap, not the recorded immediate-predecessor-only
-decision. Fixing it means either widening those 3 `match` strings to also catch
-the older title, or ingesting the 3 predecessors under an explicit id override;
-either is a follow-up change, not done by this commit.
+`state-iaff-portland-air-national-guard-firefighters-2025-2027` all carry
+`supersedes` now.
 
 SUMMARY-FIRST, BY CONFIGURATION. schema.doc_types declares verbatim: false for both
 types (the copyright gate in corpus.yml): a CBA is jointly authored with private
@@ -140,8 +142,7 @@ def roster_row(filename_title: str, roster: dict) -> dict | None:
     so ingest and enumeration cannot disagree about which unit a file is."""
     for section in ("state_contracts", "non_state_contracts"):
         for row in roster[section]:
-            if row["match"] in filename_title and not (
-                    row.get("exclude") and row["exclude"] in filename_title):
+            if matches_row(row, filename_title):
                 return {**row, "non_state": section == "non_state_contracts"}
     # The blackline's filename carries no "Master Agreement" — but it IS a print of
     # the SEIU master's ratified terms, so it inherits that chart row.

@@ -58,6 +58,18 @@ def test_history_picks_only_filters_to_the_given_ids():
     assert [r["id"] for r in picked] == ["state-x-2023-2025"]
 
 
+def test_roster_row_finds_the_chart_row_for_a_predecessor_title_via_predecessor_match():
+    roster = {"state_contracts": [
+        {"unit": "AFSCME OEM Dept. of Emergency Management", "repr": "AV",
+         "match": "AFSCME Oregon Emergency Management",
+         "predecessor_match": "AFSCME Oregon Department of Emergency Management"},
+    ], "non_state_contracts": []}
+    row = ingest_cbas.roster_row(
+        "AFSCME Oregon Department of Emergency Management 2023-2025", roster)
+    assert row is not None
+    assert row["unit"] == "AFSCME OEM Dept. of Emergency Management"
+
+
 def test_roster_carries_predecessor_match_for_the_three_renamed_units():
     roster = yaml.safe_load(ROSTER_FILE.read_text(encoding="utf-8"))
     by_unit = {r["unit"]: r for r in roster["state_contracts"] + roster["non_state_contracts"]}
