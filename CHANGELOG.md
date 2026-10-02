@@ -7,12 +7,38 @@ Repo-curation dates only — official effective dates live in frontmatter.
 ## [Unreleased]
 
 ### Added
+- 2026-10-01 — `_meta/employers.yml`: every `built: false` employer (25 of 37) now
+  carries `status_reason` + `status_reason_date`, recording WHY it is unbuilt and
+  WHEN that was established, instead of a bare `survey_status` with no reason (issue
+  #8). Linn and Douglas record that the agreements ARE published and OUR fetch is
+  blocked (re-tested 2026-10-01 with the corpus-toolkit `Fetcher`, still HTTP 403 for
+  both); Polk, Josephine, Umatilla and Klamath record that no public copy was
+  located as of the 2026-08-02 survey, worded so it never reads as "this county has
+  no agreements"; the remaining 19 `not-investigated` counties record that they have
+  not yet been searched. `jackson-county` (stays `built: true` / `verified`) gets a
+  `status_reason` noting its one outstanding AFSCME unit and that the `mijackson.org`
+  lead was Jackson County, Michigan — a dead lead, not to be re-chased. The
+  registry's header records the operator's 2026-09-12 decision (issue #8) to decline
+  the drafted ORS 192.311–192.478 records requests rather than send them.
+- 2026-10-01 — `tests/test_employers.py`: a data-only gate on `_meta/employers.yml`'s
+  absence discipline — every unbuilt row has a reason and a date, no unbuilt row
+  reads as an absence claim, the could-not-verify/not-located wording matches what
+  is actually true, and a built employer cannot be left marked anything but
+  `verified`.
 - 2026-09-29 — **SEIU Master Agreement 2025-2027**, the executed agreement DAS has now
   posted, ingested verbatim (220 pages; 480 article anchors) as `current`. It `supersedes`
   the 2023-2025 master and the 2025-2027 blackline. The blackline flips from `draft` to
   `superseded`, as its own banner said it would the day the final appeared.
 
 ### Fixed
+- 2026-10-01 — `_meta/employers.yml`: `benton-county` was `built: true` with
+  `survey_status: not-located` and `source_url: null` — a leftover from the original
+  2026-08-02 survey, before `src/discover_counties.py`'s tranche-2 hunt found
+  Benton's real index (`hr.bentoncountyor.gov/careers-and-benefits/`, one navigation
+  level below where the survey looked) and its 3 agreements were ingested. Flipped to
+  `survey_status: verified` with the real `source_url`; `src/discover_counties.py`
+  already carried the correct crawl record for this county, only the registry row
+  was stale.
 - 2026-09-29 — `src/ingest_cbas.py` could not ingest any agreement after the 2026-08-03
   verbatim flip: it still wrote `content_mode: summary`, which the schema refuses for
   this doc_type, so nothing has been ingested since. It now writes the promoted form
