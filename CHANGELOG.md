@@ -6,6 +6,28 @@ Repo-curation dates only — official effective dates live in frontmatter.
 
 ## [Unreleased]
 
+### Added
+- 2026-10-01 — Ingested the 2023-2025 predecessor for the 3 state-tier units
+  whose roster row was renamed to the 2025-2027 title wording
+  (`state-afscme-oregon-department-of-emergency-management-2023-2025`,
+  `state-afscme-office-of-the-long-term-care-ombudsman-2023-2025`,
+  `state-iaff-portland-air-national-guard-2023-2025`, all `status:
+  superseded`) and paired each with its 2025-2027 successor (issue #104).
+  `_meta/state-roster-2025-2027.yml`'s 3 renamed rows (AFSCME OEM, AFSCME
+  OLTCO, IAFF PANG) now carry a `predecessor_match` key alongside `match` —
+  the explicit id-override option named in `src/ingest_cbas.py`'s KNOWN GAPS
+  note — and `matches_row()` pairs a title against either string, so
+  `history_picks()`/`link_supersedes()`/`roster_row()` find and link the
+  predecessor without widening `match` itself (which still governs only the
+  current document). `state-afscme-oregon-emergency-management-2025-2027`,
+  `state-afscme-oregon-long-term-care-ombudsman-2025-2027` and
+  `state-iaff-portland-air-national-guard-firefighters-2025-2027` now carry
+  `relationships.supersedes`, and each document's derived Curator-notes
+  sentence (`supersedes_note()`, #100) updated itself to say so instead of
+  naming the pairing gap. `--history` also takes `--only <comma-separated
+  ids>` now, to scope a rerun like this one to just the newly pairable
+  predecessors without re-touching the other 34 already-ingested ones.
+
 ### Fixed
 - 2026-10-01 — Curator notes in all 70 state CBAs carried a static sentence
   ("...is planned for the history tranche — `supersedes` is recorded then, not
