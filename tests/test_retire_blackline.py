@@ -15,9 +15,18 @@ FINAL = "state-seiu-master-agreement-collective-bargaining-agreement-2025-2027"
 PRIOR = "state-seiu-master-agreement-collective-bargaining-agreement-2023-2025"
 
 
-def _doc(d: Path, doc_id, title, term, status, body="\nbody\n"):
+NOTE_ANCHOR = ("Letters of agreement bound into this PDF by DAS are part of this source\n"
+              "snapshot; separately-published LOAs are their own documents in a later "
+              "tranche.\nNo predecessor term's agreement is ingested for this document.\n\n"
+              "Extraction: pdftotext -layout; 1 page, 10 characters extracted; "
+              "NOT human-verified.\n")
+
+
+def _doc(d: Path, doc_id, title, term, status, body=None):
     fm = {"id": doc_id, "title": title, "term": term, "status": status,
           "relationships": {"related": [], "supersedes": []}}
+    if body is None:
+        body = "\n" + NOTE_ANCHOR
     (d / f"{doc_id}.md").write_text("---\n" + yaml.safe_dump(fm, sort_keys=False)
                                     + "---\n" + body, encoding="utf-8")
 
@@ -50,6 +59,9 @@ def test_the_final_retires_the_blackline_and_supersedes_both(tmp_path, monkeypat
     body = (tmp_path / f"{BL}.md").read_text()
     assert "DRAFT PRINT" not in body and f"`{FINAL}`" in body
     assert _fm(tmp_path, FINAL)["relationships"]["supersedes"] == sorted([BL, PRIOR])
+    final_body = (tmp_path / f"{FINAL}.md").read_text()
+    assert f"`{BL}`" in final_body and f"`{PRIOR}`" in final_body
+    assert "No predecessor term's agreement is ingested" not in final_body
 
 
 def test_it_is_idempotent(tmp_path, monkeypatch):

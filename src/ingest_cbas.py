@@ -33,9 +33,25 @@ and this document flips to superseded.
 
 Explicitly excluded, each with the reason printed:
   * LOAs — separately-published letters are their own family and a later tranche;
-  * history — predecessor terms come later, which is why `relationships.supersedes`
-    is left EMPTY here rather than pointed at documents that do not exist yet. The
-    successor chain is recorded when the predecessor lands, not faked before.
+  * the deep archive beyond each unit's immediate predecessor — the history tranche
+    HAS NOW RUN (see THE HISTORY TRANCHE above) and ingests that immediate
+    predecessor only; anything older stays un-ingested by recorded decision, not
+    because `supersedes` has not been filled in yet.
+
+KNOWN GAPS (needs follow-up, not yet fixed here): three roster rows were renamed
+to the 2025-2027 title wording (AFSCME OEM Dept. of Emergency Management, AFSCME
+OLTCO Long Term Care Ombudsman, IAFF PANG Local 1660) and their `match` strings in
+_meta/state-roster-2025-2027.yml now match only the current-term filename, not the
+2023-2025 predecessor's older title in _meta/sources/state.yml. history_picks()
+and link_supersedes() both key off that same `match`, so for these 3 units the
+immediate predecessor was never picked up by the history tranche and never paired
+— `state-afscme-oregon-emergency-management-2025-2027`,
+`state-afscme-oregon-long-term-care-ombudsman-2025-2027` and
+`state-iaff-portland-air-national-guard-firefighters-2025-2027` carry an empty
+`supersedes` that is a pairing gap, not the recorded immediate-predecessor-only
+decision. Fixing it means either widening those 3 `match` strings to also catch
+the older title, or ingesting the 3 predecessors under an explicit id override;
+either is a follow-up change, not done by this commit.
 
 SUMMARY-FIRST, BY CONFIGURATION. schema.doc_types declares verbatim: false for both
 types (the copyright gate in corpus.yml): a CBA is jointly authored with private
@@ -70,6 +86,7 @@ import datetime as _dt
 import re
 import subprocess
 import sys
+import textwrap
 from pathlib import Path
 
 import yaml
@@ -220,8 +237,93 @@ def link_supersedes(roster: dict, ingested_pred_ids: set[str]) -> int:
             cp.write_text("---\n" + yaml.safe_dump(fm, sort_keys=False,
                                                    allow_unicode=True, width=88)
                           + "---\n" + body, encoding="utf-8")
+            if key == "supersedes":
+                # fm was just written with the new `supersedes`; refresh the
+                # sentence from the file we just wrote so it matches.
+                refresh_supersedes_note(cp)
             linked += 1
     return linked
+
+
+# The Curator-notes sentence about a document's predecessor, derived from its OWN
+# `relationships` every time it is rendered -- never a static claim. A static
+# "planned for the history tranche" is exactly what oregon-collective-
+# bargaining#100 found stale in all 70 documents once that tranche had run:
+# write_doc() always writes `supersedes: []`, so a hardcoded sentence about
+# where the predecessor WOULD land can only ever describe write time, not what
+# link_supersedes() and retire_blackline() later make true. Keying the sentence
+# off the fields themselves means there is nothing left to go stale: whoever
+# calls this after changing `supersedes` or `related` gets the sentence that
+# matches it.
+PREDECESSOR_NOTE_RE = re.compile(r"(?<=later tranche\.\n)(.*?)(?=\n\nExtraction:)", re.S)
+
+
+def supersedes_note(status: str, relationships: dict) -> str:
+    """The one sentence true of THIS document's predecessor, given its own
+    `status`, `relationships.supersedes` and `relationships.related`.
+
+    `supersedes` set -> linked and named; never claims a tranche, because
+    retire_blackline() also populates it outside the history tranche.
+
+    `supersedes` empty but `related` carries a same-unit predecessor (the
+    blackline/draft case -- a draft supersedes nothing, so link_supersedes()
+    puts the predecessor under `related` instead) -> say THAT, not "no
+    predecessor is ingested".
+
+    Both empty, `status: superseded` -> the permanent, correct state of the
+    deep archive beyond the immediate predecessor: out by recorded decision.
+
+    Both empty, any other status -> NOT the recorded decision (that only
+    covers documents that already got their immediate predecessor). This is
+    the pairing-gap case (see KNOWN GAPS in this module's docstring) and must
+    say so plainly rather than borrow the archive's "recorded decision"
+    wording for a document whose predecessor exists but was not paired."""
+    supersedes = relationships.get("supersedes") or []
+    related = relationships.get("related") or []
+    if supersedes:
+        ids = ", ".join(f"`{i}`" for i in supersedes)
+        sentence = (f"The predecessor agreement is linked in "
+                   f"`relationships.supersedes` ({ids}).")
+    elif related:
+        ids = ", ".join(f"`{i}`" for i in related)
+        sentence = (f"The predecessor term's agreement is ingested and linked in "
+                   f"`relationships.related` ({ids}) instead of "
+                   f"`relationships.supersedes`: a draft supersedes nothing.")
+    elif status == "superseded":
+        sentence = ("No predecessor term's agreement is ingested for this document: "
+                    "the history tranche ingests each bargaining unit's immediate "
+                    "predecessor only (see the docstring of `src/ingest_cbas.py`), "
+                    "and the deep archive beyond it stays un-ingested — a recorded "
+                    "decision, not an oversight.")
+    else:
+        sentence = ("No predecessor term's agreement is linked to this document yet. "
+                    "The immediate predecessor for this bargaining unit is posted in "
+                    "the DAS library but has not been paired or ingested — a pairing "
+                    "gap (see KNOWN GAPS in the docstring of `src/ingest_cbas.py`), "
+                    "not the recorded immediate-predecessor-only decision.")
+    return "\n".join(textwrap.wrap(sentence, width=88, break_long_words=False,
+                                   break_on_hyphens=False))
+
+
+def refresh_supersedes_note(path: Path) -> bool:
+    """Re-derive `path`'s Curator-notes predecessor sentence from its OWN current
+    `status`, `relationships.supersedes` and `relationships.related`, and rewrite
+    the file if that changes the sentence. Idempotent: a document already saying
+    the truth is left untouched. Called by link_supersedes() and
+    retire_blackline(), which both add `supersedes`/`related` AFTER write_doc()
+    already wrote the body — and by the one-time migration that fixed the 70
+    documents written before this function existed."""
+    text = path.read_text(encoding="utf-8")
+    _, fm_text, body = text.split("---\n", 2)
+    fm = yaml.safe_load(fm_text)
+    note = supersedes_note(fm["status"], fm["relationships"])
+    new_body, n = PREDECESSOR_NOTE_RE.subn(note, body, count=1)
+    if n != 1:
+        raise ValueError(f"{path}: predecessor-note anchor not found")
+    if new_body == body:
+        return False
+    path.write_text("---\n" + fm_text + "---\n" + new_body, encoding="utf-8")
+    return True
 
 
 DRAFT_BANNER = ("**DRAFT PRINT — NOT THE EXECUTED AGREEMENT.** This is DAS's "
@@ -273,6 +375,9 @@ def retire_blackline() -> list[str]:
         if want != set(ffm["relationships"]["supersedes"]):
             ffm["relationships"]["supersedes"] = sorted(want)
             save(fp, ffm, fbody)
+            # ffm was just saved with the new `supersedes`; refresh its sentence
+            # from the file we just wrote so it matches.
+            refresh_supersedes_note(fp)
             changed.append(ffm["id"])
     return changed
 
@@ -388,8 +493,7 @@ committed snapshot extraction already carries what would be diffed.
 
 Letters of agreement bound into this PDF by DAS are part of this source
 snapshot; separately-published LOAs are their own documents in a later tranche.
-The predecessor term's agreement is in the DAS library and is planned for the
-history tranche — `supersedes` is recorded then, not faked now.
+{supersedes_note(fm["status"], fm["relationships"])}
 
 Extraction: {fm['conversion_notes']}.
 

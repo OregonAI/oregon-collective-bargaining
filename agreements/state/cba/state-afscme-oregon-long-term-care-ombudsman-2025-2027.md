@@ -63,8 +63,10 @@ official PDF at the source link above remains the authoritative record.
 
 Letters of agreement bound into this PDF by DAS are part of this source
 snapshot; separately-published LOAs are their own documents in a later tranche.
-The predecessor term's agreement is in the DAS library and is planned for the
-history tranche — `supersedes` is recorded then, not faked now.
+No predecessor term's agreement is linked to this document yet. The immediate
+predecessor for this bargaining unit is posted in the DAS library but has not been
+paired or ingested — a pairing gap (see KNOWN GAPS in the docstring of
+`src/ingest_cbas.py`), not the recorded immediate-predecessor-only decision.
 
 Extraction: pdftotext -layout; 98 pages, 287602 characters extracted; NOT human-verified.
 
