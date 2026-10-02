@@ -36,7 +36,8 @@ relationships:
   - ORS 652.220
   - ORS 659A.270
   related: []
-  supersedes: []
+  supersedes:
+  - state-afscme-oregon-department-of-emergency-management-2023-2025
 tags:
 - collective-bargaining
 - state
@@ -64,10 +65,8 @@ official PDF at the source link above remains the authoritative record.
 
 Letters of agreement bound into this PDF by DAS are part of this source
 snapshot; separately-published LOAs are their own documents in a later tranche.
-No predecessor term's agreement is linked to this document yet. The immediate
-predecessor for this bargaining unit is posted in the DAS library but has not been
-paired or ingested — a pairing gap (see KNOWN GAPS in the docstring of
-`src/ingest_cbas.py`), not the recorded immediate-predecessor-only decision.
+The predecessor agreement is linked in `relationships.supersedes`
+(`state-afscme-oregon-department-of-emergency-management-2023-2025`).
 
 Extraction: pdftotext -layout; 109 pages, 313470 characters extracted; NOT human-verified.
 

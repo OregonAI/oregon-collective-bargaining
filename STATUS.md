@@ -6,10 +6,10 @@ Generated 2026-10-01. Non-authoritative; see DISCLAIMER.md.
 
 | doc_type | count |
 |---|---|
-| collective_bargaining_agreement | 163 |
+| collective_bargaining_agreement | 166 |
 | letter_of_agreement | 77 |
 
-**Total: 240**
+**Total: 243**
 
 ## Source manifest
 
@@ -17,7 +17,7 @@ Generated 2026-10-01. Non-authoritative; see DISCLAIMER.md.
 
 ## Freshness (reverify every 180 days)
 
-240 of 240 document(s) overdue for re-verification.
+243 of 243 document(s) overdue for re-verification.
 
 | id | doc_type | last_verified |
 |---|---|---|
@@ -71,5 +71,5 @@ Generated 2026-10-01. Non-authoritative; see DISCLAIMER.md.
 | deschutes-county-mou-9-1-1-regarding-section-16-g-1-dc-2022-576 | letter_of_agreement | never |
 | deschutes-county-mou-afscme-behavioral-health-clinical-supervision-incentive-program-dc-2023-1035 | letter_of_agreement | never |
 | deschutes-county-mou-afscme-bh-cadc-incentive-program-dc-2022-744 | letter_of_agreement | never |
-| … | *190 more* | |
+| … | *193 more* | |
 
