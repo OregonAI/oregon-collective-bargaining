@@ -26,6 +26,7 @@ non-empty value for it say so and use a clearly-synthetic one.
 """
 from __future__ import annotations
 
+import re
 import shutil
 import sys
 from pathlib import Path
@@ -46,6 +47,31 @@ REAL_BENTON_SOURCES = REPO_ROOT / "_meta" / "sources" / "benton.yml"
 def _real_committed_frontmatter() -> dict:
     fm, _ = ingest_counties.parse_frontmatter(REAL_BENTON_DOC)
     return fm
+
+
+# -- own_dates ----------------------------------------------------------------------
+
+def test_own_dates_matches_ratification_through_all_caps_cover_page():
+    """Code review finding 3 (oregon-collective-bargaining#63, Marion's MCDAA
+    2026-2029 successor): the cover page reads "EFFECTIVE FROM RATIFICATION
+    THROUGH JUNE 30, 2029" -- no stated effective date (ratification is an event,
+    not a date), but a real, citable expiry that neither DATESPAN (needs two full
+    dates) nor EXPIRE (needs "expires") used to match."""
+    text = (" MARION COUNTY, OREGON\n\n"
+           " EFFECTIVE FROM RATIFICATION THROUGH JUNE 30, 2029\n"
+           "                                         TABLE OF CONTENTS\n")
+
+    term, eff, exp = ingest_counties.own_dates(text, "2026-2029")
+
+    assert term == "2026-2029"
+    assert eff is None
+    assert exp == "2029-06-30"
+
+
+def test_own_dates_ratification_through_respects_a_conflicting_known_term():
+    text = " EFFECTIVE FROM RATIFICATION THROUGH JUNE 30, 2029\n"
+    term, eff, exp = ingest_counties.own_dates(text, "2026-2028")
+    assert exp is None, "a THROUGH year that disagrees with the known term is not used"
 
 
 # -- carry_forward_nonderivable ---------------------------------------------------
@@ -284,6 +310,24 @@ def test_classify_a_refetch_request_regardless_of_what_is_committed(tmp_path):
     txt.write_text("some extracted text " * 20, encoding="utf-8")
 
     assert "refetch" in ingest_counties.classify(out, txt, refetch=True)
+
+
+def test_classify_a_superseded_document_is_never_reingested_even_with_refetch(tmp_path):
+    """Code review finding 2 (oregon-collective-bargaining#63, Marion successors):
+    a committed `status: superseded` document's manifest row still names it (under
+    the PREDECESSOR's doc_id, same stable URL a successor now lives at under its
+    own doc_id), so `--refetch` must never re-fetch or rewrite it -- that would
+    silently reset `status` back to `current` via `write_doc`'s hardcoded default,
+    undoing the supersession."""
+    out = tmp_path / "doc.md"
+    txt = tmp_path / "doc.txt"
+    out.write_text("---\nstatus: superseded\n---\n\nbody\n", encoding="utf-8")
+    txt.write_text("some extracted text " * 20, encoding="utf-8")
+
+    result = ingest_counties.classify(out, txt, refetch=True)
+
+    assert "superseded" in result
+    assert "not re-ingested" in result
 
 
 def test_classify_an_ingested_source_with_no_committed_snapshot_as_needing_a_fetch(tmp_path):
@@ -671,3 +715,38 @@ def test_main_declines_to_resync_a_manifest_change_with_no_cached_raw_snapshot(
     assert after == before, (
         "with no cached raw snapshot, the document must not be rewritten at all -- "
         "neither with the stale url nor with a fabricated resync")
+
+
+# -- this review's finding 2: a superseded document is never re-ingested -----------
+
+def test_main_never_reingests_a_superseded_document_even_with_refetch(tmp_path, monkeypatch):
+    """Code review finding 2 (oregon-collective-bargaining#63, Marion successors):
+    the manifest row for a predecessor still names it, at the SAME stable URL a
+    successor now lives at under its own doc_id -- `--refetch` on the full group
+    used to go straight to the network for it regardless, overwriting the
+    superseded document with whatever the stable URL serves today and resetting
+    `status` back to `current` (`write_doc` hardcodes it). `FETCHER` here is
+    `_NoNetwork`, which raises on any call, so a regression fails loudly instead
+    of silently resyncing."""
+    agreements, snapshots, sources_dir, employers = _seed_benton_scratch(tmp_path)
+    _patch_paths(monkeypatch, agreements, snapshots, sources_dir, employers)
+    # All three committed Benton documents flip to `status: superseded`, so a
+    # `--refetch` run has nothing left to legitimately send to the network --
+    # `_NoNetwork` (patched in by `_patch_paths`) raises on any call that still
+    # tries, which is this test's actual regression signal.
+    docs = list((agreements / "benton-county" / "cba").glob("*.md"))
+    for doc in docs:
+        text = doc.read_text(encoding="utf-8")
+        assert re.search(r"^status: current$", text, re.M), "fixture must start as current"
+        doc.write_text(re.sub(r"^status: current$", "status: superseded", text,
+                              count=1, flags=re.M), encoding="utf-8")
+    before = {doc: doc.read_bytes() for doc in docs}
+    monkeypatch.setattr(sys, "argv",
+                        ["ingest_counties.py", "--only", "benton", "--refetch"])
+
+    rc = ingest_counties.main()
+
+    assert rc == 0
+    assert {doc: doc.read_bytes() for doc in docs} == before, (
+        "a superseded document must never be re-fetched or rewritten, even with "
+        "--refetch")

@@ -59,6 +59,31 @@ Repo-curation dates only — official effective dates live in frontmatter.
   reads as an absence claim, the could-not-verify/not-located wording matches what
   is actually true, and a built employer cannot be left marked anything but
   `verified`.
+
+- 2026-10-01 — Marion County successor agreements (#63, amended brief): both
+  `marion-mcdaa-cba` and `marion-mcjea-cba` stable URLs now serve a *successor*
+  agreement, not an edited copy of what was committed. Re-verified against the
+  live PDFs before acting (own text, not the manifest's stale `sha256`): MCDAA's
+  footer and "EFFECTIVE FROM RATIFICATION THROUGH JUNE 30, 2029" read 2026-2029;
+  MCJEA's cover states "July 1, 2026 - June 30, 2028". Ingested each as a new,
+  term-suffixed document — `marion-county-mcdaa-cba-2026-2029` and
+  `marion-county-mcjea-cba-2026-2028` — recording `supersedes` on the predecessor
+  id, via a new one-off script (`src/ingest_marion_successors.py`) rather than a
+  re-run of `src/ingest_counties.py` (whose doc_id is derived mechanically from
+  the source manifest id and would have overwritten the predecessor in place —
+  exactly what AGENTS.md rule 3 forbids). The predecessors,
+  `marion-county-mcdaa-cba` (2023-2026) and `marion-county-mcjea-cba`
+  (2024-2026), **stay committed**, flipped to `status: superseded` with a
+  one-line curator note naming the successor; their text, hash and `retrieved`
+  are untouched. `_meta/sources/marion.yml`'s `sha256` baselines are left for the
+  reviewer to accept via `corpus-detect-changes --record-baseline` — this PR
+  never runs it. **How the stable URL maps to documents:** each Marion URL now
+  always serves the CURRENT agreement at the county's own index — the superseded
+  document's `source_url` is the same URL, frozen at its own `retrieved` date;
+  an agent resolving the live URL today gets the successor's text, and the
+  predecessor is reachable only by its own id or `supersedes` edge, the same
+  shape as every other successor pair in this corpus (e.g. the state tier's
+  2023-2025 -> 2025-2027 chain).
 - 2026-09-29 — **SEIU Master Agreement 2025-2027**, the executed agreement DAS has now
   posted, ingested verbatim (220 pages; 480 article anchors) as `current`. It `supersedes`
   the 2023-2025 master and the 2025-2027 blackline. The blackline flips from `draft` to
@@ -73,6 +98,25 @@ Repo-curation dates only — official effective dates live in frontmatter.
   `survey_status: verified` with the real `source_url`; `src/discover_counties.py`
   already carried the correct crawl record for this county, only the registry row
   was stale.
+
+- 2026-10-01 — Code review on the Marion successor agreements (#63): the two new
+  documents and their predecessors claimed a county-index listing that no archived
+  fetch backs — neither successor's term appears on any archived Marion index, and
+  this ingest fetched no fresh one. The At-a-glance "Listed on the county's labor
+  agreements index as" bullet and the curator note's "status sits on the county's
+  own operative index" sentence are reworded, for all four documents, to say what
+  actually happened: the successor was identified from the PDF's own text at the
+  stable URL, and the last archived index (`_meta/discovery/2026-08-25/`) still
+  names the predecessor. The predecessors' curator note also no longer reads
+  `status: current` once flipped to `superseded`. `marion-county-mcdaa-cba-2026-2029`
+  was missing `expiry_date`: its own text reads "EFFECTIVE FROM RATIFICATION THROUGH
+  JUNE 30, 2029", a phrasing `own_dates()` did not match (only "expires on `<date>`"
+  and two-date spans); `own_dates()` now matches "RATIFICATION THROUGH `<date>`" too,
+  and `expiry_date: '2029-06-30'` is set. `src/ingest_counties.py --refetch` would
+  have silently re-fetched either predecessor's stable URL — now serving the
+  successor's text — under the PREDECESSOR's doc_id, overwriting the superseded
+  document and resetting it to `status: current`; a committed `status: superseded`
+  document is now never re-ingested, with or without `--refetch`.
 - 2026-09-29 — `src/ingest_cbas.py` could not ingest any agreement after the 2026-08-03
   verbatim flip: it still wrote `content_mode: summary`, which the schema refuses for
   this doc_type, so nothing has been ingested since. It now writes the promoted form
