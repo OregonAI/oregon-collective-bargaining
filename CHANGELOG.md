@@ -29,6 +29,29 @@ Repo-curation dates only — official effective dates live in frontmatter.
   predecessors without re-touching the other 34 already-ingested ones.
 
 ### Fixed
+- 2026-10-01 — Code review of the #104 pairing-gap fix found `src/
+  enumerate_cbas.py`'s `reconcile()` still matching roster rows on `row['match']`
+  alone, disagreeing with `src/ingest_cbas.py`'s `matches_row()` (`match` OR
+  `predecessor_match`) for the same 3 renamed units — contradicting
+  `roster_row()`'s own docstring claim that ingest and enumeration "cannot
+  disagree about which unit a file is", and leaving `reconcile()`'s
+  POSTING-LAG "latest posted" term list unable to find a predecessor term for
+  a renamed unit if one of them ever lagged. `reconcile()` now imports and
+  calls `matches_row()` directly instead of re-implementing the match/exclude
+  check; `_meta/sources/state.yml`'s reconciliation output is unchanged for
+  the current roster. `src/ingest_cbas.py`'s KNOWN GAPS docstring section —
+  which had been rewritten to "RESOLVED", describing only the #104 case — is
+  now a standing explanation of what a pairing gap is and how to fix one
+  (add `predecessor_match`, rerun `--history --only <id>`), with #104 cited
+  as its first instance, so the sentence `supersedes_note()` points readers
+  to stays useful for the next renamed unit. Added a `history_picks()` test
+  that exercises the actual #104 behavior (a predecessor found only via
+  `predecessor_match`), and a corpus-level test asserting that every
+  `status: current`/`draft` state CBA with an ingested same-unit superseded
+  sibling links it in `supersedes` or `related` — pinning the issue's "done
+  when" as a data invariant instead of leaving it checkable only by rerunning
+  ingest.
+
 - 2026-10-01 — Curator notes in all 70 state CBAs carried a static sentence
   ("...is planned for the history tranche — `supersedes` is recorded then, not
   faked now.") that went false the moment the history tranche actually ran

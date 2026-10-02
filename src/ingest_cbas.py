@@ -38,18 +38,29 @@ Explicitly excluded, each with the reason printed:
     predecessor only; anything older stays un-ingested by recorded decision, not
     because `supersedes` has not been filled in yet.
 
-KNOWN GAPS: RESOLVED for the 3 renamed-unit pairing gap (oregon-collective-
-bargaining#104). Three roster rows were renamed to the 2025-2027 title wording
-(AFSCME OEM Dept. of Emergency Management, AFSCME OLTCO Long Term Care
-Ombudsman, IAFF PANG Local 1660) and their `match` strings in
-_meta/state-roster-2025-2027.yml matched only the current-term filename, not the
-2023-2025 predecessor's older title in _meta/sources/state.yml, so
-history_picks() and link_supersedes() never picked up or paired that
-predecessor. Fixed via the explicit id-override option: each of the 3 rows now
-also carries a `predecessor_match` (the predecessor's older title substring),
-and `matches_row()` pairs a title against `match` OR `predecessor_match`
-instead of widening `match` itself (which still governs only the current
-document). The 3 predecessors are ingested under `--history --only <ids>`, and
+KNOWN GAPS: THE PAIRING GAP, standing explanation (not tied to any one
+roster edit). A roster row names one unit with `match` -- the CURRENT term's
+title substring. When DAS renames a unit between terms (new wording in the
+2025-2027 filename), `match` is updated to the new wording and then no longer
+matches the OLDER predecessor's filename in _meta/sources/state.yml. Unnoticed,
+that silently drops the predecessor from history_picks() and link_supersedes():
+the predecessor is never ingested or paired, and the current document's
+`supersedes` stays empty forever even though a predecessor exists and was
+simply renamed past.
+
+THE REMEDY: add `predecessor_match` to that roster row -- the predecessor's
+OLDER title substring -- and rerun `python3 src/ingest_cbas.py --history --only
+<id>` for the newly-pairable predecessor's id. `matches_row()` then pairs a
+title against `match` OR `predecessor_match` (still subject to `exclude`),
+with no change to how `match` governs the current document, and
+`src/enumerate_cbas.py`'s reconciliation uses the same `matches_row()` so
+ingest and enumeration cannot disagree about which unit a file is.
+
+FIRST INSTANCE (oregon-collective-bargaining#104): three roster rows were
+renamed to the 2025-2027 title wording (AFSCME OEM Dept. of Emergency
+Management, AFSCME OLTCO Long Term Care Ombudsman, IAFF PANG Local 1660) and
+hit exactly this gap. Each of the 3 rows now carries a `predecessor_match`, the
+3 predecessors were ingested under `--history --only <ids>`, and
 `state-afscme-oregon-emergency-management-2025-2027`,
 `state-afscme-oregon-long-term-care-ombudsman-2025-2027` and
 `state-iaff-portland-air-national-guard-firefighters-2025-2027` all carry
@@ -290,9 +301,10 @@ def supersedes_note(status: str, relationships: dict) -> str:
 
     Both empty, any other status -> NOT the recorded decision (that only
     covers documents that already got their immediate predecessor). This is
-    the pairing-gap case (see KNOWN GAPS in this module's docstring) and must
-    say so plainly rather than borrow the archive's "recorded decision"
-    wording for a document whose predecessor exists but was not paired."""
+    the pairing-gap case (see KNOWN GAPS: THE PAIRING GAP in this module's
+    docstring) and must say so plainly rather than borrow the archive's
+    "recorded decision" wording for a document whose predecessor exists but
+    was not paired."""
     supersedes = relationships.get("supersedes") or []
     related = relationships.get("related") or []
     if supersedes:
@@ -314,8 +326,9 @@ def supersedes_note(status: str, relationships: dict) -> str:
         sentence = ("No predecessor term's agreement is linked to this document yet. "
                     "The immediate predecessor for this bargaining unit is posted in "
                     "the DAS library but has not been paired or ingested — a pairing "
-                    "gap (see KNOWN GAPS in the docstring of `src/ingest_cbas.py`), "
-                    "not the recorded immediate-predecessor-only decision.")
+                    "gap (see KNOWN GAPS: THE PAIRING GAP in the docstring of "
+                    "`src/ingest_cbas.py` for what it is and the `predecessor_match` "
+                    "remedy), not the recorded immediate-predecessor-only decision.")
     return "\n".join(textwrap.wrap(sentence, width=88, break_long_words=False,
                                    break_on_hyphens=False))
 
