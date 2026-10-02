@@ -1,8 +1,8 @@
 {
  "corpus": "oregon-collective-bargaining",
- "n_nodes": 240,
- "n_edges": 1051,
- "n_edges_external": 988,
+ "n_nodes": 243,
+ "n_edges": 1069,
+ "n_edges_external": 1003,
  "nodes": [
   {
    "id": "benton-county-american-federation-of-state-county-and-municipal-employees-council-75-afl-cio-local-2064-lab",
@@ -899,6 +899,18 @@
    "path": "agreements/state/cba/state-afscme-non-state-childcare-providers-together-2021-2025.md"
   },
   {
+   "id": "state-afscme-office-of-the-long-term-care-ombudsman-2023-2025",
+   "title": "AFSCME Office of the Long Term Care Ombudsman 2023-2025",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/state/cba/state-afscme-office-of-the-long-term-care-ombudsman-2023-2025.md"
+  },
+  {
+   "id": "state-afscme-oregon-department-of-emergency-management-2023-2025",
+   "title": "AFSCME Oregon Department of Emergency Management 2023-2025",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/state/cba/state-afscme-oregon-department-of-emergency-management-2023-2025.md"
+  },
+  {
    "id": "state-afscme-oregon-emergency-management-2025-2027",
    "title": "AFSCME Oregon Emergency Management 2025-2027",
    "doc_type": "collective_bargaining_agreement",
@@ -1065,6 +1077,12 @@
    "title": "IAFF Kingsley Firefighters Association 2025-2027",
    "doc_type": "collective_bargaining_agreement",
    "path": "agreements/state/cba/state-iaff-kingsley-firefighters-association-2025-2027.md"
+  },
+  {
+   "id": "state-iaff-portland-air-national-guard-2023-2025",
+   "title": "IAFF Portland Air National Guard 2023-2025",
+   "doc_type": "collective_bargaining_agreement",
+   "path": "agreements/state/cba/state-iaff-portland-air-national-guard-2023-2025.md"
   },
   {
    "id": "state-iaff-portland-air-national-guard-firefighters-2025-2027",
@@ -4387,6 +4405,61 @@
    "to": "ORS 657A.430"
   },
   {
+   "from": "state-afscme-office-of-the-long-term-care-ombudsman-2023-2025",
+   "type": "references_external",
+   "to": "ORS 243.650"
+  },
+  {
+   "from": "state-afscme-office-of-the-long-term-care-ombudsman-2023-2025",
+   "type": "references_external",
+   "to": "ORS 243.712"
+  },
+  {
+   "from": "state-afscme-office-of-the-long-term-care-ombudsman-2023-2025",
+   "type": "references_external",
+   "to": "ORS 279.011"
+  },
+  {
+   "from": "state-afscme-office-of-the-long-term-care-ombudsman-2023-2025",
+   "type": "references_external",
+   "to": "ORS 652.220"
+  },
+  {
+   "from": "state-afscme-office-of-the-long-term-care-ombudsman-2023-2025",
+   "type": "references_external",
+   "to": "ORS 659A.275"
+  },
+  {
+   "from": "state-afscme-oregon-department-of-emergency-management-2023-2025",
+   "type": "references_external",
+   "to": "ORS 243.650"
+  },
+  {
+   "from": "state-afscme-oregon-department-of-emergency-management-2023-2025",
+   "type": "references_external",
+   "to": "ORS 243.672"
+  },
+  {
+   "from": "state-afscme-oregon-department-of-emergency-management-2023-2025",
+   "type": "references_external",
+   "to": "ORS 243.712"
+  },
+  {
+   "from": "state-afscme-oregon-department-of-emergency-management-2023-2025",
+   "type": "references_external",
+   "to": "ORS 279.011"
+  },
+  {
+   "from": "state-afscme-oregon-department-of-emergency-management-2023-2025",
+   "type": "references_external",
+   "to": "ORS 652.220"
+  },
+  {
+   "from": "state-afscme-oregon-department-of-emergency-management-2023-2025",
+   "type": "references_external",
+   "to": "ORS 659A.270"
+  },
+  {
    "from": "state-afscme-oregon-emergency-management-2025-2027",
    "type": "references_external",
    "to": "ORS 243.650"
@@ -4415,6 +4488,11 @@
    "from": "state-afscme-oregon-emergency-management-2025-2027",
    "type": "references_external",
    "to": "ORS 659A.270"
+  },
+  {
+   "from": "state-afscme-oregon-emergency-management-2025-2027",
+   "type": "supersedes",
+   "to": "state-afscme-oregon-department-of-emergency-management-2023-2025"
   },
   {
    "from": "state-afscme-oregon-health-authority-physicians-2023-2025",
@@ -4545,6 +4623,11 @@
    "from": "state-afscme-oregon-long-term-care-ombudsman-2025-2027",
    "type": "references_external",
    "to": "ORS 659A.275"
+  },
+  {
+   "from": "state-afscme-oregon-long-term-care-ombudsman-2025-2027",
+   "type": "supersedes",
+   "to": "state-afscme-office-of-the-long-term-care-ombudsman-2023-2025"
   },
   {
    "from": "state-afscme-oregon-military-department-2023-2025",
@@ -5532,6 +5615,26 @@
    "to": "state-iaff-kingsley-firefighters-association-2023-2025"
   },
   {
+   "from": "state-iaff-portland-air-national-guard-2023-2025",
+   "type": "references_external",
+   "to": "ORS 238A.340"
+  },
+  {
+   "from": "state-iaff-portland-air-national-guard-2023-2025",
+   "type": "references_external",
+   "to": "ORS 243.698"
+  },
+  {
+   "from": "state-iaff-portland-air-national-guard-2023-2025",
+   "type": "references_external",
+   "to": "ORS 652.220"
+  },
+  {
+   "from": "state-iaff-portland-air-national-guard-2023-2025",
+   "type": "references_external",
+   "to": "ORS 656.802"
+  },
+  {
    "from": "state-iaff-portland-air-national-guard-firefighters-2025-2027",
    "type": "references_external",
    "to": "ORS 238A.340"
@@ -5550,6 +5653,11 @@
    "from": "state-iaff-portland-air-national-guard-firefighters-2025-2027",
    "type": "references_external",
    "to": "ORS 656.802"
+  },
+  {
+   "from": "state-iaff-portland-air-national-guard-firefighters-2025-2027",
+   "type": "supersedes",
+   "to": "state-iaff-portland-air-national-guard-2023-2025"
   },
   {
    "from": "state-ona-oregon-nurses-association-2023-2025",

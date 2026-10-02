@@ -13,6 +13,14 @@
 # Registered Nurses" — the Oregon State Hospital nurses bargain under OHA).
 # `exclude` disambiguates prefix collisions (DOC Security vs DOC Security Plus).
 #
+# `predecessor_match` (oregon-collective-bargaining#104): the explicit id-override
+# option from src/ingest_cbas.py's KNOWN GAPS note, for a unit whose row was renamed
+# to the 2025-2027 title wording so `match` no longer matches its own 2023-2025
+# predecessor's older filename title. Set ONLY on the 3 renamed units; absent
+# everywhere else. matches_row() pairs a title against `match` OR
+# `predecessor_match`, so history_picks()/link_supersedes() can find the
+# predecessor without widening `match` itself (which governs the current document).
+#
 # The chart counts 12 unions / 36 state units / 35 contracts: SEIU's two rows
 # (strike-permitted and strike-prohibited units) share ONE master agreement, so the
 # roster below carries them as one contract entry covering both rows.
@@ -33,11 +41,11 @@ state_contracts:
 - {unit: AFSCME ODOC Security,                            repr: AAOS,     ratified: 2026-02-25, match: "AFSCME DOC Security", exclude: "Plus"}
 - {unit: AFSCME ODOC Security Plus,                       repr: "AAON, AP", ratified: 2026-02-11, match: "AFSCME DOC Security Plus"}
 - {unit: AFSCME OAJA DOJ Attorneys,                       repr: AJ,       ratified: 2025-08-11, match: "AFSCME DOJ Oregon Department of Justice Attorneys"}
-- {unit: AFSCME OEM Dept. of Emergency Management,        repr: AV,       ratified: 2025-08-11, match: "AFSCME Oregon Emergency Management"}
+- {unit: AFSCME OEM Dept. of Emergency Management,        repr: AV,       ratified: 2025-08-11, match: "AFSCME Oregon Emergency Management", predecessor_match: "AFSCME Oregon Department of Emergency Management"}
 - {unit: AFSCME OHAP OHA Physicians,                      repr: AMP,      ratified: 2025-08-29, match: "AFSCME Oregon Health Authority Physicians"}
 - {unit: AFSCME OHA RN OHA Nurses,                        repr: AMH,      ratified: 2025-08-11, match: "AFSCME OSH Registered Nurses"}
 - {unit: AFSCME OLCC Liquor and Cannabis Commission,      repr: AL,       ratified: 2025-08-16, match: "AFSCME Oregon Liquor"}
-- {unit: AFSCME OLTCO Long Term Care Ombudsman,           repr: AI,       ratified: 2025-08-25, match: "AFSCME Oregon Long Term Care Ombudsman"}
+- {unit: AFSCME OLTCO Long Term Care Ombudsman,           repr: AI,       ratified: 2025-08-25, match: "AFSCME Oregon Long Term Care Ombudsman", predecessor_match: "AFSCME Office of the Long Term Care Ombudsman"}
 - {unit: AFSCME OMD Oregon Military Department,           repr: AU,       ratified: 2025-08-11, match: "AFSCME Oregon Military Department"}
 - {unit: AFSCME OPDC Administrative Services,             repr: WDR,      ratified: 2025-08-22, match: "AFSCME Oregon Public Defense Commission Administrative Services"}
 - {unit: AFSCME OPDC Attorneys,                           repr: WDR,      ratified: 2025-08-22, match: "AFSCME Oregon Public Defense Commission Attorneys"}
@@ -50,7 +58,7 @@ state_contracts:
 - {unit: CIA Criminal Investigators Association,          repr: IJ,       ratified: 2026-01-05, match: "CIA Criminal Investigators Association"}
 - {unit: FOPPO Fed. of Oregon Parole and Probation (DOC), repr: F,        ratified: 2025-12-17, match: "FOPPO Federation of Parole and Probation Officers"}
 - {unit: IAFF KFFA Klamath Falls Airport Fire Fighters,   repr: "IK, IKA", ratified: 2025-08-18, match: "IAFF Kingsley Firefighters Association"}
-- {unit: IAFF PANG Local 1660,                            repr: IP,       ratified: 2025-10-06, match: "IAFF Portland Air National Guard Firefighters"}
+- {unit: IAFF PANG Local 1660,                            repr: IP,       ratified: 2025-10-06, match: "IAFF Portland Air National Guard Firefighters", predecessor_match: "IAFF Portland Air National Guard"}
 - {unit: ONA Oregon Nurses Association,                   repr: "NMG, NMP", ratified: 2025-09-23, match: "Oregon Nurses Association"}
 - {unit: OPSA Oregon Public Safety Association,           repr: AS,       ratified: 2026-01-13, match: "OPSA Oregon Public Safety Association"}
 - {unit: SEIU master (strike-permitted + strike-prohibited rows), repr: "OAH OAI OAO OAS OBO OBS XAO XAOQ / OXNH OXNI OXNO OXSO", ratified: 2025-10-03, match: "SEIU Master Agreement", note: "one master agreement covers both chart rows; a '2025-2027 Blackline' file is posted but is a redline, not the executed final"}

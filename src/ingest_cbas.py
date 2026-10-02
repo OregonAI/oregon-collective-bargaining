@@ -38,20 +38,33 @@ Explicitly excluded, each with the reason printed:
     predecessor only; anything older stays un-ingested by recorded decision, not
     because `supersedes` has not been filled in yet.
 
-KNOWN GAPS (needs follow-up, not yet fixed here): three roster rows were renamed
-to the 2025-2027 title wording (AFSCME OEM Dept. of Emergency Management, AFSCME
-OLTCO Long Term Care Ombudsman, IAFF PANG Local 1660) and their `match` strings in
-_meta/state-roster-2025-2027.yml now match only the current-term filename, not the
-2023-2025 predecessor's older title in _meta/sources/state.yml. history_picks()
-and link_supersedes() both key off that same `match`, so for these 3 units the
-immediate predecessor was never picked up by the history tranche and never paired
-— `state-afscme-oregon-emergency-management-2025-2027`,
+KNOWN GAPS: THE PAIRING GAP, standing explanation (not tied to any one
+roster edit). A roster row names one unit with `match` -- the CURRENT term's
+title substring. When DAS renames a unit between terms (new wording in the
+2025-2027 filename), `match` is updated to the new wording and then no longer
+matches the OLDER predecessor's filename in _meta/sources/state.yml. Unnoticed,
+that silently drops the predecessor from history_picks() and link_supersedes():
+the predecessor is never ingested or paired, and the current document's
+`supersedes` stays empty forever even though a predecessor exists and was
+simply renamed past.
+
+THE REMEDY: add `predecessor_match` to that roster row -- the predecessor's
+OLDER title substring -- and rerun `python3 src/ingest_cbas.py --history --only
+<id>` for the newly-pairable predecessor's id. `matches_row()` then pairs a
+title against `match` OR `predecessor_match` (still subject to `exclude`),
+with no change to how `match` governs the current document, and
+`src/enumerate_cbas.py`'s reconciliation uses the same `matches_row()` so
+ingest and enumeration cannot disagree about which unit a file is.
+
+FIRST INSTANCE (oregon-collective-bargaining#104): three roster rows were
+renamed to the 2025-2027 title wording (AFSCME OEM Dept. of Emergency
+Management, AFSCME OLTCO Long Term Care Ombudsman, IAFF PANG Local 1660) and
+hit exactly this gap. Each of the 3 rows now carries a `predecessor_match`, the
+3 predecessors were ingested under `--history --only <ids>`, and
+`state-afscme-oregon-emergency-management-2025-2027`,
 `state-afscme-oregon-long-term-care-ombudsman-2025-2027` and
-`state-iaff-portland-air-national-guard-firefighters-2025-2027` carry an empty
-`supersedes` that is a pairing gap, not the recorded immediate-predecessor-only
-decision. Fixing it means either widening those 3 `match` strings to also catch
-the older title, or ingesting the 3 predecessors under an explicit id override;
-either is a follow-up change, not done by this commit.
+`state-iaff-portland-air-national-guard-firefighters-2025-2027` all carry
+`supersedes` now.
 
 SUMMARY-FIRST, BY CONFIGURATION. schema.doc_types declares verbatim: false for both
 types (the copyright gate in corpus.yml): a CBA is jointly authored with private
@@ -140,8 +153,7 @@ def roster_row(filename_title: str, roster: dict) -> dict | None:
     so ingest and enumeration cannot disagree about which unit a file is."""
     for section in ("state_contracts", "non_state_contracts"):
         for row in roster[section]:
-            if row["match"] in filename_title and not (
-                    row.get("exclude") and row["exclude"] in filename_title):
+            if matches_row(row, filename_title):
                 return {**row, "non_state": section == "non_state_contracts"}
     # The blackline's filename carries no "Master Agreement" — but it IS a print of
     # the SEIU master's ratified terms, so it inherits that chart row.
@@ -188,11 +200,25 @@ def stated_term_dates(text: str, term: str) -> tuple[str | None, str | None]:
 
 
 def matches_row(row: dict, title: str) -> bool:
-    return row["match"] in title and not (row.get("exclude") and row["exclude"] in title)
+    """A title names this roster row's unit when it carries `match` (the
+    current-term title) OR, if the row has one, `predecessor_match` -- the
+    explicit id-override option from this module's KNOWN GAPS note, for a
+    unit whose roster row was renamed to the current term's title wording
+    and no longer matches its own 2023-2025 predecessor's older title. Either
+    string is still subject to the row's `exclude`."""
+    if row.get("exclude") and row["exclude"] in title:
+        return False
+    predecessor_match = row.get("predecessor_match")
+    return row["match"] in title or bool(predecessor_match and predecessor_match in title)
 
 
-def history_picks(group: dict, roster: dict, floor: str) -> list[dict]:
-    """Per roster row: the latest posted CBA whose term began before the floor."""
+def history_picks(group: dict, roster: dict, floor: str,
+                  only: set[str] | None = None) -> list[dict]:
+    """Per roster row: the latest posted CBA whose term began before the floor.
+
+    `only`, if given, restricts the result to just those ids -- a scoped rerun
+    (e.g. `--history --only <id>,<id>`) that does not touch every other
+    already-ingested predecessor's file."""
     picked, seen = [], set()
     for section in ("state_contracts", "non_state_contracts"):
         for row in roster[section]:
@@ -201,7 +227,7 @@ def history_picks(group: dict, roster: dict, floor: str) -> list[dict]:
                      and r["term"][:4] < floor and matches_row(row, r["title"])]
             if preds:
                 best = max(preds, key=lambda r: r["term"])
-                if best["id"] not in seen:
+                if best["id"] not in seen and (only is None or best["id"] in only):
                     seen.add(best["id"])
                     picked.append(best)
     return picked
@@ -275,9 +301,10 @@ def supersedes_note(status: str, relationships: dict) -> str:
 
     Both empty, any other status -> NOT the recorded decision (that only
     covers documents that already got their immediate predecessor). This is
-    the pairing-gap case (see KNOWN GAPS in this module's docstring) and must
-    say so plainly rather than borrow the archive's "recorded decision"
-    wording for a document whose predecessor exists but was not paired."""
+    the pairing-gap case (see KNOWN GAPS: THE PAIRING GAP in this module's
+    docstring) and must say so plainly rather than borrow the archive's
+    "recorded decision" wording for a document whose predecessor exists but
+    was not paired."""
     supersedes = relationships.get("supersedes") or []
     related = relationships.get("related") or []
     if supersedes:
@@ -299,8 +326,9 @@ def supersedes_note(status: str, relationships: dict) -> str:
         sentence = ("No predecessor term's agreement is linked to this document yet. "
                     "The immediate predecessor for this bargaining unit is posted in "
                     "the DAS library but has not been paired or ingested — a pairing "
-                    "gap (see KNOWN GAPS in the docstring of `src/ingest_cbas.py`), "
-                    "not the recorded immediate-predecessor-only decision.")
+                    "gap (see KNOWN GAPS: THE PAIRING GAP in the docstring of "
+                    "`src/ingest_cbas.py` for what it is and the `predecessor_match` "
+                    "remedy), not the recorded immediate-predecessor-only decision.")
     return "\n".join(textwrap.wrap(sentence, width=88, break_long_words=False,
                                    break_on_hyphens=False))
 
@@ -524,7 +552,11 @@ def main() -> int:
     ap = argparse.ArgumentParser(description=__doc__,
                                  formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--limit", type=int)
-    ap.add_argument("--only")
+    ap.add_argument("--only",
+                    help="a single id (tranche 1), or a comma-separated list of ids "
+                         "(with --history) to scope a rerun to -- e.g. picking up a "
+                         "newly-pairable predecessor without re-touching every other "
+                         "already-ingested one")
     ap.add_argument("--history", action="store_true",
                     help="ingest each roster row's immediate predecessor as superseded "
                          "and link supersedes chains")
@@ -539,7 +571,8 @@ def main() -> int:
 
     picked, skipped = [], []
     if args.history:
-        picked = history_picks(group, roster, floor)
+        only = {i.strip() for i in args.only.split(",")} if args.only else None
+        picked = history_picks(group, roster, floor, only=only)
     else:
         for rec in group["sources"]:
             if args.only:
