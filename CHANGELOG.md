@@ -29,6 +29,14 @@ Repo-curation dates only — official effective dates live in frontmatter.
   predecessors without re-touching the other 34 already-ingested ones.
 
 ### Fixed
+- 2026-10-06 — `src/enumerate_cbas.py` runs without corpus-toolkit again
+  (issue #107). PR #106 made `reconcile()` import `ingest_cbas` for
+  `matches_row()`, and `ingest_cbas` imports `corpus_toolkit` at module level, so
+  the scheduled state-enumeration job (which installs only pyyaml) would crash on
+  `--check`. `matches_row()` now lives in the stdlib-only `src/cba_matching.py`,
+  imported by both scripts, so there is still exactly one implementation.
+  `tests/test_enumerate_no_toolkit.py` fails if `enumerate_cbas` (transitively)
+  imports `corpus_toolkit`.
 - 2026-10-01 — Code review of the #104 pairing-gap fix found `src/
   enumerate_cbas.py`'s `reconcile()` still matching roster rows on `row['match']`
   alone, disagreeing with `src/ingest_cbas.py`'s `matches_row()` (`match` OR
