@@ -6,6 +6,15 @@ Repo-curation dates only — official effective dates live in frontmatter.
 
 ## [Unreleased]
 
+### Source-Updated
+- 2026-10-06 — `_meta/sources/state.yml` lists three newly posted **Oregon Public Defense
+  Commission** 2025-2027 agreements (AFSCME: Administrative Services Division, Attorneys,
+  Legal Support Unit), all ratified 2025-08-22 and carried as POSTING-LAG until now; the
+  reconciliation drops from 6 posting lags to 3 (OLCC, STEA, SEIU Child Care Providers).
+  Output of `src/enumerate_cbas.py`; no other source changed. Not yet ingested. Regenerated
+  here so the weekly `state-enumeration` job, unblocked by the import fix below, reports the
+  library as current rather than going red on a stale manifest.
+
 ### Added
 - 2026-10-01 — Ingested the 2023-2025 predecessor for the 3 state-tier units
   whose roster row was renamed to the 2025-2027 title wording
