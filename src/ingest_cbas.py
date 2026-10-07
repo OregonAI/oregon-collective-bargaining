@@ -53,7 +53,8 @@ OLDER title substring -- and rerun `python3 src/ingest_cbas.py --history --only
 <id>` for the newly-pairable predecessor's id. `matches_row()` then pairs a
 title against `match` OR `predecessor_match` (still subject to `exclude`),
 with no change to how `match` governs the current document, and
-`src/enumerate_cbas.py`'s reconciliation uses the same `matches_row()` so
+`src/enumerate_cbas.py`'s reconciliation uses the same `matches_row()` (both import
+it from the dependency-free `src/cba_matching.py`) so
 ingest and enumeration cannot disagree about which unit a file is.
 
 FIRST INSTANCE (oregon-collective-bargaining#104): three roster rows were
@@ -112,6 +113,7 @@ from corpus_toolkit.documents import write_document     # noqa: E402
 from corpus_toolkit.repo import hash_snapshot           # noqa: E402
 from corpus_toolkit.sources.fetch import Fetcher, sniff  # noqa: E402
 import promote_full_text                                  # noqa: E402
+from cba_matching import matches_row                      # noqa: E402,F401  (shared with enumerate_cbas)
 
 STATE_GROUP = REPO_ROOT / "_meta" / "sources" / "state.yml"
 ROSTER_FILE = REPO_ROOT / "_meta" / "state-roster-2025-2027.yml"
@@ -197,19 +199,6 @@ def stated_term_dates(text: str, term: str) -> tuple[str | None, str | None]:
                 exp = p
                 break
     return eff, exp
-
-
-def matches_row(row: dict, title: str) -> bool:
-    """A title names this roster row's unit when it carries `match` (the
-    current-term title) OR, if the row has one, `predecessor_match` -- the
-    explicit id-override option from this module's KNOWN GAPS note, for a
-    unit whose roster row was renamed to the current term's title wording
-    and no longer matches its own 2023-2025 predecessor's older title. Either
-    string is still subject to the row's `exclude`."""
-    if row.get("exclude") and row["exclude"] in title:
-        return False
-    predecessor_match = row.get("predecessor_match")
-    return row["match"] in title or bool(predecessor_match and predecessor_match in title)
 
 
 def history_picks(group: dict, roster: dict, floor: str,
