@@ -61,7 +61,7 @@ from pathlib import Path
 import yaml
 
 from _manifest_baseline import Quoted as _Quoted, carry_recorded_sha256, quoted_representer as _quoted
-import ingest_cbas
+from cba_matching import matches_row
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 GROUP_FILE = REPO_ROOT / "_meta" / "sources" / "state.yml"
@@ -177,11 +177,11 @@ def reconcile(files: list[dict], roster: dict) -> tuple[list[str], list[str]]:
     report, fatal = [], []
     for section in ("state_contracts", "non_state_contracts"):
         for row in roster[section]:
-            # matches_row() is ingest_cbas's own pairing logic (match OR
-            # predecessor_match, still subject to exclude) -- the same mapping
+            # matches_row() (cba_matching.py) is the pairing logic shared with
+            # ingest_cbas (match OR predecessor_match, still subject to exclude) -- the same mapping
             # ingest uses, so reconciliation cannot disagree with ingest about
             # which unit a file is (oregon-collective-bargaining#104 review).
-            hits = [n for n in names if ingest_cbas.matches_row(row, n)]
+            hits = [n for n in names if matches_row(row, n)]
             terms = sorted({m.group(0).replace("–", "-").replace(" ", "")
                             for n in hits if (m := TERM.search(n))})
             if row.get("ratified") is None:
