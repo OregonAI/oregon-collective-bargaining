@@ -3,6 +3,18 @@
   "sources": [
     {
       "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "lane",
+      "id": "lane-afscme-physicians-cba-modifications"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-11-01",
+      "group": "state",
+      "id": "state-ospoa-oregon-state-police-officers-association-2007-2009"
+    },
+    {
+      "consecutive_failures": 2,
       "first_failed_at": "2026-10-01",
       "group": "washington",
       "id": "washington-foppo-agreement-2022-2026"

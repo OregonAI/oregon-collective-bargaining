@@ -1,6 +1,6 @@
 # STATUS — Oregon Collective Bargaining — State and County Labor Agreements
 
-Generated 2026-10-06. Non-authoritative; see DISCLAIMER.md.
+Generated 2026-11-01. Non-authoritative; see DISCLAIMER.md.
 
 ## Documents by type
 

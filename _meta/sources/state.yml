@@ -2401,7 +2401,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Oregon%20Public%20Defense%20Commission%20Administrative%20Services%20Division%202025-2027.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "9730ed5cf39f524ec0a711b691e9f0deae654d02c31789de6ada6ad869f8c998"
   title: AFSCME Oregon Public Defense Commission Administrative Services Division 2025-2027
   union: AFSCME
   term: 2025-2027
@@ -2419,7 +2419,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Oregon%20Public%20Defense%20Commission%20Attorneys%202025-2027.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "f1bea802e4a36b6db799cdd4713f572c9e205b453de6896c7ae21f020eea26f0"
   title: AFSCME Oregon Public Defense Commission Attorneys 2025-2027
   union: AFSCME
   term: 2025-2027
@@ -2437,7 +2437,7 @@ sources:
   url: https://www.oregon.gov/das/HR/CBA/AFSCME%20Oregon%20Public%20Defense%20Commission%20Legal%20Support%20Unit%202025-2027.pdf
   family: cba
   format: pdf
-  sha256: ''
+  sha256: "05638925d95e889bcade92e272311373a49b40fe7b413ba2971f88c84c2a6455"
   title: AFSCME Oregon Public Defense Commission Legal Support Unit 2025-2027
   union: AFSCME
   term: 2025-2027
